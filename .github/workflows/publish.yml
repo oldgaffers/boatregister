@@ -1,0 +1,21 @@
+name: get boat workflow
+on:
+  workflow_dispatch:
+    inputs:
+      oga_no:
+        description: 'Boat OGA No'
+        required: true
+jobs:
+  boat_job:
+    runs-on: ubuntu-latest
+    name: A job to get a boat
+    steps:
+    - name: get boat action step
+      id: boat
+      uses: ogauk/boat@v1.32
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        oga-no: ${{ github.event.inputs.oga_no }}
+    - name: Get the output data
+      run: echo "the sha is ${{ steps.boat.outputs.sha }}"
