@@ -16,6 +16,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
+        repo: ${{ github.repository }}
         oga-no: ${{ github.event.inputs.oga_no }}
     - name: Get the output data
       run: echo "the sha is ${{ steps.boat.outputs.sha }}"
