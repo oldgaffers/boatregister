@@ -5,6 +5,9 @@ on:
       oga_no:
         description: 'Boat OGA No'
         required: true
+      op:
+        description: 'INSERT, DELETE or UPDATE'
+        required: true
 jobs:
   boat_job:
     runs-on: ubuntu-latest
