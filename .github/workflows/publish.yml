@@ -18,5 +18,6 @@ jobs:
       with:
         repo: ${{ github.repository }}
         oga-no: ${{ github.event.inputs.oga_no }}
+        op: ${{ github.event.inputs.op }}
     - name: Get the output data
       run: echo "the sha is ${{ steps.boat.outputs.sha }}"
