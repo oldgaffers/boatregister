@@ -15,7 +15,7 @@ jobs:
     steps:
     - name: get boat action step
       id: boat
-      uses: ogauk/boat@v1.35
+      uses: ogauk/boat@v1.36
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
