@@ -1,0 +1,6 @@
+#!/bin/sh
+for i in `cat todo-ownerships`
+do
+  echo $i
+  ./getboat.sh $i > page-data/boat/$i/page-data.json
+done
