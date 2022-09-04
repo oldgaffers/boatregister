@@ -12,6 +12,15 @@ def ownerSortOrder(o):
       pass
   return 1800
 
+def simplify(field, new_field, boat):
+  long_field = f"{field}By{field[0].capitalize()}{field[1:]}"
+  if long_field in boat:
+    if field in boat:
+      boat[field] = { 'name': boat[long_field]['name'], 'id': boat[field] }
+    elif new_field in boat:
+      boat[new_field] = { 'name': boat[long_field]['name'], 'id': boat[new_field] }
+    del boat[long_field]
+
 def map_boat(item):
   boat = {k: v for k, v in item.items() if v is not None}
   if 'ownerships' in boat:
@@ -58,12 +67,9 @@ def map_boat(item):
   if 'constructionMethodByConstructionMethod' in boat:
     boat['construction_method'] = boat['constructionMethodByConstructionMethod']['name']
     del boat['constructionMethodByConstructionMethod']
-  if 'designer' in boat:
-    boat['designer'] = { 'name': boat['designerByDesigner']['name'], 'id': boat['designer'] }
-    del boat['designerByDesigner']
-  if 'builder' in boat:
-    boat['builder'] = { 'name': boat['builderByBuilder']['name'], 'id': boat['builder'] }
-    del boat['builderByBuilder']
+  simplify('designer', 'designer', boat)
+  simplify('builder', 'builder', boat)
+  simplify('designClass', 'design_class', boat)
   return boat
 
 mypath='page-data/boat'
