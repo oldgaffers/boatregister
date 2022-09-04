@@ -34,6 +34,7 @@ def boatnames():
         print(e)
         print('OGA', b)
   names.remove(None)
+  names.remove('')
   return sorted(names, key=lambda n: n.upper())
 
 data = picklists()
