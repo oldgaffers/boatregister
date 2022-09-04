@@ -25,6 +25,10 @@ jobs:
           python3 make_boat_yaml_from_json.py
           grep place_built boat/315/boat.yml
           echo ok
+      - name: create picklist json
+        run: |
+          python3 make_picklists.py
+          echo ok
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.0
         with:
