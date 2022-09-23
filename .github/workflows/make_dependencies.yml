@@ -21,13 +21,15 @@ jobs:
       - uses: actions/checkout@v3
       - name: create yaml boat files
         run: |
-          grep place_built boat/315/boat.yml
           python3 make_boat_yaml_from_json.py
-          grep place_built boat/315/boat.yml
           echo ok
       - name: create picklist json
         run: |
           python3 make_picklists.py
+          echo ok
+      - name: create filter list json
+        run: |
+          python3 make_filterable.py
           echo ok
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.0
