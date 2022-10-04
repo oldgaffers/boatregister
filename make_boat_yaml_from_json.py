@@ -6,14 +6,15 @@ from os.path import isfile, join
 from pathlib import Path
 
 topLevelFields = [
+  'name',
+  'oga_no',
   'rig_type',
   'short_description',
   'full_description',
   'builder',
-  'callsign',
+  'designer',
   'construction_material',
   'construction_method',
-  'designer',
   'draft',
   'engine_installations',
   'for_sales',
@@ -25,8 +26,7 @@ topLevelFields = [
   'id',
   'length_on_deck',
   'mainsail_type',
-  'name',
-  'oga_no',
+  'callsign',
   'ownerships',
   'place_built',
   'updated_at',
