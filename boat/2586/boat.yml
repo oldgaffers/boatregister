@@ -1,17 +1,10 @@
-beam: 0
-builder:
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
-  name: David Hillyard
+builder: d649c6a5-3acc-4f60-868f-7415641908a4
 callsign: ''
 construction_material: wood
 construction_method: unknown
-designer:
-  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
-  name: David Hillyard
+designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 0
 engine_installations: []
-for_sale_state:
-  text: not_for_sale
 for_sales: []
 full_description: ''
 generic_type: Yacht
@@ -19,21 +12,23 @@ home_country: 'null'
 home_port: 'Exmouth '
 hull_form: unknown
 id: cca6f0b4-2770-4842-9335-21a94102a1f7
-image_key: kqdnzv
 length_on_deck: 0
 mainsail_type: gaff
 name: Maid of Shannon
 oga_no: 2586
 ownerships:
-- id: 1
-  share: 64
 - name: Ken Pausey
   share: 64
   start: 2012
+- current: true
+  id: 35014
+  member: 6595
+  share: 64
+  start: 2022
 place_built: Littlehampton
 rig_type: Ketch
 short_description: ''
-updated_at: '2022-09-09T20:24:15.717368+00:00'
+updated_at: '2022-10-03T19:46:59.937369+00:00'
 website: ''
 year: 1968
 year_is_approximate: false

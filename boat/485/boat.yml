@@ -1,21 +1,37 @@
-beam: 2.0056
-builder:
-  id: 846a15b6-0225-4ba3-ba72-969fe4c531cd
-  name: Ferris and Blank
+builder: 846a15b6-0225-4ba3-ba72-969fe4c531cd
 callsign: ''
-construction_details: Carvel Mahogony on canadian rock elm oak deadwoods, elm keel,
-  iroko transom, Columbian pine deck and cabin beams, ply decks.
 construction_material: wood
 construction_method: carvel
-designer:
-  id: 638a14e8-1db1-459b-8a6d-3cd927221589
-  name: R. Primrose
+designer: 638a14e8-1db1-459b-8a6d-3cd927221589
 draft: 0.9144
 engine_installations: []
-for_sale_state:
-  text: not_for_sale
 for_sales:
 - asking_price: 4500
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: <p>"Prawle" is an approx. third scale (20ft+ sprit) replica of a Breton
+    fishing boat, professionally built at the former Ferris and Blank boatyard in
+    Dartmouth in 1965/66, She is still resident in Dartmouth and well known and appreciated
+    by locals. &nbsp;Very pretty, she also attracts an instant fan club wherever she
+    ties up.</p><p>She has a lovely, good-natured character on the water, ideal for
+    cruising along the coast. Once her sails are set the user-friendly sheet-cleats
+    in the cockpit make life easy, and her traditional hull design can handle a bit
+    of sea better than many modern boats. Two berths in the cabin. Unusual deep cockpit
+    with sliding cover and original Rippingilles parafin cooker. New (2012) switch
+    panel with depth sounder, meter for both batteries and 12v socket. Good inventory,
+    including a Manson Supreme anchor and 30yds+ of chain, long additional anchor
+    warp, fisherman"s + other spare achors, mudweight/angel, mooring warps, tools,
+    a cupboard of spares, lifebuoy, emergency boarding ladder, etc. Legs for drying
+    berths.</p><p>Her hull is long keel, carvel, mahogany on oak, all copper fixed.</p><p>"Prawle"
+    is ready to sail, with a newly reconditioned Volvo MD1b installed in 2015 and
+    up to date maintenance. She needs someone to appreciate her and take care of her
+    now that we are looking for a bluewater cruiser before we get too old.</p>
+  sold: '2021-07-13'
+  summary: ''
+  updated_at: '2020-05-03T10:13:13.152552+00:00'
 full_description: "<p>Based on Breton Lines, Primrose designed &#39;Prawle&#39; to\
   \ J P Harvest&#39;s specification from photos taken of a new 1956 fishing boat at\
   \ Camaret. He had her built and rigged on 1930s lines, complete with Egyptian cotton\
@@ -85,7 +101,6 @@ home_country: GBR
 home_port: Dartmouth
 hull_form: long keel sloping forefoot
 id: d88235b9-2d3a-4d08-8a23-87ce0b54d4b2
-image_key: 4vLsBG
 length_on_deck: 5.8674
 mainsail_type: gaff
 name: Prawle
@@ -103,21 +118,26 @@ ownerships:
   name: John Chittenden
   share: 64
   start: 2004
-- name: Julian Smith and Elena Brebner
+- end: 2021
+  id: 775
+  member: 5792
   share: 64
   start: 2009
+- current: true
+  id: 34890
+  member: 6498
+  share: 32
+  start: 2021
 - current: true
   id: 34891
   member: 6498
   share: 32
-  start: '?'
+  start: 2021
 place_built: Dartmouth
 rig_type: Cutter
 short_description: <p>&#39;Prawle&#39; was built as a yacht in 1965 on Breton fishing
   boat lines.</p>
-spar_material: wood
-uk_part1: '308290'
-updated_at: '2021-12-19T13:38:43.621183+00:00'
+updated_at: '2022-10-02T20:27:07.875941+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
