@@ -1,8 +1,39 @@
+from typing import OrderedDict
 import yaml
 import json
 from os import listdir
 from os.path import isfile, join
 from pathlib import Path
+
+topLevelFields = [
+  'rig_type',
+  'short_description',
+  'full_description',
+  'builder',
+  'callsign',
+  'construction_material',
+  'construction_method',
+  'designer',
+  'draft',
+  'engine_installations',
+  'for_sales',
+  'generic_type',
+  'handicap_data',
+  'home_country',
+  'home_port',
+  'hull_form',
+  'id',
+  'length_on_deck',
+  'mainsail_type',
+  'name',
+  'oga_no',
+  'ownerships',
+  'place_built',
+  'updated_at',
+  'website',
+  'year',
+  'year_is_approximate',
+]
 
 def ownerSortOrder(o):
   if 'start' in o:
@@ -79,7 +110,10 @@ for b in boats:
   with open(f"{mypath}/{b}/page-data.json", "r") as stream:
     try: 
       data = json.load(stream)
-      boat = data['result']['pageContext']['boat']
+      data = data['result']['pageContext']['boat']
+      boat = OrderedDict()
+      for field in topLevelFields:
+        boat[field] = data[field]
     except Exception as e:
       print(e)
       print('OGA', b)
