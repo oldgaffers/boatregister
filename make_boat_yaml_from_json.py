@@ -8,7 +8,9 @@ from pathlib import Path
 topLevelFields = [
   'name',
   'oga_no',
+  'generic_type',
   'rig_type',
+  'mainsail_type',
   'short_description',
   'full_description',
   'builder',
@@ -18,14 +20,17 @@ topLevelFields = [
   'draft',
   'engine_installations',
   'for_sales',
-  'generic_type',
   'handicap_data',
   'home_country',
   'home_port',
   'hull_form',
   'id',
   'length_on_deck',
-  'mainsail_type',
+  'reference',
+  'sail_number',
+  'spar_material',
+  'ssr',
+  'uk_part1',
   'callsign',
   'ownerships',
   'place_built',
@@ -103,25 +108,32 @@ def map_boat(item):
   simplify('designClass', 'design_class', boat)
   return boat
 
-mypath='page-data/boat'
-boats = listdir(mypath)
-data = {}
-for b in boats:
+def get_boat(b):
   with open(f"{mypath}/{b}/page-data.json", "r") as stream:
     try: 
       data = json.load(stream)
       data = data['result']['pageContext']['boat']
       boat = OrderedDict()
       for field in topLevelFields:
-        boat[field] = data[field]
+        if field in data and data[field] is not None:
+          boat[field] = data[field]
+        del data[field]
+      return boat | data # any fields not in topLevelFields
     except Exception as e:
-      print(e)
       print('OGA', b)
-    if boat is None:
-      print(b)
-    else:
-      outdir = f"boat/{b}"
-      Path(outdir).mkdir(parents=True, exist_ok=True)
-      with open(f'{outdir}/boat.yml', 'w') as outfile:
-        yaml.dump(map_boat(boat), outfile, default_flow_style=False)
+      print(e)
+    return None
+
+mypath='page-data/boat'
+boats = listdir(mypath)
+data = {}
+for b in boats:
+  boat = get_boat(b)
+  if boat is None:
+    print(b)
+  else:
+    outdir = f"boat/{b}"
+    Path(outdir).mkdir(parents=True, exist_ok=True)
+    with open(f'{outdir}/boat.yml', 'w') as outfile:
+      yaml.dump(map_boat(boat), outfile, default_flow_style=False, sort_keys=False)
 
