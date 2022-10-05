@@ -1,11 +1,11 @@
-builder: ef72fbc2-c153-4229-aa98-3b6d1af50ab8
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: d620b2b5-76e8-4d57-87b8-7beadfc28743
-draft: 0.253
-engine_installations: []
-for_sales: []
+name: Squib
+oga_no: 1916
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: <p>Thought to be the only surviving Westcliff One Design, &#39;Squib&#39;
+  has had many owners on the English east coast and was sold to a French family in
+  September 2008, based in Britanny.</p>
 full_description: "<p>Built in 1923, &#39;Squib&#39; is a Westcliff One Design, thought\
   \ to be the only one surviving. She was designed by Norman Dallimore and built by\
   \ Cole &amp; Wiggins. Her first owner was Squire Taylor. She competed in Southend\
@@ -26,27 +26,36 @@ full_description: "<p>Built in 1923, &#39;Squib&#39; is a Westcliff One Design, 
   \ W Sails of Leigh. In 1998 - 1999 she was based at Fleetwood Marina and used for\
   \ day sailing off the port and in the River Wyre.</p>\r\n\r\n<p>In 2008, she was\
   \ moved to Britanny.</p>"
-generic_type: Dinghy
+builder:
+  name: Cole and Wiggins
+  id: ef72fbc2-c153-4229-aa98-3b6d1af50ab8
+designer:
+  name: Norman Dallimore
+  id: d620b2b5-76e8-4d57-87b8-7beadfc28743
+construction_material: wood
+construction_method: clinker
+draft: 0.253
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.8288222384784198
-  draft: 0.24384296513045597
-  fore_triangle_base: 2.0574250182882223
-  fore_triangle_height: 5.273104120946111
-  length_on_waterline: 5.105462082418922
-  length_over_all: 5.4864667154352595
   main:
     foot: 3.5052426237503047
     head: 5.334064862228725
     luff: 2.286027798098025
   thcf: 0.844973721
+  draft: 0.24384296513045597
+  length_over_all: 5.4864667154352595
+  fore_triangle_base: 2.0574250182882223
+  length_on_waterline: 5.105462082418922
+  fore_triangle_height: 5.273104120946111
 home_country: FRA
 home_port: la Rance, Dinan
 hull_form: unknown
 id: 67de3361-7742-4e2d-bc67-a21c8abb324e
 length_on_deck: 5.4864
-mainsail_type: lug
-name: Squib
-oga_no: 1916
+sail_number: WOD 5
+callsign: ''
 ownerships:
 - note: 'Between 1930 and 1931 she was owned by Harold Warwick Smith and then Messrs.
     Tucker and Cranfield at Burnham on Crouch. In 1939, she''s recorded for the first
@@ -54,23 +63,26 @@ ownerships:
     Jesmond, passing to E.B ''Nic'' Nicholson at RNYC who owned her from 1940 - 1956.
     RNYC owners in the early 1960s are listed as: 1960 Captain Arthur Johnson, 1962
     Hurst Hailes, 1964 Rodney Mitchell and used by him and his brother Quentin.'
+  text: Between
   start: 1930
   start_is_approximate: false
-  text: Between
 - end: 2008
   name: James Bell
   share: 64
   start: 2000
 - note: Sold to Queyrens family, based in Britanny, France, 2008.
+  text: Sold to Queyrens family, based in Britanny, France,
   start: 2008
   start_is_approximate: false
-  text: Sold to Queyrens family, based in Britanny, France,
 place_built: Leigh on Sea
-rig_type: Sloop
-short_description: <p>Thought to be the only surviving Westcliff One Design, &#39;Squib&#39;
-  has had many owners on the English east coast and was sold to a French family in
-  September 2008, based in Britanny.</p>
 updated_at: '2021-12-19T13:39:23.985415+00:00'
 website: ''
 year: 1923
 year_is_approximate: false
+construction_details: Clinker - Mahogany on Oak. Spruce mast & spars.
+beam: 1.8288
+design_class:
+  name: Westcliff OD
+  id: 5449ad08-2a6a-4933-878b-a21b7cfe24e9
+for_sale_state:
+  text: not_for_sale

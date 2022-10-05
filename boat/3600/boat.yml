@@ -1,39 +1,54 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: KB5FSG
+name: "Mon N\xE8g"
+oga_no: 3600
+generic_type: Dayboat
+rig_type: single_sail
+mainsail_type: standing_lug
+short_description: <p>Drascombe Scaffie "Mon Neg"</p>
+full_description: <p>Instagram.com/sv_monneg</p>
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: grp
 construction_method: cold_moulded
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 0.5334064862228725
 engine_installations: []
 for_sales: []
-full_description: <p>Instagram.com/sv_monneg</p>
-generic_type: Dayboat
 handicap_data:
   beam: 1.7526213118751524
-  length_on_deck: 4.4501341136308215
-  length_on_waterline: 3.733845403560107
+  thcf: 0.744
+  sailarea: 9.290529944314494
   propellor:
     type: fixed
-  sailarea: 9.290529944314494
-  thcf: 0.744
+  length_on_deck: 4.4501341136308215
+  length_on_waterline: 3.733845403560107
 home_country: United States of America
 home_port: Lake Arthur, Louisiana
 hull_form: cut away stern
 id: fc483983-3c62-4469-b359-7fa6d0a40b19
 length_on_deck: 4.495854669592782
-mainsail_type: standing_lug
-name: "Mon N\xE8g"
-oga_no: 3600
+spar_material: wood
+uk_part1: LA-8497-GM
+callsign: KB5FSG
 ownerships:
-- current: true
-  id: 34913
-  member: 6514
+- id: 34913
   share: 64
+  member: 6514
+  current: true
   start: '?'
 place_built: Totnes
-rig_type: single_sail
-short_description: <p>Drascombe Scaffie "Mon Neg"</p>
 updated_at: '2022-07-12T12:45:43.703057+00:00'
 website: https://www.instagram.com/sv_monneg/
 year: 1981
 year_is_approximate: false
+image_key: 2f3GhR
+construction_details: Rebuilt 2021 to meet current safety standards
+beam: 1.7526213118751524
+air_draft: 18
+design_class:
+  name: Drascombe Scaffie
+  id: a3aaee2b-c5dc-48d2-94ed-81b856b80fd1
+for_sale_state:
+  text: not_for_sale

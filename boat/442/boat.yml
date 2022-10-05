@@ -1,37 +1,48 @@
-builder: e5fbb6a7-3d4c-4822-b5a6-3e1f1ff28278
-callsign: ''
+name: Maud
+oga_no: 442
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Poss built Larvic, poss fishing boat or pilot boat, yet to be re
+  rigged
+builder:
+  name: Colin Archer
+  id: e5fbb6a7-3d4c-4822-b5a6-3e1f1ff28278
+designer:
+  name: Colin Archer
+  id: 7e919cb2-8404-432d-a57a-3b17cfd38e60
 construction_material: wood
 construction_method: carvel
-designer: 7e919cb2-8404-432d-a57a-3b17cfd38e60
 draft: 2.0574
 engine_installations: []
 for_sales: []
-full_description: Poss built Larvic, poss fishing boat or pilot boat, yet to be re
-  rigged
-generic_type: Yacht
 handicap_data:
   beam: 3.9624481833699097
   draft: 2.0574250182882223
-  length_on_waterline: 10.972933430870519
-  length_over_all: 11.887344550109729
   propellor:
     type: fixed
+  length_over_all: 11.887344550109729
+  length_on_waterline: 10.972933430870519
 home_country: 'null'
 home_port: Plymouth
 hull_form: long keel deep forefoot
 id: 4d13d45f-8d2b-4707-965e-aa5208ae6880
 length_on_deck: 11.8872
-mainsail_type: gaff
-name: Maud
-oga_no: 442
+callsign: ''
 ownerships:
 - name: Mickey Gibb
   share: 64
   start: 2012
 place_built: Risor, Norway
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:42.423141+00:00'
 website: ''
 year: 1905
 year_is_approximate: false
+previous_names:
+- Nordfjord-Maud
+image_key: fZ9WMj
+construction_details: Carvel Oak and Iroko on Oak Frames
+beam: 3.9624
+for_sale_state:
+  text: not_for_sale

@@ -1,19 +1,24 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-construction_material: grp
-construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
-engine_installations: []
-for_sales: []
+name: Esme
+oga_no: 3466
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Esme is a Mark 1 Crabber, of unknown build date.
 full_description: <i>Esme</i> is a mark 1 Cornish Crabber, with a GRP hull and wooden
   spars. Having been laid up in a garden for over 15 years <i>Esme</i>'s current owners
   bought her in 2018 as a project. By 2020 she had a brand new 14hp Beta engine, with
   renovations still ongoing on her other systems.
-generic_type: Yacht
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+construction_material: grp
+construction_method: unknown
+engine_installations: []
+for_sales: []
 handicap_data:
-  fore_triangle_base: 4.1148
-  fore_triangle_height: 5.6388
-  length_on_waterline: 6.1722
-  length_overall: 7.3152
   main:
     foot: 13.67
     head: 9.25
@@ -21,22 +26,26 @@ handicap_data:
   topsail:
     luff: 14.25
     perpendicular: 7.5
+  length_overall: 7.3152
+  fore_triangle_base: 4.1148
+  length_on_waterline: 6.1722
+  fore_triangle_height: 5.6388
 home_country: United Kingdom
 home_port: Marconi Sailing Club
 hull_form: long keel deep forefoot
 id: 62d5ecce-1604-4437-b440-67c17a8e9109
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Esme
-oga_no: 3466
 ownerships:
-- current: true
-  id: 34697
-  member: 6354
+- id: 34697
   share: 32
+  member: 6354
+  current: true
   start: '?'
 place_built: Rock
-rig_type: Cutter
-short_description: Esme is a Mark 1 Crabber, of unknown build date.
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year_is_approximate: false
+image_key: tncDDX
+beam: 2.4384
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91

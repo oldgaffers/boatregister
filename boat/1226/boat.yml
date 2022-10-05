@@ -1,12 +1,10 @@
-builder: 3be6eb88-762e-446c-a21f-1cd26ed246a2
-callsign: ''
-construction_material: ferro
-construction_method: unknown
-designer: 90b15620-e866-4701-8023-bdc4f3a2f079
-draft: 1.6246
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Stonechat
+oga_no: 1226
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: Stonechat was built by the late Austin Edge for short-handed cruising
+  in the North Sea. She is loosely based on a Colin Archer design.
 full_description: '&lsquo;Stonechat&rsquo; was built at Fambridge 1976-78. Her builder/original
   owner intended her to be capable of single-handed sailing. She joined the East Coast
   gaffers, cruising and racing on the River Crouch and surrounding area during the
@@ -42,47 +40,58 @@ full_description: '&lsquo;Stonechat&rsquo; was built at Fambridge 1976-78. Her b
   October 1993 she was moved from Maldon, Essex to Mercury Marina, Hamble on voluntary
   loan to the Hamble Sea Scouts enabling them to gain experience and the joy of sailing
   a gaffer.'
-generic_type: Yacht
+builder:
+  name: Austin Edge
+  id: 3be6eb88-762e-446c-a21f-1cd26ed246a2
+designer:
+  name: Paul Johnson
+  id: 90b15620-e866-4701-8023-bdc4f3a2f079
+construction_material: ferro
+construction_method: unknown
+draft: 1.6246
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 2.590831504511095
-  draft: 1.6185076810534014
-  fore_triangle_base: 4.5293830772982195
-  fore_triangle_height: 9.400146305779078
-  length_on_waterline: 8.080346257010484
-  length_over_all: 9.601316752011703
   main:
     foot: 3.5997317727383566
     head: 3.2095830285296265
     luff: 4.590343818580834
+  thcf: 0.946040857
+  draft: 1.6185076810534014
   mizzen:
     foot: 1.7190929041697145
     head: 1.9995123140697388
     luff: 2.8986832479882954
   propellor:
-    blades: 3
     type: fixed
-  thcf: 0.946040857
+    blades: 3
+  length_over_all: 9.601316752011703
+  fore_triangle_base: 4.5293830772982195
+  length_on_waterline: 8.080346257010484
+  fore_triangle_height: 9.400146305779078
 home_country: GBR
 home_port: Hamble
 hull_form: long keel deep forefoot
 id: e4a70cd4-7fc8-41a1-8913-e05b9217af9c
 length_on_deck: 9.6012
-mainsail_type: gaff
-name: Stonechat
-oga_no: 1226
+callsign: ''
 ownerships:
 - name: Jill Gomez
   share: 64
   start: 2009
-- current: true
+- share: 64
   member: 6248
-  share: 64
+  current: true
   start: '?'
 place_built: Fambridge
-rig_type: Ketch
-short_description: Stonechat was built by the late Austin Edge for short-handed cruising
-  in the North Sea. She is loosely based on a Colin Archer design.
 updated_at: '2021-12-19T13:39:05.321649+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+image_key: nqrDqC
+construction_details: Ferrocement
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

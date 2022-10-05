@@ -1,12 +1,18 @@
-builder: c31b7aaa-679a-4bd2-82ba-33d64b86d831
-callsign: ''
+name: Synix
+oga_no: 2162
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: J/96
+builder:
+  name: Thornycroft
+  id: c31b7aaa-679a-4bd2-82ba-33d64b86d831
 construction_material: wood
 construction_method: unknown
 draft: 1.143
 engine_installations: []
 for_sales: []
-full_description: J/96
-generic_type: Yacht
 handicap_data:
   draft: 1.1430138990490124
   length_over_all: 9.677517678614972
@@ -15,12 +21,11 @@ home_port: ''
 hull_form: unknown
 id: cdce3075-1699-4e0b-a00c-4f009b8261ed
 length_on_deck: 9.6774
-mainsail_type: gaff
-name: Synix
-oga_no: 2162
-rig_type: Cutter
-short_description: ''
+callsign: ''
 updated_at: '2021-01-31T17:02:46.368024+00:00'
 website: ''
 year: 1931
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

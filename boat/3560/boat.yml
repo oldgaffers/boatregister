@@ -1,31 +1,38 @@
-construction_material: woodepoxy
-construction_method: clinker_ply
-engine_installations: []
-for_sales:
-- asking_price: 3950
+name: Gimlet
+oga_no: 3560
+generic_type: Dinghy
+rig_type: None
+mainsail_type: none
+short_description: <p>A clinker ply rowing dinghy designed by Iain Oughtred.&nbsp;
+  Two rowing positions and a passenger seat.</p>
 full_description: '<p>Built by Andy Skentelbery as a tender for his schooner. Her
   current owner purchased her &nbsp;in 2016, and added custom length oars and a custom
   trailer/ trolly combination. Rows beautifully.</p>
 
   <p>She has a galvanised custom trailer/trolly.</p>'
-generic_type: Dinghy
+construction_material: woodepoxy
+construction_method: clinker_ply
+engine_installations: []
+for_sales:
+- asking_price: 3950
 handicap_data: {}
 home_country: United Kingdom
 home_port: Totnes
 hull_form: dinghy
 id: 3ed998cc-4a78-42b2-9793-5de1511aa88a
-mainsail_type: none
-name: Gimlet
-oga_no: 3560
+spar_material: other
 ownerships:
-- current: true
-  id: 819
-  member: 5883
+- id: 819
   share: 64
+  member: 5883
+  current: true
   start: '?'
-rig_type: None
-short_description: <p>A clinker ply rowing dinghy designed by Iain Oughtred.&nbsp;
-  Two rowing positions and a passenger seat.</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 2016
 year_is_approximate: true
+image_key: 7xFDM4
+design_class:
+  name: Acorn rowing skiff
+  id: 81393984-7416-4d68-a4bb-ad447baac6d2
+for_sale_state:
+  text: for_sale

@@ -1,42 +1,48 @@
-callsign: ''
+name: E.L.G.
+oga_no: 3255
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gunter
+short_description: <p>E.L.G. is a Maldon Smacks Boat. She was made from a mould taken
+  from Tiny Mite&#39;s tender. Tiny Mite OGA no 2733</p>
+full_description: ''
+designer:
+  name: Frank W. Shuttlewood
+  id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
 construction_material: grp
 construction_method: unknown
-designer: e7b7b001-2a40-409b-8d10-8c5c9995d9db
 draft: 0.1768
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
-  draft_keel_down: 0.762
-  fore_triangle_base: 1.1948
-  fore_triangle_height: 2.7432
-  length_on_waterline: 3.5296
-  length_overall: 3.6576
   main:
     foot: 6.83
     head: 8.83
     luff: 4.17
   moving_keel: true
+  length_overall: 3.6576
+  draft_keel_down: 0.762
   moving_keel_type: Centreboard
+  fore_triangle_base: 1.1948
+  length_on_waterline: 3.5296
+  fore_triangle_height: 2.7432
 home_country: GBR
 home_port: Paglesham
 hull_form: long keel deep forefoot
 id: 4e199cff-353a-48e2-8d3e-6a81c6fa2c63
 length_on_deck: 3.6576
-mainsail_type: gunter
-name: E.L.G.
-oga_no: 3255
+callsign: ''
 ownerships:
-- current: true
-  id: 108
-  member: 1918
+- id: 108
   share: 64
   start: 2005
-rig_type: Sloop
-short_description: <p>E.L.G. is a Maldon Smacks Boat. She was made from a mould taken
-  from Tiny Mite&#39;s tender. Tiny Mite OGA no 2733</p>
+  member: 1918
+  current: true
 updated_at: '2021-12-19T13:40:05.400867+00:00'
 website: ''
 year: 2005
 year_is_approximate: false
+image_key: 85pPHW
+beam: 0
+for_sale_state:
+  text: not_for_sale

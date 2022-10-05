@@ -1,40 +1,52 @@
-builder: c1257c1f-039c-4828-a962-7bdf68ce82f1
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 9b6ba6f7-c514-4688-a206-6bbf7506632b
-draft: 0.6096
-engine_installations: []
-for_sales: []
+name: Katie
+oga_no: 2993
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: 1st registered as Gerda 1952 de-registered 2002. 1st owner R.G.E.
   Waid. Surveyed May 1990 at LLANOCUM Pems. Abandoned at Rudders Boatyard in 1999.
   Purchased as a restoration project May 2010. At home in mid Wales - no sails or
   rig.
-generic_type: Yacht
+builder:
+  name: Dixons of Exmouth
+  id: c1257c1f-039c-4828-a962-7bdf68ce82f1
+designer:
+  name: Peter Dixon
+  id: 9b6ba6f7-c514-4688-a206-6bbf7506632b
+construction_material: wood
+construction_method: carvel
+draft: 0.6096
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
   draft: 0.60960741282614
-  length_on_waterline: 5.919287978541819
-  length_over_all: 6.272860277980979
   propellor:
-    blades: 3
     type: fixed
+    blades: 3
+  length_over_all: 6.272860277980979
+  length_on_waterline: 5.919287978541819
 home_country: 'null'
 home_port: Milford Haven
 hull_form: long keel deep forefoot
 id: d68a8775-436f-4772-af93-9b15b8529d30
 length_on_deck: 6.2728
-mainsail_type: gaff
-name: Katie
-oga_no: 2993
+ssr: '145329'
+uk_part1: '167785'
+callsign: ''
 ownerships:
 - name: Ian Jones
   share: 64
   start: 2012
 place_built: Exmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:55.574368+00:00'
 website: ''
 year: 1952
 year_is_approximate: false
+previous_names:
+- Gerda
+construction_details: Carvel Timber
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

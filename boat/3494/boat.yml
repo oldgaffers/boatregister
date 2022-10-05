@@ -1,39 +1,52 @@
-builder: 0f386410-e8a6-40af-ba85-11b7eab5be1b
-construction_material: grp
-construction_method: cold_moulded
-designer: 7877c433-3d9f-4f1d-9d79-5f66462d5f61
-engine_installations: []
-for_sales: []
+name: Pinke Bill
+oga_no: 3494
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: Pinke Bill is a standard GRP West Wight Scow.
 full_description: A Standard GRP West Wight Scow built by Coombes of Bembridge on
   the Isle of Wight in 2002
-generic_type: Dinghy
+builder:
+  name: Coombes Boatyard
+  id: 0f386410-e8a6-40af-ba85-11b7eab5be1b
+designer:
+  name: Theo Osborne Smith
+  id: 7877c433-3d9f-4f1d-9d79-5f66462d5f61
+construction_material: grp
+construction_method: cold_moulded
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 0.712
-  fore_triangle_base: 0.762
-  fore_triangle_height: 2.7432
-  length_on_waterline: 3.048
-  length_overall: 3.429
   main:
     foot: 9.33
     head: 9.42
     luff: 3.17
+  length_overall: 3.429
+  calculated_thcf: 0.712
+  fore_triangle_base: 0.762
+  length_on_waterline: 3.048
+  fore_triangle_height: 2.7432
 home_country: United Kingdom
 home_port: Yarmouth, Isle of Wight
 hull_form: centre-board dinghy
 id: 82b8012e-b285-48c0-8661-25f0c80d41f6
 length_on_deck: 3.429
-mainsail_type: lug
-name: Pinke Bill
-oga_no: 3494
+sail_number: '25'
+spar_material: wood
 ownerships:
-- current: true
-  id: 34789
-  member: 6432
+- id: 34789
   share: 64
+  member: 6432
+  current: true
   start: '?'
 place_built: Bembridge
-rig_type: Sloop
-short_description: Pinke Bill is a standard GRP West Wight Scow.
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 2002
 year_is_approximate: false
+image_key: hNPRNG
+beam: 1.4478
+design_class:
+  name: West Wight Scow
+  id: bb921aec-4dd2-4914-95d0-89be9910f684
+for_sale_state:
+  text: not_for_sale

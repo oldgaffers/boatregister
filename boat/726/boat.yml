@@ -1,35 +1,42 @@
-builder: d4eb6313-0b0e-4f3b-a0f5-ff7a360710e7
-callsign: ''
+name: Uzella
+oga_no: 726
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: P.J. Cousins
+  id: d4eb6313-0b0e-4f3b-a0f5-ff7a360710e7
 construction_material: ferro
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.987076322848086
-  length_on_waterline: 7.863935625457206
   length_over_all: 10.881492318946599
+  length_on_waterline: 7.863935625457206
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 6acb3818-61bb-489e-9224-076375c6aa99
 length_on_deck: 10.8814
-mainsail_type: gaff
-name: Uzella
-oga_no: 726
+callsign: ''
 ownerships:
 - id: 34762
-  member: 6412
   share: 64
+  member: 6412
 - name: P J Cousins
   share: 64
   start: 2012
 place_built: Bodmin
-rig_type: Cutter
-short_description: ''
 updated_at: '2022-04-07T21:00:48.73009+00:00'
 website: ''
 year: 1976
 year_is_approximate: false
+image_key: mPCXFF
+construction_details: Ferroconcrete
+beam: 2.987
+for_sale_state:
+  text: not_for_sale

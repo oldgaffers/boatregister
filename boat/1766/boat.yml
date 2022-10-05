@@ -1,30 +1,39 @@
-builder: ee8729e9-416e-4600-a107-3ce842cc4750
-callsign: ''
+name: Jinny Liz II
+oga_no: 1766
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 91/2, 92/1
+builder:
+  name: Worfolk
+  id: ee8729e9-416e-4600-a107-3ce842cc4750
 construction_material: wood
 construction_method: clinker
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: Log 91/2, 92/1
-generic_type: Yacht
 handicap_data:
   beam: 2.590831504511095
   draft: 0.60960741282614
-  length_over_all: 6.858083394294074
   propellor:
     type: fixed
+  length_over_all: 6.858083394294074
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 97f74c25-eeeb-4dc0-9cc0-11fcc8322b45
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Jinny Liz II
-oga_no: 1766
+reference:
+- Log 91/2
+- Log 92/1
+callsign: ''
 place_built: King's Lynn
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-26T07:56:18.025972+00:00'
 website: ''
 year: 1937
 year_is_approximate: false
+construction_details: Clinker Larch on Oak
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

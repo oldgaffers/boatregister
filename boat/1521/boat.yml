@@ -1,42 +1,53 @@
-builder: 9a290c53-5245-43aa-8bb3-9deb1f7e4aa1
-callsign: ''
+name: Jenny Wren
+oga_no: 1521
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Converted back to cutter rig from ketch in 1993.  Log 82/2
+builder:
+  name: Gilbert and Pascoe
+  id: 9a290c53-5245-43aa-8bb3-9deb1f7e4aa1
+designer:
+  name: Harley Mead
+  id: 25412902-8c25-4fd2-8023-2f506c99a366
 construction_material: wood
 construction_method: carvel
-designer: 25412902-8c25-4fd2-8023-2f506c99a366
 draft: 1.905
 engine_installations: []
 for_sales: []
-full_description: Converted back to cutter rig from ketch in 1993.  Log 82/2
-generic_type: Yacht
 handicap_data:
   beam: 3.8100463301633747
-  draft: 1.9050231650816873
-  fore_triangle_base: 6.583760058522312
-  fore_triangle_height: 13.411363082175079
-  length_on_waterline: 11.201536210680322
-  length_over_all: 11.734942696903193
   main:
     foot: 7.010485247500609
     head: 5.608388198000487
     luff: 6.0960741282613995
-  propellor:
-    type: folding
   thcf: 1.063470107
+  draft: 1.9050231650816873
   topsail:
     luff: 4.26725188978298
     perpendicular: 5.4864667154352595
+  propellor:
+    type: folding
+  length_over_all: 11.734942696903193
+  fore_triangle_base: 6.583760058522312
+  length_on_waterline: 11.201536210680322
+  fore_triangle_height: 13.411363082175079
 home_country: 'null'
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 8c78e2a1-2d85-484c-9306-a88c68857c1a
 length_on_deck: 11.7348
-mainsail_type: gaff
-name: Jenny Wren
-oga_no: 1521
+reference:
+- Log 82/2
+uk_part1: '148481'
+callsign: ''
 place_built: Porthleven
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-26T07:56:15.568974+00:00'
 website: ''
 year: 1926
 year_is_approximate: false
+construction_details: Carvel Pitch Pine on Grown Oak, see paper archive
+beam: 3.81
+for_sale_state:
+  text: not_for_sale

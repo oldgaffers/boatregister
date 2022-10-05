@@ -1,48 +1,61 @@
-builder: 2bcba7b6-1394-4d4b-b67a-c2ae394f7eea
-callsign: ''
+name: Anna Ellidi
+oga_no: 3090
+generic_type: Morecambe Bay Prawner
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Anna Ellidi&#39; is a Nobby, fishing no. BW111, built as
+  a yacht and only used for fishing in WWI</p>
+full_description: <p>&#39;Anna Ellidi&#39; had a new deck around 2003 and new engine
+  around 2012. In 2015 she sailed around the UK.</p>
+builder:
+  name: Anderson William and Sons
+  id: 2bcba7b6-1394-4d4b-b67a-c2ae394f7eea
+designer:
+  name: Vincent Anderson
+  id: dcd4b284-2d5b-47ae-b97e-06178e2f1bd5
 construction_material: wood
 construction_method: carvel
-designer: dcd4b284-2d5b-47ae-b97e-06178e2f1bd5
 draft: 1.6246
 engine_installations: []
 for_sales: []
-full_description: <p>&#39;Anna Ellidi&#39; had a new deck around 2003 and new engine
-  around 2012. In 2015 she sailed around the UK.</p>
-generic_type: Morecambe Bay Prawner
 handicap_data:
-  calculated_thcf: 1.059
-  fore_triangle_base: 7.0104
-  fore_triangle_height: 11.7866
-  length_on_waterline: 10.0584
-  length_over_spars: 15.8496
-  length_overall: 11.5824
   main:
     foot: 23
     head: 19
     luff: 19
   sailarea: 11
+  length_overall: 11.5824
+  calculated_thcf: 1.059
+  length_over_spars: 15.8496
+  fore_triangle_base: 7.0104
+  length_on_waterline: 10.0584
+  fore_triangle_height: 11.7866
 home_country: GBR
 home_port: Port Penrhyn Bangor
 hull_form: long keel sloping forefoot
 id: 697d724d-9d24-42a2-b121-2de633c5377e
 length_on_deck: 11.5824
-mainsail_type: gaff
-name: Anna Ellidi
-oga_no: 3090
+ssr: '150215'
+uk_part1: '125908'
+callsign: ''
 ownerships:
 - name: Cole Manson
   share: 64
   start: 2000
-- current: true
-  id: 907
-  member: 6046
+- id: 907
   share: 64
+  member: 6046
+  current: true
   start: '?'
 place_built: Millom, Barrow in Furness
-rig_type: Cutter
-short_description: <p>&#39;Anna Ellidi&#39; is a Nobby, fishing no. BW111, built as
-  a yacht and only used for fishing in WWI</p>
 updated_at: '2021-12-19T13:40:06.72362+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+previous_names:
+- Ellidi
+image_key: 64nZ7W
+construction_details: Carvel, pitch pine on oak, teak deck
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

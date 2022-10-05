@@ -1,12 +1,21 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+name: Mouse
+oga_no: 3465
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Cornish Crabber 17, built 2003 and sails under sail number 109.</p>
+full_description: Cornish Crabber 17, navy blue with cream decks.
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.4816
 engine_installations: []
 for_sales: []
-full_description: Cornish Crabber 17, navy blue with cream decks.
-generic_type: Yacht
 handicap_data:
   length_overall: 5.1816
 home_country: United Kingdom
@@ -14,12 +23,13 @@ home_port: Overy Staithe
 hull_form: long keel deep forefoot
 id: f19c0f15-cba8-4d53-a399-be2031b4da0d
 length_on_deck: 5.1816
-mainsail_type: gaff
-name: Mouse
-oga_no: 3465
+spar_material: wood
 place_built: Gorran Haven
-rig_type: Sloop
-short_description: <p>Cornish Crabber 17, built 2003 and sails under sail number 109.</p>
 updated_at: '2021-11-28T18:05:14.258291+00:00'
 year: 2003
 year_is_approximate: false
+image_key: VGXRrX
+beam: 2.0574
+design_class:
+  name: Cornish Crabber 17
+  id: e39082bf-7bcc-411e-9a85-11229cd83151

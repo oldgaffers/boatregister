@@ -1,14 +1,22 @@
-builder: a46b01c0-7faa-454e-b7cb-9ea6afc4664d
-callsign: ''
+name: Erda
+oga_no: 2274
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Pat West, c/o Gannon & Benjamin Marine Railway, Box 1095, Vineyard
+  Haven Martha's Vineyard MA 02568
+builder:
+  name: Nick Roth
+  id: a46b01c0-7faa-454e-b7cb-9ea6afc4664d
+designer:
+  name: Nick Roth
+  id: d68689ef-8bad-4d90-bd74-1167dc13038b
 construction_material: wood
 construction_method: unknown
-designer: d68689ef-8bad-4d90-bd74-1167dc13038b
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Pat West, c/o Gannon & Benjamin Marine Railway, Box 1095, Vineyard
-  Haven Martha's Vineyard MA 02568
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
   length_over_all: 6.705681541087539
@@ -17,17 +25,18 @@ home_port: Lake Tashmoo
 hull_form: unknown
 id: 838c17c9-90d9-4220-a812-5ebefd240d3e
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Erda
-oga_no: 2274
+callsign: ''
 ownerships:
 - name: Pat West Jr.
   share: 64
   start: 2012
 place_built: Boothbay ME
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:34.174376+00:00'
 website: ''
 year: 1970
 year_is_approximate: false
+previous_names:
+- Avior
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

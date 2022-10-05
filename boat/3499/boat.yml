@@ -1,33 +1,43 @@
-builder: 34242280-86c2-4f9d-893f-49ff76fc5cfd
-callsign: MFSU
-construction_material: wood
-construction_method: carvel
-designer: c501c48d-9b2b-4b4b-a120-ddbf63ae35b5
-engine_installations: []
-for_sales: []
+name: Speedwell of Cremyll
+oga_no: 3499
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: Speedwell of Cremyll is a 49' Buchanan yawl, built in 1962
 full_description: <p>Speedwell of Cremyll was built as a 21st birthday present for
   a lucky young man! She took part in the 1970 Round Britain Race, and the concept
   of the Three Peaks Yacht Race was conceived in her saloon during a gale in Barra.
   She spent about 20 years in the Island Cruising Club fleet at Salcombe, and was
   later based in Oban for a lengthy period. She had a keel-off major refit at Gweek
   in 2018/19.</p>
-generic_type: Yacht
+builder:
+  name: Mashford Bros.
+  id: 34242280-86c2-4f9d-893f-49ff76fc5cfd
+designer:
+  name: Alan Buchanan
+  id: c501c48d-9b2b-4b4b-a120-ddbf63ae35b5
+construction_material: wood
+construction_method: carvel
+engine_installations: []
+for_sales: []
 home_country: UK
 home_port: Hamble
 id: 3b1b1a83-1fde-4602-aa99-4af304d7bcc9
 length_on_deck: 14.9
-mainsail_type: gaff
-name: Speedwell of Cremyll
-oga_no: 3499
+sail_number: '1898'
+uk_part1: '302290'
+callsign: MFSU
 ownerships:
-- current: true
-  id: 65
-  member: 1476
+- id: 65
   share: 64
+  member: 1476
+  current: true
   start: '?'
 place_built: Plymouth
-rig_type: Yawl
-short_description: Speedwell of Cremyll is a 49' Buchanan yawl, built in 1962
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 1962
 year_is_approximate: false
+image_key: B9xBKw
+construction_details: teak on rock elm, copper fastened, lead ballast keel
+for_sale_state:
+  text: not_for_sale

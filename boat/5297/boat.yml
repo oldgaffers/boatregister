@@ -1,26 +1,34 @@
-builder: 28bf1278-5cdb-4856-86c0-0de7e34ec288
-callsign: ''
+name: Merlin
+oga_no: 5297
+generic_type: Falmouth Quay Punt
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>'Merlin' was a Falmouth Quay Punt, converted to a yacht. After
+  Chris Beane sold her the new owner embarked on a major refit but never completed
+  it.</p><p>Broken up in 2019.</p>
+full_description: ''
+builder:
+  name: F. Jackett
+  id: 28bf1278-5cdb-4856-86c0-0de7e34ec288
+designer:
+  name: Harley Mead
+  id: 25412902-8c25-4fd2-8023-2f506c99a366
 construction_material: wood
 construction_method: unknown
-designer: 25412902-8c25-4fd2-8023-2f506c99a366
 draft: 2.0818
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Falmouth Quay Punt
 handicap_data:
   beam: 3.169958546695928
   draft: 2.0726652036088757
-  length_on_waterline: 9.509875640087783
   length_over_all: 9.692757863935626
+  length_on_waterline: 9.509875640087783
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: e1898912-e985-4ee0-9f1a-c12c32995074
 length_on_deck: 9.7018
-mainsail_type: gaff
-name: Merlin
-oga_no: 5297
+callsign: ''
 ownerships:
 - end: 2014
   name: John Brown
@@ -31,11 +39,11 @@ ownerships:
   share: 32
   start: 2007
 place_built: Falmouth
-rig_type: Cutter
-short_description: <p>'Merlin' was a Falmouth Quay Punt, converted to a yacht. After
-  Chris Beane sold her the new owner embarked on a major refit but never completed
-  it.</p><p>Broken up in 2019.</p>
 updated_at: '2021-12-19T13:39:59.884373+00:00'
 website: ''
 year: 1914
 year_is_approximate: false
+image_key: zjDqtf
+beam: 3.176
+for_sale_state:
+  text: not_for_sale

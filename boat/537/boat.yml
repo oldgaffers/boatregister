@@ -1,34 +1,46 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
+name: Semper Fidelis
+oga_no: 537
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 70/1, 76/2
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 construction_material: wood
 construction_method: unknown
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 1.1582
 engine_installations: []
 for_sales: []
-full_description: Log 70/1, 76/2
-generic_type: unknown
 handicap_data:
   beam: 2.2250670568154107
   draft: 1.1582540843696658
-  length_on_waterline: 5.9436722750548645
   length_over_all: 6.4008778346744695
+  length_on_waterline: 5.9436722750548645
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 56a90748-8b9e-4632-8063-d650aa1da7dd
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Semper Fidelis
-oga_no: 537
+reference:
+- Log 70/1
+- Log 76/2
+spar_material: wood
+callsign: ''
 ownerships:
 - name: J R Chandler
   share: 64
   start: 2012
 place_built: Littlehampton
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:45.12265+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+image_key: fbR4DK
+beam: 2.225
+for_sale_state:
+  text: not_for_sale

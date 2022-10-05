@@ -1,33 +1,42 @@
-builder: 4d85ac76-ba0d-4a6c-b5f5-3cd815fd97be
-callsign: ''
+name: Reverie M
+oga_no: 3213
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Reverie M&#39; is based on a small Falmouth workboat and
+  building started in 1986.</p>
+full_description: <p>Michael O&#39;Sullivan bought &#39;Reverie M&#39; in Falmouth,
+  2001 and made her fit to sail cautiously to Essex. Afloat in a mud berth, he replaced
+  the ferro cement deck and coachroof with wood and re-rigged her.</p>
+builder:
+  name: Wilkes
+  id: 4d85ac76-ba0d-4a6c-b5f5-3cd815fd97be
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
 construction_material: ferro
 construction_method: unknown
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
 draft: 1.4234
 engine_installations: []
 for_sales:
 - asking_price: 2500
-full_description: <p>Michael O&#39;Sullivan bought &#39;Reverie M&#39; in Falmouth,
-  2001 and made her fit to sail cautiously to Essex. Afloat in a mud berth, he replaced
-  the ferro cement deck and coachroof with wood and re-rigged her.</p>
-generic_type: Yacht
 home_country: GBR
 home_port: Arlesford Creek
 hull_form: long keel deep forefoot
 id: b623b33e-20ea-4a22-9c0d-1db05f5593ab
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Reverie M
-oga_no: 3213
+callsign: ''
 ownerships:
 - name: Michael OSullivan
   share: 64
   start: 2001
 place_built: Falmouth
-rig_type: Cutter
-short_description: <p>&#39;Reverie M&#39; is based on a small Falmouth workboat and
-  building started in 1986.</p>
 updated_at: '2021-12-19T13:40:04.245099+00:00'
 website: ''
 year: 2001
 year_is_approximate: false
+image_key: F2Z2pF
+construction_details: Ferrocement hull, wood deck and coachroof
+beam: 2.539
+for_sale_state:
+  text: not_for_sale

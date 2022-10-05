@@ -1,35 +1,39 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Pipit
+oga_no: 3337
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gunter
+short_description: <p>Pipit is a Wagtail sailing dinghy built in 2010</p>
+full_description: ''
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
 construction_material: grp
 construction_method: clinker
 draft: 0.1463
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
-  calculated_thcf: 0.742
-  draft_keel_down: 1.0607
-  fore_triangle_base: 0.9388
-  fore_triangle_height: 3.3528
-  length_on_waterline: 3.4991
-  length_over_spars: 3.8527
-  length_overall: 3.8527
   main:
     foot: 8.88
     head: 8.48
     luff: 6.24
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 0
+  moving_keel: true
+  length_overall: 3.8527
+  calculated_thcf: 0.742
+  draft_keel_down: 1.0607
+  moving_keel_type: Centreboard
+  length_over_spars: 3.8527
+  fore_triangle_base: 0.9388
+  length_on_waterline: 3.4991
+  fore_triangle_height: 3.3528
 home_country: GBR
 home_port: Bursledon
 hull_form: long keel deep forefoot
 id: e08db62e-4a54-4be8-b79b-14e9611e6476
 length_on_deck: 3.8527
-mainsail_type: gunter
-name: Pipit
-oga_no: 3337
+callsign: ''
 ownerships:
 - end: 2013
   name: Ken Shaw
@@ -39,15 +43,21 @@ ownerships:
   name: Paul Marfleet
   share: 64
   start: 2013
-- current: true
-  id: 391
-  member: 4150
+- id: 391
   share: 64
   start: 2016
+  member: 4150
+  current: true
 place_built: Hamble
-rig_type: Sloop
-short_description: <p>Pipit is a Wagtail sailing dinghy built in 2010</p>
 updated_at: '2022-02-13T14:10:14.884574+00:00'
 website: ''
 year: 2010
 year_is_approximate: false
+construction_details: GRP simulated clinker hull, teak gunwhale, thwarts and mast
+  partners. Pine floorboards and bronze fittings, spruce spars.
+beam: 1.463
+design_class:
+  name: Wagtail
+  id: fbacd8ea-b4ac-4058-aa06-0f463cf6fdbb
+for_sale_state:
+  text: not_for_sale

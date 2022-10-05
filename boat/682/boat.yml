@@ -1,27 +1,10 @@
-builder: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
-callsign: MEWV5
-construction_material: wood
-construction_method: carvel
-designer: 1371a2f2-2d48-41f8-a3de-03cf0ed4441c
-draft: 1.2954
-engine_installations: []
-for_sales:
-- asking_price: 19500
-  flexibility: normal
-  offered: '2019-01-28'
-  price_flexibility:
-    text: normal
-  reduced: true
-  sales_text: "LOA 34 feet, LOD 25 feet, beam 9 ft. 2 in.   Draft 4 ft. 4 in. Displaces\
-    \ 5.5 tons approx.  Engine Vetus 16 HP (2009). Darglow feathering prop. Radio,\
-    \ GPS etc. Hull pitch pine on oak frames, copper fastened. Lead keel, bronze keel\
-    \ bolts and many fittings.  Teak cockpit, cabin, deck and interior.  Saloon: 2\
-    \ berths, table, Taylors cooker with oven, sink. Fo\u2019castle: pipe cot, heads\
-    \ and storage. Cockpit and full winter covers. More pictures and excellent 2013\
-    \ survey available.  Lying Portsmouth."
-  sold: null
-  summary: null
-  updated_at: '2020-10-14T21:52:56.474004+00:00'
+name: Rowspar
+oga_no: 682
+generic_type: Itchen Ferry
+rig_type: Cutter
+mainsail_type: gaff
+short_description: "`Rowspar\u2019 is an Itchen Ferry yacht built in 1926 by Berthon\
+  \ Boat Co."
 full_description: "Rowspar was built by Berthon Boat Co. in Lymington in 1925/6. She\
   \ was kept at Lymington until the 1950s.<p>Originally called White Kitten, after\
   \ a few years her name was changed to Sparrow and then as her registry had lapsed,\
@@ -46,35 +29,62 @@ full_description: "Rowspar was built by Berthon Boat Co. in Lymington in 1925/6.
   \ in the past under a previous owner who also took her to the Fowey Classics. She\
   \ is used mainly for cruising and OGA rallies in the Solent area, a classic gentleman\u2019\
   s yacht, much admired wherever she goes."
-generic_type: Itchen Ferry
+builder:
+  name: Berthon Boat Co. Ltd.
+  id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
+designer:
+  name: L.A. Jacobs
+  id: 1371a2f2-2d48-41f8-a3de-03cf0ed4441c
+construction_material: wood
+construction_method: carvel
+draft: 1.2954
+engine_installations: []
+for_sales:
+- asking_price: 19500
+  flexibility: normal
+  offered: '2019-01-28'
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: "LOA 34 feet, LOD 25 feet, beam 9 ft. 2 in.   Draft 4 ft. 4 in. Displaces\
+    \ 5.5 tons approx.  Engine Vetus 16 HP (2009). Darglow feathering prop. Radio,\
+    \ GPS etc. Hull pitch pine on oak frames, copper fastened. Lead keel, bronze keel\
+    \ bolts and many fittings.  Teak cockpit, cabin, deck and interior.  Saloon: 2\
+    \ berths, table, Taylors cooker with oven, sink. Fo\u2019castle: pipe cot, heads\
+    \ and storage. Cockpit and full winter covers. More pictures and excellent 2013\
+    \ survey available.  Lying Portsmouth."
+  sold: null
+  summary: null
+  updated_at: '2020-10-14T21:52:56.474004+00:00'
 handicap_data:
   beam: 2.79403803950256
-  draft: 1.2954218483296758
-  fore_triangle_base: 5.308674713484515
-  fore_triangle_height: 6.705681541087539
-  length_on_waterline: 7.315288953913679
-  length_over_all: 7.620092660326749
-  length_over_spars: 9.44891489880517
   main:
     foot: 4.851481346013167
     head: 3.8354608632040965
     luff: 4.749871982443306
-  propellor:
-    blades: 3
-    type: folding
-  sailarea: 43.92606827628219
   thcf: 0.92
+  draft: 1.2954218483296758
   topsail:
     luff: 3.9878505242623747
     perpendicular: 2.13362594489149
+  sailarea: 43.92606827628219
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 7.620092660326749
+  length_over_spars: 9.44891489880517
+  fore_triangle_base: 5.308674713484515
+  length_on_waterline: 7.315288953913679
+  fore_triangle_height: 6.705681541087539
 home_country: GBR
 home_port: Portsmouth
 hull_form: long keel sloping forefoot
 id: 569a5fd3-084f-40e1-a530-e49bd4b0c998
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Rowspar
-oga_no: 682
+sail_number: '682'
+spar_material: wood
+uk_part1: '166822'
+callsign: MEWV5
 ownerships:
 - end: '?'
   name: Spence Moody
@@ -84,25 +94,30 @@ ownerships:
   name: David Still
   share: 64
   start: 2000
-- end: 2011
-  id: 502
-  member: 4743
+- id: 502
+  end: 2011
   start: 2007
-- current: true
-  id: 477
-  member: 4610
+  member: 4743
+- id: 477
   share: 32
   start: 2011
-- current: true
-  id: 1200
   member: 4610
+  current: true
+- id: 1200
   share: 32
   start: 2011
+  member: 4610
+  current: true
 place_built: Lymington
-rig_type: Cutter
-short_description: "`Rowspar\u2019 is an Itchen Ferry yacht built in 1926 by Berthon\
-  \ Boat Co."
 updated_at: '2022-08-17T21:04:47.809113+00:00'
 website: ''
 year: 1926
 year_is_approximate: false
+previous_names:
+- Sparrow
+- White Kitten
+image_key: jLZ6Mk
+construction_details: Carvel  pitch pine on oak
+beam: 2.7432
+for_sale_state:
+  text: for_sale

@@ -1,11 +1,15 @@
-callsign: ''
+name: Moss-Rose
+oga_no: 1644
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 80/2
 construction_material: wood
 construction_method: unknown
 draft: 1.585
 engine_installations: []
 for_sales: []
-full_description: Log 80/2
-generic_type: unknown
 handicap_data:
   beam: 4.1453304072177515
   draft: 1.584979273347964
@@ -15,16 +19,20 @@ home_port: ''
 hull_form: unknown
 id: b61d08d7-674d-4ca3-854c-749c3b594f99
 length_on_deck: 12.192
-mainsail_type: gaff
-name: Moss-Rose
-oga_no: 1644
+reference:
+- Log 80/2
+callsign: ''
 ownerships:
 - name: Monsieur Pierre-Jean Cha
   share: 64
   start: 2012
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:16.939624+00:00'
 website: ''
 year: 1890
 year_is_approximate: false
+previous_names:
+- Hone-Morna
+- Moss-Rose
+beam: 4.1453
+for_sale_state:
+  text: not_for_sale

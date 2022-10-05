@@ -1,50 +1,62 @@
-builder: 13013b12-8617-439c-bc35-ba8f2259031e
-callsign: ''
+name: Fiddlers Dream
+oga_no: 2796
+generic_type: Dayboat
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Hull mould from racing  class Traddur bay, rig based on Falmouth
+  working rig.
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+designer:
+  name: Roger Wilkinson
+  id: 7b55967c-c09b-4375-8aab-2aa606d145cd
 construction_material: grp
 construction_method: cold_moulded
-designer: 7b55967c-c09b-4375-8aab-2aa606d145cd
 draft: 2.7432
 engine_installations: []
 for_sales: []
-full_description: Hull mould from racing  class Traddur bay, rig based on Falmouth
-  working rig.
-generic_type: Dayboat
 handicap_data:
   beam: 1.5240185320653499
-  draft: 2.7432333577176298
-  fore_triangle_base: 2.4628139478176054
-  fore_triangle_height: 3.8100463301633747
-  length_on_waterline: 4.26725188978298
-  length_over_all: 4.343452816386247
   main:
     foot: 2.7950499878078516
     head: 2.7432333577176298
     luff: 1.777005608388198
+  thcf: 0.780966013
+  draft: 2.7432333577176298
   mizzen:
     foot: 1.014996342355523
     luff: 2.286027798098025
-  thcf: 0.780966013
+  length_over_all: 4.343452816386247
+  fore_triangle_base: 2.4628139478176054
+  length_on_waterline: 4.26725188978298
+  fore_triangle_height: 3.8100463301633747
 home_country: 'null'
 home_port: Chichester
 hull_form: unknown
 id: 43547d41-3527-4ce5-9972-08ae9a8d5f5e
 length_on_deck: 4.3434
-mainsail_type: gaff
-name: Fiddlers Dream
-oga_no: 2796
+sail_number: '35'
+callsign: ''
 ownerships:
 - name: R A Hayles
   share: 64
   start: 2007
-- current: true
-  id: 68
-  member: 1491
+- id: 68
   share: 64
+  member: 1491
+  current: true
   start: '?'
 place_built: Pottstringley
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:49.711899+00:00'
 website: ''
 year: 2003
 year_is_approximate: false
+construction_details: Grp & Mahogany
+beam: 1.524
+design_class:
+  name: Kittiwake 14
+  id: 2040951b-da62-4080-8f0d-b39bae2a4db3
+for_sale_state:
+  text: not_for_sale

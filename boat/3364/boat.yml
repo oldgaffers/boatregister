@@ -1,40 +1,50 @@
-builder: d15127ff-33c9-4494-b4a2-bf0b68b52468
-callsign: ''
-construction_material: steel
-construction_method: unknown
-designer: 2c39888b-5445-4b2e-b283-339cd70a1883
-draft: 1.8014
-engine_installations: []
-for_sales: []
+name: Octavus
+oga_no: 3364
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Barge Yacht
 full_description: Octavus was built between 1980 and 1983, Launched in June 1983,
   she has a history of cruising and racing around Europe until 1996. Sailed to the
   UK in 2001 and moored in Chelsea Harbour.
-generic_type: Yacht
+builder:
+  name: Sheeps Bouwbedcijf Kuijpel
+  id: d15127ff-33c9-4494-b4a2-bf0b68b52468
+designer:
+  name: Bakker
+  id: 2c39888b-5445-4b2e-b283-339cd70a1883
+construction_material: steel
+construction_method: unknown
+draft: 1.8014
+engine_installations: []
+for_sales: []
 handicap_data:
-  length_on_waterline: 17.6083
-  length_overall: 18.0015
   moving_keel: true
+  length_overall: 18.0015
   moving_keel_type: Leeboard
+  length_on_waterline: 17.6083
 home_country: GBR
 home_port: Chelsea Harbour
 hull_form: long keel deep forefoot
 id: 1840b63b-7ab0-4b61-92f8-0193dee0080d
 length_on_deck: 18.0015
-mainsail_type: gaff
-name: Octavus
-oga_no: 3364
+spar_material: wood
+callsign: ''
 ownerships:
 - note: 'Original owners G and V Bakker '
   text: Original owners G and V Bakker
-- current: true
-  id: 34810
-  member: 6111
+- id: 34810
   share: 64
   start: 2013
+  member: 6111
+  current: true
 place_built: Dordrecht
-rig_type: Cutter
-short_description: Barge Yacht
 updated_at: '2021-12-19T13:40:08.891134+00:00'
 website: ''
 year: 1983
 year_is_approximate: false
+image_key: mtXhFt
+construction_details: Steel, round bottomed.
+beam: 5.4986
+for_sale_state:
+  text: not_for_sale

@@ -1,43 +1,50 @@
-builder: 8f423342-b25e-40d9-8725-3d143660e8f5
-callsign: ''
+name: Paerrel
+oga_no: 2514
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Oystersailers Ltd.
+  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+designer:
+  name: Paul Gartside
+  id: 0557a793-41ba-4182-8138-206701b31451
 construction_material: wood
 construction_method: unknown
-designer: 0557a793-41ba-4182-8138-206701b31451
 draft: 1.3472
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.3472323823457693
-  fore_triangle_base: 5.050597415264569
-  fore_triangle_height: 7.6993416239941475
-  length_on_waterline: 6.705681541087539
-  length_over_all: 6.909900024384297
   main:
     foot: 3.950256035113387
     head: 3.7094611070470616
     luff: 4.800658376005852
+  thcf: 0.884124239
+  draft: 1.3472323823457693
   propellor:
     type: fixed
-  thcf: 0.884124239
+  length_over_all: 6.909900024384297
+  fore_triangle_base: 5.050597415264569
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 7.6993416239941475
 home_country: 'null'
 home_port: Numansgoes
 hull_form: long keel deep forefoot
 id: 18021c02-f693-48b8-b4e0-78b89ffca100
 length_on_deck: 6.9098
-mainsail_type: gaff
-name: Paerrel
-oga_no: 2514
+callsign: ''
 ownerships:
 - name: Gerard K Wind
   share: 64
   start: 2012
 place_built: Penryn
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:41.422373+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

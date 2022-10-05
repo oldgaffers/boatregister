@@ -1,12 +1,18 @@
-callsign: ''
+name: Shelduck
+oga_no: 2285
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gunter
+short_description: ''
+full_description: ''
+designer:
+  name: D.A. Rayner
+  id: afc68d59-e7ba-466e-861f-741e2eeae526
 construction_material: grp
 construction_method: cold_moulded
-designer: afc68d59-e7ba-466e-861f-741e2eeae526
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   length_over_all: 6.7818824676908065
 home_country: 'null'
@@ -14,16 +20,19 @@ home_port: Port Dinorwic
 hull_form: long keel deep forefoot
 id: d75a4c46-6060-4a92-a2cf-41d32b0c2769
 length_on_deck: 6.7818
-mainsail_type: gunter
-name: Shelduck
-oga_no: 2285
+callsign: ''
 ownerships:
 - name: David Caton
   share: 64
   start: 2012
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:34.486388+00:00'
 website: ''
 year: 1963
 year_is_approximate: false
+construction_details: GRP
+beam: 0
+design_class:
+  name: Westerly 22
+  id: d87a28fa-5251-4b74-a07d-fa35555f8e72
+for_sale_state:
+  text: not_for_sale

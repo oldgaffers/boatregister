@@ -1,33 +1,43 @@
-builder: 0dfc30ee-6c5b-4aaa-bfbf-11c4d0112e5d
-callsign: ''
+name: Black Squaw
+oga_no: 698
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 76/3
+builder:
+  name: Ryton Marine
+  id: 0dfc30ee-6c5b-4aaa-bfbf-11c4d0112e5d
+designer:
+  name: Marine Ryton
+  id: c0316217-b9b3-411a-ad19-cc5d98936dec
 construction_material: steel
 construction_method: unknown
-designer: c0316217-b9b3-411a-ad19-cc5d98936dec
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 76/3
-generic_type: unknown
 handicap_data:
   beam: 2.7432333577176298
-  length_on_waterline: 6.309436722750548
   length_over_all: 8.53450377956596
+  length_on_waterline: 6.309436722750548
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 32a3ba7c-30af-4d51-a8f2-e62f4c23f75d
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Black Squaw
-oga_no: 698
+reference:
+- Log 76/3
+callsign: ''
 ownerships:
 - name: G Carr
   share: 64
   start: 1976
 place_built: Newcastle on Tyne
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:49.911384+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+construction_details: Steel
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

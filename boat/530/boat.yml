@@ -1,11 +1,10 @@
-builder: 3b623161-dc07-46fc-96b1-98e7ad47b431
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: a5468014-9c00-4985-85ca-f3115f1fc4f7
-draft: 1.7983
-engine_installations: []
-for_sales: []
+name: Wilful
+oga_no: 530
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Designed and built by C Sibbick of Cowes, 1899, &#39;Wilful&#39;
+  was once owned by Maurice Griffiths.</p>
 full_description: "<p>&lsquo;Wilful&rsquo; was the cover picture on the Old Gaffers\
   \ Association Newsletter, 1977/4. The following article is taken from that issue.</p>\r\
   \n\r\n<blockquote>The first picture we have been able to publish of a gaffer carrying\
@@ -32,25 +31,39 @@ full_description: "<p>&lsquo;Wilful&rsquo; was the cover picture on the Old Gaff
   \ for the future include replacing the wire main halliards which run on very inefficient\
   \ winches with rope pulley-hauley ones, and having a squaresail made for downwind\
   \ cruising, as I hate spinnakers.</blockquote>"
-generic_type: Yacht
+builder:
+  name: Charles Sibbick and Co
+  id: 3b623161-dc07-46fc-96b1-98e7ad47b431
+designer:
+  name: Charles Sibbick
+  id: a5468014-9c00-4985-85ca-f3115f1fc4f7
+construction_material: wood
+construction_method: unknown
+draft: 1.7983
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.6213118751524016
   draft: 1.798341867837113
-  length_on_waterline: 8.53450377956596
   length_over_all: 9.1441111923921
+  length_on_waterline: 8.53450377956596
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: ed4eb50f-df4a-45bd-bd86-1a66f6880a23
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Wilful
-oga_no: 530
+uk_part1: '127530'
+callsign: ''
 place_built: Cowes IoW
-rig_type: Cutter
-short_description: <p>Designed and built by C Sibbick of Cowes, 1899, &#39;Wilful&#39;
-  was once owned by Maurice Griffiths.</p>
 updated_at: '2021-01-31T17:02:50.073861+00:00'
 website: ''
 year: 1899
 year_is_approximate: false
+previous_names:
+- Melody
+- Norken
+image_key: dtKmGr
+construction_details: Pitch pine on oak & Canadian rock elm, copper fastened
+beam: 2.6213
+for_sale_state:
+  text: not_for_sale

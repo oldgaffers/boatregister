@@ -1,21 +1,23 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Black Goose
+oga_no: 3226
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Black Goose is a Corniish Trader built in 1979.</p>
+full_description: <p>In 2014 she had new masts, engine and rigging, and her lifting
+  keel was overhauled.</p>
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: <p>In 2014 she had new masts, engine and rigging, and her lifting
-  keel was overhauled.</p>
-generic_type: Yacht
 handicap_data:
-  draft_keel_up: 1.0668
-  fore_triangle_base: 4.8768
-  fore_triangle_height: 7.4676
-  length_on_waterline: 7.8486
-  length_over_spars: 12.4206
-  length_overall: 9.144
   main:
     head: 10.67
     luff: 15.17
@@ -23,34 +25,44 @@ handicap_data:
     foot: 8.67
     head: 7.17
     luff: 12.17
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 5
+  moving_keel: true
+  draft_keel_up: 1.0668
+  length_overall: 9.144
+  moving_keel_type: Centreboard
+  length_over_spars: 12.4206
+  fore_triangle_base: 4.8768
+  length_on_waterline: 7.8486
+  fore_triangle_height: 7.4676
 home_country: GBR
 home_port: Birdham, Chichester
 hull_form: long keel deep forefoot
 id: 5c4487b2-0955-4901-a402-5362ac0cce08
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Black Goose
-oga_no: 3226
+uk_part1: '701104'
+callsign: ''
 ownerships:
 - end: 30
-  end_is_approximate: false
   note: Peter Eccleston owned 'Black Goose' for 30 years. Gordon Fraser is her third
     owner.
   text: Peter Eccleston owned 'Black Goose' for
+  end_is_approximate: false
 - name: Gordon Fraser
   share: 64
   start: 2014
-- current: true
+- share: 64
   member: 5930
-  share: 64
+  current: true
   start: '?'
 place_built: Rock
-rig_type: Ketch
-short_description: <p>Black Goose is a Corniish Trader built in 1979.</p>
 updated_at: '2021-12-19T13:40:04.666776+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+construction_details: GRP, Spruce spars
+beam: 2.8956
+design_class:
+  name: Cornish Trader
+  id: 34112a28-7463-42b2-9aaf-2106409b1a0a
+for_sale_state:
+  text: not_for_sale

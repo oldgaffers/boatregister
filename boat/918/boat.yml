@@ -1,12 +1,10 @@
-builder: 28fd53d4-bb37-4584-be38-268a7296d656
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: bb41d838-779a-40e4-8330-00460deb203f
-draft: 1.3198
-engine_installations: []
-for_sales:
-- asking_price: 20000
+name: Emerald
+oga_no: 918
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: Albert Strange, design no 112, her engine from 1975 to 2005, a
+  Yanmar 10hp, is now in the Yanmar museum.
 full_description: "<p>&#39;Emerald&#39; has been based on the Clyde since 1997, being\
   \ sold in 2017 when she moved south to the East Coast of England.</p>\r\n\r\n<p>A\
   \ much admired Albert Strange gaff yawl, she was built in 1938 at Deganwy, North\
@@ -15,51 +13,64 @@ full_description: "<p>&#39;Emerald&#39; has been based on the Clyde since 1997, 
   \ a Yanmar 20hp diesel with Aquadrive and Gori feathering propeller. A safe, fast\
   \ and very comfortable yacht, she has cruised extensively in Scottish and Irish\
   \ Sea waters.</p>"
-generic_type: Yacht
+builder:
+  name: Williams and Parkinson
+  id: 28fd53d4-bb37-4584-be38-268a7296d656
+designer:
+  name: Albert Strange
+  id: bb41d838-779a-40e4-8330-00460deb203f
+construction_material: wood
+construction_method: carvel
+draft: 1.3198
+engine_installations: []
+for_sales:
+- asking_price: 20000
 handicap_data:
   beam: 2.4902462813947817
-  draft: 1.2954157522555474
-  fore_triangle_base: 4.114850036576445
-  fore_triangle_height: 6.705681541087539
-  length_on_waterline: 7.010485247500609
-  length_over_all: 8.686905632772493
   main:
     foot: 4.977444525725432
     head: 3.733845403560107
     luff: 4.215435259692757
+  thcf: 0.93984199
+  draft: 1.2954157522555474
   mizzen:
     foot: 2.234211168007803
     head: 2.234211168007803
     luff: 1.8288222384784198
-  propellor:
-    type: fixed
-  thcf: 0.93984199
   topsail:
     luff: 4.343452816386247
     perpendicular: 1.9812240916849548
+  propellor:
+    type: fixed
+  length_over_all: 8.686905632772493
+  fore_triangle_base: 4.114850036576445
+  length_on_waterline: 7.010485247500609
+  fore_triangle_height: 6.705681541087539
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel deep forefoot
 id: 8b10bdeb-2f56-48eb-b4ee-69f9353b6520
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: Emerald
-oga_no: 918
+spar_material: wood
+ssr: '87528'
+callsign: ''
 ownerships:
 - end: 2017
   name: Roger Clarke
   share: 64
   start: 1994
-- current: true
-  id: 454
-  member: 4446
+- id: 454
   share: 64
   start: 2017
+  member: 4446
+  current: true
 place_built: Deganwy
-rig_type: Yawl
-short_description: Albert Strange, design no 112, her engine from 1975 to 2005, a
-  Yanmar 10hp, is now in the Yanmar museum.
 updated_at: '2021-12-19T13:38:56.005388+00:00'
 website: ''
 year: 1938
 year_is_approximate: false
+image_key: 52ZG2X
+construction_details: Carvel pitch pine on grown oak frames with steamed oak timbers
+beam: 2.4902
+for_sale_state:
+  text: not_for_sale

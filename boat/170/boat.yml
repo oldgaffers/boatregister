@@ -1,11 +1,11 @@
-builder: 67cd5c59-6610-45f1-81cc-1a2d45ac0656
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
-draft: 1.271
-engine_installations: []
-for_sales: []
+name: Nercissa
+oga_no: 170
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Nercissa&#39; has been out of the water since 2011 for
+  a major overhaul. Some of her earlier history is known since her origins in Plymouth
+  as a fishing boat.</p>
 full_description: "<p>&#39;Nercissa&#39; is believed to be a fishing boat with a two-masted\
   \ lug rig, decked from the stem to the mainmast, probably working in the Plymouth\
   \ area when built.</p>\r\n\r\n<p>She moved to Ramsgate in 1928, was changed to a\
@@ -17,27 +17,37 @@ full_description: "<p>&#39;Nercissa&#39; is believed to be a fishing boat with a
   \ He re-engined her and re-rigged her as a gaff cutter and got her sailing again\
   \ in July 1970.</p>\r\n\r\n<p>She had another new engine in 1997 and was sold to\
   \ Steve Finch in 2011, since when she has been out of the water for a major overhaul.</p>"
-generic_type: unknown
+builder:
+  name: Ferris
+  id: 67cd5c59-6610-45f1-81cc-1a2d45ac0656
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+construction_material: wood
+construction_method: carvel
+draft: 1.271
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.0480370641306997
-  draft: 1.280175566934894
-  fore_triangle_base: 5.4864667154352595
-  fore_triangle_height: 7.315288953913679
-  length_on_waterline: 8.991709339185563
-  length_over_all: 9.44891489880517
   main:
     foot: 5.410265788831992
     head: 4.419653742989515
     luff: 4.114850036576445
   thcf: 0.956853615
+  draft: 1.280175566934894
+  length_over_all: 9.44891489880517
+  fore_triangle_base: 5.4864667154352595
+  length_on_waterline: 8.991709339185563
+  fore_triangle_height: 7.315288953913679
 home_country: GBR
 home_port: Hoo, Medway
 hull_form: long keel deep forefoot
 id: d42768e5-4451-4e12-93b3-5ac51dea3f8f
 length_on_deck: 9.4488
-mainsail_type: gaff
-name: Nercissa
-oga_no: 170
+ssr: '335995'
+uk_part1: '335995'
+callsign: ''
 ownerships:
 - end: 1956
   name: C Corrie
@@ -51,17 +61,20 @@ ownerships:
   name: R A Rush
   share: 64
   start: 1964
-- current: true
-  id: 702
-  member: 5639
+- id: 702
   share: 64
   start: 2011
+  member: 5639
+  current: true
 place_built: Looe
-rig_type: Cutter
-short_description: <p>&#39;Nercissa&#39; has been out of the water since 2011 for
-  a major overhaul. Some of her earlier history is known since her origins in Plymouth
-  as a fishing boat.</p>
 updated_at: '2021-12-19T13:38:34.513672+00:00'
 website: ''
 year: 1900
 year_is_approximate: false
+previous_names:
+- Narcissa
+image_key: KrQ3Qm
+construction_details: Pitch pine carvel planking on sawn oak frames, iron fastened
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

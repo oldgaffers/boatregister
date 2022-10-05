@@ -1,11 +1,12 @@
-builder: c0c1cf9e-2ae7-4c35-8c47-756b553a78cb
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: e781b4c3-983c-430b-ae5f-3ef6a8a182b5
-draft: 1.8898
-engine_installations: []
-for_sales: []
+name: Dreva
+oga_no: 699
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: "Dreva was built in 1936 for George Romney Fox (1898 \u2013 1968),\
+  \ a Falmouth timber merchant. Designed by Nigel Warrington Smyth, a talented amateur\
+  \ designer based in the West Country.  Her bold sheer is said to be typical of his\
+  \ designs"
 full_description: "Dreva was built in 1936 for George Romney Fox (1898 \u2013 1968),\
   \ a Falmouth timber merchant. Designed by Nigel Warrington Smyth, a talented amateur\
   \ designer based in the West Country.  Her bold sheer is said to be typical of his\
@@ -23,32 +24,46 @@ full_description: "Dreva was built in 1936 for George Romney Fox (1898 \u2013 19
   \ her appearance is more in keeping with the original. <p>> is an old Cornish name,\
   \ sometimes pronounced  \u2018dreeva\u2019.  Both Romney Fox and Bart Pot however\
   \ called her \u2018dreva\u2019 ( rhymes with clever)."
-generic_type: Yacht
+builder:
+  name: W. Frazier and Son
+  id: c0c1cf9e-2ae7-4c35-8c47-756b553a78cb
+designer:
+  name: N. Warrington-Smythe
+  id: e781b4c3-983c-430b-ae5f-3ef6a8a182b5
+construction_material: wood
+construction_method: carvel
+draft: 1.8898
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.889782979761034
-  length_on_waterline: 9.1441111923921
   length_over_all: 10.393806388685686
+  length_on_waterline: 9.1441111923921
 home_country: 'null'
 home_port: Port Penryn
 hull_form: unknown
 id: 51df48fd-b83d-4874-842f-6c67e4710cf7
 length_on_deck: 10.3937
-mainsail_type: gaff
-name: Dreva
-oga_no: 699
+reference:
+- Log 1983/2
+spar_material: wood
+uk_part1: '165321'
+callsign: ''
 ownerships:
 - end: 2013
   name: Joe Ormond
   share: 64
   start: 2012
 place_built: Mevagissey
-rig_type: Cutter
-short_description: "Dreva was built in 1936 for George Romney Fox (1898 \u2013 1968),\
-  \ a Falmouth timber merchant. Designed by Nigel Warrington Smyth, a talented amateur\
-  \ designer based in the West Country.  Her bold sheer is said to be typical of his\
-  \ designs"
 updated_at: '2021-12-19T13:38:49.942634+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+previous_names:
+- Happy Return
+image_key: j2fNtQ
+construction_details: Pitchpine planking, grown oak frames
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

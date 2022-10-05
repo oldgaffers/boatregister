@@ -1,5 +1,27 @@
-builder: 6d10a1aa-9bcb-4b09-90ef-10f1c9e9c6f8
-callsign: ''
+name: Aeolus
+oga_no: 2938
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: One off plank on edge design inspired by G Watson. She was built
+  and raced off San Diego. She had a major re-build in 1982 and was shipped to UK
+  in the early 2000s.
+full_description: Built in San Diego, California in 1904, she is an extreme plank-on-edge
+  &ldquo;lead mine&rdquo; (narrow beam, very deep draft, V shaped in section with
+  all the ballast inside the boat).<p>The designer is unknown but Kunhardt developed
+  a GL Watson inspired rig. Originally she was raced successfully and later was used
+  for chartering. She was re-built in 1982-3 with the keelson as the only original
+  piece of timber left. She is double planked in cedar to the waterline with light
+  timbers of iron wood. The topsides are fir and the deck is triple planked finished
+  in Port Orford cedar.<p>She was imported into the UK in 2003 and in five years had
+  three owners who improved her but did little sailing as her spars and sail plan
+  was over-canvassed. This resulted in excessive weather helm and an un-seaworthy
+  boat. Anthony Wheaton purchased her in 2008 and is continuing her improvement. He
+  has replaced the over-canvassed rig which had a boom that overhung the counter by
+  10ft with a balanced sail plan designed by Ed Burnett.
+builder:
+  name: Eric Ashford
+  id: 6d10a1aa-9bcb-4b09-90ef-10f1c9e9c6f8
 construction_material: wood
 construction_method: carvel
 draft: 2.5146
@@ -32,59 +54,45 @@ for_sales:
   sold: null
   summary: null
   updated_at: '2022-08-27T19:46:50.461467+00:00'
-full_description: Built in San Diego, California in 1904, she is an extreme plank-on-edge
-  &ldquo;lead mine&rdquo; (narrow beam, very deep draft, V shaped in section with
-  all the ballast inside the boat).<p>The designer is unknown but Kunhardt developed
-  a GL Watson inspired rig. Originally she was raced successfully and later was used
-  for chartering. She was re-built in 1982-3 with the keelson as the only original
-  piece of timber left. She is double planked in cedar to the waterline with light
-  timbers of iron wood. The topsides are fir and the deck is triple planked finished
-  in Port Orford cedar.<p>She was imported into the UK in 2003 and in five years had
-  three owners who improved her but did little sailing as her spars and sail plan
-  was over-canvassed. This resulted in excessive weather helm and an un-seaworthy
-  boat. Anthony Wheaton purchased her in 2008 and is continuing her improvement. He
-  has replaced the over-canvassed rig which had a boom that overhung the counter by
-  10ft with a balanced sail plan designed by Ed Burnett.
-generic_type: Yacht
 handicap_data:
   beam: 2.801146061936113
-  draft: 2.5146305779078273
-  fore_triangle_base: 7.900512070226774
-  fore_triangle_height: 16.099731772738355
-  length_on_waterline: 11.100950987564008
-  length_over_all: 12.798707632284808
   main:
     foot: 8.549743964886613
     head: 6.589856132650573
     luff: 5.318824676908071
-  propellor:
-    blades: 3
-    type: folding
-  sailarea: 130.3653016212939
   thcf: 1.196
+  draft: 2.5146305779078273
   topsail:
     luff: 10.198732016581321
     perpendicular: 3.9990246281394777
+  sailarea: 130.3653016212939
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 12.798707632284808
+  fore_triangle_base: 7.900512070226774
+  length_on_waterline: 11.100950987564008
+  fore_triangle_height: 16.099731772738355
 home_country: GBR
 home_port: Hamble
 hull_form: long keel sloping forefoot
 id: c1030c8d-8882-425b-96e1-e64a834cd936
 length_on_deck: 12.7986
-mainsail_type: gaff
-name: Aeolus
-oga_no: 2938
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 619
-  member: 5252
+- id: 619
   share: 64
   start: 2008
+  member: 5252
+  current: true
 place_built: San Diego, USA
-rig_type: Cutter
-short_description: One off plank on edge design inspired by G Watson. She was built
-  and raced off San Diego. She had a major re-build in 1982 and was shipped to UK
-  in the early 2000s.
 updated_at: '2022-08-27T19:48:27.793771+00:00'
 website: http://www.aeolus1904.com
 year: 1904
 year_is_approximate: false
+image_key: k2HJ4Q
+construction_details: wood plank on frame
+beam: 2.8011
+for_sale_state:
+  text: for_sale

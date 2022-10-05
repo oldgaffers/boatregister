@@ -1,13 +1,20 @@
-builder: e4a1b3ca-b62e-4b03-8b3a-a5ba914c3293
-callsign: ''
+name: Snowgoose
+oga_no: 1349
+generic_type: Yacht
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: William May
+  id: e4a1b3ca-b62e-4b03-8b3a-a5ba914c3293
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: unknown
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   length_over_all: 5.18166300902219
 home_country: GBR
@@ -15,18 +22,18 @@ home_port: Morston Norfolk
 hull_form: unknown
 id: 43535e2b-e1e4-4412-a438-9389561fe58d
 length_on_deck: 5.1816
-mainsail_type: gaff
-name: Snowgoose
-oga_no: 1349
+callsign: ''
 ownerships:
-- current: true
-  id: 138
-  member: 2267
+- id: 138
   share: 64
   start: 2012
+  member: 2267
+  current: true
 place_built: Potter Heigham
-short_description: ''
 updated_at: '2021-12-19T13:39:08.857386+00:00'
 website: ''
 year: 1983
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

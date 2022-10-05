@@ -1,35 +1,49 @@
-builder: 024e9e01-88d2-47bd-83ed-0c3cd77c3108
-callsign: ''
+name: Ripple
+oga_no: 92
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 70/5, 85/1  Gunter  sloop 3/4 deck
+builder:
+  name: Drake Bros.
+  id: 024e9e01-88d2-47bd-83ed-0c3cd77c3108
+designer:
+  name: Morgan Giles
+  id: f1bc585c-9638-4fd8-8fc7-f382b028513c
 construction_material: wood
 construction_method: clinker
-designer: f1bc585c-9638-4fd8-8fc7-f382b028513c
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Log 70/5, 85/1  Gunter  sloop 3/4 deck
-generic_type: Dinghy
 handicap_data:
   beam: 1.8288222384784198
-  draft: 0.9144111192392099
-  length_on_waterline: 5.120702267739576
-  length_over_all: 5.4864667154352595
   thcf: 0.97
+  draft: 0.9144111192392099
+  length_over_all: 5.4864667154352595
+  length_on_waterline: 5.120702267739576
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: ecef7d78-64d3-455f-8a39-7137257b511a
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: Ripple
-oga_no: 92
+reference:
+- Log 70/5
+- Log 85/1
+callsign: ''
 ownerships:
 - name: R V Crick
   share: 64
   start: 2012
 place_built: Tollesbury
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:32.351662+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+construction_details: Clinker
+beam: 1.8288
+design_class:
+  name: Thames Estuary OD
+  id: 2bba407e-7ddd-42fa-ad7c-b3807aeb5275
+for_sale_state:
+  text: not_for_sale

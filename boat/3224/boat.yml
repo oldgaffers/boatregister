@@ -1,35 +1,46 @@
-callsign: ''
+name: Nanouk
+oga_no: 3224
+generic_type: Dinghy
+rig_type: single_sail
+mainsail_type: lug
+short_description: <p>&#39;Nanouk&#39; is a Francis Vivier Aber design.</p>
+full_description: ''
+designer:
+  name: "Fran\xE7ois Vivier"
+  id: f8f01050-235c-4793-b62b-8d3d953d173e
 construction_material: woodepoxy
 construction_method: unknown
-designer: f8f01050-235c-4793-b62b-8d3d953d173e
 draft: 0.3048
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
-  length_on_waterline: 4.1148
-  length_overall: 4.5202
   main:
     foot: 11.67
     head: 10.25
     luff: 6.33
+  length_overall: 4.5202
+  length_on_waterline: 4.1148
 home_country: FRA
 home_port: Brittany
 hull_form: long keel deep forefoot
 id: d6aa26de-ca7f-4a22-a76c-982abd2e0d83
 length_on_deck: 4.5202
-mainsail_type: lug
-name: Nanouk
-oga_no: 3224
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 502
-  member: 4743
+- id: 502
   share: 64
   start: 2014
-rig_type: single_sail
-short_description: <p>&#39;Nanouk&#39; is a Francis Vivier Aber design.</p>
+  member: 4743
+  current: true
 updated_at: '2021-12-19T13:40:04.604621+00:00'
 website: ''
 year_is_approximate: false
+image_key: wxf5LP
+construction_details: Strip plank epoxy.
+beam: 1.4996
+design_class:
+  name: Aber
+  id: c01425bf-c94f-40c1-b3e1-51f0bd2c7bce
+for_sale_state:
+  text: not_for_sale

@@ -1,18 +1,23 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Maia
+oga_no: 2365
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  fore_triangle_base: 4.114850036576445
-  fore_triangle_height: 5.6388685686417945
-  length_over_all: 7.315288953913679
   main:
     foot: 4.166666666666666
     head: 2.8194342843208973
@@ -21,22 +26,24 @@ handicap_data:
   topsail:
     luff: 4.343452816386247
     perpendicular: 2.286027798098025
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 4.114850036576445
+  fore_triangle_height: 5.6388685686417945
 home_country: 'null'
 home_port: Pin Mill
 hull_form: unknown
 id: 80d18ade-6771-442e-b701-ffd1fc051692
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Maia
-oga_no: 2365
+callsign: ''
 ownerships:
 - name: J Sumberg
   share: 64
   start: 2012
 place_built: Rock
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:36.426408+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

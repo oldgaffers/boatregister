@@ -1,33 +1,44 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: ''
+name: Dabchick
+oga_no: 700
+generic_type: Dinghy
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: wood
 construction_method: unknown
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.7678614971958058
-  length_on_waterline: 4.114850036576445
   length_over_all: 4.724457449402585
+  length_on_waterline: 4.114850036576445
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 425e57e2-50e9-4a57-bef7-81928f3a4eee
 length_on_deck: 4.7244
-mainsail_type: gaff
-name: Dabchick
-oga_no: 700
+spar_material: wood
+callsign: ''
 ownerships:
 - name: G Mitchell
   share: 64
   start: 2012
 place_built: Totnes
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:49.973404+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+beam: 1.7678
+design_class:
+  name: Drascombe Dabber
+  id: 009e26a6-6fa0-408c-8665-3c58e816feef
+for_sale_state:
+  text: not_for_sale

@@ -1,37 +1,43 @@
-builder: a9e83f1e-565e-4568-b052-7a492147a30d
-callsign: ''
+name: Stormalong
+oga_no: 202
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
+designer:
+  name: E.K. Burt
+  id: 9db39085-bcdb-4b1e-af8e-d7801fcb749f
 construction_material: wood
 construction_method: unknown
-designer: 9db39085-bcdb-4b1e-af8e-d7801fcb749f
 draft: 1.7526
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.692453060229212
-  draft: 1.7526396000975373
-  fore_triangle_base: 5.4864667154352595
-  fore_triangle_height: 8.53450377956596
-  length_on_waterline: 8.53450377956596
-  length_over_all: 8.68691782492075
   main:
     foot: 5.054675688856376
     head: 4.368861253352841
     luff: 4.343458912460375
-  sailarea: 51.56758392689088
   thcf: 0.98
+  draft: 1.7526396000975373
   topsail:
     luff: 4.470470616922701
     perpendicular: 2.7432333577176298
+  sailarea: 51.56758392689088
+  length_over_all: 8.68691782492075
+  fore_triangle_base: 5.4864667154352595
+  length_on_waterline: 8.53450377956596
+  fore_triangle_height: 8.53450377956596
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 2cc7c16a-1a02-420b-9dab-1d95b4c623b2
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: Stormalong
-oga_no: 202
+callsign: ''
 ownerships:
 - name: E Valent
   share: 32
@@ -40,9 +46,13 @@ ownerships:
   share: 32
   start: 2012
 place_built: Falmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:35.469647+00:00'
 website: ''
 year: 1914
 year_is_approximate: false
+previous_names:
+- Catherine Frances
+construction_details: Pine on oak ribs
+beam: 2.6914
+for_sale_state:
+  text: not_for_sale

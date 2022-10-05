@@ -1,42 +1,53 @@
-builder: 895259ce-497e-4e21-a923-d0ef7f227f2f
-callsign: ''
+name: Mantis
+oga_no: 1314
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: The Ballyholme Insect class is the same as the RNSA 14 but built
+  for Ballyholme Yacht Club from the late 1940's.
+full_description: ''
+builder:
+  name: French and McDermott
+  id: 895259ce-497e-4e21-a923-d0ef7f227f2f
+designer:
+  name: Charles E. Nicholson
+  id: f97b2d74-8535-4ed5-8602-651d2ca2898f
 construction_material: wood
 construction_method: clinker
-designer: f97b2d74-8535-4ed5-8602-651d2ca2898f
 draft: 0.189
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.645940014630578
-  draft: 0.18897829797610338
-  fore_triangle_base: 1.237503048037064
-  fore_triangle_height: 4.014264813460131
-  length_on_waterline: 4.154474518410144
-  length_over_all: 4.291636186296025
   main:
     foot: 2.8895391367959036
     head: 3.8496708119970737
     luff: 1.664228237015362
   thcf: 0.771104178
+  draft: 0.18897829797610338
+  length_over_all: 4.291636186296025
+  fore_triangle_base: 1.237503048037064
+  length_on_waterline: 4.154474518410144
+  fore_triangle_height: 4.014264813460131
 home_country: Northern Ireland
 home_port: Strangford Lough
 hull_form: centre-board dinghy
 id: 840a7cd4-c08f-42cb-8370-74108591bb49
 length_on_deck: 4.2916
-mainsail_type: gaff
-name: Mantis
-oga_no: 1314
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Tony Patterson
   share: 64
   start: 2012
 place_built: Groomsport Co Down
-rig_type: Sloop
-short_description: The Ballyholme Insect class is the same as the RNSA 14 but built
-  for Ballyholme Yacht Club from the late 1940's.
 updated_at: '2021-12-19T13:39:07.913378+00:00'
 website: http://dundrumsailingclub.blogspot.com/2012/09/other-club-boats-include-ballyholme.html
 year: 1951
 year_is_approximate: false
+beam: 1.6459
+design_class:
+  name: Ballyholme YC Insect
+  id: 6d8e9e12-cdc1-407f-9510-93ba21068a3b
+for_sale_state:
+  text: not_for_sale

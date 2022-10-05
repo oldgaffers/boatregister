@@ -1,42 +1,54 @@
-builder: 1e11d02b-ff99-4b3e-893e-b1233b131985
-callsign: ''
+name: Cat-a-Tonic
+oga_no: 2397
+generic_type: Dayboat
+rig_type: cat_boat
+mainsail_type: gaff
+short_description: <p>&#39;Cat-a-Tonic&#39; is a 12&#39; American Cat Boat.</p>
+full_description: Designed in 1983, 'Cat-a-Tonic' has a 70lb. centreplate, hollow,
+  'Noble' mast and carbon fibre gaff.  Her designed displacement is 560lb., and weight
+  rigged 400lb.
+builder:
+  name: Colin Freeman
+  id: 1e11d02b-ff99-4b3e-893e-b1233b131985
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: woodepoxy
 construction_method: unknown
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.1524
 engine_installations: []
 for_sales:
 - asking_price: 2800
-full_description: Designed in 1983, 'Cat-a-Tonic' has a 70lb. centreplate, hollow,
-  'Noble' mast and carbon fibre gaff.  Her designed displacement is 560lb., and weight
-  rigged 400lb.
-generic_type: Dayboat
 handicap_data:
   beam: 1.7404291636186295
-  draft: 0.152401853206535
-  length_on_waterline: 3.493050475493782
-  length_over_all: 3.6576444769568397
   main:
     foot: 3.5052426237503047
     head: 2.5146305779078273
     luff: 2.261643501584979
   thcf: 0.730429869
+  draft: 0.152401853206535
+  length_over_all: 3.6576444769568397
+  length_on_waterline: 3.493050475493782
 home_country: GBR
 home_port: Instow
 hull_form: centre-board dinghy
 id: 3e30bbae-d4ab-4275-8b5c-ece51aab94c9
 length_on_deck: 3.6576
-mainsail_type: gaff
-name: Cat-a-Tonic
-oga_no: 2397
+sail_number: '2397'
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Colin Freeman
   share: 64
   start: 1996
 place_built: Cheltenham
-rig_type: cat_boat
-short_description: <p>&#39;Cat-a-Tonic&#39; is a 12&#39; American Cat Boat.</p>
 updated_at: '2021-12-19T13:39:37.726886+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+image_key: fwWVsL
+construction_details: Cedar strip  with kyer mahogany veneer, expoy coated. Hollow
+  spruce mast, spruce boom with a carbon fibre gaff. Centreboard 10mm galvanised.
+beam: 1.7404
+for_sale_state:
+  text: not_for_sale

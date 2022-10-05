@@ -1,12 +1,9 @@
-builder: b3841693-d336-4132-8e60-8933dfd41cf6
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: f4efde5e-6bf9-4501-9f77-06e4bff95271
-draft: 0.9144
-engine_installations: []
-for_sales:
-- asking_price: 24950
+name: Anita
+oga_no: 3428
+generic_type: Oyster Boat
+rig_type: None
+mainsail_type: none
+short_description: <p>Anita was built as a fishing boat, then converted for leisure</p>
 full_description: "<p>Originally built for Oystering on the Crouch, possibly for a&nbsp;Mr\
   \ Deval. When the business failed Pym&nbsp;moved to Brightlingsea as a trawler.\
   \ Her name was changed by her new owner Chris Scott to Anita. his wife&#39;s name.\
@@ -17,18 +14,27 @@ full_description: "<p>Originally built for Oystering on the Crouch, possibly for
   \ Broads, and the Kennett and Avon canal all the way to Bristol.</p>\r\n\r\n<p>Anita\
   \ is a versatile boat capable of coastal cruising, but with a demountable wheelhouse\
   \ to enable her to pass under bridges with as little as 6&#39; headroom.</p>"
-generic_type: Oyster Boat
+builder:
+  name: Unknown
+  id: b3841693-d336-4132-8e60-8933dfd41cf6
+designer:
+  name: Watson
+  id: f4efde5e-6bf9-4501-9f77-06e4bff95271
+construction_material: wood
+construction_method: unknown
+draft: 0.9144
+engine_installations: []
+for_sales:
+- asking_price: 24950
 handicap_data:
-  length_on_waterline: 8.2296
   length_overall: 9.144
+  length_on_waterline: 8.2296
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 8fbfdfbc-1e50-434f-8956-b8de468199e6
 length_on_deck: 9.144
-mainsail_type: none
-name: Anita
-oga_no: 3428
+callsign: ''
 ownerships:
 - note: Mr Deval, Chris Scott
   text: Mr Deval, Chris Scott
@@ -36,8 +42,14 @@ ownerships:
   share: 64
   start: 2005
 place_built: Fambridge
-rig_type: None
-short_description: <p>Anita was built as a fishing boat, then converted for leisure</p>
 updated_at: '2021-12-19T13:40:10.442392+00:00'
 website: ''
 year_is_approximate: false
+previous_names:
+- Pym
+image_key: kB89z8
+construction_details: Iroko planking on steamed oak timbers. Epoxy sheathed plywood
+  deck. Some original deck is iroko on plywood base
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

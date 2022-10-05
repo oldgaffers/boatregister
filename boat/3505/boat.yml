@@ -1,41 +1,50 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
+name: Saorsa
+oga_no: 3505
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: Original design Drascombe Drifter - bilge keel trailable cabin
+  cruiser
+full_description: Gunter lug small cruiser
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
 construction_material: grp
 construction_method: unknown
 engine_installations: []
 for_sales: []
-full_description: Gunter lug small cruiser
-generic_type: unknown
 handicap_data:
   beam: 2.2098268714947573
-  draft: 0.60960741282614
-  fore_triangle_base: 2.0574250182882223
-  fore_triangle_height: 5.257863935625457
-  length_on_waterline: 5.587051938551572
-  length_over_all: 6.5532796878810045
   main:
     foot: 2.871250914411119
     head: 2.8956352109241648
     luff: 2.9474518410143866
+  thcf: 0.822893903
+  draft: 0.60960741282614
   mizzen:
     foot: 1.3716166788588149
     luff: 2.7432333577176298
-  thcf: 0.822893903
+  length_over_all: 6.5532796878810045
+  fore_triangle_base: 2.0574250182882223
+  length_on_waterline: 5.587051938551572
+  fore_triangle_height: 5.257863935625457
 home_country: United Kingdom
 home_port: Mylor
 hull_form: unknown
 id: 1c8f5652-96a4-43eb-b1c3-2e772ed58ace
-mainsail_type: gaff
-name: Saorsa
-oga_no: 3505
+sail_number: '70'
+spar_material: wood
 ownerships:
-- current: true
-  id: 348
-  member: 3906
+- id: 348
   share: 64
+  member: 3906
+  current: true
   start: '?'
-rig_type: Yawl
-short_description: Original design Drascombe Drifter - bilge keel trailable cabin
-  cruiser
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 1980
 year_is_approximate: true
+image_key: DpzMgR
+beam: 2.2098
+design_class:
+  name: Drascombe Drifter
+  id: f87e1824-67f1-4d99-a8d1-4e3ed6d5650c

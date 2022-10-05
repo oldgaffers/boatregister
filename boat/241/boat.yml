@@ -1,33 +1,42 @@
-builder: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
-callsign: ''
+name: Coquette
+oga_no: 241
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+designer:
+  name: Alfred Mylne
+  id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
 construction_material: wood
 construction_method: unknown
-designer: f4272731-0d68-44d6-a0ef-e9266edfc9ef
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.286027798098025
-  length_on_waterline: 6.0960741282613995
   length_over_all: 8.077298219946353
+  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 9949b0ad-2bba-4745-961a-798a8683297c
 length_on_deck: 8.0772
-mainsail_type: gaff
-name: Coquette
-oga_no: 241
+callsign: ''
 ownerships:
 - name: I Baty-Symes
   share: 64
   start: 2012
 place_built: Tarbert
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:36.657647+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+previous_names:
+- Cabana
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

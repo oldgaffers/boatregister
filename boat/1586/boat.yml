@@ -1,11 +1,10 @@
-builder: ad8da949-93e8-4d53-9961-1d698f5c9852
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: a9c50d55-f3c5-4112-8f58-ed18082f5637
-draft: 1.3716166788588149
-engine_installations: []
-for_sales: []
+name: Arthur Alexander
+oga_no: 1586
+generic_type: Morecambe Bay Prawner
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built in Fleetwood as a fishing boat for J H Bullock of Lytham,
+  known as &#39;Tern&#39;, she was registered at Preston on 29 June 1894, PN64.</p>
 full_description: '<p>Salvaged from Tigers Tail, Fleetwood, she was bought and refitted
   by Mike Griffiths.I He sadly died in 2014.</p>
 
@@ -13,7 +12,17 @@ full_description: '<p>Salvaged from Tigers Tail, Fleetwood, she was bought and r
   out and in need of &nbsp;full restoration. By spring of 2022 she was in the final
   stages of completion with hope to &nbsp;launch in the summer. The engine has had
   a complete rebuild and the mast, bowsprit, gaff and boom have also been renovated.</p>'
-generic_type: Morecambe Bay Prawner
+builder:
+  name: John Gibson and Sons
+  id: ad8da949-93e8-4d53-9961-1d698f5c9852
+designer:
+  name: William Stoba
+  id: a9c50d55-f3c5-4112-8f58-ed18082f5637
+construction_material: wood
+construction_method: carvel
+draft: 1.3716166788588149
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.2004389173372347
   length_on_deck: 10.0584
@@ -23,14 +32,14 @@ home_port: Conwy
 hull_form: unknown
 id: 4be7144b-d87a-4a2a-b702-a69c88be815a
 length_on_deck: 10.0584
-mainsail_type: gaff
-name: Arthur Alexander
-oga_no: 1586
+sail_number: LL1
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2000
-  end_is_approximate: true
   name: Andy Williams
   share: 64
+  end_is_approximate: true
 - end: 2014
   name: Mike Griffiths
   share: 64
@@ -40,16 +49,20 @@ ownerships:
   name: Alex Griffiths
   share: 64
   start: 2014
-- current: true
-  id: 34930
-  member: 6310
+- id: 34930
   share: 64
   start: 2015
+  member: 6310
+  current: true
 place_built: Fleetwood
-rig_type: Cutter
-short_description: <p>Built in Fleetwood as a fishing boat for J H Bullock of Lytham,
-  known as &#39;Tern&#39;, she was registered at Preston on 29 June 1894, PN64.</p>
 updated_at: '2022-02-14T19:53:52.820791+00:00'
 website: ''
 year: 1894
 year_is_approximate: false
+previous_names:
+- Tern
+image_key: bR7Gcx
+construction_details: Carvel on steamed frames, iron keel
+beam: 0
+for_sale_state:
+  text: not_for_sale

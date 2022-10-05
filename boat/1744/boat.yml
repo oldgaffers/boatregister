@@ -1,43 +1,47 @@
-callsign: ''
+name: Faraway
+oga_no: 1744
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: carvel
 draft: 1.1186
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.0574250182882223
-  draft: 1.1186296025359668
-  fore_triangle_base: 3.8100463301633747
-  fore_triangle_height: 6.0960741282613995
-  length_on_waterline: 5.6388685686417945
-  length_over_all: 6.2484759814679345
   main:
     foot: 4.038649109973177
     head: 2.590831504511095
     luff: 3.8100463301633747
-  propellor:
-    type: fixed
   thcf: 0.867715524
+  draft: 1.1186296025359668
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.6764203852718849
+  propellor:
+    type: fixed
+  length_over_all: 6.2484759814679345
+  fore_triangle_base: 3.8100463301633747
+  length_on_waterline: 5.6388685686417945
+  fore_triangle_height: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: cd3ec86f-5f51-4368-977d-d51df5fd5b35
 length_on_deck: 6.2484
-mainsail_type: gaff
-name: Faraway
-oga_no: 1744
+callsign: ''
 ownerships:
 - name: N Tonkin
   share: 64
   start: 2012
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:19.157132+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+construction_details: Carvel Pitch Pine on Oak
+beam: 2.0574
+for_sale_state:
+  text: not_for_sale

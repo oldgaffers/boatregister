@@ -1,33 +1,41 @@
-builder: cf95f2fd-cdef-4fae-beea-bf1c308b6759
-callsign: ''
+name: Boan
+oga_no: 675
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 87/2, 92/2
+builder:
+  name: Risor Shipyard
+  id: cf95f2fd-cdef-4fae-beea-bf1c308b6759
 construction_material: wood
 construction_method: unknown
 draft: 1.8288
 engine_installations: []
 for_sales: []
-full_description: Log 87/2, 92/2
-generic_type: unknown
 handicap_data:
   beam: 4.114850036576445
   draft: 1.8288222384784198
-  length_on_waterline: 9.1441111923921
   length_over_all: 10.790051207022676
+  length_on_waterline: 9.1441111923921
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 940871fc-3103-4620-af92-ea8b6e7cc884
 length_on_deck: 10.7899
-mainsail_type: gaff
-name: Boan
-oga_no: 675
+reference:
+- Log 87/2
+- Log 92/2
+callsign: ''
 ownerships:
 - name: A E Tate
   share: 64
   start: 1981
 place_built: Risor
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:49.202136+00:00'
 website: ''
 year: 1927
 year_is_approximate: false
+beam: 4.1148
+for_sale_state:
+  text: not_for_sale

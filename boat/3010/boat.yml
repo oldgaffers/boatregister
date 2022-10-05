@@ -1,41 +1,52 @@
-builder: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
-callsign: ''
+name: Kingfisher
+oga_no: 3010
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: North Norfolk Boat Building Co.
+  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: grp
 construction_method: cold_moulded
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.4572
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  draft: 0.45720555961960496
-  draft_keeldown: 1.1430138990490124
-  fore_triangle_base: 2.43842965130456
-  fore_triangle_height: 4.87685930260912
-  length_on_waterline: 5.410265788831992
-  length_over_all: 6.044257498171177
   main:
     foot: 4.191050963179712
     head: 3.0998536942209216
     luff: 3.0480370641306997
-  propellor:
-    blades: 2
-    type: fixed
   thcf: 0.823982113
+  draft: 0.45720555961960496
+  propellor:
+    type: fixed
+    blades: 2
+  draft_keeldown: 1.1430138990490124
+  length_over_all: 6.044257498171177
+  fore_triangle_base: 2.43842965130456
+  length_on_waterline: 5.410265788831992
+  fore_triangle_height: 4.87685930260912
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: b7f4dccc-073c-442d-96d4-786e3bdf4c44
 length_on_deck: 6.0442
-mainsail_type: gaff
-name: Kingfisher
-oga_no: 3010
+callsign: ''
 place_built: Moreston
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-26T07:56:29.330415+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+construction_details: GRP
+beam: 2.286
+design_class:
+  name: Norfolk Gypsy
+  id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
+for_sale_state:
+  text: not_for_sale

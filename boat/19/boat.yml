@@ -1,12 +1,11 @@
-builder: c1493bc6-547f-41fa-9568-c4067ba0baeb
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f4272731-0d68-44d6-a0ef-e9266edfc9ef
-draft: 1.8288
-engine_installations: []
-for_sales:
-- asking_price: 12000
+name: Shireen
+oga_no: 19
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Shireen&#39; is a Clyde 19/24, built in 1900 in the Royal
+  Burgh of Rutherglen by Ewing McGruer. Designed by Alfred Mylne she has been restored
+  and relaunched, May 2017.</p>
 full_description: "<p>On 12 May, 2017, &#39;Shireen&#39;, the restored 19/24 class\
   \ Clyde racing yacht was relaunched at Holy Loch Marina, Sandbank.</p>\r\n\r\n<p>Based\
   \ on records kept by a previous owner, the Yachting Life article summarises some\
@@ -17,37 +16,47 @@ full_description: "<p>On 12 May, 2017, &#39;Shireen&#39;, the restored 19/24 cla
   \ then she has had a chequered history and spent some time lying in the open which\
   \ led to the need for some major repairs done by Ronnie McGrouther of McKellars\
   \ slipway.</p>"
-generic_type: Yacht
+builder:
+  name: McGruer
+  id: c1493bc6-547f-41fa-9568-c4067ba0baeb
+designer:
+  name: Alfred Mylne
+  id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
+construction_material: wood
+construction_method: carvel
+draft: 1.8288
+engine_installations: []
+for_sales:
+- asking_price: 12000
 handicap_data:
   beam: 2.13362594489149
   draft: 1.8288222384784198
-  length_on_waterline: 5.7912704218483295
-  length_over_all: 7.315288953913679
   propellor:
     type: folding
+  length_over_all: 7.315288953913679
+  length_on_waterline: 5.7912704218483295
 home_country: GBR
 home_port: Holy Loch, Scotland
 hull_form: long keel sloping forefoot
 id: c5c93354-93f9-4d71-90e4-840d96ef5f77
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Shireen
-oga_no: 19
+sail_number: 19C
+callsign: ''
 ownerships:
 - note: 'Previous owners:'
   text: 'Previous owners:'
 - note: 'Mr Lawson, 1932. '
+  text: Mr Lawson,
   start: 1932
   start_is_approximate: false
-  text: Mr Lawson,
 - note: F and A Davidson 1940's
+  text: F and A Davidson
   start: 1940
   start_is_approximate: false
-  text: F and A Davidson
 - note: F.H.Simpson (1973)
+  text: F.H.Simpson (
   start: 1973
   start_is_approximate: false
-  text: F.H.Simpson (
 - end: 2016
   name: David MacLeod
   share: 64
@@ -55,16 +64,20 @@ ownerships:
 - name: Neil McMaster
   share: 64
   start: 2016
-- current: true
+- share: 64
   member: 4171
-  share: 64
+  current: true
   start: '?'
 place_built: Rutherglen
-rig_type: Sloop
-short_description: <p>&#39;Shireen&#39; is a Clyde 19/24, built in 1900 in the Royal
-  Burgh of Rutherglen by Ewing McGruer. Designed by Alfred Mylne she has been restored
-  and relaunched, May 2017.</p>
 updated_at: '2021-12-19T13:38:30.242923+00:00'
 website: ''
 year: 1900
 year_is_approximate: false
+image_key: X996wD
+construction_details: Carvel Mahogany and Pitch pine on oak frames
+beam: 2.1336
+design_class:
+  name: Clyde 19/24
+  id: 5f3469c1-8c96-4acc-aeb5-8fd63903f310
+for_sale_state:
+  text: not_for_sale

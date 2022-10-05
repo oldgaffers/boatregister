@@ -1,11 +1,10 @@
-builder: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: a1307f55-2601-4a92-ad68-1db523c0e3b9
-draft: 1.2954157522555474
-engine_installations: []
-for_sales: []
+name: Crystal II
+oga_no: 3432
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>According to Uffa Fox &quot;Crystal is one of the best, if not
+  the best, cruiser of her size and type ever designed.&quot;</p>
 full_description: "<p>Although built in Scotland by Dickies of Tarbert her first owner\
   \ immediately moved&nbsp;her to&nbsp;Rochester, where she stayed until 1933&nbsp;when\
   \ she was sold and taken to&nbsp;Burnham-on-Crouch. Her new owner added a doghouse,\
@@ -44,76 +43,88 @@ full_description: "<p>Although built in Scotland by Dickies of Tarbert her first
   \ and she is now being sailed out of Bembridge IOW.</p>\r\n\r\n<p>Although initally\
   \ a &quot;one off&quot; design, Crystal II now has a sister ship, Daydream, constructed\
   \ using traditional methods in America in 2016.</p>"
-generic_type: Yacht
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+designer:
+  name: Frederick Shepherd
+  id: a1307f55-2601-4a92-ad68-1db523c0e3b9
+construction_material: wood
+construction_method: carvel
+draft: 1.2954157522555474
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.590831504511095
-  length_on_waterline: 10.820531577663983
-  length_over_all: 9.296513045598633
+  thcf: 1.004
+  sailarea: 40.71296032197498
   propellor:
     type: feathering
-  sailarea: 40.71296032197498
-  thcf: 1.004
+  length_over_all: 9.296513045598633
+  length_on_waterline: 10.820531577663983
 home_country: GBR
 home_port: Bembridge IOW
 hull_form: long keel sloping forefoot
 id: 18fee80e-da6e-41f8-95c3-0f45cbcd6a3f
 length_on_deck: 9.296513045598633
-mainsail_type: gaff
-name: Crystal II
-oga_no: 3432
+sail_number: CL2
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 1933
-  end_is_approximate: false
   note: 1927-1933 David Anderson, based at Rochester
-  start: 1927
-  start_is_approximate: false
   text: David Anderson, based at Rochester
+  start: 1927
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1954
-  end_is_approximate: false
   note: 1934-1954 T.H.Seaton, based at Burnham on Crouch
-  start: 1934
-  start_is_approximate: false
   text: T.H.Seaton, based at Burnham on Crouch
+  start: 1934
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1981
-  end_is_approximate: false
   note: '1954-1981 Edwin Kerr, '
-  start: 1954
-  start_is_approximate: false
   text: Edwin Kerr,
+  start: 1954
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1996
-  end_is_approximate: true
   note: 1981-1996? John Perry and Roger Thwaites
-  start: 1981
-  start_is_approximate: false
   text: John Perry and Roger Thwaites
-- end: 2002
-  end_is_approximate: false
-  note: 1996?-2002 Martin and Julia Davy
-  start: 1996
-  start_is_approximate: true
-  text: Martin and Julia Davy
-- end: 2009
+  start: 1981
   end_is_approximate: true
-  note: 2003-2009? Kris Hansen
-  start: 2003
   start_is_approximate: false
-  text: Kris Hansen
-- end: 2018
+- end: 2002
+  note: 1996?-2002 Martin and Julia Davy
+  text: Martin and Julia Davy
+  start: 1996
   end_is_approximate: false
-  note: 2009?-2018 Ivan Maskell
-  start: 2009
   start_is_approximate: true
+- end: 2009
+  note: 2003-2009? Kris Hansen
+  text: Kris Hansen
+  start: 2003
+  end_is_approximate: true
+  start_is_approximate: false
+- end: 2018
+  note: 2009?-2018 Ivan Maskell
   text: Ivan Maskell
-- current: true
-  id: 1092
-  member: 6346
+  start: 2009
+  end_is_approximate: false
+  start_is_approximate: true
+- id: 1092
   share: 64
   start: 2017
+  member: 6346
+  current: true
 place_built: Tarbert
-rig_type: Sloop
-short_description: <p>According to Uffa Fox &quot;Crystal is one of the best, if not
-  the best, cruiser of her size and type ever designed.&quot;</p>
 updated_at: '2021-12-19T13:40:10.543891+00:00'
 website: ''
 year: 1927
 year_is_approximate: false
+image_key: 382NCP
+construction_details: Carvel planked in teak on steamed and grown frames of oak
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

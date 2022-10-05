@@ -1,13 +1,21 @@
-builder: f232fffa-4800-45c8-a9e1-12c428458ad8
-callsign: ''
+name: Sea Fever
+oga_no: 1957
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cuttriss Boats
+  id: f232fffa-4800-45c8-a9e1-12c428458ad8
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 construction_material: wood
 construction_method: unknown
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.261643501584979
   length_over_all: 5.7912704218483295
@@ -16,17 +24,20 @@ home_port: Clew Bay, Mayo
 hull_form: unknown
 id: c4c6c5b9-3ab4-4390-9be8-4732beafc83f
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Sea Fever
-oga_no: 1957
+callsign: ''
 ownerships:
 - name: Stuart Nicholls
   share: 64
   start: 2012
 place_built: Bangor Co Down
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-04-07T20:39:31.416353+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+image_key: FNc4jw
+beam: 2.2616
+design_class:
+  name: Tamarisk 19
+  id: 9e97f791-1924-4839-948c-dbbffe7290a1
+for_sale_state:
+  text: not_for_sale

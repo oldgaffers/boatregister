@@ -1,44 +1,50 @@
-builder: c1598b05-de6e-484a-890d-ca85c5b599b3
-callsign: ''
+name: Gudrun
+oga_no: 3022
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: Bemesters
+  id: c1598b05-de6e-484a-890d-ca85c5b599b3
 construction_material: wood
 construction_method: carvel
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.21921482565228
-  fore_triangle_base: 2.590831504511095
-  fore_triangle_height: 10.66812972445745
-  length_on_waterline: 7.467690807120214
-  length_over_all: 8.177883443062667
   main:
     foot: 4.57205559619605
     luff: 12.192148256522799
-  propellor:
-    blades: 2
-    type: fixed
   thcf: 0.926318012
+  draft: 1.21921482565228
+  propellor:
+    type: fixed
+    blades: 2
+  length_over_all: 8.177883443062667
+  fore_triangle_base: 2.590831504511095
+  length_on_waterline: 7.467690807120214
+  fore_triangle_height: 10.66812972445745
 home_country: 'null'
 home_port: Bradwell
 hull_form: long keel deep forefoot
 id: 2f7a02c3-2949-49ad-a872-0a1790157bfa
 length_on_deck: 8.1778
-mainsail_type: bermudan
-name: Gudrun
-oga_no: 3022
+callsign: ''
 ownerships:
-- current: true
-  id: 660
-  member: 5493
+- id: 660
   share: 64
+  member: 5493
+  current: true
   start: '?'
 place_built: Chichester
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 website: ''
 year: 1938
 year_is_approximate: false
+construction_details: Wood carvel
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

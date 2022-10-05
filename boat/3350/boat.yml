@@ -1,12 +1,11 @@
-builder: 2f036386-d9f8-4d02-97c3-3a74bf1e00d5
-callsign: ''
-construction_material: grp
-construction_method: carvel
-designer: ab97c83d-029d-4209-ab49-408e8d0bb0e8
-draft: 0.1829
-engine_installations: []
-for_sales:
-- asking_price: 6950
+name: Flycatcher
+oga_no: 3350
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Flycatcher&#39; is a dayboat, based on the catboats of
+  New England whose original purpose was inshore fishing.&nbsp;She is designed to
+  suit the shallow and sheltered waters of Chichester Harbour.</p>
 full_description: "<p>James Stock, first owner and co-designer, was influenced in\
   \ his design of <em>Flycatcher </em>having sailed his cousin&#39;s Beetle Cat, <em>Breezy</em>,&nbsp;in\
   \ Nantucket Island,&nbsp;USA. This design&nbsp;first appeared in 1921 and today\
@@ -36,38 +35,51 @@ full_description: "<p>James Stock, first owner and co-designer, was influenced i
   \ speed and her handiness in smooth water and moderate breezes made her popular\
   \ and (in Britain) gave the name to&nbsp;the type...&#39;una boat&#39;.&quot;</p>\r\
   \n\r\n<h4>Acknowledgement: &#39;Cape Cod Catboats&#39; by Stan Grayson</h4>"
-generic_type: Dayboat
+builder:
+  name: Cserve
+  id: 2f036386-d9f8-4d02-97c3-3a74bf1e00d5
+designer:
+  name: Stock and Adams
+  id: ab97c83d-029d-4209-ab49-408e8d0bb0e8
+construction_material: grp
+construction_method: carvel
+draft: 0.1829
+engine_installations: []
+for_sales:
+- asking_price: 6950
 handicap_data:
-  calculated_thcf: 0.76
-  draft_keel_down: 1.143
-  length_on_waterline: 3.9624
-  length_over_spars: 4.953
-  length_overall: 4.4958
   main:
     foot: 13.71
     head: 10.56
     luff: 9.42
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 1
+  moving_keel: true
+  length_overall: 4.4958
+  calculated_thcf: 0.76
+  draft_keel_down: 1.143
+  moving_keel_type: Centreboard
+  length_over_spars: 4.953
+  length_on_waterline: 3.9624
 home_country: GBR
 home_port: Bosham
 hull_form: long keel deep forefoot
 id: d71cf515-83ec-4d91-bb7a-9afa3739532f
 length_on_deck: 4.4958
-mainsail_type: gaff
-name: Flycatcher
-oga_no: 3350
+sail_number: FC 1
+spar_material: wood
+callsign: ''
 ownerships:
 - name: James Stock
   share: 64
   start: 2017
 place_built: Poole
-rig_type: Sloop
-short_description: <p>&#39;Flycatcher&#39; is a dayboat, based on the catboats of
-  New England whose original purpose was inshore fishing.&nbsp;She is designed to
-  suit the shallow and sheltered waters of Chichester Harbour.</p>
 updated_at: '2021-12-19T13:40:08.447389+00:00'
 website: ''
 year: 2017
 year_is_approximate: false
+image_key: D6hDz4
+construction_details: Corecell/polyester resin sandwich, carvel hull. Built up planks
+  on formers.
+beam: 2.1031
+for_sale_state:
+  text: not_for_sale

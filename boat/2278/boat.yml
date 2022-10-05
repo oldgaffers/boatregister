@@ -1,27 +1,38 @@
-builder: dc7942f9-4548-42e4-8546-e557f57d165d
-callsign: MBGJ7
+name: Clearwater
+oga_no: 2278
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: "<p>&#39;Clearwater&#39; is a Tamarisk 29, the lines of&nbsp;which\
+  \ were taken directly from one of the fastest and most sea-kindly of the Falmouth\
+  \ Working Boats.</p>\r\n\r\n<p>The hull was built by Cygnus Marine in Penryn and\
+  \ fitted out by North Cornwall Marine in St.Columb.</p>"
+full_description: ''
+builder:
+  name: Cygnus Marine/N Cornwall Marine
+  id: dc7942f9-4548-42e4-8546-e557f57d165d
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 construction_material: grp
 construction_method: cold_moulded
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 draft: 1.4234
 engine_installations: []
 for_sales:
 - asking_price: 34950
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.4234333089490367
-  length_on_waterline: 8.330285296269201
   length_over_all: 8.83930748597903
+  length_on_waterline: 8.330285296269201
 home_country: GBR
 home_port: Falmouth
 hull_form: long keel deep forefoot
 id: decacb36-195e-4498-86d3-6df671ec210c
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: Clearwater
-oga_no: 2278
+sail_number: '2278'
+uk_part1: '388094'
+callsign: MBGJ7
 ownerships:
 - note: Commissioned by Jonathan Humphreys
   text: Commissioned by Jonathan Humphreys
@@ -33,18 +44,24 @@ ownerships:
   name: Jim and Serena Hughes
   share: 64
   start: 1995
-- current: true
-  id: 1021
-  member: 6272
+- id: 1021
   share: 64
   start: 2019
+  member: 6272
+  current: true
 place_built: Penryn/St Columb
-rig_type: Cutter
-short_description: "<p>&#39;Clearwater&#39; is a Tamarisk 29, the lines of&nbsp;which\
-  \ were taken directly from one of the fastest and most sea-kindly of the Falmouth\
-  \ Working Boats.</p>\r\n\r\n<p>The hull was built by Cygnus Marine in Penryn and\
-  \ fitted out by North Cornwall Marine in St.Columb.</p>"
 updated_at: '2021-12-19T13:39:34.270894+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+image_key: bJ52H7
+construction_details: GRP hull with sheathed plywood deck and coachroof. Encapsulated
+  lead keel to enable 1 ft reduced draft compared with standard Tamarisk 29 construction
+  which uses encapulated steel punchings as ballast. Supplementary internal ballast
+  consisting of 250 kg in lead ingots added for trimming purposes.
+beam: 2.7432
+design_class:
+  name: Tamarisk 29
+  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
+for_sale_state:
+  text: not_for_sale

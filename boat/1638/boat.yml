@@ -1,11 +1,15 @@
-callsign: ''
+name: Mariola
+oga_no: 1638
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 83/3
 construction_material: wood
 construction_method: unknown
 draft: 1.1887
 engine_installations: []
 for_sales: []
-full_description: Log 83/3
-generic_type: unknown
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.1887344550109729
@@ -15,17 +19,18 @@ home_port: ''
 hull_form: unknown
 id: 1db6f297-9c4d-4936-85a7-89ab0e332db7
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Mariola
-oga_no: 1638
+reference:
+- Log 83/3
+callsign: ''
 ownerships:
 - name: T Stephens
   share: 64
   start: 2012
 place_built: Colchester
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:16.81184+00:00'
 website: ''
 year: 1908
 year_is_approximate: false
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

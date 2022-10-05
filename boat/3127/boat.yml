@@ -1,49 +1,64 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Mnemosyne
+oga_no: 3127
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Mnemosyne is a Memory 19 built in 2007 by Saltern Boat Builders.</p>
+full_description: Used as day sailer but has been trailed to Seafair Rally twice and
+  la Semaine du Golfe de Morbihan (2013).
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: Used as day sailer but has been trailed to Seafair Rally twice and
-  la Semaine du Golfe de Morbihan (2013).
-generic_type: Yacht
 handicap_data:
   beam: 2.1000255395025604
-  draft: 0.5300064456839795
-  fore_triangle_base: 1.2200148372348207
-  fore_triangle_height: 6.320076861741039
-  length_on_waterline: 5.690069199890271
-  length_over_all: 5.790070416057059
-  length_over_spars: 7.570092063825896
   main:
     foot: 4.82005861923921
     head: 3.200038917337235
     luff: 4.38005326810534
-  sailarea: 31.39399260137434
   thcf: 0.885
+  draft: 0.5300064456839795
   topsail:
     luff: 8.160099239209949
     perpendicular: 1.7500212829188002
+  sailarea: 31.39399260137434
+  length_over_all: 5.790070416057059
+  length_over_spars: 7.570092063825896
+  fore_triangle_base: 1.2200148372348207
+  length_on_waterline: 5.690069199890271
+  fore_triangle_height: 6.320076861741039
 home_country: GBR
 home_port: Faversham Kent
 hull_form: centre-boarder
 id: 24354660-a78a-4be2-802d-b3aa603b9cfe
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Mnemosyne
-oga_no: 3127
+sail_number: M131
+spar_material: wood
+ssr: '127408'
+callsign: ''
 ownerships:
-- current: true
-  id: 779
-  member: 5799
+- id: 779
   share: 64
   start: 2007
+  member: 5799
+  current: true
 place_built: Bursledon, Hampshire
-rig_type: Sloop
-short_description: <p>Mnemosyne is a Memory 19 built in 2007 by Saltern Boat Builders.</p>
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 2007
 year_is_approximate: false
+image_key: g9pRqK
+construction_details: GRP
+beam: 2.1092
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

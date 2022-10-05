@@ -1,8 +1,19 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Punka
+oga_no: 2913
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Punka&#39; is a cabin version of the popular Memory 19.</p>
+full_description: <p>&#39;Punka&#39; is one of the last Bursledon built Memorys. She&#39;s
+  great for overnight trips and set up for simple single-handed sailing.</p>
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales:
@@ -20,40 +31,43 @@ for_sales:
   sold: null
   summary: null
   updated_at: '2020-05-03T10:13:12.633275+00:00'
-full_description: <p>&#39;Punka&#39; is one of the last Bursledon built Memorys. She&#39;s
-  great for overnight trips and set up for simple single-handed sailing.</p>
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  fore_triangle_base: 2.6426481346013166
-  fore_triangle_height: 5.867471348451597
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
+  thcf: 0.85333142
+  draft: 0.5334064862228725
   propellor:
     type: fixed
-  thcf: 0.85333142
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.6426481346013166
+  length_on_waterline: 5.690685198732017
+  fore_triangle_height: 5.867471348451597
 home_country: GBR
 home_port: Rougham, Bury St Edmunds
 hull_form: centre-boarder
 id: fbef84cd-968c-47f6-9803-71abd7c244f9
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Punka
-oga_no: 2913
+spar_material: wood
+ssr: GB-SBBMEM32D089
+callsign: ''
 ownerships:
 - end: 2016
   name: David Shannon
   share: 64
   start: 2008
 place_built: Burlesdon
-rig_type: Sloop
-short_description: <p>&#39;Punka&#39; is a cabin version of the popular Memory 19.</p>
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 2008
 year_is_approximate: false
+image_key: fnk5DS
+construction_details: GRP with balsa core deck and teak trim
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

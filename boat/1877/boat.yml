@@ -1,13 +1,21 @@
-builder: ee8729e9-416e-4600-a107-3ce842cc4750
-callsign: ''
+name: Newfie Girl
+oga_no: 1877
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Worfolk
+  id: ee8729e9-416e-4600-a107-3ce842cc4750
+designer:
+  name: Bros. Worfolk
+  id: d323524d-7eac-4d6a-ae6c-5c3b5e9bea1c
 construction_material: wood
 construction_method: clinker
-designer: d323524d-7eac-4d6a-ae6c-5c3b5e9bea1c
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   length_over_all: 4.87685930260912
 home_country: 'null'
@@ -15,17 +23,20 @@ home_port: ''
 hull_form: unknown
 id: c7dacd8d-6668-4c99-bdc7-e57c68f28698
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Newfie Girl
-oga_no: 1877
+callsign: ''
 ownerships:
 - name: R Huntsman
   share: 64
   start: 1979
 place_built: King's Lynn
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:22.911643+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+construction_details: Clinker Standing Lug.
+beam: 0
+design_class:
+  name: Ouse River OD
+  id: 48d1bc73-4267-4817-b26b-65f64f7247ea
+for_sale_state:
+  text: not_for_sale

@@ -1,29 +1,37 @@
-builder: a27c9097-7d77-4bf3-b44f-a88aafc0e760
-callsign: ''
+name: Taygetta
+oga_no: 77
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Dan Turner
+  id: a27c9097-7d77-4bf3-b44f-a88aafc0e760
 construction_material: wood
 construction_method: unknown
 draft: 0.7925
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.737381126554499
   draft: 0.792489636673982
-  length_on_waterline: 4.053889295293831
   length_over_all: 6.0960741282613995
+  length_on_waterline: 4.053889295293831
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 41b5a02d-4238-4f05-80ed-2f6bfea56d0a
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Taygetta
-oga_no: 77
+callsign: ''
 place_built: Dunoon
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-01-31T17:02:51.819808+00:00'
 website: ''
 year: 1913
 year_is_approximate: false
+beam: 1.7374
+design_class:
+  name: Pleiades Class
+  id: 45862861-9584-4aef-8f72-0025be3c7fe9
+for_sale_state:
+  text: not_for_sale

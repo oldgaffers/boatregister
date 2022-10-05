@@ -1,12 +1,18 @@
-builder: f4375d5d-1165-4159-bb93-5b4a7ee43be1
-callsign: ''
+name: Kathryn & Mae
+oga_no: 2347
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>She had a ketch rig until 1997, before conversion to cutter.</p>
+full_description: ''
+builder:
+  name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.590831504511095
   length_over_all: 8.656425262131187
@@ -15,9 +21,8 @@ home_port: Amble
 hull_form: unknown
 id: 689ff2a1-74ca-4596-8426-9fe19442c63c
 length_on_deck: 8.6563
-mainsail_type: gaff
-name: Kathryn & Mae
-oga_no: 2347
+uk_part1: '338548'
+callsign: ''
 ownerships:
 - end: 2014
   name: John Bird
@@ -26,14 +31,16 @@ ownerships:
 - name: Alan Kemp
   share: 64
   start: 2014
-- current: true
+- share: 64
   member: 5860
-  share: 64
+  current: true
   start: '?'
 place_built: Fraserburgh
-rig_type: Cutter
-short_description: <p>She had a ketch rig until 1997, before conversion to cutter.</p>
 updated_at: '2021-12-19T13:39:35.495631+00:00'
 website: ''
 year: 1963
 year_is_approximate: false
+construction_details: Larch on oak, iroko deck
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

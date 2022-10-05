@@ -1,12 +1,10 @@
-builder: a2d163cc-d9ca-4c8d-9639-5699544c48a4
-callsign: MWKH5
-construction_material: ferro
-construction_method: other
-designer: 895a46b4-0b73-46c7-95e6-c2cb35cb0210
-draft: 1.8288
-engine_installations: []
-for_sales:
-- asking_price: 28000
+name: Nightingale
+oga_no: 2339
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: A Colin Archer type, built in 1980, Nightingale changed hands three
+  times before completion.
 full_description: Nightingale was launched in 1996 by an East Coast Bargemaster and
   was in service until July 2000. She was subsequently sold and equipped by her new
   owners for offshore cruising.</p><p>Nightingale replicates the heavy displacement
@@ -16,42 +14,60 @@ full_description: Nightingale was launched in 1996 by an East Coast Bargemaster 
   at the turn of the century. He sailed with his sister and a friend to the Pacific
   Islands via the Panama Canal, in order to recuperate from the horrors of the First
   World War.
-generic_type: Yacht
+builder:
+  name: Potter and Bishop
+  id: a2d163cc-d9ca-4c8d-9639-5699544c48a4
+designer:
+  name: Ken Davies
+  id: 895a46b4-0b73-46c7-95e6-c2cb35cb0210
+construction_material: ferro
+construction_method: other
+draft: 1.8288
+engine_installations: []
+for_sales:
+- asking_price: 28000
 handicap_data:
   beam: 3.4046574006339916
-  draft: 1.8288222384784198
-  fore_triangle_base: 6.858083394294074
-  fore_triangle_height: 9.982321385028042
-  length_on_waterline: 8.83930748597903
-  length_over_all: 9.906120458424773
   main:
     foot: 5.309680565715679
     head: 3.9624481833699097
     luff: 5.257863935625457
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.991493393
+  draft: 1.8288222384784198
   topsail:
     luff: 7.111070470616922
     perpendicular: 4.191050963179712
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 9.906120458424773
+  fore_triangle_base: 6.858083394294074
+  length_on_waterline: 8.83930748597903
+  fore_triangle_height: 9.982321385028042
 home_country: GBR
 home_port: Cowes
 hull_form: long keel sloping forefoot
 id: c2aa3ceb-7c39-455d-9db2-5dbef2224b51
 length_on_deck: 9.906
-mainsail_type: gaff
-name: Nightingale
-oga_no: 2339
+sail_number: '2339'
+spar_material: wood
+ssr: '89898'
+callsign: MWKH5
 ownerships:
 - name: Ron Hanson
   share: 64
   start: 1999
 place_built: Westerham, Kent
-rig_type: Cutter
-short_description: A Colin Archer type, built in 1980, Nightingale changed hands three
-  times before completion.
 updated_at: '2021-12-19T13:39:35.187133+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+previous_names: []
+image_key: VZL4rm
+construction_details: Ferro hull and deck
+beam: 3.4138
+design_class:
+  name: C-Mist
+  id: db40b64d-9edc-4a70-beb9-aadfeff93c2c
+for_sale_state:
+  text: not_for_sale

@@ -1,13 +1,21 @@
-builder: 363024e1-d0c1-4d17-8125-13dfcdb4b9c7
-callsign: ''
+name: My Lady
+oga_no: 835
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 89/1
+builder:
+  name: R.J. Moore
+  id: 363024e1-d0c1-4d17-8125-13dfcdb4b9c7
+designer:
+  name: J.W. Muirhead
+  id: 50095a6f-cda4-4ac1-83a6-0bb853d7288a
 construction_material: wood
 construction_method: unknown
-designer: 50095a6f-cda4-4ac1-83a6-0bb853d7288a
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 89/1
-generic_type: unknown
 handicap_data:
   length_over_all: 8.53450377956596
 home_country: 'null'
@@ -15,17 +23,18 @@ home_port: ''
 hull_form: unknown
 id: 4fd8d9fc-b151-4470-ad7f-da5543437bae
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: My Lady
-oga_no: 835
+reference:
+- Log 89/1
+callsign: ''
 ownerships:
 - name: B Seymour
   share: 64
   start: 2012
 place_built: Falmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:53.716089+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

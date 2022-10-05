@@ -1,10 +1,11 @@
-builder: 60b33c1c-9f7c-4611-89ba-ecad6e49682c
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Vivid
+oga_no: 133
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Date of build and name of original builder are unknown, but
+  being a clinker built Gravesend bawley she is most likely to have been built in
+  the 1880s.</p>
 full_description: "<p>A photograph exists of her when she was a working bawley. Sometime\
   \ between the two World Wars she became a yacht and was given a canoe stern, rigged\
   \ as a yawl and her lands filled in so she was apparently carvel built. During that\
@@ -55,23 +56,28 @@ full_description: "<p>A photograph exists of her when she was a working bawley. 
   \ seek solace in suitable libations of alcohol.</blockquote>\r\n\r\n<blockquote>Return\
   \ to &lsquo;Vivid&rsquo; in almost totally deflated dinghy, a bit like our pride\
   \ really.</blockquote>"
-generic_type: Bawley
+builder:
+  name: P. (rebuild) Brooks
+  id: 60b33c1c-9f7c-4611-89ba-ecad6e49682c
+construction_material: wood
+construction_method: carvel
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7432333577176298
   draft: 0.9144111192392099
-  length_on_waterline: 6.980004876859302
   length_over_all: 7.467690807120214
+  length_on_waterline: 6.980004876859302
 home_country: GBR
 home_port: Faversham
 hull_form: unknown
 id: 416ac633-ea6a-4c64-96be-1ca60bba69dc
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Vivid
-oga_no: 133
+callsign: ''
 ownerships:
-- end: 1974
-  id: 2
+- id: 2
+  end: 1974
   share: 64
   start: 1964
 - end: 2012
@@ -79,15 +85,18 @@ ownerships:
   share: 64
   start: 2000
 - id: 792
-  member: 5835
   share: 64
   start: 2012
+  member: 5835
 place_built: Gravesend
-rig_type: Cutter
-short_description: <p>Date of build and name of original builder are unknown, but
-  being a clinker built Gravesend bawley she is most likely to have been built in
-  the 1880s.</p>
 updated_at: '2022-07-14T15:00:35.220871+00:00'
 website: ''
 year: 1882
 year_is_approximate: false
+previous_names:
+- Vivida
+image_key: gq4z6m
+construction_details: Clinker with 2 carvel tops strakes
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

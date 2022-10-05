@@ -1,8 +1,18 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Laura June
+oga_no: 4552
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: grp
 construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.524
 engine_installations: []
 for_sales:
@@ -23,33 +33,40 @@ for_sales:
   sold: '2022-09-09'
   summary: null
   updated_at: '2022-04-12T21:32:53.40563+00:00'
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.5240185320653499
-  length_on_waterline: 8.077298219946353
-  length_over_all: 8.53450377956596
   propellor:
     type: fixed
+  length_over_all: 8.53450377956596
+  length_on_waterline: 8.077298219946353
 home_country: GBR
 home_port: Benfleet
 hull_form: long keel deep forefoot
 id: 7df99741-a136-4537-8384-3c262ddea7a3
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Laura June
-oga_no: 4552
+spar_material: wood
+ssr: '51163'
+uk_part1: '4552'
+callsign: ''
 ownerships:
-- end: 2022
-  id: 589
-  member: 5133
+- id: 589
+  end: 2022
   share: 64
   start: 2009
+  member: 5133
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2022-09-09T20:27:24.4894+00:00'
 website: ''
 year: 1988
 year_is_approximate: false
+previous_names:
+- Helen Elizabeth
+image_key: qH46kG
+construction_details: GRP
+beam: 3.048
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
+for_sale_state:
+  text: not_for_sale

@@ -1,33 +1,38 @@
-builder: 57b3a722-c9ec-4302-afae-88f1f5299841
-callsign: ''
+name: Hoveller
+oga_no: 929
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Admiralty
+  id: 57b3a722-c9ec-4302-afae-88f1f5299841
 construction_material: wood
 construction_method: unknown
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
   draft: 1.066812972445745
-  length_on_waterline: 7.772494513533284
   length_over_all: 8.22970007315289
+  length_on_waterline: 7.772494513533284
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 76c01148-d9ad-4333-8bcf-c661f61a3c46
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Hoveller
-oga_no: 929
+callsign: ''
 ownerships:
 - name: J Watson
   share: 64
   start: 2012
 place_built: Malta
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:56.29692+00:00'
 website: ''
 year: 1941
 year_is_approximate: false
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

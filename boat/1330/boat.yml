@@ -1,44 +1,55 @@
-builder: ba1f486d-386b-40f9-9b49-cfd1fa1f3f86
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
-draft: 1.143
-engine_installations: []
-for_sales: []
+name: Grace O'Malley
+oga_no: 1330
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Previous owners Paul Heiney and Libby Purves 1987-96 1987 sailed
   round Britain Libby wrote a book about the journey - One Summer's Grace. Sold to
   Germans Classic Boat Jan 87 + Autumn 87
-generic_type: Yacht
+builder:
+  name: Robertsons/Cornish Crabbers
+  id: ba1f486d-386b-40f9-9b49-cfd1fa1f3f86
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.143
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8956352109241648
-  draft: 1.1430138990490124
-  fore_triangle_base: 5.7912704218483295
-  fore_triangle_height: 8.458302852962692
-  length_on_waterline: 7.848695440136551
-  length_over_all: 9.1441111923921
   main:
     foot: 5.6388685686417945
     head: 4.495854669592782
     luff: 4.953060229212387
-  propellor:
-    type: fixed
   thcf: 0.969236092
+  draft: 1.1430138990490124
   topsail:
     luff: 5.715069495245062
     perpendicular: 2.286027798098025
+  propellor:
+    type: fixed
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 5.7912704218483295
+  length_on_waterline: 7.848695440136551
+  fore_triangle_height: 8.458302852962692
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 191d67cb-11d9-41ed-a9cd-fdf00330fd7a
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Grace O'Malley
-oga_no: 1330
+callsign: ''
 place_built: Rock/Woodbridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-26T07:56:13.54968+00:00'
 website: ''
 year: 1987
 year_is_approximate: false
+construction_details: GRP
+beam: 2.8956
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
+for_sale_state:
+  text: not_for_sale

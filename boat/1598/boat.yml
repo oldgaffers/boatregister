@@ -1,37 +1,43 @@
-builder: a7b2cdc8-f6ed-4697-912f-9ef02d793a71
-callsign: ''
+name: Moyia
+oga_no: 1598
+generic_type: unknown
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Clarke and Carter
+  id: a7b2cdc8-f6ed-4697-912f-9ef02d793a71
 construction_material: wood
 construction_method: clinker
 draft: 0.1524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.4478176054620824
-  draft: 0.152401853206535
-  length_on_waterline: 3.0480370641306997
-  length_over_all: 3.0480370641306997
   main:
     foot: 2.43842965130456
     head: 2.43842965130456
     luff: 3.0480370641306997
   thcf: 0.719489275
+  draft: 0.152401853206535
+  length_over_all: 3.0480370641306997
+  length_on_waterline: 3.0480370641306997
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 216d5e44-981e-4b84-8fc5-adcef6e5ab08
 length_on_deck: 3.048
-mainsail_type: lug
-name: Moyia
-oga_no: 1598
+callsign: ''
 ownerships:
 - name: M C Davies
   share: 64
   start: 1986
 place_built: West Mersea
-short_description: ''
 updated_at: '2021-12-19T13:39:15.926412+00:00'
 website: ''
 year: 1935
 year_is_approximate: false
+construction_details: Clinker Spruce and Elm on oak
+beam: 1.4478
+for_sale_state:
+  text: not_for_sale

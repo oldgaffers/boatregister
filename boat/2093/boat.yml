@@ -1,13 +1,21 @@
-builder: 8cf582e7-d4f8-49a4-a63f-6efd95a4e1fd
-callsign: ''
+name: Elrose
+oga_no: 2093
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: P. Parmenter
+  id: 8cf582e7-d4f8-49a4-a63f-6efd95a4e1fd
+designer:
+  name: Iain Oughtred
+  id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
 construction_material: wood
 construction_method: clinker_ply
-designer: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.3960009753718605
   length_over_all: 4.114850036576445
@@ -16,17 +24,17 @@ home_port: Monmouth
 hull_form: unknown
 id: c41d9fea-92f1-44d8-9523-8ed94ab7ad49
 length_on_deck: 4.1148
-mainsail_type: gaff
-name: Elrose
-oga_no: 2093
+callsign: ''
 ownerships:
 - name: R G Hockey
   share: 64
   start: 2012
 place_built: Monmouth
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:29.166892+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+construction_details: Epoxy clinker ply
+beam: 1.396
+for_sale_state:
+  text: not_for_sale

@@ -1,49 +1,57 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
-draft: 1.4021
-engine_installations: []
-for_sales: []
+name: Winsome Lady
+oga_no: 1869
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Registration lapsed when sold to Americans early '70s.  They sailed
   her to Greece and kept her in the Med for some time.  Sold to R J Stokes in 1993
   in a poor condition.  18 months major restoration inc re decking and change of rig
   to Gaff.  Sold to Vincent Walt 1999
-generic_type: Yacht
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+construction_material: wood
+construction_method: unknown
+draft: 1.4021
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.4628139478176054
-  draft: 1.4020970495001217
-  fore_triangle_base: 4.26725188978298
-  fore_triangle_height: 8.53450377956596
-  length_on_waterline: 7.223847841989758
-  length_over_all: 7.772494513533284
   main:
     foot: 4.724457449402585
     head: 3.5052426237503047
     luff: 4.57205559619605
-  propellor:
-    type: fixed
   thcf: 0.924922376
+  draft: 1.4020970495001217
   topsail:
     luff: 2.43842965130456
     perpendicular: 1.5240185320653499
+  propellor:
+    type: fixed
+  length_over_all: 7.772494513533284
+  fore_triangle_base: 4.26725188978298
+  length_on_waterline: 7.223847841989758
+  fore_triangle_height: 8.53450377956596
 home_country: 'null'
 home_port: Birdham Pool
 hull_form: long keel deep forefoot
 id: 11692343-84b8-4e5f-8e37-b7c337ee9929
 length_on_deck: 7.7724
-mainsail_type: gaff
-name: Winsome Lady
-oga_no: 1869
+callsign: ''
 ownerships:
 - name: Vincent Walt
   share: 64
   start: 1999
 place_built: Littlehampton
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:22.660909+00:00'
 website: ''
 year: 1934
 year_is_approximate: false
+construction_details: Pine on Oak
+beam: 2.4628
+for_sale_state:
+  text: not_for_sale

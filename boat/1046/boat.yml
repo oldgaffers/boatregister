@@ -1,36 +1,42 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
+name: Primrose
+oga_no: 1046
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+designer:
+  name: Aldous
+  id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 construction_material: wood
 construction_method: unknown
-designer: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 2.996220434040478
-  draft: 1.3716166788588149
-  fore_triangle_base: 7.848695440136551
-  fore_triangle_height: 9.805535235308461
-  length_on_waterline: 9.424530602292124
-  length_over_all: 11.329553767373811
   main:
     foot: 7.467690807120214
     head: 5.538283345525482
     luff: 5.891855644964642
   thcf: 1.079592931
+  draft: 1.3716166788588149
   topsail:
     luff: 6.653864910997317
     perpendicular: 2.7432333577176298
+  length_over_all: 11.329553767373811
+  fore_triangle_base: 7.848695440136551
+  length_on_waterline: 9.424530602292124
+  fore_triangle_height: 9.805535235308461
 home_country: 'null'
 home_port: Faversham
 hull_form: unknown
 id: a9ae6c1c-9e3a-47e0-a96e-562f2a67e4d8
 length_on_deck: 11.3294
-mainsail_type: gaff
-name: Primrose
-oga_no: 1046
+callsign: ''
 ownerships:
 - name: Josh Danziger
   share: 64
@@ -39,14 +45,16 @@ ownerships:
   name: Robin Page
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 6063
-  share: 64
+  current: true
   start: '?'
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:59.823643+00:00'
 website: ''
 year: 1892
 year_is_approximate: false
+image_key: mqs2gb
+beam: 2.9962
+for_sale_state:
+  text: not_for_sale

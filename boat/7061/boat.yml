@@ -1,11 +1,12 @@
-builder: 5582e9c2-6c1c-4e14-ab92-70a56fcc80d6
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 9b31c7c9-025d-42eb-9274-3bbd0b30b744
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Quintet
+oga_no: 7061
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: <p>&#39;Quintet&#39;, a traditional cutter, with Bermudan rig,
+  was built in 1953 to a design from the drawing board of Reg Freeman of Hordle near
+  Lymington. She carried owner, Clive and first mate Les on their circumnavigation
+  of Britain in 2005.</p>
 full_description: "<p>&#39;Quintet&#39; was converted to cutter from ketch in 1957\
   \ and carries a Bermudan rig on wooden spars. A surveyor&#39;s report of 2004 states:</p>\r\
   \n\r\n<blockquote>The origin and early history of Quintet are well documented in\
@@ -22,28 +23,38 @@ full_description: "<p>&#39;Quintet&#39; was converted to cutter from ketch in 19
   \ undertook a circumnavigation of England with crew-member Les, departing Fosdyke\
   \ in mid-June and returning mid-September. <a href=\"http://www.2oldgitsinaboat.co.uk/\"\
   \ target=\"_blank\">Read the full story at &#39;Two old gits in a boat&#39;</a>.</p>"
-generic_type: Yacht
+builder:
+  name: E.W. Sutton
+  id: 5582e9c2-6c1c-4e14-ab92-70a56fcc80d6
+designer:
+  name: Reg Freeman
+  id: 9b31c7c9-025d-42eb-9274-3bbd0b30b744
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8956352109241648
-  draft: 1.2710314557425018
-  fore_triangle_base: 4.26725188978298
-  fore_triangle_height: 12.192148256522799
-  length_on_waterline: 7.924896366739819
-  length_over_all: 9.473299195318214
   main:
     foot: 5.18166300902219
     luff: 11.277737137283589
+  thcf: 0.960829605
+  draft: 1.2710314557425018
   propellor:
     type: fixed
-  thcf: 0.960829605
+  length_over_all: 9.473299195318214
+  fore_triangle_base: 4.26725188978298
+  length_on_waterline: 7.924896366739819
+  fore_triangle_height: 12.192148256522799
 home_country: GBR
 home_port: Fosdyke
 hull_form: long keel deep forefoot
 id: e27fa4b0-434d-4d24-ba33-8da6d06cbc62
 length_on_deck: 9.7018
-mainsail_type: bermudan
-name: Quintet
-oga_no: 7061
+sail_number: '835'
+uk_part1: '186524'
+callsign: ''
 ownerships:
 - end: 2004
   name: Hugh Evans
@@ -52,18 +63,18 @@ ownerships:
 - name: Clive Anstiss
   share: 64
   start: 2004
-- current: true
-  id: 547
-  member: 4930
+- id: 547
   share: 64
+  member: 4930
+  current: true
   start: '?'
 place_built: Great Wakering
-rig_type: Cutter
-short_description: <p>&#39;Quintet&#39;, a traditional cutter, with Bermudan rig,
-  was built in 1953 to a design from the drawing board of Reg Freeman of Hordle near
-  Lymington. She carried owner, Clive and first mate Les on their circumnavigation
-  of Britain in 2005.</p>
 updated_at: '2021-12-19T13:40:01.822878+00:00'
 website: http://www.2oldgitsinaboat.co.uk
 year: 1953
 year_is_approximate: false
+image_key: k9jQVg
+construction_details: Carvel construction, mahogany planks on oak frames.
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

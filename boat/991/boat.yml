@@ -1,30 +1,38 @@
-builder: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
-callsign: ''
+name: Zhivago
+oga_no: 991
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+designer:
+  name: N. Latimer
+  id: b617a4a2-ef28-47ba-8091-49508f437dbd
 construction_material: wood
 construction_method: unknown
-designer: b617a4a2-ef28-47ba-8091-49508f437dbd
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.529870763228481
   draft: 0.9144111192392099
-  length_on_waterline: 6.0960741282613995
   length_over_all: 7.162887100707144
+  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 022ade2a-8acd-444d-92a9-4cad16044634
 length_on_deck: 7.1628
-mainsail_type: gaff
-name: Zhivago
-oga_no: 991
+sail_number: '676'
+callsign: ''
 place_built: Canvey Island
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-01-31T17:02:51.546818+00:00'
 website: ''
 year: 1970
 year_is_approximate: false
+beam: 2.5298
+for_sale_state:
+  text: not_for_sale

@@ -1,34 +1,45 @@
-builder: d7388203-7714-49a4-8fd0-38edbd0f35e2
-callsign: ''
+name: Radium
+oga_no: 1257
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 84/3
+builder:
+  name: R. Latham
+  id: d7388203-7714-49a4-8fd0-38edbd0f35e2
+designer:
+  name: R. Latham
+  id: 07f98629-8945-45a0-97ad-85d70371e56e
 construction_material: wood
 construction_method: carvel
-designer: 07f98629-8945-45a0-97ad-85d70371e56e
 draft: 1.6764
 engine_installations: []
 for_sales: []
-full_description: Log 84/3
-generic_type: unknown
 handicap_data:
   beam: 3.5052426237503047
   draft: 1.6764203852718849
-  length_on_waterline: 10.515727871250913
   length_over_all: 13.258961228968543
+  length_on_waterline: 10.515727871250913
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: c4280af5-c900-4ad1-9f96-ada6336ef387
 length_on_deck: 13.2588
-mainsail_type: gaff
-name: Radium
-oga_no: 1257
+reference:
+- Log 84/3
+uk_part1: '120857'
+callsign: ''
 ownerships:
 - name: J P King & C H Peacock
   share: 64
   start: 2012
 place_built: Crossens Nr Southport
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:06.228888+00:00'
 website: ''
 year: 1904
 year_is_approximate: false
+construction_details: Pitch pine on oak
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

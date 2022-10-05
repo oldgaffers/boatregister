@@ -1,11 +1,11 @@
-builder: 67ee9852-ec68-4e03-9b49-5c459cb934bf
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: dd2e6bee-196e-4d21-9cf4-7894a6847b9a
-draft: 1.0668
-engine_installations: []
-for_sales: []
+name: Growler
+oga_no: 99
+generic_type: Barge
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Built by White Bros., 1922, &#39;Growler&#39; is a1/3 size version
+  of the Thames barge &#39;Sara&#39;. She spent her working life on the East Coast
+  of England.</p>
 full_description: "<p>&#39;Growler&#39;&nbsp;was built at Conyer Creek in 1922, reputedly\
   \ a 1/3 sized version of the Thames barge &#39;Sara&#39;. She spent the majority\
   \ of her life cruising on the River Swale and around the Thames estuary. By the\
@@ -16,20 +16,28 @@ full_description: "<p>&#39;Growler&#39;&nbsp;was built at Conyer Creek in 1922, 
   \" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/ETcmVxZ4Auo\"\
   \ width=\"560\"></iframe></p>\r\n\r\n<h3><a href=\"https://www.youtube.com/channel/UCiEMQ9q9n2fFoD9dRaa8Wgg\"\
   \ target=\"_blank\">Follow progress on YouTube</a></h3>"
-generic_type: Barge
+builder:
+  name: White Bros.
+  id: 67ee9852-ec68-4e03-9b49-5c459cb934bf
+designer:
+  name: T.E. Hughes
+  id: dd2e6bee-196e-4d21-9cf4-7894a6847b9a
+construction_material: wood
+construction_method: unknown
+draft: 1.0668
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.066812972445745
-  length_on_waterline: 9.1441111923921
   length_over_all: 9.75371860521824
+  length_on_waterline: 9.1441111923921
 home_country: GBR
 home_port: Burnham Overy Staithe
 hull_form: long keel deep forefoot
 id: fb2bab49-4c50-44f9-9510-227d95549308
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Growler
-oga_no: 99
+callsign: ''
 ownerships:
 - end: 2017
   name: C W Rose
@@ -40,20 +48,20 @@ ownerships:
   start: 2019
 - note: Owned by Gus Curtis prior to 2019 for an unknown length of time, he did not
     sail her, but stored in her in a barn at Dedham.
+  text: Owned by Gus Curtis prior to
   start: 2019
   start_is_approximate: false
-  text: Owned by Gus Curtis prior to
-- current: true
-  id: 913
-  member: 6059
+- id: 913
   share: 64
+  member: 6059
+  current: true
   start: '?'
 place_built: Conyer
-rig_type: Yawl
-short_description: <p>Built by White Bros., 1922, &#39;Growler&#39; is a1/3 size version
-  of the Thames barge &#39;Sara&#39;. She spent her working life on the East Coast
-  of England.</p>
 updated_at: '2021-12-19T13:38:32.50867+00:00'
 website: ''
 year: 1922
 year_is_approximate: false
+image_key: G6RJV6
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

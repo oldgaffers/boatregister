@@ -1,32 +1,46 @@
-builder: 14f7bebe-57ca-47b7-98cf-9e09bdd9b00a
-callsign: ''
+name: Wid Yin
+oga_no: 2777
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Built by first owner
+builder:
+  name: Ritchard Sewel
+  id: 14f7bebe-57ca-47b7-98cf-9e09bdd9b00a
+designer:
+  name: Robert Tucker
+  id: 5a9ff358-5fd8-431c-9e4e-d716fa3ac84b
 construction_material: woodepoxy
 construction_method: unknown
-designer: 5a9ff358-5fd8-431c-9e4e-d716fa3ac84b
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Built by first owner
-generic_type: Yacht
 handicap_data:
-  length_on_waterline: 2.7432333577176298
   length_over_all: 7.467690807120214
+  length_on_waterline: 2.7432333577176298
 home_country: 'null'
 home_port: Bowling
 hull_form: unknown
 id: 7c42739d-64c9-4f31-bb2b-c8b662580fb9
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Wid Yin
-oga_no: 2777
+ssr: '122257'
+callsign: ''
 ownerships:
 - name: Mr James MacFarlane
   share: 64
   start: 2005
 place_built: Leeds
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:49.112119+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+previous_names:
+- Shinglebis
+construction_details: Ply epoxy
+beam: 0
+design_class:
+  name: White Squaw
+  id: d553aebd-07db-4bdd-ab1c-d138a207a923
+for_sale_state:
+  text: not_for_sale

@@ -1,10 +1,10 @@
-builder: 775a4b5b-de7d-49b9-aba4-49ce72b5293b
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 0
-engine_installations: []
-for_sales: []
+name: Northern Star
+oga_no: 2806
+generic_type: Dinghy
+rig_type: Ketch
+mainsail_type: lug
+short_description: New built replica of a boat described in H I Chapelle 'American
+  Small Sailing Craft'.
 full_description: "<h3>First published in Gaffers Log, June 2008, by Colin Ming</h3>\r\
   \n\r\n<blockquote>Where do the years go? My reality check came when I realised I\
   \ was in my early sixties; our daughters were grown up, and worse, my 1850&rsquo;s,\
@@ -89,7 +89,14 @@ full_description: "<h3>First published in Gaffers Log, June 2008, by Colin Ming<
   \ a summer&rsquo;s sailing was lost. However Northern star is now one of the finest\
   \ and most beautiful classics sailing the Pacific Northwest and a boat that is constantly\
   \ admired and photographed when she is under sail.</blockquote>"
-generic_type: Dinghy
+builder:
+  name: Foster Greg of Whaler Bay Boatworks
+  id: 775a4b5b-de7d-49b9-aba4-49ce72b5293b
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.6764203852718849
   length_over_all: 5.6388685686417945
@@ -98,22 +105,25 @@ home_port: Vancouver BC
 hull_form: unknown
 id: 492306c5-f973-4b84-a03f-e733202100e5
 length_on_deck: 5.6388
-mainsail_type: lug
-name: Northern Star
-oga_no: 2806
+callsign: ''
 ownerships:
 - name: Colin Ming
   share: 64
   start: 1979
-- current: true
+- share: 64
   member: 4893
-  share: 64
+  current: true
   start: '?'
 place_built: Galiano Island, British Colombia, Canada
-rig_type: Ketch
-short_description: New built replica of a boat described in H I Chapelle 'American
-  Small Sailing Craft'.
 updated_at: '2021-12-19T13:39:50.034154+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+image_key: psXNxK
+construction_details: Lap strake yellow cedar on white oak
+beam: 1.6764
+design_class:
+  name: No Mans Land Boat
+  id: c9359cd6-cf19-4f3a-beb5-3b5421e25607
+for_sale_state:
+  text: not_for_sale

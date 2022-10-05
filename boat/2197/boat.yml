@@ -1,38 +1,44 @@
-callsign: ''
+name: Jessie May
+oga_no: 2197
+generic_type: Dayboat
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Water Craft Sep/Oct 98
+designer:
+  name: Paul Gartside
+  id: 0557a793-41ba-4182-8138-206701b31451
 construction_material: grp
 construction_method: cold_moulded
-designer: 0557a793-41ba-4182-8138-206701b31451
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Water Craft Sep/Oct 98
-generic_type: Dayboat
 handicap_data:
   beam: 1.9202633504023408
-  fore_triangle_base: 3.291880029261156
-  fore_triangle_height: 6.217995610826627
-  length_on_waterline: 4.633016337478663
-  length_over_all: 4.87685930260912
   main:
     foot: 3.7094611070470616
     head: 3.0785174347720066
     luff: 3.779565959522068
   thcf: 0.828772704
+  length_over_all: 4.87685930260912
+  fore_triangle_base: 3.291880029261156
+  length_on_waterline: 4.633016337478663
+  fore_triangle_height: 6.217995610826627
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 16d869e4-040a-4c21-9082-0c0f0b0d94be
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Jessie May
-oga_no: 2197
+callsign: ''
 ownerships:
 - name: Mike Oaten
   share: 64
   start: 2012
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:32.006617+00:00'
 website: ''
 year: 1991
 year_is_approximate: false
+construction_details: GRP
+beam: 1.9202
+for_sale_state:
+  text: not_for_sale

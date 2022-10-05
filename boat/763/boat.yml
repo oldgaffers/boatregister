@@ -1,52 +1,63 @@
-builder: b3841693-d336-4132-8e60-8933dfd41cf6
-callsign: ''
+name: Ajax
+oga_no: 763
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Ajax&#39;s build date and builder are uncertain but she was
+  probably built in Looe, certainly down the West Country.</p>
+full_description: Rebuilt by Roger Atkinson in 1960's he claims she was built in 1886
+  in Mevagissey, but with Breton influence - due to her draft of only 3ft.
+builder:
+  name: Unknown
+  id: b3841693-d336-4132-8e60-8933dfd41cf6
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
 construction_material: wood
 construction_method: carvel
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Rebuilt by Roger Atkinson in 1960's he claims she was built in 1886
-  in Mevagissey, but with Breton influence - due to her draft of only 3ft.
-generic_type: unknown
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.066812972445745
-  fore_triangle_base: 5.4864667154352595
-  fore_triangle_height: 7.315288953913679
-  length_on_waterline: 8.22970007315289
-  length_over_all: 8.53450377956596
   main:
     foot: 5.7912704218483295
     head: 4.26725188978298
     luff: 4.26725188978298
-  propellor:
-    type: fixed
   thcf: 0.964714905
+  draft: 1.066812972445745
   topsail:
     luff: 6.0960741282613995
     perpendicular: 2.7432333577176298
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 5.4864667154352595
+  length_on_waterline: 8.22970007315289
+  fore_triangle_height: 7.315288953913679
 home_country: GBR
 home_port: Bosham
 hull_form: long keel deep forefoot
 id: 4f20c5c8-6c91-47cf-8e58-bfff24f21721
 length_on_deck: 8.3058
-mainsail_type: gaff
-name: Ajax
-oga_no: 763
+ssr: 01596
+callsign: ''
 ownerships:
 - name: P A J Scott
   share: 64
   start: 1982
-- current: true
+- share: 64
   member: 1937
-  share: 64
+  current: true
   start: '?'
 place_built: Mevagissey
-rig_type: Cutter
-short_description: <p>Ajax&#39;s build date and builder are uncertain but she was
-  probably built in Looe, certainly down the West Country.</p>
 updated_at: '2021-12-19T13:38:51.652413+00:00'
 website: ''
 year: 1886
 year_is_approximate: false
+previous_names:
+- Djinns
+construction_details: Carvel
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

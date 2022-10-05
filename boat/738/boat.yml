@@ -1,32 +1,37 @@
-builder: 0dfc30ee-6c5b-4aaa-bfbf-11c4d0112e5d
-callsign: ''
+name: Cholita Negri
+oga_no: 738
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Ryton Marine
+  id: 0dfc30ee-6c5b-4aaa-bfbf-11c4d0112e5d
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.7432333577176298
-  length_on_waterline: 6.339917093391856
   length_over_all: 8.53450377956596
+  length_on_waterline: 6.339917093391856
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 5a3d55af-812c-4ddd-9a6e-e75adf9185bd
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Cholita Negri
-oga_no: 738
+callsign: ''
 ownerships:
 - name: F H Watson
   share: 64
   start: 2012
 place_built: Newcastle on Tyne
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:51.018148+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

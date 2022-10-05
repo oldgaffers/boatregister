@@ -1,34 +1,41 @@
-builder: c29da9db-6577-4802-b902-82ef43b2f95a
-callsign: ''
+name: Our Atlanta
+oga_no: 1128
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Forbes
+  id: c29da9db-6577-4802-b902-82ef43b2f95a
+designer:
+  name: Forbes
+  id: e305d75c-9e85-4e0a-a050-8e2531ef154b
 construction_material: wood
 construction_method: unknown
-designer: e305d75c-9e85-4e0a-a050-8e2531ef154b
 draft: 2.1336
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 4.968300414533041
   draft: 2.13362594489149
-  length_on_waterline: 15.544989027066569
   length_over_all: 16.002194586686173
+  length_on_waterline: 15.544989027066569
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 458a0c1e-6136-4588-b8f1-91074535a65e
 length_on_deck: 16.002
-mainsail_type: gaff
-name: Our Atlanta
-oga_no: 1128
+callsign: ''
 ownerships:
 - name: Mrs N L Cope
   share: 64
   start: 2012
 place_built: Fraserburgh
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:02.321891+00:00'
 website: ''
 year: 1929
 year_is_approximate: false
+beam: 4.9682
+for_sale_state:
+  text: not_for_sale

@@ -1,37 +1,46 @@
-builder: d251564a-d38c-48c4-b1dc-2d3c9cc5de37
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: c035e6fa-570f-40f7-b362-867e44c03791
-draft: 1.8288
-engine_installations: []
-for_sales: []
+name: Valerie
+oga_no: 1809
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>&#39;Valerie&#39; was built by Harry Stow to his own design.
+  Originally a yawl she was altered to a cutter in 1939 and around 1970 to a 2 masted
+  schooner before returning to a yawl in 2013.</p>
 full_description: "<p>&#39;Valerie&#39; is reputed to have run guns for the IRA about\
   \ the same time as Erskine Childers with Asgard although proof of this would be\
   \ hard to find. She took part in the OGA Solent Race, 1972.</p>\r\n\r\n<p>Following\
   \ a full restoration and re-rig undertaken by Waterfront Marine, completed in 2013,\
   \ she moved south to&nbsp;the Hamble River in 2017.</p>"
-generic_type: Yacht
+builder:
+  name: Stow and Sons
+  id: d251564a-d38c-48c4-b1dc-2d3c9cc5de37
+designer:
+  name: H. Stow
+  id: c035e6fa-570f-40f7-b362-867e44c03791
+construction_material: wood
+construction_method: carvel
+draft: 1.8288
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.1089978054133134
   draft: 1.9507437210436478
-  length_on_waterline: 10.05852231163131
   length_over_all: 14.020970495001219
+  length_on_waterline: 10.05852231163131
 home_country: GBR
 home_port: River Hamble
 hull_form: cut_away_stem
 id: a5b01ead-d248-4a24-bf0e-619d9c429d44
 length_on_deck: 14.3256
-mainsail_type: gaff
-name: Valerie
-oga_no: 1809
+uk_part1: '102504'
+callsign: ''
 ownerships:
 - note: A.J.Ellis listed as an owner - date unknown. A.R.T Kirby advertising her for
     sale in 1966 OGA newsletter.
-  start: 1966
-  start_is_approximate: false
   text: A.J.Ellis listed as an owner - date unknown. A.R.T Kirby advertising her for
     sale in
+  start: 1966
+  start_is_approximate: false
 - end: 2006
   name: John Timms
   share: 64
@@ -43,16 +52,21 @@ ownerships:
 - name: Jono & Lisa Bradfield
   share: 64
   start: 2017
-- current: true
+- share: 64
   member: 6190
-  share: 64
+  current: true
   start: '?'
 place_built: Shoreham
-rig_type: Yawl
-short_description: <p>&#39;Valerie&#39; was built by Harry Stow to his own design.
-  Originally a yawl she was altered to a cutter in 1939 and around 1970 to a 2 masted
-  schooner before returning to a yawl in 2013.</p>
 updated_at: '2021-12-19T13:39:20.886654+00:00'
 website: https://blueboxexperiences.co.uk/valerie/
 year: 1895
 year_is_approximate: false
+previous_names:
+- Valerie
+- Tristan and Islode
+- Valerie of Tyne.
+image_key: pb6V4M
+construction_details: Carvel, pitch pine, teak and iroko on oak and iroko.
+beam: 3.0998
+for_sale_state:
+  text: not_for_sale

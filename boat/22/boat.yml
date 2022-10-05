@@ -1,67 +1,76 @@
-builder: d3dd85c5-a8d5-4d4d-9602-8a7567511f08
-callsign: ''
+name: Simba
+oga_no: 22
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Steve Griffiths
+  id: d3dd85c5-a8d5-4d4d-9602-8a7567511f08
+designer:
+  name: J.L.H. Ames
+  id: 98cb4e84-3992-422a-865f-a63d7aa7b143
 construction_material: wood
 construction_method: unknown
-designer: 98cb4e84-3992-422a-865f-a63d7aa7b143
 draft: 1.1582
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.2890758351621554
-  draft: 1.1308217507924896
-  fore_triangle_base: 4.700073152889539
-  fore_triangle_height: 6.940380395025603
-  length_on_waterline: 6.699585466959278
-  length_over_all: 7.58046817849305
   main:
     foot: 3.9014874420872956
     head: 2.8986832479882954
     luff: 4.550719336747134
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 35.049701355408516
   thcf: 0.913
+  draft: 1.1308217507924896
   topsail:
     luff: 4.020360887588393
     perpendicular: 1.8013899049012436
+  sailarea: 35.049701355408516
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.58046817849305
+  fore_triangle_base: 4.700073152889539
+  length_on_waterline: 6.699585466959278
+  fore_triangle_height: 6.940380395025603
 home_country: GBR
 home_port: Lymington
 hull_form: long keel deep forefoot
 id: 284b89b9-3e84-435a-aa09-02af43d3c9e3
 length_on_deck: 7.559
-mainsail_type: gaff
-name: Simba
-oga_no: 22
+sail_number: OS 22
+callsign: ''
 ownerships:
 - note: 'Previous owners:'
   text: 'Previous owners:'
 - note: J.L.M.Ames 1939
+  text: J.L.M.Ames
   start: 1939
   start_is_approximate: false
-  text: J.L.M.Ames
 - note: H.Samuel (1963)
+  text: H.Samuel (
   start: 1963
   start_is_approximate: false
-  text: H.Samuel (
 - note: F.Driscoll (1966)
+  text: F.Driscoll (
   start: 1966
   start_is_approximate: false
-  text: F.Driscoll (
 - note: P.D.Blackman (1973)
+  text: P.D.Blackman (
   start: 1973
   start_is_approximate: false
-  text: P.D.Blackman (
 - end: 2014
   name: Chris Harridge
   share: 64
   start: 2009
 place_built: Looe
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:30.317181+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+image_key: RZ962X
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

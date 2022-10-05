@@ -1,10 +1,10 @@
-builder: 2dfb8e06-fddd-492d-8a55-19c1e847d434
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 0
-engine_installations: []
-for_sales: []
+name: Wilhelmina Maria
+oga_no: 2575
+generic_type: Barge
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Wilhelmina Maria&#39; is a Hollandse Tjalk, a Dutch sailing
+  barge.</p>
 full_description: "<p>&#39;Wilhenmina Maria&#39; was built in 1895 at Paendrect by\
   \ Van del Andel. A Dutch sailing barge, she was originally used to transport gravel\
   \ and sand from the sea gates in southern Holland to the River Ijssel.</p>\r\n\r\
@@ -12,7 +12,14 @@ full_description: "<p>&#39;Wilhenmina Maria&#39; was built in 1895 at Paendrect 
   \ who had been bombed out. In 1976 she was rebuilt by Han Wever and Roos Kuipur\
   \ at Edam. She was then bought by John Clenshaw and Barbara Carol who lived on board\
   \ and ran a signwriting business on the Thames. She changed hands again in 2001.</p>"
-generic_type: Barge
+builder:
+  name: Van Den Adel
+  id: 2dfb8e06-fddd-492d-8a55-19c1e847d434
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   moving_keel: true
   moving_keel_type: Leeboard
@@ -21,24 +28,25 @@ home_port: Newport
 hull_form: long keel deep forefoot
 id: 97a31c0f-41da-4fb0-aea3-aa315860e437
 length_on_deck: 0
-mainsail_type: gaff
-name: Wilhelmina Maria
-oga_no: 2575
+callsign: ''
 ownerships:
 - end: 2017
   name: John Hardiment
   share: 64
   start: 2001
-- current: true
-  id: 635
-  member: 5372
+- id: 635
   share: 64
   start: 2019
+  member: 5372
+  current: true
 place_built: Papendrecht
-rig_type: Cutter
-short_description: <p>&#39;Wilhelmina Maria&#39; is a Hollandse Tjalk, a Dutch sailing
-  barge.</p>
 updated_at: '2021-12-19T13:39:43.229371+00:00'
 website: ''
 year: 1895
 year_is_approximate: false
+previous_names:
+- De Jonge
+- Jelle
+beam: 0
+for_sale_state:
+  text: not_for_sale

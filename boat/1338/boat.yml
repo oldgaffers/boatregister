@@ -1,11 +1,14 @@
-callsign: ''
+name: Karakal
+oga_no: 1338
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: Log 80/3
 construction_material: wood
 construction_method: unknown
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Log 80/3
-generic_type: unknown
 handicap_data:
   beam: 2.13362594489149
   draft: 0.9144111192392099
@@ -15,15 +18,17 @@ home_port: ''
 hull_form: unknown
 id: c5a70d7e-153c-495c-b7a7-08e91bad2ca5
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Karakal
-oga_no: 1338
+reference:
+- Log 80/3
+callsign: ''
 ownerships:
 - name: David Keith
   share: 64
   start: 1979
-short_description: ''
 updated_at: '2021-12-19T13:39:08.568638+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

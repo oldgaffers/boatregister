@@ -1,44 +1,53 @@
-builder: 2ee8ba2c-dea1-4109-afeb-f4437787633f
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: 4517e267-94ae-4e6f-bc79-ba3d30f4153e
-draft: 0.4328
-engine_installations: []
-for_sales: []
+name: Westerman
+oga_no: 2984
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: lug
+short_description: ''
 full_description: Donated to Fort Augustus Abbey School, Invernesshire 1965. Donated
   Historic Boat Section, Portsmouth Naval Base Porperty Trust 1990. Renovated 2002
   - 2006.
-generic_type: unknown
+builder:
+  name: Devonport Dockyard
+  id: 2ee8ba2c-dea1-4109-afeb-f4437787633f
+designer:
+  name: Admiralty
+  id: 4517e267-94ae-4e6f-bc79-ba3d30f4153e
+construction_material: wood
+construction_method: clinker
+draft: 0.4328
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.8288
-  fore_triangle_base: 2.286
-  fore_triangle_height: 3.8618
-  length_on_waterline: 8.2296
-  length_over_all: 8.2296
   main:
     foot: 3.7338
     head: 4.2672
     luff: 1.777
+  thcf: 0.921122284
   mizzen:
     foot: 2.1336
     luff: 2.6914
-  thcf: 0.921122284
+  length_over_all: 8.2296
+  fore_triangle_base: 2.286
+  length_on_waterline: 8.2296
+  fore_triangle_height: 3.8618
 home_country: 'null'
 home_port: Portsmouth naval Base
 hull_form: unknown
 id: 824180ee-f5b8-4780-9dad-240673f262ca
 length_on_deck: 8.2296
-mainsail_type: lug
-name: Westerman
-oga_no: 2984
+sail_number: K216
+callsign: ''
 ownerships:
 - name: Portsmouth Naval Bast Property Trust
   share: 64
   start: 2012
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:55.354134+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+construction_details: Clinker mahogany on Canadian elm steamed timbers and strimgers
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

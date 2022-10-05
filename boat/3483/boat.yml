@@ -1,9 +1,10 @@
-builder: a777971c-fef9-4412-9ad3-422224af5a67
-construction_material: wood
-construction_method: carvel
-designer: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
-engine_installations: []
-for_sales: []
+name: Clover
+oga_no: 3483
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <I>Clover</I> is a 68' Gaff Topsail Cutter built by A.R. Luke Bros.
+  in Hamble in 1938
 full_description: "<h1>SV Clover, a Gaff-rigged Topsail Cutter</h1> Built 1938 in\
   \ Hamble, Southampton, England by A.R. Luke Brothers, Clover was seconded to the\
   \ Royal Navy in 1939 and fitted with\_ASDIC (named after the Anti-Submarine Detection\
@@ -42,25 +43,32 @@ full_description: "<h1>SV Clover, a Gaff-rigged Topsail Cutter</h1> Built 1938 i
   \ </ul> <h2>Plumbing</h2> <ul> <li>Install compostable head system (donated by AirHead\
   \ Inc)</li> <li>Install water pump and plumbing for water tank</li> </ul><p><a href=\"\
   https://www.youtube.com/watch?v=rzd8L9NrDPE&feature=youtu.be\">Watch the video</a>"
-generic_type: Yacht
+builder:
+  name: Luke Bros and Co.
+  id: a777971c-fef9-4412-9ad3-422224af5a67
+designer:
+  name: A.R. Luke
+  id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+construction_material: wood
+construction_method: carvel
+engine_installations: []
+for_sales: []
 home_country: United States
 home_port: Sausalito, California USA
 hull_form: long keel sloping forefoot
 id: 604a1fe6-1797-49b0-8200-f76f9f60e346
-mainsail_type: gaff
-name: Clover
-oga_no: 3483
+spar_material: wood
 ownerships:
-- current: true
-  id: 34777
-  member: 6424
+- id: 34777
   share: 64
+  member: 6424
+  current: true
   start: '?'
 place_built: Hamble
-rig_type: Cutter
-short_description: <I>Clover</I> is a 68' Gaff Topsail Cutter built by A.R. Luke Bros.
-  in Hamble in 1938
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 website: https://www.vetsboats.org
 year: 1938
 year_is_approximate: false
+image_key: gt9PJV
+for_sale_state:
+  text: not_for_sale

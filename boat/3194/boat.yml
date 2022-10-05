@@ -1,19 +1,21 @@
-builder: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
-callsign: ZQIT7
+name: Alice
+oga_no: 3194
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Alice&#39;, a Heard 35, was built in 2000 at Mylor, Falmouth.
+  In 2016 she was exported to Antigua.</p>
+full_description: <p>&#39;Alice&#39; is a Heard 35, built at Mylor in 2000 and sold
+  in June 2016 for export&nbsp;to Antigua. She&nbsp;has competed in the Antigua Classics.</p>
+builder:
+  name: Martin Heard
+  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
 construction_material: grp
 construction_method: cold_moulded
 draft: 2.161
 engine_installations: []
 for_sales: []
-full_description: <p>&#39;Alice&#39; is a Heard 35, built at Mylor in 2000 and sold
-  in June 2016 for export&nbsp;to Antigua. She&nbsp;has competed in the Antigua Classics.</p>
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 1.052
-  fore_triangle_base: 7.62
-  fore_triangle_height: 13.3198
-  length_on_waterline: 10.2992
-  length_overall: 10.668
   main:
     foot: 20.01
     head: 18.24
@@ -21,24 +23,32 @@ handicap_data:
   topsail:
     luff: 19.5
     perpendicular: 9.42
+  length_overall: 10.668
+  calculated_thcf: 1.052
+  fore_triangle_base: 7.62
+  length_on_waterline: 10.2992
+  fore_triangle_height: 13.3198
 home_country: 'null'
 home_port: Antigua
 hull_form: long keel deep forefoot
 id: bd5bbbac-8d5c-459e-a9e1-5761f5edef48
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Alice
-oga_no: 3194
+callsign: ZQIT7
 ownerships:
 - end: 2013
   name: Richard and Jenny Willmott
   share: 64
   start: 2000
 place_built: Mylor
-rig_type: Cutter
-short_description: <p>&#39;Alice&#39;, a Heard 35, was built in 2000 at Mylor, Falmouth.
-  In 2016 she was exported to Antigua.</p>
 updated_at: '2021-12-19T13:40:03.690362+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+image_key: dhLsf6
+construction_details: GRP
+beam: 3.3802
+design_class:
+  name: Heard 35
+  id: 57d13261-3402-4c7d-b2c8-45c2224149d3
+for_sale_state:
+  text: not_for_sale

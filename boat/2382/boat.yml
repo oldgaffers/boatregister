@@ -1,13 +1,21 @@
-builder: e47d03d3-fa87-473c-a1fc-15c0fa5279f0
-callsign: ''
+name: William And Kate Johnston
+oga_no: 2382
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: See paper archive for history of this first of class.
+builder:
+  name: White Samuel and Co. Ltd.
+  id: e47d03d3-fa87-473c-a1fc-15c0fa5279f0
+designer:
+  name: James Rennie Barnett
+  id: dd11ff0f-2cbf-4eda-a771-3dd1830ba5ba
 construction_material: wood
 construction_method: double_diagonal
-designer: dd11ff0f-2cbf-4eda-a771-3dd1830ba5ba
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: See paper archive for history of this first of class.
-generic_type: unknown
 handicap_data:
   beam: 4.57205559619605
   length_over_all: 18.2882223847842
@@ -16,17 +24,20 @@ home_port: Ramsgate
 hull_form: unknown
 id: 8f234562-ef3a-49ca-8874-f7dd13b4eaf7
 length_on_deck: 18.288
-mainsail_type: gaff
-name: William And Kate Johnston
-oga_no: 2382
+callsign: ''
 ownerships:
 - name: Alexander Thomson
   share: 64
   start: 2012
 place_built: Cowes IoW
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:37.31463+00:00'
 website: ''
 year: 1921
 year_is_approximate: false
+previous_names:
+- Nexus
+- Symphany
+construction_details: Mahogany double diagonal
+beam: 4.572
+for_sale_state:
+  text: not_for_sale

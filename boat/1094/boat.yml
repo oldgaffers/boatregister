@@ -1,34 +1,45 @@
-builder: 62a35eed-a9af-49be-9ad6-5e7f222eb650
-callsign: ''
+name: Otter
+oga_no: 1094
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 84/1
+builder:
+  name: J. Angear
+  id: 62a35eed-a9af-49be-9ad6-5e7f222eb650
+designer:
+  name: J. Angear
+  id: cd92bfc6-773b-4d87-af85-f1523b1e2dcf
 construction_material: wood
 construction_method: unknown
-designer: cd92bfc6-773b-4d87-af85-f1523b1e2dcf
 draft: 1.6459
 engine_installations: []
 for_sales: []
-full_description: Log 84/1
-generic_type: unknown
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.645940014630578
-  length_on_waterline: 8.443062667642037
   length_over_all: 11.582540843696659
+  length_on_waterline: 8.443062667642037
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 77bc4c5a-a82d-4f86-a5c1-0921a855bdd7
 length_on_deck: 11.5824
-mainsail_type: gaff
-name: Otter
-oga_no: 1094
+reference:
+- Log 84/1
+uk_part1: '133331'
+callsign: ''
 ownerships:
 - name: Mrs S G Myers
   share: 64
   start: 2012
 place_built: Looe
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:01.337406+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+construction_details: Pine on oak
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

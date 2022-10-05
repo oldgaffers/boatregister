@@ -1,9 +1,9 @@
-construction_material: wood
-construction_method: cold_moulded
-designer: 28e7f71c-8151-4614-8528-a1b83d6fa583
-draft: 0.914
-engine_installations: []
-for_sales: []
+name: Wee Annie
+oga_no: 3695
+generic_type: Yacht
+rig_type: cat_boat
+mainsail_type: gaff
+short_description: <p>Phil Bolger designed Lynx&nbsp;</p>
 full_description: <p>Built in Essex in early 80s by the cold moulded system. One of
   probably two ever built in the UK, first being "Buffo" as featured in The Bullimore
   Fleet Classic Boat No 106 March 1997. She was built slightly larger than Phil Bolger's
@@ -11,19 +11,28 @@ full_description: <p>Built in Essex in early 80s by the cold moulded system. One
   and a curved bowsprit was added in the late 90s which retains the tradition of East
   coast catboat design. Her relatively deep keel incorporating 200kg of lead make
   a stiff able pocket cruiser.</p>
-generic_type: Yacht
+designer:
+  name: Philip Bolger
+  id: 28e7f71c-8151-4614-8528-a1b83d6fa583
+construction_material: wood
+construction_method: cold_moulded
+draft: 0.914
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.134
 home_country: 'United Kingdom '
 hull_form: long keel sloping forefoot
 id: 39527dcd-8e97-40eb-80f5-fdf88ad1c14d
 length_on_deck: 4.45
-mainsail_type: gaff
-name: Wee Annie
-oga_no: 3695
+spar_material: other
 place_built: 'Essex '
-rig_type: cat_boat
-short_description: <p>Phil Bolger designed Lynx&nbsp;</p>
 updated_at: '2022-05-03T18:08:21.656984+00:00'
 year: 1980
 year_is_approximate: true
+previous_names:
+- Lallula
+- Clarice Annie
+image_key: DZvQ56
+for_sale_state:
+  text: not_for_sale

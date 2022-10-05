@@ -1,34 +1,41 @@
-builder: 5d7d97b1-9319-4d26-ad16-ac176ee74886
-callsign: ''
+name: Puffin
+oga_no: 487
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: J. Wade
+  id: 5d7d97b1-9319-4d26-ad16-ac176ee74886
+designer:
+  name: J. Wade
+  id: 20788e9d-f5a7-411f-bcda-0c7e258e6d42
 construction_material: wood
 construction_method: unknown
-designer: 20788e9d-f5a7-411f-bcda-0c7e258e6d42
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.346988539380639
   draft: 1.066812972445745
-  length_on_waterline: 7.315288953913679
   length_over_all: 7.650573030968056
+  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: cf7f1267-f4d8-4c52-9bfa-d34a5f38630a
 length_on_deck: 7.6505
-mainsail_type: gaff
-name: Puffin
-oga_no: 487
+callsign: ''
 ownerships:
 - name: G Winter
   share: 64
   start: 2012
 place_built: Maldon (conv)
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:43.684659+00:00'
 website: ''
 year: 1963
 year_is_approximate: false
+beam: 2.347
+for_sale_state:
+  text: not_for_sale

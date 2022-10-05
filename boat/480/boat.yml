@@ -1,11 +1,13 @@
-builder: ff7b1629-680c-4aec-8744-70c7fea1a636
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Ploughboy
+oga_no: 480
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p><em>Ploughboy</em> was built as a yacht for John Jackson of
+  Walney Island as a replacement for <em>Cock O&#39;North </em>which was wrecked on
+  her maiden voyage. In 1960s and 70s she was owned by John Gill a house master at
+  Rossall School south of Fleetwood and used to take pupils on sailing trips. She
+  is now based in North Wales</p>
 full_description: "<p>\u2018Ploughboy\u2019 was built for John Jackson of North Scales\
   \ as a replacement for \u2018Cock of the North\u2019, which had been wrecked on\
   \ her maiden voyage from Arnside in December 1900. \u2018Ploughboy\u2019 is thought\
@@ -60,30 +62,39 @@ full_description: "<p>\u2018Ploughboy\u2019 was built for John Jackson of North 
   \ to Arnside, anchoring overnight at New Barns Bay.</p>\n<p>2012: Bought by new\
   \ owner. Kept at Gillingham in Kent.<br>\n2017: Advertised on Ebay for \xA314,500</p>\n\
   <p>2021: Change of ownership and undergoing restoration in Port Penryn, Wales.</p>"
-generic_type: unknown
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.3716166788588149
-  fore_triangle_base: 6.2484759814679345
-  fore_triangle_height: 7.620092660326749
-  length_on_waterline: 8.077298219946353
-  length_over_all: 8.83930748597903
   main:
     foot: 5.9436722750548645
     head: 4.57205559619605
     luff: 3.9624481833699097
   thcf: 1.00052171
+  draft: 1.3716166788588149
   topsail:
     luff: 6.0960741282613995
     perpendicular: 2.13362594489149
+  length_over_all: 8.83930748597903
+  fore_triangle_base: 6.2484759814679345
+  length_on_waterline: 8.077298219946353
+  fore_triangle_height: 7.620092660326749
 home_country: 'null'
 home_port: Penrhyn, North Wales
 hull_form: unknown
 id: 6f9ac63f-e3d2-4634-bedd-f01beed2445c
 length_on_deck: 8.8392
-mainsail_type: gaff
-name: Ploughboy
-oga_no: 480
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2012
   name: Robert Rayner
@@ -97,19 +108,18 @@ ownerships:
   name: Xander Robertson
   share: 64
   start: 2017
-- current: true
-  id: 34999
-  member: 6582
+- id: 34999
   share: 64
   start: 2022
+  member: 6582
+  current: true
 place_built: Arnside
-rig_type: Cutter
-short_description: <p><em>Ploughboy</em> was built as a yacht for John Jackson of
-  Walney Island as a replacement for <em>Cock O&#39;North </em>which was wrecked on
-  her maiden voyage. In 1960s and 70s she was owned by John Gill a house master at
-  Rossall School south of Fleetwood and used to take pupils on sailing trips. She
-  is now based in North Wales</p>
 updated_at: '2022-08-02T20:50:34.776839+00:00'
 website: ''
 year: 1901
 year_is_approximate: false
+image_key: s7wLDf
+construction_details: Larch on Oak carvel
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

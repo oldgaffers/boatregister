@@ -1,36 +1,44 @@
-builder: ceeba774-b0f8-48a9-a036-732b70c8a35f
-callsign: ''
+name: Passing Stranger
+oga_no: 1562
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Terry Heard
+  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: grp
 construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.463
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.987076322848086
   draft: 1.4630577907827358
-  length_on_waterline: 8.22970007315289
-  length_over_all: 8.53450377956596
   propellor:
     type: fixed
+  length_over_all: 8.53450377956596
+  length_on_waterline: 8.22970007315289
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 348f1d46-afd3-41ce-912a-701282ffc61a
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Passing Stranger
-oga_no: 1562
+callsign: ''
 ownerships:
 - name: Roy Godfrey
   share: 64
   start: 1984
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:14.839143+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+construction_details: Glassfibre
+beam: 2.987
+for_sale_state:
+  text: not_for_sale

@@ -1,37 +1,50 @@
-builder: 3b65b81f-4ab9-49e9-b375-de30d3d32138
-callsign: ''
+name: Tiki Sunrise
+oga_no: 2207
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Philip Le Maitre
+  id: 3b65b81f-4ab9-49e9-b375-de30d3d32138
+designer:
+  name: J. Wharram
+  id: c626dd16-97f7-4ae9-ba92-b7f824dbaf65
 construction_material: wood
 construction_method: unknown
-designer: c626dd16-97f7-4ae9-ba92-b7f824dbaf65
 draft: 0.3566
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
-  draft: 0.35662033650329183
-  fore_triangle_base: 2.13362594489149
-  fore_triangle_height: 6.4008778346744695
-  length_on_waterline: 5.7912704218483295
-  length_over_all: 6.4008778346744695
   main:
     foot: 3.6576444769568397
     head: 0.9144111192392099
     luff: 5.4864667154352595
   thcf: 0.867929051
+  draft: 0.35662033650329183
+  length_over_all: 6.4008778346744695
+  fore_triangle_base: 2.13362594489149
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 6.4008778346744695
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 1f75044e-e5d3-456a-bf05-b659445ddbae
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Tiki Sunrise
-oga_no: 2207
+sail_number: '207'
+ssr: '50642'
+callsign: ''
 place_built: Guernsey
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-01-31T17:02:52.435215+00:00'
 website: ''
 year: 1986
 year_is_approximate: false
+construction_details: Ply
+beam: 1.8288
+design_class:
+  name: Tiki 21 Catarman
+  id: d95c32fe-3b8d-42a3-90fa-70350b531e94
+for_sale_state:
+  text: not_for_sale

@@ -1,34 +1,42 @@
-builder: e73b5c6d-b75d-4d06-9e75-5c59a540e114
-callsign: ''
+name: John Henry
+oga_no: 1076
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: J. Woodruff
+  id: e73b5c6d-b75d-4d06-9e75-5c59a540e114
+designer:
+  name: J. Woodruff
+  id: c5895838-9e69-4f2b-89fb-386932f84720
 construction_material: grp
 construction_method: cold_moulded
-designer: c5895838-9e69-4f2b-89fb-386932f84720
 draft: 0.5791
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.0726652036088757
   draft: 0.5791270421848329
-  length_on_waterline: 5.120702267739576
   length_over_all: 5.4864667154352595
+  length_on_waterline: 5.120702267739576
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 17ffc82a-e457-4ea3-a68e-28e21b01a7b8
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: John Henry
-oga_no: 1076
+callsign: ''
 ownerships:
 - name: J B Woodruff
   share: 64
   start: 2012
 place_built: Parkstone
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:00.768632+00:00'
 website: ''
 year: 1976
 year_is_approximate: false
+construction_details: GRP
+beam: 2.0726
+for_sale_state:
+  text: not_for_sale

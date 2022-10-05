@@ -1,36 +1,43 @@
-builder: 7b8f27ae-1f33-44e0-8cb8-9ca7bedc640f
-callsign: ''
+name: Marishka
+oga_no: 994
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Morris and Lorrimer
+  id: 7b8f27ae-1f33-44e0-8cb8-9ca7bedc640f
+designer:
+  name: D. Fyfe
+  id: f5a1c2d0-d6c1-48aa-9621-56cc38eff14b
 construction_material: wood
 construction_method: unknown
-designer: f5a1c2d0-d6c1-48aa-9621-56cc38eff14b
 draft: 1.6764
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.590831504511095
   draft: 1.6764203852718849
-  length_on_waterline: 7.620092660326749
   length_over_all: 8.382101926359423
+  length_on_waterline: 7.620092660326749
 home_country: GBR
 home_port: Truro
 hull_form: unknown
 id: 872c3775-ff6c-4253-8b17-e08b91b45773
 length_on_deck: 8.382
-mainsail_type: gaff
-name: Marishka
-oga_no: 994
+callsign: ''
 ownerships:
-- current: true
-  id: 148
-  member: 2335
+- id: 148
   share: 64
   start: 1995
+  member: 2335
+  current: true
 place_built: Sandbank
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:58.236403+00:00'
 website: ''
 year: 1895
 year_is_approximate: false
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

@@ -1,36 +1,44 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
+name: Talisman
+oga_no: 1103
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Sold and converted to bermudan
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 construction_material: wood
 construction_method: carvel
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: Sold and converted to bermudan
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.066812972445745
-  fore_triangle_base: 2.43842965130456
-  fore_triangle_height: 7.010485247500609
-  length_on_waterline: 6.705681541087539
-  length_over_all: 7.010485247500609
   main:
     foot: 3.5052426237503047
     luff: 5.4864667154352595
   thcf: 0.838640717
+  draft: 1.066812972445745
+  length_over_all: 7.010485247500609
+  fore_triangle_base: 2.43842965130456
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 7.010485247500609
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: e914cc79-9d0a-4c31-83d3-1c99447374da
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Talisman
-oga_no: 1103
+callsign: ''
 place_built: Littlehampton
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-23T08:38:13.181598+00:00'
 website: ''
 year: 1934
 year_is_approximate: false
+construction_details: Pitch pine/Carvel
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

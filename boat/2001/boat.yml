@@ -1,12 +1,9 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
-draft: 1.143
-engine_installations: []
-for_sales:
-- asking_price: 36500
+name: Annie
+oga_no: 2001
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Annie is the first Pilot Cutter taken from the mould.</p>
 full_description: <p>Annie has been in the same ownership in the west of Scotland
   for most of her life. In 2018 we converted her to a junk rig, placing her new unstayed
   Douglas fir mast right up forward to a step in the fo'c's'le. The boat's handling
@@ -22,46 +19,62 @@ full_description: <p>Annie has been in the same ownership in the west of Scotlan
   painted interior, with full sized chart table to stbd opposite the galley, two wide
   quarter berths and two berths in the saloon. The fo'c's'le is through a door and
   houses the mast step and head, chain locker etc.</p>
-generic_type: Yacht
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.143
+engine_installations: []
+for_sales:
+- asking_price: 36500
 handicap_data:
   beam: 2.8956352109241648
-  draft: 1.1430138990490124
-  fore_triangle_base: 5.7912704218483295
-  fore_triangle_height: 8.458302852962692
-  length_on_waterline: 7.848695440136551
-  length_over_all: 9.1441111923921
   main:
     foot: 5.6388685686417945
     head: 4.495854669592782
     luff: 4.953060229212387
-  propellor:
-    type: fixed
   thcf: 0.969236092
+  draft: 1.1430138990490124
   topsail:
     luff: 5.715069495245062
     perpendicular: 2.286027798098025
+  propellor:
+    type: fixed
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 5.7912704218483295
+  length_on_waterline: 7.848695440136551
+  fore_triangle_height: 8.458302852962692
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: ce63b03d-9618-4201-bb19-8dbc2509aea4
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Annie
-oga_no: 2001
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 1986
   name: R Dongray
   share: 64
   start: 1985
-- current: true
-  id: 220
-  member: 3086
+- id: 220
   share: 64
   start: 1986
+  member: 3086
+  current: true
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Annie is the first Pilot Cutter taken from the mould.</p>
 updated_at: '2021-12-19T21:02:44.564976+00:00'
 website: ''
 year: 1985
 year_is_approximate: false
+image_key: GVHt7w
+construction_details: GRP
+beam: 2.8956
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
+for_sale_state:
+  text: for_sale

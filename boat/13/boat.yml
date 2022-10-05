@@ -1,11 +1,11 @@
-builder: cbf3ddd1-9074-49b2-a3da-9bc47f64d760
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: f4272731-0d68-44d6-a0ef-e9266edfc9ef
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Lady Trix
+oga_no: 13
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Thistle&#39;, previously known as &#39;Trix&#39; until
+  1946, was built in Scotland, 1909 to an Alfred Mylne design. In 2006, she was renamed
+  again, &#39;Lady Trix&#39; following a major restoration in France.</p>
 full_description: "<p>Named &#39;Trix&#39; until 1946 when she was re-named &#39;Thistle&#39;,\
   \ &#39;Lady Trix&#39; is a one off lightweight racing yacht designed by Alfred Mylne\
   \ and built on the Clyde, Scotland in 1909. She often raced in the 1950s with the\
@@ -50,32 +50,40 @@ full_description: "<p>Named &#39;Trix&#39; until 1946 when she was re-named &#39
   \ my Dad.</p>\r\n\r\n<p>With warm memories, David Johnston</p>\r\n</blockquote>\r\
   \n\r\n<p><a href=\"http://www.museemaritimelarochelle.fr/contenu/,les_yachts_agrees_sur_nos_quais,101?idbateau=57\"\
   \ target=\"_blank\">Find an article in French, here, written in 2009</a></p>"
-generic_type: Yacht
+builder:
+  name: A. Malcolm
+  id: cbf3ddd1-9074-49b2-a3da-9bc47f64d760
+designer:
+  name: Alfred Mylne
+  id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
+construction_material: wood
+construction_method: unknown
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
   draft: 1.5240185320653499
-  length_on_waterline: 5.6388685686417945
   length_over_all: 8.686905632772493
+  length_on_waterline: 5.6388685686417945
 home_country: FRA
 home_port: la Rochelle
 hull_form: unknown
 id: 404a9154-7c0f-4952-916f-5995c9f8f519
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: Lady Trix
-oga_no: 13
+sail_number: 13C
+callsign: ''
 ownerships:
 - note: 'There are two versions of her first ownership:'
   text: 'There are two versions of her first ownership:'
 - end: 1
-  end_is_approximate: false
   note: "1. She was ordered for a Miss C Howden\u2019s 18th birthday. This young lady\u2019\
     s father appears to be the owner of Howden Engineering, and known to Alfred Mylne.\
     \ Howdens was a pioneering firm of industrial engineers which exists to this day.\
     \  "
   text: ". She was ordered for a Miss C Howden\u2019s"
-- end: 1892
   end_is_approximate: false
+- end: 1892
   note: "2. The lore around Royal Gourock YC was that she was built for Lady Coats,\
     \ perhaps biased by the Club\u2019s early connections to the Coats family (known\
     \ for their thread spinning and cloth weaving businesses). It was one of the (several)\
@@ -85,26 +93,31 @@ ownerships:
     \ same fellow was an apprentice yacht designer and assistant to Alfred Mylne.\
     \ Although there is a certain roundness to this version, that does not necessarily\
     \ mean it is true!"
-  start: 1894
-  start_is_approximate: false
   text: ". The lore around Royal Gourock YC was that she was built for Lady Coats,\
     \ perhaps biased by the Club\u2019s early connections to the Coats family (known\
     \ for their thread spinning and cloth weaving businesses). It was one of the (several)\
     \ Coats baronets who had the Clubhouse built in"
+  start: 1894
+  end_is_approximate: false
+  start_is_approximate: false
 - note: 'Previous owners J.S. Buchanan (1976), F.W.Coghill (1978) '
+  text: Previous owners J.S. Buchanan (
   start: 1976
   start_is_approximate: false
-  text: Previous owners J.S. Buchanan (
 - end: 1996
   name: W R Courtney
   share: 64
   start: 1982
 place_built: Port Bannatyne
-rig_type: Sloop
-short_description: <p>&#39;Thistle&#39;, previously known as &#39;Trix&#39; until
-  1946, was built in Scotland, 1909 to an Alfred Mylne design. In 2006, she was renamed
-  again, &#39;Lady Trix&#39; following a major restoration in France.</p>
 updated_at: '2021-12-19T13:38:30.080108+00:00'
 website: ''
 year: 1909
 year_is_approximate: false
+previous_names:
+- Trix
+- Thistle
+image_key: RPwzFh
+construction_details: Pitch pine on steamed rock elm.
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

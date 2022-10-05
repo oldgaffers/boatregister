@@ -1,34 +1,41 @@
-builder: 328ab631-592d-46dd-a5a7-23b3c011c1b3
-callsign: ''
+name: Audrey
+oga_no: 613
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Anderson Rigden and Perkins
+  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+designer:
+  name: P.C. Crossley
+  id: 8b8212e4-1ba0-44a2-9df7-441d37aa0720
 construction_material: wood
 construction_method: unknown
-designer: 8b8212e4-1ba0-44a2-9df7-441d37aa0720
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.4689100219458666
   draft: 1.5240185320653499
-  length_on_waterline: 7.010485247500609
   length_over_all: 7.620092660326749
+  length_on_waterline: 7.010485247500609
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 297b72ef-da2b-4c18-9b85-9d531ed44758
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Audrey
-oga_no: 613
+callsign: ''
 ownerships:
 - name: C M D Little
   share: 64
   start: 1974
 place_built: Whitstable
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:47.358397+00:00'
 website: ''
 year: 1924
 year_is_approximate: false
+beam: 2.4689
+for_sale_state:
+  text: not_for_sale

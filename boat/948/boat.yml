@@ -1,33 +1,38 @@
-builder: 018aefed-49bf-41d1-ad3b-d5408138384d
-callsign: ''
+name: Buccabu
+oga_no: 948
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Forrest
+  id: 018aefed-49bf-41d1-ad3b-d5408138384d
 construction_material: wood
 construction_method: unknown
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.9812240916849548
   draft: 0.9144111192392099
-  length_on_waterline: 4.87685930260912
   length_over_all: 6.0960741282613995
+  length_on_waterline: 4.87685930260912
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 9c41bd27-2e8d-43f5-9429-78734d7e711c
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Buccabu
-oga_no: 948
+callsign: ''
 ownerships:
 - name: B W George
   share: 64
   start: 1981
 place_built: Wivenhoe
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:56.910136+00:00'
 website: ''
 year: 1908
 year_is_approximate: false
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

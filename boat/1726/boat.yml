@@ -1,48 +1,56 @@
-callsign: ''
+name: Marjie
+oga_no: 1726
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Log 89/2
 construction_material: steel
 construction_method: unknown
 draft: 2.0726
 engine_installations: []
 for_sales: []
-full_description: Log 89/2
-generic_type: unknown
 handicap_data:
   beam: 5.4864667154352595
-  draft: 2.0726652036088757
-  fore_triangle_base: 18.684467203121187
-  fore_triangle_height: 20.330407217751766
-  length_on_waterline: 15.240185320653499
-  length_over_all: 21.3362594489149
   main:
     foot: 7.162887100707144
     head: 6.0960741282613995
     luff: 7.101926359424531
+  thcf: 1.263813277
+  draft: 2.0726652036088757
   mizzen:
     foot: 5.090221897098268
     head: 5.090221897098268
     luff: 5.699829309924408
-  propellor:
-    type: fixed
-  thcf: 1.263813277
   topsail:
     luff: 10.66812972445745
     perpendicular: 5.4864667154352595
+  propellor:
+    type: fixed
+  length_over_all: 21.3362594489149
+  fore_triangle_base: 18.684467203121187
+  length_on_waterline: 15.240185320653499
+  fore_triangle_height: 20.330407217751766
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 722ec5bd-54b6-495d-8f9a-5f71ae968fbc
 length_on_deck: 21.336
-mainsail_type: gaff
-name: Marjie
-oga_no: 1726
+reference:
+- Log 89/2
+callsign: ''
 ownerships:
 - name: C Kinghorn
   share: 64
   start: 2012
 place_built: Holland
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:18.751132+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+previous_names:
+- Maartje
+construction_details: Rivetted Steel hull; decks part steel part timber
+beam: 5.4864
+for_sale_state:
+  text: not_for_sale

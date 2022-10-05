@@ -1,11 +1,10 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Tir na nOg of Howth
+oga_no: 2572
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Tir na n&#39;Og of Howth is a Heard 28 built in 1992 by Gaffers
+  and Luggers. Her home port, as her name, is Howth Yacht Club, Dublin Bay.</p>
 full_description: '<p>Tir na nOg of Howth''s decks were replaced in 2012. She has
   cruised many times to Scotland and the Outer Hebrides.</p>
 
@@ -24,49 +23,64 @@ full_description: '<p>Tir na nOg of Howth''s decks were replaced in 2012. She ha
   now reaching the cockpit and controlled by winches &amp; jammers. All of the mast
   hardware has been updated in 316 Stainless steel, ditto the bowsprit, which was
   replaced in 2019.</p>'
-generic_type: Yacht
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.5240185320653499
-  fore_triangle_base: 6.5532796878810045
-  fore_triangle_height: 8.22970007315289
-  length_on_waterline: 8.077298219946353
-  length_over_all: 8.53450377956596
   main:
     foot: 5.309680565715679
     head: 4.547671299683004
     luff: 5.00487685930261
-  propellor:
-    blades: 3
-    type: feathering
-  sailarea: 57.746682448378394
   thcf: 0.977
+  draft: 1.5240185320653499
   topsail:
     luff: 5.410265788831992
     perpendicular: 1.8288222384784198
+  sailarea: 57.746682448378394
+  propellor:
+    type: feathering
+    blades: 3
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 6.5532796878810045
+  length_on_waterline: 8.077298219946353
+  fore_triangle_height: 8.22970007315289
 home_country: IRL
 home_port: Kinsale
 hull_form: long keel sloping forefoot
 id: cc42e38d-59fd-46eb-bf4a-7555a05e4f37
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Tir na nOg of Howth
-oga_no: 2572
+sail_number: IRL 1055
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2007
   name: Gerry McEvoy
   share: 64
   start: 1992
-- current: true
-  id: 446
-  member: 4415
+- id: 446
   share: 64
   start: 2007
+  member: 4415
+  current: true
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: <p>Tir na n&#39;Og of Howth is a Heard 28 built in 1992 by Gaffers
-  and Luggers. Her home port, as her name, is Howth Yacht Club, Dublin Bay.</p>
 updated_at: '2021-12-19T13:39:43.198157+00:00'
 website: ''
 year: 1992
 year_is_approximate: false
+image_key: pkRH8x
+construction_details: GRP hull with wooden decks and cabin.
+beam: 2.7432
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
+for_sale_state:
+  text: not_for_sale

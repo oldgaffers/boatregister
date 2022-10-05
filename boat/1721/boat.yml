@@ -1,45 +1,51 @@
-builder: fd83d8af-e031-4285-8f04-e8005edf1838
-callsign: ''
+name: Sea Horse
+oga_no: 1721
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Werkelin
+  id: fd83d8af-e031-4285-8f04-e8005edf1838
 construction_material: wood
 construction_method: clinker
 draft: 1.4478
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.2522555474274566
-  draft: 1.4478176054620824
-  fore_triangle_base: 7.010485247500609
-  fore_triangle_height: 7.2390880273104115
-  length_on_waterline: 7.924896366739819
-  length_over_all: 8.53450377956596
   main:
     foot: 6.4008778346744695
     head: 5.029261155815655
     luff: 5.4864667154352595
-  propellor:
-    type: fixed
   thcf: 0.958615268
+  draft: 1.4478176054620824
   topsail:
     luff: 4.87685930260912
     perpendicular: 2.6152158010241404
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 7.010485247500609
+  length_on_waterline: 7.924896366739819
+  fore_triangle_height: 7.2390880273104115
 home_country: 'null'
 home_port: Bursledon
 hull_form: long keel deep forefoot
 id: ec71a533-7e2b-44fe-9652-b899926c366e
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Sea Horse
-oga_no: 1721
+callsign: ''
 ownerships:
 - name: Peter Thorpe
   share: 64
   start: 1994
 place_built: Faro Sweden
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:18.615117+00:00'
 website: ''
 year: 1959
 year_is_approximate: false
+construction_details: Clinker swedish fir on
+beam: 3.2522
+for_sale_state:
+  text: not_for_sale

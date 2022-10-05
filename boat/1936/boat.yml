@@ -1,37 +1,46 @@
-builder: 384d5f60-92ed-44d3-8f3f-4027d02e67fe
-callsign: ''
+name: Victoria
+oga_no: 1936
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Built to take sailing guests to Holland. Impounded in Holland During
+  the Boer war. Skipper and Boy slipped mooring and sailed her home.
+builder:
+  name: Albert Loynes
+  id: 384d5f60-92ed-44d3-8f3f-4027d02e67fe
+designer:
+  name: Albert Loynes
+  id: bcec2dd6-7f1f-4103-8f74-a532cb0199ff
 construction_material: wood
 construction_method: carvel
-designer: bcec2dd6-7f1f-4103-8f74-a532cb0199ff
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Built to take sailing guests to Holland. Impounded in Holland During
-  the Boer war. Skipper and Boy slipped mooring and sailed her home.
-generic_type: Yacht
 handicap_data:
   beam: 3.4138015118263834
   draft: 1.21921482565228
-  length_on_waterline: 9.75371860521824
-  length_over_all: 13.716166788588149
   propellor:
     type: fixed
+  length_over_all: 13.716166788588149
+  length_on_waterline: 9.75371860521824
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: f799d7bf-8f42-493b-89d8-d4a1ea19dd72
 length_on_deck: 13.716
-mainsail_type: gaff
-name: Victoria
-oga_no: 1936
+uk_part1: '104092'
+callsign: ''
 ownerships:
 - name: Edward Class
   share: 64
   start: 1968
 place_built: Wroxham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:24.649661+00:00'
 website: ''
 year: 1897
 year_is_approximate: false
+construction_details: Carvel - Pitch Pine on oak
+beam: 3.4138
+for_sale_state:
+  text: not_for_sale

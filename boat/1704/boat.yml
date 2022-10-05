@@ -1,12 +1,11 @@
-builder: b22c5e1b-29a1-4dc3-8e08-33dbb33e07de
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
-draft: 1.1674
-engine_installations: []
-for_sales:
-- asking_price: 17000
+name: Chough
+oga_no: 1704
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Following major restoration, &#39;Chough&#39; has varnished
+  Burma teak planking on oak frames with copper and bronze fasteners, bronze floors,
+  lead keel and all new bronze bolts. Her deck is epoxy sheathed.</p>
 full_description: "<p>&lsquo;Chough&rsquo; was designed by A R Luke of Hamble, built\
   \ by Brook &amp; Hall, Walton on the Naze in 1927.</p>\r\n\r\n<p>Brenda Page confirmed\
   \ that her grandfather built &#39;Chough&#39; at Brook &amp; Hall, Walton on the\
@@ -25,45 +24,55 @@ full_description: "<p>&lsquo;Chough&rsquo; was designed by A R Luke of Hamble, b
   \ out more work in 2013.</p>\r\n\r\n<p>&lsquo;Chough&rsquo; has a good racing record\
   \ having won many Solent OGA races including Cowes Classic Class Winner 2014 and\
   \ 2015.</p>"
-generic_type: Yacht
+builder:
+  name: Brooke and Hall
+  id: b22c5e1b-29a1-4dc3-8e08-33dbb33e07de
+designer:
+  name: A.R. Luke
+  id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+construction_material: wood
+construction_method: unknown
+draft: 1.1674
+engine_installations: []
+for_sales:
+- asking_price: 17000
 handicap_data:
   beam: 1.9568397951719092
-  draft: 1.1430138990490124
-  fore_triangle_base: 2.6426481346013166
-  fore_triangle_height: 6.336869056327725
-  length_on_waterline: 5.245671787368934
-  length_over_all: 5.562667642038527
-  length_over_spars: 7.924896366739819
   main:
     foot: 3.6576444769568397
     head: 3.938063886856864
     luff: 3.910631553279688
-  sailarea: 24.812265040978797
   thcf: 0.86
+  draft: 1.1430138990490124
+  sailarea: 24.812265040978797
+  length_over_all: 5.562667642038527
+  length_over_spars: 7.924896366739819
+  fore_triangle_base: 2.6426481346013166
+  length_on_waterline: 5.245671787368934
+  fore_triangle_height: 6.336869056327725
 home_country: GBR
 home_port: Hamble
 hull_form: unknown
 id: ca3ee406-39c1-49ee-8437-d00d5c8ee1d9
 length_on_deck: 5.587
-mainsail_type: gaff
-name: Chough
-oga_no: 1704
+sail_number: '1704'
+callsign: ''
 ownerships:
 - end: 2015
   name: David and Christine Hopkins
   share: 64
   start: 2008
-- current: true
-  id: 889
-  member: 6007
+- id: 889
   share: 64
+  member: 6007
+  current: true
   start: '?'
 place_built: Walton on the Naze
-rig_type: Sloop
-short_description: <p>Following major restoration, &#39;Chough&#39; has varnished
-  Burma teak planking on oak frames with copper and bronze fasteners, bronze floors,
-  lead keel and all new bronze bolts. Her deck is epoxy sheathed.</p>
 updated_at: '2021-12-19T13:39:18.239164+00:00'
 website: ''
 year: 1927
 year_is_approximate: false
+image_key: SQ8sgP
+beam: 1.9568
+for_sale_state:
+  text: not_for_sale

@@ -1,14 +1,21 @@
-builder: dfe52526-2571-4db5-96c4-eef4492194c8
-callsign: ''
+name: Sky
+oga_no: 1804
+generic_type: Dinghy
+mainsail_type: gaff
+short_description: Dead weight 145 kg
+full_description: Mould owned by Scott Metcalf taken from his original wooden West
+  Cheshire Clipper.
+builder:
+  name: Kittiiwake Boats
+  id: dfe52526-2571-4db5-96c4-eef4492194c8
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
 construction_material: grp
 construction_method: cold_moulded
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
 draft: 0.1768
 engine_installations: []
 for_sales: []
-full_description: Mould owned by Scott Metcalf taken from his original wooden West
-  Cheshire Clipper.
-generic_type: Dinghy
 handicap_data:
   beam: 1.3716288710070714
   draft: 0.17781638624725676
@@ -19,16 +26,17 @@ home_port: ''
 hull_form: centre-board dinghy
 id: d1e20557-6876-43b8-9574-7d25b71ef046
 length_on_deck: 3.048
-mainsail_type: gaff
-name: Sky
-oga_no: 1804
+callsign: ''
 ownerships:
 - name: Anita Austin
   share: 64
   start: 2012
 place_built: Macclesfield
-short_description: Dead weight 145 kg
 updated_at: '2021-12-19T13:39:20.780634+00:00'
 website: ''
 year: 2012
 year_is_approximate: false
+construction_details: Clinker glassfibre with wood trim in idigbo
+beam: 1.3716
+for_sale_state:
+  text: not_for_sale

@@ -1,34 +1,43 @@
-builder: f6d3cb3a-eb09-428a-b22a-fdb6db468f8d
-callsign: ''
+name: Bimi
+oga_no: 1218
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Log 78/2
+builder:
+  name: Nunes Bros.
+  id: f6d3cb3a-eb09-428a-b22a-fdb6db468f8d
+designer:
+  name: C. Norgaard
+  id: bd8594c4-9e37-4ed0-8e78-89700db8c759
 construction_material: wood
 construction_method: unknown
-designer: bd8594c4-9e37-4ed0-8e78-89700db8c759
 draft: 1.8288
 engine_installations: []
 for_sales: []
-full_description: Log 78/2
-generic_type: unknown
 handicap_data:
   beam: 4.419653742989515
   draft: 1.8288222384784198
-  length_on_waterline: 8.382101926359423
   length_over_all: 9.631797122653012
+  length_on_waterline: 8.382101926359423
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: f2a16dd3-ca76-44b5-900a-f2b5a5e9e571
 length_on_deck: 9.6317
-mainsail_type: gaff
-name: Bimi
-oga_no: 1218
+reference:
+- Log 78/2
+callsign: ''
 ownerships:
 - name: D L MacLachlan
   share: 64
   start: 2012
 place_built: Sausalito Cal
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:05.101874+00:00'
 website: ''
 year: 1955
 year_is_approximate: false
+beam: 4.4196
+for_sale_state:
+  text: not_for_sale

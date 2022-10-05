@@ -1,43 +1,51 @@
-callsign: ''
+name: Lydia
+oga_no: 2021
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+designer:
+  name: M.G. Duff
+  id: 2b103892-d6bc-4466-8ba6-e9facf83aec1
 construction_material: wood
 construction_method: unknown
-designer: 2b103892-d6bc-4466-8ba6-e9facf83aec1
 draft: 0.5486
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.301267983418678
-  draft: 0.548646671543526
-  fore_triangle_base: 2.9992684711046085
-  fore_triangle_height: 5.498658863691782
-  length_on_waterline: 5.7912704218483295
-  length_over_all: 6.001584979273348
   main:
     foot: 3.858814923189466
     head: 2.740185320653499
     luff: 2.761521580102414
   thcf: 0.83863346
+  draft: 0.548646671543526
   topsail:
     luff: 3.770421848329675
     perpendicular: 1.6703243111436235
+  length_over_all: 6.001584979273348
+  fore_triangle_base: 2.9992684711046085
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 5.498658863691782
 home_country: 'null'
 home_port: Dell Quay Chichester
 hull_form: unknown
 id: 0fd79c19-20bd-4557-840f-f1efdceff5ab
 length_on_deck: 6.0015
-mainsail_type: gaff
-name: Lydia
-oga_no: 2021
+callsign: ''
 ownerships:
 - name: David Mitchell
   share: 64
   start: 2012
 place_built: Portsmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:27.140136+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+previous_names:
+- Kingfisher
+- Chewbacca
+beam: 2.3012
+for_sale_state:
+  text: not_for_sale

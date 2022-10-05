@@ -1,28 +1,38 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-construction_material: grp
-construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-draft: 1.21921482565228
-engine_installations: []
-for_sales: []
+name: Lena
+oga_no: 3641
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p><em>Lena</em> is a Heard 23, bought as a bare hull and fitted
+  out by her first owner.</p>
 full_description: <p>Tony Arthur purchased the hull in 1978 for self fit out - David
   &nbsp;Spargo sold her in 1995. In Dec 2009 &nbsp;Soren Poulsen bouight her and took
   her to Denmark. Her current owner brought her from Sweden down to St Malo by road
   transport, and then by water across to Jersey</p>
-generic_type: Yacht
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.21921482565228
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
 home_country: Jersey
 hull_form: long keel deep forefoot
 id: 0b9e16c4-ee46-4543-9436-9bef0e5702ca
 length_on_deck: 7.010485247500609
-mainsail_type: gaff
-name: Lena
-oga_no: 3641
+sail_number: '13'
+spar_material: wood
 place_built: Mylor
-rig_type: Cutter
-short_description: <p><em>Lena</em> is a Heard 23, bought as a bare hull and fitted
-  out by her first owner.</p>
 updated_at: '2022-01-17T16:07:01.583554+00:00'
 year: 1978
 year_is_approximate: false
+image_key: FNPBLx
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0

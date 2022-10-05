@@ -1,37 +1,51 @@
-builder: 21bf07a9-4805-4a3d-91ec-2e14b69fb0fc
-callsign: ''
+name: Casse Noisette
+oga_no: 522
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 82/1 Yacht on thonier lines, kept in Jersey untill outbreak
+  of Secong War.
+builder:
+  name: Francois Berthaud
+  id: 21bf07a9-4805-4a3d-91ec-2e14b69fb0fc
+designer:
+  name: John G. Alden
+  id: 7ae52563-8658-4911-addd-13e3b72ff1f8
 construction_material: wood
 construction_method: carvel
-designer: 7ae52563-8658-4911-addd-13e3b72ff1f8
 draft: 1.585
 engine_installations: []
 for_sales: []
-full_description: Log 82/1 Yacht on thonier lines, kept in Jersey untill outbreak
-  of Secong War.
-generic_type: Yacht
 handicap_data:
   beam: 3.1089978054133134
   draft: 1.584979273347964
-  length_on_waterline: 8.53450377956596
-  length_over_all: 11.338697878566204
   propellor:
     type: fixed
+  length_over_all: 11.338697878566204
+  length_on_waterline: 8.53450377956596
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 67a374ae-10cf-4205-83a3-c7e64adc9362
 length_on_deck: 11.3386
-mainsail_type: gaff
-name: Casse Noisette
-oga_no: 522
+reference:
+- Log 82/1
+uk_part1: '165748'
+callsign: ''
 ownerships:
 - name: G Breen-Turner
   share: 64
   start: 1981
 place_built: Trentemoult
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:44.717656+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+previous_names:
+- Lorient
+- Niort
+construction_details: Carvel, oak on oak sawn frames and Canadien rock elm timbers
+beam: 3.109
+for_sale_state:
+  text: not_for_sale

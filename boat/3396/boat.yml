@@ -1,48 +1,61 @@
-builder: 9d4baccc-bde9-4519-a2b9-054cca7f6f77
-callsign: ''
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
-draft: 1.2192
-engine_installations: []
-for_sales: []
+name: Grey Seal
+oga_no: 3396
+generic_type: Yacht
+mainsail_type: gaff
+short_description: <p>Grey Seal is a Kattegat 26, hull number 5, completed in 2018-2019.</p>
 full_description: <p>4 Kattegat 26 hulls were produced by Jim Spencer at Waterside
   Boatyard Brightlingsea during the 1990&#39;s. &quot; Complete boats &quot;Sula&quot;
   and &quot;Widgeon&quot; and 2 bare hulls for owner completion. Grey Seal&#39;s hull
   is number 5 and probably the last hull has been fitted out by shipwright&nbsp;Josh
   Brooks and her first owner Michael Breese 2018/19.</p>
-generic_type: Yacht
+builder:
+  name: Michael Breese/Josh Brooks
+  id: 9d4baccc-bde9-4519-a2b9-054cca7f6f77
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
+draft: 1.2192
+engine_installations: []
+for_sales: []
 handicap_data:
-  length_on_waterline: 6.8062
-  length_over_spars: 10.2108
-  length_overall: 8.0772
   main:
     foot: 16
     head: 13
     luff: 14
-  sailarea: 4
   topsail:
     luff: 17.5
     perpendicular: 7.5
+  sailarea: 4
+  length_overall: 8.0772
+  length_over_spars: 10.2108
+  length_on_waterline: 6.8062
 home_country: GBR
 home_port: Chichester Harbour
 hull_form: long keel sloping forefoot
 id: dc79a8ad-7417-43b4-807a-aa09d2e76ecd
 length_on_deck: 8.0772
-mainsail_type: gaff
-name: Grey Seal
-oga_no: 3396
+sail_number: K26/5
+callsign: ''
 ownerships:
 - note: Michael Breese has owned the hull since 2009.
+  text: Michael Breese has owned the hull since
   start: 2009
   start_is_approximate: false
-  text: Michael Breese has owned the hull since
-- current: true
-  id: 1035
-  member: 6288
+- id: 1035
   share: 64
   start: 2019
+  member: 6288
+  current: true
 place_built: Halnaker and Thornham Marine
-short_description: <p>Grey Seal is a Kattegat 26, hull number 5, completed in 2018-2019.</p>
 updated_at: '2021-12-19T13:40:09.845126+00:00'
 website: ''
 year: 2021
 year_is_approximate: false
+image_key: 2sThVq
+construction_details: GRP hull, timber deck and fitout.
+beam: 2.7432
+design_class:
+  name: Kattegat
+  id: c7d782f6-0cae-4fe0-9d84-a05ec9483ae2
+for_sale_state:
+  text: not_for_sale

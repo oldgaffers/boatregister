@@ -1,40 +1,51 @@
-builder: fd92000c-a4ab-4f4f-89b9-b6c1b168ac13
-callsign: ''
+name: Cariad
+oga_no: 1476
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: John Elliot
+  id: fd92000c-a4ab-4f4f-89b9-b6c1b168ac13
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: wood
 construction_method: unknown
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.081809314801268
-  draft: 1.21921482565228
-  fore_triangle_base: 2.1854425749817117
-  fore_triangle_height: 4.495854669592782
-  length_on_waterline: 5.398073640575469
-  length_over_all: 6.1722750548646665
   main:
     foot: 2.43842965130456
     luff: 6.071689831748354
   thcf: 0.802817723
+  draft: 1.21921482565228
+  length_over_all: 6.1722750548646665
+  fore_triangle_base: 2.1854425749817117
+  length_on_waterline: 5.398073640575469
+  fore_triangle_height: 4.495854669592782
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 131147ec-2ebc-4056-b1d3-5c988d7703aa
 length_on_deck: 6.1722
-mainsail_type: gaff
-name: Cariad
-oga_no: 1476
+callsign: ''
 ownerships:
 - name: A J Lord
   share: 64
   start: 1990
 place_built: Devon
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:12.459894+00:00'
 website: ''
 year: 1968
 year_is_approximate: false
+construction_details: Marine ply (chine)
+beam: 2.0818
+design_class:
+  name: Drascombe Peterboat
+  id: 1e649000-5165-4508-8ea0-171c80903329
+for_sale_state:
+  text: not_for_sale

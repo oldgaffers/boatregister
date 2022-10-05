@@ -1,33 +1,44 @@
-builder: 78b4a704-b1c2-4918-9ce3-100b591117d7
-callsign: ''
+name: Rubicon
+oga_no: 1439
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 92/1
+builder:
+  name: Eric Hammond
+  id: 78b4a704-b1c2-4918-9ce3-100b591117d7
 construction_material: steel
 construction_method: unknown
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Log 92/1
-generic_type: Yacht
 handicap_data:
   beam: 3.3528407705437697
   draft: 1.21921482565228
-  length_on_waterline: 9.1441111923921
   length_over_all: 10.851011948305292
+  length_on_waterline: 9.1441111923921
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 2fde9375-0f79-4387-8200-fab4f16a8592
 length_on_deck: 10.8509
-mainsail_type: gaff
-name: Rubicon
-oga_no: 1439
+reference:
+- Log 92/1
+ssr: '16312'
+callsign: ''
 ownerships:
 - name: C A Ward
   share: 64
   start: 2012
 place_built: Hull
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:11.382124+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+previous_names:
+- Strumpet
+construction_details: Steel
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

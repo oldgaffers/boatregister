@@ -1,13 +1,21 @@
-builder: 2b3d8889-f3d0-4d3f-832a-e94a303c019d
-callsign: ''
+name: Carrie of Camaret
+oga_no: 2154
+generic_type: Yacht
+rig_type: Schooner
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: M. Cornec
+  id: 2b3d8889-f3d0-4d3f-832a-e94a303c019d
+designer:
+  name: M. Cornet
+  id: facf41d3-c9a2-4e0f-8694-8cf8cad24cb8
 construction_material: wood
 construction_method: unknown
-designer: facf41d3-c9a2-4e0f-8694-8cf8cad24cb8
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 5.891855644964642
   length_over_all: 19.812240916849547
@@ -16,17 +24,18 @@ home_port: Plymouth
 hull_form: unknown
 id: 867d702a-1dc9-4099-b397-a1da53efdd6c
 length_on_deck: 19.812
-mainsail_type: gaff
-name: Carrie of Camaret
-oga_no: 2154
+callsign: ''
 ownerships:
 - name: Eleanor Standen
   share: 64
   start: 2012
 place_built: Camaret
-rig_type: Schooner
-short_description: ''
 updated_at: '2021-12-19T13:39:30.784384+00:00'
 website: ''
 year: 1947
 year_is_approximate: false
+previous_names:
+- Kenarvo
+beam: 5.8918
+for_sale_state:
+  text: not_for_sale

@@ -1,14 +1,22 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Seeker
+oga_no: 2358
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: The mould was taken from the Tela which was a seeking boat built
+  for the Bristol Channel in 1911.  Owns Ruffler
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 construction_material: grp
 construction_method: cold_moulded
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 draft: 0.381
 engine_installations: []
 for_sales: []
-full_description: The mould was taken from the Tela which was a seeking boat built
-  for the Bristol Channel in 1911.  Owns Ruffler
-generic_type: Dayboat
 handicap_data:
   beam: 1.7526213118751524
   draft: 0.38100463301633747
@@ -18,17 +26,20 @@ home_port: ''
 hull_form: unknown
 id: 691c4a44-6d5c-4bbe-85ae-2f974ece91b6
 length_on_deck: 5.0292
-mainsail_type: gaff
-name: Seeker
-oga_no: 2358
+callsign: ''
 ownerships:
 - name: J Atwill
   share: 64
   start: 2012
 place_built: Bursledon
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:35.884376+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+construction_details: grp
+beam: 1.7526
+design_class:
+  name: Tela
+  id: a9b70e41-d96c-4e9b-b6d3-e58cae9e1504
+for_sale_state:
+  text: not_for_sale

@@ -1,39 +1,47 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Jus Perfick
+oga_no: 1537
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: CB Jul/Aug 88
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.1829
 engine_installations: []
 for_sales: []
-full_description: CB Jul/Aug 88
-generic_type: Dinghy
 handicap_data:
   beam: 1.7008046817849305
-  draft: 0.18288222384784197
-  length_on_waterline: 3.633260180443794
-  length_over_all: 3.733845403560107
   main:
     foot: 3.0480370641306997
     head: 2.7432333577176298
     luff: 2.7432333577176298
   thcf: 0.740483666
+  draft: 0.18288222384784197
+  length_over_all: 3.733845403560107
+  length_on_waterline: 3.633260180443794
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: ffd4cbec-69fe-4e5a-8de3-e7e21d4a1bf8
 length_on_deck: 3.7338
-mainsail_type: gaff
-name: Jus Perfick
-oga_no: 1537
+callsign: ''
 ownerships:
 - name: I C D Nichols
   share: 64
   start: 1991
 place_built: Rock
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:14.214914+00:00'
 website: ''
 year: 1988
 year_is_approximate: false
+construction_details: GRP with teak fittings
+beam: 1.7008
+for_sale_state:
+  text: not_for_sale

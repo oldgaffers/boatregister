@@ -1,46 +1,53 @@
-builder: a3cbe6bb-3932-412e-ab53-db1e337880d3
-callsign: ''
+name: Merganser
+oga_no: 1960
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Martin Heard/Daykin
+  id: a3cbe6bb-3932-412e-ab53-db1e337880d3
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 construction_material: wood
 construction_method: unknown
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 draft: 1.143
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 1.1430138990490124
-  fore_triangle_base: 4.26725188978298
-  fore_triangle_height: 5.7912704218483295
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 6.2484759814679345
   main:
     foot: 3.910631553279688
     head: 3.2766398439405022
     luff: 3.5052426237503047
-  propellor:
-    type: fixed
   thcf: 0.871955344
+  draft: 1.1430138990490124
   topsail:
     luff: 2.7676176542306754
     perpendicular: 1.7282370153621067
+  propellor:
+    type: fixed
+  length_over_all: 6.2484759814679345
+  fore_triangle_base: 4.26725188978298
+  length_on_waterline: 6.0960741282613995
+  fore_triangle_height: 5.7912704218483295
 home_country: 'null'
 home_port: Newton Ferrers
 hull_form: long keel deep forefoot
 id: 5b4eabc7-503c-4b41-a405-42ef14484bb6
 length_on_deck: 6.2484
-mainsail_type: gaff
-name: Merganser
-oga_no: 1960
+callsign: ''
 ownerships:
 - name: Chris Daykin
   share: 64
   start: 1995
 place_built: Mylor Bridge / Plymouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:25.372626+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

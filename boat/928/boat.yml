@@ -1,34 +1,41 @@
-builder: 57135b1b-9962-451e-bf51-c89a4ae8d642
-callsign: ''
+name: The Cause
+oga_no: 928
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: J. Tyrrell
+  id: 57135b1b-9962-451e-bf51-c89a4ae8d642
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 construction_material: wood
 construction_method: unknown
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.3716166788588149
-  length_on_waterline: 7.985857108022433
   length_over_all: 9.1441111923921
+  length_on_waterline: 7.985857108022433
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 0327cda3-0f5e-4c6f-9820-8b758844f81a
 length_on_deck: 9.144
-mainsail_type: gaff
-name: The Cause
-oga_no: 928
+callsign: ''
 ownerships:
 - name: B Collins
   share: 64
   start: 2012
 place_built: Arklow
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:56.266135+00:00'
 website: ''
 year: 1963
 year_is_approximate: false
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

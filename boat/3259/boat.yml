@@ -1,45 +1,60 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
-designer: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+name: Summer Breeze
+oga_no: 3259
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Summer Breeze is a Cornish Crabber 26 built in 2011</p>
+full_description: <p>Summer Breeze&#39;s first owner was Danish and he kept her in
+  the small fishing port of Kerteminde in the western part of Denmark and sailed her
+  infrequently in the Baltic.</p>
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: David Thomas
+  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 draft: 0.762
 engine_installations: []
 for_sales:
 - asking_price: null
-full_description: <p>Summer Breeze&#39;s first owner was Danish and he kept her in
-  the small fishing port of Kerteminde in the western part of Denmark and sailed her
-  infrequently in the Baltic.</p>
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.916
-  draft_keel_down: 1.9812
-  fore_triangle_base: 4.3434
-  fore_triangle_height: 7.62
-  length_on_waterline: 7.239
-  length_over_spars: 9.9822
-  length_overall: 8.001
   main:
     foot: 16.58
     head: 14.58
     luff: 14.17
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 4
+  moving_keel: true
+  length_overall: 8.001
+  calculated_thcf: 0.916
+  draft_keel_down: 1.9812
+  moving_keel_type: Centreboard
+  length_over_spars: 9.9822
+  fore_triangle_base: 4.3434
+  length_on_waterline: 7.239
+  fore_triangle_height: 7.62
 home_country: GBR
 home_port: Northney Marina, Chichester Harbour
 hull_form: long keel deep forefoot
 id: d9ea0dde-8f48-4f92-8ede-ed025f67262f
 length_on_deck: 8.001
-mainsail_type: gaff
-name: Summer Breeze
-oga_no: 3259
+sail_number: '8'
+spar_material: wood
+ssr: '160638'
+callsign: ''
 ownerships:
 - name: Julian Biggs
   share: 64
   start: 2015
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Summer Breeze is a Cornish Crabber 26 built in 2011</p>
 updated_at: '2021-12-19T13:40:05.529117+00:00'
 website: ''
 year: 2011
 year_is_approximate: false
+image_key: 33kxbx
+construction_details: GRP
+beam: 2.7676
+design_class:
+  name: Cornish Crabber 26
+  id: 50503297-7263-4cf4-af74-102bb153bc8e
+for_sale_state:
+  text: not_for_sale

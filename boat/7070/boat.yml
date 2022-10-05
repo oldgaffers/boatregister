@@ -1,41 +1,52 @@
-builder: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
-callsign: ''
+name: Wild Goose of Moyle
+oga_no: 7070
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: ''
+full_description: Was Yawl rigged, cabin enlarged and rerigged 1998, featured in books
+  "Sailing Round Ireland" and "Sailing Round Russia", by Wallace Clarke.
+builder:
+  name: Harry King and Sons
+  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 construction_material: wood
 construction_method: carvel
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Was Yawl rigged, cabin enlarged and rerigged 1998, featured in books
-  "Sailing Round Ireland" and "Sailing Round Russia", by Wallace Clarke.
-generic_type: Yacht
 home_country: 'null'
 home_port: Coleraine
 hull_form: unknown
 id: 78de0305-90f0-4d59-b9db-b2e4ec6ca09d
 length_on_deck: 0
-mainsail_type: bermudan
-name: Wild Goose of Moyle
-oga_no: 7070
+uk_part1: '164359'
+callsign: ''
 ownerships:
 - note: 'Owners: Maurice Griffiths 1936, Robert Baa Jr1937, John Douglas Cochrane
     1946 , William Gordon  Foster 1948, Samuel Mervyn Henry & Desmond Mathers Pollock
     1953, Henry Wallace Stuart Clarke 1957, Henry Wallace Stuart Clarke & Miles John
     Stuart Clarke 1989, Henry Wallace Stuart Clarke 1993, '
+  text: 'Owners: Maurice Griffiths'
   start: 1936
   start_is_approximate: false
-  text: 'Owners: Maurice Griffiths'
 - name: Robin Ruddock
   share: 64
   start: 1998
-- current: true
+- share: 64
   member: 2978
-  share: 64
+  current: true
   start: '?'
 place_built: Pin Mill
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:40:02.108131+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+previous_names:
+- Wild Lone II
+construction_details: Carvel
+beam: 0
+for_sale_state:
+  text: not_for_sale

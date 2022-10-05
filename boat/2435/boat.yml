@@ -1,13 +1,21 @@
-builder: 8da227a6-d400-4e88-ab2f-695ed660d74b
-callsign: ''
+name: Welwyn
+oga_no: 2435
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Box 1605, Oak Bluffs, MA. 02557, USA.
+builder:
+  name: Geo. Lawley
+  id: 8da227a6-d400-4e88-ab2f-695ed660d74b
+designer:
+  name: John G. Alden
+  id: 7ae52563-8658-4911-addd-13e3b72ff1f8
 construction_material: wood
 construction_method: unknown
-designer: 7ae52563-8658-4911-addd-13e3b72ff1f8
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Box 1605, Oak Bluffs, MA. 02557, USA.
-generic_type: Yacht
 handicap_data:
   beam: 2.9718361375274323
   length_over_all: 9.1441111923921
@@ -16,17 +24,16 @@ home_port: Vineyard Haven MA USA
 hull_form: unknown
 id: f032e965-c737-416b-93ac-322c23659540
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Welwyn
-oga_no: 2435
+callsign: ''
 ownerships:
 - name: Greg & Ed Coogan
   share: 64
   start: 2012
 place_built: Quincy
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:38.626383+00:00'
 website: ''
 year: 1922
 year_is_approximate: false
+beam: 2.9718
+for_sale_state:
+  text: not_for_sale

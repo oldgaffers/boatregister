@@ -1,11 +1,10 @@
-builder: fb3b1d93-c7ca-404b-b6bd-9ea2ec92447b
-callsign: 2CXE7
-construction_material: woodepoxy
-construction_method: unknown
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
-draft: 0.8626
-engine_installations: []
-for_sales: []
+name: Half Moon
+oga_no: 3164
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Half Moon was built by her first owner over a period of five
+  years.</p>
 full_description: '<p>Built by first owner, Nigel Martin, from plans supplied by Laurent
   Giles, he has been very pleased with her. ''Half Moon'' was launched from the Royal
   Harwich Yacht Club''s slip, April 2011.</p>
@@ -15,28 +14,39 @@ full_description: '<p>Built by first owner, Nigel Martin, from plans supplied by
   days at sea. &nbsp;Since launching the boat, I have increased the length of the
   bowsprit by about 60cms. &nbsp;The boat is much more balanced now. &nbsp;Last year
   I built a new hollow mast which has reduced weight aloft. She now sails really well</p>'
-generic_type: Yacht
+builder:
+  name: Nigel Martin
+  id: fb3b1d93-c7ca-404b-b6bd-9ea2ec92447b
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
+construction_material: woodepoxy
+construction_method: unknown
+draft: 0.8626
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.414
-  calculated_thcf: 0.836
-  fore_triangle_base: 2.9962
-  fore_triangle_height: 6.096
-  length_on_waterline: 5.587
-  length_over_all: 6.6995
-  length_over_spars: 7.6992
-  length_overall: 6.6995
   main:
     foot: 12.33
     head: 11.83
     luff: 9.5
+  length_overall: 6.6995
+  calculated_thcf: 0.836
+  length_over_all: 6.6995
+  length_over_spars: 7.6992
+  fore_triangle_base: 2.9962
+  length_on_waterline: 5.587
+  fore_triangle_height: 6.096
 home_country: GBR
 home_port: Woolverstone
 hull_form: long keel sloping forefoot
 id: c281a797-03c2-465e-a678-61fa1248c355
 length_on_deck: 6.6995
-mainsail_type: gaff
-name: Half Moon
-oga_no: 3164
+sail_number: '10'
+ssr: '141581'
+uk_part1: '3164'
+callsign: 2CXE7
 ownerships:
 - name: Sarah Martin
   share: 32
@@ -44,15 +54,19 @@ ownerships:
 - name: Nigel Martin
   share: 34
   start: 2007
-- current: true
-  id: 694
-  member: 5615
+- id: 694
   share: 64
+  member: 5615
+  current: true
   start: '?'
 place_built: Diss, Norfolk
-rig_type: Cutter
-short_description: <p>Half Moon was built by her first owner over a period of five
-  years.</p>
 updated_at: '2021-12-19T13:40:02.858043+00:00'
 year: 2011
 year_is_approximate: false
+image_key: Gr2MQ4
+construction_details: Hard chine epoxy ply on fir stringers
+design_class:
+  name: Joshua Mathews
+  id: 34c007a0-c97d-40ea-97cf-2111629c1e12
+for_sale_state:
+  text: not_for_sale

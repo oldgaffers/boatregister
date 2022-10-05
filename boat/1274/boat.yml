@@ -1,34 +1,45 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Samphire
+oga_no: 1274
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.4816
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.194586686174104
   draft: 1.21921482565228
-  length_on_waterline: 5.334064862228725
   length_over_all: 5.867471348451597
+  length_on_waterline: 5.334064862228725
 home_country: 'null'
 home_port: ''
 hull_form: centre-boarder
 id: fad93ff4-4f32-44da-89d1-2e737fa38759
 length_on_deck: 5.8674
-mainsail_type: gaff
-name: Samphire
-oga_no: 1274
+spar_material: wood
+callsign: ''
 ownerships:
 - name: C E Orme
   share: 64
   start: 2012
 place_built: Rock
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:06.701908+00:00'
 website: ''
 year: 1981
 year_is_approximate: false
+beam: 2.1854
+design_class:
+  name: Cornish Shrimper
+  id: 7caf07ef-acf3-434b-a639-5c94188071a8
+for_sale_state:
+  text: not_for_sale

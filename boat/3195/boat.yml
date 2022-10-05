@@ -1,35 +1,49 @@
-builder: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: bd658fb9-2c85-485d-85d6-f5f3bf3c8fbc
-draft: 0
-engine_installations: []
-for_sales: []
+name: Mischief
+oga_no: 3195
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: <p>In 1924 the &#39;W&#39; Boats were designed by H. Jacobs and
+  H.G. May of the Berthon Boat Company in Lymington, as one-design cruiser racers.
+  Berthon is a West Solent One Design, Berthon Build no. 360, built in 1930.</p>
 full_description: <p>Elegant thoroughbred yachts, originally built as the &quot;W
   Boats&quot; as one of the first production cruiser racers, and adopted by a number
   of yacht clubs around the coast including Lymington, Torbay and Burnham. A total
   of 32 boats were originally built for the U.K. market.</p>
-generic_type: Yacht
+builder:
+  name: Berthon Boat Co. Ltd.
+  id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
+designer:
+  name: H.G. May/H. Jacobs
+  id: bd658fb9-2c85-485d-85d6-f5f3bf3c8fbc
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Heybridge Basin
 hull_form: cut_away_stem
 id: fc9fff16-f5bc-4e15-b49d-d1db9e71c945
 length_on_deck: 0
-mainsail_type: bermudan
-name: Mischief
-oga_no: 3195
+sail_number: W29
+callsign: ''
 ownerships:
 - end: 1992
   name: Kevin Fuller
   share: 64
   start: 1991
 place_built: Lymington
-rig_type: Sloop
-short_description: <p>In 1924 the &#39;W&#39; Boats were designed by H. Jacobs and
-  H.G. May of the Berthon Boat Company in Lymington, as one-design cruiser racers.
-  Berthon is a West Solent One Design, Berthon Build no. 360, built in 1930.</p>
 updated_at: '2021-12-19T13:40:03.721115+00:00'
 website: www.westsolent.org
 year: 1930
 year_is_approximate: false
+previous_names:
+- Fide
+image_key: QKRJJH
+beam: 0
+design_class:
+  name: West Solent OD
+  id: 7cd7d8dd-97d2-444b-937f-768368d8603b
+for_sale_state:
+  text: not_for_sale

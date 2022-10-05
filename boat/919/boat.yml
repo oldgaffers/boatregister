@@ -1,12 +1,11 @@
-builder: 89f21e57-274c-427f-b670-c25c7d5fa7cf
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 7fb0136e-f542-4c4b-89b3-cca9c2a62d2e
-draft: 1.2192
-engine_installations: []
-for_sales:
-- asking_price: 15995
+name: Onward of Ito
+oga_no: 919
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Onward of Ito&#39; is a classic gaff&nbsp;cutter built
+  in 1923 along Itchen Ferry lines, her original fishing no. being SU16. Like many
+  Itchen Ferries, she was converted to a yacht and used for leisure sailing and racing.</p>
 full_description: "<p>25ft LOD, 9ft beam, &#39;Onward of Ito&#39; was built in 1923\
   \ as an inshore fishing boat on Itchen Ferry lines, commissioned by Alfred Parker\
   \ whose nickname was Ito. Converted to a yacht following her early fishing career,\
@@ -18,63 +17,75 @@ full_description: "<p>25ft LOD, 9ft beam, &#39;Onward of Ito&#39; was built in 1
   \ in the 1980s, many Solent OGA members&nbsp;may remember she remained &ldquo;Norman&rsquo;s\
   \ Boat&rdquo; even after Martyn Jenkins bought her around 1989/1990.</p>\r\n\r\n\
   <p>In 2019 her new owner moved her to Greenwich on the River Thames.</p>"
-generic_type: Yacht
+builder:
+  name: W. Mollett
+  id: 89f21e57-274c-427f-b670-c25c7d5fa7cf
+designer:
+  name: A.J. White
+  id: 7fb0136e-f542-4c4b-89b3-cca9c2a62d2e
+construction_material: wood
+construction_method: unknown
+draft: 1.2192
+engine_installations: []
+for_sales:
+- asking_price: 15995
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.21921482565228
-  fore_triangle_base: 6.4008778346744695
-  fore_triangle_height: 7.924896366739819
-  length_on_waterline: 7.315288953913679
-  length_over_all: 7.315288953913679
   main:
     foot: 4.87685930260912
     head: 3.9624481833699097
     luff: 3.9624481833699097
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.913512643
+  draft: 1.21921482565228
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 6.4008778346744695
+  length_on_waterline: 7.315288953913679
+  fore_triangle_height: 7.924896366739819
 home_country: GBR
 home_port: Yarmouth
 hull_form: long keel deep forefoot
 id: 87f7b5e0-6cf2-4ea2-a3b7-c8d78671df89
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Onward of Ito
-oga_no: 919
+sail_number: '919'
+callsign: ''
 ownerships:
 - end: 1971
-  end_is_approximate: false
   note: 1953-1971 owned by Lt.Cdr A.G.Scadding at Wooton Creek
-  start: 1953
-  start_is_approximate: false
   text: owned by Lt.Cdr A.G.Scadding at Wooton Creek
-- end: 2098
-  end_is_approximate: true
-  note: 1972-198? owned by I D Hodgson, at Wooton Creek
-  start: 1972
+  start: 1953
+  end_is_approximate: false
   start_is_approximate: false
+- end: 2098
+  note: 1972-198? owned by I D Hodgson, at Wooton Creek
   text: owned by I D Hodgson, at Wooton Creek
+  start: 1972
+  end_is_approximate: true
+  start_is_approximate: false
 - note: Martin Jenkins owned 'Onward of Ito' in the 1980s and so too the renowned
     woodcarver Norman Gaches.
+  text: Martin Jenkins owned 'Onward of Ito' in the
   start: 1980
   start_is_approximate: false
-  text: Martin Jenkins owned 'Onward of Ito' in the
 - end: 2019
   name: Don Burns
   share: 64
   start: 1997
-- current: true
-  id: 470
-  member: 4559
+- id: 470
   share: 64
   start: 2019
+  member: 4559
+  current: true
 place_built: Southampton
-rig_type: Cutter
-short_description: <p>&#39;Onward of Ito&#39; is a classic gaff&nbsp;cutter built
-  in 1923 along Itchen Ferry lines, her original fishing no. being SU16. Like many
-  Itchen Ferries, she was converted to a yacht and used for leisure sailing and racing.</p>
 updated_at: '2021-12-19T13:38:56.039688+00:00'
 website: ''
 year: 1923
 year_is_approximate: false
+previous_names:
+- Onward
+image_key: XH94w5
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

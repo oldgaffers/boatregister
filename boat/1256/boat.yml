@@ -1,13 +1,20 @@
-builder: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
-callsign: ''
+name: New Venture
+oga_no: 1256
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+designer:
+  name: Latimer
+  id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
 construction_material: wood
 construction_method: clinker
-designer: 6fdcf8f9-a1db-43f3-808d-fc243570b567
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.286027798098025
   draft: 1.21921482565228
@@ -17,16 +24,19 @@ home_port: ''
 hull_form: unknown
 id: 74cca936-0672-4a65-a160-c165e1324c82
 length_on_deck: 6.096
-mainsail_type: gaff
-name: New Venture
-oga_no: 1256
+callsign: ''
 ownerships:
 - name: A E Smith
   share: 64
   start: 1986
 place_built: Canvey Island
-short_description: ''
 updated_at: '2021-12-19T13:39:06.196877+00:00'
 website: ''
 year: 1954
 year_is_approximate: false
+previous_names:
+- Gay Venture
+construction_details: Clinker mahogany
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

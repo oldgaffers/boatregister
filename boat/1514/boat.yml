@@ -1,39 +1,47 @@
-builder: 09d1cc2e-23df-4d6b-ab26-a1f7de2f9388
-callsign: ''
+name: Phoebe
+oga_no: 1514
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Robert Berk
+  id: 09d1cc2e-23df-4d6b-ab26-a1f7de2f9388
+designer:
+  name: Philip Bolger
+  id: 28e7f71c-8151-4614-8528-a1b83d6fa583
 construction_material: wood
 construction_method: unknown
-designer: 28e7f71c-8151-4614-8528-a1b83d6fa583
 draft: 0.1585
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.1308217507924896
-  draft: 0.1584979273347964
-  length_on_waterline: 4.44403803950256
-  length_over_all: 4.754937820043891
   main:
     foot: 3.0998536942209216
     head: 3.0998536942209216
     luff: 1.2435991221653255
   thcf: 0.794911107
+  draft: 0.1584979273347964
+  length_over_all: 4.754937820043891
+  length_on_waterline: 4.44403803950256
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 81bdba45-3d75-4e80-890a-b0d20be9b698
 length_on_deck: 4.7549
-mainsail_type: lug
-name: Phoebe
-oga_no: 1514
+callsign: ''
 ownerships:
 - name: Robert Berk
   share: 64
   start: 1988
 place_built: Halstead Essex
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:13.528895+00:00'
 website: ''
 year: 1987
 year_is_approximate: false
+construction_details: Plywood Dory
+beam: 1.1308
+for_sale_state:
+  text: not_for_sale

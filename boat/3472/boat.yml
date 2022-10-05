@@ -1,45 +1,58 @@
-builder: 8f423342-b25e-40d9-8725-3d143660e8f5
+name: Isobel
+oga_no: 3472
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Gaff Sloop. Sail No 9. Outboard engine. Black hull, cream sails
+full_description: Paul Gartside design, built in early 1980's by Oystersails Ltd,
+  Cornwall. Gaff Sloop. Sail No. 09. Mercury 6HP outboard engine.
+builder:
+  name: Oystersailers Ltd.
+  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+designer:
+  name: Paul Gartside
+  id: 0557a793-41ba-4182-8138-206701b31451
 construction_material: grp
 construction_method: cold_moulded
-designer: 0557a793-41ba-4182-8138-206701b31451
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Paul Gartside design, built in early 1980's by Oystersails Ltd,
-  Cornwall. Gaff Sloop. Sail No. 09. Mercury 6HP outboard engine.
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.844
-  fore_triangle_base: 3.3772
-  fore_triangle_height: 6.2484
-  length_on_waterline: 4.8006
-  length_overall: 4.8768
   main:
     foot: 12.16
     head: 10
     luff: 14
+  length_overall: 4.8768
+  calculated_thcf: 0.844
+  fore_triangle_base: 3.3772
+  length_on_waterline: 4.8006
+  fore_triangle_height: 6.2484
 home_country: United Kingdom
 home_port: Dartmouth
 hull_form: long keel deep forefoot
 id: 477b75f0-2550-4fa3-8ca4-94ae787e44ed
 length_on_deck: 6.7
-mainsail_type: gaff
-name: Isobel
-oga_no: 3472
+sail_number: '9'
+spar_material: wood
 ownerships:
-- end: 2021
-  id: 34696
-  member: 6354
+- id: 34696
+  end: 2021
   share: 32
   start: 2015
-- end: 2021
-  id: 34697
   member: 6354
+- id: 34697
+  end: 2021
   share: 32
   start: 2015
+  member: 6354
 place_built: Penryn
-rig_type: Sloop
-short_description: Gaff Sloop. Sail No 9. Outboard engine. Black hull, cream sails
 updated_at: '2022-10-02T18:44:41.399145+00:00'
 year: 1981
 year_is_approximate: true
+image_key: MZkF42
+beam: 1.9294
+design_class:
+  name: Oysterman 16
+  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
+for_sale_state:
+  text: not_for_sale

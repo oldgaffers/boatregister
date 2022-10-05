@@ -1,11 +1,10 @@
-builder: 328ab631-592d-46dd-a5a7-23b3c011c1b3
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: bb41d838-779a-40e4-8330-00460deb203f
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Ariel
+oga_no: 207
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: "Built in 1925 for 'under \xA3300' Ariel is a well constructed\
+  \ and practical small cruising gaff cutter designed by Albert Strange."
 full_description: "<p>Ariel is a cutter from that doyen of yawl designers, Albert\
   \ Strange. In actual fact she is sister ship to Cherub III which was designed to\
   \ have a transom stern, but was built with a canoe stern, although still a yawl.\
@@ -19,50 +18,61 @@ full_description: "<p>Ariel is a cutter from that doyen of yawl designers, Alber
   \ to Ostend race. This was their first ever handicap race.</p>\r\n\r\n<p>In 1998\
   \ she was substantially restored by Peter and Jim Maynard. This included a redesigned\
   \ sail plan by Gayle Heard which has radically altered her performance.</p>"
-generic_type: Yacht
+builder:
+  name: Anderson Rigden and Perkins
+  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+designer:
+  name: Albert Strange
+  id: bb41d838-779a-40e4-8330-00460deb203f
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.5146305779078273
-  draft: 1.3716166788588149
-  fore_triangle_base: 5.7912704218483295
-  fore_triangle_height: 7.467690807120214
-  length_on_waterline: 6.9342843208973415
-  length_over_all: 7.848695440136551
   main:
     foot: 5.6388685686417945
     head: 3.9624481833699097
     luff: 4.166666666666666
-  mizen_topsail:
-    luff: 202.99926847110459
-    perpendicular: 202.99926847110459
-  propellor:
-    type: fixed
   thcf: 0.94074543
+  draft: 1.3716166788588149
   topsail:
     luff: 4.57205559619605
     perpendicular: 2.13362594489149
+  propellor:
+    type: fixed
+  mizen_topsail:
+    luff: 202.99926847110459
+    perpendicular: 202.99926847110459
+  length_over_all: 7.848695440136551
+  fore_triangle_base: 5.7912704218483295
+  length_on_waterline: 6.9342843208973415
+  fore_triangle_height: 7.467690807120214
 home_country: GBR
 home_port: Shotley Marina
 hull_form: long keel deep forefoot
 id: 94df70a8-2198-4cc3-83f5-fd6040018c71
 length_on_deck: 7.8486
-mainsail_type: gaff
-name: Ariel
-oga_no: 207
+ssr: '132068'
+callsign: ''
 ownerships:
 - end: 2014
   name: Neil Mordey
   share: 64
   start: 2007
-- current: true
-  id: 966
-  member: 6180
+- id: 966
   share: 64
   start: 2014
+  member: 6180
+  current: true
 place_built: Whitstable
-rig_type: Cutter
-short_description: "Built in 1925 for 'under \xA3300' Ariel is a well constructed\
-  \ and practical small cruising gaff cutter designed by Albert Strange."
 updated_at: '2021-12-19T13:38:35.595137+00:00'
 website: ''
 year: 1925
 year_is_approximate: false
+image_key: hZf6VZ
+construction_details: Carvel pitch pine on oak
+beam: 2.5146
+for_sale_state:
+  text: not_for_sale

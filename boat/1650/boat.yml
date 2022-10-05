@@ -1,11 +1,14 @@
-callsign: ''
+name: Petit Manoel
+oga_no: 1650
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: Log 76/2, 86/1
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 76/2, 86/1
-generic_type: unknown
 handicap_data:
   length_over_all: 7.315288953913679
 home_country: 'null'
@@ -13,14 +16,17 @@ home_port: ''
 hull_form: unknown
 id: 50c1217c-27e3-44f7-a140-fcc2bb25486d
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Petit Manoel
-oga_no: 1650
+reference:
+- Log 76/2
+- Log 86/1
+callsign: ''
 ownerships:
 - name: C H Peacock
   share: 64
   start: 2012
-short_description: ''
 updated_at: '2021-12-19T13:39:17.032627+00:00'
 website: ''
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

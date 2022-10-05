@@ -1,15 +1,23 @@
-builder: c31a2564-db7c-430a-b928-9cf48fe4c180
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
-draft: 0.4572
-engine_installations: []
-for_sales: []
+name: Grace
+oga_no: 2308
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
 full_description: Based on Tela a seeking boat built for the Bristol Channel 1911.
   Used to make the mould. Water Craft Nov/Dec 97 1998 Now being built by Greg Dalrymple
   Salterns Boatyard. CB Jun 91.
-generic_type: unknown
+builder:
+  name: Chris Libby
+  id: c31a2564-db7c-430a-b928-9cf48fe4c180
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.4572
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.6764203852718849
   draft: 0.45720555961960496
@@ -19,12 +27,12 @@ home_port: ''
 hull_form: unknown
 id: a36e9fc1-b62c-405b-b22a-2b0259a8eb82
 length_on_deck: 5.0292
-mainsail_type: gaff
-name: Grace
-oga_no: 2308
+callsign: ''
 place_built: Penryn
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:45:35.98548+00:00'
 website: ''
 year_is_approximate: false
+construction_details: GRP
+beam: 1.6764
+for_sale_state:
+  text: not_for_sale

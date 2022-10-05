@@ -1,38 +1,53 @@
-builder: 8737e788-ba48-483e-9da9-971d1700fa27
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: e831b83b-6131-426d-8f8d-1a58dd2a1703
-draft: 1.4996
-engine_installations: []
-for_sales:
-- asking_price: 33000
+name: Canowie ll
+oga_no: 3262
+generic_type: Yacht
+rig_type: Ketch
+short_description: <p>&#39;Canowie ll&#39; is a Silvers 42&#39; Silver Leaf class
+  motor yacht built in 1933.</p>
 full_description: "<p>&#39;Canowie ll&#39; has had several owners, retaining much\
   \ of her original features and fittings.</p>\r\n\r\n<p>She has been kept in Scotland,\
   \ London, the Upper Thames, Leicester, France and back to Scotland where she was\
   \ purchased by David Skinner in 2012.</p>"
-generic_type: Yacht
+builder:
+  name: James A. Silver
+  id: 8737e788-ba48-483e-9da9-971d1700fa27
+designer:
+  name: John Bain
+  id: e831b83b-6131-426d-8f8d-1a58dd2a1703
+construction_material: wood
+construction_method: carvel
+draft: 1.4996
+engine_installations: []
+for_sales:
+- asking_price: 33000
 handicap_data:
-  length_on_waterline: 11.5001
-  length_over_spars: 12
   length_overall: 12
+  length_over_spars: 12
+  length_on_waterline: 11.5001
 home_country: GBR
 home_port: Walton on the Naze
 hull_form: long keel deep forefoot
 id: aad466ea-2d96-4954-94e0-5f3ef256a6a6
 length_on_deck: 12
-name: Canowie ll
-oga_no: 3262
+uk_part1: '163037'
+callsign: ''
 ownerships:
 - end: 2016
   name: David Skinner
   share: 64
   start: 2012
 place_built: Scotland
-rig_type: Ketch
-short_description: <p>&#39;Canowie ll&#39; is a Silvers 42&#39; Silver Leaf class
-  motor yacht built in 1933.</p>
 updated_at: '2021-12-19T13:40:05.598632+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+previous_names:
+- Hopalong
+image_key: 54mCbJ
+construction_details: Carvel pitch pine on oak.
+beam: 2.9992
+design_class:
+  name: Silverleaf
+  id: 16f9b99e-6469-4de2-9a42-08de6deffbe4
+for_sale_state:
+  text: not_for_sale

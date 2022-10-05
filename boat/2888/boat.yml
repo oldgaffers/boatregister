@@ -1,12 +1,11 @@
-builder: 4d1ddf72-7701-45c3-886d-c7862ed35787
-callsign: ''
-construction_material: ferro
-construction_method: unknown
-designer: c4721fcb-96c6-463f-a516-3f206a95f6ba
-draft: 1.3198
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Bonify
+oga_no: 2888
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Bonify was built between 1980 and 1993 to the lines of the American
+  Carol class cutter, designed in 1924 by John Hanna as a big sister to his more famous
+  Tahiti ketch.
 full_description: "<p>Bonify&#39;s hull is ferro cement but the decks are pitch pine\
   \ on oak and the spars are Douglas fir. So far (and who knows) Bonify has not been\
   \ rigged as a ketch. Based on the Tahiti Ketch, John Hanna&#39;s design for the\
@@ -20,35 +19,45 @@ full_description: "<p>Bonify&#39;s hull is ferro cement but the decks are pitch 
   \ 2013 Bonify took part in the OGA Round Britain Challenge. Read the <a href=\"\
   http://www.classicboat.co.uk/news/sue-lewis-oga-blog/\" target=\"_blank\">Classic\
   \ Boat blog</a> to follow her four-month passage.</p>"
-generic_type: Yacht
+builder:
+  name: David Carter
+  id: 4d1ddf72-7701-45c3-886d-c7862ed35787
+designer:
+  name: John G. Hanna
+  id: c4721fcb-96c6-463f-a516-3f206a95f6ba
+construction_material: ferro
+construction_method: unknown
+draft: 1.3198
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 3.7300453630212145
-  draft: 1.3000158101682515
-  fore_triangle_base: 7.000085131675201
-  fore_triangle_height: 10.750130737929773
-  length_on_waterline: 10.200124049012436
-  length_over_all: 11.000133778346743
-  length_over_spars: 14.350174519934162
   main:
     foot: 6.500079050841258
     head: 4.700057159839063
     luff: 6.30007661850768
-  propellor:
-    blades: 3
-    type: folding
-  sailarea: 82.43032317120368
   thcf: 1.026
+  draft: 1.3000158101682515
   topsail:
     luff: 6.1700750374908555
     perpendicular: 2.820034295903438
+  sailarea: 82.43032317120368
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 11.000133778346743
+  length_over_spars: 14.350174519934162
+  fore_triangle_base: 7.000085131675201
+  length_on_waterline: 10.200124049012436
+  fore_triangle_height: 10.750130737929773
 home_country: GER
 home_port: Kappeln Schleswig-Holstein Germany
 hull_form: long keel sloping forefoot
 id: e6b54fc8-c4a1-4b73-9ac7-f79bfda744db
 length_on_deck: 11.2258
-mainsail_type: gaff
-name: Bonify
-oga_no: 2888
+sail_number: '2888'
+callsign: ''
 ownerships:
 - end: 1997
   name: Graham Swift
@@ -62,11 +71,15 @@ ownerships:
   share: 64
   start: 1997
 place_built: Boxted, Colchester
-rig_type: Cutter
-short_description: Bonify was built between 1980 and 1993 to the lines of the American
-  Carol class cutter, designed in 1924 by John Hanna as a big sister to his more famous
-  Tahiti ketch.
 updated_at: '2021-12-19T13:39:52.412884+00:00'
 website: http://bonifyatlarge.blogspot.com/
 year: 1993
 year_is_approximate: false
+image_key: Pss595
+construction_details: Ferro cement, pitch pine on oak deck
+beam: 3.7582
+design_class:
+  name: Carol Class
+  id: 5564a970-cf85-4102-be2a-27476a77a45c
+for_sale_state:
+  text: not_for_sale

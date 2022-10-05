@@ -1,32 +1,38 @@
-builder: a1bf5257-f8b8-4220-962a-65578b89aec7
-callsign: ''
+name: Norwester
+oga_no: 1469
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Sean McMillan Yachts
+  id: a1bf5257-f8b8-4220-962a-65578b89aec7
 construction_material: wood
 construction_method: carvel
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.3716166788588149
-  length_on_waterline: 3.0480370641306997
   length_over_all: 10.05852231163131
+  length_on_waterline: 3.0480370641306997
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 1a613ad4-b0d1-40e9-b073-903edaa215ca
 length_on_deck: 10.0584
-mainsail_type: gaff
-name: Norwester
-oga_no: 1469
+callsign: ''
 ownerships:
 - name: J B McCallum
   share: 64
   start: 1989
 place_built: Dumbarton
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:12.268146+00:00'
 website: ''
 year: 1945
 year_is_approximate: false
+construction_details: Carvel oak(?) hull. Teak deck fittings
+beam: 1.3716
+for_sale_state:
+  text: not_for_sale

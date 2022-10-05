@@ -1,13 +1,21 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: ''
+name: Pamela
+oga_no: 1421
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: wood
 construction_method: unknown
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   length_over_all: 6.705681541087539
 home_country: 'null'
@@ -15,17 +23,19 @@ home_port: ''
 hull_form: unknown
 id: bc81317f-228f-4db4-a03d-2c7a1a3114ed
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Pamela
-oga_no: 1421
+callsign: ''
 ownerships:
 - name: Iain P Whitehead
   share: 64
   start: 2012
 place_built: Totnes
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:10.815661+00:00'
 website: ''
 year: 1982
 year_is_approximate: false
+beam: 0
+design_class:
+  name: Drascombe Longboat
+  id: 4cdd2726-2dcf-4e73-bd5e-4dc8ff64d4f5
+for_sale_state:
+  text: not_for_sale

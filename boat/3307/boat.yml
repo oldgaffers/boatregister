@@ -1,45 +1,54 @@
-builder: c7299bcd-8d18-4b93-9e88-a25b3d6327cf
-callsign: ''
+name: Swallow
+oga_no: 3307
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: <p>&#39;Swallow&#39; is a Stornoway 9 built for the children as
+  a rowing/sailing dinghy.</p>
+full_description: ''
+builder:
+  name: Robert Green
+  id: c7299bcd-8d18-4b93-9e88-a25b3d6327cf
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 construction_material: plywood
 construction_method: clinker_ply
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 draft: 0.1585
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
-  calculated_thcf: 0.673
-  draft_keel_down: 0.759
-  length_on_waterline: 2.667
-  length_over_spars: 2.7493
-  length_overall: 2.7493
   main:
     foot: 7.25
     head: 7.79
     luff: 4.18
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 3
+  moving_keel: true
+  length_overall: 2.7493
+  calculated_thcf: 0.673
+  draft_keel_down: 0.759
+  moving_keel_type: Centreboard
+  length_over_spars: 2.7493
+  length_on_waterline: 2.667
 home_country: GBR
 home_port: Somerset
 hull_form: long keel deep forefoot
 id: ab6d59cc-8cd0-4618-ae74-8fd22bd15d19
 length_on_deck: 2.7493
-mainsail_type: lug
-name: Swallow
-oga_no: 3307
+callsign: ''
 ownerships:
-- current: true
-  id: 911
-  member: 6050
+- id: 911
   share: 64
   start: 2011
+  member: 6050
+  current: true
 place_built: Radstock Somerset
-rig_type: Sloop
-short_description: <p>&#39;Swallow&#39; is a Stornoway 9 built for the children as
-  a rowing/sailing dinghy.</p>
 updated_at: '2021-12-19T13:40:07.113648+00:00'
 website: ''
 year: 2011
 year_is_approximate: false
+image_key: H9XhKc
+construction_details: Clinker plywood
+beam: 1.3686
+for_sale_state:
+  text: not_for_sale

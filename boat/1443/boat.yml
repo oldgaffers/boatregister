@@ -1,48 +1,63 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Sara Ann
+oga_no: 1443
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Terry Heard
+  id: c7a4b5d4-0751-4858-8054-b0e0636bb711
 construction_material: grp
 construction_method: cold_moulded
-designer: c7a4b5d4-0751-4858-8054-b0e0636bb711
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.0480370641306997
-  draft: 1.5240185320653499
-  fore_triangle_base: 6.300292611558157
-  fore_triangle_height: 9.000853450377956
-  length_on_waterline: 8.107778590587662
-  length_over_all: 8.53450377956596
   main:
     foot: 5.248719824433064
     head: 4.40136552060473
     luff: 5.248719824433064
-  propellor:
-    type: fixed
   thcf: 0.958467526
+  draft: 1.5240185320653499
   topsail:
     luff: 5.4864667154352595
     perpendicular: 1.898927090953426
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 6.300292611558157
+  length_on_waterline: 8.107778590587662
+  fore_triangle_height: 9.000853450377956
 home_country: GBR
 home_port: Conwy
 hull_form: long keel deep forefoot
 id: ce6a7820-3c58-413c-a033-ec369b5556f4
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Sara Ann
-oga_no: 1443
+sail_number: '14'
+spar_material: wood
+ssr: '42278'
+callsign: ''
 ownerships:
-- current: true
-  id: 637
-  member: 5386
+- id: 637
   share: 64
   start: 2005
+  member: 5386
+  current: true
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:11.514645+00:00'
 website: ''
 year: 1991
 year_is_approximate: false
+image_key: D96zkH
+construction_details: "GRP\r\nWooden deck, cockpit, coachroof and spars"
+beam: 3.048
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
+for_sale_state:
+  text: not_for_sale

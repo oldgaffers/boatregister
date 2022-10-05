@@ -1,13 +1,21 @@
-builder: 10245c61-c11c-41ff-8ad8-7fa0b9de0a60
-callsign: ''
+name: Iroko
+oga_no: 2205
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Eyemouth Boatbuilding Co.
+  id: 10245c61-c11c-41ff-8ad8-7fa0b9de0a60
+designer:
+  name: James Evans
+  id: b71732fd-dceb-4176-921c-a069ecc7ee44
 construction_material: wood
 construction_method: unknown
-designer: b71732fd-dceb-4176-921c-a069ecc7ee44
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.6576444769568397
   length_over_all: 10.66812972445745
@@ -16,17 +24,16 @@ home_port: Hull
 hull_form: unknown
 id: f69fecad-be72-4ba8-b094-8522c087a3e7
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Iroko
-oga_no: 2205
+callsign: ''
 ownerships:
 - name: Mr & Mrs D Ulyett
   share: 64
   start: 2012
 place_built: Eyemouth
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:32.197392+00:00'
 website: ''
 year: 1968
 year_is_approximate: false
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

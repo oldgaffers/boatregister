@@ -1,46 +1,62 @@
-builder: a6482c01-706a-469d-93db-2ccab9020581
-callsign: ''
+name: Beth
+oga_no: 1186
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 92/4
+builder:
+  name: North Sea Craft
+  id: a6482c01-706a-469d-93db-2ccab9020581
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 construction_material: grp
 construction_method: cold_moulded
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 draft: 0.8626
 engine_installations: []
 for_sales: []
-full_description: Log 92/4
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.8625944891489881
-  fore_triangle_base: 5.18166300902219
-  fore_triangle_height: 5.587051938551572
-  length_on_waterline: 6.452694464764692
-  length_over_all: 7.315288953913679
   main:
     foot: 4.13923433308949
     head: 3.5052426237503047
     luff: 5.029261155815655
-  propellor:
-    type: fixed
   thcf: 0.899799098
+  draft: 0.8625944891489881
   topsail:
     luff: 2.996220434040478
     perpendicular: 1.6002194586686174
+  propellor:
+    type: fixed
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 5.18166300902219
+  length_on_waterline: 6.452694464764692
+  fore_triangle_height: 5.587051938551572
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 24aa6984-cf76-4a02-af49-b209b2df887d
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Beth
-oga_no: 1186
+reference:
+- Log 92/4
+callsign: ''
 ownerships:
 - name: R Gibson
   share: 64
   start: 1989
 place_built: Norwich
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:04.095898+00:00'
 website: ''
 year: 1973
 year_is_approximate: false
+previous_names:
+- Blue Dolphin
+- Christine.
+construction_details: G.R.P
+beam: 2.4384
+design_class:
+  name: Tamarisk 24
+  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
+for_sale_state:
+  text: not_for_sale

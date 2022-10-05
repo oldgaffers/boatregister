@@ -1,30 +1,43 @@
-builder: 954dc050-837f-454f-be87-830d8cf00c2b
-callsign: ''
+name: Nerissima
+oga_no: 1714
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 90/2
+builder:
+  name: Alan F. Platt  Ltd
+  id: 954dc050-837f-454f-be87-830d8cf00c2b
+designer:
+  name: Laurie Harbottell
+  id: 429d5fa7-e592-464a-9e6e-611903d6fe0e
 construction_material: wood
 construction_method: clinker
-designer: 429d5fa7-e592-464a-9e6e-611903d6fe0e
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: Log 90/2
-generic_type: unknown
 handicap_data:
   beam: 2.3165081687393316
   draft: 1.5240185320653499
-  length_on_waterline: 5.7912704218483295
   length_over_all: 6.370397464033162
+  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 621fdcd8-b73c-426d-a9a8-1dd26a2218e8
 length_on_deck: 6.3703
-mainsail_type: gaff
-name: Nerissima
-oga_no: 1714
+reference:
+- Log 90/2
+callsign: ''
 place_built: Thundersley
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-23T08:43:27.29146+00:00'
 website: ''
 year: 1964
 year_is_approximate: false
+construction_details: Mahogany clinker on Rock Elm frames, deadwoods iroko & mahogany
+beam: 2.3165
+design_class:
+  name: Finesse 21
+  id: d119bfdd-3b06-4b8a-9675-384a025c62e4
+for_sale_state:
+  text: not_for_sale

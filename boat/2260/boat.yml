@@ -1,11 +1,13 @@
-builder: 4e1d7c21-6f19-4c9f-b0bb-41b654284490
-callsign: ''
-construction_material: ferro
-construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-draft: 1.6764
-engine_installations: []
-for_sales: []
+name: Annelis
+oga_no: 2260
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Annelis is a 40ft, ferrocement, gaff ketch. She was originally
+  built and fitted out over a period of 12 years, spanning the 1980s. Her lines are
+  based on a Falmouth pilot cutter, and she is rigged traditionally, with wooden spars
+  and heavy sails. In 2013 young gaffers Josh Masters and Sam Doman began an extensive
+  rebuild.</p>
 full_description: "<p>Since 2000, &#39;Annelis&#39; has been owned and sailed by the\
   \ Masters family, primarily in the Mediterranean. However, she has spent the past\
   \ few years out of the water, in a boatyard, in Suffolk. Unfortunately showing her\
@@ -31,51 +33,61 @@ full_description: "<p>Since 2000, &#39;Annelis&#39; has been owned and sailed by
   _blank\">Follow their blog</a> which is updated with progress on the restoration\
   \ of the boat, and eventually their expedition!</p>\r\n\r\n<p><a href=\"https://www.facebook.com/ketch.annelis/\"\
   \ target=\"_blank\">2017 progress is documented on Facebook</a>.</p>"
-generic_type: Yacht
+builder:
+  name: Angharad Marine Services
+  id: 4e1d7c21-6f19-4c9f-b0bb-41b654284490
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: ferro
+construction_method: unknown
+draft: 1.6764
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.733845403560107
-  draft: 1.6764203852718849
-  fore_triangle_base: 7.620092660326749
-  fore_triangle_height: 8.53450377956596
-  length_on_waterline: 10.972933430870519
-  length_over_all: 12.192148256522799
   main:
     foot: 4.953060229212387
     head: 3.6576444769568397
     luff: 6.949524506217996
+  thcf: 1.0318412
+  draft: 1.6764203852718849
   mizzen:
     foot: 3.581443550353572
     luff: 8.53450377956596
-  propellor:
-    type: fixed
-  thcf: 1.0318412
   topsail:
     luff: 5.7912704218483295
     perpendicular: 3.0480370641306997
+  propellor:
+    type: fixed
+  length_over_all: 12.192148256522799
+  fore_triangle_base: 7.620092660326749
+  length_on_waterline: 10.972933430870519
+  fore_triangle_height: 8.53450377956596
 home_country: GBR
 home_port: Melton, Suffolk
 hull_form: long keel deep forefoot
 id: 3c925686-6de8-41a6-b8d7-6632d3681aae
 length_on_deck: 12.192
-mainsail_type: gaff
-name: Annelis
-oga_no: 2260
+ssr: '226'
+callsign: ''
 ownerships:
 - name: Jo and Paul Masters
   share: 64
   start: 2000
-- current: true
-  member: 6211
-  share: 64
+- share: 64
   start: 2018
+  member: 6211
+  current: true
 place_built: Newquay
-rig_type: Ketch
-short_description: <p>Annelis is a 40ft, ferrocement, gaff ketch. She was originally
-  built and fitted out over a period of 12 years, spanning the 1980s. Her lines are
-  based on a Falmouth pilot cutter, and she is rigged traditionally, with wooden spars
-  and heavy sails. In 2013 young gaffers Josh Masters and Sam Doman began an extensive
-  rebuild.</p>
 updated_at: '2021-12-19T13:39:33.76338+00:00'
 website: https://www.facebook.com/ketch.annelis/
 year: 1987
 year_is_approximate: false
+previous_names:
+- Angharad
+image_key: 6ghwsF
+construction_details: Ferrocement
+beam: 3.7338
+for_sale_state:
+  text: not_for_sale

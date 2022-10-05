@@ -1,39 +1,47 @@
-builder: 378fb5ef-8740-44e2-83d3-e684d8a3acad
-callsign: ''
+name: Red Red Rose
+oga_no: 494
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: A. Sandison and Sons
+  id: 378fb5ef-8740-44e2-83d3-e684d8a3acad
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 construction_material: wood
 construction_method: clinker
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 draft: 0.5791
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.6154596439892708
-  draft: 0.5791270421848329
-  length_on_waterline: 4.663496708119971
-  length_over_all: 4.937820043891733
   main:
     foot: 2.7737137283589366
     head: 2.6517922457937084
     luff: 3.0480370641306997
   thcf: 0.776139573
+  draft: 0.5791270421848329
+  length_over_all: 4.937820043891733
+  length_on_waterline: 4.663496708119971
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 74af826e-fbeb-48dd-b96f-adf072076a3a
 length_on_deck: 4.9378
-mainsail_type: gaff
-name: Red Red Rose
-oga_no: 494
+callsign: ''
 ownerships:
 - name: I Logan
   share: 64
   start: 1965
 place_built: Balta Sound
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:43.902163+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+construction_details: Larch clinker planking on sawn larch frames
+beam: 1.6154
+for_sale_state:
+  text: not_for_sale

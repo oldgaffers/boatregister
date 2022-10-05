@@ -1,19 +1,28 @@
-builder: 9d2663e6-6d04-400b-8d0b-238f7786ada8
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: cfb14a6f-03f7-4689-832d-2a21f28b7fc4
-draft: 1.9812
-engine_installations: []
-for_sales:
-- asking_price: 65000
+name: Mermaid
+oga_no: 2341
+generic_type: Racing Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built in 1860, Mermaid was found as a wreck in 1997 and rebuilt
+  to race again in Falmouth, 2018.&nbsp; Mermaid is at Gweek Classic Boatyard.</p>
 full_description: "<p>Mermaid was originally built for racing and raced again at the\
   \ Falmouth Classics in 2018 following her rebuild.&nbsp;</p>\r\n\r\n<p>In 1997 Mermaid\
   \ was purchased when she was a near wreck and taken to Derby for rebuilding her\
   \ hull, deck and cabin.&nbsp;Mermaid was then sent to Ocean Yacht Company for completion\
   \ which included mast, spars, rigging and installing a single engine with hydraulic\
   \ drive to twin props.</p>"
-generic_type: Racing Yacht
+builder:
+  name: Alfred E. Payne
+  id: 9d2663e6-6d04-400b-8d0b-238f7786ada8
+designer:
+  name: Alfred E. Payne
+  id: cfb14a6f-03f7-4689-832d-2a21f28b7fc4
+construction_material: wood
+construction_method: carvel
+draft: 1.9812
+engine_installations: []
+for_sales:
+- asking_price: 65000
 handicap_data:
   beam: 3.1242379907339672
   length_over_all: 12.268349183126066
@@ -22,161 +31,162 @@ home_port: Falmouth
 hull_form: long keel deep forefoot
 id: 1d1c1c59-95fd-4684-80de-c9da53bdadb7
 length_on_deck: 12.2682
-mainsail_type: gaff
-name: Mermaid
-oga_no: 2341
+uk_part1: '105779'
+callsign: ''
 ownerships:
 - end: 1876
-  end_is_approximate: false
   note: 'Built for Edward Ricketts, 1860-1876  '
-  start: 1860
-  start_is_approximate: false
   text: Built for Edward Ricketts,
+  start: 1860
+  end_is_approximate: false
+  start_is_approximate: false
 - note: '1877 George Staunton  '
-  start: 1877
-  start_is_approximate: false
   text: George Staunton
-- end: 1882
-  end_is_approximate: false
-  note: '1877-1882 Frederick George Innes-Lillingston  '
   start: 1877
   start_is_approximate: false
+- end: 1882
+  note: '1877-1882 Frederick George Innes-Lillingston  '
   text: Frederick George Innes-Lillingston
+  start: 1877
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1888
-  end_is_approximate: false
   note: '1883-1888 John Morant  '
-  start: 1883
-  start_is_approximate: false
   text: John Morant
+  start: 1883
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1896
-  end_is_approximate: false
   note: '1888-96 John Weston Foakes (for one year)and Bessie Sarn Foakes  '
-  start: 1888
-  start_is_approximate: false
   text: John Weston Foakes (for one year)and Bessie Sarn Foakes
+  start: 1888
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1907
-  end_is_approximate: false
   note: '1896-1907 Charles Smith  '
-  start: 1896
-  start_is_approximate: false
   text: Charles Smith
+  start: 1896
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1908
-  end_is_approximate: false
   note: '1907-8 George Pardy  '
-  start: 1907
-  start_is_approximate: false
   text: George Pardy
+  start: 1907
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1923
-  end_is_approximate: false
   note: '1922-3 A Boyes  '
-  start: 1922
-  start_is_approximate: false
   text: A Boyes
+  start: 1922
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1928
-  end_is_approximate: false
   note: '1924-8 Arthur Leslie Jasper  '
-  start: 1924
-  start_is_approximate: false
   text: Arthur Leslie Jasper
+  start: 1924
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1930
-  end_is_approximate: false
   note: '1927-30 Stafford Ives Veale  '
-  start: 1927
-  start_is_approximate: false
   text: Stafford Ives Veale
-- end: 1933
+  start: 1927
   end_is_approximate: false
-  note: '1931-3 Arthur E Hagg  '
-  start: 1931
   start_is_approximate: false
+- end: 1933
+  note: '1931-3 Arthur E Hagg  '
   text: Arthur E Hagg
+  start: 1931
+  end_is_approximate: false
+  start_is_approximate: false
 - note: '1934 Capt. Martin  '
+  text: Capt. Martin
   start: 1934
   start_is_approximate: false
-  text: Capt. Martin
 - end: 1939
-  end_is_approximate: false
   note: '1936-9 W H Johnson  '
-  start: 1936
-  start_is_approximate: false
   text: W H Johnson
+  start: 1936
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1950
-  end_is_approximate: false
   note: '1946-50 Richard Hopkins  '
-  start: 1946
-  start_is_approximate: false
   text: Richard Hopkins
-- end: 1956
+  start: 1946
   end_is_approximate: false
-  note: '1950-56 Richard James Ross  '
-  start: 1950
   start_is_approximate: false
+- end: 1956
+  note: '1950-56 Richard James Ross  '
   text: Richard James Ross
+  start: 1950
+  end_is_approximate: false
+  start_is_approximate: false
 - note: '1957 Daphne Bradley (later Goodley)  '
+  text: Daphne Bradley (later Goodley)
   start: 1957
   start_is_approximate: false
-  text: Daphne Bradley (later Goodley)
 - end: 1964
-  end_is_approximate: false
   note: '1959-64 Cyril E Colbourne  '
-  start: 1959
-  start_is_approximate: false
   text: Cyril E Colbourne
+  start: 1959
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1969
-  end_is_approximate: true
   note: '1965-9? R W Taylor  '
-  start: 1965
-  start_is_approximate: false
   text: R W Taylor
+  start: 1965
+  end_is_approximate: true
+  start_is_approximate: false
 - end: 1983
-  end_is_approximate: false
   note: '1978?-83 Christopher Rodskjer  '
-  start: 1978
-  start_is_approximate: true
   text: Christopher Rodskjer
+  start: 1978
+  end_is_approximate: false
+  start_is_approximate: true
 - end: 1988
-  end_is_approximate: false
   note: '1983-88 Saul Thomas  '
-  start: 1983
-  start_is_approximate: false
   text: Saul Thomas
+  start: 1983
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1989
-  end_is_approximate: false
   note: '1988-9 Michael Plumtree  '
-  start: 1988
-  start_is_approximate: false
   text: Michael Plumtree
+  start: 1988
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1996
-  end_is_approximate: false
   note: '1989-96 Julian Tregoning  '
-  start: 1989
-  start_is_approximate: false
   text: Julian Tregoning
+  start: 1989
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1997
-  end_is_approximate: false
   note: '1996-7 Tim Lawrence  '
-  start: 1996
-  start_is_approximate: false
   text: Tim Lawrence
-- end: 2019
+  start: 1996
   end_is_approximate: false
-  note: '1997-2019 Christopher and Victoria Gottschald  '
-  start: 1997
   start_is_approximate: false
+- end: 2019
+  note: '1997-2019 Christopher and Victoria Gottschald  '
   text: Christopher and Victoria Gottschald
+  start: 1997
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 2019
   name: Christopher Gottschald
   share: 64
   start: 2012
 - note: 2019 Steve Yates
+  text: Steve Yates
   start: 2019
   start_is_approximate: false
-  text: Steve Yates
 place_built: Crabinton, Southampton
-rig_type: Cutter
-short_description: <p>Built in 1860, Mermaid was found as a wreck in 1997 and rebuilt
-  to race again in Falmouth, 2018.&nbsp; Mermaid is at Gweek Classic Boatyard.</p>
 updated_at: '2021-12-19T13:39:35.287463+00:00'
 website: ''
 year: 1860
 year_is_approximate: false
+image_key: ZkczPX
+construction_details: Carvel pitch pine on oak frames
+beam: 3.1242
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,9 @@
-builder: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 883dff6a-1f48-4232-8db1-fe6a18d5553a
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Coronation
+oga_no: 713
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
 full_description: Log 77/1, 83/2, 83/3, 84/1 Built as an open beach boat, Len Johnson
   hired her out until the early fifties when he sold her to Westcliff where the 'top'
   was put on.  Name changed to 'Corbara'.  The next owner took her over in 1975 and
@@ -13,28 +11,46 @@ full_description: Log 77/1, 83/2, 83/3, 84/1 Built as an open beach boat, Len Jo
   was removed, a flew full length keel was fitted improving windward performance and
   stopping leaks. Gunter main, new foresails, bowsprit, dinghy on davits. Electric
   Kelvin 17 h.p, Lavac, coal stove oven.  4 berths.
-generic_type: unknown
+builder:
+  name: Johnson and Johnson
+  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+designer:
+  name: L. Johnson
+  id: 883dff6a-1f48-4232-8db1-fe6a18d5553a
+construction_material: wood
+construction_method: unknown
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.987076322848086
   draft: 0.9144111192392099
-  length_on_waterline: 7.924896366739819
   length_over_all: 8.22970007315289
+  length_on_waterline: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 05ce9a4a-b0cd-42c2-8231-161f3c1cf4bd
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Coronation
-oga_no: 713
+reference:
+- Log 77/1
+- Log 83/2
+- Log 83/3
+- Log 84/1
+callsign: ''
 ownerships:
 - name: R J Heard
   share: 64
   start: 2012
 place_built: Leigh on Sea
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:50.350632+00:00'
 website: ''
 year: 1937
 year_is_approximate: false
+previous_names:
+- Corbara
+- Coronation
+construction_details: Pitch pine planking,mahogany topsides
+beam: 2.987
+for_sale_state:
+  text: not_for_sale

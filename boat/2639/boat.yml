@@ -1,56 +1,68 @@
-builder: 9176094b-24f0-4da2-a74b-46cba40f37c9
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
-draft: 0.8382
-engine_installations: []
-for_sales: []
+name: Edna
+oga_no: 2639
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Edna&#39; is a home built Golant Gaffer, launched in 2003
+  and originally named &#39;Scillabub III&#39;.</p>
 full_description: <p>In 2017, her owner retired and decided to take her down to the
   Mediterranean, crossing the English Channel to enter the&nbsp;River Rance and continuing
   via the inland waterways to Port la Nouvelle where she has been cruising until Spring
   2018.</p>
-generic_type: Yacht
+builder:
+  name: David Robinson
+  id: 9176094b-24f0-4da2-a74b-46cba40f37c9
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+construction_material: wood
+construction_method: unknown
+draft: 0.8382
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.8382284808583271
-  fore_triangle_base: 3.4036454523287
-  fore_triangle_height: 5.994489148988052
-  length_on_waterline: 5.410284077054377
-  length_over_all: 5.715087783467447
-  length_over_spars: 6.883497927334796
   main:
     foot: 3.6068641794684217
     head: 3.073439405023165
     luff: 3.3528407705437697
-  propellor:
-    blades: 2
-    type: folding
-  sailarea: 22.28556939649741
   thcf: 0.835
+  draft: 0.8382284808583271
+  sailarea: 22.28556939649741
+  propellor:
+    type: folding
+    blades: 2
+  length_over_all: 5.715087783467447
+  length_over_spars: 6.883497927334796
+  fore_triangle_base: 3.4036454523287
+  length_on_waterline: 5.410284077054377
+  fore_triangle_height: 5.994489148988052
 home_country: ITA
 home_port: Pisa
 hull_form: unknown
 id: eeea8019-73c7-4ffd-b52a-b3149c1dded2
 length_on_deck: 5.715
-mainsail_type: gaff
-name: Edna
-oga_no: 2639
+sail_number: '6'
+ssr: '152157'
+callsign: ''
 ownerships:
 - end: 2011
   name: David Robinson
   share: 64
   start: 2003
-- current: true
-  id: 717
-  member: 5677
+- id: 717
   share: 64
   start: 2011
+  member: 5677
+  current: true
 place_built: Salcombe
-rig_type: Cutter
-short_description: <p>&#39;Edna&#39; is a home built Golant Gaffer, launched in 2003
-  and originally named &#39;Scillabub III&#39;.</p>
 updated_at: '2021-12-19T13:39:44.996113+00:00'
 website: ''
 year: 2003
 year_is_approximate: false
+previous_names:
+- Scillabub III
+image_key: 89Fz9N
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

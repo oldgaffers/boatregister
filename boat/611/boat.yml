@@ -1,13 +1,21 @@
-builder: ff7b1629-680c-4aec-8744-70c7fea1a636
-callsign: ''
+name: Wind
+oga_no: 611
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 82/2
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
 construction_material: wood
 construction_method: unknown
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
 draft: 1.1674
 engine_installations: []
 for_sales: []
-full_description: Log 82/2
-generic_type: unknown
 handicap_data:
   beam: 2.261643501584979
   draft: 1.167398195562058
@@ -17,17 +25,20 @@ home_port: ''
 hull_form: unknown
 id: d03a7322-d1a4-4053-bc31-720717660c64
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Wind
-oga_no: 611
+reference:
+- Log 82/2
+callsign: ''
 ownerships:
 - name: J Millward
   share: 64
   start: 2012
 place_built: Arnside
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:47.296158+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+image_key: 22FtHT
+construction_details: Teak hull
+beam: 2.2616
+for_sale_state:
+  text: not_for_sale

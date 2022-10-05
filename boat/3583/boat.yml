@@ -1,43 +1,57 @@
-builder: 42e246df-e2bd-4305-9936-e671685668ef
-construction_material: plywood
-construction_method: other
-designer: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
-draft: 0.7010485247500609
-engine_installations: []
-for_sales: []
+name: Squiggles
+oga_no: 3583
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p><em>Squiggles</em> is a modified Cape Henry design.</p>
 full_description: '<p><em>Squiggles</em> is a "Cape Henry", built at home over 3 years,
   with the original Dudley Dix design modified with Dudley''s approval. She &nbsp;has
   a direct drive electric motor, with 240Kg of lead batteires replacing a similar
   quantity of internal ballast.</p>
 
   <p>Rig consists of a yankee and staysail rather than a genoa.</p>'
-generic_type: unknown
+builder:
+  name: Built Self
+  id: 42e246df-e2bd-4305-9936-e671685668ef
+designer:
+  name: Dudley Dix
+  id: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
+construction_material: plywood
+construction_method: other
+draft: 0.7010485247500609
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.42
-  fore_triangle_base: 3.905
-  fore_triangle_height: 6.264
-  length_on_deck: 6.37
-  length_on_waterline: 6.05
   main:
     foot: 3.527
     head: 3.42
     luff: 3.709
-  propellor:
-    type: fixed
-  sailarea: 25.687
   thcf: 0.848
   topsail: {}
+  sailarea: 25.687
+  propellor:
+    type: fixed
+  length_on_deck: 6.37
+  fore_triangle_base: 3.905
+  length_on_waterline: 6.05
+  fore_triangle_height: 6.264
 home_country: UK
 home_port: Saltash
 hull_form: bilge keel
 id: 6a9c49ce-c95c-4728-9018-5076a213001a
 length_on_deck: 6.370397464033162
-mainsail_type: gaff
-name: Squiggles
-oga_no: 3583
+spar_material: wood
+ssr: '176182'
 place_built: Pillaton, Nr. Saltash
-rig_type: Cutter
-short_description: <p><em>Squiggles</em> is a modified Cape Henry design.</p>
 updated_at: '2022-05-18T16:13:49.4063+00:00'
 year: 2020
 year_is_approximate: false
+image_key: dBZDMn
+construction_details: Lapstrake ply on internal stringers across bulkheads. Bilge
+  keel. Double forward berth and two quarter berths. Internal 4kw electric motor with
+  traditional shaft through keels keg. 48 volt, 200 ah lead batteries acting as internal
+  ballast.
+air_draft: 28.2
+for_sale_state:
+  text: not_for_sale

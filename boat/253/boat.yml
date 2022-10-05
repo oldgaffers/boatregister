@@ -1,45 +1,60 @@
-builder: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
-callsign: ''
+name: Cygnet II
+oga_no: 253
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 80/2  for sale on web Nov 05 see cardex for list of owners
+builder:
+  name: Johnson and Johnson
+  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+designer:
+  name: Edward Wigfull
+  id: 82839c59-e386-42a8-9061-6798451cab74
 construction_material: wood
 construction_method: unknown
-designer: 82839c59-e386-42a8-9061-6798451cab74
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Log 80/2  for sale on web Nov 05 see cardex for list of owners
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  draft: 0.9144111192392099
-  fore_triangle_base: 4.166666666666666
-  fore_triangle_height: 7.010485247500609
-  length_over_all: 6.705681541087539
   main:
     foot: 4.26725188978298
     head: 2.9718361375274323
     luff: 5.18166300902219
-  propellor:
-    type: fixed
   thcf: 0.787425365
+  draft: 0.9144111192392099
   topsail:
     luff: 4.26725188978298
     perpendicular: 1.8288222384784198
+  propellor:
+    type: fixed
+  length_over_all: 6.705681541087539
+  fore_triangle_base: 4.166666666666666
+  fore_triangle_height: 7.010485247500609
 home_country: 'null'
 home_port: Hullbridge Y C
 hull_form: long keel deep forefoot
 id: 49018e1d-fc01-452b-b7ec-31a8ba679081
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Cygnet II
-oga_no: 253
+reference:
+- Log 80/2
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Cliff S Draycott
   share: 64
   start: 1983
 place_built: Leigh on Sea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:37.105158+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+image_key: 3dH2DT
+construction_details: Pine on oak
+beam: 2.286
+design_class:
+  name: Linette Class
+  id: 2e5b0ead-1f1f-43b4-b2e1-6bc925698e55
+for_sale_state:
+  text: not_for_sale

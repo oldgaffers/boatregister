@@ -1,11 +1,9 @@
-builder: 0551033f-9903-4132-b697-05d51dff6f48
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 4facfae7-08ab-4710-a01b-a80fc416ffd9
-draft: 0.3048
-engine_installations: []
-for_sales: []
+name: The Delphine
+oga_no: 2941
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
 full_description: "Register Official No: MCZ603870499  Port: Sandusky Yacht Club,\
   \ Sandusky, Ohio, United States of America.  Previous owner: Jeff Menzel.  History:\
   \ The Delphine is a reproduction of a sharpie called the Egret that was designed\
@@ -22,39 +20,51 @@ full_description: "Register Official No: MCZ603870499  Port: Sandusky Yacht Club
   \ The Delphine is gaff rigged, with 229 sq. ft. of sail area in main and mizzen\
   \ sails that are roughly equal in size.  She has no standing rigging, no bow sprit,\
   \ and no jib, spinnaker or top sails."
-generic_type: Yacht
+builder:
+  name: Jeff Menzel
+  id: 0551033f-9903-4132-b697-05d51dff6f48
+designer:
+  name: Ralph M. Munroe
+  id: 4facfae7-08ab-4710-a01b-a80fc416ffd9
+construction_material: wood
+construction_method: unknown
+draft: 0.3048
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.286027798098025
-  draft: 0.30480370641307
-  length_on_waterline: 6.909900024384297
-  length_over_all: 8.586320409656182
   main:
     foot: 3.1242379907339672
     head: 1.8532065349914655
     luff: 4.648256522799317
+  thcf: 0.879731935
+  draft: 0.30480370641307
   mizzen:
     foot: 2.9474518410143866
     head: 1.5240185320653499
     luff: 4.596439892709095
   propellor:
     type: fixed
-  thcf: 0.879731935
+  length_over_all: 8.586320409656182
+  length_on_waterline: 6.909900024384297
 home_country: 'null'
 home_port: Sandusky Ohio
 hull_form: long keel deep forefoot
 id: 0eb19b5d-1ed5-49c8-979e-89bef887c7a2
 length_on_deck: 8.5862
-mainsail_type: gaff
-name: The Delphine
-oga_no: 2941
+callsign: ''
 ownerships:
 - name: William Kohler
   share: 64
   start: 2007
 place_built: Marquette, Michigan
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:54.061857+00:00'
 website: ''
 year: 1998
 year_is_approximate: false
+previous_names:
+- Sleeping Lady
+construction_details: Wood  flatbottom sharpy, glass sheathed.
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

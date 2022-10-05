@@ -1,30 +1,40 @@
-builder: db113064-8980-479b-8190-764e09007320
-callsign: ''
+name: Pilgrim
+oga_no: 477
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: William Wyatt Ltd.
+  id: db113064-8980-479b-8190-764e09007320
+designer:
+  name: William Wyatt
+  id: 5955935c-3d77-4e9e-84aa-0d970e962dc6
 construction_material: wood
 construction_method: unknown
-designer: 5955935c-3d77-4e9e-84aa-0d970e962dc6
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
   draft: 0.7620092660326749
-  length_on_waterline: 5.18166300902219
   length_over_all: 5.4864667154352595
+  length_on_waterline: 5.18166300902219
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 1199d6b7-78c1-47f4-96c4-169bdbb30713
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: Pilgrim
-oga_no: 477
+callsign: ''
 place_built: West Mersea
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-01-31T17:02:45.815488+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+previous_names:
+- Pearl    Winnie
+image_key: N84VWf
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

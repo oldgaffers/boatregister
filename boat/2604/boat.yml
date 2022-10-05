@@ -1,12 +1,10 @@
-builder: cf3dfdae-7a5c-4381-9911-bb730fd7e555
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 42de64b2-7791-4d3d-bc2d-cc5ad545746d
-draft: 0.509
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Apsara
+oga_no: 2604
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Apsara&#39; was built by Ivan Jefferis at Bosham Hoe in
+  2004. She is traditionally built of larch on oak.</p>
 full_description: "<p>&#39;Apsara&#39; is a 24&#39; gaff cuttter, built Bosham, 2004\
   \ by Ivan Jefferis. Classic lines, very pretty, fast and manoeuverable, this computer\
   \ designed hull has excellent light airs performance. Larch on oak with teak brightwork,\
@@ -17,29 +15,38 @@ full_description: "<p>&#39;Apsara&#39; is a 24&#39; gaff cuttter, built Bosham, 
   \ by Batt Sails, spare headsail. 8&rsquo; tender.</p>\r\n\r\n<p>&#39;Apsara&#39;\
   \ has been little raced but was first in class and seventh overall in the Solent\
   \ Gaffers Rally.</p>"
-generic_type: Yacht
+builder:
+  name: Ivan Jefferis
+  id: cf3dfdae-7a5c-4381-9911-bb730fd7e555
+designer:
+  name: Ivan Jefferis/Justin Adams
+  id: 42de64b2-7791-4d3d-bc2d-cc5ad545746d
+construction_material: wood
+construction_method: unknown
+draft: 0.509
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.5090221897098268
-  fore_triangle_base: 3.5052426237503047
-  fore_triangle_height: 6.0960741282613995
-  length_on_waterline: 5.7912704218483295
-  length_over_all: 7.315288953913679
   main:
     foot: 4.87685930260912
     head: 4.26725188978298
     luff: 3.6576444769568397
+  thcf: 0.863687272
+  draft: 0.5090221897098268
   propellor:
     type: fixed
-  thcf: 0.863687272
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 3.5052426237503047
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 6.0960741282613995
 home_country: GBR
 home_port: Chichester
 hull_form: long keel deep forefoot
 id: 877be831-baa2-4a32-ab3b-4195aedfd6f6
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Apsara
-oga_no: 2604
+callsign: ''
 ownerships:
 - end: 2013
   name: Stephen Wheeler
@@ -50,10 +57,12 @@ ownerships:
   share: 64
   start: 2013
 place_built: Bosham
-rig_type: Cutter
-short_description: <p>&#39;Apsara&#39; was built by Ivan Jefferis at Bosham Hoe in
-  2004. She is traditionally built of larch on oak.</p>
 updated_at: '2021-12-19T13:39:44.05036+00:00'
 website: ''
 year: 2004
 year_is_approximate: false
+image_key: VgL4bz
+construction_details: Larch on oak
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

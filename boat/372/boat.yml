@@ -1,11 +1,11 @@
-builder: 8d927784-062c-4757-99aa-1ff379e2115c
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
-draft: 1.143
-engine_installations: []
-for_sales: []
+name: Kelpie 2
+oga_no: 372
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: "Kelpie II was home built and launched at Greenwich on the lines\
+  \ of Rani IV, at a cost of just over \xA375. In over 110 years, she's had just four\
+  \ owners."
 full_description: "<p>Kelpie II was built on the lines of a J Pain Clark designed\
   \ yacht called Rani IV, one of a series of Rani yachts and canoes by this designer.\
   \ She was built in a purpose built shed in Lewisham, South London, by the owner\
@@ -32,7 +32,17 @@ full_description: "<p>Kelpie II was built on the lines of a J Pain Clark designe
   \n\r\n<p>At about the time that Barry was thinking that maintenance was getting\
   \ to much for him Rik came onto the scene and became her latest owner in 2004. Four\
   \ owners in 107 years and never rebuilt, not a bad record.</p>"
-generic_type: Yacht
+builder:
+  name: H. Kennard
+  id: 8d927784-062c-4757-99aa-1ff379e2115c
+designer:
+  name: Clark J. Pain
+  id: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
+construction_material: wood
+construction_method: carvel
+draft: 1.143
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.9812240916849548
   draft: 1.1430138990490124
@@ -42,9 +52,7 @@ home_port: Pin Mill
 hull_form: unknown
 id: bead2d38-ff98-4527-b80c-38097f43d158
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Kelpie 2
-oga_no: 372
+callsign: ''
 ownerships:
 - note: Dave Kennard was Herbert Kennard's son and was owner between his father and
     Barry Page
@@ -62,17 +70,18 @@ ownerships:
   name: Barry Page
   share: 64
   start: 1989
-- current: true
-  id: 319
-  member: 3777
+- id: 319
   share: 64
   start: 2003
+  member: 3777
+  current: true
 place_built: Lewisham
-rig_type: Sloop
-short_description: "Kelpie II was home built and launched at Greenwich on the lines\
-  \ of Rani IV, at a cost of just over \xA375. In over 110 years, she's had just four\
-  \ owners."
 updated_at: '2021-12-19T13:38:40.554918+00:00'
 website: ''
 year: 1902
 year_is_approximate: false
+image_key: 5GVdRS
+construction_details: Carvel pitch pine on oak
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

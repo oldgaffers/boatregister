@@ -1,11 +1,12 @@
-builder: 67ee9852-ec68-4e03-9b49-5c459cb934bf
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f238ed22-175a-4b8c-9337-dc58c6619754
-draft: 2.2098
-engine_installations: []
-for_sales: []
+name: Duet
+oga_no: 32
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Owned by the Cirdan Trust, Duet continues her long association
+  with youth sail training, frequently being crewed by young people taking their Duke
+  of Edinburgh Award. She is a fine example of a gaff-rigged yawl, retaining the features
+  of a classic Edwardian yacht.</p>
 full_description: <p>Built by White Bros. of Southampton on the River Itchen, 1912,
   'Duet' was originally named 'Gaviota' and designed by Linton Hope. She was renamed
   'Duet' when was bought by the famous explorer, Augustine Courtauld in the 1930s
@@ -22,39 +23,50 @@ full_description: <p>Built by White Bros. of Southampton on the River Itchen, 19
   the Bordon Trophy for first boat home and Blake Pot for first boat built before
   1925 to finish.</p><p>Watch the video of Duet sailing</p><p><iframe allowfullscreen=""
   frameborder="0" height="315" src="https://www.youtube.com/embed/2sIPdUsiqqE" width="560"></iframe></p>
-generic_type: Yacht
+builder:
+  name: White Bros.
+  id: 67ee9852-ec68-4e03-9b49-5c459cb934bf
+designer:
+  name: Hope Linton
+  id: f238ed22-175a-4b8c-9337-dc58c6619754
+construction_material: wood
+construction_method: carvel
+draft: 2.2098
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.33004049835406
-  draft: 2.2000267556693487
-  fore_triangle_base: 8.200099725676663
-  fore_triangle_height: 15.300186073518654
-  length_on_waterline: 13.060158831382589
-  length_over_all: 15.76019166788588
-  length_over_spars: 21.340259529992682
   main:
     foot: 8.100098509509875
     head: 5.9000717538405265
     luff: 7.600092428675932
+  thcf: 1.223
+  draft: 2.2000267556693487
   mizzen:
     foot: 3.5000425658376004
     head: 2.600031620336503
     luff: 5.00006080833943
-  propellor:
-    blades: 3
-    type: folding
-  sailarea: 147.9921151097617
-  thcf: 1.223
   topsail:
     luff: 7.70009364484272
     perpendicular: 3.750045606254572
+  sailarea: 147.9921151097617
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 15.76019166788588
+  length_over_spars: 21.340259529992682
+  fore_triangle_base: 8.200099725676663
+  length_on_waterline: 13.060158831382589
+  fore_triangle_height: 15.300186073518654
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 559d6b58-1b36-4b4d-9239-147d5fb86f98
 length_on_deck: 15.7734
-mainsail_type: gaff
-name: Duet
-oga_no: 32
+sail_number: '32'
+ssr: '131890'
+uk_part1: '235015375'
+callsign: ''
 ownerships:
 - end: 1959
   name: Andrew Courtauld
@@ -64,12 +76,17 @@ ownerships:
   share: 64
   start: 1959
 place_built: Southampton
-rig_type: Yawl
-short_description: <p>Owned by the Cirdan Trust, Duet continues her long association
-  with youth sail training, frequently being crewed by young people taking their Duke
-  of Edinburgh Award. She is a fine example of a gaff-rigged yawl, retaining the features
-  of a classic Edwardian yacht.</p>
 updated_at: '2021-12-19T13:38:30.607411+00:00'
 website: http://cirdantrust.org/duet/
 year: 1912
 year_is_approximate: false
+previous_names:
+- Gaviota
+image_key: mRhGVh
+construction_details: 'Carvel hull with a counter stern. Elm planks below the waterline,
+  teak above on alternate sawn oak and steamed American elm timbers. English elm keel.
+  Doghouse removed from "Bloodhound" and put on by Campers in the 1960''s. First engine
+  fitted in 1926. '
+beam: 3.3284
+for_sale_state:
+  text: not_for_sale

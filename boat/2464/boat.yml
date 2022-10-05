@@ -1,11 +1,11 @@
-builder: d02ef310-75b8-46ab-8c53-f17b72d64671
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Nanette
+oga_no: 2464
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Nanette&#39; was built at Arnside&nbsp;in 1933. She has
+  a classic yacht form, with curved raking transom on a counter, typical of the Crossfield
+  yard.</p>
 full_description: "<p>&#39;Nanette&#39; was built by Crossfields, Arnside in 1933\
   \ at a cost of &pound;169 4s 5d, for Mr Palin. When Arthur Ransome visited Crossfields\
   \ in January, 1933 he notes in his diary a yacht has just started to be built -\
@@ -14,51 +14,61 @@ full_description: "<p>&#39;Nanette&#39; was built by Crossfields, Arnside in 193
   \ Her owner was recorded as Mr Palin.</p>\r\n\r\n<p>In a 1945 letter, Arthur Ransome\
   \ referred to &#39;Nanette&#39; as being &#39;a little beauty&#39; and Crossfields,\
   \ the builders as his old friends.</p>"
-generic_type: Yacht
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.3716166788588149
-  fore_triangle_base: 4.724457449402585
-  fore_triangle_height: 6.705681541087539
-  length_on_waterline: 6.705681541087539
-  length_over_all: 7.924896366739819
   main:
     foot: 5.257863935625457
     head: 3.931967812728603
     luff: 3.627164106315533
+  thcf: 0.91406834
+  draft: 1.3716166788588149
   propellor:
     type: folding
-  thcf: 0.91406834
+  length_over_all: 7.924896366739819
+  fore_triangle_base: 4.724457449402585
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 6.705681541087539
 home_country: GBR
 home_port: Fleetwood
 hull_form: long keel sloping forefoot
 id: 5effef66-faf4-47da-ad6e-6a63ff13dac2
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Nanette
-oga_no: 2464
+callsign: ''
 ownerships:
 - note: 1939 Lloyds Register of Yachts lists 'Nanette' as being owned by Granville
     Tunstall, Fleetwood. In 1950 and 1960, the owner is still Granville Tunstall but
     she's listed as being at St Mawes.
-  start: 1939
-  start_is_approximate: false
   text: Lloyds Register of Yachts lists 'Nanette' as being owned by Granville Tunstall,
     Fleetwood. In
+  start: 1939
+  start_is_approximate: false
 - name: Peter Kennerley
   share: 64
   start: 1999
-- current: true
-  id: 521
-  member: 4804
+- id: 521
   share: 64
+  member: 4804
+  current: true
   start: '?'
 place_built: Arnside
-rig_type: Cutter
-short_description: <p>&#39;Nanette&#39; was built at Arnside&nbsp;in 1933. She has
-  a classic yacht form, with curved raking transom on a counter, typical of the Crossfield
-  yard.</p>
 updated_at: '2021-12-19T13:39:39.631434+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+image_key: 6DgQ6w
+construction_details: Larch carvel on sawn oak, transom ended counter, else typical
+  nobby build
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

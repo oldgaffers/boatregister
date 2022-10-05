@@ -1,33 +1,42 @@
-builder: 9e5cd278-fa76-424c-80a8-e28a05693e60
-callsign: ''
+name: Taitoa
+oga_no: 1510
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Log 88/3
+builder:
+  name: Vos and Bres
+  id: 9e5cd278-fa76-424c-80a8-e28a05693e60
+designer:
+  name: Nathaniel Herreshoff
+  id: 8123cc79-2c83-4a39-8f6c-a249fbe4658c
 construction_material: wood
 construction_method: unknown
-designer: 8123cc79-2c83-4a39-8f6c-a249fbe4658c
 draft: 1.6002
 engine_installations: []
 for_sales: []
-full_description: Log 88/3
-generic_type: unknown
 handicap_data:
   beam: 3.3528407705437697
   draft: 1.6002194586686174
-  length_on_waterline: 9.601316752011703
   length_over_all: 10.972933430870519
+  length_on_waterline: 9.601316752011703
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: c88cac1f-25e6-44e0-ac9f-35e30ca18f60
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Taitoa
-oga_no: 1510
+reference:
+- Log 88/3
+callsign: ''
 ownerships:
 - name: R & L Swan
   share: 64
   start: 2012
 place_built: Auckland
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:13.432907+00:00'
 website: ''
 year_is_approximate: false
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

@@ -1,13 +1,21 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: ''
+name: Lady Molly
+oga_no: 2151
+generic_type: Dayboat
+rig_type: Yawl
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: wood
 construction_method: unknown
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 1.7739575713240674
   length_over_all: 4.724457449402585
@@ -16,17 +24,18 @@ home_port: Hayling Island S.C.
 hull_form: unknown
 id: cd95e0e3-59df-4612-ad69-d7f93b809702
 length_on_deck: 4.7244
-mainsail_type: lug
-name: Lady Molly
-oga_no: 2151
+callsign: ''
 ownerships:
 - name: John Grumbridge
   share: 64
   start: 2012
 place_built: Devon
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:30.689113+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+previous_names:
+- Laura
+beam: 1.7739
+for_sale_state:
+  text: not_for_sale

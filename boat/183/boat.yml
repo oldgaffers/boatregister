@@ -1,34 +1,50 @@
-builder: 54ec968c-e7e9-46c9-80d1-337242fc77bc
-callsign: ''
+name: Badger
+oga_no: 183
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 81/4 CB Mar/Apr 88
+builder:
+  name: TC. White
+  id: 54ec968c-e7e9-46c9-80d1-337242fc77bc
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: clinker
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
 draft: 0.634
 engine_installations: []
 for_sales: []
-full_description: Log 81/4 CB Mar/Apr 88
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   draft: 0.6339917093391856
-  length_on_waterline: 5.257863935625457
   length_over_all: 5.843087051938552
+  length_on_waterline: 5.257863935625457
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 932e2ce0-4465-458b-bc9f-0a7bbf0a278d
 length_on_deck: 5.843
-mainsail_type: gaff
-name: Badger
-oga_no: 183
+reference:
+- Log 81/4
+- CB Mar/Apr 88
+spar_material: wood
+callsign: ''
 ownerships:
 - name: J Welch
   share: 64
   start: 1967
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:34.893137+00:00'
 website: ''
 year: 1967
 year_is_approximate: false
+image_key: 8kXjrD
+construction_details: Clinker planking on bent frames
+beam: 2.1336
+design_class:
+  name: New Blossom Class
+  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
+for_sale_state:
+  text: not_for_sale

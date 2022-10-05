@@ -1,39 +1,51 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Tosh
+oga_no: 2615
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: CB Jul/Aug 88, High peaked gaff cat rig.
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.1768
 engine_installations: []
 for_sales: []
-full_description: CB Jul/Aug 88, High peaked gaff cat rig.
-generic_type: Dinghy
 handicap_data:
   beam: 1.7008046817849305
-  draft: 0.17678614971958057
-  length_on_waterline: 3.633260180443794
-  length_over_all: 3.733845403560107
   main:
     foot: 3.023652767617654
     head: 2.4902462813947817
     luff: 2.334796391124116
   thcf: 0.72974644
+  draft: 0.17678614971958057
+  length_over_all: 3.733845403560107
+  length_on_waterline: 3.633260180443794
 home_country: 'null'
 home_port: Hamble
 hull_form: unknown
 id: 12f53a7f-35a2-405c-b76a-9ae0d23971d4
 length_on_deck: 3.7338
-mainsail_type: gaff
-name: Tosh
-oga_no: 2615
+sail_number: '33'
+callsign: ''
 ownerships:
 - name: Max Taylor
   share: 64
   start: 2012
 place_built: Rock
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:44.360143+00:00'
 website: ''
 year: 1983
 year_is_approximate: false
+construction_details: GRP
+beam: 1.7008
+design_class:
+  name: Cornish Crabber Cormorant
+  id: d690a3a2-4faa-4d24-bfed-eb8bb7d3abd8
+for_sale_state:
+  text: not_for_sale

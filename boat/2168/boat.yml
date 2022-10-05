@@ -1,13 +1,21 @@
-builder: a20d46df-5e22-4755-8a54-72a7b4d15efe
-callsign: ''
+name: Lizzie May
+oga_no: 2168
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Luke Powell
+  id: a20d46df-5e22-4755-8a54-72a7b4d15efe
+designer:
+  name: Luke Powell
+  id: fb9a7691-8b98-42cc-9545-3248c2e161d0
 construction_material: wood
 construction_method: unknown
-designer: fb9a7691-8b98-42cc-9545-3248c2e161d0
 draft: 2.286
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.605827846866618
   draft: 2.286027798098025
@@ -17,17 +25,16 @@ home_port: Exeter
 hull_form: unknown
 id: e1bfa496-d22b-468b-8297-2a15c4a3413f
 length_on_deck: 12.8016
-mainsail_type: gaff
-name: Lizzie May
-oga_no: 2168
+callsign: ''
 ownerships:
 - name: William Collinson
   share: 64
   start: 1998
 place_built: Exeter
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:31.066625+00:00'
 website: ''
 year: 1998
 year_is_approximate: false
+beam: 3.6058
+for_sale_state:
+  text: not_for_sale

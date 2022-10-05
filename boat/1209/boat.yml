@@ -1,11 +1,10 @@
-builder: a1082f79-4465-4249-8861-4827cb2c85e8
-callsign: ''
-construction_material: steel
-construction_method: unknown
-designer: b2edf1dd-a9ed-4313-9776-d067e2afc665
-draft: 1.8288
-engine_installations: []
-for_sales: []
+name: Noorderzon
+oga_no: 1209
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>The steel cutter, Noorderzon, was built in the Netherlands,
+  1979. She was a regular winner in East Coast OGA events during the 1980s.</p>
 full_description: "<h3>1988 Crouch Rally Report when &#39;Noorderzon&#39; won the\
   \ Ind Coope &amp; Allsopp Old Gaffers Trophy</h3>\r\n\r\n<h4>first published in\
   \ the OGA Newsletter, 1988/2</h4>\r\n\r\n<blockquote>A somewhat anxious race committee\
@@ -49,29 +48,38 @@ full_description: "<h3>1988 Crouch Rally Report when &#39;Noorderzon&#39; won th
   \ skills were needed for the big boats too, as they beat up the narrow channel through\
   \ th moornigns to finish in front of the spectators lining Hythe Quay at Maldon.\
   \ Great skill was needed too, to hand sail in that wind before the bridge was breached!</blockquote>"
-generic_type: Yacht
+builder:
+  name: Schouten
+  id: a1082f79-4465-4249-8861-4827cb2c85e8
+designer:
+  name: Schouten
+  id: b2edf1dd-a9ed-4313-9776-d067e2afc665
+construction_material: steel
+construction_method: unknown
+draft: 1.8288
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.419653742989515
   draft: 1.8288222384784198
-  length_on_waterline: 11.582540843696659
   length_over_all: 12.801755669348939
+  length_on_waterline: 11.582540843696659
 home_country: GBR
 home_port: Burnham on Crouch
 hull_form: unknown
 id: c1ec3f6d-dc85-4535-aba4-1256c49275fd
 length_on_deck: 12.8016
-mainsail_type: gaff
-name: Noorderzon
-oga_no: 1209
+callsign: ''
 ownerships:
 - name: John and Ray Walker
   share: 64
   start: 2012
 place_built: Netherlands
-rig_type: Cutter
-short_description: <p>The steel cutter, Noorderzon, was built in the Netherlands,
-  1979. She was a regular winner in East Coast OGA events during the 1980s.</p>
 updated_at: '2021-12-19T13:39:04.8129+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+image_key: Df9g6W
+beam: 4.4196
+for_sale_state:
+  text: not_for_sale

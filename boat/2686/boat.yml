@@ -1,29 +1,36 @@
-builder: 4fe72174-9dc2-4dd5-8c99-888c50eeb312
-callsign: ''
+name: Orion
+oga_no: 2686
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gebr Lind
+  id: 4fe72174-9dc2-4dd5-8c99-888c50eeb312
+designer:
+  name: M. Breckbrede
+  id: 4a0d15c2-22f0-44f6-b0e4-31b85f910433
 construction_material: wood
 construction_method: unknown
-designer: 4a0d15c2-22f0-44f6-b0e4-31b85f910433
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: 'null'
 home_port: Hoorn
 hull_form: unknown
 id: 5530cc21-c224-4284-b4cf-a204d706428c
 length_on_deck: 0
-mainsail_type: gaff
-name: Orion
-oga_no: 2686
+callsign: ''
 ownerships:
 - name: J Th Eijgel
   share: 64
   start: 2012
 place_built: Oude Nuedorp
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:46.281854+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

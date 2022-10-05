@@ -1,34 +1,44 @@
-builder: d8fa8787-c87d-4307-8a2e-cdeeec6a3f55
-callsign: ''
+name: Amulet
+oga_no: 824
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cox and Co.
+  id: d8fa8787-c87d-4307-8a2e-cdeeec6a3f55
+designer:
+  name: Cox
+  id: 4cf0465d-3397-4f3b-9139-701a67705c45
 construction_material: wood
 construction_method: unknown
-designer: 4cf0465d-3397-4f3b-9139-701a67705c45
 draft: 2.6213
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.6881248475981465
   draft: 2.6213118751524016
-  length_on_waterline: 11.887344550109729
   length_over_all: 14.020970495001219
+  length_on_waterline: 11.887344550109729
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 43a68511-f882-47b2-a859-952af3d1f339
 length_on_deck: 14.0208
-mainsail_type: gaff
-name: Amulet
-oga_no: 824
+uk_part1: '95910'
+callsign: ''
 ownerships:
 - name: P D Ledward
   share: 64
   start: 2012
 place_built: Falmouth
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:53.398635+00:00'
 website: ''
 year: 1891
 year_is_approximate: false
+previous_names:
+- Ivy
+beam: 3.6881
+for_sale_state:
+  text: not_for_sale

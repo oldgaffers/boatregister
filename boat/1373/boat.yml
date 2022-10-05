@@ -1,41 +1,50 @@
-builder: e03770fc-11ad-41ac-afc8-132135bd2013
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 0.9906
-engine_installations: []
-for_sales: []
+name: Straight Across
+oga_no: 1373
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: <p>&#39;Straight Across&#39; was built to the Everyman design,
+  but lengthened to 30&#39; 2&quot; from the standard 28&#39;.</p>
 full_description: '<p>Ian Clarke summarises ownership from 1956: &quot;&#39;Straight
   Across&#39; was owned by my grandfather from 1956-1974, after which it was sold
   causing a big family rift! This was resolved by buying it back again in 1983, and
   we have owned it since, mainly on the upper Thames at Freebody&#39;s boatyard in
   Hurley, but for a few seasons have cruised the East Coast.&quot;</p>'
-generic_type: unknown
+builder:
+  name: ARC Marine
+  id: e03770fc-11ad-41ac-afc8-132135bd2013
+construction_material: wood
+construction_method: unknown
+draft: 0.9906
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.590831504511095
   draft: 0.9906120458424774
-  length_over_all: 9.205071933674713
   propellor:
     type: fixed
+  length_over_all: 9.205071933674713
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 38682983-7edc-4415-aa01-6d1b8c419b4e
 length_on_deck: 9.1958
-mainsail_type: lug
-name: Straight Across
-oga_no: 1373
+callsign: ''
 ownerships:
-- current: true
-  id: 141
-  member: 2287
+- id: 141
   share: 64
   start: 1983
+  member: 2287
+  current: true
 place_built: Littlehampton
-rig_type: Sloop
-short_description: <p>&#39;Straight Across&#39; was built to the Everyman design,
-  but lengthened to 30&#39; 2&quot; from the standard 28&#39;.</p>
 updated_at: '2021-12-19T13:39:09.512616+00:00'
 website: ''
 year: 1951
 year_is_approximate: false
+image_key: vpg8fP
+beam: 2.5908
+design_class:
+  name: Everymans 28
+  id: 5bef32be-325e-4837-9434-04235154eb91
+for_sale_state:
+  text: not_for_sale

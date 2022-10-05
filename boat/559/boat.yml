@@ -1,36 +1,48 @@
-builder: 268cb1cd-55ba-4747-a7c4-6796564e2dc6
-callsign: ''
+name: Alan
+oga_no: 559
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Log 66/2
+builder:
+  name: J. Harvey
+  id: 268cb1cd-55ba-4747-a7c4-6796564e2dc6
+designer:
+  name: J. Harvey
+  id: 1cc517d3-0857-436b-a238-74b3389efd9e
 construction_material: wood
 construction_method: carvel
-designer: 1cc517d3-0857-436b-a238-74b3389efd9e
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: Log 66/2
-generic_type: Yacht
 handicap_data:
   beam: 3.5052426237503047
   draft: 1.5240185320653499
-  length_on_waterline: 9.296513045598633
-  length_over_all: 9.75371860521824
   propellor:
     type: fixed
+  length_over_all: 9.75371860521824
+  length_on_waterline: 9.296513045598633
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: bf8689db-517b-44d1-b6c5-c8414e9b251b
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Alan
-oga_no: 559
+reference:
+- Log 66/2
+callsign: ''
 ownerships:
 - name: D & K Moore
   share: 64
   start: 1974
 place_built: Littlehampton
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:45.802659+00:00'
 website: ''
 year: 1909
 year_is_approximate: false
+image_key: knbsnk
+construction_details: Originally Clinker, Doubled with 3/4 Carvel Pitch Pine over
+  pitch pin feathers, on Oak
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

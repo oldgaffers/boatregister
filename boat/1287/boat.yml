@@ -1,46 +1,54 @@
-builder: b04631e9-ccc7-4e76-9665-6b2448e0d87d
-callsign: ''
+name: Silver Darling
+oga_no: 1287
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Bill Winter Boats
+  id: b04631e9-ccc7-4e76-9665-6b2448e0d87d
+designer:
+  name: John F. French
+  id: bb0171e9-35f7-49a9-a287-d2a45ad98b19
 construction_material: ferro
 construction_method: unknown
-designer: bb0171e9-35f7-49a9-a287-d2a45ad98b19
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 3.0480370641306997
-  draft: 1.21921482565228
-  fore_triangle_base: 5.029261155815655
-  fore_triangle_height: 6.0960741282613995
-  length_on_waterline: 8.22970007315289
-  length_over_all: 9.44891489880517
   main:
     foot: 5.7912704218483295
     head: 4.57205559619605
     luff: 4.26725188978298
-  propellor:
-    type: fixed
   thcf: 0.955942613
+  draft: 1.21921482565228
   topsail:
     luff: 6.4008778346744695
     perpendicular: 2.8956352109241648
+  propellor:
+    type: fixed
+  length_over_all: 9.44891489880517
+  fore_triangle_base: 5.029261155815655
+  length_on_waterline: 8.22970007315289
+  fore_triangle_height: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 8940d256-8b77-46cf-8327-66dac5f3ce61
 length_on_deck: 9.4488
-mainsail_type: gaff
-name: Silver Darling
-oga_no: 1287
+callsign: ''
 ownerships:
 - name: D Webster
   share: 64
   start: 1980
 place_built: Lymm
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:07.116634+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: Ferrocement
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

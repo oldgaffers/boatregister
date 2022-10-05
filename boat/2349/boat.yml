@@ -1,53 +1,61 @@
-builder: e5c00172-7ec2-4bc9-9979-d47454b84ba4
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: a5468014-9c00-4985-85ca-f3115f1fc4f7
-draft: 1.1887
-engine_installations: []
-for_sales: []
+name: Quinque
+oga_no: 2349
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Quinque&#39; was built in 1911 at Everson&#39;s Yard, Woodbridge,
+  Suffolk to a Sibbick design.</p>
 full_description: "<p>The only Orford Whitewing still sailing, &#39;Quinque&#39; was\
   \ restored in 2000 including a new gaff rig. She is kept on a mooring at Wrabness,\
   \ Suffolk in the summer and laid up ashore in the winter.</p>\r\n\r\n<p>She was\
   \ built in 1911 at Everson&rsquo;s yard at Woodbridge on the River Deben to Sibbick&rsquo;s\
   \ design, the only Orford Whitewing built in Suffolk.&nbsp;</p>"
-generic_type: unknown
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+designer:
+  name: Charles Sibbick
+  id: a5468014-9c00-4985-85ca-f3115f1fc4f7
+construction_material: wood
+construction_method: unknown
+draft: 1.1887
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.777005608388198
-  draft: 1.1887344550109729
-  fore_triangle_base: 2.0117044623262617
-  fore_triangle_height: 3.9929285540112165
-  length_on_waterline: 5.669348939283102
-  length_over_all: 7.010485247500609
   main:
     foot: 4.968300414533041
     head: 3.1089978054133134
     luff: 3.0785174347720066
+  draft: 1.1887344550109729
   topsail:
     luff: 3.8405267008046815
     perpendicular: 1.7069007559131917
+  length_over_all: 7.010485247500609
+  fore_triangle_base: 2.0117044623262617
+  length_on_waterline: 5.669348939283102
+  fore_triangle_height: 3.9929285540112165
 home_country: 'null'
 home_port: Pin Mill
 hull_form: unknown
 id: d94fcbe8-a178-4885-8244-93db220a7e06
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Quinque
-oga_no: 2349
+callsign: ''
 ownerships:
 - name: N Temple
   share: 64
   start: 2003
-- current: true
-  id: 119
-  member: 2032
+- id: 119
   share: 64
+  member: 2032
+  current: true
   start: '?'
 place_built: Woodbridge
-rig_type: Sloop
-short_description: <p>&#39;Quinque&#39; was built in 1911 at Everson&#39;s Yard, Woodbridge,
-  Suffolk to a Sibbick design.</p>
 updated_at: '2021-12-19T13:39:35.657386+00:00'
 website: ''
 year: 1911
 year_is_approximate: false
+image_key: hh8wTz
+beam: 1.777
+for_sale_state:
+  text: not_for_sale

@@ -1,48 +1,55 @@
-callsign: ''
+name: Alice III
+oga_no: 3079
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Although &#39;Alice lll&#39; looks very traditional her hull
+  form is modern with a lifting bulb keel and rudder system with carbon spars.</p>
+full_description: ''
+designer:
+  name: Jeremy Rogers
+  id: c6aca621-d8bc-4f4e-be08-4e477de13c55
 construction_material: woodepoxy
 construction_method: unknown
-designer: c6aca621-d8bc-4f4e-be08-4e477de13c55
 draft: 1.1948
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.749085588880761
-  draft: 1.2009266032674957
-  draft_keeldown: 2.801146061936113
-  fore_triangle_base: 7.199463545476713
-  fore_triangle_height: 19.69946354547671
-  length_on_waterline: 11.750182882223847
-  length_over_all: 11.899536698366251
   main:
     foot: 6.599000243842965
     head: 6.599000243842965
     luff: 7.79992684711046
+  thcf: 1.127684091
+  draft: 1.2009266032674957
   mizzen:
     foot: 2.100097537186052
     head: 4.599487929773225
     luff: 4.279444038039502
-  propellor:
-    blades: 3
-    type: folding
-  thcf: 1.127684091
   topsail:
     luff: 8.53450377956596
     perpendicular: 5.800414533040722
+  propellor:
+    type: folding
+    blades: 3
+  draft_keeldown: 2.801146061936113
+  length_over_all: 11.899536698366251
+  fore_triangle_base: 7.199463545476713
+  length_on_waterline: 11.750182882223847
+  fore_triangle_height: 19.69946354547671
 home_country: GBR
 home_port: Lymington
 hull_form: lifting bulb keel
 id: 7e68cd69-7868-4a02-b418-773f34684abd
 length_on_deck: 11.8872
-mainsail_type: gaff
-name: Alice III
-oga_no: 3079
+callsign: ''
 place_built: Lymington
-rig_type: Ketch
-short_description: <p>Although &#39;Alice lll&#39; looks very traditional her hull
-  form is modern with a lifting bulb keel and rudder system with carbon spars.</p>
 updated_at: '2021-03-27T22:53:26.8552+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+image_key: zTJTRQ
+construction_details: stip cedar planking Double diag mahogany veneer
+beam: 3.7582
+for_sale_state:
+  text: not_for_sale

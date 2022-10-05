@@ -1,41 +1,52 @@
-builder: c3de9093-22ca-4236-b410-45d34689b6c1
-callsign: ''
+name: Elver 2
+oga_no: 2287
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: Boomless rig for easy day sailing
+builder:
+  name: Highlander Boatbuilding
+  id: c3de9093-22ca-4236-b410-45d34689b6c1
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 construction_material: woodepoxy
 construction_method: unknown
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 draft: 0.2286
 engine_installations: []
 for_sales: []
-full_description: Boomless rig for easy day sailing
-generic_type: Dinghy
 handicap_data:
   beam: 1.6002194586686174
-  draft: 0.22860277980980248
-  fore_triangle_base: 1.21921482565228
-  fore_triangle_height: 3.5052426237503047
-  length_on_waterline: 3.9624481833699097
-  length_over_all: 4.26725188978298
   main:
     foot: 2.286027798098025
     head: 2.7432333577176298
     luff: 1.9812240916849548
   thcf: 0.750366214
+  draft: 0.22860277980980248
+  length_over_all: 4.26725188978298
+  fore_triangle_base: 1.21921482565228
+  length_on_waterline: 3.9624481833699097
+  fore_triangle_height: 3.5052426237503047
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: de9602fa-01d9-44f7-802a-98de88d2b50b
 length_on_deck: 4.2672
-mainsail_type: lug
-name: Elver 2
-oga_no: 2287
+callsign: ''
 ownerships:
 - name: Thomas Eeles
   share: 64
   start: 1987
 place_built: Cardiff
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:34.547877+00:00'
 website: ''
 year: 1988
 year_is_approximate: false
+construction_details: Marine ply chine/ epoxy.
+beam: 1.6002
+design_class:
+  name: Highlander 14
+  id: fd10a826-2d7c-4aea-b8ca-78ea7e39216c
+for_sale_state:
+  text: not_for_sale

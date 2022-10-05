@@ -1,31 +1,34 @@
-callsign: ''
+name: Ebb Tide
+oga_no: 1826
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 home_country: IRL
 home_port: ''
 hull_form: unknown
 id: 7551e2fc-cfdf-4231-8494-83695ef8d6b6
 length_on_deck: 0
-mainsail_type: gaff
-name: Ebb Tide
-oga_no: 1826
+callsign: ''
 ownerships:
 - end: 2006
   name: J C Bates
   share: 64
   start: 2006
-- current: true
+- share: 64
   member: 2968
-  share: 64
+  current: true
   start: '?'
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:21.425121+00:00'
 website: ''
 year: 1983
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

@@ -1,35 +1,42 @@
-builder: 3d0e0ec3-92cf-48dc-ae20-bf1d6cbdbe2c
-callsign: ''
+name: Banba IV
+oga_no: 1310
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Lost July 1969 - Mast jumped step in gale in W E Atlantic Crew rescued
+  by freighter but boat sank
+builder:
+  name: Whitstable Shipping Co.
+  id: 3d0e0ec3-92cf-48dc-ae20-bf1d6cbdbe2c
+designer:
+  name: Frederick Shepherd
+  id: a1307f55-2601-4a92-ad68-1db523c0e3b9
 construction_material: wood
 construction_method: unknown
-designer: a1307f55-2601-4a92-ad68-1db523c0e3b9
 draft: 2.225
 engine_installations: []
 for_sales: []
-full_description: Lost July 1969 - Mast jumped step in gale in W E Atlantic Crew rescued
-  by freighter but boat sank
-generic_type: unknown
 handicap_data:
   beam: 3.6576444769568397
   draft: 2.2250670568154107
-  length_on_waterline: 10.424286759326995
   length_over_all: 11.582540843696659
+  length_on_waterline: 10.424286759326995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 9798342b-74f5-4b20-a838-dbda11a2462c
 length_on_deck: 11.5824
-mainsail_type: gaff
-name: Banba IV
-oga_no: 1310
+callsign: ''
 ownerships:
 - name: J M Robson
   share: 64
   start: 2012
 place_built: Whitstable
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:07.819402+00:00'
 website: ''
 year: 1911
 year_is_approximate: false
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

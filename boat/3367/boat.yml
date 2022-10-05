@@ -1,8 +1,22 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ZENZ3
+name: The John and Elsie
+oga_no: 3367
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>The John and Elsie' is a Tela, 16' 6&quot; gaff-rigged dayboat.
+  The class was built from a mould taken from a 3/4 decked work boat built in 1911,
+  a Seeker Boat working out of Barry Docks.</p>
+full_description: <p>The Tela Class was developed by Chris Libby of Penryn and subsequently
+  by Greg Dalrymple of Salterns Boatyard. The John and Elsie is a 2018 OGA winner
+  currently undergoing re-varnishing and polishing</p>
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 construction_material: grp
 construction_method: cold_moulded
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 draft: 0.3566
 engine_installations: []
 for_sales:
@@ -37,42 +51,43 @@ for_sales:
   sold: '2020-07-01'
   summary: null
   updated_at: '2020-05-03T10:13:13.474424+00:00'
-full_description: <p>The Tela Class was developed by Chris Libby of Penryn and subsequently
-  by Greg Dalrymple of Salterns Boatyard. The John and Elsie is a 2018 OGA winner
-  currently undergoing re-varnishing and polishing</p>
-generic_type: Dayboat
 handicap_data:
-  draft_keel_down: 1.2192
-  length_over_spars: 5.715
-  length_overall: 5.0292
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 1
+  moving_keel: true
+  length_overall: 5.0292
+  draft_keel_down: 1.2192
+  moving_keel_type: Centreboard
+  length_over_spars: 5.715
 home_country: GBR
 home_port: Forder
 hull_form: long keel deep forefoot
 id: de66adb7-ce2a-4ac6-95ac-5b137f7cac6b
 length_on_deck: 5.0292
-mainsail_type: gaff
-name: The John and Elsie
-oga_no: 3367
+spar_material: wood
+callsign: ZENZ3
 ownerships:
-- end: 2020
-  id: 992
-  member: 6221
+- id: 992
+  end: 2020
   share: 64
   start: 2014
-- current: true
-  id: 992
   member: 6221
+- id: 992
   share: 64
   start: 2022
+  member: 6221
+  current: true
 place_built: Bursledon, Hampshire.
-rig_type: Sloop
-short_description: <p>The John and Elsie' is a Tela, 16' 6&quot; gaff-rigged dayboat.
-  The class was built from a mould taken from a 3/4 decked work boat built in 1911,
-  a Seeker Boat working out of Barry Docks.</p>
 updated_at: '2022-09-27T21:03:21.594489+00:00'
 website: ''
 year: 2007
 year_is_approximate: false
+previous_names:
+- Elsie lll
+image_key: gPCgpt
+construction_details: Mould taken from a 1911 Bristol Channel work boat.
+beam: 1.6764
+design_class:
+  name: Tela
+  id: a9b70e41-d96c-4e9b-b6d3-e58cae9e1504
+for_sale_state:
+  text: not_for_sale

@@ -1,4 +1,20 @@
-callsign: ''
+name: Tiki
+oga_no: 2148
+generic_type: Dayboat
+rig_type: Yawl
+mainsail_type: lug
+short_description: Tiki is a Padstow Lugger.
+full_description: '<p>Made by the company Padstow Sea Boats in 1992. The design is
+  based on the Cornish pilchard fishing boats. It is made from GRP and requires minimum
+  maintenance. She has wooden spars and teak and mahogany trim. It is the perfect
+  boat for exploring estuaries and rivers with a family on board.</p>
+
+  <p><br></p>
+
+  <p>She is stable with a weighty steel centreplate. She has a working boat rig, comprising
+  of a jib and boomless standing lug mainsail and mizzen.</p>
+
+  <p><br></p>'
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.61
@@ -17,66 +33,59 @@ for_sales:
     \ Mahogany fit-out. Douglas fir masts/spars. Full inventory included in sale.\
     \ Stored East Suffolk, will deliver at cost if required.</p>"
   updated_at: '2020-05-03T10:13:13.291769+00:00'
-full_description: '<p>Made by the company Padstow Sea Boats in 1992. The design is
-  based on the Cornish pilchard fishing boats. It is made from GRP and requires minimum
-  maintenance. She has wooden spars and teak and mahogany trim. It is the perfect
-  boat for exploring estuaries and rivers with a family on board.</p>
-
-  <p><br></p>
-
-  <p>She is stable with a weighty steel centreplate. She has a working boat rig, comprising
-  of a jib and boomless standing lug mainsail and mizzen.</p>
-
-  <p><br></p>'
-generic_type: Dayboat
 handicap_data:
   beam: 1.625
-  fore_triangle_base: 1.524
-  fore_triangle_height: 2.438
-  length_on_deck: 4.572
-  length_on_waterline: 4.563
-  length_over_all: 4.572
   main:
     foot: 1.92
     head: 2.24
     luff: 2.347
+  thcf: 0.766
   mizzen:
     foot: 1.119
     head: 1.201
     luff: 1.753
-  mizzen_topsail: {}
+  topsail: {}
+  sailarea: 9.458
   propellor:
     type: none
-  sailarea: 9.458
-  thcf: 0.766
-  topsail: {}
+  length_on_deck: 4.572
+  mizzen_topsail: {}
+  length_over_all: 4.572
+  fore_triangle_base: 1.524
+  length_on_waterline: 4.563
+  fore_triangle_height: 2.438
 home_country: GBR
 home_port: ''
 hull_form: centre-boarder
 id: 4ddf5021-2268-4729-8ccd-8d22d1084bc4
 length_on_deck: 4.4714
-mainsail_type: lug
-name: Tiki
-oga_no: 2148
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2016
   name: Rob Rose
   share: 64
   start: 2012
-- current: true
-  id: 1219
-  member: 5004
+- id: 1219
   share: 32
   start: 2016
-- current: true
-  id: 559
   member: 5004
+  current: true
+- id: 559
   share: 32
   start: 2016
+  member: 5004
+  current: true
 place_built: Padstow, Devon
-rig_type: Yawl
-short_description: Tiki is a Padstow Lugger.
 updated_at: '2022-04-14T16:14:30.631132+00:00'
 website: ''
 year: 1992
 year_is_approximate: false
+image_key: pPjc3c
+construction_details: GRP, Mahogany fit out
+beam: 1.6246
+design_class:
+  name: Padstow Lugger
+  id: bd13b288-8825-41e1-b7a3-8cc72a9dc3e5
+for_sale_state:
+  text: not_for_sale

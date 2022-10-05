@@ -1,25 +1,36 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Alice
+oga_no: 3254
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Anne E is a Cornish Crabber 24</p>
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: IRL
 home_port: ''
 hull_form: long keel deep forefoot
 id: 0d5eec55-5433-4a5f-ad0c-ae3b1752a42c
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Alice
-oga_no: 3254
+sail_number: '46'
+callsign: ''
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Anne E is a Cornish Crabber 24</p>
 updated_at: '2021-01-09T14:51:37.327394+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+beam: 2.5908
+design_class:
+  name: Cornish Crabber 24
+  id: ff83f69b-9762-4ae5-9681-950b5658ad97
+for_sale_state:
+  text: not_for_sale

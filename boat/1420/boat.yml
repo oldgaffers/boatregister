@@ -1,34 +1,40 @@
-callsign: ''
+name: Ilalla
+oga_no: 1420
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 88/2
 construction_material: wood
 construction_method: clinker
 draft: 0.7163
 engine_installations: []
 for_sales: []
-full_description: Log 88/2
-generic_type: unknown
 handicap_data:
   beam: 1.9050231650816873
   draft: 0.7162887100707145
-  length_on_waterline: 5.029261155815655
-  length_over_all: 6.0960741282613995
   propellor:
     type: fixed
+  length_over_all: 6.0960741282613995
+  length_on_waterline: 5.029261155815655
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: b8410cc6-c6ee-4bbb-84f5-5b84eead5ecd
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Ilalla
-oga_no: 1420
+reference:
+- Log 88/2
+callsign: ''
 ownerships:
 - name: A Lodge
   share: 64
   start: 1988
 place_built: Shetland
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:10.783633+00:00'
 website: ''
 year: 1960
 year_is_approximate: false
+construction_details: Clinker  Larch strakes on sawn sawn and scarphed oak frames
+beam: 1.905
+for_sale_state:
+  text: not_for_sale

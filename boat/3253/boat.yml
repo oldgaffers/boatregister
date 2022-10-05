@@ -1,29 +1,37 @@
-builder: 4e2ee4df-88c1-42e2-a2cc-442371d52d40
-callsign: ''
+name: Asredua
+oga_no: 3253
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: A.D.C. Boatyards
+  id: 4e2ee4df-88c1-42e2-a2cc-442371d52d40
+designer:
+  name: Arthur C. Robb
+  id: c83205a1-3dfc-4977-871e-03a8ed74e6ec
 construction_material: wood
 construction_method: unknown
-designer: c83205a1-3dfc-4977-871e-03a8ed74e6ec
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: GBR
 home_port: Malmo
 hull_form: unknown
 id: f35a9a53-818c-4871-a635-69e6d0049433
 length_on_deck: 0
-mainsail_type: bermudan
-name: Asredua
-oga_no: 3253
+spar_material: wood
+callsign: ''
 ownerships:
 - name: David Skinner
   share: 64
   start: 2013
 place_built: Ghana
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:40:05.335388+00:00'
 website: ''
 year: 1959
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

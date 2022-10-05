@@ -1,31 +1,40 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Hermit
+oga_no: 2705
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 home_country: 'null'
 home_port: Lymington
 hull_form: unknown
 id: d887d088-32ea-4a68-b0cc-d88accd2d803
 length_on_deck: 0
-mainsail_type: gaff
-name: Hermit
-oga_no: 2705
+callsign: ''
 ownerships:
-- current: true
-  id: 478
-  member: 4612
+- id: 478
   share: 64
   start: 2012
+  member: 4612
+  current: true
 place_built: Rock
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:46.926391+00:00'
 website: ''
 year: 1999
 year_is_approximate: false
+previous_names:
+- Storm Boy
+beam: 0
+for_sale_state:
+  text: not_for_sale

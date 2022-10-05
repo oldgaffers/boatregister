@@ -1,11 +1,10 @@
-builder: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 534aff81-71b3-4ea0-91a5-9b8d209abdda
-draft: 1.8288
-engine_installations: []
-for_sales: []
+name: Speedwell
+oga_no: 547
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Originally built as a motor oyster dredger for use on the East
+  Coast rivers, &#39;Speedwell&#39; is now rigged as a ketch and sails on the Solent.</p>
 full_description: "<p>&#39;Speedwell&#39; was built as a motor oyster dredger for\
   \ Smith Brothers, oyster merchants of Burnham on Crouch, in 1908 by William King\
   \ of Burnham. She was originally fitted with a single cylinder Dan paraffin engine\
@@ -73,47 +72,58 @@ full_description: "<p>&#39;Speedwell&#39; was built as a motor oyster dredger fo
   \ launch in 1901 plus many of her working.</em></p>\r\n\r\n<p>It is interesting\
   \ to note that the measurements he mentions are recorded under the measurement section\
   \ - resumably given by him when he owned the boat.<br />\r\n&nbsp;</p>"
-generic_type: Yacht
+builder:
+  name: William King and Sons
+  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+designer:
+  name: William King
+  id: 534aff81-71b3-4ea0-91a5-9b8d209abdda
+construction_material: wood
+construction_method: carvel
+draft: 1.8288
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.26725188978298
-  draft: 1.8288222384784198
-  fore_triangle_base: 9.244696415508411
-  fore_triangle_height: 12.091563033406485
-  length_on_waterline: 13.106559375762009
-  length_over_all: 15.849792733479639
   main:
     foot: 6.3246769080712015
     head: 5.7912704218483295
     luff: 10.515727871250913
+  thcf: 1.152531385
+  draft: 1.8288222384784198
   mizzen:
     foot: 3.6576444769568397
     head: 2.691416727627408
     luff: 3.8100463301633747
-  propellor:
-    type: fixed
-  thcf: 1.152531385
   topsail:
     luff: 6.0960741282613995
     perpendicular: 8.686905632772493
+  propellor:
+    type: fixed
+  length_over_all: 15.849792733479639
+  fore_triangle_base: 9.244696415508411
+  length_on_waterline: 13.106559375762009
+  fore_triangle_height: 12.091563033406485
 home_country: GBR
 home_port: Shoreham
 hull_form: long keel deep forefoot
 id: 03550e49-4038-44e8-81ec-bc36c40de645
 length_on_deck: 15.8496
-mainsail_type: gaff
-name: Speedwell
-oga_no: 547
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 491
-  member: 4686
+- id: 491
   share: 64
   start: 2006
+  member: 4686
+  current: true
 place_built: Burnham on Crouch
-rig_type: Ketch
-short_description: <p>Originally built as a motor oyster dredger for use on the East
-  Coast rivers, &#39;Speedwell&#39; is now rigged as a ketch and sails on the Solent.</p>
 updated_at: '2021-12-19T13:38:45.453651+00:00'
 website: ''
 year: 1908
 year_is_approximate: false
+image_key: DhXqNW
+construction_details: Carvel pitch pine on oak
+beam: 4.2672
+for_sale_state:
+  text: not_for_sale

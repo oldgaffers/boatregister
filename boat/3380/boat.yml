@@ -1,11 +1,9 @@
-builder: 0f2eea77-cd93-433b-94c3-a9c195864bd8
-callsign: ''
-construction_material: grp
-construction_method: clinker
-designer: eb88b861-9e90-4673-9cbc-1227c2df737f
-draft: 0.1524
-engine_installations: []
-for_sales: []
+name: Tournesol
+oga_no: 3380
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gunter
+short_description: <p>&#39;Tournesol&#39; is a Tideway 12 dinghy built in 2005</p>
 full_description: "<p>&#39;Tournesol&#39; is a Tideway 12ft GRP reproduction of a\
   \ Lew Walker designed Walker 12ft dinghy first designed and built by Lew Walker\
   \ in the early 1950s at Leigh on Sea.</p>\r\n\r\n<p>She is a gunter rigged sloop\
@@ -15,32 +13,46 @@ full_description: "<p>&#39;Tournesol&#39; is a Tideway 12ft GRP reproduction of 
   \ href=\"http://www.tidewaydinghy.org\" target=\"_blank\">Tideway Dinghy Owners&#39;\
   \ Association</a> and <a href=\"http://www.tidewaydinghies.co.uk/\" target=\"_blank\"\
   >Tideway Dinghies</a> for more information about these boats.</p>"
-generic_type: Dinghy
+builder:
+  name: Tideways Dinghies
+  id: 0f2eea77-cd93-433b-94c3-a9c195864bd8
+designer:
+  name: Lew Walker
+  id: eb88b861-9e90-4673-9cbc-1227c2df737f
+construction_material: grp
+construction_method: clinker
+draft: 0.1524
+engine_installations: []
+for_sales: []
 handicap_data:
-  draft_keel_down: 0.9144
-  length_on_waterline: 3.4534
-  length_overall: 3.6576
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 0
+  moving_keel: true
+  length_overall: 3.6576
+  draft_keel_down: 0.9144
+  moving_keel_type: Centreboard
+  length_on_waterline: 3.4534
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 45c420a0-6586-4662-ad21-236600817ea9
 length_on_deck: 3.6576
-mainsail_type: gunter
-name: Tournesol
-oga_no: 3380
+callsign: ''
 ownerships:
-- current: true
-  id: 1011
-  member: 6250
+- id: 1011
   share: 64
   start: 2005
+  member: 6250
+  current: true
 place_built: Leigh on Sea
-rig_type: Sloop
-short_description: <p>&#39;Tournesol&#39; is a Tideway 12 dinghy built in 2005</p>
 updated_at: '2021-12-19T13:40:09.365357+00:00'
 website: ''
 year: 2005
 year_is_approximate: false
+image_key: hkhcr4
+construction_details: Simulated clinker GRP with mahogany thwarts and gunwhales
+beam: 1.524
+design_class:
+  name: Tideway 12
+  id: 44264997-3e5a-4718-a1ff-6dbcd135f3ce
+for_sale_state:
+  text: not_for_sale

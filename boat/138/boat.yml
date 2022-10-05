@@ -1,29 +1,41 @@
-builder: e5c00172-7ec2-4bc9-9979-d47454b84ba4
-callsign: ''
+name: Agility
+oga_no: 138
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: For Sale Log Dec 2001 Reregistered March 2009
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+designer:
+  name: A.R. Curjel
+  id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
 construction_material: wood
 construction_method: unknown
-designer: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: For Sale Log Dec 2001 Reregistered March 2009
-generic_type: Yacht
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: f57f5575-f434-4b30-bd5b-351d13a89ca3
 length_on_deck: 0
-mainsail_type: gaff
-name: Agility
-oga_no: 138
+reference:
+- 'Log Dec 2001 '
+callsign: ''
 ownerships:
 - name: John Lawson
   share: 64
   start: 2012
 place_built: Woodbridge
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:33.598418+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+beam: 0
+design_class:
+  name: Deben Cherub
+  id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
+for_sale_state:
+  text: not_for_sale

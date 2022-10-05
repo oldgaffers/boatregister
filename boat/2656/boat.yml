@@ -1,12 +1,18 @@
-builder: 4d6b4e42-14da-4d94-acc7-476929a1316f
-callsign: ''
+name: Peapod
+oga_no: 2656
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: Balance lug, sail sleved on to yard and boom. Sold C'05
+builder:
+  name: Heyland Marine
+  id: 4d6b4e42-14da-4d94-acc7-476929a1316f
 construction_material: grp
 construction_method: cold_moulded
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Balance lug, sail sleved on to yard and boom. Sold C'05
-generic_type: unknown
 handicap_data:
   beam: 1.4478176054620824
   length_over_all: 3.5052426237503047
@@ -15,13 +21,14 @@ home_port: ''
 hull_form: unknown
 id: 29127a4e-a5a3-4271-a4c1-5898a30220c6
 length_on_deck: 3.5052
-mainsail_type: lug
-name: Peapod
-oga_no: 2656
+sail_number: '114'
+callsign: ''
 place_built: Bourne End
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:45:35.98548+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+construction_details: GRP
+beam: 1.4478
+for_sale_state:
+  text: not_for_sale

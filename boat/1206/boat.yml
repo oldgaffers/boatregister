@@ -1,45 +1,55 @@
-builder: 34242280-86c2-4f9d-893f-49ff76fc5cfd
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: c2cc3788-aa39-4e51-a2d8-d4a078e37d26
-draft: 1.1582
-engine_installations: []
-for_sales: []
+name: Caprice
+oga_no: 1206
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Sailed to Lisbon by Cdr Menhinic(owner) and Neville Shute in 1950's.
   Had 2 Months and decided to sail as far as they could 1 month there and one back
   Boat equipped with baby blake,single primus gimbled, bucket, book shelf, cutlery
   draw, boxed compass, gimbled oil lamp, oil nav lights, small table.  recalculate
   handicap Mashford 20's were built by apprentices from leftovers of wood. Caprice
   is an early example with transom later ones were double enders.
-generic_type: Yacht
+builder:
+  name: Mashford Bros.
+  id: 34242280-86c2-4f9d-893f-49ff76fc5cfd
+designer:
+  name: Mashford
+  id: c2cc3788-aa39-4e51-a2d8-d4a078e37d26
+construction_material: wood
+construction_method: unknown
+draft: 1.1582
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
-  draft: 1.1582540843696658
-  fore_triangle_base: 2.9261155815654716
-  length_on_waterline: 5.7912704218483295
-  length_over_all: 6.0960741282613995
   main:
     foot: 3.910631553279688
     head: 2.6213118751524016
     luff: 3.0480370641306997
   thcf: 0.804360755
+  draft: 1.1582540843696658
+  length_over_all: 6.0960741282613995
+  fore_triangle_base: 2.9261155815654716
+  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 93f54a32-48e8-479c-b9ca-0668fccfb50b
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Caprice
-oga_no: 1206
+callsign: ''
 ownerships:
 - name: D G Rothwell
   share: 64
   start: 2012
 place_built: Plymouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:04.72166+00:00'
 website: ''
 year: 1934
 year_is_approximate: false
+beam: 2.1336
+design_class:
+  name: Mashford 20
+  id: 9949b9cd-0427-4992-abd9-8bced0e6bdd7
+for_sale_state:
+  text: not_for_sale

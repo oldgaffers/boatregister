@@ -1,30 +1,38 @@
-builder: b54f18a6-4887-4163-9c95-30d09792d098
-callsign: ''
+name: Georgina
+oga_no: 3371
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: <p>Georgina is a Westerly Warwick</p>
+full_description: ''
+builder:
+  name: Westerly Marine
+  id: b54f18a6-4887-4163-9c95-30d09792d098
+designer:
+  name: Laurent Giles Ltd
+  id: 098ad4e9-d178-4c90-bd2e-b6793ffc6fc4
 construction_material: grp
 construction_method: cold_moulded
-designer: 098ad4e9-d178-4c90-bd2e-b6793ffc6fc4
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: GBR
 home_port: Southampton
 hull_form: unknown
 id: cce71b01-c7f8-496d-ba21-5c38cd03e420
 length_on_deck: 0
-mainsail_type: bermudan
-name: Georgina
-oga_no: 3371
+callsign: ''
 ownerships:
-- current: true
-  id: 405
-  member: 4211
+- id: 405
   share: 64
   start: 2013
-rig_type: Sloop
-short_description: <p>Georgina is a Westerly Warwick</p>
+  member: 4211
+  current: true
 updated_at: '2021-12-19T13:40:09.110391+00:00'
 website: ''
 year: 1971
 year_is_approximate: false
+construction_details: GRP construction bilge keel yacht
+beam: 0
+for_sale_state:
+  text: not_for_sale

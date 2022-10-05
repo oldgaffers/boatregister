@@ -1,13 +1,21 @@
-builder: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
-callsign: ''
+name: Dengie Coot
+oga_no: 2730
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Hull no 1383
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+designer:
+  name: S.C. Latimer
+  id: 2e04b425-6e0d-4d2d-aedb-66f81082f9cd
 construction_material: wood
 construction_method: unknown
-designer: 2e04b425-6e0d-4d2d-aedb-66f81082f9cd
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Hull no 1383
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
   length_over_all: 6.0960741282613995
@@ -16,17 +24,16 @@ home_port: Harwich
 hull_form: unknown
 id: 1763d68e-8273-462c-909b-87711fa654b5
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Dengie Coot
-oga_no: 2730
+callsign: ''
 ownerships:
 - name: Mr R Fenton
   share: 64
   start: 2012
 place_built: Canvey Island
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:47.659131+00:00'
 website: ''
 year: 1954
 year_is_approximate: false
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

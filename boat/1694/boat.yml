@@ -1,30 +1,40 @@
-builder: 06a83852-807b-4786-a8cd-65ae8c3defe7
-callsign: ''
+name: Helen III
+oga_no: 1694
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log Au/93
+builder:
+  name: F.J. Crossfield
+  id: 06a83852-807b-4786-a8cd-65ae8c3defe7
+designer:
+  name: F.J. Crossfield
+  id: b7d3cd5a-0024-4dbe-ba73-b59c9882e6b1
 construction_material: wood
 construction_method: carvel
-designer: b7d3cd5a-0024-4dbe-ba73-b59c9882e6b1
 draft: 1.143
 engine_installations: []
 for_sales: []
-full_description: Log Au/93
-generic_type: unknown
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.1430138990490124
-  length_on_waterline: 8.83930748597903
   length_over_all: 10.006705681541087
+  length_on_waterline: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 1b5f8418-41bb-429a-9737-f81106c141d9
 length_on_deck: 10.0066
-mainsail_type: gaff
-name: Helen III
-oga_no: 1694
+reference:
+- Log Aug 93
+callsign: ''
 place_built: Arnside
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-23T08:38:13.181598+00:00'
 website: ''
 year: 1938
 year_is_approximate: false
+construction_details: Carvel pitch pine on grown oak frames, doubled amidships
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

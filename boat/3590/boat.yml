@@ -1,7 +1,9 @@
-construction_material: wood
-construction_method: clinker
-engine_installations: []
-for_sales: []
+name: Princess Ida
+oga_no: 3590
+generic_type: Dinghy
+rig_type: single_sail
+mainsail_type: standing_lug
+short_description: <p>Under going restoration by Mike Cottam Southport</p>
 full_description: "<p>In 1899 the decision was first made to adopt a new class of\
   \ boat for Hoylake Sailing Club. &nbsp;The gaff rigged, 16 foot clinker boats were\
   \ developed from a design by Captain Winchester, a club member, and built by Alex\
@@ -13,7 +15,10 @@ full_description: "<p>In 1899 the decision was first made to adopt a new class o
   La Poupee\u2019 on display in the Merseyside Maritime Museum. &nbsp;The class has\
   \ therefore stood the test of time although some boats have been inevitably been\
   \ lost over intervening years.</p>"
-generic_type: Dinghy
+construction_material: wood
+construction_method: clinker
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.7069007559131917
 home_country: Lancashire
@@ -21,18 +26,16 @@ home_port: Southport
 hull_form: centre-board dinghy
 id: b692f84a-cab8-4658-b07c-ce0ac1e9b559
 length_on_deck: 4.87685930260912
-mainsail_type: standing_lug
-name: Princess Ida
-oga_no: 3590
+sail_number: '7'
+spar_material: wood
 ownerships:
-- current: true
-  id: 34922
-  member: 6522
+- id: 34922
   share: 64
+  member: 6522
+  current: true
   start: '?'
 place_built: Hoylake
-rig_type: single_sail
-short_description: <p>Under going restoration by Mike Cottam Southport</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 1911
 year_is_approximate: true
+image_key: BzkZC9

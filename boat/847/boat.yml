@@ -1,49 +1,56 @@
-callsign: ''
+name: Three Brothers
+oga_no: 847
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: carvel
 draft: 1.524
 engine_installations: []
 for_sales:
 - asking_price: 9000
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.8956352109241648
-  draft: 1.5240185320653499
-  fore_triangle_base: 5.334064862228725
-  fore_triangle_height: 12.192148256522799
-  length_on_waterline: 8.22970007315289
-  length_over_all: 8.53450377956596
   main:
     foot: 5.9436722750548645
     head: 4.26725188978298
     luff: 5.029261155815655
-  propellor:
-    type: fixed
   thcf: 0.981417465
+  draft: 1.5240185320653499
   topsail:
     luff: 4.57205559619605
     perpendicular: 3.2004389173372347
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 5.334064862228725
+  length_on_waterline: 8.22970007315289
+  fore_triangle_height: 12.192148256522799
 home_country: GBR
 home_port: Littlehampton
 hull_form: long keel deep forefoot
 id: 59a280e1-5c59-46d6-be6f-18c975529dd2
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Three Brothers
-oga_no: 847
+callsign: ''
 ownerships:
 - name: Alan Rockall
   share: 64
   start: 1976
-- current: true
-  id: 78
-  member: 1598
+- id: 78
   share: 64
+  member: 1598
+  current: true
   start: '?'
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:54.092412+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+previous_names:
+- Lady Betty
+image_key: fVsCnM
+construction_details: Carvel pine on oak sawn frames, iron fastened
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

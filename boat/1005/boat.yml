@@ -1,47 +1,58 @@
-builder: ceeba774-b0f8-48a9-a036-732b70c8a35f
-callsign: ''
+name: Verity of Mylor
+oga_no: 1005
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: for sale on web, Nov 06, New owner notified May 07
+builder:
+  name: Terry Heard
+  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: grp
 construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.4996
 engine_installations: []
 for_sales: []
-full_description: for sale on web, Nov 06, New owner notified May 07
-generic_type: Yacht
 handicap_data:
   beam: 2.950499878078517
-  draft: 1.4996342355523042
-  fore_triangle_base: 5.8705193855157285
-  fore_triangle_height: 9.32089734211168
-  length_on_waterline: 8.299804925627896
-  length_over_all: 8.494879297732261
   main:
     foot: 5.651060716898317
     head: 4.849426969031943
     luff: 5.248719824433064
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.972291036
+  draft: 1.4996342355523042
   topsail:
     luff: 5.721165569373323
     perpendicular: 2.1488661302121432
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 8.494879297732261
+  fore_triangle_base: 5.8705193855157285
+  length_on_waterline: 8.299804925627896
+  fore_triangle_height: 9.32089734211168
 home_country: 'null'
 home_port: ' '
 hull_form: long keel deep forefoot
 id: c4887208-3eb7-4e6a-bcd9-7aaa24bd2bd3
 length_on_deck: 8.4948
-mainsail_type: gaff
-name: Verity of Mylor
-oga_no: 1005
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Homme Zwaagstra
   share: 64
   start: 2012
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:58.546134+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+beam: 2.9505
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
+for_sale_state:
+  text: not_for_sale

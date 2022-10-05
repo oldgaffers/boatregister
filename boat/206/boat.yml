@@ -1,34 +1,37 @@
-callsign: ''
+name: Venturer
+oga_no: 206
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 7.620092660326749
   main:
     foot: 0
   sailarea: 2.043916587749189
+  length_over_all: 7.620092660326749
+  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 3c461233-a826-4c14-969f-5aaf56d3b9a6
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Venturer
-oga_no: 206
+callsign: ''
 ownerships:
 - name: B J Ware
   share: 64
   start: 2012
 place_built: Tollesbury
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:35.564157+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

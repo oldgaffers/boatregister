@@ -1,30 +1,39 @@
-builder: 7e96a021-bb79-483d-9715-f53065a3871d
-callsign: ''
+name: Avena
+oga_no: 1856
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Whisstocks Boatyard
+  id: 7e96a021-bb79-483d-9715-f53065a3871d
+designer:
+  name: William Maxwell Blake
+  id: 7be4728c-aec1-4b98-9245-33fa05964add
 construction_material: wood
 construction_method: carvel
-designer: 7be4728c-aec1-4b98-9245-33fa05964add
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   draft: 1.066812972445745
-  length_on_waterline: 5.7912704218483295
   length_over_all: 6.858083394294074
+  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: Great Yarmouth
 hull_form: unknown
 id: 89a8be06-5af3-45b0-85db-11ab6e71d537
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Avena
-oga_no: 1856
+uk_part1: '185676'
+callsign: ''
 place_built: Woodbridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-23T08:38:13.181598+00:00'
 website: ''
 year: 1950
 year_is_approximate: false
+construction_details: Carvel Mahogany on oak
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

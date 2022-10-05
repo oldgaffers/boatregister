@@ -1,12 +1,10 @@
-builder: c1493bc6-547f-41fa-9568-c4067ba0baeb
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 65f5f8f5-cb92-47c1-8c77-03cbd269ce0b
-draft: 1.524
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Rowan IV
+oga_no: 3322
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Rowan IV&#39; was built in 1938 on the lines of a Loch
+  Fyne skiff.</p>
 full_description: "<p>&#39;Rowan IV&#39; is an attractive and classic boat, well known\
   \ in the west of Scotland. She was designed by James McGruer and built at McGruer\
   \ and Co. of Clynder in 1938. 2017 finds her wintering in a shed at Rosneath, some\
@@ -123,31 +121,42 @@ full_description: "<p>&#39;Rowan IV&#39; is an attractive and classic boat, well
   \ throughout.</p>\r\n\r\n<p>Batteries. Two sealed lead acid batteries, both the\
   \ same. NUMAX, XV27MF &lsquo;Sealed leisure Battery&rsquo; 100AH. Fixed under seat\
   \ at forward starboard part of cockpit.</p>"
-generic_type: Yacht
+builder:
+  name: McGruer
+  id: c1493bc6-547f-41fa-9568-c4067ba0baeb
+designer:
+  name: McGruer
+  id: 65f5f8f5-cb92-47c1-8c77-03cbd269ce0b
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
-  length_on_waterline: 7.9248
-  length_over_spars: 9.906
-  length_overall: 8.9916
   sailarea: 4
+  length_overall: 8.9916
+  length_over_spars: 9.906
+  length_on_waterline: 7.9248
 home_country: GBR
 home_port: Rosneath, Gareloch
 hull_form: long keel deep forefoot
 id: d0f73528-b01c-442f-9dcb-c3867bd48db4
 length_on_deck: 8.9916
-mainsail_type: gaff
-name: Rowan IV
-oga_no: 3322
+callsign: ''
 ownerships:
-- current: true
-  id: 917
-  member: 6068
+- id: 917
   share: 64
+  member: 6068
+  current: true
   start: '?'
 place_built: Clynder
-rig_type: Sloop
-short_description: <p>&#39;Rowan IV&#39; was built in 1938 on the lines of a Loch
-  Fyne skiff.</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 website: ''
 year: 1938
 year_is_approximate: false
+image_key: 8Xrb2V
+construction_details: Carvel - mahogany on oak frames
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

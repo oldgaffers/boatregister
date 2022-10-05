@@ -1,34 +1,46 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+name: Julia Neal
+oga_no: 3538
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Cornish shrimper from cornish crabbers of Rock
+full_description: Shrimper 19
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 engine_installations: []
 for_sales: []
-full_description: Shrimper 19
-generic_type: Yacht
 handicap_data:
   beam: 2.1854425749817117
-  draft: 0.4815898561326506
-  draft_keeldown: 1.21921482565228
-  fore_triangle_base: 2.8194342843208973
-  fore_triangle_height: 4.114850036576445
-  length_on_waterline: 5.334064862228725
-  length_over_all: 5.867471348451597
   main:
     foot: 3.5052426237503047
     head: 3.0998536942209216
     luff: 3.3528407705437697
   thcf: 0.82707181
+  draft: 0.4815898561326506
+  draft_keeldown: 1.21921482565228
+  length_over_all: 5.867471348451597
+  fore_triangle_base: 2.8194342843208973
+  length_on_waterline: 5.334064862228725
+  fore_triangle_height: 4.114850036576445
 home_country: United Kingdom
 home_port: 'Helford '
 hull_form: centre-boarder
 id: 2dbcf4fc-4cca-46f3-88ec-9bc43b910510
-mainsail_type: gaff
-name: Julia Neal
-oga_no: 3538
+spar_material: wood
 place_built: Rock
-rig_type: Sloop
-short_description: Cornish shrimper from cornish crabbers of Rock
 updated_at: '2021-04-15T20:47:35.807561+00:00'
 year: 1990
 year_is_approximate: false
+previous_names:
+- Diedre
+image_key: 5Xnzth
+beam: 2.1854
+design_class:
+  name: Cornish Shrimper
+  id: 7caf07ef-acf3-434b-a639-5c94188071a8

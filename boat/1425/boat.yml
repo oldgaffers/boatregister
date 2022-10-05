@@ -1,13 +1,20 @@
-builder: 9d16e246-571c-4905-a47b-2ddcf729f77a
-callsign: ''
+name: Solace
+oga_no: 1425
+generic_type: Yacht
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Dave Berry
+  id: 9d16e246-571c-4905-a47b-2ddcf729f77a
+designer:
+  name: N.W.J. Hunt
+  id: 1aa14da1-eae0-4edd-995c-026695999e67
 construction_material: grp
 construction_method: cold_moulded
-designer: 1aa14da1-eae0-4edd-995c-026695999e67
 draft: 0.9662
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.4902462813947817
   draft: 0.9662277493294318
@@ -17,16 +24,17 @@ home_port: ''
 hull_form: unknown
 id: 199cece5-0901-41c0-8525-2f7f61de6c64
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Solace
-oga_no: 1425
+callsign: ''
 ownerships:
 - name: I R & G E Bayliss
   share: 64
   start: 2012
 place_built: Acle, Norwich
-short_description: ''
 updated_at: '2021-12-19T13:39:10.939638+00:00'
 website: ''
 year: 1988
 year_is_approximate: false
+construction_details: GRP hull & deck with mahogany superstructure and wooden spars
+beam: 2.4902
+for_sale_state:
+  text: not_for_sale

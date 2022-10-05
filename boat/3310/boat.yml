@@ -1,46 +1,58 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Blackjack
+oga_no: 3310
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Blackjack is a Cornish Shrimper 21</p>
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray/David Thomas Yachts
+  id: 7d1ad008-4263-419d-8843-d466ded0ec2c
 construction_material: grp
 construction_method: cold_moulded
-designer: 7d1ad008-4263-419d-8843-d466ded0ec2c
 draft: 0.57
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.854
-  draft_keel_down: 1.3503
-  fore_triangle_base: 3.0297
-  fore_triangle_height: 5.6601
-  length_on_waterline: 6.099
-  length_over_spars: 7.5712
-  length_overall: 6.4008
   main:
     foot: 12.7
     head: 10.89
     luff: 13.68
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 6
+  moving_keel: true
+  length_overall: 6.4008
+  calculated_thcf: 0.854
+  draft_keel_down: 1.3503
+  moving_keel_type: Centreboard
+  length_over_spars: 7.5712
+  fore_triangle_base: 3.0297
+  length_on_waterline: 6.099
+  fore_triangle_height: 5.6601
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: b2bda74c-f824-4934-abb0-838d8c682bf7
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Blackjack
-oga_no: 3310
+sail_number: '12'
+callsign: ''
 ownerships:
-- current: true
-  id: 607
-  member: 5210
+- id: 607
   share: 64
   start: 2015
+  member: 5210
+  current: true
 place_built: Rock
-rig_type: Sloop
-short_description: <p>Blackjack is a Cornish Shrimper 21</p>
 updated_at: '2021-12-19T13:40:07.216123+00:00'
 website: ''
 year: 2015
 year_is_approximate: false
+construction_details: Hull GRP solid laminate. Deck GRP with balsa core
+beam: 2.3988
+design_class:
+  name: Cornish Shrimper 21
+  id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4
+for_sale_state:
+  text: not_for_sale

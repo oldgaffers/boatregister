@@ -1,34 +1,41 @@
-builder: c42a9f34-ed3d-4b18-a79e-2ef78e49687a
-callsign: ''
+name: Susan Mary
+oga_no: 1080
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Pearce
+  id: c42a9f34-ed3d-4b18-a79e-2ef78e49687a
+designer:
+  name: Pearce
+  id: 47842cbc-2080-4f9e-8c82-1abbb0fda7f4
 construction_material: wood
 construction_method: unknown
-designer: 47842cbc-2080-4f9e-8c82-1abbb0fda7f4
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.2004389173372347
   draft: 1.066812972445745
-  length_on_waterline: 9.23555230431602
   length_over_all: 10.66812972445745
+  length_on_waterline: 9.23555230431602
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 4a26b823-329a-4987-ae81-08d3487b01ad
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Susan Mary
-oga_no: 1080
+callsign: ''
 ownerships:
 - name: D R Comer
   share: 64
   start: 2012
 place_built: Looe
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:00.89713+00:00'
 website: ''
 year: 1917
 year_is_approximate: false
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

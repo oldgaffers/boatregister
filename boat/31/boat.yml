@@ -1,34 +1,49 @@
-builder: a0fb014b-5bc9-4db7-b639-37dbecd7cde8
-callsign: ''
+name: Dawn
+oga_no: 31
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Dawn is a Thames Estuary One Design</p>
+full_description: Log 74/2 Gunter sloop 3/4 deck
+builder:
+  name: H.E. Cole
+  id: a0fb014b-5bc9-4db7-b639-37dbecd7cde8
+designer:
+  name: Morgan Giles
+  id: f1bc585c-9638-4fd8-8fc7-f382b028513c
 construction_material: wood
 construction_method: clinker
-designer: f1bc585c-9638-4fd8-8fc7-f382b028513c
 draft: 0.4054
 engine_installations: []
 for_sales: []
-full_description: Log 74/2 Gunter sloop 3/4 deck
-generic_type: Dinghy
 handicap_data:
   beam: 1.8288222384784198
   draft: 0.396244818336991
-  length_on_waterline: 5.120702267739576
   length_over_all: 5.4864667154352595
+  length_on_waterline: 5.120702267739576
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: b27646c6-cde6-42d4-82b4-4935fbf11ec7
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: Dawn
-oga_no: 31
+reference:
+- Log 74/2
+spar_material: wood
+callsign: ''
 ownerships:
 - name: P J T Millen
   share: 64
   start: 1974
 place_built: Leigh on Sea
-rig_type: Sloop
-short_description: <p>Dawn is a Thames Estuary One Design</p>
 updated_at: '2021-12-19T13:38:30.577156+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+image_key: XDJdMs
+construction_details: clinker
+beam: 1.8288
+design_class:
+  name: Thames Estuary OD
+  id: 2bba407e-7ddd-42fa-ad7c-b3807aeb5275
+for_sale_state:
+  text: not_for_sale

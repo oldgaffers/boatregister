@@ -1,10 +1,10 @@
-builder: 7bf06054-c71a-48fa-8e9d-48958aa5b431
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 1.0668
-engine_installations: []
-for_sales: []
+name: Madeline
+oga_no: 84
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built c.1896, there are some gaps in what we know about &#39;Madeline&#39;
+  . . .&nbsp;</p>
 full_description: "<p>&#39;Madeline&#39; sailed with the East Coast OGA during the\
   \ 1970s and 1980s, but hasn&#39;t been seen for a number of years. In mid-December\
   \ 2018 the Boat Register Editor was asked for informaiton about a boat in St Malo\
@@ -66,27 +66,38 @@ full_description: "<p>&#39;Madeline&#39; sailed with the East Coast OGA during t
   \ of the original 23 having stuck it out for nearly 10 hours. But it had ben one\
   \ of those very rare (for 1988) days when the sun shone from sunrise to sunset,\
   \ more enjoyment than hardship for once! Madeline took seventh place.</p>\r\n</blockquote>"
-generic_type: Smack
+builder:
+  name: J.W. James
+  id: 7bf06054-c71a-48fa-8e9d-48958aa5b431
+construction_material: wood
+construction_method: carvel
+draft: 1.0668
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.590831504511095
   draft: 1.066812972445745
-  length_on_waterline: 7.924896366739819
-  length_over_all: 9.1441111923921
   propellor:
     type: fixed
+  length_over_all: 9.1441111923921
+  length_on_waterline: 7.924896366739819
 home_country: FRA
 home_port: St Malo
 hull_form: long keel deep forefoot
 id: a0acbc10-f4e1-458c-a7a5-fd878052c601
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Madeline
-oga_no: 84
+reference:
+- Log Mar 2019
+callsign: ''
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: <p>Built c.1896, there are some gaps in what we know about &#39;Madeline&#39;
-  . . .&nbsp;</p>
 updated_at: '2021-03-26T07:56:05.788859+00:00'
 website: ''
 year: 1896
 year_is_approximate: false
+previous_names:
+- Madeleine
+image_key: GGjNjD
+construction_details: Carvel pine on oak, alternate bent frames, lead ballast keel
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

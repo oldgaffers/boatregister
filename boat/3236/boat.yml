@@ -1,10 +1,11 @@
-builder: f1340885-9432-4bde-ad18-1b7553df83dc
-callsign: ZNLJ4
-construction_material: wood
-construction_method: carvel
-draft: 2.0574
-engine_installations: []
-for_sales: []
+name: Our Daddy
+oga_no: 3236
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Our Daddy is a fishing lugger, built for AJ Pengelly of Looe.
+  She was the last sailing fishing boat from a Looe yard. She ihas a gaff rigged main
+  and lug sail on the mizzen mast.</p>
 full_description: "<p>Our Daddy was built for AJ Pengelly of Looe as the last sailing\
   \ fishing boat built from a Looe yard by Dick Pearce. She fished until the mid 1970s\
   \ and then became a shark fishing day boat skippered by Terry Pengelly.</p>\r\n\r\
@@ -14,33 +15,40 @@ full_description: "<p>Our Daddy was built for AJ Pengelly of Looe as the last sa
   \ and then bought by Steve Styles and Tim Sunderland in 2013.</p>\r\n\r\n<p>2015\
   \ finds her in refit at Brixham and will again be working as a charted boat in the\
   \ South West of England.</p>"
-generic_type: unknown
+builder:
+  name: R. Pearce
+  id: f1340885-9432-4bde-ad18-1b7553df83dc
+construction_material: wood
+construction_method: carvel
+draft: 2.0574
+engine_installations: []
+for_sales: []
 handicap_data:
-  length_on_waterline: 13.716
-  length_over_spars: 22.86
   length_overall: 13.716
+  length_over_spars: 22.86
+  length_on_waterline: 13.716
 home_country: GBR
 home_port: Brixham
 hull_form: long keel deep forefoot
 id: 2c494121-56f7-4082-b715-498c94837486
 length_on_deck: 13.716
-mainsail_type: gaff
-name: Our Daddy
-oga_no: 3236
+sail_number: FY7
+callsign: ZNLJ4
 ownerships:
 - name: Steve Styles and Tim Sunderland
   share: 64
   start: 2013
-- current: true
+- share: 64
   member: 5947
-  share: 64
+  current: true
   start: '?'
 place_built: Looe
-rig_type: Ketch
-short_description: <p>Our Daddy is a fishing lugger, built for AJ Pengelly of Looe.
-  She was the last sailing fishing boat from a Looe yard. She ihas a gaff rigged main
-  and lug sail on the mizzen mast.</p>
 updated_at: '2021-12-19T13:40:04.956862+00:00'
 website: http://www.our-daddy-classicsailing.com
 year: 1921
 year_is_approximate: false
+image_key: HgdngN
+construction_details: Larch on Oak frames. Carvel planked, tight seamed.
+beam: 0
+for_sale_state:
+  text: not_for_sale

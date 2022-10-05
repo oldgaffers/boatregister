@@ -1,11 +1,9 @@
-builder: c89ec86a-f833-4cf0-81db-2da01d3ef74a
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: e90fa3e6-7a57-44ea-9377-419ef9fd1197
-draft: 1.271
-engine_installations: []
-for_sales: []
+name: Alert
+oga_no: 3250
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: <p>Alert is a Tumlare built in 1935.</p>
 full_description: "<p>In 1935 the Aldeburgh Yacht Club Members, encouraged by Uffa\
   \ Fox bought six Tumlares.</p>\r\n\r\n<p>&#39;Zest&#39; (Roger de Qunicey) was later\
   \ owned by Adlard Coles in the late 1930s, (Jill R.H.Pershouse), &#39;Zara&#39;\
@@ -17,27 +15,36 @@ full_description: "<p>In 1935 the Aldeburgh Yacht Club Members, encouraged by Uf
   \ Hubber for &pound;7,000 by John Mann. She was restored by B.D. Isassacs of BDI,\
   \ 1996-7.</p>\r\n\r\n<p>In 2015 her engine was removed and the interior modified,\
   \ keel bolts were replaced and the forestay repositioned.</p>"
-generic_type: Yacht
+builder:
+  name: Knud Reimers
+  id: c89ec86a-f833-4cf0-81db-2da01d3ef74a
+designer:
+  name: Knud Reimers
+  id: e90fa3e6-7a57-44ea-9377-419ef9fd1197
+construction_material: wood
+construction_method: carvel
+draft: 1.271
+engine_installations: []
+for_sales: []
 handicap_data:
-  length_on_waterline: 6.858
-  length_over_spars: 8.4338
-  length_overall: 8.4338
   sailarea: 6
+  length_overall: 8.4338
+  length_over_spars: 8.4338
+  length_on_waterline: 6.858
 home_country: GBR
 home_port: Fowey
 hull_form: cut_away_stem
 id: 656d527b-b4c9-4165-8096-a272439d26e1
 length_on_deck: 8.4338
-mainsail_type: bermudan
-name: Alert
-oga_no: 3250
+sail_number: K30
+callsign: ''
 ownerships:
 - note: First owner Sir Ernest Roney.
   text: First owner Sir Ernest Roney.
 - note: Owned 1966/7 to 1974 by David McLean.
+  text: Owned
   start: 1966
   start_is_approximate: false
-  text: Owned
 - end: 2012
   name: John Mann
   share: 64
@@ -45,15 +52,21 @@ ownerships:
 - name: Rees Martin
   share: 64
   start: 2013
-- current: true
-  id: 639
-  member: 5397
+- id: 639
   share: 64
+  member: 5397
+  current: true
   start: '?'
 place_built: Stockholm
-rig_type: Sloop
-short_description: <p>Alert is a Tumlare built in 1935.</p>
 updated_at: '2021-12-19T13:40:05.240641+00:00'
 website: ''
 year: 1935
 year_is_approximate: false
+image_key: 7T7qFb
+construction_details: Carvel lead keel
+beam: 1.905
+design_class:
+  name: Tumlare
+  id: 2d2beb92-1df0-4a27-8bf7-27adc1f6e049
+for_sale_state:
+  text: not_for_sale

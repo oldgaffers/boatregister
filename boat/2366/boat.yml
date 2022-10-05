@@ -1,12 +1,18 @@
-callsign: ''
+name: Hazel
+oga_no: 2366
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
+designer:
+  name: Malcolm Goodwin
+  id: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
 construction_material: wood
 construction_method: unknown
-designer: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.3960009753718605
   length_over_all: 2.7432333577176298
@@ -15,20 +21,19 @@ home_port: Preston
 hull_form: unknown
 id: 3c57a0f4-e230-452c-802f-06f3cf1ee3c5
 length_on_deck: 2.7432
-mainsail_type: lug
-name: Hazel
-oga_no: 2366
+callsign: ''
 ownerships:
 - name: Jason Winstanley
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 3786
-  share: 64
+  current: true
   start: '?'
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:36.858146+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+beam: 1.396
+for_sale_state:
+  text: not_for_sale

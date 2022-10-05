@@ -1,12 +1,9 @@
-builder: 0eb139e6-d991-4c98-90d0-b917c91e12c0
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 7be4728c-aec1-4b98-9245-33fa05964add
-draft: 1.0668
-engine_installations: []
-for_sales:
-- asking_price: 3000
+name: Inanda
+oga_no: 788
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Inanda is a Deben four-tonner, built at Woodbridge in 1949.</p>
 full_description: "Gaff cutter 'Inanda' was built by Whisstocks in 1949 and is the\
   \ roomier version that had an extra plank added to her shear as most did after the\
   \ war. She is a sturdy little pocket cruiser in very good sound condition having\
@@ -18,29 +15,40 @@ full_description: "Gaff cutter 'Inanda' was built by Whisstocks in 1949 and is t
   \ port is a two burner Origo meths stove. To starboard there is\_a hanging locker.\
   \ 'Inanda' sails really well for her size and has competed successfully in local\
   \ OGA races."
-generic_type: Yacht
+builder:
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+designer:
+  name: William Maxwell Blake
+  id: 7be4728c-aec1-4b98-9245-33fa05964add
+construction_material: wood
+construction_method: carvel
+draft: 1.0668
+engine_installations: []
+for_sales:
+- asking_price: 3000
 handicap_data:
   beam: 2.13362594489149
-  draft: 1.066812972445745
-  fore_triangle_base: 3.9624481833699097
-  fore_triangle_height: 6.2484759814679345
-  length_on_waterline: 5.7912704218483295
-  length_over_all: 6.858083394294074
   main:
     foot: 4.754937820043891
     head: 4.038649109973177
     luff: 3.886247256766642
+  thcf: 0.888908785
+  draft: 1.066812972445745
   propellor:
     type: fixed
-  thcf: 0.888908785
+  length_over_all: 6.858083394294074
+  fore_triangle_base: 3.9624481833699097
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 6.2484759814679345
 home_country: GBR
 home_port: Pin Mill
 hull_form: long keel deep forefoot
 id: fa6f5336-fead-43f7-a144-60150ae6cf37
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Inanda
-oga_no: 788
+sail_number: '788'
+uk_part1: '182788'
+callsign: ''
 ownerships:
 - end: 2007
   name: Sally Pearce
@@ -55,9 +63,15 @@ ownerships:
   share: 64
   start: 2007
 place_built: Woodbridge
-rig_type: Cutter
-short_description: <p>Inanda is a Deben four-tonner, built at Woodbridge in 1949.</p>
 updated_at: '2021-12-19T13:38:52.34292+00:00'
 website: ''
 year: 1949
 year_is_approximate: false
+image_key: DRP9cB
+construction_details: Carvel, mahogany and pitch pine on oak
+beam: 2.1336
+design_class:
+  name: Deben 4 Ton
+  id: e1b81706-7e46-47fe-ab3e-d03afcb552ce
+for_sale_state:
+  text: not_for_sale

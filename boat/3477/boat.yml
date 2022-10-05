@@ -1,11 +1,10 @@
-builder: 57e22238-cdd2-4556-a3f3-ef834d765e07
-construction_material: wood
-construction_method: strip_planking
-designer: 30120c08-ecbb-43ac-91d2-f4e0cce3231f
-draft: 0.274
-engine_installations: []
-for_sales:
-- asking_price: 7000
+name: Doris
+oga_no: 3477
+generic_type: Dayboat
+rig_type: Yawl
+mainsail_type: lug
+short_description: <p>A Canoe Yawl designed by David Moss that has similarities to
+  George Holmes (eg EEL) and Albert Strange's Humber Yawls</p>
 full_description: '<p>Based quite closely on the Humber Canoe Yawls. Two lug sails,
   the mizzen set very close to the stern.</p><p>Fully decked with high combings and
   a raised seat for the helmsman on the side deck.</p><p>The very long centerboard
@@ -15,32 +14,43 @@ full_description: '<p>Based quite closely on the Humber Canoe Yawls. Two lug sai
   area is for the original dimensions but 2'' 3" have been removed from the luff /
   vertical hight of one main sail! There is still another full sized mainsail that
   is suitable for racing, the small sail is better for single handed sailing.</p>'
-generic_type: Dayboat
+builder:
+  name: David Moss Boatbuilders
+  id: 57e22238-cdd2-4556-a3f3-ef834d765e07
+designer:
+  name: David Moss
+  id: 30120c08-ecbb-43ac-91d2-f4e0cce3231f
+construction_material: wood
+construction_method: strip_planking
+draft: 0.274
+engine_installations: []
+for_sales:
+- asking_price: 7000
 handicap_data:
-  depth: 0.75
-  length_on_waterline: 4
-  length_over_spars: 5.334
   main:
     foot: 2.9
     head: 3.54
     luff: 1.6
+  depth: 0.75
   mizzen:
     foot: 1.55
     head: 1.74
     luff: 1.13
+  length_over_spars: 5.334
+  length_on_waterline: 4
 home_country: United Kingdom
 home_port: Windermere
 hull_form: centre-board dinghy
 id: 175cc576-612c-433c-b7d6-1a61ba02d5bc
 length_on_deck: 4.7244
-mainsail_type: lug
-name: Doris
-oga_no: 3477
+spar_material: wood
 ownerships: []
 place_built: Skippool Creek, Thornton, Lancashire
-rig_type: Yawl
-short_description: <p>A Canoe Yawl designed by David Moss that has similarities to
-  George Holmes (eg EEL) and Albert Strange's Humber Yawls</p>
 updated_at: '2022-01-21T17:57:47.984092+00:00'
 year: 2000
 year_is_approximate: false
+image_key: sZ9JwV
+construction_details: Strip planked.
+beam: 1.7
+for_sale_state:
+  text: not_for_sale

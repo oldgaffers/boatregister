@@ -1,30 +1,43 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
+name: Pooh bear
+oga_no: 3712
+generic_type: Dayboat
+rig_type: Ketch
+mainsail_type: gunter
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: grp
 construction_method: clinker
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 1.219
 engine_installations: []
 for_sales: []
-generic_type: Dayboat
 handicap_data:
   beam: 2.042
+  thcf: 0.814
+  sailarea: 15.98
+  propellor:
+    type: fixed
+    blades: 3
   length_on_deck: 6.614
   length_on_waterline: 5.486
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 15.98
-  thcf: 0.814
 home_country: Wales
 home_port: CARDIFF
 hull_form: centre-board dinghy
 id: e6cf1cfd-dd4c-4902-9a20-a1386c173cc9
 length_on_deck: 6.645
-mainsail_type: gunter
-name: Pooh bear
-oga_no: 3712
+sail_number: Nome
+spar_material: wood
 place_built: Uk
-rig_type: Ketch
 updated_at: '2022-08-26T12:07:20.73427+00:00'
 year: 1978
 year_is_approximate: true
+fishing_number: None
+image_key: Zf4Bj7
+design_class:
+  name: Drascombe Longboat
+  id: 4cdd2726-2dcf-4e73-bd5e-4dc8ff64d4f5
+for_sale_state:
+  text: not_for_sale

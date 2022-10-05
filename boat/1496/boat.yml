@@ -1,41 +1,50 @@
-builder: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
-callsign: ''
+name: Atahualpa
+oga_no: 1496
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: William King and Sons
+  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+designer:
+  name: G.U. Laws
+  id: 6b0e581f-8507-4748-8d44-f8fb73dbef19
 construction_material: wood
 construction_method: carvel
-designer: 6b0e581f-8507-4748-8d44-f8fb73dbef19
 draft: 1.4478
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  draft: 1.4478176054620824
-  fore_triangle_base: 4.114850036576445
-  fore_triangle_height: 7.040965618141917
-  length_on_waterline: 6.858083394294074
-  length_over_all: 9.814679346500855
   main:
     foot: 6.644720799804926
     head: 4.602535966837356
     luff: 5.9436722750548645
   thcf: 1.003725833
+  draft: 1.4478176054620824
+  length_over_all: 9.814679346500855
+  fore_triangle_base: 4.114850036576445
+  length_on_waterline: 6.858083394294074
+  fore_triangle_height: 7.040965618141917
 home_country: 'null'
 home_port: Wrabness
 hull_form: unknown
 id: fcf6a35b-df75-4b66-9ca2-e02cf0230ca9
 length_on_deck: 9.8146
-mainsail_type: gaff
-name: Atahualpa
-oga_no: 1496
+uk_part1: '135938'
+callsign: ''
 ownerships:
 - name: J Alexander
   share: 64
   start: 1983
 place_built: Burnham on Crouch
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:13.024381+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+construction_details: Carvel Teak on Oak
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

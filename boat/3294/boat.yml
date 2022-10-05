@@ -1,11 +1,9 @@
-builder: 76ac766b-618f-4b75-a0a1-a163b7170bd7
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: ac488ef8-79bc-4676-b24a-1efd01e44ddf
-draft: 0.4572
-engine_installations: []
-for_sales: []
+name: Water Music
+oga_no: 3294
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gunter
+short_description: <p>Water Music is a Hunter Minstral 23 built in 1986.</p>
 full_description: '<p>Water Music has had an refit inside with the main cabin now
   having great seating and bunks, a cupboard and storage And Chart table.</p>
 
@@ -17,29 +15,46 @@ full_description: '<p>Water Music has had an refit inside with the main cabin no
   <p>The rear cockpit has an amazing removable tent which doubles the undercover space.</p>
 
   <p><br></p>'
-generic_type: Yacht
+builder:
+  name: Hunter Boats Ltd.
+  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
+designer:
+  name: David Thomas
+  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.4572
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: unknown
 id: 9abbcf43-f228-4deb-936a-11c3831b038e
 length_on_deck: 6.9098
-mainsail_type: gunter
-name: Water Music
-oga_no: 3294
+sail_number: '6'
+callsign: ''
 ownerships:
-- current: true
-  id: 802
-  member: 5858
+- id: 802
   share: 64
   start: 2014
+  member: 5858
+  current: true
 - note: Prior to 2014 owned by K.Stagg, P.James
+  text: Prior to
   start: 2014
   start_is_approximate: false
-  text: Prior to
 place_built: Southampton
-rig_type: Sloop
-short_description: <p>Water Music is a Hunter Minstral 23 built in 1986.</p>
 updated_at: '2022-03-09T19:21:36.421019+00:00'
 website: ''
 year: 1986
 year_is_approximate: false
+previous_names:
+- Windra
+image_key: SmBzVM
+construction_details: GRP
+beam: 2.2098
+design_class:
+  name: Hunter Minstrel
+  id: 55b03d72-c570-40b6-b304-a2bfb71b835c
+for_sale_state:
+  text: not_for_sale

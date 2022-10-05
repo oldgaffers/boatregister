@@ -1,8 +1,22 @@
-builder: 9dfa6917-1e4f-4352-813c-a5620d8823c4
-callsign: ''
+name: Freda
+oga_no: 60
+generic_type: Itchen Ferry
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>The Itchen Ferry &#39;Freda&#39; has lines identical to &#39;Wonder&#39;,
+  but she&#39;s 6&quot; shorter according to a survey in 1996.</p>
+full_description: <p>'Freda' is an original Dan Hatcher by Fay of Northam, launched
+  in 1890 She was raced by Captain Sam Randall and served as a working boat all her
+  life with fishing no. CS110. Fully restored in the 1990s, she continues to be a
+  race and Concours winner.</p>
+builder:
+  name: Fays of Northam
+  id: 9dfa6917-1e4f-4352-813c-a5620d8823c4
+designer:
+  name: Daniel G. Hatcher
+  id: 14683616-0fe8-4912-8de4-12c0337b20e6
 construction_material: wood
 construction_method: carvel
-designer: 14683616-0fe8-4912-8de4-12c0337b20e6
 draft: 1.0668
 engine_installations: []
 for_sales:
@@ -28,44 +42,45 @@ for_sales:
   sold: null
   summary: null
   updated_at: '2022-04-21T16:26:27.501984+00:00'
-full_description: <p>'Freda' is an original Dan Hatcher by Fay of Northam, launched
-  in 1890 She was raced by Captain Sam Randall and served as a working boat all her
-  life with fishing no. CS110. Fully restored in the 1990s, she continues to be a
-  race and Concours winner.</p>
-generic_type: Itchen Ferry
 handicap_data:
   beam: 2.1580102414045355
-  draft: 1.066812972445745
-  fore_triangle_base: 3.858814923189466
-  fore_triangle_height: 5.891855644964642
-  length_on_waterline: 5.510851011948304
-  length_over_all: 5.663252865154839
   main:
     foot: 4.215435259692757
     head: 3.4046574006339916
     luff: 4.242867593269934
+  thcf: 0.856487379
+  draft: 1.066812972445745
   propellor:
     type: folding
-  thcf: 0.856487379
+  length_over_all: 5.663252865154839
+  fore_triangle_base: 3.858814923189466
+  length_on_waterline: 5.510851011948304
+  fore_triangle_height: 5.891855644964642
 home_country: GBR
 home_port: Orford
 hull_form: long keel sloping forefoot
 id: 68fa9047-2fbe-4aed-80f9-f43f5c9e9ed1
 length_on_deck: 5.6632
-mainsail_type: gaff
-name: Freda
-oga_no: 60
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 383
-  member: 4122
+- id: 383
   share: 64
   start: 2002
+  member: 4122
+  current: true
 place_built: Southampton
-rig_type: Cutter
-short_description: <p>The Itchen Ferry &#39;Freda&#39; has lines identical to &#39;Wonder&#39;,
-  but she&#39;s 6&quot; shorter according to a survey in 1996.</p>
 updated_at: '2022-04-22T09:37:33.007578+00:00'
 website: ''
 year: 1890
 year_is_approximate: false
+previous_names:
+- Viking
+image_key: Xz9fQd
+construction_details: Carvel pitch pine on steamed oak, copper fastened
+beam: 2.3866
+design_class:
+  name: Itchen Ferry
+  id: e3a3936c-04f7-46b1-b3f8-cfcaab4ce7cf
+for_sale_state:
+  text: for_sale

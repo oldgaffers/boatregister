@@ -1,44 +1,52 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: The Jeannie B
+oga_no: 2246
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Cabin version
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: Cabin version
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  propellor:
-    type: fixed
   thcf: 0.841029834
+  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
+  propellor:
+    type: fixed
+  length_over_all: 5.7912704218483295
+  length_on_waterline: 5.690685198732017
 home_country: 'null'
 home_port: Noss Mayo
 hull_form: long keel deep forefoot
 id: 560db815-0ad0-4949-ab7e-70a1e8328a17
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: The Jeannie B
-oga_no: 2246
+callsign: ''
 ownerships:
 - name: Stephen Brunskill
   share: 64
   start: 1999
 place_built: Bursledon
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:33.404118+00:00'
 website: ''
 year: 1999
 year_is_approximate: false
+construction_details: GRP hull and Deck
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

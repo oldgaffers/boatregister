@@ -1,36 +1,44 @@
-builder: 3b623161-dc07-46fc-96b1-98e7ad47b431
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: a5468014-9c00-4985-85ca-f3115f1fc4f7
-draft: 2.225
-engine_installations: []
-for_sales: []
+name: Armorel
+oga_no: 941
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
 full_description: Built with spoon bow, converted to trawler with false stem in 1920s,
   fished out of Ramsgate, converted back in 1966-70.  Lost in hurricane in W Indies
   1979
-generic_type: Yacht
+builder:
+  name: Charles Sibbick and Co
+  id: 3b623161-dc07-46fc-96b1-98e7ad47b431
+designer:
+  name: Charles Sibbick
+  id: a5468014-9c00-4985-85ca-f3115f1fc4f7
+construction_material: wood
+construction_method: unknown
+draft: 2.225
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.8100463301633747
   draft: 2.2250670568154107
-  length_on_waterline: 14.325774201414289
   length_over_all: 16.154596439892707
+  length_on_waterline: 14.325774201414289
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: a2b1ce31-0294-41f7-b497-d1c8db6c0291
 length_on_deck: 16.1544
-mainsail_type: gaff
-name: Armorel
-oga_no: 941
+callsign: ''
 ownerships:
 - name: K.M. Sims
   share: 64
   start: 2012
 place_built: Cowes IoW
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:56.689371+00:00'
 website: ''
 year: 1898
 year_is_approximate: false
+construction_details: Teak planking on double oak frames, copper fastened.
+beam: 3.81
+for_sale_state:
+  text: not_for_sale

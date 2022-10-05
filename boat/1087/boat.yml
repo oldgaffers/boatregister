@@ -1,11 +1,11 @@
-builder: dea44035-cc71-4f8b-b7a3-1909bfcb1874
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: ca7cfdca-a844-42a6-97a7-2d39079472ff
-draft: 1.2192
-engine_installations: []
-for_sales: []
+name: Playmate
+oga_no: 1087
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Built in 1898, Playmate was a 30' gaff cutter. Few wooden boats
+  of her size last over 100 years and, probably the oldest boat still sailing in the
+  Bristol Channel, she was broken up in 2010 after being declared 'unseaworthy'.
 full_description: "<h3>Playmate&#39;s last cruise, by Viv Head (Bristol Channel Area)</h3>\r\
   \n\r\n<h4>First published in the Gaffers Log: March 2011</h4>\r\n\r\n<p>Playmate\
   \ has graced the Bristol Channel for a number of years now, often to be seen nosing\
@@ -48,40 +48,52 @@ full_description: "<h3>Playmate&#39;s last cruise, by Viv Head (Bristol Channel 
   \ her time had come, despite all the joy she had brought, there was little option\
   \ but for her to be broken up. A sad end indeed for what may have been the oldest\
   \ boat still sailing the Bristol Channel.</p>"
-generic_type: Yacht
+builder:
+  name: T. Musselwhite
+  id: dea44035-cc71-4f8b-b7a3-1909bfcb1874
+designer:
+  name: T. Musslewhite
+  id: ca7cfdca-a844-42a6-97a7-2d39079472ff
+construction_material: wood
+construction_method: carvel
+draft: 1.2192
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.996220434040478
-  draft: 1.21921482565228
-  fore_triangle_base: 4.87685930260912
-  fore_triangle_height: 8.686905632772493
-  length_on_waterline: 8.686905632772493
-  length_over_all: 9.220312118995366
   main:
     foot: 5.257863935625457
     head: 3.785662033650329
     luff: 4.953060229212387
+  thcf: 0.947401781
+  draft: 1.21921482565228
   propellor:
     type: fixed
-  thcf: 0.947401781
+  length_over_all: 9.220312118995366
+  fore_triangle_base: 4.87685930260912
+  length_on_waterline: 8.686905632772493
+  fore_triangle_height: 8.686905632772493
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 14c7aff3-0717-400d-af66-f79e2af02489
 length_on_deck: 9.2354
-mainsail_type: gaff
-name: Playmate
-oga_no: 1087
+ssr: '13310'
+uk_part1: '128581'
+callsign: ''
 ownerships:
 - end: 2010
   name: John Maxwell
   share: 64
   start: 1988
 place_built: Hamworthy
-rig_type: Cutter
-short_description: Built in 1898, Playmate was a 30' gaff cutter. Few wooden boats
-  of her size last over 100 years and, probably the oldest boat still sailing in the
-  Bristol Channel, she was broken up in 2010 after being declared 'unseaworthy'.
 updated_at: '2021-12-19T13:39:01.114932+00:00'
 website: ''
 year: 1898
 year_is_approximate: false
+image_key: 5NPHhM
+construction_details: Carvel pitch pine on oak originally transom stern, counter added
+  1962 increasing length from 26ft
+beam: 2.987
+for_sale_state:
+  text: not_for_sale

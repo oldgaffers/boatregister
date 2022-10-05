@@ -1,11 +1,10 @@
-builder: 57e22238-cdd2-4556-a3f3-ef834d765e07
-callsign: ''
-construction_material: wood
-construction_method: cold_moulded
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
-draft: 0.4054
-engine_installations: []
-for_sales: []
+name: Felix
+oga_no: 1494
+generic_type: Yacht
+rig_type: cat_boat
+mainsail_type: gaff
+short_description: <p>&#39;Felix&#39; is a cat boat, designed by Andrew Wolstenholme
+  and built by David Moss Boatbuilders in 1982.</p>
 full_description: "<h3>In search of &#39;Felix&#39;, February 2018</h3>\r\n\r\n<p>&#39;Felix&#39;\
   \ is a very distinctive boat, built in 1982, and her first owner is seeking information\
   \ about her whereabouts. If you can help, please <a href=\"mailto:log@oga.org.uk?subject=Catboat%20Felix\"\
@@ -38,25 +37,34 @@ full_description: "<h3>In search of &#39;Felix&#39;, February 2018</h3>\r\n\r\n<
   \ but with less work during the winter months She is also the kind of boat that\
   \ might tempt an owner to keep her in the water all year round, just to enjoy those\
   \ sunny days of solitude during the off season.</p>\r\n</blockquote>"
-generic_type: Yacht
+builder:
+  name: David Moss Boatbuilders
+  id: 57e22238-cdd2-4556-a3f3-ef834d765e07
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+construction_material: wood
+construction_method: cold_moulded
+draft: 0.4054
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.286027798098025
-  draft: 0.396244818336991
-  length_on_waterline: 4.672640819312362
-  length_over_all: 4.87685930260912
   main:
     foot: 4.87685930260912
     head: 4.13923433308949
     luff: 2.8956352109241648
   thcf: 0.797467466
+  draft: 0.396244818336991
+  length_over_all: 4.87685930260912
+  length_on_waterline: 4.672640819312362
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: ff99b4ab-1678-4b81-9657-a00bfc0e73b9
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Felix
-oga_no: 1494
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 1989
   name: Paul Gelder
@@ -85,16 +93,21 @@ ownerships:
 - name: John Smith
   share: 64
   start: 2019
-- current: true
-  id: 1037
-  member: 6290
+- id: 1037
   share: 64
+  member: 6290
+  current: true
   start: '?'
 place_built: Skipool Creek
-rig_type: cat_boat
-short_description: <p>&#39;Felix&#39; is a cat boat, designed by Andrew Wolstenholme
-  and built by David Moss Boatbuilders in 1982.</p>
 updated_at: '2021-12-19T13:39:12.961397+00:00'
 website: ''
 year: 1982
 year_is_approximate: false
+image_key: X9bkr7
+construction_details: cold moulded mahogany
+beam: 2.286
+design_class:
+  name: Catboat 16
+  id: 7f25ca5d-8be8-41ca-98fe-484c35b41548
+for_sale_state:
+  text: not_for_sale

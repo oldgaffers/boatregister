@@ -1,13 +1,21 @@
-builder: 1ee28b7e-80b2-4837-b4b5-db84fca62df4
-callsign: ''
+name: Wayward Lass
+oga_no: 2949
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Plans available from Phil Bolger and friends
+builder:
+  name: Jamie Orr
+  id: 1ee28b7e-80b2-4837-b4b5-db84fca62df4
+designer:
+  name: Philip Bolger
+  id: 28e7f71c-8151-4614-8528-a1b83d6fa583
 construction_material: woodepoxy
 construction_method: unknown
-designer: 28e7f71c-8151-4614-8528-a1b83d6fa583
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Plans available from Phil Bolger and friends
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
   length_over_all: 6.0960741282613995
@@ -16,17 +24,17 @@ home_port: Victoria BC
 hull_form: unknown
 id: 379bbc59-f3da-4429-b1b7-a9333712ad7e
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Wayward Lass
-oga_no: 2949
+callsign: ''
 ownerships:
 - name: Jamie Ore
   share: 64
   start: 2012
 place_built: Victoria BC Canada
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:54.310642+00:00'
 website: ''
 year: 1999
 year_is_approximate: false
+construction_details: Ply epoxy fibreglass sheathed
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

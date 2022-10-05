@@ -1,11 +1,11 @@
-builder: 74809a5c-0421-436e-9cbf-afb58710a54a
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 94d71295-1aa4-484c-96e1-509be7b57480
-draft: 0.6096
-engine_installations: []
-for_sales: []
+name: Essex Melody
+oga_no: 3394
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: <p>&#39;Essex Melody&#39; was designed and built by John Scarlett,
+  first secretary of the OGA,&nbsp;along the lines of the first JOG (Junior Offshore
+  Group) yacht &#39;Sopranino&#39;.</p>
 full_description: "<p>&#39;Essex Melody&#39; is a 23&#39; JOG Bermudian yacht, designed\
   \ and built by John Scarlett in 1969. John was an electrical engineer working at\
   \ Marconi in Chelmsford and he built this boat as an academic challenge based on\
@@ -48,35 +48,47 @@ full_description: "<p>&#39;Essex Melody&#39; is a 23&#39; JOG Bermudian yacht, d
   \ of a JOG yacht: she certainly is a head-turner, and John Scarlett, first Secretary\
   \ of the OGA in 1963, seems to have got it right first time!</p>\r\n</blockquote>\r\
   \n\r\n<p>John Rogers, EC Area</p>"
-generic_type: Yacht
+builder:
+  name: John Scarlett
+  id: 74809a5c-0421-436e-9cbf-afb58710a54a
+designer:
+  name: John Scarlett
+  id: 94d71295-1aa4-484c-96e1-509be7b57480
+construction_material: wood
+construction_method: carvel
+draft: 0.6096
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Maldon
 hull_form: unknown
 id: 6b0ffbe5-50a5-408e-b754-e489ffc36814
 length_on_deck: 6.858
-mainsail_type: bermudan
-name: Essex Melody
-oga_no: 3394
+sail_number: '74'
+uk_part1: '301964'
+callsign: ''
 ownerships:
 - end: 2
-  end_is_approximate: false
   note: '2nd owner Mike Eastgate,,3rd owner Ray Burkin, 4th Owner Geoff Slack. '
   text: nd owner Mike Eastgate,,
+  end_is_approximate: false
 - end: 1984
   name: John Scarlett
   share: 64
   start: 1959
-- current: true
-  id: 750
-  member: 5750
+- id: 750
   share: 64
   start: 2008
+  member: 5750
+  current: true
 place_built: Maldon
-rig_type: Sloop
-short_description: <p>&#39;Essex Melody&#39; was designed and built by John Scarlett,
-  first secretary of the OGA,&nbsp;along the lines of the first JOG (Junior Offshore
-  Group) yacht &#39;Sopranino&#39;.</p>
 updated_at: '2021-12-19T13:40:09.782871+00:00'
 website: ''
 year: 1959
 year_is_approximate: false
+image_key: zCJjkC
+construction_details: Carvel Honduruas Mahogany on Oak. Essex Melody has a reverse
+  sheer. Her hollow mast is spruce.
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

@@ -1,46 +1,56 @@
-builder: 5d97b3fe-0be1-4998-93d7-8fba33124588
-callsign: ''
+name: Abaca
+oga_no: 379
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Her designer, H Manning Knight owned her for many years, keeping
+  her at the bottom of his garden at Sudbury on the Thames, cruising the East Coast
+  in the summer.</p>
+full_description: She was so named to be first in Lloyds Register, apparently Dennis
+  Thatcher learned to sail on her.
+builder:
+  name: Coe March
+  id: 5d97b3fe-0be1-4998-93d7-8fba33124588
+designer:
+  name: H. Manning-Knight
+  id: b5d366aa-b4ff-4703-b24c-15288e70fd02
 construction_material: wood
 construction_method: clinker
-designer: b5d366aa-b4ff-4703-b24c-15288e70fd02
 draft: 0.509
 engine_installations: []
 for_sales: []
-full_description: She was so named to be first in Lloyds Register, apparently Dennis
-  Thatcher learned to sail on her.
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5090221897098268
-  fore_triangle_base: 2.7432333577176298
-  fore_triangle_height: 5.18166300902219
-  length_on_waterline: 7.620092660326749
-  length_over_all: 7.772494513533284
   main:
     foot: 4.343452816386247
     head: 4.26725188978298
     luff: 3.2004389173372347
+  thcf: 0.916947305
+  draft: 0.5090221897098268
   mizzen:
     foot: 2.286027798098025
     head: 2.286027798098025
     luff: 1.3716166788588149
   propellor:
     type: fixed
-  thcf: 0.916947305
+  length_over_all: 7.772494513533284
+  fore_triangle_base: 2.7432333577176298
+  length_on_waterline: 7.620092660326749
+  fore_triangle_height: 5.18166300902219
 home_country: GBR
 home_port: Bembridge
 hull_form: long keel deep forefoot
 id: 04876c5e-58fc-43e2-a49f-99fccdc3a9da
 length_on_deck: 7.7724
-mainsail_type: gaff
-name: Abaca
-oga_no: 379
+sail_number: E82
+uk_part1: '160379'
+callsign: ''
 place_built: Brightlingsea
-rig_type: Yawl
-short_description: <p>Her designer, H Manning Knight owned her for many years, keeping
-  her at the bottom of his garden at Sudbury on the Thames, cruising the East Coast
-  in the summer.</p>
 updated_at: '2021-03-27T22:50:24.610239+00:00'
 website: ''
 year: 1921
 year_is_approximate: false
+construction_details: Clinker pitch pine on oak
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

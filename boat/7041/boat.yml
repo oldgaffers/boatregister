@@ -1,11 +1,9 @@
-builder: e9f4f065-f573-4115-aea0-b66f8667ffc0
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
-draft: 1.521
-engine_installations: []
-for_sales: []
+name: Simo
+oga_no: 7041
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: Simo is currently for sale, lying in Portugal.
 full_description: Fully equipped for short and single handed sailing with a Hasler
   SP 2 servo pendulum vane gear that steers her in foul wind and fair, she sails in
   any ocean and is in exceptional condition.     She is currently lying in Portugal
@@ -16,7 +14,17 @@ full_description: Fully equipped for short and single handed sailing with a Hasl
   her and kept her at Scarborough. He had the boat for approx. 10 years and then died.
   Michael Chamberlain found the boat in a barn in excellent condition, purchased her
   and cruised to the Med and the Algarve. In 2013 Simo is returning to the UK.
-generic_type: Yacht
+builder:
+  name: Percy M. See
+  id: e9f4f065-f573-4115-aea0-b66f8667ffc0
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
+construction_material: wood
+construction_method: unknown
+draft: 1.521
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.19002663405267
   draft: 1.5200184857351864
@@ -27,9 +35,9 @@ home_port: Portugal
 hull_form: long keel sloping forefoot
 id: d2568207-9bfb-4844-99f2-f6de9e2cccc1
 length_on_deck: 7.8303
-mainsail_type: bermudan
-name: Simo
-oga_no: 7041
+sail_number: V113
+uk_part1: '304242'
+callsign: ''
 ownerships:
 - name: Mr Snell
   share: 64
@@ -41,9 +49,14 @@ ownerships:
   share: 64
   start: 2012
 place_built: Fareham
-rig_type: Sloop
-short_description: Simo is currently for sale, lying in Portugal.
 updated_at: '2021-12-19T13:40:01.237863+00:00'
 website: ''
 year: 1961
 year_is_approximate: false
+construction_details: Pitch pine below the water, teak above, teak decks
+beam: 2.1915
+design_class:
+  name: Vertue
+  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
+for_sale_state:
+  text: not_for_sale

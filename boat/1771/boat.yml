@@ -1,28 +1,38 @@
-builder: 32c4dfbc-6636-4258-8a24-f074f2e7d7a4
-callsign: ''
+name: Rob Pete
+oga_no: 1771
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built 1924 by Worfolk Bros., Kings Lynn &#39;Rob Pete&#39; is
+  a Kings Lynn shrimper. She fished until 1990 and re-launched 1994 after a major
+  rebuild by William Cracknell.</p>
+full_description: ''
+builder:
+  name: Worfolk Bros.
+  id: 32c4dfbc-6636-4258-8a24-f074f2e7d7a4
+designer:
+  name: Bros. Worfolk
+  id: d323524d-7eac-4d6a-ae6c-5c3b5e9bea1c
 construction_material: wood
 construction_method: carvel
-designer: d323524d-7eac-4d6a-ae6c-5c3b5e9bea1c
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 3.5052426237503047
   draft: 1.5240185320653499
-  length_on_waterline: 11.582540843696659
-  length_over_all: 12.801755669348939
   propellor:
     type: fixed
+  length_over_all: 12.801755669348939
+  length_on_waterline: 11.582540843696659
 home_country: GBR
 home_port: Kings Lynn
 hull_form: long keel deep forefoot
 id: 3eca438c-417d-4785-9bff-f5082023c921
 length_on_deck: 12.8016
-mainsail_type: gaff
-name: Rob Pete
-oga_no: 1771
+ssr: '18553'
+uk_part1: '18553'
+callsign: ''
 ownerships:
 - end: 2003
   name: Anthony John Pickering
@@ -31,17 +41,21 @@ ownerships:
 - name: Steve Hall
   share: 64
   start: 2003
-- current: true
-  id: 333
-  member: 3833
+- id: 333
   share: 64
+  member: 3833
+  current: true
   start: '?'
 place_built: King's Lynn
-rig_type: Cutter
-short_description: <p>Built 1924 by Worfolk Bros., Kings Lynn &#39;Rob Pete&#39; is
-  a Kings Lynn shrimper. She fished until 1990 and re-launched 1994 after a major
-  rebuild by William Cracknell.</p>
 updated_at: '2021-12-19T13:39:19.872457+00:00'
 website: ''
 year: 1924
 year_is_approximate: false
+previous_names:
+- Johnny Rebecca
+- Three Brothers
+image_key: rSxLXp
+construction_details: Carvel Russian redwood on oak frames
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

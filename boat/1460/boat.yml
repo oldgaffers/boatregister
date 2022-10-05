@@ -1,9 +1,10 @@
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 0.3566
-engine_installations: []
-for_sales: []
+name: Peerie Maa
+oga_no: 1460
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Peerie Maa&#39;, built in C1930 is a Shetland utility boat,
+  with original rig cotton sails by Jeckells of Lowestoft.</p>
 full_description: "<p>&#39;Peerie Maa&#39; had a sliding gunter with boom using a\
   \ spinnaker boom heel fitting in a brass track for the gaff. Sails dated by Jeckells\
   \ to be pre-1956. The repairs extant in the hull indicate that she may have been\
@@ -11,39 +12,47 @@ full_description: "<p>&#39;Peerie Maa&#39; had a sliding gunter with boom using 
   \ racing rig.</p>\r\n\r\n<p>She&#39;s had a new suit of terylene sails, with new\
   \ luff groove gaff with ash jaws made, various repairs and refits returning original\
   \ Shetland practice. Also uses shorter mast and standing lug, boomless main.</p>"
-generic_type: Dayboat
+construction_material: wood
+construction_method: unknown
+draft: 0.3566
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.624603755181663
-  draft: 0.35662033650329183
-  fore_triangle_base: 1.777005608388198
-  fore_triangle_height: 4.596439892709095
-  length_on_waterline: 4.672640819312362
-  length_over_all: 5.562667642038527
   main:
     foot: 3.1242379907339672
     head: 3.3772250670568154
     luff: 2.6426481346013166
-  sailarea: 14.509288172631953
   thcf: 0.827
+  draft: 0.35662033650329183
+  sailarea: 14.509288172631953
+  length_over_all: 5.562667642038527
+  fore_triangle_base: 1.777005608388198
+  length_on_waterline: 4.672640819312362
+  fore_triangle_height: 4.596439892709095
 home_country: GBR
 home_port: Barrow in Furness
 hull_form: long keel deep forefoot
 id: bd41bd87-2873-458a-87a2-ffb0e9164172
 length_on_deck: 5.5626
-mainsail_type: gaff
-name: Peerie Maa
-oga_no: 1460
+callsign: ''
 ownerships:
-- current: true
-  id: 127
-  member: 2165
+- id: 127
   share: 64
   start: 1985
+  member: 2165
+  current: true
 place_built: Shetland
-rig_type: Sloop
-short_description: <p>&#39;Peerie Maa&#39;, built in C1930 is a Shetland utility boat,
-  with original rig cotton sails by Jeckells of Lowestoft.</p>
 updated_at: '2021-12-19T13:39:11.987634+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+nsbr: '662'
+image_key: wbx2rf
+construction_details: Clench (probably larch) on sawn frames
+beam: 1.6246
+design_class:
+  name: Whilly Boat
+  id: 4dc91198-fe94-478e-83b6-3c5e6121fbd5
+for_sale_state:
+  text: not_for_sale

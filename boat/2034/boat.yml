@@ -1,13 +1,21 @@
-builder: a934d390-8c28-4a5f-930d-cedc680f2902
-callsign: ''
+name: The William Owen
+oga_no: 2034
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: C. Ward J. Forrest
+  id: a934d390-8c28-4a5f-930d-cedc680f2902
+designer:
+  name: C. Ward/J. Forrest
+  id: 526e4afd-761c-4c29-89f0-a54de3203055
 construction_material: wood
 construction_method: unknown
-designer: 526e4afd-761c-4c29-89f0-a54de3203055
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 1.8806388685686417
   length_over_all: 5.105462082418922
@@ -16,17 +24,16 @@ home_port: ''
 hull_form: unknown
 id: 9716b391-6d94-41bb-b86a-63efeb2233b6
 length_on_deck: 5.1054
-mainsail_type: gaff
-name: The William Owen
-oga_no: 2034
+callsign: ''
 ownerships:
 - name: John Forrest
   share: 64
   start: 1996
 place_built: Norfolk/Long Eaton
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:27.513623+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+beam: 1.8806
+for_sale_state:
+  text: not_for_sale

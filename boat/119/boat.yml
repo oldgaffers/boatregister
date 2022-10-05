@@ -1,38 +1,48 @@
-builder: 3b01f5ca-5b2a-41ec-8977-423e3235b02a
-callsign: ''
+name: Camilla
+oga_no: 119
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Camilla&#39; was built in 1894 by Alexander Robertson at
+  his yard in Sandbank, Argyll.</p>
+full_description: ''
+builder:
+  name: Alexander Robertson
+  id: 3b01f5ca-5b2a-41ec-8977-423e3235b02a
+designer:
+  name: G.L. Watson
+  id: 3199db8d-e122-4423-b3b8-038e30c077dd
 construction_material: wood
 construction_method: unknown
-designer: 3199db8d-e122-4423-b3b8-038e30c077dd
 draft: 1.8288
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 1.8288222384784198
-  fore_triangle_base: 3.2004389173372347
-  fore_triangle_height: 8.787490855888807
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 6.705681541087539
   main:
     foot: 5.129846378931967
     head: 3.2004389173372347
     luff: 4.291636186296025
   thcf: 0.912236262
+  draft: 1.8288222384784198
+  length_over_all: 6.705681541087539
+  fore_triangle_base: 3.2004389173372347
+  length_on_waterline: 6.0960741282613995
+  fore_triangle_height: 8.787490855888807
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 8d73dab6-8006-40ba-bb3e-eff2821ebb34
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Camilla
-oga_no: 119
+spar_material: wood
+callsign: ''
 place_built: Sandbank
-rig_type: Sloop
-short_description: <p>&#39;Camilla&#39; was built in 1894 by Alexander Robertson at
-  his yard in Sandbank, Argyll.</p>
 updated_at: '2021-01-31T17:02:39.142715+00:00'
 website: ''
 year: 1894
 year_is_approximate: false
+image_key: mGZDxf
+construction_details: Pine planking  Grown Oak frames
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

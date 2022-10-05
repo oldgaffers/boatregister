@@ -1,34 +1,44 @@
-builder: 73678394-f6ab-42b5-9031-ce1ced684587
-callsign: ''
+name: Dedemia
+oga_no: 622
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 75/1
+builder:
+  name: Deacons Boatyard Ltd.
+  id: 73678394-f6ab-42b5-9031-ce1ced684587
+designer:
+  name: R. McCoy
+  id: 35580139-b1ea-417f-a1cf-f255ea693c45
 construction_material: wood
 construction_method: carvel
-designer: 35580139-b1ea-417f-a1cf-f255ea693c45
 draft: 1.143
 engine_installations: []
 for_sales: []
-full_description: Log 75/1
-generic_type: unknown
 handicap_data:
   beam: 2.13362594489149
   draft: 1.1430138990490124
-  length_on_waterline: 6.0960741282613995
   length_over_all: 7.467690807120214
+  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 02d010d2-795d-4942-829c-280bb058cb67
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Dedemia
-oga_no: 622
+reference:
+- Log 75/1
+callsign: ''
 ownerships:
 - name: H S Dyer
   share: 64
   start: 2012
 place_built: Bursledon
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:47.64166+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+construction_details: Counter stern carvel, Wych elm & teak lead keel
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

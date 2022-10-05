@@ -1,42 +1,50 @@
-builder: c1b2c9bc-2dfa-41ba-92d4-9edef2062cf5
-callsign: ''
+name: Pandora
+oga_no: 2895
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Barry Chisam
+  id: c1b2c9bc-2dfa-41ba-92d4-9edef2062cf5
+designer:
+  name: Barry Chisham
+  id: 7927d5a5-4336-4c4f-8572-111d6530c160
 construction_material: grp
 construction_method: cold_moulded
-designer: 7927d5a5-4336-4c4f-8572-111d6530c160
 draft: 1.3015
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7005608388197997
-  draft: 1.3015118263838086
-  fore_triangle_base: 4.200195074372104
-  fore_triangle_height: 7.900512070226774
-  length_on_waterline: 7.501219214825651
-  length_over_all: 7.501219214825651
   main:
     foot: 4.059985369422092
     head: 3.2095830285296265
     luff: 3.8100463301633747
+  thcf: 0.88720049
+  draft: 1.3015118263838086
   propellor:
     type: fixed
-  thcf: 0.88720049
+  length_over_all: 7.501219214825651
+  fore_triangle_base: 4.200195074372104
+  length_on_waterline: 7.501219214825651
+  fore_triangle_height: 7.900512070226774
 home_country: NLD
 home_port: Edam Nederlands
 hull_form: long keel deep forefoot
 id: e188b9b2-cafe-4cd7-9cd7-47db2e5c544a
 length_on_deck: 7.5011
-mainsail_type: gaff
-name: Pandora
-oga_no: 2895
+callsign: ''
 ownerships:
 - name: Kees Harshel
   share: 64
   start: 2008
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:52.63262+00:00'
 website: ''
 year: 1988
 year_is_approximate: false
+construction_details: GRP
+beam: 2.7005
+for_sale_state:
+  text: not_for_sale

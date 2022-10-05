@@ -1,43 +1,51 @@
-builder: 1490f054-b323-4ef5-961c-9026f880c340
-callsign: ''
+name: May
+oga_no: 1486
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: CB Nov/Dec 88
+builder:
+  name: Crossfield Bros.
+  id: 1490f054-b323-4ef5-961c-9026f880c340
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
 construction_material: wood
 construction_method: carvel
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: CB Nov/Dec 88
-generic_type: unknown
 handicap_data:
   beam: 2.7432333577176298
-  draft: 0.9144111192392099
-  fore_triangle_base: 6.0960741282613995
-  fore_triangle_height: 7.924896366739819
-  length_on_waterline: 8.53450377956596
-  length_over_all: 9.677517678614972
   main:
     foot: 6.0960741282613995
     head: 5.18166300902219
     luff: 4.87685930260912
+  thcf: 0.990083156
+  draft: 0.9144111192392099
   propellor:
     type: fixed
-  thcf: 0.990083156
+  length_over_all: 9.677517678614972
+  fore_triangle_base: 6.0960741282613995
+  length_on_waterline: 8.53450377956596
+  fore_triangle_height: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 2ae0262d-4f08-4752-a44d-c6bb5f00903f
 length_on_deck: 9.6774
-mainsail_type: gaff
-name: May
-oga_no: 1486
+callsign: ''
 ownerships:
 - name: Leigh Rihan
   share: 64
   start: 1988
 place_built: Hoylake Wirral
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:12.70941+00:00'
 website: ''
 year: 1920
 year_is_approximate: false
+construction_details: Carvel pitch pine on grown oak frames
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

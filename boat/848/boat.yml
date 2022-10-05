@@ -1,32 +1,42 @@
-builder: dff894d0-7afd-40ab-b13c-098b5e161ed8
-callsign: ''
+name: Polly
+oga_no: 848
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 77/3, log78/1
+builder:
+  name: J. Pollard
+  id: dff894d0-7afd-40ab-b13c-098b5e161ed8
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 77/3, log78/1
-generic_type: unknown
 handicap_data:
   beam: 2.529870763228481
-  length_on_waterline: 7.193367471348452
   length_over_all: 8.01633747866374
+  length_on_waterline: 7.193367471348452
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: a427bef6-06bd-459d-84f7-fa0073e7ba0d
 length_on_deck: 8.0162
-mainsail_type: gaff
-name: Polly
-oga_no: 848
+reference:
+- Log 77/3
+- Log 78/1
+callsign: ''
 ownerships:
 - name: B F Jackson
   share: 64
   start: 2012
 place_built: Ilfracombe
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:54.122657+00:00'
 website: ''
 year: 1883
 year_is_approximate: false
+previous_names:
+- Blue Ribbon
+beam: 2.5298
+for_sale_state:
+  text: not_for_sale

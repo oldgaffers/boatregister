@@ -1,36 +1,43 @@
-callsign: ''
+name: Amba
+oga_no: 154
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gunter
+short_description: ''
+full_description: ''
+designer:
+  name: Arthur C. Robb
+  id: c83205a1-3dfc-4977-871e-03a8ed74e6ec
 construction_material: wood
 construction_method: unknown
-designer: c83205a1-3dfc-4977-871e-03a8ed74e6ec
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.1641063155327966
-  length_on_waterline: 6.4008778346744695
   length_over_all: 6.858083394294074
+  length_on_waterline: 6.4008778346744695
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 1003f53f-94c5-4e0e-8bc6-cbdb02a5b90e
 length_on_deck: 6.858
-mainsail_type: gunter
-name: Amba
-oga_no: 154
+callsign: ''
 ownerships:
 - note: Previous owner J.F.Hatch 1974
+  text: Previous owner J.F.Hatch
   start: 1974
   start_is_approximate: false
-  text: Previous owner J.F.Hatch
 - name: Graham Morris
   share: 64
   start: 2012
 place_built: Thames
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:34.048674+00:00'
 website: ''
 year: 1948
 year_is_approximate: false
+previous_names:
+- Jenny Wren
+beam: 2.158
+for_sale_state:
+  text: not_for_sale

@@ -1,12 +1,9 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-draft: 1.524
-engine_installations: []
-for_sales:
-- asking_price: 12950
+name: Estren
+oga_no: 1907
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: "<h3>Description taken from &#39;For Sale&#39; notice, 2017</h3>\r\
   \n\r\n<h3>Hull</h3>\r\n\r\n<p>GRP hull, &#39;Estren&#39; was&nbsp;professionally\
   \ scraped back in 2017 when two coats of Gel shield were&nbsp;applied and she was\
@@ -58,32 +55,43 @@ full_description: "<h3>Description taken from &#39;For Sale&#39; notice, 2017</h
   \ is also a 2016 Raymarine ST1000 tiller pilot.</p>\r\n\r\n<p>Brass oil nav. lights\
   \ for port and starboard which attach&nbsp;to wooden brackets on the shrouds. I\
   \ also have a set of battery nav. lights.</p>"
-generic_type: Yacht
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.524
+engine_installations: []
+for_sales:
+- asking_price: 12950
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.5240185320653499
-  fore_triangle_base: 4.419653742989515
-  fore_triangle_height: 6.9342843208973415
-  length_on_waterline: 6.705681541087539
-  length_over_all: 7.162887100707144
   main:
     foot: 4.87685930260912
     head: 3.6576444769568397
     luff: 4.419653742989515
-  propellor:
-    type: fixed
   thcf: 0.913100868
+  draft: 1.5240185320653499
   topsail:
     luff: 5.4864667154352595
     perpendicular: 1.9050231650816873
+  propellor:
+    type: fixed
+  length_over_all: 7.162887100707144
+  fore_triangle_base: 4.419653742989515
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 6.9342843208973415
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel deep forefoot
 id: 9dfba2ce-8e23-4d67-ba6c-899472feab77
 length_on_deck: 7.1628
-mainsail_type: gaff
-name: Estren
-oga_no: 1907
+sail_number: '8'
+uk_part1: '711988'
+callsign: ''
 ownerships:
 - note: Estren was ordered and built for a Devon based gentleman who retained all
     the letters between him and Martin Heard the builder. Estren was kept in the river
@@ -93,19 +101,25 @@ ownerships:
     he advertised her for sale in 2013 when I purchased her. I completed a refit to
     bring her to her current condition. She has remained on the Dart in my ownership.
     [Peter Gerrard, 2017]
-  start: 2006
-  start_is_approximate: false
   text: Estren was ordered and built for a Devon based gentleman who retained all
     the letters between him and Martin Heard the builder. Estren was kept in the river
     Dart and sailed by this owner until
+  start: 2006
+  start_is_approximate: false
 - end: 2017
   name: Peter Gerrard
   share: 64
   start: 2014
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:23.760928+00:00'
 website: ''
 year: 1987
 year_is_approximate: false
+image_key: ZVfF5M
+construction_details: GRP with ply deck
+beam: 2.4384
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
+for_sale_state:
+  text: not_for_sale

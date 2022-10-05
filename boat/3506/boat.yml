@@ -1,4 +1,13 @@
-builder: 0d31e1e0-5b95-4509-b1ff-41d1f264d0d5
+name: Beatrice B
+oga_no: 3506
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: "Ketch with long wheelhouse weighs 16.5 ton\_\n\n<div>6 berth 3\
+  \ cabins. Perkins 6cyl.100h.p.engine\_ .</div>\n\n<div>Inside and outside steering\
+  \ .</div>"
+builder:
+  name: A.H. Moody and Sons
+  id: 0d31e1e0-5b95-4509-b1ff-41d1f264d0d5
 construction_material: grp
 construction_method: cold_moulded
 engine_installations: []
@@ -7,33 +16,30 @@ home_country: Ireland
 home_port: Dublin
 hull_form: long keel sloping forefoot
 id: 38f59e9d-211a-486d-bb04-dc39e3e22b3f
-mainsail_type: bermudan
-name: Beatrice B
-oga_no: 3506
+spar_material: aluminium
 ownerships:
 - end: 2021
   name: Derek Woods
   share: 22
   start: 2021
-- current: true
-  id: 444
-  member: 4412
+- id: 444
   share: 22
   start: 2021
-- current: true
-  id: 281
+  member: 4412
+  current: true
+- id: 281
+  share: 21
+  start: 2021
   member: 3496
+  current: true
+- id: 378
   share: 21
   start: 2021
-- current: true
-  id: 378
   member: 4109
-  share: 21
-  start: 2021
-rig_type: Ketch
-short_description: "Ketch with long wheelhouse weighs 16.5 ton\_\n\n<div>6 berth 3\
-  \ cabins. Perkins 6cyl.100h.p.engine\_ .</div>\n\n<div>Inside and outside steering\
-  \ .</div>"
+  current: true
 updated_at: '2022-02-20T10:00:32.334785+00:00'
 year: 1973
 year_is_approximate: false
+image_key: fTFjLj
+for_sale_state:
+  text: not_for_sale

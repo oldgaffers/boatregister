@@ -1,51 +1,59 @@
-builder: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
-callsign: ''
-construction_material: grp
-construction_method: clinker
-designer: 40fab132-73c1-48a6-8aa5-9c471b1543a8
-draft: 0
-engine_installations: []
-for_sales: []
+name: Swallow
+oga_no: 2826
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: lug
+short_description: '''Swallow'' has joined in a number of traditional sailing festivals
+  with the Dinghy Cruising Association and the OGA.'
 full_description: <p>&#39;Swallow&#39; is used for annual holidays being taken for
   day sailing in Falmouth, Chichester, Pembrokeshire, Norfolk Broads, Lake District,
   Lindesfarne and the West Coast of Scotland at Portsoy. Her sails were replaced &#39;like
   for like&#39; in 2001.</p>
-generic_type: Dayboat
+builder:
+  name: Character Boats
+  id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+designer:
+  name: Bill Bailiff
+  id: 40fab132-73c1-48a6-8aa5-9c471b1543a8
+construction_material: grp
+construction_method: clinker
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.8288222384784198
-  fore_triangle_base: 2.895647403072421
-  fore_triangle_height: 3.454450134113631
-  length_on_waterline: 4.724469641550841
-  length_over_all: 5.7912704218483295
-  length_over_spars: 6.4008778346744695
   main:
     foot: 3.810058522311631
     head: 3.6576444769568397
     luff: 1.6510302365276759
-  sailarea: 14.990486567700149
   thcf: 0.82
+  sailarea: 14.990486567700149
+  length_over_all: 5.7912704218483295
+  length_over_spars: 6.4008778346744695
+  fore_triangle_base: 2.895647403072421
+  length_on_waterline: 4.724469641550841
+  fore_triangle_height: 3.454450134113631
 home_country: GBR
 home_port: Glenridding
 hull_form: long keel deep forefoot
 id: e8dcc47c-bdf6-481a-bb20-72425f49586b
 length_on_deck: 5.7912
-mainsail_type: lug
-name: Swallow
-oga_no: 2826
+callsign: ''
 ownerships:
 - name: Malcolm Lawrence
   share: 64
   start: 1990
-- current: true
-  id: 552
-  member: 4965
+- id: 552
   share: 64
+  member: 4965
+  current: true
   start: '?'
 place_built: Overton
-rig_type: Sloop
-short_description: '''Swallow'' has joined in a number of traditional sailing festivals
-  with the Dinghy Cruising Association and the OGA.'
 updated_at: '2021-12-19T13:39:50.538118+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+construction_details: GRP simuated clinker
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

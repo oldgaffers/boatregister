@@ -1,34 +1,44 @@
-builder: ca4a0ba4-4afd-46fc-986e-9c2c950caff0
-callsign: ''
+name: Ginia
+oga_no: 1048
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: Log 82/1
+builder:
+  name: C. Wigglesworth
+  id: ca4a0ba4-4afd-46fc-986e-9c2c950caff0
+designer:
+  name: C. Wigglesworth
+  id: 5e3374dc-8558-4048-af51-57a62cf5a39a
 construction_material: grp
 construction_method: cold_moulded
-designer: 5e3374dc-8558-4048-af51-57a62cf5a39a
 draft: 0.4572
 engine_installations: []
 for_sales: []
-full_description: Log 82/1
-generic_type: unknown
 handicap_data:
   beam: 1.6764203852718849
   draft: 0.45720555961960496
-  length_on_waterline: 4.57205559619605
   length_over_all: 5.334064862228725
+  length_on_waterline: 4.57205559619605
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 006f9222-b3db-4563-b71a-d9cb0575001e
 length_on_deck: 5.334
-mainsail_type: lug
-name: Ginia
-oga_no: 1048
+reference:
+- Log 82/1
+callsign: ''
 ownerships:
 - name: R A Hayles
   share: 64
   start: 2012
 place_built: Scarborough
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:59.886141+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: GRP
+beam: 1.6764
+for_sale_state:
+  text: not_for_sale

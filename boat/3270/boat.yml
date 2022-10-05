@@ -1,36 +1,47 @@
-builder: 4a2d1a6c-329f-485e-96b7-f90ccb802ed2
-callsign: ''
+name: Nona Me
+oga_no: 3270
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gunter
+short_description: "<p>&#39;Nona Me&#39; is a Bay Raider 17, built by Steve Jones.\
+  \ Her OGA handicap has been calculated by Solent Gaffers as .789 (2018).</p>\r\n\
+  \r\n<p>&nbsp;</p>"
+full_description: ''
+builder:
+  name: Jones Steve
+  id: 4a2d1a6c-329f-485e-96b7-f90ccb802ed2
+designer:
+  name: Matt Newland
+  id: 30fcf69f-e274-4284-9cb8-8327a7f730f5
 construction_material: wood
 construction_method: unknown
-designer: 30fcf69f-e274-4284-9cb8-8327a7f730f5
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 28b7ddc2-6301-46bf-b0d9-594db5588cfe
 length_on_deck: 0
-mainsail_type: gunter
-name: Nona Me
-oga_no: 3270
+callsign: ''
 ownerships:
 - end: 2017
   name: Steve Jones
   share: 64
   start: 2012
-- current: true
-  id: 551
-  member: 4964
+- id: 551
   share: 64
   start: 2017
-rig_type: Yawl
-short_description: "<p>&#39;Nona Me&#39; is a Bay Raider 17, built by Steve Jones.\
-  \ Her OGA handicap has been calculated by Solent Gaffers as .789 (2018).</p>\r\n\
-  \r\n<p>&nbsp;</p>"
+  member: 4964
+  current: true
 updated_at: '2021-12-19T13:40:05.861127+00:00'
 website: ''
 year: 2012
 year_is_approximate: false
+image_key: kcgmN9
+beam: 0
+design_class:
+  name: Bay Raider 17
+  id: 26d5fe4c-8372-45e9-94cc-e6a0bbc88a61
+for_sale_state:
+  text: not_for_sale

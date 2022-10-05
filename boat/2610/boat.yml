@@ -1,36 +1,52 @@
-builder: 39e7da25-6ae3-4210-8bd7-840e21b1b839
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: faf71507-07cc-4386-a9d7-b39721632e97
-draft: 1.8288
-engine_installations: []
-for_sales: []
+name: Iona
+oga_no: 2610
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: See CB 186 Dec 2003 pp 40 - 46.  1st owner T C Burrow, sold after
   1 year, named Winsome, then Daisy from 1904 to '27, then bac to Nance, '57 at Burnam
   on Crouch as Elusive II.
-generic_type: Yacht
+builder:
+  name: William Fife Son
+  id: 39e7da25-6ae3-4210-8bd7-840e21b1b839
+designer:
+  name: William Fife III
+  id: faf71507-07cc-4386-a9d7-b39721632e97
+construction_material: wood
+construction_method: carvel
+draft: 1.8288
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.6670324311143623
   draft: 1.8288222384784198
-  length_on_waterline: 8.382101926359423
   length_over_all: 11.68312606681297
+  length_on_waterline: 8.382101926359423
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 1d465605-47fe-443d-bb20-cc800594c8a7
 length_on_deck: 11.683
-mainsail_type: gaff
-name: Iona
-oga_no: 2610
+sail_number: '9'
+callsign: ''
 ownerships:
 - name: Mathias Helleu
   share: 64
   start: 1999
 place_built: Failie
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:44.205113+00:00'
 website: ''
 year: 1899
 year_is_approximate: false
+previous_names:
+- Nance
+- Winsome Daisy
+- Elusive II
+- Jugawine
+- Common Loon
+construction_details: Carvel pitchpine below yellow pine on steamed Rock elm timbers
+  on oak keelson and elm keel.
+beam: 2.667
+for_sale_state:
+  text: not_for_sale

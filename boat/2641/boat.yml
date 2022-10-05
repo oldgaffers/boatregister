@@ -1,43 +1,51 @@
-builder: c120bfcb-742e-4dfa-a03e-c0c843dc5d7f
-callsign: ''
+name: Lucy Beth
+oga_no: 2641
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Paul Lohr
+  id: c120bfcb-742e-4dfa-a03e-c0c843dc5d7f
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 construction_material: woodepoxy
 construction_method: unknown
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 draft: 0.1524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.4996342355523042
-  draft: 0.152401853206535
-  fore_triangle_base: 1.3258961228968542
-  fore_triangle_height: 2.691416727627408
-  length_on_waterline: 3.5052426237503047
-  length_over_all: 3.8100463301633747
   main:
     foot: 2.5512070226773953
     head: 3.465618141916605
     luff: 1.3990490124359911
   thcf: 0.740095651
+  draft: 0.152401853206535
+  length_over_all: 3.8100463301633747
+  fore_triangle_base: 1.3258961228968542
+  length_on_waterline: 3.5052426237503047
+  fore_triangle_height: 2.691416727627408
 home_country: GBR
 home_port: Trailer sail
 hull_form: unknown
 id: fd124b5b-e639-4e36-abcf-064c3c7d7ce9
 length_on_deck: 3.81
-mainsail_type: gaff
-name: Lucy Beth
-oga_no: 2641
+callsign: ''
 ownerships:
-- current: true
-  id: 440
-  member: 4397
+- id: 440
   share: 64
   start: 2004
+  member: 4397
+  current: true
 place_built: Tewin
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:45.05763+00:00'
 website: ''
 year: 2004
 year_is_approximate: false
+construction_details: Stitch and tape epoxy ply
+beam: 1.4996
+for_sale_state:
+  text: not_for_sale

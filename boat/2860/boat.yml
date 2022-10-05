@@ -1,42 +1,53 @@
-builder: 149ca895-58ff-4037-8fae-42fefff7e74e
-callsign: ''
+name: Cadenza
+oga_no: 2860
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Home built by registering owner, Swallow boats do not market this
+  design (2008). Self tacking club foresail, wishbone boom gunter main.
+builder:
+  name: built Home
+  id: 149ca895-58ff-4037-8fae-42fefff7e74e
+designer:
+  name: Swallow Boats Ltd.
+  id: 1ac33a62-3da4-4f66-9a7e-fe0234fd8884
 construction_material: wood
 construction_method: unknown
-designer: 1ac33a62-3da4-4f66-9a7e-fe0234fd8884
 draft: 0.1524
 engine_installations: []
 for_sales: []
-full_description: Home built by registering owner, Swallow boats do not market this
-  design (2008). Self tacking club foresail, wishbone boom gunter main.
-generic_type: unknown
 handicap_data:
   beam: 1.472201901975128
-  draft: 0.152401853206535
-  fore_triangle_base: 1.1430138990490124
-  fore_triangle_height: 3.148622287247013
-  length_on_waterline: 3.733845403560107
-  length_over_all: 4.26725188978298
   main:
     foot: 2.590831504511095
     head: 3.2522555474274566
     luff: 1.066812972445745
   thcf: 0.747547508
+  draft: 0.152401853206535
+  length_over_all: 4.26725188978298
+  fore_triangle_base: 1.1430138990490124
+  length_on_waterline: 3.733845403560107
+  fore_triangle_height: 3.148622287247013
 home_country: 'null'
 home_port: Hale, Altringham
 hull_form: unknown
 id: 71a87efd-8b54-41fc-bba2-2c84b81e2a25
 length_on_deck: 4.2672
-mainsail_type: gaff
-name: Cadenza
-oga_no: 2860
+callsign: ''
 ownerships:
 - name: Michael Rogers
   share: 64
   start: 2004
 place_built: Hale
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:51.53287+00:00'
 website: ''
 year: 2004
 year_is_approximate: false
+construction_details: Half Deck double ender, wishbone sprit boom gunter rig.
+beam: 1.4722
+design_class:
+  name: Storm Petrel
+  id: 6becf444-1985-4b81-830b-d1e566714c11
+for_sale_state:
+  text: not_for_sale

@@ -1,35 +1,43 @@
-builder: e5c00172-7ec2-4bc9-9979-d47454b84ba4
-callsign: ''
+name: Dunlin
+oga_no: 172
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
 construction_material: wood
 construction_method: unknown
 draft: 0.2804
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.9050231650816873
   draft: 0.274323335771763
-  length_on_waterline: 4.633016337478663
   length_over_all: 4.672640819312362
+  length_on_waterline: 4.633016337478663
 home_country: GBR
 home_port: Maylandsea
 hull_form: unknown
 id: 51fc2ec7-e7d4-44dd-a945-8e010d82135e
 length_on_deck: 4.6726
-mainsail_type: gaff
-name: Dunlin
-oga_no: 172
+callsign: ''
 ownerships:
-- current: true
-  id: 110
-  member: 1927
+- id: 110
   share: 64
   start: 2012
+  member: 1927
+  current: true
 place_built: Woodbridge
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:34.57766+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+beam: 1.905
+design_class:
+  name: Aldeburgh O D or Alde Class
+  id: c15b8179-b01b-4b18-a657-ab59ff96e50c
+for_sale_state:
+  text: not_for_sale

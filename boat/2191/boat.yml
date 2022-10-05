@@ -1,42 +1,50 @@
-builder: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
-callsign: ''
+name: Emma Louise
+oga_no: 2191
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Boatman Jul 95 CB Dec 90
+builder:
+  name: North Norfolk Boat Building Co.
+  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: grp
 construction_method: cold_moulded
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Boatman Jul 95 CB Dec 90
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  fore_triangle_base: 2.4109973177273836
-  fore_triangle_height: 4.700073152889539
-  length_on_waterline: 5.410265788831992
-  length_over_all: 7.214703730797367
   main:
     foot: 4.063033406486222
     head: 3.148622287247013
     luff: 2.9474518410143866
+  thcf: 0.838267221
   propellor:
     type: fixed
-  thcf: 0.838267221
+  length_over_all: 7.214703730797367
+  fore_triangle_base: 2.4109973177273836
+  length_on_waterline: 5.410265788831992
+  fore_triangle_height: 4.700073152889539
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 1dffd7ec-d83b-4aa9-9b45-3ae20a79e232
 length_on_deck: 7.2146
-mainsail_type: gaff
-name: Emma Louise
-oga_no: 2191
+callsign: ''
 ownerships:
 - name: Tom Moeller
   share: 64
   start: 2012
 place_built: Shotley
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:31.804054+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+construction_details: GRP
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

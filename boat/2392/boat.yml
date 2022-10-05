@@ -1,31 +1,38 @@
-builder: 04d6f8ca-258b-4bf5-92a2-1759e34b473b
-callsign: ''
+name: Dunlin
+oga_no: 2392
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Cyril White
+  id: 04d6f8ca-258b-4bf5-92a2-1759e34b473b
+designer:
+  name: Cyril White
+  id: 95a19f12-15c9-427f-89cc-21fbda1fd49a
 construction_material: wood
 construction_method: unknown
-designer: 95a19f12-15c9-427f-89cc-21fbda1fd49a
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 home_country: GBR
 home_port: Manningtree
 hull_form: unknown
 id: 9850f9d3-4f11-4e75-8b97-400f962a2397
 length_on_deck: 0
-mainsail_type: lug
-name: Dunlin
-oga_no: 2392
+callsign: ''
 ownerships:
-- current: true
-  id: 350
-  member: 3909
+- id: 350
   share: 64
   start: 2012
+  member: 3909
+  current: true
 place_built: Brightlingsea
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:37.60612+00:00'
 website: ''
 year: 1954
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

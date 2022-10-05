@@ -1,33 +1,43 @@
-builder: 483b31fa-c244-4202-87d5-cd08643f3e09
-callsign: ''
+name: Truant
+oga_no: 3424
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: Truant is a Mark 1 Cheverton
+full_description: Kept at the Orwell Yacht Club and sailed by the current owner when
+  visiting the East Coast from his home in Ireland. The owner is happy to discuss
+  handing the boat on.
+builder:
+  name: Cheverton
+  id: 483b31fa-c244-4202-87d5-cd08643f3e09
+designer:
+  name: Cheverton
+  id: b8f45269-5036-4d64-8479-93e4c2b21d12
 construction_material: wood
 construction_method: carvel
-designer: b8f45269-5036-4d64-8479-93e4c2b21d12
 draft: 0
 engine_installations: []
 for_sales:
 - asking_price: 0
-full_description: Kept at the Orwell Yacht Club and sailed by the current owner when
-  visiting the East Coast from his home in Ireland. The owner is happy to discuss
-  handing the boat on.
-generic_type: Yacht
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 2d143cd8-a91a-4da5-9a36-690e7707948f
 length_on_deck: 0
-mainsail_type: bermudan
-name: Truant
-oga_no: 3424
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 701
-  member: 5637
+- id: 701
   share: 64
+  member: 5637
+  current: true
   start: '?'
-rig_type: Sloop
-short_description: Truant is a Mark 1 Cheverton
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+image_key: 5jtgxC
+construction_details: carvel mahogany on oak
+beam: 0
+for_sale_state:
+  text: for_sale

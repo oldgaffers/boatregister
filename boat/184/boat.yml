@@ -1,34 +1,41 @@
-builder: 8d74da63-305e-4666-8f7f-931df43292b5
-callsign: ''
+name: Chica
+oga_no: 184
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Alexander E. Gostelow
+  id: 8d74da63-305e-4666-8f7f-931df43292b5
+designer:
+  name: W.F. Kelly
+  id: 85f2d476-49f2-4b2e-bf1e-ce605fbb88e0
 construction_material: wood
 construction_method: unknown
-designer: 85f2d476-49f2-4b2e-bf1e-ce605fbb88e0
 draft: 1.6764
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.7737137283589366
   draft: 1.6764203852718849
-  length_on_waterline: 7.315288953913679
   length_over_all: 8.22970007315289
+  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 7c184e1f-c0c2-4e7d-b836-da5af71ae9b5
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Chica
-oga_no: 184
+callsign: ''
 ownerships:
 - name: R J Thomason
   share: 64
   start: 2012
 place_built: Boston
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:34.924159+00:00'
 website: ''
 year: 1938
 year_is_approximate: false
+beam: 2.7737
+for_sale_state:
+  text: not_for_sale

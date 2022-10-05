@@ -1,40 +1,46 @@
-callsign: ''
+name: Halfling
+oga_no: 2242
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Used in Children's TV Serial 1986 BBC Snowgoose
+designer:
+  name: F.W. Mitchell
+  id: 256b950e-c13c-450f-9167-a002d26e2a96
 construction_material: wood
 construction_method: clinker
-designer: 256b950e-c13c-450f-9167-a002d26e2a96
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Used in Children's TV Serial 1986 BBC Snowgoose
-generic_type: unknown
 handicap_data:
   beam: 1.4843940502316508
-  draft: 0.9144111192392099
-  fore_triangle_base: 0.7101926359424531
-  fore_triangle_height: 3.2309192879785416
-  length_on_waterline: 3.6576444769568397
-  length_over_all: 3.785662033650329
   main:
     foot: 2.996220434040478
     head: 3.2004389173372347
     luff: 3.0480370641306997
   thcf: 0.771365013
+  draft: 0.9144111192392099
+  length_over_all: 3.785662033650329
+  fore_triangle_base: 0.7101926359424531
+  length_on_waterline: 3.6576444769568397
+  fore_triangle_height: 3.2309192879785416
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 3613f4e4-80fd-4fc2-907a-7dc54374238d
 length_on_deck: 3.7856
-mainsail_type: gaff
-name: Halfling
-oga_no: 2242
+callsign: ''
 ownerships:
 - name: Dr & Mrs N G Mumford
   share: 64
   start: 1988
 place_built: Brightlingsea
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:33.280376+00:00'
 website: ''
 year: 1928
 year_is_approximate: false
+construction_details: Clinker
+beam: 1.4844
+for_sale_state:
+  text: not_for_sale

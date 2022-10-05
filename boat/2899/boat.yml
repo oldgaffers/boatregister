@@ -1,13 +1,21 @@
-builder: d71d624a-2aaf-4de8-948a-aba131537aee
-callsign: ''
+name: Capella
+oga_no: 2899
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: see WWW.yachtcapella.co.uk, Watercraft
+builder:
+  name: Ronald Henderson
+  id: d71d624a-2aaf-4de8-948a-aba131537aee
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
 construction_material: wood
 construction_method: unknown
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: see WWW.yachtcapella.co.uk, Watercraft
-generic_type: Yacht
 handicap_data:
   beam: 3.0998536942209216
   length_over_all: 8.601560594976835
@@ -16,17 +24,20 @@ home_port: South Queensferry
 hull_form: unknown
 id: d7f8794a-0886-40f7-9d7a-3434277e2ba3
 length_on_deck: 8.6015
-mainsail_type: gaff
-name: Capella
-oga_no: 2899
+callsign: ''
 ownerships:
 - name: Ronald Henderson
   share: 64
   start: 2001
 place_built: Edinborough
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:52.756868+00:00'
 website: ''
 year: 2006
 year_is_approximate: false
+construction_details: Multichine ply 5 streaks
+beam: 3.0998
+design_class:
+  name: Salterns 29
+  id: f7699c30-d120-4b5c-99ee-5e87026bd17b
+for_sale_state:
+  text: not_for_sale

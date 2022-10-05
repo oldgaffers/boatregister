@@ -1,11 +1,10 @@
-builder: cbdb2200-b74d-4fa1-ad09-8782b1c69ff9
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 6b0e581f-8507-4748-8d44-f8fb73dbef19
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Tarifa
+oga_no: 2232
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Tarifa was designed as a fast shoal draught cruising yacht for
+  H Torif Garnham who sailed extensively on the East Coast with his wife.
 full_description: "<p>Tarifa was kept at Walton on the Naze from when she was built\
   \ for a long time. she was built for H Torif Garnham who sailed her extensively\
   \ on the East Coast with his wife. He wrote 2 articles under the title of &quot;Home\
@@ -28,40 +27,53 @@ full_description: "<p>Tarifa was kept at Walton on the Naze from when she was bu
   \ teak planking is original, as is much of the deck, cabin and cockpit joinery.\
   \ Her rig is a new one but a faithful copy of the original.</p>\r\n\r\n<p>Tarifa\
   \ has a shallow draft of 2ft 6ins with a lifting centre plate.</p>"
-generic_type: Yacht
+builder:
+  name: Burnham Yacht Building Co.
+  id: cbdb2200-b74d-4fa1-ad09-8782b1c69ff9
+designer:
+  name: G.U. Laws
+  id: 6b0e581f-8507-4748-8d44-f8fb73dbef19
+construction_material: wood
+construction_method: carvel
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.9144111192392099
-  fore_triangle_base: 3.3528407705437697
-  fore_triangle_height: 6.705681541087539
-  length_on_waterline: 6.160082906608144
-  length_over_all: 8.574128261399657
   main:
     foot: 6.5532796878810045
     head: 4.26725188978298
     luff: 7.924896366739819
+  thcf: 0.972783672
+  draft: 0.9144111192392099
   propellor:
     type: fixed
-  thcf: 0.972783672
+  length_over_all: 8.574128261399657
+  fore_triangle_base: 3.3528407705437697
+  length_on_waterline: 6.160082906608144
+  fore_triangle_height: 6.705681541087539
 home_country: GBR
 home_port: Bembridge
 hull_form: long keel deep forefoot
 id: 479e70ee-efac-4072-840f-9791f10bdcda
 length_on_deck: 8.5954
-mainsail_type: gaff
-name: Tarifa
-oga_no: 2232
+uk_part1: '165451'
+callsign: ''
 ownerships:
-- current: true
-  id: 264
-  member: 3393
+- id: 264
   share: 64
   start: 1998
+  member: 3393
+  current: true
 place_built: Burnham on Crouch
-rig_type: Sloop
-short_description: Tarifa was designed as a fast shoal draught cruising yacht for
-  H Torif Garnham who sailed extensively on the East Coast with his wife.
 updated_at: '2021-12-19T13:39:32.964379+00:00'
 website: ''
 year: 1909
 year_is_approximate: false
+previous_names:
+- Kitzi
+- Tarifa
+construction_details: Carvel pitch pine on Canadian rock elm with teak sheerstrake
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

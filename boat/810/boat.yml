@@ -1,33 +1,40 @@
-builder: 90b5a57c-feb8-4b30-b2ea-6d9e447f93d2
-callsign: ''
+name: Tarka
+oga_no: 810
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: W.J. Holcombe
+  id: 90b5a57c-feb8-4b30-b2ea-6d9e447f93d2
+designer:
+  name: Andrew Anderson
+  id: 5c6e97d7-70dd-4611-9852-3c524014cf76
 construction_material: wood
 construction_method: unknown
-designer: 5c6e97d7-70dd-4611-9852-3c524014cf76
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
-  length_on_waterline: 6.4008778346744695
   length_over_all: 7.620092660326749
+  length_on_waterline: 6.4008778346744695
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: ffb4620f-c760-46a3-96d7-dbc0f1be3327
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Tarka
-oga_no: 810
+callsign: ''
 ownerships:
 - name: O L Shaw
   share: 64
   start: 2012
 place_built: Penarth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:52.986393+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

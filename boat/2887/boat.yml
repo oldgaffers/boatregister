@@ -1,42 +1,55 @@
-builder: 8a82d415-d993-42f4-bff3-59b0e583cc3b
-callsign: ''
+name: Cloud 9
+oga_no: 2887
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Kenny Anderson
+  id: 8a82d415-d993-42f4-bff3-59b0e583cc3b
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: wood
 construction_method: unknown
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.6764203852718849
-  fore_triangle_base: 1.097293343087052
-  fore_triangle_height: 3.9624481833699097
-  length_on_waterline: 4.22457937088515
-  length_over_all: 4.419653742989515
   main:
     foot: 3.1242379907339672
     head: 3.0480370641306997
     luff: 2.2098268714947573
   thcf: 0.774158318
+  length_over_all: 4.419653742989515
+  fore_triangle_base: 1.097293343087052
+  length_on_waterline: 4.22457937088515
+  fore_triangle_height: 3.9624481833699097
 home_country: 'null'
 home_port: Darlington
 hull_form: unknown
 id: 5d9419b5-2474-4178-ba56-f778a46bf1ea
 length_on_deck: 4.4196
-mainsail_type: gaff
-name: Cloud 9
-oga_no: 2887
+sail_number: '9'
+ssr: '126753'
+callsign: ''
 ownerships:
-- current: true
-  id: 308
-  member: 3689
+- id: 308
   share: 64
   start: 2004
+  member: 3689
+  current: true
 place_built: Darlington
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:52.380866+00:00'
 website: ''
 year: 2004
 year_is_approximate: false
+construction_details: Strip plank cedar
+beam: 1.6764
+design_class:
+  name: Swallow
+  id: af580637-632f-4205-994e-9772307fe28d
+for_sale_state:
+  text: not_for_sale

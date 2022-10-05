@@ -1,47 +1,61 @@
-builder: d0336872-a447-4748-ae62-85ce7b90efe1
-callsign: ''
-construction_material: wood
-construction_method: double_diagonal
-designer: cfb14a6f-03f7-4689-832d-2a21f28b7fc4
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Luke's Minnie
+oga_no: 860
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Restored by previous owner  Owned in 1930 and 40's by T H Erskine
   of Whitehouse Belfast Log 72/1 - advert lying Alicante Spain - Known as Minnie then
   CB Oct 91 Sailed to USA 1960's when owned by Americans, Brought back by Reginald
   McKern in 1974 renamed Luke's Minnie. Sailed to West Indies   For sale Log March
   2002
-generic_type: Yacht
+builder:
+  name: W.G. Luke and Co.
+  id: d0336872-a447-4748-ae62-85ce7b90efe1
+designer:
+  name: Alfred E. Payne
+  id: cfb14a6f-03f7-4689-832d-2a21f28b7fc4
+construction_material: wood
+construction_method: double_diagonal
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.0998536942209216
-  draft: 1.5240185320653499
-  fore_triangle_base: 5.059741526456962
-  fore_triangle_height: 7.620092660326749
-  length_on_waterline: 9.1441111923921
-  length_over_all: 9.500731528895392
   main:
     foot: 6.6294806144842715
     head: 4.672640819312362
     luff: 4.825042672518897
+  thcf: 0.966700313
+  draft: 1.5240185320653499
   propellor:
     type: fixed
-  thcf: 0.966700313
+  length_over_all: 9.500731528895392
+  fore_triangle_base: 5.059741526456962
+  length_on_waterline: 9.1441111923921
+  fore_triangle_height: 7.620092660326749
 home_country: 'null'
 home_port: Poole
 hull_form: long keel deep forefoot
 id: 6707c2bc-2ce2-4920-93b2-cd0d37753323
 length_on_deck: 9.5006
-mainsail_type: gaff
-name: Luke's Minnie
-oga_no: 860
+reference:
+- Log 72/1
+- CB Oct 91
+- Log Mar 2002
+callsign: ''
 ownerships:
 - name: Roger Harris
   share: 64
   start: 1995
 place_built: Hamble
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:54.43615+00:00'
 website: ''
 year: 1893
 year_is_approximate: false
+previous_names:
+- Minnie
+construction_details: Original matrial sheathed in double diagonal cold moulded.
+beam: 3.0998
+for_sale_state:
+  text: not_for_sale

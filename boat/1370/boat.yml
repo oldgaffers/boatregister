@@ -1,40 +1,52 @@
-builder: 8f423342-b25e-40d9-8725-3d143660e8f5
-callsign: ''
+name: Sawsan
+oga_no: 1370
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>GRP gaff rigged cutter designed by Paul Gartside based on oyster
+  boats found in Cornwall.</p>
+full_description: Water Craft Sep/Oct 98
+builder:
+  name: Oystersailers Ltd.
+  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+designer:
+  name: Paul Gartside
+  id: 0557a793-41ba-4182-8138-206701b31451
 construction_material: grp
 construction_method: cold_moulded
-designer: 0557a793-41ba-4182-8138-206701b31451
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Water Craft Sep/Oct 98
-generic_type: Yacht
 handicap_data:
   beam: 1.929407461594733
   draft: 0.9144111192392099
-  length_on_waterline: 4.800658376005852
   length_over_all: 4.87685930260912
+  length_on_waterline: 4.800658376005852
 home_country: 'null'
 home_port: Suffolk Yacht Harbour
 hull_form: unknown
 id: f7dead2c-0c7e-42b9-9803-a43593313f34
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Sawsan
-oga_no: 1370
+callsign: ''
 ownerships:
 - name: Dennis L Eyre
   share: 64
   start: 1986
-- current: true
-  id: 1069
-  member: 6322
+- id: 1069
   share: 64
+  member: 6322
+  current: true
   start: '?'
 place_built: Penryn
-rig_type: Cutter
-short_description: <p>GRP gaff rigged cutter designed by Paul Gartside based on oyster
-  boats found in Cornwall.</p>
 updated_at: '2021-12-19T13:39:09.419647+00:00'
 website: ''
 year: 1982
 year_is_approximate: false
+image_key: 9PdXjT
+construction_details: GRP
+beam: 1.9294
+design_class:
+  name: Oysterman 16
+  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
+for_sale_state:
+  text: not_for_sale

@@ -1,44 +1,52 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: ''
+name: Sark
+oga_no: 2523
+generic_type: Dayboat
+rig_type: Yawl
+mainsail_type: lug
+short_description: ''
+full_description: Hull no 677, owned from new
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: grp
 construction_method: cold_moulded
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Hull no 677, owned from new
-generic_type: Dayboat
 handicap_data:
   beam: 1.777005608388198
-  draft: 0.9144111192392099
-  fore_triangle_base: 1.5240185320653499
-  fore_triangle_height: 3.581443550353572
-  length_on_waterline: 4.13923433308949
-  length_over_all: 4.724457449402585
   main:
     foot: 2.7432333577176298
     head: 2.8194342843208973
     luff: 1.8288222384784198
+  thcf: 0.760977656
+  draft: 0.9144111192392099
   mizzen:
     foot: 1.1430138990490124
     luff: 2.13362594489149
-  thcf: 0.760977656
+  length_over_all: 4.724457449402585
+  fore_triangle_base: 1.5240185320653499
+  length_on_waterline: 4.13923433308949
+  fore_triangle_height: 3.581443550353572
 home_country: 'null'
 home_port: Burnham on Crouch
 hull_form: unknown
 id: 0b4fc1b9-e58a-4f2e-83ef-865e6bfb8d0b
 length_on_deck: 4.7244
-mainsail_type: lug
-name: Sark
-oga_no: 2523
+callsign: ''
 ownerships:
 - name: Gerald Farr
   share: 64
   start: 1983
 place_built: Totnes
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:41.679104+00:00'
 website: ''
 year: 1983
 year_is_approximate: false
+construction_details: GRP
+beam: 1.777
+for_sale_state:
+  text: not_for_sale

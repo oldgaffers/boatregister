@@ -1,11 +1,10 @@
-builder: e5c00172-7ec2-4bc9-9979-d47454b84ba4
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
-draft: 0.8382
-engine_installations: []
-for_sales: []
+name: Lufra
+oga_no: 697
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Lufra is a&nbsp;much travelled Deben Cherub, having been sailed
+  in Scotland and Cornwall, as well as the Scilly Isles</p>
 full_description: "From Gaffer's Log 74-4\r\n\"We fully intended taking part in the\
   \ 1977 Clyde Race, and were at Rhu Marina the previous night, but the rising forecast\
   \ and conditions outside the Gairloch did not sound suitable for a Cherub full of\
@@ -20,62 +19,79 @@ full_description: "From Gaffer's Log 74-4\r\n\"We fully intended taking part in 
   \ kept in Cornwall and the Isles of  Scilly. In 1987 her rig was recorded as being\
   \ altered from a \"high peak gaff sloop to a conventional gaff cutter, with the\
   \ mast altered to fit in a tabernacle.\""
-generic_type: Yacht
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+designer:
+  name: A.R. Curjel
+  id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
+construction_material: wood
+construction_method: carvel
+draft: 0.8382
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
   draft: 0.8382101926359424
-  length_on_waterline: 5.18166300902219
   length_over_all: 6.4008778346744695
+  length_on_waterline: 5.18166300902219
 home_country: 'null'
 home_port: Scillies
 hull_form: unknown
 id: 181898c5-5646-41fe-b016-f6c593a00b59
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Lufra
-oga_no: 697
+reference:
+- From Gaffer's Log 74-4
+sail_number: CC7
+callsign: ''
 ownerships:
 - note: pre 1987 Mr Aitkin
-  start: 1987
-  start_is_approximate: false
   text: pre
-- end: 1989
-  end_is_approximate: false
-  note: 1987-1989 Aidan de la Mare
   start: 1987
   start_is_approximate: false
+- end: 1989
+  note: 1987-1989 Aidan de la Mare
   text: Aidan de la Mare
-- end: 1997
+  start: 1987
   end_is_approximate: false
-  note: 1989-1997 Norma Ashun
-  start: 1989
   start_is_approximate: false
+- end: 1997
+  note: 1989-1997 Norma Ashun
   text: Norma Ashun
+  start: 1989
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 2016
   name: Dominic Walsh-Newton
   share: 64
   start: 2001
 - note: 2001-? Dominic Walsh-Newton
+  text: Dominic Walsh-Newton
   start: 2001
   start_is_approximate: false
-  text: Dominic Walsh-Newton
 - name: James Vickers-Fletcher
   share: 64
   start: 2016
 - note: James Fletcher owns her in 2019
+  text: James Fletcher owns her in
   start: 2019
   start_is_approximate: false
-  text: James Fletcher owns her in
-- current: true
-  id: 34596
-  member: 6360
+- id: 34596
   share: 64
+  member: 6360
+  current: true
   start: '?'
 place_built: Woodbridge
-rig_type: Cutter
-short_description: <p>Lufra is a&nbsp;much travelled Deben Cherub, having been sailed
-  in Scotland and Cornwall, as well as the Scilly Isles</p>
 updated_at: '2021-12-19T13:38:49.880177+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+image_key: gwKVRf
+construction_details: Carvel larch  above waterline, a pitch pine below. Steamed Oak
+  ribs,  & cast iron keel
+beam: 2.1336
+design_class:
+  name: Deben Cherub
+  id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
+for_sale_state:
+  text: not_for_sale

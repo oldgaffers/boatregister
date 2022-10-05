@@ -1,34 +1,45 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
+name: Eaglet
+oga_no: 908
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 79/1.  Built for Captain of HMS Eagle.
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 construction_material: wood
 construction_method: unknown
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 1.7069
 engine_installations: []
 for_sales: []
-full_description: Log 79/1.  Built for Captain of HMS Eagle.
-generic_type: Yacht
 handicap_data:
   beam: 2.4993903925871734
   draft: 1.7069007559131917
-  length_on_waterline: 7.101926359424531
   length_over_all: 7.772494513533284
+  length_on_waterline: 7.101926359424531
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 0b194cc2-1f05-45a1-a94a-4fc1e9264787
 length_on_deck: 7.7724
-mainsail_type: gaff
-name: Eaglet
-oga_no: 908
+reference:
+- Log 79/1
+callsign: ''
 ownerships:
 - name: P M Phillips
   share: 64
   start: 2012
 place_built: Littlehampton
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:55.759161+00:00'
 website: ''
 year: 1929
 year_is_approximate: false
+construction_details: Pine on Oak, pine deck, coachroof & trin mahogany, iron keel
+  lead ballast.
+beam: 2.4994
+for_sale_state:
+  text: not_for_sale

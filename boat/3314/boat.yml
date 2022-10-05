@@ -1,49 +1,58 @@
-builder: 89447eba-063c-4945-9640-8da9b39233d6
-callsign: ''
+name: Jan Blank
+oga_no: 3314
+generic_type: Lifeboat
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Jan Blank&#39; is a lifeboat converted to a trailer sailer
+  cabin cruiser.</p>
+full_description: <p>&#39;Jan Blank&#39; has been converted to a cabin cruiser from
+  a lifeboat. She has cruised in Brittany, 2015 and Sweden in 2016.</p>
+builder:
+  name: Jachtwerf Rik Homan
+  id: 89447eba-063c-4945-9640-8da9b39233d6
+designer:
+  name: Rik Holman
+  id: 22d42b79-2933-4e6a-82ad-45a02a1e0c43
 construction_material: grp
 construction_method: cold_moulded
-designer: 22d42b79-2933-4e6a-82ad-45a02a1e0c43
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: <p>&#39;Jan Blank&#39; has been converted to a cabin cruiser from
-  a lifeboat. She has cruised in Brittany, 2015 and Sweden in 2016.</p>
-generic_type: Lifeboat
 handicap_data:
-  calculated_thcf: 0.859
-  draft_keel_down: 1.524
-  fore_triangle_base: 3.81
-  fore_triangle_height: 5.0048
-  length_on_waterline: 6.5532
-  length_over_spars: 8.5344
-  length_overall: 6.7056
   main:
     foot: 13.08
     head: 9.83
     luff: 10.5
-  moving_keel: true
-  moving_keel_type: Centreboard
-  sailarea: 6
   topsail:
     luff: 12.17
     perpendicular: 6.58
+  sailarea: 6
+  moving_keel: true
+  length_overall: 6.7056
+  calculated_thcf: 0.859
+  draft_keel_down: 1.524
+  moving_keel_type: Centreboard
+  length_over_spars: 8.5344
+  fore_triangle_base: 3.81
+  length_on_waterline: 6.5532
+  fore_triangle_height: 5.0048
 home_country: NLD
 home_port: Reeuwijk
 hull_form: long keel deep forefoot
 id: dbd7bbd3-7232-491a-8843-bbd1a56035a2
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Jan Blank
-oga_no: 3314
+callsign: ''
 ownerships:
 - name: Rik Holman
   share: 64
   start: 2014
 place_built: Reeuwijk
-rig_type: Cutter
-short_description: <p>&#39;Jan Blank&#39; is a lifeboat converted to a trailer sailer
-  cabin cruiser.</p>
 updated_at: '2021-12-19T13:40:07.348379+00:00'
 website: ''
 year: 2014
 year_is_approximate: false
+image_key: mjKdPV
+construction_details: Hull is GRP, deck and cabin wood.
+beam: 2.4628
+for_sale_state:
+  text: not_for_sale

@@ -1,37 +1,46 @@
-builder: b0d65e81-46dd-427f-9c2e-b64845d09f63
-callsign: ''
+name: Grace Abounding
+oga_no: 2657
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: Sold July '08
+builder:
+  name: Willow Bay Boats
+  id: b0d65e81-46dd-427f-9c2e-b64845d09f63
+designer:
+  name: Phil Swift
+  id: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
 construction_material: wood
 construction_method: clinker_ply
-designer: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
 draft: 0.1768
 engine_installations: []
 for_sales: []
-full_description: Sold July '08
-generic_type: Dinghy
 handicap_data:
   beam: 1.5240185320653499
-  draft: 0.17678614971958057
-  fore_triangle_base: 1.5240185320653499
-  fore_triangle_height: 2.843818580833943
-  length_on_waterline: 3.2004389173372347
-  length_over_all: 3.5296269202633503
   main:
     foot: 2.43842965130456
     head: 2.718849061204584
     luff: 1.624603755181663
   thcf: 0.722988463
+  draft: 0.17678614971958057
+  length_over_all: 3.5296269202633503
+  fore_triangle_base: 1.5240185320653499
+  length_on_waterline: 3.2004389173372347
+  fore_triangle_height: 2.843818580833943
 home_country: 'null'
 home_port: Grafham Water
 hull_form: unknown
 id: 7a916086-440b-4a4b-9722-08dd5f371f5c
 length_on_deck: 3.5296
-mainsail_type: lug
-name: Grace Abounding
-oga_no: 2657
+sail_number: '8'
+callsign: ''
 place_built: Windermere
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:44:34.08251+00:00'
 website: ''
 year: 2003
 year_is_approximate: false
+construction_details: Ply 4 strake clinker
+beam: 1.524
+for_sale_state:
+  text: not_for_sale

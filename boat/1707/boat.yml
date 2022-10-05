@@ -1,33 +1,40 @@
-builder: dcf97e67-faf7-467c-ab12-0c77a0322612
-callsign: ''
+name: Manatee
+oga_no: 1707
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: G.N. Beecher
+  id: dcf97e67-faf7-467c-ab12-0c77a0322612
 construction_material: wood
 construction_method: carvel
 draft: 1.2954
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.8041940990002434
   draft: 1.2954157522555474
-  length_on_waterline: 7.162887100707144
   length_over_all: 7.711533772250671
+  length_on_waterline: 7.162887100707144
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: c4bbfb54-e6c7-499b-b7c5-80398b33c4bd
 length_on_deck: 7.7114
-mainsail_type: gaff
-name: Manatee
-oga_no: 1707
+uk_part1: '335707'
+callsign: ''
 ownerships:
 - name: P & V Mayhew
   share: 64
   start: 1988
 place_built: Worcester Park Ln
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:18.301934+00:00'
 website: ''
 year: 1966
 year_is_approximate: false
+construction_details: Carvel Larch on oak frames
+beam: 2.8042
+for_sale_state:
+  text: not_for_sale

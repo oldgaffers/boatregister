@@ -1,12 +1,17 @@
-builder: e2c2bf10-9762-48e1-8f06-7e4636d24be7
-callsign: ''
+name: St Cedd
+oga_no: 1656
+generic_type: unknown
+mainsail_type: lug
+short_description: ''
+full_description: Log 83/2
+builder:
+  name: Goodall
+  id: e2c2bf10-9762-48e1-8f06-7e4636d24be7
 construction_material: wood
 construction_method: clinker
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 83/2
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
   length_over_all: 5.334064862228725
@@ -15,16 +20,19 @@ home_port: ''
 hull_form: unknown
 id: a308fc53-a045-4f1c-ba21-7e537afa8e34
 length_on_deck: 5.334
-mainsail_type: lug
-name: St Cedd
-oga_no: 1656
+reference:
+- Log 83/2
+callsign: ''
 ownerships:
 - name: P T Markham
   share: 64
   start: 2012
 place_built: Sandsend
-short_description: ''
 updated_at: '2021-12-19T13:39:17.164631+00:00'
 website: ''
 year: 1957
 year_is_approximate: false
+construction_details: Double ended and clinker built
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

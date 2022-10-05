@@ -1,49 +1,58 @@
-builder: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
-callsign: ''
+name: Little Tern
+oga_no: 2862
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Based on Claud Worth's Tern III, redesigned by first owner /builder
+  to a smaller size.  Ed Burnett designed rig, which includes a 52' hollow mast.
+builder:
+  name: Peter Nash
+  id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
+designer:
+  name: Peter Nash
+  id: ddd45081-5eb8-4b22-83a6-995501de0374
 construction_material: wood
 construction_method: carvel
-designer: ddd45081-5eb8-4b22-83a6-995501de0374
 draft: 1.8288
 engine_installations: []
 for_sales: []
-full_description: Based on Claud Worth's Tern III, redesigned by first owner /builder
-  to a smaller size.  Ed Burnett designed rig, which includes a 52' hollow mast.
-generic_type: Yacht
 handicap_data:
   beam: 2.8956352109241648
-  draft: 1.8288222384784198
-  fore_triangle_base: 6.5532796878810045
-  fore_triangle_height: 10.66812972445745
-  length_on_waterline: 9.1441111923921
-  length_over_all: 11.277737137283589
   main:
     foot: 6.605096317971227
     head: 5.029261155815655
     luff: 5.6388685686417945
-  propellor:
-    type: fixed
   thcf: 1.059801864
+  draft: 1.8288222384784198
   topsail:
     luff: 7.162887100707144
     perpendicular: 3.5052426237503047
+  propellor:
+    type: fixed
+  length_over_all: 11.277737137283589
+  fore_triangle_base: 6.5532796878810045
+  length_on_waterline: 9.1441111923921
+  fore_triangle_height: 10.66812972445745
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel deep forefoot
 id: 79242391-8c3e-4cf4-ba24-3cee53a1c9d0
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: Little Tern
-oga_no: 2862
+ssr: '126068'
+callsign: ''
 ownerships:
-- current: true
-  id: 164
-  member: 2529
+- id: 164
   share: 64
   start: 2005
+  member: 2529
+  current: true
 place_built: Dartmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:51.597874+00:00'
 website: ''
 year: 2005
 year_is_approximate: false
+construction_details: Larch carvel on oak, teak deck and brightwork
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

@@ -1,41 +1,52 @@
-builder: bd534b7c-34dd-48fe-8afa-aef219775e8b
-callsign: ''
+name: Just Right
+oga_no: 2471
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Self built
+builder:
+  name: A.J. Davidson
+  id: bd534b7c-34dd-48fe-8afa-aef219775e8b
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.4816
 engine_installations: []
 for_sales: []
-full_description: Self built
-generic_type: Yacht
 handicap_data:
   beam: 2.194586686174104
-  draft: 0.4815898561326506
-  fore_triangle_base: 2.6670324311143623
-  fore_triangle_height: 5.282248232138502
-  length_on_waterline: 5.364545232870032
-  length_over_all: 5.867471348451597
   main:
     foot: 3.6576444769568397
     head: 3.2004389173372347
     luff: 3.3528407705437697
   thcf: 0.827792025
+  draft: 0.4815898561326506
+  length_over_all: 5.867471348451597
+  fore_triangle_base: 2.6670324311143623
+  length_on_waterline: 5.364545232870032
+  fore_triangle_height: 5.282248232138502
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: a6e3611f-35c0-4f42-92ed-7f2ed2745e29
 length_on_deck: 5.8674
-mainsail_type: gaff
-name: Just Right
-oga_no: 2471
+sail_number: '52'
+callsign: ''
 ownerships:
 - name: Angus James Davidson
   share: 64
   start: 2000
 place_built: Kenilworth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:39.83139+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+beam: 2.1946
+design_class:
+  name: Golant Gaffer
+  id: ecdf01fb-dd46-42f7-9232-39880886de2f
+for_sale_state:
+  text: not_for_sale

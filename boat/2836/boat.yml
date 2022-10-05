@@ -1,48 +1,60 @@
-builder: 13013b12-8617-439c-bc35-ba8f2259031e
-callsign: ''
+name: Syrinx
+oga_no: 2836
+generic_type: Dayboat
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>&#39;Syrinx&#39; is a Kittiwake 14, boat no 28 of 42 (to 2017).</p>
+full_description: 'Hull ID: GB KITCV028l899'
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+designer:
+  name: Roger Wilkinson
+  id: 7b55967c-c09b-4375-8aab-2aa606d145cd
 construction_material: grp
 construction_method: cold_moulded
-designer: 7b55967c-c09b-4375-8aab-2aa606d145cd
 draft: 0.2286
 engine_installations: []
 for_sales: []
-full_description: 'Hull ID: GB KITCV028l899'
-generic_type: Dayboat
 handicap_data:
   beam: 1.5240185320653499
-  draft: 0.22860277980980248
-  fore_triangle_base: 2.414045354791514
-  fore_triangle_height: 3.733845403560107
-  length_on_waterline: 4.26725188978298
-  length_over_all: 4.343452816386247
   main:
     foot: 2.7432333577176298
     head: 2.6152158010241404
     luff: 1.777005608388198
+  thcf: 0.778506497
+  draft: 0.22860277980980248
   mizzen:
     foot: 1.0911972689587905
     luff: 2.261643501584979
-  thcf: 0.778506497
+  length_over_all: 4.343452816386247
+  fore_triangle_base: 2.414045354791514
+  length_on_waterline: 4.26725188978298
+  fore_triangle_height: 3.733845403560107
 home_country: GBR
 home_port: Birmingham
 hull_form: long keel deep forefoot
 id: f08e6049-b29e-44e7-9ee5-a9272e3e7d7a
 length_on_deck: 4.2672
-mainsail_type: gaff
-name: Syrinx
-oga_no: 2836
+callsign: ''
 ownerships:
 - note: One owner from 1999 until July 2004.
+  text: One owner from
   start: 1999
   start_is_approximate: false
-  text: One owner from
 - name: Oliver and Susan Nares
   share: 64
   start: 2004
 place_built: Macclesfield
-rig_type: Yawl
-short_description: <p>&#39;Syrinx&#39; is a Kittiwake 14, boat no 28 of 42 (to 2017).</p>
 updated_at: '2022-04-05T21:20:32.36188+00:00'
 website: ''
 year: 1999
 year_is_approximate: false
+image_key: pGmGpb
+construction_details: GRP with mahogany trim
+beam: 1.524
+design_class:
+  name: Kittiwake 14
+  id: 2040951b-da62-4080-8f0d-b39bae2a4db3
+for_sale_state:
+  text: not_for_sale

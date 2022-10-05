@@ -1,11 +1,15 @@
-callsign: ''
+name: Maia
+oga_no: 6
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   length_over_all: 6.0960741282613995
 home_country: GBR
@@ -13,11 +17,13 @@ home_port: ''
 hull_form: unknown
 id: 74fbe4c1-76f5-4abf-8438-dc8db634c3f6
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Maia
-oga_no: 6
-rig_type: Sloop
-short_description: ''
+callsign: ''
 updated_at: '2021-01-31T17:02:38.982485+00:00'
 website: ''
 year_is_approximate: false
+beam: 0
+design_class:
+  name: Pleiades Class
+  id: 45862861-9584-4aef-8f72-0025be3c7fe9
+for_sale_state:
+  text: not_for_sale

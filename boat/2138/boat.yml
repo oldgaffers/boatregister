@@ -1,11 +1,15 @@
-callsign: ''
+name: Greenshank
+oga_no: 2138
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log sp/93
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log sp/93
-generic_type: unknown
 handicap_data:
   length_over_all: 5.562667642038527
 home_country: 'null'
@@ -13,11 +17,12 @@ home_port: ''
 hull_form: unknown
 id: 3f3c3960-dd37-42c1-9592-817aad1be301
 length_on_deck: 5.5626
-mainsail_type: gaff
-name: Greenshank
-oga_no: 2138
-rig_type: Sloop
-short_description: ''
+reference:
+- Log sp/93
+callsign: ''
 updated_at: '2021-01-31T17:02:50.587532+00:00'
 website: ''
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

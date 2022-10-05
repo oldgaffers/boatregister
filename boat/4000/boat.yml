@@ -1,9 +1,10 @@
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 0.7864
-engine_installations: []
-for_sales: []
+name: Quiver
+oga_no: 4000
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Converted from an open boat in the 1920s, she was lost 4 June
+  1971, wrecked on Les Triagoz Reef to the west of Les Sept Iles, North Brittany Coast.</p>
 full_description: "<p>Rumour had it that &#39;Quiver&#39; was built as a tender for\
   \ the skipper of the racing yacht &#39;Arrow&#39;. Michael Miller had owned her\
   \ for 16 years in 1971 when he and his godson, Richard Penn, set out for the OGA\
@@ -252,7 +253,11 @@ full_description: "<p>Rumour had it that &#39;Quiver&#39; was built as a tender 
   \ afternoon and evening feeding it all through the washing machine, hosing out our\
   \ bags, spreading out all our other bits and pieces to dry. Sunday she spent drying\
   \ and ironing, so that by Sunday afternoon we had the whole lot back, ready to pack.</blockquote>"
-generic_type: unknown
+construction_material: wood
+construction_method: unknown
+draft: 0.7864
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.5146305779078273
   draft: 0.7802974884174592
@@ -262,19 +267,18 @@ home_port: ''
 hull_form: unknown
 id: 74190cbb-25fa-475f-ac78-5cdac06cef22
 length_on_deck: 6.5532
-mainsail_type: gaff
-name: Quiver
-oga_no: 4000
+callsign: ''
 ownerships:
 - end: 1971
   name: Michael Miller
   share: 64
   start: 1953
 place_built: Cowes
-rig_type: Cutter
-short_description: <p>Converted from an open boat in the 1920s, she was lost 4 June
-  1971, wrecked on Les Triagoz Reef to the west of Les Sept Iles, North Brittany Coast.</p>
 updated_at: '2021-12-19T13:39:59.530866+00:00'
 website: ''
 year: 1895
 year_is_approximate: false
+image_key: QRCNqs
+beam: 2.5146
+for_sale_state:
+  text: not_for_sale

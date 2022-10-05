@@ -1,33 +1,40 @@
-builder: ad5b4c35-b73e-4ff5-a504-f69774c5133f
-callsign: ''
+name: Isabel
+oga_no: 108
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Lost of South America mid 1970's Log 64/1
+builder:
+  name: Hancock
+  id: ad5b4c35-b73e-4ff5-a504-f69774c5133f
 construction_material: wood
 construction_method: unknown
 draft: 2.0726
 engine_installations: []
 for_sales: []
-full_description: Lost of South America mid 1970's Log 64/1
-generic_type: unknown
 handicap_data:
   beam: 5.4864667154352595
   draft: 2.0726652036088757
-  length_on_waterline: 18.89782979761034
   length_over_all: 20.72665203608876
+  length_on_waterline: 18.89782979761034
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 9321d8c7-ff5d-43b8-82c1-29f4a111842f
 length_on_deck: 20.7264
-mainsail_type: gaff
-name: Isabel
-oga_no: 108
+reference:
+- Log 64/1
+callsign: ''
 ownerships:
 - name: J L Stevens
   share: 64
   start: 2012
 place_built: Milford
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:32.731664+00:00'
 website: ''
 year: 1897
 year_is_approximate: false
+beam: 5.4864
+for_sale_state:
+  text: not_for_sale

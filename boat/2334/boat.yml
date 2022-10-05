@@ -1,11 +1,10 @@
-builder: ff7b1629-680c-4aec-8744-70c7fea1a636
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
-draft: 1.9812
-engine_installations: []
-for_sales: []
+name: Moya
+oga_no: 2334
+generic_type: Morecambe Bay Prawner
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Built by William Crossfield, Arnside in 1910, 'Moya' is a 43ft
+  Morecambe Bay Prawner, or Nobby, based in the Mediterranean.
 full_description: "<p>Originally built as a yacht, with luxurious accommodation, reported\
   \ on by Yachting Monthly just after her launch, &#39;Moya&#39; started out in Preston,\
   \ and had an engine fitted in 1924. In 1927 she was converted to a yawl, being taken\
@@ -102,20 +101,28 @@ full_description: "<p>Originally built as a yacht, with luxurious accommodation,
   \ This quest, so symptomatic of the man, turned out to be his own last voyage.</p>\r\
   \n</blockquote>\r\n<iframe class=\"rep-video-embed\" src=\"https://video.repubblica.it/embed/super-8/super-8-il-viaggio-di-rumiz-nel-mare-egeo-alla-ricerca-di-europa/283548/284161&width=640&height=360\"\
   \ width=\"640\" height=\"360\" frameborder=\"0\" scrolling=\"no\"></iframe>"
-generic_type: Morecambe Bay Prawner
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+construction_material: wood
+construction_method: unknown
+draft: 1.9812
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.5052426237503047
   draft: 1.9812240916849548
-  length_on_waterline: 10.66812972445745
   length_over_all: 12.954157522555473
+  length_on_waterline: 10.66812972445745
 home_country: GRE
 home_port: Aegina
 hull_form: unknown
 id: 36519441-55c6-442f-83f3-aa5d691e788c
 length_on_deck: 12.954
-mainsail_type: gaff
-name: Moya
-oga_no: 2334
+callsign: ''
 ownerships:
 - name: Chris Waddington
   share: 64
@@ -125,10 +132,11 @@ ownerships:
   share: 64
   start: 1988
 place_built: Arnside
-rig_type: Cutter
-short_description: Built by William Crossfield, Arnside in 1910, 'Moya' is a 43ft
-  Morecambe Bay Prawner, or Nobby, based in the Mediterranean.
 updated_at: '2021-12-19T13:39:35.155878+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+image_key: B73TbG
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

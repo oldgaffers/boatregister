@@ -1,34 +1,44 @@
-builder: 10245c61-c11c-41ff-8ad8-7fa0b9de0a60
-callsign: ''
+name: Delphis
+oga_no: 35
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Eyemouth Boatbuilding Co.
+  id: 10245c61-c11c-41ff-8ad8-7fa0b9de0a60
+designer:
+  name: Francis J. Jones
+  id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 construction_material: wood
 construction_method: unknown
-designer: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 draft: 2.1031
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 4.785418190685198
   draft: 2.103145574250183
-  length_on_waterline: 14.935381614240429
   length_over_all: 15.849792733479639
+  length_on_waterline: 14.935381614240429
 home_country: 'null'
 home_port: Breskens
 hull_form: unknown
 id: b4fa7a30-5584-431d-af81-fccc2ed111db
 length_on_deck: 15.8496
-mainsail_type: gaff
-name: Delphis
-oga_no: 35
+callsign: ''
 ownerships:
 - name: Soenen Philippe
   share: 64
   start: 2012
 place_built: Eyemouth
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:30.670897+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+beam: 4.7854
+design_class:
+  name: Inchcape
+  id: f6fee22b-1363-4e51-b027-0ede69601dd7
+for_sale_state:
+  text: not_for_sale

@@ -1,33 +1,40 @@
-builder: efc0ccaa-5f86-464e-95fa-f42781d84fe7
-callsign: ''
+name: Jenavive
+oga_no: 1768
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Albin Marine
+  id: efc0ccaa-5f86-464e-95fa-f42781d84fe7
+designer:
+  name: Per Brohall
+  id: be7b1db2-0a3f-4191-afe4-7f9dbb60e5bf
 construction_material: wood
 construction_method: unknown
-designer: be7b1db2-0a3f-4191-afe4-7f9dbb60e5bf
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
-  length_on_waterline: 7.010485247500609
   length_over_all: 8.22970007315289
+  length_on_waterline: 7.010485247500609
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 3b4e72a9-9a19-4e4c-973e-2492fb7c7878
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Jenavive
-oga_no: 1768
+callsign: ''
 ownerships:
 - name: J D McHugh
   share: 64
   start: 2012
 place_built: Kristinehamn
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:19.778897+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

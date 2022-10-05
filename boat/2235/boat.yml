@@ -1,12 +1,18 @@
-callsign: ''
+name: Aythia
+oga_no: 2235
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 construction_material: wood
 construction_method: unknown
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.8100463301633747
   length_over_all: 14.020970495001219
@@ -15,17 +21,16 @@ home_port: Vineyard Haven MA USA
 hull_form: unknown
 id: 8c725dff-8c48-4c70-804f-1965b0a494a3
 length_on_deck: 14.0208
-mainsail_type: gaff
-name: Aythia
-oga_no: 2235
+callsign: ''
 ownerships:
 - name: Thomas W Grew
   share: 64
   start: 2012
 place_built: Bangkok
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:33.057131+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+beam: 3.81
+for_sale_state:
+  text: not_for_sale

@@ -1,8 +1,24 @@
-builder: 83735243-3545-49b1-a2c1-333d08b6f973
-callsign: 2GJO3
+name: Jay Jay
+oga_no: 3218
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Completed in 2013, <em>JayJay</em> is a gaff rigged cutter of
+  plywood and epoxy construction.&nbsp;</p>
+full_description: <p><em>JayJay</em> is a Cape Henry 21 designed by Dudley Dix. She
+  is a gaff cutter made of plywood and epoxy. She has a new Mariner 6hp outboard in
+  a well and is easily trailed with her 4 wheel trailer. She sails beautifully and
+  has been very competitive in Old Gaffers races. She was the subject of a video by
+  Bob Aylott of Yachting World 3 years ago which has been viewed 1/4 million times
+  ! https://www.youtube.com/watch?v=VzIz4vhsF7Y .&nbsp;</p>
+builder:
+  name: Brian Johnson
+  id: 83735243-3545-49b1-a2c1-333d08b6f973
+designer:
+  name: Dudley Dix
+  id: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
 construction_material: plywood
 construction_method: unknown
-designer: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
 draft: 0.4877
 engine_installations: []
 for_sales:
@@ -29,48 +45,46 @@ for_sales:
   sold: '2022-03-10'
   summary: null
   updated_at: '2022-02-05T20:28:17.196895+00:00'
-full_description: <p><em>JayJay</em> is a Cape Henry 21 designed by Dudley Dix. She
-  is a gaff cutter made of plywood and epoxy. She has a new Mariner 6hp outboard in
-  a well and is easily trailed with her 4 wheel trailer. She sails beautifully and
-  has been very competitive in Old Gaffers races. She was the subject of a video by
-  Bob Aylott of Yachting World 3 years ago which has been viewed 1/4 million times
-  ! https://www.youtube.com/watch?v=VzIz4vhsF7Y .&nbsp;</p>
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.845
-  draft_keel_down: 1.3472
-  draft_keel_up: 0.509
-  fore_triangle_base: 3.7094
-  fore_triangle_height: 6.0046
-  length_on_waterline: 6.0503
-  length_over_spars: 7.62
-  length_overall: 6.349
   main:
     foot: 11.9
     head: 11.1
     luff: 11.73
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 7
+  moving_keel: true
+  draft_keel_up: 0.509
+  length_overall: 6.349
+  calculated_thcf: 0.845
+  draft_keel_down: 1.3472
+  moving_keel_type: Centreboard
+  length_over_spars: 7.62
+  fore_triangle_base: 3.7094
+  length_on_waterline: 6.0503
+  fore_triangle_height: 6.0046
 home_country: GBR
 home_port: Beaulieu
 hull_form: long keel deep forefoot
 id: 8c0ada55-584d-4371-8331-3156b2343f0a
 length_on_deck: 6.349
-mainsail_type: gaff
-name: Jay Jay
-oga_no: 3218
+sail_number: GBR3843L
+spar_material: wood
+callsign: 2GJO3
 ownerships:
-- end: 2022
-  id: 836
-  member: 5911
+- id: 836
+  end: 2022
   share: 64
   start: 2013
+  member: 5911
 place_built: Littlebury, Essex
-rig_type: Cutter
-short_description: <p>Completed in 2013, <em>JayJay</em> is a gaff rigged cutter of
-  plywood and epoxy construction.&nbsp;</p>
 updated_at: '2022-03-12T09:07:50.116436+00:00'
 website: 'https://www.youtube.com/watch?v=VzIz4vhsF7Y '
 year: 2013
 year_is_approximate: false
+image_key: JwDJSJ
+construction_details: Ply expoxy
+beam: 2.3988
+design_class:
+  name: Cape Henry 21
+  id: ec6d6d6a-72a9-400d-8983-8aef00c97619
+for_sale_state:
+  text: not_for_sale

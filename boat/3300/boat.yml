@@ -1,36 +1,43 @@
-callsign: ''
+name: Calypso
+oga_no: 3300
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: <p>'Calypso' is a beautiful Bermudan cutter, built Falmouth in
+  the 1930s.</p>
+full_description: ''
+designer:
+  name: N. Warrington-Smythe
+  id: e781b4c3-983c-430b-ae5f-3ef6a8a182b5
 construction_material: wood
 construction_method: carvel
-designer: e781b4c3-983c-430b-ae5f-3ef6a8a182b5
 draft: 1.271
 engine_installations: []
 for_sales:
 - asking_price: 5000
-full_description: ''
-generic_type: Yacht
 home_country: GBR
 home_port: Cowes
 hull_form: long keel deep forefoot
 id: 8c416194-0580-402f-bb16-d7367fbb80ce
 length_on_deck: 0
-mainsail_type: bermudan
-name: Calypso
-oga_no: 3300
+callsign: ''
 ownerships:
-- current: true
-  id: 36
-  member: 919
+- id: 36
   share: 64
   start: 1991
+  member: 919
+  current: true
 - note: Owner prior to 1991 was Keith Hathaway
+  text: Owner prior to
   start: 1991
   start_is_approximate: false
-  text: Owner prior to
 place_built: Ponsharden Shipyard, Falmouth
-rig_type: Cutter
-short_description: <p>'Calypso' is a beautiful Bermudan cutter, built Falmouth in
-  the 1930s.</p>
 updated_at: '2021-12-19T13:40:06.90912+00:00'
 website: ''
 year: 1935
 year_is_approximate: false
+image_key: fK6RqP
+construction_details: Carvel pitch pine on oak
+beam: 1.9294
+for_sale_state:
+  text: for_sale

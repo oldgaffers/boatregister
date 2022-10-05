@@ -1,14 +1,22 @@
-builder: 33d33eac-1dfc-4753-a159-0504f59974ae
-callsign: ''
+name: Isabel
+oga_no: 2727
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Based on Cromer crabber, some of Cromer community moved south taking
+  their boats by train.
+builder:
+  name: Emery Bros.
+  id: 33d33eac-1dfc-4753-a159-0504f59974ae
+designer:
+  name: Emery
+  id: 1c7ca434-6376-46ca-a4c6-f5258b6c0673
 construction_material: wood
 construction_method: unknown
-designer: 1c7ca434-6376-46ca-a4c6-f5258b6c0673
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Based on Cromer crabber, some of Cromer community moved south taking
-  their boats by train.
-generic_type: unknown
 handicap_data:
   beam: 3.0480370641306997
   length_over_all: 7.924896366739819
@@ -17,17 +25,16 @@ home_port: Morston
 hull_form: unknown
 id: 068b2674-a305-4b3a-b66d-a7125c00e898
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Isabel
-oga_no: 2727
+callsign: ''
 ownerships:
 - name: Simon Bell
   share: 64
   start: 2012
 place_built: Sheringham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:47.567203+00:00'
 website: ''
 year: 1938
 year_is_approximate: false
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

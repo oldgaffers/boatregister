@@ -1,50 +1,63 @@
-builder: 2a625108-bef9-404e-bf02-4aad488efa47
-callsign: ''
+name: Garganey
+oga_no: 2919
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Garganey is an Oystercatcher 16 built in 1993</p>
+full_description: Owners listed in paper archive.
+builder:
+  name: Mayfly Classic Boats
+  id: 2a625108-bef9-404e-bf02-4aad488efa47
+designer:
+  name: Bryan Gibson
+  id: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
 construction_material: grp
 construction_method: cold_moulded
-designer: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
 draft: 0.6005
 engine_installations: []
 for_sales: []
-full_description: Owners listed in paper archive.
-generic_type: Yacht
 handicap_data:
   beam: 1.929407461594733
-  draft: 0.6004633016337478
-  fore_triangle_base: 2.3104120946110704
-  fore_triangle_height: 3.148622287247013
-  length_on_waterline: 4.815898561326506
-  length_over_all: 4.901243599122164
   main:
     foot: 3.5997317727383566
     head: 2.5512070226773953
     luff: 3.0998536942209216
-  propellor:
-    type: fixed
   thcf: 0.797455749
+  draft: 0.6004633016337478
   topsail:
     luff: 2.740185320653499
     perpendicular: 1.6489880516947086
+  propellor:
+    type: fixed
+  length_over_all: 4.901243599122164
+  fore_triangle_base: 2.3104120946110704
+  length_on_waterline: 4.815898561326506
+  fore_triangle_height: 3.148622287247013
 home_country: GBR
 home_port: Dell Quay, Chichester
 hull_form: shoal_draft
 id: 56cace2a-4856-48ef-9c80-ed8bac36d421
 length_on_deck: 4.9012
-mainsail_type: gaff
-name: Garganey
-oga_no: 2919
+sail_number: GBR2001L
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Martin Watson
   share: 64
   start: 2007
-- current: true
+- share: 64
   member: 5198
-  share: 64
+  current: true
   start: '?'
 place_built: Gweek
-rig_type: Cutter
-short_description: <p>Garganey is an Oystercatcher 16 built in 1993</p>
 updated_at: '2021-12-19T13:39:53.401375+00:00'
 website: ''
 year: 1993
 year_is_approximate: false
+construction_details: Grp wood and alloy spars
+beam: 1.9294
+design_class:
+  name: Oystercatcher 16
+  id: 3afef302-57fe-49ab-bfb8-f7d0ea978a37
+for_sale_state:
+  text: not_for_sale

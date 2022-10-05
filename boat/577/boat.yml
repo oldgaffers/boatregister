@@ -1,26 +1,33 @@
-builder: 5c5e4266-5fe8-44c5-84bd-b3cfb5708397
-callsign: ''
+name: Tidebird
+oga_no: 577
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Tidebird is a New Blossom Class yacht designed by John Leather.</p>
+full_description: ''
+builder:
+  name: Ian Brown Ltd.
+  id: 5c5e4266-5fe8-44c5-84bd-b3cfb5708397
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: clinker
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   draft: 0.6339917093391856
-  length_on_waterline: 5.257863935625457
   length_over_all: 5.843087051938552
+  length_on_waterline: 5.257863935625457
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 1457196e-6f53-4779-868d-42f319787395
 length_on_deck: 5.843
-mainsail_type: gaff
-name: Tidebird
-oga_no: 577
+uk_part1: '308733'
+callsign: ''
 ownerships:
 - end: 1979
   name: R Watkins
@@ -30,15 +37,21 @@ ownerships:
   name: Ken Moss
   share: 64
   start: 1991
-- current: true
-  id: 881
-  member: 5992
+- id: 881
   share: 64
   start: 2015
+  member: 5992
+  current: true
 place_built: Rowhedge
-rig_type: Cutter
-short_description: <p>Tidebird is a New Blossom Class yacht designed by John Leather.</p>
 updated_at: '2021-12-19T13:38:46.339633+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+image_key: tMzQbK
+construction_details: Clinker
+beam: 2.4384
+design_class:
+  name: New Blossom Class
+  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
+for_sale_state:
+  text: not_for_sale

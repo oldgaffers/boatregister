@@ -1,30 +1,41 @@
-builder: d1466460-521c-415b-8235-bb44605da033
-callsign: ''
+name: Vanadis
+oga_no: 2722
+generic_type: Yacht
+rig_type: Schooner
+mainsail_type: gaff
+short_description: ''
+full_description: See CB June 2005
+builder:
+  name: Kai Agerskov
+  id: d1466460-521c-415b-8235-bb44605da033
+designer:
+  name: Kai Agerskov
+  id: c9d26691-ebc7-4188-83df-a2d051bf4e98
 construction_material: wood
 construction_method: carvel
-designer: c9d26691-ebc7-4188-83df-a2d051bf4e98
 draft: 2.158
 engine_installations: []
 for_sales: []
-full_description: See CB June 2005
-generic_type: Yacht
 handicap_data:
   beam: 4.038649109973177
+  thcf: 0.720160607
   draft: 2.1580102414045355
   length_over_all: 20.421848329675687
-  thcf: 0.720160607
 home_country: 'null'
 home_port: Rendsburg
 hull_form: unknown
 id: 99bc640f-3c24-455e-9e5a-844c8ebd8f2f
 length_on_deck: 20.4216
-mainsail_type: gaff
-name: Vanadis
-oga_no: 2722
+callsign: ''
 place_built: Stora Varvet, Stockholm
-rig_type: Schooner
-short_description: ''
 updated_at: '2021-03-23T08:38:13.181598+00:00'
 website: ''
 year: 1868
 year_is_approximate: false
+previous_names:
+- Valdivia von Altona
+- Vanadis
+construction_details: Oak Carvel
+beam: 4.0386
+for_sale_state:
+  text: not_for_sale

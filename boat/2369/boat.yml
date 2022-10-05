@@ -1,11 +1,11 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
-draft: 0
-engine_installations: []
-for_sales: []
+name: Halcyon
+oga_no: 2369
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Halcyon&#39; is a Cape Cutter 19 and has been owned from
+  new by Simon Head who took delivery from&nbsp;Nick and Lyndsay&nbsp;Voorhoeve at
+  Bursledon, July 2003. She has been trailer sailed around the UK.</p>
 full_description: "<p>&#39;Halcyon&#39; is a Cape Cutter 19, built near Cape Town,\
   \ South Africa in July 2003. She is a white boat, there are only three others I\
   \ believe in existence, &#39;Zest&#39; (Hull 28), &#39;Sarabella&#39; (Hull 46)\
@@ -19,27 +19,38 @@ full_description: "<p>&#39;Halcyon&#39; is a Cape Cutter 19, built near Cape Tow
   \ been an enthusiast for the boat since he took over production in the UK.</p>\r\
   \n\r\n<p>&#39;Halcyon&#39; has travelled extensively, visit her website to follow\
   \ her adventures.</p>"
-generic_type: Yacht
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: Dudley Dix
+  id: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Knutsford
 hull_form: unknown
 id: 9e826e71-8363-486b-bcaf-dffa2298cc81
 length_on_deck: 0
-mainsail_type: gaff
-name: Halcyon
-oga_no: 2369
+callsign: ''
 ownerships:
-- current: true
-  id: 345
-  member: 3881
+- id: 345
   share: 64
   start: 2003
+  member: 3881
+  current: true
 place_built: Cape Town, SA
-rig_type: Cutter
-short_description: <p>&#39;Halcyon&#39; is a Cape Cutter 19 and has been owned from
-  new by Simon Head who took delivery from&nbsp;Nick and Lyndsay&nbsp;Voorhoeve at
-  Bursledon, July 2003. She has been trailer sailed around the UK.</p>
 updated_at: '2021-12-19T13:39:36.969881+00:00'
 website: http://www.inspiration19.com/
 year: 2003
 year_is_approximate: false
+image_key: ghLm52
+beam: 0
+design_class:
+  name: Cape Cutter 19
+  id: aeb6b869-a715-4296-a506-35ae1bc28e2f
+for_sale_state:
+  text: not_for_sale

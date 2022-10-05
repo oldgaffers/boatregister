@@ -1,14 +1,22 @@
-builder: 8a476c3a-d55a-4064-b442-0a359ec300d1
-callsign: ''
+name: Alabama
+oga_no: 2441
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: PO Box 429, Vineyard Haven, MA 02568 PO Box 429, Vineyard Haven,
+  MA 02568 Rebuilt 1995-7 G S Maynard Shipyard Vineyard Haven MA.
+builder:
+  name: Pensacola Ship Building Co.
+  id: 8a476c3a-d55a-4064-b442-0a359ec300d1
+designer:
+  name: Thomas F. McManus
+  id: e43a4ad7-d2dc-4e84-8eb3-2f53dd3b7e45
 construction_material: wood
 construction_method: unknown
-designer: e43a4ad7-d2dc-4e84-8eb3-2f53dd3b7e45
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: PO Box 429, Vineyard Haven, MA 02568 PO Box 429, Vineyard Haven,
-  MA 02568 Rebuilt 1995-7 G S Maynard Shipyard Vineyard Haven MA.
-generic_type: Yacht
 handicap_data:
   beam: 6.4008778346744695
   length_over_all: 27.432333577176298
@@ -17,17 +25,16 @@ home_port: Vineyard Haven MA USA
 hull_form: unknown
 id: ac03a120-f193-41af-9296-3024d962533c
 length_on_deck: 27.432
-mainsail_type: gaff
-name: Alabama
-oga_no: 2441
+callsign: ''
 ownerships:
 - name: Robert S Douglas
   share: 64
   start: 2012
 place_built: Pensacola Florida
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:38.819623+00:00'
 website: ''
 year: 1926
 year_is_approximate: false
+beam: 6.4008
+for_sale_state:
+  text: not_for_sale

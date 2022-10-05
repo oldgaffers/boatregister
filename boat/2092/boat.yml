@@ -1,13 +1,22 @@
-builder: 9f0b26bf-7c37-4669-9675-79c3f0f487ef
-callsign: ''
+name: Spellbound
+oga_no: 2092
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Built as an Etchells 22 in 1976, she was converted to a gaff
+  sloop with a counter stern in 1996 by Mark Butler.</p>
+full_description: ''
+builder:
+  name: Robertsons/Butler
+  id: 9f0b26bf-7c37-4669-9675-79c3f0f487ef
+designer:
+  name: Skip Etchell/Mark Butler
+  id: fc827516-a780-4add-8ead-c0a791b367ff
 construction_material: wood
 construction_method: unknown
-designer: fc827516-a780-4add-8ead-c0a791b367ff
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.1854425749817117
   length_over_all: 9.653133382101926
@@ -16,20 +25,20 @@ home_port: Brightlingsea
 hull_form: unknown
 id: 23730e93-7f31-4885-9e6f-df53ae4c8034
 length_on_deck: 9.653
-mainsail_type: gaff
-name: Spellbound
-oga_no: 2092
+callsign: ''
 ownerships:
-- current: true
-  id: 237
-  member: 3267
+- id: 237
   share: 64
   start: 2012
+  member: 3267
+  current: true
 place_built: Sandbank/Brightlingsea
-rig_type: Sloop
-short_description: <p>Built as an Etchells 22 in 1976, she was converted to a gaff
-  sloop with a counter stern in 1996 by Mark Butler.</p>
 updated_at: '2021-12-19T13:39:29.134859+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+previous_names:
+- Scorpio
+beam: 2.1854
+for_sale_state:
+  text: not_for_sale

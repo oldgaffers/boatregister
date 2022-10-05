@@ -1,12 +1,18 @@
-builder: 283e58af-5069-4af6-abac-cb571aea1192
-callsign: ''
+name: Dawn
+oga_no: 260
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 83/3
+builder:
+  name: Reg Partridge
+  id: 283e58af-5069-4af6-abac-cb571aea1192
 construction_material: wood
 construction_method: unknown
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Log 83/3
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.21921482565228
@@ -16,17 +22,19 @@ home_port: ''
 hull_form: unknown
 id: d55c3467-af6f-44db-9de6-c2a5e1008116
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Dawn
-oga_no: 260
+reference:
+- Log 83/3
+callsign: ''
 ownerships:
 - name: M D Millar
   share: 64
   start: 2012
 place_built: Barking Creek
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:37.300649+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+construction_details: Teak on oak
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

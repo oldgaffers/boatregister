@@ -1,11 +1,10 @@
-builder: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 37137bb5-f344-4068-9a51-5b7e9202f1e7
-draft: 0
-engine_installations: []
-for_sales: []
+name: Betty
+oga_no: 3
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>&#39;Betty&#39; was built as a yawl at Tarbert in 1913. but&nbsp;converted
+  to a cutter in 1954. In 1969 she was converted back to a yawl.</p>
 full_description: "<p><em>Betty</em> was built in 1913 for Sam Strang of Glasgow,\
   \ as an auxiliary yacht. Although built for an engine from the start her propellor\
   \ was offset rather than on the centre line. In&nbsp;1938 her 2 cylinder petrol\
@@ -15,81 +14,90 @@ full_description: "<p><em>Betty</em> was built in 1913 for Sam Strang of Glasgow
   \ sold to Bristol, where she remained until she disappeared from the Lloyds register\
   \ of yachts in 1969. At this point she was still a&nbsp;cutter, but OGA records\
   \ state that this was the year she&nbsp;was returned to yawl rig</p>\r\n\r\n<p>&nbsp;</p>"
-generic_type: Yacht
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+designer:
+  name: J.A. McCallum
+  id: 37137bb5-f344-4068-9a51-5b7e9202f1e7
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.590831504511095
-  length_on_waterline: 8.53450377956596
   length_over_all: 9.631797122653012
+  length_on_waterline: 8.53450377956596
 home_country: GBR
 home_port: East Coast
 hull_form: unknown
 id: aeaa760a-8996-4a88-a732-0257dd1deb02
 length_on_deck: 9.6317
-mainsail_type: gaff
-name: Betty
-oga_no: 3
+callsign: ''
 ownerships:
 - note: 1913-? Sam F Strang, Glasgow
+  text: Sam F Strang, Glasgow
   start: 1913
   start_is_approximate: false
-  text: Sam F Strang, Glasgow
 - end: 1922
-  end_is_approximate: false
   note: 1919-22 F Caldwell Ker, Glasgow
-  start: 1919
-  start_is_approximate: false
   text: F Caldwell Ker, Glasgow
+  start: 1919
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1924
-  end_is_approximate: false
   note: 1923-4 Cyril E Tarbolton, Glasgow
-  start: 1923
-  start_is_approximate: false
   text: Cyril E Tarbolton, Glasgow
+  start: 1923
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1937
-  end_is_approximate: false
   note: 1925-37 Lt-Col AOL Kindersley. Glasgow
-  start: 1925
-  start_is_approximate: false
   text: Lt-Col AOL Kindersley. Glasgow
+  start: 1925
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1953
-  end_is_approximate: false
   note: 1938-1953 Major EHM Unwin (joint with RG Gray in 1949). Glasgow
-  start: 1938
-  start_is_approximate: false
   text: Major EHM Unwin (joint with RG Gray in
+  start: 1938
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1959
-  end_is_approximate: false
   note: 1953-1959 AGA Muirhead. Glasgow
-  start: 1953
-  start_is_approximate: false
   text: AGA Muirhead. Glasgow
-- end: 1964
+  start: 1953
   end_is_approximate: false
-  note: 1959-64 Wing Commander RV Evans. Bristol
-  start: 1959
   start_is_approximate: false
+- end: 1964
+  note: 1959-64 Wing Commander RV Evans. Bristol
   text: Wing Commander RV Evans. Bristol
+  start: 1959
+  end_is_approximate: false
+  start_is_approximate: false
 - note: 1965-? FR West, registered to Mrs BA West in 1969. Bristol
+  text: FR West, registered to Mrs BA West in
   start: 1965
   start_is_approximate: false
-  text: FR West, registered to Mrs BA West in
 - name: R G Humphreys
   share: 64
   start: 1979
 - note: 1979 RG Humphreys (OGA data)
+  text: RG Humphreys (OGA data)
   start: 1979
   start_is_approximate: false
-  text: RG Humphreys (OGA data)
 - note: '''Betty'' was owned in the 1980s by one of the founder members of the OGA,
     Mike Richards.'
+  text: '''Betty'' was owned in the'
   start: 1980
   start_is_approximate: false
-  text: '''Betty'' was owned in the'
 place_built: Tarbert
-rig_type: Yawl
-short_description: <p>&#39;Betty&#39; was built as a yawl at Tarbert in 1913. but&nbsp;converted
-  to a cutter in 1954. In 1969 she was converted back to a yawl.</p>
 updated_at: '2021-12-19T13:38:29.787163+00:00'
 website: ''
 year: 1913
 year_is_approximate: false
+image_key: RsNPNk
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

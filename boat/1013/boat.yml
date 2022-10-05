@@ -1,50 +1,59 @@
-builder: a90b6e84-74a4-40dc-9b32-fc4c6c7dab5b
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: c726ec44-2c43-4620-90e3-6631a912c6b6
-draft: 0.6096
-engine_installations: []
-for_sales: []
+name: Ianthe
+oga_no: 1013
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
 full_description: Log 83/4  21 ft. centreboard three-quarter decked sloop. Believed
   to have been built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington.  The
   boat has wintered in the same shed, which was built for her (and her sisters) since
   1913 at Christchurch till for sale in '83. Professionally maintained all her life.  Performance
   remarkable.  In 3 OGA' races she has 2 firsts & a second.
-generic_type: unknown
+builder:
+  name: Inman and Co Ltd
+  id: a90b6e84-74a4-40dc-9b32-fc4c6c7dab5b
+designer:
+  name: E. Inman
+  id: c726ec44-2c43-4620-90e3-6631a912c6b6
+construction_material: wood
+construction_method: unknown
+draft: 0.6096
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.60960741282614
-  draft_keeldown: 1.6764203852718849
-  fore_triangle_base: 3.0480370641306997
-  fore_triangle_height: 5.4864667154352595
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 7.31528896549622
   main:
     foot: 4.87685930260912
     head: 3.3528407705437697
     luff: 3.5052426237503047
-  sailarea: 28.742329211129746
   thcf: 0.906
+  draft: 0.60960741282614
   topsail:
     luff: 3.0480370641306997
     perpendicular: 1.9812240916849548
+  sailarea: 28.742329211129746
+  draft_keeldown: 1.6764203852718849
+  length_over_all: 7.31528896549622
+  fore_triangle_base: 3.0480370641306997
+  length_on_waterline: 6.0960741282613995
+  fore_triangle_height: 5.4864667154352595
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: de5d5a39-50bb-420c-8cb1-2b609269b60a
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Ianthe
-oga_no: 1013
+reference:
+- Log 83/4
+callsign: ''
 ownerships:
 - name: J Newbury
   share: 64
   start: 2012
 place_built: Lymington
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:58.771396+00:00'
 website: ''
 year: 1895
 year_is_approximate: false
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

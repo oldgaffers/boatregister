@@ -1,44 +1,56 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: White Heather
+oga_no: 1743
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>A cabin version of the popular Tosher 18</p>
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Terry Heard
+  id: c7a4b5d4-0751-4858-8054-b0e0636bb711
 construction_material: grp
 construction_method: cold_moulded
-designer: c7a4b5d4-0751-4858-8054-b0e0636bb711
 draft: 0.8992
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.798341867837113
-  draft: 0.8991709339185565
-  fore_triangle_base: 3.5997317727383566
-  fore_triangle_height: 5.18166300902219
-  length_on_waterline: 5.401121677639599
-  length_over_all: 5.699829309924408
   main:
     foot: 3.5997317727383566
     head: 2.8986832479882954
     luff: 2.5999756157034866
   thcf: 0.855692999
+  draft: 0.8991709339185565
   topsail:
     luff: 3.0998536942209216
     perpendicular: 1.4996342355523042
+  length_over_all: 5.699829309924408
+  fore_triangle_base: 3.5997317727383566
+  length_on_waterline: 5.401121677639599
+  fore_triangle_height: 5.18166300902219
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 6fd3048d-1a5a-44fe-aa38-4ba640f61a52
 length_on_deck: 5.6998
-mainsail_type: gaff
-name: White Heather
-oga_no: 1743
+sail_number: T43
+callsign: ''
 ownerships:
 - name: R J Morgan
   share: 64
   start: 1990
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: <p>A cabin version of the popular Tosher 18</p>
 updated_at: '2021-12-19T13:39:19.126386+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+construction_details: GRP
+beam: 1.7983
+design_class:
+  name: Tosher 18
+  id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
+for_sale_state:
+  text: not_for_sale

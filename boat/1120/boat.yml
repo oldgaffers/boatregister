@@ -1,34 +1,44 @@
-builder: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
-callsign: ''
+name: Girl Pat
+oga_no: 1120
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 85/1
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+designer:
+  name: Syd Latimer
+  id: 1fe5b287-4134-4eb0-ba64-4cb075b2e170
 construction_material: wood
 construction_method: unknown
-designer: 1fe5b287-4134-4eb0-ba64-4cb075b2e170
 draft: 0.4572
 engine_installations: []
 for_sales: []
-full_description: Log 85/1
-generic_type: unknown
 handicap_data:
   beam: 2.3774689100219457
   draft: 0.45720555961960496
-  length_on_waterline: 5.7912704218483295
   length_over_all: 6.0960741282613995
+  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 6c4b0cb7-46ce-42a9-9281-2c54b55e15d4
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Girl Pat
-oga_no: 1120
+reference:
+- Log 85/1
+callsign: ''
 ownerships:
 - name: A J Turner
   share: 64
   start: 2012
 place_built: Canvey Island
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:02.103391+00:00'
 website: ''
 year: 1958
 year_is_approximate: false
+construction_details: Mahogany
+beam: 2.3774
+for_sale_state:
+  text: not_for_sale

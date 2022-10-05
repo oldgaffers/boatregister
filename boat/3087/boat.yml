@@ -1,50 +1,58 @@
-builder: 808b6f4b-b714-4c7c-8551-e2bd1aa7a71c
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 57dff9d9-f048-4526-99e7-d1aa1aed15de
-draft: 0.6096
-engine_installations: []
-for_sales: []
+name: Mystery
+oga_no: 3087
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: <p>Built as a cat boat, Mystery was rebuilt and re-rigged in 1911
   by H &amp; R Stevens (sons of Paul) as a gaff cutter. She sank in Poole harbour
   in the 1960s and bought by David Hawkes in 1971. Rebuilt by him and son Andrew,
   she was relaunched in 1980.</p>
-generic_type: Yacht
+builder:
+  name: P. Stevens
+  id: 808b6f4b-b714-4c7c-8551-e2bd1aa7a71c
+designer:
+  name: P. Stevens
+  id: 57dff9d9-f048-4526-99e7-d1aa1aed15de
+construction_material: wood
+construction_method: carvel
+draft: 0.6096
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.60960741282614
-  draft_keeldown: 1.21921482565228
-  fore_triangle_base: 3.0480370641306997
-  fore_triangle_height: 6.0960741282613995
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 6.0960741282613995
   main:
     foot: 3.6576444769568397
     head: 3.0480370641306997
     luff: 3.6576444769568397
-  sailarea: 22.469408081903534
   thcf: 0.84
+  draft: 0.60960741282614
+  sailarea: 22.469408081903534
+  draft_keeldown: 1.21921482565228
+  length_over_all: 6.0960741282613995
+  fore_triangle_base: 3.0480370641306997
+  length_on_waterline: 6.0960741282613995
+  fore_triangle_height: 6.0960741282613995
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 41c3edb0-4461-46e3-97bd-7aef3aebcefb
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Mystery
-oga_no: 3087
+callsign: ''
 ownerships:
 - note: Early owner Captain Philips, sold in 1934 to Frank Martin of Poole.
+  text: Early owner Captain Philips, sold in
   start: 1934
   start_is_approximate: false
-  text: Early owner Captain Philips, sold in
 - name: Simon Thorne
   share: 64
   start: 2011
 place_built: Southampton
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:57.516128+00:00'
 website: ''
 year: 1887
 year_is_approximate: false
+construction_details: Carvel Larch on Rock Elm & Oak
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

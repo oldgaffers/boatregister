@@ -1,33 +1,40 @@
-builder: b5f042eb-a9f2-4161-a62a-1ff96f82556b
-callsign: ''
+name: Avalon
+oga_no: 811
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: J.W. Valentijn
+  id: b5f042eb-a9f2-4161-a62a-1ff96f82556b
+designer:
+  name: M Gunning
+  id: 4df22458-0cdb-4244-8bea-662592a1fb87
 construction_material: wood
 construction_method: unknown
-designer: 4df22458-0cdb-4244-8bea-662592a1fb87
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.2004389173372347
-  length_on_waterline: 8.53450377956596
   length_over_all: 12.801755669348939
+  length_on_waterline: 8.53450377956596
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 13f3100f-6172-4fb1-9009-0ca709772202
 length_on_deck: 12.8016
-mainsail_type: gaff
-name: Avalon
-oga_no: 811
+callsign: ''
 ownerships:
 - name: A Twigt
   share: 64
   start: 2012
 place_built: Langeraar
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:53.017928+00:00'
 website: ''
 year: 1957
 year_is_approximate: false
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

@@ -1,46 +1,54 @@
-builder: d285bcd3-0d57-4dff-adfc-1d0465333f67
-callsign: ''
+name: Svarte Stina
+oga_no: 1793
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: M. Collins
+  id: d285bcd3-0d57-4dff-adfc-1d0465333f67
+designer:
+  name: M. Collins
+  id: d050724b-9860-429f-897a-22625eeb124c
 construction_material: ferro
 construction_method: unknown
-designer: d050724b-9860-429f-897a-22625eeb124c
 draft: 0.6706
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.0117044623262617
-  draft: 0.670568154108754
-  fore_triangle_base: 3.2613996586198484
-  fore_triangle_height: 4.754937820043891
-  length_on_waterline: 5.120702267739576
-  length_over_all: 5.882711533772251
   main:
     foot: 2.865154840282858
     head: 2.194586686174104
     luff: 5.608388198000487
-  propellor:
-    type: folding
   thcf: 0.843852593
+  draft: 0.670568154108754
   topsail:
     luff: 2.987076322848086
     perpendicular: 1.21921482565228
+  propellor:
+    type: folding
+  length_over_all: 5.882711533772251
+  fore_triangle_base: 3.2613996586198484
+  length_on_waterline: 5.120702267739576
+  fore_triangle_height: 4.754937820043891
 home_country: 'null'
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 4c0398f4-9bce-4afa-b507-51fcb7d5beda
 length_on_deck: 5.8826
-mainsail_type: gaff
-name: Svarte Stina
-oga_no: 1793
+callsign: ''
 ownerships:
 - name: M Collins
   share: 64
   start: 1978
 place_built: Warsash
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:20.439377+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+construction_details: Ferrocement
+beam: 2.0117
+for_sale_state:
+  text: not_for_sale

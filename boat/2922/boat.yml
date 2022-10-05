@@ -1,41 +1,52 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Periwinkle
+oga_no: 2922
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Greg Dalrymple
+  id: 44caaf02-656f-41f2-bcce-5abea44511ed
 construction_material: grp
 construction_method: cold_moulded
-designer: 44caaf02-656f-41f2-bcce-5abea44511ed
 draft: 0.3566
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 1.6764203852718849
-  draft: 0.35662033650329183
-  fore_triangle_base: 1.9812240916849548
-  fore_triangle_height: 4.419653742989515
-  length_on_waterline: 4.800658376005852
-  length_over_all: 5.029261155815655
   main:
     foot: 3.480858327237259
     head: 2.7432333577176298
     luff: 2.7432333577176298
   thcf: 0.812583041
+  draft: 0.35662033650329183
+  length_over_all: 5.029261155815655
+  fore_triangle_base: 1.9812240916849548
+  length_on_waterline: 4.800658376005852
+  fore_triangle_height: 4.419653742989515
 home_country: 'null'
 home_port: Brightlingsea
 hull_form: unknown
 id: 943b804d-157f-46cb-8d57-8d159d6b1d4b
 length_on_deck: 5.0292
-mainsail_type: gaff
-name: Periwinkle
-oga_no: 2922
+callsign: ''
 ownerships:
 - name: David Sloan
   share: 64
   start: 2012
 place_built: Old Bursledon
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:53.493621+00:00'
 website: ''
 year: 2003
 year_is_approximate: false
+construction_details: GRP, timber trim and spars.
+beam: 1.6764
+design_class:
+  name: Tela
+  id: a9b70e41-d96c-4e9b-b6d3-e58cae9e1504
+for_sale_state:
+  text: not_for_sale

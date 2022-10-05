@@ -1,46 +1,57 @@
-builder: d0336872-a447-4748-ae62-85ce7b90efe1
-callsign: ''
+name: Eve
+oga_no: 292
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 69/5 CB Oct 91
+builder:
+  name: W.G. Luke and Co.
+  id: d0336872-a447-4748-ae62-85ce7b90efe1
+designer:
+  name: A.R. Luke
+  id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 construction_material: wood
 construction_method: carvel
-designer: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 draft: 1.1278
 engine_installations: []
 for_sales: []
-full_description: Log 69/5 CB Oct 91
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  draft: 1.127773713728359
-  fore_triangle_base: 3.301024140453548
-  fore_triangle_height: 6.4008778346744695
-  length_on_waterline: 5.7912704218483295
-  length_over_all: 7.162887100707144
   main:
     foot: 4.700073152889539
     head: 3.148622287247013
     luff: 3.4046574006339916
-  propellor:
-    type: fixed
   thcf: 0.877677826
+  draft: 1.127773713728359
   topsail:
     luff: 4.419653742989515
     perpendicular: 1.7891977566447208
+  propellor:
+    type: fixed
+  length_over_all: 7.162887100707144
+  fore_triangle_base: 3.301024140453548
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 6.4008778346744695
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: fbf8fe54-835c-4d4e-93cb-3591b5d68df1
 length_on_deck: 7.1628
-mainsail_type: gaff
-name: Eve
-oga_no: 292
+reference:
+- Log 69/5
+- CB Oct 91
+callsign: ''
 ownerships:
 - name: I Gillera
   share: 64
   start: 2012
 place_built: Hamble
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:38.294639+00:00'
 website: ''
 year: 1903
 year_is_approximate: false
+construction_details: Carvel Pitch pine
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

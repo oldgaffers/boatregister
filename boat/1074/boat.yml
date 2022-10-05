@@ -1,34 +1,41 @@
-builder: 8fb12ec6-41b6-485a-bcd7-d678a5381ed1
-callsign: ''
+name: Janie
+oga_no: 1074
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Steve Griffiths(2)
+  id: 8fb12ec6-41b6-485a-bcd7-d678a5381ed1
+designer:
+  name: A. Collins
+  id: 34d4e517-eba0-4220-a1a2-9b1aa4439c8d
 construction_material: wood
 construction_method: unknown
-designer: 34d4e517-eba0-4220-a1a2-9b1aa4439c8d
 draft: 1.8288
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 4.023408924652523
   draft: 1.8288222384784198
-  length_on_waterline: 12.801755669348939
   length_over_all: 13.411363082175079
+  length_on_waterline: 12.801755669348939
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: f1bccc2b-2789-4a0b-bf20-8df69b5de646
 length_on_deck: 13.4112
-mainsail_type: gaff
-name: Janie
-oga_no: 1074
+callsign: ''
 ownerships:
 - name: P D Bouchard
   share: 64
   start: 2012
 place_built: Looe
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:00.706415+00:00'
 website: ''
 year: 1926
 year_is_approximate: false
+beam: 4.0234
+for_sale_state:
+  text: not_for_sale

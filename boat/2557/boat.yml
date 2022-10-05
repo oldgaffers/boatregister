@@ -1,11 +1,10 @@
-builder: 1b6e4498-6ee5-4f39-a5e1-73de3d688293
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 9af06a32-29b4-4fe0-b774-ab5d7aff9b98
-draft: 0
-engine_installations: []
-for_sales: []
+name: Ardea
+oga_no: 2557
+generic_type: Wherry
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>The wherry &#39;Ardea&#39;, built at Oulton Broad in 1927, was
+  brought back to East Anglia in 2005, after spending more than 50 years in Paris.</p>
 full_description: "<p>Launched in the presence of King George V, &#39;Ardea&#39; was\
   \ used as a pleasure craft on rivers and Broads in Norfolk and Suffolk for three\
   \ decades.</p>\r\n\r\n<p><a href=\"http://news.bbc.co.uk/local/norfolk/hi/people_and_places/nature/newsid_8186000/8186343.stm\"\
@@ -13,26 +12,35 @@ full_description: "<p>Launched in the presence of King George V, &#39;Ardea&#39;
   \ looks at her past and future career on the Broads.</p>\r\n\r\n<p>Watch a <a href=\"\
   https://www.flickr.com/search/groups/show/with/4786874118/?page=2&amp;q=ardea&amp;m=pool&amp;w=1107478%40N21\"\
   \ target=\"_blank\">slideshow of photos</a> on Flickr.</p>"
-generic_type: Wherry
+builder:
+  name: Leo Robinson
+  id: 1b6e4498-6ee5-4f39-a5e1-73de3d688293
+designer:
+  name: Leo Robinson
+  id: 9af06a32-29b4-4fe0-b774-ab5d7aff9b98
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 51fd1ac8-1ed9-4e93-8a0b-26737d485788
 length_on_deck: 0
-mainsail_type: gaff
-name: Ardea
-oga_no: 2557
+callsign: ''
 ownerships:
-- current: true
-  id: 385
-  member: 4135
+- id: 385
   share: 64
   start: 2012
+  member: 4135
+  current: true
 place_built: Oulton Broad
-rig_type: Sloop
-short_description: <p>The wherry &#39;Ardea&#39;, built at Oulton Broad in 1927, was
-  brought back to East Anglia in 2005, after spending more than 50 years in Paris.</p>
 updated_at: '2021-12-19T13:39:42.686646+00:00'
 website: ''
 year: 1927
 year_is_approximate: false
+construction_details: Teak
+beam: 0
+for_sale_state:
+  text: not_for_sale

@@ -1,8 +1,9 @@
-construction_material: plywood
-construction_method: stitch_and_glue
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
-engine_installations: []
-for_sales: []
+name: Clachnacudney
+oga_no: 3514
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: OGA designed dinghy. This is the prototype dinghy.
 full_description: "Introducing a new dinghy from Andrew Wolstenholme, especially designed\
   \ for Young (and Old) Gaffers.  Key Points  Overall length of 13'6\" and beam of\
   \ 5'3\" (4.1 x 1.6m) \u2013 a comfortable size for building at home in the garage.\
@@ -15,24 +16,33 @@ full_description: "Introducing a new dinghy from Andrew Wolstenholme, especially
   \ for lessening the risk of lines going overboard and providing more sprawling space\
   \ for children.  The versatile design allows for sailing, rowing, sculling or outboard\
   \ motor."
-generic_type: Dinghy
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+construction_material: plywood
+construction_method: stitch_and_glue
+engine_installations: []
+for_sales: []
 home_country: United Kingdom
 home_port: Grimsby
 hull_form: centre-board dinghy
 id: f05ba35f-5236-4b91-82f3-5b7b90f5aa78
 length_on_deck: 4.1
-mainsail_type: gaff
-name: Clachnacudney
-oga_no: 3514
+spar_material: wood
 ownerships:
-- current: true
-  id: 615
-  member: 5241
+- id: 615
   share: 64
   start: 2018
-rig_type: Sloop
-short_description: OGA designed dinghy. This is the prototype dinghy.
+  member: 5241
+  current: true
 updated_at: '2022-02-26T21:49:46.792248+00:00'
 website: https://gaffling.org.uk
 year: 2019
 year_is_approximate: false
+image_key: cQ86JG
+beam: 1.6
+design_class:
+  name: Gaffling 4.1
+  id: f2dba77b-2c17-4a6c-956a-0c0f791bf7aa
+for_sale_state:
+  text: not_for_sale

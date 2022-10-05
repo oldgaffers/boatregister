@@ -1,39 +1,46 @@
-builder: 3907df04-db73-4ad8-b0f8-7bc2d4c703a3
-callsign: ''
+name: Ula
+oga_no: 1975
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Kept at Home.
+builder:
+  name: W.A. Yule
+  id: 3907df04-db73-4ad8-b0f8-7bc2d4c703a3
 construction_material: wood
 construction_method: carvel
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Kept at Home.
-generic_type: unknown
 handicap_data:
   beam: 1.4020970495001217
-  draft: 0.9144111192392099
-  fore_triangle_base: 1.3106559375762008
-  fore_triangle_height: 4.754937820043891
-  length_on_waterline: 5.334064862228725
-  length_over_all: 5.9436722750548645
   main:
     foot: 0
     luff: 4.785418190685198
   thcf: 0.743760664
+  draft: 0.9144111192392099
+  length_over_all: 5.9436722750548645
+  fore_triangle_base: 1.3106559375762008
+  length_on_waterline: 5.334064862228725
+  fore_triangle_height: 4.754937820043891
 home_country: 'null'
 home_port: at home
 hull_form: unknown
 id: 39704569-2214-44f3-8e01-fb32f5344f7c
 length_on_deck: 5.9436
-mainsail_type: gaff
-name: Ula
-oga_no: 1975
+sail_number: '124'
+callsign: ''
 ownerships:
 - name: Andrew Graham
   share: 64
   start: 2012
 place_built: Brightlingsea
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:25.805368+00:00'
 website: ''
 year: 1960
 year_is_approximate: false
+construction_details: Wood carvel chine
+beam: 1.4021
+for_sale_state:
+  text: not_for_sale

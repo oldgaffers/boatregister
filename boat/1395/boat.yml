@@ -1,14 +1,20 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
+name: Puritan
+oga_no: 1395
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Built by Aldous and in a shed on the Hard at West Mersea from 2019
+full_description: She was in danger of being burnt and so Mike Frost burnt off the
+  paint - and started John Milgate on the path of restoring her. Pictured at John
+  Milgate's boatyard, Peldon.
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: She was in danger of being burnt and so Mike Frost burnt off the
-  paint - and started John Milgate on the path of restoring her. Pictured at John
-  Milgate's boatyard, Peldon.
-generic_type: Smack
 handicap_data:
   length_over_all: 10.972933430870519
 home_country: GBR
@@ -16,19 +22,19 @@ home_port: ''
 hull_form: unknown
 id: e2983984-47e1-4d17-b9d2-c7741c14f7bd
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Puritan
-oga_no: 1395
+callsign: ''
 ownerships:
-- current: true
-  id: 91
-  member: 1778
+- id: 91
   share: 64
   start: 2012
+  member: 1778
+  current: true
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: Built by Aldous and in a shed on the Hard at West Mersea from 2019
 updated_at: '2021-12-19T13:39:10.121407+00:00'
 website: ''
 year: 1892
 year_is_approximate: false
+image_key: vX6JN2
+beam: 0
+for_sale_state:
+  text: not_for_sale

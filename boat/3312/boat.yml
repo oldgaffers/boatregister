@@ -1,51 +1,60 @@
-builder: 9f08d637-12ef-4642-b7ec-7dcc9bb241e3
-callsign: ''
-construction_material: plywood
-construction_method: unknown
-designer: 3592352f-bfa1-4eb3-97e0-c727ae2cc499
-draft: 0.1768
-engine_installations: []
-for_sales: []
+name: Summer
+oga_no: 3312
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: <p>&#39;Summer&#39; is an open sail and oar lugger that can be
+  sloop or cat rigged.</p>
 full_description: <p>Designed and built in 2016 by John Owles, &#39;Summer&#39; is
   epoxy glued lapstrake 8mm plywood on 2&quot; iroko keel and hog. She has a laminated
   mahogany stem, iroko transom, gunwales, rubbing strakes, thwarts and trim.</p>
-generic_type: Dinghy
+builder:
+  name: John Owles
+  id: 9f08d637-12ef-4642-b7ec-7dcc9bb241e3
+designer:
+  name: John Owles
+  id: 3592352f-bfa1-4eb3-97e0-c727ae2cc499
+construction_material: plywood
+construction_method: unknown
+draft: 0.1768
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 0.775
-  draft_keel_down: 0.9144
-  fore_triangle_base: 1.2741
-  fore_triangle_height: 3.4595
-  length_on_waterline: 3.9289
-  length_over_spars: 4.572
-  length_overall: 4.572
   main:
     foot: 8.59
     head: 9.73
     luff: 7.77
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 1
+  moving_keel: true
+  length_overall: 4.572
+  calculated_thcf: 0.775
+  draft_keel_down: 0.9144
+  moving_keel_type: Centreboard
+  length_over_spars: 4.572
+  fore_triangle_base: 1.2741
+  length_on_waterline: 3.9289
+  fore_triangle_height: 3.4595
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 40e48b28-0969-4202-9fb2-842c55366bfa
 length_on_deck: 4.572
-mainsail_type: lug
-name: Summer
-oga_no: 3312
+callsign: ''
 ownerships:
 - name: John Owles
   share: 64
   start: 2016
-- current: true
+- share: 64
   member: 6081
-  share: 64
+  current: true
   start: '?'
 place_built: Cornwall and N Norfolk
-rig_type: Sloop
-short_description: <p>&#39;Summer&#39; is an open sail and oar lugger that can be
-  sloop or cat rigged.</p>
 updated_at: '2021-12-19T13:40:07.277629+00:00'
 website: ''
 year: 2016
 year_is_approximate: false
+image_key: RbsN9P
+construction_details: Epoxy glued plywood on iroko keel and hog.
+beam: 1.524
+for_sale_state:
+  text: not_for_sale

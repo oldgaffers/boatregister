@@ -1,29 +1,40 @@
-builder: e5c00172-7ec2-4bc9-9979-d47454b84ba4
-callsign: ''
+name: Cherub
+oga_no: 3068
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+designer:
+  name: A.R. Curjel
+  id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
 construction_material: wood
 construction_method: unknown
-designer: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
 draft: 0.8534
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   draft: 0.8534503779565958
-  length_on_waterline: 5.7912704218483295
   length_over_all: 6.4008778346744695
+  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 97960f70-a28a-4bcb-aa75-16665dc0fa33
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Cherub
-oga_no: 3068
+sail_number: ' '
+callsign: ''
 place_built: Woodbridge
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-01-31T17:10:31.311327+00:00'
 website: ''
 year_is_approximate: false
+beam: 2.1336
+design_class:
+  name: Deben Cherub
+  id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
+for_sale_state:
+  text: not_for_sale

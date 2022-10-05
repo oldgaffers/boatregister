@@ -1,42 +1,50 @@
-builder: 8d3d3ec2-4c33-4ae2-bf88-35dd752d61a4
-callsign: ''
+name: Tilly
+oga_no: 1806
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: A home-build based on Tilly Lykes, a touch larger Built on the lines
+  of Aldburgh O.D.
+builder:
+  name: M.A. Reynolds
+  id: 8d3d3ec2-4c33-4ae2-bf88-35dd752d61a4
+designer:
+  name: M.A. Reynolds
+  id: 7c13e30d-916c-4642-b721-558556d35185
 construction_material: woodepoxy
 construction_method: cold_moulded
-designer: 7c13e30d-916c-4642-b721-558556d35185
 draft: 0.3048
 engine_installations: []
 for_sales: []
-full_description: A home-build based on Tilly Lykes, a touch larger Built on the lines
-  of Aldburgh O.D.
-generic_type: Yacht
 handicap_data:
   beam: 1.8288222384784198
-  draft: 0.30480370641307
-  fore_triangle_base: 1.9659839063643014
-  fore_triangle_height: 5.078029748841746
-  length_on_waterline: 4.672640819312362
-  length_over_all: 4.87685930260912
   main:
     foot: 3.2004389173372347
     head: 3.910631553279688
     luff: 2.691416727627408
   thcf: 0.812253837
+  draft: 0.30480370641307
+  length_over_all: 4.87685930260912
+  fore_triangle_base: 1.9659839063643014
+  length_on_waterline: 4.672640819312362
+  fore_triangle_height: 5.078029748841746
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 13e2aa63-363d-45d6-9639-24128c4cf583
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Tilly
-oga_no: 1806
+callsign: ''
 ownerships:
 - name: M A Reynolds
   share: 64
   start: 1988
 place_built: Southminster
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:20.822633+00:00'
 website: ''
 year: 1988
 year_is_approximate: false
+construction_details: Cold moulded with epoxy
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

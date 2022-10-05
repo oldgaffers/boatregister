@@ -1,42 +1,52 @@
-builder: 75161165-a1fa-4aed-b33d-474a39160242
-callsign: ''
+name: Sandpiper
+oga_no: 1880
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Ref The Brown Boats By Charles Goodey Pub 1972. Mr Bent has a copy
+  of the drawings, CB August 2004.
+builder:
+  name: Burnham Boat Building Co.
+  id: 75161165-a1fa-4aed-b33d-474a39160242
+designer:
+  name: Hope Linton
+  id: f238ed22-175a-4b8c-9337-dc58c6619754
 construction_material: wood
 construction_method: carvel
-designer: f238ed22-175a-4b8c-9337-dc58c6619754
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Ref The Brown Boats By Charles Goodey Pub 1972. Mr Bent has a copy
-  of the drawings, CB August 2004.
-generic_type: Yacht
 handicap_data:
   beam: 1.8044379419653742
-  draft: 0.9144111192392099
-  fore_triangle_base: 2.1671543525969277
-  fore_triangle_height: 5.346257010485247
-  length_on_waterline: 4.87685930260912
-  length_over_all: 7.315288953913679
   main:
     foot: 5.202999268471104
     head: 3.429041697147037
     luff: 3.480858327237259
   thcf: 0.895802502
+  draft: 0.9144111192392099
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 2.1671543525969277
+  length_on_waterline: 4.87685930260912
+  fore_triangle_height: 5.346257010485247
 home_country: 'null'
 home_port: Lowestoft
 hull_form: unknown
 id: a11b5cce-f21e-4064-bd1b-efab1b1e554b
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Sandpiper
-oga_no: 1880
+sail_number: '18'
+ssr: '35566'
+callsign: ''
 ownerships:
 - name: W.T.C. Bent
   share: 64
   start: 1989
 place_built: Burnham on Crouch
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:23.005386+00:00'
 website: ''
 year: 1925
 year_is_approximate: false
+construction_details: Carvel Canadian Redwood on Ash + Oak Iron keel Copper Fastened
+beam: 1.8044
+for_sale_state:
+  text: not_for_sale

@@ -1,13 +1,21 @@
-builder: de50f6dc-8c8d-4259-ad57-9bab9e49d6ec
-callsign: ''
+name: Xebeque
+oga_no: 2179
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Gil Carter
+  id: de50f6dc-8c8d-4259-ad57-9bab9e49d6ec
+designer:
+  name: Malcolm Goodwin
+  id: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
 construction_material: wood
 construction_method: unknown
-designer: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.7526213118751524
   length_over_all: 4.114850036576445
@@ -16,21 +24,20 @@ home_port: Trailer sail
 hull_form: unknown
 id: 74dea908-dcb2-4a56-af2e-13369267ed05
 length_on_deck: 4.1148
-mainsail_type: lug
-name: Xebeque
-oga_no: 2179
+callsign: ''
 ownerships:
 - name: Gil Carter
   share: 64
   start: 1992
-- current: true
+- share: 64
   member: 3591
-  share: 64
+  current: true
   start: '?'
 place_built: Thames Ditton
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:31.410885+00:00'
 website: ''
 year: 1992
 year_is_approximate: false
+beam: 1.7526
+for_sale_state:
+  text: not_for_sale

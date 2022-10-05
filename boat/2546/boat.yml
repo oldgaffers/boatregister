@@ -1,41 +1,49 @@
-builder: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
-callsign: ''
+name: Brigadoon II
+oga_no: 2546
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Brian Kennell
+  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+designer:
+  name: Brian Kennell
+  id: f30d4ac4-39f8-44c1-9fa2-5676eba88392
 construction_material: grp
 construction_method: cold_moulded
-designer: f30d4ac4-39f8-44c1-9fa2-5676eba88392
 draft: 0.1524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.5240185320653499
-  draft: 0.152401853206535
-  fore_triangle_base: 1.066812972445745
-  fore_triangle_height: 2.7432333577176298
-  length_on_waterline: 2.7432333577176298
-  length_over_all: 3.6576444769568397
   main:
     foot: 3.301024140453548
     head: 3.2766398439405022
     luff: 1.21921482565228
   thcf: 0.7255126
+  draft: 0.152401853206535
+  length_over_all: 3.6576444769568397
+  fore_triangle_base: 1.066812972445745
+  length_on_waterline: 2.7432333577176298
+  fore_triangle_height: 2.7432333577176298
 home_country: 'null'
 home_port: Goldhanger
 hull_form: unknown
 id: d1239c70-81df-4ecb-b16e-cb73a2a6688b
 length_on_deck: 3.6576
-mainsail_type: lug
-name: Brigadoon II
-oga_no: 2546
+callsign: ''
 ownerships:
 - name: Ian Barratt
   share: 64
   start: 2012
 place_built: Downs Boat Yard Maldon
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:42.342148+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: GRP
+beam: 1.524
+for_sale_state:
+  text: not_for_sale

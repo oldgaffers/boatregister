@@ -1,11 +1,16 @@
-callsign: ''
+name: Carabella of Wight
+oga_no: 3333
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: Carabella of Wight is a Cheverton Caravel Mark lll built of African
+  Mahogany
+full_description: ''
 construction_material: wood
 construction_method: unknown
 draft: 1.1582
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   length_overall: 7.4981
 home_country: GBR
@@ -13,19 +18,19 @@ home_port: ''
 hull_form: long keel sloping forefoot
 id: 8faa6348-ad1f-42b5-b05b-e73ea04d7de1
 length_on_deck: 7.4981
-mainsail_type: bermudan
-name: Carabella of Wight
-oga_no: 3333
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 845
-  member: 5933
+- id: 845
   share: 64
   start: 2016
-rig_type: Sloop
-short_description: Carabella of Wight is a Cheverton Caravel Mark lll built of African
-  Mahogany
+  member: 5933
+  current: true
 updated_at: '2021-12-19T13:40:07.860126+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+image_key: 9Tcpzq
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

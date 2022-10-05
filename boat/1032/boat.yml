@@ -1,44 +1,50 @@
-builder: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
-callsign: ''
+name: Eagle
+oga_no: 1032
+generic_type: Racing Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Eagle&#39; is a classic 30&#39; gaff cutter, pitch pine
+  on oak. She was built in 1915 at Pin Mill, Suffolk for the express purpose of wiping
+  out all the opposition in local regattas.</p>
+full_description: ''
+builder:
+  name: Harry King and Sons
+  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
 construction_material: wood
 construction_method: unknown
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Racing Yacht
 handicap_data:
   beam: 2.3104120946110704
   draft: 1.5240185320653499
-  length_on_waterline: 7.620092660326749
   length_over_all: 9.1441111923921
+  length_on_waterline: 7.620092660326749
 home_country: 'null'
 home_port: Walton Backwaters
 hull_form: unknown
 id: 333f3329-c37f-4bfa-b26b-ead6eaa5e597
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Eagle
-oga_no: 1032
+callsign: ''
 ownerships:
 - note: for sale, Gaffers Log 1991/4 by John Mellor of Manningtree, Essex
+  text: for sale, Gaffers Log
   start: 1991
   start_is_approximate: false
-  text: for sale, Gaffers Log
 - end: 2017
   name: John Fleming
   share: 64
   start: 1995
-- current: true
+- share: 64
   member: 3194
-  share: 64
+  current: true
   start: '?'
 place_built: Pin Mill
-rig_type: Cutter
-short_description: <p>&#39;Eagle&#39; is a classic 30&#39; gaff cutter, pitch pine
-  on oak. She was built in 1915 at Pin Mill, Suffolk for the express purpose of wiping
-  out all the opposition in local regattas.</p>
 updated_at: '2021-12-19T13:38:59.366157+00:00'
 website: ''
 year: 1915
 year_is_approximate: false
+image_key: 3z4mGT
+beam: 2.3104
+for_sale_state:
+  text: not_for_sale

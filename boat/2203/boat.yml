@@ -1,53 +1,72 @@
-builder: 3836458d-0450-4ee1-bc73-1e73b2bfd0fa
-callsign: MMNV8
+name: Natural Selection
+oga_no: 2203
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Originally called &#39;Vector&#39; before her launch but then
+  changed to &#39;Patience&#39;, she was sold in 2006 and again in June 2009. Her
+  name was changed&nbsp; to &#39;Ellenor Josephine&#39; when she was registered in
+  November 2010.</p>
+full_description: "<h4>Natural Selection is a 25' ocean-going gaff rigged Vertue.</h4>\r\
+  \n\r\n<p>She has been sailed locally and to France during the last 3 years.</p>\r\
+  \n\r\n<p>A rolling maintenance&nbsp;schedule has kept her in good order.</p>"
+builder:
+  name: International Boat Building Traning Centre
+  id: 3836458d-0450-4ee1-bc73-1e73b2bfd0fa
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
 construction_material: wood
 construction_method: carvel
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
 draft: 1.4478
 engine_installations: []
 for_sales:
 - asking_price: 24500
-full_description: "<h4>Natural Selection is a 25' ocean-going gaff rigged Vertue.</h4>\r\
-  \n\r\n<p>She has been sailed locally and to France during the last 3 years.</p>\r\
-  \n\r\n<p>A rolling maintenance&nbsp;schedule has kept her in good order.</p>"
-generic_type: Yacht
 handicap_data:
   beam: 2.1854425749817117
-  draft: 1.4478176054620824
-  fore_triangle_base: 4.419653742989515
-  fore_triangle_height: 7.315288953913679
-  length_on_waterline: 6.5532796878810045
-  length_over_all: 7.696293586930016
   main:
     foot: 4.26725188978298
     head: 3.0480370641306997
     luff: 3.3528407705437697
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.911992314
+  draft: 1.4478176054620824
   topsail:
     luff: 4.57205559619605
     perpendicular: 1.5240185320653499
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.696293586930016
+  fore_triangle_base: 4.419653742989515
+  length_on_waterline: 6.5532796878810045
+  fore_triangle_height: 7.315288953913679
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 3782d1d8-dd5a-462c-ab65-3e35f3859d05
 length_on_deck: 7.6962
-mainsail_type: gaff
-name: Natural Selection
-oga_no: 2203
+sail_number: V203
+spar_material: wood
+ssr: '38357'
+uk_part1: '917114'
+callsign: MMNV8
 ownerships:
 - name: Ian McLellan
   share: 64
   start: 2009
 place_built: Lowestoft
-rig_type: Cutter
-short_description: <p>Originally called &#39;Vector&#39; before her launch but then
-  changed to &#39;Patience&#39;, she was sold in 2006 and again in June 2009. Her
-  name was changed&nbsp; to &#39;Ellenor Josephine&#39; when she was registered in
-  November 2010.</p>
 updated_at: '2021-12-19T13:39:32.132645+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+previous_names:
+- Vector
+- Patience. Ellenor Josephine
+image_key: gFqh82
+construction_details: Carvel iroko on oak frames
+beam: 2.1854
+design_class:
+  name: Vertue
+  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
+for_sale_state:
+  text: not_for_sale

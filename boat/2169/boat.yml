@@ -1,13 +1,21 @@
-builder: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
-callsign: ''
+name: May Flower
+oga_no: 2169
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Douglas Stone and Sons
+  id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
+designer:
+  name: Douglas Stone
+  id: 49e5792a-4c9a-474f-90c7-bf4619e902a4
 construction_material: wood
 construction_method: unknown
-designer: 49e5792a-4c9a-474f-90c7-bf4619e902a4
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.453425993660083
   length_over_all: 9.75371860521824
@@ -16,21 +24,20 @@ home_port: Woodbridge
 hull_form: unknown
 id: dbff47ed-16ef-473d-9bbc-7f582ceb073d
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: May Flower
-oga_no: 2169
+callsign: ''
 ownerships:
 - name: Paul Walker
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 3581
-  share: 64
+  current: true
   start: '?'
 place_built: Erith
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:31.09686+00:00'
 website: ''
 year: 1880
 year_is_approximate: false
+beam: 3.4534
+for_sale_state:
+  text: not_for_sale

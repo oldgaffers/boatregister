@@ -1,11 +1,10 @@
-builder: 9e9f30ee-b587-437c-a050-b8efb412e86f
-callsign: ''
-construction_material: iron
-construction_method: unknown
-designer: 5c7a19c5-22e0-4c35-994f-d5853b3daa78
-draft: 1.2192
-engine_installations: []
-for_sales: []
+name: Phyllis
+oga_no: 3117
+generic_type: Barge
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Phyllis&#39; has been painstakingly restored and sails
+  in the Humber. She is on the National Register of Historic Vessels.</p>
 full_description: "<p>First built for James Barraclough of Barton upon Humber she\
   \ was named after his daughter Phyllis Ada Barraclough. Fitted with an engine around\
   \ 1939 &#39;Phyllis&#39; worked within the company until sold in 1976, when she\
@@ -30,44 +29,57 @@ full_description: "<p>First built for James Barraclough of Barton upon Humber sh
   \ back in sail for her centenary in 1997.</p>\r\n\r\n<p><iframe allowfullscreen=\"\
   \" frameborder=\"0\" height=\"480\" src=\"//www.youtube.com/embed/pida-O2J0No?rel=0\"\
   \ width=\"640\"></iframe></p>"
-generic_type: Barge
+builder:
+  name: Chris Perkins
+  id: 9e9f30ee-b587-437c-a050-b8efb412e86f
+designer:
+  name: Fred Warren
+  id: 5c7a19c5-22e0-4c35-994f-d5853b3daa78
+construction_material: iron
+construction_method: unknown
+draft: 1.2192
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.998780785174347
-  draft: 1.21921482565228
-  fore_triangle_base: 10.05852231163131
-  fore_triangle_height: 18.77590831504511
-  length_on_waterline: 20.72665203608876
-  length_over_all: 20.72665203608876
-  length_over_spars: 24.384296513045598
   main:
     foot: 11.430138990490123
     head: 8.22970007315289
     luff: 8.22970007315289
-  propellor:
-    blades: 4
-    type: fixed
-  sailarea: 209.23512168178226
   thcf: 1.307
+  draft: 1.21921482565228
   topsail:
     luff: 8.991709339185563
     perpendicular: 5.334064862228725
+  sailarea: 209.23512168178226
+  propellor:
+    type: fixed
+    blades: 4
+  length_over_all: 20.72665203608876
+  length_over_spars: 24.384296513045598
+  fore_triangle_base: 10.05852231163131
+  length_on_waterline: 20.72665203608876
+  fore_triangle_height: 18.77590831504511
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: cafccbb7-f881-4020-9826-065cd6331160
 length_on_deck: 20.7264
-mainsail_type: gaff
-name: Phyllis
-oga_no: 3117
+sail_number: '26148'
+uk_part1: '124785'
+callsign: ''
 ownerships:
 - name: Alan Gardiner
   share: 64
   start: 1998
 place_built: New Holland
-rig_type: Cutter
-short_description: <p>&#39;Phyllis&#39; has been painstakingly restored and sails
-  in the Humber. She is on the National Register of Historic Vessels.</p>
 updated_at: '2021-12-19T13:39:58.367658+00:00'
 website: http://www.sloopphyllis.com
 year: 1907
 year_is_approximate: false
+image_key: KHmn8h
+construction_details: Rivited steel plate. Six sections to each side of hull. straight
+  stem with round bow and eliptical stern. Flat bottom.
+beam: 5.0048
+for_sale_state:
+  text: not_for_sale

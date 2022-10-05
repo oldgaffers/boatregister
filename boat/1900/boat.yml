@@ -1,38 +1,49 @@
-builder: 0a458ae5-5649-4233-a1c0-81f96361a627
-callsign: ''
+name: Ibis
+oga_no: 1900
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Y M 1925 Article on Cyclone memb 3081 owned her from 1992-6 sold
+  to a Frenchman
+builder:
+  name: Geo. A. Feltham Ltd.
+  id: 0a458ae5-5649-4233-a1c0-81f96361a627
+designer:
+  name: T. Harrison Butler
+  id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
 construction_material: wood
 construction_method: carvel
-designer: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
 draft: 1.1278
 engine_installations: []
 for_sales: []
-full_description: Y M 1925 Article on Cyclone memb 3081 owned her from 1992-6 sold
-  to a Frenchman
-generic_type: Yacht
 handicap_data:
   beam: 2.1641063155327966
-  draft: 1.127773713728359
-  fore_triangle_base: 4.023408924652523
-  fore_triangle_height: 7.620092660326749
-  length_on_waterline: 5.6388685686417945
-  length_over_all: 6.5532796878810045
   main:
     foot: 4.26725188978298
     head: 2.987076322848086
     luff: 4.754937820043891
   thcf: 0.888910914
+  draft: 1.127773713728359
+  length_over_all: 6.5532796878810045
+  fore_triangle_base: 4.023408924652523
+  length_on_waterline: 5.6388685686417945
+  fore_triangle_height: 7.620092660326749
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 0dc6d466-7ca4-4a54-9789-d29b2c42cbe8
 length_on_deck: 6.5532
-mainsail_type: gaff
-name: Ibis
-oga_no: 1900
+callsign: ''
 place_built: Portsmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-23T08:38:13.181598+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+construction_details: Carvel Pitch pine and larch on oak. Copper fastened Iron keel
+beam: 2.1641
+design_class:
+  name: Cyclone
+  id: 82681101-8d43-4972-9aac-50c74cc1ea1e
+for_sale_state:
+  text: not_for_sale

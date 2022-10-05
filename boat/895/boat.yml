@@ -1,11 +1,10 @@
-builder: 0d6fbec4-9420-4434-aa9c-435963dc8afb
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 14c9c11e-683d-4250-bdba-c7e13afc05aa
-draft: 2.4384
-engine_installations: []
-for_sales: []
+name: Baroque
+oga_no: 895
+generic_type: Bristol Channel Pilot Cutter
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Baroque&#39; was Bill Tilman&#39;s last Bristol Channel
+  Pilot Cutter.</p>
 full_description: "<p>&#39;Baroque&#39;, built in 1902, served as a pilot cutter with\
   \ Cardiff and Barry Pilot service 1902 - 1922 when she was converted to a yacht\
   \ and chartered on the west coast of Scotland until the Second World War.</p>\r\n\
@@ -18,50 +17,59 @@ full_description: "<p>&#39;Baroque&#39;, built in 1902, served as a pilot cutter
   \ Eye&#39;. Sunderland restored and kept her for 24 years, selling her to Tina Trollmo\
   \ and Martin Rogetzky, who took her to Stockholm for restoration and use as a charter\
   \ vessel.</p>"
-generic_type: Bristol Channel Pilot Cutter
+builder:
+  name: John Hambly
+  id: 0d6fbec4-9420-4434-aa9c-435963dc8afb
+designer:
+  name: J. Hambly
+  id: 14c9c11e-683d-4250-bdba-c7e13afc05aa
+construction_material: wood
+construction_method: unknown
+draft: 2.4384
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.114850036576445
-  draft: 2.43842965130456
-  fore_triangle_base: 9.44891489880517
-  fore_triangle_height: 9.1441111923921
-  length_on_waterline: 12.496951962935869
-  length_over_all: 15.240185320653499
   main:
     foot: 8.53450377956596
     head: 6.4008778346744695
     luff: 7.010485247500609
-  propellor:
-    type: fixed
   thcf: 1.125445085
+  draft: 2.43842965130456
   topsail:
     luff: 6.0960741282613995
     perpendicular: 5.4864667154352595
+  propellor:
+    type: fixed
+  length_over_all: 15.240185320653499
+  fore_triangle_base: 9.44891489880517
+  length_on_waterline: 12.496951962935869
+  fore_triangle_height: 9.1441111923921
 home_country: SWE
 home_port: ''
 hull_form: long keel deep forefoot
 id: daf27742-6668-4ff4-9231-f71e520765be
 length_on_deck: 15.24
-mainsail_type: gaff
-name: Baroque
-oga_no: 895
+sail_number: '11'
+callsign: ''
 ownerships:
 - end: 1977
   name: HW (Bill) Tilman
   share: 64
   start: 1973
 - note: Sold to Bill Tilman by John Smith in 1973.
+  text: Sold to Bill Tilman by John Smith in
   start: 1973
   start_is_approximate: false
-  text: Sold to Bill Tilman by John Smith in
 - end: 2001
   name: J Sunderland
   share: 64
   start: 1978
 place_built: Cardiff
-rig_type: Cutter
-short_description: <p>&#39;Baroque&#39; was Bill Tilman&#39;s last Bristol Channel
-  Pilot Cutter.</p>
 updated_at: '2021-12-19T13:38:55.378919+00:00'
 website: ''
 year: 1902
 year_is_approximate: false
+beam: 4.1148
+for_sale_state:
+  text: not_for_sale

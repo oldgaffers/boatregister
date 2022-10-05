@@ -1,43 +1,56 @@
-builder: 2a625108-bef9-404e-bf02-4aad488efa47
-callsign: ''
+name: Lindo
+oga_no: 1905
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: CB Feb 93,
+builder:
+  name: Mayfly Classic Boats
+  id: 2a625108-bef9-404e-bf02-4aad488efa47
+designer:
+  name: Bryan Gibson
+  id: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
 construction_material: grp
 construction_method: cold_moulded
-designer: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
 draft: 0.6706
 engine_installations: []
 for_sales: []
-full_description: CB Feb 93,
-generic_type: unknown
 handicap_data:
   beam: 1.929407461594733
-  draft: 0.670568154108754
-  fore_triangle_base: 2.8041940990002434
-  fore_triangle_height: 4.800658376005852
-  length_on_waterline: 4.800658376005852
-  length_over_all: 4.87685930260912
   main:
     foot: 3.5357229943916115
     head: 2.529870763228481
     luff: 3.0480370641306997
+  thcf: 0.796895788
+  draft: 0.670568154108754
   propellor:
     type: fixed
-  thcf: 0.796895788
+  length_over_all: 4.87685930260912
+  fore_triangle_base: 2.8041940990002434
+  length_on_waterline: 4.800658376005852
+  fore_triangle_height: 4.800658376005852
 home_country: 'null'
 home_port: Southampton
 hull_form: shoal_draft
 id: 4b014724-c7b8-468d-a2fc-f45828d37b9a
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Lindo
-oga_no: 1905
+callsign: ''
 ownerships:
 - name: Neil White
   share: 64
   start: 1993
 place_built: Gweek
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:23.689895+00:00'
 website: ''
 year: 1993
 year_is_approximate: false
+previous_names:
+- Victoria Ruth
+construction_details: GRP
+beam: 1.9294
+design_class:
+  name: Oystercatcher 16
+  id: 3afef302-57fe-49ab-bfb8-f7d0ea978a37
+for_sale_state:
+  text: not_for_sale

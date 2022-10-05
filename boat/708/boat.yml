@@ -1,34 +1,46 @@
-builder: 8fb12ec6-41b6-485a-bcd7-d678a5381ed1
-callsign: ''
+name: Torhilda
+oga_no: 708
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log Sp/94
+builder:
+  name: Steve Griffiths(2)
+  id: 8fb12ec6-41b6-485a-bcd7-d678a5381ed1
+designer:
+  name: A. Collins
+  id: 34d4e517-eba0-4220-a1a2-9b1aa4439c8d
 construction_material: wood
 construction_method: carvel
-designer: 34d4e517-eba0-4220-a1a2-9b1aa4439c8d
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: Log Sp/94
-generic_type: Smack
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.3716166788588149
-  length_on_waterline: 8.22970007315289
   length_over_all: 8.686905632772493
+  length_on_waterline: 8.22970007315289
 home_country: 'null'
 home_port: Burnham on Crouch
 hull_form: unknown
 id: f3f676be-cfd1-4c6c-872f-37da63c7b148
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: Torhilda
-oga_no: 708
+reference:
+- Log Sp/94
+callsign: ''
 ownerships:
 - name: Perry Crickmere
   share: 64
   start: 1993
 place_built: Looe
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:50.223162+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+previous_names:
+- Torfrida
+construction_details: Carvel
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

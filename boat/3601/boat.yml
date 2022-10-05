@@ -1,38 +1,50 @@
-builder: 05f3007f-f6a9-48d7-ac52-375601166004
+name: Solveig
+oga_no: 3601
+generic_type: Dinghy
+rig_type: Yawl
+mainsail_type: lug
+short_description: <p>Although not old by OGA standards Solveig has been around for
+  a while but having been stored inside for a long period and rigourously maintained,
+  she beautifuly built and is in terrific condition. Recently converted to a fully
+  battened loose footed mainsail, the boat is easily handled and sails well.</p>
+builder:
+  name: Ron Webster
+  id: 05f3007f-f6a9-48d7-ac52-375601166004
+designer:
+  name: Iain Oughtred
+  id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
 construction_material: plywood
 construction_method: clinker_ply
-designer: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
 engine_installations: []
 for_sales: []
-generic_type: Dinghy
 handicap_data:
   beam: 1.584979273347964
-  length_on_deck: 5.852231163130943
-  length_on_waterline: 4.785418190685198
+  thcf: 0.807
+  sailarea: 11.24154123262054
   propellor:
     type: none
-  sailarea: 11.24154123262054
-  thcf: 0.807
+  length_on_deck: 5.852231163130943
+  length_on_waterline: 4.785418190685198
 home_country: Uk
 home_port: Bath
 hull_form: centre-board dinghy
 id: 135eb413-b899-4688-83dc-d2fe9dddb971
 length_on_deck: 5.852231163130943
-mainsail_type: lug
-name: Solveig
-oga_no: 3601
+spar_material: wood
 ownerships:
-- current: true
-  id: 34924
-  member: 6524
+- id: 34924
   share: 64
+  member: 6524
+  current: true
   start: '?'
 place_built: 'Crag Foot, Lancashire '
-rig_type: Yawl
-short_description: <p>Although not old by OGA standards Solveig has been around for
-  a while but having been stored inside for a long period and rigourously maintained,
-  she beautifuly built and is in terrific condition. Recently converted to a fully
-  battened loose footed mainsail, the boat is easily handled and sails well.</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 1996
 year_is_approximate: false
+image_key: GwtdgR
+construction_details: Glued clinker
+design_class:
+  name: Ness Yawl
+  id: 7bb1a753-ed21-466b-95eb-585e14afa4dd
+for_sale_state:
+  text: not_for_sale

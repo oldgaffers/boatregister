@@ -1,13 +1,21 @@
-builder: e12d42fd-a171-4380-b32f-8c4ac334fe61
-callsign: ''
+name: Minuet
+oga_no: 2153
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Reg Keithleigh
+  id: e12d42fd-a171-4380-b32f-8c4ac334fe61
+designer:
+  name: Reg Keithleigh
+  id: 28b46425-bc3c-4031-b50e-b60181f6bd5c
 construction_material: wood
 construction_method: clinker
-designer: 28b46425-bc3c-4031-b50e-b60181f6bd5c
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.8806388685686417
   length_over_all: 4.495854669592782
@@ -16,16 +24,16 @@ home_port: Brancaster Staithe
 hull_form: unknown
 id: 152e43ec-40d5-4cba-9fb8-752aa5ad466e
 length_on_deck: 4.4958
-mainsail_type: gaff
-name: Minuet
-oga_no: 2153
+callsign: ''
 ownerships:
 - name: Timothy Paul Clayton
   share: 64
   start: 2012
 place_built: Boston
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:30.752153+00:00'
 website: ''
 year_is_approximate: false
+construction_details: Clinker
+beam: 1.8806
+for_sale_state:
+  text: not_for_sale

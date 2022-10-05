@@ -1,30 +1,39 @@
-builder: 360756d0-3d5e-479c-9dc4-adb6b8d77d6f
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: d4148fc2-ba30-464b-b83e-6d4667ac2f97
-draft: 0.89
-engine_installations: []
-for_sales: []
+name: Songbird
+oga_no: 3099
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <I>Songbird</I> is an Heir Island sloop, a recreational vessel
+  developed from the traditional lines of a lobster boat.
 full_description: Songbird is an Heir Island sloop, the last of 23 built so far. Most
   of them are based in Baltimore, Eire but I understand there is one in Poole Harbour.
   The first 22 were all built in west Cork and Songbird was the beginning and I believe
   the end of the designer's collaboration with the Devonians. She is not, strictly,
   a lobster boat but a recreational vessel developed from the traditional lines.
+builder:
+  name: W.H. Warren
+  id: 360756d0-3d5e-479c-9dc4-adb6b8d77d6f
+designer:
+  name: Gubby Williams
+  id: d4148fc2-ba30-464b-b83e-6d4667ac2f97
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.89
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.1300259043525966
   draft: 0.9000109455010973
-  length_on_waterline: 5.00006080833943
   length_over_all: 5.60006810534016
   length_over_spars: 5.60006810534016
+  length_on_waterline: 5.00006080833943
 home_country: GBR
 home_port: Amble
 hull_form: long keel deep forefoot
 id: eda444fd-2231-419d-8c24-05eedc0d898f
 length_on_deck: 5.587
-mainsail_type: gaff
-name: Songbird
-oga_no: 3099
+sail_number: '23'
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2019
   name: Chris Jackson
@@ -34,10 +43,14 @@ ownerships:
   share: 64
   start: 2019
 place_built: Totnes
-rig_type: Sloop
-short_description: <I>Songbird</I> is an Heir Island sloop, a recreational vessel
-  developed from the traditional lines of a lobster boat.
 updated_at: '2022-08-15T15:55:11.551418+00:00'
 website: www.ilenyachts.com/heirboats.htm
 year: 2012
 year_is_approximate: false
+image_key: JgMqwX
+beam: 2.1092
+design_class:
+  name: Heir Island Lobsterboat
+  id: 3f29b063-15c8-417f-b9e6-1f2d9a9d6355
+for_sale_state:
+  text: not_for_sale

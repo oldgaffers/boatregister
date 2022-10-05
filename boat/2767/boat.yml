@@ -1,18 +1,27 @@
-builder: 01166aa0-18fc-4a34-b3c8-076edd605c02
-callsign: ''
-construction_material: woodepoxy
-construction_method: other
-designer: dc826c22-e1ed-44df-948e-d227bc9ba767
-draft: 0
-engine_installations: []
-for_sales:
-- asking_price: 5995
+name: Sea Jay
+oga_no: 2767
+generic_type: Pocket Cruiser
+rig_type: Yawl
+mainsail_type: lug
+short_description: <p><strong>&#39;</strong>Sea Jay&#39; is a Stornaway 18&#39; designed
+  by Derek Ellard of Scruffie Boats, Australia and built by Oz Marine in 2003.</p>
 full_description: "<p>&#39;Sea Jay&#39; is a Scruffie Marine Stornaway 18,&nbsp;designed\
   \ by Derek Ellard, Australia and built by Oz Marine in 2003.</p>\r\n\r\n<p>Built\
   \ from a kit in 2003, she is of epoxy ply construction.&nbsp; She is an 18&#39;\
   \ boomless lug rigged yawl, ideal as a weekender with two cabin and two cockpit\
   \ berths.&nbsp;</p>"
-generic_type: Pocket Cruiser
+builder:
+  name: Oz Marine
+  id: 01166aa0-18fc-4a34-b3c8-076edd605c02
+designer:
+  name: Derek Ellard
+  id: dc826c22-e1ed-44df-948e-d227bc9ba767
+construction_material: woodepoxy
+construction_method: other
+draft: 0
+engine_installations: []
+for_sales:
+- asking_price: 5995
 handicap_data:
   beam: 1.9812240916849548
   length_over_all: 5.4864667154352595
@@ -22,18 +31,22 @@ home_port: Weymouth
 hull_form: long keel deep forefoot
 id: 4b75e452-a6b4-4803-b635-8e9699be81e8
 length_on_deck: 5.4864
-mainsail_type: lug
-name: Sea Jay
-oga_no: 2767
+callsign: ''
 ownerships:
 - name: Chris Allender
   share: 64
   start: 2005
 place_built: Wales
-rig_type: Yawl
-short_description: <p><strong>&#39;</strong>Sea Jay&#39; is a Stornaway 18&#39; designed
-  by Derek Ellard of Scruffie Boats, Australia and built by Oz Marine in 2003.</p>
 updated_at: '2021-12-19T13:39:48.792151+00:00'
 website: ''
 year: 2003
 year_is_approximate: false
+previous_names:
+- Isabella
+image_key: 84FmRd
+beam: 1.9812
+design_class:
+  name: Stornoway 18
+  id: ed93a660-fa7b-48ed-a1c2-ef363905ac7a
+for_sale_state:
+  text: not_for_sale

@@ -1,9 +1,9 @@
-callsign: ''
-construction_material: steel
-construction_method: unknown
-draft: 0
-engine_installations: []
-for_sales: []
+name: Avontuur
+oga_no: 1608
+generic_type: unknown
+rig_type: Schooner
+mainsail_type: gaff
+short_description: ''
 full_description: "The Riverlklipper Avontuur was built in 1909 on the wharf Haezer\
   \ at Hardinxveld {near Dordrecht).  She was built in steel, riveted, and always\
   \ served as a sailing cargo vessel on the big rivers and in sealand, Holland. In\
@@ -28,7 +28,11 @@ full_description: "The Riverlklipper Avontuur was built in 1909 on the wharf Hae
   \ Avontuur succeeded to sail the concurrence out of sight.  In the Klipper race\
   \ that same year \"Avontuur\" was less lucky and half of the competitors were faster\
   \ in two Regattas\u2019, which were sailed with very little wind."
-generic_type: unknown
+construction_material: steel
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   length_over_all: 25.908315045110946
 home_country: 'null'
@@ -36,13 +40,13 @@ home_port: ''
 hull_form: unknown
 id: 54a933ab-67a0-4830-bae5-24d34e956bbc
 length_on_deck: 25.908
-mainsail_type: gaff
-name: Avontuur
-oga_no: 1608
+callsign: ''
 place_built: Hardinxveld
-rig_type: Schooner
-short_description: ''
 updated_at: '2021-01-31T17:02:54.973741+00:00'
 website: ''
 year: 1909
 year_is_approximate: false
+construction_details: rivetted steel.
+beam: 0
+for_sale_state:
+  text: not_for_sale

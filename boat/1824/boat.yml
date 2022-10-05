@@ -1,43 +1,51 @@
-builder: 34ac85f5-6346-4c30-8616-b9230ed48a6a
-callsign: ''
+name: Morning Star
+oga_no: 1824
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Previous owner Denis Aymer and Joe Connolly
+builder:
+  name: Brannelly
+  id: 34ac85f5-6346-4c30-8616-b9230ed48a6a
+designer:
+  name: Brannelly
+  id: 06aea8b0-6a5d-4724-8545-5fe2216a1d91
 construction_material: wood
 construction_method: unknown
-designer: 06aea8b0-6a5d-4724-8545-5fe2216a1d91
 draft: 1.8532
 engine_installations: []
 for_sales: []
-full_description: Previous owner Denis Aymer and Joe Connolly
-generic_type: unknown
 handicap_data:
   beam: 3.5357229943916115
-  draft: 1.8532065349914655
-  fore_triangle_base: 12.496951962935869
-  fore_triangle_height: 6.0960741282613995
-  length_on_waterline: 10.972933430870519
-  length_over_all: 12.039746403316263
   main:
     foot: 10.36332601804438
     head: 6.0960741282613995
     luff: 6.0960741282613995
+  thcf: 1.079090341
+  draft: 1.8532065349914655
   propellor:
     type: fixed
-  thcf: 1.079090341
+  length_over_all: 12.039746403316263
+  fore_triangle_base: 12.496951962935869
+  length_on_waterline: 10.972933430870519
+  fore_triangle_height: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 2236c5bd-c3cf-452f-9666-1ca03d8e1bb6
 length_on_deck: 12.0396
-mainsail_type: gaff
-name: Morning Star
-oga_no: 1824
+callsign: ''
 ownerships:
 - name: John Healion
   share: 64
   start: 2012
 place_built: Kinvara, Co Galway
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:21.361167+00:00'
 website: ''
 year: 1884
 year_is_approximate: false
+construction_details: Larch on Oak
+beam: 3.5357
+for_sale_state:
+  text: not_for_sale

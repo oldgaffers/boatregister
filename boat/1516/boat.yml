@@ -1,45 +1,52 @@
-builder: a6482c01-706a-469d-93db-2ccab9020581
-callsign: ''
+name: Unicorn
+oga_no: 1516
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: North Sea Craft
+  id: a6482c01-706a-469d-93db-2ccab9020581
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.8382
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  draft: 0.8382101926359424
-  fore_triangle_base: 4.114850036576445
-  fore_triangle_height: 7.315288953913679
-  length_on_waterline: 6.452694464764692
-  length_over_all: 7.315288953913679
   main:
     foot: 4.26725188978298
     head: 3.176054620824189
     luff: 4.419653742989515
-  propellor:
-    type: fixed
   thcf: 0.904388652
+  draft: 0.8382101926359424
   topsail:
     luff: 2.6670324311143623
     perpendicular: 2.13362594489149
+  propellor:
+    type: fixed
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 4.114850036576445
+  length_on_waterline: 6.452694464764692
+  fore_triangle_height: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: e9f411fb-7a35-45e5-a092-01fe7993d13a
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Unicorn
-oga_no: 1516
+uk_part1: '377038'
+callsign: ''
 ownerships:
 - name: S 2600
   share: 64
   start: 1991
 place_built: Brundall
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:13.591427+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+construction_details: GRP
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

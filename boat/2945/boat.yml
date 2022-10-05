@@ -1,26 +1,36 @@
-builder: aa5b6c59-2696-45f5-b24e-f608e38db553
-callsign: ''
+name: Aimie
+oga_no: 2945
+generic_type: Dinghy
+rig_type: single_sail
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: A. Greaves
+  id: aa5b6c59-2696-45f5-b24e-f608e38db553
+designer:
+  name: Paul Fisher
+  id: de6ce395-680c-46f9-a90f-180310b55e8a
 construction_material: wood
 construction_method: unknown
-designer: de6ce395-680c-46f9-a90f-180310b55e8a
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 home_port: Glenridding/Ullswater
 hull_form: centre-board dinghy
 id: d73052b1-7ca8-43ec-8c1d-3e0aa7b5910e
-mainsail_type: gaff
-name: Aimie
-oga_no: 2945
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Andrew Greaves
   share: 64
   start: 2012
 place_built: Poulton-le-Fylde
-rig_type: single_sail
-short_description: ''
 updated_at: '2021-12-19T13:39:54.186134+00:00'
 website: ''
 year: 2006
 year_is_approximate: false
+design_class:
+  name: Stornoway 12
+  id: 5a2eeedb-385e-4db3-ae31-e264d962f7c4
+for_sale_state:
+  text: not_for_sale

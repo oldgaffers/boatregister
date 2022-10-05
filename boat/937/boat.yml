@@ -1,34 +1,43 @@
-builder: 2bcba7b6-1394-4d4b-b67a-c2ae394f7eea
-callsign: ''
+name: Chouna
+oga_no: 937
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Anderson William and Sons
+  id: 2bcba7b6-1394-4d4b-b67a-c2ae394f7eea
+designer:
+  name: William Anderson
+  id: 1d38414c-e5b9-44c8-92ae-f21d43dd8c78
 construction_material: wood
 construction_method: unknown
-designer: 1d38414c-e5b9-44c8-92ae-f21d43dd8c78
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.21921482565228
-  length_on_waterline: 8.22970007315289
   length_over_all: 9.997561570348694
+  length_on_waterline: 8.22970007315289
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: aea2e344-6fd2-463d-a09c-41ce324c92dd
 length_on_deck: 9.9974
-mainsail_type: gaff
-name: Chouna
-oga_no: 937
+callsign: ''
 ownerships:
 - name: A W Johnson
   share: 64
   start: 2012
 place_built: Millom
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:56.552663+00:00'
 website: ''
 year: 1908
 year_is_approximate: false
+previous_names:
+- Mermaid
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

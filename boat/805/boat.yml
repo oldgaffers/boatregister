@@ -1,34 +1,48 @@
-builder: d02ef310-75b8-46ab-8c53-f17b72d64671
-callsign: ''
+name: Oriette
+oga_no: 805
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Burnt and sank - 1989 Log 71/1, 67/1
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+designer:
+  name: William Crossfield
+  id: da4baa22-674e-4ea8-b2c5-14aee7286837
 construction_material: wood
 construction_method: unknown
-designer: da4baa22-674e-4ea8-b2c5-14aee7286837
 draft: 1.6459
 engine_installations: []
 for_sales: []
-full_description: Burnt and sank - 1989 Log 71/1, 67/1
-generic_type: unknown
 handicap_data:
   beam: 2.9565959522067784
   draft: 1.645940014630578
-  length_on_waterline: 9.1441111923921
   length_over_all: 10.36332601804438
+  length_on_waterline: 9.1441111923921
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: d9c000c9-a1df-4e85-be43-edd30cd135bc
 length_on_deck: 10.3632
-mainsail_type: gaff
-name: Oriette
-oga_no: 805
+reference:
+- Log 71/1
+- Log 67/1
+callsign: ''
 ownerships:
 - name: G Symons
   share: 64
   start: 2012
 place_built: Arnside
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:52.830397+00:00'
 website: ''
 year: 1924
 year_is_approximate: false
+previous_names:
+- Erne
+- Suzanne
+image_key: 7bKxb8
+beam: 2.9566
+for_sale_state:
+  text: not_for_sale

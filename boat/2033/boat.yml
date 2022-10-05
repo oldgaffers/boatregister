@@ -1,13 +1,21 @@
-builder: 18583dd4-8ab1-4778-96df-40955b771221
-callsign: ''
+name: Dipper
+oga_no: 2033
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Small Craft
+  id: 18583dd4-8ab1-4778-96df-40955b771221
+designer:
+  name: Ian Proctor
+  id: 8ae8af94-3e4e-44fd-9b2b-6ea45fe80024
 construction_material: wood
 construction_method: unknown
-designer: 8ae8af94-3e4e-44fd-9b2b-6ea45fe80024
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.4478176054620824
   length_over_all: 3.3528407705437697
@@ -16,19 +24,18 @@ home_port: Waldringfield
 hull_form: unknown
 id: bcd1cda9-3d27-4c1d-9810-d5bdc418662e
 length_on_deck: 3.3528
-mainsail_type: gaff
-name: Dipper
-oga_no: 2033
+callsign: ''
 ownerships:
-- current: true
-  id: 250
-  member: 3318
+- id: 250
   share: 64
   start: 2012
+  member: 3318
+  current: true
 place_built: Southampton
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:27.483369+00:00'
 website: ''
 year: 1961
 year_is_approximate: false
+beam: 1.4478
+for_sale_state:
+  text: not_for_sale

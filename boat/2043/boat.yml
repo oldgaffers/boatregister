@@ -1,40 +1,48 @@
-builder: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
-callsign: ''
+name: Buccaneer
+oga_no: 2043
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Dauntless&nbsp; 20ft gaffer built in 1953</p>
+full_description: ''
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+designer:
+  name: Latimer
+  id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
 construction_material: wood
 construction_method: clinker
-designer: 6fdcf8f9-a1db-43f3-808d-fc243570b567
 draft: 0.4572
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.6426481346013166
   draft: 0.45720555961960496
-  length_on_waterline: 5.690685198732017
   length_over_all: 6.0960741282613995
+  length_on_waterline: 5.690685198732017
 home_country: GBR
 home_port: Christchurch
 hull_form: unknown
 id: c6202b91-74d7-4ab6-b304-b1dfd4631f17
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Buccaneer
-oga_no: 2043
+callsign: ''
 ownerships:
 - note: Previous owner in 1992 Tony Osborne
+  text: Previous owner in
   start: 1992
   start_is_approximate: false
-  text: Previous owner in
-- current: true
-  id: 245
-  member: 3292
+- id: 245
   share: 64
   start: 2012
+  member: 3292
+  current: true
 place_built: Canvey Island
-rig_type: Sloop
-short_description: <p>Dauntless&nbsp; 20ft gaffer built in 1953</p>
 updated_at: '2021-12-19T13:39:27.793643+00:00'
 website: ''
 year: 1953
 year_is_approximate: false
+construction_details: Mahogany clinker copper fastened to oak
+beam: 2.6426
+for_sale_state:
+  text: not_for_sale

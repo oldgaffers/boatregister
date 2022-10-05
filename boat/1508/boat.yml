@@ -1,10 +1,10 @@
-builder: f92ac75b-39f6-4ce5-904d-f2e9cf8de409
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 2.286
-engine_installations: []
-for_sales: []
+name: Angele Aline
+oga_no: 1508
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>&#39;Angele Aline&#39; is a Dunkirk Little Ship and has been
+  sunk as a blockade ship twice, 1940 (St Vaast) and 1944 (Nieuport).</p>
 full_description: "<p>Before the second world war, she fished for cod and ling travelling\
   \ to Grand Banks, Newfoundland in the summer and the North Sea in the Winter. She\
   \ took part in the Dunkirk evacuation, rescuing approximately 350 soldiers. She\
@@ -16,39 +16,46 @@ full_description: "<p>Before the second world war, she fished for cod and ling t
   \ completely rebuilt between 2001 and 2005.</p>\r\n\r\n<p>For more information,\
   \ visit the <a href=\"http://www.adls.org.uk/t1/node/511\" target=\"_blank\">Association\
   \ of Dunkirk Little Ships website</a>.</p>"
-generic_type: unknown
+builder:
+  name: Chantier Naval le Maitre
+  id: f92ac75b-39f6-4ce5-904d-f2e9cf8de409
+construction_material: wood
+construction_method: unknown
+draft: 2.286
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 5.18166300902219
-  draft: 2.286027798098025
-  fore_triangle_base: 8.53450377956596
-  fore_triangle_height: 9.75371860521824
-  length_on_waterline: 13.716166788588149
-  length_over_all: 16.154596439892707
   main:
     foot: 7.620092660326749
     head: 7.010485247500609
     luff: 7.620092660326749
+  thcf: 1.090044868
+  draft: 2.286027798098025
   mizzen:
     foot: 4.26725188978298
     head: 3.6576444769568397
     luff: 4.724457449402585
   propellor:
     type: fixed
-  thcf: 1.090044868
+  length_over_all: 16.154596439892707
+  fore_triangle_base: 8.53450377956596
+  length_on_waterline: 13.716166788588149
+  fore_triangle_height: 9.75371860521824
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: dfe2d954-393e-4bd0-af57-cac0d1254ccb
 length_on_deck: 16.1544
-mainsail_type: gaff
-name: Angele Aline
-oga_no: 1508
+sail_number: TSK59
+uk_part1: '398992'
+callsign: ''
 ownerships:
 - note: 'Previous owners: Binne and Dagmasr Groenier (purchased 1963) Gareth Wright
     (sold 1984)'
+  text: 'Previous owners: Binne and Dagmasr Groenier (purchased'
   start: 1963
   start_is_approximate: false
-  text: 'Previous owners: Binne and Dagmasr Groenier (purchased'
 - end: 1990
   name: George and Meriel Thurston
   share: 64
@@ -61,10 +68,12 @@ ownerships:
   share: 64
   start: 2007
 place_built: Fecamp
-rig_type: Ketch
-short_description: <p>&#39;Angele Aline&#39; is a Dunkirk Little Ship and has been
-  sunk as a blockade ship twice, 1940 (St Vaast) and 1944 (Nieuport).</p>
 updated_at: '2021-12-19T13:39:13.370909+00:00'
 website: ''
 year: 1921
 year_is_approximate: false
+image_key: qb6wQN
+construction_details: Oak on oak
+beam: 5.1816
+for_sale_state:
+  text: not_for_sale

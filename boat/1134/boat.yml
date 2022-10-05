@@ -1,11 +1,9 @@
-builder: 8203a0cd-044f-4d91-8da4-f22063901e25
-callsign: ''
-construction_material: steel
-construction_method: unknown
-designer: 75b8e267-30d0-4825-90e1-b253d02723a5
-draft: 0.9906
-engine_installations: []
-for_sales: []
+name: Wylo II
+oga_no: 1134
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: "<p>WYLO II is the prototype to Brilleau and Sparky of about 30\
   \ who are now sailing and many more under construction. She has now circumnavigated\
   \ the world twice, with another passage from New Zealand to Britain. She has done\
@@ -14,40 +12,54 @@ full_description: "<p>WYLO II is the prototype to Brilleau and Sparky of about 3
   \ and most of the running rigging but her 3 strand polyester main halliards, jib\
   \ and staysail halliards are original, as is her 1951 Bradford engine. In Fiji 8/97</p>\r\
   \n\r\n<p><a href=\"https://vimeo.com/284310686\">video from Bryony Stokes</a></p>"
-generic_type: Yacht
+builder:
+  name: N.H. Skeates
+  id: 8203a0cd-044f-4d91-8da4-f22063901e25
+designer:
+  name: Nick Skeates
+  id: 75b8e267-30d0-4825-90e1-b253d02723a5
+construction_material: steel
+construction_method: unknown
+draft: 0.9906
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.0480370641306997
-  draft: 0.9906120458424774
-  fore_triangle_base: 6.004633016337478
-  fore_triangle_height: 8.443062667642037
-  length_on_waterline: 8.53450377956596
-  length_over_all: 9.75371860521824
   main:
     foot: 5.029261155815655
     head: 3.0480370641306997
     luff: 5.7912704218483295
-  propellor:
-    type: fixed
   thcf: 0.98091287
+  draft: 0.9906120458424774
   topsail:
     luff: 7.010485247500609
     perpendicular: 3.3528407705437697
+  propellor:
+    type: fixed
+  length_over_all: 9.75371860521824
+  fore_triangle_base: 6.004633016337478
+  length_on_waterline: 8.53450377956596
+  fore_triangle_height: 8.443062667642037
 home_country: 'null'
 home_port: Wootton Creek
 hull_form: long keel deep forefoot
 id: ee3f7fd9-1152-47b9-a087-6645da515828
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Wylo II
-oga_no: 1134
+uk_part1: '390753'
+callsign: ''
 ownerships:
 - name: N H Skeates
   share: 64
   start: 1980
 place_built: Whangerei, NZ
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:02.511642+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: Double chine Steel, wooden deck.
+beam: 3.048
+design_class:
+  name: Wylo II
+  id: c841a838-26f9-42e7-bf3c-d3fe724552f3
+for_sale_state:
+  text: not_for_sale

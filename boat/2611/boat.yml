@@ -1,11 +1,13 @@
-builder: db759cc1-f727-4b1d-b8a0-548a921ee5ca
-callsign: ''
-construction_material: woodepoxy
-construction_method: unknown
-designer: fe77f498-752a-4cfc-8e10-c9e4d011ae90
-draft: 1.4478
-engine_installations: []
-for_sales: []
+name: Betty Alan
+oga_no: 2611
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: Under the inspiration of a big Mylne ketch, Jeremy Lines designed
+  this rather smaller (50' on deck) centreboard version for his friend Mark Varvill.
+  Drawn entirely by hand in the traditional manner, with not a millimetre or computer
+  mouse in sight, she is built of inch and a quarter mahogany, glued and screwed to
+  laminated mahogany frames.
 full_description: 'Betty Alan was the dream boat of Mark Varvill, who commissioned
   her design from his friend Jeremy Lines, a yacht designer who trained with Fred
   Parker and worked his entire life at Camper and Nicholson. She supposedly had her
@@ -35,33 +37,47 @@ full_description: 'Betty Alan was the dream boat of Mark Varvill, who commission
   the East Coast, Netherlands, Orkney, Cornwall, Channel Islands and Brittany.<p>More
   recently she has been undertaking a slow exploration of the West Coast of Ireland.
   (was OGA 3305).'
-generic_type: Yacht
+builder:
+  name: Ken Latham
+  id: db759cc1-f727-4b1d-b8a0-548a921ee5ca
+designer:
+  name: Jeremy Lines
+  id: fe77f498-752a-4cfc-8e10-c9e4d011ae90
+construction_material: woodepoxy
+construction_method: unknown
+draft: 1.4478
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.26725188978298
-  draft: 2.9474518410143866
-  length_on_waterline: 10.972933430870519
-  length_over_all: 15.240185320653499
   thcf: 1.126899288
+  draft: 2.9474518410143866
+  length_over_all: 15.240185320653499
+  length_on_waterline: 10.972933430870519
 home_country: GBR
 home_port: Kenmare River, Ireland
 hull_form: cut_away_stem
 id: 0797b601-3d00-40d8-850b-eed1641f101f
 length_on_deck: 15.24
-mainsail_type: gaff
-name: Betty Alan
-oga_no: 2611
+reference:
+- CB Dec 2003 pp 73
+sail_number: GBR 8T
+callsign: ''
 ownerships:
 - name: Peter J  Muir CBE
   share: 64
   start: 2006
 place_built: Poole
-rig_type: Ketch
-short_description: Under the inspiration of a big Mylne ketch, Jeremy Lines designed
-  this rather smaller (50' on deck) centreboard version for his friend Mark Varvill.
-  Drawn entirely by hand in the traditional manner, with not a millimetre or computer
-  mouse in sight, she is built of inch and a quarter mahogany, glued and screwed to
-  laminated mahogany frames.
 updated_at: '2021-12-19T13:39:44.235648+00:00'
 website: www.bettyalan.com
 year: 1998
 year_is_approximate: false
+previous_names:
+- Diligent ll
+- Samphire TM
+image_key: 9QKTJf
+construction_details: Mahogany hull. Glassed below waterline. Teak deck over marine
+  ply. Wooden centreboard within ballast keel.
+beam: 4.2672
+for_sale_state:
+  text: not_for_sale

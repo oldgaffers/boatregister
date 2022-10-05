@@ -1,12 +1,18 @@
-builder: 559cd4bc-a18f-48c0-adb8-ecf51442d3df
-callsign: ''
+name: Nell
+oga_no: 2029
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: Owns Sandpiper
+builder:
+  name: Brooke Marine
+  id: 559cd4bc-a18f-48c0-adb8-ecf51442d3df
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Owns Sandpiper
-generic_type: Dinghy
 handicap_data:
   length_over_all: 3.581443550353572
 home_country: 'null'
@@ -14,17 +20,16 @@ home_port: ''
 hull_form: unknown
 id: 4c692f38-7d03-4f38-895c-d9196d5fdeab
 length_on_deck: 3.5814
-mainsail_type: lug
-name: Nell
-oga_no: 2029
+callsign: ''
 ownerships:
 - name: W.T.C. Bent
   share: 64
   start: 2012
 place_built: Lowestoft
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:27.359123+00:00'
 website: ''
 year: 1929
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

@@ -1,12 +1,18 @@
-builder: 5dbe9021-c9c3-421f-a03e-e5bcb4111248
-callsign: ''
+name: Fortuin
+oga_no: 1626
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Log 80/1
+builder:
+  name: Abeking and Rasmussen
+  id: 5dbe9021-c9c3-421f-a03e-e5bcb4111248
 construction_material: wood
 construction_method: unknown
 draft: 1.9812
 engine_installations: []
 for_sales: []
-full_description: Log 80/1
-generic_type: Yacht
 handicap_data:
   beam: 3.3528407705437697
   draft: 1.9812240916849548
@@ -15,17 +21,20 @@ home_port: ''
 hull_form: unknown
 id: 2a5d756c-4290-4706-9a06-8326bce8f2d5
 length_on_deck: 0
-mainsail_type: gaff
-name: Fortuin
-oga_no: 1626
+reference:
+- Log 80/1
+callsign: ''
 ownerships:
 - name: F Hollings
   share: 64
   start: 2012
 place_built: Bremen
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:16.587118+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+construction_details: Pitch pine on oak, galvanised steel frames, teak over ply deck,
+  teak and magogany superstructure.
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

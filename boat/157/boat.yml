@@ -1,12 +1,10 @@
-builder: f67a12b8-a8db-4dd5-84f7-3bb89920eb06
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f455f3b6-d2be-4793-a2d4-512398485aef
-draft: 1.2192
-engine_installations: []
-for_sales:
-- asking_price: 9950
+name: Anjak
+oga_no: 157
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Anjak&#39; is a yacht, carvel, mahogany on oak buit in
+  1967 and rigged for easy single handed cruising. She had a major refit in 2010/11.</p>
 full_description: "<p>&#39;Anjak&#39; was home built in 1967/8 and the W Atkin design\
   \ was stretched from 27&#39; to 32&#39; with the rig changed from schooner to cutter.\
   \ Her builder, John Brown, owned her until 1985.</p>\r\n\r\n<p>She is rigged for\
@@ -26,20 +24,29 @@ full_description: "<p>&#39;Anjak&#39; was home built in 1967/8 and the W Atkin d
   \ improved her facilities.</p>\r\n\r\n<p>&#39;Anjak&#39; won many races during membership\
   \ of the Medway Cruising Club, and given her owners, Mick and Hazel Tyrrell much\
   \ pleasure sailing around the Medway and east coast area and beyond.</p>"
-generic_type: Yacht
+builder:
+  name: John Brown
+  id: f67a12b8-a8db-4dd5-84f7-3bb89920eb06
+designer:
+  name: William Atkin
+  id: f455f3b6-d2be-4793-a2d4-512398485aef
+construction_material: wood
+construction_method: carvel
+draft: 1.2192
+engine_installations: []
+for_sales:
+- asking_price: 9950
 handicap_data:
   beam: 2.9565959522067784
   draft: 1.21921482565228
-  length_on_waterline: 7.315288953913679
   length_over_all: 9.1441111923921
+  length_on_waterline: 7.315288953913679
 home_country: GBR
 home_port: Gillingham, Kent
 hull_form: long keel sloping forefoot
 id: 4d463e1e-ed62-4852-a92d-b004975d8fb4
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Anjak
-oga_no: 157
+callsign: ''
 ownerships:
 - end: 1985
   name: J Brown
@@ -50,10 +57,13 @@ ownerships:
   share: 64
   start: 2012
 place_built: Gillingham/Chatham
-rig_type: Cutter
-short_description: <p>&#39;Anjak&#39; is a yacht, carvel, mahogany on oak buit in
-  1967 and rigged for easy single handed cruising. She had a major refit in 2010/11.</p>
 updated_at: '2021-12-19T13:38:34.144428+00:00'
 website: ''
 year: 1967
 year_is_approximate: false
+image_key: FdvGZT
+construction_details: Carvel, mahogany on oak with a teak deck. She has a long keel
+  and a clipper bow.
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

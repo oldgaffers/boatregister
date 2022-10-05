@@ -1,12 +1,10 @@
-builder: 6cd1bf47-97b9-4f1b-8402-c27b59e901d9
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
-draft: 1.3716
-engine_installations: []
-for_sales:
-- asking_price: 10000
+name: Zingela
+oga_no: 3110
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: <p><em>Zingela</em> is a much traveled Vertue, leaving the UK in
+  1969 and returning in 1993, having sailed to South Africa and back</p>
 full_description: '<p>Built by Robertsons of Woodbridge in 1965 as <em>Sekyd</em>
   for a Mr Dykes (Sekyd is Dykes backwards) In 1969 <em>Zingela</em> sailed from Woodbridge
   through the French canals to the Mediterranean, then to Durban, S Africa via the
@@ -23,31 +21,43 @@ full_description: '<p>Built by Robertsons of Woodbridge in 1965 as <em>Sekyd</em
 
   <p>Accomodation is typical of her class, with 4 berths. She is free of gas hazards,
   using a spirit cooker and charcoal stove.</p>'
-generic_type: Yacht
+builder:
+  name: Robertsons
+  id: 6cd1bf47-97b9-4f1b-8402-c27b59e901d9
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
+construction_material: wood
+construction_method: unknown
+draft: 1.3716
+engine_installations: []
+for_sales:
+- asking_price: 10000
 handicap_data:
   beam: 2.1844306266764204
-  draft: 1.3716288710070714
-  fore_triangle_base: 3.6576444769568397
-  fore_triangle_height: 8.22970007315289
-  length_on_waterline: 6.553291880029261
-  length_over_all: 7.696299683004145
-  length_over_spars: 7.696299683004145
   main:
     foot: 3.6576444769568397
     luff: 8.22970007315289
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 27.843718243110544
   thcf: 0.904
+  draft: 1.3716288710070714
+  sailarea: 27.843718243110544
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.696299683004145
+  length_over_spars: 7.696299683004145
+  fore_triangle_base: 3.6576444769568397
+  length_on_waterline: 6.553291880029261
+  fore_triangle_height: 8.22970007315289
 home_country: GBR
 home_port: Emsworth
 hull_form: long keel sloping forefoot
 id: 4042b70f-5c00-479f-b28a-45eba631876e
 length_on_deck: 7.6962
-mainsail_type: bermudan
-name: Zingela
-oga_no: 3110
+sail_number: '131'
+spar_material: wood
+ssr: '11191'
+callsign: ''
 ownerships:
 - name: John Neville
   share: 64
@@ -65,16 +75,23 @@ ownerships:
     ''Zingela'': dates unknown.'
   text: 'Lester McCarthy, Austen Sales Perkins, Joan Ryley and John Neville have owned
     ''Zingela'': dates unknown.'
-- current: true
-  id: 711
-  member: 5660
+- id: 711
   share: 64
   start: 2011
+  member: 5660
+  current: true
 place_built: Woodbridge
-rig_type: Sloop
-short_description: <p><em>Zingela</em> is a much traveled Vertue, leaving the UK in
-  1969 and returning in 1993, having sailed to South Africa and back</p>
 updated_at: '2021-12-29T15:28:27.297374+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+previous_names:
+- Sekxd
+image_key: csst5f
+construction_details: Iroko on Oak Frames, ply decks
+beam: 2.1854
+design_class:
+  name: Vertue
+  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
+for_sale_state:
+  text: for_sale

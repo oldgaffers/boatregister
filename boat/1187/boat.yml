@@ -1,34 +1,45 @@
-builder: fb22546d-4ed1-4bc5-a632-2a4a1b49de3f
-callsign: ''
+name: Vemara
+oga_no: 1187
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 82/2, 83/2
+builder:
+  name: P. Waters
+  id: fb22546d-4ed1-4bc5-a632-2a4a1b49de3f
+designer:
+  name: A.H. Comben
+  id: 8456eb5d-95ca-4b22-b215-124ed4585642
 construction_material: wood
 construction_method: unknown
-designer: 8456eb5d-95ca-4b22-b215-124ed4585642
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: Log 82/2, 83/2
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.3716166788588149
-  length_on_waterline: 8.382101926359423
   length_over_all: 9.1441111923921
+  length_on_waterline: 8.382101926359423
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: fef9a24f-8a95-4b24-ae5e-35abac6da98a
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Vemara
-oga_no: 1187
+reference:
+- Log 82/2
+- Log 83/2
+callsign: ''
 ownerships:
 - name: M K Hutchings
   share: 64
   start: 2012
 place_built: Appledore
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:04.126135+00:00'
 website: ''
 year: 1934
 year_is_approximate: false
+construction_details: Larch on oak, copper fastened, teak coamings and cabin
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

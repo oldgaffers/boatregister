@@ -1,33 +1,40 @@
-builder: 067cfad3-ee38-4c3c-8fc1-69d58aa29d33
-callsign: ''
+name: Equinoxe
+oga_no: 1902
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Chantier Navals de Normandie
+  id: 067cfad3-ee38-4c3c-8fc1-69d58aa29d33
+designer:
+  name: H. Lemaistre
+  id: c265e10e-9bd0-4246-88f0-d67573931469
 construction_material: wood
 construction_method: unknown
-designer: c265e10e-9bd0-4246-88f0-d67573931469
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 4.389173372348208
-  length_on_waterline: 12.679834186783712
   length_over_all: 14.90490124359912
+  length_on_waterline: 12.679834186783712
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: cc5a40bc-206f-4c4d-b33d-76a5625aa050
 length_on_deck: 14.9047
-mainsail_type: gaff
-name: Equinoxe
-oga_no: 1902
+callsign: ''
 ownerships:
 - name: Ocean Youth Club
   share: 64
   start: 2012
 place_built: Fecamp
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:23.596143+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+beam: 4.3891
+for_sale_state:
+  text: not_for_sale

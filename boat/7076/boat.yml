@@ -1,35 +1,48 @@
-builder: 688e8fed-6cdc-4ef4-af16-11eef4cfbd8d
-callsign: ''
+name: Kalinka
+oga_no: 7076
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: Reg Patten
+  id: 688e8fed-6cdc-4ef4-af16-11eef4cfbd8d
+designer:
+  name: Seaking
+  id: acc16672-b916-4b9b-bbed-0115d69488f3
 construction_material: wood
 construction_method: clinker
-designer: acc16672-b916-4b9b-bbed-0115d69488f3
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 0.7620092660326749
-  length_on_waterline: 2.8956352109241648
-  length_over_all: 7.924896366739819
   propellor:
     type: fixed
+  length_over_all: 7.924896366739819
+  length_on_waterline: 2.8956352109241648
 home_country: GBR
 home_port: Brightlingsea
 hull_form: bilge keel
 id: 7d4e73b5-cf3f-4e93-ad6f-3d31b77bb1c4
 length_on_deck: 7.9248
-mainsail_type: bermudan
-name: Kalinka
-oga_no: 7076
+sail_number: '66'
+ssr: '121528'
+callsign: ''
 ownerships:
 - name: Ian Samways
   share: 64
   start: 2007
 place_built: Leigh on Sea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:40:02.293381+00:00'
 website: ''
 year: 1976
 year_is_approximate: false
+construction_details: Clinker iroko on oak bilge keel
+beam: 0.762
+design_class:
+  name: Sea King 26
+  id: 79f6f782-f134-458b-b6e7-9ee34ecb0d7c
+for_sale_state:
+  text: not_for_sale

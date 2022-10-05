@@ -1,13 +1,21 @@
-builder: 2cb259c1-961a-44fe-a120-79ff603c0fee
-callsign: ''
+name: Colmcille
+oga_no: 2116
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: spritsail
+short_description: ''
+full_description: ''
+builder:
+  name: Eddie Hutchinson
+  id: 2cb259c1-961a-44fe-a120-79ff603c0fee
+designer:
+  name: R. Ruddock/E. Hutchinson
+  id: 72ff682c-10a0-417a-8755-85fe21ac533f
 construction_material: wood
 construction_method: unknown
-designer: 72ff682c-10a0-417a-8755-85fe21ac533f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
   length_over_all: 11.582540843696659
@@ -16,17 +24,17 @@ home_port: Portrush
 hull_form: unknown
 id: 8434b811-f578-47a0-84ea-c57e48748093
 length_on_deck: 11.5824
-mainsail_type: spritsail
-name: Colmcille
-oga_no: 2116
+callsign: ''
 ownerships:
 - name: Robin Ruddock
   share: 64
   start: 1997
 place_built: Dingle
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:29.79639+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+construction_details: Canvas
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

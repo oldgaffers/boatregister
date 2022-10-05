@@ -1,13 +1,21 @@
-builder: 5920a29f-daf2-49cf-b0f0-fdf5beb28fe4
-callsign: ''
+name: Rosetta
+oga_no: 2248
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: C.M. Jay/J.M. Jay
+  id: 5920a29f-daf2-49cf-b0f0-fdf5beb28fe4
+designer:
+  name: Peter Webb
+  id: e26fa0d7-7b99-4a1d-9f72-b7d99ec218d2
 construction_material: wood
 construction_method: unknown
-designer: e26fa0d7-7b99-4a1d-9f72-b7d99ec218d2
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.2954157522555474
   length_over_all: 3.0480370641306997
@@ -16,17 +24,19 @@ home_port: Poole
 hull_form: unknown
 id: 6d53baef-ae83-425d-8ed0-1c79494fe836
 length_on_deck: 3.048
-mainsail_type: lug
-name: Rosetta
-oga_no: 2248
+sail_number: '50'
+callsign: ''
 ownerships:
 - name: Jonah Jay
   share: 64
   start: 1999
 place_built: Penallt, Monmouthshire
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:33.466878+00:00'
 website: ''
 year: 1999
 year_is_approximate: false
+construction_details: Single chine 8S 1088 sapele plywood, oak gunwhales mahogany
+  trim, epoxy sheathed
+beam: 1.2954
+for_sale_state:
+  text: not_for_sale

@@ -1,34 +1,41 @@
-builder: 2b35adfb-fd18-42be-b300-08d145c23378
-callsign: ''
+name: Temptress
+oga_no: 69
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: CB Jan/Feb 89 + Mar/Apr 89
+builder:
+  name: W. Braybyn
+  id: 2b35adfb-fd18-42be-b300-08d145c23378
+designer:
+  name: H. Robinson
+  id: 2d3f5336-4266-4c93-983c-8ba4a7fc4ad1
 construction_material: wood
 construction_method: unknown
-designer: 2d3f5336-4266-4c93-983c-8ba4a7fc4ad1
 draft: 1.9202
 engine_installations: []
 for_sales: []
-full_description: CB Jan/Feb 89 + Mar/Apr 89
-generic_type: Yacht
 handicap_data:
   beam: 3.2004389173372347
   draft: 1.9202633504023408
-  length_on_waterline: 9.601316752011703
   length_over_all: 10.36332601804438
+  length_on_waterline: 9.601316752011703
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: d806dbb7-5768-4f0e-9d9b-5992f666bef1
 length_on_deck: 10.3632
-mainsail_type: gaff
-name: Temptress
-oga_no: 69
+callsign: ''
 ownerships:
 - name: C M Fishwick
   share: 64
   start: 2012
 place_built: Calenick
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:31.690652+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

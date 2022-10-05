@@ -1,17 +1,26 @@
-builder: b6e979af-6060-428b-9da6-f328feef204d
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 35aee782-828a-4097-8035-8dd166e550c4
-draft: 0
-engine_installations: []
-for_sales: []
+name: Catsnip
+oga_no: 2929
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Rob Cawley of Banbury imported the boat from Clearwater, Florida,
+  2006 and named her &#39;Catsnip&#39;.</p>
 full_description: "<p>Rob Cawley of Banbury imported the boat in 2006 and named her\
   \ &#39;Catsnip&#39;.</p>\r\n\r\n<p>Gerrard Fraser-Williams purchased her in 2009\
   \ to sail out of Holyhead with the intention of leaving her in Cemaes Bay, which\
   \ dries out from approx. half tide, for some periods. She has a centreboard with\
   \ draft of 14&quot; - 54&quot;.</p>"
-generic_type: unknown
+builder:
+  name: Hutchins Co.
+  id: b6e979af-6060-428b-9da6-f328feef204d
+designer:
+  name: Clark Mills
+  id: 35aee782-828a-4097-8035-8dd166e550c4
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.2098268714947573
   length_over_all: 5.282248232138502
@@ -20,9 +29,7 @@ home_port: Holyhead
 hull_form: unknown
 id: bad7f7fa-37ca-42d2-bf1a-db664422b6f6
 length_on_deck: 5.2822
-mainsail_type: gaff
-name: Catsnip
-oga_no: 2929
+callsign: ''
 ownerships:
 - end: 2009
   name: Rob Cawley
@@ -31,16 +38,16 @@ ownerships:
 - name: Gerrard Fraser-Williams
   share: 64
   start: 2009
-- current: true
-  id: 612
-  member: 5235
+- id: 612
   share: 64
+  member: 5235
+  current: true
   start: '?'
 place_built: Clearwater, Florida USA
-rig_type: Sloop
-short_description: <p>Rob Cawley of Banbury imported the boat from Clearwater, Florida,
-  2006 and named her &#39;Catsnip&#39;.</p>
 updated_at: '2021-12-19T13:39:53.664382+00:00'
 website: ''
 year: 2006
 year_is_approximate: false
+beam: 2.2098
+for_sale_state:
+  text: not_for_sale

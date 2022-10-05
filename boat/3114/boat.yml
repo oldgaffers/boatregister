@@ -1,38 +1,47 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Charlotte Elizabeth
+oga_no: 3114
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Charlotte Elizabeth is a Cornish Crabber 24 built in 1998.
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.590831504511095
-  draft: 1.0668251645940015
-  fore_triangle_base: 4.191069251402097
-  fore_triangle_height: 7.543910021945867
-  length_on_waterline: 6.3246769080712015
-  length_over_all: 7.467690807120214
-  length_over_spars: 9.29652523774689
   main:
     foot: 4.31805657156791
     head: 3.1242440868080954
     luff: 4.597457937088515
-  propellor:
-    blades: 3
-    type: folding
-  sailarea: 33.216060088709845
   thcf: 0.887
+  draft: 1.0668251645940015
+  sailarea: 33.216060088709845
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 7.467690807120214
+  length_over_spars: 9.29652523774689
+  fore_triangle_base: 4.191069251402097
+  length_on_waterline: 6.3246769080712015
+  fore_triangle_height: 7.543910021945867
 home_country: GBR
 home_port: Poole
 hull_form: long keel sloping forefoot
 id: e292bbe5-0d69-4738-938c-78a29e44611b
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Charlotte Elizabeth
-oga_no: 3114
+sail_number: '51'
+ssr: '901102'
+uk_part1: GB-B1H24051A898
+callsign: ''
 ownerships:
 - end: 2013
   name: Geoff Frost
@@ -44,15 +53,23 @@ ownerships:
 - name: John Chilvers
   share: 32
   start: 2013
-- current: true
-  id: 557
-  member: 4979
+- id: 557
   share: 64
+  member: 4979
+  current: true
   start: '?'
 place_built: Rock
-rig_type: Cutter
-short_description: Charlotte Elizabeth is a Cornish Crabber 24 built in 1998.
 updated_at: '2021-12-19T13:39:58.271134+00:00'
 website: ''
 year: 1998
 year_is_approximate: false
+previous_names:
+- Peace of Mylor
+image_key: cHXPJ9
+construction_details: GRP
+beam: 2.5908
+design_class:
+  name: Cornish Crabber 24
+  id: ff83f69b-9762-4ae5-9681-950b5658ad97
+for_sale_state:
+  text: not_for_sale

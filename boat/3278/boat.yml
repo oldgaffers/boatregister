@@ -1,11 +1,12 @@
-builder: 413ca5b7-ca20-4246-a2db-004b8370013b
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: de6ce395-680c-46f9-a90f-180310b55e8a
-draft: 1.6002
-engine_installations: []
-for_sales: []
+name: Naida
+oga_no: 3278
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>&#39;Naida&#39; was built by her first owner. Her design is
+  based on the mid 19th century &#39;Pinky Ketches&#39; of the East Coast of the USA.
+  She is built almost entirely from timber collected from the Great Storm of 1987,
+  all of this came from within a mile of where she was built.</p>
 full_description: "<p>&#39;Naida&#39; was built by her firstst owner starting in 1999,\
   \ finishing in 2011. 95% of the timber came from within a mile of where she was\
   \ built, most of it coming from trees that were brought down by the &#39;Great Storm&#39;\
@@ -16,14 +17,18 @@ full_description: "<p>&#39;Naida&#39; was built by her firstst owner starting in
   \ Isles of Scilly.</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\"\
   \ height=\"480\" src=\"https://www.youtube.com/embed/P0Tg9yPaWFw\" width=\"640\"\
   ></iframe></p>"
-generic_type: Yacht
+builder:
+  name: Iain Tolhurst
+  id: 413ca5b7-ca20-4246-a2db-004b8370013b
+designer:
+  name: Paul Fisher
+  id: de6ce395-680c-46f9-a90f-180310b55e8a
+construction_material: wood
+construction_method: unknown
+draft: 1.6002
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 0.974
-  fore_triangle_base: 5.3492
-  fore_triangle_height: 11.1008
-  length_on_waterline: 8.7996
-  length_over_spars: 13.9995
-  length_overall: 10.7991
   main:
     foot: 13.71
     head: 12.2
@@ -33,29 +38,35 @@ handicap_data:
     head: 8.14
     luff: 14.11
   sailarea: 5
+  length_overall: 10.7991
+  calculated_thcf: 0.974
+  length_over_spars: 13.9995
+  fore_triangle_base: 5.3492
+  length_on_waterline: 8.7996
+  fore_triangle_height: 11.1008
 home_country: GBR
 home_port: Wicor, Portsmouth
 hull_form: long keel sloping forefoot
 id: c3bd90e7-6b8e-48d4-a394-b3afd134f7dc
 length_on_deck: 10.7991
-mainsail_type: gaff
-name: Naida
-oga_no: 3278
+ssr: '143896'
+callsign: ''
 ownerships:
 - name: Iain Tolhurst
   share: 64
   start: 2011
-- current: true
+- share: 64
   member: 6022
-  share: 64
+  current: true
   start: '?'
 place_built: Hardwick, Pangbourne, Reading
-rig_type: Ketch
-short_description: <p>&#39;Naida&#39; was built by her first owner. Her design is
-  based on the mid 19th century &#39;Pinky Ketches&#39; of the East Coast of the USA.
-  She is built almost entirely from timber collected from the Great Storm of 1987,
-  all of this came from within a mile of where she was built.</p>
 updated_at: '2021-12-19T13:40:06.112876+00:00'
 website: ''
 year: 2011
 year_is_approximate: false
+image_key: czjwPd
+construction_details: Laminated oak ribs, oak frames, keel and hog. Strip plank Thuja
+  overlaid with 2 oak veneers.
+beam: 3.301
+for_sale_state:
+  text: not_for_sale

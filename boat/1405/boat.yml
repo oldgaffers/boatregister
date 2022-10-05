@@ -1,12 +1,11 @@
-builder: a6f5d0ec-34af-4039-ab45-796fe0858f34
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: d31eab4c-acb3-4ecb-ab62-45f9878c0988
-draft: 1.3198
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Margaret Catchpole
+oga_no: 1405
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built in Poole as a fishing smack, and converted to a yacht
+  in 1947 at Christchurch, &#39;Margaret Catchpole&#39; was kept at Pin Mill until
+  2003 when she was moved to Rochester.</p>
 full_description: "<p>Launched as the &#39;Eureka&#39; in 1911, and registered for\
   \ fishing 25 November 1911, tonnage 10.8 and fishing no. PE62. She is believed to\
   \ be the last of the larger Poole smacks.</p>\r\r<p>&#39;Margaret Catchpole&#39;\
@@ -15,20 +14,29 @@ full_description: "<p>Launched as the &#39;Eureka&#39; in 1911, and registered f
   \r<p>&#39;Margaret&#39; is a very stiff boat and easy to sail. She has been continually\
   \ upgraded and refurbished in traditional and authentic materials since 2003 to\
   \ keep her sailing.</p>\r\r<p>In 2016, she was sold following the death of her owner.</p>"
-generic_type: Smack
+builder:
+  name: Allen
+  id: a6f5d0ec-34af-4039-ab45-796fe0858f34
+designer:
+  name: Allen
+  id: d31eab4c-acb3-4ecb-ab62-45f9878c0988
+construction_material: wood
+construction_method: carvel
+draft: 1.3198
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 3.2004389173372347
   draft: 1.4020970495001217
-  length_on_waterline: 8.22970007315289
   length_over_all: 8.686905632772493
+  length_on_waterline: 8.22970007315289
 home_country: GBR
 home_port: Rochester
 hull_form: unknown
 id: 0a6fcc24-99a3-4a61-9cf0-ef77514fd871
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: Margaret Catchpole
-oga_no: 1405
+callsign: ''
 ownerships:
 - end: 2016
   name: Ian Tredwen and Karen Seymour
@@ -39,11 +47,14 @@ ownerships:
   share: 64
   start: 2016
 place_built: Poole
-rig_type: Cutter
-short_description: <p>Built in Poole as a fishing smack, and converted to a yacht
-  in 1947 at Christchurch, &#39;Margaret Catchpole&#39; was kept at Pin Mill until
-  2003 when she was moved to Rochester.</p>
 updated_at: '2021-12-19T13:39:10.375878+00:00'
 website: ''
 year: 1911
 year_is_approximate: false
+previous_names:
+- Eureka
+image_key: L7SpS3
+construction_details: Elm Keel, oak frames. Carvel larch and pine planks
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

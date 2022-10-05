@@ -1,41 +1,49 @@
-builder: 954dc050-837f-454f-be87-830d8cf00c2b
-callsign: ''
+name: Lady Hilary
+oga_no: 1050
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Alan F. Platt  Ltd
+  id: 954dc050-837f-454f-be87-830d8cf00c2b
+designer:
+  name: L. Harbottell/A. Platt
+  id: 0c6a85ba-b4aa-4907-aa78-43936ca3eb9b
 construction_material: wood
 construction_method: unknown
-designer: 0c6a85ba-b4aa-4907-aa78-43936ca3eb9b
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.6426481346013166
-  draft: 0.7620092660326749
-  fore_triangle_base: 4.166666666666666
-  fore_triangle_height: 7.315288953913679
-  length_on_waterline: 6.4008778346744695
-  length_over_all: 7.315288953913679
   main:
     foot: 4.623872226286271
     head: 3.633260180443794
     luff: 4.166666666666666
   thcf: 0.888681588
+  draft: 0.7620092660326749
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 4.166666666666666
+  length_on_waterline: 6.4008778346744695
+  fore_triangle_height: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 98de659a-e4c0-4e56-aad8-2ad4f641165e
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Lady Hilary
-oga_no: 1050
+uk_part1: '388650'
+callsign: ''
 ownerships:
 - name: C Kinghorn
   share: 64
   start: 2012
 place_built: Thundersley
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:59.953403+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+beam: 2.6426
+for_sale_state:
+  text: not_for_sale

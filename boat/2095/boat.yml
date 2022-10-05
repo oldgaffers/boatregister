@@ -1,11 +1,12 @@
-builder: 3ec78f7a-e558-43bb-9145-1368ce3f949e
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 009e934b-3e6d-4651-b895-a4b712da3886
-draft: 2.3774
-engine_installations: []
-for_sales: []
+name: Pioneer
+oga_no: 2095
+generic_type: Smack
+rig_type: Ketch
+mainsail_type: gaff
+short_description: Built by Peter Harris at Rowhedge in 1864, Pioneer was originally
+  57 ft. overall length working out of Brightlingsea dredging deep sea oysters. Lengthened
+  by Aldous in 1889, and having a "wet well", she's probably the last remaining UK
+  sailing fishing vessel with one.
 full_description: "<p>Restored over six years by the Pioneer Sailing Trust, who started\
   \ the project 1998, Pioneer is now fully fitted out for sail training.</p>\r\n\r\
   \n<p>She worked as a sailing fishing vessel off the coasts of the Netherlands and\
@@ -16,49 +17,59 @@ full_description: "<p>Restored over six years by the Pioneer Sailing Trust, who 
   >Visit her website</a> for the full story of Pioneer and the Pioneer Sailing Trust.</p>\r\
   \n\r\n<p><a href=\"/eastcoast/news/scouts-sail-pioneer\">Read about the East Coast\
   \ scouts</a> sailing on &#39;Pioneer&#39; in 2015.</p>"
-generic_type: Smack
+builder:
+  name: Harris Brothers
+  id: 3ec78f7a-e558-43bb-9145-1368ce3f949e
+designer:
+  name: Harris Brothers
+  id: 009e934b-3e6d-4651-b895-a4b712da3886
+construction_material: wood
+construction_method: unknown
+draft: 2.3774
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.62286027798098
-  draft: 2.3876493538161423
-  fore_triangle_base: 12.801755669348939
-  fore_triangle_height: 12.496951962935869
-  length_on_waterline: 18.13583272372592
-  length_over_all: 21.031455742501826
   main:
     foot: 8.305907095830285
     head: 8.28050475493782
     luff: 6.959704950012192
+  thcf: 1.267
+  draft: 2.3876493538161423
   mizzen:
     foot: 4.191069251402097
     head: 3.8608632040965616
     luff: 3.454450134113631
-  propellor:
-    blades: 3
-    type: folding
-  sailarea: 181.61875572627758
-  thcf: 1.267
   topsail:
     luff: 9.575926603267495
     perpendicular: 4.62286027798098
+  sailarea: 181.61875572627758
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 21.031455742501826
+  fore_triangle_base: 12.801755669348939
+  length_on_waterline: 18.13583272372592
+  fore_triangle_height: 12.496951962935869
 home_country: GBR
 home_port: Brightlingsea
 hull_form: long keel deep forefoot
 id: cec8b836-b368-4aeb-a015-ea979d10b5a3
 length_on_deck: 21.0312
-mainsail_type: gaff
-name: Pioneer
-oga_no: 2095
+sail_number: ''
+uk_part1: '48991'
+callsign: ''
 ownerships:
 - name: Pioneer Sailing Trust
   share: 64
   start: 1999
 place_built: Rowhedge
-rig_type: Ketch
-short_description: Built by Peter Harris at Rowhedge in 1864, Pioneer was originally
-  57 ft. overall length working out of Brightlingsea dredging deep sea oysters. Lengthened
-  by Aldous in 1889, and having a "wet well", she's probably the last remaining UK
-  sailing fishing vessel with one.
 updated_at: '2021-12-19T13:39:29.228146+00:00'
 website: http://www.pioneersailingtrust.org.uk
 year: 1864
 year_is_approximate: false
+fishing_number: CK18
+image_key: 8hNMgL
+beam: 4.633
+for_sale_state:
+  text: not_for_sale

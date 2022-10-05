@@ -1,13 +1,21 @@
-builder: cce3ff3a-0151-4955-ac5e-9cd09e1871cc
-callsign: ''
+name: Phra Luang
+oga_no: 2447
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Address:- PO Box 600, Vineyard Haven, MA 02568, USA
+builder:
+  name: Jeff Robinson
+  id: cce3ff3a-0151-4955-ac5e-9cd09e1871cc
+designer:
+  name: John G. Alden
+  id: 7ae52563-8658-4911-addd-13e3b72ff1f8
 construction_material: wood
 construction_method: unknown
-designer: 7ae52563-8658-4911-addd-13e3b72ff1f8
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Address:- PO Box 600, Vineyard Haven, MA 02568, USA
-generic_type: Yacht
 handicap_data:
   beam: 3.5052426237503047
   length_over_all: 12.801755669348939
@@ -16,17 +24,16 @@ home_port: Vineyard Haven MA USA
 hull_form: unknown
 id: 2ab0663a-7874-4e79-aa9c-b51e52fe0f75
 length_on_deck: 12.8016
-mainsail_type: gaff
-name: Phra Luang
-oga_no: 2447
+callsign: ''
 ownerships:
 - name: Jeffery A Robinson
   share: 64
   start: 2012
 place_built: Bangkok
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:39.016862+00:00'
 website: ''
 year: 1984
 year_is_approximate: false
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

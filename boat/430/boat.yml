@@ -1,34 +1,44 @@
-builder: 57c4e472-875f-4e6b-aae8-4f198579d842
-callsign: ''
+name: Mowi
+oga_no: 430
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: See CB Sept 04.
+builder:
+  name: Dan Webb/Feesey Webb
+  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+designer:
+  name: Dan Webb
+  id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
 construction_material: wood
 construction_method: unknown
-designer: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
 draft: 1.0058
 engine_installations: []
 for_sales: []
-full_description: See CB Sept 04.
-generic_type: Yacht
 handicap_data:
   beam: 1.9812240916849548
   draft: 1.0058522311631308
-  length_on_waterline: 5.029261155815655
   length_over_all: 5.4864667154352595
+  length_on_waterline: 5.029261155815655
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 14344aa6-ab36-43a8-9be4-5d6dfe236fba
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: Mowi
-oga_no: 430
+callsign: ''
 ownerships:
 - name: J Fletcher
   share: 64
   start: 2012
 place_built: Maldon
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:42.038153+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+beam: 1.9812
+design_class:
+  name: Blackwater Sloop
+  id: 5eedf365-1b2c-4c7b-b11c-0dce4f9e1f5c
+for_sale_state:
+  text: not_for_sale

@@ -1,30 +1,41 @@
-builder: 034f4f9b-6334-45d7-a0b3-5116da588b30
-callsign: ''
+name: Black Duck
+oga_no: 471
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Log J/96, S/96 CB Feb 92
+builder:
+  name: R.S. Burt and Son
+  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+designer:
+  name: Harley Mead
+  id: 25412902-8c25-4fd2-8023-2f506c99a366
 construction_material: wood
 construction_method: unknown
-designer: 25412902-8c25-4fd2-8023-2f506c99a366
 draft: 1.8593
 engine_installations: []
 for_sales: []
-full_description: Log J/96, S/96 CB Feb 92
-generic_type: unknown
 handicap_data:
   beam: 2.834674469641551
   draft: 1.8593026091197267
-  length_on_waterline: 7.985857108022433
   length_over_all: 8.53450377956596
+  length_on_waterline: 7.985857108022433
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 2dbc50fc-3b23-4637-98fb-4ca75775f0d5
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Black Duck
-oga_no: 471
+reference:
+- Log June 96
+- Log Sep 96
+- CB Feb 92
+callsign: ''
 place_built: Falmouth
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-03-27T22:50:24.316979+00:00'
 website: ''
 year: 1905
 year_is_approximate: false
+beam: 2.8346
+for_sale_state:
+  text: not_for_sale

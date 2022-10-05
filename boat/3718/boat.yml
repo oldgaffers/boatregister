@@ -1,9 +1,11 @@
-construction_material: plywood
-construction_method: stitch_and_glue
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
-draft: 0.994
-engine_installations: []
-for_sales: []
+name: Jabberwocky
+oga_no: 3718
+generic_type: Dinghy
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Jabberwocky is owned by Arnside Sailing Club. She was the first
+  Gaffling 4.1 dinghy to be built from a Fyne Boats kits. She was built by three teenagers
+  at Fyne Boats Training Centre at Gatebeck, near Kendal in Summer 2022.</p>
 full_description: "<p>Jabberwocky is owned by Arnside Sailing Club. She was the first\
   \ Gaffling 4.1 dinghy to be built from a Fyne Boats kit. She was built by three\
   \ teenagers, who went on a training course to build her at Fyne Boats Training Centre\
@@ -13,7 +15,14 @@ full_description: "<p>Jabberwocky is owned by Arnside Sailing Club. She was the 
   \ Severn, which was built by Crossfields of Arnside 1912 as an entry level boat\
   \ to gaff rigged sailing for adults and youths before moving onto Severn. Including\
   \ sails she cost \xA37000 to build</p>"
-generic_type: Dinghy
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+construction_material: plywood
+construction_method: stitch_and_glue
+draft: 0.994
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.6
 home_country: England
@@ -21,15 +30,15 @@ home_port: Arnside
 hull_form: centre-board dinghy
 id: 35aeb71e-1e81-4b18-a5df-aa876797bbe7
 length_on_deck: 4.1
-mainsail_type: gaff
-name: Jabberwocky
-oga_no: 3718
+sail_number: '7'
+spar_material: wood
 place_built: Fyne Boats Training Centre, Gatebeck, nr Kendal
-rig_type: Cutter
-short_description: <p>Jabberwocky is owned by Arnside Sailing Club. She was the first
-  Gaffling 4.1 dinghy to be built from a Fyne Boats kits. She was built by three teenagers
-  at Fyne Boats Training Centre at Gatebeck, near Kendal in Summer 2022.</p>
 updated_at: '2022-09-22T21:22:33.728483+00:00'
 website: https://www.arnsidesailingclub.co.uk
 year: 2022
 year_is_approximate: false
+image_key: XT4T3S
+air_draft: 19.74
+design_class:
+  name: Gaffling 4.1
+  id: f2dba77b-2c17-4a6c-956a-0c0f791bf7aa

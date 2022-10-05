@@ -1,34 +1,48 @@
-builder: a9a42e1a-3c2c-4137-9c49-31d250504b41
-callsign: ''
+name: Smithick
+oga_no: 1629
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Percy G. Mitchell
+  id: a9a42e1a-3c2c-4137-9c49-31d250504b41
+designer:
+  name: Percy G. Mitchell
+  id: 5f19fc16-706a-4add-a80a-67ab97c4c002
 construction_material: wood
 construction_method: carvel
-designer: 5f19fc16-706a-4add-a80a-67ab97c4c002
 draft: 1.0424
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.234211168007803
   draft: 1.0424286759326993
-  length_on_waterline: 5.9436722750548645
   length_over_all: 6.0960741282613995
+  length_on_waterline: 5.9436722750548645
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 6e3aef08-f1be-4742-917e-037ec5e3b97f
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Smithick
-oga_no: 1629
+callsign: ''
 ownerships:
 - name: P Tudor
   share: 64
   start: 1983
 place_built: Portmellon Mevagissey
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:16.648887+00:00'
 website: ''
 year: 1927
 year_is_approximate: false
+previous_names:
+- morning c
+- Sea Trout
+construction_details: Carvel pitch pine on steamed oak frames
+beam: 2.2342
+design_class:
+  name: Tosher 20
+  id: be1964ca-eb7d-410e-b30b-db18e9b72387
+for_sale_state:
+  text: not_for_sale

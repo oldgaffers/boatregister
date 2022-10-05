@@ -1,41 +1,51 @@
-builder: 5ffea3ec-47dc-4ba8-9366-b05f0875f16d
-callsign: ''
+name: Juno
+oga_no: 2661
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Design of 1906.  See paper archive for build specn and plans.
+builder:
+  name: Rutherfords
+  id: 5ffea3ec-47dc-4ba8-9366-b05f0875f16d
+designer:
+  name: G. Cockshott
+  id: 33f4a349-1159-4c85-9b58-8b067340bf7d
 construction_material: wood
 construction_method: clinker
-designer: 33f4a349-1159-4c85-9b58-8b067340bf7d
 draft: 0.4572
 engine_installations: []
 for_sales: []
-full_description: Design of 1906.  See paper archive for build specn and plans.
-generic_type: unknown
 handicap_data:
   beam: 1.6764203852718849
-  draft: 0.45720555961960496
-  fore_triangle_base: 2.081809314801268
-  fore_triangle_height: 2.8956352109241648
-  length_on_waterline: 4.87685930260912
-  length_over_all: 5.105462082418922
   main:
     foot: 4.114850036576445
     head: 3.6820287734698853
     luff: 1.7526213118751524
   thcf: 0.817967924
+  draft: 0.45720555961960496
+  length_over_all: 5.105462082418922
+  fore_triangle_base: 2.081809314801268
+  length_on_waterline: 4.87685930260912
+  fore_triangle_height: 2.8956352109241648
 home_country: 'null'
 home_port: West Kirby
 hull_form: unknown
 id: b882aa84-c1bf-440c-aa1f-e7e08bb62cf0
 length_on_deck: 5.1054
-mainsail_type: gaff
-name: Juno
-oga_no: 2661
+sail_number: '1'
+callsign: ''
 ownerships:
 - name: John Laing
   share: 64
   start: 2012
 place_built: Birkenhead
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:45.529364+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+construction_details: Larch clinker on american elm timbers, transom stern over skeg,
+  5cwt internal ballast and 1/2 &quot; steel centre plate
+beam: 1.6764
+for_sale_state:
+  text: not_for_sale

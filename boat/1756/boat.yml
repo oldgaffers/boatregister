@@ -1,34 +1,43 @@
-builder: c5f0c02c-7806-4aa9-ac39-21724141e7b8
-callsign: ''
+name: Prudence
+oga_no: 1756
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: A. Bracken
+  id: c5f0c02c-7806-4aa9-ac39-21724141e7b8
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: steel
 construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.4478
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.9718361375274323
   draft: 1.4478176054620824
-  length_on_waterline: 8.077298219946353
   length_over_all: 8.53450377956596
+  length_on_waterline: 8.077298219946353
 home_country: 'null'
 home_port: Cruising the Med
 hull_form: unknown
 id: 5d05f0ea-1933-43f7-8c02-23b116484197
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Prudence
-oga_no: 1756
+ssr: '7567'
+callsign: ''
 ownerships:
 - name: A T  Bracken
   share: 64
   start: 1984
 place_built: Carlshalton Surrey
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:19.498393+00:00'
 website: ''
 year: 1984
 year_is_approximate: false
+construction_details: Steel
+beam: 2.9718
+for_sale_state:
+  text: not_for_sale

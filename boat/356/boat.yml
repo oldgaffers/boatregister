@@ -1,29 +1,36 @@
-builder: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
-callsign: ''
+name: Jacaranda
+oga_no: 356
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+designer:
+  name: Latimer
+  id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
 construction_material: wood
 construction_method: unknown
-designer: 6fdcf8f9-a1db-43f3-808d-fc243570b567
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: eba60f23-be56-46ee-adf9-2d285b011e30
 length_on_deck: 0
-mainsail_type: gaff
-name: Jacaranda
-oga_no: 356
+callsign: ''
 ownerships:
 - name: J S Lees
   share: 64
   start: 2012
 place_built: Canvey Island
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:40.105209+00:00'
 website: ''
 year: 1953
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

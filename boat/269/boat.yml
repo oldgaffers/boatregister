@@ -1,13 +1,13 @@
-builder: 8d74da63-305e-4666-8f7f-931df43292b5
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
-draft: 1.4326
-engine_installations: []
-for_sales:
-- asking_price: 37000
-- asking_price: 35000
+name: Lillibullero
+oga_no: 269
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Lillibullero is one of many boats on the East Coast of England
+  who has crossed the North Sea and back several times throughout her history. Built
+  in Boston, Linconlshire, in 1932 she was bought by a Dutchman for his honeymoon
+  and in 2009 returned to the River Stour. Her owner returned to the Netherlands in
+  2014 for the OGA 'Cross Country Cruise'.
 full_description: "Lillibullero was built in Boston (Lincolnshire), 1932, by A.M (Alexander)\
   \ Gostelow for Mr W.H Johnston. A.M Gostelow was born in 1880 in Rosegarth Street,\
   \ Boston. Between 1901 and 1948 when he died, A.M Gostelow built about 28 fishing\
@@ -41,23 +41,34 @@ full_description: "Lillibullero was built in Boston (Lincolnshire), 1932, by A.M
   \ has been back to England twice to visit the Shotley Classic Boat and Beer festival.\
   \ She also attended every Dutch Classic Yacht Regatta at Hellevoetsluis from 1991\
   \ to 2009.."
-generic_type: Smack
+builder:
+  name: Alexander E. Gostelow
+  id: 8d74da63-305e-4666-8f7f-931df43292b5
+designer:
+  name: Alexander E. Gostelow
+  id: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
+construction_material: wood
+construction_method: unknown
+draft: 1.4326
+engine_installations: []
+for_sales:
+- asking_price: 37000
+- asking_price: 35000
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.432577420141429
-  length_on_waterline: 8.83930748597903
-  length_over_all: 9.75371860521824
   propellor:
-    blades: 3
     type: fixed
+    blades: 3
+  length_over_all: 9.75371860521824
+  length_on_waterline: 8.83930748597903
 home_country: GBR
 home_port: Holbrook
 hull_form: long keel deep forefoot
 id: 66da7f6b-2fc5-4bea-bf33-34578dc75fbb
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Lillibullero
-oga_no: 269
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 1947
   name: W.H.Johnston
@@ -94,19 +105,17 @@ ownerships:
 - name: Michael Robertson
   share: 32
   start: 2011
-- current: true
-  id: 192
-  member: 2791
+- id: 192
   share: 64
+  member: 2791
+  current: true
   start: '?'
 place_built: Boston
-rig_type: Cutter
-short_description: Lillibullero is one of many boats on the East Coast of England
-  who has crossed the North Sea and back several times throughout her history. Built
-  in Boston, Linconlshire, in 1932 she was bought by a Dutchman for his honeymoon
-  and in 2009 returned to the River Stour. Her owner returned to the Netherlands in
-  2014 for the OGA 'Cross Country Cruise'.
 updated_at: '2021-12-19T13:38:37.602674+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+image_key: R9hDWX
+beam: 2.8956
+for_sale_state:
+  text: for_sale

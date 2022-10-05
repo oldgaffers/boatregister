@@ -1,34 +1,41 @@
-builder: a9a42e1a-3c2c-4137-9c49-31d250504b41
-callsign: ''
+name: Corserine
+oga_no: 320
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Percy G. Mitchell
+  id: a9a42e1a-3c2c-4137-9c49-31d250504b41
+designer:
+  name: J. Baxendale
+  id: 8ea3559a-8b55-40f4-804c-aa04a69e323c
 construction_material: wood
 construction_method: unknown
-designer: 8ea3559a-8b55-40f4-804c-aa04a69e323c
 draft: 2.1336
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.2613996586198484
   draft: 2.13362594489149
-  length_on_waterline: 9.601316752011703
   length_over_all: 11.033894172153135
+  length_on_waterline: 9.601316752011703
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: bc3bfb5a-1c06-4d0c-ae84-c3deb40ba4d7
 length_on_deck: 11.0338
-mainsail_type: gaff
-name: Corserine
-oga_no: 320
+callsign: ''
 ownerships:
 - name: J R Austen
   share: 64
   start: 2012
 place_built: Portmellon Mevagissey
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:39.118149+00:00'
 website: ''
 year: 1938
 year_is_approximate: false
+beam: 3.2614
+for_sale_state:
+  text: not_for_sale

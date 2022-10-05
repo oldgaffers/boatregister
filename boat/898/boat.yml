@@ -1,11 +1,9 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
-draft: 1.6154
-engine_installations: []
-for_sales: []
+name: Pembeth
+oga_no: 898
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Built by Aldous of Brightlingsea as a Whitstable smack. After working
   for nearly 20 years, she was bought and converted to a yacht in 1931.<p>Stolen from
   moorings at Portsmouth in 1945, and found 5 weeks later at Fecamp in France as a
@@ -13,35 +11,49 @@ full_description: Built by Aldous of Brightlingsea as a Whitstable smack. After 
   explosion in the canal at Heybridge, the whole cabin top being blown off.<p>Repaired
   by Dicks and Kerly of Maldon and re-certified A1 by Lloyds. Restored at Woodbridge
   sometime after 1967.
-generic_type: Smack
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+designer:
+  name: Aldous
+  id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
+construction_material: wood
+construction_method: unknown
+draft: 1.6154
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.206291148500366
-  draft: 1.6154596439892708
-  fore_triangle_base: 8.83930748597903
-  fore_triangle_height: 9.296513045598633
-  length_on_waterline: 12.344550109729333
-  length_over_all: 14.325774201414289
   main:
     foot: 9.44891489880517
     head: 6.705681541087539
     luff: 5.18166300902219
   thcf: 1.090802982
+  draft: 1.6154596439892708
+  length_over_all: 14.325774201414289
+  fore_triangle_base: 8.83930748597903
+  length_on_waterline: 12.344550109729333
+  fore_triangle_height: 9.296513045598633
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 80a18c44-40b1-483b-8726-52cc2a5f9a51
 length_on_deck: 14.3256
-mainsail_type: gaff
-name: Pembeth
-oga_no: 898
+reference:
+- Log 67/1
+callsign: ''
 ownerships:
 - name: G Brewster
   share: 64
   start: 2012
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:55.47772+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+previous_names:
+- The Clyde
+image_key: CPLdqr
+beam: 4.2062
+for_sale_state:
+  text: not_for_sale

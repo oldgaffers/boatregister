@@ -1,13 +1,21 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Caroline
+oga_no: 2193
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: grp
 construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 1.8288222384784198
   length_over_all: 7.010485247500609
@@ -16,17 +24,20 @@ home_port: Burnham on Crouch
 hull_form: unknown
 id: 2f894f33-932d-4dde-a684-d69987ce13e4
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Caroline
-oga_no: 2193
+callsign: ''
 ownerships:
 - name: N S Halsby
   share: 64
   start: 2012
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:31.879141+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+construction_details: GRP
+beam: 1.8288
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,10 @@
-builder: d326778f-1881-46cc-8a2f-9f9cc01c30c8
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: fc5d51de-a9dc-484c-8935-6542382996ed
-draft: 2.1336
-engine_installations: []
-for_sales: []
+name: Genesta II
+oga_no: 2967
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Genesta II, previously known as Ching Ching, was originally built
+  as a small cruiser/racing yacht.
 full_description: "<p>Abandoned in 1990 in a field, with the lid chopped off, one\
   \ of four&nbsp;Panda&nbsp;711s&nbsp;built. Although sandwich construction, they\
   \ were built in a female mould. One is in the Clyde and another in N. Wales still\
@@ -16,45 +15,62 @@ full_description: "<p>Abandoned in 1990 in a field, with the lid chopped off, on
   \ make it into a dayboat. The watertight raised floor is made of 9mm Robins Elite\
   \ ply, glassed over. She is a gaff&nbsp;sloop rig with alloy spars and daggerboard\
   \ has a 315 kg bulb drawing 2m.</p>"
-generic_type: Yacht
+builder:
+  name: Freedom Yachts
+  id: d326778f-1881-46cc-8a2f-9f9cc01c30c8
+designer:
+  name: Nick Wyatt/Peter Whipp
+  id: fc5d51de-a9dc-484c-8935-6542382996ed
+construction_material: grp
+construction_method: cold_moulded
+draft: 2.1336
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.400029188002926
-  draft: 2.0000243233357717
-  draft_keeldown: 2.0000243233357717
-  fore_triangle_base: 2.600031620336503
-  fore_triangle_height: 6.640080753474762
-  length_on_waterline: 7.000085131675201
-  length_over_all: 7.10008634784199
-  length_over_spars: 8.000097293343087
   main:
     foot: 3.9000474305047543
     head: 4.900059592172641
     luff: 4.0000486466715435
-  sailarea: 28.825049277556403
   thcf: 0.9
+  draft: 2.0000243233357717
+  sailarea: 28.825049277556403
+  draft_keeldown: 2.0000243233357717
+  length_over_all: 7.10008634784199
+  length_over_spars: 8.000097293343087
+  fore_triangle_base: 2.600031620336503
+  length_on_waterline: 7.000085131675201
+  fore_triangle_height: 6.640080753474762
 home_country: GBR
 home_port: Isle of Man
 hull_form: lifting bulb keel
 id: 07c4f5d9-64b6-4336-a540-a2ae39921262
 length_on_deck: 7.111
-mainsail_type: gaff
-name: Genesta II
-oga_no: 2967
+sail_number: '2967'
+spar_material: aluminium
+callsign: ''
 ownerships:
 - end: 2009
   name: Peter Whipp
   share: 64
   start: 1985
-- current: true
-  id: 624
-  member: 5340
+- id: 624
   share: 64
   start: 2009
+  member: 5340
+  current: true
 place_built: Jurby, Isle of Man
-rig_type: Sloop
-short_description: Genesta II, previously known as Ching Ching, was originally built
-  as a small cruiser/racing yacht.
 updated_at: '2021-12-19T13:39:54.861141+00:00'
 website: ''
 year: 1985
 year_is_approximate: false
+previous_names:
+- Ching Ching
+image_key: BPm9qC
+construction_details: grp balsa core  plywood raised floor glassed over (self-draining)
+beam: 2.3866
+design_class:
+  name: Panda 711
+  id: b3be7453-6b23-4876-9530-aca978a81a4a
+for_sale_state:
+  text: not_for_sale

@@ -1,44 +1,55 @@
-builder: d3706422-bda9-46ac-8de2-88da53b6918c
-callsign: ''
+name: Horatia
+oga_no: 2909
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Alan S.R. Staley
+  id: d3706422-bda9-46ac-8de2-88da53b6918c
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: clinker_ply
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
 draft: 0.8626
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.6339917093391856
-  fore_triangle_base: 3.9624481833699097
-  fore_triangle_height: 5.4864667154352595
-  length_on_waterline: 5.273104120946111
-  length_over_all: 5.852231163130943
   main:
     foot: 3.6576444769568397
     head: 3.139478176054621
     luff: 3.0480370641306997
+  thcf: 0.831137648
+  draft: 0.6339917093391856
   propellor:
     type: fixed
-  thcf: 0.831137648
+  length_over_all: 5.852231163130943
+  fore_triangle_base: 3.9624481833699097
+  length_on_waterline: 5.273104120946111
+  fore_triangle_height: 5.4864667154352595
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 4389bae6-7527-46f9-8fc5-9c202547f686
 length_on_deck: 5.843
-mainsail_type: gaff
-name: Horatia
-oga_no: 2909
+callsign: ''
 ownerships:
 - end: 2017
   name: Michael John Terry
   share: 64
   start: 2009
 place_built: Faversham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:53.075946+00:00'
 website: ''
 year: 2009
 year_is_approximate: false
+construction_details: Clinker, epoxy glued ply
+beam: 2.1336
+design_class:
+  name: New Blossom Class
+  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
+for_sale_state:
+  text: not_for_sale

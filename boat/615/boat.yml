@@ -1,8 +1,27 @@
-builder: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
-callsign: ''
+name: Witch
+oga_no: 615
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Witch, a gaff-rigged cutter, is a yacht originally built as a ferry
+  in 1898 for the Laird of Gigha on the western isles of Scotland.
+full_description: "<p>Built by A M Dickie of Tarbert for William James Yorke Scarlett,\
+  \ the Laird of Gigha, she was named &#39;Belem&#39; after the French three masted\
+  \ barque which was famous for its speed. Used principally as a ferry to and from\
+  \ the mainland, she was originally flush-decked with the skylight set in the deck.\
+  \ Her design is quite advanced for the time with her three-quarter length keel and\
+  \ cutaway stem. In 1918 she had the coachroof added which adds significantly to\
+  \ the headroom.</p>\r\n\r\n<p>In 2013, she took part in the OGA Round Britain Challenge,\
+  \ visit <a href=\"http://www.sailing-by.org.uk/content/witch-returns-her-roots-june-2013\"\
+  \ target=\"_blank\">Sailing by</a> and the Witch website for more details.</p>"
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+designer:
+  name: A.M. Dickie
+  id: e03f87f0-9a2d-4cfc-a685-814bc4757242
 construction_material: wood
 construction_method: carvel
-designer: e03f87f0-9a2d-4cfc-a685-814bc4757242
 draft: 1.8806
 engine_installations: []
 for_sales:
@@ -57,43 +76,33 @@ for_sales:
   sold: null
   summary: null
   updated_at: '2022-02-18T16:46:21.359401+00:00'
-full_description: "<p>Built by A M Dickie of Tarbert for William James Yorke Scarlett,\
-  \ the Laird of Gigha, she was named &#39;Belem&#39; after the French three masted\
-  \ barque which was famous for its speed. Used principally as a ferry to and from\
-  \ the mainland, she was originally flush-decked with the skylight set in the deck.\
-  \ Her design is quite advanced for the time with her three-quarter length keel and\
-  \ cutaway stem. In 1918 she had the coachroof added which adds significantly to\
-  \ the headroom.</p>\r\n\r\n<p>In 2013, she took part in the OGA Round Britain Challenge,\
-  \ visit <a href=\"http://www.sailing-by.org.uk/content/witch-returns-her-roots-june-2013\"\
-  \ target=\"_blank\">Sailing by</a> and the Witch website for more details.</p>"
-generic_type: Yacht
 handicap_data:
   beam: 2.89564740307242
-  draft: 1.8796269202633504
-  fore_triangle_base: 5.105480370641307
-  fore_triangle_height: 7.848713728358937
-  length_on_waterline: 8.53450377956596
-  length_over_all: 9.60132894415996
   main:
     foot: 6.248488173616191
     head: 5.105480370641307
     luff: 6.019891489880517
-  propellor:
-    blades: 2
-    type: folding
-  sailarea: 65.03559695698047
   thcf: 1.003
+  draft: 1.8796269202633504
   topsail:
     luff: 5.84207510363326
     perpendicular: 2.4130516947086074
+  sailarea: 65.03559695698047
+  propellor:
+    type: folding
+    blades: 2
+  length_over_all: 9.60132894415996
+  fore_triangle_base: 5.105480370641307
+  length_on_waterline: 8.53450377956596
+  fore_triangle_height: 7.848713728358937
 home_country: GBR
 home_port: Walton on the Naze
 hull_form: long keel sloping forefoot
 id: fd68505a-77e9-4996-8c54-0355355e7497
 length_on_deck: 9.6012
-mainsail_type: gaff
-name: Witch
-oga_no: 615
+spar_material: wood
+ssr: '43139'
+callsign: ''
 ownerships:
 - end: 1918
   name: William James Yorke Scarlett the Laird of Gigha
@@ -123,16 +132,19 @@ ownerships:
   name: Bruce Mackenzie
   share: 64
   start: 1965
-- current: true
-  id: 504
-  member: 4754
+- id: 504
   share: 64
   start: 2006
+  member: 4754
+  current: true
 place_built: Tarbert
-rig_type: Cutter
-short_description: Witch, a gaff-rigged cutter, is a yacht originally built as a ferry
-  in 1898 for the Laird of Gigha on the western isles of Scotland.
 updated_at: '2022-02-27T18:59:13.611523+00:00'
 website: http://www.witch1898.co.uk
 year: 1898
 year_is_approximate: false
+previous_names:
+- Belem
+image_key: 4wzPvd
+beam: 2.8956
+for_sale_state:
+  text: for_sale

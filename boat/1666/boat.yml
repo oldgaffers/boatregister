@@ -1,50 +1,65 @@
-builder: 97612369-5592-4c04-84c6-a2ebb9c4edb4
-callsign: ''
+name: Vilia
+oga_no: 1666
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Log 79/1, 92/3,sp/93, J/96
+builder:
+  name: F. McKeown
+  id: 97612369-5592-4c04-84c6-a2ebb9c4edb4
+designer:
+  name: Vincent Craig
+  id: 04b453f8-4dd7-4ff7-98d5-4dfd55029dc4
 construction_material: wood
 construction_method: carvel
-designer: 04b453f8-4dd7-4ff7-98d5-4dfd55029dc4
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: Log 79/1, 92/3,sp/93, J/96
-generic_type: Yacht
 handicap_data:
   beam: 2.3104120946110704
-  draft: 1.3716166788588149
-  fore_triangle_base: 4.13923433308949
-  fore_triangle_height: 8.40648622287247
-  length_on_waterline: 8.903316264325774
-  length_over_all: 9.75371860521824
   main:
     foot: 5.462082418922214
     head: 3.2004389173372347
     luff: 5.081077785905877
+  thcf: 1.001118268
+  draft: 1.3716166788588149
   mizzen:
     foot: 1.8806388685686417
     head: 1.8288222384784198
     luff: 1.6002194586686174
-  propellor:
-    type: fixed
-  thcf: 1.001118268
   topsail:
     luff: 2.590831504511095
     perpendicular: 1.5697390880273105
+  propellor:
+    type: fixed
+  length_over_all: 9.75371860521824
+  fore_triangle_base: 4.13923433308949
+  length_on_waterline: 8.903316264325774
+  fore_triangle_height: 8.40648622287247
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: eed38443-d490-4d8a-b73e-b7dba296a360
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Vilia
-oga_no: 1666
+reference:
+- Log 79/1
+- Log 92/3
+- sp/93
+- Log June 96
+uk_part1: '129632'
+callsign: ''
 ownerships:
 - name: S A Spence
   share: 64
   start: 2012
 place_built: Belfast
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:17.326161+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+construction_details: Carvel Mahogany on Oak above waterline Pitch pine below, lead
+  keel, teak decks
+beam: 2.3104
+for_sale_state:
+  text: not_for_sale

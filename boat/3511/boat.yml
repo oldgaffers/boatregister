@@ -1,11 +1,11 @@
-builder: 03512fbb-d7f0-412d-b73d-32019f6dcc68
-callsign: ''
-construction_material: steel
-construction_method: unknown
-designer: 68c292a9-6f07-449a-aebb-587d10117c6a
-draft: 2.1336
-engine_installations: []
-for_sales: []
+name: Young Larry
+oga_no: 3511
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p><em>Young Larry</em> is named after <em>Larry</em>, a boat previously
+  owned by her designer Dick Couture. Built of steel, she has sailed in the Mediterranean
+  and also done the Northwest Passage.</p>
 full_description: '<p>''Young Larry'' is named after one of her designer, Dick Couture''s,
   earlier boats named ''Larry'', and <a href="https://www.oga.org.uk/boat/larry">also
   in the OGA Boat Register,</a></p>
@@ -17,36 +17,44 @@ full_description: '<p>''Young Larry'' is named after one of her designer, Dick C
   <p>Kept in Palma for a number of years ''Young Larry'' was sold 2009 to new owners
   who took her through the Northwest Passage in 2010 and completed the circumnavigation
   of North America in 2011. &nbsp;She is now based in Western Scotland.</p>'
-generic_type: Yacht
+builder:
+  name: Terry Erskine/Dick Couture
+  id: 03512fbb-d7f0-412d-b73d-32019f6dcc68
+designer:
+  name: Dick Couture
+  id: 68c292a9-6f07-449a-aebb-587d10117c6a
+construction_material: steel
+construction_method: unknown
+draft: 2.1336
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.9624481833699097
-  draft: 2.13362594489149
-  fore_triangle_base: 6.5532796878810045
-  fore_triangle_height: 11.277737137283589
-  length_on_waterline: 10.66812972445745
-  length_over_all: 13.411363082175079
   main:
     foot: 6.4008778346744695
     head: 5.18166300902219
     luff: 5.7912704218483295
+  thcf: 1.051391198
+  draft: 2.13362594489149
   mizzen:
     foot: 2.5146305779078273
     head: 2.13362594489149
     luff: 2.6670324311143623
-  propellor:
-    type: fixed
-  thcf: 1.051391198
   topsail:
     luff: 8.22970007315289
     perpendicular: 2.8194342843208973
+  propellor:
+    type: fixed
+  length_over_all: 13.411363082175079
+  fore_triangle_base: 6.5532796878810045
+  length_on_waterline: 10.66812972445745
+  fore_triangle_height: 11.277737137283589
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 2e22b085-37f8-4816-8875-dc88d8bb9604
 length_on_deck: 13.4112
-mainsail_type: gaff
-name: Young Larry
-oga_no: 3511
+callsign: ''
 ownerships:
 - end: 2009
   name: Dick Couture
@@ -56,11 +64,12 @@ ownerships:
   share: 64
   start: 2019
 place_built: Xewkija, Gozo
-rig_type: Yawl
-short_description: <p><em>Young Larry</em> is named after <em>Larry</em>, a boat previously
-  owned by her designer Dick Couture. Built of steel, she has sailed in the Mediterranean
-  and also done the Northwest Passage.</p>
 updated_at: '2022-02-13T13:02:10.705303+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+image_key: fFhnxr
+construction_details: Steel
+beam: 3.9624
+for_sale_state:
+  text: not_for_sale

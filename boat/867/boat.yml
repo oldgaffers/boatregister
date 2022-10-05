@@ -1,38 +1,44 @@
-callsign: ''
+name: Habibi
+oga_no: 867
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 80/1
 construction_material: wood
 construction_method: clinker
 draft: 0.1768
 engine_installations: []
 for_sales: []
-full_description: Log 80/1
-generic_type: unknown
 handicap_data:
   beam: 1.2710314557425018
-  draft: 0.17678614971958057
-  fore_triangle_base: 0.9144111192392099
-  fore_triangle_height: 3.0480370641306997
-  length_on_waterline: 2.9718361375274323
-  length_over_all: 2.996220434040478
   main:
     foot: 2.3378444281882467
     head: 2.3104120946110704
     luff: 0.9144111192392099
   thcf: 0.697388214
+  draft: 0.17678614971958057
+  length_over_all: 2.996220434040478
+  fore_triangle_base: 0.9144111192392099
+  length_on_waterline: 2.9718361375274323
+  fore_triangle_height: 3.0480370641306997
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 24c1b5ed-6d34-4991-aeef-a7d134342c45
 length_on_deck: 2.9962
-mainsail_type: gaff
-name: Habibi
-oga_no: 867
+reference:
+- Log 80/1
+callsign: ''
 ownerships:
 - name: M Crossman
   share: 64
   start: 1977
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:54.655894+00:00'
 website: ''
 year: 1920
 year_is_approximate: false
+construction_details: Clinker larch planking on oak bent frames
+beam: 1.271
+for_sale_state:
+  text: not_for_sale

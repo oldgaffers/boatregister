@@ -1,13 +1,21 @@
-builder: 2f8fd77e-8547-4df3-a6ec-b601b5a437a4
-callsign: ''
+name: Ada Mary
+oga_no: 1241
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Nigel Ward/Amber Boats
+  id: 2f8fd77e-8547-4df3-a6ec-b601b5a437a4
+designer:
+  name: John Shuttleworth
+  id: 3d22dffa-4da3-4391-bad7-de15c1127b5d
 construction_material: grp
 construction_method: unknown
-designer: 3d22dffa-4da3-4391-bad7-de15c1127b5d
 draft: 1.1186
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 2.0330407217751767
   draft: 1.1186296025359668
@@ -17,19 +25,23 @@ home_port: ''
 hull_form: unknown
 id: 66880f9b-d70c-4351-bbd4-dfaa59ab538d
 length_on_deck: 4.9774
-mainsail_type: gaff
-name: Ada Mary
-oga_no: 1241
+callsign: ''
 ownerships:
-- current: true
-  id: 111
-  member: 1945
+- id: 111
   share: 64
   start: 1985
+  member: 1945
+  current: true
 place_built: Bonsall
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:05.746408+00:00'
 website: ''
 year: 1984
 year_is_approximate: false
+image_key: TMCmgm
+construction_details: Glass fibre, hand laid hull
+beam: 2.033
+design_class:
+  name: Carra 16
+  id: 25cec83f-4d2b-4660-bd80-8f29367cbf56
+for_sale_state:
+  text: not_for_sale

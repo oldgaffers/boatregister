@@ -1,41 +1,49 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Satin Doll
+oga_no: 1829
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: grp
 construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.6426481346013166
-  draft: 1.3716166788588149
-  fore_triangle_base: 5.18166300902219
-  fore_triangle_height: 7.315288953913679
-  length_on_waterline: 7.010485247500609
-  length_over_all: 8.22970007315289
   main:
     foot: 5.334064862228725
     head: 4.977444525725432
     luff: 4.648256522799317
   thcf: 0.942056656
+  draft: 1.3716166788588149
+  length_over_all: 8.22970007315289
+  fore_triangle_base: 5.18166300902219
+  length_on_waterline: 7.010485247500609
+  fore_triangle_height: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: e8cc97cb-5fc0-4b3a-beba-b97473e4431c
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Satin Doll
-oga_no: 1829
+callsign: ''
 ownerships:
 - name: F Piesse
   share: 64
   start: 2012
 place_built: Tregatreath
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:21.517129+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: GRP
+beam: 2.6426
+for_sale_state:
+  text: not_for_sale

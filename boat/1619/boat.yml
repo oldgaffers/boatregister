@@ -1,12 +1,18 @@
-callsign: ''
+name: Coio
+oga_no: 1619
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 84/1
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: carvel
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: Log 84/1
-generic_type: unknown
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.3716166788588149
@@ -16,16 +22,18 @@ home_port: ''
 hull_form: unknown
 id: 0ddf972b-b6ac-4de0-800e-b9070287b021
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Coio
-oga_no: 1619
+reference:
+- Log 84/1
+callsign: ''
 ownerships:
 - name: T Chudleigh
   share: 64
   start: 2012
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:16.397896+00:00'
 website: ''
 year: 1967
 year_is_approximate: false
+construction_details: Pitch pine on oak
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

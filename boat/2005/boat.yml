@@ -1,12 +1,18 @@
-builder: c4049145-c429-467c-970b-1c8ad8a017ee
-callsign: ''
+name: Yankee Jack
+oga_no: 2005
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: spritsail
+short_description: ''
+full_description: Replica of an existing 1900 craft.
+builder:
+  name: Watchet Friends of the Flatner
+  id: c4049145-c429-467c-970b-1c8ad8a017ee
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Replica of an existing 1900 craft.
-generic_type: unknown
 handicap_data:
   beam: 1.21921482565228
   length_over_all: 6.0960741282613995
@@ -15,17 +21,16 @@ home_port: Watchet
 hull_form: unknown
 id: db8e8086-3111-4cbf-a9d5-f444c0e9a514
 length_on_deck: 6.096
-mainsail_type: spritsail
-name: Yankee Jack
-oga_no: 2005
+callsign: ''
 ownerships:
 - name: A.E. James
   share: 64
   start: 1997
 place_built: Watchet
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:26.676882+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+beam: 1.2192
+for_sale_state:
+  text: not_for_sale

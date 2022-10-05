@@ -1,34 +1,45 @@
-builder: d1c87080-c005-4192-9949-21a3672f735e
-callsign: ''
+name: An Lady Mor
+oga_no: 1818
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Restored 1980.  Log A-W/94, W-S/94, Sep/98
+builder:
+  name: Mulkenius
+  id: d1c87080-c005-4192-9949-21a3672f735e
+designer:
+  name: Mulkenius
+  id: 95093865-145b-4854-b872-8ee2de414fbe
 construction_material: wood
 construction_method: unknown
-designer: 95093865-145b-4854-b872-8ee2de414fbe
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Restored 1980.  Log A-W/94, W-S/94, Sep/98
-generic_type: unknown
 handicap_data:
   beam: 3.8100463301633747
-  length_over_all: 11.277737137283589
   propellor:
     type: fixed
+  length_over_all: 11.277737137283589
 home_country: 'null'
 home_port: Howth
 hull_form: long keel deep forefoot
 id: 2eb82477-7e03-4ff7-8438-d8587815a189
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: An Lady Mor
-oga_no: 1818
+reference:
+- Log A-W/94
+- Log W-S/94
+- Log Sep 98
+callsign: ''
 ownerships:
 - name: Ben McDonagh
   share: 64
   start: 2012
 place_built: Galway
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:21.166662+00:00'
 website: ''
 year: 1885
 year_is_approximate: false
+beam: 3.81
+for_sale_state:
+  text: not_for_sale

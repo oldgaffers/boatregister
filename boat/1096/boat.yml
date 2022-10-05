@@ -1,34 +1,50 @@
-builder: cb17e76b-9888-4502-85a6-c7640e16e6ce
-callsign: ''
+name: Benbecula
+oga_no: 1096
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Flush deck  Clipper bow  Carvel planked hull  Wide cockpit Log 81/4,
+  84/1, 85/3, 86/3, 87/2
+builder:
+  name: S.F. Bond
+  id: cb17e76b-9888-4502-85a6-c7640e16e6ce
 construction_material: wood
 construction_method: carvel
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: Flush deck  Clipper bow  Carvel planked hull  Wide cockpit Log 81/4,
-  84/1, 85/3, 86/3, 87/2
-generic_type: unknown
 handicap_data:
   beam: 2.3165081687393316
   draft: 1.5240185320653499
-  length_on_waterline: 6.4008778346744695
   length_over_all: 10.66812972445745
+  length_on_waterline: 6.4008778346744695
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 7aaa39e0-0c89-426a-bd76-8b0c64b7fdb3
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Benbecula
-oga_no: 1096
+reference:
+- Log 81/4
+- Log 84/1
+- Log 85/3
+- Log 86/3
+- Log 87/2
+callsign: ''
 ownerships:
 - name: A M Bowkes and O F Boyd
   share: 64
   start: 1985
 place_built: Birkenhead
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:01.400662+00:00'
 website: ''
 year: 1897
 year_is_approximate: false
+previous_names:
+- Myfanwy
+image_key: SvqprM
+construction_details: Carvel greenheart garboards, pitch pine bottom, yellow pine
+  topside on oak, lead keel
+beam: 2.3165
+for_sale_state:
+  text: not_for_sale

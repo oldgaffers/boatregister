@@ -1,11 +1,12 @@
-builder: ff6045c3-b7bd-49c9-826a-03c628da0cf1
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 4df1507d-c01d-4e1e-950b-f2a6f875369f
-draft: 2.286
-engine_installations: []
-for_sales: []
+name: Peggy
+oga_no: 1070
+generic_type: Bristol Channel Pilot Cutter
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Originally called &#39;The Wave&#39;, Peggy is a Bristol Channel
+  Pilot Cutter, built for pilot Arthur Case at Pill in 1903 by Edwin Rowles. Convered
+  to a yacht by Moodys at Swanwick in the 1920s, she underwent a major restoration
+  in the 1970s and 1980s by the Pridie family.</p>
 full_description: "<p>&#39;Peggy&#39; was built for the Bristol Channel pilot Arthur\
   \ Case in 1903 at Pill. Tragically, he was drowned several years later when boarding\
   \ a ship off Nash Point. &#39;Peggy&#39; then became a Cardiff boat, later moving\
@@ -32,33 +33,41 @@ full_description: "<p>&#39;Peggy&#39; was built for the Bristol Channel pilot Ar
   \ would not have had an engine, however she had acquired one of of dubious age and\
   \ this was replaced with a similar one that had been a stand by generator. It was\
   \ marinised together with a second hand gearbox. She was back sailing in 1986.</p>"
-generic_type: Bristol Channel Pilot Cutter
+builder:
+  name: E. Rowles
+  id: ff6045c3-b7bd-49c9-826a-03c628da0cf1
+designer:
+  name: E. Rowles
+  id: 4df1507d-c01d-4e1e-950b-f2a6f875369f
+construction_material: wood
+construction_method: unknown
+draft: 2.286
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.8710070714459883
-  draft: 2.286027798098025
-  fore_triangle_base: 8.686905632772493
-  fore_triangle_height: 10.820531577663983
-  length_on_waterline: 12.344550109729333
-  length_over_all: 13.838088271153376
   main:
     foot: 8.53450377956596
     head: 6.858083394294074
     luff: 8.22970007315289
-  propellor:
-    type: fixed
-  sailarea: 127.34653726326762
   thcf: 1.131
+  draft: 2.286027798098025
   topsail:
     luff: 6.9342843208973415
     perpendicular: 3.3528407705437697
+  sailarea: 127.34653726326762
+  propellor:
+    type: fixed
+  length_over_all: 13.838088271153376
+  fore_triangle_base: 8.686905632772493
+  length_on_waterline: 12.344550109729333
+  fore_triangle_height: 10.820531577663983
 home_country: GBR
 home_port: Bristol
 hull_form: long keel deep forefoot
 id: c9c2f2cb-cb12-47f5-8bb6-71849a17babe
 length_on_deck: 13.8379
-mainsail_type: gaff
-name: Peggy
-oga_no: 1070
+callsign: ''
 ownerships:
 - note: John Potter and Rachel Haynes bought Peggy from Diccon Pridie
   text: John Potter and Rachel Haynes bought Peggy from Diccon Pridie
@@ -71,18 +80,22 @@ ownerships:
 - name: John Potter and Rachel Haynes
   share: 64
   start: 2018
-- current: true
-  id: 1061
-  member: 6314
+- id: 1061
   share: 64
+  member: 6314
+  current: true
   start: '?'
 place_built: Pill
-rig_type: Cutter
-short_description: <p>Originally called &#39;The Wave&#39;, Peggy is a Bristol Channel
-  Pilot Cutter, built for pilot Arthur Case at Pill in 1903 by Edwin Rowles. Convered
-  to a yacht by Moodys at Swanwick in the 1920s, she underwent a major restoration
-  in the 1970s and 1980s by the Pridie family.</p>
 updated_at: '2021-12-19T13:39:00.582408+00:00'
 website: ''
 year: 1903
 year_is_approximate: false
+previous_names:
+- The Wave
+image_key: WmB85k
+beam: 3.871
+design_class:
+  name: Bristol Channel Pilot Cutter
+  id: 01de4c84-0f55-42ef-8857-de9ee6eaec55
+for_sale_state:
+  text: not_for_sale

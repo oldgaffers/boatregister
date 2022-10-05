@@ -1,32 +1,37 @@
-builder: a5706c03-34f0-4470-ade8-563c3f79e1d3
-callsign: ''
+name: Lady Sarah
+oga_no: 808
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Belper Boats
+  id: a5706c03-34f0-4470-ade8-563c3f79e1d3
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 1.9812240916849548
-  length_on_waterline: 4.87685930260912
   length_over_all: 5.029261155815655
+  length_on_waterline: 4.87685930260912
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 9a4adab7-19fc-4464-b677-e4b5e41fa818
 length_on_deck: 5.0292
-mainsail_type: gaff
-name: Lady Sarah
-oga_no: 808
+callsign: ''
 ownerships:
 - name: J Welham
   share: 64
   start: 2012
 place_built: Derby
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:52.924386+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

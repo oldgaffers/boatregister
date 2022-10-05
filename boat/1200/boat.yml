@@ -1,11 +1,11 @@
-builder: 14a939d0-e062-4e1d-9e21-c1ec89fef573
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 7be4728c-aec1-4b98-9245-33fa05964add
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Mirelle
+oga_no: 1200
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Mirelle was designed by William Blake and built by Whisstock&#39;s
+  in Woodbridge in 1937. She remained on the River Deben for 77 years, in three ownerships,
+  until moving to the South coast in 2014.</p>
 full_description: "<p>&#39;Mirelle&#39; was built at Whisstock&#39;s on the River\
   \ Deben in 1937. In 2013 she was moved down to the South coast. Watch the Classic\
   \ Yacht TV video to find out more about her history and the yard where she was built.</p>\r\
@@ -14,48 +14,58 @@ full_description: "<p>&#39;Mirelle&#39; was built at Whisstock&#39;s on the Rive
   \ webkitallowfullscreen=\"\" width=\"640\"></iframe></p>\r\n\r\n<p><a href=\"https://vimeo.com/119893354\"\
   >Mirelle - CLASSIC YACHT TV</a> from <a href=\"https://vimeo.com/classicyachttv\"\
   >Classic Yacht TV</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
-generic_type: Yacht
+builder:
+  name: Claude Whisstock
+  id: 14a939d0-e062-4e1d-9e21-c1ec89fef573
+designer:
+  name: William Maxwell Blake
+  id: 7be4728c-aec1-4b98-9245-33fa05964add
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.9565959522067784
-  draft: 1.5240185320653499
-  fore_triangle_base: 6.2484759814679345
-  fore_triangle_height: 7.772494513533284
-  length_on_waterline: 8.382101926359423
-  length_over_all: 11.277737137283589
   main:
     foot: 6.5532796878810045
     head: 4.419653742989515
     luff: 5.6388685686417945
-  propellor:
-    type: fixed
   thcf: 1.016865819
+  draft: 1.5240185320653499
   topsail:
     luff: 5.7912704218483295
     perpendicular: 2.7432333577176298
+  propellor:
+    type: fixed
+  length_over_all: 11.277737137283589
+  fore_triangle_base: 6.2484759814679345
+  length_on_waterline: 8.382101926359423
+  fore_triangle_height: 7.772494513533284
 home_country: GBR
 home_port: Bucklers Hard
 hull_form: long keel sloping forefoot
 id: 7575af4a-e2e5-4639-a4fb-dbbfc6fef27d
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: Mirelle
-oga_no: 1200
+uk_part1: '166102'
+callsign: ''
 ownerships:
 - end: 2013
   name: Andrew Craig-Bennett
   share: 64
   start: 1984
-- current: true
-  id: 870
-  member: 5975
+- id: 870
   share: 64
   start: 2013
+  member: 5975
+  current: true
 place_built: Woodbridge
-rig_type: Cutter
-short_description: <p>Mirelle was designed by William Blake and built by Whisstock&#39;s
-  in Woodbridge in 1937. She remained on the River Deben for 77 years, in three ownerships,
-  until moving to the South coast in 2014.</p>
 updated_at: '2021-12-19T13:39:04.530176+00:00'
 website: ''
 year: 1937
 year_is_approximate: false
+image_key: VRqTzf
+construction_details: Carvel teak on oak to Lloyds scantlings
+beam: 2.9566
+for_sale_state:
+  text: not_for_sale

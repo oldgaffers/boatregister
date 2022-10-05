@@ -1,33 +1,41 @@
-builder: b3b26184-71c2-4f8e-83bf-426e22fcf707
-callsign: ''
+name: Sea Lavender
+oga_no: 531
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Richardson
+  id: b3b26184-71c2-4f8e-83bf-426e22fcf707
+designer:
+  name: Richardson
+  id: 072fc6c6-dd1c-4a16-b2ab-9a9f86ad3e3b
 construction_material: wood
 construction_method: clinker
-designer: 072fc6c6-dd1c-4a16-b2ab-9a9f86ad3e3b
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.9812240916849548
-  length_on_waterline: 4.87685930260912
   length_over_all: 4.87685930260912
+  length_on_waterline: 4.87685930260912
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 275f4bd3-b66c-41c6-bee0-b09a6dc1fa67
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Sea Lavender
-oga_no: 531
+callsign: ''
 ownerships:
 - name: J Milton
   share: 64
   start: 2012
 place_built: West Mersea
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:44.935925+00:00'
 website: ''
 year: 1960
 year_is_approximate: false
+construction_details: Clinker oak on oak
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

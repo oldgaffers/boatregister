@@ -1,8 +1,18 @@
-builder: 3041bfea-f5f3-4933-9a96-7ce59aed9352
-callsign: ''
+name: Questina
+oga_no: 2726
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Questina&#39; is a home built boat, between 1999 and 2002.</p>
+full_description: ''
+builder:
+  name: J.S. Smith
+  id: 3041bfea-f5f3-4933-9a96-7ce59aed9352
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: woodepoxy
 construction_method: carvel
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.8382
 engine_installations: []
 for_sales:
@@ -19,33 +29,31 @@ for_sales:
   sold: null
   summary: null
   updated_at: '2020-05-03T10:13:13.148475+00:00'
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.1300259043525966
-  draft: 0.8300100941843452
-  fore_triangle_base: 3.15003830925384
-  fore_triangle_height: 5.500066889173372
-  length_on_waterline: 5.410065794623263
-  length_over_all: 5.710069443123627
-  length_over_spars: 7.2500881720921715
   main:
     foot: 3.600043782004389
     head: 3.080037457937088
     luff: 3.9900485250548647
-  propellor:
-    blades: 2
-    type: fixed
-  sailarea: 22.821672184280438
   thcf: 0.833
+  draft: 0.8300100941843452
+  sailarea: 22.821672184280438
+  propellor:
+    type: fixed
+    blades: 2
+  length_over_all: 5.710069443123627
+  length_over_spars: 7.2500881720921715
+  fore_triangle_base: 3.15003830925384
+  length_on_waterline: 5.410065794623263
+  fore_triangle_height: 5.500066889173372
 home_country: GBR
 home_port: Milford Haven
 hull_form: long keel deep forefoot
 id: b63c08da-1cd0-4129-967d-ddb121adadac
 length_on_deck: 5.715
-mainsail_type: gaff
-name: Questina
-oga_no: 2726
+sail_number: G61
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2010
   name: John Smith
@@ -55,18 +63,24 @@ ownerships:
   name: David Bainbridge
   share: 64
   start: 2010
-- current: true
-  id: 556
-  member: 4978
+- id: 556
   share: 64
   start: 2018
+  member: 4978
+  current: true
 - id: 3
   share: 64
   start: 2018
 place_built: Woodbridge
-rig_type: Cutter
-short_description: <p>&#39;Questina&#39; is a home built boat, between 1999 and 2002.</p>
 updated_at: '2022-09-01T13:00:31.915532+00:00'
 website: ''
 year: 2002
 year_is_approximate: false
+image_key: 7RGwVJ
+construction_details: Cedar Strip carvel glass expoy
+beam: 2.1092
+design_class:
+  name: Golant Gaffer
+  id: ecdf01fb-dd46-42f7-9232-39880886de2f
+for_sale_state:
+  text: not_for_sale

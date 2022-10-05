@@ -1,34 +1,43 @@
-builder: 43001e73-47fc-46d4-920d-a9275db92135
-callsign: ''
+name: Spray
+oga_no: 548
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 92/1
+builder:
+  name: L. Long
+  id: 43001e73-47fc-46d4-920d-a9275db92135
+designer:
+  name: M. Long
+  id: f5446a34-3e9f-426e-9fea-22092b0a26ab
 construction_material: wood
 construction_method: unknown
-designer: f5446a34-3e9f-426e-9fea-22092b0a26ab
 draft: 1.6764
 engine_installations: []
 for_sales: []
-full_description: Log 92/1
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
   draft: 1.6764203852718849
-  length_on_waterline: 7.620092660326749
   length_over_all: 8.53450377956596
+  length_on_waterline: 7.620092660326749
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 3e8ec92d-94d0-43c6-a521-41c929d25cb0
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Spray
-oga_no: 548
+reference:
+- Log 92/1
+callsign: ''
 ownerships:
 - name: E Musson
   share: 64
   start: 2012
 place_built: Dingle
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:45.486645+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

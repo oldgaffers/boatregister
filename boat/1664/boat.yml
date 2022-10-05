@@ -1,11 +1,15 @@
-callsign: ''
+name: Tessa
+oga_no: 1664
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 84/1
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 84/1
-generic_type: unknown
 handicap_data:
   length_over_all: 7.924896366739819
 home_country: 'null'
@@ -13,16 +17,17 @@ home_port: ''
 hull_form: unknown
 id: 65d7bee1-8dab-4259-acfc-2ce493fdf9d4
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Tessa
-oga_no: 1664
+reference:
+- Log 84/1
+callsign: ''
 ownerships:
 - name: R J H Murray
   share: 64
   start: 1984
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:17.295132+00:00'
 website: ''
 year: 1906
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

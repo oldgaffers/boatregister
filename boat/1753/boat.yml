@@ -1,42 +1,52 @@
-builder: 954dc050-837f-454f-be87-830d8cf00c2b
-callsign: ''
+name: Lizan
+oga_no: 1753
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log Jun/97
+builder:
+  name: Alan F. Platt  Ltd
+  id: 954dc050-837f-454f-be87-830d8cf00c2b
+designer:
+  name: Laurie Harbottell
+  id: 429d5fa7-e592-464a-9e6e-611903d6fe0e
 construction_material: wood
 construction_method: clinker
-designer: 429d5fa7-e592-464a-9e6e-611903d6fe0e
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: Log Jun/97
-generic_type: unknown
 handicap_data:
   beam: 2.286027798098025
-  draft: 0.60960741282614
-  fore_triangle_base: 2.7432333577176298
-  fore_triangle_height: 5.562667642038527
-  length_on_waterline: 5.562667642038527
-  length_over_all: 6.4008778346744695
   main:
     foot: 3.7094611070470616
     luff: 3.2004389173372347
+  thcf: 0.791904322
+  draft: 0.60960741282614
   propellor:
     type: fixed
-  thcf: 0.791904322
+  length_over_all: 6.4008778346744695
+  fore_triangle_base: 2.7432333577176298
+  length_on_waterline: 5.562667642038527
+  fore_triangle_height: 5.562667642038527
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 8cb14850-8d3b-4868-936c-94930a7016a8
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Lizan
-oga_no: 1753
+reference:
+- Log Jun 97
+callsign: ''
 ownerships:
 - name: R A Doe
   share: 64
   start: 1990
 place_built: Benfleet
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:19.403648+00:00'
 website: ''
 year: 1968
 year_is_approximate: false
+construction_details: Clinker Mahogany on Oak
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

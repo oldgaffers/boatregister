@@ -1,11 +1,12 @@
-builder: 1ce51692-3a99-4fba-970f-eec75c51f176
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 1.524
-engine_installations: []
-for_sales:
-- asking_price: 35000
+name: Gwenili
+oga_no: 332
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: Gwenili is a very well known gaffer on the East Coast of England,
+  having spent the last 50 years in the Area. She has been well maintained over that
+  time and is a regular participant in racing and cruising events. In 2019, she was
+  sold and taken to Thessaloniki, Greece.
 full_description: "<p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope;\
   \ picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"\
   https://www.youtube.com/embed/mOslBY3H49k\" width=\"560\"></iframe></p>\r\n\r\n\
@@ -78,36 +79,44 @@ full_description: "<p><iframe allow=\"accelerometer; autoplay; encrypted-media; 
   \ Raymond Labb&eacute;&nbsp; in recognition of her overall performance, classic\
   \ lines and restoration. Martin Goodrich went to France to receive his award on\
   \ 2 December 2015.</p>\r\n</blockquote>"
-generic_type: Yacht
+builder:
+  name: A La Gorce Fils
+  id: 1ce51692-3a99-4fba-970f-eec75c51f176
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales:
+- asking_price: 35000
 handicap_data:
   beam: 2.980980248719824
-  draft: 1.5240185320653499
-  fore_triangle_base: 6.4008778346744695
-  fore_triangle_height: 9.906120458424773
-  length_on_waterline: 10.210924164837843
-  length_over_all: 11.63740551085101
   main:
     foot: 6.059497683491831
     head: 5.730309680565716
     luff: 5.992440868080956
+  thcf: 1.069
+  draft: 1.5240185320653499
   mizzen:
     foot: 2.7980980248719822
     luff: 6.059497683491831
-  propellor:
-    type: fixed
-  sailarea: 83.94465652793865
-  thcf: 1.069
   topsail:
     luff: 4.87685930260912
     perpendicular: 2.43842965130456
+  sailarea: 83.94465652793865
+  propellor:
+    type: fixed
+  length_over_all: 11.63740551085101
+  fore_triangle_base: 6.4008778346744695
+  length_on_waterline: 10.210924164837843
+  fore_triangle_height: 9.906120458424773
 home_country: GRE
 home_port: Thessaloniki, Greece
 hull_form: long keel deep forefoot
 id: 99bdaf09-7cbc-480a-ab8a-b28ee5f19e03
 length_on_deck: 11.6342
-mainsail_type: gaff
-name: Gwenili
-oga_no: 332
+sail_number: 394Y
+ssr: '1353'
+callsign: ''
 ownerships:
 - end: 2002
   name: Brian Humby
@@ -123,16 +132,19 @@ ownerships:
   start: 2004
 - note: 'In 2019, ''Gwenili'' was sold and taken to Thessaloniki  Greece by her new
     owner George Kanakis '
+  text: In
   start: 2019
   start_is_approximate: false
-  text: In
 place_built: Bordeaux
-rig_type: Yawl
-short_description: Gwenili is a very well known gaffer on the East Coast of England,
-  having spent the last 50 years in the Area. She has been well maintained over that
-  time and is a regular participant in racing and cruising events. In 2019, she was
-  sold and taken to Thessaloniki, Greece.
 updated_at: '2021-12-19T13:38:39.441421+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+previous_names:
+- Piros
+image_key: Zvb8vP
+construction_details: Carvel pine on oak. Acacia timbers, elm garboard, iron ballast
+  keel.
+beam: 2.9718
+for_sale_state:
+  text: not_for_sale

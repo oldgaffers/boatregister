@@ -1,11 +1,9 @@
-builder: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
-callsign: MLED
-construction_material: grp
-construction_method: cold_moulded
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Puffin Bach
+oga_no: 1725
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: A fine example of a Tamarisk 24 class topsail gaff cutter.
 full_description: 'The Tamarisk is 24ft long (plus a 6ft bowsprit), 8ft in beam, 3ft
   in draft and displaces about 3 tons. She is a long keel design so there&rsquo;s
   no centreboard taking up cabin space, and there&rsquo;s reasonable standing headroom
@@ -46,52 +44,72 @@ full_description: 'The Tamarisk is 24ft long (plus a 6ft bowsprit), 8ft in beam,
   1.8m Plastimo rowing inflatable can be stowed deflated on deck or towed astern.
   &nbsp;There is a horseshoe lifebuoy and two cockpit seat cushions that can also
   provide emergency flotation. &nbsp;Fire extinguishers to BSS standards are fitted.'
-generic_type: Yacht
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.9144111192392099
-  fore_triangle_base: 4.038655206047305
-  fore_triangle_height: 7.162899292855401
-  length_on_waterline: 6.4516825164594
-  length_over_all: 7.264508656425262
-  length_over_spars: 9.1441111923921
   main:
     foot: 3.810058522311631
     head: 2.7432333577176298
     luff: 5.334077054376981
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.894214962
+  draft: 0.9144111192392099
   topsail:
     luff: 3.149646427700561
     perpendicular: 1.8796269202633504
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.264508656425262
+  length_over_spars: 9.1441111923921
+  fore_triangle_base: 4.038655206047305
+  length_on_waterline: 6.4516825164594
+  fore_triangle_height: 7.162899292855401
 home_country: GBR
 home_port: Itchenor
 hull_form: long keel deep forefoot
 id: 2368ca5d-bb19-4580-a0f4-f6da9e65f1a9
 length_on_deck: 7.2634
-mainsail_type: gaff
-name: Puffin Bach
-oga_no: 1725
+sail_number: PB
+spar_material: wood
+ssr: '61019'
+callsign: MLED
 ownerships:
 - end: 2014
   name: DG and AJ Lovelock
   share: 64
   start: 2007
-- current: true
-  id: 1009
-  member: 6247
+- id: 1009
   share: 32
   start: 2014
-- current: true
-  id: 34663
   member: 6247
+  current: true
+- id: 34663
   share: 32
   start: 2014
+  member: 6247
+  current: true
 place_built: Cornwall
-rig_type: Cutter
-short_description: A fine example of a Tamarisk 24 class topsail gaff cutter.
 updated_at: '2022-02-12T20:00:28.572147+00:00'
 year: 1986
 year_is_approximate: false
+previous_names:
+- Puffin Too
+- Puffin Bac
+image_key: NTjRcP
+construction_details: GRP hull, ply/timber topsides
+beam: 2.4384
+design_class:
+  name: Tamarisk 24
+  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
+for_sale_state:
+  text: not_for_sale

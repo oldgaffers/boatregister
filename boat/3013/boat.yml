@@ -1,41 +1,52 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Connie Briggs
+oga_no: 3013
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.701
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.4993903925871734
-  draft: 0.7010485247500609
-  draft_keeldown: 1.4996342355523042
-  fore_triangle_base: 3.9014874420872956
-  fore_triangle_height: 6.9007559131919045
-  length_on_waterline: 6.300292611558157
-  length_over_all: 6.705681541087539
   main:
     foot: 3.907583516215557
     head: 3.575347476225311
     luff: 4.608632040965618
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.870247277
+  draft: 0.7010485247500609
+  propellor:
+    type: fixed
+    blades: 3
+  draft_keeldown: 1.4996342355523042
+  length_over_all: 6.705681541087539
+  fore_triangle_base: 3.9014874420872956
+  length_on_waterline: 6.300292611558157
+  fore_triangle_height: 6.9007559131919045
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: c5c49c53-dbef-4f55-83d9-b360d06fb13b
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Connie Briggs
-oga_no: 3013
+callsign: ''
 place_built: Rock
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-26T07:56:29.385377+00:00'
 website: ''
 year: 2010
 year_is_approximate: false
+construction_details: GRP
+beam: 2.4994
+design_class:
+  name: Cornish Crabber 22
+  id: f0555610-6fc8-4dce-a587-d90c2a7cbc72
+for_sale_state:
+  text: not_for_sale

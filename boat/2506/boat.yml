@@ -1,10 +1,11 @@
-builder: 79c18214-1f69-46c8-a35a-b3e0fe5a14a3
-callsign: ''
-construction_material: wood
-construction_method: clinker
-draft: 1.0912
-engine_installations: []
-for_sales: []
+name: Snoopy
+oga_no: 2506
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Snoopy was converted from a ship&#39;s lifeboat by the current
+  owner. He has sailed her single-handed to the Azores and back as well as around
+  Britain from the Netherlands twice.</p>
 full_description: "<p>Snoopy was originally built in Rotterdam, as lifeboat no 5 for\
   \ MPV Noordam, 1946-1963 and then Nova Z from 1967-1973.</p>\r\n\r\n<p>She was purchased\
   \ by her current owner and converted for use as a single-handed cruising yacht.\
@@ -15,45 +16,51 @@ full_description: "<p>Snoopy was originally built in Rotterdam, as lifeboat no 5
   \ directly, resulting in a trip to Cowes of around 1400 miles before returning to\
   \ the Netherlands. The log of this passage is on <a href=\"http://www.sailing-by.org.uk/content/snoopy-counter-clockwise-circumnavigation-britain-2013\"\
   >Sailing by</a>.</p>"
-generic_type: unknown
+builder:
+  name: Rotterdam Drydock Co.
+  id: 79c18214-1f69-46c8-a35a-b3e0fe5a14a3
+construction_material: wood
+construction_method: clinker
+draft: 1.0912
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.9812240916849548
-  draft: 1.097293343087052
-  fore_triangle_base: 2.4993903925871734
-  fore_triangle_height: 4.998780785174347
-  length_on_waterline: 5.498658863691782
-  length_over_all: 5.998536942209217
   main:
     foot: 3.9014874420872956
     head: 1.8013899049012436
     luff: 3.5997317727383566
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.826621985
+  draft: 1.097293343087052
   topsail:
     luff: 1.097293343087052
     perpendicular: 0.9997561570348694
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 5.998536942209217
+  fore_triangle_base: 2.4993903925871734
+  length_on_waterline: 5.498658863691782
+  fore_triangle_height: 4.998780785174347
 home_country: NLD
 home_port: ''
 hull_form: long keel deep forefoot
 id: 82326709-4ec5-427b-b12d-0074b1650819
 length_on_deck: 5.9954
-mainsail_type: gaff
-name: Snoopy
-oga_no: 2506
+callsign: ''
 ownerships:
-- current: true
-  id: 178
-  member: 2696
+- id: 178
   share: 64
   start: 1973
+  member: 2696
+  current: true
 place_built: Rotterdam
-rig_type: Cutter
-short_description: <p>Snoopy was converted from a ship&#39;s lifeboat by the current
-  owner. He has sailed her single-handed to the Azores and back as well as around
-  Britain from the Netherlands twice.</p>
 updated_at: '2021-12-19T13:39:41.043411+00:00'
 website: ''
 year: 1937
 year_is_approximate: false
+image_key: XPQM4L
+construction_details: Clinker Teak on Oak frames
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

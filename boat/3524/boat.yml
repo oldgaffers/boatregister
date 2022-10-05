@@ -1,7 +1,10 @@
-construction_material: wood
-construction_method: carvel
-engine_installations: []
-for_sales: []
+name: The Baden Powell
+oga_no: 3524
+rig_type: Cutter
+mainsail_type: gaff
+short_description: '<span style=&#34;letter-spacing: normal; caret-color: rgb(90,
+  90, 90); color: rgb(90, 90, 90); font-family: Cantarell; font-size: 14px; background-color:
+  rgb(250, 250, 250);&#34;>The only double-ended vessel of her type in existence.</span>'
 full_description: "<table cellpadding=&#34;0&#34; style=&#34;letter-spacing: normal;\
   \ max-width: 100%; border-bottom-width: 5px; border-style: hidden; border-bottom-color:\
   \ rgba(0, 136, 204, 0.5); font-size: 14px; line-height: 2; margin: 0px 0px 20px;\
@@ -26,23 +29,21 @@ full_description: "<table cellpadding=&#34;0&#34; style=&#34;letter-spacing: nor
   \ were soon apprenticed to their father and continued building wooden boats in Lynn\
   \ until 1981, when Gerald died.\_ William lived to just past his 100th birthday\
   \ in 1994."
+construction_material: wood
+construction_method: carvel
+engine_installations: []
+for_sales: []
 home_country: United Kingdom
 home_port: "King\u2019s Lynn"
 hull_form: long keel deep forefoot
 id: ea79952c-3d3f-4057-88a7-2ea4efcc0840
-mainsail_type: gaff
-name: The Baden Powell
-oga_no: 3524
 ownerships:
-- current: true
-  id: 924
-  member: 6091
+- id: 924
   share: 64
+  member: 6091
+  current: true
   start: '?'
-rig_type: Cutter
-short_description: '<span style=&#34;letter-spacing: normal; caret-color: rgb(90,
-  90, 90); color: rgb(90, 90, 90); font-family: Cantarell; font-size: 14px; background-color:
-  rgb(250, 250, 250);&#34;>The only double-ended vessel of her type in existence.</span>'
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 1900
 year_is_approximate: false
+image_key: j8N6LM

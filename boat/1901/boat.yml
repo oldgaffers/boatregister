@@ -1,48 +1,58 @@
-builder: fd41d8ed-1249-4340-b9e2-475bd32beb8b
-callsign: ''
+name: Foam
+oga_no: 1901
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Sometimes sails without the mizzen Built as a Mevagissy lugger and
+  used as a work boat until the 1970's with a fishing number of FY62. Converted to
+  a yacht by John Adams in Plymouth.  Previous owner Peter Broad(1987-97) sold to
+  American living in Scotland 1997 Log 87/3, 90/4
+builder:
+  name: Henry Roberts
+  id: fd41d8ed-1249-4340-b9e2-475bd32beb8b
 construction_material: wood
 construction_method: carvel
 draft: 1.7526
 engine_installations: []
 for_sales: []
-full_description: Sometimes sails without the mizzen Built as a Mevagissy lugger and
-  used as a work boat until the 1970's with a fishing number of FY62. Converted to
-  a yacht by John Adams in Plymouth.  Previous owner Peter Broad(1987-97) sold to
-  American living in Scotland 1997 Log 87/3, 90/4
-generic_type: unknown
 handicap_data:
   beam: 3.6576444769568397
-  draft: 1.7526213118751524
-  fore_triangle_base: 6.004633016337478
-  fore_triangle_height: 8.046817849305047
-  length_on_waterline: 10.05852231163131
-  length_over_all: 10.36332601804438
   main:
     foot: 5.18166300902219
     head: 5.18166300902219
     luff: 5.715069495245062
-  propellor:
-    type: fixed
   thcf: 0.978268437
+  draft: 1.7526213118751524
   topsail:
     luff: 4.690929041697147
     perpendicular: 1.8501584979273349
+  propellor:
+    type: fixed
+  length_over_all: 10.36332601804438
+  fore_triangle_base: 6.004633016337478
+  length_on_waterline: 10.05852231163131
+  fore_triangle_height: 8.046817849305047
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: ed2b6d8a-556a-44df-b8a0-688ac87ad218
 length_on_deck: 10.3632
-mainsail_type: gaff
-name: Foam
-oga_no: 1901
+reference:
+- Log 87/3
+- Log 90/4
+sail_number: E
+callsign: ''
 ownerships:
 - name: Peter Broad
   share: 64
   start: 2012
 place_built: Mevagissey
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:23.563892+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+construction_details: Carvel Pitch Pine on Oak
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

@@ -1,41 +1,54 @@
-builder: 9bfe45ee-e6ac-4984-ab72-2c853ce9d0ad
-callsign: ''
+name: Louiso
+oga_no: 399
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 82/1, 82/3, 83/1, 83/4
+builder:
+  name: Dover Yacht Co.
+  id: 9bfe45ee-e6ac-4984-ab72-2c853ce9d0ad
+designer:
+  name: Rand of Totton
+  id: f78a5b35-e9e7-4d7b-8db5-d35c5b56a43f
 construction_material: grp
 construction_method: unknown
-designer: f78a5b35-e9e7-4d7b-8db5-d35c5b56a43f
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: Log 82/1, 82/3, 83/1, 83/4
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.066812972445745
-  fore_triangle_base: 3.5052426237503047
-  fore_triangle_height: 5.4864667154352595
-  length_on_waterline: 7.132406730065837
-  length_over_all: 7.315288953913679
   main:
     foot: 4.114850036576445
     head: 3.0480370641306997
     luff: 3.6576444769568397
   thcf: 0.878485034
+  draft: 1.066812972445745
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 3.5052426237503047
+  length_on_waterline: 7.132406730065837
+  fore_triangle_height: 5.4864667154352595
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: ecc71b8f-1011-409c-93f5-bd428cc114fa
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Louiso
-oga_no: 399
+reference:
+- Log 82/1
+- Log 82/3
+- Log 83/1
+- Log 83/4
+callsign: ''
 ownerships:
 - name: D A Ashton
   share: 64
   start: 2012
 place_built: Dover
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:41.213647+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+construction_details: G R P foam sandwich hull
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

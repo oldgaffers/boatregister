@@ -1,40 +1,51 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Sarana
+oga_no: 2233
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Martin Heard
+  id: b1525089-031a-47bc-b7d8-7236987096a7
 construction_material: grp
 construction_method: cold_moulded
-designer: b1525089-031a-47bc-b7d8-7236987096a7
 draft: 1.905
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.5052426237503047
   draft: 1.9050231650816873
-  length_on_waterline: 9.75371860521824
   length_over_all: 10.66812972445745
+  length_on_waterline: 9.75371860521824
 home_country: 'null'
 home_port: Falmouth
 hull_form: unknown
 id: 73cadc88-9220-4423-a79a-a7aad1fbda56
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Sarana
-oga_no: 2233
+callsign: ''
 ownerships:
 - end: 2005
   name: Mike and Sara Collins
   share: 64
   start: 1998
-- current: true
-  id: 846
-  member: 5935
+- id: 846
   share: 64
   start: 2005
+  member: 5935
+  current: true
 place_built: Mylor Bridge
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:32.995398+00:00'
 website: ''
 year: 1998
 year_is_approximate: false
+construction_details: GRP
+beam: 3.5052
+design_class:
+  name: Heard 35
+  id: 57d13261-3402-4c7d-b2c8-45c2224149d3
+for_sale_state:
+  text: not_for_sale

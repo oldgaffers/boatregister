@@ -1,24 +1,35 @@
-builder: e5ba2740-ea9f-4dc1-8d16-f4032bd78d89
-designer: cb8bff3d-ff34-4f06-990c-3bcecc5d3daa
+name: Baloo
+oga_no: 3537
+generic_type: Scow
+rig_type: single_sail
+mainsail_type: gaff
+short_description: <p>Baloo is a Chichester Scow, built by Flight Marine of Chichester</p>
+builder:
+  name: Flight Marine
+  id: e5ba2740-ea9f-4dc1-8d16-f4032bd78d89
+designer:
+  name: Flight Marine
+  id: cb8bff3d-ff34-4f06-990c-3bcecc5d3daa
 draft: 0.22860277980980248
 engine_installations: []
 for_sales: []
-generic_type: Scow
 home_country: United Kingdom
 home_port: Emsworth
 hull_form: centre-boarder
 id: 675590e8-53e4-4457-964e-38b7ae583547
 length_on_deck: 3.5052426237503047
-mainsail_type: gaff
-name: Baloo
-oga_no: 3537
+spar_material: wood
 ownerships:
-- current: true
-  id: 334
-  member: 3837
+- id: 334
   share: 64
+  member: 3837
+  current: true
   start: '?'
-rig_type: single_sail
-short_description: <p>Baloo is a Chichester Scow, built by Flight Marine of Chichester</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year_is_approximate: false
+image_key: rtkx5z
+design_class:
+  name: Chichester Scow
+  id: 217b3a38-ea15-466e-9135-0b2baee3176b
+for_sale_state:
+  text: not_for_sale

@@ -1,13 +1,21 @@
-builder: 160b7d9b-730e-4a91-bbb2-1a0295ea2a1a
-callsign: ''
+name: Zephyr
+oga_no: 2748
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Arthur Marshal
+  id: 160b7d9b-730e-4a91-bbb2-1a0295ea2a1a
+designer:
+  name: Thomas B. Middleton
+  id: c367883a-9a33-4bec-a5a7-d40f291504ac
 construction_material: wood
 construction_method: unknown
-designer: c367883a-9a33-4bec-a5a7-d40f291504ac
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.472201901975128
   length_over_all: 3.9624481833699097
@@ -16,19 +24,21 @@ home_port: Herne Bay
 hull_form: unknown
 id: 38c660a4-cdc8-423b-80b3-a401afb7793a
 length_on_deck: 3.9624
-mainsail_type: gaff
-name: Zephyr
-oga_no: 2748
+callsign: ''
 ownerships:
-- current: true
-  id: 495
-  member: 4706
+- id: 495
   share: 64
   start: 2012
+  member: 4706
+  current: true
 place_built: Herne Bay
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:48.222887+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+beam: 1.4722
+design_class:
+  name: Water Wag
+  id: 02e03ede-6448-493a-976a-9798c56ff1db
+for_sale_state:
+  text: not_for_sale

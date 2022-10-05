@@ -1,13 +1,21 @@
-builder: 7ffe3540-a1c9-4614-948c-ee91702e48dd
-callsign: ''
+name: Shellduck
+oga_no: 2883
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: DC. Hoskyns/S.M. Hoskyns
+  id: 7ffe3540-a1c9-4614-948c-ee91702e48dd
+designer:
+  name: D.C. Hoskyns/S.M. Hoskyns
+  id: a0c1fc9f-b178-43b8-bd38-f996102b6d31
 construction_material: wood
 construction_method: unknown
-designer: a0c1fc9f-b178-43b8-bd38-f996102b6d31
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 2.13362594489149
   length_over_all: 5.18166300902219
@@ -16,17 +24,19 @@ home_port: Oswestry
 hull_form: unknown
 id: 90a32742-327b-4373-8f34-4508d5c689c0
 length_on_deck: 5.1816
-mainsail_type: gaff
-name: Shellduck
-oga_no: 2883
+callsign: ''
 ownerships:
 - name: Dave Hart
   share: 64
   start: 2012
 place_built: Rye
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:52.256852+00:00'
 website: ''
 year: 1982
 year_is_approximate: false
+beam: 2.1336
+design_class:
+  name: Shellduck 17
+  id: 0c78d624-394e-4273-bf4b-575568be355a
+for_sale_state:
+  text: not_for_sale

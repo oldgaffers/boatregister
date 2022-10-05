@@ -1,46 +1,55 @@
-builder: eaedb676-c261-44db-b346-b57e9bd66c5e
-callsign: ''
+name: Bee of Brightlingsea
+oga_no: 1493
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: CB Feb 90
+builder:
+  name: Tyrell and Young/C. White
+  id: eaedb676-c261-44db-b346-b57e9bd66c5e
+designer:
+  name: Frank W. Shuttlewood
+  id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
 construction_material: grp
 construction_method: cold_moulded
-designer: e7b7b001-2a40-409b-8d10-8c5c9995d9db
 draft: 1.2497
 engine_installations: []
 for_sales: []
-full_description: CB Feb 90
-generic_type: Yacht
 handicap_data:
   beam: 2.529870763228481
-  draft: 1.2496951962935867
-  fore_triangle_base: 6.004633016337478
-  fore_triangle_height: 5.974152645696172
-  length_on_waterline: 6.858083394294074
-  length_over_all: 8.717386003413802
   main:
     foot: 5.334064862228725
     head: 3.9624481833699097
     luff: 4.358693001706901
-  propellor:
-    type: fixed
   thcf: 0.941972352
+  draft: 1.2496951962935867
   topsail:
     luff: 4.480614484272128
     perpendicular: 1.889782979761034
+  propellor:
+    type: fixed
+  length_over_all: 8.717386003413802
+  fore_triangle_base: 6.004633016337478
+  length_on_waterline: 6.858083394294074
+  fore_triangle_height: 5.974152645696172
 home_country: 'null'
 home_port: Brightlingsea
 hull_form: long keel deep forefoot
 id: c3c58182-77a8-4241-af9f-6c646e8a2d7d
 length_on_deck: 8.7173
-mainsail_type: gaff
-name: Bee of Brightlingsea
-oga_no: 1493
+uk_part1: '722475'
+callsign: ''
 ownerships:
 - name: D Starling
   share: 64
   start: 1992
 place_built: Faversham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:12.930632+00:00'
 website: ''
 year: 1992
 year_is_approximate: false
+construction_details: GRP to beamshelves then normal wooden with wood mast & spars
+beam: 2.5298
+for_sale_state:
+  text: not_for_sale

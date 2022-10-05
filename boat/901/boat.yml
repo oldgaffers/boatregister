@@ -1,40 +1,47 @@
-builder: c2297787-13d1-4e6e-8d9f-f39aacaab98c
-callsign: ''
+name: Misty
+oga_no: 901
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gunter
+short_description: <p>&#39;Misty&#39; is a gunter cutter, built in 1931 by Lavers
+  of Dartmouth.</p>
+full_description: <p>&#39;Misty&#39; is a gunter cutter, built in 1931 by Lavers of
+  Dartmouth. She is 15&#39; LOD, 18&#39; LOA and 6&#39; beam. In the mid-1980s she
+  was brought to the Solent from the River Dart, a fast, stable sailer with varnished
+  topsides. She has been extensively reworked over time with a new keel, stainless
+  steel centreboard, mast and additional frames through the mid section.</p>
+builder:
+  name: Laver
+  id: c2297787-13d1-4e6e-8d9f-f39aacaab98c
 construction_material: wood
 construction_method: clinker
 draft: 0
 engine_installations: []
 for_sales:
 - asking_price: 5000
-full_description: <p>&#39;Misty&#39; is a gunter cutter, built in 1931 by Lavers of
-  Dartmouth. She is 15&#39; LOD, 18&#39; LOA and 6&#39; beam. In the mid-1980s she
-  was brought to the Solent from the River Dart, a fast, stable sailer with varnished
-  topsides. She has been extensively reworked over time with a new keel, stainless
-  steel centreboard, mast and additional frames through the mid section.</p>
-generic_type: Yacht
 handicap_data:
   beam: 1.8288222384784198
-  length_on_waterline: 3.9624481833699097
   length_over_all: 4.57205559619605
+  length_on_waterline: 3.9624481833699097
 home_country: GBR
 home_port: Portsmouth
 hull_form: unknown
 id: 6fee8624-2205-464a-b727-33b384d9f014
 length_on_deck: 4.572
-mainsail_type: gunter
-name: Misty
-oga_no: 901
+callsign: ''
 ownerships:
-- current: true
-  id: 377
-  member: 4099
+- id: 377
   share: 64
   start: 1985
+  member: 4099
+  current: true
 place_built: Dartmouth
-rig_type: Cutter
-short_description: <p>&#39;Misty&#39; is a gunter cutter, built in 1931 by Lavers
-  of Dartmouth.</p>
 updated_at: '2021-12-19T13:38:55.570415+00:00'
 website: ''
 year: 1931
 year_is_approximate: false
+image_key: hZCn8s
+construction_details: Clinker
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

@@ -1,12 +1,10 @@
-builder: cb17e76b-9888-4502-85a6-c7640e16e6ce
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 9ecf6474-7c74-4a12-9ef0-c563196d0b28
-draft: 1.2192
-engine_installations: []
-for_sales:
-- asking_price: 35000
+name: Phyllis
+oga_no: 3208
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Phyllis is the only example of the Royal Mersey Restricted Class
+  currently afloat.
 full_description: The Royal Mersey Restricted Class originated in 1906 and the first
   example was Avis designed by GH Wilmer using a hull form based on the very successful
   Lancashire nobby fishing boats. Phyllis was commissioned by FW Whitely, a longstanding
@@ -15,33 +13,48 @@ full_description: The Royal Mersey Restricted Class originated in 1906 and the f
   RMRC envelope specification but with a slightly shorter length, a slightly heavier
   build and a deeper keel. FW Whitely is said to have sailed her directly to Hibre
   Island where his family still keep a summer cottage today.
-generic_type: Yacht
+builder:
+  name: S.F. Bond
+  id: cb17e76b-9888-4502-85a6-c7640e16e6ce
+designer:
+  name: G H Willmer
+  id: 9ecf6474-7c74-4a12-9ef0-c563196d0b28
+construction_material: wood
+construction_method: unknown
+draft: 1.2192
+engine_installations: []
+for_sales:
+- asking_price: 35000
 handicap_data:
-  length_on_waterline: 7.3152
-  length_over_spars: 9.7536
-  length_overall: 8.2296
   main:
     foot: 19.25
     head: 11.25
     luff: 13.83
   sailarea: 4
+  length_overall: 8.2296
+  length_over_spars: 9.7536
+  length_on_waterline: 7.3152
 home_country: GBR
 home_port: Deganwy
 hull_form: long keel sloping forefoot
 id: 5319ebc6-3afe-409a-b0a7-0d111f8b8e1f
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Phyllis
-oga_no: 3208
+spar_material: wood
+ssr: R1387
+callsign: ''
 ownerships:
 - name: Kevin Goulding
   share: 64
   start: 2001
 place_built: Rock Ferry, Wirral
-rig_type: Cutter
-short_description: Phyllis is the only example of the Royal Mersey Restricted Class
-  currently afloat.
 updated_at: '2021-12-19T13:40:04.107379+00:00'
 website: www.theyachtphyllis.co.uk
 year: 1913
 year_is_approximate: false
+image_key: wsNjN5
+beam: 2.6914
+design_class:
+  name: Royal Mersey
+  id: 9c848d9b-5e0b-4f92-86f6-71fdf3199708
+for_sale_state:
+  text: not_for_sale

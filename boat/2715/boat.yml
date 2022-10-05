@@ -1,27 +1,35 @@
-builder: 88bcc407-73d0-470d-85f9-a2d6dfdd03c4
-callsign: ''
+name: Leonora III
+oga_no: 2715
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Leonora III took part in the OGA Round Britain Challenge in
+  2013, sailing from the Netherlands where she is based.</p>
+full_description: ''
+builder:
+  name: Engelaer
+  id: 88bcc407-73d0-470d-85f9-a2d6dfdd03c4
+designer:
+  name: Essen Van
+  id: dadfc1a5-228d-457e-a84f-2d2a9f13daa7
 construction_material: steel
 construction_method: unknown
-designer: dadfc1a5-228d-457e-a84f-2d2a9f13daa7
 draft: 2.286
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 4.0508412582297
   draft: 2.301267983418678
-  length_over_all: 14.240429163618629
   propellor:
     type: folding
+  length_over_all: 14.240429163618629
 home_country: 'null'
 home_port: Ewkhuizel
 hull_form: long keel sloping forefoot
 id: 9444967d-28a4-4cc3-9f95-1ebb807d475c
 length_on_deck: 14.225
-mainsail_type: gaff
-name: Leonora III
-oga_no: 2715
+sail_number: '5'
+callsign: ''
 ownerships:
 - note: Previous owner Jan van Hasselt
   text: Previous owner Jan van Hasselt
@@ -29,10 +37,11 @@ ownerships:
   share: 64
   start: 1997
 place_built: Beneden Leeuwen
-rig_type: Cutter
-short_description: <p>Leonora III took part in the OGA Round Britain Challenge in
-  2013, sailing from the Netherlands where she is based.</p>
 updated_at: '2021-12-19T13:39:47.249637+00:00'
 website: ''
 year: 1973
 year_is_approximate: false
+construction_details: Steel, Wood deck
+beam: 4.0386
+for_sale_state:
+  text: not_for_sale

@@ -1,42 +1,50 @@
-builder: 7b69fe97-f0ae-4672-9f75-ed95e76f985d
-callsign: ''
+name: Stella Marie
+oga_no: 2549
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Stella Marie&#39; is tender to &#39;Swanti&#39;. She has
+  had a new bowsprit and bronze replacements for galvinised fittings. She also has
+  a second, lifting rudder, enabling her to take the bottom.</p>
+full_description: ''
+builder:
+  name: Dayntless
+  id: 7b69fe97-f0ae-4672-9f75-ed95e76f985d
+designer:
+  name: Reg Patten
+  id: 5e2b0e08-cb55-4a89-bd7a-45a36019eb6f
 construction_material: wood
 construction_method: clinker
-designer: 5e2b0e08-cb55-4a89-bd7a-45a36019eb6f
 draft: 2.7432
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
   draft: 2.7432333577176298
-  length_on_waterline: 3.3528407705437697
   length_over_all: 3.6576444769568397
+  length_on_waterline: 3.3528407705437697
 home_country: GBR
 home_port: Paglesham
 hull_form: unknown
 id: db3034a9-4960-49ae-8226-602f6c70cf50
 length_on_deck: 3.6576
-mainsail_type: gaff
-name: Stella Marie
-oga_no: 2549
+callsign: ''
 ownerships:
 - note: First owner Colin Lockett.
   text: First owner Colin Lockett.
 - name: John Langrick
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 2773
-  share: 64
+  current: true
   start: '?'
 place_built: Canvey Island
-rig_type: Sloop
-short_description: <p>&#39;Stella Marie&#39; is tender to &#39;Swanti&#39;. She has
-  had a new bowsprit and bronze replacements for galvinised fittings. She also has
-  a second, lifting rudder, enabling her to take the bottom.</p>
 updated_at: '2021-12-19T13:39:42.436365+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+construction_details: mahogany clinker on elm
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

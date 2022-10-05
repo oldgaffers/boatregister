@@ -1,43 +1,57 @@
-builder: 83a839af-b960-4cce-a881-b4401432846c
-callsign: ''
+name: Tar Baby
+oga_no: 7079
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
+designer:
+  name: Nicholson
+  id: 4f1c69a8-9601-4567-9a45-d4016a35d7fb
 construction_material: wood
 construction_method: unknown
-designer: 4f1c69a8-9601-4567-9a45-d4016a35d7fb
 draft: 1.6764
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.6764203852718849
-  length_on_waterline: 8.382101926359423
-  length_over_all: 10.66812972445745
   propellor:
-    blades: 3
     type: fixed
+    blades: 3
+  length_over_all: 10.66812972445745
+  length_on_waterline: 8.382101926359423
 home_country: 'null'
 home_port: Bursledon
 hull_form: long keel deep forefoot
 id: 4c867bea-b0b7-4ac2-b781-6c19b59d4c7c
 length_on_deck: 10.668
-mainsail_type: bermudan
-name: Tar Baby
-oga_no: 7079
+sail_number: '355'
+uk_part1: '166093'
+callsign: ''
 ownerships:
 - end: 2012
   name: John and Elizabeth Ungley
   share: 64
   start: 1986
-- current: true
-  id: 398
-  member: 4178
+- id: 398
   share: 64
   start: 2012
+  member: 4178
+  current: true
 place_built: Portsmouth
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:40:02.386398+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+previous_names:
+- Cinder
+- Sheba
+- Tar Baby
+construction_details: Wood Teak on Oak and Ash
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

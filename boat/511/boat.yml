@@ -1,11 +1,11 @@
-builder: 661dad0e-9862-43d8-bc2d-729c2e8b757a
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f0ab9070-18a6-4f08-a464-4ea82718bedc
-draft: 2.1336
-engine_installations: []
-for_sales: []
+name: Golden Vanity
+oga_no: 511
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>'Golden Vanity' was built in 1903 for the marine artist Arthur
+  Briscoe and launched in 1908. Following her restoration, she provides sailing opportunities
+  and courses with First Class Sailing.</p>
 full_description: "<p>'Golden Vanity' is the sole remaining Mumble Bee Trawler (smallest\
   \ of the Brixham Trawlers) with a 38\u20199\u2019\u2019 length hull,. She was built\
   \ by J Sanders in Galmpton, Devon,1903 and launched in 1908.</p>\n<p>Initially used\
@@ -17,30 +17,39 @@ full_description: "<p>'Golden Vanity' is the sole remaining Mumble Bee Trawler (
   \ in order to carry out RYA courses and \u2018youth adventure sailing\u2019. When\
   \ Trinity Sailing was forced to downsize First Class Sailing offered her a new home\
   \ where she will continue to be available for sail training.</p>"
-generic_type: unknown
+builder:
+  name: Sanders and Co.
+  id: 661dad0e-9862-43d8-bc2d-729c2e8b757a
+designer:
+  name: A. Gibbs
+  id: f0ab9070-18a6-4f08-a464-4ea82718bedc
+construction_material: wood
+construction_method: carvel
+draft: 2.1336
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.6576444769568397
   draft: 2.13362594489149
-  length_on_waterline: 10.972933430870519
   length_over_all: 11.582540843696659
+  length_on_waterline: 10.972933430870519
 home_country: 'null'
 home_port: Shamrock Quay
 hull_form: unknown
 id: 359d37dc-c3b7-4f3f-843e-adc1b7655cec
 length_on_deck: 11.5824
-mainsail_type: gaff
-name: Golden Vanity
-oga_no: 511
+callsign: ''
 ownerships:
 - name: H Young
   share: 64
   start: 2012
 place_built: Galmpton
-rig_type: Cutter
-short_description: <p>'Golden Vanity' was built in 1903 for the marine artist Arthur
-  Briscoe and launched in 1908. Following her restoration, she provides sailing opportunities
-  and courses with First Class Sailing.</p>
 updated_at: '2021-12-19T13:38:44.409641+00:00'
 website: https://www.firstclasssailing.com/golden-vanity
 year: 1903
 year_is_approximate: false
+image_key: 7zmmFC
+construction_details: Pitch pine on oak
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

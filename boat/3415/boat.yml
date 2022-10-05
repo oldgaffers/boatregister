@@ -1,12 +1,11 @@
-builder: 4cee8312-2bc7-49c8-bc84-2a9c6018d11b
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 9a052a4d-0f8c-4876-b447-ef6a80b85609
-draft: 1.3716
-engine_installations: []
-for_sales:
-- asking_price: 3000
+name: Betsy
+oga_no: 3415
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: bermudan
+short_description: <p>Built at Cooks Boatyard Maldon 1930. &#39;Betsy&#39; is 30 ft
+  overall carvel planked pitch pine on oak timbers. Long keel with a canoe stern and
+  Bermudan yawl cutter rigged.</p>
 full_description: "<p>&#39;Betsy&#39; is a very pretty Bermudan yawl, designed by\
   \ W Easton, and&nbsp;built at W.Cooks Boatyard in Maldon in 1930&nbsp;for Major\
   \ Blewitt, D.S.O of Colchester. She has a long keel with a canoe stern and Bermudan\
@@ -18,59 +17,69 @@ full_description: "<p>&#39;Betsy&#39; is a very pretty Bermudan yawl, designed b
   \ to that point. Her sails were originally made by Gowans, although by 1980 some\
   \ were also from Jeckells.</p>\r\n\r\n<p>30 ft overall carvel planked, pitch pine\
   \ on oak timbers.</p>"
-generic_type: Yacht
+builder:
+  name: Walter Cook
+  id: 4cee8312-2bc7-49c8-bc84-2a9c6018d11b
+designer:
+  name: Walter Easton
+  id: 9a052a4d-0f8c-4876-b447-ef6a80b85609
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales:
+- asking_price: 3000
 handicap_data:
-  length_on_waterline: 7.9248
   length_overall: 9.144
+  length_on_waterline: 7.9248
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: cdcfeadf-4d10-4777-bf33-7c81de93005b
 length_on_deck: 9.144
-mainsail_type: bermudan
-name: Betsy
-oga_no: 3415
+callsign: ''
 ownerships:
 - note: 'Built for Major Blewitt in 1930, he kept her for 4 years. She was then owned
     by the Royal Artillery Yacht Club from 1935- 1947, and sold on to  Major Grimshaw
     in 1948. '
+  text: Built for Major Blewitt in
   start: 1930
   start_is_approximate: false
-  text: Built for Major Blewitt in
 - end: 1956
-  end_is_approximate: false
   note: 1950-6 she was owned by Major A D G Braithwaite, RA
-  start: 1950
-  start_is_approximate: false
   text: she was owned by Major A D G Braithwaite, RA
+  start: 1950
+  end_is_approximate: false
+  start_is_approximate: false
 - note: 1957 Walter E Smith
+  text: Walter E Smith
   start: 1957
   start_is_approximate: false
-  text: Walter E Smith
 - end: 1973
-  end_is_approximate: false
   note: 1958-73 A J  Ratcliffe
-  start: 1958
-  start_is_approximate: false
   text: A J  Ratcliffe
+  start: 1958
+  end_is_approximate: false
+  start_is_approximate: false
 - note: 1974 T K Johnson
+  text: T K Johnson
   start: 1974
   start_is_approximate: false
-  text: T K Johnson
 - note: 1980 G.Ormrod
+  text: G.Ormrod
   start: 1980
   start_is_approximate: false
-  text: G.Ormrod
 - end: 2019
   name: Ian Kemp
   share: 64
   start: 2010
 place_built: Maldon
-rig_type: Yawl
-short_description: <p>Built at Cooks Boatyard Maldon 1930. &#39;Betsy&#39; is 30 ft
-  overall carvel planked pitch pine on oak timbers. Long keel with a canoe stern and
-  Bermudan yawl cutter rigged.</p>
 updated_at: '2021-12-19T13:40:10.112182+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+image_key: TZ8tCX
+construction_details: Carvel, Pitch pine on oak
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

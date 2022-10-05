@@ -1,34 +1,46 @@
-builder: d38d3959-b44f-4514-bd3a-16cf1ebe806c
-callsign: ''
+name: Pelican IV
+oga_no: 2016
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Water Craft Sep/Oct 98 CB Mar/Apr 89
+builder:
+  name: Fiddler's Ferry Boatyard
+  id: d38d3959-b44f-4514-bd3a-16cf1ebe806c
+designer:
+  name: Eric Bergqvist
+  id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
 construction_material: grp
 construction_method: unknown
-designer: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: Water Craft Sep/Oct 98 CB Mar/Apr 89
-generic_type: unknown
 handicap_data:
   beam: 2.0330407217751767
   draft: 0.7620092660326749
-  length_on_waterline: 4.57205559619605
   length_over_all: 4.87685930260912
+  length_on_waterline: 4.57205559619605
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 439827f7-fe95-44bf-8c0b-f0c6de0d15be
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Pelican IV
-oga_no: 2016
+sail_number: WB 4
+callsign: ''
 ownerships:
 - name: R Kornicki
   share: 64
   start: 1987
 place_built: Penketh
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:26.986123+00:00'
 website: ''
 year: 1976
 year_is_approximate: false
+construction_details: Glassfibre, spars in Colombian pine
+beam: 2.033
+design_class:
+  name: Winkle Brig
+  id: 4989b986-84a5-42ea-81c9-72a59714c258
+for_sale_state:
+  text: not_for_sale

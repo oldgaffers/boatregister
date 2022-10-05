@@ -1,11 +1,10 @@
-builder: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
-callsign: ''
-construction_material: grp
-construction_method: unknown
-designer: 18067660-4c29-42b2-9894-e32cd213a3f7
-draft: 0.7102
-engine_installations: []
-for_sales: []
+name: Cyrus
+oga_no: 3358
+generic_type: Oyster Boat
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built by Buccaneer Boats and launched in 2005, &#39;Cyrus&#39;
+  was purchased as a home completion project in 1998.</p>
 full_description: "<p>&#39;Cyrus&#39; was bought in 1998 as a decked hull for a home\
   \ completion project, replacing her owner&#39;s previous boat, a Hunter Channel\
   \ 32. Apart from the hull and deck all other parts of the boat have been out-sourced\
@@ -32,38 +31,52 @@ full_description: "<p>&#39;Cyrus&#39; was bought in 1998 as a decked hull for a 
   \ under the burgee of Liverpool&nbsp;Yacht Club. In these she achieved some success\
   \ being the victor in more than one series competing against a variety of yachts\
   \ of a more modern and conventional style</p>"
-generic_type: Oyster Boat
+builder:
+  name: Buccaneer Boats
+  id: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
+designer:
+  name: Judd Varley
+  id: 18067660-4c29-42b2-9894-e32cd213a3f7
+construction_material: grp
+construction_method: unknown
+draft: 0.7102
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 0.83
-  fore_triangle_base: 3.176
-  fore_triangle_height: 6.096
-  length_on_waterline: 5.715
-  length_over_spars: 7.4676
-  length_overall: 5.7912
   main:
     foot: 12.58
     head: 13.58
     luff: 12.08
   sailarea: 7
+  length_overall: 5.7912
+  calculated_thcf: 0.83
+  length_over_spars: 7.4676
+  fore_triangle_base: 3.176
+  length_on_waterline: 5.715
+  fore_triangle_height: 6.096
 home_country: GBR
 home_port: Liverpool
 hull_form: long keel deep forefoot
 id: 9eb1445c-6249-4e1a-a960-378eb717102d
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Cyrus
-oga_no: 3358
+ssr: SSR 150226
+callsign: ''
 ownerships:
-- current: true
-  id: 706
-  member: 5650
+- id: 706
   share: 64
   start: 2017
+  member: 5650
+  current: true
 place_built: ' Buccaneer Boats, Cambourne, Cornwall'
-rig_type: Cutter
-short_description: <p>Built by Buccaneer Boats and launched in 2005, &#39;Cyrus&#39;
-  was purchased as a home completion project in 1998.</p>
 updated_at: '2021-12-19T13:40:08.702622+00:00'
 website: ''
 year: 2005
 year_is_approximate: false
+image_key: gcKGgW
+construction_details: Home completion of a yard produced decked hull
+beam: 2.5664
+design_class:
+  name: Falmouth Oyster Boat
+  id: d5fbb324-f485-4bf8-87c6-c25df0929fe5
+for_sale_state:
+  text: not_for_sale

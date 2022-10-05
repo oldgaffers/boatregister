@@ -1,9 +1,14 @@
+name: Saoirse
+oga_no: 3685
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: <p>She's a real one-off.</p>
 construction_material: wood
 construction_method: strip_planking
 draft: 1.6764203852718849
 engine_installations: []
 for_sales: []
-generic_type: Yacht
 handicap_data:
   beam: 3.3528407705437697
 home_country: Ireland
@@ -11,17 +16,19 @@ home_port: Howth, Dublin
 hull_form: long keel deep forefoot
 id: 2d3b839e-9dd6-4e67-9e34-d4368e987f8b
 length_on_deck: 10.36332601804438
-mainsail_type: bermudan
-name: Saoirse
-oga_no: 3685
+sail_number: IORL 4658
+spar_material: aluminium
 ownerships:
-- current: true
-  id: 1053
-  member: 6306
+- id: 1053
   share: 64
+  member: 6306
+  current: true
 place_built: Robertsons of Woodbridge, Sussex
-rig_type: Sloop
-short_description: <p>She's a real one-off.</p>
 updated_at: '2022-02-15T23:37:29.67864+00:00'
 year: 1993
 year_is_approximate: false
+previous_names:
+- La Gamine
+image_key: 74khMz
+for_sale_state:
+  text: not_for_sale

@@ -1,48 +1,57 @@
-builder: 3b623161-dc07-46fc-96b1-98e7ad47b431
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: a5468014-9c00-4985-85ca-f3115f1fc4f7
-draft: 1.4204
-engine_installations: []
-for_sales: []
+name: Riva
+oga_no: 2004
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Stephen bought Riva when she was bemudan rigged and spent several
   years doing a major refit and rerigging her as a gaff cutter. Riva back sailing
   in 1997.
-generic_type: Yacht
+builder:
+  name: Charles Sibbick and Co
+  id: 3b623161-dc07-46fc-96b1-98e7ad47b431
+designer:
+  name: Charles Sibbick
+  id: a5468014-9c00-4985-85ca-f3115f1fc4f7
+construction_material: wood
+construction_method: carvel
+draft: 1.4204
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.682272616435016
-  draft: 1.4203852718849062
-  fore_triangle_base: 7.010485247500609
-  fore_triangle_height: 8.83930748597903
-  length_on_waterline: 9.1441111923921
-  length_over_all: 11.582540843696659
   main:
     foot: 7.315288953913679
     head: 5.6388685686417945
     luff: 5.6388685686417945
-  propellor:
-    type: fixed
   thcf: 1.080016079
+  draft: 1.4203852718849062
   topsail:
     luff: 7.010485247500609
     perpendicular: 2.7432333577176298
+  propellor:
+    type: fixed
+  length_over_all: 11.582540843696659
+  fore_triangle_base: 7.010485247500609
+  length_on_waterline: 9.1441111923921
+  fore_triangle_height: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 09e8567e-1292-4c99-b879-be00bef3314e
 length_on_deck: 11.5824
-mainsail_type: gaff
-name: Riva
-oga_no: 2004
+callsign: ''
 ownerships:
 - name: Stephen Hetherington
   share: 64
   start: 2012
 place_built: Cowes IoW
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:26.644872+00:00'
 website: ''
 year: 1898
 year_is_approximate: false
+construction_details: Carvel greenheart below pitchpine above on grown oak frames
+  Steamed oak timbers, copper and bronze fastened, lead keel, teak s/structure
+beam: 2.6822
+for_sale_state:
+  text: not_for_sale

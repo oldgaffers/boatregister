@@ -1,12 +1,18 @@
-builder: 0f2eea77-cd93-433b-94c3-a9c195864bd8
-callsign: ''
+name: Puff
+oga_no: 3050
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Puff is a Walker Tideway built in 2011</p>
+full_description: ''
+builder:
+  name: Tideways Dinghies
+  id: 0f2eea77-cd93-433b-94c3-a9c195864bd8
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.1524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.5240185320653499
   draft: 0.152401853206535
@@ -17,22 +23,27 @@ home_port: Dittisham
 hull_form: unknown
 id: b35f54c2-bf75-4dbe-bc38-56b5f74e2b6b
 length_on_deck: 3.6576
-mainsail_type: gaff
-name: Puff
-oga_no: 3050
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Richard Hayes
   share: 64
   start: 2012
-- current: true
-  id: 671
-  member: 5524
+- id: 671
   share: 64
+  member: 5524
+  current: true
   start: '?'
 place_built: Maldon
-rig_type: Sloop
-short_description: <p>Puff is a Walker Tideway built in 2011</p>
 updated_at: '2021-12-19T13:39:56.8039+00:00'
 website: ''
 year: 2011
 year_is_approximate: false
+image_key: wgfvH7
+construction_details: GRP
+beam: 1.524
+design_class:
+  name: Tideway 12
+  id: 44264997-3e5a-4718-a1ff-6dbcd135f3ce
+for_sale_state:
+  text: not_for_sale

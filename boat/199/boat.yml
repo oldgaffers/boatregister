@@ -1,46 +1,56 @@
-builder: eb10aa23-c124-41d1-b608-9b0ebec1b5b0
-callsign: ''
+name: Boreas
+oga_no: 199
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Courtney and Birkett
+  id: eb10aa23-c124-41d1-b608-9b0ebec1b5b0
+designer:
+  name: Albert Strange
+  id: bb41d838-779a-40e4-8330-00460deb203f
 construction_material: wood
 construction_method: carvel
-designer: bb41d838-779a-40e4-8330-00460deb203f
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.286027798098025
-  draft: 1.3716166788588149
-  fore_triangle_base: 3.2004389173372347
-  fore_triangle_height: 5.715069495245062
-  length_on_waterline: 6.4008778346744695
-  length_over_all: 6.858083394294074
   main:
     foot: 4.114850036576445
     head: 3.2309192879785416
     luff: 3.1242379907339672
+  thcf: 0.872047005
+  draft: 1.3716166788588149
   mizzen:
     foot: 1.9812240916849548
     luff: 3.301024140453548
-  thcf: 0.872047005
+  length_over_all: 6.858083394294074
+  fore_triangle_base: 3.2004389173372347
+  length_on_waterline: 6.4008778346744695
+  fore_triangle_height: 5.715069495245062
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 645e60df-3800-4b1a-8885-ee44de0f5a29
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Boreas
-oga_no: 199
+callsign: ''
 ownerships:
-- current: true
-  id: 5
-  member: 74
+- id: 5
   share: 64
   start: 1964
+  member: 74
+  current: true
 place_built: Southwick Sussex
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:35.374676+00:00'
 website: ''
 year: 1899
 year_is_approximate: false
+previous_names:
+- Imogen
+construction_details: Carvel teak on teak construction
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

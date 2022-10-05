@@ -1,49 +1,57 @@
-builder: 8c5dcde6-cea6-4acb-ae19-b0be5c8f0640
-callsign: ''
+name: Michy-Lou
+oga_no: 3046
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: John Sharpe
+  id: 8c5dcde6-cea6-4acb-ae19-b0be5c8f0640
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 construction_material: wood
 construction_method: clinker_ply
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 draft: 0.2896
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.9995123140697388
-  draft: 0.28956352109241645
-  draft_keeldown: 1.0698610095098755
-  fore_triangle_base: 1.3990490124359911
-  fore_triangle_height: 7.028773469885393
-  length_on_waterline: 4.87685930260912
-  length_over_all: 4.87685930260912
   main:
     foot: 3.0114606193611317
     head: 3.0998536942209216
     luff: 4.6787368934406235
+  thcf: 0.84337335
+  draft: 0.28956352109241645
   mizzen:
     foot: 1.4264813460131673
     head: 2.100097537186052
     luff: 3.4259936600829066
-  thcf: 0.84337335
   topsail:
     luff: 4.160570592538405
     perpendicular: 1.6002194586686174
+  draft_keeldown: 1.0698610095098755
+  length_over_all: 4.87685930260912
+  fore_triangle_base: 1.3990490124359911
+  length_on_waterline: 4.87685930260912
+  fore_triangle_height: 7.028773469885393
 home_country: 'null'
 home_port: Barrow
 hull_form: unknown
 id: 25093b20-26b5-4587-8e5a-e1bfed28e961
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Michy-Lou
-oga_no: 3046
+callsign: ''
 ownerships:
 - name: John Sharpe
   share: 64
   start: 2012
 place_built: Barrow in Furness
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:56.678153+00:00'
 website: ''
 year: 2011
 year_is_approximate: false
+construction_details: Clinker ply and epoxy
+beam: 1.9995
+for_sale_state:
+  text: not_for_sale

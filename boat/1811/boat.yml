@@ -1,11 +1,12 @@
-builder: 64df40c9-d006-4fc2-abe6-bc7e969090dd
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: e94e9623-63ea-44f1-837b-e92925a48a3b
-draft: 0.6858
-engine_installations: []
-for_sales: []
+name: Ceol-Mara
+oga_no: 1811
+generic_type: unknown
+rig_type: Schooner
+mainsail_type: gaff
+short_description: <p>'Coel Mara', or in English Sound of the Sea was built by my
+  Grandfather, Michael Hicks, in 1993/4. She was designed by George Buehler, an American,
+  under the class name 'The Happy Camper of Pogo Pogo' at all of 16.75 feet. We have
+  wondered if she might not be the smallest schooner afloat!</p>
 full_description: <h3>Article by Danielle Hicks<br />first published in Gaffers Log,
   December 2007</h3><blockquote>My Granddad had sailed on many boats in his time,
   from Thames Barges to Drascombe Luggers (although we knew them as &lsquo;Drastic
@@ -41,42 +42,51 @@ full_description: <h3>Article by Danielle Hicks<br />first published in Gaffers 
   zip, so we have a proper tent entrance at the stern. There is just room for two
   people to squeeze in down on the deck and sleep almost comfortably. We have, at
   Carrick, over the weekend and on at least one other occasion.</blockquote>
-generic_type: unknown
+builder:
+  name: P.M. Hicks
+  id: 64df40c9-d006-4fc2-abe6-bc7e969090dd
+designer:
+  name: G. Buehler
+  id: e94e9623-63ea-44f1-837b-e92925a48a3b
+construction_material: wood
+construction_method: unknown
+draft: 0.6858
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.777005608388198
-  draft: 0.6858083394294074
   fore:
     foot: 1.8806388685686417
     head: 1.0911972689587905
     luff: 2.8194342843208973
-  fore_triangle_base: 2.261643501584979
-  fore_triangle_height: 3.8618629602535965
-  length_on_waterline: 4.57205559619605
-  length_over_all: 5.18166300902219
   main:
     foot: 2.1976347232382345
     head: 1.207022677395757
     luff: 3.2004389173372347
   thcf: 0.79256273
+  draft: 0.6858083394294074
+  length_over_all: 5.18166300902219
+  fore_triangle_base: 2.261643501584979
+  length_on_waterline: 4.57205559619605
+  fore_triangle_height: 3.8618629602535965
 home_country: GBR
 home_port: Lough Erne
 hull_form: unknown
 id: e4e86168-41ff-40df-8e60-f1f8417a535d
 length_on_deck: 5.1816
-mainsail_type: gaff
-name: Ceol-Mara
-oga_no: 1811
+sail_number: '1811'
+callsign: ''
 ownerships:
 - name: Danielle Hicks
   share: 64
   start: 1994
 place_built: Maguires Bridge
-rig_type: Schooner
-short_description: <p>'Coel Mara', or in English Sound of the Sea was built by my
-  Grandfather, Michael Hicks, in 1993/4. She was designed by George Buehler, an American,
-  under the class name 'The Happy Camper of Pogo Pogo' at all of 16.75 feet. We have
-  wondered if she might not be the smallest schooner afloat!</p>
 updated_at: '2021-12-19T13:39:20.949373+00:00'
 website: ''
 year: 1994
 year_is_approximate: false
+image_key: sXpRhf
+construction_details: Plywood
+beam: 1.777
+for_sale_state:
+  text: not_for_sale

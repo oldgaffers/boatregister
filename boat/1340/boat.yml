@@ -1,12 +1,11 @@
-builder: 8d74da63-305e-4666-8f7f-931df43292b5
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: a3cb814c-0775-42fe-bdde-7dc54cfe4460
-draft: 0.9906
-engine_installations: []
-for_sales:
-- asking_price: 24950
+name: Deirdre
+oga_no: 1340
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Deirdre&#39; (pronounced &#39;daredra&#39;) is a gaff cutter
+  designed by Dennis Jacobs and built by Alexander Gostelow of Boston in 1935. She
+  has been restored to a high standard over the period 2011 - 2015.</p>
 full_description: "<p>The<em> </em>&#39;Deirdre&#39; (pronounced &#39;daredra&#39;)\
   \ was built in 1935 by Alexander Gostelow of Boston to a design by Dennis Jacobs.\
   \ Her hull was constructed from 1&frac14;in. American redwood on 3in. sawn oak frames\
@@ -100,32 +99,42 @@ full_description: "<p>The<em> </em>&#39;Deirdre&#39; (pronounced &#39;daredra&#3
   \ she is a &ldquo;classic boat&rdquo; there are no guardrails but permanent fore\
   \ and aft safety lines are rigged on the cabin top and the foredeck to which a safety\
   \ harness can be clipped.</p>"
-generic_type: Yacht
+builder:
+  name: Alexander E. Gostelow
+  id: 8d74da63-305e-4666-8f7f-931df43292b5
+designer:
+  name: T.D. Jacobs
+  id: a3cb814c-0775-42fe-bdde-7dc54cfe4460
+construction_material: wood
+construction_method: unknown
+draft: 0.9906
+engine_installations: []
+for_sales:
+- asking_price: 24950
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.9906120458424774
-  fore_triangle_base: 4.038649109973177
-  fore_triangle_height: 6.6294806144842715
-  length_on_waterline: 6.858083394294074
-  length_over_all: 7.620092660326749
   main:
     foot: 4.87685930260912
     head: 3.6576444769568397
     luff: 3.6576444769568397
-  propellor:
-    type: fixed
   thcf: 0.906240773
+  draft: 0.9906120458424774
   topsail:
     luff: 4.343452816386247
     perpendicular: 1.6520360887588392
+  propellor:
+    type: fixed
+  length_over_all: 7.620092660326749
+  fore_triangle_base: 4.038649109973177
+  length_on_waterline: 6.858083394294074
+  fore_triangle_height: 6.6294806144842715
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
 id: 8af55bea-5184-49a0-ba16-48548fa84f49
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Deirdre
-oga_no: 1340
+ssr: '65997'
+callsign: ''
 ownerships:
 - end: 2015
   name: Kit Platten
@@ -134,16 +143,17 @@ ownerships:
 - name: Eleanor Gassman
   share: 64
   start: 2015
-- current: true
+- share: 64
   member: 6032
-  share: 64
+  current: true
   start: '?'
 place_built: Boston
-rig_type: Cutter
-short_description: <p>&#39;Deirdre&#39; (pronounced &#39;daredra&#39;) is a gaff cutter
-  designed by Dennis Jacobs and built by Alexander Gostelow of Boston in 1935. She
-  has been restored to a high standard over the period 2011 - 2015.</p>
 updated_at: '2021-12-19T13:39:08.635646+00:00'
 website: ''
 year: 1935
 year_is_approximate: false
+image_key: Bmqvz3
+construction_details: American Redwood and Larch on Oak and Iroko
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

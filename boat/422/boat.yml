@@ -1,13 +1,21 @@
-builder: 7bee71db-23df-4ef1-b3bd-1631889f34c6
-callsign: ''
+name: Minda of Kent
+oga_no: 422
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: W. Wright
+  id: 7bee71db-23df-4ef1-b3bd-1631889f34c6
+designer:
+  name: W. Wright
+  id: 623a531d-21c9-41ea-be6a-5972beec19b9
 construction_material: wood
 construction_method: unknown
-designer: 623a531d-21c9-41ea-be6a-5972beec19b9
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.7432333577176298
   length_over_all: 7.010485247500609
@@ -16,17 +24,16 @@ home_port: ''
 hull_form: unknown
 id: ca463c52-a661-4717-8466-b8c56307f3b3
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Minda of Kent
-oga_no: 422
+callsign: ''
 ownerships:
 - name: Mrs J Banks
   share: 64
   start: 2012
 place_built: West Mersea
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:41.849436+00:00'
 website: ''
 year: 1970
 year_is_approximate: false
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

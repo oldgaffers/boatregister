@@ -1,10 +1,10 @@
-builder: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 0
-engine_installations: []
-for_sales: []
+name: Letitia
+oga_no: 2543
+generic_type: Bawley
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Letitia is a Dunkirk little ship, originally built for Arthur
+  Dench and sold to Tom &nbsp;around 1960. She was first registered LO220.</p>
 full_description: "<p>For more information about her, visit the <a href=\"http://www.adls.org.uk/t1/node/513\"\
   \ target=\"_blank\">Association of Dunkirk Little Ships website</a>.</p>\n<h4>Mike\
   \ Feather shares memories of the return to Dunkirk in 2000.<br>\n <del>&nbsp;</del><br>\n\
@@ -34,25 +34,36 @@ full_description: "<p>For more information about her, visit the <a href=\"http:/
   \ for the occasion, meeting, talking with and honouring the real veterans. The Dunkirk\
   \ people regard the \"Little Ships<del>\u2019</del>\u2019 as their little ships\
   \ and asked us to return again and again. It was a trip we will never forget.</blockquote>"
-generic_type: Bawley
+builder:
+  name: Johnson and Johnson
+  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+construction_material: wood
+construction_method: carvel
+draft: 0
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: ad348894-b927-48f7-8e2c-e76a98cec0e9
 length_on_deck: 0
-mainsail_type: gaff
-name: Letitia
-oga_no: 2543
+reference:
+- Log no. 86
+- Mar 2015
+ssr: '90367'
+callsign: ''
 ownerships:
 - end: 2007
   name: Mike Feather
   share: 64
   start: 1998
 place_built: Leigh on Sea
-rig_type: Ketch
-short_description: <p>Letitia is a Dunkirk little ship, originally built for Arthur
-  Dench and sold to Tom &nbsp;around 1960. She was first registered LO220.</p>
 updated_at: '2022-09-14T21:05:23.261263+00:00'
 website: ''
 year: 1938
 year_is_approximate: false
+image_key: 537WFp
+construction_details: Carvel oak on utile
+beam: 0
+for_sale_state:
+  text: not_for_sale

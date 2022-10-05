@@ -1,12 +1,18 @@
-builder: f37c4642-15f1-44a0-bcc6-68590f9516c8
-callsign: ''
+name: White Mouse
+oga_no: 604
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Summers and Payne Ltd.
+  id: f37c4642-15f1-44a0-bcc6-68590f9516c8
 construction_material: wood
 construction_method: unknown
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.9812240916849548
   draft: 1.066812972445745
@@ -16,17 +22,16 @@ home_port: ''
 hull_form: unknown
 id: f363f334-24de-4695-a606-322635b02cc7
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: White Mouse
-oga_no: 604
+callsign: ''
 ownerships:
 - name: H G Gray
   share: 64
   start: 2012
 place_built: Southampton
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:47.137387+00:00'
 website: ''
 year: 1892
 year_is_approximate: false
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

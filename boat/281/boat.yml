@@ -1,11 +1,12 @@
-builder: 98b37407-3881-4aba-892d-b8f6b35b8dc0
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
-draft: 1.1278
-engine_installations: []
-for_sales: []
+name: Polly
+oga_no: 281
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Polly&#39;, fishing no. MN12, was a small Class III oyster
+  smack built by the celebrated builder of spritsail barges, John Howard at North
+  Street, Maldon, in 1889. She was the first winner of the Tom Bolton Memorial Cup
+  at the OGA East Coast Race in 1964.</p>
 full_description: "<p>&#39;Polly&#39; was one of the small oyster smacks built by\
   \ John Howard of Maldon. She was originally built with a transom stern, of the normal\
   \ pine on oak construction, with a small cuddy forward of the mast and fish hold,\
@@ -28,37 +29,44 @@ full_description: "<p>&#39;Polly&#39; was one of the small oyster smacks built b
   \ the finishing line. In this, Ian was helped by the relatively large sail area\
   \ and very fine, unusually long run aft.</blockquote>\r\n\r\n<h4>First published\
   \ in the Old Gaffers Association Newsletter, 1973/3</h4>"
-generic_type: Smack
+builder:
+  name: John Howard
+  id: 98b37407-3881-4aba-892d-b8f6b35b8dc0
+designer:
+  name: John Howard
+  id: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
+construction_material: wood
+construction_method: unknown
+draft: 1.1278
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.127773713728359
-  length_on_waterline: 8.900268227261643
   length_over_all: 10.36332601804438
+  length_on_waterline: 8.900268227261643
 home_country: GBR
 home_port: Mistley
 hull_form: unknown
 id: 4c66a617-4b82-4cdb-9e16-44444e7915fc
 length_on_deck: 10.3632
-mainsail_type: gaff
-name: Polly
-oga_no: 281
+callsign: ''
 ownerships:
 - note: In 1955 Wally and Ernie Pitt decided they were getting too old to carry on
     fishing and sold 'Polly' to John Kemp of Heybridge, who, in turn, sold her to
     Ian Edmond in 1960. In 1966, Ian sold 'Polly' to a Mr Williams of Brightllingsea.
+  text: In
   start: 1955
   start_is_approximate: false
-  text: In
 - name: A Stear and RW Farrow
   share: 64
   start: 2012
 place_built: Maldon
-rig_type: Cutter
-short_description: <p>&#39;Polly&#39;, fishing no. MN12, was a small Class III oyster
-  smack built by the celebrated builder of spritsail barges, John Howard at North
-  Street, Maldon, in 1889. She was the first winner of the Tom Bolton Memorial Cup
-  at the OGA East Coast Race in 1964.</p>
 updated_at: '2021-12-19T13:38:37.982402+00:00'
 website: ''
 year: 1889
 year_is_approximate: false
+image_key: vnnQDt
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

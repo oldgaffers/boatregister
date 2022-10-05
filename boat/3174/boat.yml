@@ -1,21 +1,22 @@
-builder: 13013b12-8617-439c-bc35-ba8f2259031e
-callsign: ''
+name: Petunia
+oga_no: 3174
+generic_type: Dayboat
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Dayboat Kittiwake class</p>
+full_description: <p>Dayboat - Kittiwake Class</p>
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+designer:
+  name: Roger Wilkinson
+  id: 7b55967c-c09b-4375-8aab-2aa606d145cd
 construction_material: grp
 construction_method: cold_moulded
-designer: 7b55967c-c09b-4375-8aab-2aa606d145cd
 draft: 0.3048
 engine_installations: []
 for_sales: []
-full_description: <p>Dayboat - Kittiwake Class</p>
-generic_type: Dayboat
 handicap_data:
-  calculated_thcf: 0.809
-  draft_keel_up: 0.3048
-  fore_triangle_base: 2.4384
-  fore_triangle_height: 3.6576
-  length_on_waterline: 4.2672
-  length_over_spars: 6.096
-  length_overall: 4.2672
   main:
     foot: 10
     head: 9
@@ -24,29 +25,39 @@ handicap_data:
     foot: 4
     luff: 10
   moving_keel: true
+  draft_keel_up: 0.3048
+  length_overall: 4.2672
+  calculated_thcf: 0.809
   moving_keel_type: Centreboard
+  length_over_spars: 6.096
+  fore_triangle_base: 2.4384
+  length_on_waterline: 4.2672
+  fore_triangle_height: 3.6576
 home_country: GBR
 home_port: Holyhead
 hull_form: long keel deep forefoot
 id: b835c269-5b1b-48aa-af9c-2c2d8efd4147
 length_on_deck: 4.2672
-mainsail_type: gaff
-name: Petunia
-oga_no: 3174
+callsign: ''
 ownerships:
 - end: 2009
   name: Jeff Rooney
   share: 64
   start: 2004
-- current: true
-  id: 386
-  member: 4136
+- id: 386
   share: 64
   start: 2009
+  member: 4136
+  current: true
 place_built: Macclesfield
-rig_type: Yawl
-short_description: <p>Dayboat Kittiwake class</p>
 updated_at: '2021-12-19T13:40:03.148383+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+construction_details: GRP Timber fit out
+beam: 1.524
+design_class:
+  name: Kittiwake 14
+  id: 2040951b-da62-4080-8f0d-b39bae2a4db3
+for_sale_state:
+  text: not_for_sale

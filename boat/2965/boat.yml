@@ -1,34 +1,45 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Black Swan
+oga_no: 2965
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   draft_keeldown: 1.1430138990490124
-  length_on_waterline: 5.690685198732017
   length_over_all: 5.7912704218483295
+  length_on_waterline: 5.690685198732017
 home_country: 'null'
 home_port: ''
 hull_form: centre-boarder
 id: b67d8fc3-2c33-471e-94f9-6df109839ea2
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Black Swan
-oga_no: 2965
+callsign: ''
 ownerships:
 - name: Derek Gibb
   share: 64
   start: 2009
 place_built: Bursledon Hants.
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-07-01T06:34:29.702277+00:00'
 website: ''
 year: 2006
 year_is_approximate: false
+construction_details: GRP wood cabin
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

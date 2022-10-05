@@ -1,12 +1,19 @@
-builder: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+name: Siren
+oga_no: 3603
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>She is a nice example of her type.</p>
+full_description: <p>An idea classic style boat for the tidal estuary at Arnside with
+  her bilge keels and shallow draft.</p>
+builder:
+  name: Character Boats
+  id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
 construction_material: grp
 construction_method: clinker
 draft: 0.48768593026091195
 engine_installations: []
 for_sales: []
-full_description: <p>An idea classic style boat for the tidal estuary at Arnside with
-  her bilge keels and shallow draft.</p>
-generic_type: Dayboat
 handicap_data:
   beam: 1.9812240916849548
 home_country: UK
@@ -14,18 +21,20 @@ home_port: Arnside Cumbria
 hull_form: leeboarder
 id: e56ee14f-257d-484a-93f1-0d94b8db3a1d
 length_on_deck: 5.334064862228725
-mainsail_type: gaff
-name: Siren
-oga_no: 3603
+sail_number: '130'
+spar_material: wood
 ownerships:
-- current: true
-  id: 34928
-  member: 6527
+- id: 34928
   share: 64
+  member: 6527
+  current: true
   start: '?'
 place_built: Lytham St. Annes
-rig_type: Sloop
-short_description: <p>She is a nice example of her type.</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 2009
 year_is_approximate: false
+image_key: HWgjFf
+construction_details: Glass fibre composite
+design_class:
+  name: Character Boats Lune Whammel
+  id: 7337e167-9428-443a-b76a-6dc2f805e76b

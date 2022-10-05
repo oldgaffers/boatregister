@@ -1,37 +1,47 @@
-builder: 192f1693-fc56-4824-8b1a-4753d50d7eb0
-callsign: ''
+name: Lily Lodestone
+oga_no: 3332
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Lily Lodestone was designed by Percy Dalton on the lines of
+  the Falmouth Oyster Dredger.</p>
+full_description: <p>&#39;Lily Lodestone&#39; was designed by Percy Dalton on the
+  lines of the Falmouth Oyster Dredger. Hull and deck are ferrocement.</p>
+builder:
+  name: M. Whittingham
+  id: 192f1693-fc56-4824-8b1a-4753d50d7eb0
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: ferro
 construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 0.9144
 engine_installations: []
 for_sales:
 - asking_price: 2000
-full_description: <p>&#39;Lily Lodestone&#39; was designed by Percy Dalton on the
-  lines of the Falmouth Oyster Dredger. Hull and deck are ferrocement.</p>
-generic_type: Yacht
 handicap_data:
-  length_on_waterline: 7.3152
-  length_over_spars: 9.144
   length_overall: 7.3152
+  length_over_spars: 9.144
+  length_on_waterline: 7.3152
 home_country: GBR
 home_port: River Dart
 hull_form: long keel deep forefoot
 id: 48cf5671-97a7-4e2c-ab32-2458d5600e48
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Lily Lodestone
-oga_no: 3332
+callsign: ''
 ownerships:
 - end: 2017
   name: John Smith
   share: 64
   start: 1997
 place_built: Dartmouth
-rig_type: Cutter
-short_description: <p>Lily Lodestone was designed by Percy Dalton on the lines of
-  the Falmouth Oyster Dredger.</p>
 updated_at: '2021-12-19T13:40:07.817376+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+image_key: R63nfN
+construction_details: Hull and deck is ferrocement, coachroof, cockpit coaming and
+  rubbing strake are wood.
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

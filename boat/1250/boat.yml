@@ -1,12 +1,17 @@
-builder: 63362897-f99b-4e1b-bbc4-d875d68bc9a2
-callsign: ''
+name: Joe
+oga_no: 1250
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Dock Yard Apprentices
+  id: 63362897-f99b-4e1b-bbc4-d875d68bc9a2
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   length_over_all: 4.26725188978298
 home_country: 'null'
@@ -14,16 +19,16 @@ home_port: ''
 hull_form: unknown
 id: 553aa3a2-4f02-479f-9fc9-839f16d5154d
 length_on_deck: 4.2672
-mainsail_type: gaff
-name: Joe
-oga_no: 1250
+callsign: ''
 ownerships:
 - name: Roy Adams
   share: 64
   start: 2012
 place_built: Portsmouth
-short_description: ''
 updated_at: '2021-12-19T13:39:06.006923+00:00'
 website: ''
 year: 1940
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

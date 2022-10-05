@@ -1,33 +1,43 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+name: Tegan
+oga_no: 3648
+generic_type: Yacht
+rig_type: Other
+mainsail_type: gaff
+short_description: <p>She was built to order with inboard engine , delivered by Cornish
+  Crabbers and launched late August 2021</p>
+full_description: <p><br></p>
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray/David Thomas Yachts
+  id: 7d1ad008-4263-419d-8843-d466ded0ec2c
 construction_material: grp
 construction_method: cold_moulded
-designer: 7d1ad008-4263-419d-8843-d466ded0ec2c
 draft: 0.5699829309924409
 engine_installations: []
 for_sales: []
-full_description: <p><br></p>
-generic_type: Yacht
 handicap_data:
   beam: 2.3774689100219457
+  thcf: 0.854
+  sailarea: 23.412135459672527
+  propellor:
+    type: feathering
+    blades: 3
   length_on_deck: 6.370397464033162
   length_on_waterline: 6.0991221653255305
-  propellor:
-    blades: 3
-    type: feathering
-  sailarea: 23.412135459672527
-  thcf: 0.854
 home_country: UK
 home_port: Ullswater
 hull_form: long keel deep forefoot
 id: 6feb9002-8ae0-4d18-95d1-4f480c45c84e
 length_on_deck: 6.4008778346744695
-mainsail_type: gaff
-name: Tegan
-oga_no: 3648
+sail_number: '98'
+spar_material: wood
 place_built: Rock
-rig_type: Other
-short_description: <p>She was built to order with inboard engine , delivered by Cornish
-  Crabbers and launched late August 2021</p>
 updated_at: '2022-02-11T17:55:00.48218+00:00'
 year: 2021
 year_is_approximate: false
+image_key: 5bN7fB
+design_class:
+  name: Cornish Shrimper 21
+  id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4

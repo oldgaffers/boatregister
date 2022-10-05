@@ -1,45 +1,51 @@
-builder: 4e23ca09-f4b3-4af9-8717-5d1ea9fbba99
-callsign: ''
+name: Heatherbell
+oga_no: 1587
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Wilson
+  id: 4e23ca09-f4b3-4af9-8717-5d1ea9fbba99
 construction_material: wood
 construction_method: carvel
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.590831504511095
-  draft: 1.21921482565228
-  fore_triangle_base: 4.319068519873201
-  fore_triangle_height: 4.623872226286271
-  length_on_waterline: 8.205315776639845
-  length_over_all: 8.686905632772493
   main:
     foot: 4.953060229212387
     head: 3.453425993660083
     luff: 3.5052426237503047
-  propellor:
-    type: fixed
   thcf: 0.921731598
+  draft: 1.21921482565228
   topsail:
     luff: 4.114850036576445
     perpendicular: 2.0574250182882223
+  propellor:
+    type: fixed
+  length_over_all: 8.686905632772493
+  fore_triangle_base: 4.319068519873201
+  length_on_waterline: 8.205315776639845
+  fore_triangle_height: 4.623872226286271
 home_country: 'null'
 home_port: Haverigg
 hull_form: long keel deep forefoot
 id: bc5c657e-4838-4cee-96b7-fb52ddb86a40
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: Heatherbell
-oga_no: 1587
+callsign: ''
 ownerships:
 - name: J R Turner
   share: 64
   start: 1984
 place_built: Annan
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:15.607883+00:00'
 website: ''
 year: 1913
 year_is_approximate: false
+construction_details: Carvel
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

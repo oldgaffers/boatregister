@@ -1,8 +1,20 @@
-builder: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
-callsign: ''
+name: Daisy
+oga_no: 1252
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Memory 19 gaff rigged dayboat. Open cockpit version with two berths
+  under foredeck.
+full_description: Easy and fun to sail single-handed or with a group and ideal for
+  exploring shallow estuaries.
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales:
@@ -20,34 +32,30 @@ for_sales:
   sold: '2021-05-09'
   summary: null
   updated_at: '2020-05-03T10:13:13.442365+00:00'
-full_description: Easy and fun to sail single-handed or with a group and ideal for
-  exploring shallow estuaries.
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  fore_triangle_base: 2.8194342843208973
-  fore_triangle_height: 5.434650085345037
-  length_on_waterline: 5.739453791758107
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  propellor:
-    type: fixed
   thcf: 0.86545363
+  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
+  propellor:
+    type: fixed
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.8194342843208973
+  length_on_waterline: 5.739453791758107
+  fore_triangle_height: 5.434650085345037
 home_country: GBR
 home_port: Portsmouth
 hull_form: centre-boarder
 id: f83d63ac-931d-4e44-8f38-a58f497ba751
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Daisy
-oga_no: 1252
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2014
   name: Richard Boyles
@@ -57,10 +65,17 @@ ownerships:
   share: 64
   start: 2014
 place_built: Lymm
-rig_type: Sloop
-short_description: Memory 19 gaff rigged dayboat. Open cockpit version with two berths
-  under foredeck.
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+previous_names:
+- Lady Rose II
+image_key: MK4hbz
+construction_details: GRP
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

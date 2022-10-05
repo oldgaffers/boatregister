@@ -1,8 +1,9 @@
-construction_material: woodepoxy
-construction_method: strip_planking_epoxy_sheathed
-engine_installations: []
-for_sales:
-- asking_price: 5500
+name: Widget
+oga_no: 3453
+rig_type: Cutter
+mainsail_type: gaff
+short_description: A keel / centreboard day sailer designed by Joel White, based on
+  Nat Herreshoff's Buzzards Bay 12.5 from 1914.
 full_description: Described as a keel / centreboard day sailer designed by Joel White,
   she is in fact a development of a design by Nat Herreshoff know as the Buzzards
   Bay 12.5 from 1914. The 12.5 relates to the waterline length, in feet. The White
@@ -10,21 +11,36 @@ full_description: Described as a keel / centreboard day sailer designed by Joel 
   the 600lb lead keel. The original design was of carvel construction with 1/2 cedar
   planks screwed to steam bent oak ribs; the Widget design has been further modified
   to allow cedar strip and epoxy construction which has been glass sheathed.
+construction_material: woodepoxy
+construction_method: strip_planking_epoxy_sheathed
+engine_installations: []
+for_sales:
+- asking_price: 5500
 home_country: United Kingdom
 home_port: Bristol
 hull_form: centre-boarder
 id: e4f3ca54-bbed-410c-878b-3d12f16efa97
-mainsail_type: gaff
-name: Widget
-oga_no: 3453
+spar_material: wood
 ownerships:
 - ID: 34739
   end: 2021
-  member: 6398
   sale: '2021-09-17'
-rig_type: Cutter
-short_description: A keel / centreboard day sailer designed by Joel White, based on
-  Nat Herreshoff's Buzzards Bay 12.5 from 1914.
+  member: 6398
 updated_at: '2021-12-19T13:40:10.921377+00:00'
 year: 2014
 year_is_approximate: false
+image_key: 3sPjdT
+construction_details: "Cedar strip construction with fibreglass / Sicomin epoxy sheathing\
+  \ inside and out. Keel logs are English oak. She has mahogany and teak decking and\
+  \ trim and a solid mahogany transom. The fore deck has a 12 mm marine ply sub-deck\
+  \ with red teak straight laid boards which are sheathed in glass to show off the\
+  \ beautiful wood. All brightwork is finished with Tonkinois traditional varnish.<p>The\
+  \ mast and spars are solid Douglas fir and she has a 250kg lead keel with integral\
+  \ marine ply lifting centreplate. Standing rigging was supplied by Traditional Rigging\
+  \ of Bristol and the majority of fittings are bronze; the running rigging is \u2018\
+  hemp\u2019 lookalike cordage. The sails were made by Rowsell of Exmouth."
+design_class:
+  name: "Haven 12\xBD"
+  id: 87dbb5fb-d3ad-4042-884f-74b9a20e49cd
+for_sale_state:
+  text: not_for_sale

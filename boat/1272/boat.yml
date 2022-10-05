@@ -1,12 +1,17 @@
-builder: 57e22238-cdd2-4556-a3f3-ef834d765e07
-callsign: ''
+name: Moggie
+oga_no: 1272
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: David Moss Boatbuilders
+  id: 57e22238-cdd2-4556-a3f3-ef834d765e07
 construction_material: wood
 construction_method: unknown
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.6764203852718849
   draft: 0.60960741282614
@@ -16,16 +21,16 @@ home_port: ''
 hull_form: unknown
 id: 9e67c868-ba38-434e-a3bb-d443fb86381f
 length_on_deck: 3.6576
-mainsail_type: gaff
-name: Moggie
-oga_no: 1272
+callsign: ''
 ownerships:
 - name: C Henwood
   share: 64
   start: 2012
 place_built: Skipool Creek
-short_description: ''
 updated_at: '2021-12-19T13:39:06.639695+00:00'
 website: ''
 year: 1984
 year_is_approximate: false
+beam: 1.6764
+for_sale_state:
+  text: not_for_sale

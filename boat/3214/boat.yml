@@ -1,31 +1,38 @@
-builder: 55341984-73ed-4abc-b549-6f4d60089dc2
-callsign: ''
+name: Matilda Emilie
+oga_no: 3214
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Ward and McKenzie
+  id: 55341984-73ed-4abc-b549-6f4d60089dc2
 construction_material: wood
 construction_method: cold_moulded
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
-  draft_keel_down: 1.3716
-  length_overall: 8.1778
   moving_keel: true
+  length_overall: 8.1778
+  draft_keel_down: 1.3716
   moving_keel_type: Centreboard
 home_country: GBR
 home_port: Maldon
 hull_form: unknown
 id: 06b3b09a-4af0-4a93-9131-82b32fb44a89
 length_on_deck: 8.1778
-mainsail_type: gaff
-name: Matilda Emilie
-oga_no: 3214
+uk_part1: '726932'
+callsign: ''
 ownerships:
 - name: Peter Walsh
   share: 64
   start: 2013
 place_built: Poole
-short_description: ''
 updated_at: '2021-12-19T13:40:04.27561+00:00'
 website: ''
 year_is_approximate: false
+construction_details: GRP
+beam: 2.5146
+for_sale_state:
+  text: not_for_sale

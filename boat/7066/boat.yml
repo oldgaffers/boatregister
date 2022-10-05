@@ -1,13 +1,21 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
+name: Adur Rose
+oga_no: 7066
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 construction_material: wood
 construction_method: unknown
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.590831504511095
   length_over_all: 9.44891489880517
@@ -17,28 +25,30 @@ home_port: Port Rosneath, Gareloch. Reported as broken up in Ardfern Yard 2019 (
 hull_form: unknown
 id: f86fab45-b77d-4d38-bcad-0f6819e3c3eb
 length_on_deck: 9.4488
-mainsail_type: bermudan
-name: Adur Rose
-oga_no: 7066
+callsign: ''
 ownerships:
 - note: Prev owners, A Oswald of Lincolnshire; Hobbs; Mrs Harvey; Bristow; plus one
     other who changed her name, after mid 1980's.
-  start: 1980
-  start_is_approximate: false
   text: Prev owners, A Oswald of Lincolnshire; Hobbs; Mrs Harvey; Bristow; plus one
     other who changed her name, after mid
+  start: 1980
+  start_is_approximate: false
 - name: Philip Allison
   share: 64
   start: 2006
-- current: true
-  id: 27
-  member: 753
+- id: 27
   share: 64
+  member: 753
+  current: true
   start: '?'
 place_built: Littlehampton
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-04-04T19:21:50.401243+00:00'
 website: ''
 year: 1962
 year_is_approximate: false
+previous_names:
+- Gay Whippet
+construction_details: Larch on oak, chine
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

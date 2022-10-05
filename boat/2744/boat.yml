@@ -1,45 +1,55 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Peggy
+oga_no: 2744
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.3048
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 1.8288222384784198
-  draft: 0.30480370641307
-  fore_triangle_base: 1.882162887100707
-  fore_triangle_height: 4.26725188978298
-  length_on_waterline: 4.672640819312362
-  length_over_all: 4.724457449402585
   main:
     foot: 3.0480370641306997
     head: 2.43842965130456
     luff: 2.0574250182882223
   thcf: 0.777977542
+  draft: 0.30480370641307
+  length_over_all: 4.724457449402585
+  fore_triangle_base: 1.882162887100707
+  length_on_waterline: 4.672640819312362
+  fore_triangle_height: 4.26725188978298
 home_country: GBR
 home_port: Trailer sail
 hull_form: unknown
 id: 68f248ab-9f01-4440-aff7-1f77116a17c8
 length_on_deck: 4.7244
-mainsail_type: gaff
-name: Peggy
-oga_no: 2744
+sail_number: CP33
+callsign: ''
 ownerships:
 - end: 2012
   name: Dave Rogers
   share: 64
   start: 2005
-- current: true
+- share: 64
   member: 4438
-  share: 64
+  current: true
   start: '?'
 place_built: Mylor Bridge
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:48.097149+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+construction_details: GRP
+beam: 1.8288
+design_class:
+  name: Clovelly Picarooner
+  id: 11aace65-18e9-4ec8-b204-763199e59f90
+for_sale_state:
+  text: not_for_sale

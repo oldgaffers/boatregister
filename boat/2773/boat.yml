@@ -1,12 +1,18 @@
-callsign: ''
+name: Compass Rose
+oga_no: 2773
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: For sale on web, '02
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
 construction_material: steel
 construction_method: unknown
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: For sale on web, '02
-generic_type: Yacht
 handicap_data:
   beam: 3.9868324798829553
   length_over_all: 13.411363082175079
@@ -15,16 +21,16 @@ home_port: Plymouth
 hull_form: unknown
 id: dbd22f59-1d49-4115-a02c-f5e87f1c03bd
 length_on_deck: 13.4112
-mainsail_type: gaff
-name: Compass Rose
-oga_no: 2773
+callsign: ''
 ownerships:
 - name: Monserrat, Max
   share: 64
   start: 2012
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:48.982125+00:00'
 website: ''
 year: 1998
 year_is_approximate: false
+construction_details: Steel
+beam: 3.9868
+for_sale_state:
+  text: not_for_sale

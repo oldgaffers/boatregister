@@ -1,52 +1,64 @@
-builder: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
-callsign: ''
+name: Redwing
+oga_no: 1597
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>&#39;Redwing&#39;, originally named &#39;Cherub III&#39;, was
+  Albert Strange&#39;s own last boat.</p>
+full_description: ''
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+designer:
+  name: Albert Strange
+  id: bb41d838-779a-40e4-8330-00460deb203f
 construction_material: wood
 construction_method: carvel
-designer: bb41d838-779a-40e4-8330-00460deb203f
 draft: 1.6002
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.4902462813947817
-  draft: 1.6002194586686174
-  fore_triangle_base: 4.26725188978298
-  fore_triangle_height: 7.367105584003902
-  length_on_waterline: 6.986100950987564
-  length_over_all: 8.686905632772493
   main:
     foot: 5.029261155815655
     head: 3.8100463301633747
     luff: 5.129846378931967
+  thcf: 0.950768846
+  draft: 1.6002194586686174
   mizzen:
     foot: 1.9507437210436478
     luff: 4.367837112899292
-  propellor:
-    type: fixed
-  thcf: 0.950768846
   topsail:
     luff: 5.081077785905877
     perpendicular: 1.8044379419653742
+  propellor:
+    type: fixed
+  length_over_all: 8.686905632772493
+  fore_triangle_base: 4.26725188978298
+  length_on_waterline: 6.986100950987564
+  fore_triangle_height: 7.367105584003902
 home_country: GBR
 home_port: Loch Feochan
 hull_form: long keel deep forefoot
 id: 33ed0d41-f3a4-4adc-be73-f3d2c0c25d42
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: Redwing
-oga_no: 1597
+spar_material: wood
+uk_part1: '133057'
+callsign: ''
 ownerships:
-- current: true
-  id: 270
-  member: 3427
+- id: 270
   share: 64
   start: 2002
+  member: 3427
+  current: true
 place_built: Tarbert
-rig_type: Yawl
-short_description: <p>&#39;Redwing&#39;, originally named &#39;Cherub III&#39;, was
-  Albert Strange&#39;s own last boat.</p>
 updated_at: '2022-07-05T12:13:39.903595+00:00'
 website: ''
 year: 1911
 year_is_approximate: false
+previous_names:
+- Cherub III
+construction_details: Pitch Pine on Oak
+beam: 2.4902
+for_sale_state:
+  text: not_for_sale

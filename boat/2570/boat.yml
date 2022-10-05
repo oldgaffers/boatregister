@@ -1,11 +1,10 @@
-builder: 849df6d6-4646-4549-8db6-6dd9b6cb739b
-callsign: ''
-construction_material: ferro
-construction_method: unknown
-designer: bb0171e9-35f7-49a9-a287-d2a45ad98b19
-draft: 1.463
-engine_installations: []
-for_sales: []
+name: Pegasus
+oga_no: 2570
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Previously named Grace, Pegasus spent the first eleven years of
+  her existence ashore in a garden.
 full_description: "<p>Built by Ferrocement Marine Services (FCMS) and delivered in\
   \ 1980, Pegasus (then named Grace) sat in a garden in Chichester for eleven years.\
   \ In 1991 she was bought by Jeremy Swadling of Emsworth who fitted her out, finishing\
@@ -13,48 +12,61 @@ full_description: "<p>Built by Ferrocement Marine Services (FCMS) and delivered 
   \ taken to the Isle of Wight.</p>\r\n\r\n<p>She was bought by Andrea Sandford in\
   \ May 2010 when her name was changed to Pegasus. Her mast and bowsprit were lost\
   \ in the Solent Race, August 2010.</p>"
-generic_type: Smack
+builder:
+  name: Ferro Cement Marine Services
+  id: 849df6d6-4646-4549-8db6-6dd9b6cb739b
+designer:
+  name: John F. French
+  id: bb0171e9-35f7-49a9-a287-d2a45ad98b19
+construction_material: ferro
+construction_method: unknown
+draft: 1.463
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.9840282857839546
-  draft: 1.4478176054620824
-  fore_triangle_base: 7.162887100707144
-  fore_triangle_height: 8.01633747866374
-  length_on_waterline: 8.052913923433309
-  length_over_all: 9.1441111923921
   main:
     foot: 5.715069495245062
     head: 4.724457449402585
     luff: 4.114850036576445
-  propellor:
-    blades: 3
-    type: folding
   thcf: 0.97610646
+  draft: 1.4478176054620824
   topsail:
     luff: 5.9436722750548645
     perpendicular: 2.590831504511095
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 7.162887100707144
+  length_on_waterline: 8.052913923433309
+  fore_triangle_height: 8.01633747866374
 home_country: GBR
 home_port: Bursledon
 hull_form: long keel sloping forefoot
 id: 17d92148-53bd-4dd4-b65d-b0e5659ec60e
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Pegasus
-oga_no: 2570
+sail_number: 5901T
+callsign: ''
 ownerships:
 - end: 2010
   name: Jeremy Gully
   share: 64
   start: 2002
-- current: true
-  id: 479
-  member: 4616
+- id: 479
   share: 64
   start: 2010
+  member: 4616
+  current: true
 place_built: Burnham on Crouch
-rig_type: Cutter
-short_description: Previously named Grace, Pegasus spent the first eleven years of
-  her existence ashore in a garden.
 updated_at: '2021-12-19T13:39:43.134637+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+previous_names:
+- Grace
+image_key: zzzCvC
+construction_details: Ferrocement
+beam: 2.987
+for_sale_state:
+  text: not_for_sale

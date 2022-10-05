@@ -1,13 +1,21 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: ''
+name: Sheila-R
+oga_no: 2032
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: wood
 construction_method: unknown
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.7739575713240674
   length_over_all: 4.57205559619605
@@ -16,22 +24,21 @@ home_port: Bembridge
 hull_form: unknown
 id: 284cc7e8-c4e0-43d0-8f7c-bbb8cb80689b
 length_on_deck: 4.572
-mainsail_type: lug
-name: Sheila-R
-oga_no: 2032
+callsign: ''
 ownerships:
 - name: John Wheble
   share: 64
   start: 2012
-- current: true
-  id: 11
-  member: 314
+- id: 11
   share: 64
+  member: 314
+  current: true
   start: '?'
 place_built: Totnes
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:27.452362+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+beam: 1.7739
+for_sale_state:
+  text: not_for_sale

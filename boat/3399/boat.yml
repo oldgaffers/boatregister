@@ -1,10 +1,9 @@
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 0.9906
-engine_installations: []
-for_sales:
-- asking_price: 9500
+name: Pajaro
+oga_no: 3399
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: Pajaro is a very pretty 23ft Bermudan rigged classic wooden dayboat.
 full_description: Pajaro is a very pretty wooden dayboat evidently of Scandinavian
   design, being similar to a BB17 or a mini-Dragon. It is thought that she may also
   be Scandinavian built, although the mahogany beamshelf suggests that she may instead
@@ -19,30 +18,38 @@ full_description: Pajaro is a very pretty wooden dayboat evidently of Scandinavi
   ashore under cover.</p><p>Her provenance is uncertain as she has no original builder&#39;s
   marks or plate other than that of Gordon MacNair who carried out the major restoration
   works.</p>
-generic_type: Yacht
+construction_material: wood
+construction_method: carvel
+draft: 0.9906
+engine_installations: []
+for_sales:
+- asking_price: 9500
 handicap_data:
-  length_on_waterline: 5.1816
-  length_overall: 7.0104
   main:
     foot: 8
     luff: 22.5
   sailarea: 6
+  length_overall: 7.0104
+  length_on_waterline: 5.1816
 home_country: GBR
 home_port: Falmouth
 hull_form: fin keel
 id: 57fa701f-cda5-4bbf-a53a-201d6b9cf6e9
 length_on_deck: 7.0104
-mainsail_type: bermudan
-name: Pajaro
-oga_no: 3399
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 314
-  member: 3753
+- id: 314
   share: 64
+  member: 3753
+  current: true
   start: '?'
-rig_type: Sloop
-short_description: Pajaro is a very pretty 23ft Bermudan rigged classic wooden dayboat.
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 website: ''
 year_is_approximate: false
+image_key: vZ7Mvn
+construction_details: Carvel. Mahogany on steamed ash or elm framesKeelbolts renewed
+  during rebuild/restoration approx 2013.
+beam: 1.7526
+for_sale_state:
+  text: for_sale

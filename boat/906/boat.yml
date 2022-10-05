@@ -1,12 +1,18 @@
-builder: 632de67d-b846-4307-a62c-b10083392f98
-callsign: ''
+name: Charisma
+oga_no: 906
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Log 75/1,76/1 First service Exmouth RNLI Station
+builder:
+  name: Thames Ironworks and Shipbuilding Co.
+  id: 632de67d-b846-4307-a62c-b10083392f98
 construction_material: wood
 construction_method: double_diagonal
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Log 75/1,76/1 First service Exmouth RNLI Station
-generic_type: unknown
 handicap_data:
   beam: 2.590831504511095
   draft: 1.21921482565228
@@ -16,17 +22,19 @@ home_port: ''
 hull_form: unknown
 id: ee56ccec-274a-4897-96dd-f3743ad6b696
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Charisma
-oga_no: 906
+reference:
+- Log 75/1,76/1
+callsign: ''
 ownerships:
 - name: Henderson
   share: 64
   start: 2012
 place_built: London
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:55.696253+00:00'
 website: ''
 year: 1903
 year_is_approximate: false
+construction_details: Double diagonal Mahogany
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

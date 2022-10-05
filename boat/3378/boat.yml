@@ -1,12 +1,10 @@
-builder: 5e38c067-3c52-435e-8958-bc85605e67fb
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: 9d4762ab-bb5a-4587-b256-a74538d1573d
-draft: 0.2743
-engine_installations: []
-for_sales:
-- asking_price: 7500
+name: Hope
+oga_no: 3378
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <i>Hope</i> is a one-off clinker dinghy designed and built by Jonny
+  Burke at Govan, Glasgow
 full_description: <i>Hope</i> was designed and built in Govan on the Clyde by <a href="http://www.theboatwright.co.uk/"
   target="_blank">Jonny Burke</a> in 2016. Jonny has a background in racing, and so
   good sailing performance is central in all his designs.</p><p>Since her launch in
@@ -15,31 +13,44 @@ full_description: <i>Hope</i> was designed and built in Govan on the Clyde by <a
   that alongside sailing capability she has space for all the family in a boat that
   catches the eye.&nbsp;</p><p>LOA 16&rsquo;9&rsquo;&nbsp;Beam 6&rsquo; 3&rdquo; Draft
   10&rdquo; plate up 3&rsquo; plate down.</p>
-generic_type: Dinghy
+builder:
+  name: Jonny Burke
+  id: 5e38c067-3c52-435e-8958-bc85605e67fb
+designer:
+  name: Jonny Burke
+  id: 9d4762ab-bb5a-4587-b256-a74538d1573d
+construction_material: wood
+construction_method: clinker
+draft: 0.2743
+engine_installations: []
+for_sales:
+- asking_price: 7500
 handicap_data:
-  draft_keel_down: 0.9144
-  length_on_waterline: 4.8768
-  length_over_spars: 5.1054
   moving_keel: true
+  draft_keel_down: 0.9144
   moving_keel_type: Centreboard
+  length_over_spars: 5.1054
+  length_on_waterline: 4.8768
 home_country: GBR
 home_port: Aberfeldy
 hull_form: centre-board dinghy
 id: fb0b9427-a390-4969-814c-ba130042c5b5
 length_on_deck: 5.1
-mainsail_type: gaff
-name: Hope
-oga_no: 3378
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2018
   name: Paul Parmenter
   share: 64
   start: 2016
 place_built: Govan, The Clyde
-rig_type: Sloop
-short_description: <i>Hope</i> is a one-off clinker dinghy designed and built by Jonny
-  Burke at Govan, Glasgow
 updated_at: '2021-12-19T13:40:09.334364+00:00'
 website: ''
 year: 2016
 year_is_approximate: false
+image_key: 23WmSw
+construction_details: Quarter sawn Douglas fir, clinker planking on steamed oak frames.
+  Copper fastened. Elm thwarts, bow and sternsheets.
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

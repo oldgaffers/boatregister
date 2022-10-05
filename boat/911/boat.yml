@@ -1,11 +1,15 @@
-callsign: ''
+name: Kelpie
+oga_no: 911
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 75/1
 construction_material: wood
 construction_method: clinker
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: Log 75/1
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
   draft: 1.066812972445745
@@ -15,16 +19,18 @@ home_port: ''
 hull_form: unknown
 id: 397218f5-ad24-46b0-860d-7e1ebc9856f8
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: Kelpie
-oga_no: 911
+reference:
+- Log 75/1
+callsign: ''
 ownerships:
 - name: W K M Wood
   share: 64
   start: 2012
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:55.852396+00:00'
 website: ''
 year: 1896
 year_is_approximate: false
+construction_details: Clinker pine on oak, lead keel
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,12 @@
-builder: 1490f054-b323-4ef5-961c-9026f880c340
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Ziska
+oga_no: 717
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Built by Crossfields, Arnside, in 1903 <i>Ziska</i> is now based
+  on the west coast of America. In 2019 she took part in the Race to Alaska. Ashley
+  Butler, one of the country&#39;s leading wooden boatbuilders sailed her across the
+  Atlantic in 1999.
 full_description: "<p><em>Ziska</em> was launched at Arnside on 28th January 1903,\
   \ eleven months before the first aircraft flight in December. She was built as a\
   \ yacht for John Aspden of Lytham. <em>Ziska</em> spent her early life in the Irish\
@@ -207,34 +208,42 @@ full_description: "<p><em>Ziska</em> was launched at Arnside on 28th January 190
   \ Short listed for the Classic Boat Restoration (under 40 foot) of the Year Award\
   \ and the Gstaad Yacht Club Centenarian of the Year</p>\n<p>2021 &nbsp;An electric\
   \ engine operated by lithium &nbsp;batteries fitted (Torqeedo Cruise10 pod drive)</p>"
-generic_type: Yacht
+builder:
+  name: Crossfield Bros.
+  id: 1490f054-b323-4ef5-961c-9026f880c340
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.5052426237503047
-  draft: 1.5240185320653499
-  fore_triangle_base: 8.53450377956596
-  fore_triangle_height: 8.53450377956596
-  length_on_waterline: 10.36332601804438
-  length_over_all: 11.582540843696659
   main:
     foot: 7.924896366739819
     head: 7.924896366739819
     luff: 6.0960741282613995
   thcf: 1.070029758
+  draft: 1.5240185320653499
+  length_over_all: 11.582540843696659
+  fore_triangle_base: 8.53450377956596
+  length_on_waterline: 10.36332601804438
+  fore_triangle_height: 8.53450377956596
 home_country: USA
 home_port: Port Townsend, WA
 hull_form: long keel deep forefoot
 id: 03022189-f256-47b4-9876-b91171b57563
 length_on_deck: 11.5824
-mainsail_type: gaff
-name: Ziska
-oga_no: 717
+callsign: ''
 place_built: Arnside
-rig_type: Cutter
-short_description: Built by Crossfields, Arnside, in 1903 <i>Ziska</i> is now based
-  on the west coast of America. In 2019 she took part in the Race to Alaska. Ashley
-  Butler, one of the country&#39;s leading wooden boatbuilders sailed her across the
-  Atlantic in 1999.
 updated_at: '2021-06-19T18:53:25.245698+00:00'
 website: https://www.facebook.com/svZiska/
 year: 1903
 year_is_approximate: false
+image_key: JvwdC5
+construction_details: Larch on oak carvel
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

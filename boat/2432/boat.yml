@@ -1,35 +1,42 @@
-builder: 3239a48c-c63d-4b6b-b801-789d97d559fc
-callsign: ''
+name: Sally May
+oga_no: 2432
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: c/o Gannon & Benjamin Marine Railway, Box 1095, Vineyard Haven,
+  Martha's Vineyard, Massachusetts 02568 USA
+builder:
+  name: Gannon & Benjamin Marine Railway
+  id: 3239a48c-c63d-4b6b-b801-789d97d559fc
+designer:
+  name: Nathaniel P. Benjamin
+  id: 446c8e0f-fa69-474c-9bcf-857e6d8c8789
 construction_material: wood
 construction_method: unknown
-designer: 446c8e0f-fa69-474c-9bcf-857e6d8c8789
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: c/o Gannon & Benjamin Marine Railway, Box 1095, Vineyard Haven,
-  Martha's Vineyard, Massachusetts 02568 USA
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
   draft: 1.21921482565228
-  length_on_waterline: 6.705681541087539
   length_over_all: 7.720677883443062
+  length_on_waterline: 6.705681541087539
 home_country: 'null'
 home_port: Menemsha, Martha's Vineyard
 hull_form: unknown
 id: 242b9d84-1bbc-45d2-97d2-7e1c3b05ccc8
 length_on_deck: 7.7206
-mainsail_type: gaff
-name: Sally May
-oga_no: 2432
+callsign: ''
 ownerships:
 - name: James V Taylor
   share: 64
   start: 2012
 place_built: Martha's Vineyard
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:38.525123+00:00'
 website: ''
 year: 1982
 year_is_approximate: false
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

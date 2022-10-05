@@ -1,33 +1,40 @@
-builder: 347c546e-3993-427a-af8c-944c0fa5b105
-callsign: ''
+name: Johanne IV
+oga_no: 1149
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: R. Jones
+  id: 347c546e-3993-427a-af8c-944c0fa5b105
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 construction_material: wood
 construction_method: unknown
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.8593026091197267
-  length_on_waterline: 4.602535966837356
   length_over_all: 4.87685930260912
+  length_on_waterline: 4.602535966837356
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: c6eedd64-36df-4494-b46c-19b4e9c91165
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Johanne IV
-oga_no: 1149
+callsign: ''
 ownerships:
 - name: J B Newton
   share: 64
   start: 2012
 place_built: Maldon
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:03.022883+00:00'
 website: ''
 year: 1971
 year_is_approximate: false
+beam: 1.8593
+for_sale_state:
+  text: not_for_sale

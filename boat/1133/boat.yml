@@ -1,34 +1,43 @@
-builder: ff7b1629-680c-4aec-8744-70c7fea1a636
-callsign: ''
+name: Idler
+oga_no: 1133
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 84/4
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
 construction_material: wood
 construction_method: unknown
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: Log 84/4
-generic_type: unknown
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.3716166788588149
-  length_on_waterline: 8.22970007315289
   length_over_all: 10.36332601804438
+  length_on_waterline: 8.22970007315289
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 5f65cc43-c09f-4bd1-881a-b8e7a4b03540
 length_on_deck: 10.3632
-mainsail_type: gaff
-name: Idler
-oga_no: 1133
+reference:
+- Log 84/4
+callsign: ''
 ownerships:
 - name: H B Trevelyan
   share: 64
   start: 2012
 place_built: Arnside
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:02.480634+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

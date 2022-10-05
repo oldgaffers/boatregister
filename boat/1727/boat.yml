@@ -1,40 +1,52 @@
-builder: 2e21306b-23dc-407a-ae70-31f933bdcc9c
-callsign: ''
+name: Ana Cristina
+oga_no: 1727
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: For sale on web 2005
+builder:
+  name: Morgan Giles Ltd.
+  id: 2e21306b-23dc-407a-ae70-31f933bdcc9c
+designer:
+  name: Morgan Giles
+  id: f1bc585c-9638-4fd8-8fc7-f382b028513c
 construction_material: wood
 construction_method: clinker
-designer: f1bc585c-9638-4fd8-8fc7-f382b028513c
 draft: 0.3566
 engine_installations: []
 for_sales: []
-full_description: For sale on web 2005
-generic_type: unknown
 handicap_data:
   beam: 1.777005608388198
-  draft: 0.35662033650329183
-  fore_triangle_base: 2.8956352109241648
-  fore_triangle_height: 4.419653742989515
-  length_on_waterline: 4.87685930260912
-  length_over_all: 5.029261155815655
   main:
     foot: 2.9840282857839546
     head: 3.2522555474274566
     luff: 2.3378444281882467
   thcf: 0.807049941
+  draft: 0.35662033650329183
+  length_over_all: 5.029261155815655
+  fore_triangle_base: 2.8956352109241648
+  length_on_waterline: 4.87685930260912
+  fore_triangle_height: 4.419653742989515
 home_country: 'null'
 home_port: Burnham on Crouch
 hull_form: unknown
 id: f97fd63e-da01-4545-929d-4d8540622a2a
 length_on_deck: 5.0292
-mainsail_type: gaff
-name: Ana Cristina
-oga_no: 1727
+sail_number: '1727'
+callsign: ''
 ownerships:
 - name: Graeme J & Linda Leaper
   share: 64
   start: 2003
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:18.781899+00:00'
 website: ''
 year: 1940
 year_is_approximate: false
+previous_names:
+- Heather Alice
+- Auburn
+construction_details: Clinker Mahogany on oak
+beam: 1.777
+for_sale_state:
+  text: not_for_sale

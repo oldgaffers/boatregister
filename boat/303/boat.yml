@@ -1,34 +1,41 @@
-builder: 0f8da7d1-c192-4b72-8390-464b93d1924e
-callsign: ''
+name: Mascotte W
+oga_no: 303
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: C.W. Manly
+  id: 0f8da7d1-c192-4b72-8390-464b93d1924e
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: unknown
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
 draft: 1.3411
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.529870763228481
   draft: 1.341136308217508
-  length_on_waterline: 6.766642282370153
   length_over_all: 7.254328212631066
+  length_on_waterline: 6.766642282370153
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 67bd99bf-652a-41ac-92bf-42e5367322ad
 length_on_deck: 7.2542
-mainsail_type: gaff
-name: Mascotte W
-oga_no: 303
+callsign: ''
 ownerships:
 - name: C B Born
   share: 64
   start: 2012
 place_built: Rochester
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:38.609141+00:00'
 website: ''
 year: 1961
 year_is_approximate: false
+beam: 2.5298
+for_sale_state:
+  text: not_for_sale

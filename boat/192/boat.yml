@@ -1,11 +1,11 @@
-builder: 95af8096-5755-46ff-980e-f382837e729c
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: e7b7b001-2a40-409b-8d10-8c5c9995d9db
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Bird of Dawning
+oga_no: 192
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Bird of Dawning&#39; is a smack yacht, built for H Kemloe
+  and launched on 17 July 1937. She&#39;s designed on the lines of an Essex oyster
+  smack.</p>
 full_description: "<p>&#39;Bird of Dawning&#39; was launched in 1937 at Paglesham\
   \ in Essex, and was built by Frank Shuttlewood in the old black shed (constructed\
   \ partly out of the timber from Darwin&rsquo;s &#39;Beagle&#39;) that still stands\
@@ -27,20 +27,29 @@ full_description: "<p>&#39;Bird of Dawning&#39; was launched in 1937 at Paglesha
   \ are by Steve Hall of North Sea Sails in Tollesbury, and all traditionally finished.\
   \ Her cruising grounds are the Thames estuary, the Channel and the nearby continental\
   \ coasts.</p>"
-generic_type: Yacht
+builder:
+  name: Frank W. Shuttlewood and Son
+  id: 95af8096-5755-46ff-980e-f382837e729c
+designer:
+  name: Frank W. Shuttlewood
+  id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8194342843208973
   draft: 1.4630577907827358
-  length_on_waterline: 7.894415996098512
   length_over_all: 9.266032674957327
+  length_on_waterline: 7.894415996098512
 home_country: GBR
 home_port: Hollowshore
 hull_form: long keel deep forefoot
 id: 55b655ce-5ed0-493a-a2b6-ecbaf7a546c8
 length_on_deck: 9.272
-mainsail_type: gaff
-name: Bird of Dawning
-oga_no: 192
+uk_part1: '359834'
+callsign: ''
 ownerships:
 - name: H Kemloe
   share: 64
@@ -61,17 +70,18 @@ ownerships:
   name: Chris and Sue Briggs
   share: 64
   start: 1993
-- current: true
-  id: 107
-  member: 1916
+- id: 107
   share: 64
   start: 1997
+  member: 1916
+  current: true
 place_built: Paglesham
-rig_type: Cutter
-short_description: <p>&#39;Bird of Dawning&#39; is a smack yacht, built for H Kemloe
-  and launched on 17 July 1937. She&#39;s designed on the lines of an Essex oyster
-  smack.</p>
 updated_at: '2021-12-19T13:38:35.147157+00:00'
 website: ''
 year: 1937
 year_is_approximate: false
+image_key: ZjfvJZ
+construction_details: Carvel, pitch pine on oak
+beam: 2.8194
+for_sale_state:
+  text: not_for_sale

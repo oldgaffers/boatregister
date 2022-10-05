@@ -1,27 +1,34 @@
-builder: 10245c61-c11c-41ff-8ad8-7fa0b9de0a60
-callsign: ''
+name: Halekalani
+oga_no: 3104
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: Spent most of her time on the Alde Suffolk
+full_description: ''
+builder:
+  name: Eyemouth Boatbuilding Co.
+  id: 10245c61-c11c-41ff-8ad8-7fa0b9de0a60
+designer:
+  name: Francis Jones/Eyemouth Boat Building Co.
+  id: f455beb1-cf16-4328-b776-0a110ce0f572
 construction_material: wood
 construction_method: unknown
-designer: f455beb1-cf16-4328-b776-0a110ce0f572
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.5814618385759567
   draft: 1.3716288710070714
-  length_on_waterline: 9.1441111923921
   length_over_all: 9.525121921482565
   length_over_spars: 9.525121921482565
+  length_on_waterline: 9.1441111923921
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 6f764079-a28d-4ddd-aaa0-8a40592c046c
 length_on_deck: 9.525
-mainsail_type: gaff
-name: Halekalani
-oga_no: 3104
+uk_part1: '306938'
+callsign: ''
 ownerships:
 - end: 1979
   name: A.S. Dick
@@ -39,15 +46,21 @@ ownerships:
   name: Nigel D Sheffield
   share: 64
   start: 1988
-- current: true
-  id: 25
-  member: 724
+- id: 25
   share: 64
   start: 2011
+  member: 724
+  current: true
 place_built: Eyemouth
-rig_type: Ketch
-short_description: Spent most of her time on the Alde Suffolk
 updated_at: '2021-12-19T13:39:57.942677+00:00'
 website: ''
 year: 1967
 year_is_approximate: false
+construction_details: Iroko bottom, larch topsides on Grown oak timbers. galvanised
+  iron spikes, sheathed marine ply decks
+beam: 3.5814
+design_class:
+  name: Inchcape
+  id: f6fee22b-1363-4e51-b027-0ede69601dd7
+for_sale_state:
+  text: not_for_sale

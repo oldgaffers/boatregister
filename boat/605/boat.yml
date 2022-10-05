@@ -1,34 +1,41 @@
-builder: a6f5d0ec-34af-4039-ab45-796fe0858f34
-callsign: ''
+name: White Seal
+oga_no: 605
+generic_type: Wherry
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Allen
+  id: a6f5d0ec-34af-4039-ab45-796fe0858f34
+designer:
+  name: Allen
+  id: d31eab4c-acb3-4ecb-ab62-45f9878c0988
 construction_material: wood
 construction_method: unknown
-designer: d31eab4c-acb3-4ecb-ab62-45f9878c0988
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Wherry
 handicap_data:
   beam: 4.114850036576445
   draft: 1.3716166788588149
-  length_on_waterline: 13.716166788588149
   length_over_all: 13.716166788588149
+  length_on_waterline: 13.716166788588149
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: d6c92d3c-0acb-4bed-864e-56a698c9ae58
 length_on_deck: 13.716
-mainsail_type: gaff
-name: White Seal
-oga_no: 605
+callsign: ''
 ownerships:
 - name: G West
   share: 64
   start: 2012
 place_built: Coltishall
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:47.168147+00:00'
 website: ''
 year: 1890
 year_is_approximate: false
+beam: 4.1148
+for_sale_state:
+  text: not_for_sale

@@ -1,32 +1,42 @@
-builder: b01b49bb-0543-4336-bbe8-1a4cf5f8dacf
-callsign: ''
+name: Chevron
+oga_no: 3176
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gunter
+short_description: <p>Fisher 25 with gunter main and Bermudan mizzen</p>
+full_description: ''
+builder:
+  name: Langstone Marine Ltd.
+  id: b01b49bb-0543-4336-bbe8-1a4cf5f8dacf
+designer:
+  name: D Freeman/G. Wyatt
+  id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 construction_material: wood
 construction_method: unknown
-designer: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 draft: 1.1674
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  length_on_waterline: 6.4008
   length_overall: 7.7206
+  length_on_waterline: 6.4008
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: d46a8cd7-b5c2-45b6-89c5-ee61717f276e
 length_on_deck: 7.7206
-mainsail_type: gunter
-name: Chevron
-oga_no: 3176
+callsign: ''
 ownerships:
 - name: D.M. Brown
   share: 64
   start: 1985
 place_built: Portsmouth
-rig_type: Ketch
-short_description: <p>Fisher 25 with gunter main and Bermudan mizzen</p>
 updated_at: '2021-12-19T13:40:03.213378+00:00'
 website: ''
 year: 1976
 year_is_approximate: false
+beam: 2.7432
+design_class:
+  name: Fisher 25
+  id: 27f7bbea-b7af-4070-9db6-7bd9ab0ae0a6
+for_sale_state:
+  text: not_for_sale

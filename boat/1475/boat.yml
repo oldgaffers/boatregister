@@ -1,34 +1,41 @@
-builder: 215fd85d-ecfb-482e-bc40-5d1cd29e9e02
-callsign: ''
+name: Garlandstone
+oga_no: 1475
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: James Goss
+  id: 215fd85d-ecfb-482e-bc40-5d1cd29e9e02
+designer:
+  name: J. Goss
+  id: 69467a64-ae1f-4a85-b1c8-871eab1c1c8c
 construction_material: wood
 construction_method: unknown
-designer: 69467a64-ae1f-4a85-b1c8-871eab1c1c8c
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 6.0960741282613995
   draft: 1.066812972445745
-  length_on_waterline: 21.945866861741038
   length_over_all: 24.689100219458666
+  length_on_waterline: 21.945866861741038
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: c990ab6f-17bc-4a36-9420-0c5c60315ad1
 length_on_deck: 24.6888
-mainsail_type: gaff
-name: Garlandstone
-oga_no: 1475
+callsign: ''
 ownerships:
 - name: R Le Marchant
   share: 64
   start: 2012
 place_built: Calstock
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:12.426249+00:00'
 website: ''
 year: 1909
 year_is_approximate: false
+beam: 6.096
+for_sale_state:
+  text: not_for_sale

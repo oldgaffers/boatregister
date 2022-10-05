@@ -1,48 +1,58 @@
-callsign: ''
+name: Sugar Creek
+oga_no: 556
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Sugar Creek&#39; is a 30&#39; Colin Archer design. She
+  took part in the first East Coast Old Gaffers Race in 1963.</p>
+full_description: Log 68/5, 89/3
+designer:
+  name: Colin Archer
+  id: 7e919cb2-8404-432d-a57a-3b17cfd38e60
 construction_material: wood
 construction_method: carvel
-designer: 7e919cb2-8404-432d-a57a-3b17cfd38e60
 draft: 1.585
 engine_installations: []
 for_sales: []
-full_description: Log 68/5, 89/3
-generic_type: unknown
 handicap_data:
   beam: 3.2004389173372347
-  draft: 1.584979273347964
-  fore_triangle_base: 5.4864667154352595
-  fore_triangle_height: 10.36332601804438
-  length_on_waterline: 8.83930748597903
-  length_over_all: 9.1441111923921
   main:
     foot: 5.18166300902219
     head: 4.87685930260912
     luff: 4.57205559619605
   thcf: 0.9780445
+  draft: 1.584979273347964
   topsail:
     luff: 5.4864667154352595
     perpendicular: 2.43842965130456
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 5.4864667154352595
+  length_on_waterline: 8.83930748597903
+  fore_triangle_height: 10.36332601804438
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 468d4b1e-68a4-408b-95ca-9692997308cd
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Sugar Creek
-oga_no: 556
+reference:
+- Log 68/5
+- Log 89/3
+callsign: ''
 ownerships:
 - note: Owned by Mike Peyton in the 1960s.
+  text: Owned by Mike Peyton in the
   start: 1960
   start_is_approximate: false
-  text: Owned by Mike Peyton in the
 - name: C K Doyle
   share: 64
   start: 2012
 place_built: Larvik, Norway
-rig_type: Cutter
-short_description: <p>&#39;Sugar Creek&#39; is a 30&#39; Colin Archer design. She
-  took part in the first East Coast Old Gaffers Race in 1963.</p>
 updated_at: '2021-12-19T13:38:45.710649+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+image_key: bmJvX6
+construction_details: Oak, carvel
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

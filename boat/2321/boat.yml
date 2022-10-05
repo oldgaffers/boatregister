@@ -1,10 +1,10 @@
-builder: 3a6522fb-8ee7-425e-b54d-c206dcc6f36a
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 0.9906
-engine_installations: []
-for_sales: []
+name: Dragonfly
+oga_no: 2321
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Norfolk Broads Yacht, &#39;Dragonfly&#39; was built by Bunn
+  in 1905.</p>
 full_description: "<p>First published in Gaffers Log, November 2018</p>\r\n\r\n<blockquote>\r\
   \n<p>&#39;Dragonfly&#39; was built 1905 Herbert Bunn, Wroxham, Norfolk to the highest\
   \ standards for Stanley Day a Norwich actuary. She was constructed of Russian redwood\
@@ -41,7 +41,14 @@ full_description: "<p>First published in Gaffers Log, November 2018</p>\r\n\r\n<
   \ the marked weather helm when well heeled, presumably due to the changed waterplane.\
   \ The keel also had pieces added to the fore and aft edges.</p>\r\n</blockquote>\r\
   \n\r\n<h4>Nicholas Hall, OGA East Coast</h4>"
-generic_type: Yacht
+builder:
+  name: Bunn
+  id: 3a6522fb-8ee7-425e-b54d-c206dcc6f36a
+construction_material: wood
+construction_method: unknown
+draft: 0.9906
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.3528407705437697
   draft: 0.9906120458424774
@@ -51,18 +58,17 @@ home_port: ''
 hull_form: unknown
 id: 3b05a058-13af-4c88-a071-b5c1cd424962
 length_on_deck: 12.1402
-mainsail_type: gaff
-name: Dragonfly
-oga_no: 2321
+callsign: ''
 ownerships:
 - name: Chris Dowsett
   share: 64
   start: 2012
 place_built: Great Yarmouth
-rig_type: Sloop
-short_description: <p>Norfolk Broads Yacht, &#39;Dragonfly&#39; was built by Bunn
-  in 1905.</p>
 updated_at: '2021-12-19T13:39:34.961124+00:00'
 website: ''
 year: 1905
 year_is_approximate: false
+image_key: w4CjtJ
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

@@ -1,34 +1,45 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
+name: Sarine
+oga_no: 1495
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 construction_material: wood
 construction_method: carvel
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
   draft: 1.066812972445745
-  length_on_waterline: 7.924896366739819
   length_over_all: 8.53450377956596
+  length_on_waterline: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 0905f821-cd81-4ab3-8579-206c352131da
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Sarine
-oga_no: 1495
+uk_part1: '149587'
+callsign: ''
 ownerships:
 - name: Peter Davies
   share: 64
   start: 1988
 place_built: Littlehampton
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:12.99289+00:00'
 website: ''
 year: 1927
 year_is_approximate: false
+previous_names:
+- Evelina
+construction_details: Carvel
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

@@ -1,9 +1,12 @@
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 1.2954
-engine_installations: []
-for_sales: []
+name: Gracie
+oga_no: 46
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Gracie&#39; spent her first 20 years off Clacton Beach,
+  and was registered in 1910 to fish CK81. She worked out of Brightlingsea and Mersea
+  and in 1934 was registered MN22. She moved to Maldon where she was decked in and
+  1947 found her registered as CK46.</p>
 full_description: "<p>&#39;Gracie&#39; is one of the well-known racing smacks of the\
   \ East Coast.</p>\r\n\r\n<p>According to a report by Jon Wainwright in the OGA Newsletter\
   \ 1987/4 (forerunner to the Gaffers Log), &#39;Gracie&#39; won the Tendring Coast\
@@ -21,30 +24,32 @@ full_description: "<p>&#39;Gracie&#39; is one of the well-known racing smacks of
   \ to Billingsgate.</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\"\
   \ height=\"360\" src=\"https://www.youtube.com/embed/ZOJDR2zziL0\" width=\"640\"\
   ></iframe></p>"
-generic_type: unknown
+construction_material: wood
+construction_method: carvel
+draft: 1.2954
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8956352109241648
-  draft: 1.2954157522555474
-  fore_triangle_base: 7.620092660326749
-  fore_triangle_height: 8.83930748597903
-  length_on_waterline: 9.1441111923921
-  length_over_all: 10.972933430870519
   main:
     foot: 7.620092660326749
     head: 5.18166300902219
     luff: 5.4864667154352595
+  thcf: 1.041
+  draft: 1.2954157522555474
+  sailarea: 73.85735982299205
   propellor:
     type: fixed
-  sailarea: 73.85735982299205
-  thcf: 1.041
+  length_over_all: 10.972933430870519
+  fore_triangle_base: 7.620092660326749
+  length_on_waterline: 9.1441111923921
+  fore_triangle_height: 8.83930748597903
 home_country: GBR
 home_port: West Mersea
 hull_form: long keel deep forefoot
 id: f890c0ad-b637-493f-afc7-49dd686df92e
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Gracie
-oga_no: 46
+callsign: ''
 ownerships:
 - end: 2012
   name: David Green
@@ -54,12 +59,12 @@ ownerships:
   share: 64
   start: 2012
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: <p>&#39;Gracie&#39; spent her first 20 years off Clacton Beach,
-  and was registered in 1910 to fish CK81. She worked out of Brightlingsea and Mersea
-  and in 1934 was registered MN22. She moved to Maldon where she was decked in and
-  1947 found her registered as CK46.</p>
 updated_at: '2021-12-19T13:38:31.018657+00:00'
 website: ''
 year: 1890
 year_is_approximate: false
+image_key: 5pKzpc
+construction_details: Carvel Larch on oak
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

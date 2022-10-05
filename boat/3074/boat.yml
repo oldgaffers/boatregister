@@ -1,41 +1,53 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Sparrow
+oga_no: 3074
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.4816
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.1854425749817117
-  draft: 0.45720555961960496
-  draft_keeldown: 1.21921482565228
-  fore_triangle_base: 2.560351133869788
-  fore_triangle_height: 4.599487929773225
-  length_on_waterline: 5.318824676908071
-  length_over_all: 5.867471348451597
   main:
     foot: 3.5052426237503047
     head: 3.0846135089002678
     luff: 3.3528407705437697
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.820163962
+  draft: 0.45720555961960496
+  propellor:
+    type: fixed
+    blades: 3
+  draft_keeldown: 1.21921482565228
+  length_over_all: 5.867471348451597
+  fore_triangle_base: 2.560351133869788
+  length_on_waterline: 5.318824676908071
+  fore_triangle_height: 4.599487929773225
 home_country: 'null'
 home_port: ''
 hull_form: centre-boarder
 id: af72a4df-49f1-44fb-996b-1a37272af2f5
 length_on_deck: 5.8674
-mainsail_type: gaff
-name: Sparrow
-oga_no: 3074
+spar_material: wood
+callsign: ''
 place_built: Rock
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-26T07:56:30.213657+00:00'
 website: ''
 year: 2011
 year_is_approximate: false
+construction_details: GRP
+beam: 2.1854
+design_class:
+  name: Cornish Shrimper
+  id: 7caf07ef-acf3-434b-a639-5c94188071a8
+for_sale_state:
+  text: not_for_sale

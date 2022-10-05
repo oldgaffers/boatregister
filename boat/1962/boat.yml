@@ -1,13 +1,21 @@
-builder: c31a2564-db7c-430a-b928-9cf48fe4c180
-callsign: ''
+name: Redstart
+oga_no: 1962
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Water Craft Nov/Dec 1997 CB Jun 91
+builder:
+  name: Chris Libby
+  id: c31a2564-db7c-430a-b928-9cf48fe4c180
+designer:
+  name: Chris Libby
+  id: 58e6262e-9b6e-4a90-a722-3cc34a6e748e
 construction_material: wood
 construction_method: unknown
-designer: 58e6262e-9b6e-4a90-a722-3cc34a6e748e
 draft: 0.381
 engine_installations: []
 for_sales: []
-full_description: Water Craft Nov/Dec 1997 CB Jun 91
-generic_type: unknown
 handicap_data:
   beam: 1.7526213118751524
   draft: 0.38100463301633747
@@ -17,17 +25,16 @@ home_port: Brightlingsea
 hull_form: unknown
 id: f1f905c9-0dfb-40fe-834a-4cba0710bcce
 length_on_deck: 5.0292
-mainsail_type: gaff
-name: Redstart
-oga_no: 1962
+callsign: ''
 ownerships:
 - name: Tony Jones
   share: 64
   start: 2012
 place_built: Penryn
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:25.437148+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+beam: 1.7526
+for_sale_state:
+  text: not_for_sale

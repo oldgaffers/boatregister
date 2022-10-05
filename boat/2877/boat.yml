@@ -1,42 +1,50 @@
-builder: 4fd386d1-a792-4ce1-9032-3171744a4528
-callsign: ''
+name: Albatros
+oga_no: 2877
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Vels/Scholten
+  id: 4fd386d1-a792-4ce1-9032-3171744a4528
+designer:
+  name: Van der Stadt
+  id: 832dfefc-1a13-43a0-b4bd-597e0a3df0a4
 construction_material: grp
 construction_method: cold_moulded
-designer: 832dfefc-1a13-43a0-b4bd-597e0a3df0a4
 draft: 1.3015
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.9014874420872956
-  draft: 1.3015118263838086
-  fore_triangle_base: 7.79992684711046
-  fore_triangle_height: 12.000121921482563
-  length_on_waterline: 11.899536698366251
-  length_over_all: 12.499999999999998
   main:
     foot: 8.001097293343086
     head: 5.248719824433064
     luff: 8.199219702511582
+  thcf: 1.084114974
+  draft: 1.3015118263838086
   propellor:
     type: folding
-  thcf: 1.084114974
+  length_over_all: 12.499999999999998
+  fore_triangle_base: 7.79992684711046
+  length_on_waterline: 11.899536698366251
+  fore_triangle_height: 12.000121921482563
 home_country: NLD
 home_port: Krommenie
 hull_form: long keel sloping forefoot
 id: d7ed3cc0-67c4-4458-920e-1be9fcf6a317
 length_on_deck: 12.4998
-mainsail_type: gaff
-name: Albatros
-oga_no: 2877
+callsign: ''
 ownerships:
 - name: Jos Scholten
   share: 64
   start: 2005
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:52.068126+00:00'
 website: ''
 year: 2005
 year_is_approximate: false
+construction_details: Wood core GRP
+beam: 3.9014
+for_sale_state:
+  text: not_for_sale

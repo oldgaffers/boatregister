@@ -1,50 +1,60 @@
-builder: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
-callsign: ''
+name: Daisy Bell
+oga_no: 2451
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Douglas Stone and Sons
+  id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
+designer:
+  name: Stone Bros.
+  id: e33e7b08-e429-4aa9-a8b9-8e5c88cf2559
 construction_material: wood
 construction_method: carvel
-designer: e33e7b08-e429-4aa9-a8b9-8e5c88cf2559
 draft: 1.4478
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 3.0480370641306997
-  draft: 1.4478176054620824
-  fore_triangle_base: 7.315288953913679
-  fore_triangle_height: 6.858083394294074
-  length_on_waterline: 8.482687149475737
-  length_over_all: 9.75371860521824
   main:
     foot: 7.010485247500609
     head: 4.57205559619605
     luff: 5.18166300902219
+  thcf: 0.979962339
+  draft: 1.4478176054620824
   propellor:
     type: fixed
-  thcf: 0.979962339
+  length_over_all: 9.75371860521824
+  fore_triangle_base: 7.315288953913679
+  length_on_waterline: 8.482687149475737
+  fore_triangle_height: 6.858083394294074
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: dbe81adb-3892-4ea2-b762-b8be939a14d0
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Daisy Bell
-oga_no: 2451
+spar_material: wood
+callsign: ''
 ownerships:
-- end: 2021
-  id: 94
-  member: 1800
+- id: 94
+  end: 2021
   share: 64
   start: 1988
-- current: true
-  id: 494
-  member: 4704
+  member: 1800
+- id: 494
   share: 64
   start: 2021
+  member: 4704
+  current: true
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: ''
 updated_at: '2022-05-10T19:25:20.41547+00:00'
 website: ''
 year: 1895
 year_is_approximate: false
+image_key: B4qZdf
+construction_details: Carvel
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

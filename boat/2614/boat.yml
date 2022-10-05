@@ -1,52 +1,60 @@
-builder: b7420e2c-a550-41ea-a917-cf0885017bb6
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: cea4384d-d154-4721-8412-b74b1ae4627a
-draft: 1.0973
-engine_installations: []
-for_sales: []
+name: Cachalot
+oga_no: 2614
+generic_type: Morecambe Bay Prawner
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Cachalot&#39;, French for sperm whale, was built in 1930
+  for Jack Mount of Morecambe.</p>
 full_description: "<p>Cachalot&#39;s first owner, George Mount of Morecambe, registered\
   \ her LR13 on 14 July 1930 until she transferred to Parkgate on 1 November 1934\
   \ when Bill Higgins worked her registered CH10, out of Heswall. The Higgins family\
   \ worked her from 1938 until 1988 and she came up for sale in 1994.</p>\r\n\r\n\
   <p>Andy Williams spent seven years rebuilding her, finishing in 2003.</p>"
-generic_type: Morecambe Bay Prawner
+builder:
+  name: Limit Motor Boat Co.
+  id: b7420e2c-a550-41ea-a917-cf0885017bb6
+designer:
+  name: Richard Ingram
+  id: cea4384d-d154-4721-8412-b74b1ae4627a
+construction_material: wood
+construction_method: carvel
+draft: 1.0973
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.2309192879785416
-  draft: 1.097293343087052
-  fore_triangle_base: 6.224091684954889
-  fore_triangle_height: 9.195927822482322
-  length_on_waterline: 9.1441111923921
-  length_over_all: 10.515727871250913
   main:
     foot: 6.6294806144842715
     head: 5.4864667154352595
     luff: 4.87685930260912
+  thcf: 1.000212097
+  draft: 1.097293343087052
   propellor:
     type: folding
-  thcf: 1.000212097
+  length_over_all: 10.515727871250913
+  fore_triangle_base: 6.224091684954889
+  length_on_waterline: 9.1441111923921
+  fore_triangle_height: 9.195927822482322
 home_country: GBR
 home_port: Conwy
 hull_form: long keel sloping forefoot
 id: fee6df53-59b6-4662-b9d7-99b3f6e3ae57
 length_on_deck: 10.5156
-mainsail_type: gaff
-name: Cachalot
-oga_no: 2614
+callsign: ''
 ownerships:
 - name: Andy Williams
   share: 64
   start: 1996
-- current: true
+- share: 64
   member: 5669
-  share: 64
+  current: true
   start: '?'
 place_built: Barrow in Furness
-rig_type: Cutter
-short_description: <p>&#39;Cachalot&#39;, French for sperm whale, was built in 1930
-  for Jack Mount of Morecambe.</p>
 updated_at: '2021-12-19T13:39:44.329642+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+construction_details: Larch plank on sawn oak frames, carvel construction.
+beam: 3.2309
+for_sale_state:
+  text: not_for_sale

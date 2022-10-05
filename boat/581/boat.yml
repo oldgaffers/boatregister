@@ -1,11 +1,13 @@
-builder: 6ced1275-959c-45e4-8612-f83f0e6ecc9c
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: e329381c-42a8-4a55-a368-cea5b8a1575b
-draft: 1.6764
-engine_installations: []
-for_sales: []
+name: Undine
+oga_no: 581
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Undine&#39; was built 1889 at Menai Straits, by G Edwards
+  to the design of the original owner J.H.Cousins. Typical of her time, she was a
+  &quot;plank on edge&quot; gaff cutter, with clipper bow, narrow beam and heavy lead
+  keel to keep her upright. Her original length on deck was 33&#39;, increased to
+  35&#39; by the addition of 2&#39; to her counter.</p>
 full_description: "<p>&#39;Undine&#39; was originally kept at Caernarfon by her first\
   \ owned J.H.Cousins. She remained in the Mersey area until 1905, when she changed\
   \ hands and moved to Burnham on Crouch. The following year she was sold to Army\
@@ -71,29 +73,37 @@ full_description: "<p>&#39;Undine&#39; was originally kept at Caernarfon by her 
   \ on a few years, &#39;Undine&#39; had been lying at Downs Road Boatyard, Maldon,\
   \ Essex and the yard wanted to dispose of her so Nick Temple bought her back in\
   \ 2018 and is moving her to his mill in Suffolk.</p>"
-generic_type: Yacht
+builder:
+  name: G. Edwards
+  id: 6ced1275-959c-45e4-8612-f83f0e6ecc9c
+designer:
+  name: J.H. Cousins
+  id: e329381c-42a8-4a55-a368-cea5b8a1575b
+construction_material: wood
+construction_method: unknown
+draft: 1.6764
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.3774689100219457
   draft: 1.6764203852718849
-  length_on_waterline: 8.382101926359423
   length_over_all: 9.75371860521824
+  length_on_waterline: 8.382101926359423
 home_country: GBR
 home_port: Suffolk
 hull_form: long keel deep forefoot
 id: 2dff0d66-88ab-4cdc-a319-bbd382dccc2b
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Undine
-oga_no: 581
+callsign: ''
 ownerships:
 - end: 1905
   name: J.H.Cousins
   share: 64
   start: 1889
 - note: Arnold Hood and Harry Tricker Late 1930's to 1956
+  text: Arnold Hood and Harry Tricker Late
   start: 1930
   start_is_approximate: false
-  text: Arnold Hood and Harry Tricker Late
 - end: 1962
   name: A.W.F. Hunt and K Cocksedge
   share: 64
@@ -108,9 +118,9 @@ ownerships:
   start: 1967
 - note: Advertised for sale by I Spicer of Bristol in 1973, lying at Pill, Avonmouth.
     and bought by Philip Meakin in 1974
+  text: Advertised for sale by I Spicer of Bristol in
   start: 1973
   start_is_approximate: false
-  text: Advertised for sale by I Spicer of Bristol in
 - end: 2018
   name: J Gilbert and C Robinson
   share: 64
@@ -118,19 +128,20 @@ ownerships:
 - name: Nick Temple
   share: 64
   start: 2018
-- current: true
-  id: 119
-  member: 2032
+- id: 119
   share: 64
+  member: 2032
+  current: true
   start: '?'
 place_built: Menai Bridge
-rig_type: Cutter
-short_description: <p>&#39;Undine&#39; was built 1889 at Menai Straits, by G Edwards
-  to the design of the original owner J.H.Cousins. Typical of her time, she was a
-  &quot;plank on edge&quot; gaff cutter, with clipper bow, narrow beam and heavy lead
-  keel to keep her upright. Her original length on deck was 33&#39;, increased to
-  35&#39; by the addition of 2&#39; to her counter.</p>
 updated_at: '2021-12-19T13:38:46.435669+00:00'
 website: ''
 year: 1889
 year_is_approximate: false
+image_key: ZRtKwC
+construction_details: Larch Planking on alternate grown and steam bent Oak frames.
+  The fastenings in the grown frames are bronze spikes, and the steamed timbers copper
+  boat nails, turned on inside rather than clenched.
+beam: 2.3774
+for_sale_state:
+  text: not_for_sale

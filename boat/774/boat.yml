@@ -1,11 +1,9 @@
-builder: c75fcaa9-f643-4379-862a-9ca83007e463
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
-draft: 1.2192
-engine_installations: []
-for_sales: []
+name: Cormorant
+oga_no: 774
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: Engineless gaff yawl built 1911 by Lukes of Hamble
 full_description: "<p>&#39;Cormorant&#39; was designed and built by Lukes of Hamble\
   \ in 1911. She was rebuilt by Peter Brookes, then of Maldon. Work included most\
   \ of the sawn oak frames and steamed timbers being replaced. All iron strap floors\
@@ -14,24 +12,32 @@ full_description: "<p>&#39;Cormorant&#39; was designed and built by Lukes of Ham
   \ sails are made by the sailmakers Cormorant Sails.</p>\r\n\r\n<p>After being based\
   \ in Tollesbury, where she was often seen being paddled back to her mooring, she\
   \ returned to Cowes in 2016.</p>"
-generic_type: Yacht
+builder:
+  name: Luke and Co Ltd
+  id: c75fcaa9-f643-4379-862a-9ca83007e463
+designer:
+  name: A.R. Luke
+  id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+construction_material: wood
+construction_method: unknown
+draft: 1.2192
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.286027798098025
-  draft: 1.5240185320653499
-  length_on_waterline: 7.543891733723481
-  length_over_all: 9.1441111923921
   main:
     foot: 4.87685930260912
     head: 3.291880029261156
     luff: 3.6576444769568397
+  draft: 1.5240185320653499
+  length_over_all: 9.1441111923921
+  length_on_waterline: 7.543891733723481
 home_country: GBR
 home_port: Cowes
 hull_form: long keel sloping forefoot
 id: 22735e25-e4fa-42b8-a731-7437083b4e27
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Cormorant
-oga_no: 774
+callsign: ''
 ownerships:
 - end: 2009
   name: D Phillips
@@ -40,14 +46,16 @@ ownerships:
 - name: Steve Meakin
   share: 64
   start: 2009
-- current: true
+- share: 64
   member: 5111
-  share: 64
+  current: true
   start: '?'
 place_built: Hamble
-rig_type: Yawl
-short_description: Engineless gaff yawl built 1911 by Lukes of Hamble
 updated_at: '2021-12-19T13:38:51.900647+00:00'
 website: www.cormorantsails.co.uk
 year: 1911
 year_is_approximate: false
+image_key: wF3WSN
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

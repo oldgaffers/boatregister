@@ -1,34 +1,41 @@
-builder: 034f4f9b-6334-45d7-a0b3-5116da588b30
-callsign: ''
+name: Wild Duck
+oga_no: 608
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: CB Feb 92
+builder:
+  name: R.S. Burt and Son
+  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+designer:
+  name: R.S. Burt
+  id: 3a2bf172-f648-44a1-af0f-0598af8b960b
 construction_material: wood
 construction_method: unknown
-designer: 3a2bf172-f648-44a1-af0f-0598af8b960b
 draft: 1.8288
 engine_installations: []
 for_sales: []
-full_description: CB Feb 92
-generic_type: unknown
 handicap_data:
   beam: 2.834674469641551
   draft: 1.8288222384784198
-  length_on_waterline: 9.75371860521824
   length_over_all: 9.906120458424773
+  length_on_waterline: 9.75371860521824
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 8d81db16-715d-41ac-a65b-8cfd19029313
 length_on_deck: 9.906
-mainsail_type: gaff
-name: Wild Duck
-oga_no: 608
+callsign: ''
 ownerships:
 - name: D T Davies
   share: 64
   start: 2012
 place_built: Falmouth
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:47.232395+00:00'
 website: ''
 year: 1894
 year_is_approximate: false
+beam: 2.8346
+for_sale_state:
+  text: not_for_sale

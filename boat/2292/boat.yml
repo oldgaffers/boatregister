@@ -1,45 +1,58 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Moores Claws
+oga_no: 2292
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.590831504511095
-  draft: 1.066812972445745
-  fore_triangle_base: 4.191050963179712
-  fore_triangle_height: 7.543891733723481
-  length_on_waterline: 6.3246769080712015
-  length_over_all: 7.467690807120214
   main:
     foot: 4.319068519873201
     head: 3.1242379907339672
     luff: 4.596439892709095
+  thcf: 0.882741556
+  draft: 1.066812972445745
   propellor:
     type: fixed
-  thcf: 0.882741556
+  length_over_all: 7.467690807120214
+  fore_triangle_base: 4.191050963179712
+  length_on_waterline: 6.3246769080712015
+  fore_triangle_height: 7.543891733723481
 home_country: 'null'
 home_port: Chichester
 hull_form: long keel deep forefoot
 id: 16591759-5f4d-4b48-8a5b-98b744fc97cb
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Moores Claws
-oga_no: 2292
+callsign: ''
 ownerships:
-- current: true
-  id: 318
-  member: 3769
+- id: 318
   share: 64
   start: 2012
+  member: 3769
+  current: true
 place_built: Rock
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:34.641135+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+previous_names:
+- Sassaby
+construction_details: GRP
+beam: 2.5908
+design_class:
+  name: Cornish Crabber 24
+  id: ff83f69b-9762-4ae5-9681-950b5658ad97
+for_sale_state:
+  text: not_for_sale

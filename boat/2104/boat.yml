@@ -1,34 +1,45 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Karenza
+oga_no: 2104
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Martin Heard
+  id: b1525089-031a-47bc-b7d8-7236987096a7
 construction_material: grp
 construction_method: cold_moulded
-designer: b1525089-031a-47bc-b7d8-7236987096a7
 draft: 0.9449
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.9202633504023408
   draft: 0.944891489880517
-  length_on_waterline: 5.410265788831992
   length_over_all: 5.6388685686417945
+  length_on_waterline: 5.410265788831992
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 6a1adf68-234d-47b0-8378-bbb63bf399bf
 length_on_deck: 5.6388
-mainsail_type: gaff
-name: Karenza
-oga_no: 2104
+callsign: ''
 ownerships:
 - name: R D Little
   share: 64
   start: 1988
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:29.476131+00:00'
 website: ''
 year: 1987
 year_is_approximate: false
+construction_details: GRP hull
+beam: 1.9202
+design_class:
+  name: Tosher 18
+  id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
+for_sale_state:
+  text: not_for_sale

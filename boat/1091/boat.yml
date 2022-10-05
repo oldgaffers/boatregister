@@ -1,44 +1,53 @@
-builder: 539a27b9-5d9f-469c-8d13-f4d56bf23ed7
-callsign: ''
+name: Havsule
+oga_no: 1091
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: "Handicap with dipping lug 0.821 (H 10.17, G 10.75, B 12.75) \r\n\
+  Second rig, sprit sloop, mast in mid thwart, lug yard as sprit, jib, T(H)CF 0.799"
+builder:
+  name: Ian Cooper
+  id: 539a27b9-5d9f-469c-8d13-f4d56bf23ed7
+designer:
+  name: Ian Cooper
+  id: 7d9ba7c1-601c-473a-aa6a-b9bda2b405b6
 construction_material: wood
 construction_method: clinker
-designer: 7d9ba7c1-601c-473a-aa6a-b9bda2b405b6
 draft: 0.5486
 engine_installations: []
 for_sales: []
-full_description: "Handicap with dipping lug 0.821 (H 10.17, G 10.75, B 12.75) \r\n\
-  Second rig, sprit sloop, mast in mid thwart, lug yard as sprit, jib, T(H)CF 0.799"
-generic_type: Yacht
 handicap_data:
   beam: 1.889782979761034
-  draft: 0.548646671543526
-  fore_triangle_base: 1.929407461594733
-  fore_triangle_height: 4.623872226286271
-  length_on_waterline: 5.18166300902219
-  length_over_all: 6.0960741282613995
   main:
     foot: 1.777005608388198
     head: 1.5758351621555717
     luff: 3.8344306266764203
   thcf: 0.801651564
+  draft: 0.548646671543526
+  length_over_all: 6.0960741282613995
+  fore_triangle_base: 1.929407461594733
+  length_on_waterline: 5.18166300902219
+  fore_triangle_height: 4.623872226286271
 home_country: 'null'
 home_port: Bursledon
 hull_form: unknown
 id: a717f64a-b080-4412-9113-85c63e80516b
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Havsule
-oga_no: 1091
+spar_material: wood
+callsign: ''
 ownerships:
-- end: 2002
-  id: 391
-  member: 4150
+- id: 391
+  end: 2002
   share: 64
   start: 1978
+  member: 4150
 place_built: Windermere
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-02-13T14:56:34.266089+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+construction_details: Clinker larch planking on sawn oak frames, copper fastened
+beam: 1.8898
+for_sale_state:
+  text: not_for_sale

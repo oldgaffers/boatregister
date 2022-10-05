@@ -1,33 +1,40 @@
-builder: 77bcf524-6fb2-4948-a27e-ed468216bf83
-callsign: ''
+name: Chanticleer
+oga_no: 234
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: F.G. Douse
+  id: 77bcf524-6fb2-4948-a27e-ed468216bf83
+designer:
+  name: F.G. Douse
+  id: 060f453b-cbe0-43ba-b969-d125f50a5bde
 construction_material: wood
 construction_method: unknown
-designer: 060f453b-cbe0-43ba-b969-d125f50a5bde
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.2004389173372347
-  length_on_waterline: 9.906120458424773
   length_over_all: 9.906120458424773
+  length_on_waterline: 9.906120458424773
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: dcc773c1-616c-4068-a232-37543c3b0a9b
 length_on_deck: 9.906
-mainsail_type: gaff
-name: Chanticleer
-oga_no: 234
+callsign: ''
 ownerships:
 - name: N W Manton
   share: 64
   start: 2012
 place_built: Gravesend
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:36.432629+00:00'
 website: ''
 year: 1924
 year_is_approximate: false
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

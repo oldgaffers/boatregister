@@ -1,28 +1,36 @@
-builder: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
-callsign: ''
+name: Moonshine
+oga_no: 3363
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Moonshine is a Norfolk Smuggler built in 1996</p>
+full_description: <p>Moonshine is hull number 3 of the Norfolk Smuggler Class.</p>
+builder:
+  name: North Norfolk Boatbuilding Co./Charlie Ward
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: grp
 construction_method: unknown
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.8382
 engine_installations: []
 for_sales:
 - asking_price: 37500
-full_description: <p>Moonshine is hull number 3 of the Norfolk Smuggler Class.</p>
-generic_type: Yacht
 handicap_data:
-  draft_keel_down: 1.4996
-  length_over_spars: 9.144
-  length_overall: 7.62
   moving_keel: true
+  length_overall: 7.62
+  draft_keel_down: 1.4996
   moving_keel_type: Centreboard
+  length_over_spars: 9.144
 home_country: GBR
 home_port: Melton, Woodbridge
 hull_form: long keel deep forefoot
 id: eb99e6ee-6a7d-4f36-b21c-e7e1e645d7a0
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Moonshine
-oga_no: 3363
+sail_number: '3'
+ssr: '68677'
+callsign: ''
 ownerships:
 - end: 2010
   name: C Davidson
@@ -37,9 +45,17 @@ ownerships:
   share: 64
   start: 2010
 place_built: Norfolk
-rig_type: Cutter
-short_description: <p>Moonshine is a Norfolk Smuggler built in 1996</p>
 updated_at: '2021-12-19T13:40:08.858383+00:00'
 website: www.moonshineofslaughden.co.uk
 year: 1996
 year_is_approximate: false
+previous_names:
+- Jawwala Kabir
+- Prudence.
+image_key: TkMjdC
+beam: 2.667
+design_class:
+  name: Norfolk Smuggler
+  id: 1af0cf00-1de2-4a9c-8ce7-79e4afe2cf08
+for_sale_state:
+  text: not_for_sale

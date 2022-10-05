@@ -1,34 +1,42 @@
-builder: ff7b1629-680c-4aec-8744-70c7fea1a636
-callsign: ''
+name: Polly
+oga_no: 1525
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
 construction_material: wood
 construction_method: carvel
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.066812972445745
-  length_on_waterline: 9.1441111923921
   length_over_all: 9.75371860521824
+  length_on_waterline: 9.1441111923921
 home_country: 'null'
 home_port: Liverpool
 hull_form: unknown
 id: 7eab0284-79db-4c47-ad65-dd5758bd2b14
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Polly
-oga_no: 1525
+callsign: ''
 ownerships:
 - name: N Pyke
   share: 64
   start: 2012
 place_built: Conwy?
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:13.840161+00:00'
 website: ''
 year: 1937
 year_is_approximate: false
+construction_details: Carvel
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

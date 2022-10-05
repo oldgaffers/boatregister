@@ -1,46 +1,62 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Ammonite
+oga_no: 1524
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log Mar/98
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: grp
 construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Log Mar/98
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.21921482565228
-  fore_triangle_base: 5.7912704218483295
-  fore_triangle_height: 7.315288953913679
-  length_on_waterline: 6.705681541087539
-  length_over_all: 7.010485247500609
   main:
     foot: 4.57205559619605
     head: 3.5052426237503047
     luff: 4.26725188978298
-  propellor:
-    type: fixed
   thcf: 0.916824772
+  draft: 1.21921482565228
   topsail:
     luff: 4.87685930260912
     perpendicular: 1.9812240916849548
+  propellor:
+    type: fixed
+  length_over_all: 7.010485247500609
+  fore_triangle_base: 5.7912704218483295
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 7.315288953913679
 home_country: 'null'
 home_port: Woolverstone
 hull_form: long keel deep forefoot
 id: cc118a64-3105-456e-b6db-da95b2009061
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Ammonite
-oga_no: 1524
+reference:
+- Log Mar/98
+callsign: ''
 ownerships:
 - name: Gerald Allan Hales
   share: 64
   start: 2012
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:13.809379+00:00'
 website: ''
 year: 1992
 year_is_approximate: false
+previous_names:
+- Four Janes
+- Justine
+construction_details: GRP Timber deck and spars
+beam: 2.4384
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
+for_sale_state:
+  text: not_for_sale

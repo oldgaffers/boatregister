@@ -1,11 +1,9 @@
-builder: 816c5191-6bf5-4102-a2ee-c4f05b5e5828
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: c17d2f34-4ee5-465c-826a-bbd3fb7a89e5
-draft: 0
-engine_installations: []
-for_sales: []
+name: Tara Blue
+oga_no: 939
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
 full_description: "An American designer. John Rowland, look the lines-of a dory, extended\
   \ them. added a larger transom and a ballast keel and launched the first Mouette\
   \ in 1959. A number were built in the States and they proved able and seaworthy\
@@ -47,27 +45,36 @@ full_description: "An American designer. John Rowland, look the lines-of a dory,
   \ I recorded 20-25 knots apparent wind on the beam and an angle of heel of 20-25\
   \ degrees--convenient figures to remember. At that angle she seemed very stiff and\
   \ I felt that a very great deal of wind would be needed to put her hard over.\""
-generic_type: unknown
+builder:
+  name: M. Desborough
+  id: 816c5191-6bf5-4102-a2ee-c4f05b5e5828
+designer:
+  name: J. Rowland
+  id: c17d2f34-4ee5-465c-826a-bbd3fb7a89e5
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.4993903925871734
-  length_on_waterline: 6.644720799804926
   length_over_all: 8.382101926359423
+  length_on_waterline: 6.644720799804926
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 9727e708-73be-4290-8e2b-4d00664bb2ac
 length_on_deck: 8.382
-mainsail_type: gaff
-name: Tara Blue
-oga_no: 939
+callsign: ''
 ownerships:
 - name: P Gilroy
   share: 64
   start: 2012
 place_built: Tees
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:56.618387+00:00'
 website: ''
 year: 1975
 year_is_approximate: false
+beam: 2.4994
+for_sale_state:
+  text: not_for_sale

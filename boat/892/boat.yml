@@ -1,35 +1,38 @@
-callsign: ''
+name: Weouda
+oga_no: 892
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: unknown
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.286027798098025
   draft: 0.9144111192392099
-  length_on_waterline: 6.0960741282613995
   length_over_all: 6.4008778346744695
+  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 6ec1b318-b8c3-43ef-924d-ff74678ebc63
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Weouda
-oga_no: 892
+callsign: ''
 ownerships:
 - name: K G Allen
   share: 64
   start: 2012
-- current: true
-  id: 125
-  member: 2127
+- id: 125
   share: 64
+  member: 2127
+  current: true
   start: '?'
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:55.280123+00:00'
 website: ''
 year_is_approximate: false
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

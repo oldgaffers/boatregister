@@ -1,48 +1,66 @@
-builder: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
-callsign: ''
+name: Dolce Vita
+oga_no: 2655
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Dolce Vita is a Memory Class built in 1977 and re-built 2006-7.</p>
+full_description: Returned to original open boat layout 2007.
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: Returned to original open boat layout 2007.
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  draft_keeldown: 1.1430138990490124
-  fore_triangle_base: 2.718849061204584
-  fore_triangle_height: 6.349061204584247
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.700073152889539
     head: 3.2004389173372347
     luff: 3.8100463301633747
   thcf: 0.864822906
+  draft: 0.5334064862228725
+  draft_keeldown: 1.1430138990490124
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.718849061204584
+  length_on_waterline: 5.690685198732017
+  fore_triangle_height: 6.349061204584247
 home_country: GBR
 home_port: Bembridge
 hull_form: centre-boarder
 id: 865981e8-b660-48e4-aa85-c7fd12220d3d
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Dolce Vita
-oga_no: 2655
+sail_number: M3
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2015
   name: Miles Atherton
   share: 64
   start: 2012
-- current: true
-  id: 883
-  member: 5996
+- id: 883
   share: 64
   start: 2015
+  member: 5996
+  current: true
 place_built: Lymm
-rig_type: Sloop
-short_description: <p>Dolce Vita is a Memory Class built in 1977 and re-built 2006-7.</p>
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+previous_names:
+- Sans Souci
+- Hawfinch
+- Tegan
+image_key: LzbmQd
+construction_details: GRP
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

@@ -1,43 +1,55 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Ailsa
+oga_no: 1940
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Owned from new by  memb no 2930 Sold on Jan 2002
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: Owned from new by  memb no 2930 Sold on Jan 2002
-generic_type: Yacht
 handicap_data:
   beam: 2.590831504511095
-  draft: 1.066812972445745
-  fore_triangle_base: 4.191050963179712
-  fore_triangle_height: 7.543891733723481
-  length_on_waterline: 6.3246769080712015
-  length_over_all: 7.467690807120214
   main:
     foot: 4.319068519873201
     head: 3.1242379907339672
     luff: 4.596439892709095
+  thcf: 0.882741556
+  draft: 1.066812972445745
   propellor:
     type: fixed
-  thcf: 0.882741556
+  length_over_all: 7.467690807120214
+  fore_triangle_base: 4.191050963179712
+  length_on_waterline: 6.3246769080712015
+  fore_triangle_height: 7.543891733723481
 home_country: 'null'
 home_port: Lymington
 hull_form: long keel deep forefoot
 id: b502c515-8091-4cf8-b1e6-e2d386add5f6
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Ailsa
-oga_no: 1940
+sail_number: '4'
+callsign: ''
 ownerships:
 - name: Donald W Lonsdale
   share: 64
   start: 2002
 place_built: Rock
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:24.742651+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+construction_details: G.R.P.
+beam: 2.5908
+design_class:
+  name: Cornish Crabber 24
+  id: ff83f69b-9762-4ae5-9681-950b5658ad97
+for_sale_state:
+  text: not_for_sale

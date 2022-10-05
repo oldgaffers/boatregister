@@ -1,39 +1,43 @@
-callsign: ''
+name: Symphony of Southwold
+oga_no: 7045
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: ''
+full_description: Complete rebuild 1995-2004 by Roving commissions (Southwold)
 construction_material: wood
 construction_method: clinker
 draft: 1.268
 engine_installations: []
 for_sales: []
-full_description: Complete rebuild 1995-2004 by Roving commissions (Southwold)
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.2679834186783712
-  fore_triangle_base: 3.169958546695928
-  fore_triangle_height: 7.924896366739819
-  length_on_waterline: 5.815654718361374
-  length_over_all: 7.315288953913679
   main:
     foot: 2.9261155815654716
     luff: 7.071445988783223
+  thcf: 0.847634895
+  draft: 1.2679834186783712
   propellor:
     type: fixed
-  thcf: 0.847634895
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 3.169958546695928
+  length_on_waterline: 5.815654718361374
+  fore_triangle_height: 7.924896366739819
 home_country: 'null'
 home_port: Southwold
 hull_form: long keel deep forefoot
 id: dd6f0b77-9c7b-48f3-9470-0870a3a3c364
 length_on_deck: 7.3152
-mainsail_type: bermudan
-name: Symphony of Southwold
-oga_no: 7045
+callsign: ''
 ownerships:
 - name: John Owles
   share: 64
   start: 2012
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:40:01.367645+00:00'
 website: ''
 year: 1973
 year_is_approximate: false
+construction_details: Lapstrake plywood
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,9 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Annie
+oga_no: 2127
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Annie is a Cornish Crabber Yawl built in 1990</p>
 full_description: Annie's first owner kept her on the Suffolk Coast. He converted
   her to a cutter Sept 1996. When he sold her in 1998 she moved to the Solent. In
   2000 she was sold again, moved to Fowey and re-named Annie of Fowey. In late 2009
@@ -13,32 +11,43 @@ full_description: Annie's first owner kept her on the Suffolk Coast. He converte
   purchased by present owners in 2016. They are undertaking a lengthy programme of
   works to restore her to her original condition. In 2017 it is planned she will be
   in Mylor.
-generic_type: Yacht
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.590831504511095
-  draft: 0.9144111192392099
-  fore_triangle_base: 4.090465740063399
-  fore_triangle_height: 7.263472323823457
-  length_on_waterline: 6.3246769080712015
-  length_over_all: 7.467690807120214
   main:
     foot: 3.886247256766642
     head: 3.429041697147037
     luff: 4.825042672518897
+  thcf: 0.892968486
+  draft: 0.9144111192392099
   mizzen:
     foot: 1.8288222384784198
     luff: 4.785418190685198
   propellor:
     type: fixed
-  thcf: 0.892968486
+  length_over_all: 7.467690807120214
+  fore_triangle_base: 4.090465740063399
+  length_on_waterline: 6.3246769080712015
+  fore_triangle_height: 7.263472323823457
 home_country: GBR
 home_port: Mylor
 hull_form: long keel deep forefoot
 id: bae6c9e2-f631-40ec-95e2-fa1d0151c3cf
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Annie
-oga_no: 2127
+sail_number: CY27
+spar_material: wood
+ssr: '96775'
+callsign: ''
 ownerships:
 - end: 1998
   name: Roger Moore
@@ -56,15 +65,22 @@ ownerships:
   name: Dr Liam Cassidy
   share: 64
   start: 2009
-- end: 2022
-  id: 813
-  member: 5875
+- id: 813
+  end: 2022
   share: 64
   start: 2016
+  member: 5875
 place_built: Rock
-rig_type: Yawl
-short_description: <p>Annie is a Cornish Crabber Yawl built in 1990</p>
 updated_at: '2022-07-10T20:24:24.112687+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+previous_names:
+- Annie of Fowey
+construction_details: GRP
+beam: 2.5908
+design_class:
+  name: Cornish Yawl
+  id: 37c8b8fe-c896-4244-9076-6b297798ba2e
+for_sale_state:
+  text: not_for_sale

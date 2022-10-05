@@ -1,52 +1,63 @@
-builder: 03d9effe-8064-47ce-9ddc-ee2f725bcb3f
-callsign: 2JGA6
+name: Andromeda of Wight
+oga_no: 156
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>One off cruiser Roy Loram modified a John Leather design. Built
+  to be a live aboard with increased feeboard, raised cabin and flush cockpit</p>
+full_description: ''
+builder:
+  name: Smith and Tucker
+  id: 03d9effe-8064-47ce-9ddc-ee2f725bcb3f
+designer:
+  name: John Leather/Roy Loram
+  id: 33ba2762-d3e7-455d-bd30-1a268f64c99e
 construction_material: wood
 construction_method: clinker
-designer: 33ba2762-d3e7-455d-bd30-1a268f64c99e
 draft: 1.6154
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.6426481346013166
   draft: 1.6002194586686174
-  length_on_waterline: 7.620092660326749
-  length_over_all: 8.052913923433309
   propellor:
     type: fixed
+  length_over_all: 8.052913923433309
+  length_on_waterline: 7.620092660326749
 home_country: GBR
 home_port: Pin Mill
 hull_form: long keel deep forefoot
 id: ac1dd2ba-fc43-49d5-9307-e63f8a1a5bdd
 length_on_deck: 8.0772
-mainsail_type: gaff
-name: Andromeda of Wight
-oga_no: 156
+ssr: '366813'
+uk_part1: '366813'
+callsign: 2JGA6
 ownerships:
 - note: Previous owners
   text: Previous owners
 - note: R Loram 1967
+  text: R Loram
   start: 1967
   start_is_approximate: false
-  text: R Loram
 - note: K.K. Aldis 1986
+  text: K.K. Aldis
   start: 1986
   start_is_approximate: false
-  text: K.K. Aldis
 - name: Clive Robertson
   share: 64
   start: 2016
-- current: true
-  id: 690
-  member: 5605
+- id: 690
   share: 64
+  member: 5605
+  current: true
   start: '?'
 place_built: South Woodham Ferrers
-rig_type: Cutter
-short_description: <p>One off cruiser Roy Loram modified a John Leather design. Built
-  to be a live aboard with increased feeboard, raised cabin and flush cockpit</p>
 updated_at: '2021-12-19T13:38:34.112674+00:00'
 website: ''
 year: 1966
 year_is_approximate: false
+image_key: PqFdGw
+construction_details: Clinker Mahogany on Oak
+beam: 2.6822
+for_sale_state:
+  text: not_for_sale

@@ -1,15 +1,23 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
-draft: 0
-engine_installations: []
-for_sales: []
+name: Iris
+oga_no: 67
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Lost in Scotland in 1979 Boat had no engine and was swept ashore
   by the tide. Owned by French - sailed halfway up the Amazon and back. CB Mar/Apr
   88
-generic_type: Smack
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+designer:
+  name: Aldous
+  id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.3716166788588149
   length_over_all: 10.05852231163131
@@ -18,13 +26,13 @@ home_port: ''
 hull_form: long keel deep forefoot
 id: cf569352-831d-4d58-960f-06c9e96b45a8
 length_on_deck: 10.0584
-mainsail_type: gaff
-name: Iris
-oga_no: 67
+callsign: ''
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-01-31T17:02:39.085808+00:00'
 website: ''
 year: 1902
 year_is_approximate: false
+image_key: gNP7Mp
+beam: 1.3716
+for_sale_state:
+  text: not_for_sale

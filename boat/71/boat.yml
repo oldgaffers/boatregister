@@ -1,11 +1,10 @@
-builder: 70a38d8e-ae68-4c50-bed9-1c8ddd585f5d
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 1f014cc5-1a09-47ae-9822-a9e2501a7351
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Stormy Petrel
+oga_no: 71
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Stormy Petrel&#39; was built in Whitsable, Kent, 1890 by
+  Dick and Charlie Perkins. Until 1928 she fished for the famed Thames oysters.</p>
 full_description: "<p>&#39;Stormy Petrel&#39; is a Whitstable oyster smack built by\
   \ Charles and Richard Perkins. She was owned by Seasalter and Ham, the oyster fishery\
   \ company, and employed as their watch boat until just after the Second World War.</p>\r\
@@ -16,40 +15,50 @@ full_description: "<p>&#39;Stormy Petrel&#39; is a Whitstable oyster smack built
   \ smack over the line in the 1968 Maldon Regatta Smack Race.</p>\r\n\r\n<p><a href=\"\
   http://www.classicboat.co.uk/uncategorized/stormy-petrel-a-man-a-smack-and-50-years-of-ownership-from-cb278/\"\
   \ target=\"_blank\">Read a 2013 article in Classic Boat, CB278</a>.</p>"
-generic_type: Smack
+builder:
+  name: R. Perkins/C. Perkins
+  id: 70a38d8e-ae68-4c50-bed9-1c8ddd585f5d
+designer:
+  name: J.W. Morday
+  id: 1f014cc5-1a09-47ae-9822-a9e2501a7351
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.053889295293831
-  draft: 1.3716166788588149
-  fore_triangle_base: 9.997561570348694
-  fore_triangle_height: 10.05852231163131
-  length_on_waterline: 11.277737137283589
-  length_over_all: 12.222628627164106
   main:
     foot: 8.83930748597903
     head: 6.705681541087539
     luff: 5.4864667154352595
-  sailarea: 116.91881644784624
   thcf: 1.089
+  draft: 1.3716166788588149
   topsail:
     luff: 8.22970007315289
     perpendicular: 3.6576444769568397
+  sailarea: 116.91881644784624
+  length_over_all: 12.222628627164106
+  fore_triangle_base: 9.997561570348694
+  length_on_waterline: 11.277737137283589
+  fore_triangle_height: 10.05852231163131
 home_country: GBR
 home_port: Gillingham, Kent
 hull_form: long keel deep forefoot
 id: 4f978bc0-e360-42af-b7bf-278f57b375db
 length_on_deck: 0
-mainsail_type: gaff
-name: Stormy Petrel
-oga_no: 71
+callsign: ''
 ownerships:
 - name: R E Norris
   share: 64
   start: 1962
 place_built: Whitstable
-rig_type: Cutter
-short_description: <p>&#39;Stormy Petrel&#39; was built in Whitsable, Kent, 1890 by
-  Dick and Charlie Perkins. Until 1928 she fished for the famed Thames oysters.</p>
 updated_at: '2021-12-19T13:38:31.752627+00:00'
 website: ''
 year: 1890
 year_is_approximate: false
+image_key: tbB5Xq
+construction_details: Carvel pitch pine on oak sawn frames
+beam: 4.0538
+for_sale_state:
+  text: not_for_sale

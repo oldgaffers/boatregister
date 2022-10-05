@@ -1,48 +1,59 @@
-builder: 0e95d174-49f9-4481-9b8d-bd7dff1d3171
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f4272731-0d68-44d6-a0ef-e9266edfc9ef
-draft: 1.0668
-engine_installations: []
-for_sales: []
+name: Gigha
+oga_no: 90
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
 full_description: '<p>Log 77/2, 78/1, Undergoing restoration in 2022</p>
 
   <p><br></p>'
-generic_type: Yacht
+builder:
+  name: Slipway Bute
+  id: 0e95d174-49f9-4481-9b8d-bd7dff1d3171
+designer:
+  name: Alfred Mylne
+  id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
+construction_material: wood
+construction_method: carvel
+draft: 1.0668
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.286027798098025
-  draft: 1.066812972445745
-  fore_triangle_base: 2.43842965130456
-  fore_triangle_height: 4.26725188978298
-  length_on_waterline: 7.010485247500609
-  length_over_all: 7.924896366739819
   main:
     foot: 5.4864667154352595
     head: 4.26725188978298
     luff: 9.75371860521824
+  thcf: 0.982
+  draft: 1.066812972445745
+  sailarea: 55.05622269267997
   propellor:
     type: fixed
-  sailarea: 55.05622269267997
-  thcf: 0.982
+  length_over_all: 7.924896366739819
+  fore_triangle_base: 2.43842965130456
+  length_on_waterline: 7.010485247500609
+  fore_triangle_height: 4.26725188978298
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: bf06cf99-521a-4645-966e-bccf4d2a4d7a
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Gigha
-oga_no: 90
+reference:
+- Log 77/2
+- Log 78/1
+callsign: ''
 ownerships:
-- current: true
-  name: Bob Long
+- name: Bob Long
+  current: true
 - name: R K Long
   share: 64
   start: 1986
 place_built: Clydeside
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-03-16T22:49:18.393078+00:00'
 website: ''
 year: 1923
 year_is_approximate: false
+construction_details: Carvel Mahogany on oak
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

@@ -1,12 +1,18 @@
-builder: 27850afd-d410-4920-a99a-0ca564738ceb
-callsign: ''
+name: Baltoro
+oga_no: 2988
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Baltoro&#39; is a 27&#39; Salcombe Trader built 1994.</p>
+full_description: ''
+builder:
+  name: Tideway
+  id: 27850afd-d410-4920-a99a-0ca564738ceb
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.8956352109241648
   length_over_all: 8.22970007315289
@@ -15,21 +21,20 @@ home_port: ''
 hull_form: unknown
 id: d6b67419-22b0-4188-a5b0-0817519de2a7
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Baltoro
-oga_no: 2988
+callsign: ''
 ownerships:
 - name: David and Dianne Cox
   share: 64
   start: 2010
-- current: true
+- share: 64
   member: 4297
-  share: 64
+  current: true
   start: '?'
 place_built: Salcombe
-rig_type: Cutter
-short_description: <p>&#39;Baltoro&#39; is a 27&#39; Salcombe Trader built 1994.</p>
 updated_at: '2021-12-19T13:39:55.477887+00:00'
 website: ''
 year: 1994
 year_is_approximate: false
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

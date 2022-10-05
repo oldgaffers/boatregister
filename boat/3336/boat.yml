@@ -1,23 +1,26 @@
-builder: 4f75fd5f-3e8d-4718-abe9-bbef58a1896f
-callsign: 2ZFY
-construction_material: wood
-construction_method: carvel
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
-draft: 2.7432
-engine_installations: []
-for_sales: []
+name: Stella Anne
+oga_no: 3336
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Stella Anne is a MFV&nbsp; built as a Seine Netter in Esjberg
+  but now converted for cruising.</p>
 full_description: <p>Stella Anne came out of fishing in 1997 and was abandoned in
   Brixham. She was bought from the harbour Authority and converted into a family cruising
   boat over 2 years in the Exeter Ship Canal. Subsequently she has cruised to South
   Brittany, Channel Islands, Scilly Islands and the West Coast of Scotland.</p>
-generic_type: unknown
+builder:
+  name: Al Work
+  id: 4f75fd5f-3e8d-4718-abe9-bbef58a1896f
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+construction_material: wood
+construction_method: carvel
+draft: 2.7432
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 1.137
-  fore_triangle_base: 6.096
-  fore_triangle_height: 9.7536
-  length_on_waterline: 18.8976
-  length_over_spars: 21.336
-  length_overall: 19.2024
   main:
     foot: 18
     head: 16
@@ -26,14 +29,20 @@ handicap_data:
     foot: 12
     head: 11
     luff: 14
+  length_overall: 19.2024
+  calculated_thcf: 1.137
+  length_over_spars: 21.336
+  fore_triangle_base: 6.096
+  length_on_waterline: 18.8976
+  fore_triangle_height: 9.7536
 home_country: GBR
 home_port: Portland
 hull_form: long keel deep forefoot
 id: 429268ad-7cf9-4e39-a854-a6d793ffa1a9
 length_on_deck: 19.2024
-mainsail_type: gaff
-name: Stella Anne
-oga_no: 3336
+ssr: '92761'
+uk_part1: A17612
+callsign: 2ZFY
 ownerships:
 - note: Previous owner Jubilee Fishing Company, Grimsby
   text: Previous owner Jubilee Fishing Company, Grimsby
@@ -41,16 +50,19 @@ ownerships:
   name: Simon Duff
   share: 64
   start: 1998
-- current: true
-  id: 443
-  member: 4407
+- id: 443
   share: 64
+  member: 4407
+  current: true
   start: '?'
 place_built: Esjberg
-rig_type: Ketch
-short_description: <p>Stella Anne is a MFV&nbsp; built as a Seine Netter in Esjberg
-  but now converted for cruising.</p>
 updated_at: '2021-12-19T13:40:07.961922+00:00'
 website: ''
 year: 1956
 year_is_approximate: false
+previous_names:
+- Gul Edalberg
+construction_details: Carvel, oak on oak, double framed. Larch spars.
+beam: 4.572
+for_sale_state:
+  text: not_for_sale

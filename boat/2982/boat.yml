@@ -1,38 +1,46 @@
-callsign: ''
+name: The Black Pig
+oga_no: 2982
+generic_type: Dayboat
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>The Back Pig is a Drascombe Lugger built in 1980.</p>
+full_description: ''
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.2499
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 1.898927090953426
-  draft: 0.24993903925871735
-  draft_keeldown: 1.21921482565228
-  fore_triangle_base: 1.3502804194098998
-  fore_triangle_height: 3.7003169958546698
-  length_on_waterline: 4.569007559131919
-  length_over_all: 5.721165569373323
   main:
     foot: 0
     luff: 4.74884174591563
   thcf: 0.693839985
+  draft: 0.24993903925871735
+  draft_keeldown: 1.21921482565228
+  length_over_all: 5.721165569373323
+  fore_triangle_base: 1.3502804194098998
+  length_on_waterline: 4.569007559131919
+  fore_triangle_height: 3.7003169958546698
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: f93e2ba1-21c6-42c9-894c-ccf0d57e9a33
 length_on_deck: 5.7211
-mainsail_type: gaff
-name: The Black Pig
-oga_no: 2982
+sail_number: GBR2408L
+callsign: ''
 ownerships:
 - name: Julian Finch
   share: 64
   start: 2012
-rig_type: Yawl
-short_description: <p>The Back Pig is a Drascombe Lugger built in 1980.</p>
 updated_at: '2021-12-19T13:39:55.293129+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: GRP
+beam: 1.8989
+design_class:
+  name: Drascombe Lugger
+  id: e382b7b9-1e83-4b73-8815-3ba721e32001
+for_sale_state:
+  text: not_for_sale

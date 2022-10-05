@@ -1,13 +1,21 @@
-builder: e9631038-db88-4e3f-8938-0eb0f1ab4e5a
-callsign: ''
+name: Hallgerd
+oga_no: 333
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Clapson and Sons Ltd.
+  id: e9631038-db88-4e3f-8938-0eb0f1ab4e5a
+designer:
+  name: Francis J. Jones
+  id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 construction_material: wood
 construction_method: unknown
-designer: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.682272616435016
   length_over_all: 8.077298219946353
@@ -16,17 +24,16 @@ home_port: ''
 hull_form: unknown
 id: a8e085e8-c058-4244-b813-431bb14a7aae
 length_on_deck: 8.0772
-mainsail_type: gaff
-name: Hallgerd
-oga_no: 333
+callsign: ''
 ownerships:
 - name: W R Waite
   share: 64
   start: 2012
 place_built: Barton on Humber
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:39.477645+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+beam: 2.6822
+for_sale_state:
+  text: not_for_sale

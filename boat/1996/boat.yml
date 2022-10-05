@@ -1,47 +1,62 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Mousehole
+oga_no: 1996
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: CB Feb 90 boat now for sale
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton/Martin Heard
+  id: f19c441f-b6a2-4f96-95b9-d25a6e3e36a5
 construction_material: grp
 construction_method: cold_moulded
-designer: f19c441f-b6a2-4f96-95b9-d25a6e3e36a5
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: CB Feb 90 boat now for sale
-generic_type: Yacht
 handicap_data:
   beam: 3.0480370641306997
-  draft: 1.5240185320653499
-  fore_triangle_base: 6.196659351377712
-  fore_triangle_height: 10.424286759326995
-  length_on_waterline: 8.077298219946353
-  length_over_all: 8.53450377956596
   main:
     foot: 5.715069495245062
     head: 5.081077785905877
     luff: 6.044257498171177
-  propellor:
-    type: fixed
   thcf: 0.980309117
+  draft: 1.5240185320653499
   topsail:
     luff: 6.004633016337478
     perpendicular: 2.13362594489149
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 6.196659351377712
+  length_on_waterline: 8.077298219946353
+  fore_triangle_height: 10.424286759326995
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 4dd547f8-3fc2-4133-aed2-95420f6025bb
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Mousehole
-oga_no: 1996
+ssr: '70787'
+callsign: ''
 ownerships:
 - end: 2012
   name: John Cochrane
   share: 64
   start: 1995
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:26.394626+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+previous_names:
+- Morag
+- Chat Huant
+construction_details: GRP
+beam: 3.048
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
+for_sale_state:
+  text: not_for_sale

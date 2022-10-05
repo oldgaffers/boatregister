@@ -1,40 +1,49 @@
-builder: f06ac436-19fc-4984-a052-064eb71146e3
-callsign: ''
+name: Memory
+oga_no: 1839
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Possibly a Daniel Hatcher design</p>
+full_description: For sale Log Dec/98 by T Hooper of N Ferriby, see paper archive
+builder:
+  name: J.G. Fay and Co.
+  id: f06ac436-19fc-4984-a052-064eb71146e3
 construction_material: ferro
 construction_method: cold_moulded
 draft: 1.015
 engine_installations: []
 for_sales: []
-full_description: For sale Log Dec/98 by T Hooper of N Ferriby, see paper archive
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.014996342355523
-  fore_triangle_base: 5.384967081199708
-  fore_triangle_height: 5.891855644964642
-  length_on_waterline: 6.019873201658132
-  length_over_all: 6.605096317971227
   main:
     foot: 4.648256522799317
     head: 3.581443550353572
     luff: 4.013350402340892
   thcf: 0.882636092
+  draft: 1.014996342355523
+  length_over_all: 6.605096317971227
+  fore_triangle_base: 5.384967081199708
+  length_on_waterline: 6.019873201658132
+  fore_triangle_height: 5.891855644964642
 home_country: 'null'
 home_port: Wessem (NL)
 hull_form: unknown
 id: ce15c418-46ed-40e2-8676-658f136109e1
 length_on_deck: 6.605
-mainsail_type: gaff
-name: Memory
-oga_no: 1839
+reference:
+- Log Dec 98
+callsign: ''
 ownerships:
 - name: Gerard van Holst
   share: 64
   start: 2012
 place_built: Solent
-rig_type: Cutter
-short_description: <p>Possibly a Daniel Hatcher design</p>
 updated_at: '2021-12-19T13:39:21.74588+00:00'
 website: ''
 year: 1919
 year_is_approximate: false
+construction_details: Sheathed in ferrocement over pitch pine on oak, ply and grp
+  deck.
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

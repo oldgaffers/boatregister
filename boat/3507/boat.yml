@@ -1,41 +1,52 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+name: Curlew
+oga_no: 3507
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Originally built as an Adventure 21 the initial owner had her re-rigged
+  as a Shrimper 21 with wooden spars and a Gaff rig.
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray/David Thomas Yachts
+  id: 7d1ad008-4263-419d-8843-d466ded0ec2c
 construction_material: grp
 construction_method: unknown
-designer: 7d1ad008-4263-419d-8843-d466ded0ec2c
 engine_installations: []
 for_sales: []
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.854
-  draft_keel_down: 1.3503
-  fore_triangle_base: 3.0297
-  fore_triangle_height: 5.6601
-  length_on_waterline: 6.099
-  length_overall: 6.4008
   main:
     foot: 12.7
     head: 10.89
     luff: 13.68
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 6
+  moving_keel: true
+  length_overall: 6.4008
+  calculated_thcf: 0.854
+  draft_keel_down: 1.3503
+  moving_keel_type: Centreboard
+  fore_triangle_base: 3.0297
+  length_on_waterline: 6.099
+  fore_triangle_height: 5.6601
 home_country: United Kingdom
 home_port: Dartmouth
 hull_form: long keel deep forefoot
 id: c626e4e7-6bec-4d36-92be-9e37aebc5fb1
-mainsail_type: gaff
-name: Curlew
-oga_no: 3507
 ownerships:
-- current: true
-  id: 712
-  member: 5663
+- id: 712
   share: 64
+  member: 5663
+  current: true
   start: '?'
 place_built: Rock
-rig_type: Sloop
-short_description: Originally built as an Adventure 21 the initial owner had her re-rigged
-  as a Shrimper 21 with wooden spars and a Gaff rig.
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 2016
 year_is_approximate: false
+image_key: Xt8X5j
+beam: 2.3988
+design_class:
+  name: Cornish Shrimper 21
+  id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4
+for_sale_state:
+  text: not_for_sale

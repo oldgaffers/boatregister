@@ -1,34 +1,42 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Curlew
+oga_no: 1860
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.1768
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.7008046817849305
   draft: 0.17678614971958057
-  length_on_waterline: 3.633260180443794
   length_over_all: 3.733845403560107
+  length_on_waterline: 3.633260180443794
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 71b427e1-a23d-43e9-b056-d93b836ffebb
 length_on_deck: 3.7338
-mainsail_type: gaff
-name: Curlew
-oga_no: 1860
+callsign: ''
 ownerships:
 - name: R Ladkin
   share: 64
   start: 1993
 place_built: Rock
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:22.379867+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+construction_details: GRP
+beam: 1.7008
+for_sale_state:
+  text: not_for_sale

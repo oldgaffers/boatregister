@@ -1,26 +1,32 @@
-builder: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
-callsign: ''
+name: Casuella
+oga_no: 7032
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: <p>Laurent Giles Peter Duck design.</p>
+full_description: <p>Casuella sailed to Brest festivals but little is known of her
+  history</p>
+builder:
+  name: Porter and Haylett Ltd.
+  id: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
 construction_material: wood
 construction_method: unknown
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
 draft: 1.1186
 engine_installations: []
 for_sales: []
-full_description: <p>Casuella sailed to Brest festivals but little is known of her
-  history</p>
-generic_type: Yacht
 handicap_data:
-  length_on_waterline: 7.62
-  length_overall: 8.6868
   sailarea: 7
+  length_overall: 8.6868
+  length_on_waterline: 7.62
 home_country: GBR
 home_port: Cowes
 hull_form: long keel deep forefoot
 id: 0cfa528d-b6b4-4773-87b0-cb92c106ac8a
 length_on_deck: 8.6868
-mainsail_type: bermudan
-name: Casuella
-oga_no: 7032
+callsign: ''
 ownerships:
 - end: 2013
   name: Harry Noakes
@@ -29,15 +35,20 @@ ownerships:
 - name: Caroline Keen
   share: 32
   start: 2013
-- current: true
-  id: 807
-  member: 5864
+- id: 807
   share: 64
+  member: 5864
+  current: true
   start: '?'
 place_built: Wroxham
-rig_type: Ketch
-short_description: <p>Laurent Giles Peter Duck design.</p>
 updated_at: '2021-12-19T13:40:00.944399+00:00'
 website: ''
 year: 1963
 year_is_approximate: false
+construction_details: Iroko planking on oak
+beam: 2.6914
+design_class:
+  name: Peter Duck
+  id: 63bb01a3-7495-48a5-9ca8-e90c5d93bc09
+for_sale_state:
+  text: not_for_sale

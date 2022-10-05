@@ -1,33 +1,41 @@
-callsign: ''
+name: Reedbird
+oga_no: 94
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 67/4
+designer:
+  name: Morgan Giles
+  id: f1bc585c-9638-4fd8-8fc7-f382b028513c
 construction_material: wood
 construction_method: unknown
-designer: f1bc585c-9638-4fd8-8fc7-f382b028513c
 draft: 1.1674
 engine_installations: []
 for_sales: []
-full_description: Log 67/4
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
   draft: 1.167398195562058
-  length_on_waterline: 6.4008778346744695
   length_over_all: 7.010485247500609
+  length_on_waterline: 6.4008778346744695
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 57f1a0a5-e3e8-4d40-ae8e-33c8852b84a3
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Reedbird
-oga_no: 94
+reference:
+- Log 67/4
+callsign: ''
 ownerships:
 - name: E Keeble
   share: 64
   start: 2012
 place_built: Horning
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:32.413407+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+construction_details: Pine on oak and Canadian rock elm
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

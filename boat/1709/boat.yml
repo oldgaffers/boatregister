@@ -1,43 +1,51 @@
-builder: 4defc904-dd2c-47e9-baf3-3a691a841c97
-callsign: ''
+name: Wobbly Jane
+oga_no: 1709
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cygnus Marine
+  id: 4defc904-dd2c-47e9-baf3-3a691a841c97
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.2438
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 1.5240185320653499
-  draft: 0.24384296513045597
-  fore_triangle_base: 2.0117044623262617
-  fore_triangle_height: 3.3528407705437697
-  length_on_waterline: 4.480614484272128
-  length_over_all: 4.663496708119971
   main:
     foot: 3.1242379907339672
     head: 3.2309192879785416
     luff: 1.6764203852718849
   thcf: 0.79933257
+  draft: 0.24384296513045597
   topsail:
     luff: 1.737381126554499
     perpendicular: 0.9144111192392099
+  length_over_all: 4.663496708119971
+  fore_triangle_base: 2.0117044623262617
+  length_on_waterline: 4.480614484272128
+  fore_triangle_height: 3.3528407705437697
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 19f4d3a2-25c8-44b7-9825-920c3fb47a19
 length_on_deck: 4.6634
-mainsail_type: gaff
-name: Wobbly Jane
-oga_no: 1709
+callsign: ''
 ownerships:
 - name: J Burnett-Hitchcock
   share: 64
   start: 1986
 place_built: Penryn
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:18.366916+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+previous_names:
+- Janie
+construction_details: Grp with teak fittings
+beam: 1.524
+for_sale_state:
+  text: not_for_sale

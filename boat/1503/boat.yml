@@ -1,11 +1,11 @@
-builder: a9a42e1a-3c2c-4137-9c49-31d250504b41
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 5f19fc16-706a-4add-a80a-67ab97c4c002
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Maid Marion
+oga_no: 1503
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Built in 1925, originally named &#39;Westward&#39;, she was
+  re-named in 1935. During the Second World War she set out to assist in the Dunkirk
+  evacuation, but was diverted to le Havre.</p>
 full_description: "<p>Retired from fishing in 1961, she was converted to a motor sailer\
   \ and sold to David Hunt&#39;s father, John, in 1964. She underwent a major refit\
   \ in 1985 including new topside planks and partial deck replacement. In 1999 she\
@@ -14,50 +14,62 @@ full_description: "<p>Retired from fishing in 1961, she was converted to a motor
   \n\r\n<p>In 2012 she took part in the Queen&#39;s Jubilee Pageant in company with\
   \ other Dunkirk Little Ships as reported in <a href=\"http://www.classicboat.co.uk/queens-pageant/dunkirk-little-ships-the-queens-pageant/\"\
   \ target=\"_blank\">Classic Boat Magazine</a>.</p>"
-generic_type: unknown
+builder:
+  name: Percy G. Mitchell
+  id: a9a42e1a-3c2c-4137-9c49-31d250504b41
+designer:
+  name: Percy G. Mitchell
+  id: 5f19fc16-706a-4add-a80a-67ab97c4c002
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.1148
-  fore_triangle_base: 2.1336
-  fore_triangle_height: 5.1816
-  length_on_waterline: 11.2776
-  length_over_all: 11.5824
   main:
     foot: 3.9116
     head: 3.556
     luff: 7.0104
+  thcf: 0.97
   mizzen:
     foot: 3.9116
     head: 3.5052
     luff: 6.096
+  sailarea: 57.3
   propellor:
     type: fixed
-  sailarea: 57.3
-  thcf: 0.97
+  length_over_all: 11.5824
+  fore_triangle_base: 2.1336
+  length_on_waterline: 11.2776
+  fore_triangle_height: 5.1816
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel deep forefoot
 id: b47768dd-a361-420f-b971-54dace80382a
 length_on_deck: 11.5824
-mainsail_type: gaff
-name: Maid Marion
-oga_no: 1503
+sail_number: PZ61
+callsign: ''
 ownerships:
 - note: 'Sold to John Orchard of Porthleven in 1935. After the Second World War, she
     was sold to Jack Siley, chairman of Falmouth Docks. '
+  text: Sold to John Orchard of Porthleven in
   start: 1935
   start_is_approximate: false
-  text: Sold to John Orchard of Porthleven in
-- current: true
-  id: 191
-  member: 2790
+- id: 191
   share: 64
   start: 1963
+  member: 2790
+  current: true
 place_built: Portmellon Mevagissey
-rig_type: Ketch
-short_description: <p>Built in 1925, originally named &#39;Westward&#39;, she was
-  re-named in 1935. During the Second World War she set out to assist in the Dunkirk
-  evacuation, but was diverted to le Havre.</p>
 updated_at: '2021-12-19T13:39:13.212377+00:00'
 website: ''
 year: 1925
 year_is_approximate: false
+previous_names:
+- Westward
+image_key: fMkpB6
+construction_details: Carvel Pitch Pine on Oak
+beam: 4.1148
+for_sale_state:
+  text: not_for_sale

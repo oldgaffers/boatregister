@@ -1,11 +1,13 @@
-builder: 64b07be4-71f4-441f-bbd3-853b57f29501
-callsign: MKET9
-construction_material: wood
-construction_method: unknown
-designer: 1cee652c-c311-439a-84aa-f79a7426aac8
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: White Cloud
+oga_no: 602
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: Built in 1912 by Gann & Palmer in Teignmouth as a Gentleman's Yacht,
+  White Cloud has pitch pine planking on elm frames. Ashore for over 12 years, she
+  was re-launched September 2013 after a thorough restoration by Les Weeks lasting
+  nearly six years. In 2012 Les received a Transport Trust Restoration Award for his
+  work on White Cloud.
 full_description: '<p>Bought, whilst ashore, by Les Weeks in 2007 as a project for
   forthcoming retirement, the restoration sadly failed to be completed in time for
   her centenary in 2012. Robert Taylor had previously started the restoration, but
@@ -50,31 +52,41 @@ full_description: '<p>Bought, whilst ashore, by Les Weeks in 2007 as a project f
   2020 after the ports reopened. Now based in Calstock Cornwall. As her owner I would
   like to pay tribute the fantastic job Les did, enabling me to enjoy this lovely
   boat to the full.&nbsp;</p>'
-generic_type: Yacht
+builder:
+  name: Gann and Palmer
+  id: 64b07be4-71f4-441f-bbd3-853b57f29501
+designer:
+  name: Gann and Palmer
+  id: 1cee652c-c311-439a-84aa-f79a7426aac8
+construction_material: wood
+construction_method: unknown
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.4384
-  boat_depth: 1.8288222384784198
-  draft: 1.3716288710070714
-  fore_triangle_base: 3.6576444769568397
-  fore_triangle_height: 5.4864667154352595
-  length_on_waterline: 7.620092660326749
-  length_over_all: 7.620092660326749
-  length_over_spars: 10.82054376981224
   main:
     foot: 4.57205559619605
     head: 3.6576444769568397
     luff: 3.9624481833699097
+  draft: 1.3716288710070714
   mizzen:
     foot: 1.8288222384784198
     luff: 2.7432333577176298
+  boat_depth: 1.8288222384784198
+  length_over_all: 7.620092660326749
+  length_over_spars: 10.82054376981224
+  fore_triangle_base: 3.6576444769568397
+  length_on_waterline: 7.620092660326749
+  fore_triangle_height: 5.4864667154352595
 home_country: 'null'
 home_port: Calstock
 hull_form: long keel deep forefoot
 id: f3497a0e-1cc1-4f91-9341-0e1ddb4c33e8
 length_on_deck: 7.62
-mainsail_type: gaff
-name: White Cloud
-oga_no: 602
+ssr: '150514'
+uk_part1: '163851'
+callsign: MKET9
 ownerships:
 - end: 2003
   name: Geoff Green
@@ -88,19 +100,17 @@ ownerships:
   name: Leslie Weeks
   share: 64
   start: 2007
-- current: true
-  id: 1090
-  member: 6344
+- id: 1090
   share: 64
   start: 2019
+  member: 6344
+  current: true
 place_built: Teignmouth
-rig_type: Yawl
-short_description: Built in 1912 by Gann & Palmer in Teignmouth as a Gentleman's Yacht,
-  White Cloud has pitch pine planking on elm frames. Ashore for over 12 years, she
-  was re-launched September 2013 after a thorough restoration by Les Weeks lasting
-  nearly six years. In 2012 Les received a Transport Trust Restoration Award for his
-  work on White Cloud.
 updated_at: '2021-12-19T13:38:47.066146+00:00'
 website: www.barbaraweeks.com/boat.htm
 year: 1912
 year_is_approximate: false
+image_key: 8Z8gF9
+construction_details: Pitch pine on elm, with a cast iron keel, iroko transom
+for_sale_state:
+  text: not_for_sale

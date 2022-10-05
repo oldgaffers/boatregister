@@ -1,12 +1,11 @@
-builder: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
-draft: 1.3198
-engine_installations: []
-for_sales:
-- asking_price: 15750
+name: Olive Mary
+oga_no: 454
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built as one of three sister ships,designed by Maurice Griffiths,
+  in 1931 by Harry King &amp; Sons of Pin Mill, River Orwell, &#39;Olive Mary&#39;
+  has been described as a &#39;very special little ship&#39;.</p>
 full_description: "<p>Designed by Maurice Griffiths and built in 1931, &#39;Olive\
   \ May&#39; was built by Harry King and Sons of Pin Mill, Ipswich, one of three sister\
   \ ships. She is a&nbsp;very able sea boat which performs well and inspires confidence,\
@@ -78,32 +77,41 @@ full_description: "<p>Designed by Maurice Griffiths and built in 1931, &#39;Oliv
   \nNew electrics (2006)<br />\r\nNew furling headsail with burgundy UV strip (2012)<br\
   \ />\r\nNew loose footed main in off white clipper canvas by Patrick Selman of Gaff\
   \ Sails Falmouth (2016)<br />\r\nNew mainsail cover by Patrick Selman (2016)</p>"
-generic_type: Yacht
+builder:
+  name: Harry King and Sons
+  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+construction_material: wood
+construction_method: carvel
+draft: 1.3198
+engine_installations: []
+for_sales:
+- asking_price: 15750
 handicap_data:
   beam: 2.590831504511095
-  draft: 1.319800048768593
-  fore_triangle_base: 6.019873201658132
-  fore_triangle_height: 7.900512070226774
-  length_on_waterline: 7.010485247500609
-  length_over_all: 7.772494513533284
   main:
     foot: 4.215435259692757
     head: 3.249207510363326
     luff: 4.87685930260912
-  propellor:
-    type: fixed
   thcf: 0.931590877
+  draft: 1.319800048768593
   topsail:
     luff: 5.309680565715679
     perpendicular: 2.234211168007803
+  propellor:
+    type: fixed
+  length_over_all: 7.772494513533284
+  fore_triangle_base: 6.019873201658132
+  length_on_waterline: 7.010485247500609
+  fore_triangle_height: 7.900512070226774
 home_country: GBR
 home_port: Conwy River, N Wales
 hull_form: long keel deep forefoot
 id: 6077e40e-1f0f-4cbe-9657-ff43a6a98eaa
 length_on_deck: 7.7724
-mainsail_type: gaff
-name: Olive Mary
-oga_no: 454
+callsign: ''
 ownerships:
 - note: Previous owner Bob Gingell who found her in poor condition at Moody's up the
     Hamble and carried out major work to get her sailing again.
@@ -113,11 +121,12 @@ ownerships:
   share: 64
   start: 1997
 place_built: Pin Mill
-rig_type: Cutter
-short_description: <p>Built as one of three sister ships,designed by Maurice Griffiths,
-  in 1931 by Harry King &amp; Sons of Pin Mill, River Orwell, &#39;Olive Mary&#39;
-  has been described as a &#39;very special little ship&#39;.</p>
 updated_at: '2021-12-19T13:38:42.773421+00:00'
 website: ''
 year: 1931
 year_is_approximate: false
+image_key: GMJjKW
+construction_details: Pitch pine on oak
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

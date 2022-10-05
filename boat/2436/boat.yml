@@ -1,35 +1,42 @@
-builder: 52b192ff-d560-4d89-89df-a1dbea9ff7e9
-callsign: ''
+name: Venture
+oga_no: 2436
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Nat Benjamin, Gannon & Benjamin Marine Railway, Box 1095, Vineyard
+  Haven Martha's Vineyard, Massachusetts, 02568 USA
+builder:
+  name: George F. Lawley and Son
+  id: 52b192ff-d560-4d89-89df-a1dbea9ff7e9
+designer:
+  name: F.D. Lawley
+  id: 8b1dbee2-354b-4467-aa59-d06271b0f22c
 construction_material: wood
 construction_method: unknown
-designer: 8b1dbee2-354b-4467-aa59-d06271b0f22c
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: Nat Benjamin, Gannon & Benjamin Marine Railway, Box 1095, Vineyard
-  Haven Martha's Vineyard, Massachusetts, 02568 USA
-generic_type: Yacht
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.5240185320653499
-  length_on_waterline: 8.83930748597903
   length_over_all: 11.277737137283589
+  length_on_waterline: 8.83930748597903
 home_country: 'null'
 home_port: Vineyard Haven MA USA
 hull_form: unknown
 id: 9fabe66e-38ee-4fd5-853b-3fa11d023143
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: Venture
-oga_no: 2436
+callsign: ''
 ownerships:
 - name: Nat Benjamin
   share: 64
   start: 2012
 place_built: Neponset, S Boston, MA
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:38.656876+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

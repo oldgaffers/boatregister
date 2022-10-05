@@ -1,48 +1,59 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
-draft: 1.143
-engine_installations: []
-for_sales: []
+name: Jenny Wren
+oga_no: 2422
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: She was fitted out at Robinsons Yard, Woodbridge and is a sister
   ship to "Grace O' Malley" in which Libby Purves and family sailed around the UK
   as featured in her book "One Summer's Grace".
-generic_type: Yacht
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.143
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8956352109241648
-  draft: 1.1430138990490124
-  fore_triangle_base: 5.7912704218483295
-  fore_triangle_height: 8.458302852962692
-  length_on_waterline: 7.848695440136551
-  length_over_all: 9.1441111923921
   main:
     foot: 5.6388685686417945
     head: 4.495854669592782
     luff: 4.953060229212387
-  propellor:
-    type: folding
   thcf: 0.973813074
+  draft: 1.1430138990490124
   topsail:
     luff: 5.715069495245062
     perpendicular: 2.286027798098025
+  propellor:
+    type: folding
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 5.7912704218483295
+  length_on_waterline: 7.848695440136551
+  fore_triangle_height: 8.458302852962692
 home_country: 'null'
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 7c626d10-5779-43fa-97d6-e9871288b605
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Jenny Wren
-oga_no: 2422
+callsign: ''
 ownerships:
 - name: Chris Minty
   share: 64
   start: 2012
 place_built: Rock
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:38.186132+00:00'
 website: ''
 year: 1987
 year_is_approximate: false
+construction_details: GRP
+beam: 2.8956
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
+for_sale_state:
+  text: not_for_sale

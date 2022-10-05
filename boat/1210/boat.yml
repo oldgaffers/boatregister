@@ -1,39 +1,46 @@
-builder: 2e619a6f-2fbc-4fa1-ba06-426440ae3f7a
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 90b15620-e866-4701-8023-bdc4f3a2f079
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Scalloway
+oga_no: 1210
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: "<p>Bob Cooke bought the plans from Paul Johnson, and spent the\
   \ next two and a half years building <em>Scalloway</em> in ferro.</p>\r\n\r\n<p>He\
   \ sailed <em>Scalloway</em> locally for a few years but by 1984 felt ready to cross\
   \ the Atlantic. Over the next few months he prepared the boat for a long trip, bought\
   \ a sextant, advertised for crew and left the following year.</p>\r\n\r\n<p>Scalloway\
   \ was wrecked on the coast of Horta on the return trip.</p>"
-generic_type: unknown
+builder:
+  name: R. Cooke
+  id: 2e619a6f-2fbc-4fa1-ba06-426440ae3f7a
+designer:
+  name: Paul Johnson
+  id: 90b15620-e866-4701-8023-bdc4f3a2f079
+construction_material: wood
+construction_method: unknown
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.865154840282858
   draft: 1.5240185320653499
-  length_on_waterline: 7.315288953913679
   length_over_all: 8.22970007315289
+  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 37f7a225-ee95-411f-ad68-aa5a86376996
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Scalloway
-oga_no: 1210
+callsign: ''
 ownerships:
 - name: Robert Cooke
   share: 64
   start: 2012
 place_built: Hullbridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:04.845171+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+beam: 2.8651
+for_sale_state:
+  text: not_for_sale

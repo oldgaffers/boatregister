@@ -1,51 +1,61 @@
-builder: c9a0b341-2a2c-495b-b351-fca14e27c293
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: f311408c-67b3-41a5-b8ea-3981c6e1470a
-draft: 1.9812
-engine_installations: []
-for_sales: []
+name: Constance Mary
+oga_no: 1550
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: "Log Jun/97.  Her hull was built d for Roger Pinckney\u2019s brother.\
   \ There was an argument with the yard and the hull was shipped to England and lived\
   \ in a barn for over 20 years. Found by Ben she was taken to David Hillyard\u2019\
   s Yard in Littlehampton where she was fitted out. She was rigged by the Elephant\
   \ Boatyard as a gaff cutter and has been cruised extensively by Ben. Recently she\
   \ has been converted to a gaff ketch rig."
-generic_type: unknown
+builder:
+  name: Moen and Sons
+  id: c9a0b341-2a2c-495b-b351-fca14e27c293
+designer:
+  name: Moen
+  id: f311408c-67b3-41a5-b8ea-3981c6e1470a
+construction_material: wood
+construction_method: unknown
+draft: 1.9812
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.6576444769568397
-  draft: 1.9812240916849548
-  fore_triangle_base: 6.568519873201658
-  fore_triangle_height: 11.774567178736893
-  length_on_waterline: 10.36332601804438
-  length_over_all: 11.1497195805901
   main:
     foot: 6.297244574494026
     head: 4.950012192148256
     luff: 8.699097781029016
-  propellor:
-    type: fixed
   thcf: 1.048824949
+  draft: 1.9812240916849548
   topsail:
     luff: 5.547427456717873
     perpendicular: 3.596683735674226
+  propellor:
+    type: fixed
+  length_over_all: 11.1497195805901
+  fore_triangle_base: 6.568519873201658
+  length_on_waterline: 10.36332601804438
+  fore_triangle_height: 11.774567178736893
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: b42fee62-aa3e-478c-877d-b52ea6fc3626
 length_on_deck: 11.1496
-mainsail_type: gaff
-name: Constance Mary
-oga_no: 1550
+reference:
+- Log Jun 97
+callsign: ''
 ownerships:
 - name: S N Coulson
   share: 64
   start: 2012
 place_built: Risor
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:14.538387+00:00'
 website: ''
 year: 1964
 year_is_approximate: false
+construction_details: Iroko and Teak on Oak
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

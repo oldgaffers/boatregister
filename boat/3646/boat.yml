@@ -1,25 +1,30 @@
+name: Valerian
+oga_no: 3646
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gunter
+short_description: She's a real one-off.
 construction_material: grp
 draft: 0.8839307485979029
 engine_installations: []
 for_sales: []
-generic_type: Dayboat
 handicap_data:
   beam: 1.889782979761034
 home_country: Norfolk
 home_port: Hickling Broad
 id: c9c5bd62-c05e-49f3-ac9b-da23fb9ec0a7
 length_on_deck: 6.0960741282613995
-mainsail_type: gunter
-name: Valerian
-oga_no: 3646
+sail_number: '31'
+spar_material: wood
 ownerships:
-- current: true
-  id: 450
-  member: 4434
+- id: 450
   share: '64'
+  member: 4434
+  current: true
 place_built: St. Olaves
-rig_type: Sloop
-short_description: She's a real one-off.
 updated_at: '2022-02-22T08:00:32.176487+00:00'
 year: 2001
 year_is_approximate: false
+image_key: 3mgTGX
+for_sale_state:
+  text: not_for_sale

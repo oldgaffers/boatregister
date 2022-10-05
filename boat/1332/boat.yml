@@ -1,11 +1,9 @@
-builder: 8d74da63-305e-4666-8f7f-931df43292b5
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Mermaid
+oga_no: 1332
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Her name at the time of launching is not known.  She was built as
   a smack and was refitted and converted from sail to motor in 1935.  She came into
   the possession of Mr. Charles Chase of Kings Lynn in 1912, and was re-named 'Charles
@@ -19,40 +17,52 @@ full_description: Her name at the time of launching is not known.  She was built
   had known her for thirty years and always admired her.  They farmed by the river
   'Nene at Sutton Bridge where she was berthed and saw her most days passing by to
   fish in the Wash.
-generic_type: Smack
+builder:
+  name: Alexander E. Gostelow
+  id: 8d74da63-305e-4666-8f7f-931df43292b5
+designer:
+  name: Alexander E. Gostelow
+  id: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.2004389173372347
-  draft: 1.3716166788588149
-  fore_triangle_base: 7.315288953913679
-  fore_triangle_height: 8.83930748597903
-  length_on_waterline: 9.44891489880517
-  length_over_all: 10.972933430870519
   main:
     foot: 6.806266764203852
     head: 4.87685930260912
     luff: 5.334064862228725
-  propellor:
-    type: fixed
   thcf: 1.025602355
+  draft: 1.3716166788588149
   topsail:
     luff: 5.7912704218483295
     perpendicular: 2.43842965130456
+  propellor:
+    type: fixed
+  length_over_all: 10.972933430870519
+  fore_triangle_base: 7.315288953913679
+  length_on_waterline: 9.44891489880517
+  fore_triangle_height: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 10e8a112-f06d-4a71-bf3d-e8733661f186
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Mermaid
-oga_no: 1332
+callsign: ''
 ownerships:
 - name: M R Waterhouse
   share: 64
   start: 1973
 place_built: Boston
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:08.38287+00:00'
 website: ''
 year: 1904
 year_is_approximate: false
+previous_names:
+- Charles Josephine
+construction_details: Carvel pitch pine on oak
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

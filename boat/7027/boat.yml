@@ -1,43 +1,53 @@
-builder: 954dc050-837f-454f-be87-830d8cf00c2b
-callsign: ''
+name: Quiet Days
+oga_no: 7027
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: Alan F. Platt  Ltd
+  id: 954dc050-837f-454f-be87-830d8cf00c2b
+designer:
+  name: Laurie Harbottell
+  id: 429d5fa7-e592-464a-9e6e-611903d6fe0e
 construction_material: wood
 construction_method: unknown
-designer: 429d5fa7-e592-464a-9e6e-611903d6fe0e
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.194586686174104
-  draft: 0.60960741282614
-  fore_triangle_base: 2.6517922457937084
-  fore_triangle_height: 7.802974884174591
-  length_on_waterline: 5.577907827359181
-  length_over_all: 6.187515240185321
   main:
     foot: 3.0785174347720066
     luff: 7.315288953913679
+  draft: 0.60960741282614
+  length_over_all: 6.187515240185321
+  fore_triangle_base: 2.6517922457937084
+  length_on_waterline: 5.577907827359181
+  fore_triangle_height: 7.802974884174591
 home_country: GBR
 home_port: West Mersea
 hull_form: unknown
 id: ac561988-abe0-4479-a37b-135833d6d45a
 length_on_deck: 6.1966
-mainsail_type: bermudan
-name: Quiet Days
-oga_no: 7027
+callsign: ''
 ownerships:
 - name: Nigel Bassett
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 4293
-  share: 64
+  current: true
   start: '?'
 place_built: Thundersley
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:40:00.783889+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+beam: 2.1854
+design_class:
+  name: Finesse 21
+  id: d119bfdd-3b06-4b8a-9675-384a025c62e4
+for_sale_state:
+  text: not_for_sale

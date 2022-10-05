@@ -1,12 +1,10 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
-construction_material: grp
-construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
-draft: 0.7102
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Malin
+oga_no: 3126
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Malin&#39; cruises the coast between the Lizard and Exmouth,
+  usually spending the summer holidays in St Mawes.</p>
 full_description: "<p>When named &#39;Corystes&#39; she was based on Hayling Island,\
   \ then went to the Clyde, and was then renamed&nbsp;&#39;Malin&#39;. The owner holds\
   \ a copy of an original drawing scaled at 1/2in to 1ft, a revision dated 1975.</p>\r\
@@ -15,50 +13,66 @@ full_description: "<p>When named &#39;Corystes&#39; she was based on Hayling Isl
   \ drains removed, now drains to the bilges. She is fitted with custom pulpit and\
   \ guard rails.</p>\r\n\r\n<p>In 2014 she&nbsp;has had a 35sqft topsail jib added&nbsp;to\
   \ her sail wardrobe.</p>"
-generic_type: Yacht
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+construction_material: grp
+construction_method: unknown
+draft: 0.7102
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.7112167763960009
-  fore_triangle_base: 4.191069251402097
-  fore_triangle_height: 5.334077054376981
-  length_on_waterline: 6.172281150938795
-  length_over_all: 7.315288953913679
-  length_over_spars: 8.83930748597903
   main:
     foot: 4.01325286515484
     head: 2.7432333577176298
     luff: 3.505254815898561
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 27.668108292241037
   thcf: 0.87
+  draft: 0.7112167763960009
   topsail:
     luff: 3.9624481833699097
     perpendicular: 1.9304316020482808
+  sailarea: 27.668108292241037
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.315288953913679
+  length_over_spars: 8.83930748597903
+  fore_triangle_base: 4.191069251402097
+  length_on_waterline: 6.172281150938795
+  fore_triangle_height: 5.334077054376981
 home_country: GBR
 home_port: St Mawes, currently laid up ashore in Somerset.
 hull_form: long keel deep forefoot
 id: 27b6b6eb-b199-4f32-b6f5-8a0c5ae372aa
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Malin
-oga_no: 3126
+ssr: '115299'
+callsign: ''
 ownerships:
 - end: 2010
   name: Derek Fabian
   share: 64
   start: 0
-- current: true
-  id: 761
-  member: 5772
+- id: 761
   share: 64
   start: 2010
+  member: 5772
+  current: true
 place_built: Rock
-rig_type: Cutter
-short_description: <p>&#39;Malin&#39; cruises the coast between the Lizard and Exmouth,
-  usually spending the summer holidays in St Mawes.</p>
 updated_at: '2021-12-19T13:39:58.598863+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+previous_names:
+- Corystes
+image_key: tDkbPd
+beam: 2.4384
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
+for_sale_state:
+  text: not_for_sale

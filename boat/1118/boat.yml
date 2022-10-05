@@ -1,11 +1,11 @@
-builder: fc20882a-afef-4027-8ffd-38b8c888437d
-callsign: ''
-construction_material: steel
-construction_method: unknown
-designer: 18430ed0-dc84-4565-bfa9-e9822ff94246
-draft: 0.762
-engine_installations: []
-for_sales: []
+name: Sunlight
+oga_no: 1118
+generic_type: Barge
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>&#39;Sunlight&#39; was the first of the &#39;Eastcountryman
+  33&#39; class, built by Paul Winch in 1980 prior to forming his company in the same
+  name.</p>
 full_description: "<p>Paul Winch, builder and designer, describes the background to\
   \ building &#39;Sunlight&#39; and her main features. This article was first published\
   \ in 1985.</p>\r\n\r\n<blockquote>lt started with a commission to design a barge\
@@ -107,30 +107,39 @@ full_description: "<p>Paul Winch, builder and designer, describes the background
   \ which would be a nice turn to the wheel of fortune (or if not fortune, keep us\
   \ busy!)</blockquote>\r\n\r\n<h4>by Paul Winch<br />\r\nFirst published in the Old\
   \ Gaffers Association Newsletter, 1984/4</h4>"
-generic_type: Barge
+builder:
+  name: Paul Winch
+  id: fc20882a-afef-4027-8ffd-38b8c888437d
+designer:
+  name: Paul Winch
+  id: 18430ed0-dc84-4565-bfa9-e9822ff94246
+construction_material: steel
+construction_method: unknown
+draft: 0.762
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.4138015118263834
   draft: 0.7620092660326749
-  length_on_waterline: 10.05852231163131
   length_over_all: 10.05852231163131
+  length_on_waterline: 10.05852231163131
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 980c8b95-6a58-4ce9-b81c-2568acdb5e41
 length_on_deck: 10.0584
-mainsail_type: gaff
-name: Sunlight
-oga_no: 1118
+sail_number: E331
+callsign: ''
 ownerships:
 - name: R Wilshaw
   share: 64
   start: 2012
 place_built: Faversham
-rig_type: Ketch
-short_description: <p>&#39;Sunlight&#39; was the first of the &#39;Eastcountryman
-  33&#39; class, built by Paul Winch in 1980 prior to forming his company in the same
-  name.</p>
 updated_at: '2021-12-19T13:39:02.039899+00:00'
 website: ''
 year: 1981
 year_is_approximate: false
+image_key: JFx4MF
+beam: 3.4138
+for_sale_state:
+  text: not_for_sale

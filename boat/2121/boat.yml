@@ -1,30 +1,38 @@
-builder: c05fc0f6-f896-404a-83a0-58c7b37a12e0
-callsign: ''
+name: Corsair
+oga_no: 2121
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: CB Nov/Dec 88
+builder:
+  name: Norfolk Broads Yacht Co.
+  id: c05fc0f6-f896-404a-83a0-58c7b37a12e0
+designer:
+  name: Walter Woods
+  id: 0f18cbf0-6403-44bf-9913-a16ea4af9ccb
 construction_material: wood
 construction_method: clinker
-designer: 0f18cbf0-6403-44bf-9913-a16ea4af9ccb
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: CB Nov/Dec 88
-generic_type: Yacht
 handicap_data:
   beam: 2.4689100219458666
   draft: 0.9144111192392099
-  length_on_waterline: 8.686905632772493
   length_over_all: 8.991709339185563
+  length_on_waterline: 8.686905632772493
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: fcb97f85-b0c7-418a-b775-ec67c292fd58
 length_on_deck: 8.9916
-mainsail_type: gaff
-name: Corsair
-oga_no: 2121
+callsign: ''
 place_built: Potter Heigham
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:43:27.29146+00:00'
 website: ''
 year: 1906
 year_is_approximate: false
+construction_details: Clinker oak planking on steamed oak timbers
+beam: 2.4689
+for_sale_state:
+  text: not_for_sale

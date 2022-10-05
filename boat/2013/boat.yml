@@ -1,42 +1,50 @@
-builder: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
-callsign: ''
+name: Scheherazade
+oga_no: 2013
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: See Merganser 1467 for design history. Water Craft Sep/Oct 97
+builder:
+  name: Liverpool Boat Co. Ltd.
+  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: See Merganser 1467 for design history. Water Craft Sep/Oct 97
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  fore_triangle_base: 2.6670324311143623
-  fore_triangle_height: 5.4864667154352595
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  propellor:
-    type: fixed
   thcf: 0.863665851
+  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
+  propellor:
+    type: fixed
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.6670324311143623
+  length_on_waterline: 5.690685198732017
+  fore_triangle_height: 5.4864667154352595
 home_country: 'null'
 home_port: Hamble
 hull_form: long keel deep forefoot
 id: 2785b671-1ac9-465c-b309-c6f46f78ddd0
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Scheherazade
-oga_no: 2013
+callsign: ''
 place_built: Liverpool
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-26T07:56:21.016506+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+construction_details: GRP
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

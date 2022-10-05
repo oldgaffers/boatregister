@@ -1,47 +1,60 @@
-builder: 609d8a8b-c14c-402c-b727-519e519d6f6f
-callsign: ''
+name: Louisa
+oga_no: 2452
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Louisa was launched 6 September 2000.
+full_description: ''
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+designer:
+  name: D Freeman/G. Wyatt
+  id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 construction_material: grp
 construction_method: cold_moulded
-designer: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.2799317239697636
-  draft: 0.9144111192392099
-  fore_triangle_base: 3.038892952938308
-  fore_triangle_height: 5.7912704218483295
-  length_on_waterline: 5.498658863691782
-  length_over_all: 6.879419653742989
   main:
     foot: 3.880151182638381
     head: 2.8102901731285055
     luff: 3.648500365764448
-  propellor:
-    type: fixed
   thcf: 0.852821279
+  draft: 0.9144111192392099
   topsail:
     luff: 3.648500365764448
     perpendicular: 1.6703243111436235
+  propellor:
+    type: fixed
+  length_over_all: 6.879419653742989
+  fore_triangle_base: 3.038892952938308
+  length_on_waterline: 5.498658863691782
+  fore_triangle_height: 5.7912704218483295
 home_country: GBR
 home_port: Emsworth
 hull_form: long keel deep forefoot
 id: ddd1540f-309a-404b-b5f4-28ddfa333f98
 length_on_deck: 6.8885
-mainsail_type: gaff
-name: Louisa
-oga_no: 2452
+sail_number: 008
+ssr: '91534'
+callsign: ''
 ownerships:
 - end: 2013
   name: Steve Pearce
   share: 64
   start: 2009
 place_built: Yarmouth IOW
-rig_type: Cutter
-short_description: Louisa was launched 6 September 2000.
 updated_at: '2021-12-19T13:39:39.190385+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+construction_details: grp, teak trim, columbian pine spars
+beam: 2.286
+design_class:
+  name: Yarmouth 23
+  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
+for_sale_state:
+  text: not_for_sale

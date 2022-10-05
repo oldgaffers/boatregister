@@ -1,34 +1,43 @@
-builder: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
-callsign: ''
+name: Euodia
+oga_no: 1492
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+designer:
+  name: Latimer
+  id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
 construction_material: wood
 construction_method: clinker
-designer: 6fdcf8f9-a1db-43f3-808d-fc243570b567
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   draft: 1.3716166788588149
-  length_on_waterline: 6.858083394294074
   length_over_all: 6.858083394294074
+  length_on_waterline: 6.858083394294074
 home_country: 'null'
 home_port: Chichester
 hull_form: unknown
 id: 041c7c6d-a713-4bd8-a312-e670a3694b26
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Euodia
-oga_no: 1492
+ssr: '340345'
+callsign: ''
 ownerships:
 - name: John M Wittebolle
   share: 64
   start: 1989
 place_built: Canvey Island
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:12.899872+00:00'
 website: ''
 year: 1964
 year_is_approximate: false
+construction_details: Clinker Mahogany on oak with steel
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

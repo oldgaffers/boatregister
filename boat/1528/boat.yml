@@ -1,34 +1,46 @@
-builder: 1aad33fa-35fd-4069-a7a7-c48d64e640fb
-callsign: ''
+name: Maggie of Aberdour
+oga_no: 1528
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Services Marine
+  id: 1aad33fa-35fd-4069-a7a7-c48d64e640fb
+designer:
+  name: Francis J. Jones
+  id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 construction_material: wood
 construction_method: carvel
-designer: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 draft: 1.6002
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 4.191050963179712
   draft: 1.6002194586686174
-  length_on_waterline: 11.125335284077053
   length_over_all: 12.405510851011949
+  length_on_waterline: 11.125335284077053
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: ee4d3027-c913-4599-9c0c-a53e8fd85707
 length_on_deck: 12.4054
-mainsail_type: gaff
-name: Maggie of Aberdour
-oga_no: 1528
+uk_part1: '307337'
+callsign: ''
 ownerships:
 - name: I A Reed
   share: 64
   start: 1988
 place_built: Aberdour
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:13.933624+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+construction_details: Carvel Larch on grown oak
+beam: 4.191
+design_class:
+  name: Inchcape 38
+  id: 4475c3e5-b32a-4bf1-9b5c-5d175c8e53cc
+for_sale_state:
+  text: not_for_sale

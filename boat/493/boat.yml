@@ -1,37 +1,42 @@
-callsign: ''
+name: Recovery II
+oga_no: 493
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 68/4
 construction_material: wood
 construction_method: unknown
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: Log 68/4
-generic_type: unknown
 handicap_data:
   beam: 1.7069007559131917
-  draft: 1.066812972445745
-  fore_triangle_base: 2.529870763228481
-  fore_triangle_height: 4.114850036576445
-  length_on_waterline: 4.724457449402585
-  length_over_all: 5.029261155815655
   main:
     foot: 3.3528407705437697
     head: 3.3132162887100702
     luff: 1.6764203852718849
   thcf: 0.806285637
+  draft: 1.066812972445745
+  length_over_all: 5.029261155815655
+  fore_triangle_base: 2.529870763228481
+  length_on_waterline: 4.724457449402585
+  fore_triangle_height: 4.114850036576445
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 6e0fead7-be3b-4b70-a50f-a5e38b4d1e6b
 length_on_deck: 5.0292
-mainsail_type: gaff
-name: Recovery II
-oga_no: 493
+reference:
+- Log 68/4
+callsign: ''
 ownerships:
 - name: D Jackson
   share: 64
   start: 2012
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:43.87113+00:00'
 website: ''
 year_is_approximate: false
+beam: 1.7069
+for_sale_state:
+  text: not_for_sale

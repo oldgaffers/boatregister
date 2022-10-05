@@ -1,13 +1,21 @@
-builder: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
-callsign: ''
+name: Olivia
+oga_no: 2313
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Boatman Jan/Feb 96
+builder:
+  name: North Norfolk Boat Building Co.
+  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: wood
 construction_method: unknown
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.1768
 engine_installations: []
 for_sales: []
-full_description: Boatman Jan/Feb 96
-generic_type: Dinghy
 handicap_data:
   beam: 1.5758351621555717
   draft: 0.17678614971958057
@@ -17,12 +25,11 @@ home_port: ''
 hull_form: unknown
 id: 5b8082c7-688e-4762-9092-ef82f9f701ba
 length_on_deck: 3.9624
-mainsail_type: gaff
-name: Olivia
-oga_no: 2313
+callsign: ''
 place_built: Morston
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-01-31T17:02:52.218118+00:00'
 website: ''
 year_is_approximate: false
+beam: 1.5758
+for_sale_state:
+  text: not_for_sale

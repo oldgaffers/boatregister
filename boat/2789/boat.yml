@@ -1,33 +1,41 @@
-builder: a777971c-fef9-4412-9ad3-422224af5a67
-callsign: ''
+name: Ondina
+oga_no: 2789
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Luke Bros and Co.
+  id: a777971c-fef9-4412-9ad3-422224af5a67
+designer:
+  name: A.R. Luke
+  id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 construction_material: wood
 construction_method: carvel
-designer: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.682272616435016
-  length_on_waterline: 8.22970007315289
   length_over_all: 11.430138990490123
+  length_on_waterline: 8.22970007315289
 home_country: NLD
 home_port: Rosmalen
 hull_form: unknown
 id: 7b825972-7082-4613-a0d7-27d70aa3d35a
 length_on_deck: 11.43
-mainsail_type: gaff
-name: Ondina
-oga_no: 2789
+callsign: ''
 ownerships:
 - name: Frank Zomerdijk
   share: 64
   start: 2003
 place_built: Hamble
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:49.492109+00:00'
 website: ''
 year: 1906
 year_is_approximate: false
+construction_details: Carvel
+beam: 2.6822
+for_sale_state:
+  text: not_for_sale

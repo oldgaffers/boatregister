@@ -1,43 +1,53 @@
-builder: 79003eb5-2931-4269-93f5-3c42fde1c27b
-callsign: ''
+name: Elgris
+oga_no: 2608
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: See paper Archive,  CB & the Boatman
+builder:
+  name: C.H. Fox and Sons Ltd.
+  id: 79003eb5-2931-4269-93f5-3c42fde1c27b
+designer:
+  name: T. Harrison Butler
+  id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
 construction_material: wood
 construction_method: carvel
-designer: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: See paper Archive,  CB & the Boatman
-generic_type: unknown
 handicap_data:
   beam: 2.2098268714947573
-  draft: 1.3716166788588149
-  fore_triangle_base: 3.0480370641306997
-  fore_triangle_height: 6.4008778346744695
-  length_on_waterline: 5.4864667154352595
-  length_over_all: 6.4770787612777365
   main:
     foot: 3.8618629602535965
     head: 2.8194342843208973
     luff: 4.014264813460131
+  thcf: 0.853201753
+  draft: 1.3716166788588149
   propellor:
     type: fixed
-  thcf: 0.853201753
+  length_over_all: 6.4770787612777365
+  fore_triangle_base: 3.0480370641306997
+  length_on_waterline: 5.4864667154352595
+  fore_triangle_height: 6.4008778346744695
 home_country: 'null'
 home_port: Falmouth
 hull_form: long keel deep forefoot
 id: e1ffee1a-5408-471b-b2ef-a843fe61c43e
 length_on_deck: 6.477
-mainsail_type: gaff
-name: Elgris
-oga_no: 2608
+uk_part1: 70928S
+callsign: ''
 ownerships:
 - name: Graham Morris
   share: 64
   start: 2012
 place_built: Ipswitch
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:44.174884+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+construction_details: Carvel Wych Elm below & yellow pine above on steamed Rock elm
+  timbers on oak  keel.
+beam: 2.2098
+for_sale_state:
+  text: not_for_sale

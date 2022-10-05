@@ -1,11 +1,9 @@
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
-draft: 0.9144
-engine_installations: []
-for_sales:
-- asking_price: 4500
+name: Jacinta
+oga_no: 3237
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Jacinta is a Leigh Cockler</p>
 full_description: "Jacinta is a typical example of Maurice Griffiths' Cockler class,\
   \ which loosely followed the lines of the Leigh cockle bawleys of the late 19th\
   \ and early 20th centuries. With an easy entry, round bilges and a fine run aft,\
@@ -29,19 +27,37 @@ full_description: "Jacinta is a typical example of Maurice Griffiths' Cockler cl
   \ Hand bilge pump plus 3 electric pumps driven by 2 seperate batteries. CQR Anchor,\
   \ chain and fishermans anchor.<p>New keel bolts 2004. Recaulking below waterline\
   \ completed March 2014."
-generic_type: Yacht
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+construction_material: wood
+construction_method: carvel
+draft: 0.9144
+engine_installations: []
+for_sales:
+- asking_price: 4500
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 48f1966a-cefd-4aa1-99c3-ea068f01af55
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Jacinta
-oga_no: 3237
+reference:
+- Log Mar 2002
+sail_number: '238'
+spar_material: wood
+uk_part1: '300333'
+callsign: ''
 place_built: Leigh on Sea
-rig_type: Cutter
-short_description: <p>Jacinta is a Leigh Cockler</p>
 updated_at: '2021-03-12T08:28:49.163413+00:00'
 website: ''
 year: 1952
 year_is_approximate: false
+previous_names:
+- Golliwog
+- Jacinta
+- Goli
+image_key: Qp9bJb
+construction_details: Mahogany on oak
+beam: 2.4902
+for_sale_state:
+  text: not_for_sale

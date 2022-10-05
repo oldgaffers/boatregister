@@ -1,12 +1,18 @@
-builder: b60691a7-24a2-4655-92ed-c4b114287899
-callsign: ''
+name: Ha'penny Breeze
+oga_no: 879
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 78/4
+builder:
+  name: Estuary Yacht Co.
+  id: b60691a7-24a2-4655-92ed-c4b114287899
 construction_material: wood
 construction_method: unknown
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: Log 78/4
-generic_type: unknown
 handicap_data:
   beam: 2.286027798098025
   draft: 0.7620092660326749
@@ -16,17 +22,18 @@ home_port: ''
 hull_form: unknown
 id: 8eed98a4-6543-485f-a18e-f511d8687f66
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Ha'penny Breeze
-oga_no: 879
+reference:
+- Log 78/4
+callsign: ''
 ownerships:
 - name: A M Wakeling
   share: 64
   start: 1978
 place_built: Leigh on Sea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:54.904519+00:00'
 website: ''
 year: 1950
 year_is_approximate: false
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

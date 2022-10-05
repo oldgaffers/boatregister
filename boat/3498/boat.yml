@@ -1,28 +1,43 @@
-designer: 7877c433-3d9f-4f1d-9d79-5f66462d5f61
-draft: 0.2042
-engine_installations: []
-for_sales: []
+name: Chubby
+oga_no: 3498
+generic_type: Dinghy
+mainsail_type: gaff
+short_description: Restored West Wight Scow
 full_description: '"Chubby" is a West Wight Scow, sympathetically and beautifully
   restored  by students of I.B.T.C in Portsmouth Naval Dockyard - Boathouse 4.  Originally
   built by Williams of Cowes in 1951 she was in a sorry state before restoration and
   is now gorgeously seaworthy!'
-generic_type: Dinghy
+designer:
+  name: Theo Osborne Smith
+  id: 7877c433-3d9f-4f1d-9d79-5f66462d5f61
+draft: 0.2042
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Newport, Isle of Wight.
 hull_form: centre-board dinghy
 id: bd0ed9fe-3148-41f0-a79e-815c1b08357c
 length_on_deck: 3.429
-mainsail_type: gaff
-name: Chubby
-oga_no: 3498
+spar_material: wood
+ssr: 91426  129
 ownerships:
-- current: true
-  id: 90
-  member: 1772
+- id: 90
   share: 64
+  member: 1772
+  current: true
   start: '?'
 place_built: Cowes
-short_description: Restored West Wight Scow
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 1951
 year_is_approximate: false
+previous_names:
+- Moonraker
+image_key: KL7Qtf
+construction_details: currently (and unusually,) three thwarts and an inlaid brass
+  detail on the stem. Varnished pine topsides, keel and garboards are elm.
+beam: 1.4478
+design_class:
+  name: West Wight Scow
+  id: bb921aec-4dd2-4914-95d0-89be9910f684
+for_sale_state:
+  text: not_for_sale

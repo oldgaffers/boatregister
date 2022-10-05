@@ -1,34 +1,42 @@
-builder: 0e6984df-2127-47ea-b03a-85174c128bea
-callsign: ''
+name: Perserverance
+oga_no: 1326
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Halstow Yacht Builders
+  id: 0e6984df-2127-47ea-b03a-85174c128bea
+designer:
+  name: Greenwich Maritime Museum
+  id: 6a798759-334a-457c-a826-b8b0cc883b74
 construction_material: ferro
 construction_method: unknown
-designer: 6a798759-334a-457c-a826-b8b0cc883b74
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Bawley
 handicap_data:
   beam: 3.6576444769568397
   draft: 1.3716166788588149
-  length_on_waterline: 10.05852231163131
   length_over_all: 10.66812972445745
+  length_on_waterline: 10.05852231163131
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: bfa571df-8cc8-4198-981e-37ba8979671f
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Perserverance
-oga_no: 1326
+callsign: ''
 ownerships:
 - name: L W Garnes
   share: 64
   start: 1988
 place_built: Halstow
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:08.226388+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+construction_details: Round bilge, raked transom, straight stem in Ferro-cement
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

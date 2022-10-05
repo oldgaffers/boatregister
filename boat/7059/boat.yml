@@ -1,29 +1,41 @@
-builder: 57fc3053-4c34-45ae-ab20-adebf6ca3808
-callsign: ''
+name: Drumler
+oga_no: 7059
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: Cheoy Lee Shipyards Ltd.
+  id: 57fc3053-4c34-45ae-ab20-adebf6ca3808
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
 construction_material: wood
 construction_method: carvel
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: 'null'
 home_port: Woodbridge
 hull_form: unknown
 id: e781f5f5-4236-42a6-a6fe-592dd63df286
 length_on_deck: 0
-mainsail_type: bermudan
-name: Drumler
-oga_no: 7059
+sail_number: V 125
+callsign: ''
 ownerships:
 - name: David Dow
   share: 64
   start: 1996
 place_built: Hong Kong
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:40:01.751363+00:00'
 website: ''
 year: 1963
 year_is_approximate: false
+construction_details: Carvel teak on Ipol frames
+beam: 0
+design_class:
+  name: Vertue
+  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,10 @@
-builder: 38047e91-0349-4b10-aa50-f4b4806c6915
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: d68aa001-34a0-4241-8cf2-17ae7c0dc600
-draft: 2.286
-engine_installations: []
-for_sales: []
+name: Airy Mouse
+oga_no: 1253
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>&#39;Airy Mouse&#39; was built in Fowey and launched in 1894
+  at Watty&#39;s yard.</p>
 full_description: "<p>Built in Fowey, 1894, &#39;Airy Mouse&#39; was designed by a\
   \ Cornish artist, Edwin Brett, in 1891 for the Commodore of the Royal Fowey Yacht\
   \ Club, Mr. Edward Atkinson. Originally a cutter, she was converted to a gaff ketch\
@@ -15,35 +14,47 @@ full_description: "<p>Built in Fowey, 1894, &#39;Airy Mouse&#39; was designed by
   \ with a short period in Guernsey where she was rescued from being burnt for her\
   \ copper fastenings by John Clluett. Her figurehead (a bat, &#39;Airy Mouse&#39;\
   \ being Cornish for bat) is in the Royal Fowey YC.</p>"
-generic_type: Yacht
+builder:
+  name: A.H. Watty and Sons
+  id: 38047e91-0349-4b10-aa50-f4b4806c6915
+designer:
+  name: Edwin Brett
+  id: d68aa001-34a0-4241-8cf2-17ae7c0dc600
+construction_material: wood
+construction_method: carvel
+draft: 2.286
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.8100463301633747
   draft: 2.286027798098025
-  length_on_waterline: 12.192148256522799
-  length_over_all: 17.67861497195806
   propellor:
     type: fixed
+  length_over_all: 17.67861497195806
+  length_on_waterline: 12.192148256522799
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: fd39972c-3caf-45d5-8b3b-a8f347a289bf
 length_on_deck: 17.6784
-mainsail_type: gaff
-name: Airy Mouse
-oga_no: 1253
+sail_number: K4208T
+uk_part1: '95731'
+callsign: ''
 ownerships:
 - name: A Tate
   share: 64
   start: 1981
 - note: '''Airy Mouse'' was sold in 1999 (National Historic Ships records)'
+  text: '''Airy Mouse'' was sold in'
   start: 1999
   start_is_approximate: false
-  text: '''Airy Mouse'' was sold in'
 place_built: Fowey
-rig_type: Ketch
-short_description: <p>&#39;Airy Mouse&#39; was built in Fowey and launched in 1894
-  at Watty&#39;s yard.</p>
 updated_at: '2021-12-19T13:39:06.101666+00:00'
 website: ''
 year: 1894
 year_is_approximate: false
+image_key: nWbZQB
+construction_details: Carvel teak on Oak
+beam: 3.81
+for_sale_state:
+  text: not_for_sale

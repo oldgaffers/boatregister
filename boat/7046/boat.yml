@@ -1,13 +1,21 @@
-builder: 229a6fb7-266a-4139-b638-5b0b55c8eb82
-callsign: ''
+name: Pochard
+oga_no: 7046
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: C.J. Coxen
+  id: 229a6fb7-266a-4139-b638-5b0b55c8eb82
+designer:
+  name: Alfred J Westmacott
+  id: 54a54a45-ffb9-499b-8e78-74c125fcc35f
 construction_material: wood
 construction_method: unknown
-designer: 54a54a45-ffb9-499b-8e78-74c125fcc35f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   length_over_all: 7.976712996830042
@@ -16,17 +24,18 @@ home_port: Elephant Bt Yd Hamble
 hull_form: unknown
 id: 30d8138b-c457-43e6-aae0-5e623b87e804
 length_on_deck: 7.9766
-mainsail_type: bermudan
-name: Pochard
-oga_no: 7046
+callsign: ''
 ownerships:
 - name: Peter Johnson
   share: 64
   start: 2012
 place_built: Portsmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:40:01.398953+00:00'
 website: ''
 year: 1931
 year_is_approximate: false
+previous_names:
+- Chum
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

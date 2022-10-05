@@ -1,45 +1,53 @@
-builder: 9a496da2-d400-431f-8476-3795d8972daa
-callsign: ''
+name: Cats Paws
+oga_no: 2664
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Frank Clarke/Andrew Clarke
+  id: 9a496da2-d400-431f-8476-3795d8972daa
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 construction_material: woodepoxy
 construction_method: unknown
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 draft: 0.2804
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.9812240916849548
-  draft: 0.2804194099000244
-  fore_triangle_base: 1.4234333089490367
-  fore_triangle_height: 4.291636186296025
-  length_on_waterline: 4.6055840039014875
-  length_over_all: 4.87685930260912
   main:
     foot: 1.5240185320653499
     head: 2.8956352109241648
     luff: 2.3622287247012923
+  thcf: 0.766530406
+  draft: 0.2804194099000244
   mizzen:
     foot: 1.2435991221653255
     head: 1.929407461594733
     luff: 1.716044867105584
-  thcf: 0.766530406
+  length_over_all: 4.87685930260912
+  fore_triangle_base: 1.4234333089490367
+  length_on_waterline: 4.6055840039014875
+  fore_triangle_height: 4.291636186296025
 home_country: 'null'
 home_port: Trailer sail
 hull_form: unknown
 id: 89837885-2736-4a3b-8c68-d3f8bcabeeff
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Cats Paws
-oga_no: 2664
+callsign: ''
 ownerships:
 - name: Frank Clarkson
   share: 64
   start: 2004
 place_built: Amesbury
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:45.629117+00:00'
 website: ''
 year: 2004
 year_is_approximate: false
+construction_details: Epoxy stitch & glue ply
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

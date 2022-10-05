@@ -1,38 +1,50 @@
-builder: b54f18a6-4887-4163-9c95-30d09792d098
-callsign: ''
+name: Patricia of Birdham
+oga_no: 3054
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Triple keeled gunter rig mainsail 240 sq ft.</p>
+full_description: ''
+builder:
+  name: Westerly Marine
+  id: b54f18a6-4887-4163-9c95-30d09792d098
+designer:
+  name: D.A. Rayner
+  id: afc68d59-e7ba-466e-861f-741e2eeae526
 construction_material: grp
 construction_method: cold_moulded
-designer: afc68d59-e7ba-466e-861f-741e2eeae526
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.261643501584979
   draft: 0.9144111192392099
-  length_on_waterline: 5.587051938551572
   length_over_all: 6.858083394294074
+  length_on_waterline: 5.587051938551572
 home_country: 'null'
 home_port: Queenborough
 hull_form: unknown
 id: c15614f4-5da0-4df2-888f-1702c0dacb2c
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Patricia of Birdham
-oga_no: 3054
+uk_part1: '309108'
+callsign: ''
 ownerships:
 - name: John  Barrett
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 5522
-  share: 64
+  current: true
   start: '?'
 place_built: Waterlooville
-rig_type: Cutter
-short_description: <p>Triple keeled gunter rig mainsail 240 sq ft.</p>
 updated_at: '2021-12-19T13:39:56.92636+00:00'
 website: ''
 year: 1966
 year_is_approximate: false
+construction_details: GRP
+beam: 2.2616
+design_class:
+  name: Westerly 22
+  id: d87a28fa-5251-4b74-a07d-fa35555f8e72
+for_sale_state:
+  text: not_for_sale

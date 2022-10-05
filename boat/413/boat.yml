@@ -1,11 +1,14 @@
-builder: aa101181-9ded-4e09-90c7-fb193da705c9
-callsign: ''
-construction_material: ferro
-construction_method: unknown
-designer: b8d7cb8d-d4c6-455c-b7ad-ed408107c501
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Alice & Florrie
+oga_no: 413
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p class="western" style="margin-top:0.1cm; margin-bottom:0.1cm"><span
+  style="font-size:10pt"><span style="font-family:&quot;Nimbus Sans L&quot;,sans-serif"><font
+  color="#000000"><i><span style="font-weight:normal">Alice</span></i><span style="font-weight:normal">
+  is a Leigh cockler, built by S.J. Peters of Leigh-on-sea in 1905. </span><span style="font-style:normal"><span
+  style="font-weight:normal">Named after her owner&nbsp;Harry Robinson&#39;s two daughters
+  she was registered for cockling, shrimping, and trawling.</span></span></font></span></span></p>
 full_description: "<p class=\"western\" style=\"margin-top:0.1cm; margin-bottom:0.1cm\"\
   ><span style=\"font-size:10pt\"><span style=\"font-family:&quot;Nimbus Sans L&quot;,sans-serif\"\
   ><font color=\"#000000\"><i><span style=\"font-weight:normal\">Alice</span></i><span\
@@ -23,46 +26,54 @@ full_description: "<p class=\"western\" style=\"margin-top:0.1cm; margin-bottom:
   \ Sailed as a yacht in 1935 when long cockpit coaming was rove on and coachroof\
   \ over. After part of this raised in 1965 when first diesel went in. Rebuilt and\
   \ sheathed in 1975. Restored to Bawley rig in 1987. Shed removed in 1992.</span></span></font></span></span></p>"
-generic_type: unknown
+builder:
+  name: S.J. Peters
+  id: aa101181-9ded-4e09-90c7-fb193da705c9
+designer:
+  name: S.J. Peters
+  id: b8d7cb8d-d4c6-455c-b7ad-ed408107c501
+construction_material: ferro
+construction_method: unknown
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.0480370641306997
-  draft: 0.9144111192392099
-  fore_triangle_base: 6.2484759814679345
-  fore_triangle_height: 7.010485247500609
-  length_on_waterline: 9.052670080468177
-  length_over_all: 9.1441111923921
   main:
     foot: 5.334064862228725
     head: 5.867471348451597
     luff: 4.57205559619605
-  propellor:
-    type: fixed
   thcf: 0.984746927
+  draft: 0.9144111192392099
   topsail:
     luff: 5.7912704218483295
     perpendicular: 3.733845403560107
+  propellor:
+    type: fixed
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 6.2484759814679345
+  length_on_waterline: 9.052670080468177
+  fore_triangle_height: 7.010485247500609
 home_country: GBR
 home_port: Pyefleet
 hull_form: long keel deep forefoot
 id: 40f7e787-1b32-4ad4-857a-e663c081905b
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Alice & Florrie
-oga_no: 413
+uk_part1: '164130'
+callsign: ''
 ownerships:
 - end: 2013
   name: A Judd
   share: 64
   start: 2009
 place_built: Leigh on Sea
-rig_type: Cutter
-short_description: <p class="western" style="margin-top:0.1cm; margin-bottom:0.1cm"><span
-  style="font-size:10pt"><span style="font-family:&quot;Nimbus Sans L&quot;,sans-serif"><font
-  color="#000000"><i><span style="font-weight:normal">Alice</span></i><span style="font-weight:normal">
-  is a Leigh cockler, built by S.J. Peters of Leigh-on-sea in 1905. </span><span style="font-style:normal"><span
-  style="font-weight:normal">Named after her owner&nbsp;Harry Robinson&#39;s two daughters
-  she was registered for cockling, shrimping, and trawling.</span></span></font></span></span></p>
 updated_at: '2021-12-19T13:38:41.626921+00:00'
 website: ''
 year: 1905
 year_is_approximate: false
+previous_names:
+- Camero
+construction_details: Ferro Cement Sheathed 1975
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

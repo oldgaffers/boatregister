@@ -1,47 +1,60 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
+name: Minelvia
+oga_no: 423
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Minelvia was registered in Lloyds, 1953. She is a standard Hillyard
+  4 tonner built 1937 at Littlehampton.
+full_description: ''
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 construction_material: wood
 construction_method: carvel
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 1.1582
 engine_installations: []
 for_sales:
 - asking_price: 0
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.234211168007803
-  draft: 1.1430138990490124
-  fore_triangle_base: 3.581443550353572
-  fore_triangle_height: 6.300292611558157
-  length_on_waterline: 6.2484759814679345
-  length_over_all: 6.705681541087539
   main:
     foot: 4.520238966105827
     head: 2.691416727627408
     luff: 3.6820287734698853
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.866501549
+  draft: 1.1430138990490124
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 6.705681541087539
+  fore_triangle_base: 3.581443550353572
+  length_on_waterline: 6.2484759814679345
+  fore_triangle_height: 6.300292611558157
 home_country: GBR
 home_port: Holyhead
 hull_form: long keel deep forefoot
 id: ee170aaa-9fdb-4d99-9252-676e1372a911
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Minelvia
-oga_no: 423
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2019
   name: Graham Carter
   share: 64
   start: 2011
 place_built: Littlehampton
-rig_type: Cutter
-short_description: Minelvia was registered in Lloyds, 1953. She is a standard Hillyard
-  4 tonner built 1937 at Littlehampton.
 updated_at: '2021-12-19T13:38:41.88066+00:00'
 website: ''
 year: 1937
 year_is_approximate: false
+image_key: bPrphc
+construction_details: Pitch pine on oak, carvel
+beam: 2.225
+design_class:
+  name: Hillyard 4 Ton
+  id: dd1c5e02-b960-4dc1-9ab5-850d1e51dcc0
+for_sale_state:
+  text: not_for_sale

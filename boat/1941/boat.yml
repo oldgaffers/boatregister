@@ -1,34 +1,42 @@
-builder: 3d210f9c-47fa-42e6-be15-40274bb0614d
-callsign: ''
+name: Ellen
+oga_no: 1941
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: G. Bernthal
+  id: 3d210f9c-47fa-42e6-be15-40274bb0614d
+designer:
+  name: G. Bernthal
+  id: 2353ef72-c2e7-4033-9e93-43a021b840dc
 construction_material: grp
 construction_method: cold_moulded
-designer: 2353ef72-c2e7-4033-9e93-43a021b840dc
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
-  length_over_all: 8.53450377956596
   thcf: 0.952
+  length_over_all: 8.53450377956596
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 3c79b2cd-c223-4747-864d-8c3342c52de3
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Ellen
-oga_no: 1941
+callsign: ''
 ownerships:
-- current: true
-  id: 231
-  member: 3199
+- id: 231
   share: 64
   start: 1995
+  member: 3199
+  current: true
 place_built: Faversham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:24.773637+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+construction_details: GRP
+beam: 0
+for_sale_state:
+  text: not_for_sale

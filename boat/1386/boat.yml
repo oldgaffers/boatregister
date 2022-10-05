@@ -1,34 +1,42 @@
-builder: decb725f-117e-4d21-a852-c4db4280cdd3
-callsign: ''
+name: Cygnus
+oga_no: 1386
+generic_type: unknown
+rig_type: Schooner
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Roth W. McKie
+  id: decb725f-117e-4d21-a852-c4db4280cdd3
+designer:
+  name: Roth from Chapelle
+  id: 04237e0c-9b88-4353-9d4b-1e111dc787e2
 construction_material: wood
 construction_method: clinker
-designer: 04237e0c-9b88-4353-9d4b-1e111dc787e2
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.560351133869788
   draft: 1.21921482565228
-  length_on_waterline: 6.858083394294074
   length_over_all: 11.277737137283589
+  length_on_waterline: 6.858083394294074
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: dff1af3b-8829-44ef-be97-6256b8c538ea
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: Cygnus
-oga_no: 1386
+callsign: ''
 ownerships:
 - name: J  Badgley
   share: 64
   start: 2012
 place_built: Marshal Cal
-rig_type: Schooner
-short_description: ''
 updated_at: '2021-12-19T13:39:09.867379+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+construction_details: Pine clinker planking over oak bent frames with oak flooring
+beam: 2.5603
+for_sale_state:
+  text: not_for_sale

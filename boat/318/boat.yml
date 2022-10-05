@@ -1,32 +1,37 @@
-builder: 2f1b50b2-d0d6-4e28-8af1-6250c8dca466
-callsign: ''
+name: Garuda
+oga_no: 318
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: J. Meagan
+  id: 2f1b50b2-d0d6-4e28-8af1-6250c8dca466
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.9202633504023408
-  length_on_waterline: 4.724457449402585
   length_over_all: 5.6388685686417945
+  length_on_waterline: 4.724457449402585
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 40ca42ad-6e26-4875-a246-01f8993defb4
 length_on_deck: 5.6388
-mainsail_type: gaff
-name: Garuda
-oga_no: 318
+callsign: ''
 ownerships:
 - name: J C Baker
   share: 64
   start: 2012
 place_built: Portsmouth
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:39.051904+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+beam: 1.9202
+for_sale_state:
+  text: not_for_sale

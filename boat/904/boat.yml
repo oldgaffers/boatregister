@@ -1,13 +1,21 @@
-builder: de0894b2-8d6c-4886-bd0d-a96a1cf0378d
-callsign: ''
+name: Arcadia
+oga_no: 904
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Log 74/2  Ex Auxiliary lugger
+builder:
+  name: Chislett and Lewis
+  id: de0894b2-8d6c-4886-bd0d-a96a1cf0378d
+designer:
+  name: Chislett and Lewis
+  id: cc7bba06-26ca-476d-9e13-56f6a7e81808
 construction_material: wood
 construction_method: unknown
-designer: cc7bba06-26ca-476d-9e13-56f6a7e81808
 draft: 1.8806
 engine_installations: []
 for_sales: []
-full_description: Log 74/2  Ex Auxiliary lugger
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.8806388685686417
@@ -17,17 +25,18 @@ home_port: Medway
 hull_form: unknown
 id: 6cb93e5b-014b-4a70-9778-b5b34821ab41
 length_on_deck: 9.653
-mainsail_type: gaff
-name: Arcadia
-oga_no: 904
+reference:
+- Log 74/?
+callsign: ''
 ownerships:
 - name: Steven Truss
   share: 64
   start: 2012
 place_built: Poole
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:55.632396+00:00'
 website: ''
 year: 1896
 year_is_approximate: false
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

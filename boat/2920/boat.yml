@@ -1,8 +1,18 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Nilla
+oga_no: 2920
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Nilla is a Memory 19 built by Salterns Boatyard in 2001.</p>
+full_description: ''
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales:
@@ -16,29 +26,31 @@ for_sales:
   sold: '2020-12-16'
   summary: Sold privately to an enthusiast in Truro. Was kept in Kingswear
   updated_at: '2020-12-16T07:42:21.962324+00:00'
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   draft: 0.5334064862228725
-  length_on_waterline: 5.690685198732017
   length_over_all: 5.7912704218483295
+  length_on_waterline: 5.690685198732017
 home_country: GBR
 home_port: Truro
 hull_form: centre-boarder
 id: ca7a9238-d8aa-4c8a-92de-37534ac04d1a
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Nilla
-oga_no: 2920
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Richard Cooke
   share: 64
   start: 2012
 place_built: Lymm
-rig_type: Sloop
-short_description: <p>Nilla is a Memory 19 built by Salterns Boatyard in 2001.</p>
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 2001
 year_is_approximate: false
+construction_details: GRP
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

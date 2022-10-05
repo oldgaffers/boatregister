@@ -1,41 +1,49 @@
-builder: 474ba972-00c3-4a90-82b6-4bc18df0e980
-callsign: ''
+name: Petranella
+oga_no: 1603
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Petranella&#39; is an Oysterman 16 built in 1979.</p>
+full_description: <p>Designed on the lines of oyster dredgers in Falmouth, &#39;Petranella&#39;
+  has cruised between The Scillies and Ipswich, including Calais. She was class winner
+  in the North Kent and Medway Area race, 1992 and awarded the Commodore&#39;s pennant.</p>
+builder:
+  name: Bar Creek Yacht Station
+  id: 474ba972-00c3-4a90-82b6-4bc18df0e980
+designer:
+  name: Paul Gartside
+  id: 0557a793-41ba-4182-8138-206701b31451
 construction_material: grp
 construction_method: cold_moulded
-designer: 0557a793-41ba-4182-8138-206701b31451
 draft: 0.9144
 engine_installations: []
 for_sales:
 - asking_price: 6750
-full_description: <p>Designed on the lines of oyster dredgers in Falmouth, &#39;Petranella&#39;
-  has cruised between The Scillies and Ipswich, including Calais. She was class winner
-  in the North Kent and Medway Area race, 1992 and awarded the Commodore&#39;s pennant.</p>
-generic_type: Yacht
 handicap_data:
   beam: 1.929407461594733
-  draft: 0.9144111192392099
-  fore_triangle_base: 3.2309192879785416
-  fore_triangle_height: 6.032065349914655
-  length_on_waterline: 4.800658376005852
-  length_over_all: 4.87685930260912
   main:
     foot: 3.6820287734698853
     head: 3.023652767617654
     luff: 3.633260180443794
-  propellor:
-    type: fixed
   thcf: 0.836838439
+  draft: 0.9144111192392099
   topsail:
     luff: 3.9624481833699097
     perpendicular: 2.386613021214338
+  propellor:
+    type: fixed
+  length_over_all: 4.87685930260912
+  fore_triangle_base: 3.2309192879785416
+  length_on_waterline: 4.800658376005852
+  fore_triangle_height: 6.032065349914655
 home_country: FRA
 home_port: South Brittany
 hull_form: long keel deep forefoot
 id: dd737347-970e-4b30-9bee-a9f24af6fa5f
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Petranella
-oga_no: 1603
+sail_number: OY1603
+ssr: '17218'
+callsign: ''
 ownerships:
 - end: 1990
   name: Martin Pound
@@ -45,17 +53,20 @@ ownerships:
     who kept her on the Isle of Wight. She sold her to Adrian Sharpe. When owned by
     Dave Keller she was sailed very enthusiastically along the south coast of England.
     In 2016, she was sold in France, where she remains on the Trieux River.
+  text: Owned by David Keller from
   start: 1990
   start_is_approximate: false
-  text: Owned by David Keller from
 - end: 2016
   name: Adrian Sharpe
   share: 64
   start: 2012
 place_built: Malpas
-rig_type: Cutter
-short_description: <p>&#39;Petranella&#39; is an Oysterman 16 built in 1979.</p>
 updated_at: '2021-12-19T13:39:16.052153+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+image_key: p3j5n8
+construction_details: GRP
+beam: 1.9294
+for_sale_state:
+  text: not_for_sale

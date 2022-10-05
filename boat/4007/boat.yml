@@ -1,30 +1,41 @@
-builder: 9e7f1fa2-81e0-48b2-980b-a4bdb35728bb
-callsign: ''
+name: Northern Light
+oga_no: 4007
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Log 65/5
+builder:
+  name: N. Christensen
+  id: 9e7f1fa2-81e0-48b2-980b-a4bdb35728bb
+designer:
+  name: C. Maartmann
+  id: 8002bdeb-61a1-4b02-82e6-b7e548ba707c
 construction_material: wood
 construction_method: unknown
-designer: 8002bdeb-61a1-4b02-82e6-b7e548ba707c
 draft: 2.4384
 engine_installations: []
 for_sales: []
-full_description: Log 65/5
-generic_type: Yacht
 handicap_data:
   beam: 4.114850036576445
   draft: 2.43842965130456
-  length_on_waterline: 12.192148256522799
   length_over_all: 14.630577907827359
+  length_on_waterline: 12.192148256522799
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 8c03eb0c-4c48-4590-9b0e-0a6d2cac897c
 length_on_deck: 14.6304
-mainsail_type: gaff
-name: Northern Light
-oga_no: 4007
+reference:
+- Log 65/5
+uk_part1: '162710'
+callsign: ''
 place_built: Risor
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-03-27T22:53:26.604204+00:00'
 website: ''
 year: 1931
 year_is_approximate: false
+construction_details: 3in Burma Teak Juniper Treenails Oak frames
+beam: 4.1148
+for_sale_state:
+  text: not_for_sale

@@ -1,28 +1,35 @@
+name: Granuaile
+oga_no: 3502
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Home built in back garden from 19995 to 2003\. Has completed 2
+  full Atlantic crossings in 2006/7 and again 2014/16\. Has travelled as far south
+  as Guyana, being possibly the first Irish yacht to visit here. Currently based in
+  Strangford Lough Northern Ireland.
+full_description: Nick Skates designed Wylo II, gaff rigged cutter
 construction_material: steel
 construction_method: cold_moulded
 engine_installations: []
 for_sales: []
-full_description: Nick Skates designed Wylo II, gaff rigged cutter
-generic_type: Yacht
 home_country: United Kingdom
 home_port: Strangford Lough
 hull_form: long keel sloping forefoot
 id: a1bc3cad-015c-4385-82af-be3628f40e3c
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Granuaile
-oga_no: 3502
+spar_material: wood
 ownerships:
-- current: true
-  id: 1146
-  member: 3389
+- id: 1146
   share: 32
+  member: 3389
+  current: true
   start: '?'
-rig_type: Cutter
-short_description: Home built in back garden from 19995 to 2003\. Has completed 2
-  full Atlantic crossings in 2006/7 and again 2014/16\. Has travelled as far south
-  as Guyana, being possibly the first Irish yacht to visit here. Currently based in
-  Strangford Lough Northern Ireland.
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 2003
 year_is_approximate: false
+image_key: 556z2t
+design_class:
+  name: Wylo ll Class 35
+  id: dffa3cc8-26fd-4fc1-ac7c-1d0639b5426d
+for_sale_state:
+  text: not_for_sale

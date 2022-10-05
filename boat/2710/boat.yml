@@ -1,46 +1,55 @@
-builder: bbdbc931-4d0c-4df6-b28a-d326ed4b0bdd
-callsign: ''
+name: Hope
+oga_no: 2710
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Boatman no 12 p64
+builder:
+  name: John Hesp
+  id: bbdbc931-4d0c-4df6-b28a-d326ed4b0bdd
+designer:
+  name: John Hesp
+  id: 8b6dd01b-31b8-4e71-9424-a97a26346595
 construction_material: woodepoxy
 construction_method: unknown
-designer: 8b6dd01b-31b8-4e71-9424-a97a26346595
 draft: 0.8626
 engine_installations: []
 for_sales: []
-full_description: Boatman no 12 p64
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
-  draft: 0.8625944891489881
-  fore_triangle_base: 5.4864667154352595
-  fore_triangle_height: 9.418434528163862
-  length_on_waterline: 7.796878810046329
-  length_over_all: 8.22970007315289
   main:
     foot: 4.57205559619605
     head: 4.663496708119971
     luff: 4.57205559619605
-  propellor:
-    type: folding
   thcf: 0.965543163
+  draft: 0.8625944891489881
   topsail:
     luff: 6.004633016337478
     perpendicular: 2.987076322848086
+  propellor:
+    type: folding
+  length_over_all: 8.22970007315289
+  fore_triangle_base: 5.4864667154352595
+  length_on_waterline: 7.796878810046329
+  fore_triangle_height: 9.418434528163862
 home_country: 'null'
 home_port: Falmouth
 hull_form: long keel sloping forefoot
 id: 2a4658e5-55fc-44f0-a27d-546c2b9bbe6b
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Hope
-oga_no: 2710
+ssr: '67271'
+callsign: ''
 ownerships:
 - name: John Hesp
   share: 64
   start: 1996
 place_built: Luxborough
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:47.089642+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+construction_details: Strip Plank Cedar/Epoxy
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

@@ -1,13 +1,20 @@
-builder: 5f63e3a8-30de-4f93-9b1c-3cc6060d3b04
-callsign: ''
+name: Snowdrop
+oga_no: 1104
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: Log 78/2
+builder:
+  name: J. Bowden/R. Kitto
+  id: 5f63e3a8-30de-4f93-9b1c-3cc6060d3b04
+designer:
+  name: J. Bowden/Kitto R.
+  id: 5373469c-8eae-4a47-ac62-01ff28afaa2f
 construction_material: wood
 construction_method: carvel
-designer: 5373469c-8eae-4a47-ac62-01ff28afaa2f
 draft: 1.8288
 engine_installations: []
 for_sales: []
-full_description: Log 78/2
-generic_type: unknown
 handicap_data:
   beam: 4.114850036576445
   draft: 1.8288222384784198
@@ -17,16 +24,19 @@ home_port: ''
 hull_form: unknown
 id: 0f8628d7-32e8-429b-842d-07d96839b986
 length_on_deck: 13.5636
-mainsail_type: gaff
-name: Snowdrop
-oga_no: 1104
+reference:
+- Log 78/2
+callsign: ''
 ownerships:
 - name: J Davidson
   share: 64
   start: 2012
 place_built: Fowey
-short_description: ''
 updated_at: '2021-12-19T13:39:01.618624+00:00'
 website: ''
 year: 1925
 year_is_approximate: false
+construction_details: Pitch pine on oak
+beam: 4.1148
+for_sale_state:
+  text: not_for_sale

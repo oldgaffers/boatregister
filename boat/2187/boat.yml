@@ -1,45 +1,57 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: ''
+name: Moonstone VIII
+oga_no: 2187
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: grp
 construction_method: cold_moulded
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.2098268714947573
-  draft: 0.60960741282614
-  fore_triangle_base: 2.0117044623262617
-  fore_triangle_height: 5.090221897098268
-  length_on_waterline: 5.577907827359181
-  length_over_all: 6.5532796878810045
   main:
     foot: 3.4138015118263834
     head: 3.017556693489393
     luff: 3.444281882467691
+  draft: 0.60960741282614
   mizzen:
     foot: 1.4630577907827358
     luff: 2.7432333577176298
+  length_over_all: 6.5532796878810045
+  fore_triangle_base: 2.0117044623262617
+  length_on_waterline: 5.577907827359181
+  fore_triangle_height: 5.090221897098268
 home_country: GBR
 home_port: West Mersea
 hull_form: unknown
 id: 680b5291-0da2-44a3-94e0-be92bc3fa4ea
 length_on_deck: 6.5532
-mainsail_type: gaff
-name: Moonstone VIII
-oga_no: 2187
+sail_number: '42'
+ssr: '61491'
+callsign: ''
 ownerships:
-- current: true
-  id: 166
-  member: 2549
+- id: 166
   share: 64
   start: 1997
+  member: 2549
+  current: true
 place_built: Totnes
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:31.668121+00:00'
 website: ''
 year: 1982
 year_is_approximate: false
+previous_names:
+- Tinker
+construction_details: GRP
+beam: 2.2098
+for_sale_state:
+  text: not_for_sale

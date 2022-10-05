@@ -1,34 +1,47 @@
-builder: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
-callsign: ''
+name: Lizzie Tonkin
+oga_no: 1108
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 83/4
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: wood
 construction_method: unknown
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: Log 83/4
-generic_type: unknown
 handicap_data:
   beam: 2.13362594489149
   draft: 0.5334064862228725
-  length_on_waterline: 5.690685198732017
   length_over_all: 5.7912704218483295
+  length_on_waterline: 5.690685198732017
 home_country: 'null'
 home_port: ''
 hull_form: centre-boarder
 id: 7713bb38-fdb0-44b1-a505-4ef5029f54b5
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Lizzie Tonkin
-oga_no: 1108
+reference:
+- Log 83/4
+spar_material: wood
+callsign: ''
 ownerships:
 - name: N P Mockford
   share: 64
   start: 2012
 place_built: Lymm
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

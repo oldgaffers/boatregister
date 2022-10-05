@@ -1,12 +1,10 @@
-builder: 19f2f4a9-5bdc-4cea-ba45-17be5e6e7bea
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: f97b2d74-8535-4ed5-8602-651d2ca2898f
-draft: 0
-engine_installations: []
-for_sales:
-- asking_price: 1500
+name: Kingfisher of Hamford Water
+oga_no: 3347
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gunter
+short_description: <p>Kingfisher of Hamford Water is a sailing dinghy, probably one
+  of the last sailing vessels built at Chatham Naval Dockyard.</p>
 full_description: "<p>Designed by Charles Nicholson and Uffa Fox, &#39;Kingfisher&#39;\
   \ was built in the 1930s at Chatham Naval Dockyard, probably one of the last sailing\
   \ vessels they ever built there. She served at HMS Ganges, Shotley, then moved to\
@@ -23,30 +21,39 @@ full_description: "<p>Designed by Charles Nicholson and Uffa Fox, &#39;Kingfishe
   \ bronze fittings that would make I K Brunel whistle. Peppered with crowsfeet and\
   \ Chatham marks on every surface, her beautiful Egyptian cotton sails have Chatham\
   \ sail loft marks, made in the 1960s.</p>"
-generic_type: Dinghy
+builder:
+  name: Naval Dockyard Chatham
+  id: 19f2f4a9-5bdc-4cea-ba45-17be5e6e7bea
+designer:
+  name: Charles E. Nicholson
+  id: f97b2d74-8535-4ed5-8602-651d2ca2898f
+construction_material: wood
+construction_method: clinker
+draft: 0
+engine_installations: []
+for_sales:
+- asking_price: 1500
 handicap_data:
-  calculated_thcf: 0.78
-  draft_keel_down: 0.9906
-  fore_triangle_base: 1.2192
-  fore_triangle_height: 4.1148
-  length_on_waterline: 4.2672
-  length_over_spars: 4.2672
-  length_overall: 4.2672
   main:
     foot: 10.08
     head: 14.5
     luff: 5.42
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 6
+  moving_keel: true
+  length_overall: 4.2672
+  calculated_thcf: 0.78
+  draft_keel_down: 0.9906
+  moving_keel_type: Centreboard
+  length_over_spars: 4.2672
+  fore_triangle_base: 1.2192
+  length_on_waterline: 4.2672
+  fore_triangle_height: 4.1148
 home_country: GBR
 home_port: Shoreham on Sea
 hull_form: long keel deep forefoot
 id: 37f984cb-aae1-499e-aab7-d55b1323ce5b
 length_on_deck: 4.2672
-mainsail_type: gunter
-name: Kingfisher of Hamford Water
-oga_no: 3347
+callsign: ''
 ownerships:
 - note: Previous owner Graham Stanford
   text: Previous owner Graham Stanford
@@ -55,9 +62,15 @@ ownerships:
   share: 64
   start: 2003
 place_built: Chatham Naval Dockyard
-rig_type: Sloop
-short_description: <p>Kingfisher of Hamford Water is a sailing dinghy, probably one
-  of the last sailing vessels built at Chatham Naval Dockyard.</p>
 updated_at: '2021-12-19T13:40:08.35288+00:00'
 website: ''
 year_is_approximate: false
+image_key: rxNpGs
+construction_details: Clinker built, probably mahogany on oak, copper fastened. Bronze
+  fittings including centreplate winch.
+beam: 1.6703
+design_class:
+  name: RNSA14
+  id: b8c7ec88-aa9a-4f0f-b002-ec982442c2b2
+for_sale_state:
+  text: not_for_sale

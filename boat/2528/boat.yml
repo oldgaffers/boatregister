@@ -1,41 +1,55 @@
-builder: 83a839af-b960-4cce-a881-b4401432846c
-callsign: ''
+name: Ibis
+oga_no: 2528
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Lost in the Solent, May 2005.  Was one of five remaining. Her owner
+  has rebuilt her from a wreck.
+builder:
+  name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
+designer:
+  name: Charles E. Nicholson
+  id: f97b2d74-8535-4ed5-8602-651d2ca2898f
 construction_material: wood
 construction_method: unknown
-designer: f97b2d74-8535-4ed5-8602-651d2ca2898f
 draft: 0.89
 engine_installations: []
 for_sales: []
-full_description: Lost in the Solent, May 2005.  Was one of five remaining. Her owner
-  has rebuilt her from a wreck.
-generic_type: unknown
 handicap_data:
   beam: 1.6764
-  fore_triangle_base: 1.4722
-  fore_triangle_height: 3.048
-  length_on_waterline: 4.8768
-  length_over_all: 6.7269
   main:
     foot: 4.8768
     head: 4.4958
     luff: 1.9995
   thcf: 0.869037314
+  length_over_all: 6.7269
+  fore_triangle_base: 1.4722
+  length_on_waterline: 4.8768
+  fore_triangle_height: 3.048
 home_country: 'null'
 home_port: Hamble
 hull_form: unknown
 id: 3c45e40e-3724-4c15-b1f2-315cb48285cd
 length_on_deck: 6.7269
-mainsail_type: gaff
-name: Ibis
-oga_no: 2528
+sail_number: '15'
+callsign: ''
 ownerships:
 - name: Nick Buxton
   share: 64
   start: 2012
 place_built: Gosport
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:41.808124+00:00'
 website: ''
 year: 1898
 year_is_approximate: false
+previous_names:
+- Erynx
+- Coot
+beam: 1.6764
+design_class:
+  name: Bembridge Redwing
+  id: c2682956-21fb-4f51-9227-c36bc9e9f69c
+for_sale_state:
+  text: not_for_sale

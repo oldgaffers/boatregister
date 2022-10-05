@@ -1,11 +1,12 @@
-builder: f4375d5d-1165-4159-bb93-5b4a7ee43be1
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 3199db8d-e122-4423-b3b8-038e30c077dd
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Sheemaun
+oga_no: 2750
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Built in 1935 by Noble &amp; Co of Fraserburgh, &#39;Sheemaun&#39;
+  is a gentleman&rsquo;s motor sailer, conscripted into the royal Navy during World
+  War II, transferred to the Merchant Navy, used as a training ship and a participant
+  in the Queen&#39;s Jubilee River Pageant, 2012.</p>
 full_description: "<h3>First published in the OGA East Coast Newsletter, &#39;Eastcoaster&#39;,\
   \ August 2012</h3>\r\n\r\n<p>In 1935, banker Ernest Richards commissioned the famous\
   \ Scottish naval architects GL Watson &amp; Co. to design a capable and seaworthy\
@@ -39,7 +40,17 @@ full_description: "<h3>First published in the OGA East Coast Newsletter, &#39;Ea
   \ was awarded in 2012 when &#39;Sheemaun&#39;<em> </em>was invited to take part\
   \ in the &lsquo;Avenue of Sail&rsquo; at the Queen&rsquo;s Jubilee Thames Pageant\
   \ on 3 June and when, as their Flagship, she represented the Little Ship Club.</p>"
-generic_type: Yacht
+builder:
+  name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
+designer:
+  name: G.L. Watson
+  id: 3199db8d-e122-4423-b3b8-038e30c077dd
+construction_material: wood
+construction_method: unknown
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.200195074372104
   draft: 1.5240185320653499
@@ -49,22 +60,20 @@ home_port: Ramsgate
 hull_form: unknown
 id: de4e1bbf-2dab-49a3-8ae3-6179a37036df
 length_on_deck: 13.716
-mainsail_type: gaff
-name: Sheemaun
-oga_no: 2750
+callsign: ''
 ownerships:
-- current: true
-  id: 626
-  member: 5348
+- id: 626
   share: 64
   start: 1987
+  member: 5348
+  current: true
 place_built: Fraserburgh
-rig_type: Ketch
-short_description: <p>Built in 1935 by Noble &amp; Co of Fraserburgh, &#39;Sheemaun&#39;
-  is a gentleman&rsquo;s motor sailer, conscripted into the royal Navy during World
-  War II, transferred to the Merchant Navy, used as a training ship and a participant
-  in the Queen&#39;s Jubilee River Pageant, 2012.</p>
 updated_at: '2021-12-19T13:39:48.28512+00:00'
 website: ''
 year: 1935
 year_is_approximate: false
+image_key: Ct5f3g
+construction_details: Pithpine & larch on oak
+beam: 4.191
+for_sale_state:
+  text: not_for_sale

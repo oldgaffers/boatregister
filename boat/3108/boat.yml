@@ -1,11 +1,10 @@
-builder: ee606f1a-2d39-4945-86a8-a3ca228616f2
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
-draft: 1.2954
-engine_installations: []
-for_sales: []
+name: Vindilis
+oga_no: 3108
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: "'Vindilis' was Harrison Butler\u2019s own boat built in 1935 to\
+  \ replace his Plymouth Hooker type gaffer named 'Sandook'."
 full_description: "<p>Harrison Butler was a well-known amateur designer at the time&nbsp;who&nbsp;championed\
   \ the metacentric theory. He aimed for balance and boats that sailed themselves.\
   \ When it came to his own boat, he selected the Davinka design and confusingly named\
@@ -25,23 +24,33 @@ full_description: "<p>Harrison Butler was a well-known amateur designer at the t
   \n\r\n<p>The previous two owners based &#39;Vindilis&#39; on the Clyde. She returned\
   \ to the South Coast for the 2010 season under Richard &amp; Helen Farmer&#39;s\
   \ ownership.</p>"
-generic_type: Yacht
+builder:
+  name: Moody
+  id: ee606f1a-2d39-4945-86a8-a3ca228616f2
+designer:
+  name: T. Harrison Butler
+  id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+construction_material: wood
+construction_method: unknown
+draft: 1.2954
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.6416483784442817
   draft: 1.346226530114606
-  fore_triangle_base: 4.57205559619605
-  fore_triangle_height: 10.66812972445745
-  length_on_waterline: 6.858095586442331
   length_over_all: 9.1441111923921
   length_over_spars: 10.66812972445745
+  fore_triangle_base: 4.57205559619605
+  length_on_waterline: 6.858095586442331
+  fore_triangle_height: 10.66812972445745
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
 id: cdf6625d-bcc2-4b1d-9156-e57cc3d00ccd
 length_on_deck: 9.144
-mainsail_type: bermudan
-name: Vindilis
-oga_no: 3108
+sail_number: '25'
+uk_part1: '163672'
+callsign: ''
 ownerships:
 - end: 1944
   name: Harrison Butler
@@ -71,16 +80,22 @@ ownerships:
   name: Richard Normand
   share: 64
   start: 1979
-- current: true
-  id: 753
-  member: 5755
+- id: 753
   share: 64
   start: 2009
+  member: 5755
+  current: true
 place_built: Swanwick
-rig_type: Cutter
-short_description: "'Vindilis' was Harrison Butler\u2019s own boat built in 1935 to\
-  \ replace his Plymouth Hooker type gaffer named 'Sandook'."
 updated_at: '2021-12-19T13:39:58.076404+00:00'
 website: http://www.harrisonbutlerassociation.com/PhotoArchive/Vindilis/Article0044.html
 year: 1935
 year_is_approximate: false
+image_key: 3C2rtk
+construction_details: Pitch pine planking on oak frames - oak keel and stem teak deck
+  and cabin sides - bronze floors
+beam: 2.5908
+design_class:
+  name: Davinka
+  id: 7f20669b-e48b-4d02-8ab8-8848cf51cf57
+for_sale_state:
+  text: not_for_sale

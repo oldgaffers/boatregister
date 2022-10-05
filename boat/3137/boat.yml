@@ -1,10 +1,12 @@
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 1.1003
-engine_installations: []
-for_sales:
-- asking_price: 7500
+name: Valiant
+oga_no: 3137
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built for leisure, &#39;Valiant&#39; was fished 1939-1998 by
+  the Freemantel family out of Portsmouth. She sank after a collision at Spithead
+  in 1998. Recovered, restored re-engined and re-masted during 1999 - 2006 by Frank
+  Worley, she was moved to Brittany, France. In 2017, she returned to the Solent.</p>
 full_description: "<p>&#39;Valiant&#39;, P189, was built Osborne&#39;s Littlehampton\
   \ in 1937 for leisure with engine and auxilliary sails&nbsp;as an 3/4 open boat\
   \ with focs&#39;le and fore deck.</p>\r\n\r\n<p>She fished from Langstone Harbour\
@@ -34,38 +36,43 @@ full_description: "<p>&#39;Valiant&#39;, P189, was built Osborne&#39;s Littleham
   \ ft, or a cut down genoa of approx 80sq. ft. A forestaysail of cream 7.2oz Clipper\
   \ Canvas is approx 80sq. ft.</p>\r\n\r\n<p>Legs bolted through the hull sides to\
   \ longditudinal members enable drying out upright and ashore over winter.</p>"
-generic_type: Yacht
+construction_material: wood
+construction_method: carvel
+draft: 1.1003
+engine_installations: []
+for_sales:
+- asking_price: 7500
 handicap_data:
   beam: 2.80003405267008
   draft: 1.1000133778346743
-  length_on_waterline: 8.000097293343087
   length_over_all: 8.400102158010242
   length_over_spars: 10.00012161667886
+  length_on_waterline: 8.000097293343087
 home_country: GBR
 home_port: Solent
 hull_form: long keel deep forefoot
 id: 967dad55-5e05-4479-8fb7-20ff8b87a90a
 length_on_deck: 8.4003
-mainsail_type: gaff
-name: Valiant
-oga_no: 3137
+ssr: '121485'
+uk_part1: SSR 121485
+callsign: ''
 ownerships:
 - end: 1998
   name: Freemantel Family
   share: 64
   start: 1939
-- current: true
-  id: 536
-  member: 4882
+- id: 536
   share: 64
   start: 1999
+  member: 4882
+  current: true
 place_built: Osborne's, Littlehampton
-rig_type: Cutter
-short_description: <p>Built for leisure, &#39;Valiant&#39; was fished 1939-1998 by
-  the Freemantel family out of Portsmouth. She sank after a collision at Spithead
-  in 1998. Recovered, restored re-engined and re-masted during 1999 - 2006 by Frank
-  Worley, she was moved to Brittany, France. In 2017, she returned to the Solent.</p>
 updated_at: '2021-12-19T13:39:58.953862+00:00'
 website: ''
 year: 1937
 year_is_approximate: false
+image_key: xNbt6s
+construction_details: Carvel Pine on oak frames
+beam: 2.8011
+for_sale_state:
+  text: not_for_sale

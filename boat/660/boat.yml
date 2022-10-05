@@ -1,12 +1,10 @@
-builder: 28fd53d4-bb37-4584-be38-268a7296d656
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
-draft: 1.3716
-engine_installations: []
-for_sales:
-- asking_price: 13500
+name: Wendy May
+oga_no: 660
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Wendy May&#39; is the last of four sister ships, built
+  in 1936, based on Maurice Griffiths&#39; design &#39;Olive Mary&#39;.</p>
 full_description: "<p>A typical East Coast gaff cutter yacht, &#39;Wendy May&#39;\
   \ was the fourth to be built to a Maurice Griffiths design; the first three being\
   \ built at Harry King&#39;s Yard at Pin Mill on the River Orwell, Suffolk.</p>\r\
@@ -35,47 +33,59 @@ full_description: "<p>A typical East Coast gaff cutter yacht, &#39;Wendy May&#39
   \ the Netherlands. She was described when launched as being &lsquo;dry and well\
   \ able to heave-to, with sitting headroom beneath wide side-decks and with bulwarks\
   \ 9ins high. In short a hard-weather packet.&rsquo;</p>"
-generic_type: Yacht
+builder:
+  name: Williams and Parkinson
+  id: 28fd53d4-bb37-4584-be38-268a7296d656
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales:
+- asking_price: 13500
 handicap_data:
   beam: 2.590831504511095
-  draft: 1.3716166788588149
-  fore_triangle_base: 5.6388685686417945
-  fore_triangle_height: 7.162887100707144
-  length_on_waterline: 7.010485247500609
-  length_over_all: 7.772494513533284
   main:
     foot: 4.419653742989515
     head: 2.8956352109241648
     luff: 4.495854669592782
-  propellor:
-    type: fixed
   thcf: 0.910541061
+  draft: 1.3716166788588149
   topsail:
     luff: 2.8956352109241648
     perpendicular: 1.3716166788588149
+  propellor:
+    type: fixed
+  length_over_all: 7.772494513533284
+  fore_triangle_base: 5.6388685686417945
+  length_on_waterline: 7.010485247500609
+  fore_triangle_height: 7.162887100707144
 home_country: GBR
 home_port: Canvey Island, Essex
 hull_form: long keel deep forefoot
 id: 0598dcd7-6fa3-4a27-8bbc-261e99f8b499
 length_on_deck: 7.7724
-mainsail_type: gaff
-name: Wendy May
-oga_no: 660
+uk_part1: '166077'
+callsign: ''
 ownerships:
 - end: 2014
   name: Phil Slade
   share: 64
   start: 1996
-- current: true
-  id: 1095
-  member: 6349
+- id: 1095
   share: 64
   start: 2017
+  member: 6349
+  current: true
 place_built: Deganwy, North Wales
-rig_type: Cutter
-short_description: <p>&#39;Wendy May&#39; is the last of four sister ships, built
-  in 1936, based on Maurice Griffiths&#39; design &#39;Olive Mary&#39;.</p>
 updated_at: '2021-12-19T13:38:48.726393+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+image_key: rQR8nj
+construction_details: Carvel pitch pine on oak
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

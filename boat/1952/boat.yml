@@ -1,14 +1,22 @@
-builder: 8737e788-ba48-483e-9da9-971d1700fa27
-callsign: ''
+name: Trevora
+oga_no: 1952
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: James A. Silver
+  id: 8737e788-ba48-483e-9da9-971d1700fa27
+designer:
+  name: John Bain
+  id: e831b83b-6131-426d-8f8d-1a58dd2a1703
 construction_material: wood
 construction_method: carvel
-designer: e831b83b-6131-426d-8f8d-1a58dd2a1703
 draft: 1.0668
 engine_installations: []
 for_sales:
 - asking_price: 54750
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.0480370641306997
   length_over_all: 13.106559375762009
@@ -17,19 +25,23 @@ home_port: Cultra Co Down
 hull_form: long keel deep forefoot
 id: 037b9ba0-4519-4e22-9e12-b681dae9dece
 length_on_deck: 13.1064
-mainsail_type: bermudan
-name: Trevora
-oga_no: 1952
+callsign: ''
 ownerships:
-- current: true
-  id: 205
-  member: 2964
+- id: 205
   share: 64
   start: 2012
+  member: 2964
+  current: true
 place_built: Rosneath, Clyde
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:25.123139+00:00'
 website: ''
 year: 1938
 year_is_approximate: false
+image_key: b6NPqS
+construction_details: Carvel
+beam: 3.048
+design_class:
+  name: TSDY
+  id: 64250abd-7d75-4a4a-8e83-54e2cef10327
+for_sale_state:
+  text: not_for_sale

@@ -1,33 +1,40 @@
-builder: b5bbbf58-71e1-4360-aceb-1c60d74167de
-callsign: ''
+name: Valuna
+oga_no: 584
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: A. Munro
+  id: b5bbbf58-71e1-4360-aceb-1c60d74167de
+designer:
+  name: A. Munro
+  id: 9cc097c6-e8ac-40bd-88fe-d7ce97f09509
 construction_material: wood
 construction_method: unknown
-designer: 9cc097c6-e8ac-40bd-88fe-d7ce97f09509
 draft: 1.8288
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.8288222384784198
-  length_on_waterline: 8.22970007315289
   length_over_all: 9.1441111923921
+  length_on_waterline: 8.22970007315289
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 92875ece-f646-4012-aece-0d641abac782
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Valuna
-oga_no: 584
+callsign: ''
 ownerships:
 - name: D E Buds
   share: 64
   start: 2012
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:46.537634+00:00'
 website: ''
 year: 1901
 year_is_approximate: false
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

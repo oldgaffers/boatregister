@@ -1,11 +1,11 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: MZWS5
-construction_material: grp
-construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
-draft: 1.0668
-engine_installations: []
-for_sales: []
+name: Equinox
+oga_no: 2427
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Equinox is a 24 ft. 6&quot; Cornish Crabber 24&nbsp;built in
+  1999 and based in Chichester. Burgundy hull, two tone deck and tan mainsail, staysail
+  and jib with a red and white&nbsp;striped topsail.&nbsp;</p>
 full_description: "<p>Exhibited as a part build at the 1999 Southampton Boatshow,\
   \ Equinox returned to Cornish Crabbers in Rock after the show to complete her fitting\
   \ out. She was launched in&nbsp;Chichester in Feb 2000.&nbsp;Over the years she\
@@ -19,41 +19,56 @@ full_description: "<p>Exhibited as a part build at the 1999 Southampton Boatshow
   \ eventful passages&nbsp;reported in three instalments on <a href=\"http://www.sailing-by.org.uk/content/single-handed-fog-hamble-brixham\"\
   >Sailing by</a>.</p>\r\n\r\n<p>On 1 July 2015 Equinox was purchased by a private\
   \ buyer and relocated to&nbsp;the East Coast.</p>"
-generic_type: Yacht
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.0668
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.5908436966593515
-  draft: 1.0668251645940015
-  fore_triangle_base: 4.191069251402097
-  fore_triangle_height: 7.543910021945867
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 7.467702999268471
   main:
     foot: 4.31805657156791
     head: 3.1242440868080954
     luff: 4.597457937088515
+  thcf: 0.879
+  draft: 1.0668251645940015
+  sailarea: 33.21608466966262
   propellor:
     type: fixed
-  sailarea: 33.21608466966262
-  thcf: 0.879
+  length_over_all: 7.467702999268471
+  fore_triangle_base: 4.191069251402097
+  length_on_waterline: 6.0960741282613995
+  fore_triangle_height: 7.543910021945867
 home_country: GBR
 home_port: Chichester
 hull_form: long keel deep forefoot
 id: 7fb4cda1-f551-4a42-8028-dbcec8c1e107
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Equinox
-oga_no: 2427
+sail_number: '57'
+spar_material: wood
+ssr: SSR 142226
+uk_part1: GBB1H24037G999
+callsign: MZWS5
 ownerships:
 - end: 2015
   name: Simon D Arcy
   share: 64
   start: 2003
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Equinox is a 24 ft. 6&quot; Cornish Crabber 24&nbsp;built in
-  1999 and based in Chichester. Burgundy hull, two tone deck and tan mainsail, staysail
-  and jib with a red and white&nbsp;striped topsail.&nbsp;</p>
 updated_at: '2021-12-19T13:39:38.360129+00:00'
 website: http://sailingchallenge.blogspot.co.uk/
 year: 1999
 year_is_approximate: false
+image_key: WfBtT9
+beam: 2.5908
+design_class:
+  name: Cornish Crabber 24
+  id: ff83f69b-9762-4ae5-9681-950b5658ad97
+for_sale_state:
+  text: not_for_sale

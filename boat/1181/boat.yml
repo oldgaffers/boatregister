@@ -1,10 +1,12 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 0.8138
-engine_installations: []
-for_sales: []
+name: Victoria
+oga_no: 1181
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Built in 1897 for the Colne River Police (largely funded by the
+  oyster industry), 'Victoria' was originally a clinker half-decker. In 1902 a cabin
+  was added and a few years later her hull was doubled and made carvel. She has a
+  heavy iron centreplate which takes her draft from 2ft 8" to 7 ft 8".
 full_description: '<h4>Summary of facts known about ''Victoria'' and sources<br />Sue
   Lewis,&nbsp; May 2017</h4><h3>Built 1897 at Aldous</h3><p>Colchester Borough Watch
   Committee Minutes, which I haven&rsquo;t seen but which are held at Essex Record
@@ -144,35 +146,41 @@ full_description: '<h4>Summary of facts known about ''Victoria'' and sources<br 
   for transport on her lorry and rigging her afterwards.<br /><br />2011: Victoria&rsquo;s
   boom was broken in a collision. The new one retains fittings from the original (if
   original it was).</p><h4>Sue Lewis 15th May 2017</h4>'
-generic_type: unknown
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+construction_material: wood
+construction_method: carvel
+draft: 0.8138
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.400029188002926
-  draft: 0.9000109455010973
-  fore_triangle_base: 4.200051079005121
-  fore_triangle_height: 6.40007783467447
-  length_on_waterline: 6.30007661850768
-  length_over_all: 6.500079050841258
-  length_over_spars: 8.50010337417703
   main:
     foot: 4.130050227688368
     head: 2.960035998536942
     luff: 3.9000474305047543
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 31.830160448720573
   thcf: 0.874
+  draft: 0.9000109455010973
   topsail:
     luff: 3.8300465791880027
     perpendicular: 2.060025053035845
+  sailarea: 31.830160448720573
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 6.500079050841258
+  length_over_spars: 8.50010337417703
+  fore_triangle_base: 4.200051079005121
+  length_on_waterline: 6.30007661850768
+  fore_triangle_height: 6.40007783467447
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
 id: a6983184-b98f-4463-9106-e0e5037e1a39
 length_on_deck: 6.5014
-mainsail_type: gaff
-name: Victoria
-oga_no: 1181
+ssr: SSR165417
+callsign: ''
 ownerships:
 - name: Tom Poole
   share: 64
@@ -193,12 +201,12 @@ ownerships:
   share: 64
   start: 2017
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: Built in 1897 for the Colne River Police (largely funded by the
-  oyster industry), 'Victoria' was originally a clinker half-decker. In 1902 a cabin
-  was added and a few years later her hull was doubled and made carvel. She has a
-  heavy iron centreplate which takes her draft from 2ft 8" to 7 ft 8".
 updated_at: '2021-12-19T13:39:03.923643+00:00'
 website: http://victoria1897.blogspot.co.uk/
 year: 1897
 year_is_approximate: false
+image_key: T7JxxW
+construction_details: Initially clinker then "carvelled over" in early 20th century
+beam: 2.3866
+for_sale_state:
+  text: not_for_sale

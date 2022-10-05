@@ -1,36 +1,45 @@
-builder: 31bfa19f-39db-4cdc-a300-5ae292711364
-callsign: ''
+name: Whaler Tiare
+oga_no: 3386
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gunter
+short_description: ex-Navy whaler
+full_description: Built originally for the Navy in the 1980's, Whaler Tiare was the
+  subject of an extensive strip to bare conversion in the early 2000's.
+builder:
+  name: Haines Boatyard
+  id: 31bfa19f-39db-4cdc-a300-5ae292711364
+designer:
+  name: D. Loughborough
+  id: 773ea818-b69c-4877-8bed-ff05cfc50269
 construction_material: grp
 construction_method: unknown
-designer: 773ea818-b69c-4877-8bed-ff05cfc50269
 draft: 0.4572
 engine_installations: []
 for_sales:
 - asking_price: 7750
-full_description: Built originally for the Navy in the 1980's, Whaler Tiare was the
-  subject of an extensive strip to bare conversion in the early 2000's.
-generic_type: Dinghy
 handicap_data:
-  draft_keel_down: 1.8288
-  length_on_waterline: 7.9248
-  length_overall: 8.001
   moving_keel: true
+  length_overall: 8.001
+  draft_keel_down: 1.8288
   moving_keel_type: Centreboard
+  length_on_waterline: 7.9248
 home_country: GBR
 home_port: Portsmouth
 hull_form: dinghy
 id: e3e7406a-b145-451a-af2a-8fc552e06323
 length_on_deck: 8.001
-mainsail_type: gunter
-name: Whaler Tiare
-oga_no: 3386
+ssr: '134306'
+callsign: ''
 ownerships:
 - name: Flint Elgie
   share: 64
   start: 1990
-rig_type: Sloop
-short_description: ex-Navy whaler
 updated_at: '2021-12-19T13:40:09.523614+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+image_key: vHJhTL
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

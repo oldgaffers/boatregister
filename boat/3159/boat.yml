@@ -1,41 +1,52 @@
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 1d14143b-8f55-4b26-94a4-95e4058cc952
-draft: 0.5578
-engine_installations: []
-for_sales: []
+name: Mustard
+oga_no: 3159
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Mustard is a Skanner 24, originally an open boat for fishing
+  a basic small cabin has been added.</p>
 full_description: <p>Oringinally called Margaret Elizabeth, she was re-named Mustard
   in 2014, her painted hull being a mustard yellow. She was constructed with a standard
   design hull and sail plan, but finished as an open fishing boat. A previous owner
   created a basic cabin with 2 berths forward , a 2 burner gas cooker and Blakes W.C.</p>
-generic_type: Yacht
+designer:
+  name: Michael R. Hawes
+  id: 1d14143b-8f55-4b26-94a4-95e4058cc952
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.5578
+engine_installations: []
+for_sales: []
 handicap_data:
-  length_on_waterline: 5.9436
-  length_over_spars: 8.2296
-  length_overall: 7.239
   sailarea: 7
+  length_overall: 7.239
+  length_over_spars: 8.2296
+  length_on_waterline: 5.9436
 home_country: GBR
 home_port: Littlehampton
 hull_form: long keel sloping forefoot
 id: 73295a72-b35b-41ae-84b1-a8bffe0ba4cf
 length_on_deck: 7.239
-mainsail_type: gaff
-name: Mustard
-oga_no: 3159
+callsign: ''
 ownerships:
 - note: Previous owner DJ Lindsay
   text: Previous owner DJ Lindsay
-- current: true
-  id: 265
-  member: 3405
+- id: 265
   share: 64
   start: 2014
+  member: 3405
+  current: true
 place_built: Fordingbridge
-rig_type: Cutter
-short_description: <p>Mustard is a Skanner 24, originally an open boat for fishing
-  a basic small cabin has been added.</p>
 updated_at: '2021-12-19T13:40:04.442874+00:00'
 website: ''
 year: 1988
 year_is_approximate: false
+previous_names:
+- Margaret Elizabeth
+construction_details: GRP hull, glass sheathed timber deck
+beam: 2.539
+design_class:
+  name: Skanner 24
+  id: 79755ab3-aa50-4c98-95e0-a20ebf6cb481
+for_sale_state:
+  text: not_for_sale

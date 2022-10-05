@@ -1,11 +1,10 @@
-builder: dd2c827c-de98-4f6c-a0e5-37912d292a19
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: bb41d838-779a-40e4-8330-00460deb203f
-draft: 1.1674
-engine_installations: []
-for_sales: []
+name: Dorcis
+oga_no: 34
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>An Albert Strange yacht, believed to have been lost in 1965,
+  has been found in the East Coast OGA records, being lost at sea, 1974.</p>
 full_description: "<p>The Albert Strange Association reported that Albert Strange\
   \ designed Birdie in 1898 and very soon after she was built in 1899 - 1900 the name\
   \ was changed to Dorcis.</p>\r\n\r\n<p>They had believed she had been gutted by\
@@ -14,24 +13,35 @@ full_description: "<p>The Albert Strange Association reported that Albert Strang
   <p>OGA records note her being altered to cutter in 1924 and back to yawl in 1964.\
   \ She then became a ketch, then a cutter and back to ketch. The last information\
   \ says she was lost at sea, in the Mediterranean, 1974.</p>"
-generic_type: unknown
+builder:
+  name: J.A. Akester
+  id: dd2c827c-de98-4f6c-a0e5-37912d292a19
+designer:
+  name: Albert Strange
+  id: bb41d838-779a-40e4-8330-00460deb203f
+construction_material: wood
+construction_method: unknown
+draft: 1.1674
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.261643501584979
   draft: 1.167398195562058
-  length_on_waterline: 7.2390880273104115
   length_over_all: 8.939892709095341
+  length_on_waterline: 7.2390880273104115
 home_country: 'null'
 home_port: Hornsea
 hull_form: unknown
 id: d31a8ce0-0a19-459e-84da-71838643889f
 length_on_deck: 8.9398
-mainsail_type: gaff
-name: Dorcis
-oga_no: 34
-rig_type: Yawl
-short_description: <p>An Albert Strange yacht, believed to have been lost in 1965,
-  has been found in the East Coast OGA records, being lost at sea, 1974.</p>
+callsign: ''
 updated_at: '2021-03-27T22:50:27.261258+00:00'
 website: ''
 year: 1898
 year_is_approximate: false
+previous_names:
+- Birdie
+image_key: LTsJgh
+beam: 2.2616
+for_sale_state:
+  text: not_for_sale

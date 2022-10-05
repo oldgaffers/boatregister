@@ -1,11 +1,8 @@
-builder: 2b4a52df-0b6e-43f2-8459-c089672fbcd7
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: 02e317ee-7320-4b7b-ae45-73edb59d28ea
-draft: 0
-engine_installations: []
-for_sales: []
+name: Munin
+oga_no: 2962
+generic_type: unknown
+mainsail_type: square
+short_description: ''
 full_description: "400sq feet sail area Two shipwrights who had emigrated from Norway\
   \ and living/working in the Vancouver area decided to build themselves (all Canadian\
   \ Scandinavians) their own Viking ship to sail and share with the public.  Over\
@@ -23,7 +20,17 @@ full_description: "400sq feet sail area Two shipwrights who had emigrated from N
   \ every weekend for 2-hour trips, inviting the public to join us.  It\u2019s been\
   \ quite a ride, and we\u2019re not done yet, so come down and join us for a sail.\
   \ www.vikingship.ca"
-generic_type: unknown
+builder:
+  name: Khristian Frostad/Raymond Bardsnes
+  id: 2b4a52df-0b6e-43f2-8459-c089672fbcd7
+designer:
+  name: Khristian Frostad/Arne Frostad
+  id: 02e317ee-7320-4b7b-ae45-73edb59d28ea
+construction_material: wood
+construction_method: clinker
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8956352109241648
   length_over_all: 12.192148256522799
@@ -32,16 +39,18 @@ home_port: Vancouver BC Canada
 hull_form: unknown
 id: 6e7d7435-3ade-4474-8aef-749734d84abb
 length_on_deck: 12.192
-mainsail_type: square
-name: Munin
-oga_no: 2962
+callsign: ''
 ownerships:
 - name: John Hammond
   share: 64
   start: 2012
 place_built: Burnaby B.C. Canada
-short_description: ''
 updated_at: '2021-12-19T13:39:54.702349+00:00'
 website: ''
 year: 2001
 year_is_approximate: false
+construction_details: Clinker plank on Frame. Fir planks, copper rivets, pine tar,
+  cotton, linseed oil that has become dark over the years in the sun.
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

@@ -1,12 +1,10 @@
-builder: 67c4ada7-880c-431b-9867-1a245894f00f
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 89ad9a1d-4084-4e03-8485-a0616e8ea570
-draft: 1.271
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Lily
+oga_no: 2492
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Fitted out by her owner from new between 1998 and 2002, &#39;Lily&#39;
+  is the first boat from a Tyrell &amp; Young mould to be fitted with racing rig.</p>
 full_description: "<p>&lsquo;Lily&rsquo; was launched August 2002 and based at Stone\
   \ Sailing Club on the River Blackwater until 2015. She is a classic full length&nbsp;keel\
   \ gaff cutter, 28&rsquo; long, 9&rsquo; beam, 6&rsquo; headroom in the saloon. Her\
@@ -20,44 +18,57 @@ full_description: "<p>&lsquo;Lily&rsquo; was launched August 2002 and based at S
   \ were then built by a boatyard based in Norfolk named Marsham. Peter Herbert purchased\
   \ the hull in 1998 and fitted her out over a period of three years including the\
   \ wooden spars.</p>"
-generic_type: Smack
+builder:
+  name: Martham Boats/P Herbert
+  id: 67c4ada7-880c-431b-9867-1a245894f00f
+designer:
+  name: International Marine Designs
+  id: 89ad9a1d-4084-4e03-8485-a0616e8ea570
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.271
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 2.5900314987198243
-  draft: 1.270015445318215
-  fore_triangle_base: 7.000085131675201
-  fore_triangle_height: 10.560128427212874
-  length_on_waterline: 7.380089753108997
-  length_over_all: 8.520103617410387
-  length_over_spars: 13.000158101682516
   main:
     foot: 5.500066889173372
     head: 4.5000547275054865
     luff: 3.6600445117044624
-  propellor:
-    type: fixed
-  sailarea: 63.84413662199986
   thcf: 0.983
+  draft: 1.270015445318215
   topsail:
     luff: 5.880071510607169
     perpendicular: 2.550031012253109
+  sailarea: 63.84413662199986
+  propellor:
+    type: fixed
+  length_over_all: 8.520103617410387
+  length_over_spars: 13.000158101682516
+  fore_triangle_base: 7.000085131675201
+  length_on_waterline: 7.380089753108997
+  fore_triangle_height: 10.560128427212874
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
 id: df523145-43a9-427b-8864-f9476451ea07
 length_on_deck: 8.51
-mainsail_type: gaff
-name: Lily
-oga_no: 2492
+sail_number: '23'
+ssr: '101333'
+callsign: ''
 ownerships:
 - end: 2015
   name: Peter Herbert
   share: 64
   start: 1998
 place_built: Martham
-rig_type: Cutter
-short_description: <p>Fitted out by her owner from new between 1998 and 2002, &#39;Lily&#39;
-  is the first boat from a Tyrell &amp; Young mould to be fitted with racing rig.</p>
 updated_at: '2021-12-19T13:39:40.591697+00:00'
 website: ''
 year: 2002
 year_is_approximate: false
+image_key: CGC7Hh
+construction_details: GRP hull deck and outfit wood
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

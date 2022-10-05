@@ -1,40 +1,49 @@
-builder: 419b997a-03fd-48b2-b58e-923e30825ae9
-callsign: ''
+name: Silver Moon
+oga_no: 2405
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: CB Jun 91
+builder:
+  name: Hilditch John
+  id: 419b997a-03fd-48b2-b58e-923e30825ae9
+designer:
+  name: Walter H. Boyd
+  id: 1f2cf7e4-3f73-4334-8eda-a96e16587b46
 construction_material: wood
 construction_method: carvel
-designer: 1f2cf7e4-3f73-4334-8eda-a96e16587b46
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: CB Jun 91
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
-  draft: 1.066812972445745
-  fore_triangle_base: 2.4902462813947817
-  fore_triangle_height: 5.233479639112412
-  length_on_waterline: 5.18166300902219
-  length_over_all: 6.858083394294074
   main:
     foot: 5.334064862228725
     head: 3.0480370641306997
     luff: 3.5052426237503047
   thcf: 0.906832885
+  draft: 1.066812972445745
   topsail:
     luff: 4.26725188978298
     perpendicular: 1.9812240916849548
+  length_over_all: 6.858083394294074
+  fore_triangle_base: 2.4902462813947817
+  length_on_waterline: 5.18166300902219
+  fore_triangle_height: 5.233479639112412
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 3590c721-c907-4a99-8047-8c5ee4daee60
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Silver Moon
-oga_no: 2405
+sail_number: '5'
+callsign: ''
 place_built: Carrickfergus
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:38:13.181598+00:00'
 website: ''
 year: 1898
 year_is_approximate: false
+construction_details: Carvel
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

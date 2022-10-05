@@ -1,12 +1,18 @@
-builder: 95af8096-5755-46ff-980e-f382837e729c
-callsign: ''
+name: Honora
+oga_no: 1927
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Frank W. Shuttlewood and Son
+  id: 95af8096-5755-46ff-980e-f382837e729c
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Bawley
 handicap_data:
   beam: 2.43842965130456
   length_over_all: 7.620092660326749
@@ -15,21 +21,20 @@ home_port: Anstruther
 hull_form: unknown
 id: 0322cf32-b75f-4d18-b5e1-beab24b60258
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Honora
-oga_no: 1927
+callsign: ''
 ownerships:
 - name: Iain Nicholls
   share: 64
   start: 2009
-- current: true
+- share: 64
   member: 4690
-  share: 64
+  current: true
   start: '?'
 place_built: Paglesham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:24.342644+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

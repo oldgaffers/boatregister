@@ -1,10 +1,12 @@
-builder: e291fbeb-7e57-42ed-8b9e-94275b6d77fc
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-draft: 1.7008
-engine_installations: []
-for_sales: []
+name: Stout
+oga_no: 205
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>&#39;Stout&#39; was built 1907 for the Royal Pilot Administration
+  (Kungliga Lotsstyrelsen) for service in &Ouml;resound under sail or power propulsion.
+  In a &#39;For sale&#39; ad. in 2006, she was described as &#39;a little ship with
+  plenty of character&#39;.</p>
 full_description: "<p>The requirements of the time were that vessels should be able\
   \ to accomplish their work as a pilot under sail or engine power. A raw oil engine\
   \ was therefore installed. After her service as a pilot boat she was sold to a person\
@@ -23,28 +25,33 @@ full_description: "<p>The requirements of the time were that vessels should be a
   \ to rot. She was a sad sight. The bowsprit had been broken and lay in pieces in\
   \ a shed nearby.</p>\r\n\r\n<p>She was gradually rebuilt between 2001-7 by Magnus\
   \ Krampell, before he sold her.</p>"
-generic_type: Yacht
+builder:
+  name: varv Gustavssons
+  id: e291fbeb-7e57-42ed-8b9e-94275b6d77fc
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.7008
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.1516703243111435
   draft: 1.7008046817849305
-  length_over_all: 8.500975371860521
   propellor:
     type: fixed
+  length_over_all: 8.500975371860521
 home_country: SWE
 home_port: ''
 hull_form: long keel deep forefoot
 id: b2370a6f-7881-4e38-911a-fa44e81f92be
 length_on_deck: 8.51
-mainsail_type: gaff
-name: Stout
-oga_no: 205
+callsign: ''
 place_built: "R\xE5\xE5, Sweden"
-rig_type: Ketch
-short_description: <p>&#39;Stout&#39; was built 1907 for the Royal Pilot Administration
-  (Kungliga Lotsstyrelsen) for service in &Ouml;resound under sail or power propulsion.
-  In a &#39;For sale&#39; ad. in 2006, she was described as &#39;a little ship with
-  plenty of character&#39;.</p>
 updated_at: '2021-03-27T22:53:21.534861+00:00'
 website: ''
 year: 1907
 year_is_approximate: false
+image_key: dvCXBM
+construction_details: Oak on oak with substantial GRP skin
+beam: 3.1486
+for_sale_state:
+  text: not_for_sale

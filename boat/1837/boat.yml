@@ -1,59 +1,70 @@
-builder: c7ec9bef-5541-4979-a4c8-009fd41c214b
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: c4ad4f39-8269-4332-bd13-42d70bc64997
-draft: 0.9449
-engine_installations: []
-for_sales:
-- asking_price: null
+name: Kamala
+oga_no: 1837
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Kamala&#39; was designed by Barry Pope after the local
+  Danish fishing craft. The rig is taken from a Helsignor Pilot Boat</p>
 full_description: "<p>Orginally a 3/4 deck dayboat, &#39;Kamala&#39; later had a small\
   \ cabin top added. She came to England probably in the late 1990s, Purchased from\
   \ her second owner&nbsp; who had laid her up ashore for eight years in 2016.</p>\r\
   \n\r\n<p>She was found by new owners in 2016 on a farmyard in Hampshire.</p>"
-generic_type: Yacht
+builder:
+  name: Bonnezand Steffen
+  id: c7ec9bef-5541-4979-a4c8-009fd41c214b
+designer:
+  name: Barry Pope
+  id: c4ad4f39-8269-4332-bd13-42d70bc64997
+construction_material: wood
+construction_method: clinker
+draft: 0.9449
+engine_installations: []
+for_sales:
+- asking_price: null
 handicap_data:
   beam: 2.590831504511095
-  draft: 0.9144111192392099
-  fore_triangle_base: 4.937820043891733
-  fore_triangle_height: 5.6388685686417945
-  length_on_waterline: 5.9436722750548645
-  length_over_all: 6.5532796878810045
   main:
     foot: 3.0785174347720066
     head: 3.0785174347720066
     luff: 3.581443550353572
-  propellor:
-    type: none
-  sailarea: 29.899805425086786
   thcf: 0.862
+  draft: 0.9144111192392099
   topsail:
     luff: 3.9624481833699097
     perpendicular: 2.6670324311143623
+  sailarea: 29.899805425086786
+  propellor:
+    type: none
+  length_over_all: 6.5532796878810045
+  fore_triangle_base: 4.937820043891733
+  length_on_waterline: 5.9436722750548645
+  fore_triangle_height: 5.6388685686417945
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
 id: eb1b53e5-32ae-434b-b512-33caf1ceaa61
 length_on_deck: 6.5532
-mainsail_type: gaff
-name: Kamala
-oga_no: 1837
+spar_material: wood
+callsign: ''
 ownerships:
-- end: 2021
-  id: 80
-  member: 1611
+- id: 80
+  end: 2021
   share: 64
   start: '?'
-- current: true
-  id: 34869
-  member: 6485
+  member: 1611
+- id: 34869
   share: 64
   start: 2021
+  member: 6485
+  current: true
 place_built: Horne, Faaborg, Denmark
-rig_type: Cutter
-short_description: <p>&#39;Kamala&#39; was designed by Barry Pope after the local
-  Danish fishing craft. The rig is taken from a Helsignor Pilot Boat</p>
 updated_at: '2022-01-03T15:09:05.156751+00:00'
 website: ''
 year: 1987
 year_is_approximate: false
+image_key: rkcnwX
+construction_details: Clinker, larch on sawn oak frames. Copper fastened, lead keel.
+  Douglas fir spars.
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

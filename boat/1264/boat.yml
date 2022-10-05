@@ -1,12 +1,17 @@
-builder: 55b78b7e-73d8-45cf-8e96-a3fae3683597
-callsign: ''
+name: Fancy
+oga_no: 1264
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Emden
+  id: 55b78b7e-73d8-45cf-8e96-a3fae3683597
 construction_material: wood
 construction_method: unknown
 draft: 0.7986
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.798341867837113
   draft: 0.7985857108022434
@@ -16,16 +21,19 @@ home_port: ''
 hull_form: unknown
 id: 6547b95a-4e47-4fbd-a958-e1cfaabdb85e
 length_on_deck: 4.4196
-mainsail_type: gaff
-name: Fancy
-oga_no: 1264
+callsign: ''
 ownerships:
 - name: W F Haccon
   share: 64
   start: 2012
 place_built: W Germany
-short_description: ''
 updated_at: '2021-12-19T13:39:06.419394+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+previous_names:
+- Elsfleth
+construction_details: oak on Elm
+beam: 1.7983
+for_sale_state:
+  text: not_for_sale

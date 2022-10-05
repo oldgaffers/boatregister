@@ -1,29 +1,37 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Martha II
+oga_no: 1008
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 construction_material: wood
 construction_method: unknown
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.066812972445745
-  length_on_waterline: 7.863935625457206
   length_over_all: 9.1441111923921
+  length_on_waterline: 7.863935625457206
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: c9592a5f-071c-45a0-996a-873774795838
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Martha II
-oga_no: 1008
+callsign: ''
 place_built: Wadebridge
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-03-27T22:53:20.374355+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+beam: 2.8956
+design_class:
+  name: Cornish Trader
+  id: 34112a28-7463-42b2-9aaf-2106409b1a0a
+for_sale_state:
+  text: not_for_sale

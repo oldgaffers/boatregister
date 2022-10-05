@@ -1,43 +1,52 @@
-builder: 9d3f8fe3-a70f-49de-a403-d70d80a007f2
-callsign: ''
+name: Ketura
+oga_no: 393
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cock and Ennery
+  id: 9d3f8fe3-a70f-49de-a403-d70d80a007f2
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: clinker
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.4231894659839064
-  draft: 1.21921482565228
-  fore_triangle_base: 3.3528407705437697
-  fore_triangle_height: 5.6388685686417945
-  length_on_waterline: 6.2484759814679345
-  length_over_all: 6.5532796878810045
   main:
     foot: 4.343452816386247
     head: 3.0998536942209216
     luff: 3.886247256766642
+  thcf: 0.853100394
+  draft: 1.21921482565228
   propellor:
     type: fixed
-  thcf: 0.853100394
+  length_over_all: 6.5532796878810045
+  fore_triangle_base: 3.3528407705437697
+  length_on_waterline: 6.2484759814679345
+  fore_triangle_height: 5.6388685686417945
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 3405574e-d0dd-4d2d-b675-d02a0deeca43
 length_on_deck: 6.5532
-mainsail_type: gaff
-name: Ketura
-oga_no: 393
+uk_part1: '309678'
+callsign: ''
 ownerships:
 - name: J M Austin
   share: 64
   start: 1982
 place_built: West Mersea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:41.086649+00:00'
 website: ''
 year: 1964
 year_is_approximate: false
+construction_details: Clinker Wych Elm on oak
+beam: 2.4232
+for_sale_state:
+  text: not_for_sale

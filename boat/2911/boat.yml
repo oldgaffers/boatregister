@@ -1,65 +1,73 @@
-builder: f013fde2-70e0-4c29-aeb2-18fff7759f01
-callsign: ''
-construction_material: steel
-construction_method: unknown
-designer: 56de2389-c002-4cf2-a4f5-1cb9f746bfcd
-draft: 1.2192
-engine_installations: []
-for_sales: []
+name: Alice
+oga_no: 2911
+generic_type: Barge
+rig_type: Yawl
+mainsail_type: spritsail
+short_description: <p>Originally built as a lighter to be rowed or towed, &#39;Alice&#39;
+  was converted to a Thames Barge in 1994 - 1997.</p>
 full_description: "<p>&#39;Alice&#39; was built at Wivenhoe as a lighter to be rowed\
   \ or towed to and from the River Lea to the Lower Pool of London. She carried various\
   \ cargoes, including provisioning the pirate radio ships in the 1970s.</p>\r\n\r\
   \n<p>In 1994 she was removed from trade and over three years was completely reconstructed\
   \ and converted to a Thames Barge.</p>"
-generic_type: Barge
+builder:
+  name: Cooks
+  id: f013fde2-70e0-4c29-aeb2-18fff7759f01
+designer:
+  name: Cooks
+  id: 56de2389-c002-4cf2-a4f5-1cb9f746bfcd
+construction_material: steel
+construction_method: unknown
+draft: 1.2192
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 5.4864667154352595
-  draft: 1.21921482565228
-  fore_triangle_base: 5.4864667154352595
-  fore_triangle_height: 18.2882223847842
-  length_on_waterline: 23.469885393806386
-  length_over_all: 23.469885393806386
   main:
     foot: 7.620092660326749
     head: 5.4864667154352595
     luff: 9.1441111923921
+  thcf: 1.265
+  draft: 1.21921482565228
   mizzen:
     foot: 3.0480370641306997
     head: 2.43842965130456
     luff: 3.3528407705437697
-  mizzen_topsail:
-    luff: 1.21921482565228
-    perpendicular: 1.8288222384784198
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 147.43378973814868
-  thcf: 1.265
   topsail:
     luff: 7.620092660326749
     perpendicular: 6.705681541087539
+  sailarea: 147.43378973814868
+  propellor:
+    type: fixed
+    blades: 3
+  mizzen_topsail:
+    luff: 1.21921482565228
+    perpendicular: 1.8288222384784198
+  length_over_all: 23.469885393806386
+  fore_triangle_base: 5.4864667154352595
+  length_on_waterline: 23.469885393806386
+  fore_triangle_height: 18.2882223847842
 home_country: GBR
 home_port: Portsmouth
 hull_form: long keel deep forefoot
 id: 58afcc59-50a8-4b1a-b3a2-b558d787c819
 length_on_deck: 23.4696
-mainsail_type: spritsail
-name: Alice
-oga_no: 2911
+callsign: ''
 ownerships:
 - name: Alan Gick
   share: 64
   start: 2012
-- current: true
-  id: 601
-  member: 5176
+- id: 601
   share: 64
+  member: 5176
+  current: true
   start: '?'
 place_built: Wivenhoe
-rig_type: Yawl
-short_description: <p>Originally built as a lighter to be rowed or towed, &#39;Alice&#39;
-  was converted to a Thames Barge in 1994 - 1997.</p>
 updated_at: '2021-12-19T13:39:53.142379+00:00'
 website: ''
 year: 1954
 year_is_approximate: false
+construction_details: Steel
+beam: 5.4864
+for_sale_state:
+  text: not_for_sale

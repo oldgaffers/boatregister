@@ -1,13 +1,20 @@
-builder: dc93b6b8-f061-4d7e-a409-61a432c140d8
-callsign: ''
+name: White Maa
+oga_no: 603
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Harrison
+  id: dc93b6b8-f061-4d7e-a409-61a432c140d8
+designer:
+  name: Harrison
+  id: 67e477cb-90bc-41b5-bd23-68c3e631cf07
 construction_material: wood
 construction_method: unknown
-designer: 67e477cb-90bc-41b5-bd23-68c3e631cf07
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.8593026091197267
   length_over_all: 6.919044135576688
@@ -16,16 +23,17 @@ home_port: ''
 hull_form: unknown
 id: bb8e5615-0156-4b02-91b6-ed49d914709c
 length_on_deck: 6.919
-mainsail_type: gaff
-name: White Maa
-oga_no: 603
+callsign: ''
 ownerships:
 - name: J R Wiesner
   share: 64
   start: 2012
 place_built: Amble
-short_description: ''
 updated_at: '2021-12-19T13:38:47.098144+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+image_key: BPrjL3
+beam: 1.8593
+for_sale_state:
+  text: not_for_sale

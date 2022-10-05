@@ -1,31 +1,37 @@
-callsign: ''
+name: Ritual
+oga_no: 875
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 81/1
 construction_material: wood
 construction_method: carvel
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 81/1
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
-  length_on_waterline: 5.18166300902219
   length_over_all: 5.334064862228725
+  length_on_waterline: 5.18166300902219
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 735005c7-8f1f-40b7-ad2d-d9e1a048bc09
 length_on_deck: 5.334
-mainsail_type: gaff
-name: Ritual
-oga_no: 875
+reference:
+- Log 81/1
+callsign: ''
 ownerships:
 - name: T Heard
   share: 64
   start: 2012
 place_built: Cookham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:54.778392+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+construction_details: Carvel pine on oak frames
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

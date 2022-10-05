@@ -1,48 +1,58 @@
-builder: a777971c-fef9-4412-9ad3-422224af5a67
-callsign: ''
+name: Tee Jay
+oga_no: 987
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Luke Bros and Co.
+  id: a777971c-fef9-4412-9ad3-422224af5a67
+designer:
+  name: A.R. Luke
+  id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 construction_material: wood
 construction_method: carvel
-designer: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.5240185320653499
-  fore_triangle_base: 5.129846378931967
-  fore_triangle_height: 8.787490855888807
-  length_on_waterline: 7.620092660326749
-  length_over_all: 8.53450377956596
   main:
     foot: 5.029261155815655
     head: 4.038649109973177
     luff: 5.18166300902219
-  propellor:
-    type: fixed
   thcf: 0.954885407
+  draft: 1.5240185320653499
   topsail:
     luff: 5.840039014874421
     perpendicular: 1.9812240916849548
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 5.129846378931967
+  length_on_waterline: 7.620092660326749
+  fore_triangle_height: 8.787490855888807
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: ea84744f-962d-4a05-b9fe-88331571d26c
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Tee Jay
-oga_no: 987
+sail_number: '987'
+callsign: ''
 ownerships:
-- current: true
-  id: 244
-  member: 3290
+- id: 244
   share: 64
   start: 1996
+  member: 3290
+  current: true
 place_built: Hamble
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:58.081426+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+image_key: dKKNPm
+construction_details: Carvel
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

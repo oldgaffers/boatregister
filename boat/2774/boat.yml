@@ -1,8 +1,18 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Heron
+oga_no: 2774
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Heron&#39; is a Memory 19, built in 2006.</p>
+full_description: ''
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: unknown
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales:
@@ -41,49 +51,52 @@ for_sales:
   sold: '2022-08-02'
   summary: null
   updated_at: '2022-07-01T06:41:50.458966+00:00'
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  fore_triangle_base: 2.6426481346013166
-  fore_triangle_height: 5.867471348451597
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
   thcf: 0.872419155
+  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.6426481346013166
+  length_on_waterline: 5.690685198732017
+  fore_triangle_height: 5.867471348451597
 home_country: GBR
 home_port: Forder Cornwall
 hull_form: centre-boarder
 id: 2a2827d0-3c1c-44f4-a3c5-321936f32874
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Heron
-oga_no: 2774
+spar_material: wood
+ssr: '180369'
+callsign: ''
 ownerships:
 - end: 2018
   name: John Hancock
   share: 64
   start: 2012
-- end: 2022
-  id: 992
-  member: 6221
+- id: 992
+  end: 2022
   share: 64
   start: 2018
-- current: true
-  name: Mick King
+  member: 6221
+- name: Mick King
   share: 64
   start: 2022
+  current: true
 place_built: Burlesdon
-rig_type: Sloop
-short_description: <p>&#39;Heron&#39; is a Memory 19, built in 2006.</p>
 updated_at: '2022-08-02T21:04:03.273488+00:00'
 website: ''
 year: 2006
 year_is_approximate: false
+image_key: QFtpvQ
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

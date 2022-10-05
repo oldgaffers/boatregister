@@ -1,44 +1,54 @@
-builder: 67dad93d-ef51-49ab-8684-ac824881c863
-callsign: ''
+name: Grey Merlin
+oga_no: 1911
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: lug
+short_description: ''
+full_description: David took a "Roxane" hull and fitted her out to his own design,esp.
+  the rig.  Log Jun/97
+builder:
+  name: Still
+  id: 67dad93d-ef51-49ab-8684-ac824881c863
+designer:
+  name: Nigel Irens
+  id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
 construction_material: grp
 construction_method: cold_moulded
-designer: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
 draft: 0.7102
 engine_installations: []
 for_sales: []
-full_description: David took a "Roxane" hull and fitted her out to his own design,esp.
-  the rig.  Log Jun/97
-generic_type: Yacht
 handicap_data:
   beam: 2.691416727627408
-  draft: 0.7101926359424531
-  fore_triangle_base: 4.700073152889539
-  fore_triangle_height: 8.205315776639845
-  length_on_waterline: 8.1016825164594
-  length_over_all: 9.1441111923921
   main:
     foot: 4.901243599122164
     head: 4.953060229212387
     luff: 6.452694464764692
+  thcf: 0.985344847
+  draft: 0.7101926359424531
   mizzen:
     foot: 2.13362594489149
     head: 2.13362594489149
     luff: 2.4628139478176054
   propellor:
     type: folding
-  thcf: 0.985344847
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 4.700073152889539
+  length_on_waterline: 8.1016825164594
+  fore_triangle_height: 8.205315776639845
 home_country: 'null'
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 347695ee-c434-4ab4-9a89-c352f9aa7ec8
 length_on_deck: 9.144
-mainsail_type: lug
-name: Grey Merlin
-oga_no: 1911
+reference:
+- Log Jun 97
+callsign: ''
 place_built: Plymouth
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-03-27T22:50:27.672525+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+construction_details: GRP
+beam: 2.6914
+for_sale_state:
+  text: not_for_sale

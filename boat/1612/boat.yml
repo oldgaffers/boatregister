@@ -1,11 +1,9 @@
-builder: f37c4642-15f1-44a0-bcc6-68590f9516c8
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 2c69d8bf-1198-4cd1-b166-3d36a1dfba1e
-draft: 1.1887
-engine_installations: []
-for_sales: []
+name: Blue Jacket
+oga_no: 1612
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Blue Jacket was built at Itchen in 1894</p>
 full_description: "<p><em>Blue Jacket</em> appears in Lloyd\u2019s in about 1920 with\
   \ the ex-name \u2018Helen\u2019 &nbsp;recorded. In the 1930\u2019s she was purchased\
   \ by Uffa Fox for his publisher &nbsp;and was recorded in Fox\u2019s book \u2018\
@@ -14,39 +12,52 @@ full_description: "<p><em>Blue Jacket</em> appears in Lloyd\u2019s in about 1920
   \ taken to the East Coast for some &nbsp;years. Her current owner bought <em>Blue\
   \ Jacket </em>in 2004 and returned her to open working &nbsp;boat format, as close\
   \ to original as was possible with the available &nbsp;information.</p>"
-generic_type: unknown
+builder:
+  name: Summers and Payne Ltd.
+  id: f37c4642-15f1-44a0-bcc6-68590f9516c8
+designer:
+  name: Arthur Payne
+  id: 2c69d8bf-1198-4cd1-b166-3d36a1dfba1e
+construction_material: wood
+construction_method: carvel
+draft: 1.1887
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.539014874420873
-  draft: 1.1887344550109729
-  fore_triangle_base: 5.199951231406973
-  fore_triangle_height: 7.300048768593025
-  length_on_waterline: 6.3216288710070705
-  length_over_all: 6.431358205315777
   main:
     foot: 4.700073152889539
     head: 3.800902218970983
     luff: 4.599487929773225
-  propellor:
-    type: folding
-  sailarea: 43.43765534886681
   thcf: 0.9
+  draft: 1.1887344550109729
   topsail:
     luff: 3.9990246281394777
     perpendicular: 1.9995123140697388
+  sailarea: 43.43765534886681
+  propellor:
+    type: folding
+  length_over_all: 6.431358205315777
+  fore_triangle_base: 5.199951231406973
+  length_on_waterline: 6.3216288710070705
+  fore_triangle_height: 7.300048768593025
 home_country: 'null'
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 7ca7e232-4c16-43a1-8f74-46e0c7beea4c
 length_on_deck: 6.4313
-mainsail_type: gaff
-name: Blue Jacket
-oga_no: 1612
+callsign: ''
 ownerships:
 - share: 64
 place_built: Itchen
-rig_type: Cutter
-short_description: <p>Blue Jacket was built at Itchen in 1894</p>
 updated_at: '2022-08-18T11:05:25.577035+00:00'
 website: ''
 year: 1894
 year_is_approximate: false
+previous_names:
+- Helen
+image_key: hQtZqC
+construction_details: Carvel Pitch pine planking on oak frames
+beam: 2.539
+for_sale_state:
+  text: not_for_sale

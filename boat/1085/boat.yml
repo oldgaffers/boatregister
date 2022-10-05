@@ -1,34 +1,44 @@
-builder: 3c090f50-07f3-4232-b398-63569dc0c775
-callsign: ''
+name: Smoky Joe
+oga_no: 1085
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 84/3
+builder:
+  name: J. Sergeant
+  id: 3c090f50-07f3-4232-b398-63569dc0c775
+designer:
+  name: John F. French
+  id: bb0171e9-35f7-49a9-a287-d2a45ad98b19
 construction_material: ferro
 construction_method: cold_moulded
-designer: bb0171e9-35f7-49a9-a287-d2a45ad98b19
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: Log 84/3
-generic_type: unknown
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.066812972445745
-  length_on_waterline: 7.406730065837601
   length_over_all: 7.467690807120214
+  length_on_waterline: 7.406730065837601
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 007e606c-e5d9-482c-9029-425f6d2067b9
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Smoky Joe
-oga_no: 1085
+reference:
+- Log 84/3
+callsign: ''
 ownerships:
 - name: R F Collins
   share: 64
   start: 2012
 place_built: Beer Devon
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:01.0534+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+construction_details: Ferro-cement with GRP sheathed ply deck
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

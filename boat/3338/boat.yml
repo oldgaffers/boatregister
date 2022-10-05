@@ -1,11 +1,10 @@
-builder: a77bf53f-5aed-4318-a978-27377a11968f
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: d5d8486d-2fd4-410e-b350-6fcfac832923
-draft: 0.4054
-engine_installations: []
-for_sales: []
+name: Zoe
+oga_no: 3338
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Zoe&#39; is a home built trailer sailer, launched in July
+  2016 at Mylor.</p>
 full_description: "<p>&#39;Zoe&#39;, launched in 2016, is constructed of Alaskan yellow\
   \ cedar on Khyaya plywood/laminated frames with a Gaboon plywood deck and cabin\
   \ top. The hull and decks are sheathed in epoxy and glass and the cockpit has laid\
@@ -13,25 +12,36 @@ full_description: "<p>&#39;Zoe&#39;, launched in 2016, is constructed of Alaskan
   \ is curved. She has a long shallow box keel that houses the internal lead ballast\
   \ and a lead ballasted pivoting centre plate.</p>\r\n\r\n<p>The outboard engine\
   \ sits in a well and is pivoted up and out of the water when sailing.</p>"
-generic_type: Yacht
+builder:
+  name: Julian Wolfram
+  id: a77bf53f-5aed-4318-a978-27377a11968f
+designer:
+  name: Julian Wolfram
+  id: d5d8486d-2fd4-410e-b350-6fcfac832923
+construction_material: wood
+construction_method: unknown
+draft: 0.4054
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Mylor
 hull_form: long keel deep forefoot
 id: 797d22eb-244f-4ec6-836a-654ef86123f2
 length_on_deck: 5.9954
-mainsail_type: gaff
-name: Zoe
-oga_no: 3338
+sail_number: ZOE
+ssr: '166986'
+callsign: ''
 ownerships:
-- current: true
-  id: 34842
-  member: 6148
+- id: 34842
   share: 64
   start: 2016
-rig_type: Sloop
-short_description: <p>&#39;Zoe&#39; is a home built trailer sailer, launched in July
-  2016 at Mylor.</p>
+  member: 6148
+  current: true
 updated_at: '2022-02-19T13:15:40.781558+00:00'
 website: ''
 year: 2016
 year_is_approximate: false
+image_key: h5sQBD
+beam: 2.2708
+for_sale_state:
+  text: not_for_sale

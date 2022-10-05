@@ -1,25 +1,34 @@
-builder: 670653fb-b856-4551-b83d-091a3da80155
-callsign: ''
+name: LadybBird
+oga_no: 2022
+generic_type: Itchen Ferry
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built in 1974, her hull is from a mould of the Itchen Ferry
+  &#39;Nellie&#39;. Having fallen into disrepair, she was rescued in 2015 and her
+  owner is undertaking a full restoration at the Royal Northumberland Yacht Club yard.
+  The odd spelling of LadybBird&nbsp;is an attempt to negate the &#39;name change
+  hex&#39; by combining the double &#39;b&#39; of Bushy Barnaby (an old Norfolk word
+  for ladybird</p>
+full_description: ''
+builder:
+  name: G D B Marine Ltd
+  id: 670653fb-b856-4551-b83d-091a3da80155
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Itchen Ferry
 handicap_data:
   beam: 2.43842965130456
   draft: 0.9144111192392099
-  length_on_waterline: 6.4008778346744695
   length_over_all: 6.705681541087539
+  length_on_waterline: 6.4008778346744695
 home_country: GBR
 home_port: Blyth, Northumberland
 hull_form: unknown
 id: 9a52c368-38c8-4fb6-a714-3ed91bce9253
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: LadybBird
-oga_no: 2022
+callsign: ''
 ownerships:
 - end: 2014
   name: John Bird
@@ -28,20 +37,20 @@ ownerships:
 - name: Jim Bell
   share: 64
   start: 2014
-- current: true
-  id: 153
-  member: 2374
+- id: 153
   share: 64
+  member: 2374
+  current: true
   start: '?'
 place_built: Southampton
-rig_type: Cutter
-short_description: <p>Built in 1974, her hull is from a mould of the Itchen Ferry
-  &#39;Nellie&#39;. Having fallen into disrepair, she was rescued in 2015 and her
-  owner is undertaking a full restoration at the Royal Northumberland Yacht Club yard.
-  The odd spelling of LadybBird&nbsp;is an attempt to negate the &#39;name change
-  hex&#39; by combining the double &#39;b&#39; of Bushy Barnaby (an old Norfolk word
-  for ladybird</p>
 updated_at: '2021-12-19T13:39:27.171139+00:00'
 website: ''
 year: 1975
 year_is_approximate: false
+previous_names:
+- Bushy Barnaby
+image_key: rmPgTq
+construction_details: GRP hull
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

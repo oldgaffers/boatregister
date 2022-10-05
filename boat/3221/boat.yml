@@ -1,37 +1,50 @@
-builder: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: f6e9f88a-6f88-40f7-82d2-e700bf57d1c5
-draft: 0
-engine_installations: []
-for_sales: []
+name: Pudding Faces
+oga_no: 3221
+generic_type: Dinghy
+rig_type: single_sail
+mainsail_type: lug
+short_description: <p>Mould for the hull was taken from one of the last wooden dinghies
+  built by Alf Last.</p>
 full_description: '<p>Brian Kennel the builder states: &quot;First produced in the
   early 1970s from one of the last wooden dinghies built by master craftsman Alf Last
   of Cooks Barge Yard Maldon; it has been evolving ever since. Early versions were
   sold to yacht and smack owners as tenders and many shells were fitted out by enthusiastic
   amateurs. By the late 1980&#39;s the mound was worn out and an injection of cash
   and enthusiasm was needed.&quot;</p>'
-generic_type: Dinghy
+builder:
+  name: Brian Kennell
+  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+designer:
+  name: Alf Last
+  id: f6e9f88a-6f88-40f7-82d2-e700bf57d1c5
+construction_material: grp
+construction_method: cold_moulded
+draft: 0
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Titchmarsh, Walton on the Naze
 hull_form: centre-board dinghy
 id: b38c15fd-f0f5-4502-8f00-da01c4d40620
 length_on_deck: 3.7338
-mainsail_type: lug
-name: Pudding Faces
-oga_no: 3221
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 141
-  member: 2287
+- id: 141
   share: 64
+  member: 2287
+  current: true
   start: '?'
 place_built: Near Colchester
-rig_type: single_sail
-short_description: <p>Mould for the hull was taken from one of the last wooden dinghies
-  built by Alf Last.</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 website: ''
 year: 2014
 year_is_approximate: false
+image_key: HKv55m
+construction_details: GRP simulated clinker, iroko fit out.
+beam: 1.524
+design_class:
+  name: Brian Kennel Smacks Boat
+  id: 99ce7ec6-76a6-4944-9bd9-113a47a51ac2
+for_sale_state:
+  text: not_for_sale

@@ -1,46 +1,59 @@
-builder: 7aa49d3b-0f66-4c5a-8197-0659986731d8
-callsign: ''
+name: Annebeth
+oga_no: 1697
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Log Jun/97
+builder:
+  name: H.V. Buhl
+  id: 7aa49d3b-0f66-4c5a-8197-0659986731d8
+designer:
+  name: H.V. Buhl
+  id: a12b8c0a-2770-4e0a-bbaa-49752ecc055a
 construction_material: wood
 construction_method: carvel
-designer: a12b8c0a-2770-4e0a-bbaa-49752ecc055a
 draft: 2.6975
 engine_installations: []
 for_sales: []
-full_description: Log Jun/97
-generic_type: unknown
 handicap_data:
   beam: 5.212143379663497
-  draft: 2.697512801755669
-  fore_triangle_base: 10.05852231163131
-  fore_triangle_height: 11.582540843696659
-  length_on_waterline: 15.240185320653499
-  length_over_all: 16.748963667398197
   main:
     foot: 6.5532796878810045
     head: 5.9436722750548645
     luff: 15.240185320653499
+  thcf: 1.191618474
+  draft: 2.697512801755669
   mizzen:
     foot: 4.419653742989515
     head: 3.3528407705437697
     luff: 12.192148256522799
-  propellor:
-    type: folding
-  thcf: 1.191618474
   topsail:
     luff: 6.705681541087539
     perpendicular: 4.57205559619605
+  propellor:
+    type: folding
+  length_over_all: 16.748963667398197
+  fore_triangle_base: 10.05852231163131
+  length_on_waterline: 15.240185320653499
+  fore_triangle_height: 11.582540843696659
 home_country: 'null'
 home_port: ''
 hull_form: long keel sloping forefoot
 id: ba0eb969-9773-48fe-bd10-fbbfc715c934
 length_on_deck: 16.7488
-mainsail_type: gaff
-name: Annebeth
-oga_no: 1697
+reference:
+- Log Jun 97
+uk_part1: '701526'
+callsign: ''
 place_built: Fredrikhavn
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-03-27T22:53:22.044381+00:00'
 website: ''
 year: 1893
 year_is_approximate: false
+previous_names:
+- Nyholmstrand
+construction_details: Carvel planked Oak on oak, doubd diag epoxy & Hardwood in 1989
+beam: 5.2121
+for_sale_state:
+  text: not_for_sale

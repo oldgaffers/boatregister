@@ -1,32 +1,42 @@
-builder: 5bb0e6bb-85d8-4cfb-beaa-6595805475ca
-callsign: ''
+name: Certa
+oga_no: 229
+rig_type: Cutter
+mainsail_type: gaff
+short_description: No details
+full_description: Dayspring of 1893 (OGA 1339) seems to be a different boat built
+  at the same yard.
+builder:
+  name: T. Pearce
+  id: 5bb0e6bb-85d8-4cfb-beaa-6595805475ca
+designer:
+  name: T. Pearce
+  id: 663f1b77-dd26-4fe8-8332-2148ae4717df
 construction_material: wood
 construction_method: unknown
-designer: 663f1b77-dd26-4fe8-8332-2148ae4717df
 draft: 1.6459
 engine_installations: []
 for_sales: []
-full_description: Dayspring of 1893 (OGA 1339) seems to be a different boat built
-  at the same yard.
 handicap_data:
   beam: 2.987076322848086
   draft: 1.645940014630578
-  length_on_waterline: 9.1441111923921
   length_over_all: 9.601316752011703
+  length_on_waterline: 9.1441111923921
 home_port: ''
 id: 9de3b862-4716-4262-99b6-06399bb83026
 length_on_deck: 9.6012
-mainsail_type: gaff
-name: Certa
-oga_no: 229
+spar_material: wood
+callsign: ''
 ownerships:
 - name: L J A Spence
   share: 64
   start: 2012
 place_built: Looe
-rig_type: Cutter
-short_description: No details
 updated_at: '2021-12-19T13:38:36.264901+00:00'
 website: ''
 year: 1897
 year_is_approximate: false
+previous_names:
+- Dayspring
+beam: 2.987
+for_sale_state:
+  text: not_for_sale

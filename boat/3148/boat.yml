@@ -1,11 +1,10 @@
-builder: 632de67d-b846-4307-a62c-b10083392f98
-callsign: Charles Henry Ashley
-construction_material: wood
-construction_method: double_diagonal
-designer: 3199db8d-e122-4423-b3b8-038e30c077dd
-draft: 0.4572
-engine_installations: []
-for_sales: []
+name: Charles Henry Ashley
+oga_no: 3148
+generic_type: Lifeboat
+rig_type: Ketch
+mainsail_type: lug
+short_description: <p>RNLI Watson type lifeboat for Cemaes, Anglesey,&nbsp; crewed
+  by Coxswain, 2nd Coxswain, Bowman and 12 Oarsmen.</p>
 full_description: "<p>&#39;Charles Henry Ashley&#39; was in service at Cemaes, Anglesey\
   \ 1907 - 1932, then in storage at Cemlyn in ownership of Captain Hewitt.</p>\r\n\
   \r\n<p>She was sold by auction for &pound;600 to Alec Roberton and took to the water\
@@ -20,32 +19,43 @@ full_description: "<p>&#39;Charles Henry Ashley&#39; was in service at Cemaes, A
   \ a Heritage Lottery Grant with the restoration completed by Classic Sailboats in\
   \ 2008.</p>\r\n\r\n<p>In April 2009 Charles Henry Ashley returned to Cemaes and\
   \ is moored in the harbour.</p>"
-generic_type: Lifeboat
+builder:
+  name: Thames Ironworks and Shipbuilding Co.
+  id: 632de67d-b846-4307-a62c-b10083392f98
+designer:
+  name: G.L. Watson
+  id: 3199db8d-e122-4423-b3b8-038e30c077dd
+construction_material: wood
+construction_method: double_diagonal
+draft: 0.4572
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8956352109241648
   draft: 0.45720555961960496
-  length_on_waterline: 8.046817849305047
   length_over_all: 11.582540843696659
   length_over_spars: 11.887344550109729
+  length_on_waterline: 8.046817849305047
 home_country: GBR
 home_port: Cemaes Bay
 hull_form: long keel deep forefoot
 id: 86a7a3ff-8f5a-4f76-8846-6af084dae673
 length_on_deck: 11.5824
-mainsail_type: lug
-name: Charles Henry Ashley
-oga_no: 3148
+uk_part1: ON 583
+callsign: Charles Henry Ashley
 ownerships:
-- current: true
-  id: 621
-  member: 5259
+- id: 621
   share: 64
+  member: 5259
+  current: true
   start: '?'
 place_built: Bow Creek London
-rig_type: Ketch
-short_description: <p>RNLI Watson type lifeboat for Cemaes, Anglesey,&nbsp; crewed
-  by Coxswain, 2nd Coxswain, Bowman and 12 Oarsmen.</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 website: www.cemaesclassiclifeboat.org.uk
 year: 1907
 year_is_approximate: false
+image_key: LQfktM
+construction_details: Double diagonal honduras Mahogany
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

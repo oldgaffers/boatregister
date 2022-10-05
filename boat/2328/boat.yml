@@ -1,53 +1,63 @@
-builder: 98b37407-3881-4aba-892d-b8f6b35b8dc0
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
-draft: 1.7526
-engine_installations: []
-for_sales: []
+name: Sunbeam
+oga_no: 2328
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>A first class Whitstable smack, rebuilt in 1982 by John Rigby.</p>
 full_description: "<p>&#39;Sunbeam&#39; is one of the few remaining Whitstable oyster\
   \ smacks, she still races on the East Coast.</p>\r\n\r\n<p><a href=\"https://www.flickr.com/photos/colmolaoi/with/14394546619\"\
   \ target=\"_blank\">Visit Colm&#39;s photostream on Flickr</a> for more photos of\
   \ the East Coast Race, 2014.</p>"
-generic_type: Smack
+builder:
+  name: John Howard
+  id: 98b37407-3881-4aba-892d-b8f6b35b8dc0
+designer:
+  name: John Howard
+  id: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
+construction_material: wood
+construction_method: carvel
+draft: 1.7526
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.5052426237503047
-  draft: 1.7526213118751524
-  fore_triangle_base: 10.36332601804438
-  fore_triangle_height: 17.373811265544987
-  length_on_waterline: 12.192148256522799
-  length_over_all: 15.240185320653499
   main:
     foot: 9.296513045598633
     head: 6.2484759814679345
     luff: 6.3246769080712015
-  propellor:
-    type: folding
   thcf: 1.207415451
+  draft: 1.7526213118751524
   topsail:
     luff: 8.83930748597903
     perpendicular: 3.2766398439405022
+  propellor:
+    type: folding
+  length_over_all: 15.240185320653499
+  fore_triangle_base: 10.36332601804438
+  length_on_waterline: 12.192148256522799
+  fore_triangle_height: 17.373811265544987
 home_country: GBR
 home_port: Tollesbury
 hull_form: long keel sloping forefoot
 id: 8eed9220-eea1-48bd-977d-da1a1b508d7d
 length_on_deck: 15.24
-mainsail_type: gaff
-name: Sunbeam
-oga_no: 2328
+sail_number: CK 328
+callsign: ''
 ownerships:
 - name: Nigel Butt
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 5343
-  share: 64
+  current: true
   start: '?'
 place_built: Maldon
-rig_type: Cutter
-short_description: <p>A first class Whitstable smack, rebuilt in 1982 by John Rigby.</p>
 updated_at: '2021-12-19T13:39:35.056378+00:00'
 website: ''
 year: 1881
 year_is_approximate: false
+image_key: vWtRK3
+construction_details: Traditional carvel
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

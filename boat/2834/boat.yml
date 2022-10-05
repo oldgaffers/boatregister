@@ -1,55 +1,69 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-draft: 1.2192
-engine_installations: []
-for_sales:
-- asking_price: 16500
+name: Cailleach Dhubh
+oga_no: 2834
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built by Gaffers &amp; Luggers, Tregatreath Boatyard, Cornwall
+  in 1989, &#39;Cailleach Dhubh&#39; is a Heard 23 gaff cutter based on the Falmouth
+  working vessels.</p>
 full_description: "<p>&#39;Cailleach Dhubh&#39; was built by Gaffers &amp; Luggers\
   \ in 1989 and bought by Denys Mitchell in 2007. Since then, she has been sailed\
   \ extensively on the west coast of Scotland.</p>\r\n\r\n<p>Following a survey in\
   \ March 2012, she was described as &#39;A traditional, heavy displacement vessel\
   \ based on the Falmouth working vessels understood to be still in production.&#39;</p>\r\
   \n\r\n<p>&nbsp;</p>"
-generic_type: Yacht
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.2192
+engine_installations: []
+for_sales:
+- asking_price: 16500
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.21921482565228
-  fore_triangle_base: 5.434650085345037
-  fore_triangle_height: 7.873079736649597
-  length_on_waterline: 6.705681541087539
-  length_over_all: 7.010485247500609
   main:
     foot: 4.953060229212387
     head: 3.706413069982931
     luff: 4.316020482809071
-  propellor:
-    type: fixed
   thcf: 0.919090179
+  draft: 1.21921482565228
   topsail:
     luff: 4.700073152889539
     perpendicular: 1.472201901975128
+  propellor:
+    type: fixed
+  length_over_all: 7.010485247500609
+  fore_triangle_base: 5.434650085345037
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 7.873079736649597
 home_country: GBR
 home_port: Holy Loch
 hull_form: long keel deep forefoot
 id: 3689566e-e77d-49af-ab85-d0ce3cabd7a5
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Cailleach Dhubh
-oga_no: 2834
+callsign: ''
 ownerships:
 - end: 2015
   name: Denys Mitchell
   share: 64
   start: 2007
 place_built: Mylor
-rig_type: Cutter
-short_description: <p>Built by Gaffers &amp; Luggers, Tregatreath Boatyard, Cornwall
-  in 1989, &#39;Cailleach Dhubh&#39; is a Heard 23 gaff cutter based on the Falmouth
-  working vessels.</p>
 updated_at: '2021-12-19T13:39:50.764111+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+previous_names:
+- Lazy Daisy
+image_key: gkvrBc
+construction_details: GRP wood deck
+beam: 2.4384
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
+for_sale_state:
+  text: not_for_sale

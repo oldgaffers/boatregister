@@ -1,11 +1,11 @@
-builder: c42a9f34-ed3d-4b18-a79e-2ef78e49687a
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 47842cbc-2080-4f9e-8c82-1abbb0fda7f4
-draft: 1.3198
-engine_installations: []
-for_sales: []
+name: Elizabeth Mary
+oga_no: 107
+generic_type: Polperro Gaffer
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Elizabeth Mary&#39; was built at Looe, Cornwall by Pearce
+  in 1908, allegadly as a Plymouth hooker. Her owner in 1977, Trevor Vincett, suggests
+  she was more likely a Polperro gaffer.</p>
 full_description: "<p>Her 1977 owner stated that she most certainly was a Polperro\
   \ boat and fished out of that port by the same family until Col. Phibbs bought her\
   \ in 1931. A 7hp Kelvin engine was fitted, in the fo&#39;csl, whilst fishing, but\
@@ -66,30 +66,39 @@ full_description: "<p>Her 1977 owner stated that she most certainly was a Polper
   <h4>Written by Trevor Vincett, OGA member in the South West who sold &lsquo;Elizabeth\
   \ Mary&rsquo; to JDA Burn of Totness in 1977.<br />\r\nFirst published in the Old\
   \ Gaffers Association Newsletter, 1977/3.</h4>"
-generic_type: Polperro Gaffer
+builder:
+  name: Pearce
+  id: c42a9f34-ed3d-4b18-a79e-2ef78e49687a
+designer:
+  name: Pearce
+  id: 47842cbc-2080-4f9e-8c82-1abbb0fda7f4
+construction_material: wood
+construction_method: carvel
+draft: 1.3198
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.3106559375762008
-  fore_triangle_base: 7.315288953913679
-  fore_triangle_height: 8.83930748597903
-  length_on_waterline: 7.924896366739819
-  length_over_all: 8.077298219946353
   main:
     foot: 6.0960741282613995
     head: 6.0960741282613995
     luff: 5.7912704218483295
   thcf: 1.007262825
+  draft: 1.3106559375762008
   topsail:
     luff: 6.0960741282613995
     perpendicular: 2.13362594489149
+  length_over_all: 8.077298219946353
+  fore_triangle_base: 7.315288953913679
+  length_on_waterline: 7.924896366739819
+  fore_triangle_height: 8.83930748597903
 home_country: GBR
 home_port: Axmouth
 hull_form: unknown
 id: aafc65c3-ba02-45af-90dd-123c9f45d12b
 length_on_deck: 8.0772
-mainsail_type: gaff
-name: Elizabeth Mary
-oga_no: 107
+uk_part1: '162911'
+callsign: ''
 ownerships:
 - name: George Dart
   share: 64
@@ -98,11 +107,12 @@ ownerships:
   share: 64
   start: 2012
 place_built: Looe
-rig_type: Cutter
-short_description: <p>&#39;Elizabeth Mary&#39; was built at Looe, Cornwall by Pearce
-  in 1908, allegadly as a Plymouth hooker. Her owner in 1977, Trevor Vincett, suggests
-  she was more likely a Polperro gaffer.</p>
 updated_at: '2021-12-19T13:38:32.69916+00:00'
 website: ''
 year: 1908
 year_is_approximate: false
+image_key: nGfCds
+construction_details: 'Larch  carvel '
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

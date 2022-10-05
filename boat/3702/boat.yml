@@ -1,12 +1,19 @@
-builder: 52871f1e-031e-4638-91c6-c87e27db173a
-callsign: MCXN5
+name: Lady May
+oga_no: 3702
+generic_type: Pocket Cruiser
+rig_type: Sloop
+mainsail_type: gunter
+builder:
+  name: Charlie Ward/North Norfolk Boatbuilders
+  id: 52871f1e-031e-4638-91c6-c87e27db173a
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: grp
 construction_method: other
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.274
 engine_installations: []
 for_sales: []
-generic_type: Pocket Cruiser
 handicap_data:
   beam: 2.286
 home_country: England
@@ -14,16 +21,21 @@ home_port: Manningtree
 hull_form: centre-boarder
 id: 730306c0-3a90-4fdd-8bfc-8922b4868b10
 length_on_deck: 6.035
-mainsail_type: gunter
-name: Lady May
-oga_no: 3702
+sail_number: '124'
+spar_material: wood
+callsign: MCXN5
 ownerships:
-- current: true
-  id: 34993
-  member: 4120
+- id: 34993
   share: 64
+  member: 4120
+  current: true
 place_built: Norfolk
-rig_type: Sloop
 updated_at: '2022-08-17T21:11:47.189787+00:00'
 year: 1999
 year_is_approximate: false
+image_key: N9GXmQ
+design_class:
+  name: Norfolk Gypsy
+  id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
+for_sale_state:
+  text: not_for_sale

@@ -1,10 +1,10 @@
-builder: 69ada10f-4a24-4f01-a338-9f028178e5c0
-callsign: MYYE
-construction_material: wood
-construction_method: unknown
-draft: 1.7282
-engine_installations: []
-for_sales: []
+name: Thalia
+oga_no: 11
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Thalia was built in 1888&nbsp;and has cruised and has raced
+  extensively on both sides of the Atlantic.</p>
 full_description: "<p>Thalia, built in 1888, was one of the last yachts by George\
   \ Wanhill of Poole who had been boatbuilding from the 1850s onwards. In the 1890s\
   \ she went to Cork and raced from the Royal Cork Yacht Club, returning to the south\
@@ -15,65 +15,75 @@ full_description: "<p>Thalia, built in 1888, was one of the last yachts by Georg
   \ by David Aisher in 2010, she returned to England for a refit at the Elephant Boatyard.\
   \ A new mast was fitted with new standing and running rigging and sails. She was\
   \ also re ballasted and rewired and replumbed.&nbsp;</p>"
-generic_type: Yacht
+builder:
+  name: G.F. Wanhill
+  id: 69ada10f-4a24-4f01-a338-9f028178e5c0
+construction_material: wood
+construction_method: unknown
+draft: 1.7282
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.6068641794684217
-  draft: 1.7272372592050718
-  fore_triangle_base: 8.22970007315289
-  fore_triangle_height: 9.1441111923921
-  length_on_waterline: 11.887344550109729
-  length_over_all: 13.716166788588149
-  length_over_spars: 18.593026091197267
   main:
     foot: 8.22970007315289
     head: 5.334077054376981
     luff: 6.4008778346744695
-  propellor:
-    type: fixed
-  sailarea: 93.93159949838162
   thcf: 1.097
+  draft: 1.7272372592050718
   topsail:
     luff: 4.26725188978298
     perpendicular: 3.6576444769568397
+  sailarea: 93.93159949838162
+  propellor:
+    type: fixed
+  length_over_all: 13.716166788588149
+  length_over_spars: 18.593026091197267
+  fore_triangle_base: 8.22970007315289
+  length_on_waterline: 11.887344550109729
+  fore_triangle_height: 9.1441111923921
 home_country: GBR
 home_port: Hamble
 hull_form: long keel deep forefoot
 id: fd6e2ec4-ba52-4a12-9a31-767377b9773b
 length_on_deck: 13.716
-mainsail_type: gaff
-name: Thalia
-oga_no: 11
+sail_number: '11'
+ssr: '82443'
+callsign: MYYE
 ownerships:
 - note: 'Previous owners:'
   text: 'Previous owners:'
 - note: H.K.B. Roberts
   text: H.K.B. Roberts
 - note: A.R. Hale 1967
+  text: A.R. Hale
   start: 1967
   start_is_approximate: false
-  text: A.R. Hale
 - note: I.M. Tann 1970
+  text: I.M. Tann
   start: 1970
   start_is_approximate: false
-  text: I.M. Tann
 - note: E.B. Willard 1979
+  text: E.B. Willard
   start: 1979
   start_is_approximate: false
-  text: E.B. Willard
 - end: 2010
   name: Ivan Jefris
   share: 64
   start: 1994
-- current: true
-  id: 634
-  member: 5371
+- id: 634
   share: 64
   start: 2010
+  member: 5371
+  current: true
 place_built: Poole
-rig_type: Cutter
-short_description: <p>Thalia was built in 1888&nbsp;and has cruised and has raced
-  extensively on both sides of the Atlantic.</p>
 updated_at: '2021-12-19T13:38:29.981938+00:00'
 website: ''
 year: 1888
 year_is_approximate: false
+image_key: hbkT8f
+construction_details: Elm below, pitch pine above on grown oak, bronze fastened and
+  part copper sheathed.
+beam: 3.6058
+for_sale_state:
+  text: not_for_sale

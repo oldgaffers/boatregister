@@ -1,48 +1,55 @@
-builder: 609d8a8b-c14c-402c-b727-519e519d6f6f
-callsign: ''
+name: Finlandia
+oga_no: 2658
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+designer:
+  name: D Freeman/G. Wyatt
+  id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 construction_material: wood
 construction_method: unknown
-designer: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  draft: 0.9144111192392099
-  fore_triangle_base: 3.3528407705437697
-  fore_triangle_height: 5.9436722750548645
-  length_on_waterline: 5.4864667154352595
-  length_over_all: 6.882467690807119
   main:
     foot: 3.9624481833699097
     head: 2.7432333577176298
     luff: 3.6576444769568397
   thcf: 0.863461238
+  draft: 0.9144111192392099
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.6764203852718849
+  length_over_all: 6.882467690807119
+  fore_triangle_base: 3.3528407705437697
+  length_on_waterline: 5.4864667154352595
+  fore_triangle_height: 5.9436722750548645
 home_country: 'null'
 home_port: Hamble
 hull_form: unknown
 id: 28bc13a0-dbe4-4995-b58c-d60b67d59778
 length_on_deck: 6.8824
-mainsail_type: gaff
-name: Finlandia
-oga_no: 2658
+callsign: ''
 ownerships:
 - name: Chris Stevens
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 4463
-  share: 64
+  current: true
   start: '?'
 place_built: Sri Lanka
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:45.465383+00:00'
 website: ''
 year: 2004
 year_is_approximate: false
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,10 @@
-builder: d025a19c-adec-4a5a-99da-a961f0746179
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 01ceb963-0a9a-494f-be76-bbd2893e9eba
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Charlotte Ellen
+oga_no: 721
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Originally built at Brightlingsea in 1906 she was rebuilt 2001
+  - 2009 at Tollesbury, by Paul Drake.</p>
 full_description: "<p>Built in 1906, she was found, serving as a houseboat, in the\
   \ early 1970s by John Rigby and an almost complete rebuild was carried out by John\
   \ Milgate, assisted by Graham Elcock at Peldon.</p>\r\n\r\n<p>Unfortunately, she\
@@ -22,38 +21,48 @@ full_description: "<p>Built in 1906, she was found, serving as a houseboat, in t
   \ the East Coast Race, 2014.</p>\r\n\r\n<p>Watch the video of smacks racing on the\
   \ River Blackwater in 2010.</p>\r\n\r\n<iframe width=\"640\" height=\"360\" src=\"\
   //www.youtube.com/embed/grJakCpCbDA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
-generic_type: Smack
+builder:
+  name: C.J. Kidby and Sons
+  id: d025a19c-adec-4a5a-99da-a961f0746179
+designer:
+  name: Charles J. Kidby
+  id: 01ceb963-0a9a-494f-be76-bbd2893e9eba
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.5052426237503047
-  draft: 1.5240185320653499
-  fore_triangle_base: 9.326993416239942
-  fore_triangle_height: 10.14996342355523
-  length_on_waterline: 11.430138990490123
-  length_over_all: 12.954157522555473
   main:
     foot: 8.717386003413802
     head: 6.278956352109242
     luff: 6.065593757620092
+  draft: 1.5240185320653499
   topsail:
     luff: 9.1441111923921
     perpendicular: 4.26725188978298
+  length_over_all: 12.954157522555473
+  fore_triangle_base: 9.326993416239942
+  length_on_waterline: 11.430138990490123
+  fore_triangle_height: 10.14996342355523
 home_country: GBR
 home_port: Tollesbury
 hull_form: unknown
 id: 2cae3505-fadf-497b-9c55-edc6430fc5ac
 length_on_deck: 12.954
-mainsail_type: gaff
-name: Charlotte Ellen
-oga_no: 721
+callsign: ''
 ownerships:
 - name: James Bardrick
   share: 64
   start: 2000
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: <p>Originally built at Brightlingsea in 1906 she was rebuilt 2001
-  - 2009 at Tollesbury, by Paul Drake.</p>
 updated_at: '2021-12-19T13:38:50.569659+00:00'
 website: ''
 year: 1906
 year_is_approximate: false
+image_key: F5ncGw
+construction_details: Carvel larch on oak
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

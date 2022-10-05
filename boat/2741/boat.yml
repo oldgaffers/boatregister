@@ -1,17 +1,25 @@
-builder: 9ed74098-1a67-4d73-a378-5b36b155fa1b
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 1847f26b-0352-45ca-8bfc-b3e144120831
-draft: 0
-engine_installations: []
-for_sales: []
+name: Pilgrim of Brixham
+oga_no: 2741
+generic_type: Smack
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
 full_description: "Built by Uphams in 1895 she fished out of Brixham until 1912 when\
   \ she was sold to Scandanavia where she conitiued to fish until the1930\u2019s.\
   \ She was turned into a trading Ketch and worked until the 1970\u2019s. She came\
   \ back to Brixham in1999. She is the oldest Brixham built, Brixham rigged sailing\
   \ trawler in the world. Won Classic Boat Best Restoration Trophy 2014."
-generic_type: Smack
+builder:
+  name: J.W. and A. Upham Ltd.
+  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+designer:
+  name: J.W. Upham
+  id: 1847f26b-0352-45ca-8bfc-b3e144120831
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 5.6388685686417945
   length_over_all: 23.165081687393318
@@ -20,17 +28,16 @@ home_port: Brixham
 hull_form: unknown
 id: cb645b4b-6675-464b-93d0-7d4576f3d224
 length_on_deck: 23.1648
-mainsail_type: gaff
-name: Pilgrim of Brixham
-oga_no: 2741
+callsign: ''
 ownerships:
 - name: W Wakeham
   share: 64
   start: 2012
 place_built: Brixham
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:48.002388+00:00'
 website: ''
 year: 1895
 year_is_approximate: false
+beam: 5.6388
+for_sale_state:
+  text: not_for_sale

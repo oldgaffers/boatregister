@@ -1,48 +1,60 @@
-builder: dc949fd0-5020-43bc-8e17-b32e6320b3bd
-callsign: ''
+name: Merlin
+oga_no: 3343
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: <p>Merlin is a Bay Raider Expedition built in 2016</p>
+full_description: ''
+builder:
+  name: Swallow Yachts
+  id: dc949fd0-5020-43bc-8e17-b32e6320b3bd
+designer:
+  name: Matt Newland
+  id: 30fcf69f-e274-4284-9cb8-8327a7f730f5
 construction_material: grp
 construction_method: cold_moulded
-designer: 30fcf69f-e274-4284-9cb8-8327a7f730f5
 draft: 0.2499
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.805
-  draft_keel_down: 1.4204
-  fore_triangle_base: 1.9995
-  fore_triangle_height: 4.1605
-  length_on_waterline: 5.4011
-  length_over_spars: 6.0594
-  length_overall: 6.0503
   main:
     foot: 9.19
     luff: 20.87
   mizzen:
     foot: 4.34
     luff: 11.33
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 6
+  moving_keel: true
+  length_overall: 6.0503
+  calculated_thcf: 0.805
+  draft_keel_down: 1.4204
+  moving_keel_type: Centreboard
+  length_over_spars: 6.0594
+  fore_triangle_base: 1.9995
+  length_on_waterline: 5.4011
+  fore_triangle_height: 4.1605
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 203b49c9-64b5-493e-83c9-08475807f1f2
 length_on_deck: 6.0503
-mainsail_type: bermudan
-name: Merlin
-oga_no: 3343
+callsign: ''
 ownerships:
-- current: true
-  id: 927
-  member: 6099
+- id: 927
   share: 64
   start: 2016
+  member: 6099
+  current: true
 place_built: Cardigan
-rig_type: Ketch
-short_description: <p>Merlin is a Bay Raider Expedition built in 2016</p>
 updated_at: '2021-12-19T13:40:08.195871+00:00'
 website: ''
 year: 2016
 year_is_approximate: false
+image_key: CQHjft
+construction_details: GRP
+beam: 2.0513
+design_class:
+  name: Bay Raider Expedition
+  id: 76b22c10-ca70-4ccc-87ab-6276276a49b8
+for_sale_state:
+  text: not_for_sale

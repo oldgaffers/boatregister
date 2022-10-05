@@ -1,11 +1,10 @@
-builder: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Merganser
+oga_no: 3416
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: <p>Vertue 47, Merganser is an extremely original Vertue with the
+  classic&nbsp;&#39;slutter&#39; rig.</p>
 full_description: "<p>Merganser is V47, built in 1952 and still extremely original,\
   \ the owner still has the original suit of cotton sails which are all servicable\
   \ and are used for the annual OGA East Coast Race.</p>\r\n\r\n<p>The original owner,\
@@ -24,62 +23,77 @@ full_description: "<p>Merganser is V47, built in 1952 and still extremely origin
   \n\t<li>hood-ends re-fastened</li>\r\n\t<li>new deck</li>\r\n\t<li>new standing\
   \ and running rigging</li>\r\n\t<li>new sails</li>\r\n\t<li>engine replaced</li>\r\
   \n</ul>"
-generic_type: Yacht
+builder:
+  name: Harry Feltham
+  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 0.903
-  fore_triangle_base: 3.048
-  fore_triangle_height: 9.7536
-  length_on_waterline: 6.5532
-  length_overall: 7.6962
   main:
     foot: 12
     luff: 31
+  length_overall: 7.6962
+  calculated_thcf: 0.903
+  fore_triangle_base: 3.048
+  length_on_waterline: 6.5532
+  fore_triangle_height: 9.7536
 home_country: GBR
 home_port: Brightlingsea
 hull_form: long keel sloping forefoot
 id: 306c65da-eb73-4b8e-8725-fa41aa4c9219
 length_on_deck: 7.6962
-mainsail_type: bermudan
-name: Merganser
-oga_no: 3416
+sail_number: 78Y
+uk_part1: '185386'
+callsign: ''
 ownerships:
 - end: 1956
-  end_is_approximate: false
   note: 1952 - 1956 Eng Cdr R A C Michel
-  start: 1952
-  start_is_approximate: false
   text: Eng Cdr R A C Michel
+  start: 1952
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1964
-  end_is_approximate: false
   note: 1956 - 1964 Roger Stanley
-  start: 1956
-  start_is_approximate: false
   text: Roger Stanley
+  start: 1956
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1979
-  end_is_approximate: false
   note: 1964 - 1979 W R  A Breare
-  start: 1964
-  start_is_approximate: false
   text: W R  A Breare
-- end: 2015
+  start: 1964
   end_is_approximate: false
-  note: 1979 - 2015 Eric T Morris
-  start: 1979
   start_is_approximate: false
+- end: 2015
+  note: 1979 - 2015 Eric T Morris
   text: Eric T Morris
+  start: 1979
+  end_is_approximate: false
+  start_is_approximate: false
 - name: Alan Williams
   share: 64
   start: 2015
-- current: true
-  id: 1051
-  member: 6304
+- id: 1051
   share: 64
+  member: 6304
+  current: true
   start: '?'
 place_built: Portsmouth
-rig_type: Cutter
-short_description: <p>Vertue 47, Merganser is an extremely original Vertue with the
-  classic&nbsp;&#39;slutter&#39; rig.</p>
 updated_at: '2021-12-19T13:40:10.144383+00:00'
 website: ''
 year: 1952
 year_is_approximate: false
+image_key: PHDs6v
+construction_details: Carvel, teak on CRE streamed timbers
+beam: 2.1854
+design_class:
+  name: Vertue
+  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
+for_sale_state:
+  text: not_for_sale

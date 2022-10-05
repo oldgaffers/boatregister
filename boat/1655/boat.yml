@@ -1,13 +1,20 @@
-builder: e5c00172-7ec2-4bc9-9979-d47454b84ba4
-callsign: ''
+name: Rohaise II
+oga_no: 1655
+generic_type: Yacht
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+designer:
+  name: A.R. Curjel
+  id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
 construction_material: wood
 construction_method: unknown
-designer: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   length_over_all: 6.4770787612777365
 home_country: 'null'
@@ -15,17 +22,17 @@ home_port: ''
 hull_form: unknown
 id: 39a09b9e-4457-4812-8455-9e9c333ef889
 length_on_deck: 6.477
-mainsail_type: gaff
-name: Rohaise II
-oga_no: 1655
+callsign: ''
 ownerships:
-- current: true
-  id: 563
-  member: 5023
+- id: 563
   share: 64
   start: 2012
+  member: 5023
+  current: true
 place_built: Woodbridge
-short_description: ''
 updated_at: '2021-12-19T13:39:17.13331+00:00'
 website: ''
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

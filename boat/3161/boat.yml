@@ -1,21 +1,28 @@
-builder: 006f68af-70b8-4789-92b1-8fbaa0a663a9
-callsign: ''
+name: Windbreker
+oga_no: 3161
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Diemerzeedijk Bakker
+  id: 006f68af-70b8-4789-92b1-8fbaa0a663a9
+designer:
+  name: Lentsch de Vries
+  id: d08ca6dc-cee1-4293-9432-8d91b6fe28d9
 construction_material: steel
 construction_method: unknown
-designer: d08ca6dc-cee1-4293-9432-8d91b6fe28d9
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 home_country: NLD
 home_port: Hellevoetsluis
 hull_form: long keel sloping forefoot
 id: f84eb0d5-6977-44ff-a0d0-6ed6518911ee
 length_on_deck: 0
-mainsail_type: gaff
-name: Windbreker
-oga_no: 3161
+sail_number: W (birds)
+callsign: ''
 ownerships:
 - name: Else Wakemakers
   share: 32
@@ -23,15 +30,18 @@ ownerships:
 - name: Edgar Wakemakers
   share: 32
   start: 1998
-- current: true
-  id: 783
-  member: 5811
+- id: 783
   share: 64
+  member: 5811
+  current: true
   start: '?'
 place_built: Amsterdam
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:40:02.761893+00:00'
 website: http://www.windbrekersailing.nl/
 year: 1983
 year_is_approximate: false
+image_key: rb6cq7
+construction_details: steel welded
+beam: 0
+for_sale_state:
+  text: not_for_sale

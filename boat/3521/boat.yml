@@ -1,35 +1,44 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-construction_material: grp
-construction_method: unknown
-designer: ac488ef8-79bc-4676-b24a-1efd01e44ddf
-engine_installations: []
-for_sales: []
-full_description: Gaff rigged cutter
-generic_type: Yacht
-handicap_data:
-  beam: 2.7737137283589366
-  draft: 0.7620092660326749
-  length_on_waterline: 7.2390880273104115
-  length_over_all: 8.001097293343086
-home_country: United Kingdom
-home_port: Dartmouth
-hull_form: long keel deep forefoot
-id: a30a020a-ea99-4ea1-8cc1-a7c6053afd2e
-mainsail_type: gaff
 name: Vagrant Gypsy
 oga_no: 3521
-ownerships:
-- current: true
-  id: 818
-  member: 5881
-  share: 64
-  start: '?'
-place_built: Rock
+generic_type: Yacht
 rig_type: Cutter
+mainsail_type: gaff
 short_description: 'Red sails
 
 
   <div>Cream hull with blue strake</div>'
+full_description: Gaff rigged cutter
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: David Thomas
+  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+construction_material: grp
+construction_method: unknown
+engine_installations: []
+for_sales: []
+handicap_data:
+  beam: 2.7737137283589366
+  draft: 0.7620092660326749
+  length_over_all: 8.001097293343086
+  length_on_waterline: 7.2390880273104115
+home_country: United Kingdom
+home_port: Dartmouth
+hull_form: long keel deep forefoot
+id: a30a020a-ea99-4ea1-8cc1-a7c6053afd2e
+ownerships:
+- id: 818
+  share: 64
+  member: 5881
+  current: true
+  start: '?'
+place_built: Rock
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 2011
 year_is_approximate: true
+image_key: 4cwRCm
+beam: 2.9962
+design_class:
+  name: Cornish Crabber 26
+  id: 50503297-7263-4cf4-af74-102bb153bc8e

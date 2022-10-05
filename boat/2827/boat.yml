@@ -1,13 +1,21 @@
-builder: ce942be3-3ad1-4365-92fd-bccd167a3725
-callsign: ''
+name: Tomkit
+oga_no: 2827
+generic_type: Dinghy
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: JEP Marine
+  id: ce942be3-3ad1-4365-92fd-bccd167a3725
+designer:
+  name: John Pollitt
+  id: 67ee9ca0-40ef-4ed5-8a05-a577afd43672
 construction_material: wood
 construction_method: unknown
-designer: 67ee9ca0-40ef-4ed5-8a05-a577afd43672
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.8288222384784198
   length_over_all: 4.87685930260912
@@ -16,21 +24,23 @@ home_port: Langstone
 hull_form: unknown
 id: 220842f1-10c2-400c-b3d3-974f6346c2a9
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Tomkit
-oga_no: 2827
+callsign: ''
 ownerships:
 - name: David and Adrienne Higham
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 4949
-  share: 64
+  current: true
   start: '?'
 place_built: Faversham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:50.570618+00:00'
 website: ''
 year: 2001
 year_is_approximate: false
+beam: 1.8288
+design_class:
+  name: Swale Pilot 16
+  id: 62bdb729-618b-4f82-ab82-4f3e34a6a75c
+for_sale_state:
+  text: not_for_sale

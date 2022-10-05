@@ -1,11 +1,14 @@
-callsign: ''
+name: Iris
+oga_no: 1342
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: Log 87/1
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 87/1
-generic_type: unknown
 handicap_data:
   beam: 2.13362594489149
   length_over_all: 10.05852231163131
@@ -14,15 +17,17 @@ home_port: ''
 hull_form: unknown
 id: 3562df49-8a7a-49e9-9e6d-12ca37623927
 length_on_deck: 10.0584
-mainsail_type: gaff
-name: Iris
-oga_no: 1342
+reference:
+- Log 87/1
+callsign: ''
 ownerships:
 - name: W A Garrett
   share: 64
   start: 2012
-short_description: ''
 updated_at: '2021-12-19T13:39:08.702143+00:00'
 website: ''
 year: 1900
 year_is_approximate: false
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

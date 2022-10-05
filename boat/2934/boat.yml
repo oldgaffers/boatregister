@@ -1,13 +1,21 @@
-builder: f5ac4d1b-a89b-4237-b55b-6e2a2eed10eb
-callsign: ''
+name: Britta
+oga_no: 2934
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Mould taken off hull, in care of Causway Coast Heritage Group.</p>
+full_description: ''
+builder:
+  name: Robin Ruddick
+  id: f5ac4d1b-a89b-4237-b55b-6e2a2eed10eb
+designer:
+  name: McDonald of Moville
+  id: c4f5feb6-70e3-423c-82c3-5a2b6af1a041
 construction_material: wood
 construction_method: clinker
-designer: c4f5feb6-70e3-423c-82c3-5a2b6af1a041
 draft: 0.509
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.5758351621555717
   draft: 0.5090221897098268
@@ -17,21 +25,21 @@ home_port: Portrush
 hull_form: unknown
 id: 6cd2681e-7526-452d-9da9-28d8f8f1ca40
 length_on_deck: 5.1054
-mainsail_type: gaff
-name: Britta
-oga_no: 2934
+callsign: ''
 ownerships:
 - name: Robin Ruddock
   share: 64
   start: 2009
-- current: true
+- share: 64
   member: 2978
-  share: 64
+  current: true
   start: '?'
 place_built: Portrush
-rig_type: Sloop
-short_description: <p>Mould taken off hull, in care of Causway Coast Heritage Group.</p>
 updated_at: '2021-12-19T13:39:53.830866+00:00'
 website: ''
 year: 2009
 year_is_approximate: false
+construction_details: GRP simulated clinker
+beam: 1.5758
+for_sale_state:
+  text: not_for_sale

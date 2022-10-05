@@ -1,34 +1,50 @@
-builder: 57c4e472-875f-4e6b-aae8-4f198579d842
-callsign: ''
+name: Kernyas
+oga_no: 299
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 70/2, 69/2, 68/4, 67/1. See CB Sept 04.
+builder:
+  name: Dan Webb/Feesey Webb
+  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+designer:
+  name: Dan Webb
+  id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
 construction_material: wood
 construction_method: unknown
-designer: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Log 70/2, 69/2, 68/4, 67/1. See CB Sept 04.
-generic_type: Yacht
 handicap_data:
   beam: 1.9812240916849548
   draft: 1.21921482565228
-  length_on_waterline: 5.029261155815655
   length_over_all: 5.6388685686417945
+  length_on_waterline: 5.029261155815655
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: f077fb43-f84f-46ff-bc13-fc363aa20547
 length_on_deck: 5.6388
-mainsail_type: gaff
-name: Kernyas
-oga_no: 299
+reference:
+- Log 70/2
+- Log 69/2
+- Log 68/4
+- Log 67/1
+- CB Sept 04
+callsign: ''
 ownerships:
 - name: A J Yeatman
   share: 64
   start: 2012
 place_built: Maldon
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:38.514165+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+beam: 1.9812
+design_class:
+  name: Blackwater Sloop
+  id: 5eedf365-1b2c-4c7b-b11c-0dce4f9e1f5c
+for_sale_state:
+  text: not_for_sale

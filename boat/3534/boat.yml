@@ -1,34 +1,46 @@
-builder: eb91a8b3-3bd3-436e-97cf-b238c6a09833
+name: Ruby
+oga_no: 3534
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+builder:
+  name: Demon Yachts
+  id: eb91a8b3-3bd3-436e-97cf-b238c6a09833
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: grp
 construction_method: cold_moulded
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.3048
 engine_installations: []
 for_sales: []
-generic_type: Yacht
 handicap_data:
   beam: 2.0574250182882223
-  draft_keel_down: 1.1948
-  length_on_waterline: 6.4008778346744695
-  length_over_all: 6.4008778346744695
-  length_over_spars: 7.1872
-  length_overall: 6.4008
-  moving_keel: true
-  moving_keel_type: Centreboard
+  thcf: 0.772
+  sailarea: 6.000010048637187
   propellor:
     type: fixed
-  sailarea: 6.000010048637187
-  thcf: 0.772
+  moving_keel: true
+  length_overall: 6.4008
+  draft_keel_down: 1.1948
+  length_over_all: 6.4008778346744695
+  moving_keel_type: Centreboard
+  length_over_spars: 7.1872
+  length_on_waterline: 6.4008778346744695
 home_country: GBR
 home_port: Ullswater
 hull_form: centre-boarder
 id: b6512b06-4d68-462b-8ab1-77c7cd229fe7
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Ruby
-oga_no: 3534
+sail_number: '4'
+spar_material: carbon_composite
 place_built: Aldburgh
-rig_type: Sloop
 updated_at: '2021-04-11T09:16:07.354941+00:00'
 year: 2016
 year_is_approximate: false
+image_key: rMg3PG
+design_class:
+  name: Kite
+  id: b52c9b8d-94c8-4943-a722-fd41fa7a43a6
+for_sale_state:
+  text: not_for_sale

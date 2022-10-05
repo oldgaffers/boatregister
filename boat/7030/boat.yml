@@ -1,13 +1,23 @@
-builder: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
-callsign: ''
+name: Naiad
+oga_no: 7030
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: Naiad, designed by Harrison Butler and built in 1936, was kept
+  on the Solent by Vice Admiral J.W.S Dorling until 1961, when G.A Percival moved
+  her to Northumberland.
+full_description: ''
+builder:
+  name: ErnestgF. Elkins
+  id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
+designer:
+  name: T. Harrison Butler
+  id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
 construction_material: wood
 construction_method: carvel
-designer: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   length_over_all: 8.83930748597903
 home_country: GBR
@@ -15,53 +25,57 @@ home_port: Amble, Northumberland
 hull_form: long keel sloping forefoot
 id: fc5dc7d8-67b4-4b9f-b248-cd76c4eda0fa
 length_on_deck: 8.8392
-mainsail_type: bermudan
-name: Naiad
-oga_no: 7030
+sail_number: 688Y
+uk_part1: '165044'
+callsign: ''
 ownerships:
 - note: A S Page 1936
+  text: A S Page
   start: 1936
   start_is_approximate: false
-  text: A S Page
 - end: 1961
   name: Vice Admiral J.W.S Dorling
   share: 64
   start: 1946
 - note: Vice Admiral J W Dorling 1947
+  text: Vice Admiral J W Dorling
   start: 1947
   start_is_approximate: false
-  text: Vice Admiral J W Dorling
 - end: 2009
   name: G.A Percival
   share: 64
   start: 1961
 - note: G A Percival 1961
+  text: G A Percival
   start: 1961
   start_is_approximate: false
-  text: G A Percival
 - note: Mr and Mr J N Hill 1976
+  text: Mr and Mr J N Hill
   start: 1976
   start_is_approximate: false
-  text: Mr and Mr J N Hill
 - note: Neal Hill and Morag Chisholm 2002
+  text: Neal Hill and Morag Chisholm
   start: 2002
   start_is_approximate: false
-  text: Neal Hill and Morag Chisholm
 - end: 2019
   name: Neal Hill
   share: 64
   start: 2009
-- current: true
-  id: 424
-  member: 4311
+- id: 424
   share: 64
+  member: 4311
+  current: true
   start: '?'
 place_built: Christchurch
-rig_type: Cutter
-short_description: Naiad, designed by Harrison Butler and built in 1936, was kept
-  on the Solent by Vice Admiral J.W.S Dorling until 1961, when G.A Percival moved
-  her to Northumberland.
 updated_at: '2021-12-19T13:40:00.881891+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+image_key: 6WGphQ
+construction_details: Carvel wood
+beam: 0
+design_class:
+  name: Englyn design by Harrison Butler
+  id: e275a9e0-c14f-4954-9b6c-fa2f6c053d06
+for_sale_state:
+  text: not_for_sale

@@ -1,8 +1,18 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Sepia
+oga_no: 2768
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5578
 engine_installations: []
 for_sales:
@@ -50,35 +60,34 @@ for_sales:
   sold: null
   summary: null
   updated_at: '2020-05-03T10:13:12.944884+00:00'
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  draft_keeldown: 1.1430138990490124
-  fore_triangle_base: 2.718849061204584
-  fore_triangle_height: 5.690685198732017
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.852475006096074
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.869106829
+  draft: 0.5334064862228725
   topsail:
     luff: 4.063033406486222
     perpendicular: 1.8532065349914655
+  propellor:
+    type: fixed
+    blades: 3
+  draft_keeldown: 1.1430138990490124
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.718849061204584
+  length_on_waterline: 5.690685198732017
+  fore_triangle_height: 5.690685198732017
 home_country: GBR
 home_port: Stone Sailing Club, River Blackwater
 hull_form: centre-boarder
 id: ce9c3c34-d7a7-4bfa-bfb8-4850a300df05
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Sepia
-oga_no: 2768
+sail_number: '2768'
+spar_material: wood
+ssr: '157593'
+callsign: ''
 ownerships:
 - end: 2008
   name: Patrick Colin
@@ -88,20 +97,26 @@ ownerships:
   name: David Pennison
   share: 64
   start: 2008
-- current: true
-  id: 34673
-  member: 6294
+- id: 34673
   share: 32
   start: 2019
-- current: true
-  id: 1041
   member: 6294
+  current: true
+- id: 1041
   share: 32
   start: 2019
+  member: 6294
+  current: true
 place_built: Burlesdon
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 2004
 year_is_approximate: false
+image_key: wrw2gj
+construction_details: GRP
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

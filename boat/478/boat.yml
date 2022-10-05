@@ -1,11 +1,9 @@
-builder: ad522340-0cee-437f-8a69-904bd989b74f
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f1bc585c-9638-4fd8-8fc7-f382b028513c
-draft: 1.1582
-engine_installations: []
-for_sales: []
+name: Pintail
+oga_no: 478
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
 full_description: 'Described by the West Solent Boat builders in a for sale notice
   sometime after August 1980: <p> Reputedly designed by Morgan Giles for a retired
   army officer. <p> Her swan stern is typical of this period and is of great advantage
@@ -13,28 +11,44 @@ full_description: 'Described by the West Solent Boat builders in a for sale noti
   <p>Her almost brand new diesel engine drives her at 6 knots and consumes approximately
   one gallon per hour. <p>The owner has crossed the channel very comfortably in heavy
   weather using jib, staysail and mizen while stowing the m ainsail. <p>'
-generic_type: Yacht
+builder:
+  name: May Harden and May
+  id: ad522340-0cee-437f-8a69-904bd989b74f
+designer:
+  name: Morgan Giles
+  id: f1bc585c-9638-4fd8-8fc7-f382b028513c
+construction_material: wood
+construction_method: carvel
+draft: 1.1582
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.8288222384784198
   draft: 1.1582540843696658
-  length_on_waterline: 6.0960741282613995
   length_over_all: 7.010485247500609
+  length_on_waterline: 6.0960741282613995
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 84b334f5-25ed-48c1-a3b2-887e29ad6e8e
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Pintail
-oga_no: 478
+reference:
+- Log 74/1
+- Log 81/2
+- Log 85/4
+spar_material: wood
+callsign: ''
 ownerships:
 - name: R Eyton-Lloyd
   share: 64
   start: 2012
 place_built: Hythe, Hamble
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:43.399657+00:00'
 website: ''
 year: 1914
 year_is_approximate: false
+image_key: n7ncvc
+construction_details: Pitch pine on oak
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

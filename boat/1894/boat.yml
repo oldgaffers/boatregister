@@ -1,40 +1,43 @@
-callsign: ''
+name: Whaler
+oga_no: 1894
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: lug
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: unknown
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.8806
-  fore_triangle_base: 1.8288
-  fore_triangle_height: 2.7432
-  length_on_waterline: 7.9248
-  length_over_all: 8.2296
   main:
     foot: 3.6576
     head: 4.2672
     luff: 1.8288
+  thcf: 0.89474272
   mizzen:
     foot: 1.9812
     luff: 2.7432
-  thcf: 0.89474272
+  length_over_all: 8.2296
+  fore_triangle_base: 1.8288
+  length_on_waterline: 7.9248
+  fore_triangle_height: 2.7432
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 5b8e6f02-3df0-4ef9-9f18-cc1998106613
 length_on_deck: 8.2296
-mainsail_type: lug
-name: Whaler
-oga_no: 1894
+callsign: ''
 ownerships:
 - name: Royal Navy
   share: 64
   start: 2012
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:23.436628+00:00'
 website: ''
 year: 1964
 year_is_approximate: false
+beam: 1.8806
+for_sale_state:
+  text: not_for_sale

@@ -1,40 +1,47 @@
-builder: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
-callsign: ''
+name: Fritha
+oga_no: 1977
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Water Craft Jan/Feb 98, and July/August 2003 CB Sep 90
+builder:
+  name: North Norfolk Boat Building Co.
+  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: unknown
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Water Craft Jan/Feb 98, and July/August 2003 CB Sep 90
-generic_type: unknown
 handicap_data:
   beam: 1.9050231650816873
-  fore_triangle_base: 1.8288222384784198
-  fore_triangle_height: 4.367837112899292
-  length_on_waterline: 4.724457449402585
-  length_over_all: 5.059741526456962
   main:
     foot: 3.3528407705437697
     head: 3.733845403560107
     luff: 2.386613021214338
   thcf: 0.803540321
+  length_over_all: 5.059741526456962
+  fore_triangle_base: 1.8288222384784198
+  length_on_waterline: 4.724457449402585
+  fore_triangle_height: 4.367837112899292
 home_country: 'null'
 home_port: Dittisham
 hull_form: unknown
 id: 0afa8c2f-bf3b-4d09-b9c3-28f5efaa59d1
 length_on_deck: 5.0597
-mainsail_type: gaff
-name: Fritha
-oga_no: 1977
+callsign: ''
 ownerships:
 - name: Andrew Frankland
   share: 64
   start: 2012
 place_built: Norfolk
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:25.866139+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+beam: 1.905
+for_sale_state:
+  text: not_for_sale

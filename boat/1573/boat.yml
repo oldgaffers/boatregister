@@ -1,10 +1,9 @@
-builder: 6f85bcba-70db-42a2-803e-b418c96eebb1
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 0.762
-engine_installations: []
-for_sales: []
+name: Mary Ellen
+oga_no: 1573
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: "Had been suggested that this was a shrimper, hull form negates\
   \ this view, similarly was said to be 2 or 3 foot longer on deck, if she is sawn\
   \ off, it is a very professionla cut. \"Thursday 31st August 1995. - The morning\
@@ -14,7 +13,14 @@ full_description: "Had been suggested that this was a shrimper, hull form negate
   \ there. After a while the rain stopped and I went to see Mary. Certainly she was\
   \ there, with transom removed as the current owner was planning build a counter\
   \ stern (something she had managed to do without in all her 105 years!).(John Langrick)\""
-generic_type: Yacht
+builder:
+  name: Roberts of Chester
+  id: 6f85bcba-70db-42a2-803e-b418c96eebb1
+construction_material: wood
+construction_method: carvel
+draft: 0.762
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.9812240916849548
   draft: 0.7620092660326749
@@ -24,17 +30,20 @@ home_port: West Mersea
 hull_form: unknown
 id: d63b7eb1-233f-4e63-9ef2-bd2953fd843c
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Mary Ellen
-oga_no: 1573
+callsign: ''
 ownerships:
 - name: Peter Jezard
   share: 64
   start: 2012
 place_built: Chester
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:15.167877+00:00'
 website: ''
 year: 1895
 year_is_approximate: false
+previous_names:
+- Mary Louise
+- Mary of Chester
+construction_details: Oak on Oak Carvel, iron ballast keel, had centre plate
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

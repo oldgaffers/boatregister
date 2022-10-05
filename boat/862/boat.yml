@@ -1,11 +1,11 @@
-builder: 05a8c6fc-8e91-4918-95f3-410fdae73847
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 6f38c425-7876-4a4e-8caa-98811569d4c5
-draft: 1.0668
-engine_installations: []
-for_sales: []
+name: Nightfall
+oga_no: 862
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Nightfall&#39; is a shoal-draft gaff cutter and was built
+  for WD Silcock and his wife to gently sail on the Norfolk Broads and around the
+  Suffolk Coast. She was designed by Harold Lidston who lived in Cowes.</p>
 full_description: "<p>Built 1910 by Frederick Miller of Oulton Broad and originally\
   \ named &#39;Nautilus&#39; to a design by HH Lidstone to a fairly high price for\
   \ an owner and his wife to cruise the Broads as well as coastal cruising.</p>\r\n\
@@ -25,48 +25,60 @@ full_description: "<p>Built 1910 by Frederick Miller of Oulton Broad and origina
   \n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"360\" src=\"https://www.youtube.com/embed/fp9tp7gyCXM\"\
   \ width=\"640\"></iframe></p>\r\n\r\n<h4>Video produced by <a href=\"http://www.myclassicboat.com/Home/\"\
   \ target=\"_blank\">My Classic Boat</a>.</h4>"
-generic_type: Yacht
+builder:
+  name: T.H. Miller
+  id: 05a8c6fc-8e91-4918-95f3-410fdae73847
+designer:
+  name: H.H. Lidstone
+  id: 6f38c425-7876-4a4e-8caa-98811569d4c5
+construction_material: wood
+construction_method: carvel
+draft: 1.0668
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7676176542306754
-  draft: 1.066812972445745
-  fore_triangle_base: 5.690685198732017
-  fore_triangle_height: 7.924896366739819
-  length_on_waterline: 8.22970007315289
-  length_over_all: 9.44891489880517
   main:
     foot: 6.5532796878810045
     head: 4.218483296756888
     luff: 5.18166300902219
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.987256398
+  draft: 1.066812972445745
   topsail:
     luff: 4.87685930260912
     perpendicular: 1.9812240916849548
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 9.44891489880517
+  fore_triangle_base: 5.690685198732017
+  length_on_waterline: 8.22970007315289
+  fore_triangle_height: 7.924896366739819
 home_country: GBR
 home_port: Yarmouth Isle of Wight
 hull_form: long keel deep forefoot
 id: 585eaaaa-a777-47df-b360-5e27894ad3dd
 length_on_deck: 9.4488
-mainsail_type: gaff
-name: Nightfall
-oga_no: 862
+uk_part1: '302862'
+callsign: ''
 ownerships:
 - name: Martyn Mackrill
   share: 64
   start: 1984
-- current: true
-  id: 486
-  member: 4652
+- id: 486
   share: 64
+  member: 4652
+  current: true
   start: '?'
 place_built: Oulton Broad
-rig_type: Cutter
-short_description: <p>&#39;Nightfall&#39; is a shoal-draft gaff cutter and was built
-  for WD Silcock and his wife to gently sail on the Norfolk Broads and around the
-  Suffolk Coast. She was designed by Harold Lidston who lived in Cowes.</p>
 updated_at: '2021-12-19T13:38:54.499912+00:00'
 website: http://martynmackrill.co.uk/marine-artists-boat.htm
 year: 1910
 year_is_approximate: false
+previous_names:
+- Nautilus
+image_key: pvq8Mh
+construction_details: Carvel pitch pine on oak, copper fastened with long iron keel
+beam: 2.7676
+for_sale_state:
+  text: not_for_sale

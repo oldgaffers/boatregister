@@ -1,9 +1,9 @@
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 0
-engine_installations: []
-for_sales: []
+name: Mayhi
+oga_no: 102
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
 full_description: "Log 79/3, 80/1, 80/2, 81/1, 82/2  Built as an estuary racer at\
   \ Ramsgate before the 1914-18 war for use in the Medway.  She was evidently kept\
   \ in the Medway until purchased by Prior of Burnham, from whom she was bought in\
@@ -13,27 +13,36 @@ full_description: "Log 79/3, 80/1, 80/2, 81/1, 82/2  Built as an estuary racer a
   \ was removed because it let in too much water.  In 1937 the cabin was raised 3\
   \ inches and 5 inches aft to give comfortable sitting headroom.  Winner of the East\
   \ Coast Old Gaffers Trophy in 1975."
-generic_type: unknown
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.4689100219458666
-  length_on_waterline: 6.949524506217996
   length_over_all: 8.168739331870276
+  length_on_waterline: 6.949524506217996
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 693f6261-9996-41d4-bb34-d66fadccfeac
 length_on_deck: 8.1686
-mainsail_type: gaff
-name: Mayhi
-oga_no: 102
+reference:
+- Log 79/3
+- Log 80/1
+- Log 80/2
+- Log 81/1
+- 'Log 82/2 '
+callsign: ''
 ownerships:
 - name: R J Prior & Son
   share: 64
   start: 2012
 place_built: Ramsgate
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:32.572148+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+beam: 2.4689
+for_sale_state:
+  text: not_for_sale

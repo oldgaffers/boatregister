@@ -1,39 +1,47 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Sally J
+oga_no: 1468
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Sally-J&#39; is a Heard 28, built in 1981.</p>
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: grp
 construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.524
 engine_installations: []
 for_sales:
 - asking_price: 28000
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.0480370641306997
-  draft: 1.5240185320653499
-  fore_triangle_base: 5.739453791758107
-  fore_triangle_height: 9.982321385028042
-  length_on_waterline: 8.077298219946353
-  length_over_all: 8.53450377956596
   main:
     foot: 5.334064862228725
     head: 4.57205559619605
     luff: 4.724457449402585
-  propellor:
-    type: fixed
   thcf: 0.956019822
+  draft: 1.5240185320653499
   topsail:
     luff: 4.776274079492806
     perpendicular: 2.13362594489149
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 5.739453791758107
+  length_on_waterline: 8.077298219946353
+  fore_triangle_height: 9.982321385028042
 home_country: GBR
 home_port: Pembrokeshire
 hull_form: long keel deep forefoot
 id: 00d4a10b-f9a1-4ebd-b8c2-3ed6aa720623
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Sally J
-oga_no: 1468
+sail_number: '1468'
+ssr: '46305'
+callsign: ''
 ownerships:
 - end: 2014
   name: C L Rihan
@@ -44,9 +52,15 @@ ownerships:
   share: 64
   start: 2014
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: <p>&#39;Sally-J&#39; is a Heard 28, built in 1981.</p>
 updated_at: '2021-12-19T13:39:12.23786+00:00'
 website: ''
 year: 1981
 year_is_approximate: false
+image_key: bQTgVv
+construction_details: GRP hull, ply decks, Iroko cabin
+beam: 3.048
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
+for_sale_state:
+  text: not_for_sale

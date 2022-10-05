@@ -1,11 +1,11 @@
-builder: 83a839af-b960-4cce-a881-b4401432846c
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: f97b2d74-8535-4ed5-8602-651d2ca2898f
-draft: 0
-engine_installations: []
-for_sales: []
+name: Dunlin
+oga_no: 674
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>After two years renovation 1975 - 1977 she was sold by R.G Ward.
+  Lost, mid-Atlantic, 12 September 2004, with owner since 1979, Phil Nerin, being
+  rescued.</p>
 full_description: "<p>62-year-old Philip Kerin, a British citizen based in the Caribbean,\
   \ was rescued on 12 September 2004 whilst sailing from Antigua to Falmouth. His\
   \ stricken 19th century yacht, &#39;Dunlin&#39;, was nearly 350 miles out in the\
@@ -18,19 +18,27 @@ full_description: "<p>62-year-old Philip Kerin, a British citizen based in the C
   \ off the end of her bowsprit in the first race. Built in 1890 as a Falmouth Quay\
   \ Punt she was the oldest boat present.</p>\r\n\r\n<p><a href=\"http://books.google.co.uk/books?id=nalu9qcgFf4C&amp;pg=PA113&amp;lpg=PA113&amp;dq=1890+yacht+dunlin&amp;source=bl&amp;ots=M6Bbt3VTaS&amp;sig=nfw8h-g8hsQl6R9cN_MQ-HDAOPU&amp;hl=en&amp;sa=X&amp;ei=LoNdVNzVI8nXapvLgMAP&amp;ved=0CEkQ6AEwBg#v=onepage&amp;q=1890%20yacht%20dunlin&amp;f=false\"\
   \ target=\"_blank\">Read the skipper&#39;s account of the rescue</a>.</p>"
-generic_type: Yacht
+builder:
+  name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
+designer:
+  name: Charles E. Nicholson
+  id: f97b2d74-8535-4ed5-8602-651d2ca2898f
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7432333577176298
-  length_on_waterline: 7.924896366739819
   length_over_all: 8.53450377956596
+  length_on_waterline: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 9aa8613c-33cb-4409-aae0-330ed0c7e486
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Dunlin
-oga_no: 674
+callsign: ''
 ownerships:
 - end: 2004
   name: Philip Kerin
@@ -39,15 +47,16 @@ ownerships:
 - note: Reported in 1999 (Antiqua Classic Yacht Regatta), that she only had three
     owners since 1890. OGA member, Roger G Ward, advertised 'Dunlin' for sale in Gaffers
     Logs, 1977/2, 1979/1 and 1980/1.
+  text: Reported in
   start: 1999
   start_is_approximate: false
-  text: Reported in
 place_built: Gosport
-rig_type: Cutter
-short_description: <p>After two years renovation 1975 - 1977 she was sold by R.G Ward.
-  Lost, mid-Atlantic, 12 September 2004, with owner since 1979, Phil Nerin, being
-  rescued.</p>
 updated_at: '2021-12-19T13:38:49.170415+00:00'
 website: ''
 year: 1890
 year_is_approximate: false
+image_key: vdQDPC
+construction_details: Pitch pine on oak/teak, lead keel
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

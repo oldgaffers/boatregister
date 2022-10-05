@@ -1,29 +1,33 @@
-builder: 1e4ec857-881b-4cfb-bb35-3a89820bbe01
-callsign: ''
+name: Lorelei
+oga_no: 3167
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Boat show model 1982</p>
+full_description: ''
+builder:
+  name: Hoskyns
+  id: 1e4ec857-881b-4cfb-bb35-3a89820bbe01
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.4328
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  draft_keel_down: 1.0424
-  draft_keel_up: 0.4328
-  length_on_waterline: 4.5202
-  length_over_spars: 5.7912
-  length_overall: 5.1816
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 1
+  moving_keel: true
+  draft_keel_up: 0.4328
+  length_overall: 5.1816
+  draft_keel_down: 1.0424
+  moving_keel_type: Centreboard
+  length_over_spars: 5.7912
+  length_on_waterline: 4.5202
 home_country: GBR
 home_port: Watchet
 hull_form: long keel deep forefoot
 id: 48f46b6e-2699-4ce8-8f7b-4f32395ff676
 length_on_deck: 5.1816
-mainsail_type: gaff
-name: Lorelei
-oga_no: 3167
+callsign: ''
 ownerships:
 - end: 2013
   name: L Barrett
@@ -32,14 +36,19 @@ ownerships:
 - name: Jonathan Pearman
   share: 64
   start: 2013
-- current: true
+- share: 64
   member: 5413
-  share: 64
+  current: true
   start: '?'
 place_built: Rye
-rig_type: Sloop
-short_description: <p>Boat show model 1982</p>
 updated_at: '2021-12-19T13:40:02.952353+00:00'
 website: ''
 year: 1982
 year_is_approximate: false
+construction_details: GRP
+beam: 2.0818
+design_class:
+  name: Sheldrake
+  id: 85d5805b-9a84-4e43-a81e-4d15bf37ada0
+for_sale_state:
+  text: not_for_sale

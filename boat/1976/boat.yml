@@ -1,13 +1,21 @@
-builder: 3060290b-4135-4290-abd5-00e33cdff0e2
-callsign: ''
+name: Gwynneth Bach
+oga_no: 1976
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: A.D. Cobley
+  id: 3060290b-4135-4290-abd5-00e33cdff0e2
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: wood
 construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.8956352109241648
   length_over_all: 8.686905632772493
@@ -16,17 +24,16 @@ home_port: Falmouth
 hull_form: unknown
 id: d474b455-0fe3-4370-b713-a6f511d62899
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: Gwynneth Bach
-oga_no: 1976
+callsign: ''
 ownerships:
 - name: A D Cobley
   share: 64
   start: 1996
 place_built: Cornwall/Oxfordshire
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:25.835396+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

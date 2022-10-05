@@ -1,34 +1,42 @@
-builder: 3efff924-d72c-4fbb-a793-2f9f5c9befb8
-callsign: ''
+name: Ibis
+oga_no: 2028
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: CB Jan/Feb 88
+builder:
+  name: M.R. Hawes
+  id: 3efff924-d72c-4fbb-a793-2f9f5c9befb8
+designer:
+  name: Michael R. Hawes
+  id: 1d14143b-8f55-4b26-94a4-95e4058cc952
 construction_material: grp
 construction_method: cold_moulded
-designer: 1d14143b-8f55-4b26-94a4-95e4058cc952
 draft: 0.8839
 engine_installations: []
 for_sales: []
-full_description: CB Jan/Feb 88
-generic_type: Yacht
 handicap_data:
   beam: 2.560351133869788
   draft: 0.8839307485979029
-  length_on_waterline: 5.9436722750548645
   length_over_all: 7.2390880273104115
+  length_on_waterline: 5.9436722750548645
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: c14bab68-ab60-4d96-ab87-a9645a435a04
 length_on_deck: 7.239
-mainsail_type: gaff
-name: Ibis
-oga_no: 2028
+callsign: ''
 ownerships:
 - name: D R West
   share: 64
   start: 1987
 place_built: Fordingbridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:27.328622+00:00'
 website: ''
 year: 1986
 year_is_approximate: false
+construction_details: GRP
+beam: 2.5603
+for_sale_state:
+  text: not_for_sale

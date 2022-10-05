@@ -1,42 +1,51 @@
-builder: 892ce44b-b648-4cbf-9a3d-f30367a47029
-callsign: ''
+name: Aurora
+oga_no: 3026
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Sailed extensively on West Coast Canada/USA 1988 sailed to California
+  (6 months) 2004 sailed round Vancouver Island (32 days)
+builder:
+  name: Ivan Bulic
+  id: 892ce44b-b648-4cbf-9a3d-f30367a47029
+designer:
+  name: Brent Swain
+  id: 932e369a-c87a-4001-b9c8-5eb42bc27844
 construction_material: steel
 construction_method: unknown
-designer: 932e369a-c87a-4001-b9c8-5eb42bc27844
 draft: 1.6764
 engine_installations: []
 for_sales: []
-full_description: Sailed extensively on West Coast Canada/USA 1988 sailed to California
-  (6 months) 2004 sailed round Vancouver Island (32 days)
-generic_type: Yacht
 handicap_data:
   beam: 3.2522555474274566
-  draft: 1.6764203852718849
-  fore_triangle_base: 5.4864667154352595
-  fore_triangle_height: 10.66812972445745
-  length_on_waterline: 9.677517678614972
-  length_over_all: 10.972933430870519
   main:
     foot: 6.0960741282613995
     head: 3.9624481833699097
     luff: 9.44891489880517
   thcf: 1.039201689
+  draft: 1.6764203852718849
+  length_over_all: 10.972933430870519
+  fore_triangle_base: 5.4864667154352595
+  length_on_waterline: 9.677517678614972
+  fore_triangle_height: 10.66812972445745
 home_country: 'null'
 home_port: Vancouver B.C.
 hull_form: unknown
 id: e103a78a-9fb2-480a-bb0e-69b56f5e5db9
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Aurora
-oga_no: 3026
+uk_part1: 13K96587
+callsign: ''
 ownerships:
 - name: Ivan Bulic
   share: 64
   start: 2012
 place_built: Vancouver B.C.
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:56.245633+00:00'
 website: ''
 year: 1986
 year_is_approximate: false
+construction_details: 'Steel '
+beam: 3.2522
+for_sale_state:
+  text: not_for_sale

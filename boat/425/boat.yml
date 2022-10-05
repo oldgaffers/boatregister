@@ -1,43 +1,51 @@
-builder: 2f78de72-d6fd-4278-9587-3cecc82f099f
-callsign: ''
+name: Miranda
+oga_no: 425
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Smeeth
+  id: 2f78de72-d6fd-4278-9587-3cecc82f099f
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: unknown
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.017556693489393
-  draft: 1.21921482565228
-  fore_triangle_base: 4.87685930260912
-  fore_triangle_height: 8.915508412582296
-  length_on_waterline: 8.53450377956596
-  length_over_all: 10.14996342355523
   main:
     foot: 6.0960741282613995
     head: 3.886247256766642
     luff: 4.953060229212387
+  thcf: 0.965672131
+  draft: 1.21921482565228
   propellor:
     type: fixed
-  thcf: 0.965672131
+  length_over_all: 10.14996342355523
+  fore_triangle_base: 4.87685930260912
+  length_on_waterline: 8.53450377956596
+  fore_triangle_height: 8.915508412582296
 home_country: 'null'
 home_port: Tollesbury
 hull_form: long keel deep forefoot
 id: 241b7e38-f520-436c-8d70-da88635edd86
 length_on_deck: 10.1498
-mainsail_type: gaff
-name: Miranda
-oga_no: 425
+callsign: ''
 ownerships:
 - name: C Hughes
   share: 64
   start: 1976
 place_built: Dedham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:41.943899+00:00'
 website: ''
 year: 1960
 year_is_approximate: false
+construction_details: Iroko on oak frames
+beam: 3.0175
+for_sale_state:
+  text: not_for_sale

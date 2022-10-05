@@ -1,42 +1,49 @@
-builder: dc7942f9-4548-42e4-8546-e557f57d165d
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-draft: 1.4234
-engine_installations: []
-for_sales: []
+name: Anny Ann
+oga_no: 2622
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Anny Ann&#39; is a 1989 Tamarisk 29, a traditional long
+  keeled yacht with gaff rig.</p>
 full_description: <p>The design is said to have been taken from a Falmouth workboat,
   Carrick Roads Oyster Dredger. Sturdy GRP long keel&nbsp;hull construction by Cygnus&nbsp;Marine
   in Penryn. Built and fitted out locally and launched 1989,&nbsp;she has wooden mast
   and spars.&nbsp; She was re-engined with a Yanmar 30hp&nbsp;around 2000. She has
   very&nbsp;traditional&nbsp;wineglass lines and&nbsp;a sea-friendly ride.&nbsp;&nbsp;</p>
-generic_type: Yacht
+builder:
+  name: Cygnus Marine/N Cornwall Marine
+  id: dc7942f9-4548-42e4-8546-e557f57d165d
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.4234
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.4234333089490367
-  fore_triangle_base: 4.87685930260912
-  fore_triangle_height: 8.967325042672519
-  length_on_waterline: 8.330285296269201
-  length_over_all: 8.83930748597903
   main:
     foot: 5.105462082418922
     head: 4.367837112899292
     luff: 4.977444525725432
-  propellor:
-    type: fixed
   thcf: 0.970119023
+  draft: 1.4234333089490367
   topsail:
     luff: 5.029261155815655
     perpendicular: 2.43842965130456
+  propellor:
+    type: fixed
+  length_over_all: 8.83930748597903
+  fore_triangle_base: 4.87685930260912
+  length_on_waterline: 8.330285296269201
+  fore_triangle_height: 8.967325042672519
 home_country: GBR
 home_port: Dover
 hull_form: long keel deep forefoot
 id: 63d92674-43be-4a9a-b66f-554c782445c1
 length_on_deck: 8.8392
-mainsail_type: gaff
-name: Anny Ann
-oga_no: 2622
+callsign: ''
 ownerships:
 - end: 2018
   name: Clive Thompson
@@ -45,16 +52,18 @@ ownerships:
 - name: Dominic Lucas
   share: 64
   start: 2019
-- current: true
-  id: 1039
-  member: 6292
+- id: 1039
   share: 64
+  member: 6292
+  current: true
   start: '?'
 place_built: Falmouth
-rig_type: Cutter
-short_description: <p>&#39;Anny Ann&#39; is a 1989 Tamarisk 29, a traditional long
-  keeled yacht with gaff rig.</p>
 updated_at: '2021-12-19T13:39:44.587608+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+image_key: GMxqmB
+construction_details: GRP
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

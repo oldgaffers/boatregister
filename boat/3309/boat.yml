@@ -1,36 +1,44 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Jezebel
+oga_no: 3309
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Jezebel is a Crabber 17 built in 1998.
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.4816
 engine_installations: []
 for_sales:
 - asking_price: 7500
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.797
-  fore_triangle_base: 1.3472
-  fore_triangle_height: 4.3038
-  length_on_waterline: 4.8768
-  length_over_spars: 6.096
-  length_overall: 5.1816
   main:
     foot: 11.21
     head: 9.67
     luff: 10.08
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 6
+  moving_keel: true
+  length_overall: 5.1816
+  calculated_thcf: 0.797
+  moving_keel_type: Centreboard
+  length_over_spars: 6.096
+  fore_triangle_base: 1.3472
+  length_on_waterline: 4.8768
+  fore_triangle_height: 4.3038
 home_country: GBR
 home_port: Cardiff Bay
 hull_form: long keel deep forefoot
 id: a3c734c2-991e-473b-8709-e4a5cb402034
 length_on_deck: 5.1816
-mainsail_type: gaff
-name: Jezebel
-oga_no: 3309
+sail_number: '65'
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2005
   name: Michael Keen
@@ -41,13 +49,19 @@ ownerships:
   share: 64
   start: 2005
 - note: Sold August 2018 to Colin MacCorkell
+  text: Sold August
   start: 2018
   start_is_approximate: false
-  text: Sold August
 place_built: Rock
-rig_type: Sloop
-short_description: Jezebel is a Crabber 17 built in 1998.
 updated_at: '2021-12-19T13:40:07.184634+00:00'
 website: ''
 year: 1998
 year_is_approximate: false
+image_key: jP8K9P
+construction_details: GRP
+beam: 2.0574
+design_class:
+  name: Cornish Crabber 17
+  id: e39082bf-7bcc-411e-9a85-11229cd83151
+for_sale_state:
+  text: not_for_sale

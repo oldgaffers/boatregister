@@ -1,34 +1,43 @@
-builder: 5cfea163-ff18-4cbd-b679-fd1f2218007d
-callsign: ''
+name: Catriona
+oga_no: 228
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Log 85/4, for sale on web, jan 05.
+builder:
+  name: W. Osborne and Co. Ltd.
+  id: 5cfea163-ff18-4cbd-b679-fd1f2218007d
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 85/4, for sale on web, jan 05.
-generic_type: Yacht
 handicap_data:
   beam: 3.0480370641306997
-  length_on_waterline: 9.75371860521824
-  length_over_all: 10.05852231163131
   propellor:
     type: fixed
+  length_over_all: 10.05852231163131
+  length_on_waterline: 9.75371860521824
 home_country: 'null'
 home_port: Woodbridge
 hull_form: long keel deep forefoot
 id: fe393ae9-514b-4477-98ca-67455babf24e
 length_on_deck: 10.0584
-mainsail_type: gaff
-name: Catriona
-oga_no: 228
+reference:
+- Log 85/4
+callsign: ''
 ownerships:
 - name: N Frajbis
   share: 64
   start: 2012
 place_built: Littlehampton
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:36.233937+00:00'
 website: ''
 year: 1922
 year_is_approximate: false
+construction_details: Pitch pine on Oak frames and timbers, long keeled shoal draft,
+  kauri deck.
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

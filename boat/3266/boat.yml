@@ -1,44 +1,53 @@
-builder: b3841693-d336-4132-8e60-8933dfd41cf6
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
-draft: 1.2192
-engine_installations: []
-for_sales:
-- asking_price: 12000
+name: Coral
+oga_no: 3266
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Built as one of six yachts in Ipswich, 1936, 'Coral' was taken
+  to Ireland after the 2nd World War where she remains.</p>
 full_description: <p>'Coral' was one of six yachts built in Ipswich, 1936. She was
   taken to Ireland after the 2nd World War by a retired major who sold her on to Mark
   Sheehan and was kept in Westport until 2003.</p><p>She had a new engine fitted proir
   to 2003. Her mast is hinged on a tabernacle and her mainsail is roller reefed. She
   has a large pig iron keel weighing approximately 3/4 of a tonne.</p><p>No major
   cruises are known before 2003.</p>
-generic_type: Yacht
+builder:
+  name: Unknown
+  id: b3841693-d336-4132-8e60-8933dfd41cf6
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+construction_material: wood
+construction_method: unknown
+draft: 1.2192
+engine_installations: []
+for_sales:
+- asking_price: 12000
 handicap_data:
-  length_on_waterline: 7.1628
-  length_over_spars: 8.5344
-  length_overall: 8.1778
   main:
     foot: 18
     head: 13.5
+  length_overall: 8.1778
+  length_over_spars: 8.5344
+  length_on_waterline: 7.1628
 home_country: IRL
 home_port: Port Carrick on Shannon, Leitrim.
 hull_form: long keel sloping forefoot
 id: 28227540-bf10-4764-8987-8ce00da62086
 length_on_deck: 8.1778
-mainsail_type: gaff
-name: Coral
-oga_no: 3266
+callsign: ''
 ownerships:
 - end: 2017
   name: Michael ORourke
   share: 64
   start: 2003
 place_built: Ipswich
-rig_type: Sloop
-short_description: <p>Built as one of six yachts in Ipswich, 1936, 'Coral' was taken
-  to Ireland after the 2nd World War where she remains.</p>
 updated_at: '2021-12-19T13:40:05.72864+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+image_key: Ksv7Fk
+construction_details: 1" oak planking on 1" and 3/4" oak ribs.
+beam: 2.8194
+for_sale_state:
+  text: not_for_sale

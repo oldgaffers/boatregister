@@ -1,14 +1,22 @@
-builder: e0dc8f15-3ca4-49ad-bf55-3e637e407fbd
-callsign: ''
+name: Peg
+oga_no: 2263
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: 1995 Greenwich Boat Show Boat of the Show.  For Sale, Log March
+  2002, sold Jan 2006
+builder:
+  name: Vic J. Pratt and Sons
+  id: e0dc8f15-3ca4-49ad-bf55-3e637e407fbd
+designer:
+  name: Vic Pratt
+  id: 30f62acb-28d6-4129-a0b2-8f553ace12f3
 construction_material: wood
 construction_method: clinker
-designer: 30f62acb-28d6-4129-a0b2-8f553ace12f3
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: 1995 Greenwich Boat Show Boat of the Show.  For Sale, Log March
-  2002, sold Jan 2006
-generic_type: unknown
 handicap_data:
   length_over_all: 3.2309192879785416
 home_country: 'null'
@@ -16,13 +24,15 @@ home_port: Burnham on Crouch
 hull_form: unknown
 id: 39f760a3-7c39-4be4-ae6b-2d48003e7606
 length_on_deck: 3.2309
-mainsail_type: gaff
-name: Peg
-oga_no: 2263
+reference:
+- Log Mar 2002
+callsign: ''
 place_built: King's Lynn
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:43:27.29146+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+construction_details: Clinker larch on oak
+beam: 0
+for_sale_state:
+  text: not_for_sale

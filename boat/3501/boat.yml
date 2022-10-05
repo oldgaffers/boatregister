@@ -1,17 +1,21 @@
+name: Fintra
+oga_no: 3501
+rig_type: Cutter
+mainsail_type: gaff
 engine_installations: []
 for_sales: []
 home_port: Coleraine
 id: 41724cb4-651f-42be-a6e2-bce2287026fd
-mainsail_type: gaff
-name: Fintra
-oga_no: 3501
+spar_material: wood
 ownerships:
-- current: true
-  id: 1028
-  member: 6281
+- id: 1028
   share: 64
+  member: 6281
+  current: true
   start: '?'
-rig_type: Cutter
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 1967
 year_is_approximate: false
+image_key: GzNbT6
+for_sale_state:
+  text: not_for_sale

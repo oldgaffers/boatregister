@@ -1,34 +1,43 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
+name: Saxonia
+oga_no: 1090
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log Au/93
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+designer:
+  name: Aldous
+  id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 construction_material: wood
 construction_method: unknown
-designer: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: Log Au/93
-generic_type: Bawley
 handicap_data:
   beam: 3.9624481833699097
   draft: 1.3716166788588149
-  length_on_waterline: 10.287125091441112
   length_over_all: 10.515727871250913
+  length_on_waterline: 10.287125091441112
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 0a9837c8-203d-4348-ae12-a4e1693b2193
 length_on_deck: 10.5156
-mainsail_type: gaff
-name: Saxonia
-oga_no: 1090
+reference:
+- Log Aug 93
+callsign: ''
 ownerships:
 - name: J Lawrence
   share: 64
   start: 2012
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:01.20839+00:00'
 website: ''
 year: 1929
 year_is_approximate: false
+beam: 3.9624
+for_sale_state:
+  text: not_for_sale

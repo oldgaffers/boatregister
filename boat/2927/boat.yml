@@ -1,42 +1,53 @@
-builder: a4c27bff-bf22-4f29-8518-7bfba8a65bf2
-callsign: ''
+name: Florrie
+oga_no: 2927
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Home Built
+builder:
+  name: Denis Campbell
+  id: a4c27bff-bf22-4f29-8518-7bfba8a65bf2
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 construction_material: wood
 construction_method: unknown
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Home Built
-generic_type: unknown
 handicap_data:
   beam: 1.7282370153621067
-  fore_triangle_base: 1.5240185320653499
-  fore_triangle_height: 3.9014874420872956
-  length_on_waterline: 3.9624481833699097
-  length_over_all: 4.87685930260912
   main:
     foot: 2.386613021214338
     luff: 5.282248232138502
+  thcf: 0.764427922
   mizzen:
     foot: 1.1948305291392343
     luff: 3.453425993660083
-  thcf: 0.764427922
+  length_over_all: 4.87685930260912
+  fore_triangle_base: 1.5240185320653499
+  length_on_waterline: 3.9624481833699097
+  fore_triangle_height: 3.9014874420872956
 home_country: 'null'
 home_port: Kerry
 hull_form: unknown
 id: 0fdfd5af-4024-4ece-b5a4-517e1f45f524
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Florrie
-oga_no: 2927
+callsign: ''
 ownerships:
 - name: Denis Campbell
   share: 64
   start: 2012
 place_built: Gloustershire
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:53.586195+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+construction_details: Ply stitch and tape
+beam: 1.7282
+design_class:
+  name: Petit Brize
+  id: 1c09c2d0-3968-4ad9-85d2-8602584f434f
+for_sale_state:
+  text: not_for_sale

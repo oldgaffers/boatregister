@@ -1,45 +1,53 @@
-builder: 8d74da63-305e-4666-8f7f-931df43292b5
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
-draft: 1.396
-engine_installations: []
-for_sales: []
+name: Privateer
+oga_no: 132
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Privateer has been described as a &#39;traditional old gaffer&#39;,
+  built in 1931 as a fishing smack and later converted to a yacht at the boatyard
+  in Boston.</p>
 full_description: <p>&#39;An Old Gaffer&#39;s Tale&#39;, first published in 1981,
   tells the story of Martin Eve&#39;s acquisition and ownership of Privateer and makes
   an excellent read. Privateer had a dramatic maiden voyage, when she was almost lost
   off the Norfolk coast, and plied the East Coast of England from Orford to the Humber
   in all weathers. She took charter passages as far afield as Finland and Genoa.</p>
-generic_type: Smack
+builder:
+  name: Alexander E. Gostelow
+  id: 8d74da63-305e-4666-8f7f-931df43292b5
+designer:
+  name: Alexander E. Gostelow
+  id: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
+construction_material: wood
+construction_method: unknown
+draft: 1.396
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8041940990002434
-  draft: 1.4020970495001217
-  fore_triangle_base: 6.705681541087539
-  fore_triangle_height: 7.010485247500609
-  length_on_waterline: 8.991709339185563
-  length_over_all: 9.906120458424773
   main:
     foot: 6.705681541087539
     head: 4.87685930260912
     luff: 4.87685930260912
+  draft: 1.4020970495001217
   topsail:
     luff: 6.583760058522312
     perpendicular: 1.5240185320653499
+  length_over_all: 9.906120458424773
+  fore_triangle_base: 6.705681541087539
+  length_on_waterline: 8.991709339185563
+  fore_triangle_height: 7.010485247500609
 home_country: GBR
 home_port: Hollowshore
 hull_form: unknown
 id: 091bd922-2ae5-4e09-a28d-4bef4772d010
 length_on_deck: 9.906
-mainsail_type: gaff
-name: Privateer
-oga_no: 132
+callsign: ''
 place_built: Boston
-rig_type: Cutter
-short_description: <p>Privateer has been described as a &#39;traditional old gaffer&#39;,
-  built in 1931 as a fishing smack and later converted to a yacht at the boatyard
-  in Boston.</p>
 updated_at: '2021-01-31T17:02:45.093574+00:00'
 website: ''
 year: 1931
 year_is_approximate: false
+image_key: N9pTcQ
+beam: 2.795
+for_sale_state:
+  text: not_for_sale

@@ -1,41 +1,51 @@
-builder: b7f06c54-e865-434f-9acc-36239baec6d3
-callsign: ''
+name: Curlew
+oga_no: 2823
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Swallow class boat home built by her 1st owner.</p>
+full_description: Home built
+builder:
+  name: Jon Dykes
+  id: b7f06c54-e865-434f-9acc-36239baec6d3
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: wood
 construction_method: unknown
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Home built
-generic_type: Dinghy
 handicap_data:
   beam: 1.6764203852718849
-  fore_triangle_base: 1.097293343087052
-  fore_triangle_height: 3.9624481833699097
-  length_on_waterline: 4.22457937088515
-  length_over_all: 4.419653742989515
   main:
     foot: 3.1242379907339672
     head: 3.0480370641306997
     luff: 2.2098268714947573
   thcf: 0.774158318
+  length_over_all: 4.419653742989515
+  fore_triangle_base: 1.097293343087052
+  length_on_waterline: 4.22457937088515
+  fore_triangle_height: 3.9624481833699097
 home_country: GBR
 home_port: Teignmouth
 hull_form: unknown
 id: 36f03692-0810-48b4-94ae-a9ba764e9de1
 length_on_deck: 4.4196
-mainsail_type: gaff
-name: Curlew
-oga_no: 2823
+callsign: ''
 ownerships:
 - end: 2019
   name: Jon Dykes
   share: 64
   start: 2007
 place_built: Teignmouth
-rig_type: Sloop
-short_description: <p>Swallow class boat home built by her 1st owner.</p>
 updated_at: '2021-12-19T13:39:50.442639+00:00'
 website: ''
 year: 2007
 year_is_approximate: false
+beam: 1.6764
+design_class:
+  name: Swallow
+  id: af580637-632f-4205-994e-9772307fe28d
+for_sale_state:
+  text: not_for_sale

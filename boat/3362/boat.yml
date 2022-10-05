@@ -1,40 +1,48 @@
-builder: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
-callsign: ''
+name: Juno
+oga_no: 3362
+generic_type: Barge
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Juno is a barge yacht</p>
+full_description: ''
+builder:
+  name: North Norfolk Boatbuilding Co./Charlie Ward
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: steel
 construction_method: unknown
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Barge
 handicap_data:
-  draft_keel_down: 3.3528
-  length_on_waterline: 13.716
-  length_overall: 13.716
   moving_keel: true
+  length_overall: 13.716
+  draft_keel_down: 3.3528
   moving_keel_type: Leeboard
+  length_on_waterline: 13.716
 home_country: GBR
 home_port: Morston Norfolk
 hull_form: long keel deep forefoot
 id: 16ac0f71-c4e0-4083-80db-6571969ef84e
 length_on_deck: 13.716
-mainsail_type: gaff
-name: Juno
-oga_no: 3362
+callsign: ''
 ownerships:
 - name: Charlie Ward
   share: 64
   start: 2000
-- current: true
-  id: 959
-  member: 6167
+- id: 959
   share: 64
+  member: 6167
+  current: true
   start: '?'
 place_built: Blakeney Harbour
-rig_type: Ketch
-short_description: <p>Juno is a barge yacht</p>
 updated_at: '2021-12-19T13:40:08.826866+00:00'
 website: www.charlieward.co.uk
 year: 1999
 year_is_approximate: false
+construction_details: Welded Steel
+beam: 3.9624
+for_sale_state:
+  text: not_for_sale

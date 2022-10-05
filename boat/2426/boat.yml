@@ -1,25 +1,35 @@
-builder: 6775dd6b-1272-4fbb-b070-992f199347f2
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: 6c163a0c-1d1b-4c81-afcf-b6b184ffde94
-draft: 0
-engine_installations: []
-for_sales:
-- asking_price: 2800
+name: Bess
+oga_no: 2426
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Bess&#39; is a 14&rsquo;, clinker hulled open boat built
+  in 1947. She is kept&nbsp;on a swinging mooring at Slaughden, Suffolk in the summer
+  and returns to a garage for the winter. Major overhaul Everson&#39;s, Aldeburgh
+  and self 2019-20.</p>
 full_description: "<p>&#39;Bess&#39; is a 14&#39; a varnished mahoghany clinker open\
   \ boaty, constructed in 1947 by Eversons of Woodbridge. Little of her history is\
   \ known prior to 2016. In 2019 she joined in with her first OGA event with the East\
   \ Coast Gaffers.</p>\r\n\r\n<h4>Can anyone help to shed light on her earlier years?</h4>"
-generic_type: Dinghy
+builder:
+  name: Eversons Boatyard
+  id: 6775dd6b-1272-4fbb-b070-992f199347f2
+designer:
+  name: Everson
+  id: 6c163a0c-1d1b-4c81-afcf-b6b184ffde94
+construction_material: wood
+construction_method: clinker
+draft: 0
+engine_installations: []
+for_sales:
+- asking_price: 2800
 home_country: GBR
 home_port: Slaughden, Suffolk
 hull_form: unknown
 id: 6dcf34b0-3701-4186-96d5-5703940ebe49
 length_on_deck: 0
-mainsail_type: gaff
-name: Bess
-oga_no: 2426
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2016
   name: Bruce Miller
@@ -33,12 +43,12 @@ ownerships:
   share: 64
   start: 2019
 place_built: Woodbridge
-rig_type: Sloop
-short_description: <p>&#39;Bess&#39; is a 14&rsquo;, clinker hulled open boat built
-  in 1947. She is kept&nbsp;on a swinging mooring at Slaughden, Suffolk in the summer
-  and returns to a garage for the winter. Major overhaul Everson&#39;s, Aldeburgh
-  and self 2019-20.</p>
 updated_at: '2021-12-19T13:39:38.326896+00:00'
 website: ''
 year: 1947
 year_is_approximate: false
+image_key: Nz4LxS
+construction_details: Varnished mahogany clinker
+beam: 0
+for_sale_state:
+  text: not_for_sale

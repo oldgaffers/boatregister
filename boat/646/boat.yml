@@ -1,11 +1,10 @@
-builder: 2a40460d-13b2-4a30-99f2-57d37a7f4246
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 52aac42f-8b34-432c-933d-96094fc50681
-draft: 1.143
-engine_installations: []
-for_sales: []
+name: Windhover
+oga_no: 646
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>&#39;Windhover&#39; is a 25ft ketch built of mahogany on elm
+  by Morgan Giles in 1912.</p>
 full_description: "<p>In 1975 her owner since 1973 decided to take a look to see what\
   \ horrors lurked beneath the many layers of paint on her underside. With the worst\
   \ fears about her health soon realised, he was faced with the prospect of an enormous\
@@ -32,35 +31,45 @@ full_description: "<p>In 1975 her owner since 1973 decided to take a look to see
   \ and a large hammer.</p>\r\n\r\n<p>The decks which were yellow pine have been scarfed\
   \ half-inch ply, glass sheathed.</p>\r\n\r\n<p>There&#39;s a bridge deck to accommodate\
   \ the new Petter engine which lives where her companion doors used to be.</p>"
-generic_type: Yacht
+builder:
+  name: Morgan Giles and May
+  id: 2a40460d-13b2-4a30-99f2-57d37a7f4246
+designer:
+  name: Morgan Giles and May
+  id: 52aac42f-8b34-432c-933d-96094fc50681
+construction_material: wood
+construction_method: carvel
+draft: 1.143
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.3876493538161423
-  draft: 1.143032187271397
-  fore_triangle_base: 3.6972689587905387
-  fore_triangle_height: 7.315288953913679
-  length_on_waterline: 7.11209461107047
-  length_over_all: 7.772506705681541
   main:
     foot: 4.163618629602536
     head: 3.706413069982931
     luff: 4.672640819312362
+  thcf: 0.924
+  draft: 1.143032187271397
   mizzen:
     foot: 2.9992684711046085
     head: 2.749329431845891
     luff: 3.0998536942209216
-  propellor:
-    blades: 2
-    type: fixed
   sailarea: 43.39872248869914
-  thcf: 0.924
+  propellor:
+    type: fixed
+    blades: 2
+  length_over_all: 7.772506705681541
+  fore_triangle_base: 3.6972689587905387
+  length_on_waterline: 7.11209461107047
+  fore_triangle_height: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 3e7a3580-babe-4d5c-9547-2a4d9a29d73f
 length_on_deck: 7.7724
-mainsail_type: gaff
-name: Windhover
-oga_no: 646
+sail_number: '646'
+uk_part1: '135646'
+callsign: ''
 ownerships:
 - name: Edward Stevens
   share: 32
@@ -68,16 +77,17 @@ ownerships:
 - name: Simon Rowden
   share: 32
   start: 1991
-- current: true
-  id: 175
-  member: 2685
+- id: 175
   share: 64
+  member: 2685
+  current: true
   start: '?'
 place_built: Hythe
-rig_type: Ketch
-short_description: <p>&#39;Windhover&#39; is a 25ft ketch built of mahogany on elm
-  by Morgan Giles in 1912.</p>
 updated_at: '2021-12-19T13:38:48.310152+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+construction_details: Carvel mahogany planking on oak bent frames, copper fastened
+beam: 2.3866
+for_sale_state:
+  text: not_for_sale

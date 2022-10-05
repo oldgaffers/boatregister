@@ -1,48 +1,59 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Sally Lightfoot
+oga_no: 3202
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Crabber 26.</p>
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.8138
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.923
-  draft_keel_down: 2.0056
-  draft_keel_up: 0.8138
-  fore_triangle_base: 4.3952
-  fore_triangle_height: 7.9004
-  length_on_waterline: 7.239
-  length_over_spars: 10.0066
-  length_overall: 8.001
   main:
     foot: 16.67
     head: 14.25
     luff: 15.83
   moving_keel: true
+  draft_keel_up: 0.8138
+  length_overall: 8.001
+  calculated_thcf: 0.923
+  draft_keel_down: 2.0056
   moving_keel_type: Centreboard
+  length_over_spars: 10.0066
+  fore_triangle_base: 4.3952
+  length_on_waterline: 7.239
+  fore_triangle_height: 7.9004
 home_country: GBR
 home_port: Warsash
 hull_form: long keel deep forefoot
 id: ccad0b72-ab19-4492-aac6-ea9a9516c058
 length_on_deck: 8.001
-mainsail_type: gaff
-name: Sally Lightfoot
-oga_no: 3202
+callsign: ''
 ownerships:
 - name: Graham and Patricia Woodward
   share: 64
   start: 2013
-- current: true
+- share: 64
   member: 5880
-  share: 64
+  current: true
   start: '?'
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Crabber 26.</p>
 updated_at: '2021-12-19T13:40:03.938632+00:00'
 website: ''
 year: 2013
 year_is_approximate: false
+construction_details: GRP
+beam: 2.7432
+design_class:
+  name: Cornish Crabber 26
+  id: 50503297-7263-4cf4-af74-102bb153bc8e
+for_sale_state:
+  text: not_for_sale

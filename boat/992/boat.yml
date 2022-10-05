@@ -1,50 +1,62 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
+name: Daisy
+oga_no: 992
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Daisy was owned until&nbsp;1947 by Norman Aish, who went on
+  to become the commodore of Parkstone YC, Poole</p>
+full_description: <p>Daisy was named after Robert Aish&#39;s wife, Marguerite, who
+  was always known as Daisy.</p>
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 construction_material: wood
 construction_method: carvel
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: <p>Daisy was named after Robert Aish&#39;s wife, Marguerite, who
-  was always known as Daisy.</p>
-generic_type: Yacht
 handicap_data:
   beam: 2.2098268714947573
   draft: 0.60960741282614
-  length_on_waterline: 6.653864910997317
   length_over_all: 7.162887100707144
+  length_on_waterline: 6.653864910997317
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 769ea236-d3a4-498a-83e8-e4e146e4b6ca
 length_on_deck: 7.1628
-mainsail_type: gaff
-name: Daisy
-oga_no: 992
+uk_part1: '164876'
+callsign: ''
 ownerships:
 - note: Registered to Norman Aish in 1936 and he sold her in 1947 to Alfred Burt.
+  text: Registered to Norman Aish in
   start: 1936
   start_is_approximate: false
-  text: Registered to Norman Aish in
 - note: Unfortunately the register lapsed after she was sold in 1966.
+  text: Unfortunately the register lapsed after she was sold in
   start: 1966
   start_is_approximate: false
-  text: Unfortunately the register lapsed after she was sold in
 - end: 2016
   name: Ken Hogg
   share: 64
   start: 1980
-- current: true
-  id: 926
-  member: 6097
+- id: 926
   share: 64
   start: 2016
+  member: 6097
+  current: true
 place_built: Littlehampton
-rig_type: Cutter
-short_description: <p>Daisy was owned until&nbsp;1947 by Norman Aish, who went on
-  to become the commodore of Parkstone YC, Poole</p>
 updated_at: '2021-12-19T13:38:58.174415+00:00'
 website: ''
 year: 1925
 year_is_approximate: false
+previous_names:
+- Big Fizzer
+image_key: mXxXTR
+construction_details: Carvel. Pitch pine on oak
+beam: 2.2098
+for_sale_state:
+  text: not_for_sale

@@ -1,41 +1,53 @@
-builder: 895259ce-497e-4e21-a923-d0ef7f227f2f
-callsign: ''
+name: Moth
+oga_no: 5000
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: French and McDermott
+  id: 895259ce-497e-4e21-a923-d0ef7f227f2f
+designer:
+  name: Welch
+  id: f19202cc-f8ad-449a-98f2-6f8e60e4a14e
 construction_material: wood
 construction_method: clinker
-designer: f19202cc-f8ad-449a-98f2-6f8e60e4a14e
 draft: 0.1524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.624603755181663
-  draft: 0.152401853206535
-  fore_triangle_base: 1.2435991221653255
-  fore_triangle_height: 4.166666666666666
-  length_on_waterline: 4.114850036576445
-  length_over_all: 4.26725188978298
   main:
     foot: 3.0480370641306997
     head: 3.8100463301633747
     luff: 1.6520360887588392
   thcf: 0.773777428
+  draft: 0.152401853206535
+  length_over_all: 4.26725188978298
+  fore_triangle_base: 1.2435991221653255
+  length_on_waterline: 4.114850036576445
+  fore_triangle_height: 4.166666666666666
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 661671f1-fc36-4daf-b593-70cabfb6df7b
 length_on_deck: 4.2672
-mainsail_type: gaff
-name: Moth
-oga_no: 5000
+sail_number: '5'
+callsign: ''
 ownerships:
 - name: L Jess
   share: 64
   start: 1992
 place_built: Groomsport Co Down
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:59.821868+00:00'
 website: ''
 year: 1951
 year_is_approximate: false
+construction_details: Clinker
+beam: 1.6246
+design_class:
+  name: Ballyholme YC Insect
+  id: 6d8e9e12-cdc1-407f-9510-93ba21068a3b
+for_sale_state:
+  text: not_for_sale

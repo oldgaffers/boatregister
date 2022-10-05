@@ -1,37 +1,51 @@
-callsign: MCJM9
-designer: 8833d78f-9c94-4d4e-bde5-71fa74207177
-draft: 1.6764
-engine_installations: []
-for_sales: []
+name: Swift II
+oga_no: 3392
+generic_type: Yacht
+mainsail_type: bermudan
+short_description: <p>Swift II is a Twister, designed by Kim Holman and built in 1980.</p>
 full_description: <p>Swift II is a Twister with a strip planked hull, using teak on
   oak timbers. She has sailed the Mediterranean for 10 years and the Baltic for 11
   years. In 2018, she returned to sail in the Solent. In 2021 she is having a new
   engine and a few upgrades.</p>
-generic_type: Yacht
+designer:
+  name: Kim Holman
+  id: 8833d78f-9c94-4d4e-bde5-71fa74207177
+draft: 1.6764
+engine_installations: []
+for_sales: []
 handicap_data:
-  length_over_spars: 8.6624
-  length_overall: 8.6624
   sailarea: 7
+  length_overall: 8.6624
+  length_over_spars: 8.6624
 home_country: GBR
 home_port: Cowes
 hull_form: long keel sloping forefoot
 id: 55224665-651f-4082-973f-d9968db7c2b5
 length_on_deck: 8.6624
-mainsail_type: bermudan
-name: Swift II
-oga_no: 3392
+ssr: '104553'
+callsign: MCJM9
 ownerships:
 - name: Nick Ward
   share: 64
   start: 2018
-- current: true
-  id: 961
-  member: 6169
+- id: 961
   share: 64
+  member: 6169
+  current: true
   start: '?'
 place_built: East Coast
-short_description: <p>Swift II is a Twister, designed by Kim Holman and built in 1980.</p>
 updated_at: '2022-04-29T14:22:48.202984+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+previous_names:
+- Suda ll
+- Benita
+image_key: Jm49wW
+construction_details: 1 in. Teak on Oak timbers - Iroko coachroof
+beam: 2.4902
+design_class:
+  name: Twister
+  id: 4a65b775-e247-4bf7-a93c-c201b66b2d5a
+for_sale_state:
+  text: not_for_sale

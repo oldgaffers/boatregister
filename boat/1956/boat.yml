@@ -1,5 +1,14 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Hester
+oga_no: 1956
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Hester is a 20ft Tosher built by Martin Heard in1994.</p>
+full_description: <p>Built by Martin Heard, &#39;Hester&#39; is a 20ft Tosher, build
+  no. 19.</p>
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
 construction_material: grp
 construction_method: cold_moulded
 draft: 1.0668
@@ -18,9 +27,6 @@ for_sales:
   summary: <p>&quot;Hester&quot; is a Martin Heard 20ft Tosher, build no 19, launched
     in 1994.</p>
   updated_at: '2020-05-03T10:13:12.851579+00:00'
-full_description: <p>Built by Martin Heard, &#39;Hester&#39; is a 20ft Tosher, build
-  no. 19.</p>
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   length_over_all: 6.0960741282613995
@@ -29,9 +35,8 @@ home_port: Ispwich
 hull_form: long keel deep forefoot
 id: fdc6b302-cf19-41b0-8b93-0406bfbe8057
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Hester
-oga_no: 1956
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2012
   name: Richard Bottom
@@ -41,15 +46,21 @@ ownerships:
   name: Mrs Jane Mitchell
   share: 64
   start: 2012
-- end: 2020
-  id: 217
-  member: 3058
+- id: 217
+  end: 2020
   share: 64
   start: 2017
+  member: 3058
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: <p>Hester is a 20ft Tosher built by Martin Heard in1994.</p>
 updated_at: '2022-02-25T20:57:29.810608+00:00'
 website: ''
 year: 1994
 year_is_approximate: false
+image_key: X5qhMK
+construction_details: GRP Hull, wood top cabin, wood spars.
+beam: 1.9812
+design_class:
+  name: Tosher 20
+  id: be1964ca-eb7d-410e-b30b-db18e9b72387
+for_sale_state:
+  text: not_for_sale

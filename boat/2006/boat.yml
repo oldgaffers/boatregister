@@ -1,11 +1,9 @@
-builder: 5ea9c203-7c9d-426e-8a63-e1e73304491b
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f1bc585c-9638-4fd8-8fc7-f382b028513c
-draft: 1.8288
-engine_installations: []
-for_sales: []
+name: Asti V
+oga_no: 2006
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Built for the 1932 Olympics</p>
 full_description: '<p><em>Asti V</em> is an International 6 metre designed by Morgan
   Giles for the Spanish royal family to race in the 1932 Olympics. Built in 1930 in
   Bilboa at the yard of Hermano Sagredo by men transported over specially from Morgan
@@ -22,24 +20,53 @@ full_description: '<p><em>Asti V</em> is an International 6 metre designed by Mo
   carried out by Peter Brookes through the winter of 1984-5.</p>
 
   <p>She was sold out of the OGA in 2003.</p>'
-generic_type: Yacht
+builder:
+  name: Hermano Sagredo/Mor Gils
+  id: 5ea9c203-7c9d-426e-8a63-e1e73304491b
+designer:
+  name: Morgan Giles
+  id: f1bc585c-9638-4fd8-8fc7-f382b028513c
+construction_material: wood
+construction_method: carvel
+draft: 1.8288
+engine_installations: []
+for_sales: []
 handicap_data:
   length_on_waterline: 7.071445988783223
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 001ee747-8a68-4fb0-8a44-a577d86a0dbd
 length_on_deck: 10.5156
-mainsail_type: gaff
-name: Asti V
-oga_no: 2006
+reference:
+- Log 86/4
+- Log Sep 97
+- CB Jul/Aug 88
+- CB Sep 2003
+sail_number: ''
+spar_material: wood
+ssr: ''
+uk_part1: ''
+callsign: ''
 ownerships:
 - name: Perkins R M
   share: 64
   start: 2012
 place_built: Bilbao
-rig_type: Sloop
-short_description: <p>Built for the 1932 Olympics</p>
 updated_at: '2021-12-19T13:39:26.707666+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+previous_names:
+- Saxon
+nhsr: ''
+nsbr: ''
+fishing_number: ''
+mssi: ''
+image_key: FVBvKj
+construction_details: Carvel Mahogany on steamed Oak frames
+beam: 1.8898
+design_class:
+  name: 6 Metre
+  id: 70d8ab47-0b98-4c96-a4b9-1fd715c0d3fb
+for_sale_state:
+  text: not_for_sale

@@ -1,49 +1,59 @@
-builder: 57e22238-cdd2-4556-a3f3-ef834d765e07
-callsign: ''
+name: Pearl III
+oga_no: 2470
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: David Moss Boatbuilders
+  id: 57e22238-cdd2-4556-a3f3-ef834d765e07
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: unknown
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
 draft: 0.253
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.9050231650816873
-  draft: 0.25298707632284806
-  fore_triangle_base: 1.5758351621555717
-  fore_triangle_height: 5.587051938551572
-  length_on_waterline: 4.953060229212387
-  length_over_all: 5.18166300902219
   main:
     foot: 3.212631065593757
     head: 3.6576444769568397
     luff: 2.5268227261643497
   thcf: 0.81053181
+  draft: 0.25298707632284806
+  length_over_all: 5.18166300902219
+  fore_triangle_base: 1.5758351621555717
+  length_on_waterline: 4.953060229212387
+  fore_triangle_height: 5.587051938551572
 home_country: GBR
 home_port: Wargrave on Thames
 hull_form: unknown
 id: da31bfdc-4283-47f6-afac-e94cc21973b8
 length_on_deck: 5.1816
-mainsail_type: gaff
-name: Pearl III
-oga_no: 2470
+callsign: ''
 ownerships:
 - note: 'Bought by David Moss, 1991 Sold to Robin Ford by Gerry Ward, April 2001 '
+  text: Bought by David Moss,
   start: 1991
   start_is_approximate: false
-  text: Bought by David Moss,
 - name: Robin Ford
   share: 64
   start: 2001
-- current: true
+- share: 64
   member: 2302
-  share: 64
+  current: true
   start: '?'
 place_built: Skipool Creek
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:39.801115+00:00'
 website: ''
 year: 1986
 year_is_approximate: false
+previous_names:
+- Pearl
+construction_details: Strip plank columbian pine veneered in mahogany
+beam: 1.905
+for_sale_state:
+  text: not_for_sale

@@ -1,13 +1,21 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: ''
+name: Melisande
+oga_no: 2194
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Hull no. 55
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: grp
 construction_method: cold_moulded
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Hull no. 55
-generic_type: unknown
 handicap_data:
   beam: 1.8532065349914655
   length_over_all: 5.4864667154352595
@@ -16,17 +24,21 @@ home_port: Eling/Ashlet, Soton Water
 hull_form: unknown
 id: bfea0573-a2a3-474b-8a88-948490566656
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: Melisande
-oga_no: 2194
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Ted Taylor
   share: 64
   start: 2012
 place_built: Totnes
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:31.911631+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+previous_names:
+- Daisy
+image_key: PksMNm
+construction_details: GRP
+beam: 1.8593
+for_sale_state:
+  text: not_for_sale

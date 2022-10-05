@@ -1,34 +1,41 @@
-builder: 87982b21-4d0c-43c4-b96a-63363d2be5e5
-callsign: ''
+name: Karolin
+oga_no: 1129
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Moses and Co.
+  id: 87982b21-4d0c-43c4-b96a-63363d2be5e5
+designer:
+  name: Beecham
+  id: 6bbf9453-6a37-4954-bf78-e8269f0236d9
 construction_material: wood
 construction_method: unknown
-designer: 6bbf9453-6a37-4954-bf78-e8269f0236d9
 draft: 1.143
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.7737137283589366
   draft: 1.1430138990490124
-  length_on_waterline: 8.610704706169226
   length_over_all: 10.05852231163131
+  length_on_waterline: 8.610704706169226
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: ad54d00a-a657-45bb-b0d2-c77e70fa5c11
 length_on_deck: 10.0584
-mainsail_type: gaff
-name: Karolin
-oga_no: 1129
+callsign: ''
 ownerships:
 - name: M J Robinson
   share: 64
   start: 2012
 place_built: Ramsgate
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:02.353126+00:00'
 website: ''
 year: 1896
 year_is_approximate: false
+beam: 2.7737
+for_sale_state:
+  text: not_for_sale

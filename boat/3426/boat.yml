@@ -1,35 +1,42 @@
-builder: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 18067660-4c29-42b2-9894-e32cd213a3f7
-draft: 1.3198
-engine_installations: []
-for_sales: []
+name: Oran na Mara
+oga_no: 3426
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Oran na Mara is a powerful little cutter of the Sea Scamp class</p>
 full_description: "<p>9Nick Henshall commisioned the hull build after recovering from\
   \ a motorcycle accident and having to give up fishing. He fitted her out over 5\
   \ years. She was for sale in 2009-10 and sold to Neyland, South Wales. The current\
   \ owner saw her there in in a neglected state in April 2019 and spent 3 months restoring\
   \ her, before relaunching in July 2019.</p>\r\n\r\n<p>&nbsp;She will require some\
   \ further input for solo sailing for which UK Rigging Penryn and a friend will advise</p>"
-generic_type: Yacht
+builder:
+  name: Buccaneer Boats
+  id: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
+designer:
+  name: Judd Varley
+  id: 18067660-4c29-42b2-9894-e32cd213a3f7
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.3198
+engine_installations: []
+for_sales: []
 handicap_data:
-  length_on_waterline: 5.715
-  length_over_spars: 8.4064
-  length_overall: 6.0442
   main:
     foot: 14
     head: 11
     luff: 18
   sailarea: 7
+  length_overall: 6.0442
+  length_over_spars: 8.4064
+  length_on_waterline: 5.715
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 6afb5acf-bd0e-4cf8-9292-12907889ef97
 length_on_deck: 6.0442
-mainsail_type: gaff
-name: Oran na Mara
-oga_no: 3426
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2009
   name: Nick Henshall
@@ -39,18 +46,26 @@ ownerships:
   name: Warren Morsan
   share: 64
   start: 2010
-- end: 2021
-  id: 1079
-  member: 6332
+- id: 1079
+  end: 2021
   share: 64
   start: 2019
+  member: 6332
 - id: 3
   share: 64
   start: 2021
 place_built: Cambourne and Newlyn
-rig_type: Cutter
-short_description: <p>Oran na Mara is a powerful little cutter of the Sea Scamp class</p>
 updated_at: '2022-05-03T07:09:15.217732+00:00'
 website: ''
 year: 2005
 year_is_approximate: false
+previous_names:
+- Jessie
+- Island Spirit
+- Zac
+image_key: wZgnC9
+construction_details: Moulded GRP hull, cabin, and forehatch plinth. Wooden deck beams,
+  rudder, dog house
+beam: 2.4902
+for_sale_state:
+  text: not_for_sale

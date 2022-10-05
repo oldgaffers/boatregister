@@ -1,45 +1,53 @@
-builder: 847c0b8e-cd6b-4538-9fcc-266ca6699651
-callsign: ''
+name: Red Queen
+oga_no: 1431
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Willard Emerson
+  id: 847c0b8e-cd6b-4538-9fcc-266ca6699651
+designer:
+  name: Willard Emerson
+  id: 1b64c319-7e93-496a-b82a-27666baedda7
 construction_material: wood
 construction_method: unknown
-designer: 1b64c319-7e93-496a-b82a-27666baedda7
 draft: 1.2802
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.590831504511095
-  draft: 1.280175566934894
-  fore_triangle_base: 1.21921482565228
-  fore_triangle_height: 6.4008778346744695
-  length_on_waterline: 6.4770787612777365
-  length_over_all: 7.955376737381126
   main:
     foot: 2.43842965130456
     head: 3.733845403560107
     luff: 4.419653742989515
+  thcf: 0.865813071
+  draft: 1.280175566934894
   mizzen:
     foot: 1.3716166788588149
     head: 2.7737137283589366
     luff: 3.596683735674226
-  thcf: 0.865813071
+  length_over_all: 7.955376737381126
+  fore_triangle_base: 1.21921482565228
+  length_on_waterline: 6.4770787612777365
+  fore_triangle_height: 6.4008778346744695
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 5ab34a1c-dbcc-446b-88de-18709d066074
 length_on_deck: 7.9553
-mainsail_type: gaff
-name: Red Queen
-oga_no: 1431
+callsign: ''
 ownerships:
 - name: P & C Wright
   share: 64
   start: 2012
 place_built: Wilmington,USA
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:11.130137+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+construction_details: Plywood planking on fir sawn frames
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

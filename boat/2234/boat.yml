@@ -1,11 +1,11 @@
-builder: b0d65e81-46dd-427f-9c2e-b64845d09f63
-callsign: 2FRX6
-construction_material: woodepoxy
-construction_method: unknown
-designer: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
-draft: 0.381
-engine_installations: []
-for_sales: []
+name: Marjory
+oga_no: 2234
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>&#39;Marjory&#39; is a 16&#39;9&quot; Shilling gaff yawl designed
+  and built by Phil Swift of&nbsp;Willow Bay Boats - in cedar strip/epoxy, 1998. She
+  was the first Shilling he built.</p>
 full_description: "<p>The first Shilling - designed and built by Phil Swift. &nbsp;Marjory&nbsp;draws\
   \ 12&quot; with centreboard up. She has two full length berths, seated headroom,\
   \ a spirit stove, ample storage and&nbsp;sealed buoyancy, yet she&#39;s only 16&#39;\
@@ -13,45 +13,56 @@ full_description: "<p>The first Shilling - designed and built by Phil Swift. &nb
   \ 1.9 litre family car. &nbsp;There was an article/review&nbsp;on her in Watercraft\
   \ magazine (Jan/Feb 1999).</p>\r\n\r\n<p>She is a joy to sail and was&nbsp;overall\
   \ winner of the Yarmouth Old Gaffers Race&nbsp;2014. &nbsp;</p>\r\n\r\n<p>&nbsp;</p>"
-generic_type: Yacht
+builder:
+  name: Willow Bay Boats
+  id: b0d65e81-46dd-427f-9c2e-b64845d09f63
+designer:
+  name: Phil Swift
+  id: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
+construction_material: woodepoxy
+construction_method: unknown
+draft: 0.381
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.898927090953426
-  draft: 0.36881248475981465
-  draft_keeldown: 0.9205071933674713
-  fore_triangle_base: 1.7008046817849305
-  fore_triangle_height: 3.910631553279688
-  length_on_waterline: 4.669592782248232
-  length_over_all: 5.510851011948304
   main:
     foot: 2.9687881004633017
     head: 2.779809802487198
     luff: 2.849914654962204
+  thcf: 0.803
+  draft: 0.36881248475981465
   mizzen:
     foot: 1.4386734942696902
     head: 1.3990490124359911
     luff: 1.6093635698610096
   sailarea: 15.444757535655862
-  thcf: 0.803
+  draft_keeldown: 0.9205071933674713
+  length_over_all: 5.510851011948304
+  fore_triangle_base: 1.7008046817849305
+  length_on_waterline: 4.669592782248232
+  fore_triangle_height: 3.910631553279688
 home_country: GBR
 home_port: Emsworth
 hull_form: unknown
 id: 09d0341e-b908-4e53-82fb-1a1b7fd4546e
 length_on_deck: 5.1054
-mainsail_type: gaff
-name: Marjory
-oga_no: 2234
+sail_number: '1'
+ssr: '167608'
+callsign: 2FRX6
 ownerships:
-- current: true
-  id: 691
-  member: 5607
+- id: 691
   share: 64
   start: 2011
+  member: 5607
+  current: true
 place_built: Windermere
-rig_type: Yawl
-short_description: <p>&#39;Marjory&#39; is a 16&#39;9&quot; Shilling gaff yawl designed
-  and built by Phil Swift of&nbsp;Willow Bay Boats - in cedar strip/epoxy, 1998. She
-  was the first Shilling he built.</p>
 updated_at: '2021-12-19T13:39:33.026382+00:00'
 website: ''
 year: 1998
 year_is_approximate: false
+image_key: nKsj76
+construction_details: Cedar strip epoxy sheathed
+beam: 1.905
+for_sale_state:
+  text: not_for_sale

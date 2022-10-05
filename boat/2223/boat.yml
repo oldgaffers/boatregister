@@ -1,11 +1,11 @@
-builder: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: da4baa22-674e-4ea8-b2c5-14aee7286837
-draft: 0
-engine_installations: []
-for_sales: []
+name: William
+oga_no: 2223
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;William&#39;, launched in 1992,&nbsp;is one of the glassfibre
+  replicas taken from the mould of the &#39;Sir William Priestley&#39;, the Morecambe
+  Fisherman&rsquo;s lifeboat.&nbsp;</p>
 full_description: "<p>&#39;William&#39; is named after the &#39;Sir William Priestley&#39;,\
   \ the Morecambe Fisherman&rsquo;s lifeboat.</p>\r\n\r\n<p>She is one of the glass\
   \ fibre replicas taken from the mould of &#39;Sir William&#39; made by Eric Bergqvist.\
@@ -26,7 +26,17 @@ full_description: "<p>&#39;William&#39; is named after the &#39;Sir William Prie
   \ extension to the keel making her draught about 3ft 9in, much improving stability\
   \ and windward performance. A new mast and spars in aluminium have been installed,\
   \ painted brown.</p>"
-generic_type: Yacht
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+designer:
+  name: William Crossfield
+  id: da4baa22-674e-4ea8-b2c5-14aee7286837
+construction_material: grp
+construction_method: cold_moulded
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8956352109241648
   length_over_all: 8.686905632772493
@@ -35,21 +45,21 @@ home_port: Burnham on Crouch
 hull_form: unknown
 id: 539ea2e2-426a-48ab-9417-b13688d8404c
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: William
-oga_no: 2223
+ssr: '86007'
+callsign: ''
 ownerships:
-- current: true
-  id: 414
-  member: 4252
+- id: 414
   share: 64
   start: 1998
+  member: 4252
+  current: true
 place_built: Lymm
-rig_type: Cutter
-short_description: <p>&#39;William&#39;, launched in 1992,&nbsp;is one of the glassfibre
-  replicas taken from the mould of the &#39;Sir William Priestley&#39;, the Morecambe
-  Fisherman&rsquo;s lifeboat.&nbsp;</p>
 updated_at: '2021-12-19T13:39:32.676137+00:00'
 website: ''
 year: 1992
 year_is_approximate: false
+image_key: VnrJtB
+construction_details: GRP Replica
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

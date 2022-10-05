@@ -1,11 +1,13 @@
-builder: 034f4f9b-6334-45d7-a0b3-5116da588b30
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 3a2bf172-f648-44a1-af0f-0598af8b960b
-draft: 1.8806
-engine_installations: []
-for_sales: []
+name: Curlew
+oga_no: 23
+generic_type: Falmouth Quay Punt
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Curlew is an ex Falmouth Quay Punt. Built bu R.S. Burt ansd
+  Son for Frank Jose. Bought by Tim and Pauline Carr in 1967 in a poor state of repair
+  in Malta. They repaired her and the Mediterranean. This was just the start, Caribbean,
+  Pacific, New Zealand and more. She spent a number of years in South Georgia before
+  they donated her to the NMMC.</p>
 full_description: Built for Frank Jose in 1898 by R.S.Burt and Son, but Frank asked
   for a more cutaway forefoot, finer sections and the 4 ton of iron as all external
   ballast. He raced her very successfully. he also made money by taking gentry out
@@ -20,20 +22,29 @@ full_description: Built for Frank Jose in 1898 by R.S.Burt and Son, but Frank as
   Mauritius, South Africa, Brazil followed on the way back to the Caribbean. Eventually
   they ended up in South Georgia where they lived for 5 years. There is much more
   information in their book Antarctic Oasis.
-generic_type: Falmouth Quay Punt
+builder:
+  name: R.S. Burt and Son
+  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+designer:
+  name: R.S. Burt
+  id: 3a2bf172-f648-44a1-af0f-0598af8b960b
+construction_material: wood
+construction_method: unknown
+draft: 1.8806
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7950499878078516
   draft: 1.8806388685686417
-  length_on_waterline: 8.458302852962692
   length_over_all: 8.53450377956596
+  length_on_waterline: 8.458302852962692
 home_country: GBR
 home_port: Falmouth
 hull_form: long keel deep forefoot
 id: 9e4cbcbc-1e4e-45d7-83b5-8c723fc47e7d
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Curlew
-oga_no: 23
+sail_number: V 9
+callsign: ''
 ownerships:
 - end: 1936
   name: Frank Jose
@@ -43,13 +54,12 @@ ownerships:
   share: 64
   start: 1967
 place_built: Falmouth
-rig_type: Cutter
-short_description: <p>Curlew is an ex Falmouth Quay Punt. Built bu R.S. Burt ansd
-  Son for Frank Jose. Bought by Tim and Pauline Carr in 1967 in a poor state of repair
-  in Malta. They repaired her and the Mediterranean. This was just the start, Caribbean,
-  Pacific, New Zealand and more. She spent a number of years in South Georgia before
-  they donated her to the NMMC.</p>
 updated_at: '2021-12-19T13:38:30.348173+00:00'
 website: ''
 year: 1898
 year_is_approximate: false
+previous_names:
+- Curlew R
+beam: 2.795
+for_sale_state:
+  text: not_for_sale

@@ -1,33 +1,38 @@
-builder: 67cd5c59-6610-45f1-81cc-1a2d45ac0656
-callsign: ''
+name: Sula
+oga_no: 1747
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Ferris
+  id: 67cd5c59-6610-45f1-81cc-1a2d45ac0656
 construction_material: wood
 construction_method: unknown
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.5240185320653499
-  length_on_waterline: 8.22970007315289
   length_over_all: 8.83930748597903
+  length_on_waterline: 8.22970007315289
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 77a44157-0f34-44cc-9727-a2a031360878
 length_on_deck: 8.8392
-mainsail_type: gaff
-name: Sula
-oga_no: 1747
+callsign: ''
 ownerships:
 - name: D M Blinkhorn
   share: 64
   start: 2012
 place_built: Looe
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:19.250382+00:00'
 website: ''
 year: 1896
 year_is_approximate: false
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

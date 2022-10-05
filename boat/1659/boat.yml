@@ -1,13 +1,19 @@
-builder: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
-callsign: ''
+name: Shearwater
+oga_no: 1659
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Built as a copy of 'Snipe', referred to by East Coast maritime author,
+  Francis B Cooke.
+builder:
+  name: William King and Sons
+  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
 construction_material: wood
 construction_method: unknown
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Built as a copy of 'Snipe', referred to by East Coast maritime author,
-  Francis B Cooke.
-generic_type: Yacht
 handicap_data:
   beam: 2.0574250182882223
   draft: 1.21921482565228
@@ -17,22 +23,22 @@ home_port: Beaumaris
 hull_form: unknown
 id: b7097b40-9c24-43e7-99e8-0f67df2700a9
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Shearwater
-oga_no: 1659
+callsign: ''
 ownerships:
 - name: Colin Snowdon
   share: 64
   start: 2012
-- current: true
-  id: 460
-  member: 4467
+- id: 460
   share: 64
+  member: 4467
+  current: true
   start: '?'
 place_built: Burnham on Crouch
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:17.229924+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+construction_details: pitch pine on american elm, oak stem and stern postdouble ender.
+beam: 2.0574
+for_sale_state:
+  text: not_for_sale

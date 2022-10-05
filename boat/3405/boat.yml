@@ -1,31 +1,41 @@
-builder: a6482c01-706a-469d-93db-2ccab9020581
-callsign: ''
+name: Cordelia
+oga_no: 3405
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Built but not used. Launched in 2018.</p>
+full_description: ''
+builder:
+  name: North Sea Craft
+  id: a6482c01-706a-469d-93db-2ccab9020581
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 construction_material: grp
 construction_method: unknown
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: GBR
 home_port: Bradwell
 hull_form: long keel sloping forefoot
 id: 173d15cd-0db1-45d0-a003-83846a9c60a6
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Cordelia
-oga_no: 3405
+callsign: ''
 ownerships:
-- current: true
-  id: 1048
-  member: 6301
+- id: 1048
   share: 64
+  member: 6301
+  current: true
   start: '?'
 place_built: Colchester
-rig_type: Sloop
-short_description: <p>Built but not used. Launched in 2018.</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 website: ''
 year: 2010
 year_is_approximate: false
+beam: 2.2098
+design_class:
+  name: Tamarisk 19
+  id: 9e97f791-1924-4839-948c-dbbffe7290a1
+for_sale_state:
+  text: not_for_sale

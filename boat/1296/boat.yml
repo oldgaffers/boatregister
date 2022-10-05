@@ -1,11 +1,9 @@
-builder: e5c00172-7ec2-4bc9-9979-d47454b84ba4
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Nyala
+oga_no: 1296
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
 full_description: "'Nyala' was commissioned by F.P.Culbert for use in a film, and\
   \ designed by Maurice Griffiths as one of the first shallow draft pleasure vessels.\
   \ She was built by Eversons of Woodbridge out of Oregon pine on oak frames, with\
@@ -20,36 +18,49 @@ full_description: "'Nyala' was commissioned by F.P.Culbert for use in a film, an
   \ Paimpol, Brittany, and had been classified as a Patrimonial INterest Boat (BIP)\
   \ by the French official Association \"Patrimoine Maritime et Fluvial\".\r\n\r\n\
   \r\nMost of the information can be read in the Classic Boat articles"
-generic_type: Yacht
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.2004389173372347
   draft: 1.3716166788588149
-  length_on_waterline: 8.83930748597903
   length_over_all: 10.515727871250913
+  length_on_waterline: 8.83930748597903
 home_country: FRA
 home_port: Paimpol, Brittany
 hull_form: long keel deep forefoot
 id: cd231e9d-c73b-47b2-adad-6b8677ac6dfd
 length_on_deck: 10.5156
-mainsail_type: gaff
-name: Nyala
-oga_no: 1296
+spar_material: wood
+uk_part1: '165445'
+callsign: ''
 ownerships:
 - end: 2015
-  end_is_approximate: true
   name: D & S Greenland
   share: 64
   start: 1989
-- current: true
-  id: 989
-  member: 6218
+  end_is_approximate: true
+- id: 989
   share: 64
   start: 2015
+  member: 6218
   start_is_approximate: true
+  current: true
 place_built: Woodbridge
-rig_type: Yawl
-short_description: ''
 updated_at: '2022-02-12T19:55:18.267988+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+image_key: bGVQLZ
+construction_details: Carvel pitch pine on American Elm
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

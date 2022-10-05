@@ -1,36 +1,42 @@
-callsign: ''
+name: Pollywog
+oga_no: 2075
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Also known as 'Fair Trader'
 construction_material: wood
 construction_method: unknown
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Also known as 'Fair Trader'
-generic_type: Yacht
 handicap_data:
   beam: 1.9812240916849548
-  draft: 0.9144111192392099
-  length_on_waterline: 5.587051938551572
-  length_over_all: 6.4008778346744695
   main:
     foot: 5.18166300902219
     luff: 3.2004389173372347
   thcf: 0.790709476
+  draft: 0.9144111192392099
+  length_over_all: 6.4008778346744695
+  length_on_waterline: 5.587051938551572
 home_country: GBR
 home_port: Upton Norfolk
 hull_form: unknown
 id: 6e2cc841-dda6-4afe-a42a-e484345c68e3
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Pollywog
-oga_no: 2075
+callsign: ''
 ownerships:
 - name: Alan Dunn
   share: 64
   start: 1988
 place_built: Norfolk Broads
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:28.639112+00:00'
 website: ''
 year: 1880
 year_is_approximate: false
+previous_names:
+- Spray
+- Boy Jim
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

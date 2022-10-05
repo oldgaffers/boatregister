@@ -1,38 +1,45 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: MLTC9
-construction_material: grp
-construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-draft: 1.3106
-engine_installations: []
-for_sales: []
+name: Pica
+oga_no: 1479
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: <p><I>Pica</I> has been mainly day sailed with the family from the
   Helford River, but she has also competed in several Fowey Classics.</p><p>Over the
   years she has recieved a new mail and staysail, as well as requiring a new rudder
   and stemhead.</p>
-generic_type: Yacht
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: grp
+construction_method: unknown
+draft: 1.3106
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.21921482565228
-  fore_triangle_base: 4.26725188978298
-  fore_triangle_height: 7.924896366739819
-  length_on_waterline: 6.858083394294074
-  length_over_all: 7.0866861741038765
   main:
     foot: 4.724457449402585
     head: 3.8100463301633747
     luff: 3.9624481833699097
+  thcf: 0.899591539
+  draft: 1.21921482565228
   propellor:
     type: fixed
-  thcf: 0.899591539
+  length_over_all: 7.0866861741038765
+  fore_triangle_base: 4.26725188978298
+  length_on_waterline: 6.858083394294074
+  fore_triangle_height: 7.924896366739819
 home_country: 'null'
 home_port: Mylor
 hull_form: long keel deep forefoot
 id: 2eb4aa05-8a30-4076-8d39-2b723741aed6
 length_on_deck: 7.0866
-mainsail_type: gaff
-name: Pica
-oga_no: 1479
+ssr: '29862'
+callsign: MLTC9
 ownerships:
 - end: 2005
   name: W D Hugh
@@ -42,9 +49,14 @@ ownerships:
   share: 64
   start: 2005
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:12.522162+00:00'
 website: ''
 year: 1987
 year_is_approximate: false
+image_key: pN8ZTt
+beam: 2.4384
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
+for_sale_state:
+  text: not_for_sale

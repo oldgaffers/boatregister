@@ -1,39 +1,52 @@
-builder: 2a625108-bef9-404e-bf02-4aad488efa47
-callsign: M1106
-designer: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
+name: Lizzie
+oga_no: 3468
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Mayfly Oystercatcher 16 Gaff Rigged Cutter Dayboat
+full_description: Gaff Rigged Cutter Dayboat
+builder:
+  name: Mayfly Classic Boats
+  id: 2a625108-bef9-404e-bf02-4aad488efa47
+designer:
+  name: Bryan Gibson
+  id: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
 draft: 0.6005
 engine_installations: []
 for_sales: []
-full_description: Gaff Rigged Cutter Dayboat
-generic_type: Yacht
 handicap_data:
   beam: 1.929407461594733
-  fore_triangle_base: 2.3104
-  fore_triangle_height: 3.1486
-  length_on_waterline: 4.815898561326506
-  length_over_all: 4.901243599122164
   main:
     foot: 11.81
     head: 8.37
     luff: 10.17
-  propellor:
-    type: fixed
-  sailarea: 152.68837315001764
   thcf: 1.037
   topsail:
     luff: 8.99
     perpendicular: 5.41
+  sailarea: 152.68837315001764
+  propellor:
+    type: fixed
+  length_over_all: 4.901243599122164
+  fore_triangle_base: 2.3104
+  length_on_waterline: 4.815898561326506
+  fore_triangle_height: 3.1486
 home_country: United Kingdom
 home_port: Woodbridge Suffolk
 hull_form: shoal_draft
 id: 78afeea3-bd58-46ca-8950-07b07ee740ae
 length_on_deck: 4.9012
-mainsail_type: gaff
-name: Lizzie
-oga_no: 3468
+sail_number: '1845'
+spar_material: wood
+callsign: M1106
 place_built: Gweek Cornwall
-rig_type: Cutter
-short_description: Mayfly Oystercatcher 16 Gaff Rigged Cutter Dayboat
 updated_at: '2021-04-02T14:43:07.902705+00:00'
 year: 1994
 year_is_approximate: false
+mssi: '232031288'
+image_key: PRTFwk
+design_class:
+  name: Oystercatcher 16
+  id: 3afef302-57fe-49ab-bfb8-f7d0ea978a37
+for_sale_state:
+  text: not_for_sale

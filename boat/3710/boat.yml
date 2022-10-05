@@ -1,11 +1,7 @@
-builder: d09f64ef-8999-4792-a158-3544221a7a35
-callsign: 2JON7
-construction_material: wood
-construction_method: carvel
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
-draft: 1.6
-engine_installations: []
-for_sales: []
+name: Eleni
+oga_no: 3710
+rig_type: Cutter
+mainsail_type: gaff
 full_description: "<p>Eleni is a traditional Greek boat called a \u03C4\u03C1\u03B5\
   \u03C7\u03B1\u03BD\u03C4\u03AE\u03C1\u03B9 (trehantiri). These are a very common\
   \ sight in Greece, making up a good percentage of the small boat fishing fleet there.\
@@ -26,23 +22,37 @@ full_description: "<p>Eleni is a traditional Greek boat called a \u03C4\u03C1\u0
   \ installed to replace a very elderly Perkins, along with various other improvements.</p>\n\
   <p><br></p>\n<p>In 2018 Eleni made her second voyage to Greece, and currently lives\
   \ in Preveza in the Ionian, where she feels very much at home.</p>\n<p><br></p>"
+builder:
+  name: Home Build
+  id: d09f64ef-8999-4792-a158-3544221a7a35
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+construction_material: wood
+construction_method: carvel
+draft: 1.6
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.801
 hull_form: long keel sloping forefoot
 id: cf6c14fc-7a8d-4408-97f7-f9659077eafd
 length_on_deck: 9.754
-mainsail_type: gaff
-name: Eleni
-oga_no: 3710
+reference:
+- Classic Boat Magazine, July 2019 (pp60-64)
+spar_material: wood
+ssr: SSR164905
+callsign: 2JON7
 ownerships:
-- current: true
-  id: 35003
-  member: 6585
+- id: 35003
   share: 64
+  member: 6585
+  current: true
 - id: 1
   share: 64
 place_built: Denmark
-rig_type: Cutter
 updated_at: '2022-08-26T11:27:06.269832+00:00'
 year: 2001
 year_is_approximate: false
+image_key: PxZVHh
+construction_details: Larch on Oak

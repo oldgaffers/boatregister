@@ -1,11 +1,11 @@
-builder: ca9abfe8-b993-486a-8a9c-9b07c4185063
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 3e04ea9d-630a-44cc-801e-6fbf77923266
-draft: 1.6246
-engine_installations: []
-for_sales: []
+name: Dolphin of Leith
+oga_no: 44
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built in 1904, Dolphin of Leith has cruised extensively around
+  the world. She is now based in New Zealand, having sailed there from the Solent,
+  arriving February 2014.</p>
 full_description: "<p>Cruised by J Lowrie and family to South Africa via West Africa\
   \ and S America and back 1974 -75. Cruising in 1988 via South Atlantic Islands,\
   \ Carribbean, Bermuda and Azores. &#39;Dolphin of Leith&#39; was built for W C Cranford\
@@ -96,34 +96,44 @@ full_description: "<p>Cruised by J Lowrie and family to South Africa via West Af
   \ of Dolphin and her crew. You don&rsquo;t have to be a Facebook member to view\
   \ the page, only if you want to contribute.<br />\r\nGood sailing<br />\r\nIain,\
   \ Vicki, Finn and Petra.<br />\r\nThe Dolphin of Leith crew.</p>"
-generic_type: Yacht
+builder:
+  name: Weatherhead William and Sons
+  id: ca9abfe8-b993-486a-8a9c-9b07c4185063
+designer:
+  name: A. Weatherhead
+  id: 3e04ea9d-630a-44cc-801e-6fbf77923266
+construction_material: wood
+construction_method: carvel
+draft: 1.6246
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.9413557668861254
-  draft: 1.624603755181663
-  fore_triangle_base: 5.151182638380882
-  fore_triangle_height: 9.44891489880517
-  length_on_waterline: 8.400390148744208
-  length_over_all: 8.601560594976835
   main:
     foot: 5.3706413069982935
     head: 3.4107534747622528
     luff: 5.300536454523287
-  propellor:
-    blades: 2
-    type: fixed
-  sailarea: 52.73680012729141
   thcf: 0.956
+  draft: 1.624603755181663
   topsail:
     luff: 4.3007802974884175
     perpendicular: 2.301267983418678
+  sailarea: 52.73680012729141
+  propellor:
+    type: fixed
+    blades: 2
+  length_over_all: 8.601560594976835
+  fore_triangle_base: 5.151182638380882
+  length_on_waterline: 8.400390148744208
+  fore_triangle_height: 9.44891489880517
 home_country: NZ
 home_port: Aukland, New Zealand
 hull_form: long keel deep forefoot
 id: 2f18e8f1-e06f-44f7-8719-a7940244b1cc
 length_on_deck: 8.635
-mainsail_type: gaff
-name: Dolphin of Leith
-oga_no: 44
+sail_number: '44'
+uk_part1: '181176'
+callsign: ''
 ownerships:
 - end: 1973
   name: John Davis
@@ -136,16 +146,17 @@ ownerships:
 - name: Iain and Vicki Lowrie
   share: 64
   start: 1973
-- current: true
+- share: 64
   member: 4405
-  share: 64
+  current: true
   start: '?'
 place_built: Cockenzie
-rig_type: Cutter
-short_description: <p>Built in 1904, Dolphin of Leith has cruised extensively around
-  the world. She is now based in New Zealand, having sailed there from the Solent,
-  arriving February 2014.</p>
 updated_at: '2021-12-19T13:38:30.955416+00:00'
 website: ''
 year: 1904
 year_is_approximate: false
+image_key: NWGL2s
+construction_details: Carvel, larch on oak. Teak brightwork
+beam: 2.9474
+for_sale_state:
+  text: not_for_sale

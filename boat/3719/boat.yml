@@ -1,11 +1,19 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+name: Sender
+oga_no: 3719
+generic_type: Falmouth Quay Punt
+rig_type: Cutter
+mainsail_type: gaff
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: C.G. Petrie/Percy Dalton
+  id: bff1e319-11f9-4557-a5ed-e9f0856cb48e
 construction_material: grp
 construction_method: cold_moulded
-designer: bff1e319-11f9-4557-a5ed-e9f0856cb48e
 draft: 1.524
 engine_installations: []
 for_sales: []
-generic_type: Falmouth Quay Punt
 handicap_data:
   beam: 3.048
 home_country: 'United States '
@@ -13,13 +21,21 @@ home_port: 'Annapolis, Maryland '
 hull_form: long keel deep forefoot
 id: 36d61543-da8b-4002-ae57-a2ed2ba9bf5c
 length_on_deck: 8.535
-mainsail_type: gaff
-name: Sender
-oga_no: 3719
+spar_material: wood
+uk_part1: US 1327247
 ownerships: []
 place_built: Cornwall
-rig_type: Cutter
 updated_at: '2022-10-02T20:29:44.360736+00:00'
 website: https://www.instagram.com/sailingvesselsender
 year: 1998
 year_is_approximate: false
+previous_names:
+- Phyllis May
+image_key: GBnwrr
+construction_details: Solid
+air_draft: 37
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
+for_sale_state:
+  text: not_for_sale

@@ -1,36 +1,44 @@
-builder: cf91d966-b14f-427d-9da1-6cc42938b607
-callsign: ''
+name: Coluna
+oga_no: 1682
+generic_type: unknown
+mainsail_type: gaff
+short_description: <p>Foreman boatbuilder, Fred Mitchell, used a 19th century boat
+  as an exact copy.</p>
+full_description: ''
+builder:
+  name: James J. and Co. Ltd.
+  id: cf91d966-b14f-427d-9da1-6cc42938b607
+designer:
+  name: Frank Mitchell
+  id: 7e30552c-9d13-4b90-95bf-f7aa6b80383c
 construction_material: wood
 construction_method: clinker
-designer: 7e30552c-9d13-4b90-95bf-f7aa6b80383c
 draft: 0.1768
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.4478176054620824
   draft: 0.18288222384784197
-  length_on_waterline: 3.6576444769568397
   length_over_all: 3.6576444769568397
+  length_on_waterline: 3.6576444769568397
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: ace82a21-25f3-4949-bf2c-358f1be2c16d
 length_on_deck: 3.6576
-mainsail_type: gaff
-name: Coluna
-oga_no: 1682
+callsign: ''
 ownerships:
-- current: true
-  id: 161
-  member: 2476
+- id: 161
   share: 64
   start: 1965
+  member: 2476
+  current: true
 place_built: Brightlingsea
-short_description: <p>Foreman boatbuilder, Fred Mitchell, used a 19th century boat
-  as an exact copy.</p>
 updated_at: '2021-12-19T13:39:17.711384+00:00'
 website: ''
 year: 1947
 year_is_approximate: false
+construction_details: Wooden clinker varnished
+beam: 1.4478
+for_sale_state:
+  text: not_for_sale

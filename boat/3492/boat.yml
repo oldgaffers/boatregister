@@ -1,23 +1,29 @@
+name: Pandora
+oga_no: 3492
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: Aqua Marine hull , 25 horse power Vetus M 3.09 diesel
+full_description: "26\u2019 bilge keels. Blue hull, white superstructure. Sloop rig\
+  \ with stern davits\_"
 construction_material: grp
 construction_method: cold_moulded
 engine_installations: []
 for_sales: []
-full_description: "26\u2019 bilge keels. Blue hull, white superstructure. Sloop rig\
-  \ with stern davits\_"
 home_country: Ireland
 home_port: 'Dun Laoghaire '
 id: d1e40f29-6ccd-4093-9ed5-e381d88736a7
-mainsail_type: bermudan
-name: Pandora
-oga_no: 3492
+spar_material: aluminium
 ownerships:
-- current: true
-  id: 1006
-  member: 6241
+- id: 1006
   share: 64
+  member: 6241
+  current: true
   start: '?'
-rig_type: Sloop
-short_description: Aqua Marine hull , 25 horse power Vetus M 3.09 diesel
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 1979
 year_is_approximate: false
+previous_names:
+- Sienna
+image_key: FKnZSs
+for_sale_state:
+  text: not_for_sale

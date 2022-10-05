@@ -1,33 +1,45 @@
-builder: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
-callsign: ''
+name: Go Well
+oga_no: 2813
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: North Norfolk Boatbuilding Co./Charlie Ward
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: wood
 construction_method: unknown
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  length_on_waterline: 5.715069495245062
   length_over_all: 6.044257498171177
+  length_on_waterline: 5.715069495245062
 home_country: 'null'
 home_port: Burnham on Crouch
 hull_form: unknown
 id: 52d5f122-50c8-41ea-994d-82069f5c4d7a
 length_on_deck: 6.0442
-mainsail_type: gaff
-name: Go Well
-oga_no: 2813
+callsign: ''
 ownerships:
 - name: Keith Williams
   share: 64
   start: 2012
 place_built: Moreston
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:50.223871+00:00'
 website: ''
 year: 1991
 year_is_approximate: false
+previous_names:
+- Frances
+beam: 2.286
+design_class:
+  name: Norfolk Gypsy
+  id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
+for_sale_state:
+  text: not_for_sale

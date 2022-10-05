@@ -1,11 +1,9 @@
-builder: a6482c01-706a-469d-93db-2ccab9020581
-callsign: MFHH
-construction_material: grp
-construction_method: cold_moulded
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: East Breeze
+oga_no: 695
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: "<p>For a report from her single-handed passage to join the Netherland\
   \ Cross Country Tour, 2014, <a href=\"http://www.sailing-by.org.uk/content/bembridge-belgium-single-handed-july-2014\"\
   >visit 'Sailing by'</a>.</p>\n<p>Copy of notes received from previous owners in\
@@ -158,52 +156,66 @@ full_description: "<p>For a report from her single-handed passage to join the Ne
   \ St Cyr (Rennes) - not recommended, Gaileau, Guipry, Besle. They arrived at Redon,\
   \ visitors\u2019 pontoon on Tuesday, 11th September where East Breeze was lifted\
   \ out and stored. About 889 miles achieved.</p>"
-generic_type: Yacht
+builder:
+  name: North Sea Craft
+  id: a6482c01-706a-469d-93db-2ccab9020581
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.9144111192392099
-  fore_triangle_base: 3.6576444769568397
-  fore_triangle_height: 6.5532796878810045
-  length_on_waterline: 6.4008778346744695
-  length_over_all: 6.705681541087539
   main:
     foot: 3.9624481833699097
     head: 3.581443550353572
     luff: 3.9624481833699097
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.86522172
+  draft: 0.9144111192392099
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 6.705681541087539
+  fore_triangle_base: 3.6576444769568397
+  length_on_waterline: 6.4008778346744695
+  fore_triangle_height: 6.5532796878810045
 home_country: GBR
 home_port: Southampton
 hull_form: long keel deep forefoot
 id: debfe1e8-5ac3-4153-bd4b-d6f8117923d8
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: East Breeze
-oga_no: 695
+callsign: MFHH
 ownerships:
 - note: 'Purchased around 1993 by David and Helen Barr. Bought 2002 by John Hilsden.
     John Hall bought East Breeze in 2005. '
+  text: Purchased around
   start: 1993
   start_is_approximate: false
-  text: Purchased around
 - end: 2005
   name: John Hilsden
   share: 64
   start: 2000
-- current: true
-  id: 439
-  member: 4396
+- id: 439
   share: 64
   start: 2005
+  member: 4396
+  current: true
 - name: John Hall
   share: 64
   start: 2011
 place_built: Brundall
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:49.813655+00:00'
 website: ''
 year: 1975
 year_is_approximate: false
+image_key: WP6FjB
+construction_details: GRP hull, ply deck & cabin
+beam: 2.4384
+design_class:
+  name: Tamarisk 22
+  id: ffd82ea5-0656-4af6-b5b7-55bfb57c26dc
+for_sale_state:
+  text: not_for_sale

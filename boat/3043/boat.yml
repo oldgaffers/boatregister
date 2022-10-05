@@ -1,11 +1,10 @@
-builder: 3b623161-dc07-46fc-96b1-98e7ad47b431
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 0.9906
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Diamond
+oga_no: 3043
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: lug
+short_description: <p>&#39;Diamond&#39; is a replica of a 1897 Sibbick fin and bulb
+  half rater.</p>
 full_description: "<p>The original &lsquo;Diamond&rsquo; was built in 1897 by Sibbick\
   \ in Cowes and exhibited at an exhibition in London to commemorate Queen Victoria&#39;s\
   \ jubilee, hence the name, and subsequently sold to a Russian Count who sailed her\
@@ -15,36 +14,47 @@ full_description: "<p>The original &lsquo;Diamond&rsquo; was built in 1897 by Si
   \ boats only suitable for racing with no accommodation and effectively outlawed\
   \ by 1901.</p>\r\n\r\n<p>After she was sold in 2019 her new owner took her to Palma,\
   \ Majorca.</p>"
-generic_type: Yacht
+builder:
+  name: Charles Sibbick and Co
+  id: 3b623161-dc07-46fc-96b1-98e7ad47b431
+construction_material: wood
+construction_method: unknown
+draft: 0.9906
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 1.4996342355523042
-  draft: 0.9906120458424774
-  fore_triangle_base: 1.8288222384784198
-  fore_triangle_height: 4.26725188978298
-  length_on_waterline: 4.090465740063399
-  length_over_all: 6.349061204584247
   main:
     foot: 4.4501341136308215
     head: 4.495854669592782
     luff: 1.6154596439892708
   thcf: 0.858181595
+  draft: 0.9906120458424774
+  length_over_all: 6.349061204584247
+  fore_triangle_base: 1.8288222384784198
+  length_on_waterline: 4.090465740063399
+  fore_triangle_height: 4.26725188978298
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 041269d3-aef1-4570-a4b1-be818b4b8a56
 length_on_deck: 6.349
-mainsail_type: lug
-name: Diamond
-oga_no: 3043
+callsign: ''
 ownerships:
 - end: 2019
   name: Martin Nott
   share: 64
   start: 2010
-rig_type: Sloop
-short_description: <p>&#39;Diamond&#39; is a replica of a 1897 Sibbick fin and bulb
-  half rater.</p>
 updated_at: '2021-12-19T13:39:56.585113+00:00'
 website: ''
 year: 2011
 year_is_approximate: false
+image_key: 4gTp8L
+construction_details: Strip Plank
+beam: 1.4996
+design_class:
+  name: 1/2 rater
+  id: 81a22c1f-762e-4acd-8fe8-b87be71c8c39
+for_sale_state:
+  text: not_for_sale

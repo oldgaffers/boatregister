@@ -1,34 +1,41 @@
-builder: 934b69a4-9143-49cd-9797-9fb6af1db26e
-callsign: ''
+name: Dunlin
+oga_no: 685
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Newmans of Poole
+  id: 934b69a4-9143-49cd-9797-9fb6af1db26e
+designer:
+  name: T. Musslewhite
+  id: ca7cfdca-a844-42a6-97a7-2d39079472ff
 construction_material: wood
 construction_method: unknown
-designer: ca7cfdca-a844-42a6-97a7-2d39079472ff
 draft: 2.0422
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.3528407705437697
   draft: 2.042184832967569
-  length_on_waterline: 10.05852231163131
   length_over_all: 11.277737137283589
+  length_on_waterline: 10.05852231163131
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 324c4d1e-bf9d-4b3e-9675-b3ed9ea3a2c7
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: Dunlin
-oga_no: 685
+callsign: ''
 ownerships:
 - name: D R G Collins
   share: 64
   start: 2012
 place_built: Poole
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:49.521923+00:00'
 website: ''
 year: 1908
 year_is_approximate: false
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

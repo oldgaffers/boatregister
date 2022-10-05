@@ -1,11 +1,10 @@
-builder: ec4aa381-8c1e-4af6-9a91-edab7287202c
-callsign: OR3533
-construction_material: wood
-construction_method: carvel
-designer: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
-draft: 1.6002
-engine_installations: []
-for_sales: []
+name: Lona III
+oga_no: 3421
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Pain Clark designed 3 boats called Lona in the nineteen hundreds,
+  and Lona III is his final take on the concept, and his favourite boat</p>
 full_description: "<p>Lona III is an absolute beauty.</p>\r\n\r\n<p>She was designed\
   \ in 1906 by J. Pain Clark, a lawyer, a keen sailor and one of the leading amateur\
   \ yacht designers of early last century. Clark has 15 designs to his name, several\
@@ -71,12 +70,18 @@ full_description: "<p>Lona III is an absolute beauty.</p>\r\n\r\n<p>She was desi
   \ 92 now, Tony visited the restoration yard a number of times. &nbsp;And &ndash;\
   \ importantly &ndash; he approves the new execution of his Lona III.</p>\r\n\r\n\
   <p>Thanks to Austin and the Tradewind Yachts team!</p>"
-generic_type: Yacht
+builder:
+  name: W. King and Sons
+  id: ec4aa381-8c1e-4af6-9a91-edab7287202c
+designer:
+  name: Clark J. Pain
+  id: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
+construction_material: wood
+construction_method: carvel
+draft: 1.6002
+engine_installations: []
+for_sales: []
 handicap_data:
-  fore_triangle_base: 5.5687
-  length_on_waterline: 8.443
-  length_over_spars: 12.7498
-  length_overall: 10.8204
   main:
     foot: 17.22
     head: 14.27
@@ -84,85 +89,90 @@ handicap_data:
   topsail:
     luff: 24.47
     perpendicular: 10.43
+  length_overall: 10.8204
+  length_over_spars: 12.7498
+  fore_triangle_base: 5.5687
+  length_on_waterline: 8.443
 home_country: BEL
 home_port: Antwerp
 hull_form: cut_away_stem
 id: ac9bcb09-c6a3-4aab-bd70-53fdf35074e5
 length_on_deck: 10.8204
-mainsail_type: gaff
-name: Lona III
-oga_no: 3421
+callsign: OR3533
 ownerships:
 - end: 1926
-  end_is_approximate: false
   note: 1908-26 Richard Manders
-  start: 1908
-  start_is_approximate: false
   text: Richard Manders
+  start: 1908
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1928
-  end_is_approximate: false
   note: 1927-8 John Morant and Capt H.E.Sulwain, DSO RN
-  start: 1927
-  start_is_approximate: false
   text: John Morant and Capt H.E.Sulwain, DSO RN
-- end: 1932
+  start: 1927
   end_is_approximate: false
-  note: 1929-32 John G Morant
-  start: 1929
   start_is_approximate: false
+- end: 1932
+  note: 1929-32 John G Morant
   text: John G Morant
+  start: 1929
+  end_is_approximate: false
+  start_is_approximate: false
 - note: 1937-? Evan Pritchard
+  text: Evan Pritchard
   start: 1937
   start_is_approximate: false
-  text: Evan Pritchard
 - end: 1959
-  end_is_approximate: false
   note: 1947-59 Eric Beeley
-  start: 1947
-  start_is_approximate: false
   text: Eric Beeley
+  start: 1947
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1993
-  end_is_approximate: false
   note: 1960-93 Dr A.E.Steel
-  start: 1960
-  start_is_approximate: false
   text: Dr A.E.Steel
+  start: 1960
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 1999
-  end_is_approximate: false
   note: 1995-99 Steven Briggs
-  start: 1995
-  start_is_approximate: false
   text: Steven Briggs
+  start: 1995
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 2001
-  end_is_approximate: false
   note: 2000-1 Michael Jones
-  start: 2000
-  start_is_approximate: false
   text: Michael Jones
+  start: 2000
+  end_is_approximate: false
+  start_is_approximate: false
 - end: 2006
-  end_is_approximate: false
   note: 2001-6 Mark Zygadlo
-  start: 2001
-  start_is_approximate: false
   text: Mark Zygadlo
-- end: 2010
+  start: 2001
   end_is_approximate: false
-  note: 2006-10 Eric Mentinck
-  start: 2006
   start_is_approximate: false
+- end: 2010
+  note: 2006-10 Eric Mentinck
   text: Eric Mentinck
+  start: 2006
+  end_is_approximate: false
+  start_is_approximate: false
 - name: Bart Carpentier
   share: 64
   start: 2011
 - note: 2011 Bart Carpentier
+  text: Bart Carpentier
   start: 2011
   start_is_approximate: false
-  text: Bart Carpentier
 place_built: Burnham-on-Crouch
-rig_type: Cutter
-short_description: <p>Pain Clark designed 3 boats called Lona in the nineteen hundreds,
-  and Lona III is his final take on the concept, and his favourite boat</p>
 updated_at: '2021-12-19T13:40:10.252124+00:00'
 website: https://bartcarpentier.wixsite.com/Lona3
 year: 1907
 year_is_approximate: false
+image_key: 8WfftD
+construction_details: Carvel, Pitch pine on oak frames below the waterline, teak on
+  oak above waterline
+beam: 2.3683
+for_sale_state:
+  text: not_for_sale

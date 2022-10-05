@@ -1,33 +1,40 @@
-builder: e713d7b7-20b2-4327-9567-53b5756ffad1
-callsign: ''
+name: Sea Fever
+oga_no: 3431
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: G.W. Lavis
+  id: e713d7b7-20b2-4327-9567-53b5756ffad1
 construction_material: wood
 construction_method: unknown
 draft: 1.2497
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.2496951962935867
-  length_on_waterline: 7.620092660326749
   length_over_all: 7.620092660326749
+  length_on_waterline: 7.620092660326749
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: fcf95a8b-9925-43c0-8aa5-d9b513fc9b0f
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Sea Fever
-oga_no: 3431
+callsign: ''
 ownerships:
 - name: H C Haines
   share: 64
   start: 2012
 place_built: Exmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:59.437869+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+previous_names:
+- Swallow
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

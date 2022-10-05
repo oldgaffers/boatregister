@@ -1,41 +1,50 @@
-builder: 4c830695-a7e9-4013-84e6-aaa91f7d3a8a
-callsign: ''
+name: Firefly
+oga_no: 785
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: J.W. Brooke and Co. Ltd.
+  id: 4c830695-a7e9-4013-84e6-aaa91f7d3a8a
+designer:
+  name: Albert Strange
+  id: bb41d838-779a-40e4-8330-00460deb203f
 construction_material: wood
 construction_method: unknown
-designer: bb41d838-779a-40e4-8330-00460deb203f
 draft: 1.3198
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
   draft: 1.3106559375762008
-  length_on_waterline: 7.315288953913679
-  length_over_all: 10.515727871250913
   propellor:
     type: fixed
+  length_over_all: 10.515727871250913
+  length_on_waterline: 7.315288953913679
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 44e2291d-aa98-46fc-9fab-a17c0e2fbbbc
 length_on_deck: 10.5156
-mainsail_type: gaff
-name: Firefly
-oga_no: 785
+callsign: ''
 ownerships:
 - name: J A Clay
   share: 64
   start: 2009
-- current: true
-  id: 99
-  member: 1819
+- id: 99
   share: 64
+  member: 1819
+  current: true
   start: '?'
 place_built: Lowestoft
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:52.248421+00:00'
 website: ''
 year: 1922
 year_is_approximate: false
+image_key: dntscL
+construction_details: Teak on oak, mahogany  with oak panelling below
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

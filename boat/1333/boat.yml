@@ -1,41 +1,50 @@
-builder: 034f4f9b-6334-45d7-a0b3-5116da588b30
-callsign: ''
+name: Bunty
+oga_no: 1333
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Bunty&#39; was built in 1912 by RS Burt as a yacht on Falmouth
+  Quay Punt lines. She was lost in 1986 after breaking up on shoals following a grounding.</p>
+full_description: ''
+builder:
+  name: R.S. Burt and Son
+  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+designer:
+  name: R.S. Burt
+  id: 3a2bf172-f648-44a1-af0f-0598af8b960b
 construction_material: wood
 construction_method: unknown
-designer: 3a2bf172-f648-44a1-af0f-0598af8b960b
 draft: 2.0726
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.9565959522067784
   draft: 2.0726652036088757
-  length_on_waterline: 9.205071933674713
   length_over_all: 9.44891489880517
+  length_on_waterline: 9.205071933674713
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 9ec2724f-1d38-4449-ab25-04a112740e05
 length_on_deck: 9.4488
-mainsail_type: gaff
-name: Bunty
-oga_no: 1333
+uk_part1: '133333'
+callsign: ''
 ownerships:
 - name: James Richardson
   share: 64
   start: 1977
 - note: Iain Nicholls owned 'Bunty' when she was lost on shoals, having only recently
     acquired her in 1986.
-  start: 1986
-  start_is_approximate: false
   text: Iain Nicholls owned 'Bunty' when she was lost on shoals, having only recently
     acquired her in
+  start: 1986
+  start_is_approximate: false
 place_built: Falmouth
-rig_type: Cutter
-short_description: <p>&#39;Bunty&#39; was built in 1912 by RS Burt as a yacht on Falmouth
-  Quay Punt lines. She was lost in 1986 after breaking up on shoals following a grounding.</p>
 updated_at: '2021-12-19T13:39:08.414416+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+construction_details: Trad wood
+beam: 2.9566
+for_sale_state:
+  text: not_for_sale

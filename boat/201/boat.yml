@@ -1,10 +1,10 @@
-builder: 62a35eed-a9af-49be-9ad6-5e7f222eb650
-callsign: GKRT
-construction_material: wood
-construction_method: carvel
-draft: 1.8288
-engine_installations: []
-for_sales: []
+name: Guiding Star
+oga_no: 201
+generic_type: Cornish Lugger
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Guiding Star is a Looe lugger built in 1907 by James Angear
+  for the Soady family and converted into a yacht in 1937 at Uphams yard in Brixham.</p>
 full_description: "<p>Guiding Star is a Looe lugger built in 1907 by James Angear\
   \ for the Soady family and converted into a yacht in 1937 at Uphams&nbsp;yard in\
   \ Brixham. From 1960-1989 she was owned by Brigadier John Glennie, who sailed her\
@@ -14,35 +14,41 @@ full_description: "<p>Guiding Star is a Looe lugger built in 1907 by James Angea
   \n<br />\r\nWe&#39;re often looking for crew, so if you&#39;re interested in sailing\
   \ on Guiding Star, please message Paul through Guiding Star&#39;s Facebook page\
   \ at&nbsp;https://www.facebook.com/guidingstar1907/</p>"
-generic_type: Cornish Lugger
+builder:
+  name: J. Angear
+  id: 62a35eed-a9af-49be-9ad6-5e7f222eb650
+construction_material: wood
+construction_method: carvel
+draft: 1.8288
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.5570592538405266
-  draft: 1.8288222384784198
-  fore_triangle_base: 6.2484759814679345
-  fore_triangle_height: 10.210924164837843
-  length_on_waterline: 11.582540843696659
-  length_over_all: 11.887344550109729
   main:
     foot: 5.715069495245062
     head: 4.800658376005852
     luff: 6.272860277980979
+  thcf: 1.041975759
+  draft: 1.8288222384784198
   mizzen:
     foot: 3.0480370641306997
     luff: 6.2484759814679345
-  propellor:
-    type: fixed
-  thcf: 1.041975759
   topsail:
     luff: 6.0960741282613995
     perpendicular: 2.6670324311143623
+  propellor:
+    type: fixed
+  length_over_all: 11.887344550109729
+  fore_triangle_base: 6.2484759814679345
+  length_on_waterline: 11.582540843696659
+  fore_triangle_height: 10.210924164837843
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel deep forefoot
 id: 1bebaf46-5891-4701-b3e8-523419a65121
 length_on_deck: 11.8872
-mainsail_type: gaff
-name: Guiding Star
-oga_no: 201
+uk_part1: '162019'
+callsign: GKRT
 ownerships:
 - end: 1989
   name: John Glennie
@@ -55,21 +61,25 @@ ownerships:
 - note: Barry and Jackie bought Guiding Star from Brigadier John Glennie in 1989 and
     substantially rebuilt her in Bristol before sailing her to the Caribbean and back.
     They later changed her small Bermudan mizzen to a standing lug sail.
+  text: Barry and Jackie bought Guiding Star from Brigadier John Glennie in
   start: 1989
   start_is_approximate: false
-  text: Barry and Jackie bought Guiding Star from Brigadier John Glennie in
 - name: Paul Eedle
   share: 64
   start: 2016
-- current: true
+- share: 64
   member: 6085
-  share: 64
+  current: true
   start: '?'
 place_built: Looe
-rig_type: Ketch
-short_description: <p>Guiding Star is a Looe lugger built in 1907 by James Angear
-  for the Soady family and converted into a yacht in 1937 at Uphams yard in Brixham.</p>
 updated_at: '2021-12-19T13:38:35.437938+00:00'
 website: https://guidingstar1907.com
 year: 1907
 year_is_approximate: false
+previous_names:
+- Outward Bound
+image_key: p33qVn
+construction_details: Carvel; close seamed
+beam: 3.557
+for_sale_state:
+  text: not_for_sale

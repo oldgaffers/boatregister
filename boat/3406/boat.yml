@@ -1,9 +1,11 @@
-callsign: ''
-construction_material: plywood
-construction_method: unknown
-draft: 0.1006
-engine_installations: []
-for_sales: []
+name: Blue Moon
+oga_no: 3406
+generic_type: Dinghy
+rig_type: single_sail
+mainsail_type: gunter
+short_description: <p>&#39;Blue Moon&#39; is a 14&#39; marine ply&nbsp;sailing dinghy
+  called a Fyne Four, buiit&nbsp;from a kit, glued and coated with&nbsp;epoxy resin
+  with gunter rig.</p>
 full_description: "<p>&#39;Blue Moon&#39; is a&nbsp;classic wooden boat, clinker type\
   \ construction, based on a Selway Fisher design and sold as a kit by Fyne Boats.&nbsp;Her\
   \ spars and&nbsp;mast are Douglas fir, gunwales, thwart etc. are&nbsp;sapele. She\
@@ -19,27 +21,32 @@ full_description: "<p>&#39;Blue Moon&#39; is a&nbsp;classic wooden boat, clinker
   \ foredeck, and side decks. Inside varnished; hull Danube blue except for top strake\
   \ which is white.</p>\r\n\r\n<p>Based at Harrogate she is sailed on&nbsp;Ullswater\
   \ [2019].</p>"
-generic_type: Dinghy
+construction_material: plywood
+construction_method: unknown
+draft: 0.1006
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Harrogate
 hull_form: unknown
 id: c29ebff0-d6cf-4598-8018-5a48642fa887
 length_on_deck: 3.6576
-mainsail_type: gunter
-name: Blue Moon
-oga_no: 3406
+sail_number: F4
+callsign: ''
 ownerships:
-- current: true
-  id: 1032
-  member: 6285
+- id: 1032
   share: 64
+  member: 6285
+  current: true
   start: '?'
 place_built: 'Harrogate '
-rig_type: single_sail
-short_description: <p>&#39;Blue Moon&#39; is a 14&#39; marine ply&nbsp;sailing dinghy
-  called a Fyne Four, buiit&nbsp;from a kit, glued and coated with&nbsp;epoxy resin
-  with gunter rig.</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 website: ''
 year: 2015
 year_is_approximate: false
+image_key: WMbxGF
+construction_details: 'Plywood strakes, copper wire and spot epoxy. Hull reinforced
+  with fibre glass sheeting. Sapele gunwale. Bowsprit Douglas fir. '
+beam: 1.524
+for_sale_state:
+  text: not_for_sale

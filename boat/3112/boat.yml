@@ -1,36 +1,44 @@
-builder: 2baf8a14-dd14-4e3a-936c-369594ab0618
-callsign: ''
+name: Hebe
+oga_no: 3112
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: lug
+short_description: Hebe is a Romilly built in 2001
+full_description: ''
+builder:
+  name: Bridgend Boat Co.
+  id: 2baf8a14-dd14-4e3a-936c-369594ab0618
+designer:
+  name: Nigel Irens
+  id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
 construction_material: grp
 construction_method: unknown
-designer: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
 draft: 0.4999
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.1000255395025604
-  draft: 0.5000060808339429
-  draft_keeldown: 1.49001812088515
-  length_on_waterline: 6.180075159107535
-  length_over_all: 6.700081483174834
-  length_over_spars: 8.550103982260424
   main:
     foot: 3.800046214337966
     head: 5.00006080833943
     luff: 3.7200452414045353
+  draft: 0.5000060808339429
   mizzen:
     foot: 1.550018850585223
     head: 1.8000218910021946
     luff: 1.5300186073518653
+  draft_keeldown: 1.49001812088515
+  length_over_all: 6.700081483174834
+  length_over_spars: 8.550103982260424
+  length_on_waterline: 6.180075159107535
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 53994ee0-9400-466c-aa48-47df354fbc09
 length_on_deck: 6.7056
-mainsail_type: lug
-name: Hebe
-oga_no: 3112
+sail_number: '24'
+uk_part1: GB-HP141034E101
+callsign: ''
 ownerships:
 - end: 2002
   name: Simon Carpenter
@@ -48,15 +56,22 @@ ownerships:
   name: Jonnie Taylor
   share: 64
   start: 2010
-- current: true
-  id: 478
-  member: 4612
+- id: 478
   share: 64
   start: 2012
+  member: 4612
+  current: true
 place_built: Plymouth
-rig_type: Yawl
-short_description: Hebe is a Romilly built in 2001
 updated_at: '2021-12-19T13:39:58.20765+00:00'
 website: ''
 year: 2001
 year_is_approximate: false
+previous_names:
+- Betty Boop
+image_key: Rr5cSv
+beam: 2.1001
+design_class:
+  name: Romilly
+  id: 82ecf7d6-04df-44bf-8de9-bf3993da60f5
+for_sale_state:
+  text: not_for_sale

@@ -1,12 +1,12 @@
-builder: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 24308b60-4e0a-44aa-b47c-b16e5392a93b
-draft: 1.524
-engine_installations: []
-for_sales:
-- asking_price: 34500
+name: Martha Kathleen
+oga_no: 833
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: A massively strong gaff ketch, 'Martha Kathleen' was designed by
+  Arthur Holt and built by Holt & James, Heybridge, 1977. Intended for short-handed
+  cruising off the Western Isles she has a gaff ketch rig, breaking the sail area
+  down into easily managed sails, a powerful Thorneycroft 50 engine and lots of space.
 full_description: "<p>&#39;Martha Kathleen&#39; has spent most of her life on the\
   \ West Coast of Scotland, based at Loch Melford, in the ownership of the same family.\
   \ She is a massively strong gaff ketch designed by Arthur Holt and built by Holt\
@@ -52,35 +52,45 @@ full_description: "<p>&#39;Martha Kathleen&#39; has spent most of her life on th
   \ regular charging at home).<br />\r\n<strong>Ground tackle</strong>: Plough anchor\
   \ on bow roller, Fisherman (useful in thick kelp) and Blake lashed to mountings\
   \ on foredeck.<br />\r\nWarps, fenders, boat hook etc.</p>"
-generic_type: Yacht
+builder:
+  name: Arthur Holt
+  id: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
+designer:
+  name: Arthur Holt
+  id: 24308b60-4e0a-44aa-b47c-b16e5392a93b
+construction_material: wood
+construction_method: unknown
+draft: 1.524
+engine_installations: []
+for_sales:
+- asking_price: 34500
 handicap_data:
   beam: 3.749085588880761
-  draft: 1.5240185320653499
-  fore_triangle_base: 5.9436722750548645
-  fore_triangle_height: 11.582540843696659
-  length_on_waterline: 10.05852231163131
-  length_over_all: 11.277737137283589
   main:
     foot: 4.26725188978298
     head: 3.9624481833699097
     luff: 5.4864667154352595
+  thcf: 0.991222934
+  draft: 1.5240185320653499
   mizzen:
     foot: 2.8956352109241648
     luff: 4.87685930260912
-  propellor:
-    type: fixed
-  thcf: 0.991222934
   topsail:
     luff: 5.4864667154352595
     perpendicular: 3.6576444769568397
+  propellor:
+    type: fixed
+  length_over_all: 11.277737137283589
+  fore_triangle_base: 5.9436722750548645
+  length_on_waterline: 10.05852231163131
+  fore_triangle_height: 11.582540843696659
 home_country: GBR
 home_port: Brightlingsea
 hull_form: long keel deep forefoot
 id: 3ed3778e-67aa-4a19-99aa-6c53c888cb6e
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: Martha Kathleen
-oga_no: 833
+uk_part1: '376388'
+callsign: ''
 ownerships:
 - name: Jean Mackenzie
   share: 32
@@ -94,12 +104,12 @@ ownerships:
   share: 64
   start: 2007
 place_built: Heybridge
-rig_type: Ketch
-short_description: A massively strong gaff ketch, 'Martha Kathleen' was designed by
-  Arthur Holt and built by Holt & James, Heybridge, 1977. Intended for short-handed
-  cruising off the Western Isles she has a gaff ketch rig, breaking the sail area
-  down into easily managed sails, a powerful Thorneycroft 50 engine and lots of space.
 updated_at: '2021-12-19T13:38:53.650888+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+image_key: JGsdNJ
+construction_details: Iroko on laminated Iroko frames
+beam: 3.749
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,12 @@
-builder: b0d65e81-46dd-427f-9c2e-b64845d09f63
-callsign: 2BZX2
-construction_material: wood
-construction_method: unknown
-designer: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
-draft: 0.381
-engine_installations: []
-for_sales: []
+name: Margherita
+oga_no: 2973
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Margherita is a Shilling class yacht, built in 2008 by Willow
+  Bay boats. The 17ft hull is cedar strip on plywood frames and she is immensely strong,
+  fast and seaworthy for her size. Based in Poole, she attends OGA events, including
+  the 50th anniversary rally at Cowes in 2013 and OGA55 in 2018.</p>
 full_description: "<p>Margherita is a Shilling class yacht, built in 2008 by Phil\
   \ Swift of Willow Bay boats, who also designed her.&nbsp;</p>\r\n\r\n<p>The 17ft\
   \ long hull is constructed of cedar strip on plywood frames, glassed over inside\
@@ -26,44 +27,56 @@ full_description: "<p>Margherita is a Shilling class yacht, built in 2008 by Phi
   \ and a number of other Solent events each year. Eight of these yachts currently\
   \ exist, as far as I am aware; five rigged as yawls, two as cutters and one open\
   \ dayboat variant as a sloop. Another yawl is in build.</p>\r\n\r\n<p>&nbsp;</p>"
-generic_type: Yacht
+builder:
+  name: Willow Bay Boats
+  id: b0d65e81-46dd-427f-9c2e-b64845d09f63
+designer:
+  name: Phil Swift
+  id: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
+construction_material: wood
+construction_method: unknown
+draft: 0.381
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.1305779078273592
-  draft: 0.29870763228480857
-  draft_keeldown: 0.9113630821750792
-  fore_triangle_base: 2.801146061936113
-  fore_triangle_height: 9.299561082662764
-  length_on_waterline: 5.480370641306998
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.550719336747134
     head: 2.9992684711046085
     luff: 3.5997317727383566
   thcf: 0.872630435
+  draft: 0.29870763228480857
   topsail:
     luff: 3.980736405754694
     perpendicular: 1.898927090953426
+  draft_keeldown: 0.9113630821750792
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.801146061936113
+  length_on_waterline: 5.480370641306998
+  fore_triangle_height: 9.299561082662764
 home_country: GBR
 home_port: Poole
 hull_form: long keel sloping forefoot
 id: e790430b-46aa-46f9-85dc-ca4bde9b737c
 length_on_deck: 5.1816
-mainsail_type: gaff
-name: Margherita
-oga_no: 2973
+callsign: 2BZX2
 ownerships:
-- current: true
-  id: 593
-  member: 5143
+- id: 593
   share: 64
   start: 2008
+  member: 5143
+  current: true
 place_built: Bowness on Windermere
-rig_type: Cutter
-short_description: <p>Margherita is a Shilling class yacht, built in 2008 by Willow
-  Bay boats. The 17ft hull is cedar strip on plywood frames and she is immensely strong,
-  fast and seaworthy for her size. Based in Poole, she attends OGA events, including
-  the 50th anniversary rally at Cowes in 2013 and OGA55 in 2018.</p>
 updated_at: '2021-12-19T13:39:55.069611+00:00'
 website: http://sailingmargherita.blogspot.co.uk/
 year: 2008
 year_is_approximate: false
+image_key: kXc5hQ
+construction_details: Cedar Strip hull with Glass epoxy covering inside and out. Iroko
+  keel.Marine Ply frames, deck and cabin.Utile trim. Douglas fir spars
+beam: 1.9812
+design_class:
+  name: Shilling
+  id: 4df50993-b7ec-4e77-9148-61f82b8e93ed
+for_sale_state:
+  text: not_for_sale

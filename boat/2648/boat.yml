@@ -1,35 +1,44 @@
-builder: 8114826c-4d2c-45b4-83c9-406864ecde85
-callsign: ''
+name: Oyster Pearl
+oga_no: 2648
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Hardman-Jones
+  id: 8114826c-4d2c-45b4-83c9-406864ecde85
+designer:
+  name: Paul Gartside/Mayflower Classic Boats
+  id: fae2ed93-c058-415b-b50f-c5c9c78668b8
 construction_material: wood
 construction_method: unknown
-designer: fae2ed93-c058-415b-b50f-c5c9c78668b8
 draft: 1.3472
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.3472323823457693
-  length_on_waterline: 6.705681541087539
   length_over_all: 6.909900024384297
+  length_on_waterline: 6.705681541087539
 home_country: 'null'
 home_port: Exe Devon
 hull_form: unknown
 id: bb8281ee-ea7f-4202-beda-ea53be7a2f77
 length_on_deck: 6.9098
-mainsail_type: gaff
-name: Oyster Pearl
-oga_no: 2648
+callsign: ''
 ownerships:
 - end: 2012
   name: Simon Stretton
   share: 64
   start: 2012
 place_built: Gweek
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:45.275876+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+previous_names:
+- Assignement
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

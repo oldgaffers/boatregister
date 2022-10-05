@@ -1,41 +1,52 @@
-builder: 9095929d-e20f-4b8b-a1e3-f3f450e33b65
-callsign: ''
+name: Jeune-Ariane
+oga_no: 1266
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 83/1, 91/1
+builder:
+  name: J.A. Servain
+  id: 9095929d-e20f-4b8b-a1e3-f3f450e33b65
+designer:
+  name: Roger Servain
+  id: f996b433-6bc2-4c07-b4e7-da26ac2c690f
 construction_material: wood
 construction_method: unknown
-designer: f996b433-6bc2-4c07-b4e7-da26ac2c690f
 draft: 2.0726
 engine_installations: []
 for_sales: []
-full_description: Log 83/1, 91/1
-generic_type: unknown
 handicap_data:
   beam: 3.9624481833699097
-  draft: 2.0726652036088757
-  fore_triangle_base: 9.1441111923921
-  fore_triangle_height: 13.655206047305533
-  length_on_waterline: 11.277737137283589
-  length_over_all: 13.258961228968543
   main:
     foot: 7.924896366739819
     head: 7.132406730065837
     luff: 7.254328212631066
   thcf: 1.109635267
+  draft: 2.0726652036088757
+  length_over_all: 13.258961228968543
+  fore_triangle_base: 9.1441111923921
+  length_on_waterline: 11.277737137283589
+  fore_triangle_height: 13.655206047305533
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 360f4581-fe12-4540-85a1-57417b495aa4
 length_on_deck: 13.2588
-mainsail_type: gaff
-name: Jeune-Ariane
-oga_no: 1266
+reference:
+- Log 83/1
+- Log 91/1
+callsign: ''
 ownerships:
 - name: D de Recy
   share: 64
   start: 2012
 place_built: Granville
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:06.484379+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+construction_details: Oak hull with iroko deck and superstructure
+beam: 3.9624
+for_sale_state:
+  text: not_for_sale

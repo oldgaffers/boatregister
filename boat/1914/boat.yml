@@ -1,46 +1,61 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Demelza
+oga_no: 1914
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log A-W/94
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.7376
 engine_installations: []
 for_sales: []
-full_description: Log A-W/94
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.7376249695196293
-  fore_triangle_base: 4.114850036576445
-  fore_triangle_height: 5.6388685686417945
-  length_on_waterline: 6.1722750548646665
-  length_over_all: 7.315288953913679
   main:
     foot: 4.166666666666666
     head: 2.8194342843208973
     luff: 3.5052426237503047
-  propellor:
-    type: fixed
   thcf: 0.871583105
+  draft: 0.7376249695196293
   topsail:
     luff: 3.5052426237503047
     perpendicular: 1.9812240916849548
+  propellor:
+    type: fixed
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 4.114850036576445
+  length_on_waterline: 6.1722750548646665
+  fore_triangle_height: 5.6388685686417945
 home_country: 'null'
 home_port: Poole
 hull_form: long keel deep forefoot
 id: 7dac0a18-1f5c-470f-ba4c-772b2fecd121
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Demelza
-oga_no: 1914
+reference:
+- Log A-W/94
+sail_number: '268'
+ssr: '29914'
+callsign: ''
 ownerships:
 - name: Dr K R Kidd
   share: 64
   start: 2012
 place_built: Rock
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:23.919625+00:00'
 website: ''
 year: 1981
 year_is_approximate: false
+construction_details: G R P
+beam: 2.4384
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
+for_sale_state:
+  text: not_for_sale

@@ -1,35 +1,47 @@
-builder: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+name: Pelican IV
+oga_no: 3650
+generic_type: Pocket Cruiser
+rig_type: Sloop
+mainsail_type: gaff
+short_description: She is a fine example of her type.
+builder:
+  name: North Norfolk Boatbuilding Co./Charlie Ward
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: grp
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.45720555961960496
 engine_installations: []
 for_sales: []
-generic_type: Pocket Cruiser
 handicap_data:
   beam: 2.286027798098025
+  thcf: 0.825
+  sailarea: 19.69592348194673
+  propellor:
+    type: fixed
+    blades: 2
   length_on_deck: 6.044257498171177
   length_on_waterline: 5.410265788831992
-  propellor:
-    blades: 2
-    type: fixed
-  sailarea: 19.69592348194673
-  thcf: 0.825
 home_country: South Devon
 home_port: Salcombe
 hull_form: centre-boarder
 id: 15d554ff-67a8-4166-b193-471e000e0ef5
 length_on_deck: 6.044257498171177
-mainsail_type: gaff
-name: Pelican IV
-oga_no: 3650
+sail_number: '38'
+spar_material: wood
 ownerships:
-- current: true
-  id: 34926
-  member: 6525
+- id: 34926
   share: 64
+  member: 6525
+  current: true
 place_built: Moreston
-rig_type: Sloop
-short_description: She is a fine example of her type.
 updated_at: '2022-02-15T23:45:16.084936+00:00'
 year: 1993
 year_is_approximate: true
+image_key: s8TV7k
+design_class:
+  name: Norfolk Gypsy
+  id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
+for_sale_state:
+  text: not_for_sale

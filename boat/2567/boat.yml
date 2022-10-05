@@ -1,47 +1,58 @@
-builder: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
-callsign: ''
+name: Gipsy III
+oga_no: 2567
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: North Norfolk Boatbuilding Co./Charlie Ward
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: grp
 construction_method: cold_moulded
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.509
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  draft: 0.5090221897098268
-  fore_triangle_base: 2.3378444281882467
-  fore_triangle_height: 4.977444525725432
-  length_on_waterline: 5.410265788831992
-  length_over_all: 6.044257498171177
   main:
     foot: 4.114850036576445
     head: 3.1242379907339672
     luff: 3.1242379907339672
+  thcf: 0.823861077
+  draft: 0.5090221897098268
   propellor:
     type: fixed
-  thcf: 0.823861077
+  length_over_all: 6.044257498171177
+  fore_triangle_base: 2.3378444281882467
+  length_on_waterline: 5.410265788831992
+  fore_triangle_height: 4.977444525725432
 home_country: 'null'
 home_port: Portsmouth
 hull_form: long keel deep forefoot
 id: 8e15630f-898a-4e75-aa24-c26359154f48
 length_on_deck: 6.0442
-mainsail_type: gaff
-name: Gipsy III
-oga_no: 2567
+callsign: ''
 ownerships:
 - name: W Tall
   share: 64
   start: 2000
-- current: true
+- share: 64
   member: 4002
-  share: 64
+  current: true
   start: '?'
 place_built: Morston
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:43.039883+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+previous_names:
+- Gratitude
+- Maggie Hay
+construction_details: grp
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

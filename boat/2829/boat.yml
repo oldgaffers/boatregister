@@ -1,52 +1,60 @@
-builder: 5a015d5e-a825-4a15-8f91-5fbf672b02ba
-callsign: ''
+name: Mette Marie
+oga_no: 2829
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Sorensen
+  id: 5a015d5e-a825-4a15-8f91-5fbf672b02ba
+designer:
+  name: Niels Roos
+  id: 50b78148-412a-4e36-9402-d4ac211cffce
 construction_material: wood
 construction_method: unknown
-designer: 50b78148-412a-4e36-9402-d4ac211cffce
 draft: 1.8989
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.800902218970983
-  draft: 1.898927090953426
-  fore_triangle_base: 5.800414533040722
-  fore_triangle_height: 10.899780541331381
-  length_on_waterline: 10.500487685930262
-  length_over_all: 11.801999512314069
   main:
     foot: 5.001828822238478
     head: 4.700073152889539
     luff: 5.900999756157034
+  thcf: 0.947611806
+  draft: 1.898927090953426
   mizzen:
     foot: 3.5997317727383566
     head: 3.3528407705437697
     luff: 4.700073152889539
-  mizzen_topsail:
-    luff: 2.648744208729578
-    perpendicular: 2.200682760302365
-  propellor:
-    type: fixed
-  thcf: 0.947611806
   topsail:
     luff: 3.401609363569861
     perpendicular: 2.9992684711046085
+  propellor:
+    type: fixed
+  mizzen_topsail:
+    luff: 2.648744208729578
+    perpendicular: 2.200682760302365
+  length_over_all: 11.801999512314069
+  fore_triangle_base: 5.800414533040722
+  length_on_waterline: 10.500487685930262
+  fore_triangle_height: 10.899780541331381
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 26a1e7ab-b9f3-4036-bf30-828be901a198
 length_on_deck: 11.8019
-mainsail_type: gaff
-name: Mette Marie
-oga_no: 2829
+callsign: ''
 ownerships:
 - name: Tim Wilson
   share: 64
   start: 2006
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:50.603605+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: Cavel, Larch on oak
+beam: 3.8009
+for_sale_state:
+  text: not_for_sale

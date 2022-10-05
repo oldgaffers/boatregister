@@ -1,47 +1,51 @@
-callsign: ''
+name: Morning Star of Revelation
+oga_no: 2975
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: ferro
 construction_method: unknown
 draft: 1.9995
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 4.639112411606925
-  draft: 1.9995123140697388
-  fore_triangle_base: 8.046817849305047
-  fore_triangle_height: 17.638990490124357
-  length_on_waterline: 13.030358449158742
-  length_over_all: 16.300902218970982
   main:
     foot: 5.471226530114606
     head: 4.9896366739819555
     luff: 8.040721775176786
+  thcf: 1.126886511
+  draft: 1.9995123140697388
   mizzen:
     foot: 3.7003169958546698
     head: 3.1791026578883197
     luff: 4.761033894172153
-  mizzen_topsail:
-    luff: 4.864667154352597
-    perpendicular: 2.1305779078273592
-  propellor:
-    blades: 3
-    type: fixed
-  thcf: 1.126886511
   topsail:
     luff: 7.519507437210437
     perpendicular: 3.858814923189466
+  propellor:
+    type: fixed
+    blades: 3
+  mizzen_topsail:
+    luff: 4.864667154352597
+    perpendicular: 2.1305779078273592
+  length_over_all: 16.300902218970982
+  fore_triangle_base: 8.046817849305047
+  length_on_waterline: 13.030358449158742
+  fore_triangle_height: 17.638990490124357
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 658241dc-85ec-4aa7-bf5a-86444993ae8b
 length_on_deck: 16.3007
-mainsail_type: gaff
-name: Morning Star of Revelation
-oga_no: 2975
-rig_type: Ketch
-short_description: ''
+callsign: ''
 updated_at: '2021-03-27T22:53:26.446448+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: Ferrocement
+beam: 4.6391
+for_sale_state:
+  text: not_for_sale

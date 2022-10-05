@@ -1,28 +1,37 @@
-builder: fbb5836d-420a-4f3c-bfd0-a7eb382ec89b
+name: Naomh Cronan
+oga_no: 2206
+generic_type: Galway Hooker
+rig_type: Cutter
+mainsail_type: gaff
+short_description: '''Naomh Cronan'' is built from the lines of Galway Hooker, ''Morning
+  Star''.'
+full_description: Built in 1997, the 'Naomh Cronan' is maintained and sailed by a
+  group of men of Clondalkin.
+builder:
+  name: Members of Muintir Cronan
+  id: fbb5836d-420a-4f3c-bfd0-a7eb382ec89b
+designer:
+  name: Joe Murphy
+  id: 10beb09b-eb0e-4aa4-9e1a-a397a05ee9f2
 construction_material: wood
 construction_method: unknown
-designer: 10beb09b-eb0e-4aa4-9e1a-a397a05ee9f2
 draft: 1.9202
 engine_installations: []
 for_sales:
 - asking_price: null
-full_description: Built in 1997, the 'Naomh Cronan' is maintained and sailed by a
-  group of men of Clondalkin.
-generic_type: Galway Hooker
 handicap_data:
   beam: 3.5052426237503047
   draft: 1.929407461594733
-  length_over_all: 12.192148256522799
   propellor:
     type: fixed
+  length_over_all: 12.192148256522799
 home_country: IRL
 home_port: Dublin
 hull_form: long keel deep forefoot
 id: af099e33-0848-4312-ae12-4b4098eebc71
 length_on_deck: 12.192
-mainsail_type: gaff
-name: Naomh Cronan
-oga_no: 2206
+spar_material: wood
+uk_part1: '403600'
 ownerships:
 - end: 2021
   name: Gerrard Keane
@@ -56,10 +65,15 @@ ownerships:
   share: 64
   start: 2021
 place_built: Clondalkin, Dublin
-rig_type: Cutter
-short_description: '''Naomh Cronan'' is built from the lines of Galway Hooker, ''Morning
-  Star''.'
 updated_at: '2022-01-04T19:03:27.713593+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+image_key: 3BmmFR
+construction_details: Larch on sawn oak
+beam: 3.5052
+design_class:
+  name: "B\xE1d M\xF3r"
+  id: 2e4a2cef-7e47-48d9-9178-98c0751d429f
+for_sale_state:
+  text: not_for_sale

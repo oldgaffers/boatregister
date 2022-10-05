@@ -1,15 +1,23 @@
-builder: 23f54e5c-f403-45d8-b86e-7fbe3552192d
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
-draft: 0
-engine_installations: []
-for_sales: []
+name: Cousin Jack
+oga_no: 2835
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Believed to be the only Lone Gull II built with a counter stern,
   found as a wreck and rebuilt over  eight years.  Converted from a sloop to cutter
   with self tacking Jib.
-generic_type: Yacht
+builder:
+  name: Armstrong Marine
+  id: 23f54e5c-f403-45d8-b86e-7fbe3552192d
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+construction_material: wood
+construction_method: carvel
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7432333577176298
   length_over_all: 9.44891489880517
@@ -18,18 +26,25 @@ home_port: Poole
 hull_form: unknown
 id: a4100c8a-a28f-44dd-b637-f72dbc7dbd4d
 length_on_deck: 9.4488
-mainsail_type: gaff
-name: Cousin Jack
-oga_no: 2835
+ssr: '42822'
+callsign: ''
 ownerships:
 - end: 2011
   name: Derek Biddle
   share: 64
   start: 1993
 place_built: Scarborough
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:50.795626+00:00'
 website: ''
 year: 1961
 year_is_approximate: false
+previous_names:
+- Gay Gull
+image_key: mvMHsX
+construction_details: Carvel Larch on Oak
+beam: 2.7432
+design_class:
+  name: Lone Gull II
+  id: ee60be28-a961-41ab-9ccb-9fdde1ae0109
+for_sale_state:
+  text: not_for_sale

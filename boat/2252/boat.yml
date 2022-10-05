@@ -1,45 +1,53 @@
-builder: 8a82d415-d993-42f4-bff3-59b0e583cc3b
-callsign: ''
+name: Aquarius
+oga_no: 2252
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Kenny Anderson
+  id: 8a82d415-d993-42f4-bff3-59b0e583cc3b
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: wood
 construction_method: clinker
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.1524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.5758351621555717
-  draft: 0.152401853206535
-  fore_triangle_base: 0.8900268227261643
-  fore_triangle_height: 3.1608144355035352
-  length_on_waterline: 3.6820287734698853
-  length_over_all: 3.758229700073153
   main:
     foot: 2.6426481346013166
     head: 2.7676176542306754
     luff: 1.5240185320653499
   thcf: 0.730726748
+  draft: 0.152401853206535
+  length_over_all: 3.758229700073153
+  fore_triangle_base: 0.8900268227261643
+  length_on_waterline: 3.6820287734698853
+  fore_triangle_height: 3.1608144355035352
 home_country: GBR
 home_port: Clywedog
 hull_form: unknown
 id: 23b0e063-0d23-444b-855b-761e8aecec83
 length_on_deck: 3.7582
-mainsail_type: gaff
-name: Aquarius
-oga_no: 2252
+callsign: ''
 ownerships:
 - name: Howard Morgan
   share: 64
   start: 2006
-- current: true
+- share: 64
   member: 4390
-  share: 64
+  current: true
   start: '?'
 place_built: Darlington
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:33.560142+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+construction_details: Clinker
+beam: 1.5758
+for_sale_state:
+  text: not_for_sale

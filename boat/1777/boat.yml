@@ -1,39 +1,51 @@
-builder: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
-callsign: ''
+name: Minim
+oga_no: 1777
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+designer:
+  name: Eric Bergqvist
+  id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
 construction_material: grp
 construction_method: cold_moulded
-designer: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.042184832967569
   draft: 0.7620092660326749
-  length_on_waterline: 4.57205559619605
   length_over_all: 4.87685930260912
+  length_on_waterline: 4.57205559619605
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: fa93d467-1c01-48ad-bd56-59ea9ae4e3b1
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Minim
-oga_no: 1777
+sail_number: WB 7
+callsign: ''
 ownerships:
 - name: R Ladds
   share: 64
   start: 1986
-- current: true
-  id: 86
-  member: 1665
+- id: 86
   share: 64
+  member: 1665
+  current: true
   start: '?'
 place_built: Penketh
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:20.036647+00:00'
 website: ''
 year: 1986
 year_is_approximate: false
+construction_details: GRP
+beam: 2.0422
+design_class:
+  name: Winkle Brig
+  id: 4989b986-84a5-42ea-81c9-72a59714c258
+for_sale_state:
+  text: not_for_sale

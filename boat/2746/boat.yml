@@ -1,13 +1,21 @@
-builder: a6d08a34-7773-4b45-86d3-895b68afb49d
-callsign: ''
+name: Misty
+oga_no: 2746
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Home Built
+builder:
+  name: Peter Arrowsmith
+  id: a6d08a34-7773-4b45-86d3-895b68afb49d
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 construction_material: woodepoxy
 construction_method: unknown
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Home Built
-generic_type: Dinghy
 handicap_data:
   beam: 1.5240185320653499
   length_over_all: 3.6820287734698853
@@ -16,17 +24,20 @@ home_port: Trailer sail
 hull_form: unknown
 id: 7c1f64f9-cd63-42f2-b98f-a69f0fd4fceb
 length_on_deck: 3.682
-mainsail_type: gaff
-name: Misty
-oga_no: 2746
+callsign: ''
 ownerships:
 - name: Peter Arrowsmith
   share: 64
   start: 1995
 place_built: Pershore
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:48.159602+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+construction_details: Epoxy ply
+beam: 1.524
+design_class:
+  name: Stornoway 12
+  id: 5a2eeedb-385e-4db3-ae31-e264d962f7c4
+for_sale_state:
+  text: not_for_sale

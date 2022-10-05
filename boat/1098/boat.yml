@@ -1,11 +1,10 @@
-builder: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: c45aee9b-7cb0-46c1-b291-016080d709f2
-draft: 1.6002
-engine_installations: []
-for_sales: []
+name: Flamingo
+oga_no: 1098
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Flamingo is a yacht built in 1930. A major restoration was begun
+  in 1995 and is ongoing in 2014 after two changes in ownership.</p>
 full_description: "<p>Flamingo has very little documentation. David Smallwood laid\
   \ &#39;Flamingo&#39; up in 1981 and embarked on restoration work in 1995 with a\
   \ projected launch date 2002. Sadly, he died before completing the task.</p>\r\n\
@@ -15,35 +14,46 @@ full_description: "<p>Flamingo has very little documentation. David Smallwood la
   \ fitting out, the rig has been restored, she has a new rudder, new deck and a reconditioned\
   \ Baby Blake toilet.</p>\r\n\r\n<p>In 2014 she was moved into Jonathan&#39;s orchard\
   \ where he hopes to complete the work. Visit the boat&#39;s website to see progress.</p>"
-generic_type: Yacht
+builder:
+  name: Berthon Boat Co. Ltd.
+  id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
+designer:
+  name: Berthon
+  id: c45aee9b-7cb0-46c1-b291-016080d709f2
+construction_material: wood
+construction_method: carvel
+draft: 1.6002
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
   draft: 1.066812972445745
-  length_on_waterline: 7.924896366739819
   length_over_all: 8.83930748597903
+  length_on_waterline: 7.924896366739819
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 9d415275-0f99-432d-82da-dbf0837790d7
 length_on_deck: 8.763
-mainsail_type: gaff
-name: Flamingo
-oga_no: 1098
+uk_part1: '161690'
+callsign: ''
 ownerships:
 - end: 2012
   name: David Smallwood
   share: 64
   start: 1974
-- current: true
-  id: 829
-  member: 5903
+- id: 829
   share: 64
   start: 2014
+  member: 5903
+  current: true
 place_built: Lymington
-rig_type: Cutter
-short_description: <p>Flamingo is a yacht built in 1930. A major restoration was begun
-  in 1995 and is ongoing in 2014 after two changes in ownership.</p>
 updated_at: '2021-12-19T13:39:01.462639+00:00'
 website: www.justflamingo.com
 year: 1930
 year_is_approximate: false
+image_key: K4SPdm
+construction_details: Carvel Pitch pine planking rivetted on oak frames.
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

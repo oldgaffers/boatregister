@@ -1,33 +1,40 @@
-builder: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
-callsign: ''
+name: Dawning Light
+oga_no: 261
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Johnson and Johnson
+  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+designer:
+  name: Reg Freeman
+  id: 9b31c7c9-025d-42eb-9274-3bbd0b30b744
 construction_material: wood
 construction_method: unknown
-designer: 9b31c7c9-025d-42eb-9274-3bbd0b30b744
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.13362594489149
-  length_on_waterline: 5.18166300902219
   length_over_all: 5.4864667154352595
+  length_on_waterline: 5.18166300902219
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 38eb1571-66db-41de-a726-0a4b62d400ec
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: Dawning Light
-oga_no: 261
+callsign: ''
 ownerships:
 - name: R F Peck
   share: 64
   start: 2012
 place_built: Leigh on Sea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:37.336178+00:00'
 website: ''
 year: 1937
 year_is_approximate: false
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

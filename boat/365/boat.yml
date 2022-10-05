@@ -1,39 +1,46 @@
-builder: d0336872-a447-4748-ae62-85ce7b90efe1
-callsign: ''
+name: Tasma
+oga_no: 365
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Reputedly built for the Governer of Tasmania, &#39;Tasma&#39;
+  sailed in the Solent moving to West Mersea in the 1930s.</p>
+full_description: ''
+builder:
+  name: W.G. Luke and Co.
+  id: d0336872-a447-4748-ae62-85ce7b90efe1
+designer:
+  name: A.R. Luke
+  id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 construction_material: wood
 construction_method: unknown
-designer: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
-  length_on_waterline: 7.924896366739819
   length_over_all: 9.75371860521824
+  length_on_waterline: 7.924896366739819
 home_country: GBR
 home_port: Port Penrhyn, Bangor
 hull_form: unknown
 id: e151e33f-db51-489c-93ef-0aa6f6868a28
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Tasma
-oga_no: 365
+callsign: ''
 ownerships:
 - note: '''Tasma'' was in the ownership of the Metcalfe family from 1962.'
+  text: '''Tasma'' was in the ownership of the Metcalfe family from'
   start: 1962
   start_is_approximate: false
-  text: '''Tasma'' was in the ownership of the Metcalfe family from'
 - end: 2008
   name: Scott Metcalfe
   share: 64
   start: 1984
 place_built: Hamble
-rig_type: Cutter
-short_description: <p>Reputedly built for the Governer of Tasmania, &#39;Tasma&#39;
-  sailed in the Solent moving to West Mersea in the 1930s.</p>
 updated_at: '2021-12-19T13:38:40.361377+00:00'
 website: ''
 year: 1897
 year_is_approximate: false
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

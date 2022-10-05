@@ -1,13 +1,21 @@
-builder: f19f0442-511d-429c-aa35-d1f82ebc6e63
-callsign: ''
+name: Anchoress
+oga_no: 2216
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: David Townson
+  id: f19f0442-511d-429c-aa35-d1f82ebc6e63
+designer:
+  name: Laurent Giles Ltd
+  id: 098ad4e9-d178-4c90-bd2e-b6793ffc6fc4
 construction_material: wood
 construction_method: unknown
-designer: 098ad4e9-d178-4c90-bd2e-b6793ffc6fc4
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.3622287247012923
   length_over_all: 6.0960741282613995
@@ -16,17 +24,16 @@ home_port: Trailer sail
 hull_form: unknown
 id: 1abf6cf1-9118-4572-8c97-ba44228f9f78
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Anchoress
-oga_no: 2216
+callsign: ''
 ownerships:
 - name: David Townson
   share: 64
   start: 1997
 place_built: Essex
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:32.460117+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+beam: 2.3622
+for_sale_state:
+  text: not_for_sale

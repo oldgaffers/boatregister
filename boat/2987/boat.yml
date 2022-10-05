@@ -1,37 +1,42 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
+name: Bona
+oga_no: 2987
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Bona&#39;, a bawley built in 1903 by Aldous of Brightlingsea
+  is frequently seen sailing and racing on the East Coast of England.</p>
+full_description: <p>Built in by Aldous of Brightlingsea in 1903, &#39;Bona&#39; is
+  a Thames bawley. She was extensively rebuilt in the 1990s by Ian Smith and regularly
+  participates in events on the East Coast of England, showing a surprising turn of
+  speed on all points of sail.</p>
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
 construction_material: wood
 construction_method: carvel
 draft: 1.2954
 engine_installations: []
 for_sales:
 - asking_price: 0
-full_description: <p>Built in by Aldous of Brightlingsea in 1903, &#39;Bona&#39; is
-  a Thames bawley. She was extensively rebuilt in the 1990s by Ian Smith and regularly
-  participates in events on the East Coast of England, showing a surprising turn of
-  speed on all points of sail.</p>
-generic_type: Bawley
 handicap_data:
   beam: 3.9624481833699097
-  draft: 1.2954157522555474
-  fore_triangle_base: 7.924896366739819
-  fore_triangle_height: 15.240185320653499
-  length_over_all: 10.66812972445745
   main:
     foot: 6.0960741282613995
     head: 7.162887100707144
     luff: 5.4864667154352595
+  thcf: 0.892290342
+  draft: 1.2954157522555474
   propellor:
     type: folding
-  thcf: 0.892290342
+  length_over_all: 10.66812972445745
+  fore_triangle_base: 7.924896366739819
+  fore_triangle_height: 15.240185320653499
 home_country: GBR
 home_port: Southwold
 hull_form: long keel sloping forefoot
 id: 252060fd-67ee-4e7f-b9d1-f75a85bb6f8e
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Bona
-oga_no: 2987
+callsign: ''
 ownerships:
 - end: 2016
   name: Jayne Smith
@@ -40,15 +45,16 @@ ownerships:
 - name: John Archer
   share: 64
   start: 2016
-- current: true
+- share: 64
   member: 6103
-  share: 64
+  current: true
   start: '?'
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: <p>&#39;Bona&#39;, a bawley built in 1903 by Aldous of Brightlingsea
-  is frequently seen sailing and racing on the East Coast of England.</p>
 updated_at: '2021-12-19T13:39:55.447371+00:00'
 website: ''
 year: 1903
 year_is_approximate: false
+image_key: kmRJQW
+beam: 3.9624
+for_sale_state:
+  text: not_for_sale

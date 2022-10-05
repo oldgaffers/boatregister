@@ -1,40 +1,54 @@
-builder: c7299bcd-8d18-4b93-9e88-a25b3d6327cf
-callsign: ''
+name: Lapwing
+oga_no: 3299
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Lapwing is a Francois Vivier Jewel Class yacht built by her
+  first owner.</p>
+full_description: ''
+builder:
+  name: Robert Green
+  id: c7299bcd-8d18-4b93-9e88-a25b3d6327cf
+designer:
+  name: "Fran\xE7ois Vivier"
+  id: f8f01050-235c-4793-b62b-8d3d953d173e
 construction_material: plywood
 construction_method: clinker_ply
-designer: f8f01050-235c-4793-b62b-8d3d953d173e
 draft: 0.381
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.219
-  length_on_deck: 5.989
-  length_on_waterline: 5.395
+  thcf: 0.833
+  sailarea: 21.972
   propellor:
     type: none
-  sailarea: 21.972
-  thcf: 0.833
+  length_on_deck: 5.989
+  length_on_waterline: 5.395
 home_country: GBR
 home_port: Somerset
 hull_form: long keel deep forefoot
 id: fce61746-35a3-4319-b7e9-d86102fc0400
 length_on_deck: 5.9893
-mainsail_type: gaff
-name: Lapwing
-oga_no: 3299
+sail_number: '4'
+callsign: ''
 ownerships:
-- current: true
-  id: 911
-  member: 6050
+- id: 911
   share: 64
   start: 2016
+  member: 6050
+  current: true
 place_built: Radstock Somerset
-rig_type: Yawl
-short_description: <p>Lapwing is a Francois Vivier Jewel Class yacht built by her
-  first owner.</p>
 updated_at: '2022-07-27T19:03:26.551628+00:00'
 website: ''
 year: 2016
 year_is_approximate: false
+image_key: VN9n8w
+construction_details: Clinker Ply Robbins Elite Marine Plywood
+beam: 2.2189
+air_draft: 26.9
+design_class:
+  name: Jewel
+  id: c4ce9fdc-9170-48fd-baf1-e839d859150d
+for_sale_state:
+  text: not_for_sale

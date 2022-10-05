@@ -1,43 +1,54 @@
-builder: e713d7b7-20b2-4327-9567-53b5756ffad1
-callsign: ''
+name: Violetta
+oga_no: 859
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: G.W. Lavis
+  id: e713d7b7-20b2-4327-9567-53b5756ffad1
+designer:
+  name: G.W. Lavis
+  id: b3d31357-5ab0-4cb5-9880-8cca099cb2a6
 construction_material: wood
 construction_method: carvel
-designer: b3d31357-5ab0-4cb5-9880-8cca099cb2a6
 draft: 1.4021
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.148622287247013
-  draft: 1.4020970495001217
-  fore_triangle_base: 5.748597902950499
-  fore_triangle_height: 9.168495488905144
-  length_on_waterline: 9.1441111923921
-  length_over_all: 9.357473786881247
   main:
     foot: 5.334064862228725
     head: 4.498902706656913
     luff: 6.300292611558157
+  thcf: 0.974929474
+  draft: 1.4020970495001217
   propellor:
     type: fixed
-  thcf: 0.974929474
+  length_over_all: 9.357473786881247
+  fore_triangle_base: 5.748597902950499
+  length_on_waterline: 9.1441111923921
+  fore_triangle_height: 9.168495488905144
 home_country: NLD
 home_port: Schellingwoude
 hull_form: long keel deep forefoot
 id: 11dc732d-163d-402d-9a0c-73231bdebfa6
 length_on_deck: 9.3574
-mainsail_type: gaff
-name: Violetta
-oga_no: 859
+callsign: ''
 ownerships:
 - name: Paul Plaatsman
   share: 64
   start: 1991
 place_built: Exmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:54.404665+00:00'
 website: ''
 year: 1913
 year_is_approximate: false
+previous_names:
+- Sombria Violetta
+image_key: 52NzNx
+construction_details: Carvel
+beam: 3.1486
+for_sale_state:
+  text: not_for_sale

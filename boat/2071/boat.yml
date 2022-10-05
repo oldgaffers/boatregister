@@ -1,52 +1,67 @@
-builder: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
-callsign: ''
+name: Arriana
+oga_no: 2071
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Arriana&#39; is a Tamarisk 29 based on the Falmouth Quay
+  Punt. &#39;She took part in the OGA Netherlands 10th Anniversary Tour, 2014.</p>
+full_description: <p>During the Netherlands Anniversary Tour, 2014, &#39;Arriana&#39;
+  was photographed by the local press in Hoorn. To find out more <a href="http://www.oga.org.uk/news/oga-hit-headlines-hoorn">visit
+  the news item</a> with a translation of the Dutch article.</p>
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 construction_material: grp
 construction_method: unknown
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 draft: 1.4234
 engine_installations: []
 for_sales:
 - asking_price: 24000
-full_description: <p>During the Netherlands Anniversary Tour, 2014, &#39;Arriana&#39;
-  was photographed by the local press in Hoorn. To find out more <a href="http://www.oga.org.uk/news/oga-hit-headlines-hoorn">visit
-  the news item</a> with a translation of the Dutch article.</p>
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.4234333089490367
-  fore_triangle_base: 4.57205559619605
-  fore_triangle_height: 8.83930748597903
-  length_on_waterline: 8.330285296269201
-  length_over_all: 8.83930748597903
   main:
     foot: 5.105462082418922
     head: 4.367837112899292
     luff: 5.029261155815655
-  propellor:
-    type: fixed
   thcf: 0.967468964
+  draft: 1.4234333089490367
   topsail:
     luff: 5.334064862228725
     perpendicular: 2.286027798098025
+  propellor:
+    type: fixed
+  length_over_all: 8.83930748597903
+  fore_triangle_base: 4.57205559619605
+  length_on_waterline: 8.330285296269201
+  fore_triangle_height: 8.83930748597903
 home_country: GBR
 home_port: Swale Marina
 hull_form: long keel deep forefoot
 id: 7aaafb36-a977-4c60-a821-7a471a7de58d
 length_on_deck: 8.8392
-mainsail_type: gaff
-name: Arriana
-oga_no: 2071
+callsign: ''
 ownerships:
-- current: true
-  id: 291
-  member: 3555
+- id: 291
   share: 64
   start: 2005
+  member: 3555
+  current: true
 place_built: Falmouth
-rig_type: Cutter
-short_description: <p>&#39;Arriana&#39; is a Tamarisk 29 based on the Falmouth Quay
-  Punt. &#39;She took part in the OGA Netherlands 10th Anniversary Tour, 2014.</p>
 updated_at: '2021-12-19T13:39:28.57489+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+previous_names:
+- Ariana
+- Relics Amok
+image_key: DmdLPJ
+construction_details: G R P hull,spars of Colombian pine with mahogany deck
+beam: 2.7432
+design_class:
+  name: Tamarisk 29
+  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
+for_sale_state:
+  text: not_for_sale

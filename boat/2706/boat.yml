@@ -1,13 +1,21 @@
-builder: 8af4fabf-4867-4bc7-acce-e3526093a4a9
-callsign: ''
+name: Maria Christina
+oga_no: 2706
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Lion Classic Boats
+  id: 8af4fabf-4867-4bc7-acce-e3526093a4a9
+designer:
+  name: John Rock
+  id: 2bd090b8-ef1a-4894-9853-fd9b5c7a7a24
 construction_material: wood
 construction_method: unknown
-designer: 2bd090b8-ef1a-4894-9853-fd9b5c7a7a24
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.99743964886613
   length_over_all: 7.650573030968056
@@ -16,17 +24,16 @@ home_port: Naarden
 hull_form: unknown
 id: 9fb98784-3270-4bb0-97e4-c5456facec79
 length_on_deck: 7.6505
-mainsail_type: gaff
-name: Maria Christina
-oga_no: 2706
+callsign: ''
 ownerships:
 - name: Henk van der Sluys
   share: 64
   start: 2012
 place_built: Walsoorden
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:46.959876+00:00'
 website: ''
 year: 2005
 year_is_approximate: false
+beam: 2.9962
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,10 @@
-builder: 9e9f30ee-b587-437c-a050-b8efb412e86f
-callsign: ''
-construction_material: woodepoxy
-construction_method: unknown
-designer: 7a379bbd-9209-45a2-a342-720669ba5c19
-draft: 0
-engine_installations: []
-for_sales: []
+name: Pathfinder 3
+oga_no: 3140
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>&#39;Pathfinder 3&#39; is a modern interpretation of the traditional
+  canoe yawl designed for the home builder by Colin Cumming.</p>
 full_description: "<p>&#39;Pathfinder 3&#39; is a modern interpretation of the traditional\
   \ canoe yawl designed for the home builder. At 16 feet (5.0m) in length and a hull\
   \ weight of only 95kg she easily passes the &lsquo;able to be transported within\
@@ -20,42 +19,52 @@ full_description: "<p>&#39;Pathfinder 3&#39; is a modern interpretation of the t
   \ Boat Kits of Cumbria market the 14&rsquo; 6&rdquo; version as a kit, details of\
   \ which <a href=\"http://www.fyneboatkits.co.uk/kits/sailing/pathfinder/\" target=\"\
   _blank\">can be found on their website</a>.</p>"
-generic_type: Yacht
+builder:
+  name: Chris Perkins
+  id: 9e9f30ee-b587-437c-a050-b8efb412e86f
+designer:
+  name: Colin Cumming
+  id: 7a379bbd-9209-45a2-a342-720669ba5c19
+construction_material: woodepoxy
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 6.000072970007316
-  fore_triangle_base: 1.500018242501829
-  fore_triangle_height: 3.340040619970739
-  length_on_waterline: 14.000170263350402
-  length_over_all: 16.000194586686174
-  length_over_spars: 16.000194586686174
   main:
     foot: 2.2000267556693487
     head: 3.5000425658376004
     luff: 1.3300161750182882
+  thcf: 0.876
   mizzen:
     foot: 0.9500115535844915
     luff: 2.7000328365032917
   sailarea: 9.37383966046647
-  thcf: 0.876
+  length_over_all: 16.000194586686174
+  length_over_spars: 16.000194586686174
+  fore_triangle_base: 1.500018242501829
+  length_on_waterline: 14.000170263350402
+  fore_triangle_height: 3.340040619970739
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 2032e6b9-a4f2-488e-932d-ef3a92b581a4
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Pathfinder 3
-oga_no: 3140
+callsign: ''
 ownerships:
-- current: true
-  id: 523
-  member: 4821
+- id: 523
   share: 64
   start: 2011
+  member: 4821
+  current: true
 place_built: Ullapool
-rig_type: Yawl
-short_description: <p>&#39;Pathfinder 3&#39; is a modern interpretation of the traditional
-  canoe yawl designed for the home builder by Colin Cumming.</p>
 updated_at: '2021-12-19T13:39:59.04639+00:00'
 website: http://www.fyneboatkits.co.uk/kits/sailing/pathfinder/
 year: 2011
 year_is_approximate: false
+image_key: xkpT7q
+construction_details: 6mm Marine plywood, 'stitch and tape'
+beam: 0
+for_sale_state:
+  text: not_for_sale

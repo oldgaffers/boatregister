@@ -1,48 +1,62 @@
-builder: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
-callsign: ''
+name: Rose Ann II
+oga_no: 2735
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  draft_keeldown: 1.1430138990490124
-  fore_triangle_base: 2.6426481346013166
-  fore_triangle_height: 5.867471348451597
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.9436722750548645
   main:
     foot: 4.852475006096074
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.871700466
+  draft: 0.5334064862228725
   topsail:
     luff: 4.063033406486222
     perpendicular: 1.8532065349914655
+  propellor:
+    type: fixed
+    blades: 3
+  draft_keeldown: 1.1430138990490124
+  length_over_all: 5.9436722750548645
+  fore_triangle_base: 2.6426481346013166
+  length_on_waterline: 5.690685198732017
+  fore_triangle_height: 5.867471348451597
 home_country: 'null'
 home_port: Hythe Southampton
 hull_form: centre-boarder
 id: 91c45828-417f-4bec-a1c6-abab51810752
 length_on_deck: 5.9436
-mainsail_type: gaff
-name: Rose Ann II
-oga_no: 2735
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2012
   name: Tim Aspden
   share: 64
   start: 2005
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+previous_names:
+- Sid's Memory
+construction_details: grp
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

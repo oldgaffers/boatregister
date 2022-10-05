@@ -1,25 +1,29 @@
-builder: a6c3dc29-2260-442b-abc4-c09d7c2f318e
-callsign: ''
+name: Ibis
+oga_no: 158
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Ibis was converted from a fishing smack to a yacht in the 1930&#39;s</p>
+full_description: ''
+builder:
+  name: Whitstable Oyster Co.
+  id: a6c3dc29-2260-442b-abc4-c09d7c2f318e
 construction_material: wood
 construction_method: unknown
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 3.5052426237503047
   draft: 1.3716166788588149
-  length_on_waterline: 9.1441111923921
   length_over_all: 11.277737137283589
+  length_on_waterline: 9.1441111923921
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: ca0283fb-f6ad-4d73-98f8-5958d773f2d6
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: Ibis
-oga_no: 158
+callsign: ''
 ownerships:
 - end: 1972
   name: G.W. Jago
@@ -29,9 +33,11 @@ ownerships:
   share: 64
   start: 1979
 place_built: Faversham
-rig_type: Cutter
-short_description: <p>Ibis was converted from a fishing smack to a yacht in the 1930&#39;s</p>
 updated_at: '2021-12-19T13:38:34.175404+00:00'
 website: ''
 year: 1888
 year_is_approximate: false
+image_key: gBqKMr
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

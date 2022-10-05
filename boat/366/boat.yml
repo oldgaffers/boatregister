@@ -1,12 +1,18 @@
-callsign: ''
+name: Joy
+oga_no: 366
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Built for the Thames Barge Joy reg. London. CB Autumn 87
+designer:
+  name: Walter Cook and Co.
+  id: 82fa17a9-5cbf-43cb-bafb-179b47ae3f5c
 construction_material: wood
 construction_method: unknown
-designer: 82fa17a9-5cbf-43cb-bafb-179b47ae3f5c
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Built for the Thames Barge Joy reg. London. CB Autumn 87
-generic_type: Dinghy
 handicap_data:
   beam: 1.6764203852718849
   length_over_all: 4.724457449402585
@@ -15,17 +21,16 @@ home_port: West Mersea
 hull_form: unknown
 id: 7797cbd5-41e7-42c3-b8ae-83e4404a1c52
 length_on_deck: 4.7244
-mainsail_type: gaff
-name: Joy
-oga_no: 366
+callsign: ''
 ownerships:
 - name: John Page
   share: 64
   start: 2012
 place_built: Maldon
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:40.401392+00:00'
 website: ''
 year: 1946
 year_is_approximate: false
+beam: 1.6764
+for_sale_state:
+  text: not_for_sale

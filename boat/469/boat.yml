@@ -1,11 +1,12 @@
-builder: 8f46fd03-7085-4bc2-a8e1-f69c2f4a28d4
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 7f01d30a-799c-4e5a-a634-8e7bcf6b4c7d
-draft: 2.347
-engine_installations: []
-for_sales: []
+name: Carlotta
+oga_no: 469
+generic_type: Bristol Channel Pilot Cutter
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Bristol Channel pilot cutter, &#39;Carlotta&#39;, built in 1899
+  has a fascinating history and has been sailing on the Pacific northwest of North
+  America following an extensive refit, 2004. Following another major refit and new
+  owner, Michael Field, she has returned to the Southampton area, UK, 2017.</p>
 full_description: "<h3>Carlotta, her story, by Stephen Mohan, British Colombia &amp;\
   \ Pacific NW Area</h3>\r\n\r\n<h4>First published in the Gaffers Log, June 2010</h4>\r\
   \n\r\n<p>The venerable Bristol Channel pilot cutter Carlotta, built in 1899, is\
@@ -42,20 +43,29 @@ full_description: "<h3>Carlotta, her story, by Stephen Mohan, British Colombia &
   \ of Carlotta in 1937</h3>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"\
   0\" height=\"480\" src=\"//www.youtube.com/embed/bkn7k5zlrwk?rel=0\" width=\"640\"\
   ></iframe></p>"
-generic_type: Bristol Channel Pilot Cutter
+builder:
+  name: W.H. Halford
+  id: 8f46fd03-7085-4bc2-a8e1-f69c2f4a28d4
+designer:
+  name: W.H. Halford
+  id: 7f01d30a-799c-4e5a-a634-8e7bcf6b4c7d
+construction_material: wood
+construction_method: unknown
+draft: 2.347
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.9624481833699097
   draft: 2.346988539380639
-  length_on_waterline: 12.801755669348939
   length_over_all: 15.240185320653499
+  length_on_waterline: 12.801755669348939
 home_country: GBR
 home_port: Southampton
 hull_form: unknown
 id: 3332ce93-73e6-43de-80a1-2d7367228784
 length_on_deck: 15.24
-mainsail_type: gaff
-name: Carlotta
-oga_no: 469
+uk_part1: '102469'
+callsign: ''
 ownerships:
 - end: 2004
   name: Peter Heiberg
@@ -69,12 +79,14 @@ ownerships:
   share: 64
   start: 2015
 place_built: Gloucester
-rig_type: Cutter
-short_description: <p>Bristol Channel pilot cutter, &#39;Carlotta&#39;, built in 1899
-  has a fascinating history and has been sailing on the Pacific northwest of North
-  America following an extensive refit, 2004. Following another major refit and new
-  owner, Michael Field, she has returned to the Southampton area, UK, 2017.</p>
 updated_at: '2021-12-19T13:38:43.180202+00:00'
 website: https://carlottapilotcutter.com/
 year: 1899
 year_is_approximate: false
+previous_names:
+- The Solway
+image_key: 3JqDjV
+construction_details: English elm, oak and pitch pine
+beam: 3.9624
+for_sale_state:
+  text: not_for_sale

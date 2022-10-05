@@ -1,54 +1,68 @@
-builder: c04e2023-3dc9-4679-9e31-fd807bec3001
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 54a54a45-ffb9-499b-8e78-74c125fcc35f
-draft: 1.0912
-engine_installations: []
-for_sales:
-- asking_price: 32500
+name: Windflower
+oga_no: 1101
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Similar to the designer's XOD but larger
 full_description: Windflower has been sailed successfully in local club regattas with
   several class wins in the annual Yarmouth Taittinger Regatta including winning the
   regatta overall in 2013. Windflower has also won Yogaf on two occasions and won
   a number of races at the RLYC including the coveted Potters Ship Trophy.
-generic_type: Yacht
+builder:
+  name: Woodnutt and Co. Ltd.
+  id: c04e2023-3dc9-4679-9e31-fd807bec3001
+designer:
+  name: Alfred J Westmacott
+  id: 54a54a45-ffb9-499b-8e78-74c125fcc35f
+construction_material: wood
+construction_method: carvel
+draft: 1.0912
+engine_installations: []
+for_sales:
+- asking_price: 32500
 handicap_data:
   beam: 2.286027798098025
-  draft: 1.0911972689587905
-  fore_triangle_base: 3.633260180443794
-  fore_triangle_height: 9.601316752011703
-  length_on_waterline: 6.272860277980979
-  length_over_all: 7.976712996830042
   main:
     foot: 4.672640819312362
     head: 4.242867593269934
     luff: 4.419653742989515
-  propellor:
-    blades: 3
-    type: folding
-  sailarea: 38.79591194108803
   thcf: 0.936
+  draft: 1.0911972689587905
+  sailarea: 38.79591194108803
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 7.976712996830042
+  fore_triangle_base: 3.633260180443794
+  length_on_waterline: 6.272860277980979
+  fore_triangle_height: 9.601316752011703
 home_country: 'null'
 home_port: Lymington
 hull_form: long keel sloping forefoot
 id: 5f912205-08b7-44d9-9af2-6d93567a09b2
 length_on_deck: 7.9766
-mainsail_type: gaff
-name: Windflower
-oga_no: 1101
+sail_number: OS4
+spar_material: wood
+ssr: '80306'
+callsign: ''
 ownerships:
 - name: Malcolm McKeown
   share: 64
   start: 2012
-- current: true
-  id: 604
-  member: 5185
+- id: 604
   share: 64
+  member: 5185
+  current: true
   start: '?'
 place_built: Bembridge, IOW
-rig_type: Sloop
-short_description: Similar to the designer's XOD but larger
 updated_at: '2021-12-19T13:39:01.556881+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+previous_names:
+- Wee Mac
+image_key: KMCMBg
+construction_details: Carvel pitch pine on American rock elm w/ Teak superstructure
+beam: 2.286
+for_sale_state:
+  text: for_sale

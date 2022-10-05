@@ -1,13 +1,21 @@
-builder: 96ee99a7-e00b-43f9-beb1-070a42aeb2ca
-callsign: ''
+name: Kaiki Kalo
+oga_no: 367
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: G. Mauricos
+  id: 96ee99a7-e00b-43f9-beb1-070a42aeb2ca
+designer:
+  name: P.D. Culler
+  id: 224d8070-649e-4aff-aa5c-4a7efb1764d2
 construction_material: wood
 construction_method: unknown
-designer: 224d8070-649e-4aff-aa5c-4a7efb1764d2
 draft: 1.4021
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.291880029261156
   draft: 1.4020970495001217
@@ -17,17 +25,16 @@ home_port: ''
 hull_form: unknown
 id: eaad290c-65ca-4b4c-842e-4a59343bc06f
 length_on_deck: 11.7958
-mainsail_type: gaff
-name: Kaiki Kalo
-oga_no: 367
+callsign: ''
 ownerships:
 - name: R Preston
   share: 64
   start: 2012
 place_built: Syros, Greece
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:40.432388+00:00'
 website: ''
 year: 1970
 year_is_approximate: false
+beam: 3.2918
+for_sale_state:
+  text: not_for_sale

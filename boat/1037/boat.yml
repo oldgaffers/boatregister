@@ -1,34 +1,41 @@
-builder: b22c5e1b-29a1-4dc3-8e08-33dbb33e07de
-callsign: ''
+name: Surf
+oga_no: 1037
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Brooke and Hall
+  id: b22c5e1b-29a1-4dc3-8e08-33dbb33e07de
+designer:
+  name: Morgan Giles
+  id: f1bc585c-9638-4fd8-8fc7-f382b028513c
 construction_material: wood
 construction_method: unknown
-designer: f1bc585c-9638-4fd8-8fc7-f382b028513c
 draft: 0.3658
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.8288222384784198
   draft: 0.36576444769568395
-  length_on_waterline: 5.334064862228725
   length_over_all: 5.4864667154352595
+  length_on_waterline: 5.334064862228725
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 1ded2676-830c-4b91-a79c-6ec6a9064ffc
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: Surf
-oga_no: 1037
+callsign: ''
 ownerships:
 - name: D Grant
   share: 64
   start: 2012
 place_built: Walton on Naze
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:59.523145+00:00'
 website: ''
 year: 1921
 year_is_approximate: false
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

@@ -1,38 +1,50 @@
-builder: b516bb55-36c7-4e4f-9740-01f15df596eb
-callsign: ''
+name: Aberration
+oga_no: 1455
+generic_type: Dinghy
+rig_type: single_sail
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: John Moody/D. Chillington
+  id: b516bb55-36c7-4e4f-9740-01f15df596eb
+designer:
+  name: "Fran\xE7ois Vivier"
+  id: f8f01050-235c-4793-b62b-8d3d953d173e
 construction_material: wood
 construction_method: unknown
-designer: f8f01050-235c-4793-b62b-8d3d953d173e
 draft: 0.3048
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.4996342355523042
-  draft: 0.30480370641307
-  length_on_waterline: 4.114850036576445
-  length_over_all: 4.395269446476469
   main:
     foot: 3.5662033650329183
     head: 3.1242379907339672
     luff: 1.929407461594733
   thcf: 0.773761553
+  draft: 0.30480370641307
+  length_over_all: 4.395269446476469
+  length_on_waterline: 4.114850036576445
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 30ad902c-516a-41d3-b0e7-761aa095e9e2
 length_on_deck: 4.3952
-mainsail_type: lug
-name: Aberration
-oga_no: 1455
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Jonno Barrett
   share: 64
   start: 1990
-rig_type: single_sail
-short_description: ''
 updated_at: '2021-12-19T13:39:11.828413+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+construction_details: Strip Pine Planking and epoxy
+beam: 1.4996
+design_class:
+  name: Aber
+  id: c01425bf-c94f-40c1-b3e1-51f0bd2c7bce
+for_sale_state:
+  text: not_for_sale

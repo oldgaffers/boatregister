@@ -1,12 +1,17 @@
-builder: 36c65fb2-ba4e-42c3-94f6-3a05c1bc7597
-callsign: ''
+name: Marguerite De La Mer
+oga_no: 1637
+generic_type: Yacht
+mainsail_type: gaff
+short_description: ''
+full_description: Log 83/1.  Two letters in archive
+builder:
+  name: J. Welligton
+  id: 36c65fb2-ba4e-42c3-94f6-3a05c1bc7597
 construction_material: wood
 construction_method: unknown
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Log 83/1.  Two letters in archive
-generic_type: Yacht
 handicap_data:
   beam: 1.9812240916849548
   draft: 1.21921482565228
@@ -16,16 +21,19 @@ home_port: ''
 hull_form: unknown
 id: 32dddc7e-9871-494f-b880-7bfc7e63c360
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Marguerite De La Mer
-oga_no: 1637
+reference:
+- Log 83/1.  Two letters in archive
+callsign: ''
 ownerships:
 - name: R Kavanagh
   share: 64
   start: 2012
 place_built: Malahide Co Dubln
-short_description: ''
 updated_at: '2021-12-19T13:39:16.777655+00:00'
 website: ''
 year: 1896
 year_is_approximate: false
+construction_details: Larch on oak 1 1/2 ton lead keel
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

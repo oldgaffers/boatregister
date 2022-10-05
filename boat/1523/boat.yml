@@ -1,34 +1,44 @@
-builder: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
-callsign: ''
+name: Bullfrog
+oga_no: 1523
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 92/1
+builder:
+  name: Harry Feltham
+  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+designer:
+  name: Harry Feltham
+  id: f8c85f47-b20c-4687-baea-172a05d5d1f1
 construction_material: wood
 construction_method: carvel
-designer: f8c85f47-b20c-4687-baea-172a05d5d1f1
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Log 92/1
-generic_type: unknown
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.21921482565228
-  length_on_waterline: 9.75371860521824
   length_over_all: 9.75371860521824
+  length_on_waterline: 9.75371860521824
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: b6c1d227-92ff-4ee6-9c7d-9bff78d4b15a
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Bullfrog
-oga_no: 1523
+reference:
+- Log 92/1
+callsign: ''
 ownerships:
 - name: G F Jones
   share: 64
   start: 1989
 place_built: Portsmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:13.779147+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+construction_details: Carvel pitch pine on oak, mixture of teak & mahogany brightwork
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

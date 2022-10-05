@@ -1,34 +1,44 @@
-builder: 3a51dd4c-bea1-4569-9682-77965546c737
-callsign: ''
+name: Swan
+oga_no: 564
+generic_type: Barge
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 71/4
+builder:
+  name: Alfred Burgoine
+  id: 3a51dd4c-bea1-4569-9682-77965546c737
+designer:
+  name: A. Burgoine
+  id: 913f6109-2f34-4d5a-a77e-d7e956d1c2dd
 construction_material: wood
 construction_method: unknown
-designer: 913f6109-2f34-4d5a-a77e-d7e956d1c2dd
 draft: 0.253
 engine_installations: []
 for_sales: []
-full_description: Log 71/4
-generic_type: Barge
 handicap_data:
   beam: 2.2098268714947573
   draft: 0.25298707632284806
-  length_on_waterline: 7.924896366739819
   length_over_all: 8.077298219946353
+  length_on_waterline: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 055792ce-f6d0-4c4c-99d2-c0baea6f4043
 length_on_deck: 8.0772
-mainsail_type: gaff
-name: Swan
-oga_no: 564
+reference:
+- Log 71/4
+callsign: ''
 ownerships:
 - name: T Lester
   share: 64
   start: 1991
 place_built: Kingston upon Thames
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:45.961914+00:00'
 website: ''
 year: 1897
 year_is_approximate: false
+construction_details: Strip and Ribbon Pine on Elm
+beam: 2.2098
+for_sale_state:
+  text: not_for_sale

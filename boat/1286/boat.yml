@@ -1,34 +1,44 @@
-builder: 1f2a16b2-6602-44b8-8f5f-a0a89f3db4f0
-callsign: ''
+name: Griffon
+oga_no: 1286
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: L.H. Walker
+  id: 1f2a16b2-6602-44b8-8f5f-a0a89f3db4f0
+designer:
+  name: L.H. Walker
+  id: 0eadeae8-3aed-497d-8d5e-1caca3fc3215
 construction_material: wood
 construction_method: unknown
-designer: 0eadeae8-3aed-497d-8d5e-1caca3fc3215
 draft: 0.701
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.4630577907827358
   draft: 0.7010485247500609
-  length_on_waterline: 3.5052426237503047
   length_over_all: 3.6576444769568397
+  length_on_waterline: 3.5052426237503047
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: df11f68a-0242-4e0b-94ff-edee6f356cc2
 length_on_deck: 3.6576
-mainsail_type: gaff
-name: Griffon
-oga_no: 1286
+callsign: ''
 ownerships:
 - name: J Webb
   share: 64
   start: 2012
 place_built: Leigh on Sea
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:07.085907+00:00'
 website: ''
 year: 1970
 year_is_approximate: false
+beam: 1.463
+design_class:
+  name: Tideway 12
+  id: 44264997-3e5a-4718-a1ff-6dbcd135f3ce
+for_sale_state:
+  text: not_for_sale

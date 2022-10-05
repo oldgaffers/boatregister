@@ -1,13 +1,21 @@
-builder: baa8ee05-77fc-4229-82bb-afe9855fbba1
-callsign: ''
+name: Salting
+oga_no: 1657
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Malcolm Goodwin
+  id: baa8ee05-77fc-4229-82bb-afe9855fbba1
+designer:
+  name: Malcolm Goodwin
+  id: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
 construction_material: wood
 construction_method: unknown
-designer: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
   length_over_all: 6.0960741282613995
@@ -16,17 +24,17 @@ home_port: West Mersea
 hull_form: unknown
 id: 93e18b65-8057-4c10-b8f2-80051e6dc91c
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Salting
-oga_no: 1657
+callsign: ''
 ownerships:
 - name: Bryan Sargeant
   share: 64
   start: 2012
 place_built: Wivenhoe
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:17.196628+00:00'
 website: ''
 year: 1982
 year_is_approximate: false
+construction_details: Ply onto frames and battens with epoxy coating
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

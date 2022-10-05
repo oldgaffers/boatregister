@@ -1,13 +1,21 @@
-builder: 549734ef-854d-4871-8e72-669e59dffbdd
-callsign: ''
+name: Williams Secret
+oga_no: 2762
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Martham Boatyard/Vaughan Taylor
+  id: 549734ef-854d-4871-8e72-669e59dffbdd
+designer:
+  name: Frank W. Shuttlewood
+  id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
 construction_material: wood
 construction_method: unknown
-designer: e7b7b001-2a40-409b-8d10-8c5c9995d9db
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 2.590831504511095
   length_over_all: 8.915508412582296
@@ -16,21 +24,20 @@ home_port: Maldon
 hull_form: unknown
 id: e0b9878b-7eb0-4e87-ae96-240b82cd2876
 length_on_deck: 8.9154
-mainsail_type: gaff
-name: Williams Secret
-oga_no: 2762
+callsign: ''
 ownerships:
 - name: Murray Panton
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 4750
-  share: 64
+  current: true
   start: '?'
 place_built: Maldon
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:48.631868+00:00'
 website: ''
 year: 2006
 year_is_approximate: false
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

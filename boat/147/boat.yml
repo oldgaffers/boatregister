@@ -1,12 +1,10 @@
-builder: 0f386410-e8a6-40af-ba85-11b7eab5be1b
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f97b2d74-8535-4ed5-8602-651d2ca2898f
-draft: 0.9144
-engine_installations: []
-for_sales:
-- asking_price: 2950
+name: Ruby
+oga_no: 147
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Re-named &#39;Ruby&#39;, this classic half-decker built in 1910
+  has raced with the OGA since the 1970s when she was called &#39;Alan&#39;.</p>
 full_description: "<p>Built 1910, &#39;Ruby&#39; is a classic half-decker. LOA 22&#39;6&quot;\
   \ Beam 5&#39;5&quot; Draft 3&#39; she is built in pitch pine on oak, carvel construction.\
   \ With her classic long 4cwt lead keel she&#39;s a very stable dayboat. Extensively\
@@ -19,44 +17,62 @@ full_description: "<p>Built 1910, &#39;Ruby&#39; is a classic half-decker. LOA 2
   \ fast boat, won Quiver Trophy (Class 3) in 1973 OGA Solent Annual Race&#39;.</p>\r\
   \n\r\n<p>Racing with the OGA on&nbsp;the East Coast during the 1980s she was 2nd\
   \ in Class 2 in 1982 and first in the class in 1983.</p>"
-generic_type: Yacht
+builder:
+  name: Coombes Boatyard
+  id: 0f386410-e8a6-40af-ba85-11b7eab5be1b
+designer:
+  name: Charles E. Nicholson
+  id: f97b2d74-8535-4ed5-8602-651d2ca2898f
+construction_material: wood
+construction_method: carvel
+draft: 0.9144
+engine_installations: []
+for_sales:
+- asking_price: 2950
 handicap_data:
   beam: 1.8288222384784198
   draft: 1.014996342355523
-  length_on_waterline: 5.4864667154352595
   length_over_all: 6.858083394294074
+  length_on_waterline: 5.4864667154352595
 home_country: GBR
 home_port: West Mersea
 hull_form: unknown
 id: 77e9c12a-e6b3-4180-8574-5886e03f223b
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Ruby
-oga_no: 147
+sail_number: '147'
+callsign: ''
 ownerships:
 - note: Previous owners
   text: Previous owners
 - note: 1971 R.N. Lane
+  text: R.N. Lane
   start: 1971
   start_is_approximate: false
-  text: R.N. Lane
 - note: 1978 J. Redgewell
+  text: J. Redgewell
   start: 1978
   start_is_approximate: false
-  text: J. Redgewell
 - note: In 1980, 'Alan' was owned by OGA member Mr A Pedersen, London
+  text: In
   start: 1980
   start_is_approximate: false
-  text: In
 - end: 2017
   name: P W Rowe
   share: 64
   start: 2012
 place_built: Bosham
-rig_type: Cutter
-short_description: <p>Re-named &#39;Ruby&#39;, this classic half-decker built in 1910
-  has raced with the OGA since the 1970s when she was called &#39;Alan&#39;.</p>
 updated_at: '2021-12-19T13:38:33.888919+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+previous_names:
+- Alan
+image_key: 8pTmhb
+construction_details: Carvel Pitch Pine on Steamed Oak  Keelbolts removed and cascover
+  sheathed 1975 by Tylors of Tunbridge Wells.
+beam: 1.6764
+design_class:
+  name: Bembridge Redwing
+  id: c2682956-21fb-4f51-9227-c36bc9e9f69c
+for_sale_state:
+  text: not_for_sale

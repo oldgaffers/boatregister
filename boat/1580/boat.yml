@@ -1,11 +1,13 @@
-builder: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
-draft: 1.7008
-engine_installations: []
-for_sales: []
+name: Lona II
+oga_no: 1580
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Lona II&#39; is a miniature racing yacht of the period.
+  She was lovingly maintained by her owner, Richard Meynell to become a consistent
+  councours winner, frequently featuring in yachting magazines. As well as being extremely
+  pretty, &#39;Lona II&#39; is a race winner and was sold to an owner in Italy, 2004,
+  where she still sails.</p>
 full_description: "<h4>First published as two extracts in Gaffers Log, June 2007 and\
   \ March 2008</h4>\r\n\r\n<p>Michael Barne was Log Keeper Lieutenant on Captain Scott&rsquo;s\
   \ first Antarctic trip in &lsquo;Discovery&rsquo;. Following his return, and whilst\
@@ -109,45 +111,56 @@ full_description: "<h4>First published as two extracts in Gaffers Log, June 2007
   \ her anchor across the river and took the ground off the . . .</blockquote>\r\n\
   \r\n<blockquote>And there unfortunately Michael Barne&rsquo;s narrative comes to\
   \ an end.</blockquote>"
-generic_type: Yacht
+builder:
+  name: William King and Sons
+  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+designer:
+  name: Clark J. Pain
+  id: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
+construction_material: wood
+construction_method: carvel
+draft: 1.7008
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.234211168007803
-  draft: 1.7008046817849305
-  fore_triangle_base: 4.87685930260912
-  fore_triangle_height: 7.467690807120214
-  length_on_waterline: 7.467690807120214
-  length_over_all: 9.75371860521824
   main:
     foot: 6.0960741282613995
     head: 4.26725188978298
     luff: 4.57205559619605
-  propellor:
-    type: fixed
   thcf: 1.005415518
+  draft: 1.7008046817849305
   topsail:
     luff: 5.4864667154352595
     perpendicular: 2.286027798098025
+  propellor:
+    type: fixed
+  length_over_all: 9.75371860521824
+  fore_triangle_base: 4.87685930260912
+  length_on_waterline: 7.467690807120214
+  fore_triangle_height: 7.467690807120214
 home_country: ITA
 home_port: ''
 hull_form: long keel deep forefoot
 id: 2b18108d-d0f1-4efe-91c1-94304bfea6fc
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Lona II
-oga_no: 1580
+reference:
+- Log June 2007
+- Log March 2008
+sail_number: '5'
+callsign: ''
 ownerships:
 - end: 2004
   name: Richard Meynell
   share: 64
   start: 1992
 place_built: Burnham on Crouch
-rig_type: Cutter
-short_description: <p>&#39;Lona II&#39; is a miniature racing yacht of the period.
-  She was lovingly maintained by her owner, Richard Meynell to become a consistent
-  councours winner, frequently featuring in yachting magazines. As well as being extremely
-  pretty, &#39;Lona II&#39; is a race winner and was sold to an owner in Italy, 2004,
-  where she still sails.</p>
 updated_at: '2021-12-19T13:39:15.389009+00:00'
 website: http://www.lonaii.it/lonaii/Benvenuti.html
 year: 1905
 year_is_approximate: false
+image_key: JDZbTh
+construction_details: Carvel pitch pine below water, teak above on oak
+beam: 2.2342
+for_sale_state:
+  text: not_for_sale

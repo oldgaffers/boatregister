@@ -1,34 +1,41 @@
-builder: 9ed1659f-184e-4d8d-9529-b4ca307d9420
-callsign: ''
+name: Breeze
+oga_no: 732
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Ernest Collins
+  id: 9ed1659f-184e-4d8d-9529-b4ca307d9420
+designer:
+  name: Ernest Collins
+  id: 24275d18-b8e2-46b4-976e-b83ea548d803
 construction_material: wood
 construction_method: unknown
-designer: 24275d18-b8e2-46b4-976e-b83ea548d803
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
   draft: 0.9144111192392099
-  length_on_waterline: 8.62594489148988
   length_over_all: 10.881492318946599
+  length_on_waterline: 8.62594489148988
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: fd4372dc-0e7b-426e-89ed-3580bd46894c
 length_on_deck: 10.8814
-mainsail_type: gaff
-name: Breeze
-oga_no: 732
+callsign: ''
 ownerships:
 - name: M J Wheeler
   share: 64
   start: 1974
 place_built: Wroxham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:50.855644+00:00'
 website: ''
 year: 1924
 year_is_approximate: false
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

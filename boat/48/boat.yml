@@ -1,38 +1,46 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
+name: Bertha
+oga_no: 48
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Bertha raced in the early East Coast races in the 1960&#39;s</p>
+full_description: ''
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+designer:
+  name: Aldous
+  id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 construction_material: wood
 construction_method: unknown
-designer: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 3.6576444769568397
-  length_on_waterline: 10.36332601804438
   length_over_all: 12.801755669348939
+  length_on_waterline: 10.36332601804438
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 9c5c00f2-80d9-44d7-b3a8-6d7aecf3d97f
 length_on_deck: 12.8016
-mainsail_type: gaff
-name: Bertha
-oga_no: 48
+callsign: ''
 ownerships:
 - note: Previous owners R.W. Bishop. In 1967 he swapped Bertha for Kate with R.B.
     Pitt.
+  text: Previous owners R.W. Bishop. In
   start: 1967
   start_is_approximate: false
-  text: Previous owners R.W. Bishop. In
 - name: N O Osborne
   share: 64
   start: 1973
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: <p>Bertha raced in the early East Coast races in the 1960&#39;s</p>
 updated_at: '2021-12-19T13:38:31.083949+00:00'
 website: ''
 year: 1888
 year_is_approximate: false
+image_key: fhgLDb
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,11 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
-draft: 0
-engine_installations: []
-for_sales: []
+name: Shamrock
+oga_no: 474
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p><span><span data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span class="UFICommentBody
+  _1n4g"><span><span>&#39;Shamrock&#39; was built at Brightlingsea, 1900, by Aldous
+  for the Page brothers of West Mersea mainly for spratting.</span></span></span></span></span></p>
 full_description: "<p>&#39;Shamrock&#39; joined the Colchester Oyster Fishing fleet\
   \ and for many years was watch boat for the Mersea and Tollesbury Oyster Fishery\
   \ Co. Ltd. During the winter 1962/63 she was moored on the River Blackwater. On\
@@ -37,19 +37,27 @@ full_description: "<p>&#39;Shamrock&#39; joined the Colchester Oyster Fishing fl
   \ skippered by architect Brian Thomas.</p>\r\n\r\n<p><iframe allowfullscreen=\"\"\
   \ frameborder=\"0\" height=\"360\" src=\"https://www.youtube.com/embed/ZOJDR2zziL0\"\
   \ width=\"640\"></iframe></p>"
-generic_type: Smack
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+designer:
+  name: Aldous
+  id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.5052426237503047
-  length_on_waterline: 11.277737137283589
   length_over_all: 13.411363082175079
+  length_on_waterline: 11.277737137283589
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 32c5552e-a2d5-4e83-9b69-b441723d5def
 length_on_deck: 13.4112
-mainsail_type: gaff
-name: Shamrock
-oga_no: 474
+callsign: ''
 ownerships:
 - end: 1971
   name: Brian K Thomas
@@ -60,18 +68,18 @@ ownerships:
   share: 64
   start: 1980
 - note: Exeter Maritime Museum closed in 1996, and the collection was dispersed.
+  text: Exeter Maritime Museum closed in
   start: 1996
   start_is_approximate: false
-  text: Exeter Maritime Museum closed in
 - name: Paul Winter
   share: 64
   start: 2017
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: <p><span><span data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span class="UFICommentBody
-  _1n4g"><span><span>&#39;Shamrock&#39; was built at Brightlingsea, 1900, by Aldous
-  for the Page brothers of West Mersea mainly for spratting.</span></span></span></span></span></p>
 updated_at: '2021-12-19T13:38:43.306169+00:00'
 website: ''
 year: 1900
 year_is_approximate: false
+image_key: pfHQJm
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

@@ -1,37 +1,51 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-construction_material: grp
-construction_method: unknown
-designer: ac488ef8-79bc-4676-b24a-1efd01e44ddf
-engine_installations: []
-for_sales: []
+name: 'Molly of Mylor '
+oga_no: 3470
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Crabber 26, sail number 33. Cream hull with blue strake and tan
+  sails.
 full_description: <p>2015 Cornish Crabber 26 cutter rigged gaffer. Cream hull with
   blue strake and copper coat. We are the third owners of Molly; her previous two
   owners kept her in Mylor and Falmouth; we amended the name to "Molly of Mylor" to
   avoid the confusion of two boats of the same type with the same name on the same
   stretch of water!</p>
-generic_type: Yacht
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: David Thomas
+  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+construction_material: grp
+construction_method: unknown
+engine_installations: []
+for_sales: []
 handicap_data:
-  length_on_waterline: 7.239
   length_overall: 8.001
   moving_keel_type: Centreboard
+  length_on_waterline: 7.239
 home_country: United Kingdom
 home_port: Gosport
 hull_form: long keel deep forefoot
 id: 3622a490-facc-4038-9eb0-f5f4c3939f73
 length_on_deck: 8.001
-mainsail_type: gaff
-name: 'Molly of Mylor '
-oga_no: 3470
+sail_number: '33'
+spar_material: wood
 ownerships:
-- current: true
-  id: 780
-  member: 5802
+- id: 780
   share: 64
   start: 2022
+  member: 5802
+  current: true
 place_built: Rock
-rig_type: Cutter
-short_description: Crabber 26, sail number 33. Cream hull with blue strake and tan
-  sails.
 updated_at: '2022-03-24T10:54:03.895917+00:00'
 year: 2015
 year_is_approximate: false
+previous_names:
+- Molly
+beam: 2.9962
+design_class:
+  name: Cornish Crabber 26
+  id: 50503297-7263-4cf4-af74-102bb153bc8e
+for_sale_state:
+  text: not_for_sale

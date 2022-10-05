@@ -1,44 +1,56 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Dishy Too
+oga_no: 1444
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: CB Jan/Feb 89
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: CB Jan/Feb 89
-generic_type: Yacht
 handicap_data:
   beam: 2.590831504511095
-  draft: 0.9144111192392099
-  fore_triangle_base: 3.8100463301633747
-  fore_triangle_height: 7.010485247500609
-  length_on_waterline: 6.4008778346744695
-  length_over_all: 7.467690807120214
   main:
     foot: 3.9624481833699097
     head: 3.5570592538405266
     luff: 4.87685930260912
+  thcf: 0.895555787
+  draft: 0.9144111192392099
   mizzen:
     foot: 1.8288222384784198
     luff: 4.26725188978298
-  thcf: 0.895555787
+  length_over_all: 7.467690807120214
+  fore_triangle_base: 3.8100463301633747
+  length_on_waterline: 6.4008778346744695
+  fore_triangle_height: 7.010485247500609
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 8f45f054-61b5-4dab-8b1d-642fe6b8d837
 length_on_deck: 7.4676
-mainsail_type: gaff
-name: Dishy Too
-oga_no: 1444
+sail_number: C74
+callsign: ''
 ownerships:
 - name: J Dishington
   share: 64
   start: 1989
 place_built: Rock
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:11.545398+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+construction_details: G.R.P. spruce spars
+beam: 2.5908
+design_class:
+  name: Cornish Yawl
+  id: 37c8b8fe-c896-4244-9076-6b297798ba2e
+for_sale_state:
+  text: not_for_sale

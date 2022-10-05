@@ -1,35 +1,44 @@
-builder: 9d25ae80-2dae-4d8d-bcd9-bf0e6cd932af
-callsign: ''
+name: Marie Fernand
+oga_no: 661
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: 1998 owned by French some sort of Le Havre society. 2013 Boat restored
+  to sailing condition.
+builder:
+  name: Le Marchand
+  id: 9d25ae80-2dae-4d8d-bcd9-bf0e6cd932af
+designer:
+  name: Marchand Le
+  id: 4b5f19ba-60c3-4366-b358-e6cedfd51802
 construction_material: wood
 construction_method: unknown
-designer: 4b5f19ba-60c3-4366-b358-e6cedfd51802
 draft: 2.2555
 engine_installations: []
 for_sales: []
-full_description: 1998 owned by French some sort of Le Havre society. 2013 Boat restored
-  to sailing condition.
-generic_type: unknown
 handicap_data:
   beam: 4.175810777859058
   draft: 2.255547427456718
-  length_on_waterline: 14.020970495001219
   length_over_all: 16.154596439892707
+  length_on_waterline: 14.020970495001219
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 702968fa-0007-467f-88e5-d884accae082
 length_on_deck: 16.1544
-mainsail_type: gaff
-name: Marie Fernand
-oga_no: 661
+callsign: ''
 ownerships:
 - name: C M Sydenham
   share: 64
   start: 2012
 place_built: Lettane, France
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:48.759411+00:00'
 website: ''
 year: 1894
 year_is_approximate: false
+previous_names:
+- Marguerite II Leonora
+beam: 4.1758
+for_sale_state:
+  text: not_for_sale

@@ -1,39 +1,46 @@
-builder: e32a3d0d-c35d-453e-8c96-e80004d5c0fc
-callsign: ''
+name: Bluebottle
+oga_no: 2970
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Iain McBride
+  id: e32a3d0d-c35d-453e-8c96-e80004d5c0fc
 construction_material: woodepoxy
 construction_method: clinker_ply
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.4478176054620824
-  length_on_waterline: 3.2004389173372347
-  length_over_all: 3.5296269202633503
   main:
     foot: 2.7676176542306754
     head: 2.8194342843208973
     luff: 0.9662277493294318
   thcf: 0.705969093
+  length_over_all: 3.5296269202633503
+  length_on_waterline: 3.2004389173372347
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 84b21deb-b2d8-47da-86f8-5823470f058e
 length_on_deck: 3.5296
-mainsail_type: lug
-name: Bluebottle
-oga_no: 2970
+callsign: ''
 ownerships:
-- current: true
-  id: 336
-  member: 3842
+- id: 336
   share: 64
   start: 2010
+  member: 3842
+  current: true
 place_built: Heswall Wirral
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:54.965638+00:00'
 website: ''
 year: 2010
 year_is_approximate: false
+image_key: G5KjSX
+construction_details: Glued ply clinker
+beam: 1.4478
+for_sale_state:
+  text: not_for_sale

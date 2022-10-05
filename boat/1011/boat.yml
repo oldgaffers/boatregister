@@ -1,33 +1,40 @@
-builder: 4b17d24b-28f4-4809-a314-c93dca295cb1
-callsign: ''
+name: Our Lizzie
+oga_no: 1011
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Trout
+  id: 4b17d24b-28f4-4809-a314-c93dca295cb1
+designer:
+  name: Trout
+  id: 7ebd03a1-9638-4686-b273-fef09d875e90
 construction_material: wood
 construction_method: unknown
-designer: 7ebd03a1-9638-4686-b273-fef09d875e90
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
-  length_on_waterline: 6.5532796878810045
   length_over_all: 6.705681541087539
+  length_on_waterline: 6.5532796878810045
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: dc15b0b3-86b0-4430-b989-9259851f6087
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Our Lizzie
-oga_no: 1011
+callsign: ''
 ownerships:
 - name: J Culver
   share: 64
   start: 2012
 place_built: Topsham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:58.707622+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

@@ -1,9 +1,15 @@
-builder: 13f3c132-0c51-4920-9ad0-870fa856b94d
-construction_material: grp
-construction_method: clinker
-designer: 4e841dd0-c359-41ef-aad2-828a8f06c882
-engine_installations: []
-for_sales: []
+name: Flirt
+oga_no: 3473
+rig_type: Sloop
+mainsail_type: gaff
+short_description: "<p>No. 11 of a small series of fibreglass Yealm Crabbers built\
+  \ in the late \u201880\u2019s by the Hockadays at Newton Ferrers from a mould taken\
+  \ from an original Crabber built by their forebears. All seem to have been fitted\
+  \ out with a variety of rigs although information about the type is scant.</p>\n\
+  <p>Hull moulds also used for the Whaler rowing boats used annually at Dartmouth\
+  \ and Yealm Regattas.</p>\n<p>Thorough overhaul and refit winter 2019 into Covid\
+  \ 2020 lockdown.</p>\n<p>A fast hull design with <ins>a new </ins>powerful rig<ins>\
+  \ for 2022</ins>.</p>"
 full_description: "<p>A rare 21\u2019 open day boat with gaff rig and cast iron centre\
   \ plate, No. 11 of a series of GRP facsimiles of an original 19th century Yealm\
   \ Crabber working boat.</p>\n<p><em>Flirt </em>was built by Newton Ferrers based\
@@ -30,45 +36,46 @@ full_description: "<p>A rare 21\u2019 open day boat with gaff rig and cast iron 
   \ the mouth of the Yealm. New sail cut with reduced gaff angle mainsail fitted 2022.</p>\n\
   <p>Winner of OGA photo competition 2020 (Social. Distanced) and featured on the\
   \ OGA homepage in 2022 fitted with overboom tent on its Dittisham mooring.</p>"
+builder:
+  name: Hockaday Brothers
+  id: 13f3c132-0c51-4920-9ad0-870fa856b94d
+designer:
+  name: H. Hockaday
+  id: 4e841dd0-c359-41ef-aad2-828a8f06c882
+construction_material: grp
+construction_method: clinker
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.1
-  fore_triangle_base: 2.3896610582784685
-  fore_triangle_height: 5.9406242379907335
-  length_on_deck: 6.361
-  length_on_waterline: 6.136
-  length_over_all: 6.36125335284077
   main:
     foot: 3.6210680321872712
     head: 4.349548890514508
     luff: 2.749329431845891
-  propellor:
-    type: fixed
-  sailarea: 22.095
   thcf: 0.861
   topsail: {}
+  sailarea: 22.095
+  propellor:
+    type: fixed
+  length_on_deck: 6.361
+  length_over_all: 6.36125335284077
+  fore_triangle_base: 2.3896610582784685
+  length_on_waterline: 6.136
+  fore_triangle_height: 5.9406242379907335
 home_country: United Kingdom
 home_port: Dittisham
 hull_form: centre-boarder
 id: 7a9bc03b-38a2-4794-b520-6bdf6fc97677
-mainsail_type: gaff
-name: Flirt
-oga_no: 3473
+reference:
+- '"Crabbers of the Yealm" Classic Boat magazine edition 9, 1988'
 ownerships:
-- current: true
-  id: 34761
-  member: 6411
+- id: 34761
   share: 64
+  member: 6411
+  current: true
   start: '?'
 place_built: Newton Ferrers
-rig_type: Sloop
-short_description: "<p>No. 11 of a small series of fibreglass Yealm Crabbers built\
-  \ in the late \u201880\u2019s by the Hockadays at Newton Ferrers from a mould taken\
-  \ from an original Crabber built by their forebears. All seem to have been fitted\
-  \ out with a variety of rigs although information about the type is scant.</p>\n\
-  <p>Hull moulds also used for the Whaler rowing boats used annually at Dartmouth\
-  \ and Yealm Regattas.</p>\n<p>Thorough overhaul and refit winter 2019 into Covid\
-  \ 2020 lockdown.</p>\n<p>A fast hull design with <ins>a new </ins>powerful rig<ins>\
-  \ for 2022</ins>.</p>"
 updated_at: '2022-08-15T16:18:53.153557+00:00'
 year: 1988
 year_is_approximate: false
+image_key: 4xhpcP

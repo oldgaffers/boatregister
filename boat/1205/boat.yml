@@ -1,42 +1,49 @@
-builder: 417e7c59-f40e-4414-a5b5-54fd81f4ca28
-callsign: ''
+name: Orca
+oga_no: 1205
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: J. Kok
+  id: 417e7c59-f40e-4414-a5b5-54fd81f4ca28
+designer:
+  name: J.W. Halmijer
+  id: 8a897be0-6ef1-4d2c-af05-432d7d60d28c
 construction_material: wood
 construction_method: unknown
-designer: 8a897be0-6ef1-4d2c-af05-432d7d60d28c
 draft: 1.7069
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.1089978054133134
-  draft: 1.7069007559131917
-  length_on_waterline: 8.686905632772493
-  length_over_all: 9.75371860521824
   main:
     foot: 4.26725188978298
     head: 5.18166300902219
     luff: 4.87685930260912
+  thcf: 0.92057727
+  draft: 1.7069007559131917
   mizzen:
     foot: 1.624603755181663
     luff: 6.0960741282613995
-  thcf: 0.92057727
+  length_over_all: 9.75371860521824
+  length_on_waterline: 8.686905632772493
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 6500d914-5957-476d-9915-13046b9cdd0e
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Orca
-oga_no: 1205
+callsign: ''
 ownerships:
 - name: I Jefferis
   share: 64
   start: 2012
 place_built: Huizen
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:04.691146+00:00'
 website: ''
 year: 1952
 year_is_approximate: false
+beam: 3.109
+for_sale_state:
+  text: not_for_sale

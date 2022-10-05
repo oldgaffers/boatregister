@@ -1,11 +1,11 @@
-builder: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
-draft: 0.4572
-engine_installations: []
-for_sales: []
+name: Skian
+oga_no: 3353
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: lug
+short_description: <p>Skian is an early Memory 19, purchased as a wreck in 2017, rebuilt
+  as a lugger with water ballast system, re-cycled Romilly 22 mast and new mainsail,
+  launched May 2018.</p>
 full_description: <p>The boat was imported to Castletown, IOM as a shell by the late
   John Qualtrough Snr mid 1970s. He rigged a low-aspect standing lug with a boom and
   a jib set on the bowsprit. He sold it on to Tom Cregeen at Castletown, who later
@@ -42,41 +42,57 @@ full_description: <p>The boat was imported to Castletown, IOM as a shell by the 
   there's all that weight below the sole and plenty of buoyancy each side above the
   sole in the sealed fore and aft lockers/seats. Once upright it's self-draining above
   the sole.</p><p>Isle of Man Pleasure Craft Registry no. 1688</p>
-generic_type: Yacht
+builder:
+  name: Liverpool Boat Co. Ltd.
+  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.4572
+engine_installations: []
+for_sales: []
 handicap_data:
-  draft_keel_down: 1.0668
-  length_on_waterline: 5.7912
-  length_over_spars: 6.4008
-  length_overall: 5.7912
   main:
     foot: 12.3
     head: 15.5
     luff: 12
   moving_keel: true
+  length_overall: 5.7912
+  draft_keel_down: 1.0668
   moving_keel_type: Centreboard
+  length_over_spars: 6.4008
+  length_on_waterline: 5.7912
 home_country: GBR
 home_port: Port St. Mary, Isle of Man
 hull_form: centre-boarder
 id: bda16439-f603-4d64-b7d0-7a0cce787e05
 length_on_deck: 5.7912
-mainsail_type: lug
-name: Skian
-oga_no: 3353
+sail_number: '3353'
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Michael Kneale
   share: 64
   start: 2017
-- current: true
-  id: 624
-  member: 5340
+- id: 624
   share: 64
+  member: 5340
+  current: true
   start: '?'
 place_built: Liverpool
-rig_type: Sloop
-short_description: <p>Skian is an early Memory 19, purchased as a wreck in 2017, rebuilt
-  as a lugger with water ballast system, re-cycled Romilly 22 mast and new mainsail,
-  launched May 2018.</p>
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 1975
 year_is_approximate: false
+previous_names:
+- Drean
+image_key: pmvPsG
+construction_details: Hull GRP with wood trim, carbon mast, alloy yard, wooden bowsprit.
+beam: 2.1946
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

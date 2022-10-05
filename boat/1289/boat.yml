@@ -1,11 +1,15 @@
-builder: 91265725-4733-411d-bec3-a691a05c4739
-callsign: MFBQ
-construction_material: wood
-construction_method: carvel
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
-draft: 1.6764
-engine_installations: []
-for_sales: []
+name: Lone Wolf
+oga_no: 1289
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>One off design probably based on the Poole fishing boats/pilot
+  boats of the time. Cruised to the Baltic before First World War and taken down through
+  the French canals in the winter of 1919-20 returning back to South Coast of England
+  in 1920. Moved to East Coast just before Second World War and thought to have spent
+  the war at Pin Mill. Converted to Bermudan in 1950 and back to gaff in 1982. Moved
+  back to the South Coast in 1983 and underwent a major refit 1984-7, Lone Wolf has
+  been a regular participant in Solent area events ever since.</p>
 full_description: "<p>Nothing other than a name is known about her first owner but\
   \ much is written about the cruises of her second owner Henry Carson and his sister\
   \ Beryl. They bought the boat in 1911 and cruised her around the Solent and down\
@@ -36,35 +40,46 @@ full_description: "<p>Nothing other than a name is known about her first owner b
   \ In their ownership she has cruised the south coast of England from Ramsgate to\
   \ the Helford river in Cornwall, across the Channel to Normandy, the Channel Islands\
   \ and the North Brittany coast.</p>"
-generic_type: Yacht
+builder:
+  name: Ashton and Kilner
+  id: 91265725-4733-411d-bec3-a691a05c4739
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+construction_material: wood
+construction_method: carvel
+draft: 1.6764
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.743257742014143
-  draft: 1.6764325774201414
-  fore_triangle_base: 4.775274323335771
-  fore_triangle_height: 9.753742989514752
-  length_on_waterline: 7.620092660326749
-  length_over_all: 8.051908071202146
-  length_over_spars: 10.363350402340892
   main:
     foot: 5.054675688856376
     head: 4.191069251402097
     luff: 5.359479395269446
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 54.809497755984346
   thcf: 0.953
+  draft: 1.6764325774201414
   topsail:
     luff: 5.791294806144842
     perpendicular: 2.0828456474030723
+  sailarea: 54.809497755984346
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 8.051908071202146
+  length_over_spars: 10.363350402340892
+  fore_triangle_base: 4.775274323335771
+  length_on_waterline: 7.620092660326749
+  fore_triangle_height: 9.753742989514752
 home_country: GBR
 home_port: Yarmouth Isle of Wight
 hull_form: long keel sloping forefoot
 id: b9758995-6678-4beb-a17e-bf6ef4dfa628
 length_on_deck: 8.0528
-mainsail_type: gaff
-name: Lone Wolf
-oga_no: 1289
+sail_number: '1289'
+spar_material: wood
+uk_part1: '128988'
+callsign: MFBQ
 ownerships:
 - end: 1911
   name: Frank Johnson
@@ -121,21 +136,20 @@ ownerships:
 - name: Dick and Pat Dawson
   share: 64
   start: 2014
-- current: true
-  id: 34691
-  member: 1439
+- id: 34691
   share: 32
+  member: 1439
+  current: true
   start: '?'
 place_built: Poole
-rig_type: Cutter
-short_description: <p>One off design probably based on the Poole fishing boats/pilot
-  boats of the time. Cruised to the Baltic before First World War and taken down through
-  the French canals in the winter of 1919-20 returning back to South Coast of England
-  in 1920. Moved to East Coast just before Second World War and thought to have spent
-  the war at Pin Mill. Converted to Bermudan in 1950 and back to gaff in 1982. Moved
-  back to the South Coast in 1983 and underwent a major refit 1984-7, Lone Wolf has
-  been a regular participant in Solent area events ever since.</p>
 updated_at: '2021-12-19T13:39:07.181931+00:00'
 website: ''
 year: 1905
 year_is_approximate: false
+nsbr: '2093'
+image_key: nNtLcZ
+construction_details: Carvel pine on oak, elm keel, external lead keel, no internal
+  ballast, teak brightwork.
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

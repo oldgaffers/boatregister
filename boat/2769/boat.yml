@@ -1,40 +1,48 @@
-builder: dd43b6c0-5389-4382-a770-5336f7a00778
-callsign: ''
-construction_material: steel
-construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Constance
+oga_no: 2769
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Designed by Percy Dalton, &#39;Constance&#39; was built in steel
+  by Edwin Bracken, 1996.</p>
 full_description: <p>25&rsquo; LOD, beam 9&rsquo;, draft 4&rsquo;, displacement 5
   tons, &#39;Constance&#39; is a very pretty boat with huge amount of space below,
   suitable for long distance passages and budget blue water cruising.</p>
-generic_type: Yacht
+builder:
+  name: E. Bracken
+  id: dd43b6c0-5389-4382-a770-5336f7a00778
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: steel
+construction_method: unknown
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.3716166788588149
-  fore_triangle_base: 3.9624481833699097
-  fore_triangle_height: 8.53450377956596
-  length_on_waterline: 7.315288953913679
-  length_over_all: 7.620092660326749
   main:
     foot: 4.724457449402585
     head: 3.581443550353572
     luff: 5.385881492318947
-  propellor:
-    type: fixed
   thcf: 0.922912849
+  draft: 1.3716166788588149
   topsail:
     luff: 4.87685930260912
     perpendicular: 2.43842965130456
+  propellor:
+    type: fixed
+  length_over_all: 7.620092660326749
+  fore_triangle_base: 3.9624481833699097
+  length_on_waterline: 7.315288953913679
+  fore_triangle_height: 8.53450377956596
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel deep forefoot
 id: e53aa04e-4029-48f7-82c5-3a9ab58a44d3
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Constance
-oga_no: 2769
+ssr: '68159'
+callsign: ''
 ownerships:
 - end: 2007
   name: Kelvin Bracken
@@ -44,10 +52,12 @@ ownerships:
   share: 64
   start: 2007
 place_built: Hoo, Kent
-rig_type: Cutter
-short_description: <p>Designed by Percy Dalton, &#39;Constance&#39; was built in steel
-  by Edwin Bracken, 1996.</p>
 updated_at: '2021-12-19T13:39:48.854907+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+image_key: MfqzJN
+construction_details: Steel
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

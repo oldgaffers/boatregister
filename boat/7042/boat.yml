@@ -1,48 +1,58 @@
-builder: 961f77be-b808-44a6-bfa3-db40be881501
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Rose of Arden
+oga_no: 7042
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: '''Rose of Arden'' was built by Whisstocks of Woodbridge, Suffolk
+  in 1939 to a design of Dr T Harrison Butler.'
 full_description: <p>&#39;Rose of Arden&#39; was the first of four vessels built to
   the same design, all involving the &#39;metacentric shelf formula&#39; which was
   much favoured by the Doctor (Harrison Butler). Another of the group, &#39;Watermaiden&#39;,
   still survives having made many crossings of the Atlantic.</p>
-generic_type: Yacht
+builder:
+  name: Whissocks
+  id: 961f77be-b808-44a6-bfa3-db40be881501
+designer:
+  name: T. Harrison Butler
+  id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+construction_material: wood
+construction_method: unknown
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.6670324311143623
-  draft: 1.5240185320653499
-  fore_triangle_base: 3.0480370641306997
-  fore_triangle_height: 9.44891489880517
-  length_on_waterline: 7.010485247500609
-  length_over_all: 9.1441111923921
   main:
     foot: 4.57205559619605
     luff: 10.05852231163131
+  thcf: 0.917455684
+  draft: 1.5240185320653499
   propellor:
     type: fixed
-  thcf: 0.917455684
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 3.0480370641306997
+  length_on_waterline: 7.010485247500609
+  fore_triangle_height: 9.44891489880517
 home_country: GBR
 home_port: Woolverstone
 hull_form: long keel deep forefoot
 id: fcbcca42-5129-4fbc-8586-d8f728a99825
 length_on_deck: 9.144
-mainsail_type: bermudan
-name: Rose of Arden
-oga_no: 7042
+uk_part1: '182288'
+callsign: ''
 ownerships:
-- current: true
-  id: 156
-  member: 2430
+- id: 156
   share: 64
   start: 2001
+  member: 2430
+  current: true
 place_built: Woodbridge
-rig_type: Cutter
-short_description: '''Rose of Arden'' was built by Whisstocks of Woodbridge, Suffolk
-  in 1939 to a design of Dr T Harrison Butler.'
 updated_at: '2021-12-19T13:40:01.274371+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+image_key: HTJnBs
+construction_details: Pitchpine on oak
+beam: 2.6914
+for_sale_state:
+  text: not_for_sale

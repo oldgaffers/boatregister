@@ -1,13 +1,21 @@
-builder: fe88887e-bd61-44e7-becc-79d7c458e215
-callsign: ''
+name: Manatee
+oga_no: 2055
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Freeward Marine
+  id: fe88887e-bd61-44e7-becc-79d7c458e215
+designer:
+  name: D Freeman/G. Wyatt
+  id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 construction_material: wood
 construction_method: unknown
-designer: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.8956352109241648
   length_over_all: 7.620092660326749
@@ -16,16 +24,17 @@ home_port: London
 hull_form: unknown
 id: 0fb43720-5790-4227-8b12-cd96e1d026ef
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Manatee
-oga_no: 2055
+callsign: ''
 ownerships:
 - name: Michael Hodges
   share: 64
   start: 2012
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:28.076889+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+previous_names:
+- Tumbler
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

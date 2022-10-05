@@ -1,49 +1,58 @@
-builder: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 6b0e581f-8507-4748-8d44-f8fb73dbef19
-draft: 1.2192
-engine_installations: []
-for_sales: []
+name: Mizpah
+oga_no: 2188
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Mizpah is a 1907 Seaview Mermaid design by G U Laws.
 full_description: Mizpah has been raced successfully off the West Country coast of
   England and took part in the 2002 Round the Island Race coming first in the Old
   Gaffers Division.
-generic_type: Yacht
+builder:
+  name: Peter Nash
+  id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
+designer:
+  name: G.U. Laws
+  id: 6b0e581f-8507-4748-8d44-f8fb73dbef19
+construction_material: wood
+construction_method: unknown
+draft: 1.2192
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.8288222384784198
-  draft: 1.21921482565228
-  fore_triangle_base: 2.718849061204584
-  fore_triangle_height: 6.848939283101682
-  length_on_waterline: 5.562667642038527
-  length_over_all: 7.620092660326749
   main:
     foot: 5.029261155815655
     head: 4.114850036576445
     luff: 3.8100463301633747
-  sailarea: 34.169212757326676
   thcf: 0.945
+  draft: 1.21921482565228
   topsail:
     luff: 4.57205559619605
     perpendicular: 1.6154596439892708
+  sailarea: 34.169212757326676
+  length_over_all: 7.620092660326749
+  fore_triangle_base: 2.718849061204584
+  length_on_waterline: 5.562667642038527
+  fore_triangle_height: 6.848939283101682
 home_country: 'null'
 home_port: Bembridge
 hull_form: unknown
 id: 9b77d26b-2b25-4ebe-83ac-dbc5d3b23017
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Mizpah
-oga_no: 2188
+callsign: ''
 ownerships:
-- current: true
-  id: 373
-  member: 4052
+- id: 373
   share: 64
   start: 1994
+  member: 4052
+  current: true
 place_built: Dartmouth
-rig_type: Sloop
-short_description: Mizpah is a 1907 Seaview Mermaid design by G U Laws.
 updated_at: '2021-12-19T13:39:31.709663+00:00'
 website: ''
 year: 1994
 year_is_approximate: false
+image_key: 5Wz4pC
+construction_details: Larch on oak
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

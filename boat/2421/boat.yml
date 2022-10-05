@@ -1,44 +1,53 @@
-builder: 1da13bc0-6b2c-4b99-8ef9-a6a025cc5b00
-callsign: ''
+name: Bufflehead
+oga_no: 2421
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Longtail Pair Boatshop
+  id: 1da13bc0-6b2c-4b99-8ef9-a6a025cc5b00
+designer:
+  name: C.E. Hamond
+  id: fce820d6-04b4-4307-8d2b-c7e09c2a6841
 construction_material: wood
 construction_method: clinker_ply
-designer: fce820d6-04b4-4307-8d2b-c7e09c2a6841
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.5240185320653499
-  length_over_all: 3.581443550353572
   main:
     foot: 2.8194342843208973
     head: 3.2004389173372347
     luff: 1.21921482565228
   thcf: 0.645550189
+  length_over_all: 3.581443550353572
 home_country: GBR
 home_port: Mersea Island
 hull_form: unknown
 id: 38713ed9-9a56-4782-a5df-50289517a0d0
 length_on_deck: 3.5814
-mainsail_type: lug
-name: Bufflehead
-oga_no: 2421
+sail_number: '38'
+callsign: ''
 ownerships:
 - note: Original owners, Howard & Sally Williams, Tobermory, Ontario.
   text: Original owners, Howard & Sally Williams, Tobermory, Ontario.
 - name: Anthony Bailey
   share: 64
   start: 2008
-- current: true
-  id: 105
-  member: 1899
+- id: 105
   share: 64
+  member: 1899
+  current: true
   start: '?'
 place_built: Tobermory, Ontario
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:38.155138+00:00'
 website: ''
 year: 2004
 year_is_approximate: false
+construction_details: Glued clinker marine ply
+beam: 1.524
+for_sale_state:
+  text: not_for_sale

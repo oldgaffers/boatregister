@@ -1,13 +1,21 @@
-builder: 37051541-d186-41f1-9b38-e42fd9f98824
-callsign: ''
+name: Serenity
+oga_no: 7039
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: Colvic
+  id: 37051541-d186-41f1-9b38-e42fd9f98824
+designer:
+  name: J. Bennett
+  id: 2415517b-bb5d-41d2-be3f-ddb26c283a17
 construction_material: grp
 construction_method: cold_moulded
-designer: 2415517b-bb5d-41d2-be3f-ddb26c283a17
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.0480370641306997
   length_over_all: 9.75371860521824
@@ -16,16 +24,16 @@ home_port: Larne
 hull_form: unknown
 id: e1b73f70-83db-41f4-8c04-18740b8e2ce0
 length_on_deck: 9.7536
-mainsail_type: bermudan
-name: Serenity
-oga_no: 7039
+callsign: ''
 ownerships:
 - name: Steven Gorman
   share: 64
   start: 2012
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:40:01.171127+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+construction_details: GRP
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

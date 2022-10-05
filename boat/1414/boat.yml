@@ -1,34 +1,45 @@
-builder: 40288619-ac45-457e-8b84-56f77c3bf57a
-callsign: ''
+name: Lowly Worm
+oga_no: 1414
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log Su/93, Wi/93
+builder:
+  name: Alan Glanville
+  id: 40288619-ac45-457e-8b84-56f77c3bf57a
+designer:
+  name: John F. French
+  id: bb0171e9-35f7-49a9-a287-d2a45ad98b19
 construction_material: ferro
 construction_method: unknown
-designer: bb0171e9-35f7-49a9-a287-d2a45ad98b19
 draft: 1.143
 engine_installations: []
 for_sales: []
-full_description: Log Su/93, Wi/93
-generic_type: Smack
 handicap_data:
   beam: 2.996220434040478
   draft: 1.1430138990490124
-  length_on_waterline: 7.924896366739819
   length_over_all: 9.1441111923921
+  length_on_waterline: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 7790c6f8-1188-431b-93d5-f506908398b9
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Lowly Worm
-oga_no: 1414
+reference:
+- Log Su/93
+- Log W/93
+callsign: ''
 ownerships:
 - name: A Glanville
   share: 64
   start: 1987
 place_built: S Wales
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:10.597892+00:00'
 website: ''
 year: 1984
 year_is_approximate: false
+construction_details: Ferro hull, rest timber
+beam: 2.9962
+for_sale_state:
+  text: not_for_sale

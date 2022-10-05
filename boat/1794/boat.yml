@@ -1,34 +1,42 @@
-builder: 8c95691c-b22e-4e8e-928c-4e2e983aef19
-callsign: ''
+name: Vaila
+oga_no: 1794
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: James N. Miller and Sons Ltd.
+  id: 8c95691c-b22e-4e8e-928c-4e2e983aef19
+designer:
+  name: Miller
+  id: 7f59c122-5069-4479-8edc-fae96c8f105b
 construction_material: wood
 construction_method: carvel
-designer: 7f59c122-5069-4479-8edc-fae96c8f105b
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.9624481833699097
   draft: 1.3716166788588149
-  length_on_waterline: 7.315288953913679
   length_over_all: 9.1441111923921
+  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 1963dc97-41dc-4bbc-878e-96312f54ff08
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Vaila
-oga_no: 1794
+callsign: ''
 ownerships:
 - name: E R T CrNMER
   share: 64
   start: 1989
 place_built: St Monance, Fife
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:20.47014+00:00'
 website: ''
 year: 1960
 year_is_approximate: false
+construction_details: Carvel Scottish larch on oak frames
+beam: 3.9624
+for_sale_state:
+  text: not_for_sale

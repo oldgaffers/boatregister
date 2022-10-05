@@ -1,9 +1,8 @@
-builder: dc949fd0-5020-43bc-8e17-b32e6320b3bd
-callsign: ''
-draft: 2.5
-engine_installations: []
-for_sales:
-- asking_price: 11000
+name: Leven Lady
+oga_no: 2564
+generic_type: Dayboat
+mainsail_type: gaff
+short_description: <p>An attractive production GRP gunter ketch with water ballast.</p>
 full_description: '<p><em>Leven Lady </em>is a slate grey Bayraider 20 which is one
   of a series of GRP boats produced by Swallow Yachts in Cardiff. Ketch rigged, she
   has a hollow wooden mast with wood main, mizzen and fore booms. The mizzen and gaff
@@ -16,7 +15,13 @@ full_description: '<p><em>Leven Lady </em>is a slate grey Bayraider 20 which is 
 
   <p>The boat is easy to trail, launch and recover with an active owner''s association
   organising rallies throughout Britain.</p>'
-generic_type: Dayboat
+builder:
+  name: Swallow Yachts
+  id: dc949fd0-5020-43bc-8e17-b32e6320b3bd
+draft: 2.5
+engine_installations: []
+for_sales:
+- asking_price: 11000
 handicap_data:
   moving_keel: true
   moving_keel_type: Centreboard
@@ -25,16 +30,22 @@ home_port: West Mersea
 hull_form: long keel sloping forefoot
 id: d39ee581-71b1-4fb8-a89d-10b29f605bd6
 length_on_deck: 6
-mainsail_type: gaff
-name: Leven Lady
-oga_no: 2564
+sail_number: '50'
+spar_material: other
+callsign: ''
 ownerships:
 - name: John O'Donnell
   share: 64
   start: 2012
 place_built: Cardiff
-short_description: <p>An attractive production GRP gunter ketch with water ballast.</p>
 updated_at: '2021-12-19T13:39:42.938136+00:00'
 website: ''
 year: 2010
 year_is_approximate: false
+image_key: 3c2ZMR
+beam: 2.05
+design_class:
+  name: Bay Raider 20
+  id: 83e6945b-dba5-422d-9623-4732574c36c0
+for_sale_state:
+  text: not_for_sale

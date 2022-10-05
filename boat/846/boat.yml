@@ -1,41 +1,51 @@
-builder: 63a9f518-defc-48c4-8ef9-c0cb5698e164
-callsign: ''
+name: Trekvogel
+oga_no: 846
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: G. degBoer
+  id: 63a9f518-defc-48c4-8ef9-c0cb5698e164
+designer:
+  name: G. de Boer
+  id: 0da8033f-37ee-4c7a-9ed0-98a5b165a4f2
 construction_material: ferro
 construction_method: unknown
-designer: 0da8033f-37ee-4c7a-9ed0-98a5b165a4f2
 draft: 2.0117
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 4.87685930260912
-  draft: 2.0117044623262617
-  fore_triangle_base: 12.039746403316263
-  fore_triangle_height: 15.849792733479639
-  length_on_waterline: 16.246037551816627
-  length_over_all: 17.465252377468907
   main:
     foot: 10.896732504267252
     head: 3.9624481833699097
     luff: 12.192148256522799
   thcf: 1.225253962
+  draft: 2.0117044623262617
+  length_over_all: 17.465252377468907
+  fore_triangle_base: 12.039746403316263
+  length_on_waterline: 16.246037551816627
+  fore_triangle_height: 15.849792733479639
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 2c44a93d-ff0a-458c-8f37-ec8eb4cd699c
 length_on_deck: 17.465
-mainsail_type: gaff
-name: Trekvogel
-oga_no: 846
+callsign: ''
 ownerships:
 - name: R M Lane
   share: 64
   start: 1966
 place_built: Lemmer
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:54.058218+00:00'
 website: ''
 year: 1913
 year_is_approximate: false
+previous_names:
+- Speriamo
+construction_details: Steel planking sheathed with ferro-cement on bent steel frames
+beam: 4.8768
+for_sale_state:
+  text: not_for_sale

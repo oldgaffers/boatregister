@@ -1,11 +1,9 @@
-builder: fffdbf30-aada-401f-b89d-9232ed107ea8
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: 0547b973-5c79-414d-9e46-17839bc0d336
-draft: 1.0363
-engine_installations: []
-for_sales: []
+name: Amity
+oga_no: 47
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Amity was built as a 37ft Beach Tripper Boat and became a cockler.</p>
 full_description: <p>Built as a Beach Tripper Boat on fuller form than Southwold beach
   company yawl for the Butoger Bros., her starboard bow was badly damaged by German
   bombing in the First World War.</p><p>She was bought in her damaged state by W.H
@@ -27,20 +25,28 @@ full_description: <p>Built as a Beach Tripper Boat on fuller form than Southwold
   1961 she was bought by Peter Croft and David Newborn who gave her a major refit.
   The old engine was replaced. John Loose, grandson of W Loose, was given 'Amity'
   by Peter Crofts in 1992.</p>
-generic_type: unknown
+builder:
+  name: Chambers
+  id: fffdbf30-aada-401f-b89d-9232ed107ea8
+designer:
+  name: Chambers
+  id: 0547b973-5c79-414d-9e46-17839bc0d336
+construction_material: wood
+construction_method: clinker
+draft: 1.0363
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.3528407705437697
   draft: 1.0363326018044379
-  length_on_waterline: 11.36917824920751
   length_over_all: 11.36917824920751
+  length_on_waterline: 11.36917824920751
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 190c6f65-8570-49ea-8b5c-47e935622afa
 length_on_deck: 11.369
-mainsail_type: gaff
-name: Amity
-oga_no: 47
+callsign: ''
 ownerships:
 - end: 1992
   name: Peter Croft
@@ -50,9 +56,12 @@ ownerships:
   share: 64
   start: 1992
 place_built: Great Yarmouth
-rig_type: Cutter
-short_description: <p>Amity was built as a 37ft Beach Tripper Boat and became a cockler.</p>
 updated_at: '2021-12-19T13:38:31.04989+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+image_key: cczRsL
+construction_details: Clinker Oak on Steamed Oak Timbers
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

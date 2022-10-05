@@ -1,10 +1,10 @@
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: d620b2b5-76e8-4d57-87b8-7beadfc28743
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Susanna
+oga_no: 3141
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: <p>&#39;Susanna&#39; has an interesting history of racing and cruising
+  since the 1950s.</p>
 full_description: "<p>Built for Mr Thorne in 1936, &#39;Susanna&#39; was laid up in\
   \ London during the war. Her original engine was a Kelvin Bergius 2 cylinder paraffin.\
   \ Little is known about her first two owners but in 1955 she was sold to Reville\
@@ -37,31 +37,39 @@ full_description: "<p>Built for Mr Thorne in 1936, &#39;Susanna&#39; was laid up
   \ of the season. In the winter of 1992-3 they looked at the accommodation, which\
   \ was basic, O&#39;Connell altering the original to keep the weight down for racing.\
   \ They sailed her on long summer cruises to Brittany.</p>"
-generic_type: Yacht
+designer:
+  name: Norman Dallimore
+  id: d620b2b5-76e8-4d57-87b8-7beadfc28743
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.5908436966593515
-  draft: 1.5240185320653499
-  fore_triangle_base: 4.87685930260912
-  fore_triangle_height: 9.29652523774689
-  length_on_waterline: 7.620092660326749
-  length_over_all: 10.2109363569861
-  length_over_spars: 12.03975859546452
   main:
     foot: 4.724469641550841
     luff: 11.099945135332845
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 45.489261282129696
   thcf: 0.981
+  draft: 1.5240185320653499
+  sailarea: 45.489261282129696
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 10.2109363569861
+  length_over_spars: 12.03975859546452
+  fore_triangle_base: 4.87685930260912
+  length_on_waterline: 7.620092660326749
+  fore_triangle_height: 9.29652523774689
 home_country: GBR
 home_port: Guernsey
 hull_form: long keel sloping forefoot
 id: c5d3d6f5-0ecd-4025-ad2b-d78731dbdf49
 length_on_deck: 10.2108
-mainsail_type: bermudan
-name: Susanna
-oga_no: 3141
+sail_number: '198'
+spar_material: wood
+uk_part1: '164699'
+callsign: ''
 ownerships:
 - end: 1949
   name: RC Thorne
@@ -99,16 +107,18 @@ ownerships:
   name: Giles Sibun
   share: 64
   start: 2004
-- current: true
-  id: 88
-  member: 1709
+- id: 88
   share: 64
   start: 2010
+  member: 1709
+  current: true
 place_built: Burnham on Crouch
-rig_type: Cutter
-short_description: <p>&#39;Susanna&#39; has an interesting history of racing and cruising
-  since the 1950s.</p>
 updated_at: '2021-12-19T13:39:59.085657+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+construction_details: Pitch pine, steamed canadian rock elm frames, copper fastened,
+  oak floors, elm keel,  lead ballast keel, aluminium bronze bolts.
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

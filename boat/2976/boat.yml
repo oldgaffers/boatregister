@@ -1,44 +1,57 @@
-builder: a0c9fc21-5e1d-4df9-a589-1e057ef97844
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: a4c70ed8-1574-475f-b5bd-ac4dfc6e067d
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Islay
+oga_no: 2976
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Purchased as an auxiliary masthead sloop, she had kemp masts in
   the 1960s. Designed as a gaff cutter, she originally had a Marconi rig. She was
   re-rigged using the original design drawings as a gaff cutter in 2010 by David Beling
   Largs Yacht Haven. Spars by Freeland Spars (Collars), sails by Saturn Sails Largs.
-generic_type: Yacht
+builder:
+  name: C. Cooper (Conyer) Ltd
+  id: a0c9fc21-5e1d-4df9-a589-1e057ef97844
+designer:
+  name: A. Bellingham/Fredrick Shepherd
+  id: a4c70ed8-1574-475f-b5bd-ac4dfc6e067d
+construction_material: wood
+construction_method: unknown
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.4689100219458666
   draft: 1.5240185320653499
-  length_on_waterline: 6.705681541087539
-  length_over_all: 8.686905632772493
   propellor:
-    blades: 3
     type: fixed
+    blades: 3
+  length_over_all: 8.686905632772493
+  length_on_waterline: 6.705681541087539
 home_country: GBR
 home_port: Clyde
 hull_form: long keel deep forefoot
 id: 2211d15e-9c2a-4069-b687-79f2e5d58017
 length_on_deck: 8.6868
-mainsail_type: gaff
-name: Islay
-oga_no: 2976
+sail_number: 69C
+uk_part1: '161803'
+callsign: ''
 ownerships:
 - name: David  Wilson
   share: 64
   start: 2002
-- current: true
+- share: 64
   member: 5408
-  share: 64
+  current: true
   start: '?'
 place_built: Conyer Kent
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:55.132874+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+construction_details: Teak on Oak
+beam: 2.4689
+design_class:
+  name: Cooper 6 Tonner
+  id: 499abdce-77f0-4293-b409-7d6b9e009721
+for_sale_state:
+  text: not_for_sale

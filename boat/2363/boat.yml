@@ -1,12 +1,11 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-draft: 1.6002
-engine_installations: []
-for_sales:
-- asking_price: 47500
+name: Susan J
+oga_no: 2363
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: "<p>Susan J is a Heard 28, built in 1991 by Gaffers and Luggers\
+  \ and has cruised extensively.</p>\r\n\r\n<p>susanjcutter@blogspot.com</p>\r\n\r\
+  \n<p>&nbsp;</p>"
 full_description: "<p>Susan J&#39;s first owners took her through the French canals\
   \ and cruised the Mediterranean. She had a complete refit during 2001 - 2002 at\
   \ Sandbanks Yacht Company, Poole, including a new bowsprit, rigging, teakwork and\
@@ -18,32 +17,44 @@ full_description: "<p>Susan J&#39;s first owners took her through the French can
   \ her new owners took her on the OGA Sou&#39; by Sou&#39;West Cruise when she reached\
   \ the Scilly Islands. She attended the&nbsp;OGA 55 celebrations in Cowes and in\
   \ 2019 cruised to&nbsp;North Brittany.</p>"
-generic_type: Yacht
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.6002
+engine_installations: []
+for_sales:
+- asking_price: 47500
 handicap_data:
   beam: 2.9700361201536207
-  draft: 1.6000194586686174
-  fore_triangle_base: 5.87007138899049
-  fore_triangle_height: 9.900120400512069
-  length_on_waterline: 8.50010337417703
-  length_over_all: 8.720106049743965
-  length_over_spars: 12.500152020848573
   main:
     foot: 4.900059592172641
     head: 3.77004584948793
     luff: 6.360077348207755
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 55.415422625716616
   thcf: 0.963
+  draft: 1.6000194586686174
+  sailarea: 55.415422625716616
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 8.720106049743965
+  length_over_spars: 12.500152020848573
+  fore_triangle_base: 5.87007138899049
+  length_on_waterline: 8.50010337417703
+  fore_triangle_height: 9.900120400512069
 home_country: GBR
 home_port: Falmouth - Helford Passage
 hull_form: long keel sloping forefoot
 id: 93c15ebe-50d5-4d62-b6e1-4728fc8937c9
 length_on_deck: 8.7112
-mainsail_type: gaff
-name: Susan J
-oga_no: 2363
+sail_number: '111'
+spar_material: wood
+ssr: '48052'
+callsign: ''
 ownerships:
 - end: 1999
   name: Les and Susan Goodfellow
@@ -57,17 +68,22 @@ ownerships:
   name: Dan Shaw
   share: 32
   start: 1999
-- current: true
-  id: 809
-  member: 5870
+- id: 809
   share: 64
   start: 2017
+  member: 5870
+  current: true
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: "<p>Susan J is a Heard 28, built in 1991 by Gaffers and Luggers\
-  \ and has cruised extensively.</p>\r\n\r\n<p>susanjcutter@blogspot.com</p>\r\n\r\
-  \n<p>&nbsp;</p>"
 updated_at: '2022-02-13T12:58:01.226637+00:00'
 website: https://susanjcutter.blogspot.com
 year: 1992
 year_is_approximate: false
+image_key: 57pCQd
+construction_details: GRP hull moulded by Gaffers and Luggers 1991, fit out and rig
+  by Traditional Yacht Services 1992.
+beam: 2.9474
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
+for_sale_state:
+  text: not_for_sale

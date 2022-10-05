@@ -1,12 +1,18 @@
-builder: 0aa17efa-8846-4c12-99fb-0442cac38efa
-callsign: ''
+name: Dobrahn
+oga_no: 1620
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 85/4, part way through rebuild awaiting deckbeamsetc.
+builder:
+  name: McCalmans
+  id: 0aa17efa-8846-4c12-99fb-0442cac38efa
 construction_material: wood
 construction_method: clinker
 draft: 1.6002
 engine_installations: []
 for_sales: []
-full_description: Log 85/4, part way through rebuild awaiting deckbeamsetc.
-generic_type: unknown
 handicap_data:
   beam: 3.3528407705437697
   draft: 1.6002194586686174
@@ -16,17 +22,21 @@ home_port: ''
 hull_form: long keel deep forefoot
 id: 6d255db2-84d5-4999-b1e7-45b06a2ffbd9
 length_on_deck: 10.0584
-mainsail_type: gaff
-name: Dobrahn
-oga_no: 1620
+reference:
+- Log 85/4
+callsign: ''
 ownerships:
 - name: I Urquhart
   share: 64
   start: 2012
 place_built: Islay
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:16.430123+00:00'
 website: ''
 year: 1893
 year_is_approximate: false
+previous_names:
+- Lily
+construction_details: Clinker larch on steamed oak, short fantail counter
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

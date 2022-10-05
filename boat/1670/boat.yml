@@ -1,51 +1,65 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Tregatreath
+oga_no: 1670
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Hull designed by Martin Heard, Gaffers &amp; Luggers with her
+  rig designed by John Fieldgate, a previous owner, and Jim Lawrence.</p>
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: grp
 construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.407949280663253
-  draft: 1.21921482565228
-  fore_triangle_base: 4.419653742989515
-  fore_triangle_height: 7.742014142891977
-  length_on_waterline: 6.858083394294074
-  length_over_all: 7.162887100707144
   main:
     foot: 4.206291148500366
     head: 2.9261155815654716
     luff: 4.26725188978298
-  propellor:
-    type: fixed
   thcf: 0.905896674
+  draft: 1.21921482565228
   topsail:
     luff: 4.084369665935138
     perpendicular: 2.1641063155327966
+  propellor:
+    type: fixed
+  length_over_all: 7.162887100707144
+  fore_triangle_base: 4.419653742989515
+  length_on_waterline: 6.858083394294074
+  fore_triangle_height: 7.742014142891977
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel deep forefoot
 id: a5448c15-c600-4e69-9c34-da896154ea78
 length_on_deck: 7.1628
-mainsail_type: gaff
-name: Tregatreath
-oga_no: 1670
+sail_number: '1670'
+uk_part1: '713454'
+callsign: ''
 ownerships:
 - note: John Fieldgate has owned her.
   text: John Fieldgate has owned her.
-- current: true
-  id: 136
-  member: 2263
+- id: 136
   share: 64
   start: 2007
+  member: 2263
+  current: true
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: <p>Hull designed by Martin Heard, Gaffers &amp; Luggers with her
-  rig designed by John Fieldgate, a previous owner, and Jim Lawrence.</p>
 updated_at: '2021-12-19T13:39:17.452121+00:00'
 website: ''
 year: 1987
 year_is_approximate: false
+image_key: jkHcnw
+construction_details: Glass Reinforced Plastic, wood deck and spars
+beam: 2.4079
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
+for_sale_state:
+  text: not_for_sale

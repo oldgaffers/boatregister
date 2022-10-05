@@ -1,38 +1,47 @@
-builder: b5b17362-b399-400b-9cbd-6f3a55b2ed3e
-callsign: ''
+name: Wild Gosling
+oga_no: 1017
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gifford
+  id: b5b17362-b399-400b-9cbd-6f3a55b2ed3e
+designer:
+  name: E.H. Gifford
+  id: ca57952b-4a55-46ff-b7ba-e6380c98a35e
 construction_material: wood
 construction_method: unknown
-designer: ca57952b-4a55-46ff-b7ba-e6380c98a35e
 draft: 0.2438
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.7678614971958058
-  draft: 0.24384296513045597
-  length_on_waterline: 5.029261155815655
-  length_over_all: 6.035113386978786
   main:
     foot: 3.301024140453548
     head: 3.301024140453548
     luff: 2.3835649841502073
   thcf: 0.806437896
+  draft: 0.24384296513045597
+  length_over_all: 6.035113386978786
+  length_on_waterline: 5.029261155815655
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 464ad880-64b8-4b8b-a4a2-480adec86139
 length_on_deck: 6.035
-mainsail_type: gaff
-name: Wild Gosling
-oga_no: 1017
+callsign: ''
 ownerships:
 - name: E W H Gifford
   share: 64
   start: 2012
 place_built: Cadnam
-short_description: ''
 updated_at: '2021-12-19T13:38:58.897144+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+previous_names:
+- Hunky Dory
+beam: 1.7678
+for_sale_state:
+  text: not_for_sale

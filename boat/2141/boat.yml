@@ -1,46 +1,57 @@
-builder: caff79d9-aeb5-4cfa-a330-2e843c8e1d5a
-callsign: ''
+name: May Queen
+oga_no: 2141
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: J. Bowden
+  id: caff79d9-aeb5-4cfa-a330-2e843c8e1d5a
+designer:
+  name: J. Bowden
+  id: ba69030c-bf33-41ca-b1f0-42a032139e0f
 construction_material: wood
 construction_method: carvel
-designer: ba69030c-bf33-41ca-b1f0-42a032139e0f
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 2.590831504511095
-  draft: 1.3716166788588149
-  fore_triangle_base: 5.233479639112412
-  fore_triangle_height: 10.36332601804438
-  length_on_waterline: 8.025481589856131
-  length_over_all: 10.66812972445745
   main:
     foot: 4.724457449402585
     head: 4.114850036576445
     luff: 3.6576444769568397
-  propellor:
-    type: fixed
   thcf: 0.994637566
+  draft: 1.3716166788588149
   topsail:
     luff: 5.029261155815655
     perpendicular: 2.43842965130456
+  propellor:
+    type: fixed
+  length_over_all: 10.66812972445745
+  fore_triangle_base: 5.233479639112412
+  length_on_waterline: 8.025481589856131
+  fore_triangle_height: 10.36332601804438
 home_country: 'null'
 home_port: Tralee, Co Kerry
 hull_form: long keel deep forefoot
 id: f25ac980-c4c5-4d21-94e5-5f25cc34c48c
 length_on_deck: 10.668
-mainsail_type: gaff
-name: May Queen
-oga_no: 2141
+callsign: ''
 ownerships:
 - name: Pat Chambers
   share: 64
   start: 2012
 place_built: Porthleven
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:30.402377+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+previous_names:
+- May Queen
+- REINE DE MAI
+construction_details: Carvel pitch pine on oak
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

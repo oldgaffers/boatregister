@@ -1,19 +1,16 @@
-callsign: ''
+name: Gem
+oga_no: 3209
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
 construction_material: ferro
 construction_method: unknown
 draft: 1.271
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 1.07
-  draft_keel_down: 2.1854
-  draft_keel_up: 1.271
-  fore_triangle_base: 7.681
-  fore_triangle_height: 15.3924
-  length_on_waterline: 9.7536
-  length_overall: 14.0208
   main:
     foot: 17
     luff: 45.5
@@ -21,24 +18,31 @@ handicap_data:
     foot: 11
     luff: 28.35
   moving_keel: true
+  draft_keel_up: 1.271
+  length_overall: 14.0208
+  calculated_thcf: 1.07
+  draft_keel_down: 2.1854
   moving_keel_type: Centreboard
+  fore_triangle_base: 7.681
+  length_on_waterline: 9.7536
+  fore_triangle_height: 15.3924
 home_country: GBR
 home_port: Burnham on Crouch
 hull_form: long keel sloping forefoot
 id: 86f04b90-8c4a-4f27-b7ed-9333b6d61cee
 length_on_deck: 14.0208
-mainsail_type: bermudan
-name: Gem
-oga_no: 3209
+callsign: ''
 ownerships:
-- current: true
-  id: 185
-  member: 2758
+- id: 185
   share: 64
   start: 2000
-rig_type: Ketch
-short_description: ''
+  member: 2758
+  current: true
 updated_at: '2021-12-19T13:40:04.150126+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+construction_details: Ferrocement
+beam: 3.557
+for_sale_state:
+  text: not_for_sale

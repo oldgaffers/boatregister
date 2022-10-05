@@ -1,11 +1,10 @@
-builder: 0cf3b8e1-ce23-4747-bb13-14fe22f02709
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: bcbdf8e0-ce1e-456e-9c03-e8c9cc3d579a
-draft: 1.8288
-engine_installations: []
-for_sales: []
+name: Tammie
+oga_no: 1774
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Tammie&#39; was built for George Ratsey, other notable
+  owners include Charles Nicholson.</p>
 full_description: "<p>&#39;Tammie&#39; was built for the sailmaker George Ratsey as\
   \ a gaff cutter. In the 1920s she was owned by Charles Nicholson and in the 1930s\
   \ by John Nicholson when she was sailed energetically in the Solent. By this stage\
@@ -17,23 +16,32 @@ full_description: "<p>&#39;Tammie&#39; was built for the sailmaker George Ratsey
   \ many years. The Yanmar 2 QM engine has been removed for overhaul and the port\
   \ side has been re-caulked. The starboard side, coachroof and deck also need some\
   \ attention.</p>"
-generic_type: Yacht
+builder:
+  name: Field and Co.
+  id: 0cf3b8e1-ce23-4747-bb13-14fe22f02709
+designer:
+  name: J.S. Helyar
+  id: bcbdf8e0-ce1e-456e-9c03-e8c9cc3d579a
+construction_material: wood
+construction_method: unknown
+draft: 1.8288
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.871250914411119
   draft: 1.8288222384784198
-  length_on_waterline: 8.22970007315289
   length_over_all: 9.1441111923921
+  length_on_waterline: 8.22970007315289
 home_country: GBR
 home_port: Langstone Harbour
 hull_form: long keel sloping forefoot
 id: fabb3859-602c-4fab-b821-4bf101e528da
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Tammie
-oga_no: 1774
+sail_number: 276Y
+uk_part1: '110244'
+callsign: ''
 ownerships:
 - end: 30
-  end_is_approximate: false
   note: Bought by current owner, Nicholas Hall, from Richard Hobbin on 30 Nov 2012.
     The original Certificate of British Registry records the last owner as Guy Charles
     Garbett Hutton, from 19 July 1971. He had owned her with other members of his
@@ -41,20 +49,24 @@ ownerships:
     entries are legible. It is interesting to see that she had an engine when first
     registered.
   text: Bought by current owner, Nicholas Hall, from Richard Hobbin on
+  end_is_approximate: false
 - end: 1996
   name: John Habgood
   share: 64
   start: 1988
-- current: true
-  id: 744
-  member: 5736
+- id: 744
   share: 64
   start: 2013
+  member: 5736
+  current: true
 place_built: Southampton
-rig_type: Cutter
-short_description: <p>&#39;Tammie&#39; was built for George Ratsey, other notable
-  owners include Charles Nicholson.</p>
 updated_at: '2021-12-19T13:39:19.968905+00:00'
 website: ''
 year: 1898
 year_is_approximate: false
+nsbr: '2370'
+image_key: LVhM2z
+construction_details: Pitch Pine on Oak with a lead keel
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

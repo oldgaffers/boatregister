@@ -1,41 +1,54 @@
-builder: fd92000c-a4ab-4f4f-89b9-b6c1b168ac13
-callsign: ''
+name: Windhover
+oga_no: 3225
+generic_type: Dayboat
+rig_type: Yawl
+mainsail_type: gunter
+short_description: <p>Windhover is an original wooden Drascombe Lugger.</p>
+full_description: <p>Windhover is an original wooden Drascombe Lugger, the 3rd built
+  by John Elliott under his own name after building 65 at Kelly and Hall.</p>
+builder:
+  name: John Elliot
+  id: fd92000c-a4ab-4f4f-89b9-b6c1b168ac13
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: plywood
 construction_method: clinker
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 0.3048
 engine_installations: []
 for_sales: []
-full_description: <p>Windhover is an original wooden Drascombe Lugger, the 3rd built
-  by John Elliott under his own name after building 65 at Kelly and Hall.</p>
-generic_type: Dayboat
 handicap_data:
-  draft_keel_up: 0.3048
-  length_on_waterline: 5.0292
-  length_over_spars: 5.715
-  length_overall: 5.715
   moving_keel: true
+  draft_keel_up: 0.3048
+  length_overall: 5.715
   moving_keel_type: Centreboard
+  length_over_spars: 5.715
+  length_on_waterline: 5.0292
 home_country: GBR
 home_port: London
 hull_form: long keel deep forefoot
 id: bacae85c-9952-4229-a094-6974f72ce8b6
 length_on_deck: 5.715
-mainsail_type: gunter
-name: Windhover
-oga_no: 3225
+sail_number: '68'
+callsign: ''
 ownerships:
 - name: Nick and Sally Floyer
   share: 64
   start: 2013
-- current: true
+- share: 64
   member: 4841
-  share: 64
+  current: true
   start: '?'
 place_built: Yealmbridge Devon
-rig_type: Yawl
-short_description: <p>Windhover is an original wooden Drascombe Lugger.</p>
 updated_at: '2021-12-19T13:40:04.635624+00:00'
 website: ''
 year: 1968
 year_is_approximate: false
+image_key: XTwhH7
+construction_details: Lapstrake ply
+beam: 1.9294
+design_class:
+  name: Drascombe Lugger
+  id: e382b7b9-1e83-4b73-8815-3ba721e32001
+for_sale_state:
+  text: not_for_sale

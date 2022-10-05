@@ -1,11 +1,10 @@
-builder: b3841693-d336-4132-8e60-8933dfd41cf6
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
-draft: 1.4508
-engine_installations: []
-for_sales: []
+name: Spinaway X
+oga_no: 3295
+generic_type: Plymouth Hooker
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Spinaway X&#39; is an early Plymouth Hooker built in Looe
+  in 1889.</p>
 full_description: "<p>&#39;Spinaway X&#39; was built in Looe in the 1880s. She was\
   \ first registered in Plymouth in 1891 as PH 302. She is an early example of a Plymouth\
   \ Hooker. She fished out of Polperro and other West Country ports until 1949 when\
@@ -27,30 +26,39 @@ full_description: "<p>&#39;Spinaway X&#39; was built in Looe in the 1880s. She w
   \ Mike and Brian on the River Medina. Take a look at the My Classic Boat video here.</p>\r\
   \n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"360\" src=\"https://www.youtube.com/embed/Qxj-reShv3o\"\
   \ width=\"640\"></iframe></p>"
-generic_type: Plymouth Hooker
+builder:
+  name: Unknown
+  id: b3841693-d336-4132-8e60-8933dfd41cf6
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+construction_material: wood
+construction_method: carvel
+draft: 1.4508
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 0.969
-  fore_triangle_base: 7.0013
-  fore_triangle_height: 8.0985
-  length_on_waterline: 8.2997
-  length_over_spars: 12.6004
-  length_overall: 8.699
   main:
     foot: 14.44
     head: 11.48
     luff: 16.01
-  sailarea: 4
   topsail:
     luff: 18.04
     perpendicular: 8.86
+  sailarea: 4
+  length_overall: 8.699
+  calculated_thcf: 0.969
+  length_over_spars: 12.6004
+  fore_triangle_base: 7.0013
+  length_on_waterline: 8.2997
+  fore_triangle_height: 8.0985
 home_country: GBR
 home_port: Cowes
 hull_form: long keel deep forefoot
 id: 2c4ba110-12ce-47bd-b23e-94d4875e336c
 length_on_deck: 8.699
-mainsail_type: gaff
-name: Spinaway X
-oga_no: 3295
+uk_part1: '167782'
+callsign: ''
 ownerships:
 - end: 1915
   name: Davenport
@@ -78,17 +86,17 @@ ownerships:
   start: 1971
 - note: Jack Hockaday sold her to Dave Bryant of Falmouth in 1973. In the mid 1970's
     she was owned by the Galpin family.
+  text: Jack Hockaday sold her to Dave Bryant of Falmouth in
   start: 1973
   start_is_approximate: false
-  text: Jack Hockaday sold her to Dave Bryant of Falmouth in
 - end: 1986
   name: Jim Curry
   share: 64
   start: 1979
 - note: Jim Curry sold her to an unknown buyer in 1986
+  text: Jim Curry sold her to an unknown buyer in
   start: 1986
   start_is_approximate: false
-  text: Jim Curry sold her to an unknown buyer in
 - end: 2003
   name: Dave and Anna Blinkhorn
   share: 64
@@ -97,16 +105,18 @@ ownerships:
   name: Graham and Sally Butler
   share: 64
   start: 2003
-- current: true
-  id: 893
-  member: 6017
+- id: 893
   share: 64
   start: 2015
+  member: 6017
+  current: true
 place_built: Looe
-rig_type: Cutter
-short_description: <p>&#39;Spinaway X&#39; is an early Plymouth Hooker built in Looe
-  in 1889.</p>
 updated_at: '2021-12-19T13:40:06.757386+00:00'
 website: ''
 year: 1889
 year_is_approximate: false
+image_key: Q837Kj
+construction_details: "Carvel, wood\r\n"
+beam: 2.7493
+for_sale_state:
+  text: not_for_sale

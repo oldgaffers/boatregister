@@ -1,36 +1,49 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Puffin
+oga_no: 1712
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.3048
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 1.8288222384784198
-  draft: 0.30480370641307
-  fore_triangle_base: 1.6764203852718849
-  fore_triangle_height: 3.581443550353572
-  length_on_waterline: 4.57205559619605
-  length_over_all: 4.724457449402585
   main:
     foot: 3.0480370641306997
     head: 2.5146305779078273
     luff: 2.13362594489149
   thcf: 0.772679416
+  draft: 0.30480370641307
+  length_over_all: 4.724457449402585
+  fore_triangle_base: 1.6764203852718849
+  length_on_waterline: 4.57205559619605
+  fore_triangle_height: 3.581443550353572
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: c04b5fef-13f1-45ab-9991-19d320f34bf1
 length_on_deck: 4.7244
-mainsail_type: gaff
-name: Puffin
-oga_no: 1712
+sail_number: CP24
+callsign: ''
 place_built: Mylor Bridge
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:45:35.98548+00:00'
 website: ''
 year: 1991
 year_is_approximate: false
+previous_names:
+- Selkie
+- Bosun's Call V
+construction_details: grp
+beam: 1.8288
+design_class:
+  name: Clovelly Picarooner
+  id: 11aace65-18e9-4ec8-b204-763199e59f90
+for_sale_state:
+  text: not_for_sale

@@ -1,43 +1,55 @@
-builder: 954dc050-837f-454f-be87-830d8cf00c2b
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: bee8aa62-1e82-4fd0-a9a8-1513f015638a
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Mariette
+oga_no: 3113
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Converted to gaff cutter from Bermudan sloop in 2000. She has
+  had her plate removed and full size iroko bilge keels have been added by Robertsons
+  of Woodbridge plus other works by them. The plate case was filled with lead and
+  iron to compensate for the loss of plate weight.</p>
 full_description: "<p>Built initially as Bermudan sloop with alloy spars and ss lifelines\
   \ etc., Mr Reeves purchased her around 2000 and converted her to a gaff cutter.</p>\r\
   \n\r\n<p>All deck fittings were changed to gunmetal. He added a new engine, spars\
   \ and sails in 2002. Spars&nbsp;by Adrian Riva, sail plan and sails by Lawrence&nbsp;rigging\
   \ by TS Rigging. Much improved electronics were installed, 2002.</p>"
-generic_type: Yacht
+builder:
+  name: Alan F. Platt  Ltd
+  id: 954dc050-837f-454f-be87-830d8cf00c2b
+designer:
+  name: Alan F. Platt
+  id: bee8aa62-1e82-4fd0-a9a8-1513f015638a
+construction_material: wood
+construction_method: clinker
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.463831992197025
-  draft: 0.7620214581809314
-  draft_keeldown: 1.9812362838332114
-  fore_triangle_base: 3.9624481833699097
-  fore_triangle_height: 7.315288953913679
-  length_on_waterline: 6.50248719824433
-  length_over_all: 7.315288953913679
-  length_over_spars: 8.53450377956596
   main:
     foot: 4.419665935137771
     head: 3.6576444769568397
     luff: 4.343458912460375
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 33.2502229021608
   thcf: 0.89
+  draft: 0.7620214581809314
+  sailarea: 33.2502229021608
+  propellor:
+    type: fixed
+    blades: 3
+  draft_keeldown: 1.9812362838332114
+  length_over_all: 7.315288953913679
+  length_over_spars: 8.53450377956596
+  fore_triangle_base: 3.9624481833699097
+  length_on_waterline: 6.50248719824433
+  fore_triangle_height: 7.315288953913679
 home_country: GBR
 home_port: Benfleet Essex
 hull_form: long keel sloping forefoot
 id: 1315e8be-6907-468e-97e0-5e25a3862bdf
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Mariette
-oga_no: 3113
+sail_number: '5'
+spar_material: wood
+ssr: '152622'
+callsign: ''
 ownerships:
 - end: 2012
   name: Reeves
@@ -48,12 +60,18 @@ ownerships:
   share: 64
   start: 2012
 place_built: Thundersley
-rig_type: Cutter
-short_description: <p>Converted to gaff cutter from Bermudan sloop in 2000. She has
-  had her plate removed and full size iroko bilge keels have been added by Robertsons
-  of Woodbridge plus other works by them. The plate case was filled with lead and
-  iron to compensate for the loss of plate weight.</p>
 updated_at: '2021-12-19T13:39:58.239637+00:00'
 website: ''
 year: 1971
 year_is_approximate: false
+previous_names:
+- Severe
+image_key: RxV2rb
+construction_details: "Clinker iroko on oak frames\r\nBilge keels fitted 2014 plate\
+  \ and case removed"
+beam: 2.6914
+design_class:
+  name: Finesse 24
+  id: b0a089a7-eb42-4ba2-bc3e-a79a26417c02
+for_sale_state:
+  text: not_for_sale

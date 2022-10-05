@@ -1,32 +1,39 @@
-builder: 46ee929e-e942-4a78-9b50-0a4e4b3106be
-callsign: ''
+name: Wyzita
+oga_no: 49
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Smith
+  id: 46ee929e-e942-4a78-9b50-0a4e4b3106be
+designer:
+  name: Smith
+  id: fa6c5e11-490d-4474-b586-19254e04567f
 construction_material: wood
 construction_method: unknown
-designer: fa6c5e11-490d-4474-b586-19254e04567f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
-  length_on_waterline: 5.334064862228725
   length_over_all: 6.2484759814679345
+  length_on_waterline: 5.334064862228725
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 1437c698-ed5d-445e-b197-9c70ae3cb3ff
 length_on_deck: 6.2484
-mainsail_type: gaff
-name: Wyzita
-oga_no: 49
+callsign: ''
 ownerships:
 - name: A Moncrieff
   share: 64
   start: 2012
 place_built: Lerwick
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:31.114912+00:00'
 website: ''
 year_is_approximate: false
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

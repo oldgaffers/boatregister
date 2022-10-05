@@ -1,11 +1,14 @@
-builder: 1490f054-b323-4ef5-961c-9026f880c340
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 4139d907-458e-4b08-88d2-6e8cefb63324
-draft: 0
-engine_installations: []
-for_sales: []
+name: Pastime
+oga_no: 457
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Recorded as being built in Arnside by Crossfield Brothers in
+  1903 in Lloyds Register. Dave Walters, a folk singer and previous owner, wrote the
+  song "Ballerina" about her, which features in his 1982 Highway album, "Kites". Pastime
+  had an excellent record in the Liverpool Isle of Man Race winning it twice and being
+  place three times in the 1930s. The first photos shows her in the Menai Straits
+  when owned by Peter Price in the mid 60s. and the second when owned by Dave Walters.</p>
 full_description: "<p>Recorded as being built in 1903 by Lloyds Register, Pastime\
   \ was built as yacht, though registered for fishing during both word wars. In 1930s\
   \ she had an outstanding record in the Liverpool Isle of Man Midnight Race winning\
@@ -66,32 +69,37 @@ full_description: "<p>Recorded as being built in 1903 by Lloyds Register, Pastim
   \ daughter<br>\nSailing alone on the tide<br>\nShe slowly advanced, squared up then\
   \ danced<br>\nThe belle ballerina of the bay<br>\nShe's the belle ballerina of the\
   \ bay</p>"
-generic_type: Yacht
+builder:
+  name: Crossfield Bros.
+  id: 1490f054-b323-4ef5-961c-9026f880c340
+designer:
+  name: John Crossfield
+  id: 4139d907-458e-4b08-88d2-6e8cefb63324
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.0480370641306997
-  length_on_waterline: 8.83930748597903
   length_over_all: 9.75371860521824
+  length_on_waterline: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: f99d37aa-f169-4768-bb3c-67c66d28631e
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Pastime
-oga_no: 457
+callsign: ''
 ownerships:
 - name: D Walters
   share: 64
   start: 2012
 place_built: Arnside
-rig_type: Cutter
-short_description: <p>Recorded as being built in Arnside by Crossfield Brothers in
-  1903 in Lloyds Register. Dave Walters, a folk singer and previous owner, wrote the
-  song "Ballerina" about her, which features in his 1982 Highway album, "Kites". Pastime
-  had an excellent record in the Liverpool Isle of Man Race winning it twice and being
-  place three times in the 1930s. The first photos shows her in the Menai Straits
-  when owned by Peter Price in the mid 60s. and the second when owned by Dave Walters.</p>
 updated_at: '2021-12-19T13:38:42.868401+00:00'
 website: ''
 year: 1896
 year_is_approximate: false
+image_key: HWR5SH
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

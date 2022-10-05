@@ -1,33 +1,39 @@
-builder: f4375d5d-1165-4159-bb93-5b4a7ee43be1
-callsign: ''
+name: Briar
+oga_no: 1448
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 construction_material: wood
 construction_method: carvel
 draft: 2.1854
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 5.334064862228725
   draft: 2.1854425749817117
-  length_on_waterline: 15.240185320653499
   length_over_all: 17.06900755913192
+  length_on_waterline: 15.240185320653499
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 4d6826dc-cf4b-40e9-be78-a97d843f030e
 length_on_deck: 17.0688
-mainsail_type: gaff
-name: Briar
-oga_no: 1448
+callsign: ''
 ownerships:
 - name: J & P Halstad
   share: 64
   start: 1987
 place_built: Fraserburgh
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:11.640411+00:00'
 website: ''
 year: 1934
 year_is_approximate: false
+construction_details: Larch on oak, carvel, iron fastened
+beam: 5.334
+for_sale_state:
+  text: not_for_sale

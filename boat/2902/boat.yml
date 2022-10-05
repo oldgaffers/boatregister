@@ -1,11 +1,10 @@
-builder: 78e1fe04-f0f2-4b59-b529-e481aacbb131
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: ec954b97-b4e7-4203-a28c-7d85278bf748
-draft: 1.2192
-engine_installations: []
-for_sales: []
+name: Frolic
+oga_no: 2902
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Frolic is a traditional gaff&nbsp;cutter, kept in Fenit, North
+  Kerry.</p>
 full_description: "<p>Frolic is a traditional gaff cutter, built in 2005 at Hegartys\
   \ Yard in west Cork Ireland.</p>\r\n\r\n<p>She is an Ed Burnett design and can be\
   \ seen &#39;in build&#39; along with her plans and sail detail&nbsp;by visiting\
@@ -24,7 +23,17 @@ full_description: "<p>Frolic is a traditional gaff cutter, built in 2005 at Hega
   \ of Ireland swells&nbsp;without a&nbsp;bother, even when handled by a mostly hungover\
   \ crew.</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"360\"\
   \ src=\"//www.youtube.com/embed/1ibs_JHEnxo?rel=0\" width=\"640\"></iframe></p>"
-generic_type: Yacht
+builder:
+  name: Liam Hegarty
+  id: 78e1fe04-f0f2-4b59-b529-e481aacbb131
+designer:
+  name: Ed Burnett
+  id: ec954b97-b4e7-4203-a28c-7d85278bf748
+construction_material: wood
+construction_method: unknown
+draft: 1.2192
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
   length_over_all: 7.034869544013654
@@ -33,9 +42,7 @@ home_port: Fenit, Co. Kerry Ireland
 hull_form: long keel sloping forefoot
 id: 81641c9c-d0fd-4882-b04e-7e832f726fa9
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Frolic
-oga_no: 2902
+callsign: ''
 ownerships:
 - end: 2013
   name: Cormac Levis
@@ -46,10 +53,13 @@ ownerships:
   share: 64
   start: 2013
 place_built: Hegartys Yard Oldcourt Skibereen West Cork Ireland
-rig_type: Cutter
-short_description: <p>Frolic is a traditional gaff&nbsp;cutter, kept in Fenit, North
-  Kerry.</p>
 updated_at: '2021-12-19T13:39:52.857379+00:00'
 website: http://www.burnettyachtdesign.co.uk/110smallcutter.html
 year: 2005
 year_is_approximate: false
+image_key: zx2SsR
+construction_details: Larch planking on steamed oak ribs. Teak deck. Copper nails,
+  silicon bronze bolts, lead keel.
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

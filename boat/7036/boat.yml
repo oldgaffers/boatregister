@@ -1,8 +1,28 @@
-builder: b852b7bf-0e72-423c-86dc-852548bb8f4f
-callsign: ''
+name: Tantina II
+oga_no: 7036
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: <p>Featured in Yachting World as a good cruiser that can race under
+  JOG/RORC rules, Tantina II is heavily built and survived a Force 11 at Rockall.
+  She has cruised from France to Shetlands and as far as The Azores.</p>
+full_description: '<p>Designed by J. Francis Jones and beautifully built by R. A.
+  Newman in 1961. &nbsp;Her design as a cruiser/racer appeared as a centrefold in
+  Yachting World the same year. In the same ownership for the last 40 years, she has
+  been maintained on a no expense spared basis and always kept indoors during the
+  winter. Very strongly built with pitch pine and mahogany planking on oak frames
+  with teak decks and superstructure. Lead keel, bronze keel bolts.&nbsp;</p>
+
+  <p>&nbsp;A very capable cruiser, having been as far north as Shetland Islands, west
+  as far as Rockall, and south to France, Brittany, and Azores.</p>'
+builder:
+  name: R.A. Newman and Sons Ltd.
+  id: b852b7bf-0e72-423c-86dc-852548bb8f4f
+designer:
+  name: Francis J. Jones
+  id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 construction_material: wood
 construction_method: carvel
-designer: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 draft: 1.1948
 engine_installations: []
 for_sales:
@@ -97,49 +117,38 @@ for_sales:
   sold: null
   summary: null
   updated_at: '2022-03-28T17:29:41.79949+00:00'
-full_description: '<p>Designed by J. Francis Jones and beautifully built by R. A.
-  Newman in 1961. &nbsp;Her design as a cruiser/racer appeared as a centrefold in
-  Yachting World the same year. In the same ownership for the last 40 years, she has
-  been maintained on a no expense spared basis and always kept indoors during the
-  winter. Very strongly built with pitch pine and mahogany planking on oak frames
-  with teak decks and superstructure. Lead keel, bronze keel bolts.&nbsp;</p>
-
-  <p>&nbsp;A very capable cruiser, having been as far north as Shetland Islands, west
-  as far as Rockall, and south to France, Brittany, and Azores.</p>'
-generic_type: Yacht
 handicap_data:
   beam: 2.5146305779078273
-  draft: 1.1948305291392343
-  fore_triangle_base: 3.328456474030724
-  fore_triangle_height: 11.811143623506462
-  length_on_waterline: 6.858083394294074
-  length_over_all: 9.601316752011703
   main:
     foot: 4.090465740063399
     luff: 10.311509387954157
+  thcf: 0.950651685
+  draft: 1.1948305291392343
   propellor:
     type: folding
-  thcf: 0.950651685
+  length_over_all: 9.601316752011703
+  fore_triangle_base: 3.328456474030724
+  length_on_waterline: 6.858083394294074
+  fore_triangle_height: 11.811143623506462
 home_country: GBR
 home_port: Isle of Bute
 hull_form: long keel sloping forefoot
 id: de2ed984-c0d9-4ba1-9965-d841b97990a8
 length_on_deck: 9.6012
-mainsail_type: bermudan
-name: Tantina II
-oga_no: 7036
+spar_material: aluminium
+callsign: ''
 ownerships:
-- current: true
-  id: 457
-  member: 4452
+- id: 457
   share: 64
   start: 2008
+  member: 4452
+  current: true
 place_built: Poole
-rig_type: Sloop
-short_description: <p>Featured in Yachting World as a good cruiser that can race under
-  JOG/RORC rules, Tantina II is heavily built and survived a Force 11 at Rockall.
-  She has cruised from France to Shetlands and as far as The Azores.</p>
 updated_at: '2022-05-03T21:24:19.883751+00:00'
 website: ''
 year: 1961
 year_is_approximate: false
+image_key: zprxDw
+beam: 2.539
+for_sale_state:
+  text: for_sale

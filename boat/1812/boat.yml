@@ -1,36 +1,43 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
+name: Roin Bahn
+oga_no: 1812
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Boatman Sep 94
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 construction_material: wood
 construction_method: unknown
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: Boatman Sep 94
-generic_type: Yacht
 handicap_data:
   beam: 2.8194342843208973
   draft: 1.066812972445745
-  length_on_waterline: 8.458302852962692
-  length_over_all: 9.1441111923921
   propellor:
     type: fixed
+  length_over_all: 9.1441111923921
+  length_on_waterline: 8.458302852962692
 home_country: 'null'
 home_port: Peel, Isle of Man
 hull_form: long keel deep forefoot
 id: 4a36e9b9-d0a5-44cc-adac-15aa0dede93e
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Roin Bahn
-oga_no: 1812
+callsign: ''
 ownerships:
 - name: K D Hewson
   share: 64
   start: 2012
 place_built: Littlehampton
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:20.98087+00:00'
 website: ''
 year: 1963
 year_is_approximate: false
+beam: 2.8194
+for_sale_state:
+  text: not_for_sale

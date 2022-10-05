@@ -1,11 +1,11 @@
-builder: 4dad4b68-a367-41df-a4db-81940c97bb0c
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: bb41d838-779a-40e4-8330-00460deb203f
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Charm
+oga_no: 2430
+generic_type: Canoe Yawl
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Built in 1922, &#39;Charm&#39; is one of several boats with
+  the same name attributed to Albert Strange. She has had a chequered history, with
+  more than one restoration.</p>
 full_description: "<h3>Restoring &#39;Charm&#39; (2000 - 2006) by Russell Read</h3>\r\
   \n\r\n<p>First published in Gaffers Log, September 2006</p>\r\n\r\n<blockquote>In\
   \ writing this piece it occurs to me that others too may be tired of the typical\
@@ -86,20 +86,29 @@ full_description: "<h3>Restoring &#39;Charm&#39; (2000 - 2006) by Russell Read</
   \ for it but to go out for a proper sail, and hope for a few admiring comments.\
   \ Inevitably no-one said very much: the East Coast is a bit blas&eacute; about pretty\
   \ boats. But for me; at last it all seemed to have been worthwhile.</blockquote>"
-generic_type: Canoe Yawl
+builder:
+  name: Woods
+  id: 4dad4b68-a367-41df-a4db-81940c97bb0c
+designer:
+  name: Albert Strange
+  id: bb41d838-779a-40e4-8330-00460deb203f
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.3104120946110704
   draft: 1.5240185320653499
-  length_on_waterline: 7.620092660326749
   length_over_all: 10.05852231163131
+  length_on_waterline: 7.620092660326749
 home_country: GBR
 home_port: Walton Backwaters
 hull_form: unknown
 id: 580f3164-fafb-4972-9f61-f224f3d25001
 length_on_deck: 10.0584
-mainsail_type: gaff
-name: Charm
-oga_no: 2430
+uk_part1: '144126'
+callsign: ''
 ownerships:
 - end: 2013
   name: Russell Read
@@ -108,16 +117,17 @@ ownerships:
 - name: Robert Westling
   share: 64
   start: 2013
-- current: true
+- share: 64
   member: 5830
-  share: 64
+  current: true
   start: '?'
 place_built: Cantley
-rig_type: Yawl
-short_description: <p>Built in 1922, &#39;Charm&#39; is one of several boats with
-  the same name attributed to Albert Strange. She has had a chequered history, with
-  more than one restoration.</p>
 updated_at: '2021-12-19T13:39:38.455392+00:00'
 website: http://www.albertstrange.org/?cat=9
 year: 1922
 year_is_approximate: false
+image_key: 44NMJ4
+construction_details: Carvel pine on oak
+beam: 2.3104
+for_sale_state:
+  text: not_for_sale

@@ -1,12 +1,11 @@
-builder: af2c6e56-9998-425c-aeed-10e8874dfbde
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: cfb14a6f-03f7-4689-832d-2a21f28b7fc4
-draft: 1.6459
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Laura
+oga_no: 1566
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Laura&#39; was built for J H Atkey, of Pascall Atkey &amp;
+  Son, Yacht Chandlers, Isle of Wight. Originally an open boat she was decked over
+  in 1910. In her early days she was used to transport chandlery across from the mainland.</p>
 full_description: "<p>&#39;Laura&#39; was built in 1900 for Joseph Henry Atkey, of\
   \ Pascall Atkey &amp; Son, arguably the oldest Yacht Chandlery in the UK at Cowes,\
   \ IoW.</p>\r\n\r\n<p>Originally an open boat she was decked over in 1910. In her\
@@ -21,22 +20,32 @@ full_description: "<p>&#39;Laura&#39; was built in 1900 for Joseph Henry Atkey, 
   \ modern electronic conveniences, but she has never been mucked about.&nbsp; Her\
   \ inventory is very original and includes a beautifully-made Pascal Atkey copper\
   \ kettle, almost certainly one of the few left in existence.</p>"
-generic_type: Yacht
+builder:
+  name: John West
+  id: af2c6e56-9998-425c-aeed-10e8874dfbde
+designer:
+  name: Alfred E. Payne
+  id: cfb14a6f-03f7-4689-832d-2a21f28b7fc4
+construction_material: wood
+construction_method: carvel
+draft: 1.6459
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.6764203852718849
-  length_on_waterline: 8.53450377956596
-  length_over_all: 9.1441111923921
   propellor:
     type: fixed
+  length_over_all: 9.1441111923921
+  length_on_waterline: 8.53450377956596
 home_country: GBR
 home_port: Newtown Creek IoW
 hull_form: long keel sloping forefoot
 id: abef0157-aaeb-43eb-a498-db7ddd2f7643
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Laura
-oga_no: 1566
+uk_part1: '120420'
+callsign: ''
 ownerships:
 - note: Previously owned by Richard Seabroke's father who bought her during the Second
     World War. Prior to that she was owned by C.J.P Cave.
@@ -47,11 +56,12 @@ ownerships:
   share: 64
   start: 1997
 place_built: Woolston
-rig_type: Cutter
-short_description: <p>&#39;Laura&#39; was built for J H Atkey, of Pascall Atkey &amp;
-  Son, Yacht Chandlers, Isle of Wight. Originally an open boat she was decked over
-  in 1910. In her early days she was used to transport chandlery across from the mainland.</p>
 updated_at: '2021-12-19T13:39:14.971172+00:00'
 website: ''
 year: 1900
 year_is_approximate: false
+image_key: gf2jvB
+construction_details: Carvel Pitch Pine on Oak Wrought iron Floors Lead Keel
+beam: 2.987
+for_sale_state:
+  text: not_for_sale

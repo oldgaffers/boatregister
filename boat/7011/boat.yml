@@ -1,29 +1,41 @@
-builder: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
-callsign: ''
+name: Mallard of Chet
+oga_no: 7011
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: Porter and Haylett Ltd.
+  id: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
 construction_material: wood
 construction_method: unknown
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: 'null'
 home_port: Southwold
 hull_form: unknown
 id: 4e4f03f6-61b0-4f33-86c9-f197255b2380
 length_on_deck: 0
-mainsail_type: bermudan
-name: Mallard of Chet
-oga_no: 7011
+callsign: ''
 ownerships:
 - name: Jonathan Hoseason
   share: 64
   start: 2012
 place_built: Wroxham
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:40:00.313153+00:00'
 website: ''
 year: 1968
 year_is_approximate: false
+previous_names:
+- Bramble of Rue de la Mer
+beam: 0
+design_class:
+  name: Peter Duck
+  id: 63bb01a3-7495-48a5-9ca8-e90c5d93bc09
+for_sale_state:
+  text: not_for_sale

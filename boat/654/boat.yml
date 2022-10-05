@@ -1,35 +1,40 @@
-callsign: ''
+name: Dolphin
+oga_no: 654
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: carvel
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  length_on_waterline: 5.699829309924408
   length_over_all: 6.0960741282613995
+  length_on_waterline: 5.699829309924408
 home_country: GBR
 home_port: Solent
 hull_form: long keel sloping forefoot
 id: 5da405d1-24d0-4d61-920d-cc90e479750a
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Dolphin
-oga_no: 654
+callsign: ''
 ownerships:
 - name: C N Wood
   share: 64
   start: 1984
-- current: true
-  id: 810
-  member: 5871
+- id: 810
   share: 64
+  member: 5871
+  current: true
   start: '?'
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:48.568443+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+image_key: zmzkHR
+construction_details: 'Carvel : Mahogany on oak'
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

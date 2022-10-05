@@ -1,12 +1,18 @@
-builder: d38b9756-e98f-4588-9b41-8cfb7ef6fe26
-callsign: ''
+name: Nancy's Pride
+oga_no: 2094
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Hopkins
+  id: d38b9756-e98f-4588-9b41-8cfb7ef6fe26
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   length_over_all: 7.796878810046329
@@ -15,17 +21,17 @@ home_port: Arranmore
 hull_form: unknown
 id: 75635dae-8f99-48a3-9347-e4e803d240aa
 length_on_deck: 7.7968
-mainsail_type: gaff
-name: Nancy's Pride
-oga_no: 2094
+callsign: ''
 ownerships:
 - name: Gerald Boyle
   share: 64
   start: 2012
 place_built: Donegal Ireland
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:29.197614+00:00'
 website: ''
 year: 1933
 year_is_approximate: false
+construction_details: Double ender
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

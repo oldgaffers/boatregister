@@ -1,36 +1,44 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
+name: Waterwitch
+oga_no: 1689
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 construction_material: wood
 construction_method: unknown
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.1854425749817117
   draft: 1.3716166788588149
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 6.5532796878810045
   propellor:
     type: fixed
+  length_over_all: 6.5532796878810045
+  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: Hoo, Kent
 hull_form: long keel deep forefoot
 id: f932e4dd-7259-4f70-80bc-74e32aed6819
 length_on_deck: 6.5532
-mainsail_type: gaff
-name: Waterwitch
-oga_no: 1689
+callsign: ''
 ownerships:
 - name: Alf Cackett
   share: 64
   start: 2012
 place_built: Littlehampton
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:17.896382+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+construction_details: Pine on Oak
+beam: 2.1854
+for_sale_state:
+  text: not_for_sale

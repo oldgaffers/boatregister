@@ -1,40 +1,47 @@
-builder: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
-callsign: ''
+name: Post Boat 77
+oga_no: 2653
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Brochure included
+builder:
+  name: Character Boats
+  id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: Brochure included
-generic_type: unknown
 handicap_data:
   beam: 2.0330407217751767
-  draft: 0.5334064862228725
-  fore_triangle_base: 1.8288222384784198
-  fore_triangle_height: 3.886247256766642
-  length_on_waterline: 3.733845403560107
-  length_over_all: 4.419653742989515
   main:
     foot: 3.291880029261156
     head: 2.2098268714947573
     luff: 2.987076322848086
   thcf: 0.757190503
+  draft: 0.5334064862228725
+  length_over_all: 4.419653742989515
+  fore_triangle_base: 1.8288222384784198
+  length_on_waterline: 3.733845403560107
+  fore_triangle_height: 3.886247256766642
 home_country: 'null'
 home_port: Folkstone
 hull_form: unknown
 id: 00ac871e-2d10-44fe-839f-de4f482ae46b
 length_on_deck: 4.4196
-mainsail_type: gaff
-name: Post Boat 77
-oga_no: 2653
+sail_number: P 77
+callsign: ''
 ownerships:
 - name: John Robert Ridley
   share: 64
   start: 2012
 place_built: Lytham St Anne's
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:45.401873+00:00'
 website: ''
 year: 2003
 year_is_approximate: false
+construction_details: GRP
+beam: 2.033
+for_sale_state:
+  text: not_for_sale

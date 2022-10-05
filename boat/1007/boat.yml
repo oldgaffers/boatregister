@@ -1,11 +1,11 @@
-builder: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
-callsign: ''
-construction_material: wood
-construction_method: cold_moulded
-designer: 24308b60-4e0a-44aa-b47c-b16e5392a93b
-draft: 0.8382
-engine_installations: []
-for_sales: []
+name: Hanser
+oga_no: 1007
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: '''Hanser'' was designed and built for Nigel & Jean Willimot as
+  a fast weekend sailer. Her hull is representative of the long narrow monohulls built
+  for racing in the 1960s with deep high aspect ratio keel and rudder.'
 full_description: "<p>&#39;Hanser&#39;s lifting keel alows the boat to sit on the\
   \ mud and navigate shoal waters under engine. She was originally rigged as a gaff\
   \ sloop and had an air cooled Ducatti diesel with a folding prop. In the right conditions\
@@ -23,33 +23,43 @@ full_description: "<p>&#39;Hanser&#39;s lifting keel alows the boat to sit on th
   \ and more ballast added for sail carrying capacity. A short bowsprit has been added,\
   \ making the boat more of a family cruiser than a racer. A new mainsail was made\
   \ in 2013 and a deeper analysis of the boat is planned.</p>"
-generic_type: Yacht
+builder:
+  name: Arthur Holt
+  id: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
+designer:
+  name: Arthur Holt
+  id: 24308b60-4e0a-44aa-b47c-b16e5392a93b
+construction_material: wood
+construction_method: cold_moulded
+draft: 0.8382
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.2352353084613505
-  draft: 1.9812362838332114
-  fore_triangle_base: 4.57205559619605
-  fore_triangle_height: 10.287143379663496
-  length_on_waterline: 10.36332601804438
-  length_over_all: 10.972933430870519
-  length_over_spars: 13.106559375762009
   main:
     foot: 3.0226591075347478
     head: 2.2098329675688855
     luff: 5.7912704218483295
+  thcf: 1.032
+  draft: 1.9812362838332114
   mizzen:
     foot: 1.3208241892221408
     head: 0.8382284808583271
     luff: 2.5908436966593515
   sailarea: 38.88957309782196
-  thcf: 1.032
+  length_over_all: 10.972933430870519
+  length_over_spars: 13.106559375762009
+  fore_triangle_base: 4.57205559619605
+  length_on_waterline: 10.36332601804438
+  fore_triangle_height: 10.287143379663496
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
 id: d751add7-7152-4af1-ad2f-c84093c1507e
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Hanser
-oga_no: 1007
+sail_number: '1007'
+ssr: '60769'
+callsign: ''
 ownerships:
 - end: 1986
   name: Nigel and Jean Willimot
@@ -59,17 +69,20 @@ ownerships:
   name: Arthur Holt
   share: 64
   start: 1986
-- current: true
-  id: 332
-  member: 3831
+- id: 332
   share: 64
   start: 1999
+  member: 3831
+  current: true
 place_built: Heybridge
-rig_type: Yawl
-short_description: '''Hanser'' was designed and built for Nigel & Jean Willimot as
-  a fast weekend sailer. Her hull is representative of the long narrow monohulls built
-  for racing in the 1960s with deep high aspect ratio keel and rudder.'
 updated_at: '2021-12-19T13:38:58.609666+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+image_key: LBJBjj
+construction_details: ' Cold Moulded - 2 layers of khaya + external layer of teak
+  over stringers and laminated frames and ply webs. Iroko centre resorcinal glue.
+  Ply deck. Very light build akin to an aircraft'
+beam: 2.2342
+for_sale_state:
+  text: not_for_sale

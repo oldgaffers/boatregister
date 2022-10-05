@@ -1,34 +1,42 @@
-builder: d9a79ad1-1975-4943-a2d3-22af383b26b6
-callsign: ''
+name: Una B
+oga_no: 39
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: T.H.S. Reddish/J. Wilson
+  id: d9a79ad1-1975-4943-a2d3-22af383b26b6
+designer:
+  name: T.H.S. Reddish
+  id: 4a9a6628-fe8b-4fd4-9079-b5c3c83d723d
 construction_material: wood
 construction_method: unknown
-designer: 4a9a6628-fe8b-4fd4-9079-b5c3c83d723d
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.3528407705437697
   draft: 1.3716166788588149
-  length_on_waterline: 9.44891489880517
   length_over_all: 10.66812972445745
+  length_on_waterline: 9.44891489880517
 home_country: 'null'
 home_port: Maldon
 hull_form: unknown
 id: e67a4ff4-d80e-4503-b2bf-ba9df60d4c03
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Una B
-oga_no: 39
+callsign: ''
 ownerships:
 - name: Steve Gurney
   share: 64
   start: 2012
 place_built: London
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:30.795655+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: Strip plank iroko on iroko laminated frames with 3 centre keel
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

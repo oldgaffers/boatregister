@@ -1,33 +1,46 @@
-builder: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
-callsign: ''
+name: Sea Kestrel
+oga_no: 1344
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: Log Au/93
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+designer:
+  name: F.C. Latimer
+  id: 56638e94-5fd1-49e4-87ca-2958b19ca2c6
 construction_material: wood
 construction_method: clinker
-designer: 56638e94-5fd1-49e4-87ca-2958b19ca2c6
 draft: 1.2954
 engine_installations: []
 for_sales: []
-full_description: Log Au/93
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
   draft: 1.2954157522555474
-  length_on_waterline: 6.5532796878810045
   length_over_all: 7.010485247500609
+  length_on_waterline: 6.5532796878810045
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 58bf58be-a896-4eef-936f-a4af34c5d9e8
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Sea Kestrel
-oga_no: 1344
+reference:
+- Log Au/93
+callsign: ''
 ownerships:
 - name: C B Taylor
   share: 64
   start: 1989
 place_built: Canvey Island
-short_description: ''
 updated_at: '2021-12-19T13:39:08.73313+00:00'
 website: ''
 year: 1960
 year_is_approximate: false
+construction_details: Clinker mahogany on oak
+beam: 2.4384
+design_class:
+  name: Dauntless 4 Ton
+  id: f7b464b0-f1e9-48e2-8a7c-5481b7ded948
+for_sale_state:
+  text: not_for_sale

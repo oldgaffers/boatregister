@@ -1,12 +1,18 @@
-builder: 8d0cd84e-4cea-47f9-9874-d89cdce4b11e
-callsign: ''
+name: Josephine
+oga_no: 1734
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Andersen and Ferdinandsen
+  id: 8d0cd84e-4cea-47f9-9874-d89cdce4b11e
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 4.419653742989515
   length_over_all: 15.240185320653499
@@ -15,17 +21,20 @@ home_port: Shoreham
 hull_form: unknown
 id: 55860b2c-ba2e-4594-9ab7-4185f485141b
 length_on_deck: 15.24
-mainsail_type: gaff
-name: Josephine
-oga_no: 1734
+ssr: '35773'
+callsign: ''
 ownerships:
 - name: Charles Atkinson
   share: 64
   start: 2012
 place_built: Gilleleje, Denmark
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:18.971862+00:00'
 website: ''
 year: 1931
 year_is_approximate: false
+previous_names:
+- Golden Brown
+construction_details: Oak on oak
+beam: 4.4196
+for_sale_state:
+  text: not_for_sale

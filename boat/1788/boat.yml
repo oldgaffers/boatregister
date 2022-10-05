@@ -1,50 +1,61 @@
-builder: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
-callsign: ''
+name: Lady Sophie
+oga_no: 1788
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Picture and note of building in The Yachtsman 1911
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+designer:
+  name: J.A. McCallum
+  id: 37137bb5-f344-4068-9a51-5b7e9202f1e7
 construction_material: wood
 construction_method: carvel
-designer: 37137bb5-f344-4068-9a51-5b7e9202f1e7
 draft: 1.6002
 engine_installations: []
 for_sales: []
-full_description: Picture and note of building in The Yachtsman 1911
-generic_type: Yacht
 handicap_data:
   beam: 2.996220434040478
-  draft: 1.6002194586686174
-  fore_triangle_base: 6.0960741282613995
-  fore_triangle_height: 8.53450377956596
-  length_on_waterline: 12.344550109729333
-  length_over_all: 12.344550109729333
   main:
     foot: 4.87685930260912
     head: 3.3528407705437697
     luff: 5.18166300902219
+  thcf: 1.065901089
+  draft: 1.6002194586686174
   mizzen:
     foot: 3.9624481833699097
     head: 2.43842965130456
     luff: 4.87685930260912
-  propellor:
-    type: fixed
-  thcf: 1.065901089
   topsail:
     luff: 3.9624481833699097
     perpendicular: 2.43842965130456
+  propellor:
+    type: fixed
+  length_over_all: 12.344550109729333
+  fore_triangle_base: 6.0960741282613995
+  length_on_waterline: 12.344550109729333
+  fore_triangle_height: 8.53450377956596
 home_country: 'null'
 home_port: Lithuania
 hull_form: long keel deep forefoot
 id: 9b2badb3-3a56-4c1a-9353-cac83dbd1576
 length_on_deck: 12.3444
-mainsail_type: gaff
-name: Lady Sophie
-oga_no: 1788
+uk_part1: '129569'
+callsign: ''
 ownerships:
 - name: Norman Mikkelsen
   share: 64
   start: 2006
 place_built: Tarbert
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:20.28387+00:00'
 website: ''
 year: 1911
 year_is_approximate: false
+previous_names:
+- Lady Jean
+construction_details: Pitch Pine on Oak
+beam: 2.9962
+for_sale_state:
+  text: not_for_sale

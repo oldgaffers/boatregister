@@ -1,46 +1,60 @@
-builder: 52871f1e-031e-4638-91c6-c87e27db173a
-callsign: PF2762
-construction_material: grp
-construction_method: unknown
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
-draft: 0
-engine_installations: []
-for_sales: []
+name: Recipe
+oga_no: 3445
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Recipe&nbsp;is&nbsp; Norfolk Smuggler, now being sailed in Zeeland</p>
 full_description: "<p>&#39;Recipe&#39;s&#39; current owner bought her in 2015 and\
   \ need to repair and renewed everything except the engine and centre plate to&nbsp;bring\
   \ her into good condition.&nbsp;</p>\r\n\r\n<p>Since then he has sailed her single\
   \ handed in great comfort through the Netherlands, Belgium and England, including\
   \ visits to Pin Mill, Cowes, London and Dieppe.</p>"
-generic_type: Yacht
+builder:
+  name: Charlie Ward/North Norfolk Boatbuilders
+  id: 52871f1e-031e-4638-91c6-c87e27db173a
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+construction_material: grp
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
-  length_over_spars: 9.144
-  length_overall: 7.62
   moving_keel: true
+  length_overall: 7.62
   moving_keel_type: Centreboard
+  length_over_spars: 9.144
 home_country: NLD
 home_port: Goese Sas
 hull_form: long keel deep forefoot
 id: ed75f337-ef8f-425f-a4d6-2e109fc493e0
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Recipe
-oga_no: 3445
+callsign: PF2762
 ownerships:
 - end: 2015
-  end_is_approximate: false
   note: 1995-2015 Mr Erbelich
-  start: 1995
-  start_is_approximate: false
   text: Mr Erbelich
-- current: true
-  id: 34700
-  member: 6375
+  start: 1995
+  end_is_approximate: false
+  start_is_approximate: false
+- id: 34700
   share: 64
   start: 2015
+  member: 6375
+  current: true
 place_built: Norfolk
-rig_type: Cutter
-short_description: <p>Recipe&nbsp;is&nbsp; Norfolk Smuggler, now being sailed in Zeeland</p>
 updated_at: '2021-12-19T13:40:10.762371+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+previous_names:
+- Morning Star
+image_key: 6kjsMF
+construction_details: hand lay up
+beam: 0
+design_class:
+  name: Norfolk Smuggler
+  id: 1af0cf00-1de2-4a9c-8ce7-79e4afe2cf08
+for_sale_state:
+  text: not_for_sale

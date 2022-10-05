@@ -1,13 +1,21 @@
-builder: e5c00172-7ec2-4bc9-9979-d47454b84ba4
-callsign: ''
+name: Dream
+oga_no: 1622
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 84/1
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+designer:
+  name: A.R. Curjel
+  id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
 construction_material: wood
 construction_method: unknown
-designer: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 84/1
-generic_type: Yacht
 handicap_data:
   length_over_all: 7.010485247500609
 home_country: 'null'
@@ -15,17 +23,18 @@ home_port: ''
 hull_form: unknown
 id: 3423d725-18e8-47e7-b628-7b9e11a905a4
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Dream
-oga_no: 1622
+reference:
+- Log 84/1
+callsign: ''
 ownerships:
 - name: M Boys
   share: 64
   start: 2012
 place_built: Woodbridge
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:16.493124+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

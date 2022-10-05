@@ -1,13 +1,21 @@
-builder: 403e816e-89a2-43db-8883-e2b08171c847
-callsign: ''
+name: Pussyfoot
+oga_no: 2173
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Mike Cussans
+  id: 403e816e-89a2-43db-8883-e2b08171c847
+designer:
+  name: Joel White
+  id: 8052b20d-f45d-42cf-82c9-c5c870e14efc
 construction_material: wood
 construction_method: unknown
-designer: 8052b20d-f45d-42cf-82c9-c5c870e14efc
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.3716166788588149
   length_over_all: 3.886247256766642
@@ -16,19 +24,18 @@ home_port: Great Harwood
 hull_form: unknown
 id: 0d064c95-f5fa-404a-aad8-ad37d142753f
 length_on_deck: 3.8862
-mainsail_type: gaff
-name: Pussyfoot
-oga_no: 2173
+callsign: ''
 ownerships:
-- current: true
-  id: 286
-  member: 3509
+- id: 286
   share: 64
   start: 1998
+  member: 3509
+  current: true
 place_built: Great Harwood, Lincs.
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:31.222884+00:00'
 website: ''
 year: 1998
 year_is_approximate: false
+beam: 1.3716
+for_sale_state:
+  text: not_for_sale

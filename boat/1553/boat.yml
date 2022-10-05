@@ -1,32 +1,41 @@
-builder: c9867768-1c4d-445a-b626-592f1a6ba95f
-callsign: ''
+name: La Pincoya
+oga_no: 1553
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Sold into French ownership, July 2004.
+builder:
+  name: E.J. Milan
+  id: c9867768-1c4d-445a-b626-592f1a6ba95f
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 construction_material: wood
 construction_method: unknown
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 draft: 0.9906
 engine_installations: []
 for_sales: []
-full_description: Sold into French ownership, July 2004.
-generic_type: Yacht
 handicap_data:
   beam: 2.5146305779078273
   draft: 0.9906120458424774
-  length_on_waterline: 7.315288953913679
-  length_over_all: 8.22970007315289
   propellor:
     type: fixed
+  length_over_all: 8.22970007315289
+  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: La Roche Bernard, Brittany
 hull_form: long keel deep forefoot
 id: 5b54d821-46f7-4f67-8fd1-ea0513b813e1
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: La Pincoya
-oga_no: 1553
+ssr: '6553'
+callsign: ''
 place_built: Wickenby Lincoln
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-26T07:56:15.890234+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: Strip plank iroko on oak
+beam: 2.5146
+for_sale_state:
+  text: not_for_sale

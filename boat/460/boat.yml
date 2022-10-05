@@ -1,30 +1,42 @@
-builder: 07790682-8e41-4213-ae8e-b6ac024f4cb2
-callsign: ''
+name: Ianthe II
+oga_no: 460
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 67/4, A-W/94
+builder:
+  name: Teignmouth Ship and Yacht Co.
+  id: 07790682-8e41-4213-ae8e-b6ac024f4cb2
+designer:
+  name: G.F. Flemmich
+  id: 4963345c-3a66-42b7-8d33-3ae6224be763
 construction_material: wood
 construction_method: unknown
-designer: 4963345c-3a66-42b7-8d33-3ae6224be763
 draft: 1.6764
 engine_installations: []
 for_sales: []
-full_description: Log 67/4, A-W/94
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
   draft: 1.6764203852718849
-  length_on_waterline: 8.83930748597903
   length_over_all: 10.36332601804438
+  length_on_waterline: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 5d6e0af0-b7af-40df-bb97-29d6db99dcfc
 length_on_deck: 10.3632
-mainsail_type: gaff
-name: Ianthe II
-oga_no: 460
+reference:
+- Log 67/4
+- Log A-W/94
+callsign: ''
 place_built: Teignmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-01-31T17:02:52.984215+00:00'
 website: ''
 year: 1901
 year_is_approximate: false
+previous_names:
+- Careless
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

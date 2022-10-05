@@ -1,35 +1,45 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-construction_material: grp
-construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
-engine_installations: []
-for_sales: []
+name: Tegen
+oga_no: 3513
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Very pretty baby cutter.
 full_description: Off white deck and hull with Oxford blue top plank and waterline.
   Tan sails.
-generic_type: Yacht
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+construction_material: grp
+construction_method: unknown
+engine_installations: []
+for_sales: []
 handicap_data:
-  draft_keel_down: 1.524
-  length_on_waterline: 6.2972
-  length_overall: 6.7056
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 7
+  moving_keel: true
+  length_overall: 6.7056
+  draft_keel_down: 1.524
+  moving_keel_type: Centreboard
+  length_on_waterline: 6.2972
 home_country: United Kingdom
 home_port: Gosport
 hull_form: long keel deep forefoot
 id: 98128b94-d940-455d-b783-552e2d93b5df
-mainsail_type: gaff
-name: Tegen
-oga_no: 3513
+spar_material: wood
 ownerships:
-- current: true
-  id: 1031
-  member: 6284
+- id: 1031
   share: 64
+  member: 6284
+  current: true
   start: '?'
 place_built: Rock
-rig_type: Cutter
-short_description: Very pretty baby cutter.
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 2006
 year_is_approximate: false
+image_key: Sj89k6
+beam: 2.5146
+design_class:
+  name: Cornish Crabber 22
+  id: f0555610-6fc8-4dce-a587-d90c2a7cbc72

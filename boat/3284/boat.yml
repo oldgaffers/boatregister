@@ -1,51 +1,66 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Aliesje
+oga_no: 3284
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: <p>&#39;Aliesje&#39; was built for the then owner of Cornish Crabbers
+  Peter Keeling and was named after his wife. Her &quot;maiden journey&quot; was to
+  the 1996 London Boat Show. It is believed she is the only Bermudan rigged boat of
+  her class, Cornish Crabber Pilot Cutter.</p>
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 1.4691
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.974
-  fore_triangle_base: 4.4196
-  fore_triangle_height: 11.8994
-  length_on_waterline: 7.9004
-  length_over_spars: 10.8204
-  length_overall: 9.144
   main:
     foot: 14.57
     luff: 37.4
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 5
+  moving_keel: true
+  length_overall: 9.144
+  calculated_thcf: 0.974
+  moving_keel_type: Centreboard
+  length_over_spars: 10.8204
+  fore_triangle_base: 4.4196
+  length_on_waterline: 7.9004
+  fore_triangle_height: 11.8994
 home_country: GBR
 home_port: Waldringfield
 hull_form: long keel sloping forefoot
 id: 79b85b5c-d437-46e2-9e29-59439b19bd5f
 length_on_deck: 9.144
-mainsail_type: bermudan
-name: Aliesje
-oga_no: 3284
+sail_number: '42'
+ssr: '127808'
+uk_part1: '901507'
+callsign: ''
 ownerships:
 - end: 3
-  end_is_approximate: false
   note: First owner Peter Keeling, 3 other owners before 2008.
   text: First owner Peter Keeling,
-- current: true
-  id: 469
-  member: 4554
+  end_is_approximate: false
+- id: 469
   share: 64
   start: 2008
+  member: 4554
+  current: true
 place_built: Rock
-rig_type: Cutter
-short_description: <p>&#39;Aliesje&#39; was built for the then owner of Cornish Crabbers
-  Peter Keeling and was named after his wife. Her &quot;maiden journey&quot; was to
-  the 1996 London Boat Show. It is believed she is the only Bermudan rigged boat of
-  her class, Cornish Crabber Pilot Cutter.</p>
 updated_at: '2021-12-19T13:40:06.333124+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+image_key: MfWntJ
+construction_details: "GRP hull with timber deck and coachroof.\r\n"
+beam: 2.4689
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
+for_sale_state:
+  text: not_for_sale

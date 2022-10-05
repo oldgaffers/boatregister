@@ -1,29 +1,36 @@
+name: BlueBelle
+oga_no: 3690
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>A one-off long-keel auxiliary gaff sloop designed in 1934 but
+  only built in 2006.</p>
+designer:
+  name: Murray G. Peterson
+  id: a2e01005-a9e2-4e11-84f6-26828637d074
 construction_material: wood
 construction_method: carvel
-designer: a2e01005-a9e2-4e11-84f6-26828637d074
 draft: 0.762
 engine_installations: []
 for_sales: []
-generic_type: Dayboat
 handicap_data:
   beam: 1.92
 home_country: United Kingdom
 home_port: Weymouth
 id: a3be009e-8b48-4e49-92b2-0093036ae894
 length_on_deck: 5.486
-mainsail_type: gaff
-name: BlueBelle
-oga_no: 3690
+spar_material: wood
 ownerships:
-- current: true
-  id: 34919
-  member: 6519
+- id: 34919
   share: 64
   start: 2022
+  member: 6519
+  current: true
 place_built: Fowey
-rig_type: Sloop
-short_description: <p>A one-off long-keel auxiliary gaff sloop designed in 1934 but
-  only built in 2006.</p>
 updated_at: '2022-02-24T20:35:12.524822+00:00'
 year: 2006
 year_is_approximate: false
+image_key: XgWfGn
+air_draft: 11.5
+for_sale_state:
+  text: not_for_sale

@@ -1,9 +1,10 @@
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Jumbo
+oga_no: 3142
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Jumbo is a 38ft. motor yacht built in 1923 by William Haywood
+  of Southend on Sea.</p>
 full_description: "<p>Jumbo&#39;s first owner cruised the English Channel from her\
   \ home port of Brightlingsea to Brest and up to Northern Germany. Used as a tender\
   \ to minesweepers during the war, Jumbo won the London to Cowes Race in 1932 and\
@@ -11,32 +12,35 @@ full_description: "<p>Jumbo&#39;s first owner cruised the English Channel from h
   \ stem, transom stern, carvel pitch pine on oak frames and single deck with rear\
   \ cockpit. A motor yacht, Jumbo is powered by a single Coventry diesel KF 4 cylinder\
   \ supercharged two stroke engine.</p>"
-generic_type: Yacht
+construction_material: wood
+construction_method: carvel
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.378243111436235
-  draft: 1.3716288710070714
-  fore_triangle_base: 5.7912704218483295
-  fore_triangle_height: 8.22970007315289
-  length_on_waterline: 10.36332601804438
-  length_over_all: 11.277737137283589
-  length_over_spars: 11.303139478176053
   main:
     foot: 3.3528407705437697
     head: 3.0480370641306997
     luff: 5.4864667154352595
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 39.252499749810205
   thcf: 0.969
+  draft: 1.3716288710070714
+  sailarea: 39.252499749810205
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 11.277737137283589
+  length_over_spars: 11.303139478176053
+  fore_triangle_base: 5.7912704218483295
+  length_on_waterline: 10.36332601804438
+  fore_triangle_height: 8.22970007315289
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 9d5f956a-2a13-4be5-aa48-14670034ce97
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: Jumbo
-oga_no: 3142
+uk_part1: '147535'
+callsign: ''
 ownerships:
 - end: 1969
   name: J H Malby
@@ -45,16 +49,18 @@ ownerships:
 - name: Roger Baxter
   share: 64
   start: 1999
-- current: true
-  id: 693
-  member: 5613
+- id: 693
   share: 64
+  member: 5613
+  current: true
   start: '?'
 place_built: Leigh on Sea
-rig_type: Sloop
-short_description: <p>Jumbo is a 38ft. motor yacht built in 1923 by William Haywood
-  of Southend on Sea.</p>
 updated_at: '2021-12-19T13:39:59.117113+00:00'
 website: ''
 year: 1923
 year_is_approximate: false
+image_key: Q27P6t
+construction_details: Carvel Pitch Pine on Oak
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

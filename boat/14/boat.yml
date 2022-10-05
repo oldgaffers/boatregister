@@ -1,11 +1,10 @@
-builder: e5c00172-7ec2-4bc9-9979-d47454b84ba4
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
-draft: 0.8382
-engine_installations: []
-for_sales: []
+name: Jubilee
+oga_no: 14
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Built in 1935 &#39;Jubilee&#39; has always been a common sight
+  on the River Deben and along the East Coast.</p>
 full_description: '<p>Sue Evans-Avionitis sent the photo of &#39;Jubilee&#39; to the
   Gaffers Log Editor on the occasion of her father, Cecil Evans&#39; death. She wrote:
   &quot;One of Dad&#39;s fondest photographs was of his beloved boat &#39;Jubilee&#39;
@@ -14,30 +13,39 @@ full_description: '<p>Sue Evans-Avionitis sent the photo of &#39;Jubilee&#39; to
   Simon when they were teenagers is now working in Harwich for the Pilot Boats and
   he spotted &#39;Jubilee&#39; sailing up the river Stour only last summer. Ah well,
   times pass.&quot;</p>'
-generic_type: Yacht
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+designer:
+  name: A.R. Curjel
+  id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
+construction_material: wood
+construction_method: carvel
+draft: 0.8382
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.8382101926359424
-  fore_triangle_base: 2.834674469641551
-  fore_triangle_height: 5.9436722750548645
-  length_on_waterline: 5.18166300902219
-  length_over_all: 6.4008778346744695
   main:
     foot: 5.151182638380882
     head: 5.151182638380882
     luff: 2.9718361375274323
+  thcf: 0.873
+  draft: 0.8382101926359424
+  sailarea: 30.13176824141883
   propellor:
     type: fixed
-  sailarea: 30.13176824141883
-  thcf: 0.873
+  length_over_all: 6.4008778346744695
+  fore_triangle_base: 2.834674469641551
+  length_on_waterline: 5.18166300902219
+  fore_triangle_height: 5.9436722750548645
 home_country: GBR
 home_port: Deben
 hull_form: long keel sloping forefoot
 id: 06cdce58-95a3-4a23-a867-2527970b545f
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Jubilee
-oga_no: 14
+sail_number: CC14
+callsign: ''
 ownerships:
 - end: 1983
   name: Cecil Evans
@@ -48,10 +56,15 @@ ownerships:
   share: 64
   start: 1983
 place_built: Woodbridge
-rig_type: Sloop
-short_description: <p>Built in 1935 &#39;Jubilee&#39; has always been a common sight
-  on the River Deben and along the East Coast.</p>
 updated_at: '2021-12-19T13:38:30.115425+00:00'
 website: ''
 year: 1935
 year_is_approximate: false
+image_key: JG7qLT
+construction_details: Carvel Pitch Pine on Oak
+beam: 2.1336
+design_class:
+  name: Deben Cherub
+  id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
+for_sale_state:
+  text: not_for_sale

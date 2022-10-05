@@ -1,33 +1,40 @@
-builder: ceeba774-b0f8-48a9-a036-732b70c8a35f
-callsign: ''
+name: Sarah
+oga_no: 1072
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Terry Heard
+  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: wood
 construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.8956352109241648
-  length_on_waterline: 8.01633747866374
   length_over_all: 8.595464520848573
+  length_on_waterline: 8.01633747866374
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 653bee69-072a-49ae-8cd3-0faf80d661cd
 length_on_deck: 8.5954
-mainsail_type: gaff
-name: Sarah
-oga_no: 1072
+callsign: ''
 ownerships:
 - name: P J Collett
   share: 64
   start: 2012
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:00.645141+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

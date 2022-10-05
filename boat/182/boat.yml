@@ -1,11 +1,10 @@
-builder: a27bca50-d155-428a-be49-a542d64ba316
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f4272731-0d68-44d6-a0ef-e9266edfc9ef
-draft: 1.1582
-engine_installations: []
-for_sales: []
+name: Ayesha
+oga_no: 182
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: A Royal Mersey Restricted Class yacht with an extensive cruising
+  and racing history.
 full_description: "This fast gaffer was successfully raced on the South Coast for\
   \ 15 years and is reputed to have made the first single-handed circumnavigation\
   \ of Britain.  Completely restored in 1974 with new deck, superstructure, accommodation,\
@@ -23,25 +22,41 @@ full_description: "This fast gaffer was successfully raced on the South Coast fo
   \ would not come up when underrun. She had to be craned out in Liverpool docks.\
   \ There is a lesson here \u2013 I\u2019ve never rigged a centre plate without a\
   \ stop since!&rdquot;"
-generic_type: Yacht
+builder:
+  name: Enterprise Small Craft
+  id: a27bca50-d155-428a-be49-a542d64ba316
+designer:
+  name: Alfred Mylne
+  id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
+construction_material: wood
+construction_method: carvel
+draft: 1.1582
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.529870763228481
   draft: 1.1582540843696658
-  length_on_waterline: 7.315288953913679
   length_over_all: 8.22970007315289
+  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: long keel sloping forefoot
 id: d26a14c2-b449-4d8a-8772-336cf58dc4e4
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Ayesha
-oga_no: 182
+reference:
+- Log 76/2
+- Log 77/4
+spar_material: wood
+callsign: ''
 place_built: Birkenhead
-rig_type: Cutter
-short_description: A Royal Mersey Restricted Class yacht with an extensive cruising
-  and racing history.
 updated_at: '2021-03-23T08:49:14.966585+00:00'
 website: ''
 year: 1923
 year_is_approximate: false
+construction_details: Pitch Pine on Oak
+beam: 2.5298
+design_class:
+  name: Royal Mersey
+  id: 9c848d9b-5e0b-4f92-86f6-71fdf3199708
+for_sale_state:
+  text: not_for_sale

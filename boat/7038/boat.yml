@@ -1,11 +1,16 @@
-callsign: ''
+name: Talisman
+oga_no: 7038
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: <p>A work boat found derilict around 1950 at Lagan Canal, Belfast.
+  She was bought for &pound;10 and rebuilt as Bermudan sloop.</p>
+full_description: ''
 construction_material: wood
 construction_method: carvel
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
   draft: 1.21921482565228
@@ -15,24 +20,24 @@ home_port: Groomsport
 hull_form: unknown
 id: 9f2c9a7c-5431-4581-a811-ca18b6a2c342
 length_on_deck: 8.2296
-mainsail_type: bermudan
-name: Talisman
-oga_no: 7038
+sail_number: T111
+callsign: ''
 ownerships:
 - end: 2014
   name: Duncan McInnes
   share: 64
   start: 2012
-- current: true
-  id: 193
-  member: 2800
+- id: 193
   share: 64
   start: 2014
+  member: 2800
+  current: true
 place_built: Belfast
-rig_type: Sloop
-short_description: <p>A work boat found derilict around 1950 at Lagan Canal, Belfast.
-  She was bought for &pound;10 and rebuilt as Bermudan sloop.</p>
 updated_at: '2021-12-19T13:40:01.140638+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+construction_details: Carvel Larch on oak
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

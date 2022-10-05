@@ -1,11 +1,10 @@
-builder: 02d5a44f-ed45-4a28-aa45-419a5a66af1d
-callsign: ''
-construction_material: grp
-construction_method: unknown
-designer: aaec4851-401d-4719-bd23-e80eb778816b
-draft: 0.5334
-engine_installations: []
-for_sales: []
+name: Elwing
+oga_no: 997
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Elwing was the first Memory 19 to be built with a cabin and
+  a cutter rig</p>
 full_description: <p>Elwing's hull was built by Eric Bergqvist and Richard Dodds who
   was working with Eric as sparmaker/boatbuilder. The hull was epoxied below the waterline
   from new, it was used to make a new mould in December 1976. Richard designed both
@@ -13,37 +12,51 @@ full_description: <p>Elwing's hull was built by Eric Bergqvist and Richard Dodds
   at Falmouth in August 1978 when Richard was at the boat building college there.
   The cabin was redesigned shorter in the late 1980's making the cockpit longer and
   more usable.</p>
-generic_type: Yacht
+builder:
+  name: R.J. Dodds
+  id: 02d5a44f-ed45-4a28-aa45-419a5a66af1d
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
+construction_material: grp
+construction_method: unknown
+draft: 0.5334
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
   thcf: 0.848181605
+  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
+  length_over_all: 5.7912704218483295
+  length_on_waterline: 5.690685198732017
 home_country: GBR
 home_port: Malvern
 hull_form: centre-boarder
 id: 765f26f7-222d-438b-8642-4d6dc369040a
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Elwing
-oga_no: 997
+sail_number: Tolkien Emblem
+spar_material: wood
+callsign: ''
 ownerships:
 - name: R J Dodds
   share: 64
   start: 1979
 place_built: Lymm, Malvern & Falmouth
-rig_type: Cutter
-short_description: <p>Elwing was the first Memory 19 to be built with a cabin and
-  a cutter rig</p>
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 1976
 year_is_approximate: false
+image_key: cq2V3M
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

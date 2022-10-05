@@ -1,36 +1,48 @@
-builder: 1bdad3de-4a15-42b8-a52f-497285bdba58
-callsign: ''
+name: Hegri
+oga_no: 3360
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Hegri is a Koalen 17 - a Francois Vivier design.</p>
+full_description: ''
+builder:
+  name: Andrew Cooper
+  id: 1bdad3de-4a15-42b8-a52f-497285bdba58
+designer:
+  name: "Fran\xE7ois Vivier"
+  id: f8f01050-235c-4793-b62b-8d3d953d173e
 construction_material: woodepoxy
 construction_method: cold_moulded
-designer: f8f01050-235c-4793-b62b-8d3d953d173e
 draft: 0.7193
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
-  length_on_waterline: 4.5994
-  length_over_spars: 6.0015
-  length_overall: 5.0993
   sailarea: 6
+  length_overall: 5.0993
+  length_over_spars: 6.0015
+  length_on_waterline: 4.5994
 home_country: GBR
 home_port: Walls Shetland
 hull_form: long keel deep forefoot
 id: 5c0855e0-5ff1-44f6-a6b8-5c6ff7301f07
 length_on_deck: 5.0993
-mainsail_type: gaff
-name: Hegri
-oga_no: 3360
+callsign: ''
 ownerships:
-- current: true
-  id: 944
-  member: 6137
+- id: 944
   share: 64
   start: 2017
+  member: 6137
+  current: true
 place_built: Shetland
-rig_type: Sloop
-short_description: <p>Hegri is a Koalen 17 - a Francois Vivier design.</p>
 updated_at: '2021-12-19T13:40:08.765368+00:00'
 website: ''
 year: 2017
 year_is_approximate: false
+image_key: J5WzW5
+construction_details: Epoxy ply, cold moulded topsides
+beam: 1.9995
+design_class:
+  name: Koalen 17
+  id: 9fb3c872-e186-4089-bfeb-e482a4bd1eae
+for_sale_state:
+  text: not_for_sale

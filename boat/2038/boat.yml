@@ -1,12 +1,17 @@
-builder: e5c00172-7ec2-4bc9-9979-d47454b84ba4
-callsign: ''
+name: Naiad
+oga_no: 2038
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.9812240916849548
   length_over_all: 4.57205559619605
@@ -15,16 +20,16 @@ home_port: Mistley
 hull_form: unknown
 id: bb269b18-74b4-4ec8-ad8c-955d7930c12d
 length_on_deck: 4.572
-mainsail_type: gaff
-name: Naiad
-oga_no: 2038
+callsign: ''
 ownerships:
 - name: Paul Whittle
   share: 64
   start: 2012
 place_built: Woodbridge
-short_description: ''
 updated_at: '2021-12-19T13:39:27.638619+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

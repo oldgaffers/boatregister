@@ -1,49 +1,57 @@
-builder: 9605b6a4-19bc-473c-b0cb-2f329aa0bd02
-callsign: ''
+name: Isabella
+oga_no: 1688
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: R.E. Powell
+  id: 9605b6a4-19bc-473c-b0cb-2f329aa0bd02
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
 construction_material: woodepoxy
 construction_method: clinker
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
 draft: 0.381
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 1.9050231650816873
-  draft: 0.38100463301633747
-  fore_triangle_base: 2.3622287247012923
-  fore_triangle_height: 3.6576444769568397
-  length_on_waterline: 3.8100463301633747
-  length_over_all: 4.800658376005852
   main:
     foot: 2.5146305779078273
     head: 2.286027798098025
     luff: 2.3622287247012923
+  thcf: 0.756930273
+  draft: 0.38100463301633747
   mizzen:
     foot: 1.3716166788588149
     head: 1.6002194586686174
     luff: 1.21921482565228
-  thcf: 0.756930273
+  length_over_all: 4.800658376005852
+  fore_triangle_base: 2.3622287247012923
+  length_on_waterline: 3.8100463301633747
+  fore_triangle_height: 3.6576444769568397
 home_country: GBR
 home_port: South Woodham Ferrers
 hull_form: unknown
 id: 3d70e633-a274-42e0-b31b-5c429c53fa8d
 length_on_deck: 4.8006
-mainsail_type: gaff
-name: Isabella
-oga_no: 1688
+callsign: ''
 ownerships:
 - name: Richard Powell
   share: 64
   start: 1993
-- current: true
+- share: 64
   member: 3034
-  share: 64
+  current: true
   start: '?'
 place_built: South Woodham Ferrers
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:17.866132+00:00'
 website: ''
 year: 1988
 year_is_approximate: false
+construction_details: Multi-chine plywood, lapstrake, epoxy encapsulated timbers
+beam: 1.905
+for_sale_state:
+  text: not_for_sale

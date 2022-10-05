@@ -1,48 +1,58 @@
-builder: cb00a080-8d2e-463b-b412-75232d2183a3
-callsign: ''
+name: Rose Des Vents
+oga_no: 2802
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Printouts
+  id: cb00a080-8d2e-463b-b412-75232d2183a3
+designer:
+  name: Dervin
+  id: dbabfb13-638c-4a92-89bb-457aa99571de
 construction_material: wood
 construction_method: unknown
-designer: dbabfb13-638c-4a92-89bb-457aa99571de
 draft: 2.4994
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 4.081321628871007
-  draft: 2.4993903925871734
-  fore_triangle_base: 7.4006339917093396
-  fore_triangle_height: 17.50182882223848
-  length_on_waterline: 12.600585223116314
-  length_over_all: 21.900146305779074
   main:
     foot: 8.500975371860521
     head: 7.001341136308217
     luff: 7.501219214825651
+  thcf: 1.240551528
+  draft: 2.4993903925871734
   mizzen:
     foot: 3.800902218970983
     luff: 9.601316752011703
-  propellor:
-    type: fixed
-  thcf: 1.240551528
   topsail:
     luff: 8.199219702511582
     perpendicular: 3.886247256766642
+  propellor:
+    type: fixed
+  length_over_all: 21.900146305779074
+  fore_triangle_base: 7.4006339917093396
+  length_on_waterline: 12.600585223116314
+  fore_triangle_height: 17.50182882223848
 home_country: 'null'
 home_port: Ymuiden
 hull_form: long keel deep forefoot
 id: cfa67b52-c9c9-4e7a-867d-801bde4b862d
 length_on_deck: 21.8999
-mainsail_type: gaff
-name: Rose Des Vents
-oga_no: 2802
+callsign: ''
 ownerships:
 - name: Franz W B Moerbeek
   share: 64
   start: 1983
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:49.898964+00:00'
 website: ''
 year: 1929
 year_is_approximate: false
+previous_names:
+- Jannick
+construction_details: Pitch Pine
+beam: 4.0813
+for_sale_state:
+  text: not_for_sale

@@ -1,13 +1,21 @@
-builder: fc15127e-03b7-4f52-bcc0-81dbdeb4ba81
-callsign: ''
+name: Seagull II
+oga_no: 348
+generic_type: Barge
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gill and Sons
+  id: fc15127e-03b7-4f52-bcc0-81dbdeb4ba81
+designer:
+  name: G.W. Gill
+  id: d53c2f54-ebfa-476f-9e73-2f6e805a3d6b
 construction_material: wood
 construction_method: unknown
-designer: d53c2f54-ebfa-476f-9e73-2f6e805a3d6b
 draft: 1.463
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Barge
 handicap_data:
   beam: 3.9929285540112165
   draft: 1.4630577907827358
@@ -17,17 +25,16 @@ home_port: ''
 hull_form: unknown
 id: ba5e3986-08b6-41da-93d9-b2f550a967f1
 length_on_deck: 13.1674
-mainsail_type: gaff
-name: Seagull II
-oga_no: 348
+callsign: ''
 ownerships:
 - name: G Winfield
   share: 64
   start: 2012
 place_built: Rochester
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:39.854404+00:00'
 website: ''
 year: 1901
 year_is_approximate: false
+beam: 3.9929
+for_sale_state:
+  text: not_for_sale

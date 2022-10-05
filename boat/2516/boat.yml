@@ -1,29 +1,36 @@
-builder: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
-callsign: ''
+name: Three Sisters
+oga_no: 2516
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Johnson and Johnson
+  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+designer:
+  name: Johnson and Jago
+  id: de94fe11-0ff1-4839-bd1f-b72dde32a2c2
 construction_material: wood
 construction_method: unknown
-designer: de94fe11-0ff1-4839-bd1f-b72dde32a2c2
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: 'null'
 home_port: Poole
 hull_form: unknown
 id: 16cb4136-51ef-4170-b160-9532b30bf77e
 length_on_deck: 0
-mainsail_type: gaff
-name: Three Sisters
-oga_no: 2516
+callsign: ''
 ownerships:
 - name: Andy Davies
   share: 64
   start: 2012
 place_built: Leigh on Sea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:41.494372+00:00'
 website: ''
 year: 1938
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

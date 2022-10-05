@@ -1,13 +1,21 @@
-builder: bf33ea5b-73c2-41d0-95e7-ab0233973958
-callsign: ''
+name: Penguin
+oga_no: 7053
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: High McLean and Sons
+  id: bf33ea5b-73c2-41d0-95e7-ab0233973958
+designer:
+  name: McLean High
+  id: b32130d3-767a-46aa-b14e-265d76feb092
 construction_material: wood
 construction_method: unknown
-designer: b32130d3-767a-46aa-b14e-265d76feb092
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.8956352109241648
   length_over_all: 11.506339917093392
@@ -16,17 +24,19 @@ home_port: Plymouth
 hull_form: unknown
 id: 6bd0bec5-ecc7-4c03-97eb-78bd6b92179a
 length_on_deck: 11.5062
-mainsail_type: bermudan
-name: Penguin
-oga_no: 7053
+callsign: ''
 ownerships:
 - name: Ian Pitman
   share: 64
   start: 2012
 place_built: Govan
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:40:01.590158+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+previous_names:
+- Green Dolphin
+- Triton of Nor
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

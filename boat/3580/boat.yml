@@ -1,11 +1,20 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+name: Stella Marjorie
+oga_no: 3580
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: She is a fine example of her type.
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.7376249695196293
 engine_installations: []
 for_sales: []
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
 home_country: UK
@@ -13,12 +22,13 @@ home_port: Blyth
 hull_form: centre-boarder
 id: 6b8d065a-5ce1-48ed-8abf-de2663fbe3c7
 length_on_deck: 7.315288953913679
-mainsail_type: gaff
-name: Stella Marjorie
-oga_no: 3580
+sail_number: '124'
+spar_material: wood
 place_built: Rock
-rig_type: Cutter
-short_description: She is a fine example of her type.
 updated_at: '2021-07-06T21:50:43.858011+00:00'
 year: 1977
 year_is_approximate: false
+image_key: r3p5bZ
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91

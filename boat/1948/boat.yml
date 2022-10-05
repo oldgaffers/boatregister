@@ -1,41 +1,49 @@
-builder: 4defc904-dd2c-47e9-baf3-3a691a841c97
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Ellen
+oga_no: 1948
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Ellen, a Tamarisk 24 replica Itchen Ferry gaff cutter, described
+  by one of her owners as &#39;a delight to sail&#39;, was built in 1983.&nbsp;</p>
 full_description: <p>Sold in March 2014 by Claudia Myatt to Christopher Wigdor who
   moved her to Emsworth where she was re-commissioned by Nick Gates. &nbsp;She was
   then sailed to her new home on the River Yealm in Devon. &nbsp;In 2019 she underwent
   a mechanical overhaul by Duncan Fowler in Plymouth.</p>
-generic_type: Yacht
+builder:
+  name: Cygnus Marine
+  id: 4defc904-dd2c-47e9-baf3-3a691a841c97
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.9144111192392099
-  fore_triangle_base: 4.495854669592782
-  fore_triangle_height: 8.686905632772493
-  length_on_waterline: 6.452694464764692
-  length_over_all: 7.315288953913679
   main:
     foot: 3.712509144111192
     head: 2.7066569129480618
     luff: 4.191050963179712
-  propellor:
-    type: folding
   thcf: 0.900288618
+  draft: 0.9144111192392099
   topsail:
     luff: 2.7432333577176298
     perpendicular: 1.3716166788588149
+  propellor:
+    type: folding
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 4.495854669592782
+  length_on_waterline: 6.452694464764692
+  fore_triangle_height: 8.686905632772493
 home_country: GBR
 home_port: River Yealm
 hull_form: long keel deep forefoot
 id: 78bc60ee-f660-4a2c-8b46-7afba615ec97
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Ellen
-oga_no: 1948
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2012
   name: Melvyn Fox
@@ -45,16 +53,23 @@ ownerships:
   name: Claudia Myatt
   share: 64
   start: 2012
-- current: true
-  id: 805
-  member: 5862
+- id: 805
   share: 64
   start: 2014
+  member: 5862
+  current: true
 place_built: Penryn
-rig_type: Cutter
-short_description: <p>Ellen, a Tamarisk 24 replica Itchen Ferry gaff cutter, described
-  by one of her owners as &#39;a delight to sail&#39;, was built in 1983.&nbsp;</p>
 updated_at: '2021-12-19T13:39:24.999633+00:00'
 website: ''
 year: 1983
 year_is_approximate: false
+previous_names:
+- Tykky Dew
+image_key: HGkDRg
+construction_details: GRP hull, GRP over ply deck.
+beam: 2.4384
+design_class:
+  name: Tamarisk 24
+  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
+for_sale_state:
+  text: not_for_sale

@@ -1,44 +1,53 @@
-builder: 33d33eac-1dfc-4753-a159-0504f59974ae
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: 1c7ca434-6376-46ca-a4c6-f5258b6c0673
-draft: 0
-engine_installations: []
-for_sales: []
+name: Harvester
+oga_no: 2792
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Harvester&#39; is a North Norfolk Whelker, built by Emery
+  of Sheringham in 1951, and restored by David Hewitt of Blakeney in 2001.</p>
 full_description: Built for and fished by 'Custard' Cooper for 30 years, then by George
   Hewitt boatbuilder, his brother David restored her in 2001. She now has an 8' bowsprit
   instead of her dipping lug. She's an open boat with a cuddy in the bows and sailed
   from Norfolk to Holland and back,160 miles door to door, in 2006. Skipper Graeme
   Peart notes he fitted a radar as a precaution but felt it wasn't a bad passage for
   an open boat.
-generic_type: unknown
+builder:
+  name: Emery Bros.
+  id: 33d33eac-1dfc-4753-a159-0504f59974ae
+designer:
+  name: Emery
+  id: 1c7ca434-6376-46ca-a4c6-f5258b6c0673
+construction_material: wood
+construction_method: clinker
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.148622287247013
-  length_over_all: 7.924896366739819
   propellor:
     type: fixed
+  length_over_all: 7.924896366739819
 home_country: GBR
 home_port: Blakeney
 hull_form: long keel deep forefoot
 id: 7ec84ac2-b249-40a3-a249-003186c92906
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Harvester
-oga_no: 2792
+callsign: ''
 ownerships:
 - name: Graeme Peart
   share: 64
   start: 1998
-- current: true
+- share: 64
   member: 3848
-  share: 64
+  current: true
   start: '?'
 place_built: Sheringham
-rig_type: Cutter
-short_description: <p>&#39;Harvester&#39; is a North Norfolk Whelker, built by Emery
-  of Sheringham in 1951, and restored by David Hewitt of Blakeney in 2001.</p>
 updated_at: '2021-12-19T13:39:49.583852+00:00'
 website: ''
 year: 1951
 year_is_approximate: false
+image_key: 75zsXh
+construction_details: Clincher larch on oak
+beam: 3.1486
+for_sale_state:
+  text: not_for_sale

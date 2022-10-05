@@ -1,9 +1,9 @@
-builder: 9b182a20-074a-4ba5-9057-6ce3334ab38b
-construction_material: wood
-construction_method: carvel
-draft: 1.8288
-engine_installations: []
-for_sales: []
+name: Bee
+oga_no: 212
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Bee is a Tollesbury fishing smack converted to a yacht</p>
 full_description: "<p>Built by Frost and Drake of Tollesbury in 1886 and owned by\
   \ the same &nbsp;family until bought by Dr. Gibson some time in the 1950s or 60s.\
   \ She was &nbsp;known locally as the \u201COdd Times\u201D because the yard built\
@@ -18,27 +18,35 @@ full_description: "<p>Built by Frost and Drake of Tollesbury in 1886 and owned b
   \ the scroll of Tollesbury, to be presented to H.M the &nbsp;Queen. Walter Musset\
   \ and Sam Gurton, two 84 year olds sailed her with Dr &nbsp;Gibson, both of whom\
   \ used to sail the <em>Williams and Emily </em>in the past.</p>"
-generic_type: Smack
+builder:
+  name: Frost and Drake
+  id: 9b182a20-074a-4ba5-9057-6ce3334ab38b
+construction_material: wood
+construction_method: carvel
+draft: 1.8288
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.5966
   draft: 1.8288222384784198
-  length_on_waterline: 12.801755669348939
   length_over_all: 14.173372348207753
+  length_on_waterline: 12.801755669348939
 home_country: GBR
 home_port: Brightlingsea
 hull_form: unknown
 id: 33fa9390-eee9-4518-9e33-2aa9a8302545
 length_on_deck: 14.1732
-mainsail_type: gaff
-name: Bee
-oga_no: 212
+spar_material: wood
 ownerships:
 - name: D S Hunt
   share: 64
   start: 2012
 place_built: Tollesbury
-rig_type: Cutter
-short_description: <p>Bee is a Tollesbury fishing smack converted to a yacht</p>
 updated_at: '2021-12-19T13:38:35.755175+00:00'
 year: 1886
 year_is_approximate: true
+previous_names:
+- William and Emily
+image_key: xPjmqq
+for_sale_state:
+  text: not_for_sale

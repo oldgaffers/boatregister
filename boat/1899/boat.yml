@@ -1,44 +1,55 @@
-builder: 3ec78f7a-e558-43bb-9145-1368ce3f949e
-callsign: ''
+name: Ytene Rose
+oga_no: 1899
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Log Sep/98
+builder:
+  name: Harris Brothers
+  id: 3ec78f7a-e558-43bb-9145-1368ce3f949e
+designer:
+  name: Harris Brothers
+  id: 009e934b-3e6d-4651-b895-a4b712da3886
 construction_material: wood
 construction_method: unknown
-designer: 009e934b-3e6d-4651-b895-a4b712da3886
 draft: 2.4384
 engine_installations: []
 for_sales: []
-full_description: Log Sep/98
-generic_type: Yacht
 handicap_data:
   beam: 3.6576444769568397
-  draft: 2.43842965130456
-  length_on_waterline: 10.36332601804438
-  length_over_all: 17.06900755913192
   main:
     foot: 7.010485247500609
     head: 6.2484759814679345
     luff: 9.601316752011703
+  thcf: 1.112946679
+  draft: 2.43842965130456
   mizzen:
     foot: 3.0480370641306997
     head: 2.286027798098025
     luff: 2.7432333577176298
-  propellor:
-    type: fixed
-  thcf: 1.112946679
   topsail:
     luff: 11.887344550109729
     perpendicular: 2.8956352109241648
+  propellor:
+    type: fixed
+  length_over_all: 17.06900755913192
+  length_on_waterline: 10.36332601804438
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 96af3734-09a3-4281-892f-c48bc6bfed6c
 length_on_deck: 17.0688
-mainsail_type: gaff
-name: Ytene Rose
-oga_no: 1899
+reference:
+- Log Sep/98
+sail_number: '3088'
+callsign: ''
 place_built: Rowhedge
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-03-27T22:50:27.51702+00:00'
 website: ''
 year: 1904
 year_is_approximate: false
+construction_details: Teak on oak
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

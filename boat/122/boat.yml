@@ -1,10 +1,9 @@
-builder: c1493bc6-547f-41fa-9568-c4067ba0baeb
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 0
-engine_installations: []
-for_sales: []
+name: Tarka
+oga_no: 122
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built in 1935, &#39;Tarka&#39; is a 22&#39; gaff cutter.</p>
 full_description: "<p>&#39;Tarka&#39; has been a well-known boat on the East Coast,\
   \ regularly taking part in OGA events.</p>\r\n\r\n<p>She was described by her owner,\
   \ Tony Bailey, in 1990 as, &#39;A solid yet perky boat, in fine shape, great fun\
@@ -20,30 +19,40 @@ full_description: "<p>&#39;Tarka&#39; has been a well-known boat on the East Coa
   \ handed cruising East Coast and near continent over last 12 years and a regular\
   \ entrant in EC Race, twice winning the Stone Trophy. Selling to obtain a larger\
   \ boat &pound;3,500.</p>\r\n</blockquote>"
-generic_type: Yacht
+builder:
+  name: McGruer
+  id: c1493bc6-547f-41fa-9568-c4067ba0baeb
+construction_material: wood
+construction_method: carvel
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.2250670568154107
-  length_on_waterline: 5.6388685686417945
   length_over_all: 6.492318946598391
+  length_on_waterline: 5.6388685686417945
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 3deab863-8701-4a21-a126-b18cbc41299c
 length_on_deck: 6.4922
-mainsail_type: gaff
-name: Tarka
-oga_no: 122
+callsign: ''
 ownerships:
 - note: Advertised for sale by CR Williamson, 1983 and Tony Bailey in 1990.
+  text: Advertised for sale by CR Williamson,
   start: 1983
   start_is_approximate: false
-  text: Advertised for sale by CR Williamson,
 - name: L Meadows
   share: 64
   start: 1990
-rig_type: Cutter
-short_description: <p>Built in 1935, &#39;Tarka&#39; is a 22&#39; gaff cutter.</p>
 updated_at: '2021-12-19T13:38:33.112401+00:00'
 website: ''
 year: 1935
 year_is_approximate: false
+previous_names:
+- Ailie
+image_key: qfxkq6
+construction_details: Carvel pitch pine on oak
+beam: 2.225
+for_sale_state:
+  text: not_for_sale

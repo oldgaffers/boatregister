@@ -1,51 +1,63 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Waltham Lady
+oga_no: 1303
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Walthan Lady is a Cornish trader built in 1979</p>
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 1.0973
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.8956352109241648
-  draft: 1.097293343087052
-  fore_triangle_base: 5.00487685930261
-  fore_triangle_height: 7.315288953913679
-  length_on_waterline: 7.848695440136551
-  length_over_all: 9.1441111923921
   main:
     foot: 3.910631553279688
     head: 3.5570592538405266
     luff: 4.648256522799317
+  thcf: 0.940322213
+  draft: 1.097293343087052
   mizzen:
     foot: 2.843818580833943
     head: 2.3104120946110704
     luff: 3.6576444769568397
-  propellor:
-    type: fixed
-  thcf: 0.940322213
   topsail:
     luff: 4.57205559619605
     perpendicular: 2.0574250182882223
+  propellor:
+    type: fixed
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 5.00487685930261
+  length_on_waterline: 7.848695440136551
+  fore_triangle_height: 7.315288953913679
 home_country: 'null'
 home_port: Fareham
 hull_form: long keel deep forefoot
 id: 609a64a5-63f5-45a3-bd02-15553b30c89b
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Waltham Lady
-oga_no: 1303
+sail_number: '3'
+ssr: '11188'
+callsign: ''
 ownerships:
 - end: 2015
   name: Dave Phillips
   share: 64
   start: 2012
 place_built: Rock
-rig_type: Ketch
-short_description: <p>Walthan Lady is a Cornish trader built in 1979</p>
 updated_at: '2021-12-19T13:39:07.588627+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+previous_names:
+- Fritha
+construction_details: GRP
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

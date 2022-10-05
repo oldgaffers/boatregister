@@ -1,52 +1,61 @@
-builder: 0b3b99de-ce0b-4a83-8fde-efb63d1b5bc6
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: ad7f3e5b-4dcc-42fe-9232-a3027953a13f
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Juno
+oga_no: 1245
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Juno&#39; has been in the Nockolds&#39; family since 1919.</p>
 full_description: "<p>&#39;Juno&#39; was built by BS Woolacott, a designer at the\
   \ Southampton Launch and Pinnace Co. The keel was laid down in 1913, she was launched\
   \ in 1917 and fully commissioned in 1918.</p>\r\n\r\n<p>Woollacott sold her to Geoffrey\
   \ Nockold&#39;s father in 1919, and she has been in the family ever since. Woolacott\
   \ subsequently went to New Zealand to design 6 metre craft.</p>"
-generic_type: Yacht
+builder:
+  name: Southampton Launch & Pinnace Co.
+  id: 0b3b99de-ce0b-4a83-8fde-efb63d1b5bc6
+designer:
+  name: B.S. Woolacott
+  id: ad7f3e5b-4dcc-42fe-9232-a3027953a13f
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.539014874420873
-  draft: 1.5240185320653499
-  fore_triangle_base: 4.57205559619605
-  fore_triangle_height: 10.591928797854182
-  length_on_waterline: 7.924896366739819
-  length_over_all: 9.348329675688856
   main:
     foot: 5.6388685686417945
     head: 4.090465740063399
     luff: 4.800658376005852
-  propellor:
-    type: fixed
   thcf: 0.994778325
+  draft: 1.5240185320653499
   topsail:
     luff: 5.282248232138502
     perpendicular: 3.148622287247013
+  propellor:
+    type: fixed
+  length_over_all: 9.348329675688856
+  fore_triangle_base: 4.57205559619605
+  length_on_waterline: 7.924896366739819
+  fore_triangle_height: 10.591928797854182
 home_country: 'null'
 home_port: Dartmouth
 hull_form: long keel deep forefoot
 id: 192ae714-2684-4cd9-a1fa-eb69bbc6d501
 length_on_deck: 9.3482
-mainsail_type: gaff
-name: Juno
-oga_no: 1245
+uk_part1: '146993'
+callsign: ''
 ownerships:
-- current: true
-  id: 114
-  member: 1952
+- id: 114
   share: 64
   start: 1919
+  member: 1952
+  current: true
 place_built: Southampton
-rig_type: Cutter
-short_description: <p>&#39;Juno&#39; has been in the Nockolds&#39; family since 1919.</p>
 updated_at: '2021-12-19T13:39:05.839879+00:00'
 website: ''
 year: 1917
 year_is_approximate: false
+construction_details: Timber  Carvel
+beam: 2.539
+for_sale_state:
+  text: not_for_sale

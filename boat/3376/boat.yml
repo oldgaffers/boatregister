@@ -1,31 +1,44 @@
-builder: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
-callsign: ''
+name: Sea Filly
+oga_no: 3376
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Sea Filly is a Norfolk Smuggler built in 1999</p>
+full_description: ''
+builder:
+  name: North Norfolk Boatbuilding Co./Charlie Ward
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: grp
 construction_method: cold_moulded
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: GBR
 home_port: Birdham Pool
 hull_form: long keel deep forefoot
 id: 7e147d82-4bcd-48cb-ba2b-51eedea4c617
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Sea Filly
-oga_no: 3376
+callsign: ''
 ownerships:
-- current: true
-  id: 960
-  member: 6168
+- id: 960
   share: 64
   start: 2017
+  member: 6168
+  current: true
 place_built: Norfolk
-rig_type: Cutter
-short_description: <p>Sea Filly is a Norfolk Smuggler built in 1999</p>
 updated_at: '2021-12-19T13:40:09.271149+00:00'
 website: ''
 year: 1999
 year_is_approximate: false
+previous_names:
+- Duty Free
+construction_details: GRP
+beam: 2.6914
+design_class:
+  name: Norfolk Smuggler
+  id: 1af0cf00-1de2-4a9c-8ce7-79e4afe2cf08
+for_sale_state:
+  text: not_for_sale

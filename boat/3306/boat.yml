@@ -1,12 +1,10 @@
-builder: 978a606d-84aa-469b-8aad-3b8b8712b07a
-callsign: ''
-construction_material: woodepoxy
-construction_method: unknown
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
-draft: 0.2012
-engine_installations: []
-for_sales:
-- asking_price: 4750
+name: Scala Nimbata
+oga_no: 3306
+generic_type: Yacht
+rig_type: single_sail
+mainsail_type: lateen
+short_description: <p>&#39;Scala Nimbata&#39; was conceived, designed and built to
+  sail and row the River Thames from source to tideway.</p>
 full_description: "<p>Selway Fisher Designs produced a design outline against the\
   \ owner/builder&#39;s specification. This included: had to look attractive, have\
   \ good directional stability for rowing, sail well and accommodate four plus ample\
@@ -29,36 +27,50 @@ full_description: "<p>Selway Fisher Designs produced a design outline against th
   \ results.</p>\r\n\r\n<p>Short tacking is practical with the spar remaining to windward\
   \ of the mast. &#39;Scala Nimbat&#39;a has taken part in La Semaine du Golfe Morbihan\
   \ 2003 and 2007, Seafair Milford Haven 2006 and 2008, Fowey Classics 2008.</p>"
-generic_type: Yacht
+builder:
+  name: Patrick Hobbs
+  id: 978a606d-84aa-469b-8aad-3b8b8712b07a
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+construction_material: woodepoxy
+construction_method: unknown
+draft: 0.2012
+engine_installations: []
+for_sales:
+- asking_price: 4750
 handicap_data:
-  length_on_waterline: 4.7488
-  length_over_spars: 4.95
-  length_overall: 4.95
   main:
     foot: 13.12
     head: 15.42
     luff: 10.33
+  length_overall: 4.95
+  length_over_spars: 4.95
+  length_on_waterline: 4.7488
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: a8214dff-1953-4430-a280-fd2b365a3903
 length_on_deck: 4.95
-mainsail_type: lateen
-name: Scala Nimbata
-oga_no: 3306
+sail_number: K 101
+spar_material: wood
+ssr: '104200'
+callsign: ''
 ownerships:
 - name: Patrick Hobbs
   share: 64
   start: 2001
-- current: true
+- share: 64
   member: 6075
-  share: 64
+  current: true
   start: '?'
 place_built: Wargrave
-rig_type: single_sail
-short_description: <p>&#39;Scala Nimbata&#39; was conceived, designed and built to
-  sail and row the River Thames from source to tideway.</p>
 updated_at: '2021-12-19T13:40:07.080169+00:00'
 website: ''
 year: 2001
 year_is_approximate: false
+image_key: 5FRFxZ
+construction_details: Strip plank plus glass fabric and epoxy coating.
+beam: 1.399
+for_sale_state:
+  text: not_for_sale

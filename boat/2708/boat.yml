@@ -1,16 +1,24 @@
-builder: 7a9e38f5-4219-4567-bbf9-8b86a696c37a
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 2f15bad7-0188-45ab-b833-cc4cdcf439e4
-draft: 0
-engine_installations: []
-for_sales: []
+name: Mister Blue Sky
+oga_no: 2708
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: She is a replica of an 19th century Itchen punt, based on a drawing
   in the 1895 edition of Dixon Kemp. His drawing was of a boat 13ft long but Mister
   Blue Sky has been re-drawn at 17ft. She also has a centreboard, which was common
   in the Poole fishing boats.
-generic_type: Yacht
+builder:
+  name: Ocean Yacht Services
+  id: 7a9e38f5-4219-4567-bbf9-8b86a696c37a
+designer:
+  name: Kemp Dixon
+  id: 2f15bad7-0188-45ab-b833-cc4cdcf439e4
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.0056083881980005
   length_over_all: 5.18166300902219
@@ -19,21 +27,20 @@ home_port: Poole
 hull_form: unknown
 id: 8bf93c11-4fcf-409b-ae65-6a9bbb794b99
 length_on_deck: 5.1816
-mainsail_type: gaff
-name: Mister Blue Sky
-oga_no: 2708
+callsign: ''
 ownerships:
 - name: Brian O'Donoghue
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 4613
-  share: 64
+  current: true
   start: '?'
 place_built: Poole
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:47.022628+00:00'
 website: ''
 year: 2004
 year_is_approximate: false
+beam: 2.0056
+for_sale_state:
+  text: not_for_sale

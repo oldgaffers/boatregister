@@ -1,40 +1,52 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Penelope
+oga_no: 3261
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Penelope&#39; is a Tela Yacht, 16&#39; gaff day-sailer,
+  built in 2012.</p>
+full_description: <p>The design for &#39;Penelope&#39; is based on a boat called &#39;Tela&#39;,
+  a &#39;seeking boat&#39; built and sailed in the Bristol Channel in 1911. The original
+  &#39;Tela&#39; was used to make the mould in the 1980s.</p>
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 construction_material: grp
 construction_method: cold_moulded
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 draft: 0.3566
 engine_installations: []
 for_sales:
 - asking_price: 9000
-full_description: <p>The design for &#39;Penelope&#39; is based on a boat called &#39;Tela&#39;,
-  a &#39;seeking boat&#39; built and sailed in the Bristol Channel in 1911. The original
-  &#39;Tela&#39; was used to make the mould in the 1980s.</p>
-generic_type: Dayboat
 handicap_data:
-  length_over_spars: 5.715
-  length_overall: 5.0292
   moving_keel: true
+  length_overall: 5.0292
   moving_keel_type: Centreboard
+  length_over_spars: 5.715
 home_country: GBR
 home_port: Cardiff
 hull_form: long keel deep forefoot
 id: b6e94026-67a4-4491-b1b7-d0be9b4a6085
 length_on_deck: 5.0292
-mainsail_type: gaff
-name: Penelope
-oga_no: 3261
+callsign: ''
 ownerships:
-- current: true
-  id: 723
-  member: 5683
+- id: 723
   share: 64
   start: 2012
+  member: 5683
+  current: true
 place_built: Dorchester, Oxon.
-rig_type: Sloop
-short_description: <p>&#39;Penelope&#39; is a Tela Yacht, 16&#39; gaff day-sailer,
-  built in 2012.</p>
 updated_at: '2021-12-19T13:40:05.562877+00:00'
 website: ''
 year: 2012
 year_is_approximate: false
+image_key: zLDw5M
+construction_details: GRP
+beam: 1.6764
+design_class:
+  name: Tela
+  id: a9b70e41-d96c-4e9b-b6d3-e58cae9e1504
+for_sale_state:
+  text: not_for_sale

@@ -1,13 +1,21 @@
-builder: fa4cb89a-113f-4a20-9cd6-93b34053f13a
-callsign: ''
+name: Grasshopper
+oga_no: 2613
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Bell Woodworking
+  id: fa4cb89a-113f-4a20-9cd6-93b34053f13a
+designer:
+  name: Holt
+  id: d83d96ca-b797-41d5-a91f-d662a2871b1f
 construction_material: wood
 construction_method: unknown
-designer: d83d96ca-b797-41d5-a91f-d662a2871b1f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.4020970495001217
   length_over_all: 3.291880029261156
@@ -16,19 +24,23 @@ home_port: ''
 hull_form: unknown
 id: fc67f447-4d20-43e8-a794-574579baf52e
 length_on_deck: 3.301
-mainsail_type: gaff
-name: Grasshopper
-oga_no: 2613
+sail_number: '32613'
+callsign: ''
 ownerships:
-- current: true
-  id: 154
-  member: 2381
+- id: 154
   share: 64
   start: 1972
+  member: 2381
+  current: true
 place_built: Leicester
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:44.299448+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+construction_details: Plywood
+beam: 1.396
+design_class:
+  name: Mirror Dinghy
+  id: e6a2f346-6819-48a2-84d3-69005e2316f4
+for_sale_state:
+  text: not_for_sale

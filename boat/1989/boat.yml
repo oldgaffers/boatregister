@@ -1,11 +1,11 @@
-builder: 2a625108-bef9-404e-bf02-4aad488efa47
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Charlie
+oga_no: 1989
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Built in 1997, &#39;Charlie&#39; is&nbsp;of GRP construction
+  in the hull and decks, with extensive use of hardwood finishes. &#39;Charlie&#39;s&#39;
+  home port is&nbsp;the Cardiff Bay Yacht Club in Cardiff Bay.</p>
 full_description: "<p>The mast gaff and boom&nbsp;are of pine, and the bowsprit (not\
   \ to put a spin on it) is a metal pipe! Originally called&nbsp;a Mayfly Corsaire\
   \ (Demonstrator no 2) she is now known as an Oystercatcher 20.</p>\r\n\r\n<p>She\
@@ -49,7 +49,17 @@ full_description: "<p>The mast gaff and boom&nbsp;are of pine, and the bowsprit 
   \ halyards and reefing lines leading to the cockpit. The topping lift leads to a\
   \ cleat on the starboard cabin roof, the throat and gaff halyard feed through a\
   \ new Barton deck organiser and a pair of clutches on the port side.</p>"
-generic_type: Yacht
+builder:
+  name: Mayfly Classic Boats
+  id: 2a625108-bef9-404e-bf02-4aad488efa47
+designer:
+  name: Bryan Gibson
+  id: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
   length_over_all: 6.0960741282613995
@@ -58,30 +68,32 @@ home_port: Cardiff
 hull_form: unknown
 id: 9d530f05-0bd9-4032-aec3-6428d67fed16
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Charlie
-oga_no: 1989
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2007
   name: Robert Ferris
   share: 64
   start: 2003
-- current: true
-  id: 551
-  member: 4964
+- id: 551
   share: 64
   start: 2007
+  member: 4964
+  current: true
 - note: 'Purchased by David Botterill in 2007, Previously owned by Mr Rogert Ferris
     of Plymouth (2003-7). '
+  text: Purchased by David Botterill in
   start: 2007
   start_is_approximate: false
-  text: Purchased by David Botterill in
 place_built: Gweek
-rig_type: Sloop
-short_description: <p>Built in 1997, &#39;Charlie&#39; is&nbsp;of GRP construction
-  in the hull and decks, with extensive use of hardwood finishes. &#39;Charlie&#39;s&#39;
-  home port is&nbsp;the Cardiff Bay Yacht Club in Cardiff Bay.</p>
 updated_at: '2021-12-19T13:39:26.207633+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+image_key: f7HXWW
+beam: 2.4384
+design_class:
+  name: Oystercatcher 20
+  id: 2e74e933-b6b6-419b-95b4-ca0ffedea264
+for_sale_state:
+  text: not_for_sale

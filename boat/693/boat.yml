@@ -1,34 +1,41 @@
-builder: e5fbb6a7-3d4c-4822-b5a6-3e1f1ff28278
-callsign: ''
+name: Stavanger
+oga_no: 693
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Colin Archer
+  id: e5fbb6a7-3d4c-4822-b5a6-3e1f1ff28278
+designer:
+  name: Colin Archer
+  id: 7e919cb2-8404-432d-a57a-3b17cfd38e60
 construction_material: wood
 construction_method: unknown
-designer: 7e919cb2-8404-432d-a57a-3b17cfd38e60
 draft: 2.0117
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
   draft: 2.0117044623262617
-  length_on_waterline: 4.724457449402585
   length_over_all: 14.325774201414289
+  length_on_waterline: 4.724457449402585
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 75850aeb-ad49-4ed8-90a4-74db8c97b9d9
 length_on_deck: 14.3256
-mainsail_type: gaff
-name: Stavanger
-oga_no: 693
+callsign: ''
 ownerships:
 - name: R B Nielson
   share: 64
   start: 2012
 place_built: Larvik, Norway
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:49.74994+00:00'
 website: ''
 year: 1901
 year_is_approximate: false
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

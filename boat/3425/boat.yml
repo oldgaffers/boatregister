@@ -1,31 +1,41 @@
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 8ae8af94-3e4e-44fd-9b2b-6ea45fe80024
-draft: 0.2
-engine_installations: []
-for_sales: []
+name: Papa Little
+oga_no: 3425
+generic_type: Dinghy
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: <p>Sailed for many years as a standard Bermudian rigged Wayfarer
   <em>Papa Little</em> was converted to a gaff cutter in 2015. She retains her original
   mast, &nbsp;and has a removable bowsprit, so can still be sailed with her original
   &nbsp;rig.</p>
-generic_type: Dinghy
+designer:
+  name: Ian Proctor
+  id: 8ae8af94-3e4e-44fd-9b2b-6ea45fe80024
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.2
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Manningtree
 hull_form: centre-board dinghy
 id: 29260a67-d9a1-4479-aaf8-508af8a0a7b6
 length_on_deck: 4.83
-mainsail_type: gaff
-name: Papa Little
-oga_no: 3425
+spar_material: aluminium
+callsign: ''
 ownerships:
-- current: true
-  id: 305
-  member: 3662
+- id: 305
   share: 64
   start: 2000
-rig_type: Cutter
-short_description: ''
+  member: 3662
+  current: true
 updated_at: '2021-12-26T23:28:57.450554+00:00'
 website: ''
 year_is_approximate: false
+image_key: wRqSr7
+beam: 1.855
+design_class:
+  name: Wayfarer
+  id: 56b951be-2b94-4b73-b5f2-5f6b8124ac4b
+for_sale_state:
+  text: not_for_sale

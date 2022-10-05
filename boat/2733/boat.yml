@@ -1,11 +1,9 @@
-builder: 95af8096-5755-46ff-980e-f382837e729c
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: e7b7b001-2a40-409b-8d10-8c5c9995d9db
-draft: 0
-engine_installations: []
-for_sales: []
+name: Tiny Mite
+oga_no: 2733
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: "<p>Fishing Smack built by Shuttlewoods of Paglesham in 1903.</p>\n\
   <p>Length; 14 metre 10cm</p>\n<p>Breadth; 3 metre 50cm</p>\n<p>Depth; 1 metre 30cm</p>\n\
   <p>Number of crew \u2013 4</p>\n<p>Mode of fishing; dredging.</p>\n<p>Originally\
@@ -25,7 +23,17 @@ full_description: "<p>Fishing Smack built by Shuttlewoods of Paglesham in 1903.<
   \ in the Netherlands and has been used for recreational and charter purposes. Because\
   \ of health problems I\u2019m looking for a buyer and I would love it if the Tiny\
   \ Mite would return to the U.K. to be sailed again.</p>"
-generic_type: Smack
+builder:
+  name: Frank W. Shuttlewood and Son
+  id: 95af8096-5755-46ff-980e-f382837e729c
+designer:
+  name: Frank W. Shuttlewood
+  id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
+construction_material: wood
+construction_method: carvel
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   length_over_all: 14.100219458668617
 home_country: 'null'
@@ -33,17 +41,18 @@ home_port: Bunschoten, Nl
 hull_form: unknown
 id: 32b86e0c-fae2-4e9a-bcd1-5a007a07fb36
 length_on_deck: 14.1
-mainsail_type: gaff
-name: Tiny Mite
-oga_no: 2733
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Arend Liefkes
   share: 64
   start: 2012
 place_built: Paglesham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:47.752601+00:00'
 website: ''
 year: 1904
 year_is_approximate: false
+image_key: j3wXVN
+beam: 0
+for_sale_state:
+  text: not_for_sale

@@ -1,45 +1,54 @@
-builder: 185a8d33-c3a3-4f70-a08a-7fdc2657a79e
-callsign: ''
+name: Pam
+oga_no: 7058
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gunter
+short_description: <p>Pam is an Island 14 built in Malta in 1935. She sails with an
+  RNSA Gunter rig.on Lielder Water Northumberland. Her original Bermudan rig is in
+  store at home.</p>
+full_description: Same hull with gunter sloop as a RNSA 14' dinghy
+builder:
+  name: Alfred Grech
+  id: 185a8d33-c3a3-4f70-a08a-7fdc2657a79e
+designer:
+  name: Charles E. Nicholson
+  id: f97b2d74-8535-4ed5-8602-651d2ca2898f
 construction_material: wood
 construction_method: unknown
-designer: f97b2d74-8535-4ed5-8602-651d2ca2898f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Same hull with gunter sloop as a RNSA 14' dinghy
-generic_type: Dinghy
 handicap_data:
   beam: 1.664228237015362
-  fore_triangle_base: 1.167398195562058
-  fore_triangle_height: 4.114850036576445
-  length_on_waterline: 4.26725188978298
-  length_over_all: 4.26725188978298
   main:
     foot: 2.7432333577176298
     luff: 6.4008778346744695
   thcf: 0.7708693
+  length_over_all: 4.26725188978298
+  fore_triangle_base: 1.167398195562058
+  length_on_waterline: 4.26725188978298
+  fore_triangle_height: 4.114850036576445
 home_country: 'null'
 home_port: Hawick
 hull_form: unknown
 id: 2186fbc5-049a-49db-8030-1d4a55c1fe5c
 length_on_deck: 4.2672
-mainsail_type: gunter
-name: Pam
-oga_no: 7058
+sail_number: '7058'
+callsign: ''
 ownerships:
 - name: John Curtis
   share: 64
   start: 2004
-- current: true
+- share: 64
   member: 4817
-  share: 64
+  current: true
   start: '?'
 place_built: Malta
-rig_type: Sloop
-short_description: <p>Pam is an Island 14 built in Malta in 1935. She sails with an
-  RNSA Gunter rig.on Lielder Water Northumberland. Her original Bermudan rig is in
-  store at home.</p>
 updated_at: '2021-12-19T13:40:01.719874+00:00'
 website: ''
 year: 1935
 year_is_approximate: false
+construction_details: Spruce ckinker
+beam: 1.6642
+for_sale_state:
+  text: not_for_sale

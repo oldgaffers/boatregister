@@ -1,41 +1,53 @@
-builder: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-callsign: ''
+name: Oystercatcher of Glenarm
+oga_no: 2709
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: grp
 construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.0480370641306997
-  draft: 1.5240185320653499
-  fore_triangle_base: 6.0960741282613995
-  fore_triangle_height: 9.601316752011703
-  length_on_waterline: 8.077298219946353
-  length_over_all: 8.53450377956596
   main:
     foot: 5.334064862228725
     head: 5.029261155815655
     luff: 5.257863935625457
+  thcf: 0.954883733
+  draft: 1.5240185320653499
   propellor:
     type: fixed
-  thcf: 0.954883733
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 6.0960741282613995
+  length_on_waterline: 8.077298219946353
+  fore_triangle_height: 9.601316752011703
 home_country: GBR
 home_port: Glenarm Co Antrim
 hull_form: long keel deep forefoot
 id: a1679fcc-e9c0-4d0a-8373-837f7dab422e
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Oystercatcher of Glenarm
-oga_no: 2709
+callsign: ''
 ownerships:
 - share: 64
 place_built: Mylor
-rig_type: Cutter
-short_description: ''
 updated_at: '2022-05-10T19:28:14.520973+00:00'
 website: ''
 year: 2007
 year_is_approximate: false
+image_key: HggfJK
+construction_details: Grp
+beam: 3.048
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
+for_sale_state:
+  text: not_for_sale

@@ -1,43 +1,55 @@
-builder: 3a0712da-cbcd-438a-8244-9f4701c2359b
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 4aeebe60-8347-4b4d-950f-a28aa1696d1b
-draft: 0.1524
-engine_installations: []
-for_sales: []
+name: Arrow
+oga_no: 1064
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
 full_description: See cardex for owners, Almost wrecked on Bognor Regis beach 1950's,
   repaired Ian Harris of Littlehampton.  Sank during regatta in 1976, recovered &
   repaired.
-generic_type: unknown
+builder:
+  name: Dornam and Son
+  id: 3a0712da-cbcd-438a-8244-9f4701c2359b
+designer:
+  name: Dornam
+  id: 4aeebe60-8347-4b4d-950f-a28aa1696d1b
+construction_material: wood
+construction_method: carvel
+draft: 0.1524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.777005608388198
-  draft: 0.152401853206535
-  fore_triangle_base: 1.6764203852718849
-  fore_triangle_height: 5.4864667154352595
-  length_on_waterline: 4.87685930260912
-  length_over_all: 5.257863935625457
   main:
     foot: 3.9624481833699097
     head: 4.26725188978298
     luff: 4.114850036576445
   thcf: 0.859105107
+  draft: 0.152401853206535
+  length_over_all: 5.257863935625457
+  fore_triangle_base: 1.6764203852718849
+  length_on_waterline: 4.87685930260912
+  fore_triangle_height: 5.4864667154352595
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 26aceea7-3084-4936-aeca-d892aa7b063c
 length_on_deck: 5.2578
-mainsail_type: gaff
-name: Arrow
-oga_no: 1064
+sail_number: '1064'
+callsign: ''
 ownerships:
 - name: Hannaford
   share: 64
   start: 2003
 place_built: Whitestrand
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:00.393413+00:00'
 website: ''
 year: 1893
 year_is_approximate: false
+previous_names:
+- Pride of Salcombe
+construction_details: 5/8th Carvel Western Red Cedar, Elm below water, on 1&quot;
+  x 3/4  Rock Elm Frames @4 1/2 crs, 2 1/2 x 1 3/4 oak floors. Iron ballast.
+beam: 1.777
+for_sale_state:
+  text: not_for_sale

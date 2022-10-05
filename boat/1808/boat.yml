@@ -1,38 +1,51 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Carran Sona
+oga_no: 1808
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Not his measurements, unable to measure owing to injury and angry
+  about it.  Unsed Dongray's standard dimensions
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.4816
 engine_installations: []
 for_sales: []
-full_description: Not his measurements, unable to measure owing to injury and angry
-  about it.  Unsed Dongray's standard dimensions
-generic_type: Yacht
 handicap_data:
   beam: 2.1854425749817117
-  draft: 0.4815898561326506
-  fore_triangle_base: 2.539014874420873
-  fore_triangle_height: 4.648256522799317
-  length_on_waterline: 5.334064862228725
-  length_over_all: 5.867471348451597
   main:
     foot: 3.5052426237503047
     head: 3.0998536942209216
     luff: 3.3528407705437697
   thcf: 0.827448987
+  draft: 0.4815898561326506
+  length_over_all: 5.867471348451597
+  fore_triangle_base: 2.539014874420873
+  length_on_waterline: 5.334064862228725
+  fore_triangle_height: 4.648256522799317
 home_country: 'null'
 home_port: ''
 hull_form: centre-boarder
 id: acebbafb-be6a-4696-8b58-7c5c4d0c7193
 length_on_deck: 5.8674
-mainsail_type: gaff
-name: Carran Sona
-oga_no: 1808
+sail_number: '134'
+spar_material: wood
+callsign: ''
 place_built: Rock
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:45:35.98548+00:00'
 website: ''
 year: 1991
 year_is_approximate: false
+construction_details: GRP
+beam: 2.1854
+design_class:
+  name: Cornish Shrimper
+  id: 7caf07ef-acf3-434b-a639-5c94188071a8
+for_sale_state:
+  text: not_for_sale

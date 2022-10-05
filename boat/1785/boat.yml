@@ -1,51 +1,56 @@
-callsign: ''
+name: Spirit of Falmouth
+oga_no: 1785
+generic_type: unknown
+rig_type: Schooner
+mainsail_type: gaff
+short_description: ''
+full_description: Name changed?
 construction_material: wood
 construction_method: unknown
 draft: 3.3528
 engine_installations: []
 for_sales: []
-full_description: Name changed?
-generic_type: unknown
 handicap_data:
   beam: 4.998780785174347
-  draft: 3.3528407705437697
   fore:
     foot: 4.87685930260912
     head: 5.4864667154352595
     luff: 7.924896366739819
-  fore_topsail:
-    luff: 8.22970007315289
-    perpendicular: 4.87685930260912
-  fore_triangle_base: 10.972933430870519
-  fore_triangle_height: 12.801755669348939
-  length_on_waterline: 19.50743721043648
-  length_over_all: 21.717264081931233
   main:
     foot: 8.53450377956596
     head: 6.0960741282613995
     luff: 9.75371860521824
-  propellor:
-    type: fixed
   thcf: 1.305144694
+  draft: 3.3528407705437697
   topsail:
     luff: 9.1441111923921
     perpendicular: 4.87685930260912
+  propellor:
+    type: fixed
+  fore_topsail:
+    luff: 8.22970007315289
+    perpendicular: 4.87685930260912
+  length_over_all: 21.717264081931233
+  fore_triangle_base: 10.972933430870519
+  length_on_waterline: 19.50743721043648
+  fore_triangle_height: 12.801755669348939
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: e55c0a99-be5c-4c0f-86ba-c8301c95385d
 length_on_deck: 21.717
-mainsail_type: gaff
-name: Spirit of Falmouth
-oga_no: 1785
+callsign: ''
 ownerships:
 - name: H B Bickett
   share: 64
   start: 2012
 place_built: Liverpool
-rig_type: Schooner
-short_description: ''
 updated_at: '2021-12-19T13:39:20.222399+00:00'
 website: ''
 year: 1985
 year_is_approximate: false
+previous_names:
+- Spirit of Merseyside
+beam: 4.9987
+for_sale_state:
+  text: not_for_sale

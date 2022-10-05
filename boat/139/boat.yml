@@ -1,11 +1,11 @@
-builder: 356533a3-8bf7-4030-b0b4-3b56adbf1289
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 8083d60d-586c-48fa-97c6-c41845900c6f
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Kate
+oga_no: 139
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>'Kate' was launched in 1883 with fishing no. CK139. She continued
+  to work as an oyster dredger, under power, as late as the 1960s. Her current fishing
+  no. is CK52.</p>
 full_description: "<p>Built in 1883 by William Hall as an oyster smack for the Petitt\
   \ family (oysterman), she was launched with fishing number CK139. She continued\
   \ to work as an oyster dredger, was registered as MN81, under power, as late as\
@@ -33,40 +33,49 @@ full_description: "<p>Built in 1883 by William Hall as an oyster smack for the P
   \ gracefully from the stocks into her native element, amid the hearty cheers of\
   \ the numerous spectators.</em></p>\n<p>Kate is moored in West Mersea, alongside\
   \ the Ethel Alice &amp; Dorothy.</p>"
-generic_type: Smack
+builder:
+  name: Hall
+  id: 356533a3-8bf7-4030-b0b4-3b56adbf1289
+designer:
+  name: Hall
+  id: 8083d60d-586c-48fa-97c6-c41845900c6f
+construction_material: wood
+construction_method: unknown
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.1089978054133134
-  draft: 1.5240185320653499
-  fore_triangle_base: 8.089490368202876
-  fore_triangle_height: 9.296513045598633
-  length_on_waterline: 9.1441111923921
-  length_over_all: 10.66812972445745
   main:
     foot: 7.315288953913679
     head: 5.6388685686417945
     luff: 5.4864667154352595
   thcf: 1.039720159
+  draft: 1.5240185320653499
   topsail:
     luff: 5.4864667154352595
     perpendicular: 2.590831504511095
+  length_over_all: 10.66812972445745
+  fore_triangle_base: 8.089490368202876
+  length_on_waterline: 9.1441111923921
+  fore_triangle_height: 9.296513045598633
 home_country: GBR
 home_port: West Mersea
 hull_form: unknown
 id: 617032b5-93fd-4c38-b104-e92b39147d6d
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Kate
-oga_no: 139
+spar_material: wood
+callsign: ''
 ownerships:
 - name: M Goodban
   share: 64
   start: 2012
 place_built: Paglesham
-rig_type: Cutter
-short_description: <p>'Kate' was launched in 1883 with fishing no. CK139. She continued
-  to work as an oyster dredger, under power, as late as the 1960s. Her current fishing
-  no. is CK52.</p>
 updated_at: '2021-12-19T13:38:33.630907+00:00'
 website: ''
 year: 1883
 year_is_approximate: false
+image_key: M864Lg
+beam: 3.0998
+for_sale_state:
+  text: not_for_sale

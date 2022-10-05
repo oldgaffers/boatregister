@@ -1,40 +1,48 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-construction_material: grp
-construction_method: cold_moulded
-designer: 7d1ad008-4263-419d-8843-d466ded0ec2c
-engine_installations: []
-for_sales: []
+name: Meridian
+oga_no: 3533
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p><em>Meridian</em> is a Cornish Shrimper 21, with an inboard
+  engine</p>
 full_description: '<p>Dark blue hull, off white/parchment deck, off white waterline,
   tan sails</p>
 
   <p>GB-BIH21064D818</p>'
-generic_type: Yacht
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray/David Thomas Yachts
+  id: 7d1ad008-4263-419d-8843-d466ded0ec2c
+construction_material: grp
+construction_method: cold_moulded
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.3988
-  calculated_thcf: 0.854
-  draft_keel_down: 1.3503
-  fore_triangle_base: 3.0297
-  fore_triangle_height: 5.6601
-  length_on_waterline: 6.099
-  length_overall: 6.4008
   main:
     foot: 12.7
     head: 10.89
     luff: 13.68
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 6
+  moving_keel: true
+  length_overall: 6.4008
+  calculated_thcf: 0.854
+  draft_keel_down: 1.3503
+  moving_keel_type: Centreboard
+  fore_triangle_base: 3.0297
+  length_on_waterline: 6.099
+  fore_triangle_height: 5.6601
 home_country: United Kingdom
 home_port: Mylor
 hull_form: long keel deep forefoot
 id: 872d7126-2d7b-4a42-8cc8-d9c7349c9605
-mainsail_type: gaff
-name: Meridian
-oga_no: 3533
 place_built: Rock
-rig_type: Sloop
-short_description: <p><em>Meridian</em> is a Cornish Shrimper 21, with an inboard
-  engine</p>
 updated_at: '2021-04-05T08:44:45.973329+00:00'
 year: 2018
 year_is_approximate: false
+image_key: 3r9QSx
+design_class:
+  name: Cornish Shrimper 21
+  id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4

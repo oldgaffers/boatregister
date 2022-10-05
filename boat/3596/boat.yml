@@ -1,10 +1,19 @@
-builder: 7996c869-8665-4488-b097-af1f4f9f0f5c
+name: Krullebol
+oga_no: 3596
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: She is a fine example of her type.
+builder:
+  name: Austin Lion Classic Boats
+  id: 7996c869-8665-4488-b097-af1f4f9f0f5c
+designer:
+  name: John Rock
+  id: 2bd090b8-ef1a-4894-9853-fd9b5c7a7a24
 construction_material: grp
 construction_method: cold_moulded
-designer: 2bd090b8-ef1a-4894-9853-fd9b5c7a7a24
 engine_installations: []
 for_sales: []
-generic_type: Yacht
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.2435991221653255
@@ -13,12 +22,10 @@ home_port: Hellevoetsluis
 hull_form: long keel sloping forefoot
 id: 7d879485-bcce-46d1-a5dc-2fc3ba673fc4
 length_on_deck: 7.620092660326749
-mainsail_type: gaff
-name: Krullebol
-oga_no: 3596
 place_built: Southampton
-rig_type: Cutter
-short_description: She is a fine example of her type.
 updated_at: '2021-10-31T11:26:07.550134+00:00'
 year: 2005
 year_is_approximate: false
+design_class:
+  name: Tradewind 25
+  id: 41704b91-04bb-4107-bbd9-8e86feee4e43

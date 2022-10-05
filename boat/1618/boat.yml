@@ -1,52 +1,58 @@
-callsign: ''
+name: Cleone
+oga_no: 1618
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>&#39;Cleone&#39; is listed in Lloyds Register of Yachts from
+  when it began, and was known to be racing in 1870. Mike Wright spent ten years restoring
+  her.</p>
+full_description: ''
 construction_material: wood
 construction_method: carvel
 draft: 1.4234
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.493538161424043
-  fore_triangle_base: 6.888563764935382
-  fore_triangle_height: 9.195927822482322
-  length_on_waterline: 8.991709339185563
-  length_over_all: 10.820531577663983
   main:
     foot: 5.105462082418922
     head: 3.5357229943916115
     luff: 4.419653742989515
+  thcf: 1.048143078
+  draft: 1.493538161424043
   mizzen:
     foot: 1.9050231650816873
     head: 1.6764203852718849
     luff: 1.777005608388198
-  propellor:
-    type: folding
-  thcf: 1.048143078
   topsail:
     luff: 5.6388685686417945
     perpendicular: 2.843818580833943
+  propellor:
+    type: folding
+  length_over_all: 10.820531577663983
+  fore_triangle_base: 6.888563764935382
+  length_on_waterline: 8.991709339185563
+  fore_triangle_height: 9.195927822482322
 home_country: 'null'
 home_port: Exmouth
 hull_form: long keel sloping forefoot
 id: e4658225-e6d4-4058-9649-2851903a73b4
 length_on_deck: 10.8204
-mainsail_type: gaff
-name: Cleone
-oga_no: 1618
+ssr: '45165'
+callsign: ''
 ownerships:
-- current: true
-  id: 527
-  member: 4836
+- id: 527
   share: 64
   start: 2006
+  member: 4836
+  current: true
 place_built: Restronguet
-rig_type: Yawl
-short_description: <p>&#39;Cleone&#39; is listed in Lloyds Register of Yachts from
-  when it began, and was known to be racing in 1870. Mike Wright spent ten years restoring
-  her.</p>
 updated_at: '2021-12-19T13:39:16.366385+00:00'
 website: ''
 year: 1860
 year_is_approximate: false
+image_key: m6zRkP
+construction_details: Carvel pitch pine on oak, teak on plywood deck
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

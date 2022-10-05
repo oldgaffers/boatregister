@@ -1,36 +1,45 @@
-builder: 39e7da25-6ae3-4210-8bd7-840e21b1b839
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 97c401f5-8192-4761-a75d-bfd4276fae66
-draft: 1.463
-engine_installations: []
-for_sales: []
+name: Ayrshire Lass
+oga_no: 209
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: All Owners known from new.  Miss Elizabeth Todrick gave up ownership
   C 1990 after which the boat was neglected.  Now rebuilt as a half decker and campaigning
   again ('08)
-generic_type: Yacht
+builder:
+  name: William Fife Son
+  id: 39e7da25-6ae3-4210-8bd7-840e21b1b839
+designer:
+  name: William Fyfe
+  id: 97c401f5-8192-4761-a75d-bfd4276fae66
+construction_material: wood
+construction_method: unknown
+draft: 1.463
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
   draft: 1.4630577907827358
-  length_on_waterline: 6.980004876859302
   length_over_all: 7.315288953913679
+  length_on_waterline: 6.980004876859302
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 2f2e2e41-f86a-4d03-b21a-76eeecf87f9d
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Ayrshire Lass
-oga_no: 209
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Goss, Paul
   share: 64
   start: 2012
 place_built: Fairlie
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:35.657144+00:00'
 website: ''
 year: 1887
 year_is_approximate: false
+image_key: mHfVCC
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

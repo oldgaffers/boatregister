@@ -1,6 +1,15 @@
-builder: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+name: Maggie B
+oga_no: 3717
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+builder:
+  name: Martin Heard
+  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: grp
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.524
 engine_installations: []
 for_sales:
@@ -23,7 +32,6 @@ for_sales:
   sold: null
   summary: null
   updated_at: '2022-09-27T20:58:37.117346+00:00'
-generic_type: Yacht
 handicap_data:
   beam: 3.048
 home_country: England
@@ -31,12 +39,16 @@ home_port: Plymouth
 hull_form: long keel sloping forefoot
 id: 49b3d564-9140-4acc-9f66-e5b6be8183d2
 length_on_deck: 8.535
-mainsail_type: gaff
-name: Maggie B
-oga_no: 3717
+spar_material: wood
 ownerships: []
 place_built: falmouth
-rig_type: Cutter
 updated_at: '2022-09-27T20:59:27.589604+00:00'
 year: 1982
 year_is_approximate: true
+image_key: d6t7tT
+air_draft: 36
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
+for_sale_state:
+  text: for_sale

@@ -1,49 +1,59 @@
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 295d3d6d-2986-4b62-8ecb-74a8963c44e1
-draft: 0.701
-engine_installations: []
-for_sales: []
+name: St Piran
+oga_no: 2479
+generic_type: Galway Hooker
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>St Piran&#39;s design is based on the Galway Hooker, Pucan or
+  Gleoiteog type and built in 1994.</p>
 full_description: "<p>Originally an open boat, &#39;St Piran&#39; now has a foredeck\
   \ of marine ply with an epoxy coating and a cabin constructed of sapele with a marine\
   \ ply roof. Her coamings are sapele and cockpit seats mahogany.</p>\r\n\r\n<p>A\
   \ previous owner sailed her from Rock and cruised North Cornwall and the Scilly\
   \ Isles.</p>"
-generic_type: Galway Hooker
+designer:
+  name: Jeremy Gill
+  id: 295d3d6d-2986-4b62-8ecb-74a8963c44e1
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.701
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 0.847
-  fore_triangle_base: 2.9992
-  fore_triangle_height: 5.4986
-  length_on_waterline: 6.099
-  length_over_spars: 8.699
-  length_overall: 6.5989
   main:
     foot: 11.32
     head: 8.04
     luff: 10.63
   sailarea: 6
+  length_overall: 6.5989
+  calculated_thcf: 0.847
+  length_over_spars: 8.699
+  fore_triangle_base: 2.9992
+  length_on_waterline: 6.099
+  fore_triangle_height: 5.4986
 home_country: GBR
 home_port: Cardiff,
 hull_form: long keel deep forefoot
 id: 1b5373c0-6dae-44e0-b07a-120bd5a5498e
 length_on_deck: 6.5989
-mainsail_type: gaff
-name: St Piran
-oga_no: 2479
+callsign: ''
 ownerships:
 - note: Previous owner Nick Nethercott.
   text: Previous owner Nick Nethercott.
-- current: true
-  id: 361
-  member: 3981
+- id: 361
   share: 64
   start: 1999
+  member: 3981
+  current: true
 place_built: Trevilling Quay, Wadebridge.
-rig_type: Cutter
-short_description: <p>St Piran&#39;s design is based on the Galway Hooker, Pucan or
-  Gleoiteog type and built in 1994.</p>
 updated_at: '2021-12-19T13:39:40.114391+00:00'
 website: ''
 year: 1994
 year_is_approximate: false
+previous_names:
+- St Pyran
+- Pyran
+image_key: CSXx5X
+construction_details: GRP
+beam: 1.9995
+for_sale_state:
+  text: not_for_sale

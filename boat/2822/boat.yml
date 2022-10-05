@@ -1,13 +1,21 @@
-builder: 13013b12-8617-439c-bc35-ba8f2259031e
-callsign: ''
+name: Half A Sixpence
+oga_no: 2822
+generic_type: Dayboat
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+designer:
+  name: Roger Wilkinson
+  id: 7b55967c-c09b-4375-8aab-2aa606d145cd
 construction_material: grp
 construction_method: cold_moulded
-designer: 7b55967c-c09b-4375-8aab-2aa606d145cd
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 1.8288222384784198
   length_over_all: 4.87685930260912
@@ -16,17 +24,22 @@ home_port: ''
 hull_form: unknown
 id: e2918a88-5c15-450f-9fa1-58d195fab81f
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Half A Sixpence
-oga_no: 2822
+ssr: '123332'
+uk_part1: GB KIT 160030604
+callsign: ''
 ownerships:
 - name: Tim Byshell
   share: 64
   start: 2006
 place_built: Pottstringley
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:50.411868+00:00'
 website: ''
 year: 2006
 year_is_approximate: false
+construction_details: Grp & Mahogany
+beam: 1.8288
+design_class:
+  name: Kittiwake 16
+  id: 31ee4cba-3b9c-4f65-8624-1e9feb387341
+for_sale_state:
+  text: not_for_sale

@@ -1,35 +1,42 @@
-builder: 539a27b9-5d9f-469c-8d13-f4d56bf23ed7
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: 7d9ba7c1-601c-473a-aa6a-b9bda2b405b6
-draft: 0.5852
-engine_installations: []
-for_sales: []
+name: Howay
+oga_no: 3298
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: <p>Howay is a Shetland double-ender work boat.</p>
 full_description: <p>Built for Ivan Hutchinson but spent 25 years in a hay barn unused
   until 2013 when taken over by his nephew who restored her. The only parts that are
   not original are running and standing rigging, decks, floor boards and engine box.</p>
-generic_type: unknown
+builder:
+  name: Ian Cooper
+  id: 539a27b9-5d9f-469c-8d13-f4d56bf23ed7
+designer:
+  name: Ian Cooper
+  id: 7d9ba7c1-601c-473a-aa6a-b9bda2b405b6
+construction_material: wood
+construction_method: clinker
+draft: 0.5852
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 0.817
-  fore_triangle_base: 1.7282
-  fore_triangle_height: 3.9106
-  length_on_waterline: 5.7394
-  length_over_spars: 6.3002
-  length_overall: 6.3002
   main:
     foot: 8.75
     head: 11.67
     luff: 7.25
   sailarea: 1
+  length_overall: 6.3002
+  calculated_thcf: 0.817
+  length_over_spars: 6.3002
+  fore_triangle_base: 1.7282
+  length_on_waterline: 5.7394
+  fore_triangle_height: 3.9106
 home_country: GBR
 home_port: Craobh Haven
 hull_form: long keel deep forefoot
 id: 228400c2-56bb-4ea2-9ba9-5552a274323c
 length_on_deck: 6.3002
-mainsail_type: lug
-name: Howay
-oga_no: 3298
+ssr: '153474'
+callsign: ''
 ownerships:
 - end: 2013
   name: Ivan Hutchinson
@@ -38,14 +45,17 @@ ownerships:
 - name: Hugh Russell
   share: 64
   start: 2013
-- current: true
+- share: 64
   member: 5517
-  share: 64
+  current: true
   start: '?'
 place_built: Windermere
-rig_type: Sloop
-short_description: <p>Howay is a Shetland double-ender work boat.</p>
 updated_at: '2021-12-19T13:40:06.833383+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+image_key: b94qg4
+construction_details: Clinker Larch on Oak
+beam: 1.8806
+for_sale_state:
+  text: not_for_sale

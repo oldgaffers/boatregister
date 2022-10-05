@@ -1,43 +1,54 @@
-builder: cb07e3ee-cf15-4eb8-87bc-20e8aaf9788e
-callsign: ''
+name: Twinkle
+oga_no: 2803
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built by her first owner, Teun Post.</p>
+full_description: ''
+builder:
+  name: T. Post
+  id: cb07e3ee-cf15-4eb8-87bc-20e8aaf9788e
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.8382
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.8382101926359424
-  fore_triangle_base: 3.401609363569861
-  fore_triangle_height: 5.501706900755913
-  length_on_waterline: 5.410265788831992
-  length_over_all: 5.715069495245062
   main:
     foot: 3.5997317727383566
     head: 2.996220434040478
     luff: 3.9990246281394777
+  thcf: 0.834562094
+  draft: 0.8382101926359424
   propellor:
     type: fixed
-  thcf: 0.834562094
+  length_over_all: 5.715069495245062
+  fore_triangle_base: 3.401609363569861
+  length_on_waterline: 5.410265788831992
+  fore_triangle_height: 5.501706900755913
 home_country: NLD
 home_port: Zeeland
 hull_form: long keel deep forefoot
 id: 06d53987-a826-4039-b30c-d568ab1d8968
 length_on_deck: 5.715
-mainsail_type: gaff
-name: Twinkle
-oga_no: 2803
+callsign: ''
 ownerships:
 - name: Teun Post
   share: 64
   start: 2007
 place_built: Home
-rig_type: Cutter
-short_description: <p>Built by her first owner, Teun Post.</p>
 updated_at: '2021-12-19T13:39:49.929872+00:00'
 website: ''
 year: 2007
 year_is_approximate: false
+construction_details: Wood epoxy
+beam: 2.1336
+design_class:
+  name: Golant Gaffer
+  id: ecdf01fb-dd46-42f7-9232-39880886de2f
+for_sale_state:
+  text: not_for_sale

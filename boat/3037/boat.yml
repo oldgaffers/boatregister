@@ -1,38 +1,49 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: ''
+name: Moonstruck
+oga_no: 3037
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Moonstruck is a Cape Cutter 19 built in 2001.</p>
+full_description: ''
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: Dudley Dix
+  id: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
 construction_material: grp
 construction_method: cold_moulded
-designer: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
 draft: 0.3993
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.200682760302365
-  draft: 0.3992928554011217
-  draft_keeldown: 1.1430138990490124
-  fore_triangle_base: 3.401609363569861
-  fore_triangle_height: 5.5992440868080955
-  length_on_waterline: 5.501706900755913
-  length_over_all: 5.800414533040722
   main:
     foot: 3.301024140453548
     head: 3.301024140453548
     luff: 3.2004389173372347
   thcf: 0.832209156
+  draft: 0.3992928554011217
+  draft_keeldown: 1.1430138990490124
+  length_over_all: 5.800414533040722
+  fore_triangle_base: 3.401609363569861
+  length_on_waterline: 5.501706900755913
+  fore_triangle_height: 5.5992440868080955
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: a0ba0559-64a4-4d7e-b397-729a998011cf
 length_on_deck: 5.8003
-mainsail_type: gaff
-name: Moonstruck
-oga_no: 3037
+callsign: ''
 place_built: Rochdale
-rig_type: Cutter
-short_description: <p>Moonstruck is a Cape Cutter 19 built in 2001.</p>
 updated_at: '2021-03-23T08:45:35.98548+00:00'
 website: ''
 year: 2001
 year_is_approximate: false
+construction_details: GRP
+beam: 2.2007
+design_class:
+  name: Cape Cutter 19
+  id: aeb6b869-a715-4296-a506-35ae1bc28e2f
+for_sale_state:
+  text: not_for_sale

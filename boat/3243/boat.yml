@@ -1,11 +1,9 @@
-builder: 328ab631-592d-46dd-a5a7-23b3c011c1b3
-callsign: ''
-construction_material: wood
-construction_method: cold_moulded
-designer: ceddb655-e672-47b1-9c73-ad7a0388f102
-draft: 0.381
-engine_installations: []
-for_sales: []
+name: Vera Causa
+oga_no: 3243
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: <p>Vera Causa is a Ridgeway Marine Skipper 17 built in 1979.</p>
 full_description: "<p>Built in 1979, Vera Causa is a Richmond Marine Skipper 17.</p>\r\
   \n\r\n<p>The boat was originally used on the Norfolk Broards and is fitted with\
   \ a tabernacle and mast raising gear making it fairly easy to raise and lower the\
@@ -13,37 +11,57 @@ full_description: "<p>Built in 1979, Vera Causa is a Richmond Marine Skipper 17.
   \ Powys.</p>\r\n\r\n<p><a href=\"http://myweb.tiscali.co.uk/skipper17/\" target=\"\
   _blank\">Visit the website</a> for Skipper 17s which includes history, photographs\
   \ and drawings.</p>"
-generic_type: Yacht
+builder:
+  name: Anderson Rigden and Perkins
+  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+designer:
+  name: Peter Milne
+  id: ceddb655-e672-47b1-9c73-ad7a0388f102
+construction_material: wood
+construction_method: cold_moulded
+draft: 0.381
+engine_installations: []
+for_sales: []
 handicap_data:
-  draft_keel_down: 1.2192
-  draft_keel_up: 0.381
-  length_on_waterline: 4.569
-  length_overall: 5.1786
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 1
+  moving_keel: true
+  draft_keel_up: 0.381
+  length_overall: 5.1786
+  draft_keel_down: 1.2192
+  moving_keel_type: Centreboard
+  length_on_waterline: 4.569
 home_country: GBR
 home_port: Port Clywedog Sailing Club  Llanidloes, Powys.
 hull_form: long keel deep forefoot
 id: cb65f536-63ef-490a-82f4-834a25f0929d
 length_on_deck: 5.1786
-mainsail_type: bermudan
-name: Vera Causa
-oga_no: 3243
+sail_number: '582'
+ssr: '27763'
+callsign: ''
 ownerships:
 - note: Previous owner Geoff Weller.
   text: Previous owner Geoff Weller.
 - name: David Williams
   share: 64
   start: 2011
-- current: true
+- share: 64
   member: 5129
-  share: 64
+  current: true
   start: '?'
 place_built: Whitstable Kent
-rig_type: Sloop
-short_description: <p>Vera Causa is a Ridgeway Marine Skipper 17 built in 1979.</p>
 updated_at: '2021-12-19T13:40:05.11411+00:00'
 website: http://myweb.tiscali.co.uk/skipper17/
 year: 1979
 year_is_approximate: false
+previous_names:
+- Erk
+- Macaroo
+- Waz.
+image_key: 2SG6kt
+construction_details: grp
+beam: 2.1397
+design_class:
+  name: Ridgeway Marine Skipper
+  id: cc0c6ea3-2167-4343-9563-a8aaadfc51ec
+for_sale_state:
+  text: not_for_sale

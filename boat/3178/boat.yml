@@ -1,38 +1,49 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Crab Apple
+oga_no: 3178
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Cornish Crabber Mark 2</p>
+full_description: <p>Cornish Crabber Mark 2</p>
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.7864
 engine_installations: []
 for_sales: []
-full_description: <p>Cornish Crabber Mark 2</p>
-generic_type: Yacht
 handicap_data:
-  draft_keel_down: 1.4722
-  draft_keel_up: 0.7864
-  length_on_waterline: 6.1966
-  length_over_spars: 9.0922
-  length_overall: 7.3152
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 7
+  moving_keel: true
+  draft_keel_up: 0.7864
+  length_overall: 7.3152
+  draft_keel_down: 1.4722
+  moving_keel_type: Centreboard
+  length_over_spars: 9.0922
+  length_on_waterline: 6.1966
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 4b0dd742-be72-4b24-9ac8-e39f77161b69
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Crab Apple
-oga_no: 3178
+callsign: ''
 ownerships:
 - name: Tony Dale
   share: 64
   start: 1984
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Cornish Crabber Mark 2</p>
 updated_at: '2021-12-19T13:40:03.245113+00:00'
 website: ''
 year: 1984
 year_is_approximate: false
+construction_details: GRP
+beam: 2.4384
+design_class:
+  name: Cornish Crabber Mk 2
+  id: 32e50b84-c68f-4036-bf50-397a432d113f
+for_sale_state:
+  text: not_for_sale

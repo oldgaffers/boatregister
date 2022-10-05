@@ -1,24 +1,28 @@
-builder: 2735cdca-cab0-42d4-809c-121af5a5ea34
-callsign: ''
+name: Pelican Jee
+oga_no: 643
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Sutherland
+  id: 2735cdca-cab0-42d4-809c-121af5a5ea34
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.6002194586686174
-  length_on_waterline: 3.6576444769568397
   length_over_all: 4.87685930260912
+  length_on_waterline: 3.6576444769568397
 home_country: GBR
 home_port: Hatfield
 hull_form: unknown
 id: ce459092-da7a-4a7e-9fc0-8b1a076707e4
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Pelican Jee
-oga_no: 643
+callsign: ''
 ownerships:
 - end: 2019
   name: Donald Barrett
@@ -27,15 +31,16 @@ ownerships:
 - name: John and Julie Smithies
   share: 64
   start: 2020
-- current: true
-  id: 34720
-  member: 6387
+- id: 34720
   share: 64
+  member: 6387
+  current: true
   start: '?'
 place_built: Lerwick
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:48.245952+00:00'
 website: ''
 year: 1963
 year_is_approximate: false
+beam: 1.6002
+for_sale_state:
+  text: not_for_sale

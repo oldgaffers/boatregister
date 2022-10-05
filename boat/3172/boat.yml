@@ -1,35 +1,45 @@
-builder: 4663ee52-4578-4c12-bd25-513727eee649
-callsign: ''
+name: Seamew
+oga_no: 3172
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: <p>Burnham Scow no 230</p>
+full_description: ''
+builder:
+  name: Stebbings (Burnham) Ltd.
+  id: 4663ee52-4578-4c12-bd25-513727eee649
 construction_material: wood
 construction_method: clinker
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
-  length_over_spars: 3.4442
-  length_overall: 3.4442
   moving_keel: true
+  length_overall: 3.4442
   moving_keel_type: Centreboard
+  length_over_spars: 3.4442
 home_country: GBR
 home_port: Burnham on Crouch
 hull_form: unknown
 id: 2db0a9cd-98cf-493c-8002-6fca915398fe
 length_on_deck: 3.4442
-mainsail_type: lug
-name: Seamew
-oga_no: 3172
+sail_number: '230'
+callsign: ''
 ownerships:
-- current: true
-  id: 801
-  member: 5857
+- id: 801
   share: 64
   start: 2009
+  member: 5857
+  current: true
 place_built: Burnham on Crouch
-rig_type: Sloop
-short_description: <p>Burnham Scow no 230</p>
 updated_at: '2021-12-19T13:40:03.077648+00:00'
 website: ''
 year: 1953
 year_is_approximate: false
+construction_details: Clinker, larch on oak
+beam: 1.463
+design_class:
+  name: Burnham Scow
+  id: 29bc53a5-ed1e-451c-b1de-57307f492cf5
+for_sale_state:
+  text: not_for_sale

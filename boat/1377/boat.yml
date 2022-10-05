@@ -1,13 +1,20 @@
-builder: fbfac399-5f86-4cc4-9389-4ffe8fa125fb
-callsign: ''
+name: Lavinia II
+oga_no: 1377
+generic_type: Yacht
+mainsail_type: gaff
+short_description: ''
+full_description: Log 89/3
+builder:
+  name: Shepherd and Morgan
+  id: fbfac399-5f86-4cc4-9389-4ffe8fa125fb
+designer:
+  name: Chas W. Clarke
+  id: ad03a0fe-4370-413c-8e33-f5503c5675dd
 construction_material: wood
 construction_method: carvel
-designer: ad03a0fe-4370-413c-8e33-f5503c5675dd
 draft: 1.4234
 engine_installations: []
 for_sales: []
-full_description: Log 89/3
-generic_type: Yacht
 handicap_data:
   beam: 2.3378444281882467
   draft: 1.4234333089490367
@@ -17,16 +24,20 @@ home_port: ''
 hull_form: unknown
 id: 1497021f-4232-4408-86d1-ef758c59b7fd
 length_on_deck: 9.6774
-mainsail_type: gaff
-name: Lavinia II
-oga_no: 1377
+reference:
+- Log 89/3
+uk_part1: '137729'
+callsign: ''
 ownerships:
 - name: M Hatton
   share: 64
   start: 2012
 place_built: Swanwick
-short_description: ''
 updated_at: '2021-12-19T13:39:09.60689+00:00'
 website: ''
 year: 1925
 year_is_approximate: false
+construction_details: Teak on oak, carvel planked
+beam: 2.3378
+for_sale_state:
+  text: not_for_sale

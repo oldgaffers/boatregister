@@ -1,8 +1,19 @@
-builder: cea8c41e-b0c7-43f5-a78e-806497659e59
-callsign: ''
+name: Menai Gypsy
+oga_no: 2167
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: A Norfolk Gypsy, built 1996, 19ft plus bowsprit, now home on Anglesey
+  North Wales. She has spent her life sailing from Anglesey.
+full_description: Boatman Jul 95 CB Dec 90.
+builder:
+  name: David Moore/The Norfolk Boatyard
+  id: cea8c41e-b0c7-43f5-a78e-806497659e59
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: wood
 construction_method: cold_moulded
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0
 engine_installations: []
 for_sales:
@@ -27,8 +38,6 @@ for_sales:
   sold: '2021-11-17'
   summary: null
   updated_at: '2021-06-10T21:50:52.024694+00:00'
-full_description: Boatman Jul 95 CB Dec 90.
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
   length_over_all: 6.044257498171177
@@ -37,19 +46,22 @@ home_port: Beaumaris
 hull_form: unknown
 id: 03e56c5e-e2e3-466c-b026-ba71145bb651
 length_on_deck: 6.0442
-mainsail_type: gaff
-name: Menai Gypsy
-oga_no: 2167
+spar_material: wood
+callsign: ''
 ownerships:
 - ID: 1260
   end: 2021
-  member: 5680
   sale: '2021-11-17'
+  member: 5680
 place_built: Aylsham
-rig_type: Sloop
-short_description: A Norfolk Gypsy, built 1996, 19ft plus bowsprit, now home on Anglesey
-  North Wales. She has spent her life sailing from Anglesey.
 updated_at: '2022-08-01T18:29:59.31215+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+image_key: WdghZc
+beam: 2.286
+design_class:
+  name: Norfolk Gypsy
+  id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
+for_sale_state:
+  text: not_for_sale

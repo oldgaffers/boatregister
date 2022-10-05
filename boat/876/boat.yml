@@ -1,41 +1,52 @@
-builder: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
-callsign: ''
+name: Priscilla
+oga_no: 876
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 70/3, 82/1
+builder:
+  name: Douglas Stone and Sons
+  id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
+designer:
+  name: W.J. Barber
+  id: d2debbb7-a741-43be-8634-cffdddc29301
 construction_material: wood
 construction_method: carvel
-designer: d2debbb7-a741-43be-8634-cffdddc29301
 draft: 1.6459
 engine_installations: []
 for_sales: []
-full_description: Log 70/3, 82/1
-generic_type: Smack
 handicap_data:
   beam: 3.139478176054621
-  draft: 1.645940014630578
-  fore_triangle_base: 9.601316752011703
-  fore_triangle_height: 8.83930748597903
-  length_on_waterline: 11.582540843696659
-  length_over_all: 12.89319678127286
   main:
     foot: 8.22970007315289
     head: 5.4864667154352595
     luff: 5.4864667154352595
   thcf: 1.11134826
+  draft: 1.645940014630578
+  length_over_all: 12.89319678127286
+  fore_triangle_base: 9.601316752011703
+  length_on_waterline: 11.582540843696659
+  fore_triangle_height: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: a7456ebe-0067-4644-a272-1f9eda4157f4
 length_on_deck: 12.893
-mainsail_type: gaff
-name: Priscilla
-oga_no: 876
+reference:
+- Log 70/3
+- Log 82/1
+callsign: ''
 ownerships:
 - name: Mr & Mrs Stuart
   share: 64
   start: 1986
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:54.809668+00:00'
 website: ''
 year: 1893
 year_is_approximate: false
+construction_details: Carvel Ferro cement sheathed
+beam: 3.1394
+for_sale_state:
+  text: not_for_sale

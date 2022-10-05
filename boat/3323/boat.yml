@@ -1,39 +1,50 @@
-callsign: ''
+name: Lily
+oga_no: 3323
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gunter
+short_description: <p>Lily is a Falmouth Bass Boat</p>
+full_description: ''
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 construction_material: grp
 construction_method: cold_moulded
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
-  length_on_waterline: 3.9624
-  length_overall: 4.825
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 1
+  moving_keel: true
+  length_overall: 4.825
+  moving_keel_type: Centreboard
+  length_on_waterline: 3.9624
 home_country: GBR
 home_port: Poole
 hull_form: long keel sloping forefoot
 id: aa709d01-cf19-474c-abfe-d57bded70fbb
 length_on_deck: 4.825
-mainsail_type: gunter
-name: Lily
-oga_no: 3323
+callsign: ''
 ownerships:
 - note: Previous owner David Dyre
   text: Previous owner David Dyre
 - name: Philip Hoath
   share: 64
   start: 2016
-- current: true
-  id: 936
-  member: 6120
+- id: 936
   share: 64
+  member: 6120
+  current: true
   start: '?'
-rig_type: Ketch
-short_description: <p>Lily is a Falmouth Bass Boat</p>
 updated_at: '2021-12-19T13:40:07.621856+00:00'
 website: ''
 year_is_approximate: false
+construction_details: Hand laid GRP - 6oz hull doubled to 12oz in way of keel and
+  10oz in way of bilge keels. Internal 4oz mouldings bonded to the hull and filled
+  with monocellular foam for buoyancy.
+beam: 1.777
+design_class:
+  name: Falmouth Bass Boat
+  id: c05a2174-4b46-410f-829f-894193f020c3
+for_sale_state:
+  text: not_for_sale

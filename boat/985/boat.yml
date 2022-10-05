@@ -1,37 +1,40 @@
-callsign: ''
+name: Paradox
+oga_no: 985
+generic_type: unknown
+rig_type: Schooner
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: unknown
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.2613996586198484
   draft: 1.3716166788588149
-  length_on_waterline: 13.411363082175079
   length_over_all: 15.849792733479639
+  length_on_waterline: 13.411363082175079
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 614a5c77-dd15-49e6-924d-5d66dcf8b7b4
 length_on_deck: 15.8496
-mainsail_type: gaff
-name: Paradox
-oga_no: 985
+callsign: ''
 ownerships:
 - name: E Smith
   share: 64
   start: 0
-- current: true
-  id: 799
-  member: 5846
+- id: 799
   share: 64
   start: 2000
+  member: 5846
+  current: true
 place_built: Malaya
-rig_type: Schooner
-short_description: ''
 updated_at: '2021-12-19T13:38:58.050641+00:00'
 website: ''
 year: 1940
 year_is_approximate: false
+beam: 3.2522
+for_sale_state:
+  text: not_for_sale

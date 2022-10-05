@@ -1,13 +1,19 @@
-builder: 95af8096-5755-46ff-980e-f382837e729c
-callsign: ''
+name: Memory
+oga_no: 1505
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: <p>Built with wide flat keel to suit being dragged over mud. Re-built
+  1993-4 by Nigel Bishop and his brother Paul.</p>
+builder:
+  name: Frank W. Shuttlewood and Son
+  id: 95af8096-5755-46ff-980e-f382837e729c
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: <p>Built with wide flat keel to suit being dragged over mud. Re-built
-  1993-4 by Nigel Bishop and his brother Paul.</p>
-generic_type: unknown
 handicap_data:
   beam: 1.9050231650816873
   length_over_all: 4.953060229212387
@@ -16,23 +22,23 @@ home_port: ''
 hull_form: unknown
 id: f8106f57-c9f7-445a-9326-cff9797c4ed0
 length_on_deck: 4.953
-mainsail_type: gaff
-name: Memory
-oga_no: 1505
+callsign: ''
 ownerships:
 - note: Owned in the 1980's by A.E. Hudson
+  text: Owned in the
   start: 1980
   start_is_approximate: false
-  text: Owned in the
-- current: true
-  id: 108
-  member: 1918
+- id: 108
   share: 64
   start: 1993
+  member: 1918
+  current: true
 place_built: Paglesham
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:13.277635+00:00'
 website: ''
 year: 1957
 year_is_approximate: false
+construction_details: Clench built on a 9 in wide keel, CB open punt
+beam: 1.905
+for_sale_state:
+  text: not_for_sale

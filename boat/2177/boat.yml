@@ -1,33 +1,40 @@
-builder: 17289ff3-6121-4e6d-a7eb-7f7e452d1e6b
-callsign: ''
+name: t/t Lady of Stavoren
+oga_no: 2177
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Walker and Co
+  id: 17289ff3-6121-4e6d-a7eb-7f7e452d1e6b
+designer:
+  name: L.H. Walker
+  id: 0eadeae8-3aed-497d-8d5e-1caca3fc3215
 construction_material: wood
 construction_method: unknown
-designer: 0eadeae8-3aed-497d-8d5e-1caca3fc3215
 draft: 0.2286
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.3716166788588149
   draft: 0.22860277980980248
-  length_on_waterline: 2.7432333577176298
   length_over_all: 3.0480370641306997
+  length_on_waterline: 2.7432333577176298
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 25a26c0b-6674-48f0-91bf-2cafabace729
 length_on_deck: 3.048
-mainsail_type: gaff
-name: t/t Lady of Stavoren
-oga_no: 2177
+callsign: ''
 ownerships:
 - name: J Ewans
   share: 64
   start: 2012
 place_built: Leigh on Sea
-short_description: ''
 updated_at: '2021-12-19T13:39:31.34889+00:00'
 website: ''
 year: 1954
 year_is_approximate: false
+beam: 1.3716
+for_sale_state:
+  text: not_for_sale

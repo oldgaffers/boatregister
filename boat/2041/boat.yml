@@ -1,11 +1,10 @@
-builder: d02ef310-75b8-46ab-8c53-f17b72d64671
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: da4baa22-674e-4ea8-b2c5-14aee7286837
-draft: 1.0668
-engine_installations: []
-for_sales: []
+name: Dart
+oga_no: 2041
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Dart&#39; is a Mersey Rivers Class yacht, designed by Crossfields
+  of Arnside and built in 1912.</p>
 full_description: "<p>&#39;Dart&#39; was launched in 1912. She was one of ten Rivers\
   \ Class Yachts built by William Crossfields and Sons for the River Mersey Yacht\
   \ Club, and a sister yacht to &#39;Severn&#39;. &nbsp;</p>\r\n\r\n<p>She was the\
@@ -34,33 +33,42 @@ full_description: "<p>&#39;Dart&#39; was launched in 1912. She was one of ten Ri
   \ Miller. &#39;Dart&#39; was in need of refastening, some broken frames replaced&nbsp;and\
   \ the cabin was at the end of its useful life.<br />\r\n2016 Sold and undergoing\
   \ further restoration.</p>"
-generic_type: Yacht
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+designer:
+  name: William Crossfield
+  id: da4baa22-674e-4ea8-b2c5-14aee7286837
+construction_material: wood
+construction_method: carvel
+draft: 1.0668
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.0726652036088757
-  draft: 1.066812972445745
-  fore_triangle_base: 3.8100463301633747
-  fore_triangle_height: 5.562667642038527
-  length_on_waterline: 6.035113386978786
-  length_over_all: 7.010485247500609
   main:
     foot: 4.114850036576445
     head: 2.590831504511095
     luff: 4.724457449402585
-  propellor:
-    type: fixed
-  sailarea: 36.8774621541485
   thcf: 0.914
+  draft: 1.066812972445745
   topsail:
     luff: 4.87685930260912
     perpendicular: 4.114850036576445
+  sailarea: 36.8774621541485
+  propellor:
+    type: fixed
+  length_over_all: 7.010485247500609
+  fore_triangle_base: 3.8100463301633747
+  length_on_waterline: 6.035113386978786
+  fore_triangle_height: 5.562667642038527
 home_country: GBR
 home_port: Preston
 hull_form: long keel sloping forefoot
 id: ed26b6da-f8cb-426d-bae0-a1704ccc3d61
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Dart
-oga_no: 2041
+spar_material: wood
+callsign: ''
 ownerships:
 - note: 'Bought by William and Ernest Wilson of West Kirby SC. '
   text: Bought by William and Ernest Wilson of West Kirby SC.
@@ -77,10 +85,17 @@ ownerships:
   share: 64
   start: 2005
 place_built: Arnside
-rig_type: Cutter
-short_description: <p>&#39;Dart&#39; is a Mersey Rivers Class yacht, designed by Crossfields
-  of Arnside and built in 1912.</p>
 updated_at: '2021-12-19T13:39:27.729875+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+nsbr: '661'
+image_key: Tbpzmb
+construction_details: Carvel built with counter stern. Pitch pine planks and steamed
+  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
+beam: 2.0818
+design_class:
+  name: Rivers Class
+  id: 97d3b6f5-24ec-493a-8010-c0a283b96aa6
+for_sale_state:
+  text: not_for_sale

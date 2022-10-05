@@ -1,35 +1,45 @@
-builder: 97373e89-d53d-428d-a9b4-bf6c68aebd94
-callsign: ''
+name: Prince of Tides
+oga_no: 7052
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: ''
+full_description: Boat sunk 2011
+builder:
+  name: Fairey Marine Ltd.
+  id: 97373e89-d53d-428d-a9b4-bf6c68aebd94
+designer:
+  name: D Freeman/G. Wyatt
+  id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 construction_material: grp
 construction_method: cold_moulded
-designer: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 draft: 1.6764
 engine_installations: []
 for_sales: []
-full_description: Boat sunk 2011
-generic_type: Yacht
 handicap_data:
   beam: 3.6576444769568397
   draft: 1.6764203852718849
-  length_on_waterline: 10.36332601804438
   length_over_all: 11.277737137283589
+  length_on_waterline: 10.36332601804438
 home_country: 'null'
 home_port: Dublin
 hull_form: unknown
 id: 940a157e-ef0b-447a-8744-2f555eabcfdd
 length_on_deck: 11.2776
-mainsail_type: bermudan
-name: Prince of Tides
-oga_no: 7052
+callsign: ''
 ownerships:
 - end: 2011
   name: Derek Harris
   share: 64
   start: 2006
 place_built: Hamble
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:40:01.55886+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+previous_names:
+- Nilsson
+construction_details: GRP
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

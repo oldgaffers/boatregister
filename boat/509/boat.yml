@@ -1,11 +1,11 @@
-builder: d02ef310-75b8-46ab-8c53-f17b72d64671
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Severn
+oga_no: 509
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <em>Severn</em> is one of ten Rivers Class Yachts built by William
+  Crossfield and Sons for the Royal Mersey Yacht Club. In 2018 she was bought by Arnside
+  Sailing Club and returned to the village where she was built.
 full_description: "<p><em>Severn</em> was built in Arnside in Cumbria in 1912 by William\
   \ Crossfield &amp; Sons. In 2018 she was bought by Arnside Sailing Club with the\
   \ help of a Heritage Lottery grant to have an example of a Crossfield\u2019s boat\
@@ -99,20 +99,29 @@ full_description: "<p><em>Severn</em> was built in Arnside in Cumbria in 1912 by
   \ Times' article about the best places to live in March 2021</p>\n<p>A Friends Group\
   \ has been set up to maintain, fund and sail her.<br>\n <a href=\"mailto:crossfieldyachtsevern@gmail.com?subject=Yacht%20Severn%20listed%20on%20the%20OGA%20website\"\
   >Contact the Friends by email</a> if you wish to join or support the group.</p>"
-generic_type: Yacht
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+construction_material: wood
+construction_method: carvel
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
   draft: 1.21921482565228
-  length_on_waterline: 5.6388685686417945
   length_over_all: 7.162887100707144
+  length_on_waterline: 5.6388685686417945
 home_country: GBR
 home_port: Arnside
 hull_form: long keel deep forefoot
 id: a0706dca-6291-4aff-beb0-0d251771316e
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Severn
-oga_no: 509
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 1972
   name: A. G. Taylor
@@ -146,18 +155,29 @@ ownerships:
   name: Lou Perrotta
   share: 64
   start: 1984
-- current: true
-  id: 1000
-  member: 6232
+- id: 1000
   name: Arnside Sailing Club
   share: 64
   start: 2018
+  member: 6232
+  current: true
 place_built: Arnside
-rig_type: Cutter
-short_description: <em>Severn</em> is one of ten Rivers Class Yachts built by William
-  Crossfield and Sons for the Royal Mersey Yacht Club. In 2018 she was bought by Arnside
-  Sailing Club and returned to the village where she was built.
 updated_at: '2022-04-04T19:25:08.364755+00:00'
 website: https://www.facebook.com/crossfieldyachtsevern
 year: 1912
 year_is_approximate: false
+previous_names:
+- Elwy
+- Ribble
+- Severn
+- Rosevern
+nsbr: '3176'
+image_key: 57NNsz
+construction_details: Carvel built with counter stern. Pitch pine planks and steamed
+  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
+beam: 2.1336
+design_class:
+  name: Rivers Class
+  id: 97d3b6f5-24ec-493a-8010-c0a283b96aa6
+for_sale_state:
+  text: not_for_sale

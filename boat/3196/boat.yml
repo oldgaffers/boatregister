@@ -1,43 +1,55 @@
-builder: 3e051428-a9f0-4bc7-8bc1-d8acc5359bf8
-callsign: ''
+name: Sea Witch
+oga_no: 3196
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Golant gaffer built in Northumberland.</p>
+full_description: ''
+builder:
+  name: Vaughan
+  id: 3e051428-a9f0-4bc7-8bc1-d8acc5359bf8
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: woodepoxy
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.8382
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.842
-  fore_triangle_base: 3.4046
-  fore_triangle_height: 6.3002
-  length_on_waterline: 5.4102
-  length_over_spars: 7.3914
-  length_overall: 5.715
   main:
     foot: 11.83
     head: 10.17
     luff: 13.75
   sailarea: 7
+  length_overall: 5.715
+  calculated_thcf: 0.842
+  length_over_spars: 7.3914
+  fore_triangle_base: 3.4046
+  length_on_waterline: 5.4102
+  fore_triangle_height: 6.3002
 home_country: GBR
 home_port: Portinscale
 hull_form: long keel deep forefoot
 id: 56a3214a-7003-46c8-ab12-1fedaadd0793
 length_on_deck: 5.715
-mainsail_type: gaff
-name: Sea Witch
-oga_no: 3196
+sail_number: G48
+callsign: ''
 ownerships:
-- current: true
-  id: 774
-  member: 5791
+- id: 774
   share: 64
   start: 2014
+  member: 5791
+  current: true
 place_built: Northumberland
-rig_type: Cutter
-short_description: <p>Golant gaffer built in Northumberland.</p>
 updated_at: '2021-12-19T13:40:03.75193+00:00'
 website: ''
 year: 2014
 year_is_approximate: false
+construction_details: Cedar speedstrip on ply bulkheads and iroko keel
+beam: 2.1336
+design_class:
+  name: Golant Gaffer
+  id: ecdf01fb-dd46-42f7-9232-39880886de2f
+for_sale_state:
+  text: not_for_sale

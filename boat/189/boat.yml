@@ -1,34 +1,41 @@
-builder: 0eb139e6-d991-4c98-90d0-b917c91e12c0
-callsign: ''
+name: Corista
+oga_no: 189
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+designer:
+  name: Francis J. Jones
+  id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 construction_material: wood
 construction_method: unknown
-designer: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 draft: 2.3165
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.7186052182394533
   draft: 2.3165081687393316
-  length_on_waterline: 11.552060473055352
   length_over_all: 14.051450865642526
+  length_on_waterline: 11.552060473055352
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: ed4aab57-9797-4af2-9b76-6005dfc47743
 length_on_deck: 14.0513
-mainsail_type: gaff
-name: Corista
-oga_no: 189
+callsign: ''
 ownerships:
 - name: G Clark
   share: 64
   start: 2012
 place_built: Woodbridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:35.083158+00:00'
 website: ''
 year: 1952
 year_is_approximate: false
+beam: 3.7186
+for_sale_state:
+  text: not_for_sale

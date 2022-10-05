@@ -1,43 +1,52 @@
-builder: 8f423342-b25e-40d9-8725-3d143660e8f5
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 0557a793-41ba-4182-8138-206701b31451
-draft: 1.3472
-engine_installations: []
-for_sales:
-- asking_price: 21000
+name: Friendly Spirit
+oga_no: 1592
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Built in 1988, <I>Friendly Spirit</i> was rebuilt 1997 - 2000 before
+  being sold in 2004. She had another refit in 2010.
 full_description: In 2010, Friendly Spirit was re-fitted again with new engine, new
   sails, new standing rigging, intereior and a host of other additions. 2016 saw her
   re-painted and copper coated as well as having her spars stripped and re-coated.</p><p>She
   is a very strong, mini ocean going yacht, with a 55% ballast ratio which makes her
   very steady!
-generic_type: Yacht
+builder:
+  name: Oystersailers Ltd.
+  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+designer:
+  name: Paul Gartside
+  id: 0557a793-41ba-4182-8138-206701b31451
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.3472
+engine_installations: []
+for_sales:
+- asking_price: 21000
 handicap_data:
   beam: 2.7432333577176298
-  draft: 1.3472323823457693
-  fore_triangle_base: 5.00487685930261
-  fore_triangle_height: 8.052913923433309
-  length_on_waterline: 6.705681541087539
-  length_over_all: 6.909900024384297
   main:
     foot: 4.090465740063399
     head: 3.8100463301633747
     luff: 4.901243599122164
-  propellor:
-    type: fixed
   thcf: 0.904629866
+  draft: 1.3472323823457693
   topsail:
     luff: 3.886247256766642
     perpendicular: 1.7526213118751524
+  propellor:
+    type: fixed
+  length_over_all: 6.909900024384297
+  fore_triangle_base: 5.00487685930261
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 8.052913923433309
 home_country: GBR
 home_port: Mylor
 hull_form: long keel deep forefoot
 id: 4ab54c1b-db5b-4da4-87a7-3039b92448be
 length_on_deck: 6.9098
-mainsail_type: gaff
-name: Friendly Spirit
-oga_no: 1592
+sail_number: '7'
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2009
   name: Jeremy Baker
@@ -47,16 +56,21 @@ ownerships:
   name: Miles Atherton
   share: 64
   start: 2015
-- current: true
-  id: 733
-  member: 5705
+- id: 733
   share: 64
   start: 2016
+  member: 5705
+  current: true
 place_built: Penryn
-rig_type: Sloop
-short_description: Built in 1988, <I>Friendly Spirit</i> was rebuilt 1997 - 2000 before
-  being sold in 2004. She had another refit in 2010.
 updated_at: '2021-12-19T13:39:15.76792+00:00'
 website: ''
 year: 1988
 year_is_approximate: false
+image_key: KRkp2x
+construction_details: GRP, balsa core above waterline
+beam: 2.7432
+design_class:
+  name: Oysterman 22
+  id: 46f44388-c189-4640-beeb-19ce8aa85e8d
+for_sale_state:
+  text: not_for_sale

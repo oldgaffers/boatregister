@@ -1,34 +1,41 @@
-builder: f3fd7c73-1a92-4d59-9753-75a2c24d9eea
-callsign: ''
+name: Passant
+oga_no: 1192
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: De Onderneming
+  id: f3fd7c73-1a92-4d59-9753-75a2c24d9eea
+designer:
+  name: J. Stelwagen
+  id: 303c590d-a0d3-4bdd-a61c-437e5f10b668
 construction_material: wood
 construction_method: unknown
-designer: 303c590d-a0d3-4bdd-a61c-437e5f10b668
 draft: 1.0363
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.0363326018044379
-  length_on_waterline: 7.315288953913679
   length_over_all: 7.315288953913679
+  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: Kudelstaart Holland
 hull_form: unknown
 id: 5242db1d-249d-464e-8297-d6964846c153
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Passant
-oga_no: 1192
+callsign: ''
 ownerships:
 - name: Pieter C L Docter
   share: 64
   start: 2012
 place_built: Warga Holland
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:04.283165+00:00'
 website: ''
 year: 1961
 year_is_approximate: false
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

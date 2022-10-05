@@ -1,40 +1,51 @@
-builder: a9e83f1e-565e-4568-b052-7a492147a30d
-callsign: ''
+name: Dawn
+oga_no: 916
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Dawn was designed by a pupil of Albert Strange. Her lines are
+  published in Yachting Monthly July 1905.</p>
+full_description: ''
+builder:
+  name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
+designer:
+  name: G.U. Laws
+  id: 6b0e581f-8507-4748-8d44-f8fb73dbef19
 construction_material: wood
 construction_method: unknown
-designer: 6b0e581f-8507-4748-8d44-f8fb73dbef19
 draft: 1.7983
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.560351133869788
   draft: 1.798341867837113
-  length_on_waterline: 8.412582297000732
   length_over_all: 10.36332601804438
+  length_on_waterline: 8.412582297000732
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: e5d016fb-8189-4e83-ae82-4666df58a921
 length_on_deck: 9.6012
-mainsail_type: gaff
-name: Dawn
-oga_no: 916
+reference:
+- Yachting Monthly July 1905
+spar_material: wood
+callsign: ''
 ownerships:
 - name: B W Smith
   share: 64
   start: 1975
-- current: true
-  id: 950
-  member: 6149
+- id: 950
   share: 64
+  member: 6149
+  current: true
   start: '?'
 place_built: Falmouth
-rig_type: Yawl
-short_description: <p>Dawn was designed by a pupil of Albert Strange. Her lines are
-  published in Yachting Monthly July 1905.</p>
 updated_at: '2021-12-19T13:38:55.94366+00:00'
 website: ''
 year: 1905
 year_is_approximate: false
+image_key: dsB8Kr
+beam: 2.5664
+for_sale_state:
+  text: not_for_sale

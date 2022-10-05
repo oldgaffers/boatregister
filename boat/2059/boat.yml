@@ -1,37 +1,45 @@
-builder: 76ac766b-618f-4b75-a0a1-a163b7170bd7
-callsign: ''
+name: Muskrat
+oga_no: 2059
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Hunter Boats Ltd.
+  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
+designer:
+  name: David Thomas
+  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 construction_material: grp
 construction_method: cold_moulded
-designer: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 draft: 0.381
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.2098329675688855
-  draft: 0.3810107290904657
-  fore_triangle_base: 2.7432333577176298
-  fore_triangle_height: 5.28327237259205
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 6.908900268227262
-  length_over_spars: 6.908900268227262
   main:
     foot: 0
     head: 3.9624481833699097
     luff: 3.3528407705437697
+  thcf: 0.818
+  draft: 0.3810107290904657
+  sailarea: 12.802359739605919
   propellor:
     type: fixed
-  sailarea: 12.802359739605919
-  thcf: 0.818
+  length_over_all: 6.908900268227262
+  length_over_spars: 6.908900268227262
+  fore_triangle_base: 2.7432333577176298
+  length_on_waterline: 6.0960741282613995
+  fore_triangle_height: 5.28327237259205
 home_country: 'null'
 home_port: Bradwell on Sea
 hull_form: centre-boarder
 id: 28d90f19-5a84-49f4-b367-776891504a7f
 length_on_deck: 6.9098
-mainsail_type: gaff
-name: Muskrat
-oga_no: 2059
+sail_number: '108'
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 1992
   name: John Taylor
@@ -44,15 +52,20 @@ ownerships:
 - name: Mike Wells
   share: 64
   start: 1994
-- current: true
-  id: 34896
-  member: 6500
+- id: 34896
   share: 64
+  member: 6500
+  current: true
   start: '?'
 place_built: Rochford Essex
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-02-12T19:50:20.685523+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+construction_details: GRP
+beam: 2.2098
+design_class:
+  name: Hunter Minstrel
+  id: 55b03d72-c570-40b6-b304-a2bfb71b835c
+for_sale_state:
+  text: not_for_sale

@@ -1,34 +1,41 @@
-builder: d0336872-a447-4748-ae62-85ce7b90efe1
-callsign: ''
+name: Lily Maid
+oga_no: 684
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: CB Oct 91
+builder:
+  name: W.G. Luke and Co.
+  id: d0336872-a447-4748-ae62-85ce7b90efe1
+designer:
+  name: A.R. Luke
+  id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 construction_material: wood
 construction_method: unknown
-designer: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 draft: 2.6213
 engine_installations: []
 for_sales: []
-full_description: CB Oct 91
-generic_type: Yacht
 handicap_data:
   beam: 3.5052426237503047
   draft: 2.6213118751524016
-  length_on_waterline: 12.801755669348939
   length_over_all: 17.922457937088513
+  length_on_waterline: 12.801755669348939
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 3731970f-7814-4170-b2e4-0e7deb72e106
 length_on_deck: 17.9222
-mainsail_type: gaff
-name: Lily Maid
-oga_no: 684
+callsign: ''
 ownerships:
 - name: M Jarrold
   share: 64
   start: 2012
 place_built: Hamble
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:49.489149+00:00'
 website: ''
 year: 1904
 year_is_approximate: false
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

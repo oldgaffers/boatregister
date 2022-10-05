@@ -1,42 +1,46 @@
-callsign: ''
+name: Barnacle
+oga_no: 2515
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: clinker
 draft: 0.2042
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.3960009753718605
-  draft: 0.2042184832967569
-  length_on_waterline: 3.337600585223116
-  length_over_all: 3.3528407705437697
   main:
     foot: 2.871250914411119
     head: 2.6426481346013166
     luff: 1.563643013899049
   thcf: 0.718864129
+  draft: 0.2042184832967569
+  length_over_all: 3.3528407705437697
+  length_on_waterline: 3.337600585223116
 home_country: GBR
 home_port: North Fambridge
 hull_form: unknown
 id: 70ce66ea-ec66-40ed-931e-cf204f16888b
 length_on_deck: 3.3528
-mainsail_type: lug
-name: Barnacle
-oga_no: 2515
+callsign: ''
 ownerships:
 - name: Brenda Jago
   share: 64
   start: 1995
-- current: true
-  id: 18
-  member: 471
+- id: 18
   share: 64
+  member: 471
+  current: true
   start: '?'
 place_built: Brightlingsea
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:41.456131+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+construction_details: Clinker elm on oak with repairs in mahogany
+beam: 1.396
+for_sale_state:
+  text: not_for_sale

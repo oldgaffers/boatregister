@@ -1,25 +1,33 @@
-builder: 06695439-7dec-4f40-8ab4-3c3599ebfa84
-engine_installations: []
-for_sales: []
+name: McAvity
+oga_no: 3484
+rig_type: Sloop
+mainsail_type: gaff
+short_description: 12' clinker dinghy, mahogany on oak, built 1987 by McNulty of South
+  Shields
 full_description: 12' dinghy, mahogany on oak (varnished), tan sails (Duradon), gaff
   rig with short bowsprit<p>Longstone 12', built 1987 by Capt. Frank McNulty &amp;
   Sons of South Shields
+builder:
+  name: McNulty
+  id: 06695439-7dec-4f40-8ab4-3c3599ebfa84
+engine_installations: []
+for_sales: []
 home_country: United Kingdom
 home_port: London
 hull_form: dinghy
 id: 82d69c4d-414a-45fe-852c-26e2bfe30a56
-mainsail_type: gaff
-name: McAvity
-oga_no: 3484
+spar_material: wood
 ownerships:
-- current: true
-  id: 247
-  member: 3307
+- id: 247
   share: 64
+  member: 3307
+  current: true
   start: '?'
-rig_type: Sloop
-short_description: 12' clinker dinghy, mahogany on oak, built 1987 by McNulty of South
-  Shields
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 1987
 year_is_approximate: false
+previous_names:
+- Macavity
+image_key: HrvhgZ
+for_sale_state:
+  text: not_for_sale

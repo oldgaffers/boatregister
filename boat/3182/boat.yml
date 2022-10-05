@@ -1,33 +1,40 @@
-builder: 251a827e-20ea-468b-b031-3b2889944b8b
-callsign: ''
+name: Kenavo
+oga_no: 3182
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: H Yvon
+  id: 251a827e-20ea-468b-b031-3b2889944b8b
+designer:
+  name: H Yvon
+  id: 52cf491a-4713-455b-ad5e-92ff66c72783
 construction_material: wood
 construction_method: unknown
-designer: 52cf491a-4713-455b-ad5e-92ff66c72783
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
-  length_on_waterline: 5.4864
-  length_overall: 6.3002
   sailarea: 7
+  length_overall: 6.3002
+  length_on_waterline: 5.4864
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: d3ead556-1eac-4665-822e-e7806ae69952
 length_on_deck: 6.3002
-mainsail_type: gaff
-name: Kenavo
-oga_no: 3182
+callsign: ''
 ownerships:
 - name: Dominique Duviard
   share: 64
   start: 1974
 place_built: Lorient
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:40:03.375866+00:00'
 website: ''
 year: 1959
 year_is_approximate: false
+beam: 2.3378
+for_sale_state:
+  text: not_for_sale

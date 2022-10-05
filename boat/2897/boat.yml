@@ -1,13 +1,21 @@
-builder: baa8ee05-77fc-4229-82bb-afe9855fbba1
-callsign: ''
+name: Sarah
+oga_no: 2897
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Malcolm Goodwin
+  id: baa8ee05-77fc-4229-82bb-afe9855fbba1
+designer:
+  name: Malcolm Goodwin
+  id: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
 construction_material: wood
 construction_method: clinker_ply
-designer: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.4234333089490367
   length_over_all: 2.7432333577176298
@@ -16,17 +24,21 @@ home_port: Levington
 hull_form: unknown
 id: ebe5ed0d-e9bf-408a-80ab-ae856c24e680
 length_on_deck: 2.7432
-mainsail_type: lug
-name: Sarah
-oga_no: 2897
+sail_number: '144'
+callsign: ''
 ownerships:
 - end: 2017
   name: Ian Young
   share: 64
   start: 1991
 place_built: Wivenhoe
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:52.694148+00:00'
 website: ''
 year_is_approximate: false
+construction_details: epoxy clinker ply
+beam: 1.4234
+design_class:
+  name: Nutshell
+  id: 5b66722b-44aa-4819-95b3-eb5f789ab712
+for_sale_state:
+  text: not_for_sale

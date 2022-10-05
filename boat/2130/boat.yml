@@ -1,12 +1,18 @@
-callsign: ''
+name: Mistress
+oga_no: 2130
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log Sep/98
+designer:
+  name: John Anker
+  id: 059bf44f-c2ef-4797-82b9-c1932f4198d5
 construction_material: wood
 construction_method: unknown
-designer: 059bf44f-c2ef-4797-82b9-c1932f4198d5
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log Sep/98
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
   length_over_all: 6.4008778346744695
@@ -15,17 +21,18 @@ home_port: West Mersea
 hull_form: unknown
 id: c891a568-1320-4a43-bf3e-889d6bf237a3
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Mistress
-oga_no: 2130
+reference:
+- Log Sep 98
+callsign: ''
 ownerships:
 - name: Mike Allpress
   share: 64
   start: 2012
 place_built: Possibly Aldburgh
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:30.213662+00:00'
 website: ''
 year: 1950
 year_is_approximate: false
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

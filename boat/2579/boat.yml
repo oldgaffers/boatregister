@@ -1,8 +1,19 @@
-builder: 2084de80-6484-4675-9300-c099885a7e51
-callsign: ''
+name: Pintail of Morra
+oga_no: 2579
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: Sold at the Amsterdam Boat Show, 1977 and owned in Holland until
+  2007 when returned to Rossiter Yachts for a major refit.
+full_description: ''
+builder:
+  name: P. Rossiter
+  id: 2084de80-6484-4675-9300-c099885a7e51
+designer:
+  name: P. Rossiter
+  id: 4ae92599-9be6-4655-84f2-afa43ab013fc
 construction_material: grp
 construction_method: carvel
-designer: 4ae92599-9be6-4655-84f2-afa43ab013fc
 draft: 1.0668
 engine_installations: []
 for_sales:
@@ -37,22 +48,20 @@ for_sales:
   sold: '2020-08-19'
   summary: null
   updated_at: '2020-08-19T09:17:14.187327+00:00'
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.6670507193367468
   draft: 1.0668251645940015
-  length_on_waterline: 7.010485247500609
   length_over_all: 8.305907095830285
   length_over_spars: 8.305907095830285
+  length_on_waterline: 7.010485247500609
 home_country: GBR
 home_port: ''
 hull_form: bilge keel
 id: 20d72fae-b3bd-48e4-bf15-c76cef86550d
 length_on_deck: 8.3058
-mainsail_type: bermudan
-name: Pintail of Morra
-oga_no: 2579
+spar_material: wood
+ssr: '127906'
+callsign: ''
 ownerships:
 - end: 2007
   name: Teun Niewenhuis
@@ -68,10 +77,15 @@ ownerships:
   share: 64
   start: 2008
 place_built: Christchurch
-rig_type: Sloop
-short_description: Sold at the Amsterdam Boat Show, 1977 and owned in Holland until
-  2007 when returned to Rossiter Yachts for a major refit.
 updated_at: '2022-02-16T13:23:58.396673+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+image_key: QkW974
+construction_details: GRP wood cabin trim and cockpit coamings, teak over GRP deck
+beam: 2.667
+design_class:
+  name: Pintail
+  id: 4f1b0b8e-26f7-464e-abf9-526cf1f49a5b
+for_sale_state:
+  text: not_for_sale

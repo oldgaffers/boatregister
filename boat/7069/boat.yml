@@ -1,13 +1,22 @@
-builder: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
-callsign: ''
+name: Calyx of Ipswich
+oga_no: 7069
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: bermudan
+short_description: <p>Calyx of Ipswich was constructed to Lloyds 100A1 and built to
+  laurent Giles Peter Duck design.</p>
+full_description: ''
+builder:
+  name: Porter and Haylett Ltd.
+  id: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
 construction_material: wood
 construction_method: unknown
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
 draft: 1.143
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
   length_over_all: 8.686905632772493
@@ -16,20 +25,26 @@ home_port: Ipswich
 hull_form: long keel sloping forefoot
 id: 03415f55-9a2c-4b18-be84-ffe0982f9f5d
 length_on_deck: 8.6868
-mainsail_type: bermudan
-name: Calyx of Ipswich
-oga_no: 7069
+sail_number: 1098Y
+uk_part1: '338577'
+callsign: ''
 ownerships:
-- current: true
-  id: 571
-  member: 5049
+- id: 571
   share: 64
   start: 2012
+  member: 5049
+  current: true
 place_built: Wroxham
-rig_type: Cutter
-short_description: <p>Calyx of Ipswich was constructed to Lloyds 100A1 and built to
-  laurent Giles Peter Duck design.</p>
 updated_at: '2021-12-19T13:40:02.076869+00:00'
 website: ''
 year: 1970
 year_is_approximate: false
+previous_names:
+- Bethulie Too
+image_key: FdwqCW
+beam: 2.7432
+design_class:
+  name: Peter Duck
+  id: 63bb01a3-7495-48a5-9ca8-e90c5d93bc09
+for_sale_state:
+  text: not_for_sale

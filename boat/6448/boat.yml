@@ -1,34 +1,43 @@
-builder: 7a6201af-2a44-41ab-bc04-3b5f4db4d675
-callsign: ''
+name: Touchstone
+oga_no: 6448
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Ferro Marine Services
+  id: 7a6201af-2a44-41ab-bc04-3b5f4db4d675
+designer:
+  name: Alan F. Hill
+  id: 6541e39a-cf4e-4abf-9c13-0e8750af27d7
 construction_material: ferro
 construction_method: unknown
-designer: 6541e39a-cf4e-4abf-9c13-0e8750af27d7
 draft: 2.1336
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.581443550353572
   draft: 2.13362594489149
-  length_on_waterline: 10.515727871250913
   length_over_all: 11.582540843696659
+  length_on_waterline: 10.515727871250913
 home_country: 'null'
 home_port: Maldon
 hull_form: unknown
 id: ce0532ef-b083-487c-90b7-bc263b565a87
 length_on_deck: 11.5824
-mainsail_type: gaff
-name: Touchstone
-oga_no: 6448
+uk_part1: '388698'
+callsign: ''
 ownerships:
 - name: Simon Cornwell & Alice Cornwell
   share: 64
   start: 2012
 place_built: Burnham on Crouch
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:59.978874+00:00'
 website: ''
 year: 1981
 year_is_approximate: false
+construction_details: Ferro
+beam: 3.5814
+for_sale_state:
+  text: not_for_sale

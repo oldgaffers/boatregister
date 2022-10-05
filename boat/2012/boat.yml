@@ -1,11 +1,11 @@
-builder: d02ef310-75b8-46ab-8c53-f17b72d64671
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: da4baa22-674e-4ea8-b2c5-14aee7286837
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Diamond
+oga_no: 2012
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Diamond was a Blackpool and Fleetwood Yacht Club Jewel Class
+  Boat built by Crossfields in Arnside in 1912. All the boats were named after Jewels.
+  The Royal Mersey Rivers Class were based on the Jewel Class</p>
 full_description: "<p>Diamond was a Blackpool and Fleetwood Yacht Club Jewel Class\
   \ yacht. Other Jewel Class yachts were Sapphire, Ruby, Emerald, Iolite and Pearl.\
   \ Diamond, Sapphire and Emerald are recorded in Llloyds Register.</p>\n<p>Blackpool\
@@ -51,42 +51,55 @@ full_description: "<p>Diamond was a Blackpool and Fleetwood Yacht Club Jewel Cla
   \ the Smalley district of Derbyshire. He was President of Lancaster Royal Infirmary\
   \ Committee in 1938.</p>\n<p>It would be interesting know what happen to her after\
   \ 1945.</p>"
-generic_type: Yacht
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+designer:
+  name: William Crossfield
+  id: da4baa22-674e-4ea8-b2c5-14aee7286837
+construction_material: wood
+construction_method: carvel
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.081809314801268
-  draft: 0.9144111192392099
-  fore_triangle_base: 4.57205559619605
-  fore_triangle_height: 5.7912704218483295
-  length_on_waterline: 5.7912704218483295
-  length_over_all: 7.010485247500609
   main:
     foot: 4.26725188978298
     head: 3.2004389173372347
     luff: 3.2004389173372347
-  propellor:
-    type: fixed
   thcf: 0.887063898
+  draft: 0.9144111192392099
   topsail:
     luff: 3.3528407705437697
     perpendicular: 1.8288222384784198
+  propellor:
+    type: fixed
+  length_over_all: 7.010485247500609
+  fore_triangle_base: 4.57205559619605
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 5.7912704218483295
 home_country: 'null'
 home_port: Fleetwood
 hull_form: long keel deep forefoot
 id: 30257a1a-549c-4271-8e7c-88332a495a58
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Diamond
-oga_no: 2012
+spar_material: wood
+callsign: ''
 ownerships:
 - name: M Royle
   share: 64
   start: 1988
 place_built: Arnside
-rig_type: Cutter
-short_description: <p>Diamond was a Blackpool and Fleetwood Yacht Club Jewel Class
-  Boat built by Crossfields in Arnside in 1912. All the boats were named after Jewels.
-  The Royal Mersey Rivers Class were based on the Jewel Class</p>
 updated_at: '2022-02-24T22:53:56.671362+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+image_key: FL7jMQ
+construction_details: Carvel Pitch Pine on sawn & bent oak frames
+beam: 2.0818
+design_class:
+  name: Jewel
+  id: c4ce9fdc-9170-48fd-baf1-e839d859150d
+for_sale_state:
+  text: not_for_sale

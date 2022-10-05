@@ -1,41 +1,48 @@
-builder: 034f4f9b-6334-45d7-a0b3-5116da588b30
-callsign: ''
+name: Sesame
+oga_no: 1920
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Rebuilt 1996
+builder:
+  name: R.S. Burt and Son
+  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+designer:
+  name: R.S. Burt
+  id: 3a2bf172-f648-44a1-af0f-0598af8b960b
 construction_material: wood
 construction_method: carvel
-designer: 3a2bf172-f648-44a1-af0f-0598af8b960b
 draft: 1.7983
 engine_installations: []
 for_sales: []
-full_description: Rebuilt 1996
-generic_type: unknown
 handicap_data:
   beam: 2.834674469641551
-  draft: 1.798341867837113
-  fore_triangle_base: 6.4008778346744695
-  fore_triangle_height: 7.010485247500609
-  length_on_waterline: 7.894415996098512
-  length_over_all: 8.564984150207266
   main:
     foot: 5.059741526456962
     head: 5.059741526456962
     luff: 8.382101926359423
+  thcf: 1.003704016
+  draft: 1.798341867837113
   mizzen:
     foot: 3.0480370641306997
     luff: 6.0960741282613995
-  propellor:
-    type: fixed
-  thcf: 1.003704016
   topsail:
     luff: 6.827603023652767
     perpendicular: 2.8041940990002434
+  propellor:
+    type: fixed
+  length_over_all: 8.564984150207266
+  fore_triangle_base: 6.4008778346744695
+  length_on_waterline: 7.894415996098512
+  fore_triangle_height: 7.010485247500609
 home_country: 'null'
 home_port: Salcombe
 hull_form: long keel deep forefoot
 id: 8b7133c5-60ca-4fee-ab9a-a926d9f9aa5f
 length_on_deck: 8.5649
-mainsail_type: gaff
-name: Sesame
-oga_no: 1920
+uk_part1: '119750'
+callsign: ''
 ownerships:
 - name: Marcus Wright
   share: 32
@@ -43,15 +50,20 @@ ownerships:
 - name: Mike Wrigley
   share: 32
   start: 1988
-- current: true
-  id: 387
-  member: 4141
+- id: 387
   share: 64
+  member: 4141
+  current: true
   start: '?'
 place_built: Falmouth
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:24.11422+00:00'
 website: ''
 year: 1906
 year_is_approximate: false
+previous_names:
+- Terrapin
+- Sesame
+construction_details: Carvel - Pitch Pine on Oak, Iron Keel
+beam: 2.8346
+for_sale_state:
+  text: not_for_sale

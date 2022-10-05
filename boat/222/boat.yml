@@ -1,11 +1,13 @@
-builder: 64a3bdc0-e6cc-4aef-a95d-747ece447289
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 27b62e2d-4145-4681-b8b9-7d68915e7e27
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Cachalot
+oga_no: 222
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Cachalot is a gaff cutter built along similar lines to that
+  of an East Coast smack. She was built as a private yacht by Robert Saunders of Folkstone
+  between 1897 - 1900 and has a fascinating history. She is a Dunkirk Little Ship
+  and was relaunched in 2017 following a major 10-year refit, ashore at the head of
+  the River Deben, Suffolk.</p>
 full_description: "<p>Cachalot&#39;s construction is carvel laid elm planking below\
   \ the waterline and pitch pine above. The planks are laid over oak frames and centreline\
   \ structure. She is of traditional form with a slightly raked stem, long keel, round\
@@ -47,25 +49,34 @@ full_description: "<p>Cachalot&#39;s construction is carvel laid elm planking be
   \ her earlier history; and I would be delighted if any OGA members have information\
   \ on the efficiency of either Cascover sheathing or Admiralty &lsquo;Impetite&rsquo;.</blockquote>\r\
   \n\r\n<h4>First published in the Old Gaffers Association Newsletter 1977/3</h4>"
-generic_type: Yacht
+builder:
+  name: R. Sanders
+  id: 64a3bdc0-e6cc-4aef-a95d-747ece447289
+designer:
+  name: R. Sanders
+  id: 27b62e2d-4145-4681-b8b9-7d68915e7e27
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.987076322848086
-  boat_depth: 1.0058522311631308
   draft: 1.5240185320653499
-  length_on_waterline: 7.010485247500609
+  propellor:
+    type: fixed
+    blades: 3
+  boat_depth: 1.0058522311631308
   length_over_all: 9.1441111923921
   length_over_spars: 9.44891489880517
-  propellor:
-    blades: 3
-    type: fixed
+  length_on_waterline: 7.010485247500609
 home_country: GBR
 home_port: Woodbridge, Suffolk
 hull_form: long keel deep forefoot
 id: 5469ce0c-6a55-400f-acdb-f3f4481836f6
 length_on_deck: 9.1958
-mainsail_type: gaff
-name: Cachalot
-oga_no: 222
+uk_part1: '120778'
+callsign: ''
 ownerships:
 - end: 1905
   name: RC Boothby
@@ -121,11 +132,11 @@ ownerships:
   name: David Richard John Francis Macaire
   share: 64
   start: 1995
-- current: true
-  id: 501
-  member: 4741
+- id: 501
   share: 64
   start: 2005
+  member: 4741
+  current: true
 - end: 2009
   name: Glyn and Chris Holt
   share: 16
@@ -134,13 +145,12 @@ ownerships:
   share: 64
   start: 2011
 place_built: Folkestone, Kent
-rig_type: Cutter
-short_description: <p>Cachalot is a gaff cutter built along similar lines to that
-  of an East Coast smack. She was built as a private yacht by Robert Saunders of Folkstone
-  between 1897 - 1900 and has a fascinating history. She is a Dunkirk Little Ship
-  and was relaunched in 2017 following a major 10-year refit, ashore at the head of
-  the River Deben, Suffolk.</p>
 updated_at: '2021-12-19T13:38:36.039709+00:00'
 website: http://www.cachalot.org.uk
 year: 1898
 year_is_approximate: false
+image_key: 7w4vX9
+construction_details: Carvel Pitch pine/Teak on oak
+beam: 3.9106
+for_sale_state:
+  text: not_for_sale

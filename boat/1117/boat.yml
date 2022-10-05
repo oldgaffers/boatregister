@@ -1,11 +1,10 @@
-builder: ff7b1629-680c-4aec-8744-70c7fea1a636
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
-draft: 1.143
-engine_installations: []
-for_sales: []
+name: Comrades
+oga_no: 1117
+generic_type: Morecambe Bay Prawner
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Comrades&#39; was built for the Baxter Family and fished
+  the Morecambe Bay area..</p>
 full_description: "<p>Originally built for the Baxter Family &#39;Comrades&#39; was\
   \ sold in the 1960s to the Clarkson Family who changed the name to &#39;Natashquant&#39;,\
   \ the name coming from Africa where the father had served in the army.</p>\r\n\r\
@@ -32,31 +31,40 @@ full_description: "<p>Originally built for the Baxter Family &#39;Comrades&#39; 
   \ rigging and blocks. Down below he added a new cooker, solid fuel stove, modern\
   \ electrics, water tank and cushions.</p>\r\n\r\n<p>Robert has sailed her around\
   \ the Irish Sea from Liverpool to the Isle of Man and Ireland.</p>"
-generic_type: Morecambe Bay Prawner
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+construction_material: wood
+construction_method: carvel
+draft: 1.143
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.143032187271397
-  fore_triangle_base: 5.18166300902219
-  fore_triangle_height: 7.924896366739819
-  length_on_waterline: 7.924896366739819
-  length_over_all: 8.53450377956596
-  length_over_spars: 10.972933430870519
   main:
     foot: 4.724469641550841
     head: 3.9624481833699097
     luff: 3.7338514996342353
+  thcf: 0.944
+  draft: 1.143032187271397
+  sailarea: 38.203060225832395
   propellor:
     type: fixed
-  sailarea: 38.203060225832395
-  thcf: 0.944
+  length_over_all: 8.53450377956596
+  length_over_spars: 10.972933430870519
+  fore_triangle_base: 5.18166300902219
+  length_on_waterline: 7.924896366739819
+  fore_triangle_height: 7.924896366739819
 home_country: GBR
 home_port: Conway
 hull_form: long keel sloping forefoot
 id: b2010b77-87ac-45c9-9ec6-7d58b9016431
 length_on_deck: 8.4826
-mainsail_type: gaff
-name: Comrades
-oga_no: 1117
+ssr: '141690'
+callsign: ''
 ownerships:
 - end: 1960
   name: Baxter Family
@@ -90,16 +98,22 @@ ownerships:
   name: Dr Peter Favershame
   share: 64
   start: 2000
-- current: true
-  id: 232
-  member: 3217
+- id: 232
   share: 64
   start: 2008
+  member: 3217
+  current: true
 place_built: Arnside
-rig_type: Cutter
-short_description: <p>&#39;Comrades&#39; was built for the Baxter Family and fished
-  the Morecambe Bay area..</p>
 updated_at: '2021-12-19T13:39:02.007903+00:00'
 website: ''
 year: 1908
 year_is_approximate: false
+previous_names:
+- Natashquant
+- Ena-Jane
+- Thira lll.
+image_key: PjDC9r
+construction_details: Carvel larch planking on sawn oak frames
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

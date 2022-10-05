@@ -1,34 +1,43 @@
-builder: b10be798-8314-4a6f-9f9c-68371bf23e3b
-callsign: ''
+name: Gwenella
+oga_no: 1042
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 85/4
+builder:
+  name: L.P. Hatcher
+  id: b10be798-8314-4a6f-9f9c-68371bf23e3b
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: wood
 construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: Log 85/4
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
   draft: 1.066812972445745
-  length_on_waterline: 6.5532796878810045
   length_over_all: 6.705681541087539
+  length_on_waterline: 6.5532796878810045
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 20aad1d5-33c3-4a34-8768-a55f6c1fa64b
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Gwenella
-oga_no: 1042
+reference:
+- Log 85/4
+callsign: ''
 ownerships:
 - name: L P Hatcher
   share: 64
   start: 2012
 place_built: Millbrook
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:59.695648+00:00'
 website: ''
 year: 1981
 year_is_approximate: false
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

@@ -1,34 +1,43 @@
-builder: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
-construction_material: grp
-construction_method: unknown
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-engine_installations: []
-for_sales: []
+name: Eleanor - B
+oga_no: 3512
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Gaff Rigged Cutter based on a Falmouth Quay Punt.
 full_description: GRP Gaff Rigged cutter, based on a Falmouth Quay Punt. White Hull,
   black antifouled keel. Tan Sails, Pine mast, boom, gaff and bowsprit. Brass portholes
   and Transom hung white Rudder.
-generic_type: Yacht
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: grp
+construction_method: unknown
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.4630577907827358
-  length_on_waterline: 8.22970007315289
   length_over_all: 8.83930748597903
+  length_on_waterline: 8.22970007315289
 home_country: United Kingdom
 home_port: La Savina Formentera Spain
 hull_form: long keel deep forefoot
 id: 89b906e9-1670-4c3b-ac57-8605e44c7b9f
-mainsail_type: gaff
-name: Eleanor - B
-oga_no: 3512
 ownerships:
-- current: true
-  id: 1060
-  member: 6313
+- id: 1060
   share: 64
+  member: 6313
+  current: true
   start: '?'
 place_built: Cornwall
-rig_type: Cutter
-short_description: Gaff Rigged Cutter based on a Falmouth Quay Punt.
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 year: 1981
 year_is_approximate: false
+image_key: CT49m5
+beam: 2.7432
+design_class:
+  name: Tamarisk 29
+  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23

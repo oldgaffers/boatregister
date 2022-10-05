@@ -1,11 +1,10 @@
-builder: ff7b1629-680c-4aec-8744-70c7fea1a636
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
-draft: 1.2192
-engine_installations: []
-for_sales: []
+name: Hannah Hambleton
+oga_no: 1596
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Hannah Hambleton&#39; was built in 1931 for a member of
+  the Runcorn Hambleton toffee family.</p>
 full_description: "<p>&#39;Hannah Hambleton&#39;, launched in 1931, was one of the\
   \ last prawners to be made by Crossfields,&nbsp;built on behalf of Mrs Hambleton,\
   \ owner of a toffee business in Runcorn, for her grandson.</p>\r\n\r\n<p>&#39;Hannah\
@@ -23,40 +22,51 @@ full_description: "<p>&#39;Hannah Hambleton&#39;, launched in 1931, was one of t
   \ to Morecambe registered as LR177<br />\r\n1982 Sold to Hoylake, registered for\
   \ fishing as LL40 in 1984<br />\r\n1986 Broke adrift from her moorings in a storm\
   \ and severely damaged. Rebuilt by a Birkenhead owner.<br />\r\n1990 Changed ownership.</p>"
-generic_type: unknown
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+construction_material: wood
+construction_method: carvel
+draft: 1.2192
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.3528407705437697
-  draft: 1.21921482565228
-  fore_triangle_base: 7.315288953913679
-  fore_triangle_height: 9.44891489880517
-  length_on_waterline: 9.906120458424773
-  length_over_all: 10.972933430870519
   main:
     foot: 0.7620092660326749
     head: 6.5532796878810045
     luff: 6.5532796878810045
+  thcf: 0.985616515
+  draft: 1.21921482565228
   propellor:
     type: fixed
-  thcf: 0.985616515
+  length_over_all: 10.972933430870519
+  fore_triangle_base: 7.315288953913679
+  length_on_waterline: 9.906120458424773
+  fore_triangle_height: 9.44891489880517
 home_country: GBR
 home_port: Liverpool
 hull_form: long keel deep forefoot
 id: 65abfc21-46a0-4eda-9c1f-d91bd754ee92
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Hannah Hambleton
-oga_no: 1596
+ssr: '47535'
+callsign: ''
 ownerships:
-- current: true
-  id: 171
-  member: 2619
+- id: 171
   share: 64
   start: 1990
+  member: 2619
+  current: true
 place_built: Arnside
-rig_type: Cutter
-short_description: <p>&#39;Hannah Hambleton&#39; was built in 1931 for a member of
-  the Runcorn Hambleton toffee family.</p>
 updated_at: '2021-12-19T13:39:15.861872+00:00'
 website: ''
 year: 1931
 year_is_approximate: false
+image_key: XFJ98F
+construction_details: Carvel , Larch on Oak
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

@@ -1,31 +1,39 @@
-builder: 3b623161-dc07-46fc-96b1-98e7ad47b431
-callsign: ''
+name: Restful
+oga_no: 2866
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: lug
+short_description: <p>Classic open punt designed to live in davits, rows a crew of
+  three with four passengers. She has lived on the Isle of Wight for 110 years until
+  January 2008 and was in the same family for 70 of these years.</p>
+full_description: ''
+builder:
+  name: Charles Sibbick and Co
+  id: 3b623161-dc07-46fc-96b1-98e7ad47b431
+designer:
+  name: Charles Sibbick
+  id: a5468014-9c00-4985-85ca-f3115f1fc4f7
 construction_material: woodepoxy
 construction_method: cold_moulded
-designer: a5468014-9c00-4985-85ca-f3115f1fc4f7
 draft: 0.3048
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 1.5240185320653499
-  draft: 0.30480370641307
-  length_on_waterline: 4.776274079492806
-  length_over_all: 4.776274079492806
   main:
     foot: 4.166666666666666
     head: 4.166666666666666
     luff: 4.4501341136308215
   thcf: 0.859796984
+  draft: 0.30480370641307
+  length_over_all: 4.776274079492806
+  length_on_waterline: 4.776274079492806
 home_country: GBR
 home_port: Trailed
 hull_form: unknown
 id: 08db6008-521f-4e71-aa8d-2f3cfbbaa17a
 length_on_deck: 4.7762
-mainsail_type: lug
-name: Restful
-oga_no: 2866
+callsign: ''
 ownerships:
 - end: 2010
   name: Dave Rogers
@@ -35,11 +43,15 @@ ownerships:
   share: 64
   start: 2010
 place_built: Albert Yard Cowes
-rig_type: Sloop
-short_description: <p>Classic open punt designed to live in davits, rows a crew of
-  three with four passengers. She has lived on the Isle of Wight for 110 years until
-  January 2008 and was in the same family for 70 of these years.</p>
 updated_at: '2021-12-19T13:39:51.72187+00:00'
 website: ''
 year: 1899
 year_is_approximate: false
+previous_names:
+- Restless
+image_key: FQdjzm
+construction_details: Clench larch on oak grp sheathed, galvo centre plate, larch
+  mast bamboo spars
+beam: 1.524
+for_sale_state:
+  text: not_for_sale

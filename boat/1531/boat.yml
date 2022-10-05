@@ -1,43 +1,51 @@
-builder: cbdb2200-b74d-4fa1-ad09-8782b1c69ff9
-callsign: ''
+name: Lona
+oga_no: 1531
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Pain Clark designed three boats called &#39;Lona&#39; in the
+  1900s.</p>
+full_description: ''
+builder:
+  name: Burnham Yacht Building Co.
+  id: cbdb2200-b74d-4fa1-ad09-8782b1c69ff9
+designer:
+  name: Clark J. Pain
+  id: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
 construction_material: wood
 construction_method: carvel
-designer: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.042184832967569
-  draft: 1.21921482565228
-  fore_triangle_base: 3.2766398439405022
-  fore_triangle_height: 7.162887100707144
-  length_on_waterline: 6.4008778346744695
   main:
     foot: 5.410265788831992
     head: 3.931967812728603
   thcf: 0.759135765
+  draft: 1.21921482565228
   topsail:
     luff: 1.9812240916849548
     perpendicular: 2.3165081687393316
+  fore_triangle_base: 3.2766398439405022
+  length_on_waterline: 6.4008778346744695
+  fore_triangle_height: 7.162887100707144
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: a2b49dcc-f751-45a7-ac51-c6612a562ecb
 length_on_deck: 0
-mainsail_type: gaff
-name: Lona
-oga_no: 1531
+callsign: ''
 ownerships:
 - name: T M W Burnham
   share: 64
   start: 1992
 place_built: Burnham on Crouch
-rig_type: Cutter
-short_description: <p>Pain Clark designed three boats called &#39;Lona&#39; in the
-  1900s.</p>
 updated_at: '2021-12-19T13:39:14.026885+00:00'
 website: ''
 year: 1902
 year_is_approximate: false
+construction_details: Carvel teak on oak
+beam: 2.0422
+for_sale_state:
+  text: not_for_sale

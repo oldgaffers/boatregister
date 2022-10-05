@@ -1,31 +1,40 @@
-builder: 390e07ea-2164-4958-9171-fd647da56935
-construction_material: plywood
-construction_method: unknown
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
-engine_installations: []
-for_sales: []
+name: Bonny
+oga_no: 3474
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: "Privateer 12'6&#34;\_ Modified version of a Selway Fisher Highlander\
+  \ 12.\_ Gaff sloop with topsail"
 full_description: A modified version of a Selway Fisher Highlander 12 dinghy with
   a gaff rig including a topsail
-generic_type: Yacht
+builder:
+  name: Long Island Boats
+  id: 390e07ea-2164-4958-9171-fd647da56935
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+construction_material: plywood
+construction_method: unknown
+engine_installations: []
+for_sales: []
 handicap_data:
-  draft_keel_down: 0.8626
-  length_on_waterline: 3.5052
-  length_overall: 3.6576
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 0
+  moving_keel: true
+  length_overall: 3.6576
+  draft_keel_down: 0.8626
+  moving_keel_type: Centreboard
+  length_on_waterline: 3.5052
 home_country: United Kingdom
 home_port: Ullswater
 hull_form: centre-boarder
 id: a9ec2881-24b2-4ed6-9529-18099c29be82
 length_on_deck: 3.6576
-mainsail_type: gaff
-name: Bonny
-oga_no: 3474
 place_built: Wareham Dorset
-rig_type: Sloop
-short_description: "Privateer 12'6&#34;\_ Modified version of a Selway Fisher Highlander\
-  \ 12.\_ Gaff sloop with topsail"
 updated_at: '2021-01-26T15:50:33.266207+00:00'
 year: 1994
 year_is_approximate: false
+image_key: HVdsFp
+beam: 1.524
+design_class:
+  name: Privateer
+  id: ec05d481-2e96-4127-a999-785f7c0cbce8

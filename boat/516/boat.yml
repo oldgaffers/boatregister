@@ -1,34 +1,43 @@
-builder: 2735cdca-cab0-42d4-809c-121af5a5ea34
-callsign: ''
+name: The Saith
+oga_no: 516
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 67/3
+builder:
+  name: Sutherland
+  id: 2735cdca-cab0-42d4-809c-121af5a5ea34
+designer:
+  name: Sutherland
+  id: 87586fa9-719f-4e5e-a74c-9884bf53ff4c
 construction_material: wood
 construction_method: unknown
-designer: 87586fa9-719f-4e5e-a74c-9884bf53ff4c
 draft: 0.823
 engine_installations: []
 for_sales: []
-full_description: Log 67/3
-generic_type: unknown
 handicap_data:
   beam: 1.6764203852718849
   draft: 0.822970007315289
-  length_on_waterline: 4.114850036576445
   length_over_all: 4.87685930260912
+  length_on_waterline: 4.114850036576445
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: c00b9e92-a3f4-47b3-9ded-2f8452b26961
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: The Saith
-oga_no: 516
+reference:
+- Log 67/3
+callsign: ''
 ownerships:
 - name: G R Dunn
   share: 64
   start: 2012
 place_built: Lerwick
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:44.534423+00:00'
 website: ''
 year: 1963
 year_is_approximate: false
+beam: 1.6764
+for_sale_state:
+  text: not_for_sale

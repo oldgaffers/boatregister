@@ -1,13 +1,21 @@
-builder: 19fdfb59-bb48-4015-abe5-1c3ec1ce0a8d
-callsign: ''
+name: Julia Gee
+oga_no: 2842
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Landamore and Co. Ltd.
+  id: 19fdfb59-bb48-4015-abe5-1c3ec1ce0a8d
+designer:
+  name: Francis J. Jones
+  id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 construction_material: wood
 construction_method: unknown
-designer: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.5357229943916115
   length_over_all: 10.972933430870519
@@ -16,21 +24,20 @@ home_port: Levington
 hull_form: unknown
 id: a8be33f5-6cee-4913-8049-5a4ca3a95da0
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Julia Gee
-oga_no: 2842
+callsign: ''
 ownerships:
 - name: John Day
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 5003
-  share: 64
+  current: true
   start: '?'
 place_built: Norfolk
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:51.027657+00:00'
 website: ''
 year: 1968
 year_is_approximate: false
+beam: 3.5296
+for_sale_state:
+  text: not_for_sale

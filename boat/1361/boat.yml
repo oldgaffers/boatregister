@@ -1,56 +1,65 @@
-builder: 7320ec38-3d1e-436e-9366-1c440fe64a9c
-callsign: ''
+name: Comus of Wivenhoe
+oga_no: 1361
+generic_type: Smack
+rig_type: Schooner
+mainsail_type: gaff
+short_description: <p>'Comus of Wivenhoe' is a gaff rigged wooden schooner of carvel
+  construction, built in 1882 by James Husk of Wivenhoe.</p>
+full_description: ''
+builder:
+  name: Husk James and Sons
+  id: 7320ec38-3d1e-436e-9366-1c440fe64a9c
+designer:
+  name: Jasmes Husk
+  id: a5bcd933-f26f-4043-be64-35742cb970d1
 construction_material: wood
 construction_method: carvel
-designer: a5bcd933-f26f-4043-be64-35742cb970d1
 draft: 2.4902
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 3.733845403560107
-  draft: 2.4902462813947817
   fore:
     foot: 4.114850036576445
     head: 3.5052426237503047
     luff: 6.705681541087539
-  fore_triangle_base: 9.067910265788832
-  fore_triangle_height: 10.972933430870519
-  length_on_waterline: 16.45940014630578
-  length_over_all: 18.2882223847842
   main:
     foot: 8.991709339185563
     head: 6.2484759814679345
     luff: 7.010485247500609
-  propellor:
-    type: fixed
   thcf: 1.256713724
+  draft: 2.4902462813947817
   topsail:
     luff: 7.519507437210437
     perpendicular: 5.4864667154352595
+  propellor:
+    type: fixed
+  length_over_all: 18.2882223847842
+  fore_triangle_base: 9.067910265788832
+  length_on_waterline: 16.45940014630578
+  fore_triangle_height: 10.972933430870519
 home_country: GBR
 home_port: Heybrige Basin
 hull_form: long keel deep forefoot
 id: 6cffc7f2-a6c0-429c-9482-9e0a427c4f80
 length_on_deck: 18.288
-mainsail_type: gaff
-name: Comus of Wivenhoe
-oga_no: 1361
+uk_part1: '87276'
+callsign: ''
 ownerships:
 - name: Jim Olney
   share: 64
   start: 1979
-- current: true
-  id: 172
-  member: 2623
+- id: 172
   share: 64
+  member: 2623
+  current: true
   start: '?'
 place_built: Wivenhoe
-rig_type: Schooner
-short_description: <p>'Comus of Wivenhoe' is a gaff rigged wooden schooner of carvel
-  construction, built in 1882 by James Husk of Wivenhoe.</p>
 updated_at: '2021-12-19T13:39:09.170157+00:00'
 website: ''
 year: 1882
 year_is_approximate: false
+construction_details: Carvel Teak on Oak
+beam: 3.7338
+for_sale_state:
+  text: not_for_sale

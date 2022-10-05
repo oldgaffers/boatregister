@@ -1,26 +1,31 @@
-construction_material: wood
-construction_method: carvel
-engine_installations: []
-for_sales: []
+name: Mairi Bhan
+oga_no: 3493
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: Designed as 26 foot Gaff Sloop and converted to Bermudan rig
 full_description: "Designed as 26 foot Gaff Sloop by \u201CUncle Rous\u201C vice-Commodore\
   \ of the Hong Kong Yacht Club and a yacht designer . Around six of his yachts are\
   \ thought to have survived into the second Millennium . Mairi Bhan was initially\
   \ built as Marie in 1934."
+construction_material: wood
+construction_method: carvel
+engine_installations: []
+for_sales: []
 home_country: United Kingdom
 home_port: St Monans
 hull_form: long keel sloping forefoot
 id: f0dd2610-89d2-40af-a8be-22c91a8f95ef
-mainsail_type: bermudan
-name: Mairi Bhan
-oga_no: 3493
 ownerships:
-- current: true
-  id: 34784
-  member: 5238
+- id: 34784
   share: 64
+  member: 5238
+  current: true
   start: '?'
-rig_type: Sloop
-short_description: Designed as 26 foot Gaff Sloop and converted to Bermudan rig
 updated_at: '2022-02-14T11:00:05.941975+00:00'
 year: 1933
 year_is_approximate: false
+previous_names:
+- Mairi
+image_key: 77X8jF
+for_sale_state:
+  text: not_for_sale

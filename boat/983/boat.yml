@@ -1,34 +1,42 @@
-builder: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
-callsign: ''
+name: Kittiwake
+oga_no: 983
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Arthur Holt
+  id: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
+designer:
+  name: Arthur Holt
+  id: 24308b60-4e0a-44aa-b47c-b16e5392a93b
 construction_material: wood
 construction_method: carvel
-designer: 24308b60-4e0a-44aa-b47c-b16e5392a93b
 draft: 1.6154
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Bawley
 handicap_data:
   beam: 3.749085588880761
   draft: 1.6154596439892708
-  length_on_waterline: 10.36332601804438
   length_over_all: 11.277737137283589
+  length_on_waterline: 10.36332601804438
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: d1039be1-8fe4-4022-a885-48b8ec7ae7cc
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: Kittiwake
-oga_no: 983
+callsign: ''
 ownerships:
 - name: E Van Orden
   share: 64
   start: 2012
 place_built: Heybridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:57.986891+00:00'
 website: ''
 year: 1975
 year_is_approximate: false
+construction_details: Carvel Iroko, on laminated iroko.
+beam: 3.749
+for_sale_state:
+  text: not_for_sale

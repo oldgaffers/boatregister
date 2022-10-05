@@ -1,11 +1,11 @@
-builder: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
-draft: 0.5334
-engine_installations: []
-for_sales: []
+name: Kate
+oga_no: 1047
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Kate is a Memory 19, a shoal draft, gaff rigged cutter, designed
+  by Tony Robinson RINA. She is based on the design of Brightlingsea working craft
+  around the 1920s.
 full_description: "<p>Professionally built by the Liverpool Boat Co. in 1979, Kate\
   \ is the two berth, cabin version of the Memory.</p>\r\n\r\n<p>She was cruised around\
   \ Hayling Island by David Northcott in the 1980s, then moved to the English north-east\
@@ -18,45 +18,60 @@ full_description: "<p>Professionally built by the Liverpool Boat Co. in 1979, Ka
   \ at Salterns, and fitted it into the stern deck in 2002.</p>\r\n\r\n<p>She has\
   \ most controls leading back to the cockpit for single-handed use and has a choice\
   \ of small Cornish or jackyard topsails.</p>"
-generic_type: Yacht
+builder:
+  name: Liverpool Boat Co. Ltd.
+  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.5334
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  fore_triangle_base: 3.1242379907339672
-  fore_triangle_height: 5.18166300902219
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.7912704218483295
-  length_over_spars: 7.620092660326749
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
   thcf: 0.873392463
+  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
+  length_over_all: 5.7912704218483295
+  length_over_spars: 7.620092660326749
+  fore_triangle_base: 3.1242379907339672
+  length_on_waterline: 5.690685198732017
+  fore_triangle_height: 5.18166300902219
 home_country: GBR
 home_port: Maylandsea
 hull_form: centre-boarder
 id: a607e04f-2e92-45be-9dc3-c0082a9bce29
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Kate
-oga_no: 1047
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Keith Davidson
   share: 64
   start: 1999
-- current: true
+- share: 64
   member: 4022
-  share: 64
+  current: true
   start: '?'
 place_built: Liverpool
-rig_type: Sloop
-short_description: Kate is a Memory 19, a shoal draft, gaff rigged cutter, designed
-  by Tony Robinson RINA. She is based on the design of Brightlingsea working craft
-  around the 1920s.
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+previous_names:
+- Boy Matthew
+image_key: gKjp2d
+construction_details: grp
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

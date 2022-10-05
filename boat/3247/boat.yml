@@ -1,31 +1,38 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Alice
+oga_no: 3247
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Alice is a Cornish Crabber Mark 2.</p>
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: IRL
 home_port: Howth
 hull_form: long keel deep forefoot
 id: 1502e51e-1e32-4c53-bc5b-44bde16bc80f
 length_on_deck: 0
-mainsail_type: gaff
-name: Alice
-oga_no: 3247
+callsign: ''
 ownerships:
-- current: true
-  id: 746
-  member: 5740
+- id: 746
   share: 64
   start: 2012
+  member: 5740
+  current: true
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Alice is a Cornish Crabber Mark 2.</p>
 updated_at: '2021-12-19T13:40:05.207891+00:00'
 website: ''
 year: 1996
 year_is_approximate: false
+beam: 0
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,12 @@
-builder: a16e7160-05a5-4ef9-8da8-eab48afd8b07
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 1.6764
-engine_installations: []
-for_sales:
-- asking_price: 39950
+name: Romilda
+oga_no: 504
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Romilda&#39; was owned by Frederick William Hillier for
+  26 years from 1959. A founder member of the OGA, he and &#39;Romilda&#39; attended
+  many early Solent events and the Southbourne Sea Scouts often went sailing aboard
+  &#39;Romilda&#39;. Orignially a trading ship, she was converted to a yacht in 1928.</p>
 full_description: "<p>A classic &lsquo;one-off&rsquo; gaff cutter, &#39;Romilda&#39;\
   \ has a remarkable history. Built in 1897 by James McKane, Guernsey, as a monumental\
   \ stone carrier, she was converted by Camper &amp; Nicholson to a &lsquo;gentleman&rsquo;s\
@@ -53,20 +54,27 @@ full_description: "<p>A classic &lsquo;one-off&rsquo; gaff cutter, &#39;Romilda&
   \ was left to port as you fell into the saloon before venturing forward to a seperate\
   \ cabin, heads and sail locker. My memory is a little vague on specifics but in\
   \ general, but I loved the whole experience of life aboard &#39;Romilda&#39;.</blockquote>"
-generic_type: unknown
+builder:
+  name: James McKane
+  id: a16e7160-05a5-4ef9-8da8-eab48afd8b07
+construction_material: wood
+construction_method: carvel
+draft: 1.6764
+engine_installations: []
+for_sales:
+- asking_price: 39950
 handicap_data:
   beam: 3.8100463301633747
   draft: 1.6764203852718849
-  length_on_waterline: 10.546208241892222
   length_over_all: 12.192148256522799
+  length_on_waterline: 10.546208241892222
 home_country: GBR
 home_port: Grimsby
 hull_form: unknown
 id: a2790bae-1fa4-4a94-89b8-3ed7544b5a08
 length_on_deck: 12.192
-mainsail_type: gaff
-name: Romilda
-oga_no: 504
+uk_part1: '120329'
+callsign: ''
 ownerships:
 - end: 1949
   name: Graham Harry and Spencer Brookes
@@ -113,12 +121,14 @@ ownerships:
   share: 64
   start: 2015
 place_built: Guernsey
-rig_type: Cutter
-short_description: <p>&#39;Romilda&#39; was owned by Frederick William Hillier for
-  26 years from 1959. A founder member of the OGA, he and &#39;Romilda&#39; attended
-  many early Solent events and the Southbourne Sea Scouts often went sailing aboard
-  &#39;Romilda&#39;. Orignially a trading ship, she was converted to a yacht in 1928.</p>
 updated_at: '2021-12-19T13:38:44.222143+00:00'
 website: ''
 year: 1897
 year_is_approximate: false
+previous_names:
+- Pom Pom
+image_key: ZVL4P4
+construction_details: Carvel pitch pine on oak frames
+beam: 3.81
+for_sale_state:
+  text: not_for_sale

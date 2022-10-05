@@ -1,11 +1,11 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
-draft: 0
-engine_installations: []
-for_sales: []
+name: Sallie
+oga_no: 839
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Sallie&#39; is a Class 2 smack, built in 1907 by Aldous
+  of Brightlingsea. She is one of only a small number of Colchester smacks still sailed
+  in the traditional manner, without an engine.</p>
 full_description: "<p>Colchester smack &#39;Sallie&#39; was built in 1907 by Aldous\
   \ of Brightlingsea for the Bowles family from Tollesbury. She was registered for\
   \ oyster dredging and stow boating for sprats. She operated in the Thames Estuary\
@@ -18,7 +18,17 @@ full_description: "<p>Colchester smack &#39;Sallie&#39; was built in 1907 by Ald
   \ owner in 1981 where she underwent an extensive restoration, remaining engineless\
   \ and having traditional cotton sails. She was relaunched in 1989 and in 2000 she\
   \ sailed to l&rsquo;Aberwrach, Brest and Douarnenez festivals.</p>"
-generic_type: Smack
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+designer:
+  name: Aldous
+  id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   length_over_all: 14.020970495001219
 home_country: GBR
@@ -26,24 +36,22 @@ home_port: Herring Point, Maldon
 hull_form: unknown
 id: 70326a4a-a2b9-4849-9118-a40d4a71a7a7
 length_on_deck: 14.0208
-mainsail_type: gaff
-name: Sallie
-oga_no: 839
+callsign: ''
 ownerships:
 - name: R Titchener
   share: 64
   start: 2012
-- current: true
-  id: 906
-  member: 6045
+- id: 906
   share: 64
+  member: 6045
+  current: true
   start: '?'
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: <p>&#39;Sallie&#39; is a Class 2 smack, built in 1907 by Aldous
-  of Brightlingsea. She is one of only a small number of Colchester smacks still sailed
-  in the traditional manner, without an engine.</p>
 updated_at: '2021-12-19T13:38:53.842414+00:00'
 website: ''
 year: 1907
 year_is_approximate: false
+image_key: nnVFRN
+beam: 0
+for_sale_state:
+  text: not_for_sale

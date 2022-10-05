@@ -1,36 +1,46 @@
-builder: ede15a23-0b3e-43ee-93ae-b32daff7b2e4
-callsign: ''
+name: Contaro
+oga_no: 1278
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log Au/93
+builder:
+  name: R.W. Jones
+  id: ede15a23-0b3e-43ee-93ae-b32daff7b2e4
+designer:
+  name: Maurice Griffiths/R.W. Jones
+  id: 3ccfbc27-1ac3-49dd-b372-5e7a7c628146
 construction_material: ferro
 construction_method: unknown
-designer: 3ccfbc27-1ac3-49dd-b372-5e7a7c628146
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Log Au/93
-generic_type: Yacht
 handicap_data:
   beam: 2.5146305779078273
   draft: 0.9144111192392099
-  length_on_waterline: 7.010485247500609
-  length_over_all: 8.22970007315289
   propellor:
     type: fixed
+  length_over_all: 8.22970007315289
+  length_on_waterline: 7.010485247500609
 home_country: 'null'
 home_port: London
 hull_form: long keel deep forefoot
 id: af1b2fbf-c4cd-4a2e-b05e-69867ba76e32
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Contaro
-oga_no: 1278
+reference:
+- Log Aug 93
+callsign: ''
 ownerships:
 - name: A Ratcliffe
   share: 64
   start: 1976
 place_built: Maldon
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:06.832138+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+construction_details: Ferro-cement hull, plywood deck, timber spars
+beam: 2.5146
+for_sale_state:
+  text: not_for_sale

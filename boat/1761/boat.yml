@@ -1,53 +1,62 @@
-builder: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
-callsign: ''
+name: Perula
+oga_no: 1761
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Built as a trawler converted to Yawl and yacht in 1935
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+designer:
+  name: A.M. Dickie
+  id: e03f87f0-9a2d-4cfc-a685-814bc4757242
 construction_material: wood
 construction_method: carvel
-designer: e03f87f0-9a2d-4cfc-a685-814bc4757242
 draft: 1.9812
 engine_installations: []
 for_sales: []
-full_description: Built as a trawler converted to Yawl and yacht in 1935
-generic_type: unknown
 handicap_data:
   beam: 4.114850036576445
-  draft: 1.9812240916849548
-  fore_triangle_base: 8.22970007315289
-  fore_triangle_height: 8.22970007315289
-  length_on_waterline: 11.582540843696659
-  length_over_all: 13.716166788588149
   main:
     foot: 6.4008778346744695
     head: 5.4864667154352595
     luff: 6.4008778346744695
+  thcf: 1.066030774
+  draft: 1.9812240916849548
   mizzen:
     foot: 2.43842965130456
     head: 2.43842965130456
     luff: 3.3528407705437697
-  mizzen_topsail:
-    luff: 3.6576444769568397
-    perpendicular: 0
-  propellor:
-    type: fixed
-  thcf: 1.066030774
   topsail:
     luff: 7.620092660326749
     perpendicular: 3.6576444769568397
+  propellor:
+    type: fixed
+  mizzen_topsail:
+    luff: 3.6576444769568397
+    perpendicular: 0
+  length_over_all: 13.716166788588149
+  fore_triangle_base: 8.22970007315289
+  length_on_waterline: 11.582540843696659
+  fore_triangle_height: 8.22970007315289
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 7cca4033-1227-4adc-aac8-386c601f796d
 length_on_deck: 13.716
-mainsail_type: gaff
-name: Perula
-oga_no: 1761
+uk_part1: '162070'
+callsign: ''
 ownerships:
 - name: C D Ryan
   share: 64
   start: 1990
 place_built: Bangor, N Wales
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:19.62238+00:00'
 website: ''
 year: 1932
 year_is_approximate: false
+construction_details: Carvel Pitch pine on Oak
+beam: 4.1148
+for_sale_state:
+  text: not_for_sale

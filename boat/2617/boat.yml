@@ -1,63 +1,79 @@
-builder: 2a625108-bef9-404e-bf02-4aad488efa47
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
-draft: 0.6096
-engine_installations: []
-for_sales: []
+name: Florence
+oga_no: 2617
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Orignially called Octarine, Florence is an Oystercatcher 16.</p>
 full_description: <p>The Oystercatcher 16 is a gaff rigged pocket cruiser based on
   the oyster dredging boats of the Falmouth area. Her design is an evolution of the
   Oysterman 16 where her draft and underwater profile have been modified to make her
   trailerable.</p>
-generic_type: Yacht
+builder:
+  name: Mayfly Classic Boats
+  id: 2a625108-bef9-404e-bf02-4aad488efa47
+designer:
+  name: Bryan Gibson
+  id: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.6096
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.929407461594733
-  draft: 0.60960741282614
-  fore_triangle_base: 2.3104120946110704
-  fore_triangle_height: 3.9624481833699097
-  length_on_waterline: 4.800658376005852
-  length_over_all: 4.87685930260912
   main:
     foot: 3.605827846866618
     head: 2.5146305779078273
     luff: 3.148622287247013
-  propellor:
-    type: fixed
   thcf: 0.79972077
+  draft: 0.60960741282614
   topsail:
     luff: 2.8956352109241648
     perpendicular: 1.4234333089490367
+  propellor:
+    type: fixed
+  length_over_all: 4.87685930260912
+  fore_triangle_base: 2.3104120946110704
+  length_on_waterline: 4.800658376005852
+  fore_triangle_height: 3.9624481833699097
 home_country: GBR
 home_port: Topsham,River Exe
 hull_form: shoal_draft
 id: 09ec5bf3-e44c-4d77-8798-dd878af7e1e9
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Florence
-oga_no: 2617
+spar_material: wood
+ssr: '66368'
+callsign: ''
 ownerships:
 - note: '  Dates of Sale June 2001 and Feb 2002'
+  text: Dates of Sale June
   start: 2001
   start_is_approximate: false
-  text: Dates of Sale June
 - end: 2016
   name: Frances Nieduszynska
   share: 64
   start: 2006
 - note: bought November 2019 by Giles Whittacker and Richard Tarr
+  text: bought November
   start: 2019
   start_is_approximate: false
-  text: bought November
-- current: true
-  id: 34594
-  member: 6358
+- id: 34594
   share: 32
+  member: 6358
+  current: true
   start: '?'
 place_built: Gweek
-rig_type: Cutter
-short_description: <p>Orignially called Octarine, Florence is an Oystercatcher 16.</p>
 updated_at: '2021-12-19T13:39:44.425644+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+previous_names:
+- Octarine
+image_key: 56vVkc
+construction_details: GRP
+beam: 1.9294
+design_class:
+  name: Oystercatcher 16
+  id: 3afef302-57fe-49ab-bfb8-f7d0ea978a37
+for_sale_state:
+  text: not_for_sale

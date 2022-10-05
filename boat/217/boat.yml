@@ -1,9 +1,11 @@
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 0
-engine_installations: []
-for_sales: []
+name: Fly
+oga_no: 217
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built in 1850 as a bawley, Fly is one of only four boats taking
+  part in both the first 1963 and 50th Anniversary 2013 OGA East Coast Races. She
+  came second in 1963.</p>
 full_description: "<p>Date of building and builder unknown but probably built in the\
   \ 1850s as a transom sterned bawley. In 1888 she was replanked at Tollesbury and\
   \ the counter stern was added.</p>\r\n\r\n<p>Until May 1900 she was owned by William\
@@ -16,27 +18,32 @@ full_description: "<p>Date of building and builder unknown but probably built in
   \ competed in the 1974 OGA East Coast Race. Afterwards she laid at West Mersea and\
   \ after two weeks her counter was severely damaged by an unknown boat. The repair\
   \ cost &pound;1,000, the work was done by Frost &amp; Drake of Tollesbury.</p>"
-generic_type: Bawley
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
-  length_on_waterline: 8.22970007315289
   length_over_all: 9.1441111923921
+  length_on_waterline: 8.22970007315289
 home_country: GBR
 home_port: Brightlingsea
 hull_form: unknown
 id: d46b4266-78f4-4d9f-af60-9f29e3779d11
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Fly
-oga_no: 217
+sail_number: MN17
+callsign: ''
 ownerships:
 - name: P D Groom
   share: 64
   start: 2012
-rig_type: Cutter
-short_description: <p>Built in 1850 as a bawley, Fly is one of only four boats taking
-  part in both the first 1963 and 50th Anniversary 2013 OGA East Coast Races. She
-  came second in 1963.</p>
 updated_at: '2021-12-19T13:38:35.910404+00:00'
 website: ''
 year: 1860
 year_is_approximate: false
+previous_names:
+- Violet Bella
+image_key: qzMP8t
+beam: 0
+for_sale_state:
+  text: not_for_sale

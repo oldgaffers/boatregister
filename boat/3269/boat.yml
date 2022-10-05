@@ -1,12 +1,10 @@
-builder: ceb655a1-62d7-4d11-a621-22918e24b716
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 0a2a79ed-c2cb-4045-892b-6473fbc1cd7c
-draft: 1.1674
-engine_installations: []
-for_sales:
-- asking_price: 3200
+name: Jaunty
+oga_no: 3269
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Jaunty is a gentleman&#39;s yacht designed and built by Roy
+  Marsden between 1960 and 1968 for estuary and river sailing.</p>
 full_description: "<p>Jaunty&#39;s builder, Roy Marsden, took ten years to build her\
   \ in the 1960s. he was a boatbuilder and cabinet maker. He lived aboard for 20 or\
   \ so years until he died. Her stem and centre structure are seasoned oak with oak\
@@ -17,26 +15,36 @@ full_description: "<p>Jaunty&#39;s builder, Roy Marsden, took ten years to build
   \ saloon abounds with his skills including brass drop down handles on drawers and\
   \ a beautiful navigation station. She has two berths and a Baby Blake loo, double\
   \ primus cooking stove and mahogany cockpit seats and surrounds.</p>"
-generic_type: Yacht
+builder:
+  name: Marsden Roy
+  id: ceb655a1-62d7-4d11-a621-22918e24b716
+designer:
+  name: Roy Marsden
+  id: 0a2a79ed-c2cb-4045-892b-6473fbc1cd7c
+construction_material: wood
+construction_method: carvel
+draft: 1.1674
+engine_installations: []
+for_sales:
+- asking_price: 3200
 handicap_data:
-  length_over_spars: 8.763
   length_overall: 6.7056
+  length_over_spars: 8.763
 home_country: GBR
 home_port: Fron Goch nr. Aberdovey
 hull_form: long keel sloping forefoot
 id: 0d132724-ba04-4605-950b-c61f34f73341
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Jaunty
-oga_no: 3269
+uk_part1: '333958'
+callsign: ''
 ownerships:
 - end: 20
-  end_is_approximate: false
   note: Roy Marsden built her for himself and lived aboard on the Rivers Trent and
     Humber for 20 or so years until he died. She was sold to Mr Phoenix of Telford
     who sold her to Gary Taylor in 2002.
   text: Roy Marsden built her for himself and lived aboard on the Rivers Trent and
     Humber for
+  end_is_approximate: false
 - end: 2006
   name: Gary Taylor
   share: 64
@@ -46,10 +54,14 @@ ownerships:
   share: 64
   start: 2006
 place_built: Long Eaton on Trent
-rig_type: Cutter
-short_description: <p>Jaunty is a gentleman&#39;s yacht designed and built by Roy
-  Marsden between 1960 and 1968 for estuary and river sailing.</p>
 updated_at: '2021-12-19T13:40:05.826874+00:00'
 website: ''
 year: 1968
 year_is_approximate: false
+image_key: 5WTF9d
+construction_details: Stem and centre structure in seasoned oak with oak, oak carvel
+  planking over oak frames 2.5 x 2 inches and oak steamed timbers of 1.75 x 1 inch.
+  Fastenings are copper
+beam: 2.1854
+for_sale_state:
+  text: not_for_sale

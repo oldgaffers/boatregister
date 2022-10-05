@@ -1,11 +1,15 @@
-callsign: ''
+name: Renowned
+oga_no: 2213
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.886247256766642
   length_over_all: 11.68312606681297
@@ -14,19 +18,18 @@ home_port: Chatham
 hull_form: unknown
 id: b6958e39-85c9-4166-a065-7657b07be329
 length_on_deck: 11.683
-mainsail_type: gaff
-name: Renowned
-oga_no: 2213
+callsign: ''
 ownerships:
-- current: true
-  id: 300
-  member: 3618
+- id: 300
   share: 64
   start: 2012
+  member: 3618
+  current: true
 place_built: Leigh on Sea
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:32.361377+00:00'
 website: ''
 year: 1945
 year_is_approximate: false
+beam: 3.8862
+for_sale_state:
+  text: not_for_sale

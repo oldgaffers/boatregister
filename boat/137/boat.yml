@@ -1,13 +1,21 @@
-builder: 496aa611-a9f5-490c-baa1-b89ef0ad1933
-callsign: ''
+name: Wallaby
+oga_no: 137
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Gale
+  id: 496aa611-a9f5-490c-baa1-b89ef0ad1933
+designer:
+  name: Gale
+  id: b092edc7-9e0e-4f3d-a907-eabd3b6c80f2
 construction_material: wood
 construction_method: unknown
-designer: b092edc7-9e0e-4f3d-a907-eabd3b6c80f2
 draft: 1.4021
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.2613996586198484
   draft: 1.4020970495001217
@@ -17,17 +25,18 @@ home_port: ''
 hull_form: unknown
 id: e302aa84-1f37-486c-a219-79187cbb46c9
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Wallaby
-oga_no: 137
+callsign: ''
 ownerships:
 - name: J Little
   share: 64
   start: 2012
 place_built: Cowes IoW
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:33.566161+00:00'
 website: ''
 year: 1899
 year_is_approximate: false
+previous_names:
+- New Woman
+beam: 3.2614
+for_sale_state:
+  text: not_for_sale

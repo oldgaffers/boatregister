@@ -1,11 +1,11 @@
-builder: 419b997a-03fd-48b2-b58e-923e30825ae9
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: f4272731-0d68-44d6-a0ef-e9266edfc9ef
-draft: 1.9812
-engine_installations: []
-for_sales: []
+name: Trasnagh
+oga_no: 3216
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Found as a bare hull, &#39;Trasnagh&#39; has been restored to
+  a very high standard, winning second place in the 2014 Classic Boat Restoration
+  of the Year.</p>
 full_description: "<p>&#39;Trasnagh&#39; an Island One Design by Alfred Mylne, was\
   \ discovered as a bare hull by Ian Terblanche, who painstakingly restored her with\
   \ the help from broker Peter Gregson and local boatbuilders Pete Nash and Brian\
@@ -14,14 +14,18 @@ full_description: "<p>&#39;Trasnagh&#39; an Island One Design by Alfred Mylne, w
   \ Having been converted to Bermudan at some time during her earlier cruising and\
   \ racing days, her original gaff rig has been restored.</p>\r\n\r\n<p>&#39;Trasnagh&#39;\
   \ won second place in the Classic Boat Restoration of the Year Award, 2014.</p>"
-generic_type: Yacht
+builder:
+  name: Hilditch John
+  id: 419b997a-03fd-48b2-b58e-923e30825ae9
+designer:
+  name: Alfred Mylne
+  id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
+construction_material: wood
+construction_method: carvel
+draft: 1.9812
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 1.042
-  fore_triangle_base: 5.462
-  fore_triangle_height: 10.921
-  length_on_waterline: 8.2296
-  length_over_spars: 13.4112
-  length_overall: 11.8872
   main:
     foot: 19.58
     head: 15.58
@@ -29,29 +33,38 @@ handicap_data:
   mizzen:
     foot: 8
     luff: 16.92
+  length_overall: 11.8872
+  calculated_thcf: 1.042
+  length_over_spars: 13.4112
+  fore_triangle_base: 5.462
+  length_on_waterline: 8.2296
+  fore_triangle_height: 10.921
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel sloping forefoot
 id: f959dfeb-8712-41ad-91a5-c5d590642989
 length_on_deck: 11.8872
-mainsail_type: gaff
-name: Trasnagh
-oga_no: 3216
+sail_number: '6'
+callsign: ''
 ownerships:
 - name: Ian Terblanche
   share: 64
   start: 2007
-- current: true
-  id: 832
-  member: 5907
+- id: 832
   share: 64
+  member: 5907
+  current: true
   start: '?'
 place_built: Carrickfergus
-rig_type: Yawl
-short_description: <p>Found as a bare hull, &#39;Trasnagh&#39; has been restored to
-  a very high standard, winning second place in the 2014 Classic Boat Restoration
-  of the Year.</p>
 updated_at: '2021-12-19T13:40:04.343896+00:00'
 website: ''
 year: 1913
 year_is_approximate: false
+image_key: THFKGJ
+construction_details: Carvel/Wood
+beam: 2.7432
+design_class:
+  name: Islands One Design
+  id: 73ff63c4-da29-44a7-b2da-83c5ebd845ee
+for_sale_state:
+  text: not_for_sale

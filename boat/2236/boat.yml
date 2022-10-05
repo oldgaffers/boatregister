@@ -1,13 +1,21 @@
-builder: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
-callsign: ''
+name: Girl Pat
+oga_no: 2236
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: see also Boat 1102 Girl Pat
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+designer:
+  name: Ken Latimer
+  id: a03b41df-b124-414c-a979-51a4ae4f8eec
 construction_material: wood
 construction_method: unknown
-designer: a03b41df-b124-414c-a979-51a4ae4f8eec
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: see also Boat 1102 Girl Pat
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
   length_over_all: 6.4008778346744695
@@ -16,17 +24,16 @@ home_port: Prinstead, Chichester
 hull_form: unknown
 id: f9f626a3-3327-46b2-a66d-3864bd1095e1
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Girl Pat
-oga_no: 2236
+callsign: ''
 ownerships:
 - name: Will Bassom
   share: 64
   start: 2012
 place_built: Canvey Island
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:33.088132+00:00'
 website: ''
 year: 1956
 year_is_approximate: false
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

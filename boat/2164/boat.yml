@@ -1,13 +1,21 @@
-builder: 0eb139e6-d991-4c98-90d0-b917c91e12c0
-callsign: ''
+name: Petrel
+oga_no: 2164
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+designer:
+  name: Claud Whisstock
+  id: ea6f6923-f4a6-41cf-93d7-627fd861837a
 construction_material: wood
 construction_method: unknown
-designer: ea6f6923-f4a6-41cf-93d7-627fd861837a
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 1.9812240916849548
   length_over_all: 6.705681541087539
@@ -16,19 +24,18 @@ home_port: Rye
 hull_form: unknown
 id: 525df620-8631-409b-b18a-d9532b2da5a5
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Petrel
-oga_no: 2164
+callsign: ''
 ownerships:
-- current: true
-  id: 293
-  member: 3566
+- id: 293
   share: 64
   start: 2012
+  member: 3566
+  current: true
 place_built: Woodbridge
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:31.005129+00:00'
 website: ''
 year: 1948
 year_is_approximate: false
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

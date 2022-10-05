@@ -1,13 +1,21 @@
-builder: 13013b12-8617-439c-bc35-ba8f2259031e
-callsign: ''
+name: Rumptyfizzer
+oga_no: 2293
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+designer:
+  name: Roger Wilkinson
+  id: 7b55967c-c09b-4375-8aab-2aa606d145cd
 construction_material: grp
 construction_method: cold_moulded
-designer: 7b55967c-c09b-4375-8aab-2aa606d145cd
 draft: 0.2042
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.5240185320653499
   draft: 0.2042184832967569
@@ -17,17 +25,17 @@ home_port: None - Trailer Sailer
 hull_form: unknown
 id: bbc818d5-59fb-49bf-97c3-609a2bbf0437
 length_on_deck: 4.2672
-mainsail_type: gaff
-name: Rumptyfizzer
-oga_no: 2293
+callsign: ''
 ownerships:
 - name: David Duke
   share: 64
   start: 2012
 place_built: Macclesfield
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:34.67164+00:00'
 website: ''
 year: 1992
 year_is_approximate: false
+construction_details: GRP
+beam: 1.524
+for_sale_state:
+  text: not_for_sale

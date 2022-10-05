@@ -1,33 +1,40 @@
-builder: 2baf8a14-dd14-4e3a-936c-369594ab0618
-callsign: ''
+name: Adventuress
+oga_no: 1270
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Bridgend Boat Co.
+  id: 2baf8a14-dd14-4e3a-936c-369594ab0618
+designer:
+  name: Martin Eyre
+  id: 7cf820e0-d23e-423a-88b8-796db102e59a
 construction_material: wood
 construction_method: unknown
-designer: 7cf820e0-d23e-423a-88b8-796db102e59a
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   beam: 1.4478176054620824
-  length_on_waterline: 3.3528407705437697
   length_over_all: 3.5570592538405266
+  length_on_waterline: 3.3528407705437697
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: f48eb26c-123d-40bf-a1b1-6e66687a9937
 length_on_deck: 3.557
-mainsail_type: gaff
-name: Adventuress
-oga_no: 1270
+callsign: ''
 ownerships:
 - name: R Gapper
   share: 64
   start: 2012
 place_built: Bridgend,Plymouth
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:06.57838+00:00'
 website: ''
 year: 1988
 year_is_approximate: false
+beam: 1.4478
+for_sale_state:
+  text: not_for_sale

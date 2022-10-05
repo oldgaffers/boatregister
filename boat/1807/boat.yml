@@ -1,44 +1,53 @@
-builder: 8d74da63-305e-4666-8f7f-931df43292b5
-callsign: ''
+name: Radiance of Boston
+oga_no: 1807
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Design said to have some involvement with Harrison Butler Used for
+  fishing for a short period.  For sale on web March 06.
+builder:
+  name: Alexander E. Gostelow
+  id: 8d74da63-305e-4666-8f7f-931df43292b5
+designer:
+  name: S. Bellchamber
+  id: c7f9e5a9-410b-446a-96e5-c004ebe39a63
 construction_material: wood
 construction_method: carvel
-designer: c7f9e5a9-410b-446a-96e5-c004ebe39a63
 draft: 1.7526
 engine_installations: []
 for_sales: []
-full_description: Design said to have some involvement with Harrison Butler Used for
-  fishing for a short period.  For sale on web March 06.
-generic_type: Yacht
 handicap_data:
   beam: 3.0480370641306997
-  draft: 1.7526213118751524
-  fore_triangle_base: 6.4008778346744695
-  fore_triangle_height: 8.53450377956596
-  length_on_waterline: 9.75371860521824
-  length_over_all: 11.277737137283589
   main:
     foot: 7.010485247500609
     head: 5.334064862228725
     luff: 5.9436722750548645
+  thcf: 1.033429504
+  draft: 1.7526213118751524
   propellor:
     type: fixed
-  thcf: 1.033429504
+  length_over_all: 11.277737137283589
+  fore_triangle_base: 6.4008778346744695
+  length_on_waterline: 9.75371860521824
+  fore_triangle_height: 8.53450377956596
 home_country: 'null'
 home_port: Lymington
 hull_form: long keel deep forefoot
 id: 7a69cc9b-cfdc-4631-9713-45a2b434d73b
 length_on_deck: 11.2776
-mainsail_type: gaff
-name: Radiance of Boston
-oga_no: 1807
+uk_part1: '147970'
+callsign: ''
 ownerships:
 - name: Clive Tizzard
   share: 64
   start: 2009
 place_built: Boston
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:20.855148+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+construction_details: Carvel larch on oak
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

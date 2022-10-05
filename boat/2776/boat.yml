@@ -1,12 +1,10 @@
-builder: 9df0ef19-2255-497e-b6d6-8e8918a14d44
-callsign: ''
-construction_material: woodepoxy
-construction_method: unknown
-designer: de6ce395-680c-46f9-a90f-180310b55e8a
-draft: 0.7315
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Egret
+oga_no: 2776
+generic_type: Dayboat
+rig_type: Yawl
+mainsail_type: gunter
+short_description: <p>&#39;Egret&#39; is a Highlander 18 designed by Selway Fisher
+  Design and built by two sailing enthusiasts to an exceptional standard in 2005.</p>
 full_description: "<p>&#39;Egret&#39; is a Highlander 18 designed by <a href=\"http://www.selway-fisher.com\"\
   \ target=\"_blank\">Selway Fisher Design</a> and featured on their website. The\
   \ Highlanders are a primarily dayboat range, though the smallest is pehaps closer\
@@ -42,7 +40,18 @@ full_description: "<p>&#39;Egret&#39; is a Highlander 18 designed by <a href=\"h
   \ a little and all the epoxy fillets are pretty much perfect. Even the reinforcing\
   \ pads (for everything) are filleted and sanded smooth. Wow! It was their idea to\
   \ make the cuddy a little smaller and fit a large generous spray-hood. Good move!</p>"
-generic_type: Dayboat
+builder:
+  name: Mark Hampton/Phil Hampton
+  id: 9df0ef19-2255-497e-b6d6-8e8918a14d44
+designer:
+  name: Paul Fisher
+  id: de6ce395-680c-46f9-a90f-180310b55e8a
+construction_material: woodepoxy
+construction_method: unknown
+draft: 0.7315
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 1.9050231650816873
   length_over_all: 5.4864667154352595
@@ -51,20 +60,23 @@ home_port: Basingstoke
 hull_form: long keel deep forefoot
 id: 3af61fe9-aa9d-443e-9482-0d6e4ec8a0a8
 length_on_deck: 5.4864
-mainsail_type: gunter
-name: Egret
-oga_no: 2776
+callsign: ''
 ownerships:
-- current: true
-  id: 512
-  member: 4784
+- id: 512
   share: 64
   start: 2004
+  member: 4784
+  current: true
 place_built: Walsall
-rig_type: Yawl
-short_description: <p>&#39;Egret&#39; is a Highlander 18 designed by Selway Fisher
-  Design and built by two sailing enthusiasts to an exceptional standard in 2005.</p>
 updated_at: '2021-12-19T13:39:49.079624+00:00'
 website: https://www.gscott.me.uk/Egret/
 year: 2005
 year_is_approximate: false
+image_key: pnpZLT
+construction_details: Ply epoxy
+beam: 1.905
+design_class:
+  name: Highlander 18
+  id: df233c68-2959-4b82-aee9-cd3421af749c
+for_sale_state:
+  text: for_sale

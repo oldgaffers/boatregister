@@ -1,11 +1,13 @@
-builder: 003a3cb6-0b44-4a03-b73c-78d624e24b10
-construction_material: grp
-construction_method: cold_moulded
-designer: 17c6b8a7-9705-4478-b77d-39d49e6e59d6
-engine_installations: []
-for_sales:
-- asking_price: 3450
-- asking_price: 3450
+name: Gracie
+oga_no: 3467
+generic_type: Dinghy
+rig_type: single_sail
+mainsail_type: gaff
+short_description: 'Pretty clinker design reminiscent of ships'' tenders - she sails
+  well, rows wel and tows well.<p>She takes 3 adults rowing or motoring and two adults
+  sailing.<p>Quite high freeboard and slightly chubby - being a Nestaway she splits
+  into 2 sections: the bow section fits inside the stern for easier transport and
+  storage.'
 full_description: "The popular 9' Nesting Clinker Stem Dinghy is reminiscent of traditional\
   \ ships\u2019 tenders, built to carry heavy loads of people and stores.<p>She is\
   \ quite chubby and has more freeboard (depth) than most designs of this size, but\
@@ -28,21 +30,30 @@ full_description: "The popular 9' Nesting Clinker Stem Dinghy is reminiscent of 
   \ to heeling for a 9' dinghy; she inspires confidence and (whilst not a racing machine)\
   \ is very enjoyable to sail. If you have read the books by Arthur Ransome, she is\
   \ often referred to as a miniature \u201CSwallow\u201D."
-generic_type: Dinghy
+builder:
+  name: Nestaway Boats Ltd
+  id: 003a3cb6-0b44-4a03-b73c-78d624e24b10
+designer:
+  name: Ian Thomson
+  id: 17c6b8a7-9705-4478-b77d-39d49e6e59d6
+construction_material: grp
+construction_method: cold_moulded
+engine_installations: []
+for_sales:
+- asking_price: 3450
+- asking_price: 3450
 home_country: United Kingdom
 home_port: Harwich
 hull_form: centre-board dinghy
 id: 9b34e934-1cbd-48c2-8358-dfce4b991f33
 length_on_deck: 2.7432
-mainsail_type: gaff
-name: Gracie
-oga_no: 3467
-rig_type: single_sail
-short_description: 'Pretty clinker design reminiscent of ships'' tenders - she sails
-  well, rows wel and tows well.<p>She takes 3 adults rowing or motoring and two adults
-  sailing.<p>Quite high freeboard and slightly chubby - being a Nestaway she splits
-  into 2 sections: the bow section fits inside the stern for easier transport and
-  storage.'
+spar_material: wood
 updated_at: '2021-08-24T21:26:36.986651+00:00'
 year: 2012
 year_is_approximate: true
+image_key: hGTq6b
+design_class:
+  name: Nestaway 9
+  id: bdbcfd0e-e404-4709-bc17-5cc80cca84d6
+for_sale_state:
+  text: not_for_sale

@@ -1,44 +1,52 @@
-builder: f72b7944-066d-41e2-adf8-43821a3fc8e7
-callsign: ''
+name: De Kleine Jager
+oga_no: 2790
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Pieter Dijkstra
+  id: f72b7944-066d-41e2-adf8-43821a3fc8e7
+designer:
+  name: Pieter Dijkstra
+  id: ac2ea347-0221-4ab3-8502-3acd19cefa82
 construction_material: aluminium
 construction_method: unknown
-designer: ac2ea347-0221-4ab3-8502-3acd19cefa82
 draft: 0.6005
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.051328944159961
-  draft: 0.6004633016337478
-  fore_triangle_base: 3.7003169958546698
-  fore_triangle_height: 5.40020726652036
-  length_on_waterline: 5.498658863691782
-  length_over_all: 6.199707388441843
   main:
     foot: 3.3894172153133377
     head: 3.176054620824189
     luff: 3.880151182638381
   thcf: 0.868772492
+  draft: 0.6004633016337478
   topsail:
     luff: 3.980736405754694
     perpendicular: 1.7495732748110218
+  length_over_all: 6.199707388441843
+  fore_triangle_base: 3.7003169958546698
+  length_on_waterline: 5.498658863691782
+  fore_triangle_height: 5.40020726652036
 home_country: NLD
 home_port: Usquert
 hull_form: unknown
 id: 9cdef249-6edc-4fdd-afd7-fbd74cd28922
 length_on_deck: 6.1996
-mainsail_type: gaff
-name: De Kleine Jager
-oga_no: 2790
+callsign: ''
 ownerships:
 - name: Pieter Dijkstra
   share: 64
   start: 2006
 place_built: Usquert
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:49.522385+00:00'
 website: ''
 year: 2006
 year_is_approximate: false
+construction_details: Welded alumimium, Oregon pine spars
+beam: 2.0513
+for_sale_state:
+  text: not_for_sale

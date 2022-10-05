@@ -1,36 +1,44 @@
-builder: 83a839af-b960-4cce-a881-b4401432846c
-callsign: ''
+name: Hoshi
+oga_no: 1887
+generic_type: Yacht
+rig_type: Schooner
+mainsail_type: gaff
+short_description: <p>Run by the Island Crusing Club out of Salcome for many years.
+  Sold to France 2000.</p>
+full_description: ''
+builder:
+  name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
+designer:
+  name: Charles E. Nicholson
+  id: f97b2d74-8535-4ed5-8602-651d2ca2898f
 construction_material: wood
 construction_method: unknown
-designer: f97b2d74-8535-4ed5-8602-651d2ca2898f
 draft: 2.7432
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 4.328212631065593
   draft: 2.7432333577176298
-  length_on_waterline: 15.240185320653499
   length_over_all: 21.945866861741038
+  length_on_waterline: 15.240185320653499
 home_country: FRA
 home_port: Brest
 hull_form: unknown
 id: 8ed0ba7f-c535-4816-82ff-44f8c28b7104
 length_on_deck: 21.9456
-mainsail_type: gaff
-name: Hoshi
-oga_no: 1887
+callsign: ''
 ownerships:
 - end: 2000
   name: Island Cruising Club
   share: 64
   start: 1951
 place_built: Gosport
-rig_type: Schooner
-short_description: <p>Run by the Island Crusing Club out of Salcome for many years.
-  Sold to France 2000.</p>
 updated_at: '2021-12-19T13:39:23.221129+00:00'
 website: ''
 year: 1909
 year_is_approximate: false
+image_key: BMh2WL
+beam: 4.319
+for_sale_state:
+  text: not_for_sale

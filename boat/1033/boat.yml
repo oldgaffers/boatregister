@@ -1,32 +1,37 @@
-builder: 4fe21e29-74b1-48cf-80ab-a852697661c5
-callsign: ''
+name: The Fairy
+oga_no: 1033
+generic_type: unknown
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Anderson
+  id: 4fe21e29-74b1-48cf-80ab-a852697661c5
 construction_material: wood
 construction_method: unknown
 draft: 0.3048
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.5240185320653499
   draft: 0.30480370641307
-  length_on_waterline: 3.9624481833699097
   length_over_all: 4.26725188978298
+  length_on_waterline: 3.9624481833699097
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: f7cc793c-acb7-4cd6-ae09-8a83d8e8cd10
 length_on_deck: 4.2672
-mainsail_type: gaff
-name: The Fairy
-oga_no: 1033
+callsign: ''
 ownerships:
 - name: D J Patient
   share: 64
   start: 2012
 place_built: Stromness
-short_description: ''
 updated_at: '2021-12-19T13:38:59.397641+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+beam: 1.524
+for_sale_state:
+  text: not_for_sale

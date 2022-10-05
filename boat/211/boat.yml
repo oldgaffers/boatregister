@@ -1,11 +1,11 @@
-builder: 6920b909-1ba3-4ced-9cf2-495deaba13ca
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: ce385e39-b7b9-4ec3-bcf3-aedbb2624133
-draft: 1.777
-engine_installations: []
-for_sales: []
+name: Band of Hope
+oga_no: 211
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Band of Hope&#39; sometimes referred to irreverently as
+  &#39;Abandon Hope&#39;, is a Harwich Bawley still sailing under her original name
+  in 1997.</p>
 full_description: "<p>She was purchased as a fishing boat in 1935 and converted by\
   \ Corbetts at Greenwich to have four berths in two cabins. When purchased she had\
   \ a loose footed mainsail and &#39;Handy Billy&#39; auxiliary. She lay in Leigh\
@@ -18,37 +18,47 @@ full_description: "<p>She was purchased as a fishing boat in 1935 and converted 
   \ with some rearrangement of accommodation.</p>\r\n\r\n<p>The owner hoped to fit\
   \ new engine to replace the Dorman 4DSM now 50 years old and have her in commission\
   \ by 1998.</p>"
-generic_type: Bawley
+builder:
+  name: Norman Bros.
+  id: 6920b909-1ba3-4ced-9cf2-495deaba13ca
+designer:
+  name: Cann
+  id: ce385e39-b7b9-4ec3-bcf3-aedbb2624133
+construction_material: wood
+construction_method: carvel
+draft: 1.777
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.014264813460131
-  draft: 1.7678614971958058
-  fore_triangle_base: 7.924896366739819
-  fore_triangle_height: 11.277737137283589
-  length_on_waterline: 11.582540843696659
-  length_over_all: 12.192148256522799
   main:
     foot: 8.254084369665934
     head: 5.9436722750548645
     luff: 8.22970007315289
   thcf: 1.081542585
+  draft: 1.7678614971958058
+  length_over_all: 12.192148256522799
+  fore_triangle_base: 7.924896366739819
+  length_on_waterline: 11.582540843696659
+  fore_triangle_height: 11.277737137283589
 home_country: 'null'
 home_port: Paglesham
 hull_form: unknown
 id: 0326a08d-7e03-4048-9070-acd4a580cdca
 length_on_deck: 12.192
-mainsail_type: gaff
-name: Band of Hope
-oga_no: 211
+callsign: ''
 ownerships:
 - name: Maurice W T Bailey
   share: 64
   start: 2012
 place_built: Harwich
-rig_type: Cutter
-short_description: <p>&#39;Band of Hope&#39; sometimes referred to irreverently as
-  &#39;Abandon Hope&#39;, is a Harwich Bawley still sailing under her original name
-  in 1997.</p>
 updated_at: '2021-12-19T13:38:35.723684+00:00'
 website: ''
 year: 1881
 year_is_approximate: false
+image_key: KwWqjN
+construction_details: Carvel planking of 1 1/2&quot; Elm and Pine on 4 x 5&quot; oak
+  on 24&quot; crs, floors 8 x 3&quot; keel 6 x 12&quot;, now ferro sheathed.
+beam: 4.0142
+for_sale_state:
+  text: not_for_sale

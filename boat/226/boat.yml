@@ -1,38 +1,50 @@
-builder: 9a290c53-5245-43aa-8bb3-9deb1f7e4aa1
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 6e8b42a4-95c6-4f76-b5dc-6866ce93b8a6
-draft: 1.4326
-engine_installations: []
-for_sales: []
+name: Carn Dhu
+oga_no: 226
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: File missing Designed by Bevil for his brother Nigel who sailed
   her to the Baltic & back Log 77/1, 81/1, 92/4 Owned by Memb no 1700 until Feb 2002.  For
   sale Dec '04 Log. Sold to Southampton
-generic_type: unknown
+builder:
+  name: Gilbert and Pascoe
+  id: 9a290c53-5245-43aa-8bb3-9deb1f7e4aa1
+designer:
+  name: Bevil Warrington-Smythe
+  id: 6e8b42a4-95c6-4f76-b5dc-6866ce93b8a6
+construction_material: wood
+construction_method: carvel
+draft: 1.4326
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.255547427456718
   draft: 1.432577420141429
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 6.858083394294074
   propellor:
     type: fixed
+  length_over_all: 6.858083394294074
+  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: Southampton
 hull_form: long keel deep forefoot
 id: 5f08d797-4b17-438f-abcf-322068a6ab45
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Carn Dhu
-oga_no: 226
+reference:
+- Log 77/1
+- Log 81/1
+- Log 92/4
+callsign: ''
 ownerships:
 - name: Samuel Bouquet
   share: 64
   start: 2012
 place_built: Porthleven
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:36.171121+00:00'
 website: ''
 year: 1927
 year_is_approximate: false
+construction_details: Pitch pine on Oak
+beam: 2.2555
+for_sale_state:
+  text: not_for_sale

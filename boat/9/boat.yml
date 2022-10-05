@@ -1,51 +1,60 @@
-builder: 3b623161-dc07-46fc-96b1-98e7ad47b431
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: a5468014-9c00-4985-85ca-f3115f1fc4f7
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Ripple
+oga_no: 9
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Built in the Isle of Wight, 1902, Ripple has sailed in the Solent,
+  Scotland and spent some time in India. She's now based in Dartmouth, Devon.
 full_description: Built for Lord Orr Ewing and sailed off the coast of Scotland until
   1911, when she moved to the South Coast. At one time she was shipped out to India,
   and still has the lifting eyes in her keel. Ripple has been raced very successfully
   by Pete Lucas out of Dartmouth since the 1980s.
-generic_type: Yacht
+builder:
+  name: Charles Sibbick and Co
+  id: 3b623161-dc07-46fc-96b1-98e7ad47b431
+designer:
+  name: Charles Sibbick
+  id: a5468014-9c00-4985-85ca-f3115f1fc4f7
+construction_material: wood
+construction_method: unknown
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.234211168007803
-  draft: 0.9144111192392099
-  fore_triangle_base: 3.733845403560107
-  fore_triangle_height: 6.958668617410387
-  length_on_waterline: 6.528895391367959
-  length_over_all: 7.367105584003902
   main:
     foot: 5.766886125335284
     head: 3.633260180443794
     luff: 4.343452816386247
-  sailarea: 40.52221063323384
   thcf: 0.934
+  draft: 0.9144111192392099
   topsail:
     luff: 4.44403803950256
     perpendicular: 1.7282370153621067
+  sailarea: 40.52221063323384
+  length_over_all: 7.367105584003902
+  fore_triangle_base: 3.733845403560107
+  length_on_waterline: 6.528895391367959
+  fore_triangle_height: 6.958668617410387
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel sloping forefoot
 id: 74de33ab-01d0-453e-a922-ab318da4dd84
 length_on_deck: 7.3762
-mainsail_type: gaff
-name: Ripple
-oga_no: 9
+sail_number: '9'
+callsign: ''
 ownerships:
-- current: true
-  id: 631
-  member: 5368
+- id: 631
   share: 64
   start: 1972
+  member: 5368
+  current: true
 place_built: Cowes IoW
-rig_type: Cutter
-short_description: Built in the Isle of Wight, 1902, Ripple has sailed in the Solent,
-  Scotland and spent some time in India. She's now based in Dartmouth, Devon.
 updated_at: '2021-12-19T13:38:29.949658+00:00'
 website: ''
 year: 1902
 year_is_approximate: false
+image_key: z7pLRZ
+beam: 2.225
+for_sale_state:
+  text: not_for_sale

@@ -1,38 +1,44 @@
-builder: 8f1dabb4-3313-4be4-9af4-5f6b76d22f92
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 0.8626
-engine_installations: []
-for_sales: []
+name: Mary Amelia
+oga_no: 1132
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Mary Amelia&#39;, 1914, is used for cruising and part of
+  the Simper family shellfish business. She is possibly the only genuine working bawley
+  on the East Coast of England.</p>
 full_description: "<p>Built in 1914 for the Osbourne family to cockle out of Leigh\
   \ on Sea, she was rescued from being sunk in 1981 by Colin Fox.</p>\r\n\r\n<p>Jonathan\
   \ Simper purchased her in 2001 and carried out a major re-build in 2008-9 replacing\
   \ 70% of the structure of the vessel. She has been written up in many of his father\
   \ Robert Simper&#39;s books and used in film work. She has cruised as far as Calais.</p>"
-generic_type: Bawley
+builder:
+  name: Howard and Sons
+  id: 8f1dabb4-3313-4be4-9af4-5f6b76d22f92
+construction_material: wood
+construction_method: carvel
+draft: 0.8626
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.3528407705437697
-  draft: 0.8636308217507925
-  length_on_waterline: 10.2109363569861
-  length_over_all: 10.36332601804438
-  length_over_spars: 15.849792733479639
   main:
     foot: 5.18166300902219
     head: 6.705681541087539
     luff: 6.705681541087539
-  propellor:
-    type: fixed
+  draft: 0.8636308217507925
   topsail:
     luff: 6.0960741282613995
+  propellor:
+    type: fixed
+  length_over_all: 10.36332601804438
+  length_over_spars: 15.849792733479639
+  length_on_waterline: 10.2109363569861
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel deep forefoot
 id: fb8143bc-39ea-4db3-a9a4-c4f5dd908618
 length_on_deck: 10.3632
-mainsail_type: gaff
-name: Mary Amelia
-oga_no: 1132
+callsign: ''
 ownerships:
 - end: 2001
   name: Colin Fox
@@ -42,11 +48,12 @@ ownerships:
   share: 64
   start: 2001
 place_built: Southend on Sea
-rig_type: Cutter
-short_description: <p>&#39;Mary Amelia&#39;, 1914, is used for cruising and part of
-  the Simper family shellfish business. She is possibly the only genuine working bawley
-  on the East Coast of England.</p>
 updated_at: '2021-12-19T13:39:02.44688+00:00'
 website: ''
 year: 1914
 year_is_approximate: false
+image_key: HP6VkC
+construction_details: Larch and Pitch Pine on oak Carvel
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

@@ -1,37 +1,45 @@
-builder: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
-callsign: ''
+name: Sethor
+oga_no: 2819
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: For sale, March '09
+builder:
+  name: Character Boats
+  id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 construction_material: grp
 construction_method: cold_moulded
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: For sale, March '09
-generic_type: unknown
 handicap_data:
   beam: 2.0330407217751767
-  draft: 0.5334064862228725
-  fore_triangle_base: 2.4902462813947817
-  fore_triangle_height: 4.1453304072177515
-  length_on_waterline: 3.733845403560107
-  length_over_all: 4.419653742989515
   main:
     foot: 3.291880029261156
     head: 2.386613021214338
     luff: 3.2004389173372347
   thcf: 0.768652945
+  draft: 0.5334064862228725
+  length_over_all: 4.419653742989515
+  fore_triangle_base: 2.4902462813947817
+  length_on_waterline: 3.733845403560107
+  fore_triangle_height: 4.1453304072177515
 home_country: 'null'
 home_port: Orford
 hull_form: unknown
 id: f8904439-601a-4542-a8ab-8435d0640325
 length_on_deck: 4.4196
-mainsail_type: gaff
-name: Sethor
-oga_no: 2819
+callsign: ''
 place_built: Lytham St Anne's
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:45:35.98548+00:00'
 website: ''
 year: 2007
 year_is_approximate: false
+construction_details: GRP
+beam: 2.033
+for_sale_state:
+  text: not_for_sale

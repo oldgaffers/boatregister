@@ -1,42 +1,46 @@
-callsign: ''
+name: Betty
+oga_no: 1843
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Built pre-WW1 in East Yorkshire, cabin added in Yarmouth 1947 Estimated
+  1910 building date for handicap purposes
 construction_material: wood
 construction_method: carvel
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: Built pre-WW1 in East Yorkshire, cabin added in Yarmouth 1947 Estimated
-  1910 building date for handicap purposes
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
-  draft: 1.066812972445745
-  fore_triangle_base: 3.2004389173372347
-  fore_triangle_height: 6.0960741282613995
-  length_on_waterline: 5.029261155815655
-  length_over_all: 6.705681541087539
   main:
     foot: 3.886247256766642
     head: 2.7432333577176298
     luff: 5.6388685686417945
+  thcf: 0.884557848
+  draft: 1.066812972445745
   propellor:
     type: fixed
-  thcf: 0.884557848
+  length_over_all: 6.705681541087539
+  fore_triangle_base: 3.2004389173372347
+  length_on_waterline: 5.029261155815655
+  fore_triangle_height: 6.0960741282613995
 home_country: 'null'
 home_port: Mersea
 hull_form: long keel deep forefoot
 id: e50e102a-2c9c-4daf-b306-463e83eccdae
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Betty
-oga_no: 1843
+callsign: ''
 ownerships:
 - name: Peter Wakeling
   share: 64
   start: 1999
 place_built: East Yorkshire
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:21.871897+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+construction_details: Carvel pine on oak
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

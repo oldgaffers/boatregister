@@ -1,13 +1,23 @@
-builder: 78bc9e97-d57d-481e-b855-b10261a92e4d
-callsign: ''
+name: Electron
+oga_no: 284
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: "<p>Essex smack, CK36, was built by Aldous of Brightlingsea in\
+  \ 1909 and rebuilt from the keel up in 1984 by Andy and Dick Harman.</p>\r\n\r\n\
+  <p>&nbsp;</p>"
+full_description: ''
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+designer:
+  name: Aldous
+  id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 construction_material: wood
 construction_method: carvel
-designer: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 2.8956352109241648
   length_over_all: 9.75371860521824
@@ -16,9 +26,11 @@ home_port: ''
 hull_form: unknown
 id: f47ff3d4-3e8e-4986-809c-d12961bce074
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Electron
-oga_no: 284
+reference:
+- CB 32*/132
+sail_number: CK 36
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Fiona Neale
   share: 32
@@ -26,16 +38,16 @@ ownerships:
 - name: Andy Abraham
   share: 32
   start: 2012
-- current: true
+- share: 64
   member: 5697
-  share: 64
+  current: true
   start: '?'
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: "<p>Essex smack, CK36, was built by Aldous of Brightlingsea in\
-  \ 1909 and rebuilt from the keel up in 1984 by Andy and Dick Harman.</p>\r\n\r\n\
-  <p>&nbsp;</p>"
 updated_at: '2021-12-19T13:38:38.078178+00:00'
 website: ''
 year: 1909
 year_is_approximate: false
+image_key: PdDFG2
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

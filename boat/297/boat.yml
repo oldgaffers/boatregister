@@ -1,43 +1,49 @@
-builder: aba1cbad-f9f4-4c5a-a1c2-8d34c0df528c
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Ferryman
+oga_no: 297
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Ferryman was built at Warsash on the Humber in 1949. Her designer
+  is listed as Tormentor Yacht Station.</p>
 full_description: <p>&#39;Ferryman&#39; is a Tormentor 5 tonner. Her design is based
   on that of The Itchen ferries and she maintains some characteristics of them. The
   Tormentors were built post World War 2 as an attempt at reducing the cost of yachts.
   The cost would have been &pound;960, similar yachts would then have ranged in price
   between &pound;1250 and &pound;1950.</p>
-generic_type: Yacht
+builder:
+  name: Tormentor Yacht Station
+  id: aba1cbad-f9f4-4c5a-a1c2-8d34c0df528c
+construction_material: wood
+construction_method: unknown
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  length_on_waterline: 6.4008778346744695
   length_over_all: 6.4008778346744695
+  length_on_waterline: 6.4008778346744695
 home_country: GBR
 home_port: Lochranza, Isle of Arran
 hull_form: long keel deep forefoot
 id: 7ca4ed3a-91bb-4b22-afa3-025b79ab2722
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Ferryman
-oga_no: 297
+uk_part1: '183573'
+callsign: ''
 ownerships:
 - note: 'Previous owners:'
   text: 'Previous owners:'
 - note: M Challis 1971
+  text: M Challis
   start: 1971
   start_is_approximate: false
-  text: M Challis
 - note: H Wilson 1972
+  text: H Wilson
   start: 1972
   start_is_approximate: false
-  text: H Wilson
 - note: J F Shaw 1978
+  text: J F Shaw
   start: 1978
   start_is_approximate: false
-  text: J F Shaw
 - end: 2017
   name: Douglas Barker
   share: 64
@@ -45,16 +51,18 @@ ownerships:
 - name: Douglas Cook
   share: 64
   start: 2017
-- current: true
-  id: 968
-  member: 6182
+- id: 968
   share: 64
+  member: 6182
+  current: true
   start: '?'
 place_built: Warsash
-rig_type: Cutter
-short_description: <p>Ferryman was built at Warsash on the Humber in 1949. Her designer
-  is listed as Tormentor Yacht Station.</p>
 updated_at: '2021-12-19T13:38:38.450697+00:00'
 website: ''
 year: 1949
 year_is_approximate: false
+image_key: dX2Brs
+construction_details: Larch on oak
+beam: 2.5146
+for_sale_state:
+  text: not_for_sale

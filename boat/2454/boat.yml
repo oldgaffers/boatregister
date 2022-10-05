@@ -1,22 +1,27 @@
-builder: ae48cdcc-b7ab-41a9-ad74-c8a8e1ad745d
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: d5ec1a95-1407-4872-b5a7-be568b10e49a
-draft: 0.2286
-engine_installations: []
-for_sales: []
+name: Rob Roy
+oga_no: 2454
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>&#39;Rob Roy&#39; is a Blackwater sailing canoe designed by
+  Fabian Bush and built by him in 1984.</p>
 full_description: "<p>She featured in John Glasspool&rsquo;s &ldquo;Open Boat Cruising&rdquo;\
   \ and &ldquo;Of Dreams and Designs&rdquo; in the Boatman.</p>\r\n\r\n<p>In 2000\
   \ she was given a bigger rig with the addition of a bowsprit and moving the mizzen\
   \ aft.</p>"
-generic_type: Yacht
+builder:
+  name: Fabian Bush
+  id: ae48cdcc-b7ab-41a9-ad74-c8a8e1ad745d
+designer:
+  name: Fabian Bush
+  id: d5ec1a95-1407-4872-b5a7-be568b10e49a
+construction_material: wood
+construction_method: unknown
+draft: 0.2286
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.8044
-  fore_triangle_base: 3.048
-  fore_triangle_height: 1.8288
-  length_on_waterline: 3.557
-  length_over_all: 6.0472
   main:
     foot: 2.7676
     head: 2.667
@@ -25,25 +30,27 @@ handicap_data:
   topsail:
     luff: 3.5052
     perpendicular: 2.1702
+  length_over_all: 6.0472
+  fore_triangle_base: 3.048
+  length_on_waterline: 3.557
+  fore_triangle_height: 1.8288
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: b7756f53-9235-4db6-a193-e02952bfb8e3
 length_on_deck: 6.0472
-mainsail_type: gaff
-name: Rob Roy
-oga_no: 2454
+callsign: ''
 ownerships:
-- current: true
-  id: 128
-  member: 2195
+- id: 128
   share: 64
   start: 2012
+  member: 2195
+  current: true
 place_built: Rowhedge
-rig_type: Ketch
-short_description: <p>&#39;Rob Roy&#39; is a Blackwater sailing canoe designed by
-  Fabian Bush and built by him in 1984.</p>
 updated_at: '2021-12-19T13:39:39.276865+00:00'
 website: ''
 year: 1984
 year_is_approximate: false
+beam: 1.8044
+for_sale_state:
+  text: not_for_sale

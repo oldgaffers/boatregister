@@ -1,11 +1,12 @@
-builder: d02ef310-75b8-46ab-8c53-f17b72d64671
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
-draft: 0
-engine_installations: []
-for_sales: []
+name: Styx
+oga_no: 781
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Abandoned, taking on water and finally sinking early in 1986,
+  &#39;Styx&#39; was in danger of being destroyed to recover mooring fees. She was
+  rescued following an appeal in the OGA Newsletter and taken back to the Mersey in
+  1986.</p>
 full_description: "<p>&#39;Styx&#39; was one of the first of the Rivers Class boats\
   \ built by Crossfields at Arnside in 1912 - 1914. She is known to have won the class\
   \ races through the 1920s and 1930s as well&nbsp;as doing well in races from the\
@@ -20,30 +21,43 @@ full_description: "<p>&#39;Styx&#39; was one of the first of the Rivers Class bo
   \ sailing. In the 1999 Conwy River Festival, &#39;Styx&#39; won overall first prize,\
   \ first small nobby prize and the seamanship prize, which she won&nbsp;again in\
   \ 2001.</p>"
-generic_type: Yacht
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+construction_material: wood
+construction_method: carvel
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
-  length_on_waterline: 6.0960741282613995
   length_over_all: 7.315288953913679
+  length_on_waterline: 6.0960741282613995
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: f39d3483-ed23-4d2e-945d-2355c84afd38
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Styx
-oga_no: 781
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Nigel Williams
   share: 64
   start: 2012
 place_built: Arnside
-rig_type: Cutter
-short_description: <p>Abandoned, taking on water and finally sinking early in 1986,
-  &#39;Styx&#39; was in danger of being destroyed to recover mooring fees. She was
-  rescued following an appeal in the OGA Newsletter and taken back to the Mersey in
-  1986.</p>
 updated_at: '2021-12-19T13:38:52.119644+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+image_key: s9JQMq
+construction_details: Carvel built with counter stern. Pitch pine planks and steamed
+  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
+beam: 2.1336
+design_class:
+  name: Rivers Class
+  id: 97d3b6f5-24ec-493a-8010-c0a283b96aa6
+for_sale_state:
+  text: not_for_sale

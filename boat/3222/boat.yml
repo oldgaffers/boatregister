@@ -1,11 +1,10 @@
-builder: c04e2023-3dc9-4679-9e31-fd807bec3001
-callsign: ''
-construction_material: grp
-construction_method: unknown
-draft: 0.1524
-engine_installations: []
-for_sales:
-- asking_price: 680
+name: Phoenix
+oga_no: 3222
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gunter
+short_description: <p>Originally built around 1960, she was bought as a derelict hull
+  in 1990, and rebuilt as a gunter sloop.</p>
 full_description: "<p>Bob Spackman bought the derelict hull off the beach at Prinstead,\
   \ Chichester Harbour in 1990. He spent three years restoring her and launched &#39;Phoenix&#39;\
   \ in spring 1993. He made the mast and spars himself and bought a set of sails second\
@@ -18,41 +17,50 @@ full_description: "<p>Bob Spackman bought the derelict hull off the beach at Pri
   <p>She is mainly sailed in Chichester Harbour but Bob has trailed her to the Baltic,\
   \ West Coast of Scotland, Gulf of Morbihan, France, Roseland Peninsula and the OGA\
   \ Trailer Section rally in Norfolk, 2014.</p>"
-generic_type: Yacht
+builder:
+  name: Woodnutt and Co. Ltd.
+  id: c04e2023-3dc9-4679-9e31-fd807bec3001
+construction_material: grp
+construction_method: unknown
+draft: 0.1524
+engine_installations: []
+for_sales:
+- asking_price: 680
 handicap_data:
-  calculated_thcf: 0.584
-  draft_keel_down: 0.9144
-  draft_keel_up: 0.1524
-  fore_triangle_base: 1.524
-  fore_triangle_height: 5.587
-  length_on_waterline: 4.2672
-  length_over_spars: 4.6482
-  length_overall: 4.2672
   main:
     foot: 12.33
     head: 11.67
     luff: 6
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 1
+  moving_keel: true
+  draft_keel_up: 0.1524
+  length_overall: 4.2672
+  calculated_thcf: 0.584
+  draft_keel_down: 0.9144
+  moving_keel_type: Centreboard
+  length_over_spars: 4.6482
+  fore_triangle_base: 1.524
+  length_on_waterline: 4.2672
+  fore_triangle_height: 5.587
 home_country: GBR
 home_port: Cobnor, Chichester Harbour
 hull_form: long keel deep forefoot
 id: b97c9fba-e295-4119-8e27-e0a51565a0f5
 length_on_deck: 4.2672
-mainsail_type: gunter
-name: Phoenix
-oga_no: 3222
+sail_number: B12
+callsign: ''
 ownerships:
 - end: 2015
   name: Bob Spackman
   share: 64
   start: 1990
 place_built: St Helens, Isle of Wight
-rig_type: Sloop
-short_description: <p>Originally built around 1960, she was bought as a derelict hull
-  in 1990, and rebuilt as a gunter sloop.</p>
 updated_at: '2021-12-19T13:40:04.541881+00:00'
 website: ''
 year: 1960
 year_is_approximate: false
+image_key: nRTrmN
+construction_details: Fibreglass hull, wooden gunwale
+beam: 1.6764
+for_sale_state:
+  text: not_for_sale

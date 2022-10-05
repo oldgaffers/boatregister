@@ -1,50 +1,68 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Redwing
+oga_no: 3200
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Cornish Crabbers Pilot Cutter 30. Boat Show model in 2001.</p>
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.963
-  draft_keel_down: 1.6246
-  draft_keel_up: 1.0668
-  fore_triangle_base: 5.9192
-  fore_triangle_height: 8.382
-  length_on_waterline: 7.873
-  length_over_spars: 11.8872
-  length_overall: 9.144
   main:
     foot: 17.92
     head: 14.33
     luff: 16.33
-  moving_keel: true
-  moving_keel_type: Centreboard
-  sailarea: 5
   topsail:
     luff: 14.33
     perpendicular: 6
+  sailarea: 5
+  moving_keel: true
+  draft_keel_up: 1.0668
+  length_overall: 9.144
+  calculated_thcf: 0.963
+  draft_keel_down: 1.6246
+  moving_keel_type: Centreboard
+  length_over_spars: 11.8872
+  fore_triangle_base: 5.9192
+  length_on_waterline: 7.873
+  fore_triangle_height: 8.382
 home_country: GBR
 home_port: Whitehaven
 hull_form: long keel deep forefoot
 id: cf3849eb-72cc-4b6f-ade1-45772e6fe42e
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Redwing
-oga_no: 3200
+sail_number: P48
+spar_material: wood
+ssr: '126575'
+callsign: ''
 ownerships:
-- end: 2022
-  id: 816
-  member: 5878
+- id: 816
+  end: 2022
   share: 64
   start: 2010
+  member: 5878
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Cornish Crabbers Pilot Cutter 30. Boat Show model in 2001.</p>
 updated_at: '2022-07-10T20:25:26.749669+00:00'
 website: ''
 year: 2001
 year_is_approximate: false
+previous_names:
+- Son of a Sailor
+- Spot the Dog
+image_key: rv2tzQ
+construction_details: GRP
+beam: 2.8956
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
+for_sale_state:
+  text: not_for_sale

@@ -1,41 +1,48 @@
-builder: 934b69a4-9143-49cd-9797-9fb6af1db26e
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 8fdc82be-bab1-48f4-b8ba-50c9f2c4a2e6
-draft: 1.4021
-engine_installations: []
-for_sales: []
+name: Leonine
+oga_no: 2725
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
 full_description: Was built  as a Falmouth Passenger boat. In 1935 she was purchased
   by G Hodgkins who took her back to the builders to be re-designed as a motor sailer.
   He owned and sailed her until his death in 1981 at the age of 94. She has travelled
   across the Channel and the North Sea and cruised extensively on the European waterways.
   She still has her original 1935 Gardener 3L2 engine with variable pitch propeller
   and clutch
-generic_type: Yacht
+builder:
+  name: Newmans of Poole
+  id: 934b69a4-9143-49cd-9797-9fb6af1db26e
+designer:
+  name: Newman
+  id: 8fdc82be-bab1-48f4-b8ba-50c9f2c4a2e6
+construction_material: wood
+construction_method: unknown
+draft: 1.4021
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.4020970495001217
-  length_on_waterline: 10.36332601804438
-  length_over_all: 10.972933430870519
   propellor:
     type: fixed
+  length_over_all: 10.972933430870519
+  length_on_waterline: 10.36332601804438
 home_country: 'null'
 home_port: Newport
 hull_form: long keel deep forefoot
 id: 85a676f8-3c16-4e58-bb2e-d104b4f45c63
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Leonine
-oga_no: 2725
+callsign: ''
 ownerships:
 - name: Andy Fortune
   share: 64
   start: 2012
 place_built: Poole
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:47.505119+00:00'
 website: ''
 year: 1921
 year_is_approximate: false
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

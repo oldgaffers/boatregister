@@ -1,12 +1,12 @@
-builder: 4b17d24b-28f4-4809-a314-c93dca295cb1
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 7ebd03a1-9638-4686-b273-fef09d875e90
-draft: 1.2954
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Roma
+oga_no: 503
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>'Roma' was built in 1907 of pitch pine on massive oak frames
+  as a salmon fishing boat. No two timbers are the same distance apart, clearly built
+  by eye. Converted to a yacht in 1919 with two berths. &nbsp;The new owner , in Barcelona,
+  has renamed the boat Roamer as orginally named.</p>
 full_description: "<p>&#39;Roma&#39; was originally a salmon&nbsp;fishing boat carrying\
   \ 450 sq. ft of sail. When these boats left to go fishing they carried sacks of\
   \ gravel, and as salmon&nbsp;were caught the gravel was tipped over the side. She\
@@ -19,30 +19,42 @@ full_description: "<p>&#39;Roma&#39; was originally a salmon&nbsp;fishing boat c
   \ and coamings are in teak, the cockpit largely fitted out in oak with the engine\
   \ under the cockpit sole.</p>\r\n\r\n<p>A long iron keel was added at conversion\
   \ to a yacht, with new keel bolts through to new floors.</p>"
-generic_type: Yacht
+builder:
+  name: Trout
+  id: 4b17d24b-28f4-4809-a314-c93dca295cb1
+designer:
+  name: Trout
+  id: 7ebd03a1-9638-4686-b273-fef09d875e90
+construction_material: wood
+construction_method: carvel
+draft: 1.2954
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 2.3104120946110704
-  draft: 1.1430138990490124
-  fore_triangle_base: 4.776274079492806
-  fore_triangle_height: 7.848695440136551
-  length_on_waterline: 6.605096317971227
-  length_over_all: 6.8215069495245055
   main:
     foot: 4.331260668129724
     head: 3.5448671055840038
     luff: 4.520238966105827
-  propellor:
-    blades: 3
-    type: folding
   thcf: 0.907199716
+  draft: 1.1430138990490124
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 6.8215069495245055
+  fore_triangle_base: 4.776274079492806
+  length_on_waterline: 6.605096317971227
+  fore_triangle_height: 7.848695440136551
 home_country: GBR
 home_port: Barcelona
 hull_form: long keel deep forefoot
 id: e3e4d62f-7b43-4b5b-9432-6ef54cad24ca
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Roma
-oga_no: 503
+sail_number: '503'
+spar_material: wood
+ssr: SSR48616
+callsign: ''
 ownerships:
 - end: 2019
   name: Jessica Warren
@@ -52,18 +64,23 @@ ownerships:
   name: Michael Warren
   share: 64
   start: 2002
-- current: true
-  id: 1081
-  member: 6334
+- id: 1081
   share: 64
   start: 2019
+  member: 6334
+  current: true
 place_built: Topsham
-rig_type: Cutter
-short_description: <p>'Roma' was built in 1907 of pitch pine on massive oak frames
-  as a salmon fishing boat. No two timbers are the same distance apart, clearly built
-  by eye. Converted to a yacht in 1919 with two berths. &nbsp;The new owner , in Barcelona,
-  has renamed the boat Roamer as orginally named.</p>
 updated_at: '2021-12-19T13:38:44.188141+00:00'
 website: ''
 year: 1907
 year_is_approximate: false
+previous_names:
+- Roamer
+image_key: FFjvB6
+construction_details: 1 1/4 pitch pine carvel on grown oak frames, gunmetal dump fastened.  Deck
+  believed to be pitch pine planks on oak beams, w. Trakmark overlay.  Teak coachroof,
+  oak & teak deck trims.  Internal ballast approx. 1/2 tons iron pigs and lead,  long
+  straight. keel, with deep forefoot.
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

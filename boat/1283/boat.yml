@@ -1,43 +1,46 @@
-callsign: ''
+name: Maistra
+oga_no: 1283
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
 construction_material: wood
 construction_method: unknown
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.414045354791514
-  draft: 0.9144111192392099
-  fore_triangle_base: 5.434650085345037
-  fore_triangle_height: 10.36332601804438
-  length_on_waterline: 6.705681541087539
-  length_over_all: 10.66812972445745
   main:
     foot: 4.953060229212387
     head: 3.706413069982931
     luff: 4.316020482809071
-  propellor:
-    type: fixed
   thcf: 0.984245822
+  draft: 0.9144111192392099
   topsail:
     luff: 4.700073152889539
     perpendicular: 1.472201901975128
+  propellor:
+    type: fixed
+  length_over_all: 10.66812972445745
+  fore_triangle_base: 5.434650085345037
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 10.36332601804438
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 68a1952d-e83e-42be-9558-585308e658df
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Maistra
-oga_no: 1283
+callsign: ''
 ownerships:
 - name: J P Bosc
   share: 64
   start: 2012
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:06.993146+00:00'
 website: ''
 year: 1913
 year_is_approximate: false
+beam: 2.414
+for_sale_state:
+  text: not_for_sale

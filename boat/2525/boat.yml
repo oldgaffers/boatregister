@@ -1,39 +1,49 @@
-builder: 4a618661-5203-487a-b022-c66fe6941383
-callsign: ''
+name: Flying Tiger IV
+oga_no: 2525
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: M. Gilbert
+  id: 4a618661-5203-487a-b022-c66fe6941383
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 construction_material: wood
 construction_method: unknown
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.7620092660326749
-  fore_triangle_base: 3.6576444769568397
-  fore_triangle_height: 3.9624481833699097
-  length_on_waterline: 5.7912704218483295
-  length_over_all: 7.315288953913679
   main:
     foot: 3.6576444769568397
     head: 2.13362594489149
     luff: 3.9624481833699097
+  thcf: 0.839643403
+  draft: 0.7620092660326749
   propellor:
     type: fixed
-  thcf: 0.839643403
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 3.6576444769568397
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 3.9624481833699097
 home_country: 'null'
 home_port: Twickenham
 hull_form: long keel deep forefoot
 id: 79cb5eb2-ec88-4ff4-84d3-026c935bb259
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Flying Tiger IV
-oga_no: 2525
+sail_number: '1967'
+ssr: '15250'
+callsign: ''
 place_built: Teddington
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-26T07:56:24.82834+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+construction_details: Hard Chine Ply on Iroko
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

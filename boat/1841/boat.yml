@@ -1,43 +1,53 @@
-builder: 732192f8-5b87-4b19-9bc7-efa9391b6952
-callsign: ''
+name: Mermaid Tara
+oga_no: 1841
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Amigo design
+builder:
+  name: J. Beaumont
+  id: 732192f8-5b87-4b19-9bc7-efa9391b6952
+designer:
+  name: Glen L. Witt
+  id: 167340b0-7772-49fe-8fde-40ba3324e2bf
 construction_material: wood
 construction_method: unknown
-designer: 167340b0-7772-49fe-8fde-40ba3324e2bf
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Amigo design
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.9144111192392099
-  fore_triangle_base: 2.8956352109241648
-  fore_triangle_height: 5.867471348451597
-  length_on_waterline: 5.843087051938552
-  length_over_all: 6.705681541087539
   main:
     foot: 4.114850036576445
     head: 2.639600097537186
     luff: 4.26725188978298
+  thcf: 0.849746122
+  draft: 0.9144111192392099
   propellor:
     type: fixed
-  thcf: 0.849746122
+  length_over_all: 6.705681541087539
+  fore_triangle_base: 2.8956352109241648
+  length_on_waterline: 5.843087051938552
+  fore_triangle_height: 5.867471348451597
 home_country: 'null'
 home_port: Burnham on Crouch
 hull_form: long keel deep forefoot
 id: 819c4c57-c83e-4769-9a4c-70029b24ac8a
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Mermaid Tara
-oga_no: 1841
+callsign: ''
 ownerships:
 - name: John Beaumont
   share: 64
   start: 1994
 place_built: Burnham on Crouch
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:21.810132+00:00'
 website: ''
 year: 1995
 year_is_approximate: false
+previous_names:
+- Tara
+construction_details: Strip plank Alaskan Yellow Cedar
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

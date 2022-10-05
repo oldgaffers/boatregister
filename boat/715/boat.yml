@@ -1,42 +1,52 @@
-builder: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
-callsign: ''
+name: Memory
+oga_no: 715
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Water Craft Sep/Oct 97
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: wood
 construction_method: unknown
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: Water Craft Sep/Oct 97
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
   thcf: 0.848181605
+  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
+  length_over_all: 5.7912704218483295
+  length_on_waterline: 5.690685198732017
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: bec0eec3-f5f9-48fa-8948-b841803e5e26
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Memory
-oga_no: 715
+callsign: ''
 ownerships:
 - name: E Bergquist
   share: 64
   start: 2012
 place_built: Lymm
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:50.412879+00:00'
 website: ''
 year: 1976
 year_is_approximate: false
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

@@ -1,50 +1,60 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Golden Trader
+oga_no: 1786
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.8956352109241648
-  draft: 1.066812972445745
-  fore_triangle_base: 4.977444525725432
-  fore_triangle_height: 7.949280663252864
-  length_on_waterline: 7.848695440136551
-  length_over_all: 9.1441111923921
   main:
     foot: 3.910631553279688
     head: 3.301024140453548
     luff: 5.029261155815655
+  thcf: 0.945702094
+  draft: 1.066812972445745
   mizzen:
     foot: 2.843818580833943
     head: 2.43842965130456
     luff: 3.8618629602535965
-  propellor:
-    type: fixed
-  thcf: 0.945702094
   topsail:
     luff: 4.623872226286271
     perpendicular: 2.109241648378444
+  propellor:
+    type: fixed
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 4.977444525725432
+  length_on_waterline: 7.848695440136551
+  fore_triangle_height: 7.949280663252864
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: e4db55d8-6d23-4d8a-a7bf-b99a2c6048b9
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Golden Trader
-oga_no: 1786
+callsign: ''
 ownerships:
 - name: C Haysom
   share: 64
   start: 2012
 place_built: Rock
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:20.252901+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+beam: 2.8956
+design_class:
+  name: Cornish Trader
+  id: 34112a28-7463-42b2-9aaf-2106409b1a0a
+for_sale_state:
+  text: not_for_sale

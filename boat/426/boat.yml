@@ -1,11 +1,9 @@
-builder: e0d7602c-9848-42f6-8b2a-7a70c65e7a43
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 5b3158c0-dee9-4caa-86b2-a7e0e767b06a
-draft: 1.0668
-engine_installations: []
-for_sales: []
+name: Edward Birkbeck
+oga_no: 426
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Log 81/4  Converted RNLI Beach Launch Pulling Lifeboat. Gaff cutter
   12 tons TM, 10 tons disp. Built as Norfolk & Suffolk type lifeboat, basically unsinkable
   beach yawl w. 2 centreboards.  Appearance similar to Amity, 1979/3 Newsletter, w.
@@ -19,36 +17,51 @@ full_description: Log 81/4  Converted RNLI Beach Launch Pulling Lifeboat. Gaff c
   boat.  Installing Petter water-cooled twin.  6 berths in 2 cabins, 'Diamond' coal
   range. Optimus paraffin stove, gimballed lamps, etc.  Baby Blake.  Good accommodation
   - seller' s home since 1973.
-generic_type: unknown
+builder:
+  name: Beeching Bros.
+  id: e0d7602c-9848-42f6-8b2a-7a70c65e7a43
+designer:
+  name: Beeching
+  id: 5b3158c0-dee9-4caa-86b2-a7e0e767b06a
+construction_material: wood
+construction_method: unknown
+draft: 1.0668
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.0480370641306997
-  draft: 1.066812972445745
-  fore_triangle_base: 6.705681541087539
-  fore_triangle_height: 8.53450377956596
-  length_on_waterline: 10.210924164837843
-  length_over_all: 10.491343574737868
   main:
     foot: 6.705681541087539
     head: 6.0960741282613995
     luff: 5.18166300902219
-  propellor:
-    type: fixed
   thcf: 1.046657822
+  draft: 1.066812972445745
   topsail:
     luff: 6.0960741282613995
     perpendicular: 3.6576444769568397
+  propellor:
+    type: fixed
+  length_over_all: 10.491343574737868
+  fore_triangle_base: 6.705681541087539
+  length_on_waterline: 10.210924164837843
+  fore_triangle_height: 8.53450377956596
 home_country: 'null'
 home_port: Conwy
 hull_form: long keel deep forefoot
 id: 5539a5b1-36cc-43d6-ac80-5f4c3a25fec4
 length_on_deck: 10.4912
-mainsail_type: gaff
-name: Edward Birkbeck
-oga_no: 426
+reference:
+- Log 81/4
+- Log 79/3
+callsign: ''
 place_built: Great Yarmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-26T07:56:07.654587+00:00'
 website: ''
 year: 1896
 year_is_approximate: false
+previous_names:
+- Mirosa
+construction_details: Honduras Mahogany on rock elm
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

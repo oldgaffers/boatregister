@@ -1,46 +1,60 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: 2FOL2
+name: Lahloo
+oga_no: 3346
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray/David Thomas Yachts
+  id: 7d1ad008-4263-419d-8843-d466ded0ec2c
 construction_material: grp
 construction_method: cold_moulded
-designer: 7d1ad008-4263-419d-8843-d466ded0ec2c
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.917
-  draft_keel_down: 1.9812
-  fore_triangle_base: 4.2916
-  fore_triangle_height: 7.5316
-  length_on_waterline: 7.239
-  length_over_spars: 9.9822
-  length_overall: 8.001
   main:
     foot: 16.63
     head: 14.29
     luff: 15.08
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 4
+  moving_keel: true
+  length_overall: 8.001
+  calculated_thcf: 0.917
+  draft_keel_down: 1.9812
+  moving_keel_type: Centreboard
+  length_over_spars: 9.9822
+  fore_triangle_base: 4.2916
+  length_on_waterline: 7.239
+  fore_triangle_height: 7.5316
 home_country: GBR
 home_port: West Mersea
 hull_form: long keel deep forefoot
 id: d3778453-336e-4824-95d4-90ffe6266fef
 length_on_deck: 8.001
-mainsail_type: gaff
-name: Lahloo
-oga_no: 3346
+sail_number: '18'
+ssr: '166288'
+callsign: 2FOL2
 ownerships:
-- current: true
-  id: 957
-  member: 6164
+- id: 957
   share: 64
   start: 2016
+  member: 6164
+  current: true
 place_built: Rock
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:40:08.322624+00:00'
 website: ''
 year: 2012
 year_is_approximate: false
+image_key: r2t6Z8
+construction_details: GRP
+beam: 2.7676
+design_class:
+  name: Cornish Crabber 26
+  id: 50503297-7263-4cf4-af74-102bb153bc8e
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,10 @@
-builder: a70bd01d-2983-458e-9341-376978ca6f0e
-callsign: ''
-construction_material: ferro
-construction_method: cold_moulded
-designer: 729dd628-f1e4-4278-b407-d33f922d87fb
-draft: 1.6002
-engine_installations: []
-for_sales: []
+name: Grace
+oga_no: 1291
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Grace&#39; is a Norske 35 gaff cutter designed by John
+  Perryman on the lines of a Colin Archer sailing lifeboat, originally named &#39;Sujo&#39;.</p>
 full_description: "<p>Ferro-cement hull built by Windboats of Wroxham to John Perryman&#39;s\
   \ Norske 35 design based on Colin Archer lifeboats. Understood to have been home\
   \ completed over a long period of time during which it is believed she changed hands,\
@@ -16,32 +15,41 @@ full_description: "<p>Ferro-cement hull built by Windboats of Wroxham to John Pe
   \ a refit in 2008 she cruised to South Brittany and was kept there for four seasons,\
   \ returning to UK waters in 2013, being berthed in Exmouth.</p>\r\n\r\n<p>She has\
   \ returned to her French home port of La Roche Bernard.</p>"
-generic_type: Yacht
+builder:
+  name: Windboats Marine Ltd.
+  id: a70bd01d-2983-458e-9341-376978ca6f0e
+designer:
+  name: John E. Perryman
+  id: 729dd628-f1e4-4278-b407-d33f922d87fb
+construction_material: ferro
+construction_method: cold_moulded
+draft: 1.6002
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.5296269202633503
-  draft: 1.6002194586686174
-  fore_triangle_base: 6.0960741282613995
-  fore_triangle_height: 9.171543525969275
-  length_on_waterline: 9.44891489880517
-  length_over_all: 10.768714947573761
-  length_over_spars: 13.054742745671787
   main:
     foot: 6.044257498171177
     head: 5.434650085345037
     luff: 4.35564496464277
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 57.16971505794386
   thcf: 0.977
+  draft: 1.6002194586686174
+  sailarea: 57.16971505794386
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 10.768714947573761
+  length_over_spars: 13.054742745671787
+  fore_triangle_base: 6.0960741282613995
+  length_on_waterline: 9.44891489880517
+  fore_triangle_height: 9.171543525969275
 home_country: FRA
 home_port: La Roche-Bernard
 hull_form: long keel deep forefoot
 id: 5f5d6489-b327-4731-8b35-d2863f91dbdb
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Grace
-oga_no: 1291
+ssr: '36796'
+callsign: ''
 ownerships:
 - end: 2005
   name: Adrian Tilley
@@ -51,16 +59,23 @@ ownerships:
   name: Geoff Skinner
   share: 64
   start: 2005
-- current: true
-  id: 420
-  member: 4280
+- id: 420
   share: 64
   start: 2014
+  member: 4280
+  current: true
 place_built: Wroxham
-rig_type: Cutter
-short_description: <p>&#39;Grace&#39; is a Norske 35 gaff cutter designed by John
-  Perryman on the lines of a Colin Archer sailing lifeboat, originally named &#39;Sujo&#39;.</p>
 updated_at: '2021-12-19T13:39:07.245599+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+previous_names:
+- Sujo
+image_key: 37DmrB
+construction_details: 'Ferro cement: seacrete/GRP decks and superstructure'
+beam: 3.6576
+design_class:
+  name: Norske 35
+  id: c90af07f-9dbc-40c1-9079-f047999a33fd
+for_sale_state:
+  text: not_for_sale

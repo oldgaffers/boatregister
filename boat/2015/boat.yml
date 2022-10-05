@@ -1,34 +1,44 @@
-builder: 0b7a60b1-14a9-4974-a3d3-8b8729c06bc2
-callsign: ''
+name: Simplicity
+oga_no: 2015
+generic_type: unknown
+rig_type: Schooner
+mainsail_type: gaff
+short_description: ''
+full_description: Boatman May 95 Classic Boat Jan 87
+builder:
+  name: P. Greenfield/M. Greenfield
+  id: 0b7a60b1-14a9-4974-a3d3-8b8729c06bc2
+designer:
+  name: Percy Dalton/Pete Greenfield
+  id: 5778bb69-026d-41e5-bb3a-c875e30ff501
 construction_material: wood
 construction_method: unknown
-designer: 5778bb69-026d-41e5-bb3a-c875e30ff501
 draft: 1.2954
 engine_installations: []
 for_sales: []
-full_description: Boatman May 95 Classic Boat Jan 87
-generic_type: unknown
 handicap_data:
   beam: 3.6576444769568397
   draft: 1.2954157522555474
-  length_on_waterline: 8.53450377956596
   length_over_all: 14.325774201414289
+  length_on_waterline: 8.53450377956596
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 2b5caf3c-01db-4af2-beef-33dad2db3010
 length_on_deck: 14.3256
-mainsail_type: gaff
-name: Simplicity
-oga_no: 2015
+callsign: ''
 ownerships:
 - name: Pete & Maggie Greenfield
   share: 64
   start: 1987
 place_built: Penryn
-rig_type: Schooner
-short_description: ''
 updated_at: '2021-12-19T13:39:26.95412+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+beam: 3.6576
+design_class:
+  name: Spray 28
+  id: d90058bb-0a61-4998-82b0-fa01d2ae1d99
+for_sale_state:
+  text: not_for_sale

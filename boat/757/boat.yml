@@ -1,9 +1,9 @@
-callsign: ''
-construction_material: wood
-construction_method: clinker
-draft: 0.8534
-engine_installations: []
-for_sales: []
+name: Caliph
+oga_no: 757
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
 full_description: Caliph was built at Frazerburgh, date unknown but a guess has been
   made by her owner to be around 1905, and originally cared ' Maggie' . It is believed
   that she lay semi-derilict towards the and of World War 11. She was then sold to
@@ -13,28 +13,34 @@ full_description: Caliph was built at Frazerburgh, date unknown but a guess has 
   Boats and Fishing folk on the East Coast of Sootland published about 1932 has an
   ilustration entitled , "An old lute Skiff at Burghead, Maggie". it is believed that
   this is the boat in its original form.
-generic_type: unknown
+construction_material: wood
+construction_method: clinker
+draft: 0.8534
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.2250670568154107
   draft: 0.8534503779565958
-  length_on_waterline: 5.242623750304803
   length_over_all: 6.004633016337478
+  length_on_waterline: 5.242623750304803
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 226f6e76-4007-48aa-a970-55df9e1ecc36
 length_on_deck: 6.0046
-mainsail_type: gaff
-name: Caliph
-oga_no: 757
+callsign: ''
 ownerships:
 - name: I  Logan
   share: 64
   start: 2012
 place_built: Fraserburgh
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:51.552505+00:00'
 website: ''
 year: 1905
 year_is_approximate: false
+previous_names:
+- Maggie
+construction_details: Clinker
+beam: 2.225
+for_sale_state:
+  text: not_for_sale

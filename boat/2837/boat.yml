@@ -1,15 +1,23 @@
-builder: ce942be3-3ad1-4365-92fd-bccd167a3725
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 67ee9ca0-40ef-4ed5-8a05-a577afd43672
-draft: 0
-engine_installations: []
-for_sales: []
+name: Sapphire
+oga_no: 2837
+generic_type: Dinghy
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: This was the demo boat , first private owner 2002,   Copied from
   old pilot boat. Has keel stepped mast, later versions step on foredeck to ease operation
   of cb.  See form for previous owners name.
-generic_type: Dinghy
+builder:
+  name: JEP Marine
+  id: ce942be3-3ad1-4365-92fd-bccd167a3725
+designer:
+  name: John Pollitt
+  id: 67ee9ca0-40ef-4ed5-8a05-a577afd43672
+construction_material: grp
+construction_method: cold_moulded
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.5240185320653499
   length_over_all: 4.87685930260912
@@ -18,17 +26,21 @@ home_port: Wimbleball Resevoir
 hull_form: unknown
 id: d87505e7-929b-45ef-9f64-354289c5e3f2
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Sapphire
-oga_no: 2837
+sail_number: SP11
+callsign: ''
 ownerships:
 - name: Robert Smith
   share: 64
   start: 2003
 place_built: Faversham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:50.860391+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+construction_details: grp, half decked
+beam: 1.524
+design_class:
+  name: Swale Pilot 16
+  id: 62bdb729-618b-4f82-ab82-4f3e34a6a75c
+for_sale_state:
+  text: not_for_sale

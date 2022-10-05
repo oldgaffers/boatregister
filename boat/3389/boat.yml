@@ -1,17 +1,24 @@
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
-draft: 1.0668
-engine_installations: []
-for_sales:
-- asking_price: 1100
+name: North Star
+oga_no: 3389
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;North Star&#39; is a fine example of Tamarisk 24, built
+  in 1978.</p>
 full_description: "<p>North Star is a fiberglass Tamarisk 24 designed by David Cannell\
   \ based on the Itchen Ferry designs.</p>\r\n\r\n<p>A previous owner was a member\
   \ of the Irish Cruising Club and had articles on his cruising published in the club&#39;s\
   \ journal.</p>\r\n\r\n<p>To see videos of the boat <a href=\"https://m.youtube.com/channel/UCteTlJr5IGFB9If5GlO1bFw\"\
   \ target=\"_blank\">visit Ivan&rsquo;s YouTube channel</a>.</p>"
-generic_type: Yacht
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.0668
+engine_installations: []
+for_sales:
+- asking_price: 1100
 handicap_data:
   length_overall: 7.3152
 home_country: IRL
@@ -19,9 +26,8 @@ home_port: Fenit Co Kerry
 hull_form: long keel deep forefoot
 id: b505451c-ecc7-4bdc-8f34-3c2fc7938848
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: North Star
-oga_no: 3389
+ssr: 84410 (lapsed)
+callsign: ''
 ownerships:
 - end: 2016
   name: Mick Delap
@@ -30,15 +36,20 @@ ownerships:
 - name: Ivan Godley
   share: 64
   start: 2016
-- current: true
-  id: 789
-  member: 5827
+- id: 789
   share: 64
+  member: 5827
+  current: true
   start: '?'
-rig_type: Cutter
-short_description: <p>&#39;North Star&#39; is a fine example of Tamarisk 24, built
-  in 1978.</p>
 updated_at: '2021-12-19T13:40:09.619134+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+image_key: SdGdBK
+construction_details: Hull GRP, Deck, cockpit and coachhouse marine ply.
+beam: 0
+design_class:
+  name: Tamarisk 24
+  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
+for_sale_state:
+  text: not_for_sale

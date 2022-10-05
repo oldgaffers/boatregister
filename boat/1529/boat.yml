@@ -1,33 +1,43 @@
-builder: d38d3959-b44f-4514-bd3a-16cf1ebe806c
-callsign: ''
+name: Maggie May
+oga_no: 1529
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Water Craft Sep/Oct 98 CB Mar/Apr 89
+builder:
+  name: Fiddler's Ferry Boatyard
+  id: d38d3959-b44f-4514-bd3a-16cf1ebe806c
+designer:
+  name: Eric Bergqvist
+  id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
 construction_material: grp
 construction_method: cold_moulded
-designer: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Water Craft Sep/Oct 98 CB Mar/Apr 89
-generic_type: Yacht
 handicap_data:
   beam: 2.051328944159961
-  length_on_waterline: 4.57205559619605
   length_over_all: 4.87685930260912
+  length_on_waterline: 4.57205559619605
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 998e8562-93cf-465e-9bd1-85b92fc80789
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Maggie May
-oga_no: 1529
+callsign: ''
 ownerships:
 - name: Mike Hobbs
   share: 64
   start: 1990
 place_built: Penketh
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:13.964423+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+previous_names:
+- The Wind Eye
+construction_details: GRP
+beam: 2.0513
+for_sale_state:
+  text: not_for_sale

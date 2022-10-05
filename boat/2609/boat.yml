@@ -1,15 +1,23 @@
-builder: dd828bb1-0653-4956-8e65-36d861d76fb0
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: fb994b1c-8945-4a83-b163-59249252d8de
-draft: 2.7432
-engine_installations: []
-for_sales: []
+name: La Granvillaise
+oga_no: 2609
+generic_type: Three Masted Schooner
+rig_type: Schooner
+mainsail_type: lug
+short_description: ''
 full_description: Replica of Rose Marie of 1899 to 1923.  See Model Shipwright  No
   35 (March '81), P 25 for plans and article on the Cancale bisquine La Perle, and
   CB 186 Dec 2003, pp18 - 22.
-generic_type: Three Masted Schooner
+builder:
+  name: Claude Anfray
+  id: dd828bb1-0653-4956-8e65-36d861d76fb0
+designer:
+  name: Loise Julienne
+  id: fb994b1c-8945-4a83-b163-59249252d8de
+construction_material: wood
+construction_method: carvel
+draft: 2.7432
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.800658376005852
   draft: 2.7432333577176298
@@ -19,12 +27,13 @@ home_port: Granville
 hull_form: unknown
 id: f8813dd5-e907-441a-b42d-44d217025b66
 length_on_deck: 18.288
-mainsail_type: lug
-name: La Granvillaise
-oga_no: 2609
-rig_type: Schooner
-short_description: ''
+sail_number: G90
+callsign: ''
 updated_at: '2021-03-23T08:38:13.181598+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+construction_details: Oak on Oak Pine deck, carvel
+beam: 4.8006
+for_sale_state:
+  text: not_for_sale

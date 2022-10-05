@@ -1,40 +1,48 @@
-builder: e2fdb2cb-b033-488b-a5c1-679d9210c69d
-callsign: ''
+name: Pauline
+oga_no: 2402
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: CB Jun 91
+builder:
+  name: Clancy
+  id: e2fdb2cb-b033-488b-a5c1-679d9210c69d
+designer:
+  name: Walter H. Boyd
+  id: 1f2cf7e4-3f73-4334-8eda-a96e16587b46
 construction_material: wood
 construction_method: unknown
-designer: 1f2cf7e4-3f73-4334-8eda-a96e16587b46
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: CB Jun 91
-generic_type: unknown
 handicap_data:
   beam: 1.8288222384784198
-  draft: 1.066812972445745
-  fore_triangle_base: 2.4902462813947817
-  fore_triangle_height: 5.233479639112412
-  length_on_waterline: 5.18166300902219
-  length_over_all: 6.858083394294074
   main:
     foot: 5.334064862228725
     head: 3.0480370641306997
     luff: 3.5052426237503047
   thcf: 0.906832885
+  draft: 1.066812972445745
   topsail:
     luff: 4.26725188978298
     perpendicular: 1.9812240916849548
+  length_over_all: 6.858083394294074
+  fore_triangle_base: 2.4902462813947817
+  length_on_waterline: 5.18166300902219
+  fore_triangle_height: 5.233479639112412
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 0beab5cd-669d-477f-83eb-5b1923260779
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Pauline
-oga_no: 2402
+sail_number: '2'
+callsign: ''
 place_built: Dunlaoghaire
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-01-31T17:02:47.071134+00:00'
 website: ''
 year: 1900
 year_is_approximate: false
+beam: 1.8288
+for_sale_state:
+  text: not_for_sale

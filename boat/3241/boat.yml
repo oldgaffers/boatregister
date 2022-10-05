@@ -1,11 +1,11 @@
-builder: d025a19c-adec-4a5a-99da-a961f0746179
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 01ceb963-0a9a-494f-be76-bbd2893e9eba
-draft: 1.8288
-engine_installations: []
-for_sales: []
+name: My Alice
+oga_no: 3241
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;My Alice&#39; was built in the Kidby yard at Brightlingsea,
+  1907. She is one of only two remaining Kidby smacks (&#39;Charlotte Ellen&#39; is
+  the other). She is registered in Colchester Creek, hence&nbsp;CK348.</p>
 full_description: "<p>&#39;My Alice&#39; is owned by Carole and Stephen Heppell, raced\
   \ with family, colleagues and long standing friends.&nbsp;She is based on the Heritage\
   \ Pontoon in Brightlingsea Harbour&nbsp;about 300 yards from where she was built\
@@ -86,27 +86,36 @@ full_description: "<p>&#39;My Alice&#39; is owned by Carole and Stephen Heppell,
   \ is the great great great grandson of Charles Kidby and her interior has been refitted\
   \ by folk including the great great grandson! Her racing crew is around 11 people,\
   \ she is a big powerful smack.</p>"
-generic_type: Smack
+builder:
+  name: C.J. Kidby and Sons
+  id: d025a19c-adec-4a5a-99da-a961f0746179
+designer:
+  name: Charles J. Kidby
+  id: 01ceb963-0a9a-494f-be76-bbd2893e9eba
+construction_material: wood
+construction_method: unknown
+draft: 1.8288
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Brightlingsea
 hull_form: long keel deep forefoot
 id: 04adf6b4-71a7-4b14-b829-5f58ec97af9c
 length_on_deck: 14.1214
-mainsail_type: gaff
-name: My Alice
-oga_no: 3241
+sail_number: CK398
+callsign: ''
 ownerships:
-- current: true
-  id: 739
-  member: 5723
+- id: 739
   share: 64
+  member: 5723
+  current: true
   start: '?'
 place_built: Brightlingsea
-rig_type: Cutter
-short_description: <p>&#39;My Alice&#39; was built in the Kidby yard at Brightlingsea,
-  1907. She is one of only two remaining Kidby smacks (&#39;Charlotte Ellen&#39; is
-  the other). She is registered in Colchester Creek, hence&nbsp;CK348.</p>
 updated_at: '2022-02-14T11:04:40.382535+00:00'
 website: http://www.heppell.net/sail/default.html
 year: 1907
 year_is_approximate: false
+image_key: nvTLSF
+beam: 3.5814
+for_sale_state:
+  text: not_for_sale

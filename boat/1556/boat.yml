@@ -1,43 +1,51 @@
-builder: 954dc050-837f-454f-be87-830d8cf00c2b
-callsign: ''
+name: Drifter
+oga_no: 1556
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Alan F. Platt  Ltd
+  id: 954dc050-837f-454f-be87-830d8cf00c2b
+designer:
+  name: Laurie Harbottell
+  id: 429d5fa7-e592-464a-9e6e-611903d6fe0e
 construction_material: wood
 construction_method: clinker
-designer: 429d5fa7-e592-464a-9e6e-611903d6fe0e
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  draft: 0.60960741282614
-  fore_triangle_base: 3.5052426237503047
-  fore_triangle_height: 5.4864667154352595
-  length_on_waterline: 5.577907827359181
-  length_over_all: 6.4008778346744695
   main:
     foot: 3.8100463301633747
     head: 3.0480370641306997
     luff: 3.0480370641306997
+  thcf: 0.833049567
+  draft: 0.60960741282614
   propellor:
     type: fixed
-  thcf: 0.833049567
+  length_over_all: 6.4008778346744695
+  fore_triangle_base: 3.5052426237503047
+  length_on_waterline: 5.577907827359181
+  fore_triangle_height: 5.4864667154352595
 home_country: 'null'
 home_port: Tollesbury
 hull_form: long keel deep forefoot
 id: 02822b35-3103-48ce-85ce-99844ca2adee
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Drifter
-oga_no: 1556
+callsign: ''
 ownerships:
 - name: Tony Leach
   share: 64
   start: 1991
 place_built: Thundersley
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:14.678898+00:00'
 website: ''
 year: 1984
 year_is_approximate: false
+construction_details: Clinker iroko on oak
+beam: 2.286
+for_sale_state:
+  text: not_for_sale

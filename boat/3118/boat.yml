@@ -1,11 +1,10 @@
-builder: ec4aa381-8c1e-4af6-9a91-edab7287202c
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 743a5915-9978-4101-a91e-f1a97d761151
-draft: 0
-engine_installations: []
-for_sales: []
+name: Molly
+oga_no: 3118
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: lug
+short_description: "<p>Built in 2003, Molly is a modern replica of a New Bedford whaleboat\
+  \ designed by Charles Beetle.<br />\r\n&nbsp;</p>"
 full_description: "<p>Used by the Henley Whalers, a leading sail-and-oar group based\
   \ at Henley on Thames. Molly&#39;s rig has been reduced from the original to facilitate\
   \ towing and up to ten oars rather than the traditional five.</p>\r\n\r\n<p>Molly\
@@ -15,15 +14,23 @@ full_description: "<p>Used by the Henley Whalers, a leading sail-and-oar group b
   <p>She has made appearances in The Great River Race, the Vogalonga and the Eddystone\
   \ Challenge. In 2012 she was rowed in the Queen&#39;s Diamond Jubilee Pageant and\
   \ the Olympic Torch Relay.</p>"
-generic_type: unknown
+builder:
+  name: W. King and Sons
+  id: ec4aa381-8c1e-4af6-9a91-edab7287202c
+designer:
+  name: Charles Beetle
+  id: 743a5915-9978-4101-a91e-f1a97d761151
+construction_material: grp
+construction_method: cold_moulded
+draft: 0
+engine_installations: []
+for_sales: []
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 36696135-90f6-4bbc-a1b2-f05ba4f64837
 length_on_deck: 0
-mainsail_type: lug
-name: Molly
-oga_no: 3118
+callsign: ''
 ownerships:
 - end: 2006
   name: George Trevelyan
@@ -32,16 +39,18 @@ ownerships:
 - name: Geoff Probert
   share: 64
   start: 2006
-- current: true
-  id: 737
-  member: 5716
+- id: 737
   share: 64
+  member: 5716
+  current: true
   start: '?'
 place_built: Mattaposiett USA & Henley on Thames
-rig_type: Sloop
-short_description: "<p>Built in 2003, Molly is a modern replica of a New Bedford whaleboat\
-  \ designed by Charles Beetle.<br />\r\n&nbsp;</p>"
 updated_at: '2021-12-19T13:39:58.409627+00:00'
 website: ''
 year: 2003
 year_is_approximate: false
+image_key: HJV4Nh
+construction_details: GRP foam sandwich
+beam: 0
+for_sale_state:
+  text: not_for_sale

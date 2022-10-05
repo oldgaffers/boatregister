@@ -1,34 +1,46 @@
-builder: a9e83f1e-565e-4568-b052-7a492147a30d
-callsign: ''
+name: Moana
+oga_no: 880
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 78/4
+builder:
+  name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
+designer:
+  name: W.E. Thomas
+  id: 3f7b6145-a556-462d-a51f-11d24c3f94db
 construction_material: wood
 construction_method: unknown
-designer: 3f7b6145-a556-462d-a51f-11d24c3f94db
 draft: 1.3716
 engine_installations: []
 for_sales: []
-full_description: Log 78/4
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   draft: 1.3716166788588149
-  length_on_waterline: 6.0960741282613995
   length_over_all: 7.010485247500609
+  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 7025f0f5-7520-4f4f-8aa1-a324c43f7cc1
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Moana
-oga_no: 880
+reference:
+- Log 78/4
+uk_part1: '128429'
+callsign: ''
 ownerships:
 - name: B A Allen
   share: 64
   start: 2012
 place_built: Falmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:54.935156+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+previous_names:
+- Zitella
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

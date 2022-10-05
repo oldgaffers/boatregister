@@ -1,33 +1,41 @@
-builder: c0c1cf9e-2ae7-4c35-8c47-756b553a78cb
-callsign: ''
+name: Maud
+oga_no: 1059
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 85/2
+builder:
+  name: W. Frazier and Son
+  id: c0c1cf9e-2ae7-4c35-8c47-756b553a78cb
 construction_material: wood
 construction_method: unknown
 draft: 0.6096
 engine_installations: []
 for_sales: []
-full_description: Log 85/2
-generic_type: unknown
 handicap_data:
   beam: 1.9202633504023408
   draft: 0.60960741282614
-  length_on_waterline: 5.577907827359181
   length_over_all: 7.315288953913679
+  length_on_waterline: 5.577907827359181
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 75cbeead-1ff0-4c16-b5f9-4a84213b76a6
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Maud
-oga_no: 1059
+reference:
+- Log 85/2
+callsign: ''
 ownerships:
 - name: C Gill
   share: 64
   start: 2012
 place_built: Mevagissey
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:00.233886+00:00'
 website: ''
 year: 1925
 year_is_approximate: false
+construction_details: Pitch pine on oak, teak sheer streak, deck thwarts and cb case
+beam: 1.9202
+for_sale_state:
+  text: not_for_sale

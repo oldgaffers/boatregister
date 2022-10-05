@@ -1,46 +1,58 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Courageux
+oga_no: 1984
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.7376
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.7376249695196293
-  fore_triangle_base: 4.114850036576445
-  fore_triangle_height: 5.6388685686417945
-  length_on_waterline: 6.1722750548646665
-  length_over_all: 7.315288953913679
   main:
     foot: 4.166666666666666
     head: 2.8194342843208973
     luff: 3.5052426237503047
-  propellor:
-    type: fixed
   thcf: 0.876263769
+  draft: 0.7376249695196293
   topsail:
     luff: 4.343452816386247
     perpendicular: 2.286027798098025
+  propellor:
+    type: fixed
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 4.114850036576445
+  length_on_waterline: 6.1722750548646665
+  fore_triangle_height: 5.6388685686417945
 home_country: 'null'
 home_port: Weymouth
 hull_form: long keel deep forefoot
 id: 11aa3527-1806-4f5d-8e8b-69fa61413129
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Courageux
-oga_no: 1984
+callsign: ''
 ownerships:
 - name: Steve Matthews
   share: 64
   start: 2012
 place_built: Rock
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:26.052396+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+previous_names:
+- Issabella Jane
+beam: 2.4384
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
+for_sale_state:
+  text: not_for_sale

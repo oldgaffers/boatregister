@@ -1,47 +1,55 @@
-builder: a20d46df-5e22-4755-8a54-72a7b4d15efe
-callsign: ''
+name: Tallulah
+oga_no: 2960
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Luke Powell
+  id: a20d46df-5e22-4755-8a54-72a7b4d15efe
+designer:
+  name: Luke Powell
+  id: fb9a7691-8b98-42cc-9545-3248c2e161d0
 construction_material: wood
 construction_method: carvel
-designer: fb9a7691-8b98-42cc-9545-3248c2e161d0
 draft: 2.286
 engine_installations: []
 for_sales:
 - asking_price: null
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.9624481833699097
-  draft: 2.286027798098025
-  fore_triangle_base: 13.106559375762009
-  fore_triangle_height: 11.430138990490123
-  length_on_waterline: 10.820531577663983
-  length_over_all: 13.411363082175079
   main:
     foot: 7.467690807120214
     head: 5.18166300902219
     luff: 6.705681541087539
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 1.104492222
+  draft: 2.286027798098025
   topsail:
     luff: 9.1441111923921
     perpendicular: 3.0480370641306997
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 13.411363082175079
+  fore_triangle_base: 13.106559375762009
+  length_on_waterline: 10.820531577663983
+  fore_triangle_height: 11.430138990490123
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: edcd2f40-193d-49e9-b4ee-b5e6c29c793c
 length_on_deck: 13.4112
-mainsail_type: gaff
-name: Tallulah
-oga_no: 2960
+callsign: ''
 ownerships:
 - name: Victor Bradley
   share: 64
   start: 2008
-rig_type: Cutter
-short_description: ''
 updated_at: '2022-01-01T14:02:31.167291+00:00'
 website: ''
 year: 2008
 year_is_approximate: false
+construction_details: Carvel
+beam: 3.9624
+for_sale_state:
+  text: not_for_sale

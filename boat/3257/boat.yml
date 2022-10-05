@@ -1,20 +1,22 @@
-builder: 609d8a8b-c14c-402c-b727-519e519d6f6f
-callsign: ''
+name: True Blue
+oga_no: 3257
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: True Blue is a Yarmouth 23 built in 2000.
+full_description: ''
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+designer:
+  name: D Freeman/G. Wyatt
+  id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 construction_material: grp
 construction_method: unknown
-designer: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.853
-  fore_triangle_base: 3.0389
-  fore_triangle_height: 5.7912
-  length_on_waterline: 5.4986
-  length_over_spars: 7.9248
-  length_overall: 6.8824
   main:
     foot: 12.73
     head: 9.22
@@ -22,14 +24,20 @@ handicap_data:
   topsail:
     luff: 5.48
     perpendicular: 11.97
+  length_overall: 6.8824
+  calculated_thcf: 0.853
+  length_over_spars: 7.9248
+  fore_triangle_base: 3.0389
+  length_on_waterline: 5.4986
+  fore_triangle_height: 5.7912
 home_country: GBR
 home_port: Poole
 hull_form: long keel sloping forefoot
 id: 5462c882-621e-47ad-b4e9-33db49080660
 length_on_deck: 6.8824
-mainsail_type: gaff
-name: True Blue
-oga_no: 3257
+sail_number: '4'
+ssr: '92186'
+callsign: ''
 ownerships:
 - end: 2007
   name: Dr Potter
@@ -38,14 +46,18 @@ ownerships:
 - name: Elizabeth Dalton
   share: 64
   start: 2007
-- current: true
+- share: 64
   member: 5112
-  share: 64
+  current: true
   start: '?'
 place_built: Yarmouth Isle of Wight
-rig_type: Cutter
-short_description: True Blue is a Yarmouth 23 built in 2000.
 updated_at: '2021-12-19T13:40:05.465386+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+beam: 2.2799
+design_class:
+  name: Yarmouth 23
+  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
+for_sale_state:
+  text: not_for_sale

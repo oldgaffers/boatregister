@@ -1,11 +1,10 @@
-builder: d02ef310-75b8-46ab-8c53-f17b72d64671
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: da4baa22-674e-4ea8-b2c5-14aee7286837
-draft: 1.0668
-engine_installations: []
-for_sales: []
+name: Amanda
+oga_no: 1083
+generic_type: Morecambe Bay Prawner
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Amanda&#39; was built in 1920 by Crossfields of Arnside.
+  She is a Morecambe Bay prawner.</p>
 full_description: "<p>&#39;Amanda&#39; is thought to have been built for Annan owners\
   \ in 1920, and may originally have been called &#39;Olive&#39;. Annan is on the\
   \ Solway Firth in Scotland and was an important fishing port with 70 boats in 1900.\
@@ -17,42 +16,54 @@ full_description: "<p>&#39;Amanda&#39; is thought to have been built for Annan o
   \ one of the main sailing centres in the area.</p>\r\n\r\n<p>She was purchased in\
   \ 2018 by a new&nbsp;owner who plans to bring her to Arnside in 2020 on her way\
   \ to Annan to celebrate her centenary.</p>"
-generic_type: Morecambe Bay Prawner
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+designer:
+  name: William Crossfield
+  id: da4baa22-674e-4ea8-b2c5-14aee7286837
+construction_material: wood
+construction_method: carvel
+draft: 1.0668
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.8041940990002434
-  draft: 1.066812972445745
-  fore_triangle_base: 6.705681541087539
-  fore_triangle_height: 5.4864667154352595
-  length_on_waterline: 8.83930748597903
-  length_over_all: 9.75371860521824
   main:
     foot: 6.2484759814679345
     head: 5.4864667154352595
     luff: 4.87685930260912
-  propellor:
-    type: fixed
   thcf: 0.997073793
+  draft: 1.066812972445745
   topsail:
     luff: 2.43842965130456
     perpendicular: 4.724457449402585
+  propellor:
+    type: fixed
+  length_over_all: 9.75371860521824
+  fore_triangle_base: 6.705681541087539
+  length_on_waterline: 8.83930748597903
+  fore_triangle_height: 5.4864667154352595
 home_country: GBR
 home_port: Wirral
 hull_form: long keel deep forefoot
 id: 49673429-8fa4-4805-9629-f8653f9780ba
 length_on_deck: 9.7536
-mainsail_type: gaff
-name: Amanda
-oga_no: 1083
+callsign: ''
 ownerships:
 - end: 2016
   name: A Martyn
   share: 64
   start: 1979
 place_built: Arnside
-rig_type: Cutter
-short_description: <p>&#39;Amanda&#39; was built in 1920 by Crossfields of Arnside.
-  She is a Morecambe Bay prawner.</p>
 updated_at: '2021-12-19T13:39:00.990384+00:00'
 website: ''
 year: 1920
 year_is_approximate: false
+previous_names:
+- Olive
+image_key: kFGBsg
+construction_details: Carvel Larch on sawn oak frames
+beam: 2.8042
+for_sale_state:
+  text: not_for_sale

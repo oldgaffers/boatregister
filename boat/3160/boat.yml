@@ -1,10 +1,10 @@
-builder: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-draft: 0
-engine_installations: []
-for_sales: []
+name: Tabnab
+oga_no: 3160
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Gaff cutter built with GRP hull with ply deck and topsides on
+  traditional West Country lines.</p>
 full_description: "<p>The current owner reports that when he bought Tabnab, she had\
   \ been sitting in a boatyard neglected for about 12 years. Most of the cockpit had\
   \ been ripped out and she had about 6&#39;&#39; of water in her. It would have been\
@@ -13,26 +13,37 @@ full_description: "<p>The current owner reports that when he bought Tabnab, she 
   \ that her windward abilities were not of the best. John Banton decided to add 6&#39;&#39;\
   \ to her keel, this work was carried out in 2011, lots of work-never again, transforming\
   \ the boat so that she now points as well as other similar sized gaffers.</p>"
-generic_type: Yacht
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+construction_material: grp
+construction_method: cold_moulded
+draft: 0
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: Faversham
 hull_form: unknown
 id: 5603d6b8-f71e-49ef-acdf-7d0f6c08b593
 length_on_deck: 0
-mainsail_type: gaff
-name: Tabnab
-oga_no: 3160
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 441
-  member: 4401
+- id: 441
   share: 64
   start: 2005
+  member: 4401
+  current: true
 place_built: Gweek, Cornwall
-rig_type: Cutter
-short_description: <p>Gaff cutter built with GRP hull with ply deck and topsides on
-  traditional West Country lines.</p>
 updated_at: '2022-02-13T12:40:51.734408+00:00'
 website: ''
 year: 1979
 year_is_approximate: true
+image_key: Cw765s
+construction_details: grp hull with sheathed ply topsides.
+beam: 0
+design_class:
+  name: Tamarisk 24
+  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
+for_sale_state:
+  text: not_for_sale

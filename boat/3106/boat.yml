@@ -1,37 +1,47 @@
-builder: b54f18a6-4887-4163-9c95-30d09792d098
-callsign: MEGD2
+name: Sea Seven of Arne
+oga_no: 3106
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: bermudan
+short_description: ''
+full_description: Mainsail 14.1 sq m. Genoa 30.7 sq m. Mizzen 5 sq m.
+builder:
+  name: Westerly Marine
+  id: b54f18a6-4887-4163-9c95-30d09792d098
 construction_material: grp
 construction_method: unknown
 draft: 1.1003
 engine_installations: []
 for_sales: []
-full_description: Mainsail 14.1 sq m. Genoa 30.7 sq m. Mizzen 5 sq m.
-generic_type: Yacht
 handicap_data:
   draft: 1.1000133778346743
-  length_on_waterline: 7.630092793525969
   length_over_all: 9.900120400512069
+  length_on_waterline: 7.630092793525969
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: d6da80b0-f0ee-48a8-bc8d-b5850123456b
 length_on_deck: 9.8999
-mainsail_type: bermudan
-name: Sea Seven of Arne
-oga_no: 3106
+sail_number: '462'
+uk_part1: '397415'
+callsign: MEGD2
 ownerships:
 - name: Harry Owens
   share: 64
   start: 0
-- current: true
-  id: 520
-  member: 4803
+- id: 520
   share: 64
+  member: 4803
+  current: true
   start: '?'
 place_built: Waterlooville Portsmouth
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:58.006199+00:00'
 website: ''
 year: 1979
 year_is_approximate: false
+beam: 0
+design_class:
+  name: Westerly Berwick
+  id: b15c45c4-9eb0-4cac-aacd-4943c3f7403f
+for_sale_state:
+  text: not_for_sale

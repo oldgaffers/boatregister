@@ -1,34 +1,43 @@
-builder: 7fb1a099-0975-4afa-ac4d-7c1a39b6594b
-callsign: ''
+name: Walnut
+oga_no: 1863
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: R.J Turk and Sons
+  id: 7fb1a099-0975-4afa-ac4d-7c1a39b6594b
+designer:
+  name: Percy Tatchell
+  id: 97453cb6-1f78-4b91-b5b4-380466055496
 construction_material: wood
 construction_method: unknown
-designer: 97453cb6-1f78-4b91-b5b4-380466055496
 draft: 0.1524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.3716166788588149
   draft: 0.152401853206535
-  length_on_waterline: 3.2004389173372347
   length_over_all: 3.6576444769568397
+  length_on_waterline: 3.2004389173372347
 home_country: 'null'
 home_port: Woodbridge
 hull_form: unknown
 id: 32f17082-24f2-47a0-bcde-8405eb6f34d2
 length_on_deck: 3.6576
-mainsail_type: gaff
-name: Walnut
-oga_no: 1863
+callsign: ''
 ownerships:
 - name: H Bridges
   share: 64
   start: 1961
 place_built: Kingston upon Thames
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:22.47336+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+previous_names:
+- Walter
+beam: 1.3716
+for_sale_state:
+  text: not_for_sale

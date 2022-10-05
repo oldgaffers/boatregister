@@ -1,40 +1,49 @@
-builder: b387f6e6-0c2a-4fdf-acb6-a815a24e5d20
-callsign: ''
+name: Lucy
+oga_no: 1346
+generic_type: Dayboat
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Bill Bayliff
+  id: b387f6e6-0c2a-4fdf-acb6-a815a24e5d20
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.381
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dayboat
 handicap_data:
   beam: 1.5240185320653499
-  draft: 0.38100463301633747
-  fore_triangle_base: 1.4630577907827358
-  fore_triangle_height: 3.2004389173372347
-  length_on_waterline: 2.834674469641551
-  length_over_all: 3.291880029261156
   main:
     foot: 2.43842965130456
     head: 2.286027798098025
     luff: 1.8288222384784198
   thcf: 0.705206432
+  draft: 0.38100463301633747
+  length_over_all: 3.291880029261156
+  fore_triangle_base: 1.4630577907827358
+  length_on_waterline: 2.834674469641551
+  fore_triangle_height: 3.2004389173372347
 home_country: 'null'
 home_port: Ullswater
 hull_form: unknown
 id: dc8bee9c-9109-4cf3-935c-62945287dd47
 length_on_deck: 3.2918
-mainsail_type: gaff
-name: Lucy
-oga_no: 1346
+callsign: ''
 ownerships:
 - name: A J H Stephens
   share: 64
   start: 1989
 place_built: Overton
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:08.795373+00:00'
 website: ''
 year: 1989
 year_is_approximate: false
+construction_details: GRP
+beam: 1.524
+design_class:
+  name: Lune Pilot
+  id: c42d511d-0c4f-48ca-9e7a-d3d2b9cd338d
+for_sale_state:
+  text: not_for_sale

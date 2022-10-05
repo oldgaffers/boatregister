@@ -1,34 +1,48 @@
-builder: e00f0199-0c47-40a6-a4b7-4aca64e9f26b
-callsign: ''
+name: Mahal
+oga_no: 1102
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Log 85/3 Water Craft Sep/Oct 98
+builder:
+  name: P. Gartside
+  id: e00f0199-0c47-40a6-a4b7-4aca64e9f26b
+designer:
+  name: Paul Gartside
+  id: 0557a793-41ba-4182-8138-206701b31451
 construction_material: grp
 construction_method: cold_moulded
-designer: 0557a793-41ba-4182-8138-206701b31451
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Log 85/3 Water Craft Sep/Oct 98
-generic_type: Yacht
 handicap_data:
   beam: 1.929407461594733
   draft: 0.9144111192392099
-  length_on_waterline: 4.800658376005852
   length_over_all: 4.87685930260912
+  length_on_waterline: 4.800658376005852
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 25a9e5bc-66da-43df-9f68-3974c2193ec4
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Mahal
-oga_no: 1102
+reference:
+- Log 85/3
+- Water Craft Sep/Oct 98
+callsign: ''
 ownerships:
 - name: R Price
   share: 64
   start: 2012
 place_built: Malpas
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:01.58813+00:00'
 website: ''
 year: 1981
 year_is_approximate: false
+construction_details: GRP
+beam: 1.9294
+design_class:
+  name: Oysterman 16
+  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
+for_sale_state:
+  text: not_for_sale

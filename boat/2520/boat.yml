@@ -1,47 +1,55 @@
-builder: cad9308b-745b-42ad-aa20-9743e27d7b8d
-callsign: ''
+name: Argo
+oga_no: 2520
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>An early Harrison Butler designed Yacht</p>
+full_description: Recent extensive overhaul, rig converted back to Gaff.  See extensive
+  list of owners.
+builder:
+  name: Burt
+  id: cad9308b-745b-42ad-aa20-9743e27d7b8d
+designer:
+  name: T. Harrison Butler
+  id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
 construction_material: wood
 construction_method: carvel
-designer: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
 draft: 1.6246
 engine_installations: []
 for_sales: []
-full_description: Recent extensive overhaul, rig converted back to Gaff.  See extensive
-  list of owners.
-generic_type: Yacht
 handicap_data:
   beam: 2.346988539380639
-  draft: 1.6154596439892708
-  fore_triangle_base: 4.602535966837356
-  fore_triangle_height: 7.802974884174591
-  length_on_waterline: 6.644720799804926
-  length_over_all: 8.53450377956596
   main:
     foot: 5.425505974152646
     head: 4.4501341136308215
     luff: 4.602535966837356
-  propellor:
-    type: fixed
   thcf: 0.959373024
+  draft: 1.6154596439892708
   topsail:
     luff: 6.0960741282613995
     perpendicular: 1.9202633504023408
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 4.602535966837356
+  length_on_waterline: 6.644720799804926
+  fore_triangle_height: 7.802974884174591
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 2a840214-5875-40b3-9015-c5ca36eac6c8
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Argo
-oga_no: 2520
+callsign: ''
 ownerships:
 - name: Martin Braint
   share: 64
   start: 1996
 place_built: Falmouth
-rig_type: Cutter
-short_description: <p>An early Harrison Butler designed Yacht</p>
 updated_at: '2021-12-19T13:39:41.586394+00:00'
 website: ''
 year: 1914
 year_is_approximate: false
+construction_details: Carvel Pitch Pine on oak
+beam: 2.3378
+for_sale_state:
+  text: not_for_sale

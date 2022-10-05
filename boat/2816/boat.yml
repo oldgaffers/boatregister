@@ -1,47 +1,56 @@
-builder: a9a42e1a-3c2c-4137-9c49-31d250504b41
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 174acfe5-ff85-43fa-b933-69c66b26fc6a
-draft: 0
-engine_installations: []
-for_sales: []
+name: Mary Helen
+oga_no: 2816
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Designed by John Tew, and built for him and his wife Helen to
+  sail the Atlantic in 1937.</p>
 full_description: <p>The Second World War and family commitments meant the planned
   Atlantic crossing didn&#39;t happen until Helen Tew crossed from the Solent to the
   Caribbean, single-handed aged 89, in her husband&#39;s memory. Read The Telegraph&#39;s
   2001 report of the fascinating story behind Mary Helen <a href="http://www.telegraph.co.uk/culture/4721254/Father-said-no-but-Ive-done-it-at-last.html"
   target="_blank">here</a>.</p>
-generic_type: unknown
+builder:
+  name: Percy G. Mitchell
+  id: a9a42e1a-3c2c-4137-9c49-31d250504b41
+designer:
+  name: John Tew
+  id: 174acfe5-ff85-43fa-b933-69c66b26fc6a
+construction_material: wood
+construction_method: carvel
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.420141428919776
-  fore_triangle_base: 5.248719824433064
-  fore_triangle_height: 9.650085345037795
-  length_on_waterline: 7.001341136308217
-  length_over_all: 8.001097293343086
   main:
     foot: 4.800658376005852
     head: 4.081321628871007
     luff: 4.581199707388442
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.956690946
   topsail:
     luff: 4.2215313338210185
     perpendicular: 2.7005608388197997
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 8.001097293343086
+  fore_triangle_base: 5.248719824433064
+  length_on_waterline: 7.001341136308217
+  fore_triangle_height: 9.650085345037795
 home_country: GBR
 home_port: Lymington
 hull_form: long keel deep forefoot
 id: ba5c56bc-ee5f-4aae-bd82-56975f296e46
 length_on_deck: 8.0162
-mainsail_type: gaff
-name: Mary Helen
-oga_no: 2816
+callsign: ''
 place_built: Mevagissey
-rig_type: Cutter
-short_description: <p>Designed by John Tew, and built for him and his wife Helen to
-  sail the Atlantic in 1937.</p>
 updated_at: '2021-03-26T07:56:27.23063+00:00'
 website: ''
 year: 1937
 year_is_approximate: false
+image_key: c7gxmJ
+construction_details: carvel
+beam: 2.4079
+for_sale_state:
+  text: not_for_sale

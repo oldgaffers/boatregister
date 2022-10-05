@@ -1,34 +1,44 @@
-builder: 2e1683ac-2223-480f-9412-be351f564ae9
-callsign: ''
+name: Margret Jean
+oga_no: 1170
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+designer:
+  name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 construction_material: wood
 construction_method: unknown
-designer: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.0117044623262617
   draft: 1.21921482565228
-  length_on_waterline: 5.4864667154352595
   length_over_all: 6.6294806144842715
+  length_on_waterline: 5.4864667154352595
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 8fdd43d5-11a2-4759-a802-f3f8f85b3978
 length_on_deck: 6.6294
-mainsail_type: gaff
-name: Margret Jean
-oga_no: 1170
+callsign: ''
 ownerships:
 - name: N L Bellatti
   share: 64
   start: 2012
 place_built: Totnes
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:03.605155+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+beam: 2.0117
+design_class:
+  name: Drascombe Longboat
+  id: 4cdd2726-2dcf-4e73-bd5e-4dc8ff64d4f5
+for_sale_state:
+  text: not_for_sale

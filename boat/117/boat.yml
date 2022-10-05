@@ -1,38 +1,45 @@
-builder: 54a8f02f-5a74-4c6d-a51d-8cb86e86db67
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 1.2802
-engine_installations: []
-for_sales: []
+name: Chlamys
+oga_no: 117
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p><em>Chlamys </em>is a converted ship's lifeboat.</p>
 full_description: "<p>Built in 1925 at Barrow-in-Furness as a lifeboat for the S.S.\
   \ <em>Otranto</em>.</p>\n<p>Peter and John Parsons, converted <em>Chlamys </em>into\
   \ a gaff rigged yacht in the late 50\u2019s on the river Hamble near &nbsp;Burseldon\
   \ boatyard. They had considerable success in the East Coast &nbsp;Gaffers races\
   \ in the late 60\u2019s and the early 70\u2019s, and also used her for cruising\
   \ on the East Coast and the Medway.</p>"
-generic_type: unknown
+builder:
+  name: Hugh McClean Sons/P J Parsons
+  id: 54a8f02f-5a74-4c6d-a51d-8cb86e86db67
+construction_material: wood
+construction_method: unknown
+draft: 1.2802
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.280175566934894
-  length_on_waterline: 9.75371860521824
   length_over_all: 10.546208241892222
+  length_on_waterline: 9.75371860521824
 home_country: 'null'
 home_port: London
 hull_form: unknown
 id: a8b8d598-4ccb-4428-bfbb-9fd1eac8f6ce
 length_on_deck: 10.5461
-mainsail_type: gaff
-name: Chlamys
-oga_no: 117
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Simon William Godwin
   share: 64
   start: 2012
 place_built: Renfrew/Welling
-rig_type: Cutter
-short_description: <p><em>Chlamys </em>is a converted ship's lifeboat.</p>
 updated_at: '2022-02-17T23:30:39.000888+00:00'
 website: ''
 year: 1925
 year_is_approximate: false
+image_key: DpDnNs
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

@@ -1,33 +1,40 @@
-callsign: ''
+name: Cobler
+oga_no: 1113
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Owned by member until 1985.  Current owner unknown Log 83/1, 84/1
 construction_material: grp
 construction_method: cold_moulded
 draft: 0.3658
 engine_installations: []
 for_sales: []
-full_description: Owned by member until 1985.  Current owner unknown Log 83/1, 84/1
-generic_type: unknown
 handicap_data:
   beam: 1.798341867837113
-  draft: 0.36576444769568395
-  length_on_waterline: 4.663496708119971
-  length_over_all: 5.334064862228725
   main:
     foot: 3.5052426237503047
     head: 2.5146305779078273
     luff: 5.157278712509144
   thcf: 0.822941481
+  draft: 0.36576444769568395
+  length_over_all: 5.334064862228725
+  length_on_waterline: 4.663496708119971
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 2b07fc9c-55a9-48ae-9110-40b5624f0562
 length_on_deck: 5.334
-mainsail_type: gaff
-name: Cobler
-oga_no: 1113
+reference:
+- Log 83/1
+- Log 84/1
+callsign: ''
 place_built: Driffield Yorks
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:45:35.98548+00:00'
 website: ''
 year: 1975
 year_is_approximate: false
+construction_details: GRP
+beam: 1.7983
+for_sale_state:
+  text: not_for_sale

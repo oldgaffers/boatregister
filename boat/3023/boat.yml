@@ -1,38 +1,47 @@
-builder: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
-callsign: ''
+name: Fritha
+oga_no: 3023
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>&#39;Fritha, a Norfolk Gypsy, has been sailed in the Netherlands
+  and East and South Coasts of England.</p>
+full_description: ''
+builder:
+  name: North Norfolk Boatbuilding Co./Charlie Ward
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+designer:
+  name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 construction_material: grp
 construction_method: cold_moulded
-designer: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 draft: 0.4572
 engine_installations: []
 for_sales:
 - asking_price: 0
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.286027798098025
-  draft: 0.45720555961960496
-  draft_keeldown: 1.1430138990490124
-  fore_triangle_base: 2.43842965130456
-  fore_triangle_height: 4.87685930260912
-  length_on_waterline: 5.410265788831992
-  length_over_all: 6.044257498171177
   main:
     foot: 4.191050963179712
     head: 3.0998536942209216
     luff: 3.0480370641306997
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 0.823982113
+  draft: 0.45720555961960496
+  propellor:
+    type: fixed
+    blades: 3
+  draft_keeldown: 1.1430138990490124
+  length_over_all: 6.044257498171177
+  fore_triangle_base: 2.43842965130456
+  length_on_waterline: 5.410265788831992
+  fore_triangle_height: 4.87685930260912
 home_country: GBR
 home_port: Wootton Creek, Isle of Wight
 hull_form: long keel deep forefoot
 id: b5656c36-c7c0-4417-a838-bc32c9be674d
 length_on_deck: 6.0442
-mainsail_type: gaff
-name: Fritha
-oga_no: 3023
+sail_number: '57'
+ssr: '102120'
+callsign: ''
 ownerships:
 - end: 2018
   name: Michael Curtis
@@ -41,16 +50,24 @@ ownerships:
 - name: Dave and Margaret Moore
   share: 64
   start: 2018
-- current: true
-  id: 81
-  member: 1619
+- id: 81
   share: 64
+  member: 1619
+  current: true
   start: '?'
 place_built: Moreston
-rig_type: Sloop
-short_description: <p>&#39;Fritha, a Norfolk Gypsy, has been sailed in the Netherlands
-  and East and South Coasts of England.</p>
 updated_at: '2021-12-19T13:39:56.151368+00:00'
 website: ''
 year: 1994
 year_is_approximate: false
+previous_names:
+- Senta
+- Marolle
+image_key: WN7gc4
+construction_details: GRP
+beam: 2.286
+design_class:
+  name: Norfolk Gypsy
+  id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
+for_sale_state:
+  text: not_for_sale

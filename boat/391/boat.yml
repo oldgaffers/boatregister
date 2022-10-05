@@ -1,32 +1,37 @@
-builder: 32c4dfbc-6636-4258-8a24-f074f2e7d7a4
-callsign: ''
+name: Lily
+oga_no: 391
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Worfolk Bros.
+  id: 32c4dfbc-6636-4258-8a24-f074f2e7d7a4
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 3.6576444769568397
-  length_on_waterline: 9.601316752011703
   length_over_all: 13.716166788588149
+  length_on_waterline: 9.601316752011703
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: db025f83-f302-408a-a101-9c29856db6d2
 length_on_deck: 13.716
-mainsail_type: gaff
-name: Lily
-oga_no: 391
+callsign: ''
 ownerships:
 - name: J R Springer
   share: 64
   start: 2012
 place_built: King's Lynn
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:41.055899+00:00'
 website: ''
 year: 1906
 year_is_approximate: false
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

@@ -1,33 +1,43 @@
-builder: b791a1ab-12a6-49bb-851a-dcff290e1cc2
-callsign: ''
+name: Doy
+oga_no: 746
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 75/1
+builder:
+  name: Medway Boat Building Co.
+  id: b791a1ab-12a6-49bb-851a-dcff290e1cc2
 construction_material: wood
 construction_method: unknown
 draft: 1.463
 engine_installations: []
 for_sales: []
-full_description: Log 75/1
-generic_type: Bawley
 handicap_data:
   beam: 4.206291148500366
   draft: 1.4630577907827358
-  length_on_waterline: 11.582540843696659
   length_over_all: 11.734942696903193
+  length_on_waterline: 11.582540843696659
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 4c547f72-684a-4e44-9f23-0f00d042e06f
 length_on_deck: 11.7348
-mainsail_type: gaff
-name: Doy
-oga_no: 746
+reference:
+- Log 75/1
+spar_material: wood
+callsign: ''
 ownerships:
 - name: C L Morris
   share: 64
   start: 2012
 place_built: Rochester
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:51.232392+00:00'
 website: ''
 year: 1908
 year_is_approximate: false
+image_key: w3mBDV
+construction_details: Larch on oak
+beam: 4.2062
+for_sale_state:
+  text: not_for_sale

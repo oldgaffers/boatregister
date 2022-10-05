@@ -1,34 +1,45 @@
-builder: cec55a2b-eadb-48e3-8581-4f64a595de1b
-callsign: ''
+name: Lucy Foster
+oga_no: 707
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: Log 80/1 Sister ship to White Moth
+builder:
+  name: R.F. Wykeham-Martin
+  id: cec55a2b-eadb-48e3-8581-4f64a595de1b
+designer:
+  name: R.F. Wykeham-Martin
+  id: 1eb40240-b18a-4037-8202-ced093cbfd8c
 construction_material: wood
 construction_method: unknown
-designer: 1eb40240-b18a-4037-8202-ced093cbfd8c
 draft: 0.823
 engine_installations: []
 for_sales: []
-full_description: Log 80/1 Sister ship to White Moth
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   draft: 0.822970007315289
-  length_on_waterline: 7.315288953913679
   length_over_all: 8.22970007315289
+  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: c24127ff-01de-433f-b38c-824e3db61707
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Lucy Foster
-oga_no: 707
+reference:
+- Log 80/1
+callsign: ''
 ownerships:
 - name: W E Upchurch
   share: 64
   start: 2012
 place_built: Bourne End
-rig_type: Ketch
-short_description: ''
 updated_at: '2022-01-19T11:43:42.844329+00:00'
 website: ''
 year: 1915
 year_is_approximate: false
+image_key: T4LZTr
+construction_details: Teak on oak with glass fibre covered decks & cabin
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

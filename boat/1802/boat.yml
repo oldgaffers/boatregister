@@ -1,11 +1,9 @@
-builder: 0a458ae5-5649-4233-a1c0-81f96361a627
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
-draft: 0.762
-engine_installations: []
-for_sales: []
+name: Wind Song
+oga_no: 1802
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Wind Song is the first boat built to a Maurice Griffith design.</p>
 full_description: "<p>&#39;Wind Song&#39; is the first Maurice Griffiths boat, built\
   \ in 1928/9 by &nbsp;G. Feltham of Portsmouth for Henry Tompson who had seen the\
   \ design for a Shallow Draught Wildfowling Yacht in Yachting Monthly and who wanted\
@@ -25,44 +23,59 @@ full_description: "<p>&#39;Wind Song&#39; is the first Maurice Griffiths boat, b
   \ returned to Chichester Harbour and continues to give much pleasure pottering about\
   \ the Solent.</p>\r\n\r\n<p>In 2014 the old faithful Volvo diesel was replaced by\
   \ a modern Beta 25 HP.</p>"
-generic_type: Yacht
+builder:
+  name: Geo. A. Feltham Ltd.
+  id: 0a458ae5-5649-4233-a1c0-81f96361a627
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+construction_material: wood
+construction_method: carvel
+draft: 0.762
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.560351133869788
-  draft: 0.7589612289685442
-  draft_keeldown: 1.6794684223360155
-  fore_triangle_base: 5.120702267739576
-  fore_triangle_height: 7.659717142160448
-  length_on_waterline: 7.321385028041941
-  length_over_all: 8.379053889295292
   main:
     foot: 4.66044867105584
     head: 3.8100463301633747
     luff: 4.599487929773225
-  propellor:
-    blades: 3
-    type: folding
   thcf: 0.944805758
+  draft: 0.7589612289685442
   topsail:
     luff: 4.471470373079736
     perpendicular: 1.9202633504023408
+  propellor:
+    type: folding
+    blades: 3
+  draft_keeldown: 1.6794684223360155
+  length_over_all: 8.379053889295292
+  fore_triangle_base: 5.120702267739576
+  length_on_waterline: 7.321385028041941
+  fore_triangle_height: 7.659717142160448
 home_country: GBR
 home_port: Chichester
 hull_form: long keel sloping forefoot
 id: 621796be-c24f-4541-8fca-9102f683510e
 length_on_deck: 8.382
-mainsail_type: gaff
-name: Wind Song
-oga_no: 1802
+uk_part1: '160910'
+callsign: ''
 ownerships:
-- current: true
-  id: 274
-  member: 3456
+- id: 274
   share: 64
   start: 2007
+  member: 3456
+  current: true
 place_built: Portsmouth
-rig_type: Cutter
-short_description: <p>Wind Song is the first boat built to a Maurice Griffith design.</p>
 updated_at: '2021-12-19T13:39:20.717891+00:00'
 website: ''
 year: 1929
 year_is_approximate: false
+image_key: 4FLcV4
+construction_details: Carvel teak on Canadian rock elm
+beam: 2.5664
+design_class:
+  name: Maurice Griffiths Wind Song
+  id: 888a6c2a-a539-4463-a6a8-78944b9d302c
+for_sale_state:
+  text: not_for_sale

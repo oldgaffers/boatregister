@@ -1,34 +1,46 @@
-builder: 8da79f02-528e-42f6-8900-cad9b84a0021
-callsign: ''
+name: Tamsim
+oga_no: 1500
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Water Craft Sep/Oct 98
+builder:
+  name: Riverside Products
+  id: 8da79f02-528e-42f6-8900-cad9b84a0021
+designer:
+  name: Paul Gartside
+  id: 0557a793-41ba-4182-8138-206701b31451
 construction_material: grp
 construction_method: unknown
-designer: 0557a793-41ba-4182-8138-206701b31451
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Water Craft Sep/Oct 98
-generic_type: Yacht
 handicap_data:
   beam: 1.929407461594733
   draft: 0.9144111192392099
-  length_on_waterline: 4.57205559619605
   length_over_all: 4.87685930260912
+  length_on_waterline: 4.57205559619605
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 40aff533-1f08-4bf0-ba12-d665dd95e76a
 length_on_deck: 4.8768
-mainsail_type: gaff
-name: Tamsim
-oga_no: 1500
+sail_number: '15'
+uk_part1: '880835'
+callsign: ''
 ownerships:
 - name: Bill Weeks
   share: 64
   start: 2012
 place_built: Penryn
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:13.149378+00:00'
 website: ''
 year: 1984
 year_is_approximate: false
+previous_names:
+- Hybadore
+construction_details: Handlaid G R P hull, silver spruce spars
+beam: 1.9294
+for_sale_state:
+  text: not_for_sale

@@ -1,34 +1,43 @@
-builder: 35026fce-3422-45e9-9ab8-164a74196a77
-callsign: ''
+name: Mina
+oga_no: 87
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Log 73/1  Owner F H Parsons died 1998, daughter seeking boat.
+builder:
+  name: Frank Curtis
+  id: 35026fce-3422-45e9-9ab8-164a74196a77
+designer:
+  name: F. Curtis
+  id: bee58b44-7832-452f-a406-cbd2a49c2dc8
 construction_material: wood
 construction_method: unknown
-designer: bee58b44-7832-452f-a406-cbd2a49c2dc8
 draft: 1.463
 engine_installations: []
 for_sales: []
-full_description: Log 73/1  Owner F H Parsons died 1998, daughter seeking boat.
-generic_type: Yacht
 handicap_data:
   beam: 2.529870763228481
   draft: 1.4630577907827358
-  length_on_waterline: 6.705681541087539
   length_over_all: 9.205071933674713
+  length_on_waterline: 6.705681541087539
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: b4cec4e2-8a0a-4db6-a86d-83fa103de101
 length_on_deck: 9.205
-mainsail_type: gaff
-name: Mina
-oga_no: 87
+reference:
+- 'Log 73/1 '
+callsign: ''
 ownerships:
 - name: James Baker
   share: 64
   start: 2012
 place_built: Looe
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:32.194926+00:00'
 website: ''
 year: 1929
 year_is_approximate: false
+beam: 2.5298
+for_sale_state:
+  text: not_for_sale

@@ -1,13 +1,21 @@
-builder: 1149faa2-c499-4f35-a371-189cde379e9e
-callsign: ''
+name: Jay
+oga_no: 2224
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Pearson Bros.
+  id: 1149faa2-c499-4f35-a371-189cde379e9e
+designer:
+  name: Bros. Pearson
+  id: ab377dd5-33b1-40a8-861e-2aee1279050b
 construction_material: grp
 construction_method: cold_moulded
-designer: ab377dd5-33b1-40a8-861e-2aee1279050b
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 1.7526213118751524
   length_over_all: 5.029261155815655
@@ -16,17 +24,17 @@ home_port: Coniston Water
 hull_form: unknown
 id: 3b470ace-bbe0-4014-8228-3ceabd18bb50
 length_on_deck: 5.0292
-mainsail_type: lug
-name: Jay
-oga_no: 2224
+callsign: ''
 ownerships:
 - name: Bernard K Harman
   share: 64
   start: 2012
 place_built: Arundel, Sussex
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:39:32.706382+00:00'
 website: ''
 year: 1960
 year_is_approximate: false
+construction_details: GRP
+beam: 1.7526
+for_sale_state:
+  text: not_for_sale

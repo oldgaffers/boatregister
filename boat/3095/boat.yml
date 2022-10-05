@@ -1,27 +1,33 @@
-builder: efb4cf0c-f3c1-4edc-a1bf-b51afceb7a2b
-callsign: ''
+name: Lily
+oga_no: 3095
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Motor Cruisng boat. Complete rebuild 2010/2011 inc engines
+full_description: ''
+builder:
+  name: Alan Platt
+  id: efb4cf0c-f3c1-4edc-a1bf-b51afceb7a2b
+designer:
+  name: Storebro
+  id: 395ebf4c-471f-480e-9245-a0572d30da1e
 construction_material: wood
 construction_method: unknown
-designer: 395ebf4c-471f-480e-9245-a0572d30da1e
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.0480370641306997
   draft: 0.9144111192392099
-  length_on_waterline: 9.1441111923921
   length_over_all: 10.36332601804438
   length_over_spars: 10.36332601804438
+  length_on_waterline: 9.1441111923921
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 498b3e22-b607-4f74-b52f-164105dd1258
 length_on_deck: 10.3632
-mainsail_type: gaff
-name: Lily
-oga_no: 3095
+callsign: ''
 ownerships:
 - end: 2011
   name: Lallows of Cowes
@@ -31,9 +37,11 @@ ownerships:
   share: 64
   start: 2011
 place_built: Sweden
-rig_type: Cutter
-short_description: Motor Cruisng boat. Complete rebuild 2010/2011 inc engines
 updated_at: '2021-12-19T13:39:57.63838+00:00'
 website: ''
 year: 1973
 year_is_approximate: false
+construction_details: Mahogany - semi displacement hull.
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

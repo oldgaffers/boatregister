@@ -1,32 +1,40 @@
-builder: 9ea00d9e-6b25-481e-9585-f43eac80bad9
-callsign: ''
+name: Mildred
+oga_no: 736
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 76/3, 82/2
+builder:
+  name: Brabyn of Truro
+  id: 9ea00d9e-6b25-481e-9585-f43eac80bad9
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Log 76/3, 82/2
-generic_type: unknown
 handicap_data:
   beam: 3.9624481833699097
-  length_on_waterline: 8.83930748597903
   length_over_all: 9.296513045598633
+  length_on_waterline: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 538e3ad6-8626-468d-b20c-a1323d3077f5
 length_on_deck: 9.2964
-mainsail_type: gaff
-name: Mildred
-oga_no: 736
+reference:
+- Log 76/3
+- Log 82/2
+callsign: ''
 ownerships:
 - name: P E Fowle
   share: 64
   start: 2012
 place_built: Falmouth
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:50.986908+00:00'
 website: ''
 year: 1891
 year_is_approximate: false
+beam: 3.9624
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,12 @@
-builder: 8d74da63-305e-4666-8f7f-931df43292b5
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
-draft: 0
-engine_installations: []
-for_sales: []
+name: Telegraph
+oga_no: 1662
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built in 1906 for William Stringer of Boston, funded by insurance
+  money, when the &#39;Jane and Eliza&#39; was run down by a steamship whilst at anchor
+  in the Boston Deeps. &#39;Telegraph&#39; has undergone at least three major restorations
+  since the 1940s.</p>
 full_description: "<p>Shipwright Colin Swindale, who owned &#39;Telegraph&#39; from\
   \ 1979 to 1986 contributed a two-part article for the OGA Gaffers Log in 1997 providing\
   \ an insight into the history of inshore fishing in the 19th century. The OGA Sailing\
@@ -177,7 +178,17 @@ full_description: "<p>Shipwright Colin Swindale, who owned &#39;Telegraph&#39; f
   \ will have many a full season of events and festivals.</blockquote>\r\n\r\n<h4>by\
   \ Colin Swindale<br />\r\nFirst published in the Old Gaffers Association Newsletter\
   \ 1997 Sept. and Nov.</h4>"
-generic_type: Smack
+builder:
+  name: Alexander E. Gostelow
+  id: 8d74da63-305e-4666-8f7f-931df43292b5
+designer:
+  name: Alexander E. Gostelow
+  id: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.26725188978298
   length_over_all: 16.154596439892707
@@ -186,21 +197,21 @@ home_port: Maldon
 hull_form: unknown
 id: 5f03e7fb-5dca-43fc-bd9b-81abee801fbd
 length_on_deck: 16.1544
-mainsail_type: gaff
-name: Telegraph
-oga_no: 1662
+reference:
+- Log Sep 97
+- Log Nov 97
+callsign: ''
 ownerships:
 - end: 1986
   name: Colin Swindale
   share: 64
   start: 1979
 place_built: Boston
-rig_type: Cutter
-short_description: <p>Built in 1906 for William Stringer of Boston, funded by insurance
-  money, when the &#39;Jane and Eliza&#39; was run down by a steamship whilst at anchor
-  in the Boston Deeps. &#39;Telegraph&#39; has undergone at least three major restorations
-  since the 1940s.</p>
 updated_at: '2021-12-19T13:39:17.26214+00:00'
 website: ''
 year: 1906
 year_is_approximate: false
+image_key: pZgQ6n
+beam: 4.2672
+for_sale_state:
+  text: not_for_sale

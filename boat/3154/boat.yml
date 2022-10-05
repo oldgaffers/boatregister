@@ -1,21 +1,23 @@
-builder: cf73e700-eb81-47d7-b6da-5985b0c6da95
-callsign: ''
+name: Seiriol
+oga_no: 3154
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Purchased by original owner as a sail away bare boat and fitted
+  out at home with accommodation.</p>
+full_description: ''
+builder:
+  name: Churchouse
+  id: cf73e700-eb81-47d7-b6da-5985b0c6da95
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 construction_material: grp
 construction_method: cold_moulded
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 draft: 0.3962
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
-  calculated_thcf: 0.86
-  draft_keel_up: 0.3962
-  fore_triangle_base: 2.8956
-  fore_triangle_height: 5.7912
-  length_on_waterline: 5.8826
-  length_over_spars: 7.4981
-  length_overall: 6.7056
   main:
     foot: 11.1
     head: 14.4
@@ -23,28 +25,38 @@ handicap_data:
   mizzen:
     foot: 4.9
     luff: 10.5
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 3
+  moving_keel: true
+  draft_keel_up: 0.3962
+  length_overall: 6.7056
+  calculated_thcf: 0.86
+  moving_keel_type: Centreboard
+  length_over_spars: 7.4981
+  fore_triangle_base: 2.8956
+  length_on_waterline: 5.8826
+  fore_triangle_height: 5.7912
 home_country: GBR
 home_port: Conwy
 hull_form: long keel deep forefoot
 id: 3bc6814f-aac8-4f78-9b6e-393c5400e19e
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Seiriol
-oga_no: 3154
+ssr: '146457'
+callsign: ''
 ownerships:
-- current: true
-  id: 668
-  member: 5513
+- id: 668
   share: 64
   start: 2007
+  member: 5513
+  current: true
 place_built: Andover
-rig_type: Yawl
-short_description: <p>Purchased by original owner as a sail away bare boat and fitted
-  out at home with accommodation.</p>
 updated_at: '2021-12-19T13:40:02.602117+00:00'
 website: ''
 year: 2007
 year_is_approximate: false
+construction_details: GRP
+beam: 2.286
+design_class:
+  name: Drascombe Drifter 22
+  id: ca9d6d81-e6bd-45ee-84a6-dc3b7b290254
+for_sale_state:
+  text: not_for_sale

@@ -1,39 +1,49 @@
-builder: b3841693-d336-4132-8e60-8933dfd41cf6
-callsign: ''
+name: Avriel Mae
+oga_no: 2761
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Used to be rigged as a ketch.  Log 91/1
+builder:
+  name: Unknown
+  id: b3841693-d336-4132-8e60-8933dfd41cf6
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
 construction_material: ferro
 construction_method: unknown
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
 draft: 1.2009
 engine_installations: []
 for_sales: []
-full_description: Used to be rigged as a ketch.  Log 91/1
-generic_type: unknown
 handicap_data:
   beam: 2.3988051694708608
-  draft: 1.2009266032674957
-  fore_triangle_base: 5.199951231406973
-  fore_triangle_height: 8.500975371860521
-  length_on_waterline: 7.501219214825651
-  length_over_all: 7.897464033162643
   main:
     foot: 5.300536454523287
     head: 4.099609851255791
     luff: 4.40136552060473
+  thcf: 0.9475076
+  draft: 1.2009266032674957
   propellor:
     type: fixed
-  thcf: 0.9475076
+  length_over_all: 7.897464033162643
+  fore_triangle_base: 5.199951231406973
+  length_on_waterline: 7.501219214825651
+  fore_triangle_height: 8.500975371860521
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 876fcb55-76f1-4f13-95ca-e55f754c3e03
 length_on_deck: 7.8974
-mainsail_type: gaff
-name: Avriel Mae
-oga_no: 2761
+reference:
+- Log 91/1
+callsign: ''
 place_built: Unknown
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-26T07:56:26.831198+00:00'
 website: ''
 year: 1920
 year_is_approximate: false
+construction_details: Pine on Oak - Ferro Sheathed.
+beam: 2.3988
+for_sale_state:
+  text: not_for_sale

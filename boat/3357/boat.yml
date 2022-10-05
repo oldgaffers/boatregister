@@ -1,45 +1,60 @@
-builder: 60f1279a-1f05-4fd8-a024-800655a28344
-callsign: MBRF2
+name: Satellite
+oga_no: 3357
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Satellite is a Golant Gaffer built by her first owner and launched
+  in 2017.</p>
+full_description: <p>Satellite was built by her first owner in Liphook, Hampshire
+  2015 to 2017.</p>
+builder:
+  name: David Pennison
+  id: 60f1279a-1f05-4fd8-a024-800655a28344
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.8382
 engine_installations: []
 for_sales: []
-full_description: <p>Satellite was built by her first owner in Liphook, Hampshire
-  2015 to 2017.</p>
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.844
-  fore_triangle_base: 3.301
-  fore_triangle_height: 6.1996
-  length_on_waterline: 5.4102
-  length_over_spars: 7.3518
-  length_overall: 5.715
   main:
     foot: 11.81
     head: 10.1
     luff: 13.78
   sailarea: 7
+  length_overall: 5.715
+  calculated_thcf: 0.844
+  length_over_spars: 7.3518
+  fore_triangle_base: 3.301
+  length_on_waterline: 5.4102
+  fore_triangle_height: 6.1996
 home_country: GBR
 home_port: Hamble
 hull_form: long keel sloping forefoot
 id: 2041681b-1faf-4992-a4d9-b50ad30fec50
 length_on_deck: 5.715
-mainsail_type: gaff
-name: Satellite
-oga_no: 3357
+sail_number: G134
+ssr: '169950'
+callsign: MBRF2
 ownerships:
-- current: true
-  id: 576
-  member: 5086
+- id: 576
   share: 64
   start: 2017
+  member: 5086
+  current: true
 place_built: Liphook
-rig_type: Cutter
-short_description: <p>Satellite is a Golant Gaffer built by her first owner and launched
-  in 2017.</p>
 updated_at: '2021-12-19T13:40:08.669632+00:00'
 website: http://golantgaffer134.blogspot.co.uk/
 year: 2017
 year_is_approximate: false
+image_key: XcC3zZ
+construction_details: 'Cedar strip wood epoxy with iroko. Spars wood excluding the
+  gaff which is carbon fibre/wood '
+beam: 2.1336
+design_class:
+  name: Golant Gaffer
+  id: ecdf01fb-dd46-42f7-9232-39880886de2f
+for_sale_state:
+  text: not_for_sale

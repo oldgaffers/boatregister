@@ -1,18 +1,27 @@
-builder: 55257fcd-bb7c-4ca2-a09b-162f45540808
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
-draft: 0
-engine_installations: []
-for_sales: []
+name: Vega of Garth
+oga_no: 2251
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Vega is one of the last surviving Sole bay 36ft motor sailing
+  ketches designed by J.Francis Jones.</p>
 full_description: <p>She was built for a Liverpool Lawyer in Scarborough, by Gordon
   Armstrong Marine, &nbsp;and completed in 1965. At first she was kept by Bangor at
   Garth in North Wales. Later sold on, to be kept on the south coast, &nbsp;she was
   discovered in the late 1990's to be in a poor state of repair. Extensive works were
   done, including a new deck and deck houses and engine. She relocated to Scotland
   in 2021.</p>
-generic_type: unknown
+builder:
+  name: Armstrong Gordon Ltd.
+  id: 55257fcd-bb7c-4ca2-a09b-162f45540808
+designer:
+  name: Francis J. Jones
+  id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.0480370641306997
   length_over_all: 10.972933430870519
@@ -21,9 +30,7 @@ home_port: ' Lochaber'
 hull_form: unknown
 id: 9adee2a6-711f-4dd9-9110-8638e3255368
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Vega of Garth
-oga_no: 2251
+callsign: ''
 ownerships:
 - name: Nicholas C Gray
   share: 64
@@ -32,10 +39,11 @@ ownerships:
   share: 64
   start: 2021
 place_built: Scarborough
-rig_type: Ketch
-short_description: <p>Vega is one of the last surviving Sole bay 36ft motor sailing
-  ketches designed by J.Francis Jones.</p>
 updated_at: '2022-06-11T12:48:20.483916+00:00'
 website: ''
 year: 1964
 year_is_approximate: false
+image_key: F2nF2K
+beam: 3.048
+for_sale_state:
+  text: not_for_sale

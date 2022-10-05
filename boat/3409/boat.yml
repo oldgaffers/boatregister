@@ -1,31 +1,37 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
+name: Narwhal
+oga_no: 3409
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 49351cc3-ef5f-4d3d-9655-4beff67c26e9
 length_on_deck: 0
-mainsail_type: gaff
-name: Narwhal
-oga_no: 3409
+callsign: ''
 ownerships:
 - name: Geoff Willerton
   share: 64
   start: 2019
-- current: true
-  id: 732
-  member: 5698
+- id: 732
   share: 64
+  member: 5698
+  current: true
   start: '?'
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:40:10.01587+00:00'
 website: ''
 year_is_approximate: false
+image_key: WcZrbn
+beam: 0
+for_sale_state:
+  text: not_for_sale

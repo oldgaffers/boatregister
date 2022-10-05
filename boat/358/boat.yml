@@ -1,41 +1,53 @@
-builder: fd2e4b78-45ff-44c6-9d9d-ae186ad4a3b3
-callsign: ''
+name: Hildasay
+oga_no: 358
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 87/4
+builder:
+  name: Allcraft
+  id: fd2e4b78-45ff-44c6-9d9d-ae186ad4a3b3
+designer:
+  name: J. Johnston
+  id: c3380d3d-db77-447c-ba36-bd5f1dd0c1f6
 construction_material: wood
 construction_method: clinker
-designer: c3380d3d-db77-447c-ba36-bd5f1dd0c1f6
 draft: 0.7925
 engine_installations: []
 for_sales: []
-full_description: Log 87/4
-generic_type: unknown
 handicap_data:
   beam: 2.103145574250183
-  draft: 0.792489636673982
-  fore_triangle_base: 3.4046574006339916
-  fore_triangle_height: 5.9436722750548645
-  length_on_waterline: 6.431358205315777
-  length_over_all: 7.437210436478907
   main:
     foot: 4.038649109973177
     head: 3.733845403560107
     luff: 3.2004389173372347
   thcf: 0.892416598
+  draft: 0.792489636673982
+  length_over_all: 7.437210436478907
+  fore_triangle_base: 3.4046574006339916
+  length_on_waterline: 6.431358205315777
+  fore_triangle_height: 5.9436722750548645
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 2ab65a62-c1b1-4ca8-867d-df1e1171099c
 length_on_deck: 7.4371
-mainsail_type: gaff
-name: Hildasay
-oga_no: 358
+reference:
+- Log 87/4
+sail_number: C 358
+callsign: ''
 ownerships:
 - name: T C Duggan
   share: 64
   start: 1985
 place_built: Lerwick
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:40.169171+00:00'
 website: ''
 year: 1951
 year_is_approximate: false
+image_key: vFn6P6
+construction_details: Larch clinker planking on oak frames with oak keel
+beam: 2.1031
+for_sale_state:
+  text: not_for_sale

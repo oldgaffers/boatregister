@@ -1,34 +1,45 @@
-builder: 3568f2a4-c5f7-42a5-bee8-7dae8f238632
-callsign: ''
+name: Joanne
+oga_no: 3179
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Farne Islander built by first owner 2000 - 2013.</p>
+full_description: ''
+builder:
+  name: W Filarski
+  id: 3568f2a4-c5f7-42a5-bee8-7dae8f238632
+designer:
+  name: Iain Oughtred
+  id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
 construction_material: woodepoxy
 construction_method: unknown
-designer: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
-  length_on_waterline: 5.8522
-  length_overall: 6.096
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 6
+  moving_keel: true
+  length_overall: 6.096
+  moving_keel_type: Centreboard
+  length_on_waterline: 5.8522
 home_country: NLD
 home_port: Akersloot
 hull_form: long keel deep forefoot
 id: 80aa4fc5-19f9-41fd-bb50-62f505c11804
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Joanne
-oga_no: 3179
+callsign: ''
 ownerships:
 - name: Wouter Filarski
   share: 64
   start: 2000
-rig_type: Cutter
-short_description: <p>Farne Islander built by first owner 2000 - 2013.</p>
 updated_at: '2021-12-19T13:40:03.283621+00:00'
 website: ''
 year: 2013
 year_is_approximate: false
+construction_details: Wood epoxy
+beam: 2.3165
+design_class:
+  name: Farne Islander
+  id: 42e15ee4-eb4d-487c-95f5-a7af965e8487
+for_sale_state:
+  text: not_for_sale

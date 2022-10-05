@@ -1,11 +1,11 @@
-builder: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
-draft: 1.2192
-engine_installations: []
-for_sales: []
+name: Lucy of Mylor
+oga_no: 1265
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Previously known as &#39;Lucy&#39;, and built by Martin Heard
+  in 1985 she has sailed extensively, visiting Brest in 1992, 1996 and 2004, Holland
+  in 1997 and 2005 and several Falmouth Festivals.</p>
 full_description: "<h3>Martin Pound, skipper of &#39;Lucy&#39;, thanks the East Coast\
   \ Area for their hospitality</h3>\r\n\r\n<p>First published, Gaffers Log, September\
   \ 2006</p>\r\n\r\n<blockquote>Firstly thanks to all concerned on the East Coast,\
@@ -39,41 +39,50 @@ full_description: "<h3>Martin Pound, skipper of &#39;Lucy&#39;, thanks the East 
   \ not run dry of his best tipple!!).</blockquote>\r\n\r\n<blockquote>Thank you again\
   \ East Coast; it was a great example of how to host a visiting Gaffer. Memorable\
   \ days.</blockquote>"
-generic_type: Yacht
+builder:
+  name: Martin Heard
+  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.2192
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.21921482565228
-  fore_triangle_base: 5.89287978541819
-  fore_triangle_height: 7.874116069251402
-  length_on_waterline: 6.705681541087539
-  length_over_all: 7.010485247500609
-  length_over_spars: 10.66812972445745
   main:
     foot: 4.368861253352841
     head: 3.2766581321628867
     luff: 3.6576444769568397
-  propellor:
-    blades: 2
-    type: fixed
-  sailarea: 41.6499691269796
   thcf: 0.912
+  draft: 1.21921482565228
   topsail:
     luff: 4.648262618873445
     perpendicular: 1.9812362838332114
+  sailarea: 41.6499691269796
+  propellor:
+    type: fixed
+    blades: 2
+  length_over_all: 7.010485247500609
+  length_over_spars: 10.66812972445745
+  fore_triangle_base: 5.89287978541819
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 7.874116069251402
 home_country: GBR
 home_port: Gosport
 hull_form: long keel deep forefoot
 id: e7d30d25-addd-4673-88f1-449c2332bb62
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Lucy of Mylor
-oga_no: 1265
+sail_number: '1265'
+callsign: ''
 ownerships:
 - note: Jack Stevens owned her in 1986 and then sold her to A.J.Cox in 1987. When
     Martin Pound bought her she had been laid up ashore for at least 2 years.
+  text: Jack Stevens owned her in
   start: 1986
   start_is_approximate: false
-  text: Jack Stevens owned her in
 - end: 2009
   name: Martin Pound
   share: 64
@@ -82,17 +91,23 @@ ownerships:
   name: Paul Martin
   share: 64
   start: 2009
-- current: true
-  id: 657
-  member: 5473
+- id: 657
   share: 64
   start: 2011
+  member: 5473
+  current: true
 place_built: Tregatreath
-rig_type: Cutter
-short_description: <p>Previously known as &#39;Lucy&#39;, and built by Martin Heard
-  in 1985 she has sailed extensively, visiting Brest in 1992, 1996 and 2004, Holland
-  in 1997 and 2005 and several Falmouth Festivals.</p>
 updated_at: '2021-12-19T13:39:06.45091+00:00'
 website: ''
 year: 1985
 year_is_approximate: false
+previous_names:
+- Lucy
+image_key: GgdcHM
+construction_details: GRP hull with plywood coachroof and deck
+beam: 2.4384
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
+for_sale_state:
+  text: not_for_sale

@@ -1,43 +1,52 @@
-builder: 83a839af-b960-4cce-a881-b4401432846c
-callsign: ''
+name: Gadwall
+oga_no: 1391
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Major refit
+builder:
+  name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
+designer:
+  name: Charles E. Nicholson
+  id: f97b2d74-8535-4ed5-8602-651d2ca2898f
 construction_material: wood
 construction_method: carvel
-designer: f97b2d74-8535-4ed5-8602-651d2ca2898f
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: Major refit
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.5240185320653499
-  fore_triangle_base: 3.0480370641306997
-  fore_triangle_height: 7.620092660326749
-  length_on_waterline: 7.315288953913679
-  length_over_all: 9.1441111923921
   main:
     foot: 4.26725188978298
     head: 3.6576444769568397
     luff: 10.66812972445745
+  thcf: 0.991389016
+  draft: 1.5240185320653499
   propellor:
     type: fixed
-  thcf: 0.991389016
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 3.0480370641306997
+  length_on_waterline: 7.315288953913679
+  fore_triangle_height: 7.620092660326749
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 0ce160c9-3504-4aac-b1c2-4c5dd9361d2f
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Gadwall
-oga_no: 1391
+uk_part1: '167969'
+callsign: ''
 ownerships:
 - name: F J Harris
   share: 64
   start: 1989
 place_built: Gosport
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:10.026169+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+construction_details: Carvel Mahogany on Oak
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

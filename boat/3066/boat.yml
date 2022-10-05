@@ -1,57 +1,70 @@
-builder: dc93b6b8-f061-4d7e-a409-61a432c140d8
-callsign: ''
+name: Arwen
+oga_no: 3066
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Built in 1975, Arwen is one of the original Memory 19s, completed
+  at home by her first owner, Hugh Harrison.
+full_description: Her current owner, Roger Wallington has converted the mast to deck
+  stepped, adding a sliding hatchway and inboard engine.
+builder:
+  name: Harrison
+  id: dc93b6b8-f061-4d7e-a409-61a432c140d8
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5486
 engine_installations: []
 for_sales: []
-full_description: Her current owner, Roger Wallington has converted the mast to deck
-  stepped, adding a sliding hatchway and inboard engine.
-generic_type: Yacht
 handicap_data:
   beam: 2.1300259043525966
-  draft: 0.5300064456839795
-  draft_keeldown: 1.14001386430139
-  fore_triangle_base: 2.7300332013533284
-  fore_triangle_height: 5.60006810534016
-  length_on_waterline: 5.690069199890271
-  length_over_all: 5.790070416057059
-  length_over_spars: 7.3000887801755665
   main:
     foot: 4.600055943672275
     head: 3.300040133504023
     luff: 4.100049862838332
-  propellor:
-    blades: 2
-    type: fixed
-  sailarea: 28.405358232444776
   thcf: 0.866
+  draft: 0.5300064456839795
   topsail:
     luff: 3.300040133504023
     perpendicular: 1.40001702633504
+  sailarea: 28.405358232444776
+  propellor:
+    type: fixed
+    blades: 2
+  draft_keeldown: 1.14001386430139
+  length_over_all: 5.790070416057059
+  length_over_spars: 7.3000887801755665
+  fore_triangle_base: 2.7300332013533284
+  length_on_waterline: 5.690069199890271
+  fore_triangle_height: 5.60006810534016
 home_country: GBR
 home_port: Bristol Channel
 hull_form: centre-boarder
 id: a9830bff-25ce-4eff-997f-2cdf378037d5
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Arwen
-oga_no: 3066
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2010
   name: Hugh Harrison
   share: 64
   start: 1975
-- current: true
-  id: 674
-  member: 5536
+- id: 674
   share: 64
   start: 2010
-rig_type: Sloop
-short_description: Built in 1975, Arwen is one of the original Memory 19s, completed
-  at home by her first owner, Hugh Harrison.
+  member: 5536
+  current: true
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 1975
 year_is_approximate: false
+image_key: ZpTfBw
+construction_details: GRP
+beam: 2.1031
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

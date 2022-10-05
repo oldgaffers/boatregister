@@ -1,10 +1,11 @@
-builder: a8539378-a573-48e6-9f76-179b93aec71c
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 1.0058
-engine_installations: []
-for_sales: []
+name: Storm
+oga_no: 553
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Storm is a shrimping bawley but was never used for fishing;
+  she was always a yacht. She was owned twice by Maurice Griffiths and features in
+  his books.</p>
 full_description: "<p>Storm was built in 1910 by Bundock Brothers at Leigh on Sea,\
   \ and when built she was originally called &quot;Lady Myra&quot;.&nbsp; Myra was\
   \ the wife of the first owner, Mr C Horstead.&nbsp; In the 1911 &amp; 1912 local\
@@ -46,34 +47,39 @@ full_description: "<p>Storm was built in 1910 by Bundock Brothers at Leigh on Se
   \ the elderly Kelvin diesel replaced with a more modern Beta, and gradually planks\
   \ have been replaced, the hull re-fastened, the usual on-going process for an old\
   \ boat like Storm.</p>\r\n\r\n<p>&nbsp;</p>"
-generic_type: Bawley
+builder:
+  name: Bundock Bros.
+  id: a8539378-a573-48e6-9f76-179b93aec71c
+construction_material: wood
+construction_method: carvel
+draft: 1.0058
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.692453060229212
-  draft: 1.0160204828090709
-  fore_triangle_base: 6.045293830772982
-  fore_triangle_height: 6.604096561814192
-  length_on_waterline: 7.772506705681541
-  length_over_all: 7.924896366739819
   main:
     foot: 5.080078029748842
     head: 4.01325286515484
     luff: 3.6576444769568397
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 42.541783461398545
   thcf: 0.929
+  draft: 1.0160204828090709
   topsail:
     luff: 4.87685930260912
     perpendicular: 1.5240185320653499
+  sailarea: 42.541783461398545
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.924896366739819
+  fore_triangle_base: 6.045293830772982
+  length_on_waterline: 7.772506705681541
+  fore_triangle_height: 6.604096561814192
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 2884ecca-ae2b-4613-95e0-d1b750a2b57a
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Storm
-oga_no: 553
+callsign: ''
 ownerships:
 - end: 2002
   name: David Cade
@@ -87,17 +93,20 @@ ownerships:
   name: Ray Austin
   share: 64
   start: 2014
-- current: true
-  id: 141
-  member: 2287
+- id: 141
   share: 64
   start: 2015
+  member: 2287
+  current: true
 place_built: Leigh on Sea
-rig_type: Cutter
-short_description: <p>Storm is a shrimping bawley but was never used for fishing;
-  she was always a yacht. She was owned twice by Maurice Griffiths and features in
-  his books.</p>
 updated_at: '2021-12-19T13:38:45.614909+00:00'
 website: ''
 year: 1910
 year_is_approximate: false
+previous_names:
+- Lady Myra
+image_key: ZtRpzB
+construction_details: Carvel
+beam: 2.6822
+for_sale_state:
+  text: not_for_sale

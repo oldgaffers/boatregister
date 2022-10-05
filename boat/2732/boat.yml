@@ -1,11 +1,10 @@
-builder: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
-draft: 0.5334
-engine_installations: []
-for_sales: []
+name: Greensleeves
+oga_no: 2732
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Greensleeves&#39; is a 19&#39; Memory &#39;with two 7&#39;
+  berths, a cooker, sink, red and black bucket, a good sail wardrobe and two outboards&#39;.</p>
 full_description: "<p>Skipper, Roy Hart, has sailed many nautical miles, mostly single-handed\
   \ in &lsquo;Greensleeves&rsquo;. She has many modifications for long sea passages.\
   \ We carry two outboards, one in the well and one on a bracket. She has excellent\
@@ -19,31 +18,41 @@ full_description: "<p>Skipper, Roy Hart, has sailed many nautical miles, mostly 
   \ made by Chris Bonnington, who had just lost a friend on a mountaineering expedition.\
   \ He had replied to a similar comment by saying: &lsquo;We take risks not to escape\
   \ life, but to prevent life escaping us.&rsquo;&quot;</p>"
-generic_type: Yacht
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
+construction_material: grp
+construction_method: cold_moulded
+draft: 0.5334
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.13362594489149
   draft: 0.5334064862228725
-  length_on_waterline: 5.690685198732017
   length_over_all: 5.7912704218483295
+  length_on_waterline: 5.690685198732017
 home_country: GBR
 home_port: Battlesbridge
 hull_form: unknown
 id: cb83a0f1-c0c2-4dde-9238-17734abd8571
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Greensleeves
-oga_no: 2732
+callsign: ''
 ownerships:
-- current: true
-  id: 485
-  member: 4649
+- id: 485
   share: 64
   start: 2008
+  member: 4649
+  current: true
 place_built: Bursledon
-rig_type: Cutter
-short_description: <p>&#39;Greensleeves&#39; is a 19&#39; Memory &#39;with two 7&#39;
-  berths, a cooker, sink, red and black bucket, a good sail wardrobe and two outboards&#39;.</p>
 updated_at: '2021-12-19T13:39:47.721358+00:00'
 website: ''
 year: 1998
 year_is_approximate: false
+image_key: 2TbfGM
+construction_details: GRP
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

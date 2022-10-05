@@ -1,11 +1,10 @@
-builder: 91265725-4733-411d-bec3-a691a05c4739
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: b5bd41f8-e663-4d61-88d9-dd3845a251fa
-draft: 1.9202
-engine_installations: []
-for_sales: []
+name: White Heather
+oga_no: 1122
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;White Heather&#39; was built as a yacht in Poole, 1908.
+  Dismasted in 1918 she was used as a fishing boat. By the 1930s she was a yacht again.</p>
 full_description: "<p>&#39;White Heather&#39;&nbsp;won the Channel Cup race in 1934\
   \ and was moored in Yarmouth, Isle of Wight for many years. In the 1990s she was\
   \ based on the Thames when she needed work to be done including new stern planking\
@@ -54,25 +53,37 @@ full_description: "<p>&#39;White Heather&#39;&nbsp;won the Channel Cup race in 1
   \ as being owned by James H.N&nbsp;Malcolm. In all these Registries her length is\
   \ 35.7ft on deck, so her counter had ben added before she was registered, if she\
   \ ever was transom sterned to start with.</p>"
-generic_type: unknown
+builder:
+  name: Ashton and Kilner
+  id: 91265725-4733-411d-bec3-a691a05c4739
+designer:
+  name: Aston
+  id: b5bd41f8-e663-4d61-88d9-dd3845a251fa
+construction_material: wood
+construction_method: unknown
+draft: 1.9202
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.3528407705437697
   draft: 1.9202633504023408
-  length_on_waterline: 9.326993416239942
   length_over_all: 10.881492318946599
+  length_on_waterline: 9.326993416239942
 home_country: GBR
 home_port: Portland
 hull_form: unknown
 id: 60c878f9-0dec-49cb-9013-ab0c2ba39c5d
 length_on_deck: 10.8814
-mainsail_type: gaff
-name: White Heather
-oga_no: 1122
+reference:
+- Log Dec 2018
+uk_part1: '131802'
+callsign: ''
 place_built: Poole
-rig_type: Cutter
-short_description: <p>&#39;White Heather&#39; was built as a yacht in Poole, 1908.
-  Dismasted in 1918 she was used as a fishing boat. By the 1930s she was a yacht again.</p>
 updated_at: '2021-01-31T17:02:52.932965+00:00'
 website: ''
 year: 1908
 year_is_approximate: false
+image_key: w7z4WW
+beam: 3.3528
+for_sale_state:
+  text: not_for_sale

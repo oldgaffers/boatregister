@@ -1,11 +1,11 @@
-builder: 375e40be-c091-4ef4-8802-8a5e3b4f1d36
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 815c3c00-58fa-4799-a8f1-45b9380d7d4c
-draft: 2.286
-engine_installations: []
-for_sales: []
+name: Servabo
+oga_no: 149
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>Servabo is the last Brixham Trawler to be built in Brixham.
+  She was converted to a yacht in around 1937. She did charter work out of Plymouth
+  in the 1930&#39;s and after the second world war in Scottish waters.</p>
 full_description: "<p>Built for Tom Adams, to race as well as fish. She was slow to\
   \ start but when tuned up won the King George V cup and came second behind &#39;Guess\
   \ Who&#39; another year.</p>\r\n\r\n<p>&#39;Servabo&#39; fished 9-10 years and was\
@@ -15,7 +15,17 @@ full_description: "<p>Built for Tom Adams, to race as well as fish. She was slow
   \ drowned and she was left for a few years before being taken&nbsp;to the Solent.\
   \ She was once again chartered in the 1960&#39;s.</p>\r\n\r\n<p>In 1999 &#39;Servabo&#39;\
   \ was reported as still sailing in the Caribbean.</p>"
-generic_type: unknown
+builder:
+  name: R. Jackman
+  id: 375e40be-c091-4ef4-8802-8a5e3b4f1d36
+designer:
+  name: R. Jackman
+  id: 815c3c00-58fa-4799-a8f1-45b9380d7d4c
+construction_material: wood
+construction_method: unknown
+draft: 2.286
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.968300414533041
   draft: 2.286027798098025
@@ -25,15 +35,14 @@ home_port: ''
 hull_form: unknown
 id: c9e40ba5-580b-4fa8-9556-1a92b0518697
 length_on_deck: 21.336
-mainsail_type: gaff
-name: Servabo
-oga_no: 149
+uk_part1: '149000'
+callsign: ''
 place_built: Brixham
-rig_type: Ketch
-short_description: <p>Servabo is the last Brixham Trawler to be built in Brixham.
-  She was converted to a yacht in around 1937. She did charter work out of Plymouth
-  in the 1930&#39;s and after the second world war in Scottish waters.</p>
 updated_at: '2021-03-27T22:53:20.17958+00:00'
 website: ''
 year: 1927
 year_is_approximate: false
+image_key: hBwZhs
+beam: 4.9682
+for_sale_state:
+  text: not_for_sale

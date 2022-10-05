@@ -1,33 +1,43 @@
-builder: 83a839af-b960-4cce-a881-b4401432846c
-callsign: ''
+name: Meld
+oga_no: 7003
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: ''
+full_description: ''
+builder:
+  name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
+designer:
+  name: Charles E. Nicholson
+  id: f97b2d74-8535-4ed5-8602-651d2ca2898f
 construction_material: wood
 construction_method: unknown
-designer: f97b2d74-8535-4ed5-8602-651d2ca2898f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 home_country: 'null'
 home_port: Carrickfergus
 hull_form: unknown
 id: e4bf10b2-6d7a-4616-b99d-da4a8d75d4fa
 length_on_deck: 0
-mainsail_type: bermudan
-name: Meld
-oga_no: 7003
+callsign: ''
 ownerships:
 - name: William John Carlisle
   share: 64
   start: 2012
-- current: true
-  id: 342
-  member: 3872
+- id: 342
   share: 64
+  member: 3872
+  current: true
   start: '?'
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:40:00.119442+00:00'
 website: ''
 year: 1972
 year_is_approximate: false
+beam: 0
+design_class:
+  name: South Coast OD
+  id: 81690352-ecb2-4aa7-adbc-fba29ebfc589
+for_sale_state:
+  text: not_for_sale

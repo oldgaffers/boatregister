@@ -1,12 +1,10 @@
-builder: 9468a7e4-3fbb-4e3d-8c6e-c04522cca3cb
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 0dbd668c-c3f5-405f-9b23-11d51c63de62
-draft: 1.143
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Sybella
+oga_no: 3375
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built in 1951, &#39;Sybella&#39; was placed on the market as
+  a restoration project in 2018.</p>
 full_description: "<p>SYBELLA, was built in 1951 in the Royal Dock, Grimsby, the whole\
   \ history of her and one of the builders has been researched. The two builders were\
   \ Tom Barkham and Dick Abernathie.</p>\r\n\r\n<p>Tom was the nephew of Alexander\
@@ -33,7 +31,18 @@ full_description: "<p>SYBELLA, was built in 1951 in the Royal Dock, Grimsby, the
   \ that as when the book was published Bill and Phillip soon &nbsp;died.</p>\r\n\r\
   \n<p>I would love someone to take this project on, and see her return to grimsby\
   \ under sail, thanks for reading this S R WRIGHT</p>"
-generic_type: Yacht
+builder:
+  name: Abernathze and Bakham
+  id: 9468a7e4-3fbb-4e3d-8c6e-c04522cca3cb
+designer:
+  name: Belchambers
+  id: 0dbd668c-c3f5-405f-9b23-11d51c63de62
+construction_material: wood
+construction_method: carvel
+draft: 1.143
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   length_overall: 6.7056
 home_country: GBR
@@ -41,23 +50,24 @@ home_port: Norfolk
 hull_form: long keel deep forefoot
 id: a4f994e1-5e21-415c-a95a-e0a87e6570dc
 length_on_deck: 6.7056
-mainsail_type: gaff
-name: Sybella
-oga_no: 3375
+uk_part1: '184433'
+callsign: ''
 ownerships:
 - name: S Wright
   share: 64
   start: 2008
-- current: true
-  id: 996
-  member: 6225
+- id: 996
   share: 64
+  member: 6225
+  current: true
   start: '?'
 place_built: Grimsby
-rig_type: Cutter
-short_description: <p>Built in 1951, &#39;Sybella&#39; was placed on the market as
-  a restoration project in 2018.</p>
 updated_at: '2021-12-19T13:40:09.239879+00:00'
 website: ''
 year: 1951
 year_is_approximate: false
+image_key: GBH8rn
+construction_details: Carvel, mahogany on oak
+beam: 2.1336
+for_sale_state:
+  text: for_sale

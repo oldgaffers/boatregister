@@ -1,10 +1,8 @@
-builder: d09f64ef-8999-4792-a158-3544221a7a35
-construction_material: plywood
-construction_method: other
-designer: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
-draft: 0.351
-engine_installations: []
-for_sales: []
+name: Luely
+oga_no: 3708
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p><br></p>
 full_description: '<p>Luely is a sharpie - as in the traditional type from America''s
   Eastern Seaboard - designed by Iain Oughtred. Iain''s design is called the ''Haiku'',
   which took as inspiration the famous sharpie ''Egret'' designed by Commodore Ralph
@@ -27,30 +25,39 @@ full_description: '<p>Luely is a sharpie - as in the traditional type from Ameri
   better than to dry out on the mud. For this reason, she can be spotted sailing on
   the Solway coast (Scottish side), but being a trailer-dweller and perfectly capable
   in open water, will also pop up on any of our other coasts from time to time!</p>'
+builder:
+  name: Home Build
+  id: d09f64ef-8999-4792-a158-3544221a7a35
+designer:
+  name: Iain Oughtred
+  id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+construction_material: plywood
+construction_method: other
+draft: 0.351
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.408
+  thcf: 0.93
+  sailarea: 31.094
+  propellor:
+    type: folding
+    blades: 2
   length_on_deck: 9.144
   length_on_waterline: 7.718
-  propellor:
-    blades: 2
-    type: folding
-  sailarea: 31.094
-  thcf: 0.93
 home_country: UK
 hull_form: centre-boarder
 id: 91596945-fed9-4ab1-ae48-40bfb74f9759
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Luely
-oga_no: 3708
+spar_material: carbon_composite
 ownerships:
-- current: true
-  id: 35003
-  member: 6585
+- id: 35003
   share: 64
+  member: 6585
+  current: true
 place_built: Oxfordshire
-rig_type: Yawl
-short_description: <p><br></p>
 updated_at: '2022-08-17T09:34:19.490789+00:00'
 year: 2020
 year_is_approximate: false
+image_key: pkV6P3
+air_draft: 33.4

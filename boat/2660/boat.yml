@@ -1,31 +1,40 @@
-builder: 6a3e9e9c-1eea-419a-9417-47a678d6bf11
-callsign: ''
+name: Galium Hawk
+oga_no: 2660
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: See CB Sept 04
+builder:
+  name: Kingsley Farrington
+  id: 6a3e9e9c-1eea-419a-9417-47a678d6bf11
+designer:
+  name: Ernest L. Woods
+  id: 3463c84e-7224-459b-bd55-d69ce8de660e
 construction_material: grp
 construction_method: cold_moulded
-designer: 3463c84e-7224-459b-bd55-d69ce8de660e
 draft: 0.8382
 engine_installations: []
 for_sales: []
-full_description: See CB Sept 04
-generic_type: Yacht
 handicap_data:
   beam: 1.9050231650816873
-  draft: 0.8382101926359424
-  length_on_waterline: 5.4864667154352595
-  length_over_all: 6.0960741282613995
   thcf: 0.881919938
+  draft: 0.8382101926359424
+  length_over_all: 6.0960741282613995
+  length_on_waterline: 5.4864667154352595
 home_country: 'null'
 home_port: Wroxham
 hull_form: unknown
 id: a883f7c3-78c8-49fc-93c1-b4872cb2fbb3
 length_on_deck: 6.096
-mainsail_type: gaff
-name: Galium Hawk
-oga_no: 2660
+sail_number: '119'
+callsign: ''
 place_built: Norwich
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-03-23T08:45:35.98548+00:00'
 website: ''
 year: 1994
 year_is_approximate: false
+construction_details: Grp copy of wood one design
+beam: 1.905
+for_sale_state:
+  text: not_for_sale

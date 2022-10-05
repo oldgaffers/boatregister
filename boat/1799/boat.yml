@@ -1,38 +1,44 @@
-callsign: ''
+name: Calaman
+oga_no: 1799
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log Au/93
 construction_material: wood
 construction_method: carvel
 draft: 0.5578
 engine_installations: []
 for_sales: []
-full_description: Log Au/93
-generic_type: Yacht
 handicap_data:
   beam: 1.8532065349914655
-  draft: 0.5577907827359181
-  fore_triangle_base: 2.43842965130456
-  fore_triangle_height: 6.0960741282613995
-  length_on_waterline: 5.587051938551572
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.87685930260912
     head: 3.6576444769568397
     luff: 3.6576444769568397
   thcf: 0.876093358
+  draft: 0.5577907827359181
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.43842965130456
+  length_on_waterline: 5.587051938551572
+  fore_triangle_height: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 7529de36-2715-4284-934a-9bfed12902ea
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Calaman
-oga_no: 1799
+reference:
+- Log Au/93
+callsign: ''
 ownerships:
 - name: G S Pitt
   share: 64
   start: 1994
 place_built: Berwick
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:20.624402+00:00'
 website: ''
 year_is_approximate: false
+construction_details: Carvel
+beam: 1.8532
+for_sale_state:
+  text: not_for_sale

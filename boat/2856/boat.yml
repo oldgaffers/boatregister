@@ -1,11 +1,10 @@
-builder: ba7746ff-a625-4270-a6b8-b90e06678211
-callsign: 2AHH9
-construction_material: wood
-construction_method: carvel
-designer: 4df1507d-c01d-4e1e-950b-f2a6f875369f
-draft: 2.286
-engine_installations: []
-for_sales: []
+name: Polly Agatha
+oga_no: 2856
+generic_type: Bristol Channel Pilot Cutter
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Polly Agatha is an exact replica of the Bristol pilot cutter, Peggy,
+  built in Falmouth, 2007.
 full_description: "<p>Externally Polly Agatha is an exact replica of &#39;Peggy&#39;,\
   \ the original boat, all of the scantlings are the same as the original and the\
   \ method of construction is also the same with only two exceptions. One is the use\
@@ -27,40 +26,50 @@ full_description: "<p>Externally Polly Agatha is an exact replica of &#39;Peggy&
   \ providing a total of ten berths.</p>\r\n\r\n<p>There is a large galley and navigational\
   \ area which includes all the mod cons (and more!!) required to licence the boat\
   \ as a sea school.</p>"
-generic_type: Bristol Channel Pilot Cutter
+builder:
+  name: Cockwells
+  id: ba7746ff-a625-4270-a6b8-b90e06678211
+designer:
+  name: E. Rowles
+  id: 4df1507d-c01d-4e1e-950b-f2a6f875369f
+construction_material: wood
+construction_method: carvel
+draft: 2.286
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.1087539624481835
-  draft: 2.286027798098025
-  fore_triangle_base: 8.22970007315289
-  fore_triangle_height: 12.801755669348939
-  length_on_waterline: 12.161667885881492
-  length_over_all: 13.719214825652278
   main:
     foot: 8.83930748597903
     head: 7.059253840526701
     luff: 8.601560594976835
-  propellor:
-    blades: 3
-    type: fixed
   thcf: 1.135813834
+  draft: 2.286027798098025
   topsail:
     luff: 9.500731528895392
     perpendicular: 4.40136552060473
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 13.719214825652278
+  fore_triangle_base: 8.22970007315289
+  length_on_waterline: 12.161667885881492
+  fore_triangle_height: 12.801755669348939
 home_country: GBR
 home_port: 'Royal Clarence Marina - Gosport '
 hull_form: long keel deep forefoot
 id: a12a62c3-5062-4f49-9ff1-ca6caa7fc17a
 length_on_deck: 13.716
-mainsail_type: gaff
-name: Polly Agatha
-oga_no: 2856
+sail_number: PA
+uk_part1: '916036'
+callsign: 2AHH9
 ownerships:
 - end: 775
-  end_is_approximate: false
   note: 'Mobile: 07795 480254'
-  start: 779
-  start_is_approximate: false
   text: 'Mobile:'
+  start: 779
+  end_is_approximate: false
+  start_is_approximate: false
 - note: 'Kim said: We have left to cruise long term in our sloop and have passed Polly
     Agatha onto a new skipper, Mark Boardman so will not be renewing.'
   text: 'Kim said: We have left to cruise long term in our sloop and have passed Polly
@@ -83,16 +92,21 @@ ownerships:
   name: Kim Hartley
   share: 64
   start: 2007
-- current: true
-  id: 34873
-  member: 6488
+- id: 34873
   share: 64
+  member: 6488
+  current: true
   start: '?'
 place_built: Falmouth
-rig_type: Cutter
-short_description: Polly Agatha is an exact replica of the Bristol pilot cutter, Peggy,
-  built in Falmouth, 2007.
 updated_at: '2021-12-19T13:39:51.40568+00:00'
 website: http://www.polly-agatha.co.uk/
 year: 2007
 year_is_approximate: false
+image_key: qKN6QP
+construction_details: Carvel larch on oak
+beam: 4.1148
+design_class:
+  name: Bristol Channel Pilot Cutter
+  id: 01de4c84-0f55-42ef-8857-de9ee6eaec55
+for_sale_state:
+  text: not_for_sale

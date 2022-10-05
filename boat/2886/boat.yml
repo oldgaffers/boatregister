@@ -1,37 +1,47 @@
-builder: bb1ac064-c4aa-40a9-bc04-2f6fbd32fd91
-callsign: ''
-construction_material: wood
-construction_method: clinker
-designer: 235280d7-bf20-4583-b702-919a7d397829
-draft: 0
-engine_installations: []
-for_sales: []
+name: Christina
+oga_no: 2886
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
 full_description: Built as Lobster Boat Ina K 240 , first four owners in paper archive,
   then converted in 1998-2003. Rig Jib on Wykham-Martin, Storm forestayail, Gaff main
   and gynter mizzen
-generic_type: unknown
+builder:
+  name: Duncans of Burray
+  id: bb1ac064-c4aa-40a9-bc04-2f6fbd32fd91
+designer:
+  name: James Duncan
+  id: 235280d7-bf20-4583-b702-919a7d397829
+construction_material: wood
+construction_method: clinker
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 8.22970007315289
   propellor:
     type: fixed
+  length_over_all: 8.22970007315289
+  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: North Kessock
 hull_form: long keel deep forefoot
 id: ca42a9e9-19e5-4971-909a-259be56f63ee
 length_on_deck: 8.2296
-mainsail_type: gaff
-name: Christina
-oga_no: 2886
+callsign: ''
 ownerships:
 - name: Gordon Brown
   share: 64
   start: 1998
 place_built: Burray Orkney
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:52.3496+00:00'
 website: ''
 year: 1955
 year_is_approximate: false
+previous_names:
+- Ina
+construction_details: Clinker larch on oak
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

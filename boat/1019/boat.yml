@@ -1,34 +1,44 @@
-builder: 97373e89-d53d-428d-a9b4-bf6c68aebd94
-callsign: ''
+name: Biche
+oga_no: 1019
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 80/3
+builder:
+  name: Fairey Marine Ltd.
+  id: 97373e89-d53d-428d-a9b4-bf6c68aebd94
+designer:
+  name: Marine Fairey
+  id: 2140403d-5316-44fd-8e70-c84b097a3182
 construction_material: wood
 construction_method: hot_moulded
-designer: 2140403d-5316-44fd-8e70-c84b097a3182
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: Log 80/3
-generic_type: unknown
 handicap_data:
   beam: 1.5240185320653499
   draft: 0.7620092660326749
-  length_on_waterline: 4.358693001706901
   length_over_all: 5.029261155815655
+  length_on_waterline: 4.358693001706901
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 33bfd45d-2f91-46f2-b098-c10f84601bd5
 length_on_deck: 5.0292
-mainsail_type: gaff
-name: Biche
-oga_no: 1019
+reference:
+- Log 80/3
+callsign: ''
 ownerships:
 - name: W A MacGregor
   share: 64
   start: 2012
 place_built: Hamble
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:58.959134+00:00'
 website: ''
 year: 1955
 year_is_approximate: false
+construction_details: Hot moulded Teak
+beam: 1.524
+for_sale_state:
+  text: not_for_sale

@@ -1,30 +1,34 @@
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 1.6002
-engine_installations: []
-for_sales: []
+name: Lutine
+oga_no: 2457
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built in 1939, &#39;Astrid&#39; had been converted to Bermudan
+  rig and back to gaff.</p>
 full_description: "<p>&#39;Astrid&#39; was converted to Bermudan before 1976, with\
   \ a 42&#39; mast, and converted back to gaff in 1980. She was re-rigged in 2000\
   \ after the mast broke.</p>\r\n\r\n<p>The cabin was refitted in 1980-83 and the\
   \ engine replaced in 2000 (was BMC 2.2 Diesel) with tiller steering from opposed\
   \ worm wheel.</p>"
-generic_type: Yacht
+construction_material: wood
+construction_method: unknown
+draft: 1.6002
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
   draft: 1.6002194586686174
-  length_on_waterline: 8.22970007315289
-  length_over_all: 9.1441111923921
   propellor:
     type: fixed
+  length_over_all: 9.1441111923921
+  length_on_waterline: 8.22970007315289
 home_country: NLD
 home_port: ''
 hull_form: long keel deep forefoot
 id: c513e597-1c78-4824-af8b-e97a7f07bf95
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Lutine
-oga_no: 2457
+ssr: '3470'
+callsign: ''
 ownerships:
 - end: 1996
   name: J R Haggis
@@ -33,15 +37,18 @@ ownerships:
 - name: Sue James
   share: 64
   start: 1996
-- current: true
+- share: 64
   member: 3952
-  share: 64
+  current: true
   start: '?'
 place_built: St Mary's or Truro
-rig_type: Cutter
-short_description: <p>Built in 1939, &#39;Astrid&#39; had been converted to Bermudan
-  rig and back to gaff.</p>
 updated_at: '2021-12-19T13:39:39.380389+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+previous_names:
+- Astrid
+construction_details: Pitch pine on oak, cascover sheathed
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

@@ -1,11 +1,10 @@
-builder: 32e9bd28-9248-4553-9173-bae5c7acacfb
-callsign: MXWA3
-construction_material: wood
-construction_method: unknown
-designer: 25162387-500a-40dd-9812-afb00b0a2e0b
-draft: 1.1186
-engine_installations: []
-for_sales: []
+name: Papillon
+oga_no: 3331
+generic_type: Yacht
+rig_type: None
+mainsail_type: none
+short_description: <p>Papillon is a motor boat built in 1930. She is a Dunkirk Little
+  Ship.</p>
 full_description: <p>1930 Built by Leslie W Harris in Burnham on Crouch in Essex.</p><p>1940
   Operation Dynamo, Evacuation of BEF from Dunkirk.</p><p>Whilst owned by Mr C.P.
   Mackenrot, who lived at Westcliff-on-Sea, Essex &#39;Papillon&#39; was commissioned
@@ -33,29 +32,40 @@ full_description: <p>1930 Built by Leslie W Harris in Burnham on Crouch in Essex
   Turner and Jodi Smith purchased &#39;Papillon&#39; and took her to a new home in
   Cowes on the Isle of Wight.</p><p>2016 Sailed to Dunkirk to take part in the Christopher
   Nolan film, &#39;Dunkirk&#39;, to be released in July 2017</p>
-generic_type: Yacht
+builder:
+  name: Leslie W. Harris
+  id: 32e9bd28-9248-4553-9173-bae5c7acacfb
+designer:
+  name: Leslie W. Harris
+  id: 25162387-500a-40dd-9812-afb00b0a2e0b
+construction_material: wood
+construction_method: unknown
+draft: 1.1186
+engine_installations: []
+for_sales: []
 handicap_data:
   length_overall: 10.0584
 home_country: GBR
 home_port: East Cowes
 id: 9e222d67-a113-4c09-9dcd-84b500fa4dc7
 length_on_deck: 10.0584
-mainsail_type: none
-name: Papillon
-oga_no: 3331
+ssr: '31646'
+uk_part1: '161416'
+callsign: MXWA3
 ownerships:
 - name: Geoff Turner and Jodi Smith
   share: 64
   start: 2015
-- current: true
+- share: 64
   member: 6128
-  share: 64
+  current: true
   start: '?'
 place_built: Burnham on Crouch
-rig_type: None
-short_description: <p>Papillon is a motor boat built in 1930. She is a Dunkirk Little
-  Ship.</p>
 updated_at: '2021-12-19T13:40:07.784624+00:00'
 website: ''
 year: 1930
 year_is_approximate: false
+image_key: Pjd4Fp
+beam: 2.6152
+for_sale_state:
+  text: not_for_sale

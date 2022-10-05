@@ -1,33 +1,40 @@
-builder: 7fb1d4c6-486c-4518-a5eb-1d3a6d5ca7df
-callsign: ''
+name: Biche
+oga_no: 1040
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: Log 77/1
+builder:
+  name: Chaffeteau Shipyard
+  id: 7fb1d4c6-486c-4518-a5eb-1d3a6d5ca7df
 construction_material: wood
 construction_method: unknown
 draft: 3.3528
 engine_installations: []
 for_sales: []
-full_description: Log 77/1
-generic_type: unknown
 handicap_data:
   beam: 6.705681541087539
   draft: 3.3528407705437697
-  length_on_waterline: 18.2882223847842
   length_over_all: 21.3362594489149
+  length_on_waterline: 18.2882223847842
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 665002d7-5471-4f01-b8e3-862df521deab
 length_on_deck: 21.336
-mainsail_type: gaff
-name: Biche
-oga_no: 1040
+reference:
+- Log 77/1
+callsign: ''
 ownerships:
 - name: C H Booth
   share: 64
   start: 2012
 place_built: Sables d'Olones
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:59.633387+00:00'
 website: ''
 year: 1934
 year_is_approximate: false
+beam: 6.7056
+for_sale_state:
+  text: not_for_sale

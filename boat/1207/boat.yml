@@ -1,44 +1,57 @@
-builder: 94b0313d-39ac-4e36-8e9c-48e1906cab05
-callsign: ''
-construction_material: grp
-construction_method: cold_moulded
-designer: d23dc52a-3d61-413e-8423-a25f9603e6f5
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Mutual Friend
+oga_no: 1207
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Mutual Friend is a modern GRP version of an East Coast Smack
+  Yacht</p>
 full_description: <p><em>Mutual Friend</em> was built in 1983 by Tyrell and Young
   for John Tyrell himself. She is built on the lines of a traditional East Coast Smack,
   but had 6&#39;2 headroom below decks, with heating, hot and cold water and accomodation
   for 6. She has been continually maintained and upgraded over the last 30 years</p>
-generic_type: Smack
+builder:
+  name: Tyrell and Young
+  id: 94b0313d-39ac-4e36-8e9c-48e1906cab05
+designer:
+  name: J.W. Tyrrell
+  id: d23dc52a-3d61-413e-8423-a25f9603e6f5
+construction_material: grp
+construction_method: cold_moulded
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.590831504511095
   draft: 1.6764203852718849
-  length_on_waterline: 9.75371860521824
   length_over_all: 11.734942696903193
+  length_on_waterline: 9.75371860521824
 home_country: GBR
 home_port: Woolvestone
 hull_form: long keel deep forefoot
 id: 489ab5aa-b978-434f-a44a-a0d7472bba7a
 length_on_deck: 10.9728
-mainsail_type: gaff
-name: Mutual Friend
-oga_no: 1207
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 1989
   name: J W Tyrrell
   share: 64
   start: 1983
-- current: true
-  id: 1022
-  member: 6274
+- id: 1022
   share: 64
   start: 2019
+  member: 6274
+  current: true
 place_built: Sandwich or Faversham
-rig_type: Cutter
-short_description: <p>Mutual Friend is a modern GRP version of an East Coast Smack
-  Yacht</p>
 updated_at: '2022-03-03T22:01:01.524318+00:00'
 website: ''
 year: 1983
 year_is_approximate: false
+image_key: NLNRVc
+construction_details: GRP hull with GRP sheathed plywood decks
+beam: 3.429
+design_class:
+  name: Tyrell and Young 28 Smack
+  id: 9dadca9d-8e33-4bcf-a945-38b2debda2ec
+for_sale_state:
+  text: not_for_sale

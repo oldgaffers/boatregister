@@ -1,26 +1,33 @@
-builder: 81f83091-a77e-46de-ad12-ab5b82d6ac17
-callsign: ''
+name: Lamorna
+oga_no: 3330
+generic_type: Dayboat
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Built to order Summer 1997 and shown on the maker&#39;s stand
+  at the Southampton Boat Show. Lamorna is a Devon Potter, a 14ft. day boat.</p>
+full_description: <p>Lamorna&#39;s first owner sailed her from Penarth Sailing Club.
+  Since 2015 sailed mainly on Ullswater.</p>
+builder:
+  name: Wootton Bridge Ind.Ltd.
+  id: 81f83091-a77e-46de-ad12-ab5b82d6ac17
+designer:
+  name: Michael Webb/Peter Webb
+  id: d550dc13-533d-4701-843f-bd409355ec3d
 construction_material: wood
 construction_method: clinker
-designer: d550dc13-533d-4701-843f-bd409355ec3d
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: <p>Lamorna&#39;s first owner sailed her from Penarth Sailing Club.
-  Since 2015 sailed mainly on Ullswater.</p>
-generic_type: Dayboat
 handicap_data:
-  length_over_spars: 5.2304
-  length_overall: 4.444
   sailarea: 1
+  length_overall: 4.444
+  length_over_spars: 5.2304
 home_country: GBR
 home_port: At home
 hull_form: unknown
 id: 5f02e218-cd06-4bb5-920e-2d378843f977
 length_on_deck: 4.444
-mainsail_type: gaff
-name: Lamorna
-oga_no: 3330
+callsign: ''
 ownerships:
 - note: First owner Mr Johansen,
   text: First owner Mr Johansen,
@@ -29,15 +36,19 @@ ownerships:
 - name: Mark Tudor
   share: 64
   start: 2015
-- current: true
+- share: 64
   member: 6126
-  share: 64
+  current: true
   start: '?'
 place_built: Wootton Bridge Isle of Wight
-rig_type: Sloop
-short_description: <p>Built to order Summer 1997 and shown on the maker&#39;s stand
-  at the Southampton Boat Show. Lamorna is a Devon Potter, a 14ft. day boat.</p>
 updated_at: '2021-12-19T13:40:07.751871+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+construction_details: Traditional clinker, mahogany on oak.
+beam: 1.8776
+design_class:
+  name: Devon Potter
+  id: f7324de1-31cf-4ce5-9401-27b03c797980
+for_sale_state:
+  text: not_for_sale

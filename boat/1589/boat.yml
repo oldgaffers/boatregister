@@ -1,12 +1,18 @@
-builder: 870ca20e-bb5a-4d26-9da2-bc5449f3f052
-callsign: ''
+name: Wayland
+oga_no: 1589
+generic_type: Barge
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: F. Josephe
+  id: 870ca20e-bb5a-4d26-9da2-bc5449f3f052
 construction_material: wood
 construction_method: unknown
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Barge
 handicap_data:
   beam: 4.1453304072177515
   length_over_all: 16.154596439892707
@@ -15,17 +21,18 @@ home_port: Europe
 hull_form: unknown
 id: 26870465-5fbb-44f8-bbe8-51c747ac9a11
 length_on_deck: 16.1544
-mainsail_type: gaff
-name: Wayland
-oga_no: 1589
+callsign: ''
 ownerships:
 - name: T Frankl-Bertram
   share: 64
   start: 2012
 place_built: Elbe, Germany
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:15.668627+00:00'
 website: ''
 year: 1909
 year_is_approximate: false
+previous_names:
+- Industrie
+beam: 4.1453
+for_sale_state:
+  text: not_for_sale

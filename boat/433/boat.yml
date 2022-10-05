@@ -1,10 +1,12 @@
-builder: 661dad0e-9862-43d8-bc2d-729c2e8b757a
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 2.6914
-engine_installations: []
-for_sales: []
+name: Provident
+oga_no: 433
+generic_type: Brixham Trawler
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>One of the last trawlers built to work under sail, &#39;Provident&#39;
+  fished for six years before being converted to a yacht. She has cruised extensively
+  around the West Country and Baltic ports. After being out of service for more than
+  a year, she takes part in the Brixham Heritage Sailing Regatta, May 2016.</p>
 full_description: "<p>Built by Saunders &amp; Co. on the River Dart in 1924, for skipper\
   \ William Pillar, &#39;Provident&#39; is a medium sized Mule class gaff ketch and\
   \ fished &#39;with three men and a boy&#39;. After only six years fishing, an American,\
@@ -22,39 +24,45 @@ full_description: "<p>Built by Saunders &amp; Co. on the River Dart in 1924, for
   \ showing &#39;Provident&#39; at sea and undergoing significant restoration in 2013.</p>\r\
   \n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"360\" src=\"https://www.youtube.com/embed/a5Xua89bmic\"\
   \ width=\"640\"></iframe></p>"
-generic_type: Brixham Trawler
+builder:
+  name: Sanders and Co.
+  id: 661dad0e-9862-43d8-bc2d-729c2e8b757a
+construction_material: wood
+construction_method: unknown
+draft: 2.6914
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 5.4864667154352595
-  draft: 2.691416727627408
-  fore_triangle_base: 12.192148256522799
-  fore_triangle_height: 10.66812972445745
-  length_on_waterline: 18.2882223847842
-  length_over_all: 21.3362594489149
   main:
     foot: 9.1441111923921
     head: 8.53450377956596
     luff: 9.1441111923921
+  thcf: 1.235437796
+  draft: 2.691416727627408
   mizzen:
     foot: 6.0960741282613995
     head: 4.57205559619605
     luff: 3.6576444769568397
-  mizzen_topsail:
-    luff: 4.57205559619605
-    perpendicular: 2.13362594489149
-  propellor:
-    type: fixed
-  thcf: 1.235437796
   topsail:
     luff: 9.1441111923921
     perpendicular: 3.0480370641306997
+  propellor:
+    type: fixed
+  mizzen_topsail:
+    luff: 4.57205559619605
+    perpendicular: 2.13362594489149
+  length_over_all: 21.3362594489149
+  fore_triangle_base: 12.192148256522799
+  length_on_waterline: 18.2882223847842
+  fore_triangle_height: 10.66812972445745
 home_country: GBR
 home_port: Brixham
 hull_form: long keel deep forefoot
 id: 9895bb27-7350-47f4-9cbe-4a2f48beb9e9
 length_on_deck: 21.336
-mainsail_type: gaff
-name: Provident
-oga_no: 433
+sail_number: BM28
+callsign: ''
 ownerships:
 - end: 1971
   name: Island Cruising Club
@@ -64,19 +72,18 @@ ownerships:
     under Club ownership until 1971 when she was bought by the Maritime Trust and
     subsequently the Island Trust. She was bought by the Trinity Sailing Foundation
     in 2002.
+  text: Bought in
   start: 1951
   start_is_approximate: false
-  text: Bought in
 - name: Trinity Sailing
   share: 64
   start: 2002
 place_built: Galmpton
-rig_type: Ketch
-short_description: <p>One of the last trawlers built to work under sail, &#39;Provident&#39;
-  fished for six years before being converted to a yacht. She has cruised extensively
-  around the West Country and Baltic ports. After being out of service for more than
-  a year, she takes part in the Brixham Heritage Sailing Regatta, May 2016.</p>
 updated_at: '2021-12-19T13:38:42.135195+00:00'
 website: http://www.trinitysailing.org/vessels/provident/
 year: 1924
 year_is_approximate: false
+image_key: 4rRbxZ
+beam: 5.4864
+for_sale_state:
+  text: not_for_sale

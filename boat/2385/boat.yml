@@ -1,55 +1,66 @@
-builder: 612a6a6c-7eab-453b-a150-926c0463bcaa
-callsign: ''
+name: Roanna
+oga_no: 2385
+generic_type: Three Masted Schooner
+rig_type: Schooner
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Robin Bishop
+  id: 612a6a6c-7eab-453b-a150-926c0463bcaa
+designer:
+  name: Nigel Irens
+  id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
 construction_material: woodepoxy
 construction_method: unknown
-designer: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
 draft: 1.2009
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Three Masted Schooner
 handicap_data:
   beam: 3.438185808339429
-  draft: 1.2009266032674957
-  draft_keeldown: 2.4993903925871734
   fore:
     foot: 3.6210680321872712
     head: 4.044745184101438
     luff: 6.294196537429895
-  length_on_waterline: 10.399902462813946
-  length_over_all: 11.399658619848816
   main:
     foot: 5.245671787368934
     head: 6.038161424042916
     luff: 8.247988295537674
+  thcf: 1.066497351
+  draft: 1.2009266032674957
   mizen:
     foot: 2.304316020482809
     head: 2.749329431845891
     luff: 3.5509631797122654
   propellor:
-    blades: 3
     type: folding
-  thcf: 1.066497351
+    blades: 3
+  draft_keeldown: 2.4993903925871734
+  length_over_all: 11.399658619848816
+  length_on_waterline: 10.399902462813946
 home_country: 'null'
 home_port: River Yealm
 hull_form: long keel sloping forefoot
 id: 73f58119-26a7-4277-b732-f65ff01d7560
 length_on_deck: 11.3995
-mainsail_type: lug
-name: Roanna
-oga_no: 2385
+sail_number: GBR 545Y
+uk_part1: '902223'
+callsign: ''
 ownerships:
 - name: Robin Bishop
   share: 64
   start: 2012
-- current: true
+- share: 64
   member: 3869
-  share: 64
+  current: true
   start: '?'
 place_built: Staverton nr. Totnes
-rig_type: Schooner
-short_description: ''
 updated_at: '2022-01-23T12:35:25.632992+00:00'
 website: ''
 year: 1999
 year_is_approximate: false
+image_key: pgNV45
+construction_details: Cedar strip epoxy
+beam: 3.4381
+for_sale_state:
+  text: not_for_sale

@@ -1,23 +1,25 @@
-builder: 5a661932-6031-45fb-b51f-cf17a80562ab
-callsign: 2GZR2
-construction_material: woodepoxy
-construction_method: unknown
-designer: 19229bd6-6237-4e80-a224-de6bfb83a00b
-draft: 1.8593
-engine_installations: []
-for_sales: []
+name: Spirit of Callisto
+oga_no: 3348
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Spirit of Callisto was built by Spirit Yachts in 2013</p>
 full_description: <p>Richard and Linda Hearn commissioned Spirit of Callisto&#39;s
   design and build and were present throughout her construction at Spirit Yachts.They
   have cruised extensively in the Hebrides and the Caribbean. She won her class in
   the 2014 Antigua Classics and has competed in the 2017 Classic Channel Regatta.</p>
-generic_type: Yacht
+builder:
+  name: Spirit Yachts
+  id: 5a661932-6031-45fb-b51f-cf17a80562ab
+designer:
+  name: Sean McMillan
+  id: 19229bd6-6237-4e80-a224-de6bfb83a00b
+construction_material: woodepoxy
+construction_method: unknown
+draft: 1.8593
+engine_installations: []
+for_sales: []
 handicap_data:
-  calculated_thcf: 1.08
-  fore_triangle_base: 6.2088
-  fore_triangle_height: 9.4793
-  length_on_waterline: 10.4394
-  length_over_spars: 15.4838
-  length_overall: 12.7406
   main:
     foot: 21.4
     head: 16.08
@@ -26,28 +28,37 @@ handicap_data:
     foot: 9.7
     head: 7.3
     luff: 11.3
-  sailarea: 8
   topsail:
     luff: 18.2
     perpendicular: 10.3
+  sailarea: 8
+  length_overall: 12.7406
+  calculated_thcf: 1.08
+  length_over_spars: 15.4838
+  fore_triangle_base: 6.2088
+  length_on_waterline: 10.4394
+  fore_triangle_height: 9.4793
 home_country: GBR
 home_port: Isle Ornsay, Isle of Skye
 hull_form: cut_away_stem
 id: 16e4dbdc-7ec2-4cbf-ab18-9947a0d24c83
 length_on_deck: 12.7406
-mainsail_type: gaff
-name: Spirit of Callisto
-oga_no: 3348
+sail_number: '54'
+uk_part1: '919249'
+callsign: 2GZR2
 ownerships:
-- current: true
-  id: 544
-  member: 4925
+- id: 544
   share: 64
   start: 2013
+  member: 4925
+  current: true
 place_built: Ipswich
-rig_type: Yawl
-short_description: <p>Spirit of Callisto was built by Spirit Yachts in 2013</p>
 updated_at: '2021-12-19T13:40:08.384875+00:00'
 website: ''
 year: 2013
 year_is_approximate: false
+image_key: R4PFvP
+construction_details: Cold molded woodepoxy composite
+beam: 3.4442
+for_sale_state:
+  text: not_for_sale

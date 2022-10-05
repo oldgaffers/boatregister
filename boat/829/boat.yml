@@ -1,35 +1,54 @@
-builder: 0eb139e6-d991-4c98-90d0-b917c91e12c0
-callsign: ''
+name: Reginald The Dane
+oga_no: 829
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Previous owner called her Kismet but sold the boat as Reginald the
+  Dane. Log 84/4, 85/2 CB Jan 92
+builder:
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+designer:
+  name: William Maxwell Blake
+  id: 7be4728c-aec1-4b98-9245-33fa05964add
 construction_material: wood
 construction_method: unknown
-designer: 7be4728c-aec1-4b98-9245-33fa05964add
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: Previous owner called her Kismet but sold the boat as Reginald the
-  Dane. Log 84/4, 85/2 CB Jan 92
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
   draft: 1.066812972445745
-  length_on_waterline: 5.7912704218483295
   length_over_all: 6.858083394294074
+  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: Heybridge
 hull_form: unknown
 id: a9ab6796-b927-4b55-afbd-85f0b7430252
 length_on_deck: 6.858
-mainsail_type: gaff
-name: Reginald The Dane
-oga_no: 829
+reference:
+- Log 84/4
+- Log 85/2
+- CB Jan 92
+uk_part1: '183112'
+callsign: ''
 ownerships:
 - name: Vaughan Taylor
   share: 64
   start: 2012
 place_built: Woodbridge
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:53.52537+00:00'
 website: ''
 year: 1948
 year_is_approximate: false
+previous_names:
+- Kismet
+- Reginald the Dane
+construction_details: Pine on oak
+beam: 2.1336
+design_class:
+  name: Deben 4 Ton
+  id: e1b81706-7e46-47fe-ab3e-d03afcb552ce
+for_sale_state:
+  text: not_for_sale

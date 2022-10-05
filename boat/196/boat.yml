@@ -1,11 +1,11 @@
-builder: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: b0bd470d-2881-449b-9bc9-8df3bd526668
-draft: 2.3165
-engine_installations: []
-for_sales: []
+name: Morna
+oga_no: 196
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: Built by Dickies of Tarbert in 1920 <i>Morna</i> is 48' LOD, Pitch
+  pine on double sawn oak frames. She has sailed extensively around Scotland, NI,
+  Med and the Caribbean. Now back home in the Clyde undergoing a refit
 full_description: Built for Major Gordon Sillars, <i>Morna</i> was launched in May
   1920. She is Pitch pine planks on double sawn oak frame. <p> In 1924 she was brought
   by Major Robert Workman, He sailed her extensively around the West Coast of Scotland
@@ -23,20 +23,30 @@ full_description: Built for Major Gordon Sillars, <i>Morna</i> was launched in M
   the West Coast. <p> Now she is ashore undergoing a major refit which includes replacing
   numerous frames and metal floors. If you would like to keep up to date with the
   work, more information can be found on the YouTube channel "Living with the Tide".
-generic_type: Yacht
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+designer:
+  name: P.S. Dickie
+  id: b0bd470d-2881-449b-9bc9-8df3bd526668
+construction_material: wood
+construction_method: unknown
+draft: 2.3165
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.5052426237503047
   draft: 2.3165081687393316
-  length_on_waterline: 11.582540843696659
   length_over_all: 14.782979761033893
+  length_on_waterline: 11.582540843696659
 home_country: GBR
 home_port: Bangor
 hull_form: long keel sloping forefoot
 id: af8e516f-b4d3-4a80-b924-93990ad3fb30
 length_on_deck: 14.7828
-mainsail_type: gaff
-name: Morna
-oga_no: 196
+spar_material: wood
+uk_part1: '144196'
+callsign: ''
 ownerships:
 - end: 1950
   name: Major Robert Workman
@@ -45,23 +55,24 @@ ownerships:
 - note: From 1950 to 1967 she changed hands 3 times. She was bought by Stanley Reeves
     in 1967 and he owned her until his death. John Pinkerton found her in Croatia
     and transported her back to the UK in !998.
+  text: From
   start: 1950
   start_is_approximate: false
-  text: From
 - name: Stephen Clarkson
   share: 64
   start: 2002
-- current: true
-  id: 34767
-  member: 6416
+- id: 34767
   share: 64
+  member: 6416
+  current: true
   start: '?'
 place_built: Tarbert
-rig_type: Ketch
-short_description: Built by Dickies of Tarbert in 1920 <i>Morna</i> is 48' LOD, Pitch
-  pine on double sawn oak frames. She has sailed extensively around Scotland, NI,
-  Med and the Caribbean. Now back home in the Clyde undergoing a refit
 updated_at: '2021-12-19T13:38:35.275166+00:00'
 website: https://www.youtube.com/channel/UCZONPWPjwfo92wuz7eCERVA
 year: 1920
 year_is_approximate: false
+image_key: DRT6kS
+construction_details: Pitch pine on oak, iron fastened. oregon pine deck
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

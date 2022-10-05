@@ -1,10 +1,11 @@
-builder: ec53a38e-a926-4185-96aa-48faaa7a2b0d
-callsign: ''
-construction_material: wood
-construction_method: unknown
-draft: 0
-engine_installations: []
-for_sales: []
+name: Sea Breeze
+oga_no: 499
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Sea Breeze won 2nd Prize in the first Gaffers Race, Solent, 27
+  July 1959. The widow of her owner since 1947 sold her on his death, she was taken
+  to Scotland. Her tiller is believed to be at the Maritime Museum, Falmouth.
 full_description: "<h3>Letter to the OGA from Stan Lindsey-Wood, 1987</h3>\r\n\r\n\
   <h4>An account of expenditure on keeping an old boat afloat</h4>\r\n\r\n<p>I wonder\
   \ if an account of my expenditure on keeping my old boat afloat over the last 40\
@@ -30,30 +31,35 @@ full_description: "<h3>Letter to the OGA from Stan Lindsey-Wood, 1987</h3>\r\n\r
   \ 1984 &pound;124.00, 1985 &pound;76.88, 1986 &pound;210.1,7 1987 &pound;98.00.\
   \ This does not include food and petrol etc.</p>\r\n\r\n<p>I wonder if anyone gets\
   \ cheaper sailing than this.</p>"
-generic_type: Yacht
+builder:
+  name: Bishop
+  id: ec53a38e-a926-4185-96aa-48faaa7a2b0d
+construction_material: wood
+construction_method: unknown
+draft: 0
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  length_on_waterline: 7.315288953913679
   length_over_all: 7.315288953913679
+  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: bc08a675-6789-41a3-974d-6c28151ee1c8
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Sea Breeze
-oga_no: 499
+callsign: ''
 ownerships:
 - end: 1994
   name: Stan Lindsey-Wood
   share: 64
   start: 1947
 place_built: Newport IOW
-rig_type: Sloop
-short_description: Sea Breeze won 2nd Prize in the first Gaffers Race, Solent, 27
-  July 1959. The widow of her owner since 1947 sold her on his death, she was taken
-  to Scotland. Her tiller is believed to be at the Maritime Museum, Falmouth.
 updated_at: '2021-12-19T13:38:44.0584+00:00'
 website: ''
 year: 1873
 year_is_approximate: false
+image_key: xJQPFc
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

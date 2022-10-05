@@ -1,41 +1,53 @@
-builder: 76ac766b-618f-4b75-a0a1-a163b7170bd7
-callsign: ''
+name: Blondelle
+oga_no: 1698
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Hunter Boats Ltd.
+  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
+designer:
+  name: David Thomas
+  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 construction_material: grp
 construction_method: unknown
-designer: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 draft: 0.3566
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.2250670568154107
-  draft: 0.35662033650329183
-  fore_triangle_base: 2.261643501584979
-  fore_triangle_height: 4.925627895635211
-  length_on_waterline: 5.821750792489637
-  length_over_all: 6.919044135576688
   main:
     foot: 3.3528407705437697
     head: 2.691416727627408
     luff: 3.6820287734698853
   thcf: 0.845312999
+  draft: 0.35662033650329183
+  length_over_all: 6.919044135576688
+  fore_triangle_base: 2.261643501584979
+  length_on_waterline: 5.821750792489637
+  fore_triangle_height: 4.925627895635211
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 8517d53b-d175-4ef8-bcc2-f39e4a879a69
 length_on_deck: 6.919
-mainsail_type: gaff
-name: Blondelle
-oga_no: 1698
+sail_number: M10
+callsign: ''
 ownerships:
 - name: P R Anstey
   share: 64
   start: 1987
 place_built: Rochford Essex
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:18.08563+00:00'
 website: ''
 year: 1987
 year_is_approximate: false
+construction_details: G R P mouldings
+beam: 2.225
+design_class:
+  name: Hunter Minstrel
+  id: 55b03d72-c570-40b6-b304-a2bfb71b835c
+for_sale_state:
+  text: not_for_sale

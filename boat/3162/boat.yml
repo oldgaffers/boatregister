@@ -1,11 +1,11 @@
-builder: 8e55c71e-27db-404f-a0d1-208724d4c21a
-callsign: ''
-construction_material: steel
-construction_method: other
-designer: 10beb09b-eb0e-4aa4-9e1a-a397a05ee9f2
-draft: 0
-engine_installations: []
-for_sales: []
+name: Cine Mara
+oga_no: 3162
+generic_type: Galway Hooker
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>The &#39;Cine Mara&#39; is a Galway Hooker, built on the lines
+  of the famous &lsquo;Truelight&rsquo; from Ireland, by Dutchman, Rik Janssen in
+  the Netherlands.</p>
 full_description: "<p>The lines for &#39;Cine Mara&#39; were taken and drawings made\
   \ by Joe Murphy from Dublin. He provided Dutchman, Rik Janssen, with these plans\
   \ for building his first Hooker the &lsquo;Moorhen&rsquo;. &lsquo;Cine Mara&rsquo;\
@@ -23,27 +23,36 @@ full_description: "<p>The lines for &#39;Cine Mara&#39; were taken and drawings 
   \ the rightful critics admitted her into the genuine Hooker fleet, but only after\
   \ having&nbsp;her&nbsp;baptised with a small drop of &lsquo;Irish&rsquo; Holy water,\
   \ where the rest of the bottle had&nbsp;to be finished by the crew.</p>"
-generic_type: Galway Hooker
+builder:
+  name: Rik Janssen
+  id: 8e55c71e-27db-404f-a0d1-208724d4c21a
+designer:
+  name: Joe Murphy
+  id: 10beb09b-eb0e-4aa4-9e1a-a397a05ee9f2
+construction_material: steel
+construction_method: other
+draft: 0
+engine_installations: []
+for_sales: []
 home_country: NLD
 home_port: Ursem
 hull_form: unknown
 id: 3f9609f4-f572-46ea-8205-1b8a6bc376f4
 length_on_deck: 0
-mainsail_type: gaff
-name: Cine Mara
-oga_no: 3162
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 34813
-  member: 5945
+- id: 34813
   share: 64
   start: 2012
+  member: 5945
+  current: true
 place_built: Amsterdam
-rig_type: Cutter
-short_description: <p>The &#39;Cine Mara&#39; is a Galway Hooker, built on the lines
-  of the famous &lsquo;Truelight&rsquo; from Ireland, by Dutchman, Rik Janssen in
-  the Netherlands.</p>
 updated_at: '2021-12-19T13:40:02.792631+00:00'
 website: ''
 year: 2012
 year_is_approximate: false
+image_key: W4VshN
+beam: 0
+for_sale_state:
+  text: not_for_sale

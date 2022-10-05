@@ -1,42 +1,57 @@
-builder: a6482c01-706a-469d-93db-2ccab9020581
-callsign: ''
+name: Pretty Kitty
+oga_no: 1367
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 92/4, N/96
+builder:
+  name: North Sea Craft
+  id: a6482c01-706a-469d-93db-2ccab9020581
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 construction_material: grp
 construction_method: cold_moulded
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 draft: 0.8382
 engine_installations: []
 for_sales: []
-full_description: Log 92/4, N/96
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.8382101926359424
-  fore_triangle_base: 4.114850036576445
-  fore_triangle_height: 9.1441111923921
-  length_on_waterline: 6.452694464764692
-  length_over_all: 7.315288953913679
   main:
     foot: 4.26725188978298
     head: 3.176054620824189
     luff: 7.924896366739819
-  propellor:
-    type: fixed
   thcf: 0.932395816
+  draft: 0.8382101926359424
   topsail:
     luff: 2.6670324311143623
     perpendicular: 2.13362594489149
+  propellor:
+    type: fixed
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 4.114850036576445
+  length_on_waterline: 6.452694464764692
+  fore_triangle_height: 9.1441111923921
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 6157521c-a532-4dc1-9a3e-2915557a2b4c
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Pretty Kitty
-oga_no: 1367
+reference:
+- Log 92/4
+- Log N/96
+uk_part1: '377038'
+callsign: ''
 place_built: Brundall
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-26T07:56:13.893909+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+construction_details: GRP hull GRP sheathed wood deck
+beam: 2.4384
+design_class:
+  name: Tamarisk 24
+  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
+for_sale_state:
+  text: not_for_sale

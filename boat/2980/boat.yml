@@ -1,14 +1,22 @@
-builder: 3e75730d-d245-4c07-b7ea-05fcf6aecfb8
-callsign: ''
+name: Narhval
+oga_no: 2980
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Extensive restoration in 1997 in Norland, Washington USA - paperwork
+  has detailed rigging details.
+builder:
+  name: Klaus Baes
+  id: 3e75730d-d245-4c07-b7ea-05fcf6aecfb8
+designer:
+  name: Klaus Baes
+  id: 40cfafca-fa7a-4c8f-a014-788122d05fd0
 construction_material: wood
 construction_method: unknown
-designer: 40cfafca-fa7a-4c8f-a014-788122d05fd0
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Extensive restoration in 1997 in Norland, Washington USA - paperwork
-  has detailed rigging details.
-generic_type: Yacht
 handicap_data:
   beam: 3.5052426237503047
   length_over_all: 10.36332601804438
@@ -17,17 +25,17 @@ home_port: ''
 hull_form: unknown
 id: 43e46810-2b1a-48b0-a2b9-ccd3fb0ac006
 length_on_deck: 10.3632
-mainsail_type: gaff
-name: Narhval
-oga_no: 2980
+callsign: ''
 ownerships:
 - name: Brian Davis
   share: 64
   start: 1984
 place_built: Humlebaek Denmark
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:55.262113+00:00'
 website: ''
 year: 1958
 year_is_approximate: false
+construction_details: Pine and Douglas Fir on Oak frames
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

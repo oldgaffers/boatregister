@@ -1,39 +1,48 @@
-builder: 53bb07e5-206a-4bfd-b49e-c63028863448
-callsign: ''
+name: Bee
+oga_no: 3369
+generic_type: unknown
+mainsail_type: spritsail
+short_description: <p>Bee is a hunting and gunning skiff built in the USA in 2000</p>
+full_description: ''
+builder:
+  name: Crawford
+  id: 53bb07e5-206a-4bfd-b49e-c63028863448
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
 construction_material: grp
 construction_method: unknown
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
 draft: 0.1524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
-  draft_keel_down: 0.762
-  length_over_spars: 4.1666
-  length_overall: 4.1666
-  moving_keel: true
-  moving_keel_type: Centreboard
   sailarea: 0
+  moving_keel: true
+  length_overall: 4.1666
+  draft_keel_down: 0.762
+  moving_keel_type: Centreboard
+  length_over_spars: 4.1666
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 31106a6b-b053-4b90-9354-5ac66f73ca10
 length_on_deck: 4.1666
-mainsail_type: spritsail
-name: Bee
-oga_no: 3369
+sail_number: MS
+callsign: ''
 ownerships:
 - name: David Austin
   share: 64
   start: 2018
-- current: true
+- share: 64
   member: 6226
-  share: 64
+  current: true
   start: '?'
 place_built: Marshfield USA
-short_description: <p>Bee is a hunting and gunning skiff built in the USA in 2000</p>
 updated_at: '2021-12-19T13:40:09.048895+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+construction_details: Solid hand laid fibreglass cored construction with teak trim.
+beam: 1.2954
+for_sale_state:
+  text: not_for_sale

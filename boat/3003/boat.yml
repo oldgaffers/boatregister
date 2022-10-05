@@ -1,43 +1,57 @@
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
-draft: 0.9906
-engine_installations: []
-for_sales: []
+name: Golliwog
+oga_no: 3003
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: See Jacinta (2137)
 full_description: Maurice Griffiths design "Cockler" built as a bermudian cutter and
   rerigged by Bob Brinton 1996. Based on M G Drew's alternative snug gaff cutter sail
   plan for this design.  for sale, Log March 2002, on web Oct '05 and July 06
-generic_type: Yacht
+designer:
+  name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+construction_material: wood
+construction_method: unknown
+draft: 0.9906
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.5146305779078273
-  draft: 0.9906120458424774
-  fore_triangle_base: 4.215435259692757
-  fore_triangle_height: 6.4008778346744695
-  length_on_waterline: 7.010485247500609
-  length_over_all: 7.696293586930016
   main:
     foot: 4.26725188978298
     head: 3.9624481833699097
     luff: 3.0480370641306997
-  propellor:
-    type: fixed
   thcf: 0.90308888
+  draft: 0.9906120458424774
   topsail:
     luff: 4.87685930260912
     perpendicular: 2.43842965130456
+  propellor:
+    type: fixed
+  length_over_all: 7.696293586930016
+  fore_triangle_base: 4.215435259692757
+  length_on_waterline: 7.010485247500609
+  fore_triangle_height: 6.4008778346744695
 home_country: 'null'
 home_port: Hamble
 hull_form: long keel deep forefoot
 id: acc6d3d8-97cb-4c67-8be1-ed1299016da7
 length_on_deck: 7.6962
-mainsail_type: gaff
-name: Golliwog
-oga_no: 3003
+reference:
+- Log Mar 2002
+sail_number: '238'
+uk_part1: '300333'
+callsign: ''
 place_built: Leigh on Sea
-rig_type: Cutter
-short_description: See Jacinta (2137)
 updated_at: '2021-03-26T07:56:29.266411+00:00'
 website: ''
 year: 1952
 year_is_approximate: false
+previous_names:
+- Golliwog
+- Jacinta
+- Goli
+construction_details: Mahogany on oak
+beam: 2.5146
+for_sale_state:
+  text: not_for_sale

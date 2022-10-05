@@ -1,12 +1,11 @@
-builder: 8aabd4bc-1cdc-4e9e-9d1f-10206af9f873
-callsign: ''
-construction_material: wood
-construction_method: strip_planking
-designer: d9095f68-405d-4f76-8364-e267a3d8507f
-draft: 1.2954
-engine_installations: []
-for_sales:
-- asking_price: 7999
+name: Camay
+oga_no: 3228
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: Camay was a Bermudan rigged sloop designed by J Laurent Giles.
+  She is a Normandy Class Yacht - some have described her as a &#39;stretched&#39;
+  Vertue. She was sold as a hulk to be broken up in 2019.
 full_description: <p>Camay was a Normandy class, thought of as a &#39;stretched Vertue&#39;.
   She has had a virtual re-build in 2013-14, so now good for another 50 years!</p><p>She
   has the body lines, rig, perfect balance and classic good looks of her predecessor
@@ -22,29 +21,47 @@ full_description: <p>Camay was a Normandy class, thought of as a &#39;stretched 
   and she ended up bing broken up as&nbsp; hulk, but parts&nbsp; of &#39;Camay&#39;
   will survive her - (mast, boom to be used by the Blyth Tall Ship Project on &#39;Puddleduck&#39;&nbsp;
   &amp; some sails &amp; covers to &#39;Wagtail&#39; ).&nbsp;&nbsp;</p>
-generic_type: Yacht
+builder:
+  name: Punton and Campell
+  id: 8aabd4bc-1cdc-4e9e-9d1f-10206af9f873
+designer:
+  name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
+construction_material: wood
+construction_method: strip_planking
+draft: 1.2954
+engine_installations: []
+for_sales:
+- asking_price: 7999
 handicap_data:
-  length_on_waterline: 6.096
-  length_over_spars: 9.0922
   length_overall: 9.0922
+  length_over_spars: 9.0922
+  length_on_waterline: 6.096
 home_country: GBR
 home_port: Amble
 hull_form: cut_away_stem
 id: 64698b8c-8e0f-485d-8f6b-9b6216ded912
 length_on_deck: 9.0922
-mainsail_type: bermudan
-name: Camay
-oga_no: 3228
+sail_number: 660Y
+spar_material: wood
+ssr: '156661'
+uk_part1: '306951'
+callsign: ''
 ownerships:
 - name: Jim Bell
   share: 64
   start: 1999
 place_built: Blyth Northumberland
-rig_type: Sloop
-short_description: Camay was a Bermudan rigged sloop designed by J Laurent Giles.
-  She is a Normandy Class Yacht - some have described her as a &#39;stretched&#39;
-  Vertue. She was sold as a hulk to be broken up in 2019.
 updated_at: '2021-12-19T13:40:04.730857+00:00'
 website: ''
 year: 1965
 year_is_approximate: false
+image_key: GpFmgW
+construction_details: Strip planked larch on oak frames, oak keelson,stem and hog.
+  Cast iron ballast keel. Mast and spars silver spruce.
+beam: 2.3866
+design_class:
+  name: Normandy
+  id: 655df11c-b4a2-4952-a62f-3fbbd9a00ac1
+for_sale_state:
+  text: not_for_sale

@@ -1,26 +1,34 @@
-builder: 670653fb-b856-4551-b83d-091a3da80155
-callsign: ''
+name: Reverie
+oga_no: 755
+generic_type: Itchen Ferry
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Reverie&#39; was based on a Dan Hatcher design of 1890
+  and she has the same rig as &#39;Blue Jacket&#39;.</p>
+full_description: ''
+builder:
+  name: G D B Marine Ltd
+  id: 670653fb-b856-4551-b83d-091a3da80155
+designer:
+  name: Daniel G. Hatcher
+  id: 14683616-0fe8-4912-8de4-12c0337b20e6
 construction_material: wood
 construction_method: cold_moulded
-designer: 14683616-0fe8-4912-8de4-12c0337b20e6
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Itchen Ferry
 handicap_data:
   beam: 2.43842965130456
   draft: 0.9144111192392099
-  length_on_waterline: 6.4008778346744695
   length_over_all: 6.705681541087539
+  length_on_waterline: 6.4008778346744695
 home_country: GBR
 home_port: Wrabness
 hull_form: unknown
 id: 2a9baf90-6314-4e0a-9c0e-b7ed76fb7d14
 length_on_deck: 6.7818
-mainsail_type: gaff
-name: Reverie
-oga_no: 755
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2000
   name: Edgar Williams
@@ -29,16 +37,20 @@ ownerships:
 - name: Pete Elliston
   share: 64
   start: 2000
-- current: true
-  id: 305
-  member: 3662
+- id: 305
   share: 64
+  member: 3662
+  current: true
   start: '?'
 place_built: Southampton
-rig_type: Cutter
-short_description: <p>&#39;Reverie&#39; was based on a Dan Hatcher design of 1890
-  and she has the same rig as &#39;Blue Jacket&#39;.</p>
 updated_at: '2021-12-19T13:38:51.48542+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+previous_names:
+- Merlyn lll
+- Reverie
+image_key: jNjPQ3
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

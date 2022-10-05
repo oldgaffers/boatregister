@@ -1,36 +1,44 @@
-builder: c12457c6-6418-4020-8196-b66092e4ad74
-callsign: ''
+name: Mercia lll
+oga_no: 1526
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: J. Jarvies Jr.
+  id: c12457c6-6418-4020-8196-b66092e4ad74
+designer:
+  name: G.U. Laws
+  id: 6b0e581f-8507-4748-8d44-f8fb73dbef19
 construction_material: wood
 construction_method: carvel
-designer: 6b0e581f-8507-4748-8d44-f8fb73dbef19
 draft: 1.2802
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.194586686174104
   draft: 1.280175566934894
-  length_on_waterline: 6.2484759814679345
   length_over_all: 8.900268227261643
+  length_on_waterline: 6.2484759814679345
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 2e3dbdcf-4c5c-4d61-ad08-18db86122984
 length_on_deck: 8.9002
-mainsail_type: gaff
-name: Mercia lll
-oga_no: 1526
+callsign: ''
 ownerships:
-- current: true
-  id: 145
-  member: 2311
+- id: 145
   share: 64
   start: 2012
+  member: 2311
+  current: true
 place_built: London
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:13.871168+00:00'
 website: ''
 year: 1905
 year_is_approximate: false
+construction_details: Carvel N Zealand Kauri pine on oak
+beam: 2.1946
+for_sale_state:
+  text: not_for_sale

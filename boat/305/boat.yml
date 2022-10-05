@@ -1,46 +1,59 @@
-builder: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
-callsign: ''
+name: Talitha
+oga_no: 305
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Water Craft Sep/Oct 97 Outboard fitted in well
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: Water Craft Sep/Oct 97 Outboard fitted in well
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  fore_triangle_base: 2.8194342843208973
-  fore_triangle_height: 4.57205559619605
-  length_on_waterline: 5.739453791758107
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  propellor:
-    type: fixed
   thcf: 0.861972781
+  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
+  propellor:
+    type: fixed
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.8194342843208973
+  length_on_waterline: 5.739453791758107
+  fore_triangle_height: 4.57205559619605
 home_country: 'null'
 home_port: Lyme Regis
 hull_form: centre-boarder
 id: dd17df37-5ff9-41ab-80c1-2206a3440d43
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Talitha
-oga_no: 305
+sail_number: '305'
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Jonathan Dixon
   share: 64
   start: 2012
 place_built: Lymm
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+construction_details: GRP
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

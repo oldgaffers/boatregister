@@ -1,34 +1,42 @@
-builder: eed82597-5bdf-40b8-9938-0b44b76b2f3f
-callsign: ''
+name: Helendo
+oga_no: 2089
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Based in Strangford Lough since 1982, her cruising ground is
+  the Isle of Man and Belfast.</p>
+full_description: ''
+builder:
+  name: Westfield Engineering
+  id: eed82597-5bdf-40b8-9938-0b44b76b2f3f
+designer:
+  name: Rags Nierop
+  id: 028c0356-8a58-45af-9f33-65b0a6d70deb
 construction_material: grp
 construction_method: unknown
-designer: 028c0356-8a58-45af-9f33-65b0a6d70deb
 draft: 0.7102
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.1082479882955374
-  draft: 0.7112167763960009
-  length_on_waterline: 5.867477444525725
-  length_over_all: 6.578694220921726
-  length_over_spars: 6.578694220921726
   main:
     foot: 3.759253840526701
     head: 3.759253840526701
     luff: 6.959704950012192
+  draft: 0.7112167763960009
   propellor:
-    blades: 3
     type: fixed
+    blades: 3
+  length_over_all: 6.578694220921726
+  length_over_spars: 6.578694220921726
+  length_on_waterline: 5.867477444525725
 home_country: GBR
 home_port: Strangford Lough
 hull_form: fin keel
 id: 2e029201-4b66-44f4-b278-8f7d5fa9407e
 length_on_deck: 6.5776
-mainsail_type: gaff
-name: Helendo
-oga_no: 2089
+uk_part1: '366420'
+callsign: ''
 ownerships:
 - end: 1981
   name: Mr and Mrs A Oxford
@@ -38,16 +46,20 @@ ownerships:
   name: Mr and Mrs E Hamilton
   share: 64
   start: 1981
-- current: true
-  id: 253
-  member: 3340
+- id: 253
   share: 64
   start: 1982
+  member: 3340
+  current: true
 place_built: Creekmoor, Poole
-rig_type: Sloop
-short_description: <p>Based in Strangford Lough since 1982, her cruising ground is
-  the Isle of Man and Belfast.</p>
 updated_at: '2021-12-19T13:39:29.04117+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+construction_details: Bilge Keel
+beam: 2.1092
+design_class:
+  name: Kingfisher 20
+  id: 15a4eca6-5729-4c6a-af0f-e16d3a441254
+for_sale_state:
+  text: not_for_sale

@@ -1,34 +1,41 @@
-builder: cea590ed-463b-41e3-b875-8fe374e213e3
-callsign: ''
+name: Cap Lizard
+oga_no: 969
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Joseph Joyat
+  id: cea590ed-463b-41e3-b875-8fe374e213e3
+designer:
+  name: Joseph Joyat
+  id: 515efe47-8a1e-4fc2-a07e-fcf8de0bff77
 construction_material: wood
 construction_method: unknown
-designer: 515efe47-8a1e-4fc2-a07e-fcf8de0bff77
 draft: 2.3622
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 5.4864667154352595
   draft: 2.3622287247012923
-  length_on_waterline: 17.373811265544987
   length_over_all: 18.89782979761034
+  length_on_waterline: 17.373811265544987
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 02c52e9b-060d-4258-9d53-39ce701c1104
 length_on_deck: 18.8976
-mainsail_type: gaff
-name: Cap Lizard
-oga_no: 969
+callsign: ''
 ownerships:
 - name: Susan Place
   share: 64
   start: 1989
 place_built: Camaret
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:38:57.580406+00:00'
 website: ''
 year: 1924
 year_is_approximate: false
+beam: 5.4864
+for_sale_state:
+  text: not_for_sale

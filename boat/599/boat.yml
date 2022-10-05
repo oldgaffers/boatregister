@@ -1,45 +1,61 @@
-builder: 8f1dabb4-3313-4be4-9af4-5f6b76d22f92
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
-draft: 1.524
-engine_installations: []
-for_sales: []
+name: Biddy
+oga_no: 599
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Gaff Sail. R Simper pg 119  Previous engine 28 hp 1964 Leyland.
   Log 69/4 Known as Where be Tu then 1987 to 2001  kept Liverpool For Sale 2003, old
   Petter Mini 6hp diesel of 1995 replaced Bought August 2003.  CB April 08 pp5
-generic_type: Yacht
+builder:
+  name: Howard and Sons
+  id: 8f1dabb4-3313-4be4-9af4-5f6b76d22f92
+designer:
+  name: John Howard
+  id: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
+construction_material: wood
+construction_method: carvel
+draft: 1.524
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.834674469641551
-  draft: 1.5240185320653499
-  fore_triangle_base: 6.0960741282613995
-  fore_triangle_height: 8.53450377956596
-  length_on_waterline: 8.53450377956596
-  length_over_all: 10.05852231163131
   main:
     foot: 6.705681541087539
     head: 3.3528407705437697
     luff: 5.4864667154352595
+  thcf: 0.988269931
+  draft: 1.5240185320653499
   propellor:
     type: fixed
-  thcf: 0.988269931
+  length_over_all: 10.05852231163131
+  fore_triangle_base: 6.0960741282613995
+  length_on_waterline: 8.53450377956596
+  fore_triangle_height: 8.53450377956596
 home_country: 'null'
 home_port: Glasson Dock
 hull_form: long keel deep forefoot
 id: c63d1f12-68da-401d-87f1-64ea6e8fae0e
 length_on_deck: 10.0584
-mainsail_type: gaff
-name: Biddy
-oga_no: 599
+reference:
+- Gaff Sail. R Simper pg 119
+- Log 69/4
+- CB April 08 pp5
+uk_part1: '128891'
+callsign: ''
 ownerships:
 - name: Dr Warren Scott
   share: 64
   start: 2001
 place_built: Maldon
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:46.973902+00:00'
 website: ''
 year: 1908
 year_is_approximate: false
+previous_names:
+- Biddy
+- Where Be Tu
+construction_details: Carvel - Pine on grown oak double frames with oak garboards
+beam: 2.8346
+for_sale_state:
+  text: not_for_sale

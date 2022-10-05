@@ -1,26 +1,33 @@
-builder: a3703fef-f8d8-41d2-bc41-bc885903eb39
-callsign: ''
+name: Gulnare
+oga_no: 773
+generic_type: unknown
+rig_type: Yawl
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Lymington Shipyard
+  id: a3703fef-f8d8-41d2-bc41-bc885903eb39
+designer:
+  name: D.W. Greig
+  id: 63b8c494-ae3a-42c9-8987-f6b3b8009466
 construction_material: wood
 construction_method: carvel
-designer: 63b8c494-ae3a-42c9-8987-f6b3b8009466
 draft: 1.8288
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.43842965130456
   draft: 1.8288222384784198
-  length_on_waterline: 10.210924164837843
   length_over_all: 12.192148256522799
+  length_on_waterline: 10.210924164837843
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 2b219981-c2a0-4b10-8ae8-78ef02c8a532
 length_on_deck: 12.192
-mainsail_type: gaff
-name: Gulnare
-oga_no: 773
+uk_part1: '120695'
+callsign: ''
 ownerships:
 - end: 1906
   name: F.A.Richards
@@ -30,9 +37,13 @@ ownerships:
   share: 64
   start: 1987
 place_built: Lymington
-rig_type: Yawl
-short_description: ''
 updated_at: '2021-12-19T13:38:51.869925+00:00'
 website: ''
 year: 1900
 year_is_approximate: false
+previous_names:
+- Queenie
+construction_details: Carvel pitch pine on oak
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

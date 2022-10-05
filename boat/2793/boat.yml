@@ -1,48 +1,58 @@
-callsign: ''
+name: Velindra
+oga_no: 2793
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+designer:
+  name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
 construction_method: cold_moulded
-designer: aaec4851-401d-4719-bd23-e80eb778816b
 draft: 0.5334
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 0.5334064862228725
-  fore_triangle_base: 2.6426481346013166
-  fore_triangle_height: 5.867471348451597
-  length_on_waterline: 5.690685198732017
-  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
   thcf: 0.872419155
+  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.6426481346013166
+  length_on_waterline: 5.690685198732017
+  fore_triangle_height: 5.867471348451597
 home_country: 'null'
 home_port: ''
 hull_form: centre-boarder
 id: 072a2c55-7ac9-4638-8c2e-8647be2b3c8d
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Velindra
-oga_no: 2793
+spar_material: wood
+callsign: ''
 ownerships:
 - end: 2015
   name: Andrew Moll
   share: 64
   start: 2006
-- current: true
-  id: 341
-  member: 3865
+- id: 341
   share: 64
+  member: 3865
+  current: true
   start: '?'
-rig_type: Sloop
-short_description: ''
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
 year: 1977
 year_is_approximate: false
+construction_details: grp
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

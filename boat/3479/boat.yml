@@ -1,4 +1,21 @@
-builder: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+name: Truant
+oga_no: 3479
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: Truant is a Memory 19 awaiting restoration
+full_description: "Truant is a rebuild project on its own twin axle bespoke 1500 kg\
+  \ trailer. Motor bike accident stopped project .<div>Truant has been dry stored\
+  \ since 1992.</div><div>Boat is near fully stripped in near full kit form with iroko,\
+  \ cabin roof, hatch supplied by Salterns in late 1990,s, Full set of spars, sails\
+  \ (top sail not used), Lead ballast, Stainless steel standing rigging new, Wykeham-Martin\
+  \ fore stay self furling,\_</div><div>Choice of engines outboard or inboard, currently\
+  \ fitted with controllable pitch propellor and shaft by Water Mota.</div><div>Mast,\
+  \ keel stepped, All steel work galvanised, requires new running rigging.</div><div>Cockpit\
+  \ cover.</div><div>Comprehensive build plans and drawings, history.</div>"
+builder:
+  name: Liverpool Boat Co. Ltd.
+  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
 construction_material: grp
 construction_method: cold_moulded
 engine_installations: []
@@ -40,47 +57,40 @@ for_sales:
   sold: '2021-04-10'
   summary: Sold to Adrian Fox through the boat register
   updated_at: '2021-02-07T10:01:06.326361+00:00'
-full_description: "Truant is a rebuild project on its own twin axle bespoke 1500 kg\
-  \ trailer. Motor bike accident stopped project .<div>Truant has been dry stored\
-  \ since 1992.</div><div>Boat is near fully stripped in near full kit form with iroko,\
-  \ cabin roof, hatch supplied by Salterns in late 1990,s, Full set of spars, sails\
-  \ (top sail not used), Lead ballast, Stainless steel standing rigging new, Wykeham-Martin\
-  \ fore stay self furling,\_</div><div>Choice of engines outboard or inboard, currently\
-  \ fitted with controllable pitch propellor and shaft by Water Mota.</div><div>Mast,\
-  \ keel stepped, All steel work galvanised, requires new running rigging.</div><div>Cockpit\
-  \ cover.</div><div>Comprehensive build plans and drawings, history.</div>"
-generic_type: Yacht
 handicap_data:
-  calculated_thcf: 0.877
-  draft_keel_down: 1.1186
-  fore_triangle_base: 2.6914
-  fore_triangle_height: 6.2728
-  length_on_waterline: 5.6906
-  length_overall: 5.7912
   main:
     foot: 15.58
     head: 10.58
     luff: 12.08
-  moving_keel_type: Centreboard
   topsail:
     luff: 13.25
     perpendicular: 6.25
+  length_overall: 5.7912
+  calculated_thcf: 0.877
+  draft_keel_down: 1.1186
+  moving_keel_type: Centreboard
+  fore_triangle_base: 2.6914
+  length_on_waterline: 5.6906
+  fore_triangle_height: 6.2728
 home_country: United Kingdom
 home_port: Dartmouth
 hull_form: centre-boarder
 id: cca58096-5940-4461-92ac-62cc05899776
 length_on_deck: 5.7912
-mainsail_type: gaff
-name: Truant
-oga_no: 3479
+spar_material: wood
 ownerships:
 - ID: 34774
   end: 2021
-  member: 6421
   sale: '2021-04-10'
+  member: 6421
 place_built: Hamble
-rig_type: Sloop
-short_description: Truant is a Memory 19 awaiting restoration
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 year: 1988
 year_is_approximate: false
+image_key: gwBFKR
+beam: 2.1336
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+for_sale_state:
+  text: not_for_sale

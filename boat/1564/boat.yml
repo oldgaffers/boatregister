@@ -1,46 +1,57 @@
-builder: eb031e2c-65be-41c6-bd84-8bf4dfbbedce
-callsign: ''
+name: Josiah
+oga_no: 1564
+generic_type: unknown
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log 87/4
+builder:
+  name: John Arthur Barnard
+  id: eb031e2c-65be-41c6-bd84-8bf4dfbbedce
+designer:
+  name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 construction_material: wood
 construction_method: carvel
-designer: 7ac480da-7d09-4dd7-9c89-61199ff30913
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Log 87/4
-generic_type: unknown
 handicap_data:
   beam: 2.4689100219458666
-  draft: 1.21921482565228
-  fore_triangle_base: 4.87685930260912
-  fore_triangle_height: 8.22970007315289
-  length_on_waterline: 6.705681541087539
-  length_over_all: 6.797122653011461
   main:
     foot: 4.724457449402585
     head: 3.6576444769568397
     luff: 7.620092660326749
-  propellor:
-    type: fixed
   thcf: 0.938525632
+  draft: 1.21921482565228
   topsail:
     luff: 3.9624481833699097
     perpendicular: 2.286027798098025
+  propellor:
+    type: fixed
+  length_over_all: 6.797122653011461
+  fore_triangle_base: 4.87685930260912
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 8.22970007315289
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: 9f18c671-88b6-4aef-97f5-25b5a43bd197
 length_on_deck: 6.797
-mainsail_type: gaff
-name: Josiah
-oga_no: 1564
+reference:
+- Log 87/4
+uk_part1: '399107'
+callsign: ''
 ownerships:
 - name: D G Davies
   share: 64
   start: 1991
 place_built: Dunstable
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:14.903408+00:00'
 website: ''
 year: 1981
 year_is_approximate: false
+construction_details: Ferro ceoment, carvel
+beam: 2.4689
+for_sale_state:
+  text: not_for_sale

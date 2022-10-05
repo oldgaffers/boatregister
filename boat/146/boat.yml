@@ -1,57 +1,68 @@
-builder: a3a8ae12-0a18-44ef-9a41-e3205ed772bb
-callsign: ''
+name: Vera of Wivenhoe
+oga_no: 146
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: <p>She was bought by Taylor in 1952 from Grimsby, where she had
+  sunk. He took her back to Nottingham to re-fit her.</p>
+builder:
+  name: Forrest and Sons
+  id: a3a8ae12-0a18-44ef-9a41-e3205ed772bb
+designer:
+  name: Forrest
+  id: ace73460-7d4c-4deb-aa32-b9b26778f500
 construction_material: wood
 construction_method: carvel
-designer: ace73460-7d4c-4deb-aa32-b9b26778f500
 draft: 1.4996
 engine_installations: []
 for_sales: []
-full_description: <p>She was bought by Taylor in 1952 from Grimsby, where she had
-  sunk. He took her back to Nottingham to re-fit her.</p>
-generic_type: Yacht
 handicap_data:
   beam: 2.8956352109241648
   draft: 1.493538161424043
-  length_on_waterline: 9.906120458424773
   length_over_all: 13.106559375762009
+  length_on_waterline: 9.906120458424773
 home_country: NLD
 home_port: ''
 hull_form: unknown
 id: 19a3111b-be09-4ead-acc1-bfe6a78fcf00
 length_on_deck: 13.1064
-mainsail_type: gaff
-name: Vera of Wivenhoe
-oga_no: 146
+uk_part1: '114902'
+callsign: ''
 ownerships:
 - note: Previous owners
   text: Previous owners
 - note: Tewke 1893 - he was a marine artist.
+  text: Tewke
   start: 1893
   start_is_approximate: false
-  text: Tewke
 - note: Stamp 1922
+  text: Stamp
   start: 1922
   start_is_approximate: false
-  text: Stamp
 - note: Burton 1946
+  text: Burton
   start: 1946
   start_is_approximate: false
-  text: Burton
 - note: Taylor 1952
+  text: Taylor
   start: 1952
   start_is_approximate: false
-  text: Taylor
 - note: W.J. Willey 1958
+  text: W.J. Willey
   start: 1958
   start_is_approximate: false
-  text: W.J. Willey
 - name: Janine Oosterloo
   share: 64
   start: 2012
 place_built: Wivenhoe
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:38:33.857899+00:00'
 website: ''
 year: 1893
 year_is_approximate: false
+previous_names:
+- Vera
+construction_details: Pitch pine on oak
+beam: 2.8956
+for_sale_state:
+  text: not_for_sale

@@ -1,13 +1,21 @@
-builder: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
-callsign: ''
+name: Papa Stour
+oga_no: 3423
+generic_type: Dinghy
+rig_type: single_sail
+mainsail_type: lug
+short_description: ''
+full_description: ''
+builder:
+  name: Brian Kennell
+  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+designer:
+  name: Alf Last
+  id: f6e9f88a-6f88-40f7-82d2-e700bf57d1c5
 construction_material: grp
 construction_method: cold_moulded
-designer: f6e9f88a-6f88-40f7-82d2-e700bf57d1c5
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Dinghy
 handicap_data:
   moving_keel: true
   moving_keel_type: Centreboard
@@ -16,17 +24,21 @@ home_port: ''
 hull_form: centre-board dinghy
 id: 0097c8ec-69e8-4349-b03f-57be999e115a
 length_on_deck: 3.7338
-mainsail_type: lug
-name: Papa Stour
-oga_no: 3423
+spar_material: wood
+callsign: ''
 ownerships:
-- current: true
-  id: 305
-  member: 3662
+- id: 305
   share: 64
   start: 2000
-rig_type: single_sail
-short_description: ''
+  member: 3662
+  current: true
 updated_at: '2021-12-19T13:40:10.333117+00:00'
 website: ''
 year_is_approximate: false
+image_key: Ddbvfx
+beam: 0
+design_class:
+  name: Brian Kennel Smacks Boat
+  id: 99ce7ec6-76a6-4944-9bd9-113a47a51ac2
+for_sale_state:
+  text: not_for_sale

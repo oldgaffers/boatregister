@@ -1,11 +1,9 @@
-builder: a9a42e1a-3c2c-4137-9c49-31d250504b41
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: e781b4c3-983c-430b-ae5f-3ef6a8a182b5
-draft: 0
-engine_installations: []
-for_sales: []
+name: Wingoes
+oga_no: 614
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Mentioned by Eric Hiscock in Cruising Under Sail
 full_description: Mentioned by Eric Hiscock in Cruising Under Sail, Wingoes was a
   live-aboard first in the Hamble and then in the river Fal for many years from 1964,
   first off Flushing and then in Sailors Creek. After her death she was sold and kept
@@ -15,23 +13,36 @@ full_description: Mentioned by Eric Hiscock in Cruising Under Sail, Wingoes was 
   a part finished rebuild with all her drawings and plans, all the beams and carlins
   ready, and in a clean state but still 10 new planks and a new deck.  Her current
   location and condition is not known.
-generic_type: Yacht
+builder:
+  name: Percy G. Mitchell
+  id: a9a42e1a-3c2c-4137-9c49-31d250504b41
+designer:
+  name: N. Warrington-Smythe
+  id: e781b4c3-983c-430b-ae5f-3ef6a8a182b5
+construction_material: wood
+construction_method: carvel
+draft: 0
+engine_installations: []
+for_sales: []
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
 id: 6a71d158-791a-4cf5-8e20-eeb997219b87
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Wingoes
-oga_no: 614
+reference:
+- Log 2003/3
+spar_material: wood
+callsign: ''
 ownerships:
 - name: P E Divers
   share: 64
   start: 2012
 place_built: Portmellon Mevagissey
-rig_type: Cutter
-short_description: Mentioned by Eric Hiscock in Cruising Under Sail
 updated_at: '2021-12-19T13:38:47.389414+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+image_key: vCgBkq
+beam: 0
+for_sale_state:
+  text: not_for_sale

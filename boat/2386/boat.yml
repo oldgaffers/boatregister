@@ -1,27 +1,35 @@
-builder: 2bcba7b6-1394-4d4b-b67a-c2ae394f7eea
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: dcd4b284-2d5b-47ae-b97e-06178e2f1bd5
-draft: 0
-engine_installations: []
-for_sales: []
+name: Ellidi
+oga_no: 2386
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: Designed as a yacht by a builder who produced yachts and about 19
   nobbys, claimed to be of nobby type, but transitional between late Victorian and
   long overhang Edwardian yacht type.  Magazine article has photo's of boat.
-generic_type: Yacht
+builder:
+  name: Anderson William and Sons
+  id: 2bcba7b6-1394-4d4b-b67a-c2ae394f7eea
+designer:
+  name: Vincent Anderson
+  id: dcd4b284-2d5b-47ae-b97e-06178e2f1bd5
+construction_material: wood
+construction_method: carvel
+draft: 0
+engine_installations: []
+for_sales: []
 home_country: 'null'
 home_port: Skipool Creek
 hull_form: unknown
 id: f2e88316-49f0-4181-8340-045ed0cd9fd1
 length_on_deck: 0
-mainsail_type: gaff
-name: Ellidi
-oga_no: 2386
+callsign: ''
 place_built: Millom
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-03-23T08:38:13.181598+00:00'
 website: ''
 year: 1912
 year_is_approximate: false
+construction_details: Pitchpine on oak carvel
+beam: 0
+for_sale_state:
+  text: not_for_sale

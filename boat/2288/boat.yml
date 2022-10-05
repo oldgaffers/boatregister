@@ -1,9 +1,10 @@
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 1.0058
-engine_installations: []
-for_sales: []
+name: Andorra
+oga_no: 2288
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: lug
+short_description: <p>Found semi-derelict in Newlyn in 1980 <em>Andorra </em>was recreated
+  as a Mevagissy Lugger by Edwin Gifford</p>
 full_description: '<p>Edwin Gifford rescued <em>Andorra </em>from Newlyn Harbour as
   a &nbsp;near derelict in 1980. She had been stripped out many times and &nbsp;modified
   for power fishing. (fishing number PZ288) There were no sails, &nbsp;or indicators
@@ -25,38 +26,44 @@ full_description: '<p>Edwin Gifford rescued <em>Andorra </em>from Newlyn Harbour
 
   <p>Arround 2012 she had deteriorated once again, but in 2022 was undergoing an extensive
   restoration.</p>'
-generic_type: unknown
+construction_material: wood
+construction_method: carvel
+draft: 1.0058
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.43842965130456
-  draft: 1.0058522311631308
-  fore_triangle_base: 2.7432333577176298
-  fore_triangle_height: 4.87685930260912
-  length_on_waterline: 7.010485247500609
-  length_over_all: 7.162887100707144
   main:
     foot: 3.2309192879785416
     head: 4.236771519141673
     luff: 2.7432333577176298
+  thcf: 0.863132922
+  draft: 1.0058522311631308
   mizzen:
     foot: 2.407949280663253
     head: 3.1089978054133134
     luff: 1.9202633504023408
   propellor:
     type: fixed
-  thcf: 0.863132922
+  length_over_all: 7.162887100707144
+  fore_triangle_base: 2.7432333577176298
+  length_on_waterline: 7.010485247500609
+  fore_triangle_height: 4.87685930260912
 home_country: 'null'
 home_port: Plymouth
 hull_form: long keel deep forefoot
 id: 0f49df04-7505-45c2-8bc7-5155a88dcb8e
 length_on_deck: 7.1628
-mainsail_type: lug
-name: Andorra
-oga_no: 2288
+reference:
+- Log 89/3
+callsign: ''
 place_built: Cornwall
-rig_type: Ketch
-short_description: <p>Found semi-derelict in Newlyn in 1980 <em>Andorra </em>was recreated
-  as a Mevagissy Lugger by Edwin Gifford</p>
 updated_at: '2022-06-05T21:05:19.128407+00:00'
 website: ''
 year: 1900
 year_is_approximate: false
+image_key: cGTFMj
+construction_details: carvel
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

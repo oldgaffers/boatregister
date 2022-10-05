@@ -1,39 +1,53 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Sulis
+oga_no: 943
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Sulis was sold to young Mevagissy fisherman in 2004. He sailed
+  her to France and back then converted her into a fishing boat.</p>
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: wood
 construction_method: unknown
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.7376
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.7376249695196293
-  fore_triangle_base: 4.114850036576445
-  fore_triangle_height: 5.6388685686417945
-  length_on_waterline: 6.1722750548646665
-  length_over_all: 7.315288953913679
   thcf: 0.797339657
+  draft: 0.7376249695196293
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 4.114850036576445
+  length_on_waterline: 6.1722750548646665
+  fore_triangle_height: 5.6388685686417945
 home_country: GBR
 home_port: Salcombe
 hull_form: unknown
 id: 7b1910cb-804e-4aca-9a0c-952a5238f526
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Sulis
-oga_no: 943
+sail_number: '209'
+callsign: ''
 ownerships:
 - end: 2004
   name: Steve Lorraine
   share: 64
   start: 1999
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Sulis was sold to young Mevagissy fisherman in 2004. He sailed
-  her to France and back then converted her into a fishing boat.</p>
 updated_at: '2021-12-19T13:38:56.754627+00:00'
 website: ''
 year: 1978
 year_is_approximate: false
+previous_names:
+- Papa Lima
+image_key: LTS6nT
+beam: 2.4384
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
+for_sale_state:
+  text: not_for_sale

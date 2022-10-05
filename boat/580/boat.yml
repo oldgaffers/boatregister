@@ -1,45 +1,55 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
+name: Twinkler
+oga_no: 580
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Believed to be the first boat built by David Hillyard,1922,
+  for the first London Boat Show.</p>
+full_description: ''
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 construction_material: wood
 construction_method: unknown
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 draft: 1.0668
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.13362594489149
-  draft: 1.066812972445745
-  fore_triangle_base: 3.0480370641306997
-  fore_triangle_height: 4.87685930260912
-  length_on_waterline: 6.0960741282613995
-  length_over_all: 6.4008778346744695
   main:
     foot: 4.87685930260912
     head: 3.5052426237503047
     luff: 3.2004389173372347
+  thcf: 0.860437874
+  draft: 1.066812972445745
   propellor:
     type: fixed
-  thcf: 0.860437874
+  length_over_all: 6.4008778346744695
+  fore_triangle_base: 3.0480370641306997
+  length_on_waterline: 6.0960741282613995
+  fore_triangle_height: 4.87685930260912
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel deep forefoot
 id: 07b53a7e-d14d-4c2b-bb5c-58912ab87e52
 length_on_deck: 6.4008
-mainsail_type: gaff
-name: Twinkler
-oga_no: 580
+uk_part1: '147569'
+callsign: ''
 ownerships:
 - end: 2012
   name: Diana Evans
   share: 64
   start: 1995
 place_built: Littlehampton
-rig_type: Cutter
-short_description: <p>Believed to be the first boat built by David Hillyard,1922,
-  for the first London Boat Show.</p>
 updated_at: '2021-12-19T13:38:46.403421+00:00'
 website: ''
 year: 1922
 year_is_approximate: false
+image_key: ffkdgM
+construction_details: Mahogany cabin. Tongue and Grooved pine decks covered with canvas.
+beam: 2.1336
+for_sale_state:
+  text: not_for_sale

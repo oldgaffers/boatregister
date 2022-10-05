@@ -1,34 +1,42 @@
-builder: 4b63f40d-0d8e-496b-855e-39fb13724d4a
-callsign: ''
+name: Fly of Halstow
+oga_no: 1754
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: For sale Dec 2000
+builder:
+  name: R. Govier
+  id: 4b63f40d-0d8e-496b-855e-39fb13724d4a
+designer:
+  name: J. Bootie
+  id: 699bc5f2-f37a-47e3-bfb0-5d7c2de56010
 construction_material: ferro
 construction_method: unknown
-designer: 699bc5f2-f37a-47e3-bfb0-5d7c2de56010
 draft: 1.4234
 engine_installations: []
 for_sales: []
-full_description: For sale Dec 2000
-generic_type: Bawley
 handicap_data:
   beam: 3.6576444769568397
   draft: 1.4234333089490367
-  length_on_waterline: 10.36332601804438
   length_over_all: 10.66812972445745
+  length_on_waterline: 10.36332601804438
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: e9401f19-64ce-4e79-946f-2b21b94504f8
 length_on_deck: 10.668
-mainsail_type: gaff
-name: Fly of Halstow
-oga_no: 1754
+callsign: ''
 ownerships:
 - name: T Mace
   share: 64
   start: 2012
 place_built: Halstow
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:19.434177+00:00'
 website: ''
 year: 1982
 year_is_approximate: false
+construction_details: Ferrocement
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

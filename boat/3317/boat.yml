@@ -1,29 +1,36 @@
-builder: a70bd01d-2983-458e-9341-376978ca6f0e
-callsign: ''
-construction_material: ferro
-construction_method: unknown
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
-draft: 1.3716
-engine_installations: []
-for_sales:
-- asking_price: 55000
+name: Chiranga
+oga_no: 3317
+generic_type: Barge
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>&#39;Chiranga&#39; is a ferrocement gaff ketch based on the
+  Lemsteraak Dutch Sailing Barge design.</p>
 full_description: "<p>&#39;Chiranga&#39; is a totally refurbished professionally constructed\
   \ ferro cement Dutch sailing barge, built in 1971, on a &lsquo;Lemsteraak&rsquo;\
   \ design.</p>\r\n\r\n<p>She can sleep eight people in three cabins with good headroom\
   \ throughout, making her an ideal liveaboard.</p>"
-generic_type: Barge
+builder:
+  name: Windboats Marine Ltd.
+  id: a70bd01d-2983-458e-9341-376978ca6f0e
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+construction_material: ferro
+construction_method: unknown
+draft: 1.3716
+engine_installations: []
+for_sales:
+- asking_price: 55000
 handicap_data:
-  length_on_waterline: 11.43
-  length_over_spars: 17.6784
   length_overall: 12.4968
+  length_over_spars: 17.6784
+  length_on_waterline: 11.43
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
 id: 39088767-9a81-49b3-9618-25450a326773
 length_on_deck: 12.4968
-mainsail_type: gaff
-name: Chiranga
-oga_no: 3317
+callsign: ''
 ownerships:
 - end: 2017
   name: John Lindley
@@ -33,10 +40,12 @@ ownerships:
   share: 64
   start: 2017
 place_built: Wroxham
-rig_type: Ketch
-short_description: <p>&#39;Chiranga&#39; is a ferrocement gaff ketch based on the
-  Lemsteraak Dutch Sailing Barge design.</p>
 updated_at: '2021-12-19T13:40:07.453878+00:00'
 website: ''
 year: 1971
 year_is_approximate: false
+image_key: JSLJkc
+construction_details: Ferrocement overlaid with a flexi-teak deck in 2015
+beam: 4.2672
+for_sale_state:
+  text: not_for_sale

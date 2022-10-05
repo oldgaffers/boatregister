@@ -1,34 +1,45 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Spinaway
+oga_no: 1982
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Cornish Crabber Mark 1</p>
+full_description: <p>Cornish Crabber Mark 1</p>
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 0.7315
 engine_installations: []
 for_sales: []
-full_description: <p>Cornish Crabber Mark 1</p>
-generic_type: Yacht
 handicap_data:
-  length_on_waterline: 6.1874
-  length_over_spars: 7.3152
-  length_overall: 8.9306
   sailarea: 7
+  length_overall: 8.9306
+  length_over_spars: 7.3152
+  length_on_waterline: 6.1874
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
 id: c73c7a6e-bad9-4308-b201-8fb08daa66d4
 length_on_deck: 8.9306
-mainsail_type: gaff
-name: Spinaway
-oga_no: 1982
+callsign: ''
 ownerships:
 - name: N A F McGavin
   share: 64
   start: 1986
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Cornish Crabber Mark 1</p>
 updated_at: '2021-12-19T13:39:25.988879+00:00'
 website: ''
 year: 1980
 year_is_approximate: false
+construction_details: GRP
+beam: 2.4384
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
+for_sale_state:
+  text: not_for_sale

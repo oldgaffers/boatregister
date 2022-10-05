@@ -1,38 +1,46 @@
-builder: caff79d9-aeb5-4cfa-a330-2e843c8e1d5a
-callsign: ''
+name: Dolphin
+oga_no: 28
+generic_type: Plymouth Hooker
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Dolphin was a Plymouth Hooker</p>
+full_description: See boat no 2202, Dolphin
+builder:
+  name: J. Bowden
+  id: caff79d9-aeb5-4cfa-a330-2e843c8e1d5a
+designer:
+  name: J. Bowden
+  id: ba69030c-bf33-41ca-b1f0-42a032139e0f
 construction_material: wood
 construction_method: unknown
-designer: ba69030c-bf33-41ca-b1f0-42a032139e0f
 draft: 2.1946
 engine_installations: []
 for_sales: []
-full_description: See boat no 2202, Dolphin
-generic_type: Plymouth Hooker
 handicap_data:
   beam: 3.5052426237503047
   draft: 2.255547427456718
-  length_on_waterline: 11.582540843696659
   length_over_all: 11.826383808827114
+  length_on_waterline: 11.582540843696659
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: ad19ab2c-0cda-4fff-9faf-a08ccfbfcc2f
 length_on_deck: 11.8262
-mainsail_type: gaff
-name: Dolphin
-oga_no: 28
+uk_part1: '149260'
+callsign: ''
 ownerships:
 - note: Miss E.M. Weeding 1930's
+  text: Miss E.M. Weeding
   start: 1930
   start_is_approximate: false
-  text: Miss E.M. Weeding
 - name: G P Naish
   share: 64
   start: 1966
 place_built: Porthleven
-rig_type: Cutter
-short_description: <p>Dolphin was a Plymouth Hooker</p>
 updated_at: '2021-12-19T13:38:30.475169+00:00'
 website: ''
 year: 1909
 year_is_approximate: false
+beam: 3.5052
+for_sale_state:
+  text: not_for_sale

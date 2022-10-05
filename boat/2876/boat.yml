@@ -1,45 +1,52 @@
-builder: ca224058-ba89-46e2-81cc-14cd668872e0
-callsign: ''
+name: Firecrest
+oga_no: 2876
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: De Jong/Van Roon
+  id: ca224058-ba89-46e2-81cc-14cd668872e0
+designer:
+  name: Joachem van Roon
+  id: 87a4381f-816a-4a79-b72b-059f5c84e3b4
 construction_material: wood
 construction_method: unknown
-designer: 87a4381f-816a-4a79-b72b-059f5c84e3b4
 draft: 1.3503
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.1488661302121432
-  draft: 1.3502804194098998
-  fore_triangle_base: 5.120702267739576
-  fore_triangle_height: 6.888563764935382
-  length_on_waterline: 6.589856132650573
-  length_over_all: 8.001097293343086
   main:
     foot: 4.581199707388442
     head: 3.691172884662277
     luff: 4.380029261155816
-  propellor:
-    type: fixed
   thcf: 0.946497563
+  draft: 1.3502804194098998
   topsail:
     luff: 4.858571080224335
     perpendicular: 2.13362594489149
+  propellor:
+    type: fixed
+  length_over_all: 8.001097293343086
+  fore_triangle_base: 5.120702267739576
+  length_on_waterline: 6.589856132650573
+  fore_triangle_height: 6.888563764935382
 home_country: 'null'
 home_port: Durgerdam
 hull_form: long keel deep forefoot
 id: a6f082fc-9977-40b4-93db-aca006fb1f16
 length_on_deck: 8.001
-mainsail_type: gaff
-name: Firecrest
-oga_no: 2876
+callsign: ''
 ownerships:
 - name: Jochem van Roon
   share: 64
   start: 2000
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:52.037372+00:00'
 website: ''
 year: 2000
 year_is_approximate: false
+beam: 2.1488
+for_sale_state:
+  text: not_for_sale

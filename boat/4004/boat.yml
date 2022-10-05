@@ -1,11 +1,12 @@
-builder: d02ef310-75b8-46ab-8c53-f17b72d64671
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
-draft: 1.0668
-engine_installations: []
-for_sales: []
+name: Clwyd
+oga_no: 4004
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: "<p><em>Clwyd</em> was one of ten Rivers Class Yachts built by\
+  \ William Crossfield and Sons in Arnside for the River Mersey Yacht Club. She was\
+  \ originally called \u201CKeer\u201D and was built in 1914. By the 1960s \u201C\
+  Clwyd\u201D was kept on the Humber&nbsp;</p>"
 full_description: "<p><em>Clwyd</em> was one of ten Rivers Class Yachts built by William\
   \ Crossfield and Sons in Arnside for the River Mersey Yacht Club. Six were built\
   \ in 1912 with a further Four in 1914. Five Rivers Class yachts are thought to be\
@@ -52,7 +53,17 @@ full_description: "<p><em>Clwyd</em> was one of ten Rivers Class Yachts built by
   \ was damaged in 1970s whilst in Hull Docks by a barge that have come lose from\
   \ her moorings.</p><p>One of her owners described her as \u201CA great sail \u2013\
   \ sailed like a witch\u201D</p>"
-generic_type: Yacht
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+construction_material: wood
+construction_method: carvel
+draft: 1.0668
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.2098268714947573
   draft: 1.066812972445745
@@ -61,16 +72,20 @@ home_port: ''
 hull_form: long keel deep forefoot
 id: 84516033-9188-46e1-976e-9e8c29618aa6
 length_on_deck: 7.0104
-mainsail_type: gaff
-name: Clwyd
-oga_no: 4004
+reference:
+- Log 68/5
+spar_material: wood
+callsign: ''
 place_built: Arnside
-rig_type: Cutter
-short_description: "<p><em>Clwyd</em> was one of ten Rivers Class Yachts built by\
-  \ William Crossfield and Sons in Arnside for the River Mersey Yacht Club. She was\
-  \ originally called \u201CKeer\u201D and was built in 1914. By the 1960s \u201C\
-  Clwyd\u201D was kept on the Humber&nbsp;</p>"
 updated_at: '2021-03-23T08:38:13.181598+00:00'
 website: ''
 year: 1914
 year_is_approximate: false
+construction_details: Carvel built with counter stern. Pitch pine planks and steamed
+  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
+beam: 2.2098
+design_class:
+  name: Rivers Class
+  id: 97d3b6f5-24ec-493a-8010-c0a283b96aa6
+for_sale_state:
+  text: not_for_sale

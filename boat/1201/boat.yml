@@ -1,40 +1,48 @@
-builder: ceeba774-b0f8-48a9-a036-732b70c8a35f
-callsign: ''
+name: Wild Pigeon
+oga_no: 1201
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Wild Pigeon was built in 1983 as a traditional gaff cutter by Terry
+  Heard.
+full_description: ''
+builder:
+  name: Terry Heard
+  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+designer:
+  name: Terry Heard
+  id: c7a4b5d4-0751-4858-8054-b0e0636bb711
 construction_material: wood
 construction_method: unknown
-designer: c7a4b5d4-0751-4858-8054-b0e0636bb711
 draft: 1.524
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 3.2004389173372347
   draft: 1.5240185320653499
-  length_on_waterline: 8.53450377956596
   length_over_all: 8.83930748597903
+  length_on_waterline: 8.53450377956596
 home_country: GBR
 home_port: Fowey
 hull_form: unknown
 id: 95157c7a-137f-4bdb-9404-43ffc8a73f75
 length_on_deck: 8.8392
-mainsail_type: gaff
-name: Wild Pigeon
-oga_no: 1201
+callsign: ''
 ownerships:
 - name: R E Bulgin
   share: 64
   start: 1983
-- current: true
-  id: 777
-  member: 5797
+- id: 777
   share: 64
+  member: 5797
+  current: true
   start: '?'
 place_built: Mylor Bridge
-rig_type: Cutter
-short_description: Wild Pigeon was built in 1983 as a traditional gaff cutter by Terry
-  Heard.
 updated_at: '2021-12-19T13:39:04.561953+00:00'
 website: ''
 year: 1983
 year_is_approximate: false
+image_key: w9vwx5
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

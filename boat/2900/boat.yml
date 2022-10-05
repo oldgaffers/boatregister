@@ -1,34 +1,42 @@
-builder: 59c7e3c5-bb01-4ccc-9e57-dcd702f089bf
-callsign: ''
+name: Azora
+oga_no: 2900
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: 'Home built, see Gartsideboats.com desigh ##116'
+builder:
+  name: Rune Burdahl
+  id: 59c7e3c5-bb01-4ccc-9e57-dcd702f089bf
+designer:
+  name: Paul Gartside
+  id: 0557a793-41ba-4182-8138-206701b31451
 construction_material: wood
 construction_method: unknown
-designer: 0557a793-41ba-4182-8138-206701b31451
 draft: 1.4722
 engine_installations: []
 for_sales: []
-full_description: 'Home built, see Gartsideboats.com desigh ##116'
-generic_type: Yacht
 handicap_data:
   beam: 2.6670324311143623
   draft: 1.472201901975128
-  length_on_waterline: 7.315288953913679
   length_over_all: 7.924896366739819
+  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: Innvik, Norway
 hull_form: unknown
 id: a2096920-cd2b-4d1b-8aa0-c96372015075
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Azora
-oga_no: 2900
+callsign: ''
 ownerships:
 - name: Rune Burdahl
   share: 64
   start: 2008
 place_built: Innvik, Norway
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:52.78865+00:00'
 website: ''
 year: 2008
 year_is_approximate: false
+construction_details: Cold molded over strip plank
+beam: 2.667
+for_sale_state:
+  text: not_for_sale

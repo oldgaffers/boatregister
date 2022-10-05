@@ -1,32 +1,39 @@
-builder: db113064-8980-479b-8190-764e09007320
-callsign: ''
+name: Inez
+oga_no: 342
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: William Wyatt Ltd.
+  id: db113064-8980-479b-8190-764e09007320
+designer:
+  name: William Wyatt
+  id: 5955935c-3d77-4e9e-84aa-0d970e962dc6
 construction_material: wood
 construction_method: unknown
-designer: 5955935c-3d77-4e9e-84aa-0d970e962dc6
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.0726652036088757
-  length_on_waterline: 5.029261155815655
   length_over_all: 5.4864667154352595
+  length_on_waterline: 5.029261155815655
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: a740a6ce-6d4f-4427-9eb8-612ba07585bb
 length_on_deck: 5.4864
-mainsail_type: gaff
-name: Inez
-oga_no: 342
+callsign: ''
 ownerships:
 - name: L C Hill
   share: 64
   start: 2012
 place_built: West Mersea
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:38:39.668439+00:00'
 website: ''
 year_is_approximate: false
+beam: 2.0726
+for_sale_state:
+  text: not_for_sale

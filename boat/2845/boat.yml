@@ -1,13 +1,21 @@
-builder: 28e185df-3c21-421b-9c10-2daae2770380
-callsign: ''
+name: Sooz
+oga_no: 2845
+generic_type: unknown
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Home Built
+builder:
+  name: Richard Williams
+  id: 28e185df-3c21-421b-9c10-2daae2770380
+designer:
+  name: Selway Fisher
+  id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 construction_material: wood
 construction_method: unknown
-designer: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: Home Built
-generic_type: unknown
 handicap_data:
   beam: 1.3960009753718605
   length_over_all: 4.57205559619605
@@ -16,17 +24,17 @@ home_port: Aberaeron
 hull_form: unknown
 id: 0f70be28-c631-4141-a563-484995dc535b
 length_on_deck: 4.572
-mainsail_type: gaff
-name: Sooz
-oga_no: 2845
+callsign: ''
 ownerships:
 - name: Mike Webster
   share: 64
   start: 2012
 place_built: Milnthorpe
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:51.120114+00:00'
 website: ''
 year: 1997
 year_is_approximate: false
+construction_details: Ply
+beam: 1.396
+for_sale_state:
+  text: not_for_sale

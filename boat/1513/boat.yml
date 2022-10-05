@@ -1,10 +1,10 @@
-builder: 5bb0e6bb-85d8-4cfb-beaa-6595805475ca
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 1.9812
-engine_installations: []
-for_sales: []
+name: Our Boys
+oga_no: 1513
+generic_type: Cornish Lugger
+rig_type: Ketch
+mainsail_type: lug
+short_description: <p>&#39;Our Boys&#39; was built by Richard Pearce for the Woodrow
+  Pengelly family and registered for fishing FY221.</p>
 full_description: "<p>Named &#39;Our Boys&#39; after the first owner&rsquo;s seven\
   \ sons, she was involved in commercial drift-net fishing for pilchards and mackerel\
   \ from Looe, Cornwall until she was decommissioned in 1978.</p>\r\n\r\n<p>In the\
@@ -15,33 +15,39 @@ full_description: "<p>Named &#39;Our Boys&#39; after the first owner&rsquo;s sev
   \ 2009 on the Solent and West Country.</p>\r\n\r\n<p>In 2009 she was awarded a sustainability\
   \ grant from National Historic Ships, UK towards a new engine when she was based\
   \ in Milford Haven and has undergone considerable restoration since then.</p>"
-generic_type: Cornish Lugger
+builder:
+  name: T. Pearce
+  id: 5bb0e6bb-85d8-4cfb-beaa-6595805475ca
+construction_material: wood
+construction_method: carvel
+draft: 1.9812
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 4.114850036576445
-  draft: 1.9812240916849548
   fore:
     foot: 6.0960741282613995
     head: 6.0960741282613995
     luff: 7.924896366739819
-  fore_triangle_base: 6.0960741282613995
-  fore_triangle_height: 7.620092660326749
-  length_on_waterline: 11.887344550109729
-  length_over_all: 12.801755669348939
+  thcf: 1.065832957
+  draft: 1.9812240916849548
   mizzen:
     foot: 4.87685930260912
     head: 4.57205559619605
     luff: 6.0960741282613995
   propellor:
     type: folding
-  thcf: 1.065832957
+  length_over_all: 12.801755669348939
+  fore_triangle_base: 6.0960741282613995
+  length_on_waterline: 11.887344550109729
+  fore_triangle_height: 7.620092660326749
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel sloping forefoot
 id: bc5d7903-d76e-49a5-94e3-6de81bb27ec9
 length_on_deck: 12.8016
-mainsail_type: lug
-name: Our Boys
-oga_no: 1513
+ssr: '19162'
+callsign: ''
 ownerships:
 - end: 1990
   name: M G Webb
@@ -62,15 +68,17 @@ ownerships:
 - name: Phil Cogdell
   share: 64
   start: 2013
-- current: true
+- share: 64
   member: 4358
-  share: 64
+  current: true
   start: '?'
 place_built: Looe
-rig_type: Ketch
-short_description: <p>&#39;Our Boys&#39; was built by Richard Pearce for the Woodrow
-  Pengelly family and registered for fishing FY221.</p>
 updated_at: '2021-12-19T13:39:13.496428+00:00'
 website: ''
 year: 1904
 year_is_approximate: false
+image_key: qnccqq
+construction_details: Carvel Pine on Oak Frames
+beam: 4.1148
+for_sale_state:
+  text: not_for_sale

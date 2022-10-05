@@ -1,12 +1,10 @@
-builder: db113064-8980-479b-8190-764e09007320
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 1a6c3643-688e-4b25-b088-2520172edd7d
-draft: 1.2192
-engine_installations: []
-for_sales:
-- asking_price: 5900
+name: Pleione
+oga_no: 203
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>&#39;Pleione&#39; was built in West Mersea by William Wyatt
+  to a John Leather design in 1960.</p>
 full_description: "<p>A gaff cutter designed by John Leather and&nbsp;built in West\
   \ Mersea by William Wyatt in 1960, Pleione&#39;s hull is mahogany on steamed oak\
   \ frames. In 1992, she had a new teak deck, cabin and cockpit coaming.</p>\r\n\r\
@@ -20,20 +18,30 @@ full_description: "<p>A gaff cutter designed by John Leather and&nbsp;built in W
   \ original and retains a warmth and charm, enhanced by traditional equipment &ndash;\
   \ Taylors cooker and cabin heater and paraffin lamps.</p>\r\n\r\n<p>She has a Yanmar\
   \ 2GM 20 hp fitted in 1998.</p>"
-generic_type: Yacht
+builder:
+  name: William Wyatt Ltd.
+  id: db113064-8980-479b-8190-764e09007320
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
+construction_material: wood
+construction_method: carvel
+draft: 1.2192
+engine_installations: []
+for_sales:
+- asking_price: 5900
 handicap_data:
   beam: 2.560351133869788
   draft: 1.21921482565228
-  length_on_waterline: 6.2484759814679345
   length_over_all: 7.620092660326749
+  length_on_waterline: 6.2484759814679345
 home_country: GBR
 home_port: Weir Quay, Plymouth, Devon
 hull_form: unknown
 id: e8222996-23f7-4d9a-9347-f5172b7c1257
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Pleione
-oga_no: 203
+uk_part1: '302000'
+callsign: ''
 ownerships:
 - end: 1973
   name: R Gatehouse
@@ -59,10 +67,12 @@ ownerships:
   share: 64
   start: 2010
 place_built: West Mersea
-rig_type: Cutter
-short_description: <p>&#39;Pleione&#39; was built in West Mersea by William Wyatt
-  to a John Leather design in 1960.</p>
 updated_at: '2021-12-19T13:38:35.501161+00:00'
 website: ''
 year: 1960
 year_is_approximate: false
+image_key: 7WSXKt
+construction_details: Carvel mahogony on steamed oak, teak decks
+beam: 2.5908
+for_sale_state:
+  text: not_for_sale

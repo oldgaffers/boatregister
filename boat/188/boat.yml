@@ -1,11 +1,10 @@
-builder: ccda72cf-a2ad-4fd2-a4e9-a9b6baa51a3d
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 3199db8d-e122-4423-b3b8-038e30c077dd
-draft: 2.286
-engine_installations: []
-for_sales: []
+name: Nell
+oga_no: 188
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: <p>'Nell' was built in 1887 to transport ministers around the Scottish
+  islands which had no resident minister.</p>
 full_description: <p>'Nell' was commissioned by Robert Cowan Robertson from George
   Watson. Other yachts designed by him include 'Thistle', 'Valktie 2', 'Valktie 3'
   and 'Shamrock' for Sir Thomas Lipton, 'Meteor' for the German Emperor, and 'Britannia'
@@ -18,42 +17,53 @@ full_description: <p>'Nell' was commissioned by Robert Cowan Robertson from Geor
   St Katherine's Dock, London. She was owned for a time by Neil Gamble of Teignmouth
   and was often to be seen in the River Teign in the 1960s. At that time she had a
   large wooden deckhouse.</p><p>She was spotted on the Hamble in 2010.</p>
-generic_type: Yacht
+builder:
+  name: Thomas Orr Jr.
+  id: ccda72cf-a2ad-4fd2-a4e9-a9b6baa51a3d
+designer:
+  name: G.L. Watson
+  id: 3199db8d-e122-4423-b3b8-038e30c077dd
+construction_material: wood
+construction_method: unknown
+draft: 2.286
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.6576444769568397
   draft: 2.3165081687393316
-  length_on_waterline: 13.106559375762009
-  length_over_all: 13.960009753718603
   propellor:
     type: fixed
+  length_over_all: 13.960009753718603
+  length_on_waterline: 13.106559375762009
 home_country: GBR
 home_port: Dover
 hull_form: long keel deep forefoot
 id: 58f12eb4-a251-4eeb-8334-be0e54e88cba
 length_on_deck: 13.9446
-mainsail_type: gaff
-name: Nell
-oga_no: 188
+uk_part1: '93188'
+callsign: ''
 ownerships:
 - note: Previous owners
   text: Previous owners
 - note: C Stevens1973
+  text: C Stevens
   start: 1973
   start_is_approximate: false
-  text: C Stevens
 - note: D Erasmus 1979
+  text: D Erasmus
   start: 1979
   start_is_approximate: false
-  text: D Erasmus
 - end: 2005
   name: David F Stabb
   share: 64
   start: 1986
 place_built: Greenock
-rig_type: Ketch
-short_description: <p>'Nell' was built in 1887 to transport ministers around the Scottish
-  islands which had no resident minister.</p>
 updated_at: '2021-12-19T13:38:35.050898+00:00'
 website: ''
 year: 1887
 year_is_approximate: false
+image_key: ZLsm7G
+construction_details: '1 1/2" Pitch pine on oak frames, copper sheathed. '
+beam: 3.6576
+for_sale_state:
+  text: not_for_sale

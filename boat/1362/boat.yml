@@ -1,33 +1,38 @@
-builder: e26d307a-2e5c-4d17-bf2f-4ee72b69c9d8
-callsign: ''
+name: Gold Link
+oga_no: 1362
+generic_type: Yacht
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Northern Trawlers
+  id: e26d307a-2e5c-4d17-bf2f-4ee72b69c9d8
 construction_material: wood
 construction_method: unknown
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.21921482565228
-  length_on_waterline: 8.717386003413802
   length_over_all: 9.1441111923921
+  length_on_waterline: 8.717386003413802
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: 903e310f-2e21-4ba5-8640-80fd33b365f0
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Gold Link
-oga_no: 1362
+callsign: ''
 ownerships:
 - name: P E Johnson
   share: 64
   start: 2012
 place_built: Grimsby
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:09.200639+00:00'
 website: ''
 year: 1958
 year_is_approximate: false
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

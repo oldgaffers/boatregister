@@ -1,11 +1,9 @@
-builder: 4a00e161-ba6f-4407-80bc-31eab3901bae
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: 421b7a88-14f7-4f23-ae34-116d6bcfd814
-draft: 1.1582
-engine_installations: []
-for_sales: []
+name: Francesca
+oga_no: 1227
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
 full_description: <p>Hull believed to be a Canadian design with 3 keels and a Bermudan
   rig. The Builder of the hull is unknown. Frank Graves fitted out the cabin and gave
   her a gaff rig and engine in early 1970's at Paglesham. Twin keels were removed
@@ -13,42 +11,54 @@ full_description: <p>Hull believed to be a Canadian design with 3 keels and a Be
   to illness the owner was not able to rebuild, and local pressure from the Panglesham
   Village Trust led to her breakup in 2019. The mast is to be re-used as the mizzen
   mast for the lugger &quot;Lyonesse&quot; of Mousehole.</p>
-generic_type: Yacht
+builder:
+  name: F. Graves
+  id: 4a00e161-ba6f-4407-80bc-31eab3901bae
+designer:
+  name: Unknown
+  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+construction_material: wood
+construction_method: unknown
+draft: 1.1582
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 2.987076322848086
-  draft: 1.1582540843696658
-  fore_triangle_base: 5.18166300902219
-  fore_triangle_height: 6.339917093391856
-  length_on_waterline: 7.138502804194099
-  length_over_all: 7.924896366739819
   main:
     foot: 4.61777615215801
     head: 3.2461594732991954
     luff: 2.8194342843208973
-  propellor:
-    type: fixed
   thcf: 0.884447998
+  draft: 1.1582540843696658
   topsail:
     luff: 4.57205559619605
     perpendicular: 2.13362594489149
+  propellor:
+    type: fixed
+  length_over_all: 7.924896366739819
+  fore_triangle_base: 5.18166300902219
+  length_on_waterline: 7.138502804194099
+  fore_triangle_height: 6.339917093391856
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: a986eec8-5e01-4f06-99fd-66aa1da7987e
 length_on_deck: 7.9248
-mainsail_type: gaff
-name: Francesca
-oga_no: 1227
+sail_number: F C
+ssr: '42633'
+callsign: ''
 ownerships:
-- current: true
-  id: 108
-  member: 1918
+- id: 108
   share: 64
   start: 1978
+  member: 1918
+  current: true
 place_built: Hull unknown fitted out Paglesham
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:05.354134+00:00'
 website: ''
 year: 1970
 year_is_approximate: false
+construction_details: Mahogany Hard Chine Double skin
+beam: 2.987
+for_sale_state:
+  text: not_for_sale

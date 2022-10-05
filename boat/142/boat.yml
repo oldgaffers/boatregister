@@ -1,34 +1,44 @@
-builder: 5a577553-12b5-4b1f-9695-8f672c894a25
-callsign: ''
+name: Ailie
+oga_no: 142
+generic_type: Yacht
+rig_type: Yawl
+mainsail_type: gaff
+short_description: <p>Ailie is a Clyde Canoe Yawl built in 1934</p>
+full_description: ''
+builder:
+  name: J. Skivington
+  id: 5a577553-12b5-4b1f-9695-8f672c894a25
+designer:
+  name: Gibson McLean
+  id: df1af7cd-aafc-4ae3-a064-9422750a5117
 construction_material: wood
 construction_method: unknown
-designer: df1af7cd-aafc-4ae3-a064-9422750a5117
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.346988539380639
   draft: 0.7620092660326749
-  length_on_waterline: 6.705681541087539
   length_over_all: 7.620092660326749
+  length_on_waterline: 6.705681541087539
 home_country: GBR
 home_port: ''
 hull_form: unknown
 id: 9276c400-c228-47c0-95b2-f05b7fbc42a0
 length_on_deck: 7.62
-mainsail_type: gaff
-name: Ailie
-oga_no: 142
+callsign: ''
 ownerships:
 - name: P McNeil
   share: 64
   start: 1974
 place_built: Port Partick
-rig_type: Yawl
-short_description: <p>Ailie is a Clyde Canoe Yawl built in 1934</p>
 updated_at: '2021-12-19T13:38:33.7299+00:00'
 website: ''
 year: 1934
 year_is_approximate: false
+beam: 2.347
+design_class:
+  name: Clyde Canoe Club OD
+  id: a53592fa-cfd0-412d-8748-e831d09ab3b5
+for_sale_state:
+  text: not_for_sale

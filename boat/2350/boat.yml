@@ -1,12 +1,17 @@
-builder: 97373e89-d53d-428d-a9b4-bf6c68aebd94
-callsign: ''
+name: Hippo of Horning
+oga_no: 2350
+generic_type: Yacht
+mainsail_type: bermudan
+short_description: ''
+full_description: Sail area 260 sq ft
+builder:
+  name: Fairey Marine Ltd.
+  id: 97373e89-d53d-428d-a9b4-bf6c68aebd94
 construction_material: wood
 construction_method: unknown
 draft: 0.6858
 engine_installations: []
 for_sales: []
-full_description: Sail area 260 sq ft
-generic_type: Yacht
 handicap_data:
   beam: 2.6670324311143623
   draft: 0.6858083394294074
@@ -16,12 +21,13 @@ home_port: ' '
 hull_form: unknown
 id: 7ccf2dc1-42c1-48d0-8239-1f37a7b04246
 length_on_deck: 8.3576
-mainsail_type: bermudan
-name: Hippo of Horning
-oga_no: 2350
+sail_number: FM35
+callsign: ''
 place_built: Hamble
-short_description: ''
 updated_at: '2021-01-31T17:02:47.000036+00:00'
 website: ''
 year: 1963
 year_is_approximate: false
+beam: 2.667
+for_sale_state:
+  text: not_for_sale

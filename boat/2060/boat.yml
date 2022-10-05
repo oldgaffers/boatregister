@@ -1,5 +1,16 @@
-builder: 94b0313d-39ac-4e36-8e9c-48e1906cab05
-callsign: 2gsh9
+name: Henrietta
+oga_no: 2060
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built by John Tyrell from a mould taken from the 1932 Smack
+  Yacht Secret. &#39;Henrietta&#39; is number 8&nbsp;</p>
+full_description: Henrietta is a copy of the smack yacht 'Secret' (built 1932) and
+  which is still sailing.John Tyrell took a mould from the hull and built a small
+  number of yachts in his yard in Kent. 'Henrietta' is number 8.
+builder:
+  name: Tyrell and Young
+  id: 94b0313d-39ac-4e36-8e9c-48e1906cab05
 construction_material: grp
 construction_method: cold_moulded
 draft: 1.2192
@@ -24,49 +35,51 @@ for_sales:
   sold: null
   summary: null
   updated_at: '2021-06-26T15:25:44.593502+00:00'
-full_description: Henrietta is a copy of the smack yacht 'Secret' (built 1932) and
-  which is still sailing.John Tyrell took a mould from the hull and built a small
-  number of yachts in his yard in Kent. 'Henrietta' is number 8.
-generic_type: Smack
 handicap_data:
   beam: 2.590831504511095
-  draft: 1.167398195562058
-  fore_triangle_base: 5.882711533772251
-  fore_triangle_height: 8.53450377956596
-  length_on_waterline: 6.958668617410387
-  length_over_all: 8.53450377956596
   main:
     foot: 5.334064862228725
     head: 5.029261155815655
     luff: 5.029261155815655
-  propellor:
-    type: fixed
   thcf: 0.966323827
+  draft: 1.167398195562058
   topsail:
     luff: 3.2004389173372347
     perpendicular: 3.2004389173372347
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 5.882711533772251
+  length_on_waterline: 6.958668617410387
+  fore_triangle_height: 8.53450377956596
 home_port: Milford Haven
 hull_form: long keel deep forefoot
 id: 8e468e43-26d1-4bd2-b077-97dfd8cea107
 length_on_deck: 8.5344
-mainsail_type: gaff
-name: Henrietta
-oga_no: 2060
+sail_number: '8'
+spar_material: wood
+ssr: '61823'
+callsign: 2gsh9
 ownerships:
 - end: 1997
   note: 1994-7 Lt Col. Anthony Collis
-  start: 1994
   text: Lt Col. Anthony Collis
-- current: true
-  id: 529
-  member: 4840
+  start: 1994
+- id: 529
   share: 64
   start: 1998
+  member: 4840
+  current: true
 place_built: Faversham
-rig_type: Cutter
-short_description: <p>Built by John Tyrell from a mould taken from the 1932 Smack
-  Yacht Secret. &#39;Henrietta&#39; is number 8&nbsp;</p>
 updated_at: '2022-10-04T17:59:52.4776+00:00'
 website: ''
 year: 1993
 year_is_approximate: false
+image_key: hK9qRn
+construction_details: GRP hull, wooden topsides
+beam: 2.7432
+design_class:
+  name: Tyrell and Young 28 Smack
+  id: 9dadca9d-8e33-4bcf-a945-38b2debda2ec
+for_sale_state:
+  text: for_sale

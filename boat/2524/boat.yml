@@ -1,12 +1,10 @@
-builder: c740b35f-7148-4ee2-8ae2-19fb312bc860
-callsign: VSQU8
-construction_material: woodepoxy
-construction_method: unknown
-designer: 14976d7d-34fa-4ed1-8843-602dc834bde8
-draft: 0.9144
-engine_installations: []
-for_sales:
-- asking_price: 47500
+name: Lazy Wind
+oga_no: 2524
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <i>Lazy Wind</i> has cruised from Chatham to Whitby, the Dutch
+  Frisian Islands, Portrieux, Isles of Scilly and Milford Haven.
 full_description: <i>Lazy Wind</i> is a North Quay 30 gaff cutter designed and built
   by Ted Spears at North Quay Marine, Conyer in 2002 to the specification of the first
   owner, Ian Baron. Of cedar/epoxy construction with plywood superstructure, she is
@@ -34,49 +32,66 @@ full_description: <i>Lazy Wind</i> is a North Quay 30 gaff cutter designed and b
   the NorthEast wind is too lazy to blow around you, so blows through you! <p>Always
   based on the Medway, she has visited France, Belgium and Holland, plus UK coasts
   as far as Whitby in the East and the Isles of Scilly and Milford Haven in the South.
-generic_type: Yacht
+builder:
+  name: North Quay Marine Services
+  id: c740b35f-7148-4ee2-8ae2-19fb312bc860
+designer:
+  name: Ted Spears
+  id: 14976d7d-34fa-4ed1-8843-602dc834bde8
+construction_material: woodepoxy
+construction_method: unknown
+draft: 0.9144
+engine_installations: []
+for_sales:
+- asking_price: 47500
 handicap_data:
   beam: 3.0480370641306997
-  draft: 0.9144111192392099
-  fore_triangle_base: 4.87685930260912
-  fore_triangle_height: 8.22970007315289
-  length_on_waterline: 8.89011216776396
-  length_over_all: 9.1441111923921
-  length_over_spars: 11.582540843696659
   main:
     foot: 5.359479395269446
     head: 3.9624481833699097
     luff: 5.18166300902219
-  propellor:
-    blades: 3
-    type: folding
-  sailarea: 50.49805027083854
   thcf: 0.964
+  draft: 0.9144111192392099
   topsail:
     luff: 5.233479639112412
     perpendicular: 1.8288222384784198
+  sailarea: 50.49805027083854
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 9.1441111923921
+  length_over_spars: 11.582540843696659
+  fore_triangle_base: 4.87685930260912
+  length_on_waterline: 8.89011216776396
+  fore_triangle_height: 8.22970007315289
 home_country: GBR
 home_port: River Medway
 hull_form: long keel deep forefoot
 id: b5398ec8-5dd9-4c80-93f6-6705b5b936ff
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Lazy Wind
-oga_no: 2524
+sail_number: '1'
+ssr: '100298'
+callsign: VSQU8
 ownerships:
 - name: Ian Baron
   share: 64
   start: 2002
-- current: true
-  id: 1260
-  member: 5680
+- id: 1260
   share: 32
+  member: 5680
+  current: true
   start: '?'
 place_built: Conyer
-rig_type: Cutter
-short_description: <i>Lazy Wind</i> has cruised from Chatham to Whitby, the Dutch
-  Frisian Islands, Portrieux, Isles of Scilly and Milford Haven.
 updated_at: '2021-12-19T13:39:41.710627+00:00'
 website: ''
 year: 2002
 year_is_approximate: false
+image_key: pQ64Vn
+construction_details: 3/4" Western Red Cedar T&G strip, epoxy glass sheathed, iroko
+  stem & hog, mahogany transom, 5/8" ply deck and cabin
+beam: 3.048
+design_class:
+  name: North Quay 30
+  id: 9a014e68-6300-406f-a4bc-fa8d745a4999
+for_sale_state:
+  text: not_for_sale

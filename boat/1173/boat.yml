@@ -1,12 +1,9 @@
-builder: d649c6a5-3acc-4f60-868f-7415641908a4
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
-draft: 0.9144
-engine_installations: []
-for_sales:
-- asking_price: 0
+name: Margaret Ann
+oga_no: 1173
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: <p>Margaret Ann is a Hillyard 2 1/2 tonner built in 1939</p>
 full_description: "<p><em>Margaret Ann</em> (sometimes in the past referred to as\
   \ <em>Margret Ann</em>) was &nbsp;built by David Hillyard in Littlehampton in 1939.\
   \ Before we owned her &nbsp;the cabin top had been widened to give better sitting\
@@ -39,42 +36,57 @@ full_description: "<p><em>Margaret Ann</em> (sometimes in the past referred to a
   \ the re-construction of the coachhouse and cockpit coamings and coachhouse deck\
   \ (the beams for this could be reused). She comes complete with the timber (mahogany\
   \ for the coamings and pitch pine for the cabin deck) to do this.</p>"
-generic_type: Yacht
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+designer:
+  name: David Hillyard
+  id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+construction_material: wood
+construction_method: carvel
+draft: 0.9144
+engine_installations: []
+for_sales:
+- asking_price: 0
 handicap_data:
   beam: 1.9812240916849548
-  draft: 0.9144111192392099
-  fore_triangle_base: 2.529870763228481
-  fore_triangle_height: 5.029261155815655
-  length_on_waterline: 5.334064862228725
-  length_over_all: 5.6388685686417945
   main:
     foot: 4.114850036576445
     head: 3.2004389173372347
     luff: 2.590831504511095
+  thcf: 0.828817333
+  draft: 0.9144111192392099
   propellor:
     type: fixed
-  thcf: 0.828817333
+  length_over_all: 5.6388685686417945
+  fore_triangle_base: 2.529870763228481
+  length_on_waterline: 5.334064862228725
+  fore_triangle_height: 5.029261155815655
 home_country: GBR
 home_port: Salcombe
 hull_form: long keel deep forefoot
 id: 824acb22-665e-4e09-b2d3-cdc1773c6fda
 length_on_deck: 5.6388
-mainsail_type: gaff
-name: Margaret Ann
-oga_no: 1173
+callsign: ''
 ownerships:
 - name: Elspeth Macfarlane and Peter Crook
   share: 64
   start: 2001
-- current: true
-  id: 1106
-  member: 1377
+- id: 1106
   share: 32
+  member: 1377
+  current: true
   start: '?'
 place_built: Littlehampton
-rig_type: Sloop
-short_description: <p>Margaret Ann is a Hillyard 2 1/2 tonner built in 1939</p>
 updated_at: '2021-12-19T13:39:03.705659+00:00'
 website: ''
 year: 1939
 year_is_approximate: false
+image_key: 8t7FFL
+construction_details: Carvel
+beam: 1.9812
+design_class:
+  name: 2 1/2 Tonner
+  id: 5be1e6db-e482-4704-a65e-8d2e7e8d3772
+for_sale_state:
+  text: for_sale

@@ -1,10 +1,11 @@
-builder: 4a23d346-0991-45f0-a25d-c6ea1a4b2552
-callsign: ''
-construction_material: wood
-construction_method: carvel
-draft: 1.8288
-engine_installations: []
-for_sales: []
+name: Saint Patrick
+oga_no: 554
+generic_type: Galway Hooker
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Rebuilt by Paddy Barry 1974-79 and extensively cruised, &#39;Saint
+  Patrick&#39; was lost on 21 May 2002 when she broke from her mooring in Glandore
+  Bay.</p>
 full_description: "<p>Paddy Barry recounts the history of &#39;Saint Patrick&#39;\
   \ and the Galway hookers in an article first published in the OGA Newsletter, 1985\
   \ when he had owned her for 12 years.</p>\r\n\r\n<blockquote>When the Royal Cornwall\
@@ -171,38 +172,47 @@ full_description: "<p>Paddy Barry recounts the history of &#39;Saint Patrick&#39
   \ is not insoluble. And for 1984 and beyond who knows? The Cabaret Pors Beach festival\
   \ in August has a nice ring to it.</blockquote>\r\n\r\n<h4>by Paddy Barry<br />\r\
   \nFirst published in the Old Gaffers Association Newsletter 1985/1</h4>"
-generic_type: Galway Hooker
+builder:
+  name: Casey Bros.
+  id: 4a23d346-0991-45f0-a25d-c6ea1a4b2552
+construction_material: wood
+construction_method: carvel
+draft: 1.8288
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.6576444769568397
-  draft: 1.8288222384784198
-  length_on_waterline: 10.66812972445745
-  length_over_all: 12.801755669348939
   main:
     foot: 9.1441111923921
     head: 6.705681541087539
     luff: 7.010485247500609
+  thcf: 1.032973893
+  draft: 1.8288222384784198
   propellor:
     type: fixed
-  thcf: 1.032973893
+  length_over_all: 12.801755669348939
+  length_on_waterline: 10.66812972445745
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
 id: efddaf97-8bac-48c2-ad75-dac8083a800a
 length_on_deck: 12.8016
-mainsail_type: gaff
-name: Saint Patrick
-oga_no: 554
+callsign: ''
 ownerships:
 - end: 2002
   name: Paddy Barry
   share: 64
   start: 1973
 place_built: Mweenish Galway
-rig_type: Cutter
-short_description: <p>Rebuilt by Paddy Barry 1974-79 and extensively cruised, &#39;Saint
-  Patrick&#39; was lost on 21 May 2002 when she broke from her mooring in Glandore
-  Bay.</p>
 updated_at: '2021-12-19T13:38:45.64614+00:00'
 website: ''
 year: 1909
 year_is_approximate: false
+image_key: Z2BF6J
+construction_details: Carvel Larch on Oak
+beam: 3.6576
+design_class:
+  name: "B\xE1d M\xF3r"
+  id: 2e4a2cef-7e47-48d9-9178-98c0751d429f
+for_sale_state:
+  text: not_for_sale

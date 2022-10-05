@@ -1,40 +1,52 @@
-builder: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
-callsign: ''
+name: Honeydew
+oga_no: 1292
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Honeydew is a Tamarisk 24.</p>
+full_description: ''
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 construction_material: grp
 construction_method: unknown
-designer: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 draft: 0.9906
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.43842965130456
   draft: 0.9906120458424774
-  length_on_waterline: 6.452694464764692
-  length_over_all: 7.315288953913679
   propellor:
     type: fixed
+  length_over_all: 7.315288953913679
+  length_on_waterline: 6.452694464764692
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: 9b5388db-900a-46c5-a39c-5d9b5beca7c8
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Honeydew
-oga_no: 1292
+ssr: '246'
+callsign: ''
 ownerships:
 - name: Roy Ingall
   share: 64
   start: 1982
-- current: true
+- share: 64
   member: 2461
-  share: 64
+  current: true
   start: '?'
 place_built: Cornwall
-rig_type: Cutter
-short_description: <p>Honeydew is a Tamarisk 24.</p>
 updated_at: '2021-12-19T13:39:07.276887+00:00'
 website: ''
 year: 1982
 year_is_approximate: false
+construction_details: Resin glass hull, ply deck and cabin
+beam: 2.4384
+design_class:
+  name: Tamarisk 24
+  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
+for_sale_state:
+  text: not_for_sale

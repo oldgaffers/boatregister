@@ -1,13 +1,21 @@
-builder: 10519115-4641-4b89-8e3a-47b27aae16e6
-callsign: ''
+name: Witch
+oga_no: 2161
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: Log S-S/95, S-A/95, See CB Sept 04.
+builder:
+  name: Dan Webb
+  id: 10519115-4641-4b89-8e3a-47b27aae16e6
+designer:
+  name: Dan Webb
+  id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
 construction_material: wood
 construction_method: unknown
-designer: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
 draft: 0.9144
 engine_installations: []
 for_sales: []
-full_description: Log S-S/95, S-A/95, See CB Sept 04.
-generic_type: Yacht
 handicap_data:
   beam: 2.0330407217751767
   draft: 0.9144111192392099
@@ -17,17 +25,21 @@ home_port: Dublin Bay
 hull_form: unknown
 id: 6f423852-a349-4af3-92d0-49707e2fa82c
 length_on_deck: 5.6388
-mainsail_type: gaff
-name: Witch
-oga_no: 2161
+reference:
+- Log S-S/95
+- Log S-A/95
+- CB Sept 04
+callsign: ''
 ownerships:
 - name: Michael Howes
   share: 64
   start: 2012
 place_built: Maldon
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:30.943619+00:00'
 website: ''
 year: 1936
 year_is_approximate: false
+construction_details: Larch on oak
+beam: 2.033
+for_sale_state:
+  text: not_for_sale

@@ -1,44 +1,51 @@
-builder: 1d3992cf-bd93-4b89-b055-78300957ac0c
-callsign: ''
+name: Marigold
+oga_no: 1191
+generic_type: Bawley
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Code Walter and Son
+  id: 1d3992cf-bd93-4b89-b055-78300957ac0c
+designer:
+  name: D.J. Patient
+  id: 7eae9fe8-9d71-4ec6-af22-58e3ea20277a
 construction_material: wood
 construction_method: unknown
-designer: 7eae9fe8-9d71-4ec6-af22-58e3ea20277a
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Bawley
 handicap_data:
   beam: 3.2004389173372347
-  draft: 1.21921482565228
-  fore_triangle_base: 6.4008778346744695
-  fore_triangle_height: 10.972933430870519
-  length_on_waterline: 8.53450377956596
-  length_over_all: 8.991709339185563
   main:
     foot: 5.18166300902219
     head: 5.7912704218483295
     luff: 4.26725188978298
   thcf: 0.998603323
+  draft: 1.21921482565228
   topsail:
     luff: 6.858083394294074
     perpendicular: 4.26725188978298
+  length_over_all: 8.991709339185563
+  fore_triangle_base: 6.4008778346744695
+  length_on_waterline: 8.53450377956596
+  fore_triangle_height: 10.972933430870519
 home_country: 'null'
 home_port: Maldon
 hull_form: unknown
 id: 4f9254d1-3de6-4885-9278-fad5fe052bcc
 length_on_deck: 8.9916
-mainsail_type: gaff
-name: Marigold
-oga_no: 1191
+callsign: ''
 ownerships:
 - name: D J Patient.
   share: 64
   start: 2012
 place_built: Maldon
-rig_type: Cutter
-short_description: ''
 updated_at: '2021-12-19T13:39:04.252144+00:00'
 website: ''
 year: 1981
 year_is_approximate: false
+beam: 3.2004
+for_sale_state:
+  text: not_for_sale

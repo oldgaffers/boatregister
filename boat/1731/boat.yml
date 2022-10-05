@@ -1,48 +1,62 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Affinity
+oga_no: 1731
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>Built by Cornish Crabbers in 1992 she is a Cornish Pilot Cutter.</p>
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: grp
 construction_method: cold_moulded
-designer: af6f6943-2024-44d5-af5e-a6e63fc66db5
 draft: 1.143
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.8956352109241648
-  draft: 1.1430138990490124
-  fore_triangle_base: 5.7912704218483295
-  fore_triangle_height: 8.458302852962692
-  length_on_waterline: 7.848695440136551
-  length_over_all: 9.1441111923921
   main:
     foot: 5.6388685686417945
     head: 4.495854669592782
     luff: 4.953060229212387
-  propellor:
-    type: folding
   thcf: 0.973813074
+  draft: 1.1430138990490124
   topsail:
     luff: 5.715069495245062
     perpendicular: 2.286027798098025
+  propellor:
+    type: folding
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 5.7912704218483295
+  length_on_waterline: 7.848695440136551
+  fore_triangle_height: 8.458302852962692
 home_country: 'null'
 home_port: Chichester
 hull_form: long keel sloping forefoot
 id: a06c766d-7726-4b93-8741-07bc00675c36
 length_on_deck: 9.144
-mainsail_type: gaff
-name: Affinity
-oga_no: 1731
+sail_number: P23
+spar_material: wood
+ssr: '49095'
+callsign: ''
 ownerships:
-- current: true
-  id: 38
-  member: 954
+- id: 38
   share: 64
   start: 2022
+  member: 954
+  current: true
 place_built: Rock
-rig_type: Cutter
-short_description: <p>Built by Cornish Crabbers in 1992 she is a Cornish Pilot Cutter.</p>
 updated_at: '2022-09-20T07:03:19.198415+00:00'
 website: ''
 year: 1990
 year_is_approximate: false
+construction_details: GRP
+beam: 2.8956
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
+for_sale_state:
+  text: not_for_sale

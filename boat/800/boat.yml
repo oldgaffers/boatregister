@@ -1,11 +1,10 @@
-builder: 892e1be1-24e9-40aa-8034-f90bb992d51e
-callsign: ''
-construction_material: wood
-construction_method: carvel
-designer: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
-draft: 0.9144
-engine_installations: []
-for_sales: []
+name: Hirondelle
+oga_no: 800
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Hirondelle was built on Guernsey in 1904. She was raced in the
+  Guernsey regattas and used for fishing off Alderney.
 full_description: "<p>Hirondelle was built in 1904 by John le Lacheur in St Peters,\
   \ Guernsey, as a yawl. The main mast was in the bow, like a catboat except she carried\
   \ a bowsprit, and a mizzen on the transom. Her hull is very similar to other contemporary\
@@ -21,32 +20,40 @@ full_description: "<p>Hirondelle was built in 1904 by John le Lacheur in St Pete
   \ use her as a motor fishing boat. In 1970 he decided to return her to sail as a\
   \ gaff cutter. He has subsequently replaced the cabin top in 1983 and in 1985 he\
   \ replaced the mast and increased the luff of the mainsail.</p>"
-generic_type: Smack
+builder:
+  name: Le Lacheur de Garis Yard
+  id: 892e1be1-24e9-40aa-8034-f90bb992d51e
+designer:
+  name: Traditional
+  id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+construction_material: wood
+construction_method: carvel
+draft: 0.9144
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 1.9812240916849548
-  draft: 0.9144111192392099
-  fore_triangle_base: 2.234211168007803
-  fore_triangle_height: 4.26725188978298
-  length_on_waterline: 4.419653742989515
-  length_over_all: 4.977444525725432
   main:
     foot: 3.3528407705437697
     head: 2.7432333577176298
     luff: 1.9812240916849548
-  propellor:
-    type: fixed
   thcf: 0.775516332
+  draft: 0.9144111192392099
   topsail:
     luff: 2.0330407217751767
     perpendicular: 1.3472323823457693
+  propellor:
+    type: fixed
+  length_over_all: 4.977444525725432
+  fore_triangle_base: 2.234211168007803
+  length_on_waterline: 4.419653742989515
+  fore_triangle_height: 4.26725188978298
 home_country: GBR
 home_port: Braye Harbour Alderney
 hull_form: long keel deep forefoot
 id: 35801a6b-0a03-4e95-8afd-f9ec36d85e79
 length_on_deck: 4.9774
-mainsail_type: gaff
-name: Hirondelle
-oga_no: 800
+callsign: ''
 ownerships:
 - name: John de la Mare
   share: 64
@@ -55,16 +62,20 @@ ownerships:
   name: Walter Gauvain
   share: 64
   start: 1954
-- current: true
-  id: 57
-  member: 1329
+- id: 57
   share: 64
   start: 1967
+  member: 1329
+  current: true
 place_built: St Peters, Guernsey
-rig_type: Cutter
-short_description: Hirondelle was built on Guernsey in 1904. She was raced in the
-  Guernsey regattas and used for fishing off Alderney.
 updated_at: '2021-12-19T13:38:52.670146+00:00'
 website: ''
 year: 1904
 year_is_approximate: false
+previous_names:
+- Hirondelle ll
+image_key: krwphj
+construction_details: Pine carvel planking on oak sawn frames
+beam: 1.9812
+for_sale_state:
+  text: not_for_sale

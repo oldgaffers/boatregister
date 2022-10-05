@@ -1,37 +1,48 @@
-builder: 8c95691c-b22e-4e8e-928c-4e2e983aef19
-callsign: ''
-construction_material: wood
-construction_method: unknown
-designer: fc356a33-71c6-439f-a3e3-a71fb03351ed
-draft: 1.3716
-engine_installations: []
-for_sales: []
+name: Sireadh
+oga_no: 1150
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
 full_description: Loch Fyne Skiff originally lug rigged as a ring net fishing boat
   until 1938.Between then and 1987 not a lot known but did visit Ireland and Cyprus.  Converted
   from houseboat and from 1990-95 cruised France, Spain, Morocco, Canaries returning
   to Britain via Azores.
-generic_type: unknown
+builder:
+  name: James N. Miller and Sons Ltd.
+  id: 8c95691c-b22e-4e8e-928c-4e2e983aef19
+designer:
+  name: W. McBryde
+  id: fc356a33-71c6-439f-a3e3-a71fb03351ed
+construction_material: wood
+construction_method: unknown
+draft: 1.3716
+engine_installations: []
+for_sales: []
 handicap_data:
   beam: 3.8100463301633747
   draft: 1.3716166788588149
-  length_on_waterline: 10.66812972445745
   length_over_all: 12.344550109729333
+  length_on_waterline: 10.66812972445745
 home_country: 'null'
 home_port: Hamble
 hull_form: unknown
 id: a378bfe9-f177-46a3-ab81-5cbee9c332c0
 length_on_deck: 12.3444
-mainsail_type: gaff
-name: Sireadh
-oga_no: 1150
+uk_part1: '165163'
+callsign: ''
 ownerships:
 - name: P Baker
   share: 64
   start: 1980
 place_built: St Monance, Fife
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:03.05413+00:00'
 website: ''
 year: 1923
 year_is_approximate: false
+previous_names:
+- Golden Plover   Sireadh
+construction_details: Pitch pine on double oak
+beam: 3.81
+for_sale_state:
+  text: not_for_sale

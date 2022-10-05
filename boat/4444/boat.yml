@@ -1,34 +1,43 @@
-builder: a1149357-643c-4121-b158-81be7f7c61d6
-callsign: ''
+name: Calloo of Appin
+oga_no: 4444
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gaff
+short_description: ''
+full_description: Ref. Yachting Monthly January 1973
+builder:
+  name: Nyton Marine/Silvers
+  id: a1149357-643c-4121-b158-81be7f7c61d6
+designer:
+  name: Robert Tucker
+  id: 5a9ff358-5fd8-431c-9e4e-d716fa3ac84b
 construction_material: wood
 construction_method: carvel
-designer: 5a9ff358-5fd8-431c-9e4e-d716fa3ac84b
 draft: 1.2192
 engine_installations: []
 for_sales: []
-full_description: Ref. Yachting Monthly January 1973
-generic_type: Yacht
 handicap_data:
   beam: 2.7432333577176298
   draft: 1.21921482565228
-  length_on_waterline: 6.0960741282613995
   length_over_all: 23.774689100219458
+  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
 id: abe37ffd-1f0d-4b2e-acdc-0b0e778efb55
 length_on_deck: 23.7744
-mainsail_type: gaff
-name: Calloo of Appin
-oga_no: 4444
+uk_part1: '364962'
+callsign: ''
 ownerships:
 - name: Brendan Daly  Bruckless
   share: 64
   start: 1988
 place_built: Wallsend/Rosneath
-rig_type: Sloop
-short_description: ''
 updated_at: '2021-12-19T13:39:59.693871+00:00'
 website: ''
 year: 1974
 year_is_approximate: false
+construction_details: Carvel Build  Coaten Steel
+beam: 2.7432
+for_sale_state:
+  text: not_for_sale

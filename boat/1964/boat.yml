@@ -1,13 +1,21 @@
-builder: caff79d9-aeb5-4cfa-a330-2e843c8e1d5a
-callsign: ''
+name: Hope of Porth Leven
+oga_no: 1964
+generic_type: unknown
+rig_type: Ketch
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: J. Bowden
+  id: caff79d9-aeb5-4cfa-a330-2e843c8e1d5a
+designer:
+  name: J. Bowden
+  id: ba69030c-bf33-41ca-b1f0-42a032139e0f
 construction_material: wood
 construction_method: unknown
-designer: ba69030c-bf33-41ca-b1f0-42a032139e0f
 draft: 0
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: unknown
 handicap_data:
   beam: 2.9718361375274323
   length_over_all: 10.896732504267252
@@ -16,17 +24,16 @@ home_port: Gillingham
 hull_form: unknown
 id: 933ba0ca-c04b-4d19-8a4e-6712664b016a
 length_on_deck: 10.8966
-mainsail_type: gaff
-name: Hope of Porth Leven
-oga_no: 1964
+callsign: ''
 ownerships:
 - name: Marshall Pont
   share: 64
   start: 2012
 place_built: Porthleven
-rig_type: Ketch
-short_description: ''
 updated_at: '2021-12-19T13:39:25.49813+00:00'
 website: ''
 year: 1906
 year_is_approximate: false
+beam: 2.9718
+for_sale_state:
+  text: not_for_sale

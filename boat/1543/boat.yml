@@ -1,46 +1,53 @@
-builder: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
-callsign: ''
+name: Sea Mynx
+oga_no: 1543
+generic_type: Smack
+rig_type: Cutter
+mainsail_type: gaff
+short_description: <p>In need of major restoration, ashore in Leicester, 2006</p>
+full_description: ''
+builder:
+  name: Johnson and Johnson
+  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
 construction_material: wood
 construction_method: unknown
 draft: 0.9906
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Smack
 handicap_data:
   beam: 2.43842965130456
-  draft: 0.9906120458424774
-  fore_triangle_base: 4.968300414533041
-  fore_triangle_height: 5.654108753962448
-  length_on_waterline: 5.7912704218483295
-  length_over_all: 7.315288953913679
   main:
     foot: 6.2484759814679345
     head: 3.154718361375274
     luff: 3.764325774201414
+  thcf: 0.886187368
+  draft: 0.9906120458424774
   propellor:
     type: fixed
-  thcf: 0.886187368
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 4.968300414533041
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 5.654108753962448
 home_country: GBR
 home_port: Ashore, Leicester
 hull_form: long keel deep forefoot
 id: 1eb4fc6b-a59c-4797-9701-b8024159af18
 length_on_deck: 7.3152
-mainsail_type: gaff
-name: Sea Mynx
-oga_no: 1543
+ssr: '46468'
+callsign: ''
 ownerships:
 - name: Richard Whitehall
   share: 64
   start: 2004
-- current: true
+- share: 64
   member: 4671
-  share: 64
+  current: true
   start: '?'
 place_built: Leigh on Sea
-rig_type: Cutter
-short_description: <p>In need of major restoration, ashore in Leicester, 2006</p>
 updated_at: '2021-12-19T13:39:14.340888+00:00'
 website: ''
 year: 1888
 year_is_approximate: false
+construction_details: 1 1/4 inch pitch pine on oak
+beam: 2.4384
+for_sale_state:
+  text: not_for_sale

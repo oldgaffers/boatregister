@@ -1,34 +1,46 @@
-builder: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-callsign: ''
+name: Edenside
+oga_no: 3131
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: ''
+full_description: ''
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+designer:
+  name: David Thomas
+  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 construction_material: grp
 construction_method: cold_moulded
-designer: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 draft: 0.762
 engine_installations: []
 for_sales: []
-full_description: ''
-generic_type: Yacht
 handicap_data:
   beam: 2.7737137283589366
   draft: 0.7620092660326749
-  length_on_waterline: 7.2390880273104115
   length_over_all: 8.001097293343086
+  length_on_waterline: 7.2390880273104115
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
 id: cefa1dfe-7e09-4ad1-a95d-51c47a688a5f
 length_on_deck: 8.001
-mainsail_type: gaff
-name: Edenside
-oga_no: 3131
+sail_number: '22'
+spar_material: wood
+callsign: ''
 ownerships:
 - name: Stuart Redhead
   share: 64
   start: 2013
 place_built: Rock
-rig_type: Cutter
-short_description: ''
 updated_at: '2022-09-12T19:05:56.434433+00:00'
 website: ''
 year: 2013
 year_is_approximate: false
+beam: 2.9962
+design_class:
+  name: Cornish Crabber 26
+  id: 50503297-7263-4cf4-af74-102bb153bc8e
+for_sale_state:
+  text: not_for_sale
