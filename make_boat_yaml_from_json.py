@@ -112,28 +112,26 @@ def map_boat(item):
 
 def get_boat(b):
   with open(f"{mypath}/{b}/page-data.json", "r") as stream:
-    try: 
-      data = json.load(stream)
-      data = data['result']['pageContext']['boat']
-      boat = OrderedDict()
-      for field in topLevelFields:
-        if field in data and data[field] is not None:
+    data = json.load(stream)
+    data = data['result']['pageContext']['boat']
+    boat = OrderedDict()
+    for field in topLevelFields:
+      if field in data:
+        if data[field] is not None:
           boat[field] = data[field]
         del data[field]
-      return boat | data # any fields not in topLevelFields
-    except Exception as e:
-      print('OGA', b)
-      print(e)
-    return None
+    return boat | data # any fields not in topLevelFields
 
 mypath='page-data/boat'
 boats = listdir(mypath)
 data = {}
 for b in boats:
-  boat = get_boat(b)
-  if boat is None:
+  boat = None
+  try:
+    boat = get_boat(b)
+  except:
     print(b)
-  else:
+  if boat is not None:
     outdir = f"boat/{b}"
     Path(outdir).mkdir(parents=True, exist_ok=True)
     with open(f'{outdir}/boat.yml', 'w') as outfile:
