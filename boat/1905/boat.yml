@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: CB Feb 93,
-builder:
-  name: Mayfly Classic Boats
-  id: 2a625108-bef9-404e-bf02-4aad488efa47
+year: 1993
+year_is_approximate: false
 designer:
   name: Bryan Gibson
   id: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
+builder:
+  name: Mayfly Classic Boats
+  id: 2a625108-bef9-404e-bf02-4aad488efa47
+place_built: Gweek
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.6706
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Southampton
+hull_form: shoal_draft
+callsign: ''
+ownerships:
+- name: Neil White
+  share: 64
+  start: 1993
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4b014724-c7b8-468d-a2fc-f45828d37b9a
+previous_names:
+- Victoria Ruth
+draft: 0.6706
 handicap_data:
   beam: 1.929407461594733
   main:
@@ -30,24 +47,7 @@ handicap_data:
   fore_triangle_base: 2.8041940990002434
   length_on_waterline: 4.800658376005852
   fore_triangle_height: 4.800658376005852
-home_country: 'null'
-home_port: Southampton
-hull_form: shoal_draft
-id: 4b014724-c7b8-468d-a2fc-f45828d37b9a
 length_on_deck: 4.8768
-callsign: ''
-ownerships:
-- name: Neil White
-  share: 64
-  start: 1993
-place_built: Gweek
-updated_at: '2021-12-19T13:39:23.689895+00:00'
-website: ''
-year: 1993
-year_is_approximate: false
-previous_names:
-- Victoria Ruth
-construction_details: GRP
 beam: 1.9294
 design_class:
   name: Oystercatcher 16

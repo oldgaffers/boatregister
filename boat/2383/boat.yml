@@ -15,17 +15,41 @@ full_description: "Lloyds Official No 1920 Sir Thomas Glen-Coats designed Duet a
   \ July 1994, for Mr T Snook who  owns Tern, Duet now for sale, 30/03/2003 Bought\
   \ by Don Wood 2010 She won YOGAFF 2011 and raced successfully at La Trinite Britany\
   \ and Cannes 2011."
-builder:
-  name: McGruer and Co. Ltd.
-  id: 10ce0ba2-2afc-4bb7-9264-10bc8a66e7f3
+year: 1926
+year_is_approximate: false
 designer:
   name: Thomas Glen-Coats
   id: 40beeb16-dd84-476f-88ab-d6e85aa4c8a3
+builder:
+  name: McGruer and Co. Ltd.
+  id: 10ce0ba2-2afc-4bb7-9264-10bc8a66e7f3
+place_built: Clynder Scotland
 construction_material: wood
 construction_method: unknown
-draft: 1.6246
+construction_details: Mahogany on oak and iroko
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Lymington
+hull_form: long keel sloping forefoot
+sail_number: K15
+callsign: ''
+ownerships:
+- note: First owner Brig C Bull DSO
+  text: First owner Brig C Bull DSO
+- end: 2010
+  name: T Snook
+  share: 64
+  start: 1994
+- id: 468
+  share: 64
+  start: 2012
+  member: 4552
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 5375d097-eac3-48c8-8948-09405d8a179c
+draft: 1.6246
 handicap_data:
   beam: 2.081809314801268
   main:
@@ -41,31 +65,7 @@ handicap_data:
   fore_triangle_base: 3.5052426237503047
   length_on_waterline: 7.443306510607169
   fore_triangle_height: 9.75371860521824
-home_country: GBR
-home_port: Lymington
-hull_form: long keel sloping forefoot
-id: 5375d097-eac3-48c8-8948-09405d8a179c
 length_on_deck: 10.2108
-sail_number: K15
-callsign: ''
-ownerships:
-- note: First owner Brig C Bull DSO
-  text: First owner Brig C Bull DSO
-- end: 2010
-  name: T Snook
-  share: 64
-  start: 1994
-- id: 468
-  share: 64
-  start: 2012
-  member: 4552
-  current: true
-place_built: Clynder Scotland
-updated_at: '2021-12-19T13:39:37.352419+00:00'
-website: ''
-year: 1926
-year_is_approximate: false
-construction_details: Mahogany on oak and iroko
 beam: 2.0818
 for_sale_state:
   text: not_for_sale

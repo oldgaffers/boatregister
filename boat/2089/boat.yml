@@ -6,35 +6,23 @@ mainsail_type: gaff
 short_description: <p>Based in Strangford Lough since 1982, her cruising ground is
   the Isle of Man and Belfast.</p>
 full_description: ''
-builder:
-  name: Westfield Engineering
-  id: eed82597-5bdf-40b8-9938-0b44b76b2f3f
+year: 1977
+year_is_approximate: false
 designer:
   name: Rags Nierop
   id: 028c0356-8a58-45af-9f33-65b0a6d70deb
+builder:
+  name: Westfield Engineering
+  id: eed82597-5bdf-40b8-9938-0b44b76b2f3f
+place_built: Creekmoor, Poole
 construction_material: grp
 construction_method: unknown
-draft: 0.7102
+construction_details: Bilge Keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.1082479882955374
-  main:
-    foot: 3.759253840526701
-    head: 3.759253840526701
-    luff: 6.959704950012192
-  draft: 0.7112167763960009
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 6.578694220921726
-  length_over_spars: 6.578694220921726
-  length_on_waterline: 5.867477444525725
 home_country: GBR
 home_port: Strangford Lough
 hull_form: fin keel
-id: 2e029201-4b66-44f4-b278-8f7d5fa9407e
-length_on_deck: 6.5776
 uk_part1: '366420'
 callsign: ''
 ownerships:
@@ -51,12 +39,24 @@ ownerships:
   start: 1982
   member: 3340
   current: true
-place_built: Creekmoor, Poole
-updated_at: '2021-12-19T13:39:29.04117+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1977
-year_is_approximate: false
-construction_details: Bilge Keel
+id: 2e029201-4b66-44f4-b278-8f7d5fa9407e
+draft: 0.7102
+handicap_data:
+  beam: 2.1082479882955374
+  main:
+    foot: 3.759253840526701
+    head: 3.759253840526701
+    luff: 6.959704950012192
+  draft: 0.7112167763960009
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 6.578694220921726
+  length_over_spars: 6.578694220921726
+  length_on_waterline: 5.867477444525725
+length_on_deck: 6.5776
 beam: 2.1092
 design_class:
   name: Kingfisher 20

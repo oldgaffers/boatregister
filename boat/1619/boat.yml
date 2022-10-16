@@ -5,23 +5,19 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 84/1
+year: 1967
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.3716166788588149
-  length_over_all: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 0ddf972b-b6ac-4de0-800e-b9070287b021
-length_on_deck: 7.3152
 reference:
 - Log 84/1
 callsign: ''
@@ -29,11 +25,15 @@ ownerships:
 - name: T Chudleigh
   share: 64
   start: 2012
-updated_at: '2021-12-19T13:39:16.397896+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1967
-year_is_approximate: false
-construction_details: Pitch pine on oak
+id: 0ddf972b-b6ac-4de0-800e-b9070287b021
+draft: 1.3716
+handicap_data:
+  beam: 2.8956352109241648
+  draft: 1.3716166788588149
+  length_over_all: 7.315288953913679
+length_on_deck: 7.3152
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

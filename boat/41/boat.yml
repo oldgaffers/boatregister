@@ -5,37 +5,37 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: R. McAlister and Son
-  id: 2672cda9-f642-42e7-bc28-2ec07d86d165
+year: 1904
+year_is_approximate: false
 designer:
   name: Alfred Mylne
   id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
+builder:
+  name: R. McAlister and Son
+  id: 2672cda9-f642-42e7-bc28-2ec07d86d165
+place_built: Dumbarton
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 1.3716166788588149
-  length_over_all: 7.315288953913679
-  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 408405b2-8c52-48cf-a1c3-73ddd0eeb44a
-length_on_deck: 7.3152
 callsign: ''
 ownerships:
 - name: M Flynn
   share: 64
   start: 2012
-place_built: Dumbarton
-updated_at: '2021-12-19T13:38:30.860404+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1904
-year_is_approximate: false
+id: 408405b2-8c52-48cf-a1c3-73ddd0eeb44a
+draft: 1.3716
+handicap_data:
+  beam: 2.13362594489149
+  draft: 1.3716166788588149
+  length_over_all: 7.315288953913679
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 7.3152
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

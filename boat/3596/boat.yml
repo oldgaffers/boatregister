@@ -4,28 +4,28 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: She is a fine example of her type.
-builder:
-  name: Austin Lion Classic Boats
-  id: 7996c869-8665-4488-b097-af1f4f9f0f5c
+year: 2005
+year_is_approximate: false
 designer:
   name: John Rock
   id: 2bd090b8-ef1a-4894-9853-fd9b5c7a7a24
+builder:
+  name: Austin Lion Classic Boats
+  id: 7996c869-8665-4488-b097-af1f4f9f0f5c
+place_built: Southampton
 construction_material: grp
 construction_method: cold_moulded
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  draft: 1.2435991221653255
 home_country: Netherlands
 home_port: Hellevoetsluis
 hull_form: long keel sloping forefoot
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 7d879485-bcce-46d1-a5dc-2fc3ba673fc4
+handicap_data:
+  beam: 3.0480370641306997
+  draft: 1.2435991221653255
 length_on_deck: 7.620092660326749
-place_built: Southampton
-updated_at: '2021-10-31T11:26:07.550134+00:00'
-year: 2005
-year_is_approximate: false
 design_class:
   name: Tradewind 25
   id: 41704b91-04bb-4107-bbd9-8e86feee4e43

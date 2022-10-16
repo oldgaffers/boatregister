@@ -5,23 +5,19 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 84/3
+year: 1936
+year_is_approximate: false
 builder:
   name: R. Evans
   id: 3412fe29-7e18-457e-8654-23d2951c6194
+place_built: Heswall
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  length_over_all: 6.858083394294074
-  length_on_waterline: 6.4008778346744695
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: d2dd4a00-5af2-4aca-ad8e-940e572cee49
-length_on_deck: 6.858
 reference:
 - Log 84/3
 callsign: ''
@@ -29,11 +25,15 @@ ownerships:
 - name: M Hatton
   share: 64
   start: 2012
-place_built: Heswall
-updated_at: '2021-12-19T13:39:04.599386+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1936
-year_is_approximate: false
+id: d2dd4a00-5af2-4aca-ad8e-940e572cee49
+draft: 0
+handicap_data:
+  beam: 2.43842965130456
+  length_over_all: 6.858083394294074
+  length_on_waterline: 6.4008778346744695
+length_on_deck: 6.858
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

@@ -18,17 +18,43 @@ full_description: <em>Codling</em>, built as a Freedom 21 in 1987, is derived fr
   2019 the gaff and topmast, previously made from aluminium alloy have been replaced
   by new spars of carbon fibre.<p>Solent Gaffers race 2019, Cowes to Lymington - second
   on the water to Rosenn, but first overall on corrected time.
-builder:
-  name: Freedom Yachts
-  id: d326778f-1881-46cc-8a2f-9f9cc01c30c8
+year: 1987
+year_is_approximate: false
 designer:
   name: Garry Hoyt
   id: 740eeb7d-cfd4-4712-97f1-dd79f59eaa18
+builder:
+  name: Freedom Yachts
+  id: d326778f-1881-46cc-8a2f-9f9cc01c30c8
+place_built: Portsmouth
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.1887
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Cowes
+hull_form: fin keel
+sail_number: Cod-1
+callsign: ''
+ownerships:
+- note: 'previous owner :  M le Marquand'
+  text: 'previous owner :  M le Marquand'
+- end: 2017
+  name: Don Wood
+  share: 64
+  start: 2009
+- id: 1018
+  share: 64
+  start: 2017
+  member: 6267
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6bb551e1-d493-45f2-99b2-7ebbead2d64e
+image_key: b9wwWS
+thumb: https://photos.smugmug.com/photos/i-tLpfrJc/0/Th/i-tLpfrJc-Th.jpg
+draft: 1.1887
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -47,32 +73,7 @@ handicap_data:
   fore_triangle_base: 3.1242379907339672
   length_on_waterline: 5.385881492318947
   fore_triangle_height: 8.433918556449646
-home_country: GBR
-home_port: Cowes
-hull_form: fin keel
-id: 6bb551e1-d493-45f2-99b2-7ebbead2d64e
 length_on_deck: 6.605
-sail_number: Cod-1
-callsign: ''
-ownerships:
-- note: 'previous owner :  M le Marquand'
-  text: 'previous owner :  M le Marquand'
-- end: 2017
-  name: Don Wood
-  share: 64
-  start: 2009
-- id: 1018
-  share: 64
-  start: 2017
-  member: 6267
-  current: true
-place_built: Portsmouth
-updated_at: '2021-12-19T13:39:53.524381+00:00'
-website: ''
-year: 1987
-year_is_approximate: false
-image_key: b9wwWS
-construction_details: GRP
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

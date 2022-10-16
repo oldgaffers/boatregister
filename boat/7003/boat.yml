@@ -5,22 +5,21 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: Camper and Nicholson Ltd.
-  id: 83a839af-b960-4cce-a881-b4401432846c
+year: 1972
+year_is_approximate: false
 designer:
   name: Charles E. Nicholson
   id: f97b2d74-8535-4ed5-8602-651d2ca2898f
+builder:
+  name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
 home_country: 'null'
 home_port: Carrickfergus
 hull_form: unknown
-id: e4bf10b2-6d7a-4616-b99d-da4a8d75d4fa
-length_on_deck: 0
 callsign: ''
 ownerships:
 - name: William John Carlisle
@@ -31,10 +30,11 @@ ownerships:
   member: 3872
   current: true
   start: '?'
-updated_at: '2021-12-19T13:40:00.119442+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1972
-year_is_approximate: false
+id: e4bf10b2-6d7a-4616-b99d-da4a8d75d4fa
+draft: 0
+length_on_deck: 0
 beam: 0
 design_class:
   name: South Coast OD

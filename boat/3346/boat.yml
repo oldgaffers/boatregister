@@ -5,17 +5,38 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2012
+year_is_approximate: false
 designer:
   name: Roger Dongray/David Thomas Yachts
   id: 7d1ad008-4263-419d-8843-d466ded0ec2c
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.762
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: West Mersea
+hull_form: long keel deep forefoot
+sail_number: '18'
+ssr: '166288'
+callsign: 2FOL2
+ownerships:
+- id: 957
+  share: 64
+  start: 2016
+  member: 6164
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d3778453-336e-4824-95d4-90ffe6266fef
+image_key: r2t6Z8
+thumb: https://photos.smugmug.com/photos/i-cLkW3nv/0/Th/i-cLkW3nv-Th.jpg
+draft: 0.762
 handicap_data:
   main:
     foot: 16.63
@@ -31,27 +52,7 @@ handicap_data:
   fore_triangle_base: 4.2916
   length_on_waterline: 7.239
   fore_triangle_height: 7.5316
-home_country: GBR
-home_port: West Mersea
-hull_form: long keel deep forefoot
-id: d3778453-336e-4824-95d4-90ffe6266fef
 length_on_deck: 8.001
-sail_number: '18'
-ssr: '166288'
-callsign: 2FOL2
-ownerships:
-- id: 957
-  share: 64
-  start: 2016
-  member: 6164
-  current: true
-place_built: Rock
-updated_at: '2021-12-19T13:40:08.322624+00:00'
-website: ''
-year: 2012
-year_is_approximate: false
-image_key: r2t6Z8
-construction_details: GRP
 beam: 2.7676
 design_class:
   name: Cornish Crabber 26

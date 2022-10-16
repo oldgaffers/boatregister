@@ -22,17 +22,38 @@ full_description: "<p>&#39;Wender&#39; was probably built as a dayboat to a desi
   \ owner was Victor Fusco who cruised her from Strangford Lough for many years.</p>\r\
   \n\r\n<p>Sam Poole boought her in 1971 and has cruised many many miles with his\
   \ wife Sue and their two sons.</p>"
-builder:
-  name: S.F. Bond
-  id: cb17e76b-9888-4502-85a6-c7640e16e6ce
+year: 1898
+year_is_approximate: false
 designer:
   name: George F. Holmes
   id: 18294e5e-ffa2-48af-939e-bc30b9668eef
+builder:
+  name: S.F. Bond
+  id: cb17e76b-9888-4502-85a6-c7640e16e6ce
+place_built: Birkenhead
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
+construction_details: Pitch pine on oak, Teak upper, long fin keel lead ballast keel.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Exeter
+hull_form: long keel deep forefoot
+sail_number: 357C
+uk_part1: Y124099
+callsign: ''
+ownerships:
+- id: 561
+  share: 64
+  start: 1971
+  member: 5018
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2fba4b04-810a-4cb6-a392-5e21610609cc
+image_key: JM3Rft
+thumb: https://photos.smugmug.com/photos/i-w6dMmTR/0/Th/i-w6dMmTR-Th.jpg
+draft: 1.2192
 handicap_data:
   beam: 2.5146305779078273
   main:
@@ -50,27 +71,7 @@ handicap_data:
   fore_triangle_base: 5.233479639112412
   length_on_waterline: 7.315288953913679
   fore_triangle_height: 7.976712996830042
-home_country: GBR
-home_port: Exeter
-hull_form: long keel deep forefoot
-id: 2fba4b04-810a-4cb6-a392-5e21610609cc
 length_on_deck: 9.1196
-sail_number: 357C
-uk_part1: Y124099
-callsign: ''
-ownerships:
-- id: 561
-  share: 64
-  start: 1971
-  member: 5018
-  current: true
-place_built: Birkenhead
-updated_at: '2021-12-19T13:38:40.137895+00:00'
-website: ''
-year: 1898
-year_is_approximate: false
-image_key: JM3Rft
-construction_details: Pitch pine on oak, Teak upper, long fin keel lead ballast keel.
 beam: 2.5146
 for_sale_state:
   text: not_for_sale

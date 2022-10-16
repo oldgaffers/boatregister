@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: One of hire fleet of Waddeninzicht, Previous owner Albert de Wint
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1978
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7376
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Oostmahorn
+hull_form: long keel deep forefoot
+sail_number: '66'
+callsign: ''
+ownerships:
+- name: Hein G Pols
+  share: 64
+  start: 2004
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6b2e3aae-d300-49b5-89d3-eb54075b5a21
+previous_names:
+- Winaston
+draft: 0.7376
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,25 +51,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
   fore_triangle_height: 5.6388685686417945
-home_country: 'null'
-home_port: Oostmahorn
-hull_form: long keel deep forefoot
-id: 6b2e3aae-d300-49b5-89d3-eb54075b5a21
 length_on_deck: 7.3152
-sail_number: '66'
-callsign: ''
-ownerships:
-- name: Hein G Pols
-  share: 64
-  start: 2004
-place_built: Rock
-updated_at: '2021-12-19T13:39:47.121377+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-previous_names:
-- Winaston
-construction_details: GRP
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 1

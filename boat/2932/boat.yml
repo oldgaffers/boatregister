@@ -24,17 +24,42 @@ full_description: "<p>Transcur CK 365 was built in 1889, it seems to replace a l
   \ rig which she lost in the late 50s. Since her restoration she has been sailed\
   \ regularly to Holland each year for family holidays.</p>\r\n\r\n<p>Unlike many\
   \ smacks, she is sailed by a family and cruised extensivly.</p>"
-builder:
-  name: Aldous Ltd.
-  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+year: 1889
+year_is_approximate: false
 designer:
   name: Aldous
   id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+place_built: Brightlingsea
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.396
+construction_details: 'Trad '
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Pin Mill
+hull_form: long keel deep forefoot
+sail_number: CK365
+callsign: ''
+ownerships:
+- note: As well as Frank Mulville, Peter Maynard and Rober Bettle have been previous
+    owners of 'Transcur'.
+  text: As well as Frank Mulville, Peter Maynard and Rober Bettle have been previous
+    owners of 'Transcur'.
+- id: 38
+  share: 64
+  start: 1998
+  member: 954
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 656e0e94-c298-408e-90e2-1bafd5bdd824
+image_key: grRdbV
+thumb: https://photos.smugmug.com/photos/i-kmtkTqf/0/Th/i-kmtkTqf-Th.jpg
+draft: 1.396
 handicap_data:
   beam: 3.279648
   main:
@@ -53,31 +78,7 @@ handicap_data:
   fore_triangle_base: 7.315288953913679
   length_on_waterline: 8.686905632772493
   fore_triangle_height: 10.05852231163131
-home_country: GBR
-home_port: Pin Mill
-hull_form: long keel deep forefoot
-id: 656e0e94-c298-408e-90e2-1bafd5bdd824
 length_on_deck: 10.796
-sail_number: CK365
-spar_material: wood
-callsign: ''
-ownerships:
-- note: As well as Frank Mulville, Peter Maynard and Rober Bettle have been previous
-    owners of 'Transcur'.
-  text: As well as Frank Mulville, Peter Maynard and Rober Bettle have been previous
-    owners of 'Transcur'.
-- id: 38
-  share: 64
-  start: 1998
-  member: 954
-  current: true
-place_built: Brightlingsea
-updated_at: '2021-12-19T13:39:53.767867+00:00'
-website: ''
-year: 1889
-year_is_approximate: false
-image_key: grRdbV
-construction_details: 'Trad '
 beam: 3.279648
 for_sale_state:
   text: not_for_sale

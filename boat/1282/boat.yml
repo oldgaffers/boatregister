@@ -9,37 +9,23 @@ full_description: "<p>Sophie was converted from a Falmouth Quay punt to a yacht 
   \ 1912, from gaff yawl in 1920 to cutter, then Bemudan in the 1940&#39;s. In 1946\
   \ a Morris petrol engine 948cc was installed.</p>\r\n\r\n<p>Her rig was returned\
   \ to gaff cutter in 2006 during a major restoration started in 2001.</p>"
-builder:
-  name: W.E. Thomas
-  id: a9e83f1e-565e-4568-b052-7a492147a30d
+year: 1892
+year_is_approximate: false
 designer:
   name: W.E. Thomas
   id: 3f7b6145-a556-462d-a51f-11d24c3f94db
+builder:
+  name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
+place_built: Falmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.8593
+construction_details: Carvel Douglas on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.023652767617654
-  main:
-    foot: 6.58071202145818
-    head: 5.349305047549378
-    luff: 6.349061204584247
-  thcf: 1.03
-  draft: 1.8593026091197267
-  sailarea: 77.868970297256
-  propellor:
-    type: fixed
-  length_over_all: 9.805535235308461
-  fore_triangle_base: 7.449402584735431
-  length_on_waterline: 9.601316752011703
-  fore_triangle_height: 10.271884906120459
 home_country: GBR
 home_port: Hamble
 hull_form: long keel deep forefoot
-id: e21c4994-0b28-46da-8e3a-61d5b34183a1
-length_on_deck: 9.8146
 sail_number: 1892L
 ssr: '121600'
 uk_part1: '300282'
@@ -92,13 +78,28 @@ ownerships:
   member: 4926
   current: true
   start: '?'
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:06.961928+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1892
-year_is_approximate: false
+id: e21c4994-0b28-46da-8e3a-61d5b34183a1
 image_key: 5pPTxc
-construction_details: Carvel Douglas on oak
+thumb: https://photos.smugmug.com/photos/i-G8SDhtk/0/Th/i-G8SDhtk-Th.jpg
+draft: 1.8593
+handicap_data:
+  beam: 3.023652767617654
+  main:
+    foot: 6.58071202145818
+    head: 5.349305047549378
+    luff: 6.349061204584247
+  thcf: 1.03
+  draft: 1.8593026091197267
+  sailarea: 77.868970297256
+  propellor:
+    type: fixed
+  length_over_all: 9.805535235308461
+  fore_triangle_base: 7.449402584735431
+  length_on_waterline: 9.601316752011703
+  fore_triangle_height: 10.271884906120459
+length_on_deck: 9.8146
 beam: 3.0175
 for_sale_state:
   text: not_for_sale

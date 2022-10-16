@@ -5,27 +5,22 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Log 83/4, 84/3 CB Oct 91
-builder:
-  name: Luke and Co.
-  id: cfceb3b4-bb1c-4931-bf7a-2261780ceb68
+year: 1911
+year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+builder:
+  name: Luke and Co.
+  id: cfceb3b4-bb1c-4931-bf7a-2261780ceb68
+place_built: Hamble
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 1.21921482565228
-  length_over_all: 7.894415996098512
-  length_on_waterline: 6.858083394294074
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 7eb980f7-2775-452a-b815-71508608e2f8
-length_on_deck: 7.8943
 reference:
 - Log 83/4
 - Log 84/3
@@ -35,13 +30,18 @@ ownerships:
 - name: J G Channer
   share: 64
   start: 2012
-place_built: Hamble
-updated_at: '2021-12-19T13:39:00.455679+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1911
-year_is_approximate: false
+id: 7eb980f7-2775-452a-b815-71508608e2f8
 previous_names:
 - Imogen ll
+draft: 1.2192
+handicap_data:
+  beam: 2.43842965130456
+  draft: 1.21921482565228
+  length_over_all: 7.894415996098512
+  length_on_waterline: 6.858083394294074
+length_on_deck: 7.8943
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

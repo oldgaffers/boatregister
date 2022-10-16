@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: CB Jan/Feb 88
-builder:
-  name: Mike Hawes
-  id: e5fba2ea-634d-4e9f-b715-a77e5b65164c
+year: 1987
+year_is_approximate: false
 designer:
   name: Michael R. Hawes
   id: 1d14143b-8f55-4b26-94a4-95e4058cc952
+builder:
+  name: Mike Hawes
+  id: e5fba2ea-634d-4e9f-b715-a77e5b65164c
+place_built: Fordingbridge
 construction_material: grp
 construction_method: unknown
-draft: 0.5578
+construction_details: Glassfibre
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: R T T Harrison
+  share: 64
+  start: 1989
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1d2c91c6-81a9-4a64-b7b6-155758286f69
+draft: 0.5578
 handicap_data:
   beam: 2.539014874420873
   draft: 0.5577907827359181
@@ -23,22 +38,7 @@ handicap_data:
     type: fixed
   length_over_all: 7.2390880273104115
   length_on_waterline: 5.9436722750548645
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 1d2c91c6-81a9-4a64-b7b6-155758286f69
 length_on_deck: 7.239
-callsign: ''
-ownerships:
-- name: R T T Harrison
-  share: 64
-  start: 1989
-place_built: Fordingbridge
-updated_at: '2021-12-19T13:39:14.872124+00:00'
-website: ''
-year: 1987
-year_is_approximate: false
-construction_details: Glassfibre
 beam: 2.539
 for_sale_state:
   text: not_for_sale

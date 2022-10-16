@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Cornish Crabber Mark 2</p>
 full_description: <p>Cornish Crabber Mark 2</p>
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1984
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: wood
 construction_method: cold_moulded
-draft: 0.7864
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Tony Dale
+  share: 64
+  start: 1984
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4b0dd742-be72-4b24-9ac8-e39f77161b69
+draft: 0.7864
 handicap_data:
   sailarea: 7
   moving_keel: true
@@ -25,22 +40,7 @@ handicap_data:
   moving_keel_type: Centreboard
   length_over_spars: 9.0922
   length_on_waterline: 6.1966
-home_country: GBR
-home_port: ''
-hull_form: unknown
-id: 4b0dd742-be72-4b24-9ac8-e39f77161b69
 length_on_deck: 7.3152
-callsign: ''
-ownerships:
-- name: Tony Dale
-  share: 64
-  start: 1984
-place_built: Rock
-updated_at: '2021-12-19T13:40:03.245113+00:00'
-website: ''
-year: 1984
-year_is_approximate: false
-construction_details: GRP
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 2

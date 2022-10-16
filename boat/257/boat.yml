@@ -5,14 +5,29 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1929
+year_is_approximate: false
 builder:
   name: J.W. and A. Upham Ltd.
   id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+place_built: Brixham
 construction_material: wood
 construction_method: carvel
-draft: 1.777
+construction_details: Carvel mahogany and Pitch pine on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Marchwood
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: H J Birch
+  share: 64
+  start: 1973
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4808c09c-5e0d-4111-a806-005cb8e0758f
+draft: 1.777
 handicap_data:
   beam: 2.0330407217751767
   main:
@@ -27,22 +42,7 @@ handicap_data:
   fore_triangle_base: 2.9474518410143866
   length_on_waterline: 5.18166300902219
   fore_triangle_height: 6.147890758351622
-home_country: 'null'
-home_port: Marchwood
-hull_form: long keel deep forefoot
-id: 4808c09c-5e0d-4111-a806-005cb8e0758f
 length_on_deck: 5.7912
-callsign: ''
-ownerships:
-- name: H J Birch
-  share: 64
-  start: 1973
-place_built: Brixham
-updated_at: '2021-12-19T13:38:37.200149+00:00'
-website: ''
-year: 1929
-year_is_approximate: false
-construction_details: Carvel mahogany and Pitch pine on oak
 beam: 2.033
 for_sale_state:
   text: not_for_sale

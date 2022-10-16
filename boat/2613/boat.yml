@@ -5,25 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Bell Woodworking
-  id: fa4cb89a-113f-4a20-9cd6-93b34053f13a
+year: 1972
+year_is_approximate: false
 designer:
   name: Holt
   id: d83d96ca-b797-41d5-a91f-d662a2871b1f
+builder:
+  name: Bell Woodworking
+  id: fa4cb89a-113f-4a20-9cd6-93b34053f13a
+place_built: Leicester
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Plywood
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.4020970495001217
-  length_over_all: 3.291880029261156
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: fc67f447-4d20-43e8-a794-574579baf52e
-length_on_deck: 3.301
 sail_number: '32613'
 callsign: ''
 ownerships:
@@ -32,12 +30,14 @@ ownerships:
   start: 1972
   member: 2381
   current: true
-place_built: Leicester
-updated_at: '2021-12-19T13:39:44.299448+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1972
-year_is_approximate: false
-construction_details: Plywood
+id: fc67f447-4d20-43e8-a794-574579baf52e
+draft: 0
+handicap_data:
+  beam: 1.4020970495001217
+  length_over_all: 3.291880029261156
+length_on_deck: 3.301
 beam: 1.396
 design_class:
   name: Mirror Dinghy

@@ -5,26 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 90/1, Sep/98
-builder:
-  name: Brian Kennell
-  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+year: 1983
+year_is_approximate: false
 designer:
   name: Peter Brown
   id: 3f516e7e-4782-41c9-bbdd-4a075e64d7f6
+builder:
+  name: Brian Kennell
+  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+place_built: Maldon
 construction_material: wood
 construction_method: carvel
-draft: 0.8138
+construction_details: Carvel Larch on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 0.8138258961228968
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.7912704218483295
 home_port: ''
 hull_form: unknown
-id: 652169b1-52be-4bcb-b895-11289f693af7
-length_on_deck: 6.096
 reference:
 - Log 90/1
 - Log Sep 98
@@ -33,12 +29,16 @@ ownerships:
 - name: Stephen Blake
   share: 64
   start: 2012
-place_built: Maldon
-updated_at: '2021-12-19T13:39:12.834124+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1983
-year_is_approximate: false
-construction_details: Carvel Larch on Oak
+id: 652169b1-52be-4bcb-b895-11289f693af7
+draft: 0.8138
+handicap_data:
+  beam: 2.43842965130456
+  draft: 0.8138258961228968
+  length_over_all: 6.0960741282613995
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 6.096
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

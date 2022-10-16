@@ -5,17 +5,32 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1979
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3048
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: York
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Peter & Lynda Sykes
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4bf06bf6-3751-48f4-a24f-267432e015a3
+draft: 0.3048
 handicap_data:
   beam: 1.9568397951719092
   main:
@@ -31,22 +46,7 @@ handicap_data:
   fore_triangle_base: 1.777005608388198
   length_on_waterline: 5.4864667154352595
   fore_triangle_height: 4.87685930260912
-home_country: 'null'
-home_port: York
-hull_form: unknown
-id: 4bf06bf6-3751-48f4-a24f-267432e015a3
 length_on_deck: 6.6294
-callsign: ''
-ownerships:
-- name: Peter & Lynda Sykes
-  share: 64
-  start: 2012
-place_built: Totnes
-updated_at: '2021-12-19T13:39:43.479865+00:00'
-website: ''
-year: 1979
-year_is_approximate: false
-construction_details: GRP
 beam: 1.9568
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: S.J. McGowan/Cornish Crabbers
-  id: 65a1287a-c6e0-4a26-8c6a-f5417f1cd4cf
+year: 1989
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: S.J. McGowan/Cornish Crabbers
+  id: 65a1287a-c6e0-4a26-8c6a-f5417f1cd4cf
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.4816
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Emsworth
+hull_form: centre-boarder
+sail_number: '323'
+callsign: ''
+ownerships:
+- name: Stuart J McGowan
+  share: 64
+  start: 1988
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: dfa79390-4be4-44bb-b42e-787abe54b523
+draft: 0.4816
 handicap_data:
   beam: 2.1854425749817117
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 2.539014874420873
   length_on_waterline: 5.334064862228725
   fore_triangle_height: 4.648256522799317
-home_country: 'null'
-home_port: Emsworth
-hull_form: centre-boarder
-id: dfa79390-4be4-44bb-b42e-787abe54b523
 length_on_deck: 5.8674
-sail_number: '323'
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Stuart J McGowan
-  share: 64
-  start: 1988
-place_built: Rock
-updated_at: '2021-12-19T13:39:34.994639+00:00'
-website: ''
-year: 1989
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

@@ -5,27 +5,23 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Log W-S/94, S-A/95, Mar/97, Jun/97 For sale 1997,
-builder:
-  name: A.M. Dickie and Sons
-  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+year: 1922
+year_is_approximate: false
 designer:
   name: P.S. Dickie
   id: b0bd470d-2881-449b-9bc9-8df3bd526668
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+place_built: Tarbert
 construction_material: wood
 construction_method: carvel
-draft: 1.6764
+construction_details: Carvel pitch pine & mahogony on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.712752987076323
-  draft: 1.6764203852718849
-  length_over_all: 10.36332601804438
-  length_on_waterline: 8.01633747866374
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: b453a512-331b-44f9-9e05-b360e81c39fc
-length_on_deck: 10.3632
 reference:
 - Log W-S/94
 - Log S-A/95
@@ -37,13 +33,18 @@ ownerships:
 - name: G Findlay
   share: 64
   start: 2012
-place_built: Tarbert
-updated_at: '2021-12-19T13:38:31.814142+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1922
-year_is_approximate: false
+id: b453a512-331b-44f9-9e05-b360e81c39fc
 image_key: Vw72cB
-construction_details: Carvel pitch pine & mahogony on oak
+thumb: https://photos.smugmug.com/photos/i-tbDKQrt/0/Th/i-tbDKQrt-Th.jpg
+draft: 1.6764
+handicap_data:
+  beam: 2.712752987076323
+  draft: 1.6764203852718849
+  length_over_all: 10.36332601804438
+  length_on_waterline: 8.01633747866374
+length_on_deck: 10.3632
 beam: 2.7127
 for_sale_state:
   text: not_for_sale

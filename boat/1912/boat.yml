@@ -6,17 +6,35 @@ mainsail_type: gaff
 short_description: <p>&#39;Flugel&#39; is an early Memory Class built at the Ferry
   Boatyard, Liverpool in 1978.</p>
 full_description: Design based on Brightlingsea smacks built by Stones Yard.
-builder:
-  name: Fiddler's Ferry Boatyard
-  id: d38d3959-b44f-4514-bd3a-16cf1ebe806c
+year: 1978
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Fiddler's Ferry Boatyard
+  id: d38d3959-b44f-4514-bd3a-16cf1ebe806c
+place_built: Liverpool
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bursledon
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- id: 230
+  share: 64
+  start: 2012
+  member: 3187
+  current: true
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: 51300f6e-5db2-4a9b-b7e5-9048dae5357d
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -33,25 +51,7 @@ handicap_data:
   fore_triangle_base: 2.8194342843208973
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 5.7912704218483295
-home_country: GBR
-home_port: Bursledon
-hull_form: centre-boarder
-id: 51300f6e-5db2-4a9b-b7e5-9048dae5357d
 length_on_deck: 5.9436
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 230
-  share: 64
-  start: 2012
-  member: 3187
-  current: true
-place_built: Liverpool
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1336
 design_class:
   name: Memory 19

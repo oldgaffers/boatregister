@@ -17,39 +17,30 @@ full_description: "<p>Built as &#39;Zollkreuzer no.5&#39; (customs cruiser) by J
   \ no longer viable for dredging, Rigmor began to deteriorate. A group was established\
   \ to buy and restore the ship, returning her to Gluckstadt in 1992. For more information,\
   \ <a href=\"http://www.rigmor.de/schiff.htm\" target=\"_blank\">visit her website</a>.</p>"
-builder:
-  name: Schroeder
-  id: 75cb2924-58f9-47a5-894c-37bcda8b394e
+year: 1853
+year_is_approximate: false
 designer:
   name: Johannes P. Schroeder
   id: c3957a7c-1ca8-49b9-b24a-dc8aae1bc950
+builder:
+  name: Schroeder
+  id: 75cb2924-58f9-47a5-894c-37bcda8b394e
+place_built: Gluckstadt
 construction_material: wood
 construction_method: unknown
-draft: 1.463
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.858814923189466
-  draft: 1.4478176054620824
-  propellor:
-    type: fixed
-  length_over_all: 15.901609363569861
-  length_on_waterline: 12.801755669348939
 home_country: GER
 home_port: Gluckstadt
 hull_form: long keel deep forefoot
-id: ef9bd731-85b5-4ea4-a028-fa6304c21039
-length_on_deck: 15.9106
 callsign: ''
 ownerships:
 - name: Rigmor von Gluckstadt e V
   share: 64
   start: 1992
-place_built: Gluckstadt
-updated_at: '2021-12-19T13:39:42.780129+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.rigmor.de/schiff.htm
-year: 1853
-year_is_approximate: false
+id: ef9bd731-85b5-4ea4-a028-fa6304c21039
 previous_names:
 - No. 5
 - Treue
@@ -59,6 +50,16 @@ previous_names:
 - Tvende Broedere
 - Rigmor
 image_key: 5rQQZn
+thumb: https://photos.smugmug.com/photos/i-FDfnhjj/0/Th/i-FDfnhjj-Th.jpg
+draft: 1.463
+handicap_data:
+  beam: 3.858814923189466
+  draft: 1.4478176054620824
+  propellor:
+    type: fixed
+  length_over_all: 15.901609363569861
+  length_on_waterline: 12.801755669348939
+length_on_deck: 15.9106
 beam: 3.871
 for_sale_state:
   text: not_for_sale

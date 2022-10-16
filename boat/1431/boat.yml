@@ -5,17 +5,32 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Willard Emerson
-  id: 847c0b8e-cd6b-4538-9fcc-266ca6699651
+year: 1972
+year_is_approximate: false
 designer:
   name: Willard Emerson
   id: 1b64c319-7e93-496a-b82a-27666baedda7
+builder:
+  name: Willard Emerson
+  id: 847c0b8e-cd6b-4538-9fcc-266ca6699651
+place_built: Wilmington,USA
 construction_material: wood
 construction_method: unknown
-draft: 1.2802
+construction_details: Plywood planking on fir sawn frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: P & C Wright
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 5ab34a1c-dbcc-446b-88de-18709d066074
+draft: 1.2802
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -32,22 +47,7 @@ handicap_data:
   fore_triangle_base: 1.21921482565228
   length_on_waterline: 6.4770787612777365
   fore_triangle_height: 6.4008778346744695
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 5ab34a1c-dbcc-446b-88de-18709d066074
 length_on_deck: 7.9553
-callsign: ''
-ownerships:
-- name: P & C Wright
-  share: 64
-  start: 2012
-place_built: Wilmington,USA
-updated_at: '2021-12-19T13:39:11.130137+00:00'
-website: ''
-year: 1972
-year_is_approximate: false
-construction_details: Plywood planking on fir sawn frames
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

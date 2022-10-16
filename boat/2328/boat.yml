@@ -8,17 +8,39 @@ full_description: "<p>&#39;Sunbeam&#39; is one of the few remaining Whitstable o
   \ smacks, she still races on the East Coast.</p>\r\n\r\n<p><a href=\"https://www.flickr.com/photos/colmolaoi/with/14394546619\"\
   \ target=\"_blank\">Visit Colm&#39;s photostream on Flickr</a> for more photos of\
   \ the East Coast Race, 2014.</p>"
-builder:
-  name: John Howard
-  id: 98b37407-3881-4aba-892d-b8f6b35b8dc0
+year: 1881
+year_is_approximate: false
 designer:
   name: John Howard
   id: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
+builder:
+  name: John Howard
+  id: 98b37407-3881-4aba-892d-b8f6b35b8dc0
+place_built: Maldon
 construction_material: wood
 construction_method: carvel
-draft: 1.7526
+construction_details: Traditional carvel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Tollesbury
+hull_form: long keel sloping forefoot
+sail_number: CK 328
+callsign: ''
+ownerships:
+- name: Nigel Butt
+  share: 64
+  start: 2012
+- share: 64
+  member: 5343
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8eed9220-eea1-48bd-977d-da1a1b508d7d
+image_key: vWtRK3
+thumb: https://photos.smugmug.com/photos/i-dhnqg54/0/Th/i-dhnqg54-Th.jpg
+draft: 1.7526
 handicap_data:
   beam: 3.5052426237503047
   main:
@@ -36,28 +58,7 @@ handicap_data:
   fore_triangle_base: 10.36332601804438
   length_on_waterline: 12.192148256522799
   fore_triangle_height: 17.373811265544987
-home_country: GBR
-home_port: Tollesbury
-hull_form: long keel sloping forefoot
-id: 8eed9220-eea1-48bd-977d-da1a1b508d7d
 length_on_deck: 15.24
-sail_number: CK 328
-callsign: ''
-ownerships:
-- name: Nigel Butt
-  share: 64
-  start: 2012
-- share: 64
-  member: 5343
-  current: true
-  start: '?'
-place_built: Maldon
-updated_at: '2021-12-19T13:39:35.056378+00:00'
-website: ''
-year: 1881
-year_is_approximate: false
-image_key: vWtRK3
-construction_details: Traditional carvel
 beam: 3.5052
 for_sale_state:
   text: not_for_sale

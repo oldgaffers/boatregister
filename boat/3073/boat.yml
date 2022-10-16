@@ -14,39 +14,23 @@ full_description: "<p>Sold by Hunters as a kit to Mr Menhinick, she may not have
   \ has not been spared some hard sailing and is probably best described as well used.\
   \ Significant modifications include a conversion to a high peak gaff rig - longer\
   \ hollow mast, larger tabernacle, gaff saddle etc.</p>\r\n\r\n<p>&nbsp;</p>"
-builder:
-  name: Hunter Boats
-  id: 5f1a3b47-dc5a-41e0-8a83-14e12949abbb
+year: 1992
+year_is_approximate: false
 designer:
   name: David Thomas
   id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+builder:
+  name: Hunter Boats
+  id: 5f1a3b47-dc5a-41e0-8a83-14e12949abbb
+place_built: Rochford Essex
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3566
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.240307242136064
-  main:
-    foot: 3.3985613265057304
-    head: 3.800902218970983
-    luff: 2.4993903925871734
-  thcf: 0.835
-  draft: 0.35966837356742254
-  sailarea: 17.15354271262054
-  propellor:
-    type: fixed
-    blades: 2
-  draft_keeldown: 1.0698610095098755
-  length_over_all: 6.9007559131919045
-  fore_triangle_base: 2.301267983418678
-  length_on_waterline: 5.818702755425505
-  fore_triangle_height: 4.998780785174347
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
-id: ab0ae7cb-faaf-42c4-9667-72d7cefbd884
-length_on_deck: 6.9098
 sail_number: '114'
 ssr: '104441'
 callsign: VQLE9
@@ -64,15 +48,32 @@ ownerships:
   start: 2012
   member: 4193
   current: true
-place_built: Rochford Essex
-updated_at: '2021-12-19T13:39:57.234704+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1992
-year_is_approximate: false
+id: ab0ae7cb-faaf-42c4-9667-72d7cefbd884
 previous_names:
 - Miss Terry
 image_key: frxnDz
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-GwrNDsw/0/Th/i-GwrNDsw-Th.jpg
+draft: 0.3566
+handicap_data:
+  beam: 2.240307242136064
+  main:
+    foot: 3.3985613265057304
+    head: 3.800902218970983
+    luff: 2.4993903925871734
+  thcf: 0.835
+  draft: 0.35966837356742254
+  sailarea: 17.15354271262054
+  propellor:
+    type: fixed
+    blades: 2
+  draft_keeldown: 1.0698610095098755
+  length_over_all: 6.9007559131919045
+  fore_triangle_base: 2.301267983418678
+  length_on_waterline: 5.818702755425505
+  fore_triangle_height: 4.998780785174347
+length_on_deck: 6.9098
 beam: 2.2342
 design_class:
   name: Hunter Minstrel

@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Six owners since 1953.
-builder:
-  name: Luke Bros and Co.
-  id: a777971c-fef9-4412-9ad3-422224af5a67
+year: 1937
+year_is_approximate: false
 designer:
   name: A.R. Luke
   id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+builder:
+  name: Luke Bros and Co.
+  id: a777971c-fef9-4412-9ad3-422224af5a67
+place_built: Hamble
 construction_material: wood
 construction_method: carvel
-draft: 0.2286
+construction_details: Carvel built hard chine 7/16 mahogany
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Erith
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Nigel A Field
+  share: 64
+  start: 2002
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: ba072611-1686-48ee-9cb1-09913a06cdd3
+draft: 0.2286
 handicap_data:
   beam: 1.5240185320653499
   main:
@@ -27,22 +42,7 @@ handicap_data:
   fore_triangle_base: 1.3472323823457693
   length_on_waterline: 3.5052426237503047
   fore_triangle_height: 3.301024140453548
-home_country: 'null'
-home_port: Erith
-hull_form: unknown
-id: ba072611-1686-48ee-9cb1-09913a06cdd3
 length_on_deck: 4.2672
-callsign: ''
-ownerships:
-- name: Nigel A Field
-  share: 64
-  start: 2002
-place_built: Hamble
-updated_at: '2021-12-19T13:39:44.871862+00:00'
-website: ''
-year: 1937
-year_is_approximate: false
-construction_details: Carvel built hard chine 7/16 mahogany
 beam: 1.524
 for_sale_state:
   text: not_for_sale

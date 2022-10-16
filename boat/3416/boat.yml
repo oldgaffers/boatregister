@@ -23,31 +23,23 @@ full_description: "<p>Merganser is V47, built in 1952 and still extremely origin
   \n\t<li>hood-ends re-fastened</li>\r\n\t<li>new deck</li>\r\n\t<li>new standing\
   \ and running rigging</li>\r\n\t<li>new sails</li>\r\n\t<li>engine replaced</li>\r\
   \n</ul>"
-builder:
-  name: Harry Feltham
-  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+year: 1952
+year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+builder:
+  name: Harry Feltham
+  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel, teak on CRE streamed timbers
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 12
-    luff: 31
-  length_overall: 7.6962
-  calculated_thcf: 0.903
-  fore_triangle_base: 3.048
-  length_on_waterline: 6.5532
-  fore_triangle_height: 9.7536
 home_country: GBR
 home_port: Brightlingsea
 hull_form: long keel sloping forefoot
-id: 306c65da-eb73-4b8e-8725-fa41aa4c9219
-length_on_deck: 7.6962
 sail_number: 78Y
 uk_part1: '185386'
 callsign: ''
@@ -84,13 +76,22 @@ ownerships:
   member: 6304
   current: true
   start: '?'
-place_built: Portsmouth
-updated_at: '2021-12-19T13:40:10.144383+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1952
-year_is_approximate: false
+id: 306c65da-eb73-4b8e-8725-fa41aa4c9219
 image_key: PHDs6v
-construction_details: Carvel, teak on CRE streamed timbers
+thumb: https://photos.smugmug.com/photos/i-nRRPPgK/0/Th/i-nRRPPgK-Th.jpg
+draft: 1.3716
+handicap_data:
+  main:
+    foot: 12
+    luff: 31
+  length_overall: 7.6962
+  calculated_thcf: 0.903
+  fore_triangle_base: 3.048
+  length_on_waterline: 6.5532
+  fore_triangle_height: 9.7536
+length_on_deck: 7.6962
 beam: 2.1854
 design_class:
   name: Vertue

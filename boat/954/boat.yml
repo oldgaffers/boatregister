@@ -5,36 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+year: 1978
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+place_built: St Columb
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  length_over_all: 7.315288953913679
-  length_on_waterline: 6.452694464764692
 home_port: ''
 hull_form: unknown
-id: f4845220-50b3-4a25-ad85-e1750563acac
-length_on_deck: 7.3152
-spar_material: wood
 callsign: ''
 ownerships:
 - name: I C M Minchin
   share: 64
   start: 2012
-place_built: St Columb
 updated_at: '2022-09-04T10:09:14.231351+00:00'
 website: ''
-year: 1978
-year_is_approximate: false
+id: f4845220-50b3-4a25-ad85-e1750563acac
+draft: 0
+handicap_data:
+  beam: 2.43842965130456
+  length_over_all: 7.315288953913679
+  length_on_waterline: 6.452694464764692
+length_on_deck: 7.3152
 beam: 2.4384
 design_class:
   name: Tamarisk 24

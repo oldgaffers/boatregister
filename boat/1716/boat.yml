@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: CB Mar 92
-builder:
-  name: W.B. Tate
-  id: 5d794447-a20a-42e1-a91d-3a05a3548e65
+year: 1908
+year_is_approximate: false
 designer:
   name: J.A. McCallum
   id: 37137bb5-f344-4068-9a51-5b7e9202f1e7
+builder:
+  name: W.B. Tate
+  id: 5d794447-a20a-42e1-a91d-3a05a3548e65
+place_built: Clynder
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel Teak/Pitchpine on oak frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+uk_part1: '129528'
+callsign: ''
+ownerships:
+- name: D Moore
+  share: 64
+  start: 1989
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6b710a6a-a955-4e56-914a-af2a9c8be0d3
+draft: 1.8288
 handicap_data:
   beam: 2.8194342843208973
   main:
@@ -30,23 +46,7 @@ handicap_data:
   fore_triangle_base: 5.6388685686417945
   length_on_waterline: 8.686905632772493
   fore_triangle_height: 10.05852231163131
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 6b710a6a-a955-4e56-914a-af2a9c8be0d3
 length_on_deck: 11.5306
-uk_part1: '129528'
-callsign: ''
-ownerships:
-- name: D Moore
-  share: 64
-  start: 1989
-place_built: Clynder
-updated_at: '2021-12-19T13:39:18.5219+00:00'
-website: ''
-year: 1908
-year_is_approximate: false
-construction_details: Carvel Teak/Pitchpine on oak frames
 beam: 2.8194
 for_sale_state:
   text: not_for_sale

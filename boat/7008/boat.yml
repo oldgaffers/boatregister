@@ -7,22 +7,23 @@ short_description: <p>A Laurent Giles Wanderer Class built in Hong Kong by Cheoy
   in 1965.</p>
 full_description: Alchemilla is a Laurent Giles Wanderer Class. Sail No 10, of 33
   built by Cheoy Lee in Hong Kong
-builder:
-  name: Cheoy Lee Shipyards Ltd.
-  id: 57fc3053-4c34-45ae-ab20-adebf6ca3808
+year: 1965
+year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+builder:
+  name: Cheoy Lee Shipyards Ltd.
+  id: 57fc3053-4c34-45ae-ab20-adebf6ca3808
+place_built: Hong Kong
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Teak on ipdi frames, iroko midline
 engine_installations: []
 for_sales: []
 home_country: GBR
 home_port: Southampton
 hull_form: long keel sloping forefoot
-id: ad70698d-9990-4fd0-ad02-14ecb3297935
-length_on_deck: 0
 uk_part1: '308831'
 callsign: ''
 ownerships:
@@ -35,15 +36,14 @@ ownerships:
 - name: S and T Wyatt
   share: 64
   start: 2001
-place_built: Hong Kong
-updated_at: '2021-12-19T13:40:00.219951+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
+id: ad70698d-9990-4fd0-ad02-14ecb3297935
 previous_names:
 - Alchemilla
 - Iserna
-construction_details: Teak on ipdi frames, iroko midline
+draft: 0
+length_on_deck: 0
 beam: 0
 design_class:
   name: Wanderer Class

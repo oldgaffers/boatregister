@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 79/1
-builder:
-  name: Kearney J.B. and Co.
-  id: b5c8d57a-0c26-4e79-b72b-271d7f058f8a
+year: 1924
+year_is_approximate: false
 designer:
   name: J.B. Kearney
   id: 0b07735c-5e25-4f28-94db-1f617b54ff24
+builder:
+  name: Kearney J.B. and Co.
+  id: b5c8d57a-0c26-4e79-b72b-271d7f058f8a
+place_built: Dublin
 construction_material: wood
 construction_method: carvel
-draft: 1.6764
+construction_details: Carvel pitch pine planking on sawn and bent oak frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 79/1
+callsign: ''
+ownerships:
+- name: T Eckhoff
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8ec3fcbf-c3b5-45cd-8ef4-5474e53ac775
+previous_names:
+- Le Voyageur
+draft: 1.6764
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -30,26 +49,7 @@ handicap_data:
   fore_triangle_base: 5.334064862228725
   length_on_waterline: 8.717386003413802
   fore_triangle_height: 10.66812972445745
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 8ec3fcbf-c3b5-45cd-8ef4-5474e53ac775
 length_on_deck: 10.3632
-reference:
-- Log 79/1
-callsign: ''
-ownerships:
-- name: T Eckhoff
-  share: 64
-  start: 2012
-place_built: Dublin
-updated_at: '2021-12-19T13:38:48.438675+00:00'
-website: ''
-year: 1924
-year_is_approximate: false
-previous_names:
-- Le Voyageur
-construction_details: Carvel pitch pine planking on sawn and bent oak frames
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

@@ -4,23 +4,23 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: <p>Small boat, big ideas</p>
 full_description: <p>Great little trailer sailer, just about sleeps 4</p>
-builder:
-  name: Eric Bergqvist
-  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+year: 1988
+year_is_approximate: false
 designer:
   name: Eric Bergqvist
   id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+place_built: Fiddlers Ferry
 construction_material: grp
+spar_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 90a96136-465a-4fa3-91bc-3740e789624e
-length_on_deck: 0
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2019
@@ -35,12 +35,13 @@ ownerships:
   start: 2019
   member: 6550
   current: true
-place_built: Fiddlers Ferry
-updated_at: '2022-03-16T10:34:17.587911+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1988
-year_is_approximate: false
+id: 90a96136-465a-4fa3-91bc-3740e789624e
 image_key: 36GB9F
+thumb: https://photos.smugmug.com/photos/i-QkR6Fnf/0/Th/i-QkR6Fnf-Th.jpg
+draft: 0
+length_on_deck: 0
 beam: 0
 design_class:
   name: Winkle Brig

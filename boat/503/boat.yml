@@ -19,40 +19,29 @@ full_description: "<p>&#39;Roma&#39; was originally a salmon&nbsp;fishing boat c
   \ and coamings are in teak, the cockpit largely fitted out in oak with the engine\
   \ under the cockpit sole.</p>\r\n\r\n<p>A long iron keel was added at conversion\
   \ to a yacht, with new keel bolts through to new floors.</p>"
-builder:
-  name: Trout
-  id: 4b17d24b-28f4-4809-a314-c93dca295cb1
+year: 1907
+year_is_approximate: false
 designer:
   name: Trout
   id: 7ebd03a1-9638-4686-b273-fef09d875e90
+builder:
+  name: Trout
+  id: 4b17d24b-28f4-4809-a314-c93dca295cb1
+place_built: Topsham
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.2954
+construction_details: 1 1/4 pitch pine carvel on grown oak frames, gunmetal dump fastened.  Deck
+  believed to be pitch pine planks on oak beams, w. Trakmark overlay.  Teak coachroof,
+  oak & teak deck trims.  Internal ballast approx. 1/2 tons iron pigs and lead,  long
+  straight. keel, with deep forefoot.
 engine_installations: []
 for_sales:
 - asking_price: 0
-handicap_data:
-  beam: 2.3104120946110704
-  main:
-    foot: 4.331260668129724
-    head: 3.5448671055840038
-    luff: 4.520238966105827
-  thcf: 0.907199716
-  draft: 1.1430138990490124
-  propellor:
-    type: folding
-    blades: 3
-  length_over_all: 6.8215069495245055
-  fore_triangle_base: 4.776274079492806
-  length_on_waterline: 6.605096317971227
-  fore_triangle_height: 7.848695440136551
 home_country: GBR
 home_port: Barcelona
 hull_form: long keel deep forefoot
-id: e3e4d62f-7b43-4b5b-9432-6ef54cad24ca
-length_on_deck: 6.858
 sail_number: '503'
-spar_material: wood
 ssr: SSR48616
 callsign: ''
 ownerships:
@@ -69,18 +58,30 @@ ownerships:
   start: 2019
   member: 6334
   current: true
-place_built: Topsham
-updated_at: '2021-12-19T13:38:44.188141+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1907
-year_is_approximate: false
+id: e3e4d62f-7b43-4b5b-9432-6ef54cad24ca
 previous_names:
 - Roamer
 image_key: FFjvB6
-construction_details: 1 1/4 pitch pine carvel on grown oak frames, gunmetal dump fastened.  Deck
-  believed to be pitch pine planks on oak beams, w. Trakmark overlay.  Teak coachroof,
-  oak & teak deck trims.  Internal ballast approx. 1/2 tons iron pigs and lead,  long
-  straight. keel, with deep forefoot.
+thumb: https://photos.smugmug.com/photos/i-ph53D4q/0/Th/i-ph53D4q-Th.jpg
+draft: 1.2954
+handicap_data:
+  beam: 2.3104120946110704
+  main:
+    foot: 4.331260668129724
+    head: 3.5448671055840038
+    luff: 4.520238966105827
+  thcf: 0.907199716
+  draft: 1.1430138990490124
+  propellor:
+    type: folding
+    blades: 3
+  length_over_all: 6.8215069495245055
+  fore_triangle_base: 4.776274079492806
+  length_on_waterline: 6.605096317971227
+  fore_triangle_height: 7.848695440136551
+length_on_deck: 6.858
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

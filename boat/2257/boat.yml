@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: <p>Building Sept 1999 - 2001, home built standing lug una rig.</p>
 full_description: ''
-builder:
-  name: Alan Hidden
-  id: 96e27824-f4d5-4594-a55f-1984a1a27fbf
+year: 2000
+year_is_approximate: false
 designer:
   name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+builder:
+  name: Alan Hidden
+  id: 96e27824-f4d5-4594-a55f-1984a1a27fbf
+place_built: Bideford
 construction_material: wood
 construction_method: clinker_ply
-draft: 0.1524
+construction_details: Glued Clinker Ply
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bideford
+hull_form: unknown
+callsign: ''
+ownerships:
+- end: 2007
+  name: Jane Hidden
+  share: 64
+  start: 1999
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f8d5fd77-ce96-4271-bcb3-249bc2857a7a
+draft: 0.1524
 handicap_data:
   beam: 1.240551085101195
   main:
@@ -26,23 +42,7 @@ handicap_data:
   draft: 0.152401853206535
   length_over_all: 3.1242379907339672
   length_on_waterline: 3.023652767617654
-home_country: 'null'
-home_port: Bideford
-hull_form: unknown
-id: f8d5fd77-ce96-4271-bcb3-249bc2857a7a
 length_on_deck: 3.1242
-callsign: ''
-ownerships:
-- end: 2007
-  name: Jane Hidden
-  share: 64
-  start: 1999
-place_built: Bideford
-updated_at: '2021-12-19T13:39:33.657873+00:00'
-website: ''
-year: 2000
-year_is_approximate: false
-construction_details: Glued Clinker Ply
 beam: 1.4722
 for_sale_state:
   text: not_for_sale

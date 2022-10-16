@@ -5,24 +5,22 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Sandy Macdonald
-  id: 1e444ebd-584f-424e-9118-5e377c969b6b
+year: 1993
+year_is_approximate: false
 designer:
   name: Sandy MacDonald
   id: 6848af3f-39d1-4553-8510-d529df301fb8
+builder:
+  name: Sandy Macdonald
+  id: 1e444ebd-584f-424e-9118-5e377c969b6b
+place_built: Ardnamurchan
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_over_all: 3.429041697147037
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: c18c7d28-0506-47d2-9456-ca0af7ded787
-length_on_deck: 3.429
 callsign: ''
 ownerships:
 - id: 356
@@ -30,11 +28,13 @@ ownerships:
   start: 2012
   member: 3967
   current: true
-place_built: Ardnamurchan
-updated_at: '2021-12-19T13:39:52.476352+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1993
-year_is_approximate: false
+id: c18c7d28-0506-47d2-9456-ca0af7ded787
+draft: 0
+handicap_data:
+  length_over_all: 3.429041697147037
+length_on_deck: 3.429
 beam: 0
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: CB Feb 90 boat now for sale
-builder:
-  name: Gaffers and Luggers
-  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+year: 1990
+year_is_approximate: false
 designer:
   name: Percy Dalton/Martin Heard
   id: f19c441f-b6a2-4f96-95b9-d25a6e3e36a5
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.524
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+ssr: '70787'
+callsign: ''
+ownerships:
+- end: 2012
+  name: John Cochrane
+  share: 64
+  start: 1995
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4dd547f8-3fc2-4133-aed2-95420f6025bb
+previous_names:
+- Morag
+- Chat Huant
+draft: 1.524
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -33,27 +53,7 @@ handicap_data:
   fore_triangle_base: 6.196659351377712
   length_on_waterline: 8.077298219946353
   fore_triangle_height: 10.424286759326995
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 4dd547f8-3fc2-4133-aed2-95420f6025bb
 length_on_deck: 8.5344
-ssr: '70787'
-callsign: ''
-ownerships:
-- end: 2012
-  name: John Cochrane
-  share: 64
-  start: 1995
-place_built: Mylor Bridge
-updated_at: '2021-12-19T13:39:26.394626+00:00'
-website: ''
-year: 1990
-year_is_approximate: false
-previous_names:
-- Morag
-- Chat Huant
-construction_details: GRP
 beam: 3.048
 design_class:
   name: Heard 28

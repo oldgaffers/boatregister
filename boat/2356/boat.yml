@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Sold Jan 2008
-builder:
-  name: Eric Bergqvist
-  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+year: 1975
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+place_built: Liverpool
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: GRP, timber spars
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Hamble
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Geoff Booth
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b9467c20-e9da-45d4-aac0-b9a1e02eef04
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 2.8194342843208973
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 5.6388685686417945
-home_country: 'null'
-home_port: Hamble
-hull_form: unknown
-id: b9467c20-e9da-45d4-aac0-b9a1e02eef04
 length_on_deck: 5.7912
-callsign: ''
-ownerships:
-- name: Geoff Booth
-  share: 64
-  start: 2012
-place_built: Liverpool
-updated_at: '2021-12-19T13:39:35.819869+00:00'
-website: ''
-year: 1975
-year_is_approximate: false
-construction_details: GRP, timber spars
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

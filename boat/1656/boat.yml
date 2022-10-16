@@ -4,22 +4,20 @@ generic_type: unknown
 mainsail_type: lug
 short_description: ''
 full_description: Log 83/2
+year: 1957
+year_is_approximate: false
 builder:
   name: Goodall
   id: e2c2bf10-9762-48e1-8f06-7e4636d24be7
+place_built: Sandsend
 construction_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Double ended and clinker built
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  length_over_all: 5.334064862228725
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: a308fc53-a045-4f1c-ba21-7e537afa8e34
-length_on_deck: 5.334
 reference:
 - Log 83/2
 callsign: ''
@@ -27,12 +25,14 @@ ownerships:
 - name: P T Markham
   share: 64
   start: 2012
-place_built: Sandsend
-updated_at: '2021-12-19T13:39:17.164631+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1957
-year_is_approximate: false
-construction_details: Double ended and clinker built
+id: a308fc53-a045-4f1c-ba21-7e537afa8e34
+draft: 0
+handicap_data:
+  beam: 1.8288222384784198
+  length_over_all: 5.334064862228725
+length_on_deck: 5.334
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

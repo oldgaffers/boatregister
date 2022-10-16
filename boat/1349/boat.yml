@@ -4,24 +4,22 @@ generic_type: Yacht
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: William May
-  id: e4a1b3ca-b62e-4b03-8b3a-a5ba914c3293
+year: 1983
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: William May
+  id: e4a1b3ca-b62e-4b03-8b3a-a5ba914c3293
+place_built: Potter Heigham
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_over_all: 5.18166300902219
 home_country: GBR
 home_port: Morston Norfolk
 hull_form: unknown
-id: 43535e2b-e1e4-4412-a438-9389561fe58d
-length_on_deck: 5.1816
 callsign: ''
 ownerships:
 - id: 138
@@ -29,11 +27,13 @@ ownerships:
   start: 2012
   member: 2267
   current: true
-place_built: Potter Heigham
-updated_at: '2021-12-19T13:39:08.857386+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1983
-year_is_approximate: false
+id: 43535e2b-e1e4-4412-a438-9389561fe58d
+draft: 0
+handicap_data:
+  length_over_all: 5.18166300902219
+length_on_deck: 5.1816
 beam: 0
 for_sale_state:
   text: not_for_sale

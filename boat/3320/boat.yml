@@ -10,30 +10,18 @@ full_description: "<p>The Broads One Design was created for the Royal Norfolk an
   \ and in the sea off Lowestoft.</p>\r\n\r\n<p>31 wooden boats were originally built\
   \ of which 27 still exist. Since the 1980s they have been built in GRP and there\
   \ are now a total of 88.&nbsp;</p>"
+year: 1986
+year_is_approximate: false
 designer:
   name: Hope Linton
   id: f238ed22-175a-4b8c-9337-dc58c6619754
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 17
-    head: 10.92
-    luff: 11.83
-  length_overall: 7.3152
-  calculated_thcf: 0.926
-  length_over_spars: 7.3152
-  fore_triangle_base: 2.1336
-  length_on_waterline: 5.0292
-  fore_triangle_height: 5.4346
 home_country: GBR
 home_port: Waterbeach
 hull_form: cut_away_stem
-id: 7226bb0d-91de-47e8-8ba4-8919af57ec31
-length_on_deck: 7.3152
 sail_number: '35'
 callsign: ''
 ownerships:
@@ -48,11 +36,24 @@ ownerships:
   member: 4434
   current: true
   start: '?'
-updated_at: '2021-12-19T13:40:07.559386+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1986
-year_is_approximate: false
+id: 7226bb0d-91de-47e8-8ba4-8919af57ec31
 image_key: PFnGqd
+thumb: https://photos.smugmug.com/photos/i-MhMQM6G/0/Th/i-MhMQM6G-Th.jpg
+draft: 0.9144
+handicap_data:
+  main:
+    foot: 17
+    head: 10.92
+    luff: 11.83
+  length_overall: 7.3152
+  calculated_thcf: 0.926
+  length_over_spars: 7.3152
+  fore_triangle_base: 2.1336
+  length_on_waterline: 5.0292
+  fore_triangle_height: 5.4346
+length_on_deck: 7.3152
 beam: 1.524
 design_class:
   name: Broads One Design

@@ -5,21 +5,20 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 88/1, 89/1, 90/1
+year: 1950
+year_is_approximate: false
 builder:
   name: Reg Pewter
   id: 993b00f6-8afb-49df-b1da-dd6368c138ce
+place_built: Tollesbury
 construction_material: wood
 construction_method: carvel
-draft: 0
+construction_details: Carvel silver spruce on oak/rock elm
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_over_all: 4.57205559619605
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 94d68673-9db1-4cef-ae47-a31bbfe68bbc
-length_on_deck: 4.572
 reference:
 - Log 88/1
 - Log 89/1
@@ -29,12 +28,13 @@ ownerships:
 - name: H Stuart
   share: 64
   start: 2012
-place_built: Tollesbury
-updated_at: '2021-12-19T13:39:16.460627+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1950
-year_is_approximate: false
-construction_details: Carvel silver spruce on oak/rock elm
+id: 94d68673-9db1-4cef-ae47-a31bbfe68bbc
+draft: 0
+handicap_data:
+  length_over_all: 4.57205559619605
+length_on_deck: 4.572
 beam: 0
 for_sale_state:
   text: not_for_sale

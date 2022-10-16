@@ -11,30 +11,23 @@ full_description: "<p>Built in 1979, Vera Causa is a Richmond Marine Skipper 17.
   \ Powys.</p>\r\n\r\n<p><a href=\"http://myweb.tiscali.co.uk/skipper17/\" target=\"\
   _blank\">Visit the website</a> for Skipper 17s which includes history, photographs\
   \ and drawings.</p>"
-builder:
-  name: Anderson Rigden and Perkins
-  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+year: 1979
+year_is_approximate: false
 designer:
   name: Peter Milne
   id: ceddb655-e672-47b1-9c73-ad7a0388f102
+builder:
+  name: Anderson Rigden and Perkins
+  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+place_built: Whitstable Kent
 construction_material: wood
 construction_method: cold_moulded
-draft: 0.381
+construction_details: grp
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 1
-  moving_keel: true
-  draft_keel_up: 0.381
-  length_overall: 5.1786
-  draft_keel_down: 1.2192
-  moving_keel_type: Centreboard
-  length_on_waterline: 4.569
 home_country: GBR
 home_port: Port Clywedog Sailing Club  Llanidloes, Powys.
 hull_form: long keel deep forefoot
-id: cb65f536-63ef-490a-82f4-834a25f0929d
-length_on_deck: 5.1786
 sail_number: '582'
 ssr: '27763'
 callsign: ''
@@ -48,17 +41,25 @@ ownerships:
   member: 5129
   current: true
   start: '?'
-place_built: Whitstable Kent
-updated_at: '2021-12-19T13:40:05.11411+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://myweb.tiscali.co.uk/skipper17/
-year: 1979
-year_is_approximate: false
+id: cb65f536-63ef-490a-82f4-834a25f0929d
 previous_names:
 - Erk
 - Macaroo
 - Waz.
 image_key: 2SG6kt
-construction_details: grp
+thumb: https://photos.smugmug.com/photos/i-NR6nZrD/0/Th/i-NR6nZrD-Th.jpg
+draft: 0.381
+handicap_data:
+  sailarea: 1
+  moving_keel: true
+  draft_keel_up: 0.381
+  length_overall: 5.1786
+  draft_keel_down: 1.2192
+  moving_keel_type: Centreboard
+  length_on_waterline: 4.569
+length_on_deck: 5.1786
 beam: 2.1397
 design_class:
   name: Ridgeway Marine Skipper

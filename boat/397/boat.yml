@@ -22,27 +22,24 @@ full_description: "<h4>&#39;Loon&#39;, advertised for sale in Gaffers Log: 1978/
   \ in cotton. Chart table, echo sounder, lifebelts and all necessary gear. Fast shoal\
   \ draught cruiser in very good order. Two thirds and one second in Old Gaffers South\
   \ Coast races.</p>\r\n</blockquote>"
-builder:
-  name: James N. Miller and Sons Ltd.
-  id: 8c95691c-b22e-4e8e-928c-4e2e983aef19
+year: 1931
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: James N. Miller and Sons Ltd.
+  id: 8c95691c-b22e-4e8e-928c-4e2e983aef19
+place_built: St Monance, Fife
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
+construction_details: Double ender, Pitch pine on oak, pine decks with teak coach
+  roof & cockpit
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.3716166788588149
-  length_over_all: 9.1441111923921
-  length_on_waterline: 8.22970007315289
 home_country: GBR
 home_port: Faversham
 hull_form: unknown
-id: 8f12336f-679e-4bd9-b2cb-f02de35acf0d
-length_on_deck: 9.144
 callsign: ''
 ownerships:
 - note: 'Owned by: PW Clements, Poole, 1970, JG Bibra, Swanage, 1978.'
@@ -52,15 +49,18 @@ ownerships:
 - name: William Rogers
   share: 64
   start: 2012
-place_built: St Monance, Fife
-updated_at: '2021-12-19T13:38:41.181655+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1931
-year_is_approximate: false
+id: 8f12336f-679e-4bd9-b2cb-f02de35acf0d
 previous_names:
 - Gairloch
-construction_details: Double ender, Pitch pine on oak, pine decks with teak coach
-  roof & cockpit
+draft: 1.3716
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.3716166788588149
+  length_over_all: 9.1441111923921
+  length_on_waterline: 8.22970007315289
+length_on_deck: 9.144
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

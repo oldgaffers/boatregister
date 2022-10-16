@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Ken Sykes
-  id: ef2bec35-a644-4513-bfb2-0b35bf20433b
+year: 1998
+year_is_approximate: false
 designer:
   name: Paul Fisher
   id: de6ce395-680c-46f9-a90f-180310b55e8a
+builder:
+  name: Ken Sykes
+  id: ef2bec35-a644-4513-bfb2-0b35bf20433b
+place_built: Newton Powys
 construction_material: wood
 construction_method: unknown
-draft: 0.762
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Newtown
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Ken Sykes
+  share: 64
+  start: 1998
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b81f1d56-3ddb-4b1c-8176-deb0381f781b
+draft: 0.762
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -28,21 +42,7 @@ handicap_data:
   fore_triangle_base: 2.5146305779078273
   length_on_waterline: 4.800658376005852
   fore_triangle_height: 3.6576444769568397
-home_country: 'null'
-home_port: Newtown
-hull_form: unknown
-id: b81f1d56-3ddb-4b1c-8176-deb0381f781b
 length_on_deck: 5.1816
-callsign: ''
-ownerships:
-- name: Ken Sykes
-  share: 64
-  start: 1998
-place_built: Newton Powys
-updated_at: '2021-12-19T13:39:32.429127+00:00'
-website: ''
-year: 1998
-year_is_approximate: false
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

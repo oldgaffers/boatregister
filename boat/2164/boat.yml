@@ -5,25 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Whisstocks Boatyard Ltd
-  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+year: 1948
+year_is_approximate: false
 designer:
   name: Claud Whisstock
   id: ea6f6923-f4a6-41cf-93d7-627fd861837a
+builder:
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9812240916849548
-  length_over_all: 6.705681541087539
 home_country: GBR
 home_port: Rye
 hull_form: unknown
-id: 525df620-8631-409b-b18a-d9532b2da5a5
-length_on_deck: 6.7056
 callsign: ''
 ownerships:
 - id: 293
@@ -31,11 +28,14 @@ ownerships:
   start: 2012
   member: 3566
   current: true
-place_built: Woodbridge
-updated_at: '2021-12-19T13:39:31.005129+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1948
-year_is_approximate: false
+id: 525df620-8631-409b-b18a-d9532b2da5a5
+draft: 0
+handicap_data:
+  beam: 1.9812240916849548
+  length_over_all: 6.705681541087539
+length_on_deck: 6.7056
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

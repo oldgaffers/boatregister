@@ -5,38 +5,38 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Wilkes
-  id: 4d85ac76-ba0d-4a6c-b5f5-3cd815fd97be
+year: 1979
+year_is_approximate: false
 designer:
   name: Terry Heard
   id: c7a4b5d4-0751-4858-8054-b0e0636bb711
+builder:
+  name: Wilkes
+  id: 4d85ac76-ba0d-4a6c-b5f5-3cd815fd97be
+place_built: Mylor Bridge
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.0668
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9812240916849548
-  draft: 1.066812972445745
-  length_over_all: 5.6388685686417945
-  length_on_waterline: 5.4864667154352595
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 52775ca3-7424-47a0-a48d-bfea3c6b95f3
-length_on_deck: 5.6388
-spar_material: wood
 callsign: ''
 ownerships:
 - name: S Hurley
   share: 64
   start: 1984
-place_built: Mylor Bridge
-updated_at: '2022-02-14T15:58:01.593942+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1979
-year_is_approximate: false
+id: 52775ca3-7424-47a0-a48d-bfea3c6b95f3
+draft: 1.0668
+handicap_data:
+  beam: 1.9812240916849548
+  draft: 1.066812972445745
+  length_over_all: 5.6388685686417945
+  length_on_waterline: 5.4864667154352595
+length_on_deck: 5.6388
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

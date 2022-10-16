@@ -47,38 +47,20 @@ full_description: "<p>Storm was built in 1910 by Bundock Brothers at Leigh on Se
   \ the elderly Kelvin diesel replaced with a more modern Beta, and gradually planks\
   \ have been replaced, the hull re-fastened, the usual on-going process for an old\
   \ boat like Storm.</p>\r\n\r\n<p>&nbsp;</p>"
+year: 1910
+year_is_approximate: false
 builder:
   name: Bundock Bros.
   id: a8539378-a573-48e6-9f76-179b93aec71c
+place_built: Leigh on Sea
 construction_material: wood
 construction_method: carvel
-draft: 1.0058
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.692453060229212
-  main:
-    foot: 5.080078029748842
-    head: 4.01325286515484
-    luff: 3.6576444769568397
-  thcf: 0.929
-  draft: 1.0160204828090709
-  topsail:
-    luff: 4.87685930260912
-    perpendicular: 1.5240185320653499
-  sailarea: 42.541783461398545
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.924896366739819
-  fore_triangle_base: 6.045293830772982
-  length_on_waterline: 7.772506705681541
-  fore_triangle_height: 6.604096561814192
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 2884ecca-ae2b-4613-95e0-d1b750a2b57a
-length_on_deck: 7.9248
 callsign: ''
 ownerships:
 - end: 2002
@@ -98,15 +80,34 @@ ownerships:
   start: 2015
   member: 2287
   current: true
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:38:45.614909+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1910
-year_is_approximate: false
+id: 2884ecca-ae2b-4613-95e0-d1b750a2b57a
 previous_names:
 - Lady Myra
 image_key: ZtRpzB
-construction_details: Carvel
+thumb: https://photos.smugmug.com/photos/i-zP4w2pR/0/Th/i-zP4w2pR-Th.jpg
+draft: 1.0058
+handicap_data:
+  beam: 2.692453060229212
+  main:
+    foot: 5.080078029748842
+    head: 4.01325286515484
+    luff: 3.6576444769568397
+  thcf: 0.929
+  draft: 1.0160204828090709
+  topsail:
+    luff: 4.87685930260912
+    perpendicular: 1.5240185320653499
+  sailarea: 42.541783461398545
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.924896366739819
+  fore_triangle_base: 6.045293830772982
+  length_on_waterline: 7.772506705681541
+  fore_triangle_height: 6.604096561814192
+length_on_deck: 7.9248
 beam: 2.6822
 for_sale_state:
   text: not_for_sale

@@ -14,18 +14,39 @@ full_description: Nightingale was launched in 1996 by an East Coast Bargemaster 
   at the turn of the century. He sailed with his sister and a friend to the Pacific
   Islands via the Panama Canal, in order to recuperate from the horrors of the First
   World War.
-builder:
-  name: Potter and Bishop
-  id: a2d163cc-d9ca-4c8d-9639-5699544c48a4
+year: 1980
+year_is_approximate: false
 designer:
   name: Ken Davies
   id: 895a46b4-0b73-46c7-95e6-c2cb35cb0210
+builder:
+  name: Potter and Bishop
+  id: a2d163cc-d9ca-4c8d-9639-5699544c48a4
+place_built: Westerham, Kent
 construction_material: ferro
+spar_material: wood
 construction_method: other
-draft: 1.8288
+construction_details: Ferro hull and deck
 engine_installations: []
 for_sales:
 - asking_price: 28000
+home_country: GBR
+home_port: Cowes
+hull_form: long keel sloping forefoot
+sail_number: '2339'
+ssr: '89898'
+callsign: MWKH5
+ownerships:
+- name: Ron Hanson
+  share: 64
+  start: 1999
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c2aa3ceb-7c39-455d-9db2-5dbef2224b51
+previous_names: []
+image_key: VZL4rm
+thumb: https://photos.smugmug.com/photos/i-xx97vMM/0/Th/i-xx97vMM-Th.jpg
+draft: 1.8288
 handicap_data:
   beam: 3.4046574006339916
   main:
@@ -44,27 +65,7 @@ handicap_data:
   fore_triangle_base: 6.858083394294074
   length_on_waterline: 8.83930748597903
   fore_triangle_height: 9.982321385028042
-home_country: GBR
-home_port: Cowes
-hull_form: long keel sloping forefoot
-id: c2aa3ceb-7c39-455d-9db2-5dbef2224b51
 length_on_deck: 9.906
-sail_number: '2339'
-spar_material: wood
-ssr: '89898'
-callsign: MWKH5
-ownerships:
-- name: Ron Hanson
-  share: 64
-  start: 1999
-place_built: Westerham, Kent
-updated_at: '2021-12-19T13:39:35.187133+00:00'
-website: ''
-year: 1980
-year_is_approximate: false
-previous_names: []
-image_key: VZL4rm
-construction_details: Ferro hull and deck
 beam: 3.4138
 design_class:
   name: C-Mist

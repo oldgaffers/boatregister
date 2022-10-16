@@ -8,17 +8,37 @@ short_description: <p>&#39;Ostara&#39; was built in 2002 by Cdr Gilbert Mayes OB
 full_description: "<p>A Bridgewater Bay flatner is the local traditional open fishing\
   \ boat. &#39;Ostara&#39; is the second of three built in association with the Watchet\
   \ Boat Museum in the latter 1990s.</p>\r\n\r\n<p>&nbsp;</p>"
-builder:
-  name: Mayes and Stone
-  id: 2bfeeff4-7e3d-453d-92cf-6706731cc076
+year: 2002
+year_is_approximate: false
 designer:
   name: Kimber Harold
   id: e2664c66-07f6-44e4-9e8a-05981d87d82c
+builder:
+  name: Mayes and Stone
+  id: 2bfeeff4-7e3d-453d-92cf-6706731cc076
+place_built: Wells
 construction_material: plywood
 construction_method: unknown
-draft: 0.1524
+construction_details: Double ended hard chine ply slab sided on one and a half inch
+  pine bottom
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Highbridge Port of Bridgwater
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2003
+  name: Gil Mayes
+  share: 64
+  start: 2002
+- name: Bruce Scott
+  share: 64
+  start: 2003
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2c506e89-5fa0-42cd-8ec9-3e77e2366b46
+draft: 0.1524
 handicap_data:
   beam: 1.5240185320653499
   main:
@@ -34,27 +54,7 @@ handicap_data:
   fore_triangle_base: 1.8288222384784198
   length_on_waterline: 5.029273347963911
   fore_triangle_height: 2.9718544257498167
-home_country: 'null'
-home_port: Highbridge Port of Bridgwater
-hull_form: long keel deep forefoot
-id: 2c506e89-5fa0-42cd-8ec9-3e77e2366b46
 length_on_deck: 5.9436
-callsign: ''
-ownerships:
-- end: 2003
-  name: Gil Mayes
-  share: 64
-  start: 2002
-- name: Bruce Scott
-  share: 64
-  start: 2003
-place_built: Wells
-updated_at: '2021-12-19T13:39:41.555386+00:00'
-website: ''
-year: 2002
-year_is_approximate: false
-construction_details: Double ended hard chine ply slab sided on one and a half inch
-  pine bottom
 beam: 1.524
 for_sale_state:
   text: not_for_sale

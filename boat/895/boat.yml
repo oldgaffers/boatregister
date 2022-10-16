@@ -17,17 +17,41 @@ full_description: "<p>&#39;Baroque&#39;, built in 1902, served as a pilot cutter
   \ Eye&#39;. Sunderland restored and kept her for 24 years, selling her to Tina Trollmo\
   \ and Martin Rogetzky, who took her to Stockholm for restoration and use as a charter\
   \ vessel.</p>"
-builder:
-  name: John Hambly
-  id: 0d6fbec4-9420-4434-aa9c-435963dc8afb
+year: 1902
+year_is_approximate: false
 designer:
   name: J. Hambly
   id: 14c9c11e-683d-4250-bdba-c7e13afc05aa
+builder:
+  name: John Hambly
+  id: 0d6fbec4-9420-4434-aa9c-435963dc8afb
+place_built: Cardiff
 construction_material: wood
 construction_method: unknown
-draft: 2.4384
 engine_installations: []
 for_sales: []
+home_country: SWE
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: '11'
+callsign: ''
+ownerships:
+- end: 1977
+  name: HW (Bill) Tilman
+  share: 64
+  start: 1973
+- note: Sold to Bill Tilman by John Smith in 1973.
+  text: Sold to Bill Tilman by John Smith in
+  start: 1973
+  start_is_approximate: false
+- end: 2001
+  name: J Sunderland
+  share: 64
+  start: 1978
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: daf27742-6668-4ff4-9231-f71e520765be
+draft: 2.4384
 handicap_data:
   beam: 4.114850036576445
   main:
@@ -45,31 +69,7 @@ handicap_data:
   fore_triangle_base: 9.44891489880517
   length_on_waterline: 12.496951962935869
   fore_triangle_height: 9.1441111923921
-home_country: SWE
-home_port: ''
-hull_form: long keel deep forefoot
-id: daf27742-6668-4ff4-9231-f71e520765be
 length_on_deck: 15.24
-sail_number: '11'
-callsign: ''
-ownerships:
-- end: 1977
-  name: HW (Bill) Tilman
-  share: 64
-  start: 1973
-- note: Sold to Bill Tilman by John Smith in 1973.
-  text: Sold to Bill Tilman by John Smith in
-  start: 1973
-  start_is_approximate: false
-- end: 2001
-  name: J Sunderland
-  share: 64
-  start: 1978
-place_built: Cardiff
-updated_at: '2021-12-19T13:38:55.378919+00:00'
-website: ''
-year: 1902
-year_is_approximate: false
 beam: 4.1148
 for_sale_state:
   text: not_for_sale

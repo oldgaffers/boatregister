@@ -10,17 +10,36 @@ full_description: Hull was constructed by Grade A Mouldings, N Walsham and fitte
   of teak in cockpit, decks and interior. All teak reclaimed from Victorian Vinery
   taken down from the Lees Folkstone. Originally kept in Dover - now in the Hamble
   (2013).
-builder:
-  name: Feltham Alan Ltd.
-  id: 8b1e6357-a96e-42cb-b0cb-21f548390cfe
+year: 2009
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: Feltham Alan Ltd.
+  id: 8b1e6357-a96e-42cb-b0cb-21f548390cfe
+place_built: N Walsham
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.8626
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Andrew Croft
+  share: 64
+  start: 2009
+- share: 64
+  member: 5532
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 441a675a-cbc4-48e5-ad1c-84a569bba60b
+draft: 0.8626
 handicap_data:
   beam: 2.6670507193367468
   main:
@@ -38,26 +57,7 @@ handicap_data:
   length_over_spars: 9.44891489880517
   fore_triangle_base: 4.57205559619605
   fore_triangle_height: 8.22970007315289
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: 441a675a-cbc4-48e5-ad1c-84a569bba60b
 length_on_deck: 7.62
-callsign: ''
-ownerships:
-- name: Andrew Croft
-  share: 64
-  start: 2009
-- share: 64
-  member: 5532
-  current: true
-  start: '?'
-place_built: N Walsham
-updated_at: '2021-12-19T13:39:58.303628+00:00'
-website: ''
-year: 2009
-year_is_approximate: false
-construction_details: GRP
 beam: 2.6914
 design_class:
   name: Norfolk Smuggler

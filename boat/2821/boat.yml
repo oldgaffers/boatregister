@@ -5,31 +5,27 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Mike Hawes
-  id: e5fba2ea-634d-4e9f-b715-a77e5b65164c
+year: 1986
+year_is_approximate: false
 designer:
   name: Michael R. Hawes
   id: 1d14143b-8f55-4b26-94a4-95e4058cc952
+builder:
+  name: Mike Hawes
+  id: e5fba2ea-634d-4e9f-b715-a77e5b65164c
+place_built: Fordingbridge
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5578
+construction_details: GRP, wood spars
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.539014874420873
-  draft: 0.5577907827359181
-  length_over_all: 7.2390880273104115
-  length_on_waterline: 5.9436722750548645
 home_country: Ireland
 home_port: Dunmore East
 hull_form: unknown
-id: db75740d-64ee-488b-84aa-7cc0f6a068e9
-length_on_deck: 7.239
 reference:
 - CB Mar 1987
 sail_number: '24'
-spar_material: wood
 ssr: '128539'
 callsign: ''
 ownerships:
@@ -48,15 +44,20 @@ ownerships:
   start: 2021
   member: 6512
   current: true
-place_built: Fordingbridge
 updated_at: '2022-05-08T21:49:54.316866+00:00'
 website: ''
-year: 1986
-year_is_approximate: false
+id: db75740d-64ee-488b-84aa-7cc0f6a068e9
 previous_names:
 - "M\xF4r Awel"
 image_key: jfbmSc
-construction_details: GRP, wood spars
+thumb: https://photos.smugmug.com/photos/i-C5rJ6s7/0/Th/i-C5rJ6s7-Th.jpg
+draft: 0.5578
+handicap_data:
+  beam: 2.539014874420873
+  draft: 0.5577907827359181
+  length_over_all: 7.2390880273104115
+  length_on_waterline: 5.9436722750548645
+length_on_deck: 7.239
 beam: 2.539
 design_class:
   name: Skanner 24

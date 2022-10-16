@@ -5,17 +5,32 @@ rig_type: Yawl
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1975
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes
 construction_material: grp
 construction_method: unknown
-draft: 0.9144
+construction_details: G R P
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: St Mawes
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Derek E Smith
+  share: 64
+  start: 1995
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d905291b-9aba-4623-95f9-683924b3b9e6
+draft: 0.9144
 handicap_data:
   beam: 1.7678614971958058
   main:
@@ -31,22 +46,7 @@ handicap_data:
   fore_triangle_base: 1.5240185320653499
   length_on_waterline: 4.1453304072177515
   fore_triangle_height: 3.581443550353572
-home_country: 'null'
-home_port: St Mawes
-hull_form: unknown
-id: d905291b-9aba-4623-95f9-683924b3b9e6
 length_on_deck: 4.7244
-callsign: ''
-ownerships:
-- name: Derek E Smith
-  share: 64
-  start: 1995
-place_built: Totnes
-updated_at: '2021-12-19T13:39:22.972647+00:00'
-website: ''
-year: 1975
-year_is_approximate: false
-construction_details: G R P
 beam: 1.7678
 for_sale_state:
   text: not_for_sale

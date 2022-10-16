@@ -5,17 +5,44 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1969
+year_is_approximate: false
 designer:
   name: Latimer
   id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: clinker
-draft: 0.4572
+construction_details: Clinker magogany on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Paglesham
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Ted Smith
+  share: 64
+  start: 1969
+- end: 2014
+  name: John Langrick
+  share: 64
+  start: 1992
+- end: 2017
+  name: Andy Stephens
+  share: 64
+  start: 2014
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e0c87f1a-e38e-448f-9e06-fe53e58f5087
+previous_names:
+- Impudence
+image_key: jVSJS5
+thumb: https://photos.smugmug.com/photos/i-WRQ4cBN/0/Th/i-WRQ4cBN-Th.jpg
+draft: 0.4572
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -33,33 +60,7 @@ handicap_data:
   fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.5532796878810045
   fore_triangle_height: 6.4008778346744695
-home_country: GBR
-home_port: Paglesham
-hull_form: long keel deep forefoot
-id: e0c87f1a-e38e-448f-9e06-fe53e58f5087
 length_on_deck: 6.858
-callsign: ''
-ownerships:
-- name: Ted Smith
-  share: 64
-  start: 1969
-- end: 2014
-  name: John Langrick
-  share: 64
-  start: 1992
-- end: 2017
-  name: Andy Stephens
-  share: 64
-  start: 2014
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:26.270868+00:00'
-website: ''
-year: 1969
-year_is_approximate: false
-previous_names:
-- Impudence
-image_key: jVSJS5
-construction_details: Clinker magogany on oak
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

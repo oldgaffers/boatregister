@@ -5,30 +5,24 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Suzetto is a 12ft Privateer built in 1991</p>
 full_description: ''
-builder:
-  name: Long Island Boats
-  id: 390e07ea-2164-4958-9171-fd647da56935
+year: 1991
+year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+builder:
+  name: Long Island Boats
+  id: 390e07ea-2164-4958-9171-fd647da56935
+place_built: Wareham Dorset
 construction_material: plywood
 construction_method: unknown
-draft: 0.1524
+construction_details: Marine ply (1/4 inch graded to BS 1087) epoxy resin, multi chine
+  construction.
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 0
-  moving_keel: true
-  length_overall: 3.6576
-  draft_keel_down: 0.8626
-  moving_keel_type: Centreboard
-  length_over_spars: 4.063
-  length_on_waterline: 3.5052
 home_country: GBR
 home_port: Brixham
 hull_form: long keel deep forefoot
-id: e50e7481-3b3f-42a8-b611-64ed85467ee9
-length_on_deck: 3.6576
 sail_number: '5'
 callsign: ''
 ownerships:
@@ -40,16 +34,23 @@ ownerships:
   member: 5998
   current: true
   start: '?'
-place_built: Wareham Dorset
 updated_at: '2022-08-26T14:26:17.566408+00:00'
 website: ''
-year: 1991
-year_is_approximate: false
+id: e50e7481-3b3f-42a8-b611-64ed85467ee9
 previous_names:
 - Tad
 image_key: b9pZzZ
-construction_details: Marine ply (1/4 inch graded to BS 1087) epoxy resin, multi chine
-  construction.
+thumb: https://photos.smugmug.com/photos/i-rtfKPgx/0/Th/i-rtfKPgx-Th.jpg
+draft: 0.1524
+handicap_data:
+  sailarea: 0
+  moving_keel: true
+  length_overall: 3.6576
+  draft_keel_down: 0.8626
+  moving_keel_type: Centreboard
+  length_over_spars: 4.063
+  length_on_waterline: 3.5052
+length_on_deck: 3.6576
 beam: 1.524
 design_class:
   name: Privateer

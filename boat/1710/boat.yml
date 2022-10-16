@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Roger Dongray
-  id: 8c8f4bfb-f723-4dba-99de-5bddb3e8a575
+year: 1975
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Roger Dongray
+  id: 8c8f4bfb-f723-4dba-99de-5bddb3e8a575
+place_built: Rock
 construction_material: wood
 construction_method: unknown
-draft: 0.7376
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: K S Pattison
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0c75e194-3f1c-4fc2-bf6b-f09e479790c1
+draft: 0.7376
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,21 +47,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
   fore_triangle_height: 5.6388685686417945
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 0c75e194-3f1c-4fc2-bf6b-f09e479790c1
 length_on_deck: 7.3152
-callsign: ''
-ownerships:
-- name: K S Pattison
-  share: 64
-  start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:39:18.398878+00:00'
-website: ''
-year: 1975
-year_is_approximate: false
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

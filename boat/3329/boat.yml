@@ -6,18 +6,34 @@ mainsail_type: gunter
 short_description: <p>&#39;Sea Trout&#39; is a Drascombe Lugger built in 1991.</p>
 full_description: <p>The Drascombe lugger, built in 1991 has been modified for camping
   and as a liveaboard. She is an ideal trailer sailer, built in 1991 of GRP.</p>
-builder:
-  name: Churchouse
-  id: cf73e700-eb81-47d7-b6da-5985b0c6da95
+year: 1991
+year_is_approximate: false
 designer:
   name: J. Wilkinson
   id: e169fa9b-ac0f-490a-865c-ada5d608f41d
+builder:
+  name: Churchouse
+  id: cf73e700-eb81-47d7-b6da-5985b0c6da95
 construction_material: grp
 construction_method: unknown
-draft: 0.2438
 engine_installations: []
 for_sales:
 - asking_price: 3250
+home_country: GBR
+home_port: Ludlow
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2017
+  name: Richard Craven
+  share: 64
+  start: 2000
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1af5c3c1-229e-43d4-b492-054aef3dc76d
+image_key: hRCJjp
+thumb: https://photos.smugmug.com/photos/i-gXXLxjz/0/Th/i-gXXLxjz-Th.jpg
+draft: 0.2438
 handicap_data:
   sailarea: 0
   moving_keel: true
@@ -25,22 +41,7 @@ handicap_data:
   draft_keel_down: 1.2192
   moving_keel_type: Centreboard
   length_on_waterline: 4.572
-home_country: GBR
-home_port: Ludlow
-hull_form: long keel deep forefoot
-id: 1af5c3c1-229e-43d4-b492-054aef3dc76d
 length_on_deck: 4.8036
-callsign: ''
-ownerships:
-- end: 2017
-  name: Richard Craven
-  share: 64
-  start: 2000
-updated_at: '2021-12-19T13:40:07.719356+00:00'
-website: ''
-year: 1991
-year_is_approximate: false
-image_key: hRCJjp
 beam: 1.905
 design_class:
   name: Drascombe Lugger

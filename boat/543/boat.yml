@@ -5,17 +5,36 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Smith Bros
-  id: 94919ef1-95e3-4861-aa55-c98016ebe67e
+year: 1912
+year_is_approximate: false
 designer:
   name: George F. Holmes
   id: 18294e5e-ffa2-48af-939e-bc30b9668eef
+builder:
+  name: Smith Bros
+  id: 94919ef1-95e3-4861-aa55-c98016ebe67e
+place_built: Goole
 construction_material: wood
 construction_method: carvel
-draft: 0.8534
+construction_details: Carvel Pine on Oak Timbers
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Fareham
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 503
+  share: 64
+  start: 2012
+  member: 4752
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 5a874dbd-7db1-4b99-a354-b9988d177c3b
+image_key: tPhHfS
+thumb: https://photos.smugmug.com/photos/i-mZsSRZn/0/Th/i-mZsSRZn-Th.jpg
+draft: 0.8534
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -36,25 +55,7 @@ handicap_data:
   fore_triangle_base: 2.8956352109241648
   length_on_waterline: 7.071445988783223
   fore_triangle_height: 7.467690807120214
-home_country: GBR
-home_port: Fareham
-hull_form: long keel deep forefoot
-id: 5a874dbd-7db1-4b99-a354-b9988d177c3b
 length_on_deck: 8.5344
-callsign: ''
-ownerships:
-- id: 503
-  share: 64
-  start: 2012
-  member: 4752
-  current: true
-place_built: Goole
-updated_at: '2021-12-19T13:38:45.309945+00:00'
-website: ''
-year: 1912
-year_is_approximate: false
-image_key: tPhHfS
-construction_details: Carvel Pine on Oak Timbers
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

@@ -5,29 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log Mar/98
-builder:
-  name: Kearney J in Murphy's Yard
-  id: 067e8f4a-930f-426f-b172-5a3dfd00ebf5
+year: 1924
+year_is_approximate: false
 designer:
   name: J.B. Kearney
   id: 0b07735c-5e25-4f28-94db-1f617b54ff24
+builder:
+  name: Kearney J in Murphy's Yard
+  id: 067e8f4a-930f-426f-b172-5a3dfd00ebf5
+place_built: Ringsend, Dublin
 construction_material: wood
 construction_method: clinker
-draft: 1.2192
+construction_details: Wood Clinker
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  draft: 1.21921482565228
-  propellor:
-    type: fixed
-  length_over_all: 8.22970007315289
-  length_on_waterline: 7.467690807120214
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
-id: 98853fd0-1131-4c29-b865-29b86036dcb3
-length_on_deck: 8.2296
 reference:
 - Log Mar 98
 callsign: ''
@@ -35,12 +29,18 @@ ownerships:
 - name: Kieran Cruise
   share: 64
   start: 1944
-place_built: Ringsend, Dublin
-updated_at: '2021-12-19T13:39:23.314624+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1924
-year_is_approximate: false
-construction_details: Wood Clinker
+id: 98853fd0-1131-4c29-b865-29b86036dcb3
+draft: 1.2192
+handicap_data:
+  beam: 2.590831504511095
+  draft: 1.21921482565228
+  propellor:
+    type: fixed
+  length_over_all: 8.22970007315289
+  length_on_waterline: 7.467690807120214
+length_on_deck: 8.2296
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

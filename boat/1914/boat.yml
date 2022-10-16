@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log A-W/94
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1981
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: unknown
-draft: 0.7376
+construction_details: G R P
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Poole
+hull_form: long keel deep forefoot
+reference:
+- Log A-W/94
+sail_number: '268'
+ssr: '29914'
+callsign: ''
+ownerships:
+- name: Dr K R Kidd
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7dac0a18-1f5c-470f-ba4c-772b2fecd121
+draft: 0.7376
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,26 +52,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
   fore_triangle_height: 5.6388685686417945
-home_country: 'null'
-home_port: Poole
-hull_form: long keel deep forefoot
-id: 7dac0a18-1f5c-470f-ba4c-772b2fecd121
 length_on_deck: 7.3152
-reference:
-- Log A-W/94
-sail_number: '268'
-ssr: '29914'
-callsign: ''
-ownerships:
-- name: Dr K R Kidd
-  share: 64
-  start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:39:23.919625+00:00'
-website: ''
-year: 1981
-year_is_approximate: false
-construction_details: G R P
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 1

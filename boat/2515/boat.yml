@@ -5,26 +5,17 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
+year: 1912
+year_is_approximate: false
+place_built: Brightlingsea
 construction_material: wood
 construction_method: clinker
-draft: 0.2042
+construction_details: Clinker elm on oak with repairs in mahogany
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.3960009753718605
-  main:
-    foot: 2.871250914411119
-    head: 2.6426481346013166
-    luff: 1.563643013899049
-  thcf: 0.718864129
-  draft: 0.2042184832967569
-  length_over_all: 3.3528407705437697
-  length_on_waterline: 3.337600585223116
 home_country: GBR
 home_port: North Fambridge
 hull_form: unknown
-id: 70ce66ea-ec66-40ed-931e-cf204f16888b
-length_on_deck: 3.3528
 callsign: ''
 ownerships:
 - name: Brenda Jago
@@ -35,12 +26,21 @@ ownerships:
   member: 471
   current: true
   start: '?'
-place_built: Brightlingsea
-updated_at: '2021-12-19T13:39:41.456131+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1912
-year_is_approximate: false
-construction_details: Clinker elm on oak with repairs in mahogany
+id: 70ce66ea-ec66-40ed-931e-cf204f16888b
+draft: 0.2042
+handicap_data:
+  beam: 1.3960009753718605
+  main:
+    foot: 2.871250914411119
+    head: 2.6426481346013166
+    luff: 1.563643013899049
+  thcf: 0.718864129
+  draft: 0.2042184832967569
+  length_over_all: 3.3528407705437697
+  length_on_waterline: 3.337600585223116
+length_on_deck: 3.3528
 beam: 1.396
 for_sale_state:
   text: not_for_sale

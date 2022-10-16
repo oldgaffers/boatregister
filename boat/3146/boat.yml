@@ -8,28 +8,23 @@ short_description: <p>&#39;Black Jack&#39; is a GRP Morecambe Bay Prawner built 
   Association&#39;s private lifeboat which served from 1934 to 1989. She was launched
   in 1990.</p>
 full_description: ''
-builder:
-  name: Classic Yachts
-  id: 9bfa5fa1-4c94-4793-b980-b1a8ad4c01d3
+year: 1990
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Classic Yachts
+  id: 9bfa5fa1-4c94-4793-b980-b1a8ad4c01d3
+place_built: Southampton
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.0424
+construction_details: GRP mould taken from 'Sir William Priestley'
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.0414228237015362
-  length_over_all: 8.33130943672275
-  length_over_spars: 10.36332601804438
-  length_on_waterline: 7.137496951962935
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
-id: b4e51d7f-2ef6-4377-85b2-57fc12950b8a
-length_on_deck: 8.3302
 sail_number: '8'
 callsign: ''
 ownerships:
@@ -37,13 +32,19 @@ ownerships:
   name: Susanne and Alan Newbold
   share: 64
   start: 2002
-place_built: Southampton
-updated_at: '2021-12-19T13:39:59.247393+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1990
-year_is_approximate: false
+id: b4e51d7f-2ef6-4377-85b2-57fc12950b8a
 image_key: QVgmms
-construction_details: GRP mould taken from 'Sir William Priestley'
+thumb: https://photos.smugmug.com/photos/i-WJ7QcPd/0/Th/i-WJ7QcPd-Th.jpg
+draft: 1.0424
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.0414228237015362
+  length_over_all: 8.33130943672275
+  length_over_spars: 10.36332601804438
+  length_on_waterline: 7.137496951962935
+length_on_deck: 8.3302
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

@@ -9,18 +9,39 @@ short_description: '&#39;Helen of Hamble&#39; is a Tamarisk 24 built in 1980. Sh
 full_description: Restored by Mike Brackstone from 2005 to 2007. He gutted her to
   moulding, re-decked and rebuilt the interior, retaining original spars. When re-launched
   her name was changed to &#39;Helen of Hamble&#39;.
-builder:
-  name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+year: 1980
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+place_built: Fowey
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.8382
+construction_details: GRP, wood deck, cabin & spars
 engine_installations: []
 for_sales:
 - asking_price: null
+home_country: GBR
+home_port: Medina river, IOW
+hull_form: long keel sloping forefoot
+sail_number: 28/2460
+callsign: ''
+ownerships:
+- name: Mike Brackstone
+  share: 64
+  start: 2005
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0e902080-1243-4529-b9ae-11eeb3983e89
+previous_names:
+- Hedra
+image_key: XHpZqJ
+thumb: https://photos.smugmug.com/photos/i-nt58wpX/0/Th/i-nt58wpX-Th.jpg
+draft: 0.8382
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -36,27 +57,7 @@ handicap_data:
   fore_triangle_base: 4.57205559619605
   length_on_waterline: 6.4008778346744695
   fore_triangle_height: 6.4008778346744695
-home_country: GBR
-home_port: Medina river, IOW
-hull_form: long keel sloping forefoot
-id: 0e902080-1243-4529-b9ae-11eeb3983e89
 length_on_deck: 7.2542
-sail_number: 28/2460
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Mike Brackstone
-  share: 64
-  start: 2005
-place_built: Fowey
-updated_at: '2021-12-19T13:39:39.484648+00:00'
-website: ''
-year: 1980
-year_is_approximate: false
-previous_names:
-- Hedra
-image_key: XHpZqJ
-construction_details: GRP, wood deck, cabin & spars
 beam: 2.4384
 design_class:
   name: Tamarisk 24

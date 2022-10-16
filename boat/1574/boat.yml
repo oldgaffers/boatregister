@@ -6,17 +6,36 @@ mainsail_type: gaff
 short_description: <p>Tikkydew&#39;s hull was moulded in 2002 and was fitted out by
   her owner.</p>
 full_description: ''
-builder:
-  name: Martin Heard/John Watts
-  id: 8454d0e7-bc4e-46fe-80a1-49aeb35d3402
+year: 2004
+year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+builder:
+  name: Martin Heard/John Watts
+  id: 8454d0e7-bc4e-46fe-80a1-49aeb35d3402
+place_built: Tregatreath
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.143
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Penzance
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: John Watts
+  share: 64
+  start: 2012
+- share: 64
+  member: 4300
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b06e6aa5-d152-46b2-b5d7-95af6e2297b4
+draft: 1.143
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -34,26 +53,7 @@ handicap_data:
   fore_triangle_base: 4.26725188978298
   length_on_waterline: 6.0960741282613995
   fore_triangle_height: 5.7912704218483295
-home_country: GBR
-home_port: Penzance
-hull_form: long keel deep forefoot
-id: b06e6aa5-d152-46b2-b5d7-95af6e2297b4
 length_on_deck: 6.2484
-callsign: ''
-ownerships:
-- name: John Watts
-  share: 64
-  start: 2012
-- share: 64
-  member: 4300
-  current: true
-  start: '?'
-place_built: Tregatreath
-updated_at: '2021-12-19T13:39:15.200877+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

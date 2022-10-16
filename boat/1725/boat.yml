@@ -44,17 +44,50 @@ full_description: 'The Tamarisk is 24ft long (plus a 6ft bowsprit), 8ft in beam,
   1.8m Plastimo rowing inflatable can be stowed deflated on deck or towed astern.
   &nbsp;There is a horseshoe lifebuoy and two cockpit seat cushions that can also
   provide emergency flotation. &nbsp;Fire extinguishers to BSS standards are fitted.'
-builder:
-  name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+year: 1986
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+place_built: Cornwall
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP hull, ply/timber topsides
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Itchenor
+hull_form: long keel deep forefoot
+sail_number: PB
+ssr: '61019'
+callsign: MLED
+ownerships:
+- end: 2014
+  name: DG and AJ Lovelock
+  share: 64
+  start: 2007
+- id: 1009
+  share: 32
+  start: 2014
+  member: 6247
+  current: true
+- id: 34663
+  share: 32
+  start: 2014
+  member: 6247
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 2368ca5d-bb19-4580-a0f4-f6da9e65f1a9
+previous_names:
+- Puffin Too
+- Puffin Bac
+image_key: NTjRcP
+thumb: https://photos.smugmug.com/photos/i-LB8G7Xf/0/Th/i-LB8G7Xf-Th.jpg
+draft: 0.9144
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -74,39 +107,7 @@ handicap_data:
   fore_triangle_base: 4.038655206047305
   length_on_waterline: 6.4516825164594
   fore_triangle_height: 7.162899292855401
-home_country: GBR
-home_port: Itchenor
-hull_form: long keel deep forefoot
-id: 2368ca5d-bb19-4580-a0f4-f6da9e65f1a9
 length_on_deck: 7.2634
-sail_number: PB
-spar_material: wood
-ssr: '61019'
-callsign: MLED
-ownerships:
-- end: 2014
-  name: DG and AJ Lovelock
-  share: 64
-  start: 2007
-- id: 1009
-  share: 32
-  start: 2014
-  member: 6247
-  current: true
-- id: 34663
-  share: 32
-  start: 2014
-  member: 6247
-  current: true
-place_built: Cornwall
-updated_at: '2022-02-12T20:00:28.572147+00:00'
-year: 1986
-year_is_approximate: false
-previous_names:
-- Puffin Too
-- Puffin Bac
-image_key: NTjRcP
-construction_details: GRP hull, ply/timber topsides
 beam: 2.4384
 design_class:
   name: Tamarisk 24

@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: See paper Archive,  CB & the Boatman
-builder:
-  name: C.H. Fox and Sons Ltd.
-  id: 79003eb5-2931-4269-93f5-3c42fde1c27b
+year: 1933
+year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+builder:
+  name: C.H. Fox and Sons Ltd.
+  id: 79003eb5-2931-4269-93f5-3c42fde1c27b
+place_built: Ipswitch
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel Wych Elm below & yellow pine above on steamed Rock elm
+  timbers on oak  keel.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Falmouth
+hull_form: long keel deep forefoot
+uk_part1: 70928S
+callsign: ''
+ownerships:
+- name: Graham Morris
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e1ffee1a-5408-471b-b2ef-a843fe61c43e
+draft: 1.3716
 handicap_data:
   beam: 2.2098268714947573
   main:
@@ -30,24 +47,7 @@ handicap_data:
   fore_triangle_base: 3.0480370641306997
   length_on_waterline: 5.4864667154352595
   fore_triangle_height: 6.4008778346744695
-home_country: 'null'
-home_port: Falmouth
-hull_form: long keel deep forefoot
-id: e1ffee1a-5408-471b-b2ef-a843fe61c43e
 length_on_deck: 6.477
-uk_part1: 70928S
-callsign: ''
-ownerships:
-- name: Graham Morris
-  share: 64
-  start: 2012
-place_built: Ipswitch
-updated_at: '2021-12-19T13:39:44.174884+00:00'
-website: ''
-year: 1933
-year_is_approximate: false
-construction_details: Carvel Wych Elm below & yellow pine above on steamed Rock elm
-  timbers on oak  keel.
 beam: 2.2098
 for_sale_state:
   text: not_for_sale

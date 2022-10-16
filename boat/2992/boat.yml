@@ -6,17 +6,34 @@ mainsail_type: gaff
 short_description: ''
 full_description: GRP replica of a pursuit boat working out of Barry Port S Wales
   - inshore "seeker" suplying pilots to incoming vessels in the vicinity of the docks
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2004
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Hamble
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.4328
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Instow
+hull_form: long keel sloping forefoot
+sail_number: '2'
+ssr: '124317'
+callsign: ''
+ownerships:
+- name: Chris Evans
+  share: 64
+  start: 2004
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 830c12f5-b494-43b9-920c-bffa39b0ff17
+draft: 0.4328
 handicap_data:
   beam: 1.6764325774201414
   main:
@@ -35,24 +52,7 @@ handicap_data:
   fore_triangle_base: 2.0828456474030723
   length_on_waterline: 4.800676664228237
   fore_triangle_height: 4.419665935137771
-home_country: GBR
-home_port: Instow
-hull_form: long keel sloping forefoot
-id: 830c12f5-b494-43b9-920c-bffa39b0ff17
 length_on_deck: 5.0292
-sail_number: '2'
-ssr: '124317'
-callsign: ''
-ownerships:
-- name: Chris Evans
-  share: 64
-  start: 2004
-place_built: Hamble
-updated_at: '2021-12-19T13:39:55.54087+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-construction_details: GRP
 beam: 1.6764
 design_class:
   name: Tela

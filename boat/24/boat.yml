@@ -5,39 +5,40 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: P. Worsley/E. Worsley
-  id: e39d0ac8-fe69-4264-a55b-0a18566e1a47
+year: 1910
+year_is_approximate: false
 designer:
   name: P. Worsley/E. Worsley
   id: cd26d6be-0d79-4d3d-852d-ca9425088603
+builder:
+  name: P. Worsley/E. Worsley
+  id: e39d0ac8-fe69-4264-a55b-0a18566e1a47
+place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel Pine on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9202633504023408
-  draft: 1.21921482565228
-  length_over_all: 7.620092660326749
-  length_on_waterline: 6.919044135576688
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 15849350-cb11-439f-9887-15e567625e88
-length_on_deck: 7.62
 callsign: ''
 ownerships:
 - name: W.D. Robinson
   share: 64
   start: 1963
-place_built: Portsmouth
-updated_at: '2021-12-19T13:38:30.380681+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1910
-year_is_approximate: false
+id: 15849350-cb11-439f-9887-15e567625e88
 image_key: Z4qBnP
-construction_details: Carvel Pine on Oak
+thumb: https://photos.smugmug.com/photos/i-cVswjmk/0/Th/i-cVswjmk-Th.jpg
+draft: 1.2192
+handicap_data:
+  beam: 1.9202633504023408
+  draft: 1.21921482565228
+  length_over_all: 7.620092660326749
+  length_on_waterline: 6.919044135576688
+length_on_deck: 7.62
 beam: 1.9294
 for_sale_state:
   text: not_for_sale

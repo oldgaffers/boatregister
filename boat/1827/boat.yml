@@ -7,34 +7,35 @@ short_description: <p><em>Mordialloc </em>is a Mark 1 Cornish crabber</p>
 full_description: <p><em>Mordialloc </em>has a black hull and red sales. &nbsp;Lifting
   keel means she can &nbsp;float in a muddy puddle. &nbsp;Her Australian aboriginal
   name apparently &nbsp;means muddy creek!</p>
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1981
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.4384
-  length_over_all: 7.315288953913679
 home_country: 'null'
 home_port: Wooton Bridge, Isle of Wight
 hull_form: unknown
-id: 85045a74-2a2c-4965-9cfa-79e7c11bd57d
-length_on_deck: 7.3152
 ownerships:
 - name: C Perkins
   share: 64
   start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:39:21.455923+00:00'
-year: 1981
-year_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 85045a74-2a2c-4965-9cfa-79e7c11bd57d
 image_key: pGJWbQ
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-jqbbtZX/0/Th/i-jqbbtZX-Th.jpg
+draft: 0
+handicap_data:
+  beam: 2.4384
+  length_over_all: 7.315288953913679
+length_on_deck: 7.3152
 for_sale_state:
   text: not_for_sale

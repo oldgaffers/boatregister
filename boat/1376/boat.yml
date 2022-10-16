@@ -5,38 +5,38 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Morgan Giles Ltd.
-  id: 2e21306b-23dc-407a-ae70-31f933bdcc9c
+year: 1953
+year_is_approximate: false
 designer:
   name: Morgan Giles
   id: f1bc585c-9638-4fd8-8fc7-f382b028513c
+builder:
+  name: Morgan Giles Ltd.
+  id: 2e21306b-23dc-407a-ae70-31f933bdcc9c
+place_built: Lymington Q or IW
 construction_material: wood
 construction_method: clinker
-draft: 1.0973
+construction_details: Mahogony on oak clinker
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  draft: 1.097293343087052
-  length_over_all: 4.87685930260912
-  length_on_waterline: 4.87685930260912
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 6e749c21-4737-42ff-80fa-b81cd37c937e
-length_on_deck: 4.8768
 callsign: ''
 ownerships:
 - name: Paul Granville
   share: 64
   start: 2012
-place_built: Lymington Q or IW
-updated_at: '2021-12-19T13:39:09.575396+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1953
-year_is_approximate: false
-construction_details: Mahogony on oak clinker
+id: 6e749c21-4737-42ff-80fa-b81cd37c937e
+draft: 1.0973
+handicap_data:
+  beam: 1.8288222384784198
+  draft: 1.097293343087052
+  length_over_all: 4.87685930260912
+  length_on_waterline: 4.87685930260912
+length_on_deck: 4.8768
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

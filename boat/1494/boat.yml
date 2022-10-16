@@ -37,33 +37,24 @@ full_description: "<h3>In search of &#39;Felix&#39;, February 2018</h3>\r\n\r\n<
   \ but with less work during the winter months She is also the kind of boat that\
   \ might tempt an owner to keep her in the water all year round, just to enjoy those\
   \ sunny days of solitude during the off season.</p>\r\n</blockquote>"
-builder:
-  name: David Moss Boatbuilders
-  id: 57e22238-cdd2-4556-a3f3-ef834d765e07
+year: 1982
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: David Moss Boatbuilders
+  id: 57e22238-cdd2-4556-a3f3-ef834d765e07
+place_built: Skipool Creek
 construction_material: wood
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.4054
+construction_details: cold moulded mahogany
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  main:
-    foot: 4.87685930260912
-    head: 4.13923433308949
-    luff: 2.8956352109241648
-  thcf: 0.797467466
-  draft: 0.396244818336991
-  length_over_all: 4.87685930260912
-  length_on_waterline: 4.672640819312362
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: ff99b4ab-1678-4b81-9657-a00bfc0e73b9
-length_on_deck: 4.8768
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1989
@@ -98,13 +89,23 @@ ownerships:
   member: 6290
   current: true
   start: '?'
-place_built: Skipool Creek
-updated_at: '2021-12-19T13:39:12.961397+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1982
-year_is_approximate: false
+id: ff99b4ab-1678-4b81-9657-a00bfc0e73b9
 image_key: X9bkr7
-construction_details: cold moulded mahogany
+thumb: https://photos.smugmug.com/photos/i-bqxdxZ5/0/Th/i-bqxdxZ5-Th.jpg
+draft: 0.4054
+handicap_data:
+  beam: 2.286027798098025
+  main:
+    foot: 4.87685930260912
+    head: 4.13923433308949
+    luff: 2.8956352109241648
+  thcf: 0.797467466
+  draft: 0.396244818336991
+  length_over_all: 4.87685930260912
+  length_on_waterline: 4.672640819312362
+length_on_deck: 4.8768
 beam: 2.286
 design_class:
   name: Catboat 16

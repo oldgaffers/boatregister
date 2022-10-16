@@ -9,24 +9,25 @@ full_description: A home build, &lsquo;Fidelity&rsquo; was built in Barrow-in-Fu
   which is now occupied by Barrow Maritime Museum. She was then moved to Liverpool,
   Anstruther. and St Monans. Her current owner believes she was built around 1983
   but previous details indicate 1950.
-builder:
-  name: Bobby Lee
-  id: 09dc2afb-836e-4d9f-bd60-2f7fbe18ac8b
+year: 1950
+year_is_approximate: false
 designer:
   name: Tommy Myers
   id: daa2b0bd-c65d-4506-ac0a-65f7cb3584c2
+builder:
+  name: Bobby Lee
+  id: 09dc2afb-836e-4d9f-bd60-2f7fbe18ac8b
+place_built: Barrow in Furness
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Larch on Oak
 engine_installations: []
 for_sales:
 - asking_price: 15000
 home_country: GBR
 home_port: Royal Quays Marina, North Shields, Newcastle upon Tyne
 hull_form: long keel deep forefoot
-id: 6902fc91-eb99-4bee-b861-4fd86f89d514
-length_on_deck: 7.9248
-spar_material: wood
 callsign: ''
 ownerships:
 - name: Gordon Bell
@@ -37,15 +38,15 @@ ownerships:
   member: 6396
   current: true
   start: '?'
-place_built: Barrow in Furness
-updated_at: '2021-12-19T13:39:50.285644+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1950
-year_is_approximate: false
+id: 6902fc91-eb99-4bee-b861-4fd86f89d514
 previous_names:
 - Mistral
 image_key: 2KfnfP
-construction_details: Larch on Oak
+thumb: https://photos.smugmug.com/photos/i-DbcNs5G/0/Th/i-DbcNs5G-Th.jpg
+draft: 1.3716
+length_on_deck: 7.9248
 beam: 0
 for_sale_state:
   text: not_for_sale

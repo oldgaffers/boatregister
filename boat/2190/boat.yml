@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Memory Class built by Salterns Boatbuilders in 1996.</p>
 full_description: ''
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 1997
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Bursledon
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Hamble
+hull_form: unknown
+sail_number: '129'
+callsign: ''
+ownerships:
+- name: Terry Collins
+  share: 64
+  start: 1997
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 5f534f2c-4e7e-4720-9fb0-1a8f27df797a
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -31,23 +47,7 @@ handicap_data:
   fore_triangle_base: 2.8194342843208973
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 4.57205559619605
-home_country: 'null'
-home_port: Hamble
-hull_form: unknown
-id: 5f534f2c-4e7e-4720-9fb0-1a8f27df797a
 length_on_deck: 5.7912
-sail_number: '129'
-callsign: ''
-ownerships:
-- name: Terry Collins
-  share: 64
-  start: 1997
-place_built: Bursledon
-updated_at: '2021-12-19T13:39:31.773131+00:00'
-website: ''
-year: 1997
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

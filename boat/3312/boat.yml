@@ -8,17 +8,38 @@ short_description: <p>&#39;Summer&#39; is an open sail and oar lugger that can b
 full_description: <p>Designed and built in 2016 by John Owles, &#39;Summer&#39; is
   epoxy glued lapstrake 8mm plywood on 2&quot; iroko keel and hog. She has a laminated
   mahogany stem, iroko transom, gunwales, rubbing strakes, thwarts and trim.</p>
-builder:
-  name: John Owles
-  id: 9f08d637-12ef-4642-b7ec-7dcc9bb241e3
+year: 2016
+year_is_approximate: false
 designer:
   name: John Owles
   id: 3592352f-bfa1-4eb3-97e0-c727ae2cc499
+builder:
+  name: John Owles
+  id: 9f08d637-12ef-4642-b7ec-7dcc9bb241e3
+place_built: Cornwall and N Norfolk
 construction_material: plywood
 construction_method: unknown
-draft: 0.1768
+construction_details: Epoxy glued plywood on iroko keel and hog.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: John Owles
+  share: 64
+  start: 2016
+- share: 64
+  member: 6081
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 40e48b28-0969-4202-9fb2-842c55366bfa
+image_key: RbsN9P
+thumb: https://photos.smugmug.com/photos/i-Rx8Zscx/0/Th/i-Rx8Zscx-Th.jpg
+draft: 0.1768
 handicap_data:
   main:
     foot: 8.59
@@ -34,27 +55,7 @@ handicap_data:
   fore_triangle_base: 1.2741
   length_on_waterline: 3.9289
   fore_triangle_height: 3.4595
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: 40e48b28-0969-4202-9fb2-842c55366bfa
 length_on_deck: 4.572
-callsign: ''
-ownerships:
-- name: John Owles
-  share: 64
-  start: 2016
-- share: 64
-  member: 6081
-  current: true
-  start: '?'
-place_built: Cornwall and N Norfolk
-updated_at: '2021-12-19T13:40:07.277629+00:00'
-website: ''
-year: 2016
-year_is_approximate: false
-image_key: RbsN9P
-construction_details: Epoxy glued plywood on iroko keel and hog.
 beam: 1.524
 for_sale_state:
   text: not_for_sale

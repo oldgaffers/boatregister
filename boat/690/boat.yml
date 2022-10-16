@@ -11,29 +11,25 @@ full_description: '<p><em>Gweneth</em> was built in 1911 at Woolston and is beli
 
   <p>Re-located to the East Coast in 1991 and undergoing a slow restoration, which
   has been speeded up in 2019 with her 110th anniversary approaching..</p>'
-builder:
-  name: Dixon Bros and Hutchinson
-  id: c43fe220-ef0c-48f5-8ca1-0f1b8e7dda1c
+year: 1911
+year_is_approximate: false
 designer:
   name: R.B. Fife
   id: bdcfff6e-230b-48f0-a0fd-a2db4cb78579
+builder:
+  name: Dixon Bros and Hutchinson
+  id: c43fe220-ef0c-48f5-8ca1-0f1b8e7dda1c
+place_built: Woolston
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.2954
+construction_details: Pitch Pine & Mahogany on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.3378444281882467
-  draft: 1.2954157522555474
-  length_over_all: 9.698853938063886
-  length_on_waterline: 7.620092660326749
 home_country: GBR
 home_port: Pin Mill
 hull_form: long keel sloping forefoot
-id: da850719-5c1d-4f17-8d51-fcb7fe8bb76e
-length_on_deck: 9.7018
 sail_number: '690'
-spar_material: wood
 uk_part1: 131787 (cancelled in 1950s)
 callsign: ''
 ownerships:
@@ -99,13 +95,18 @@ ownerships:
   start: 1991
   member: 2708
   current: true
-place_built: Woolston
-updated_at: '2022-02-19T10:10:13.496821+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1911
-year_is_approximate: false
+id: da850719-5c1d-4f17-8d51-fcb7fe8bb76e
 image_key: 2Kn4Ts
-construction_details: Pitch Pine & Mahogany on oak
+thumb: https://photos.smugmug.com/photos/i-nJZrkV4/0/Th/i-nJZrkV4-Th.png
+draft: 1.2954
+handicap_data:
+  beam: 2.3378444281882467
+  draft: 1.2954157522555474
+  length_over_all: 9.698853938063886
+  length_on_waterline: 7.620092660326749
+length_on_deck: 9.7018
 beam: 2.3378
 for_sale_state:
   text: not_for_sale

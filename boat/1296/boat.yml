@@ -18,28 +18,24 @@ full_description: "'Nyala' was commissioned by F.P.Culbert for use in a film, an
   \ Paimpol, Brittany, and had been classified as a Patrimonial INterest Boat (BIP)\
   \ by the French official Association \"Patrimoine Maritime et Fluvial\".\r\n\r\n\
   \r\nMost of the information can be read in the Classic Boat articles"
-builder:
-  name: Everson A. and Sons
-  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+year: 1933
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+place_built: Woodbridge
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel pitch pine on American Elm
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.2004389173372347
-  draft: 1.3716166788588149
-  length_over_all: 10.515727871250913
-  length_on_waterline: 8.83930748597903
 home_country: FRA
 home_port: Paimpol, Brittany
 hull_form: long keel deep forefoot
-id: cd231e9d-c73b-47b2-adad-6b8677ac6dfd
-length_on_deck: 10.5156
-spar_material: wood
 uk_part1: '165445'
 callsign: ''
 ownerships:
@@ -54,13 +50,18 @@ ownerships:
   member: 6218
   start_is_approximate: true
   current: true
-place_built: Woodbridge
-updated_at: '2022-02-12T19:55:18.267988+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1933
-year_is_approximate: false
+id: cd231e9d-c73b-47b2-adad-6b8677ac6dfd
 image_key: bGVQLZ
-construction_details: Carvel pitch pine on American Elm
+thumb: https://photos.smugmug.com/photos/i-jk8zwD6/0/Th/i-jk8zwD6-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 3.2004389173372347
+  draft: 1.3716166788588149
+  length_over_all: 10.515727871250913
+  length_on_waterline: 8.83930748597903
+length_on_deck: 10.5156
 beam: 3.2004
 for_sale_state:
   text: not_for_sale

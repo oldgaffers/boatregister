@@ -5,17 +5,36 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Courtney and Birkett
-  id: eb10aa23-c124-41d1-b608-9b0ebec1b5b0
+year: 1899
+year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+builder:
+  name: Courtney and Birkett
+  id: eb10aa23-c124-41d1-b608-9b0ebec1b5b0
+place_built: Southwick Sussex
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel teak on teak construction
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 5
+  share: 64
+  start: 1964
+  member: 74
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 645e60df-3800-4b1a-8885-ee44de0f5a29
+previous_names:
+- Imogen
+draft: 1.3716
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -31,26 +50,7 @@ handicap_data:
   fore_triangle_base: 3.2004389173372347
   length_on_waterline: 6.4008778346744695
   fore_triangle_height: 5.715069495245062
-home_country: GBR
-home_port: ''
-hull_form: unknown
-id: 645e60df-3800-4b1a-8885-ee44de0f5a29
 length_on_deck: 6.858
-callsign: ''
-ownerships:
-- id: 5
-  share: 64
-  start: 1964
-  member: 74
-  current: true
-place_built: Southwick Sussex
-updated_at: '2021-12-19T13:38:35.374676+00:00'
-website: ''
-year: 1899
-year_is_approximate: false
-previous_names:
-- Imogen
-construction_details: Carvel teak on teak construction
 beam: 2.286
 for_sale_state:
   text: not_for_sale

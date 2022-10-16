@@ -7,27 +7,25 @@ short_description: <p>Moorhen is a replica Galway Hooker &#39;a piece of Irish t
   with a Dutch touch&#39;, launched in 1996 by her builder, Rik Janssen and built
   in wood epoxy.</p>
 full_description: ''
-builder:
-  name: Rik Janssen
-  id: 8e55c71e-27db-404f-a0d1-208724d4c21a
+year: 1996
+year_is_approximate: false
 designer:
   name: Joe Murphy
   id: 10beb09b-eb0e-4aa4-9e1a-a397a05ee9f2
+builder:
+  name: Rik Janssen
+  id: 8e55c71e-27db-404f-a0d1-208724d4c21a
+place_built: Amsterdam
 construction_material: woodepoxy
+spar_material: wood
 construction_method: carvel
-draft: 0
+construction_details: Larch on oak, epoxy sheathed
 engine_installations: []
 for_sales:
 - asking_price: 0
-handicap_data:
-  beam: 3.2004389173372347
-  length_over_all: 10.66812972445745
 home_country: NLD
 home_port: Ursem
 hull_form: long keel deep forefoot
-id: 40232f93-94a8-439b-8756-0081038f4811
-length_on_deck: 10.668
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2018
@@ -39,13 +37,16 @@ ownerships:
   member: 5945
   current: true
   start: '?'
-place_built: Amsterdam
-updated_at: '2021-12-19T13:39:48.504882+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1996
-year_is_approximate: false
+id: 40232f93-94a8-439b-8756-0081038f4811
 image_key: JWSSx6
-construction_details: Larch on oak, epoxy sheathed
+thumb: https://photos.smugmug.com/photos/i-ZWpwrBJ/0/Th/i-ZWpwrBJ-Th.jpg
+draft: 0
+handicap_data:
+  beam: 3.2004389173372347
+  length_over_all: 10.66812972445745
+length_on_deck: 10.668
 beam: 3.2004
 for_sale_state:
   text: not_for_sale

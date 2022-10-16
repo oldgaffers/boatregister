@@ -5,17 +5,37 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Riverside Products
-  id: 8da79f02-528e-42f6-8900-cad9b84a0021
+year: 1979
+year_is_approximate: false
 designer:
   name: R. Warrington-Smythe
   id: 408e82d2-b5f0-4aa3-bbee-c4d4b18f6213
+builder:
+  name: Riverside Products
+  id: 8da79f02-528e-42f6-8900-cad9b84a0021
+place_built: Penryn
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3048
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '1437'
+callsign: ''
+ownerships:
+- name: Chris White
+  share: 64
+  start: 1989
+- share: 64
+  member: 1437
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b5679c2f-8f31-40b7-aa89-1ca29a4d768c
+draft: 0.3048
 handicap_data:
   beam: 1.777005608388198
   main:
@@ -30,27 +50,7 @@ handicap_data:
   fore_triangle_base: 1.8288222384784198
   length_on_waterline: 3.6576444769568397
   fore_triangle_height: 3.0480370641306997
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: b5679c2f-8f31-40b7-aa89-1ca29a4d768c
 length_on_deck: 4.825
-sail_number: '1437'
-callsign: ''
-ownerships:
-- name: Chris White
-  share: 64
-  start: 1989
-- share: 64
-  member: 1437
-  current: true
-  start: '?'
-place_built: Penryn
-updated_at: '2021-12-19T13:39:11.319125+00:00'
-website: ''
-year: 1979
-year_is_approximate: false
-construction_details: GRP
 beam: 1.777
 for_sale_state:
   text: not_for_sale

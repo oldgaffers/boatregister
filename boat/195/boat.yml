@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 70/2 Log 69/4
-builder:
-  name: J, Bolson and Sons
-  id: 667cef56-4ef3-4046-ac62-fa3269a97a4b
+year: 1938
+year_is_approximate: false
 designer:
   name: Bolson
   id: 4efad424-bcba-4ef6-bc93-c5a1373ae7c4
+builder:
+  name: J, Bolson and Sons
+  id: 667cef56-4ef3-4046-ac62-fa3269a97a4b
+place_built: Poole
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
+construction_details: American Elm planking on Oak timbers, copper fastened
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.0726652036088757
-  draft: 1.21921482565228
-  length_over_all: 5.9436722750548645
-  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: ec4b1c3d-e1b6-4f2a-9d2b-9f25dd4a8f83
-length_on_deck: 5.9436
 reference:
 - Log 70/2
 - Log 69/4
@@ -34,12 +30,16 @@ ownerships:
 - name: R Norrish
   share: 64
   start: 2012
-place_built: Poole
-updated_at: '2021-12-19T13:38:35.242902+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1938
-year_is_approximate: false
-construction_details: American Elm planking on Oak timbers, copper fastened
+id: ec4b1c3d-e1b6-4f2a-9d2b-9f25dd4a8f83
+draft: 1.2192
+handicap_data:
+  beam: 2.0726652036088757
+  draft: 1.21921482565228
+  length_over_all: 5.9436722750548645
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 5.9436
 beam: 2.0726
 for_sale_state:
   text: not_for_sale

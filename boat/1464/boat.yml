@@ -5,17 +5,39 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: John Tyrell and Sons
-  id: 4be67a9f-dcba-45c6-92fd-0d1908dea03b
+year: 1925
+year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+builder:
+  name: John Tyrell and Sons
+  id: 4be67a9f-dcba-45c6-92fd-0d1908dea03b
+place_built: Arklow
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel pitch pine on oak with a canoe stern
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Woodbridge
+hull_form: long keel deep forefoot
+uk_part1: '146425'
+callsign: ''
+ownerships:
+- id: 131
+  share: 64
+  start: 1988
+  member: 2224
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f2897fb5-c8e3-4906-9ccc-f1f2b4820541
+previous_names:
+- Nirvana
+image_key: DsRV2M
+thumb: https://photos.smugmug.com/photos/i-sNZNvjD/0/Th/i-sNZNvjD-Th.jpg
+draft: 1.524
 handicap_data:
   beam: 2.6213118751524016
   main:
@@ -36,28 +58,7 @@ handicap_data:
   fore_triangle_base: 5.257863935625457
   length_on_waterline: 8.22970007315289
   fore_triangle_height: 9.1441111923921
-home_country: GBR
-home_port: Woodbridge
-hull_form: long keel deep forefoot
-id: f2897fb5-c8e3-4906-9ccc-f1f2b4820541
 length_on_deck: 10.8966
-uk_part1: '146425'
-callsign: ''
-ownerships:
-- id: 131
-  share: 64
-  start: 1988
-  member: 2224
-  current: true
-place_built: Arklow
-updated_at: '2021-12-19T13:39:12.112648+00:00'
-website: ''
-year: 1925
-year_is_approximate: false
-previous_names:
-- Nirvana
-image_key: DsRV2M
-construction_details: Carvel pitch pine on oak with a canoe stern
 beam: 2.6152
 for_sale_state:
   text: not_for_sale

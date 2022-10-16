@@ -5,17 +5,40 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Vic Angove
-  id: 1f753347-e44e-40db-82ec-21f85a8dc451
+year: 1986
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: Vic Angove
+  id: 1f753347-e44e-40db-82ec-21f85a8dc451
+place_built: Penryn
 construction_material: wood
 construction_method: carvel
-draft: 1.4722
+construction_details: 'Carvel iroko planking on oak '
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Falmouth
+hull_form: long keel deep forefoot
+sail_number: '1445'
+ssr: '462447'
+callsign: ''
+ownerships:
+- end: 2010
+  name: Joff Rorke
+  share: 64
+  start: 2004
+- id: 388
+  share: 64
+  member: 4143
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e651800d-b4bb-430c-9b1c-b924f7801230
+draft: 1.4722
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -33,30 +56,7 @@ handicap_data:
   fore_triangle_base: 5.992440868080956
   length_on_waterline: 8.177883443062667
   fore_triangle_height: 10.387710314557424
-home_country: GBR
-home_port: Falmouth
-hull_form: long keel deep forefoot
-id: e651800d-b4bb-430c-9b1c-b924f7801230
 length_on_deck: 8.51
-sail_number: '1445'
-ssr: '462447'
-callsign: ''
-ownerships:
-- end: 2010
-  name: Joff Rorke
-  share: 64
-  start: 2004
-- id: 388
-  share: 64
-  member: 4143
-  current: true
-  start: '?'
-place_built: Penryn
-updated_at: '2021-12-19T13:39:11.576398+00:00'
-website: ''
-year: 1986
-year_is_approximate: false
-construction_details: 'Carvel iroko planking on oak '
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

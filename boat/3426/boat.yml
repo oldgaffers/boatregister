@@ -10,32 +10,25 @@ full_description: "<p>9Nick Henshall commisioned the hull build after recovering
   \ owner saw her there in in a neglected state in April 2019 and spent 3 months restoring\
   \ her, before relaunching in July 2019.</p>\r\n\r\n<p>&nbsp;She will require some\
   \ further input for solo sailing for which UK Rigging Penryn and a friend will advise</p>"
-builder:
-  name: Buccaneer Boats
-  id: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
+year: 2005
+year_is_approximate: false
 designer:
   name: Judd Varley
   id: 18067660-4c29-42b2-9894-e32cd213a3f7
+builder:
+  name: Buccaneer Boats
+  id: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
+place_built: Cambourne and Newlyn
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.3198
+construction_details: Moulded GRP hull, cabin, and forehatch plinth. Wooden deck beams,
+  rudder, dog house
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 14
-    head: 11
-    luff: 18
-  sailarea: 7
-  length_overall: 6.0442
-  length_over_spars: 8.4064
-  length_on_waterline: 5.715
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 6afb5acf-bd0e-4cf8-9292-12907889ef97
-length_on_deck: 6.0442
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2009
@@ -54,18 +47,26 @@ ownerships:
 - id: 3
   share: 64
   start: 2021
-place_built: Cambourne and Newlyn
 updated_at: '2022-05-03T07:09:15.217732+00:00'
 website: ''
-year: 2005
-year_is_approximate: false
+id: 6afb5acf-bd0e-4cf8-9292-12907889ef97
 previous_names:
 - Jessie
 - Island Spirit
 - Zac
 image_key: wZgnC9
-construction_details: Moulded GRP hull, cabin, and forehatch plinth. Wooden deck beams,
-  rudder, dog house
+thumb: https://photos.smugmug.com/photos/i-2rHKrRK/0/Th/i-2rHKrRK-Th.jpg
+draft: 1.3198
+handicap_data:
+  main:
+    foot: 14
+    head: 11
+    luff: 18
+  sailarea: 7
+  length_overall: 6.0442
+  length_over_spars: 8.4064
+  length_on_waterline: 5.715
+length_on_deck: 6.0442
 beam: 2.4902
 for_sale_state:
   text: not_for_sale

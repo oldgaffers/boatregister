@@ -6,16 +6,36 @@ mainsail_type: gaff
 short_description: <p>SehnSucht is a gaff rigged Finesse 24.</p>
 full_description: Sehnsucht is a Finesse 24 built of iroko on green oak, and fitted
   out in mahogany
-builder:
-  name: Alan F. Platt  Ltd
-  id: 954dc050-837f-454f-be87-830d8cf00c2b
+year: 1993
+year_is_approximate: false
 designer:
   name: L. Harbottell/A. Platt
   id: 0c6a85ba-b4aa-4907-aa78-43936ca3eb9b
+builder:
+  name: Alan F. Platt  Ltd
+  id: 954dc050-837f-454f-be87-830d8cf00c2b
+place_built: Thundersley, Essex
 construction_material: wood
+spar_material: wood
 construction_method: clinker
 engine_installations: []
 for_sales: []
+home_country: United Kingdom
+home_port: Amble
+hull_form: long keel deep forefoot
+ownerships:
+- id: 875
+  share: 64
+  member: 5984
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9d2e8e30-159b-4715-895e-48f41627c259
+previous_names:
+- Emma and Kate
+image_key: cStRtC
+thumb: https://photos.smugmug.com/photos/i-RTFgsvz/0/Th/i-RTFgsvz-Th.jpg
 handicap_data:
   main:
     foot: 14
@@ -29,26 +49,7 @@ handicap_data:
   fore_triangle_base: 3.81
   length_on_waterline: 6.477
   fore_triangle_height: 7.3152
-home_country: United Kingdom
-home_port: Amble
-hull_form: long keel deep forefoot
-id: 9d2e8e30-159b-4715-895e-48f41627c259
 length_on_deck: 7.3152
-spar_material: wood
-ownerships:
-- id: 875
-  share: 64
-  member: 5984
-  current: true
-  start: '?'
-place_built: Thundersley, Essex
-updated_at: '2022-02-14T11:04:40.382535+00:00'
-website: ''
-year: 1993
-year_is_approximate: false
-previous_names:
-- Emma and Kate
-image_key: cStRtC
 beam: 2.4384
 design_class:
   name: Finesse 24

@@ -17,17 +17,40 @@ full_description: "<p>&lsquo;Witch&rsquo; is a 36&#39; auxiliary gaff cutter bui
   \ saved from being broken up by Colin and Cary Marsh in 1971 and was moored in Yarmouth\
   \ Harbour at the western end of the Isle of Wight until 2006.</span> All her previous\
   \ owners are known from records on the Lloyds Register of Yachts.</p>"
-builder:
-  name: Charles Sibbick and Co
-  id: 3b623161-dc07-46fc-96b1-98e7ad47b431
+year: 1902
+year_is_approximate: false
 designer:
   name: Charles Sibbick
   id: a5468014-9c00-4985-85ca-f3115f1fc4f7
+builder:
+  name: Charles Sibbick and Co
+  id: 3b623161-dc07-46fc-96b1-98e7ad47b431
+place_built: Cowes IoW
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Pine on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Chichester
+hull_form: unknown
+uk_part1: '129009'
+callsign: ''
+ownerships:
+- end: 2006
+  name: Colin Marsh
+  share: 64
+  start: 1971
+- end: 2016
+  name: Martin Nott
+  share: 64
+  start: 2006
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://www.witch1902.co.uk/
+id: 2371a9d0-b115-45c2-beac-edc78ddc27b9
+image_key: CWRt8n
+thumb: https://photos.smugmug.com/photos/i-z25GFqK/0/Th/i-z25GFqK-Th.jpg
+draft: 0
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -42,29 +65,7 @@ handicap_data:
   length_over_all: 10.972933430870519
   fore_triangle_base: 5.7912704218483295
   fore_triangle_height: 10.972933430870519
-home_country: GBR
-home_port: Chichester
-hull_form: unknown
-id: 2371a9d0-b115-45c2-beac-edc78ddc27b9
 length_on_deck: 10.9728
-uk_part1: '129009'
-callsign: ''
-ownerships:
-- end: 2006
-  name: Colin Marsh
-  share: 64
-  start: 1971
-- end: 2016
-  name: Martin Nott
-  share: 64
-  start: 2006
-place_built: Cowes IoW
-updated_at: '2021-12-19T13:39:49.272379+00:00'
-website: http://www.witch1902.co.uk/
-year: 1902
-year_is_approximate: false
-image_key: CWRt8n
-construction_details: Pine on oak
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

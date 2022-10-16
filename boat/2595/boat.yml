@@ -9,17 +9,43 @@ full_description: <p>Ivy Green is a 35ft gaff cutter, designed by <a href="http:
   target="_blank">Ed Burnett</a>, built by the <a href="http://www.elephantboatyard.co.uk/index.html"
   target="_blank">Elephant Boatyard</a> and launched in 2003. She spent 10 years on
   the East Coast, before returning to the Solent in late 2014.</p>
-builder:
-  name: Elephant Boatyard Ltd.
-  id: 1108b354-a34d-4097-b09a-8910c74bc841
+year: 2003
+year_is_approximate: false
 designer:
   name: Ed Burnett
   id: ec954b97-b4e7-4203-a28c-7d85278bf748
+builder:
+  name: Elephant Boatyard Ltd.
+  id: 1108b354-a34d-4097-b09a-8910c74bc841
+place_built: Bursledon
 construction_material: woodepoxy
+spar_material: wood
 construction_method: unknown
-draft: 1.7282
+construction_details: Wood epoxy
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bursledon, River Hamble
+hull_form: long keel sloping forefoot
+sail_number: EB6
+uk_part1: '404790'
+callsign: VSLR8
+ownerships:
+- end: 2014
+  name: Jeremy Dumas
+  share: 64
+  start: 2003
+- id: 827
+  share: 64
+  start: 2014
+  member: 5899
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ivygreen.me.uk
+id: 42143b20-fd07-4571-ac38-e842ebd31899
+image_key: NrR7R5
+thumb: https://photos.smugmug.com/photos/i-M3xf5Jt/0/Th/i-M3xf5Jt-Th.jpg
+draft: 1.7282
 handicap_data:
   beam: 3.2600396470373076
   main:
@@ -39,32 +65,7 @@ handicap_data:
   fore_triangle_base: 6.450078442757864
   length_on_waterline: 9.450114927761522
   fore_triangle_height: 12.60015323701536
-home_country: GBR
-home_port: Bursledon, River Hamble
-hull_form: long keel sloping forefoot
-id: 42143b20-fd07-4571-ac38-e842ebd31899
 length_on_deck: 10.5918
-sail_number: EB6
-spar_material: wood
-uk_part1: '404790'
-callsign: VSLR8
-ownerships:
-- end: 2014
-  name: Jeremy Dumas
-  share: 64
-  start: 2003
-- id: 827
-  share: 64
-  start: 2014
-  member: 5899
-  current: true
-place_built: Bursledon
-updated_at: '2022-02-26T21:40:10.200013+00:00'
-website: ivygreen.me.uk
-year: 2003
-year_is_approximate: false
-image_key: NrR7R5
-construction_details: Wood epoxy
 beam: 3.2522
 design_class:
   name: Ivy

@@ -7,25 +7,21 @@ short_description: <p>Usquebaugh was built i9n 1988.She has a glassfibre hull wi
   wooden fittings. She was based on a traditional hull form but stretched to 24ft
   giving her a raked stem and transom.</p>
 full_description: ''
-builder:
-  name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+year: 1978
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  length_over_all: 7.315288953913679
 home_country: 'null'
 home_port: Christchurch
 hull_form: long keel deep forefoot
-id: bb6cb3ad-93a7-419c-8d31-14194475b70e
-length_on_deck: 7.3152
 callsign: ''
 ownerships:
 - id: 330
@@ -33,10 +29,14 @@ ownerships:
   start: 2012
   member: 3825
   current: true
-updated_at: '2021-12-19T13:39:36.23239+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1978
-year_is_approximate: false
+id: bb6cb3ad-93a7-419c-8d31-14194475b70e
+draft: 0
+handicap_data:
+  beam: 2.43842965130456
+  length_over_all: 7.315288953913679
+length_on_deck: 7.3152
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

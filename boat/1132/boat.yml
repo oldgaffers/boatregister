@@ -11,14 +11,35 @@ full_description: "<p>Built in 1914 for the Osbourne family to cockle out of Lei
   \ Simper purchased her in 2001 and carried out a major re-build in 2008-9 replacing\
   \ 70% of the structure of the vessel. She has been written up in many of his father\
   \ Robert Simper&#39;s books and used in film work. She has cruised as far as Calais.</p>"
+year: 1914
+year_is_approximate: false
 builder:
   name: Howard and Sons
   id: 8f1dabb4-3313-4be4-9af4-5f6b76d22f92
+place_built: Southend on Sea
 construction_material: wood
 construction_method: carvel
-draft: 0.8626
+construction_details: Larch and Pitch Pine on oak Carvel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Woodbridge
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2001
+  name: Colin Fox
+  share: 64
+  start: 1981
+- name: Jonathan Simper
+  share: 64
+  start: 2001
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fb8143bc-39ea-4db3-a9a4-c4f5dd908618
+image_key: HP6VkC
+thumb: https://photos.smugmug.com/photos/i-rLKcJ4n/0/Th/i-rLKcJ4n-Th.jpg
+draft: 0.8626
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -33,27 +54,7 @@ handicap_data:
   length_over_all: 10.36332601804438
   length_over_spars: 15.849792733479639
   length_on_waterline: 10.2109363569861
-home_country: GBR
-home_port: Woodbridge
-hull_form: long keel deep forefoot
-id: fb8143bc-39ea-4db3-a9a4-c4f5dd908618
 length_on_deck: 10.3632
-callsign: ''
-ownerships:
-- end: 2001
-  name: Colin Fox
-  share: 64
-  start: 1981
-- name: Jonathan Simper
-  share: 64
-  start: 2001
-place_built: Southend on Sea
-updated_at: '2021-12-19T13:39:02.44688+00:00'
-website: ''
-year: 1914
-year_is_approximate: false
-image_key: HP6VkC
-construction_details: Larch and Pitch Pine on oak Carvel
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

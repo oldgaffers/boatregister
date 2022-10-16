@@ -6,28 +6,23 @@ mainsail_type: gaff
 short_description: Janty was built in 1939 but registered in 1948, so she probably
   spent the war sitting on the hard.
 full_description: ''
-builder:
-  name: Claude Whisstock
-  id: 14a939d0-e062-4e1d-9e21-c1ec89fef573
+year: 1939
+year_is_approximate: false
 designer:
   name: William Maxwell Blake
   id: 7be4728c-aec1-4b98-9245-33fa05964add
+builder:
+  name: Claude Whisstock
+  id: 14a939d0-e062-4e1d-9e21-c1ec89fef573
+place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.2098268714947573
-  draft: 1.066812972445745
-  length_over_all: 6.858083394294074
-  length_over_spars: 8.22970007315289
-  length_on_waterline: 5.9436722750548645
 home_country: GBR
 home_port: Newhaven, East Sussex
 hull_form: long keel sloping forefoot
-id: 61a52747-df26-4905-be9b-ec81acbb2259
-length_on_deck: 6.858
 uk_part1: '166967'
 callsign: ''
 ownerships:
@@ -44,13 +39,19 @@ ownerships:
   start: 2015
   member: 6049
   current: true
-place_built: Woodbridge
-updated_at: '2021-12-19T13:38:58.739415+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1939
-year_is_approximate: false
+id: 61a52747-df26-4905-be9b-ec81acbb2259
 image_key: RgFPxW
-construction_details: Pitch pine on oak
+thumb: https://photos.smugmug.com/photos/i-fL5bWKC/0/Th/i-fL5bWKC-Th.jpg
+draft: 1.0668
+handicap_data:
+  beam: 2.2098268714947573
+  draft: 1.066812972445745
+  length_over_all: 6.858083394294074
+  length_over_spars: 8.22970007315289
+  length_on_waterline: 5.9436722750548645
+length_on_deck: 6.858
 beam: 2.2098
 design_class:
   name: Deben 4 Ton

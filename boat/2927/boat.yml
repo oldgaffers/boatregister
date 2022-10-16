@@ -5,17 +5,32 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Home Built
-builder:
-  name: Denis Campbell
-  id: a4c27bff-bf22-4f29-8518-7bfba8a65bf2
+year: 2000
+year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+builder:
+  name: Denis Campbell
+  id: a4c27bff-bf22-4f29-8518-7bfba8a65bf2
+place_built: Gloustershire
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Ply stitch and tape
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Kerry
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Denis Campbell
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0fdfd5af-4024-4ece-b5a4-517e1f45f524
+draft: 0
 handicap_data:
   beam: 1.7282370153621067
   main:
@@ -29,22 +44,7 @@ handicap_data:
   fore_triangle_base: 1.5240185320653499
   length_on_waterline: 3.9624481833699097
   fore_triangle_height: 3.9014874420872956
-home_country: 'null'
-home_port: Kerry
-hull_form: unknown
-id: 0fdfd5af-4024-4ece-b5a4-517e1f45f524
 length_on_deck: 4.8768
-callsign: ''
-ownerships:
-- name: Denis Campbell
-  share: 64
-  start: 2012
-place_built: Gloustershire
-updated_at: '2021-12-19T13:39:53.586195+00:00'
-website: ''
-year: 2000
-year_is_approximate: false
-construction_details: Ply stitch and tape
 beam: 1.7282
 design_class:
   name: Petit Brize

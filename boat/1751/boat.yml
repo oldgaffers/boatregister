@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Roger Dongray
-  id: 8c8f4bfb-f723-4dba-99de-5bddb3e8a575
+year: 1991
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Roger Dongray
+  id: 8c8f4bfb-f723-4dba-99de-5bddb3e8a575
+place_built: Lostwithiel
 construction_material: wood
 construction_method: unknown
-draft: 0.4816
+construction_details: Wood west epoxy
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '10'
+callsign: ''
+ownerships:
+- name: R Dongray
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1b5d2f83-1007-4d35-b79c-b750cb4ef33f
+draft: 0.4816
 handicap_data:
   beam: 2.1854425749817117
   main:
@@ -28,23 +44,7 @@ handicap_data:
   fore_triangle_base: 2.539014874420873
   length_on_waterline: 5.334064862228725
   fore_triangle_height: 4.648256522799317
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 1b5d2f83-1007-4d35-b79c-b750cb4ef33f
 length_on_deck: 5.8674
-sail_number: '10'
-callsign: ''
-ownerships:
-- name: R Dongray
-  share: 64
-  start: 2012
-place_built: Lostwithiel
-updated_at: '2021-12-19T13:39:19.342633+00:00'
-website: ''
-year: 1991
-year_is_approximate: false
-construction_details: Wood west epoxy
 beam: 2.1854
 for_sale_state:
   text: not_for_sale

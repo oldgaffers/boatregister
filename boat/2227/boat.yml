@@ -5,14 +5,29 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: Final version of whaler derived from the 27 foot Montague whaler
+year: 1949
+year_is_approximate: false
 builder:
   name: H M Dockyard/Halmatic
   id: 0b9bf74b-4b8e-40bf-a551-23c516997d6c
+place_built: Portsmouth
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.4054
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Gosport
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Dominic Loughborough
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 07d8a53d-b8cc-4dbd-99ee-95df42227a45
+draft: 0.4054
 handicap_data:
   beam: 2.2098268714947573
   main:
@@ -29,22 +44,7 @@ handicap_data:
   fore_triangle_base: 2.590831504511095
   length_on_waterline: 7.519507437210437
   fore_triangle_height: 6.4008778346744695
-home_country: 'null'
-home_port: Gosport
-hull_form: long keel deep forefoot
-id: 07d8a53d-b8cc-4dbd-99ee-95df42227a45
 length_on_deck: 8.2296
-callsign: ''
-ownerships:
-- name: Dominic Loughborough
-  share: 64
-  start: 2012
-place_built: Portsmouth
-updated_at: '2021-12-19T13:39:32.801377+00:00'
-website: ''
-year: 1949
-year_is_approximate: false
-construction_details: GRP
 beam: 2.2098
 for_sale_state:
   text: not_for_sale

@@ -15,38 +15,21 @@ full_description: "<p>Thalia, built in 1888, was one of the last yachts by Georg
   \ by David Aisher in 2010, she returned to England for a refit at the Elephant Boatyard.\
   \ A new mast was fitted with new standing and running rigging and sails. She was\
   \ also re ballasted and rewired and replumbed.&nbsp;</p>"
+year: 1888
+year_is_approximate: false
 builder:
   name: G.F. Wanhill
   id: 69ada10f-4a24-4f01-a338-9f028178e5c0
+place_built: Poole
 construction_material: wood
 construction_method: unknown
-draft: 1.7282
+construction_details: Elm below, pitch pine above on grown oak, bronze fastened and
+  part copper sheathed.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.6068641794684217
-  main:
-    foot: 8.22970007315289
-    head: 5.334077054376981
-    luff: 6.4008778346744695
-  thcf: 1.097
-  draft: 1.7272372592050718
-  topsail:
-    luff: 4.26725188978298
-    perpendicular: 3.6576444769568397
-  sailarea: 93.93159949838162
-  propellor:
-    type: fixed
-  length_over_all: 13.716166788588149
-  length_over_spars: 18.593026091197267
-  fore_triangle_base: 8.22970007315289
-  length_on_waterline: 11.887344550109729
-  fore_triangle_height: 9.1441111923921
 home_country: GBR
 home_port: Hamble
 hull_form: long keel deep forefoot
-id: fd6e2ec4-ba52-4a12-9a31-767377b9773b
-length_on_deck: 13.716
 sail_number: '11'
 ssr: '82443'
 callsign: MYYE
@@ -76,14 +59,32 @@ ownerships:
   start: 2010
   member: 5371
   current: true
-place_built: Poole
-updated_at: '2021-12-19T13:38:29.981938+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1888
-year_is_approximate: false
+id: fd6e2ec4-ba52-4a12-9a31-767377b9773b
 image_key: hbkT8f
-construction_details: Elm below, pitch pine above on grown oak, bronze fastened and
-  part copper sheathed.
+thumb: https://photos.smugmug.com/photos/i-FWdcJQN/0/Th/i-FWdcJQN-Th.jpg
+draft: 1.7282
+handicap_data:
+  beam: 3.6068641794684217
+  main:
+    foot: 8.22970007315289
+    head: 5.334077054376981
+    luff: 6.4008778346744695
+  thcf: 1.097
+  draft: 1.7272372592050718
+  topsail:
+    luff: 4.26725188978298
+    perpendicular: 3.6576444769568397
+  sailarea: 93.93159949838162
+  propellor:
+    type: fixed
+  length_over_all: 13.716166788588149
+  length_over_spars: 18.593026091197267
+  fore_triangle_base: 8.22970007315289
+  length_on_waterline: 11.887344550109729
+  fore_triangle_height: 9.1441111923921
+length_on_deck: 13.716
 beam: 3.6058
 for_sale_state:
   text: not_for_sale

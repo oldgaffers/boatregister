@@ -10,41 +10,24 @@ short_description: <p>Emanuel was designed and built by Andrew Anderson &amp; So
 full_description: Emanuel has a well-documented history, dating back to 1928, apart
   from the period 1937 - 1980. Her current owners have undertaken a major restoration
   and researched her history, available for browsing on the boat's website.
-builder:
-  name: Anderson Andrew and Son
-  id: f59d3374-1f9d-4fc8-a587-a82439931445
+year: 1928
+year_is_approximate: false
 designer:
   name: Andrew Anderson
   id: 5c6e97d7-70dd-4611-9852-3c524014cf76
+builder:
+  name: Anderson Andrew and Son
+  id: f59d3374-1f9d-4fc8-a587-a82439931445
+place_built: Penarth (Dock Beach)
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel pitch pine and larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  main:
-    foot: 5.410265788831992
-    head: 4.495854669592782
-    luff: 4.44403803950256
-  thcf: 0.983
-  draft: 1.5240185320653499
-  topsail:
-    luff: 5.9436722750548645
-    perpendicular: 2.414045354791514
-  sailarea: 57.137602469529696
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.233479639112412
-  length_on_waterline: 7.620092660326749
-  fore_triangle_height: 9.982321385028042
 home_country: GBR
 home_port: Sandwich
 hull_form: long keel deep forefoot
-id: 68f41008-d518-4b27-9545-ccdeddd88097
-length_on_deck: 9.144
-spar_material: wood
 uk_part1: '111396'
 callsign: MKBU9
 ownerships:
@@ -66,13 +49,31 @@ ownerships:
   text: Robert and Jan Holden have had care of Emanuel since February
   start: 1980
   start_is_approximate: false
-place_built: Penarth (Dock Beach)
-updated_at: '2021-12-19T13:38:54.373175+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.yacht-emanuel.co.uk/index.html
-year: 1928
-year_is_approximate: false
+id: 68f41008-d518-4b27-9545-ccdeddd88097
 image_key: Qx8JSf
-construction_details: Carvel pitch pine and larch on oak
+thumb: https://photos.smugmug.com/photos/i-D24k3Q3/0/Th/i-D24k3Q3-Th.jpg
+draft: 1.524
+handicap_data:
+  beam: 2.590831504511095
+  main:
+    foot: 5.410265788831992
+    head: 4.495854669592782
+    luff: 4.44403803950256
+  thcf: 0.983
+  draft: 1.5240185320653499
+  topsail:
+    luff: 5.9436722750548645
+    perpendicular: 2.414045354791514
+  sailarea: 57.137602469529696
+  propellor:
+    type: fixed
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 5.233479639112412
+  length_on_waterline: 7.620092660326749
+  fore_triangle_height: 9.982321385028042
+length_on_deck: 9.144
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

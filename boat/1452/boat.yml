@@ -5,14 +5,30 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1992
+year_is_approximate: false
 builder:
   name: P.G. Fletcher
   id: 4a4941e2-f702-4b46-8165-9a2d0a5dcb16
+place_built: Guildford
 construction_material: ferro
 construction_method: unknown
-draft: 1.3716
+construction_details: Ferrocement
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+uk_part1: '721926'
+callsign: ''
+ownerships:
+- name: P G Fletcher
+  share: 64
+  start: 1991
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 5146c8fb-5d62-4148-84e4-04fb016679c5
+draft: 1.3716
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -30,23 +46,7 @@ handicap_data:
   fore_triangle_base: 6.4008778346744695
   length_on_waterline: 8.53450377956596
   fore_triangle_height: 7.062301877590832
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 5146c8fb-5d62-4148-84e4-04fb016679c5
 length_on_deck: 9.4488
-uk_part1: '721926'
-callsign: ''
-ownerships:
-- name: P G Fletcher
-  share: 64
-  start: 1991
-place_built: Guildford
-updated_at: '2021-12-19T13:39:11.733137+00:00'
-website: ''
-year: 1992
-year_is_approximate: false
-construction_details: Ferrocement
 beam: 3.048
 for_sale_state:
   text: not_for_sale

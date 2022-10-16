@@ -6,17 +6,34 @@ mainsail_type: gaff
 short_description: ''
 full_description: Log 79/3 then called Marion log 85/2 then called Colaba 1985 had
   a Kelvin petrol/parrafin engine
-builder:
-  name: John Hambly
-  id: 0d6fbec4-9420-4434-aa9c-435963dc8afb
+year: 1889
+year_is_approximate: false
 designer:
   name: J. Hambly
   id: 14c9c11e-683d-4250-bdba-c7e13afc05aa
+builder:
+  name: John Hambly
+  id: 0d6fbec4-9420-4434-aa9c-435963dc8afb
+place_built: Cardiff
 construction_material: wood
 construction_method: unknown
-draft: 2.3774
+construction_details: Larch on grown oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 79/3
+- Log 85/2
+uk_part1: '143507'
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1abb8a31-ebed-41c8-9136-28bfcdd887a9
+previous_names:
+- Marianne Marion Colaba
+draft: 2.3774
 handicap_data:
   beam: 3.9624481833699097
   draft: 2.3774689100219457
@@ -24,24 +41,7 @@ handicap_data:
     type: fixed
   length_over_all: 15.240185320653499
   length_on_waterline: 12.192148256522799
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 1abb8a31-ebed-41c8-9136-28bfcdd887a9
 length_on_deck: 15.24
-reference:
-- Log 79/3
-- Log 85/2
-uk_part1: '143507'
-callsign: ''
-place_built: Cardiff
-updated_at: '2021-03-26T07:56:05.870586+00:00'
-website: ''
-year: 1889
-year_is_approximate: false
-previous_names:
-- Marianne Marion Colaba
-construction_details: Larch on grown oak
 beam: 3.9624
 for_sale_state:
   text: not_for_sale

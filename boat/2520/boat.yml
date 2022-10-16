@@ -6,17 +6,32 @@ mainsail_type: gaff
 short_description: <p>An early Harrison Butler designed Yacht</p>
 full_description: Recent extensive overhaul, rig converted back to Gaff.  See extensive
   list of owners.
-builder:
-  name: Burt
-  id: cad9308b-745b-42ad-aa20-9743e27d7b8d
+year: 1914
+year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+builder:
+  name: Burt
+  id: cad9308b-745b-42ad-aa20-9743e27d7b8d
+place_built: Falmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.6246
+construction_details: Carvel Pitch Pine on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Martin Braint
+  share: 64
+  start: 1996
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2a840214-5875-40b3-9015-c5ca36eac6c8
+draft: 1.6246
 handicap_data:
   beam: 2.346988539380639
   main:
@@ -34,22 +49,7 @@ handicap_data:
   fore_triangle_base: 4.602535966837356
   length_on_waterline: 6.644720799804926
   fore_triangle_height: 7.802974884174591
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: 2a840214-5875-40b3-9015-c5ca36eac6c8
 length_on_deck: 8.5344
-callsign: ''
-ownerships:
-- name: Martin Braint
-  share: 64
-  start: 1996
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:41.586394+00:00'
-website: ''
-year: 1914
-year_is_approximate: false
-construction_details: Carvel Pitch Pine on oak
 beam: 2.3378
 for_sale_state:
   text: not_for_sale

@@ -5,18 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Luke Powell
-  id: a20d46df-5e22-4755-8a54-72a7b4d15efe
+year: 2008
+year_is_approximate: false
 designer:
   name: Luke Powell
   id: fb9a7691-8b98-42cc-9545-3248c2e161d0
+builder:
+  name: Luke Powell
+  id: a20d46df-5e22-4755-8a54-72a7b4d15efe
 construction_material: wood
 construction_method: carvel
-draft: 2.286
+construction_details: Carvel
 engine_installations: []
 for_sales:
 - asking_price: null
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Victor Bradley
+  share: 64
+  start: 2008
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: edcd2f40-193d-49e9-b4ee-b5e6c29c793c
+thumb: ''
+draft: 2.286
 handicap_data:
   beam: 3.9624481833699097
   main:
@@ -35,21 +50,7 @@ handicap_data:
   fore_triangle_base: 13.106559375762009
   length_on_waterline: 10.820531577663983
   fore_triangle_height: 11.430138990490123
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: edcd2f40-193d-49e9-b4ee-b5e6c29c793c
 length_on_deck: 13.4112
-callsign: ''
-ownerships:
-- name: Victor Bradley
-  share: 64
-  start: 2008
-updated_at: '2022-01-01T14:02:31.167291+00:00'
-website: ''
-year: 2008
-year_is_approximate: false
-construction_details: Carvel
 beam: 3.9624
 for_sale_state:
   text: not_for_sale

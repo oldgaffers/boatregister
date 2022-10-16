@@ -5,17 +5,41 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Crazy H is a Heard 35 but now rigged as a cutter.</p>
 full_description: ''
-builder:
-  name: Gaffers and Luggers
-  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+year: 2000
+year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+place_built: Mylor
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.9294
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Shoreham
+hull_form: long keel deep forefoot
+sail_number: GRB1065L
+callsign: ''
+ownerships:
+- name: Anjan Basu
+  share: 32
+  start: 2012
+- name: James Campbell
+  share: 32
+  start: 2012
+- id: 641
+  share: 64
+  member: 5406
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9496e8a8-0fb1-4e2b-b7aa-8cceeabac0cc
+draft: 1.9294
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -32,31 +56,7 @@ handicap_data:
   fore_triangle_base: 6.986100950987564
   length_on_waterline: 10.05852231163131
   fore_triangle_height: 13.411363082175079
-home_country: GBR
-home_port: Shoreham
-hull_form: long keel deep forefoot
-id: 9496e8a8-0fb1-4e2b-b7aa-8cceeabac0cc
 length_on_deck: 10.668
-sail_number: GRB1065L
-callsign: ''
-ownerships:
-- name: Anjan Basu
-  share: 32
-  start: 2012
-- name: James Campbell
-  share: 32
-  start: 2012
-- id: 641
-  share: 64
-  member: 5406
-  current: true
-  start: '?'
-place_built: Mylor
-updated_at: '2021-12-19T13:39:56.337699+00:00'
-website: ''
-year: 2000
-year_is_approximate: false
-construction_details: GRP
 beam: 3.3528
 design_class:
   name: Heard 35

@@ -12,17 +12,43 @@ full_description: <p>Planking below waterline, timber keel and hog were all repl
   is pitch pine on oak frames. New stainless steel strap floors throughout. New engine,
   Yanmar 1 GM10, installed 2004. New staysail and jib 2005. Other sails are in good
   condition. New bowsprit traveller and gaff saddle finished in leather 2006.</p>
-builder:
-  name: Daniel G. Hatcher
-  id: e5fdda85-1a85-4e28-a871-89b055d3d22f
+year: 1862
+year_is_approximate: false
 designer:
   name: Daniel G. Hatcher
   id: 14683616-0fe8-4912-8de4-12c0337b20e6
+builder:
+  name: Daniel G. Hatcher
+  id: e5fdda85-1a85-4e28-a871-89b055d3d22f
+place_built: Itchen
 construction_material: wood
 construction_method: carvel
-draft: 0.8992
+construction_details: Carvel (wood)
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Portsmouth
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2016
+  name: Scott Waddington
+  share: 64
+  start: 2005
+- name: Barry and Christina Marshall
+  share: 64
+  start: 2016
+- id: 908
+  share: 64
+  member: 6047
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3eaedf2c-f647-4f77-b688-36a7af662c1d
+image_key: XNbfwg
+thumb: https://photos.smugmug.com/photos/i-PwwjQ7D/0/Th/i-PwwjQ7D-Th.jpg
+draft: 0.8992
 handicap_data:
   beam: 2.3988051694708608
   main:
@@ -42,32 +68,7 @@ handicap_data:
   fore_triangle_base: 4.599487929773225
   length_on_waterline: 6.349061204584247
   fore_triangle_height: 7.598756400877834
-home_country: GBR
-home_port: Portsmouth
-hull_form: long keel deep forefoot
-id: 3eaedf2c-f647-4f77-b688-36a7af662c1d
 length_on_deck: 6.6294
-callsign: ''
-ownerships:
-- end: 2016
-  name: Scott Waddington
-  share: 64
-  start: 2005
-- name: Barry and Christina Marshall
-  share: 64
-  start: 2016
-- id: 908
-  share: 64
-  member: 6047
-  current: true
-  start: '?'
-place_built: Itchen
-updated_at: '2021-12-19T13:38:37.667158+00:00'
-website: ''
-year: 1862
-year_is_approximate: false
-image_key: XNbfwg
-construction_details: Carvel (wood)
 beam: 2.3805
 design_class:
   name: Itchen Ferry

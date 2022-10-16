@@ -4,29 +4,23 @@ generic_type: unknown
 mainsail_type: spritsail
 short_description: <p>Bee is a hunting and gunning skiff built in the USA in 2000</p>
 full_description: ''
-builder:
-  name: Crawford
-  id: 53bb07e5-206a-4bfd-b49e-c63028863448
+year: 2000
+year_is_approximate: false
 designer:
   name: Unknown
   id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+builder:
+  name: Crawford
+  id: 53bb07e5-206a-4bfd-b49e-c63028863448
+place_built: Marshfield USA
 construction_material: grp
 construction_method: unknown
-draft: 0.1524
+construction_details: Solid hand laid fibreglass cored construction with teak trim.
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 0
-  moving_keel: true
-  length_overall: 4.1666
-  draft_keel_down: 0.762
-  moving_keel_type: Centreboard
-  length_over_spars: 4.1666
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 31106a6b-b053-4b90-9354-5ac66f73ca10
-length_on_deck: 4.1666
 sail_number: MS
 callsign: ''
 ownerships:
@@ -37,12 +31,18 @@ ownerships:
   member: 6226
   current: true
   start: '?'
-place_built: Marshfield USA
-updated_at: '2021-12-19T13:40:09.048895+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2000
-year_is_approximate: false
-construction_details: Solid hand laid fibreglass cored construction with teak trim.
+id: 31106a6b-b053-4b90-9354-5ac66f73ca10
+draft: 0.1524
+handicap_data:
+  sailarea: 0
+  moving_keel: true
+  length_overall: 4.1666
+  draft_keel_down: 0.762
+  moving_keel_type: Centreboard
+  length_over_spars: 4.1666
+length_on_deck: 4.1666
 beam: 1.2954
 for_sale_state:
   text: not_for_sale

@@ -5,37 +5,37 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: A.H. Moody and Sons
-  id: 0d31e1e0-5b95-4509-b1ff-41d1f264d0d5
+year: 1935
+year_is_approximate: false
 designer:
   name: Frederick Shepherd
   id: a1307f55-2601-4a92-ad68-1db523c0e3b9
+builder:
+  name: A.H. Moody and Sons
+  id: 0d31e1e0-5b95-4509-b1ff-41d1f264d0d5
+place_built: Swanwick
 construction_material: wood
 construction_method: unknown
-draft: 1.524
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.5240185320653499
-  length_over_all: 8.83930748597903
-  length_on_waterline: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 1a082620-34d3-4fc7-8c68-b15b8a2f1780
-length_on_deck: 8.8392
 callsign: ''
 ownerships:
 - name: J Brown
   share: 64
   start: 2012
-place_built: Swanwick
-updated_at: '2021-12-19T13:39:00.138124+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1935
-year_is_approximate: false
+id: 1a082620-34d3-4fc7-8c68-b15b8a2f1780
+draft: 1.524
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.5240185320653499
+  length_over_all: 8.83930748597903
+  length_on_waterline: 7.924896366739819
+length_on_deck: 8.8392
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

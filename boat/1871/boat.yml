@@ -5,27 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log Sp/94
-builder:
-  name: Woodnutt and Co. Ltd.
-  id: c04e2023-3dc9-4679-9e31-fd807bec3001
+year: 1907
+year_is_approximate: false
 designer:
   name: Boulay de
   id: 8210eb5f-7cf3-460e-b85f-495ef6710d65
+builder:
+  name: Woodnutt and Co. Ltd.
+  id: c04e2023-3dc9-4679-9e31-fd807bec3001
+place_built: Isle of Wight
 construction_material: wood
 construction_method: carvel
-draft: 0.8382
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.798341867837113
-  draft: 0.8382101926359424
-  length_over_all: 6.370397464033162
-  length_on_waterline: 5.455986344793952
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 84280a95-5802-4084-b3d8-483c946579ce
-length_on_deck: 6.3703
 reference:
 - Log Sp/94
 callsign: ''
@@ -33,12 +29,16 @@ ownerships:
 - name: C J V Cooper
   share: 64
   start: 1987
-place_built: Isle of Wight
-updated_at: '2021-12-19T13:39:22.722393+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1907
-year_is_approximate: false
-construction_details: Carvel
+id: 84280a95-5802-4084-b3d8-483c946579ce
+draft: 0.8382
+handicap_data:
+  beam: 1.798341867837113
+  draft: 0.8382101926359424
+  length_over_all: 6.370397464033162
+  length_on_waterline: 5.455986344793952
+length_on_deck: 6.3703
 beam: 1.7983
 for_sale_state:
   text: not_for_sale

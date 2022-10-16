@@ -33,17 +33,41 @@ full_description: "<p>Since 2000, &#39;Annelis&#39; has been owned and sailed by
   _blank\">Follow their blog</a> which is updated with progress on the restoration\
   \ of the boat, and eventually their expedition!</p>\r\n\r\n<p><a href=\"https://www.facebook.com/ketch.annelis/\"\
   \ target=\"_blank\">2017 progress is documented on Facebook</a>.</p>"
-builder:
-  name: Angharad Marine Services
-  id: 4e1d7c21-6f19-4c9f-b0bb-41b654284490
+year: 1987
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: Angharad Marine Services
+  id: 4e1d7c21-6f19-4c9f-b0bb-41b654284490
+place_built: Newquay
 construction_material: ferro
 construction_method: unknown
-draft: 1.6764
+construction_details: Ferrocement
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Melton, Suffolk
+hull_form: long keel deep forefoot
+ssr: '226'
+callsign: ''
+ownerships:
+- name: Jo and Paul Masters
+  share: 64
+  start: 2000
+- share: 64
+  start: 2018
+  member: 6211
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: https://www.facebook.com/ketch.annelis/
+id: 3c925686-6de8-41a6-b8d7-6632d3681aae
+previous_names:
+- Angharad
+image_key: 6ghwsF
+thumb: https://photos.smugmug.com/photos/i-dvSqxvn/0/Th/i-dvSqxvn-Th.jpg
+draft: 1.6764
 handicap_data:
   beam: 3.733845403560107
   main:
@@ -64,30 +88,7 @@ handicap_data:
   fore_triangle_base: 7.620092660326749
   length_on_waterline: 10.972933430870519
   fore_triangle_height: 8.53450377956596
-home_country: GBR
-home_port: Melton, Suffolk
-hull_form: long keel deep forefoot
-id: 3c925686-6de8-41a6-b8d7-6632d3681aae
 length_on_deck: 12.192
-ssr: '226'
-callsign: ''
-ownerships:
-- name: Jo and Paul Masters
-  share: 64
-  start: 2000
-- share: 64
-  start: 2018
-  member: 6211
-  current: true
-place_built: Newquay
-updated_at: '2021-12-19T13:39:33.76338+00:00'
-website: https://www.facebook.com/ketch.annelis/
-year: 1987
-year_is_approximate: false
-previous_names:
-- Angharad
-image_key: 6ghwsF
-construction_details: Ferrocement
 beam: 3.7338
 for_sale_state:
   text: not_for_sale

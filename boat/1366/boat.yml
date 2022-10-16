@@ -4,17 +4,34 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: H.F. Crosby and Sons
-  id: ed12c497-5bbf-4b61-a480-f680a9dd4c38
+year: 1932
+year_is_approximate: false
 designer:
   name: H.F. Crosby
   id: 88fa1515-4ba4-4c33-b44b-6818c2aabfd0
+builder:
+  name: H.F. Crosby and Sons
+  id: ed12c497-5bbf-4b61-a480-f680a9dd4c38
+place_built: Osterville, Cape Cod, Mass
 construction_material: wood
 construction_method: carvel
-draft: 0.823
+construction_details: Carvel Cypress
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: John M Leavens
+  share: 64
+  start: 1958
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: eb94a0cf-ee6f-4c0b-acf8-e9b7a9cb476f
+previous_names:
+- Charlotte II Eugenia J I
+draft: 0.823
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -25,24 +42,7 @@ handicap_data:
   draft: 0.822970007315289
   length_over_all: 6.675201170446232
   length_on_waterline: 6.583760058522312
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: eb94a0cf-ee6f-4c0b-acf8-e9b7a9cb476f
 length_on_deck: 6.6751
-callsign: ''
-ownerships:
-- name: John M Leavens
-  share: 64
-  start: 1958
-place_built: Osterville, Cape Cod, Mass
-updated_at: '2021-12-19T13:39:09.327161+00:00'
-website: ''
-year: 1932
-year_is_approximate: false
-previous_names:
-- Charlotte II Eugenia J I
-construction_details: Carvel Cypress
 beam: 3.048
 for_sale_state:
   text: not_for_sale

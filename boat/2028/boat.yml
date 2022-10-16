@@ -5,38 +5,38 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: CB Jan/Feb 88
-builder:
-  name: M.R. Hawes
-  id: 3efff924-d72c-4fbb-a793-2f9f5c9befb8
+year: 1986
+year_is_approximate: false
 designer:
   name: Michael R. Hawes
   id: 1d14143b-8f55-4b26-94a4-95e4058cc952
+builder:
+  name: M.R. Hawes
+  id: 3efff924-d72c-4fbb-a793-2f9f5c9befb8
+place_built: Fordingbridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.8839
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.560351133869788
-  draft: 0.8839307485979029
-  length_over_all: 7.2390880273104115
-  length_on_waterline: 5.9436722750548645
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: c14bab68-ab60-4d96-ab87-a9645a435a04
-length_on_deck: 7.239
 callsign: ''
 ownerships:
 - name: D R West
   share: 64
   start: 1987
-place_built: Fordingbridge
-updated_at: '2021-12-19T13:39:27.328622+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1986
-year_is_approximate: false
-construction_details: GRP
+id: c14bab68-ab60-4d96-ab87-a9645a435a04
+draft: 0.8839
+handicap_data:
+  beam: 2.560351133869788
+  draft: 0.8839307485979029
+  length_over_all: 7.2390880273104115
+  length_on_waterline: 5.9436722750548645
+length_on_deck: 7.239
 beam: 2.5603
 for_sale_state:
   text: not_for_sale

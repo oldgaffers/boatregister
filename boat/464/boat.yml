@@ -5,17 +5,38 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Crossfield Bros.
-  id: 1490f054-b323-4ef5-961c-9026f880c340
+year: 1908
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Crossfield Bros.
+  id: 1490f054-b323-4ef5-961c-9026f880c340
+place_built: Arnside
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Pitch pine carvel planking on oak sawn and bent frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 1997
+  note: 'Previous owner 1976-97 mem no 2638 '
+  text: Previous owner
+  start: 1976
+  end_is_approximate: false
+  start_is_approximate: false
+- name: David Lowe
+  share: 64
+  start: 1997
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e11fe14f-e407-4ae6-9fed-ad1e47551ca0
+draft: 1.524
 handicap_data:
   beam: 3.5052426237503047
   main:
@@ -33,28 +54,7 @@ handicap_data:
   fore_triangle_base: 7.924896366739819
   length_on_waterline: 9.44891489880517
   fore_triangle_height: 11.277737137283589
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: e11fe14f-e407-4ae6-9fed-ad1e47551ca0
 length_on_deck: 10.668
-callsign: ''
-ownerships:
-- end: 1997
-  note: 'Previous owner 1976-97 mem no 2638 '
-  text: Previous owner
-  start: 1976
-  end_is_approximate: false
-  start_is_approximate: false
-- name: David Lowe
-  share: 64
-  start: 1997
-place_built: Arnside
-updated_at: '2021-12-19T13:38:43.026157+00:00'
-website: ''
-year: 1908
-year_is_approximate: false
-construction_details: Pitch pine carvel planking on oak sawn and bent frames
 beam: 3.5052
 for_sale_state:
   text: not_for_sale

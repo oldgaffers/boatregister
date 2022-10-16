@@ -3,22 +3,23 @@ oga_no: 3441
 generic_type: Yacht
 short_description: ''
 full_description: ''
-builder:
-  name: A.R. Luke and Sons
-  id: b8602ee5-946b-4f9d-ab1d-ee6a1b246f2a
+year: 1913
+year_is_approximate: false
 designer:
   name: A.R. Luke
   id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+builder:
+  name: A.R. Luke and Sons
+  id: b8602ee5-946b-4f9d-ab1d-ee6a1b246f2a
+place_built: Hamble
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel
 engine_installations: []
 for_sales: []
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 3786f25a-51ee-49bb-a168-7439f7718253
-length_on_deck: 5.6388
 callsign: ''
 ownerships:
 - id: 1093
@@ -26,12 +27,11 @@ ownerships:
   member: 6347
   current: true
   start: '?'
-place_built: Hamble
-updated_at: '2022-02-14T11:04:40.382535+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1913
-year_is_approximate: false
-construction_details: Carvel
+id: 3786f25a-51ee-49bb-a168-7439f7718253
+draft: 0.9144
+length_on_deck: 5.6388
 beam: 1.8288
 design_class:
   name: Hamble OD

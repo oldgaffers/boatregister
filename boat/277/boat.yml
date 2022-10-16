@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1953
+year_is_approximate: false
 designer:
   name: R Patten/S. Latimer
   id: e58acf81-9530-4a5f-bec8-9140a571bf60
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Benfleet
 construction_material: wood
 construction_method: clinker
-draft: 0.4572
+construction_details: Clinker  Mahogany planking, ash frames, oak keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.346988539380639
-  draft: 0.45720555961960496
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.7912704218483295
 home_country: GBR
 home_port: Beaumont Quay Essex
 hull_form: unknown
-id: 92378049-71ec-44dd-b2da-8f57bef6d660
-length_on_deck: 6.096
 callsign: ''
 ownerships:
 - end: 27
@@ -37,12 +33,16 @@ ownerships:
 - name: Peter Genery
   share: 64
   start: 1994
-place_built: Benfleet
-updated_at: '2021-12-19T13:38:37.854152+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1953
-year_is_approximate: false
-construction_details: Clinker  Mahogany planking, ash frames, oak keel
+id: 92378049-71ec-44dd-b2da-8f57bef6d660
+draft: 0.4572
+handicap_data:
+  beam: 2.346988539380639
+  draft: 0.45720555961960496
+  length_over_all: 6.0960741282613995
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 6.096
 beam: 2.3378
 design_class:
   name: Dauntless 20

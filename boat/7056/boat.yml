@@ -18,36 +18,23 @@ full_description: "<p>In the 1980s Nancy Blackett was discovered in a derelict c
   \n\r\n<p>Browse <a href=\"http://nancyblackett.org/\" target=\"_blank\">The Nancy\
   \ Blackett Trust&#39;s</a> website for information about Nancy Blackett and her\
   \ connection with Arthur Ransome, as well as details of how to become a member.</p>"
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1931
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
+construction_details: Larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  main:
-    foot: 5.385881492318947
-    luff: 8.863691782492074
-  thcf: 0.949969412
-  draft: 1.3716166788588149
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.686905632772493
-  fore_triangle_base: 4.800658376005852
-  length_on_waterline: 7.772494513533284
-  fore_triangle_height: 10.05852231163131
 home_country: GBR
 home_port: Woolverstone
 hull_form: long keel deep forefoot
-id: 2a48171e-5648-4f78-81cc-b3afa2de65a9
-length_on_deck: 8.6868
 sail_number: NB1
 uk_part1: '162814'
 callsign: ''
@@ -64,16 +51,30 @@ ownerships:
   member: 3930
   current: true
   start: '?'
-place_built: Littlehampton
-updated_at: '2021-12-19T13:40:01.652398+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://nancyblackett.org/
-year: 1931
-year_is_approximate: false
+id: 2a48171e-5648-4f78-81cc-b3afa2de65a9
 previous_names:
 - Electron
 - Spindrift
 image_key: PSsjJ8
-construction_details: Larch on oak
+thumb: https://photos.smugmug.com/photos/i-VnCcPBL/0/Th/i-VnCcPBL-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.590831504511095
+  main:
+    foot: 5.385881492318947
+    luff: 8.863691782492074
+  thcf: 0.949969412
+  draft: 1.3716166788588149
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 8.686905632772493
+  fore_triangle_base: 4.800658376005852
+  length_on_waterline: 7.772494513533284
+  fore_triangle_height: 10.05852231163131
+length_on_deck: 8.6868
 beam: 2.5908
 design_class:
   name: Hillyard 7 Ton

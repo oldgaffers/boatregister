@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Built by her first owner, Teun Post.</p>
 full_description: ''
-builder:
-  name: T. Post
-  id: cb07e3ee-cf15-4eb8-87bc-20e8aaf9788e
+year: 2007
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: T. Post
+  id: cb07e3ee-cf15-4eb8-87bc-20e8aaf9788e
+place_built: Home
 construction_material: wood
 construction_method: unknown
-draft: 0.8382
+construction_details: Wood epoxy
 engine_installations: []
 for_sales: []
+home_country: NLD
+home_port: Zeeland
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Teun Post
+  share: 64
+  start: 2007
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 06d53987-a826-4039-b30c-d568ab1d8968
+draft: 0.8382
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 3.401609363569861
   length_on_waterline: 5.410265788831992
   fore_triangle_height: 5.501706900755913
-home_country: NLD
-home_port: Zeeland
-hull_form: long keel deep forefoot
-id: 06d53987-a826-4039-b30c-d568ab1d8968
 length_on_deck: 5.715
-callsign: ''
-ownerships:
-- name: Teun Post
-  share: 64
-  start: 2007
-place_built: Home
-updated_at: '2021-12-19T13:39:49.929872+00:00'
-website: ''
-year: 2007
-year_is_approximate: false
-construction_details: Wood epoxy
 beam: 2.1336
 design_class:
   name: Golant Gaffer

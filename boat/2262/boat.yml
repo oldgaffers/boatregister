@@ -5,17 +5,31 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Eric Bergqvist
-  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+year: 1976
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+place_built: Lymm
 construction_material: wood
 construction_method: unknown
-draft: 0.5334
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Falmouth
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Derek Toyne
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d6040d53-14a4-491e-8309-b44df81b149e
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -29,21 +43,7 @@ handicap_data:
     perpendicular: 1.8288222384784198
   length_over_all: 5.7912704218483295
   length_on_waterline: 5.690685198732017
-home_country: 'null'
-home_port: Falmouth
-hull_form: unknown
-id: d6040d53-14a4-491e-8309-b44df81b149e
 length_on_deck: 5.7912
-callsign: ''
-ownerships:
-- name: Derek Toyne
-  share: 64
-  start: 2012
-place_built: Lymm
-updated_at: '2021-12-19T13:39:33.826374+00:00'
-website: ''
-year: 1976
-year_is_approximate: false
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

@@ -42,36 +42,23 @@ full_description: "<blockquote>&ldquo;Designed and built by Harry Feltham at Por
   \ &nbsp;Whilst headaches have been indeed been&nbsp;caused by owning Nepenthe (or\
   \ shall we just call them hangovers?)&nbsp;it is true to say that when you step\
   \ aboard somehow all ones cares appear to be washed away. &nbsp;</p>"
-builder:
-  name: Harry Feltham
-  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+year: 1929
+year_is_approximate: false
 designer:
   name: Harry Feltham
   id: f8c85f47-b20c-4687-baea-172a05d5d1f1
+builder:
+  name: Harry Feltham
+  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel pine on oak with iron keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  main:
-    foot: 6.157034869544013
-    head: 5.6388685686417945
-  thcf: 0.961
-  draft: 1.21921482565228
-  sailarea: 47.002532962651586
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.9436722750548645
-  length_on_waterline: 8.991709339185563
-  fore_triangle_height: 11.734942696903193
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 00bd45e7-8bce-488c-bfa2-acbcbd3199af
-length_on_deck: 9.144
 uk_part1: '164198'
 callsign: ''
 ownerships:
@@ -112,12 +99,25 @@ ownerships:
   start: 2004
   member: 5779
   current: true
-place_built: Portsmouth
-updated_at: '2021-12-19T13:38:49.781912+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1929
-year_is_approximate: false
-construction_details: Carvel pine on oak with iron keel
+id: 00bd45e7-8bce-488c-bfa2-acbcbd3199af
+draft: 1.2192
+handicap_data:
+  beam: 2.8956352109241648
+  main:
+    foot: 6.157034869544013
+    head: 5.6388685686417945
+  thcf: 0.961
+  draft: 1.21921482565228
+  sailarea: 47.002532962651586
+  propellor:
+    type: fixed
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 5.9436722750548645
+  length_on_waterline: 8.991709339185563
+  fore_triangle_height: 11.734942696903193
+length_on_deck: 9.144
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

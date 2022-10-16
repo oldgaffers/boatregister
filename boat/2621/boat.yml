@@ -5,20 +5,21 @@ mainsail_type: gaff
 short_description: <p>Apple was built 2001 - 2003 by M Morris and R Griffin. A Wylo
   design, she is built in steel and has been long distance cruising.</p>
 full_description: ''
-builder:
-  name: Malcolm Morris/Roma Griffin
-  id: 333e7e4e-5749-4f4f-a5e8-69d30bcad92e
+year: 2003
+year_is_approximate: false
 designer:
   name: Nick Skeates
   id: 75b8e267-30d0-4825-90e1-b253d02723a5
-draft: 0
+builder:
+  name: Malcolm Morris/Roma Griffin
+  id: 333e7e4e-5749-4f4f-a5e8-69d30bcad92e
+place_built: Newbridge Isle of Wight
+construction_details: Steel, wood deck
 engine_installations: []
 for_sales: []
 home_country: GBR
 home_port: Yarmouth I o W
 hull_form: long keel deep forefoot
-id: 19563c79-f52b-4d7e-a659-cc5e45d213e1
-length_on_deck: 0
 callsign: ''
 ownerships:
 - id: 310
@@ -26,12 +27,11 @@ ownerships:
   start: 2003
   member: 3721
   current: true
-place_built: Newbridge Isle of Wight
-updated_at: '2021-12-19T13:39:44.552615+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2003
-year_is_approximate: false
-construction_details: Steel, wood deck
+id: 19563c79-f52b-4d7e-a659-cc5e45d213e1
+draft: 0
+length_on_deck: 0
 beam: 0
 for_sale_state:
   text: not_for_sale

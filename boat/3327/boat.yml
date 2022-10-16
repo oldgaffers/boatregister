@@ -5,17 +5,35 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: <p>Piglet is a Skipper 17 which has been converted to gaff rig.</p>
 full_description: ''
-builder:
-  name: Richmond Marine
-  id: 0ceb94c5-4440-40d5-b06d-b7d45a8e0b0b
+year_is_approximate: false
 designer:
   name: Peter Milne
   id: ceddb655-e672-47b1-9c73-ad7a0388f102
+builder:
+  name: Richmond Marine
+  id: 0ceb94c5-4440-40d5-b06d-b7d45a8e0b0b
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.381
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Cardiff
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 860
+  share: 64
+  start: 2015
+  member: 5956
+updated_at: '2022-08-26T15:54:58.223891+00:00'
+website: myweb.tiscali.co.uk/skipper17/
+id: 99a65432-ca30-45c7-baf5-26eae451c931
+previous_names:
+- Spindrift
+image_key: sskR4d
+thumb: https://photos.smugmug.com/photos/i-NrMBzNG/0/Th/i-NrMBzNG-Th.jpg
+draft: 0.381
 handicap_data:
   main:
     foot: 9.17
@@ -38,24 +56,7 @@ handicap_data:
   fore_triangle_base: 2.5908
   length_on_waterline: 4.572
   fore_triangle_height: 5.334
-home_country: GBR
-home_port: Cardiff
-hull_form: unknown
-id: 99a65432-ca30-45c7-baf5-26eae451c931
 length_on_deck: 5.1816
-callsign: ''
-ownerships:
-- id: 860
-  share: 64
-  start: 2015
-  member: 5956
-updated_at: '2022-08-26T15:54:58.223891+00:00'
-website: myweb.tiscali.co.uk/skipper17/
-year_is_approximate: false
-previous_names:
-- Spindrift
-image_key: sskR4d
-construction_details: GRP
 beam: 2.1336
 design_class:
   name: Skipper 17

@@ -6,17 +6,30 @@ mainsail_type: lug
 short_description: ''
 full_description: David took a "Roxane" hull and fitted her out to his own design,esp.
   the rig.  Log Jun/97
-builder:
-  name: Still
-  id: 67dad93d-ef51-49ab-8684-ac824881c863
+year: 1996
+year_is_approximate: false
 designer:
   name: Nigel Irens
   id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
+builder:
+  name: Still
+  id: 67dad93d-ef51-49ab-8684-ac824881c863
+place_built: Plymouth
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7102
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+reference:
+- Log Jun 97
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 347695ee-c434-4ab4-9a89-c352f9aa7ec8
+draft: 0.7102
 handicap_data:
   beam: 2.691416727627408
   main:
@@ -35,20 +48,7 @@ handicap_data:
   fore_triangle_base: 4.700073152889539
   length_on_waterline: 8.1016825164594
   fore_triangle_height: 8.205315776639845
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 347695ee-c434-4ab4-9a89-c352f9aa7ec8
 length_on_deck: 9.144
-reference:
-- Log Jun 97
-callsign: ''
-place_built: Plymouth
-updated_at: '2021-03-27T22:50:27.672525+00:00'
-website: ''
-year: 1996
-year_is_approximate: false
-construction_details: GRP
 beam: 2.6914
 for_sale_state:
   text: not_for_sale

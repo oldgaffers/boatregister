@@ -16,27 +16,23 @@ full_description: "<p>&#39;Tammie&#39; was built for the sailmaker George Ratsey
   \ many years. The Yanmar 2 QM engine has been removed for overhaul and the port\
   \ side has been re-caulked. The starboard side, coachroof and deck also need some\
   \ attention.</p>"
-builder:
-  name: Field and Co.
-  id: 0cf3b8e1-ce23-4747-bb13-14fe22f02709
+year: 1898
+year_is_approximate: false
 designer:
   name: J.S. Helyar
   id: bcbdf8e0-ce1e-456e-9c03-e8c9cc3d579a
+builder:
+  name: Field and Co.
+  id: 0cf3b8e1-ce23-4747-bb13-14fe22f02709
+place_built: Southampton
 construction_material: wood
 construction_method: unknown
-draft: 1.8288
+construction_details: Pitch Pine on Oak with a lead keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.871250914411119
-  draft: 1.8288222384784198
-  length_over_all: 9.1441111923921
-  length_on_waterline: 8.22970007315289
 home_country: GBR
 home_port: Langstone Harbour
 hull_form: long keel sloping forefoot
-id: fabb3859-602c-4fab-b821-4bf101e528da
-length_on_deck: 9.144
 sail_number: 276Y
 uk_part1: '110244'
 callsign: ''
@@ -59,14 +55,19 @@ ownerships:
   start: 2013
   member: 5736
   current: true
-place_built: Southampton
-updated_at: '2021-12-19T13:39:19.968905+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1898
-year_is_approximate: false
+id: fabb3859-602c-4fab-b821-4bf101e528da
 nsbr: '2370'
 image_key: LVhM2z
-construction_details: Pitch Pine on Oak with a lead keel
+thumb: https://photos.smugmug.com/photos/i-WKMjdMh/0/Th/i-WKMjdMh-Th.jpg
+draft: 1.8288
+handicap_data:
+  beam: 2.871250914411119
+  draft: 1.8288222384784198
+  length_over_all: 9.1441111923921
+  length_on_waterline: 8.22970007315289
+length_on_deck: 9.144
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

@@ -15,33 +15,20 @@ full_description: "<p>&#39;Little Apple&#39; was built by Paynters in 1905. At s
   \ She was the first winner of the Edgar March memorial trophy. A feat repeated some\
   \ years later. She was at the first Bucktrout and St Malo Rally in 1977.</p>\r\n\
   \r\n<p>In 1979 the cabin top was added. A further major refit took place in 1992.</p>"
+year: 1905
+year_is_approximate: false
 builder:
   name: Paynters
   id: fd9167a6-3932-4d99-b823-547d0bc541ef
+place_built: St Ives
 construction_material: wood
 construction_method: carvel
-draft: 1.271
+construction_details: Carvel Pine on Oak timbers
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.4292855401121676
-  main:
-    foot: 4.578151670324311
-    head: 4.578151670324311
-    luff: 4.398317483540599
-  thcf: 0.930196292
-  draft: 1.2710314557425018
-  propellor:
-    type: fixed
-  length_over_all: 7.2787125091441105
-  fore_triangle_base: 6.2881004633016335
-  length_on_waterline: 7.141550841258229
-  fore_triangle_height: 7.397585954645208
 home_country: GBR
 home_port: Emsworth
 hull_form: long keel deep forefoot
-id: 2f14a93f-3a50-44c2-8ccb-ca7bee7dc817
-length_on_deck: 7.2786
 ssr: '803'
 callsign: ''
 ownerships:
@@ -78,15 +65,29 @@ ownerships:
 - name: Derek Eury
   share: 64
   start: 2012
-place_built: St Ives
-updated_at: '2021-12-19T13:38:40.587177+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1905
-year_is_approximate: false
+id: 2f14a93f-3a50-44c2-8ccb-ca7bee7dc817
 previous_names:
 - White Heather/L. Apple
 image_key: kncmmt
-construction_details: Carvel Pine on Oak timbers
+thumb: https://photos.smugmug.com/photos/i-8Q6NQwP/0/Th/i-8Q6NQwP-Th.jpg
+draft: 1.271
+handicap_data:
+  beam: 2.4292855401121676
+  main:
+    foot: 4.578151670324311
+    head: 4.578151670324311
+    luff: 4.398317483540599
+  thcf: 0.930196292
+  draft: 1.2710314557425018
+  propellor:
+    type: fixed
+  length_over_all: 7.2787125091441105
+  fore_triangle_base: 6.2881004633016335
+  length_on_waterline: 7.141550841258229
+  fore_triangle_height: 7.397585954645208
+length_on_deck: 7.2786
 beam: 2.4293
 design_class:
   name: Falmouth Oyster Boat

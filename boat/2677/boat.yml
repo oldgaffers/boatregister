@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: Portsmouth Dockyard
-  id: 9a6f287c-15e4-4dd9-979b-4b43f2dfd05e
+year: 1950
+year_is_approximate: false
 designer:
   name: Royal Naval Dockyard
   id: 24c65278-e9cd-4ff9-85b6-340ba863516c
+builder:
+  name: Portsmouth Dockyard
+  id: 9a6f287c-15e4-4dd9-979b-4b43f2dfd05e
+place_built: Portsmouth
 construction_material: wood
 construction_method: clinker
-draft: 0.1524
+construction_details: Clinker trad
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Wareham
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 215
+  share: 64
+  start: 2007
+  member: 3046
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4bfaddfc-64f8-439a-96f9-4849cbfe40b3
+draft: 0.1524
 handicap_data:
   beam: 1.3716166788588149
   main:
@@ -26,24 +43,7 @@ handicap_data:
   draft: 0.152401853206535
   length_over_all: 3.0480370641306997
   length_on_waterline: 2.8956352109241648
-home_country: GBR
-home_port: Wareham
-hull_form: unknown
-id: 4bfaddfc-64f8-439a-96f9-4849cbfe40b3
 length_on_deck: 3.048
-callsign: ''
-ownerships:
-- id: 215
-  share: 64
-  start: 2007
-  member: 3046
-  current: true
-place_built: Portsmouth
-updated_at: '2021-12-19T13:39:46.034715+00:00'
-website: ''
-year: 1950
-year_is_approximate: false
-construction_details: Clinker trad
 beam: 1.3716
 for_sale_state:
   text: not_for_sale

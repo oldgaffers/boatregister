@@ -10,17 +10,36 @@ full_description: "<p>Cachalot&#39;s first owner, George Mount of Morecambe, reg
   \ when Bill Higgins worked her registered CH10, out of Heswall. The Higgins family\
   \ worked her from 1938 until 1988 and she came up for sale in 1994.</p>\r\n\r\n\
   <p>Andy Williams spent seven years rebuilding her, finishing in 2003.</p>"
-builder:
-  name: Limit Motor Boat Co.
-  id: b7420e2c-a550-41ea-a917-cf0885017bb6
+year: 1930
+year_is_approximate: false
 designer:
   name: Richard Ingram
   id: cea4384d-d154-4721-8412-b74b1ae4627a
+builder:
+  name: Limit Motor Boat Co.
+  id: b7420e2c-a550-41ea-a917-cf0885017bb6
+place_built: Barrow in Furness
 construction_material: wood
 construction_method: carvel
-draft: 1.0973
+construction_details: Larch plank on sawn oak frames, carvel construction.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Conwy
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- name: Andy Williams
+  share: 64
+  start: 1996
+- share: 64
+  member: 5669
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fee6df53-59b6-4662-b9d7-99b3f6e3ae57
+draft: 1.0973
 handicap_data:
   beam: 3.2309192879785416
   main:
@@ -35,26 +54,7 @@ handicap_data:
   fore_triangle_base: 6.224091684954889
   length_on_waterline: 9.1441111923921
   fore_triangle_height: 9.195927822482322
-home_country: GBR
-home_port: Conwy
-hull_form: long keel sloping forefoot
-id: fee6df53-59b6-4662-b9d7-99b3f6e3ae57
 length_on_deck: 10.5156
-callsign: ''
-ownerships:
-- name: Andy Williams
-  share: 64
-  start: 1996
-- share: 64
-  member: 5669
-  current: true
-  start: '?'
-place_built: Barrow in Furness
-updated_at: '2021-12-19T13:39:44.329642+00:00'
-website: ''
-year: 1930
-year_is_approximate: false
-construction_details: Larch plank on sawn oak frames, carvel construction.
 beam: 3.2309
 for_sale_state:
   text: not_for_sale

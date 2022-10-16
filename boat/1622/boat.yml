@@ -5,24 +5,22 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 84/1
-builder:
-  name: Everson A. and Sons
-  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+year: 1930
+year_is_approximate: false
 designer:
   name: A.R. Curjel
   id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_over_all: 7.010485247500609
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 3423d725-18e8-47e7-b628-7b9e11a905a4
-length_on_deck: 7.0104
 reference:
 - Log 84/1
 callsign: ''
@@ -30,11 +28,13 @@ ownerships:
 - name: M Boys
   share: 64
   start: 2012
-place_built: Woodbridge
-updated_at: '2021-12-19T13:39:16.493124+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1930
-year_is_approximate: false
+id: 3423d725-18e8-47e7-b628-7b9e11a905a4
+draft: 0
+handicap_data:
+  length_over_all: 7.010485247500609
+length_on_deck: 7.0104
 beam: 0
 for_sale_state:
   text: not_for_sale

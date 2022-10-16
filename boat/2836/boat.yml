@@ -5,17 +5,38 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: <p>&#39;Syrinx&#39; is a Kittiwake 14, boat no 28 of 42 (to 2017).</p>
 full_description: 'Hull ID: GB KITCV028l899'
-builder:
-  name: Roger Wilkinson
-  id: 13013b12-8617-439c-bc35-ba8f2259031e
+year: 1999
+year_is_approximate: false
 designer:
   name: Roger Wilkinson
   id: 7b55967c-c09b-4375-8aab-2aa606d145cd
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+place_built: Macclesfield
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.2286
+construction_details: GRP with mahogany trim
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Birmingham
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- note: One owner from 1999 until July 2004.
+  text: One owner from
+  start: 1999
+  start_is_approximate: false
+- name: Oliver and Susan Nares
+  share: 64
+  start: 2004
+updated_at: '2022-04-05T21:20:32.36188+00:00'
+website: ''
+id: f08e6049-b29e-44e7-9ee5-a9272e3e7d7a
+image_key: pGmGpb
+thumb: https://photos.smugmug.com/photos/i-wXgKVRk/0/Th/i-wXgKVRk-Th.jpg
+draft: 0.2286
 handicap_data:
   beam: 1.5240185320653499
   main:
@@ -31,27 +52,7 @@ handicap_data:
   fore_triangle_base: 2.414045354791514
   length_on_waterline: 4.26725188978298
   fore_triangle_height: 3.733845403560107
-home_country: GBR
-home_port: Birmingham
-hull_form: long keel deep forefoot
-id: f08e6049-b29e-44e7-9ee5-a9272e3e7d7a
 length_on_deck: 4.2672
-callsign: ''
-ownerships:
-- note: One owner from 1999 until July 2004.
-  text: One owner from
-  start: 1999
-  start_is_approximate: false
-- name: Oliver and Susan Nares
-  share: 64
-  start: 2004
-place_built: Macclesfield
-updated_at: '2022-04-05T21:20:32.36188+00:00'
-website: ''
-year: 1999
-year_is_approximate: false
-image_key: pGmGpb
-construction_details: GRP with mahogany trim
 beam: 1.524
 design_class:
   name: Kittiwake 14

@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 69/4
-builder:
-  name: Cook and Woodward
-  id: 9d161f2e-60b3-4e09-97b4-d327cfd9b46c
+year: 1900
+year_is_approximate: false
 designer:
   name: John Howard
   id: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
+builder:
+  name: Cook and Woodward
+  id: 9d161f2e-60b3-4e09-97b4-d327cfd9b46c
+place_built: Maldon
 construction_material: wood
 construction_method: unknown
-draft: 1.1278
+construction_details: Larch on grown oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.127773713728359
-  length_over_all: 9.997561570348694
-  length_on_waterline: 7.620092660326749
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 005b91bc-b9f8-41f3-a0bb-f72f930becfe
-length_on_deck: 9.9974
 reference:
 - Log 69/4
 callsign: ''
@@ -33,12 +29,16 @@ ownerships:
 - name: R A Milne
   share: 64
   start: 2012
-place_built: Maldon
-updated_at: '2021-12-19T13:38:32.891891+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1900
-year_is_approximate: false
-construction_details: Larch on grown oak
+id: 005b91bc-b9f8-41f3-a0bb-f72f930becfe
+draft: 1.1278
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.127773713728359
+  length_over_all: 9.997561570348694
+  length_on_waterline: 7.620092660326749
+length_on_deck: 9.9974
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

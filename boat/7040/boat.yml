@@ -8,17 +8,31 @@ full_description: She was sold to her present owners as scrap and has undergone 
   In 1917 Harry Pidgeon used the Seabird Islander design to build a boat. He sailed
   around the world single handed; only the second person to do this. He then went
   on to do it a second time some years later.
-builder:
-  name: Rochelle La
-  id: 287aad1b-aced-4de2-9ce2-39c8acf6d077
+year: 1939
+year_is_approximate: false
 designer:
   name: Fred Goeler
   id: 27ffd3a7-5b5b-4113-bc4a-5dd825139aea
+builder:
+  name: Rochelle La
+  id: 287aad1b-aced-4de2-9ce2-39c8acf6d077
+place_built: La Rochelle
 construction_material: wood
 construction_method: unknown
-draft: 1.6764
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Cowes
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Philip Downey
+  share: 64
+  start: 2000
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 71d8bf96-7105-4e1f-806b-c43de03f4c3f
+draft: 1.6764
 handicap_data:
   beam: 3.3528407705437697
   fore:
@@ -39,21 +53,7 @@ handicap_data:
   fore_triangle_base: 3.605827846866618
   length_on_waterline: 8.83930748597903
   fore_triangle_height: 8.991709339185563
-home_country: 'null'
-home_port: Cowes
-hull_form: long keel deep forefoot
-id: 71d8bf96-7105-4e1f-806b-c43de03f4c3f
 length_on_deck: 10.3632
-callsign: ''
-ownerships:
-- name: Philip Downey
-  share: 64
-  start: 2000
-place_built: La Rochelle
-updated_at: '2021-12-19T13:40:01.203126+00:00'
-website: ''
-year: 1939
-year_is_approximate: false
 beam: 3.3528
 design_class:
   name: Seabird Islander

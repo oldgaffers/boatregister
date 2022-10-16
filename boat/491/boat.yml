@@ -5,17 +5,37 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: W. Roberts
-  id: 34b3984c-9192-497a-8236-1c6c645fa753
+year: 1897
+year_is_approximate: false
 designer:
   name: Hope Linton
   id: f238ed22-175a-4b8c-9337-dc58c6619754
+builder:
+  name: W. Roberts
+  id: 34b3984c-9192-497a-8236-1c6c645fa753
+place_built: Chester
 construction_material: wood
 construction_method: carvel
-draft: 1.0363
+construction_details: Carvel Pine on steamed elm timbers, cb with counter
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Pin Mill
+hull_form: unknown
+ssr: '45237'
+callsign: ''
+ownerships:
+- id: 104
+  share: 64
+  start: 1984
+  member: 1884
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b8076dfd-0f1f-4142-b3e7-303beb20ee7b
+image_key: Zhn7VD
+thumb: https://photos.smugmug.com/photos/i-fGQGLqT/0/Th/i-fGQGLqT-Th.jpg
+draft: 1.0363
 handicap_data:
   beam: 1.9812240916849548
   main:
@@ -27,26 +47,7 @@ handicap_data:
   length_over_all: 7.406730065837601
   length_on_waterline: 5.4864667154352595
   fore_triangle_height: 6.2484759814679345
-home_country: GBR
-home_port: Pin Mill
-hull_form: unknown
-id: b8076dfd-0f1f-4142-b3e7-303beb20ee7b
 length_on_deck: 7.4066
-ssr: '45237'
-callsign: ''
-ownerships:
-- id: 104
-  share: 64
-  start: 1984
-  member: 1884
-  current: true
-place_built: Chester
-updated_at: '2021-12-19T13:38:43.809893+00:00'
-website: ''
-year: 1897
-year_is_approximate: false
-image_key: Zhn7VD
-construction_details: Carvel Pine on steamed elm timbers, cb with counter
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

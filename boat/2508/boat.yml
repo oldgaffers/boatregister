@@ -19,17 +19,40 @@ full_description: "<p>Designed on the lines lines of a Falmouth Quay punt by Har
   \ the East Coast and in 2006 she raced in the centenary RORC Cowes - Dinard race\
   \ finishing 5th in her class.</p>\r\n\r\n<p>More recently she has been cruising\
   \ round Britain and spent two summers in the Western Isles off Scotland.</p>"
-builder:
-  name: Berthon Boat Co. Ltd.
-  id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
+year: 1930
+year_is_approximate: false
 designer:
   name: Harley Mead
   id: 25412902-8c25-4fd2-8023-2f506c99a366
+builder:
+  name: Berthon Boat Co. Ltd.
+  id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
+place_built: Lymington
 construction_material: wood
 construction_method: unknown
-draft: 2.3866
+construction_details: Teak on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Hoo, Kent
+hull_form: long keel deep forefoot
+uk_part1: '161708'
+callsign: ''
+ownerships:
+- end: 2014
+  name: Colin Ryan
+  share: 64
+  start: 2000
+- note: Sold in 2014.
+  text: Sold in
+  start: 2014
+  start_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 83db5dbb-81f3-4362-b865-2261e7c1c4d8
+image_key: RzDJwC
+thumb: https://photos.smugmug.com/photos/i-xKRLS2v/0/Th/i-xKRLS2v-Th.jpg
+draft: 2.3866
 handicap_data:
   beam: 3.3772250670568154
   main:
@@ -44,29 +67,7 @@ handicap_data:
   fore_triangle_base: 4.724457449402585
   length_on_waterline: 8.83930748597903
   fore_triangle_height: 12.954157522555473
-home_country: GBR
-home_port: Hoo, Kent
-hull_form: long keel deep forefoot
-id: 83db5dbb-81f3-4362-b865-2261e7c1c4d8
 length_on_deck: 10.3632
-uk_part1: '161708'
-callsign: ''
-ownerships:
-- end: 2014
-  name: Colin Ryan
-  share: 64
-  start: 2000
-- note: Sold in 2014.
-  text: Sold in
-  start: 2014
-  start_is_approximate: false
-place_built: Lymington
-updated_at: '2021-12-19T13:39:41.164397+00:00'
-website: ''
-year: 1930
-year_is_approximate: false
-image_key: RzDJwC
-construction_details: Teak on oak
 beam: 3.6058
 for_sale_state:
   text: not_for_sale

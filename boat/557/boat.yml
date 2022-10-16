@@ -5,40 +5,40 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: North Sea Craft
-  id: a6482c01-706a-469d-93db-2ccab9020581
+year: 1974
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Sea Craft
+  id: a6482c01-706a-469d-93db-2ccab9020581
+place_built: Brundall
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.1582
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.3774689100219457
-  draft: 1.1582540843696658
-  length_over_all: 6.766642282370153
-  length_on_waterline: 6.339917093391856
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 72d7d18b-20e5-4e2f-8686-9db73e2f0697
-length_on_deck: 6.7666
 callsign: ''
 ownerships:
 - name: J H Mottershaw
   share: 64
   start: 2012
-place_built: Brundall
-updated_at: '2021-12-19T13:38:45.741417+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1974
-year_is_approximate: false
+id: 72d7d18b-20e5-4e2f-8686-9db73e2f0697
 previous_names:
 - Sula
-construction_details: GRP
+draft: 1.1582
+handicap_data:
+  beam: 2.3774689100219457
+  draft: 1.1582540843696658
+  length_over_all: 6.766642282370153
+  length_on_waterline: 6.339917093391856
+length_on_deck: 6.7666
 beam: 2.3774
 design_class:
   name: Tamarisk 22

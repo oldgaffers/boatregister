@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: M.J. Ash/D. Ash
-  id: d8ec08fa-bc63-45f9-8e1e-fb0246446277
+year: 1996
+year_is_approximate: false
 designer:
   name: Farmer Weston
   id: b4a60170-2e47-4325-9e70-6289ab0e2fe4
+builder:
+  name: M.J. Ash/D. Ash
+  id: d8ec08fa-bc63-45f9-8e1e-fb0246446277
+place_built: Isle of Wight
 construction_material: steel
 construction_method: unknown
-draft: 1.6459
+construction_details: Steel, Hard Chine, Double ender.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Cowes
+hull_form: long keel deep forefoot
+ssr: '70760'
+callsign: ''
+ownerships:
+- name: Mike Ash
+  share: 64
+  start: 1996
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2bf7c7d6-c98e-4271-ae8c-a2db2ccff748
+draft: 1.6459
 handicap_data:
   beam: 3.2004389173372347
   main:
@@ -33,23 +49,7 @@ handicap_data:
   fore_triangle_base: 6.157034869544013
   length_on_waterline: 8.290660814435503
   fore_triangle_height: 8.610704706169226
-home_country: 'null'
-home_port: Cowes
-hull_form: long keel deep forefoot
-id: 2bf7c7d6-c98e-4271-ae8c-a2db2ccff748
 length_on_deck: 9.7536
-ssr: '70760'
-callsign: ''
-ownerships:
-- name: Mike Ash
-  share: 64
-  start: 1996
-place_built: Isle of Wight
-updated_at: '2021-12-19T13:39:59.94836+00:00'
-website: ''
-year: 1996
-year_is_approximate: false
-construction_details: Steel, Hard Chine, Double ender.
 beam: 3.2004
 for_sale_state:
   text: not_for_sale

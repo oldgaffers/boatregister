@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd./?
-  id: 2aa171a0-29cc-41c4-ba91-d8a228e67b81
+year: 1986
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd./?
+  id: 2aa171a0-29cc-41c4-ba91-d8a228e67b81
+place_built: Rock/Winchester
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.7864
+construction_details: Glass fibre epoxy / wood
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: William Jewell
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d84fccf1-a401-4997-a5a0-29887e216bfa
+draft: 0.7864
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,22 +48,7 @@ handicap_data:
   fore_triangle_base: 4.191050963179712
   length_on_waterline: 6.196659351377712
   fore_triangle_height: 7.010485247500609
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: d84fccf1-a401-4997-a5a0-29887e216bfa
 length_on_deck: 7.3152
-callsign: ''
-ownerships:
-- name: William Jewell
-  share: 64
-  start: 2012
-place_built: Rock/Winchester
-updated_at: '2021-12-19T13:39:29.445367+00:00'
-website: ''
-year: 1986
-year_is_approximate: false
-construction_details: Glass fibre epoxy / wood
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 2

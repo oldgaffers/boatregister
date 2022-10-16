@@ -5,17 +5,36 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2006
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Hamble
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.509
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Fareham
+hull_form: centre-boarder
+uk_part1: GB-588-MEM-28-G-06
+callsign: ''
+ownerships:
+- name: Charles Coxwell
+  share: 64
+  start: 2012
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: c766dcf4-d743-4c93-a870-378e489ddd17
+previous_names:
+- Silver Bear
+draft: 0.509
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -32,26 +51,7 @@ handicap_data:
   fore_triangle_base: 2.691416727627408
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 6.272860277980979
-home_country: GBR
-home_port: Fareham
-hull_form: centre-boarder
-id: c766dcf4-d743-4c93-a870-378e489ddd17
 length_on_deck: 5.7912
-spar_material: wood
-uk_part1: GB-588-MEM-28-G-06
-callsign: ''
-ownerships:
-- name: Charles Coxwell
-  share: 64
-  start: 2012
-place_built: Hamble
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 2006
-year_is_approximate: false
-previous_names:
-- Silver Bear
-construction_details: GRP
 beam: 2.1336
 design_class:
   name: Memory 19

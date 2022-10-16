@@ -6,17 +6,36 @@ mainsail_type: gaff
 short_description: ''
 full_description: Next in class built 1945/6 (no W16) Yachting Monthly article on
   file
-builder:
-  name: John Fulton
-  id: 4465dd39-52b9-46f3-901f-4d687260b9c5
+year: 1927
+year_is_approximate: false
 designer:
   name: John Wylie
   id: 26b60724-5ef5-4bfa-9e44-6f76a656ca48
+builder:
+  name: John Fulton
+  id: 4465dd39-52b9-46f3-901f-4d687260b9c5
+place_built: Bangor
 construction_material: wood
 construction_method: carvel
-draft: 0.8382
+construction_details: Carvel pitch pine on oak and elm
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bangor, Co Down
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: John McCrea
+  share: 64
+  start: 1999
+- share: 64
+  member: 3850
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9e396bc9-de03-444c-bc96-7749db366eab
+draft: 0.8382
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -29,26 +48,7 @@ handicap_data:
   fore_triangle_base: 1.6764203852718849
   length_on_waterline: 4.419653742989515
   fore_triangle_height: 4.57205559619605
-home_country: 'null'
-home_port: Bangor, Co Down
-hull_form: unknown
-id: 9e396bc9-de03-444c-bc96-7749db366eab
 length_on_deck: 5.5169
-callsign: ''
-ownerships:
-- name: John McCrea
-  share: 64
-  start: 1999
-- share: 64
-  member: 3850
-  current: true
-  start: '?'
-place_built: Bangor
-updated_at: '2021-12-19T13:39:37.160378+00:00'
-website: ''
-year: 1927
-year_is_approximate: false
-construction_details: Carvel pitch pine on oak and elm
 beam: 1.8288
 design_class:
   name: Waverley OD

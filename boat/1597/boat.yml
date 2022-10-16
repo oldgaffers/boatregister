@@ -6,17 +6,38 @@ mainsail_type: gaff
 short_description: <p>&#39;Redwing&#39;, originally named &#39;Cherub III&#39;, was
   Albert Strange&#39;s own last boat.</p>
 full_description: ''
-builder:
-  name: A.M. Dickie and Sons
-  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+year: 1911
+year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+place_built: Tarbert
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.6002
+construction_details: Pitch Pine on Oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Loch Feochan
+hull_form: long keel deep forefoot
+uk_part1: '133057'
+callsign: ''
+ownerships:
+- id: 270
+  share: 64
+  start: 2002
+  member: 3427
+  current: true
+updated_at: '2022-07-05T12:13:39.903595+00:00'
+website: ''
+id: 33ed0d41-f3a4-4adc-be73-f3d2c0c25d42
+previous_names:
+- Cherub III
+draft: 1.6002
 handicap_data:
   beam: 2.4902462813947817
   main:
@@ -37,28 +58,7 @@ handicap_data:
   fore_triangle_base: 4.26725188978298
   length_on_waterline: 6.986100950987564
   fore_triangle_height: 7.367105584003902
-home_country: GBR
-home_port: Loch Feochan
-hull_form: long keel deep forefoot
-id: 33ed0d41-f3a4-4adc-be73-f3d2c0c25d42
 length_on_deck: 8.6868
-spar_material: wood
-uk_part1: '133057'
-callsign: ''
-ownerships:
-- id: 270
-  share: 64
-  start: 2002
-  member: 3427
-  current: true
-place_built: Tarbert
-updated_at: '2022-07-05T12:13:39.903595+00:00'
-website: ''
-year: 1911
-year_is_approximate: false
-previous_names:
-- Cherub III
-construction_details: Pitch Pine on Oak
 beam: 2.4902
 for_sale_state:
   text: not_for_sale

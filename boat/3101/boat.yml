@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Local Cruising - Chichester Harbour to Portland
-builder:
-  name: Yarmouth Boat Co.
-  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+year: 2005
+year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+place_built: Sri Lanka/Yarmouth
 construction_material: grp
 construction_method: unknown
-draft: 0.9144
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+sail_number: Y23/28
+callsign: ''
+ownerships:
+- name: Roger Ball
+  share: 64
+  start: 2006
+- share: 64
+  member: 5730
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c9ea868b-5b02-4974-ae6e-17da8d276d7a
+draft: 0.9144
 handicap_data:
   beam: 2.2799317239697636
   main:
@@ -36,26 +55,7 @@ handicap_data:
   fore_triangle_base: 3.038892952938308
   length_on_waterline: 5.4864667154352595
   fore_triangle_height: 5.7912704218483295
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: c9ea868b-5b02-4974-ae6e-17da8d276d7a
 length_on_deck: 6.8885
-sail_number: Y23/28
-callsign: ''
-ownerships:
-- name: Roger Ball
-  share: 64
-  start: 2006
-- share: 64
-  member: 5730
-  current: true
-  start: '?'
-place_built: Sri Lanka/Yarmouth
-updated_at: '2021-12-19T13:39:57.825639+00:00'
-website: ''
-year: 2005
-year_is_approximate: false
 beam: 2.2799
 design_class:
   name: Yarmouth 23

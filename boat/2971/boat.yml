@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Self build
-builder:
-  name: Anthony Waterhouse
-  id: 71e89d30-1650-48d1-a493-ea70095c702d
+year: 2007
+year_is_approximate: false
 designer:
   name: John Garner
   id: 5256eeff-4438-4291-9f4d-d794224331c2
+builder:
+  name: Anthony Waterhouse
+  id: 71e89d30-1650-48d1-a493-ea70095c702d
+place_built: Bath
 construction_material: wood
 construction_method: clinker
-draft: 0.128
+construction_details: lapstrake red wood on oak frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Anthony Waterhouse
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6279e786-97ba-485a-ab69-22cef4aff2b5
+draft: 0.128
 handicap_data:
   beam: 1.396
   main:
@@ -27,22 +42,7 @@ handicap_data:
   fore_triangle_base: 1.2192
   length_on_waterline: 3.81
   fore_triangle_height: 1.9812
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 6279e786-97ba-485a-ab69-22cef4aff2b5
 length_on_deck: 4.825
-callsign: ''
-ownerships:
-- name: Anthony Waterhouse
-  share: 64
-  start: 2012
-place_built: Bath
-updated_at: '2021-12-19T13:39:54.997397+00:00'
-website: ''
-year: 2007
-year_is_approximate: false
-construction_details: lapstrake red wood on oak frames
 beam: 1.396
 for_sale_state:
   text: not_for_sale

@@ -6,29 +6,23 @@ mainsail_type: gaff
 short_description: <p>Rebuilt longer and deeper with a clipper bow by F J Harris at
   Barrow Sailing Club, Ferry Beach.</p>
 full_description: ''
-builder:
-  name: John Gibson and Sons
-  id: ad8da949-93e8-4d53-9961-1d698f5c9852
+year: 1896
+year_is_approximate: false
 designer:
   name: William Stoba
   id: a9c50d55-f3c5-4112-8f58-ed18082f5637
+builder:
+  name: John Gibson and Sons
+  id: ad8da949-93e8-4d53-9961-1d698f5c9852
+place_built: Fleetwood
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel Larch and Pitch Pine on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.9624481833699097
-  draft: 1.8288222384784198
-  propellor:
-    type: fixed
-  length_over_all: 14.630577907827359
-  length_on_waterline: 10.66812972445745
 home_country: 'null'
 home_port: Ardrishaig
 hull_form: long keel deep forefoot
-id: e4ff2905-2c7f-44b8-83ab-55c88e3b072d
-length_on_deck: 14.6304
 callsign: ''
 ownerships:
 - id: 167
@@ -36,12 +30,18 @@ ownerships:
   start: 1987
   member: 2592
   current: true
-place_built: Fleetwood
-updated_at: '2021-12-19T13:39:11.608138+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1896
-year_is_approximate: false
-construction_details: Carvel Larch and Pitch Pine on Oak
+id: e4ff2905-2c7f-44b8-83ab-55c88e3b072d
+draft: 1.8288
+handicap_data:
+  beam: 3.9624481833699097
+  draft: 1.8288222384784198
+  propellor:
+    type: fixed
+  length_over_all: 14.630577907827359
+  length_on_waterline: 10.66812972445745
+length_on_deck: 14.6304
 beam: 3.9624
 for_sale_state:
   text: not_for_sale

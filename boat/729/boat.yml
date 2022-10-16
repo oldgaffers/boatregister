@@ -5,27 +5,24 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>The last boat built by Bill Wiggins for his own use.</p>
 full_description: ''
-builder:
-  name: Bill Wiggins
-  id: 20ca73ca-721f-45c2-afd5-88e28d2768ff
+year: 1947
+year_is_approximate: false
 designer:
   name: Bill Wiggins
   id: 98782ccc-4dff-42d5-a6cf-58c7f429bdf8
+builder:
+  name: Bill Wiggins
+  id: 20ca73ca-721f-45c2-afd5-88e28d2768ff
+place_built: Great Wakering
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Timber double planked Carvel on 1 x1 &quot;oak timbers with
+  three grown frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9812240916849548
-  draft: 0.9144111192392099
-  length_over_all: 5.4864667154352595
-  length_on_waterline: 5.18166300902219
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 3848ec95-6cd6-4582-a8d9-f287ecc158e1
-length_on_deck: 5.4864
 sail_number: '729'
 callsign: ''
 ownerships:
@@ -34,13 +31,16 @@ ownerships:
   start: 1990
   member: 2596
   current: true
-place_built: Great Wakering
-updated_at: '2021-12-19T13:38:50.762301+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1947
-year_is_approximate: false
-construction_details: Timber double planked Carvel on 1 x1 &quot;oak timbers with
-  three grown frames
+id: 3848ec95-6cd6-4582-a8d9-f287ecc158e1
+draft: 0.9144
+handicap_data:
+  beam: 1.9812240916849548
+  draft: 0.9144111192392099
+  length_over_all: 5.4864667154352595
+  length_on_waterline: 5.18166300902219
+length_on_deck: 5.4864
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

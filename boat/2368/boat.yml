@@ -13,30 +13,45 @@ full_description: "<p>&#39;Letty May&#39;, built 1978, is a Memory 19, designed 
   \ not liking the GRP standard cabins of that time. The second owner kept her on\
   \ Walton Backwaters for 19 years.</p>\r\n\r\n<p>Since 2000 she has been sailing\
   \ and racing&nbsp;out of the River Blackwater.</p>"
-builder:
-  name: Eric Bergqvist
-  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+year: 1978
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+place_built: Lymm
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 0.5486
 engine_installations: []
 for_sales:
 - asking_price: 6000
-  flexibility: normal
-  offered: null
-  price_flexibility:
-    text: normal
-  reduced: false
-  sales_text: <p>"Letty May" is a 1978 Memory 19 gaff sloop with two&nbsp;berths and
-    a cosy cabin. Mariner 3.3 outboard and good sail wardrobe. She is a regular race
-    winner, twice winning the OGA East Coast Race. Also available, if wanted, four
-    wheel yard trailer, mooring and ground tackle. Lying Essex.</p>
-  sold: null
-  summary: null
-  updated_at: '2020-05-03T10:13:12.959792+00:00'
+home_country: GBR
+home_port: Maldon
+hull_form: centre-boarder
+sail_number: LM
+callsign: ''
+ownerships:
+- end: 2018
+  name: Nick Hillman
+  share: 64
+  start: 2000
+- name: Adrian Lower
+  share: 64
+  start: 2019
+- id: 1044
+  share: 64
+  member: 6297
+  current: true
+  start: '?'
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: 00821aac-be02-4962-9492-bd8c5cd822ad
+image_key: XthhCx
+thumb: https://photos.smugmug.com/photos/i-tc6HBrH/0/Th/i-tc6HBrH-Th.jpg
+draft: 0.5486
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -53,33 +68,7 @@ handicap_data:
   fore_triangle_base: 2.843818580833943
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 5.282248232138502
-home_country: GBR
-home_port: Maldon
-hull_form: centre-boarder
-id: 00821aac-be02-4962-9492-bd8c5cd822ad
 length_on_deck: 5.7912
-sail_number: LM
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2018
-  name: Nick Hillman
-  share: 64
-  start: 2000
-- name: Adrian Lower
-  share: 64
-  start: 2019
-- id: 1044
-  share: 64
-  member: 6297
-  current: true
-  start: '?'
-place_built: Lymm
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-image_key: XthhCx
 beam: 2.1336
 design_class:
   name: Memory 19

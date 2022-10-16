@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Water Craft Sep/Oct 98 Bare hull outfitted by D Brandon, Nov 1983.
-builder:
-  name: D. Brandon
-  id: 4098a3c7-e0fb-4790-a362-d358f9132fb4
+year: 1984
+year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+builder:
+  name: D. Brandon
+  id: 4098a3c7-e0fb-4790-a362-d358f9132fb4
+place_built: Bosham
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP hull, wood deck & trunk
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Lymington
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Andrew E Kempton-Campbell
+  share: 64
+  start: 1992
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 425f4285-7c83-4772-926f-c6e55428d14f
+draft: 0.9144
 handicap_data:
   beam: 1.929407461594733
   main:
@@ -31,22 +46,7 @@ handicap_data:
   fore_triangle_base: 3.3528407705437697
   length_on_waterline: 4.800658376005852
   fore_triangle_height: 6.4008778346744695
-home_country: 'null'
-home_port: Lymington
-hull_form: unknown
-id: 425f4285-7c83-4772-926f-c6e55428d14f
 length_on_deck: 4.8768
-callsign: ''
-ownerships:
-- name: Andrew E Kempton-Campbell
-  share: 64
-  start: 1992
-place_built: Bosham
-updated_at: '2021-12-19T13:39:04.158904+00:00'
-website: ''
-year: 1984
-year_is_approximate: false
-construction_details: GRP hull, wood deck & trunk
 beam: 1.9294
 design_class:
   name: Oysterman 16

@@ -5,17 +5,42 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Douglas Stone and Sons
-  id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
+year: 1895
+year_is_approximate: false
 designer:
   name: Stone Bros.
   id: e33e7b08-e429-4aa9-a8b9-8e5c88cf2559
+builder:
+  name: Douglas Stone and Sons
+  id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
+place_built: Brightlingsea
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.4478
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 94
+  end: 2021
+  share: 64
+  start: 1988
+  member: 1800
+- id: 494
+  share: 64
+  start: 2021
+  member: 4704
+  current: true
+updated_at: '2022-05-10T19:25:20.41547+00:00'
+website: ''
+id: dbe81adb-3892-4ea2-b762-b8be939a14d0
+image_key: B4qZdf
+thumb: https://photos.smugmug.com/photos/i-9pD6M4k/0/Th/i-9pD6M4k-Th.jpg
+draft: 1.4478
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -30,31 +55,7 @@ handicap_data:
   fore_triangle_base: 7.315288953913679
   length_on_waterline: 8.482687149475737
   fore_triangle_height: 6.858083394294074
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: dbe81adb-3892-4ea2-b762-b8be939a14d0
 length_on_deck: 9.7536
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 94
-  end: 2021
-  share: 64
-  start: 1988
-  member: 1800
-- id: 494
-  share: 64
-  start: 2021
-  member: 4704
-  current: true
-place_built: Brightlingsea
-updated_at: '2022-05-10T19:25:20.41547+00:00'
-website: ''
-year: 1895
-year_is_approximate: false
-image_key: B4qZdf
-construction_details: Carvel
 beam: 3.048
 for_sale_state:
   text: not_for_sale

@@ -5,23 +5,24 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: Camper and Nicholson Ltd.
-  id: 83a839af-b960-4cce-a881-b4401432846c
+year: 1979
+year_is_approximate: false
 designer:
   name: Charles E. Nicholson
   id: f97b2d74-8535-4ed5-8602-651d2ca2898f
+builder:
+  name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
+place_built: Gosport
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: GRP
 engine_installations: []
 for_sales:
 - asking_price: null
 home_country: GBR
 home_port: Hamble
 hull_form: fin keel
-id: acddb975-9c89-4e54-9846-8239157a6a1a
-length_on_deck: 0
 sail_number: 3931Y
 uk_part1: '387201'
 callsign: ''
@@ -31,16 +32,16 @@ ownerships:
   start: 2008
   member: 1734
   current: true
-place_built: Gosport
-updated_at: '2021-12-19T13:40:02.013651+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1979
-year_is_approximate: false
+id: acddb975-9c89-4e54-9846-8239157a6a1a
 previous_names:
 - Milky Way
 - Blazeaway
 image_key: 7RR9Dv
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-XVZN2J9/0/Th/i-XVZN2J9-Th.jpg
+draft: 0
+length_on_deck: 0
 beam: 0
 design_class:
   name: Nicholson 35

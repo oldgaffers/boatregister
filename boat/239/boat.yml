@@ -5,42 +5,43 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 71/4, 78/4
-builder:
-  name: Robertson
-  id: 1fa43a0f-f746-4a63-8a65-5c9f8928d43f
+year: 1913
+year_is_approximate: false
 designer:
   name: A.V. Robertson
   id: b4c28c22-c362-40a8-8fe0-7aecb87c00ed
+builder:
+  name: Robertson
+  id: 1fa43a0f-f746-4a63-8a65-5c9f8928d43f
+place_built: Woodbridge
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.3716
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8041940990002434
-  draft: 1.3716166788588149
-  length_over_all: 10.271884906120459
-  length_on_waterline: 8.53450377956596
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 1c9f0ec9-3270-4573-83f3-6f2783dfe8f4
-length_on_deck: 10.2718
 reference:
 - Log 71/4
 - Log 78/4
-spar_material: wood
 callsign: ''
 ownerships:
 - name: J C Tancred
   share: 64
   start: 2012
-place_built: Woodbridge
-updated_at: '2021-12-19T13:38:36.596144+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1913
-year_is_approximate: false
+id: 1c9f0ec9-3270-4573-83f3-6f2783dfe8f4
 image_key: MCBSTh
+thumb: ttps://photos.smugmug.com/photos/i-fLNpsW2/0/Th/i-fLNpsW2-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.8041940990002434
+  draft: 1.3716166788588149
+  length_over_all: 10.271884906120459
+  length_on_waterline: 8.53450377956596
+length_on_deck: 10.2718
 beam: 2.8042
 for_sale_state:
   text: not_for_sale

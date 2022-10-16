@@ -6,14 +6,29 @@ mainsail_type: gaff
 short_description: ''
 full_description: Imports boats from South Africa, uses as own boat/demonstrator,
   then sells on.  Has web site with list of UK owners.  See CB Sept '03.
+year: 2003
+year_is_approximate: false
 designer:
   name: Dudley Dix
   id: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
+place_built: South africa
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3993
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Nick Voorhoeve
+  share: 64
+  start: 2003
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 38abcb8d-d5e8-4a37-a3af-046025593e62
+draft: 0.3993
 handicap_data:
   beam: 2.200682760302365
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 3.401609363569861
   length_on_waterline: 5.501706900755913
   fore_triangle_height: 5.5992440868080955
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 38abcb8d-d5e8-4a37-a3af-046025593e62
 length_on_deck: 5.8003
-callsign: ''
-ownerships:
-- name: Nick Voorhoeve
-  share: 64
-  start: 2003
-place_built: South africa
-updated_at: '2021-12-19T13:39:43.167621+00:00'
-website: ''
-year: 2003
-year_is_approximate: false
-construction_details: GRP
 beam: 2.2007
 design_class:
   name: Cape Cutter 19

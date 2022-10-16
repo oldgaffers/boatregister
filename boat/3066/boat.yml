@@ -7,17 +7,40 @@ short_description: Built in 1975, Arwen is one of the original Memory 19s, compl
   at home by her first owner, Hugh Harrison.
 full_description: Her current owner, Roger Wallington has converted the mast to deck
   stepped, adding a sliding hatchway and inboard engine.
-builder:
-  name: Harrison
-  id: dc93b6b8-f061-4d7e-a409-61a432c140d8
+year: 1975
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Harrison
+  id: dc93b6b8-f061-4d7e-a409-61a432c140d8
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5486
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bristol Channel
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- end: 2010
+  name: Hugh Harrison
+  share: 64
+  start: 1975
+- id: 674
+  share: 64
+  start: 2010
+  member: 5536
+  current: true
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: a9830bff-25ce-4eff-997f-2cdf378037d5
+image_key: ZpTfBw
+thumb: https://photos.smugmug.com/photos/i-vdXNBSL/0/Th/i-vdXNBSL-Th.jpg
+draft: 0.5486
 handicap_data:
   beam: 2.1300259043525966
   main:
@@ -39,29 +62,7 @@ handicap_data:
   fore_triangle_base: 2.7300332013533284
   length_on_waterline: 5.690069199890271
   fore_triangle_height: 5.60006810534016
-home_country: GBR
-home_port: Bristol Channel
-hull_form: centre-boarder
-id: a9830bff-25ce-4eff-997f-2cdf378037d5
 length_on_deck: 5.7912
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2010
-  name: Hugh Harrison
-  share: 64
-  start: 1975
-- id: 674
-  share: 64
-  start: 2010
-  member: 5536
-  current: true
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1975
-year_is_approximate: false
-image_key: ZpTfBw
-construction_details: GRP
 beam: 2.1031
 design_class:
   name: Memory 19

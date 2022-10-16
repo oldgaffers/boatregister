@@ -5,17 +5,36 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: See letter for list of owners
-builder:
-  name: Harry Feltham
-  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+year: 1936
+year_is_approximate: false
 designer:
   name: Harry Feltham
   id: f8c85f47-b20c-4687-baea-172a05d5d1f1
+builder:
+  name: Harry Feltham
+  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
-draft: 0.6858
+construction_details: Carvel pitch pine on rock elm
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Faversham
+hull_form: long keel deep forefoot
+sail_number: 3648Y
+ssr: '2184'
+callsign: ''
+ownerships:
+- name: Chris Chipchase
+  share: 64
+  start: 2002
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fb645c83-4373-4f78-b12c-ddd7cee72e66
+previous_names:
+- Margaret
+draft: 0.6858
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -29,26 +48,7 @@ handicap_data:
   fore_triangle_base: 2.590831504511095
   length_on_waterline: 6.858083394294074
   fore_triangle_height: 6.4008778346744695
-home_country: 'null'
-home_port: Faversham
-hull_form: long keel deep forefoot
-id: fb645c83-4373-4f78-b12c-ddd7cee72e66
 length_on_deck: 7.4676
-sail_number: 3648Y
-ssr: '2184'
-callsign: ''
-ownerships:
-- name: Chris Chipchase
-  share: 64
-  start: 2002
-place_built: Portsmouth
-updated_at: '2021-12-19T13:40:00.377857+00:00'
-website: ''
-year: 1936
-year_is_approximate: false
-previous_names:
-- Margaret
-construction_details: Carvel pitch pine on rock elm
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

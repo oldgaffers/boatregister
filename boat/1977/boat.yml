@@ -5,17 +5,31 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Water Craft Jan/Feb 98, and July/August 2003 CB Sep 90
-builder:
-  name: North Norfolk Boat Building Co.
-  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+year: 1995
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: North Norfolk Boat Building Co.
+  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+place_built: Norfolk
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Dittisham
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Andrew Frankland
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0afa8c2f-bf3b-4d09-b9c3-28f5efaa59d1
+draft: 0
 handicap_data:
   beam: 1.9050231650816873
   main:
@@ -27,21 +41,7 @@ handicap_data:
   fore_triangle_base: 1.8288222384784198
   length_on_waterline: 4.724457449402585
   fore_triangle_height: 4.367837112899292
-home_country: 'null'
-home_port: Dittisham
-hull_form: unknown
-id: 0afa8c2f-bf3b-4d09-b9c3-28f5efaa59d1
 length_on_deck: 5.0597
-callsign: ''
-ownerships:
-- name: Andrew Frankland
-  share: 64
-  start: 2012
-place_built: Norfolk
-updated_at: '2021-12-19T13:39:25.866139+00:00'
-website: ''
-year: 1995
-year_is_approximate: false
 beam: 1.905
 for_sale_state:
   text: not_for_sale

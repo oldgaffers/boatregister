@@ -6,26 +6,23 @@ mainsail_type: bermudan
 short_description: <p>Laurent Giles Peter Duck design.</p>
 full_description: <p>Casuella sailed to Brest festivals but little is known of her
   history</p>
-builder:
-  name: Porter and Haylett Ltd.
-  id: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
+year: 1963
+year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+builder:
+  name: Porter and Haylett Ltd.
+  id: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
+place_built: Wroxham
 construction_material: wood
 construction_method: unknown
-draft: 1.1186
+construction_details: Iroko planking on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 7
-  length_overall: 8.6868
-  length_on_waterline: 7.62
 home_country: GBR
 home_port: Cowes
 hull_form: long keel deep forefoot
-id: 0cfa528d-b6b4-4773-87b0-cb92c106ac8a
-length_on_deck: 8.6868
 callsign: ''
 ownerships:
 - end: 2013
@@ -40,12 +37,15 @@ ownerships:
   member: 5864
   current: true
   start: '?'
-place_built: Wroxham
-updated_at: '2021-12-19T13:40:00.944399+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1963
-year_is_approximate: false
-construction_details: Iroko planking on oak
+id: 0cfa528d-b6b4-4773-87b0-cb92c106ac8a
+draft: 1.1186
+handicap_data:
+  sailarea: 7
+  length_overall: 8.6868
+  length_on_waterline: 7.62
+length_on_deck: 8.6868
 beam: 2.6914
 design_class:
   name: Peter Duck

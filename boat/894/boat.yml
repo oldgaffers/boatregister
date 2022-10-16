@@ -73,38 +73,23 @@ full_description: "<p><strong>History</strong></p><p><strong>1930 to 1948</stron
   \ and great grandson of William Taylor</p><p>Mike Barnes &nbsp;&nbsp;Archivist,\
   \ Norfolk Broads Yacht Club</p><p>Les Gee, Maurice Ward (brother of Terry), Tony\
   \ Webster</p><p>Mark Wakelin</p><p>Richard Gavin.</p><p>from Sue Lewis Jan 2021</p>"
-builder:
-  name: ErnestgL. Woods
-  id: ec55bb9c-9b87-409b-9ae2-4b5269882e92
+year: 1930
+year_is_approximate: false
 designer:
   name: R. Cousins
   id: 5c5e036b-41b7-4ca4-bec3-219f68b81b83
+builder:
+  name: ErnestgL. Woods
+  id: ec55bb9c-9b87-409b-9ae2-4b5269882e92
+place_built: Horning
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel  Pensacola pitch pine on steamed oak frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.346988539380639
-  main:
-    foot: 4.724457449402585
-    head: 3.3528407705437697
-    luff: 4.26725188978298
-  thcf: 0.903
-  draft: 1.21921482565228
-  topsail:
-    luff: 3.3528407705437697
-    perpendicular: 1.6764203852718849
-  sailarea: 34.65054505515055
-  length_over_all: 7.010485247500609
-  fore_triangle_base: 3.9624481833699097
-  length_on_waterline: 6.4008778346744695
-  fore_triangle_height: 6.583760058522312
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel sloping forefoot
-id: 69d3c9eb-14f3-49d3-9329-eac1ce5a89a3
-length_on_deck: 7.0104
 sail_number: '894'
 ssr: '116810'
 uk_part1: '185678'
@@ -148,16 +133,32 @@ ownerships:
   start: 2018
   member: 4118
   current: true
-place_built: Horning
-updated_at: '2021-12-19T13:38:55.344717+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1930
-year_is_approximate: false
+id: 69d3c9eb-14f3-49d3-9329-eac1ce5a89a3
 previous_names:
 - Quest
 - Melody
 image_key: SKNVbt
-construction_details: Carvel  Pensacola pitch pine on steamed oak frames
+thumb: https://photos.smugmug.com/photos/i-ctwP6WZ/0/Th/i-ctwP6WZ-Th.jpg
+draft: 1.2192
+handicap_data:
+  beam: 2.346988539380639
+  main:
+    foot: 4.724457449402585
+    head: 3.3528407705437697
+    luff: 4.26725188978298
+  thcf: 0.903
+  draft: 1.21921482565228
+  topsail:
+    luff: 3.3528407705437697
+    perpendicular: 1.6764203852718849
+  sailarea: 34.65054505515055
+  length_over_all: 7.010485247500609
+  fore_triangle_base: 3.9624481833699097
+  length_on_waterline: 6.4008778346744695
+  fore_triangle_height: 6.583760058522312
+length_on_deck: 7.0104
 beam: 2.3378
 for_sale_state:
   text: not_for_sale

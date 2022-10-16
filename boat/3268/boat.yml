@@ -11,28 +11,24 @@ full_description: "<p>&#39;Morwenna&#39; is a beautiful Cornish Crabber 22&rsquo
   \n\r\n<p>When originally built, and called &#39;Salem&#39;, she was exported to\
   \ the USA and shipped back to the UK by the second owners in 2011 since when she\
   \ has cruised the West Country.</p>\r\n\r\n<p>She was sold in 2016.</p>"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1997
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7102
+construction_details: GRP
 engine_installations: []
 for_sales:
 - asking_price: 29950
-handicap_data:
-  length_overall: 6.7056
-  moving_keel_type: Centreboard
-  length_over_spars: 8.2296
-  length_on_waterline: 6.2911
 home_country: GBR
 home_port: Mylor
 hull_form: long keel deep forefoot
-id: 27dc50c7-54f4-4792-b34d-2ad780d2a6f7
-length_on_deck: 6.7056
 sail_number: C27
 ssr: '96775'
 callsign: To advise when installed
@@ -41,15 +37,20 @@ ownerships:
   name: Stephen and Christine Rear
   share: 64
   start: 2011
-place_built: Rock
-updated_at: '2021-12-19T13:40:05.793613+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1997
-year_is_approximate: false
+id: 27dc50c7-54f4-4792-b34d-2ad780d2a6f7
 previous_names:
 - Salem
 image_key: BwK9hr
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-SCbDLht/0/Th/i-SCbDLht-Th.jpg
+draft: 0.7102
+handicap_data:
+  length_overall: 6.7056
+  moving_keel_type: Centreboard
+  length_over_spars: 8.2296
+  length_on_waterline: 6.2911
+length_on_deck: 6.7056
 beam: 2.2494
 design_class:
   name: Cornish Yawl

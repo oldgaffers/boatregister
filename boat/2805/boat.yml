@@ -5,17 +5,36 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2004
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Burlesdon
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: grp
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Rye
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- end: 2016
+  name: 'Jane Challener '
+  share: 64
+  start: 2006
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: 750022fe-de13-4768-a95a-e24c878c5a3e
+image_key: qSfTB8
+thumb: https://photos.smugmug.com/photos/i-GgzfK2z/0/Th/i-GgzfK2z-Th.jpg
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -32,24 +51,7 @@ handicap_data:
   fore_triangle_base: 2.801146061936113
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 5.867471348451597
-home_country: GBR
-home_port: Rye
-hull_form: unknown
-id: 750022fe-de13-4768-a95a-e24c878c5a3e
 length_on_deck: 5.9436
-callsign: ''
-ownerships:
-- end: 2016
-  name: 'Jane Challener '
-  share: 64
-  start: 2006
-place_built: Burlesdon
-updated_at: '2021-12-19T13:39:50.002182+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-image_key: qSfTB8
-construction_details: grp
 beam: 2.1336
 design_class:
   name: Memory 19

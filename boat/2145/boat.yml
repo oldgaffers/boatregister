@@ -6,17 +6,33 @@ mainsail_type: gaff
 short_description: <p>Constance Thomas is a Lyle Hess cutter and is a sistership to
   Renegade</p>
 full_description: ''
-builder:
-  name: International Boat Building Traning Centre
-  id: 3836458d-0450-4ee1-bc73-1e73b2bfd0fa
+year: 1997
+year_is_approximate: false
 designer:
   name: Lyle C. Hess
   id: 9f6f41e8-2aed-4694-84e8-45732b0cf22a
+builder:
+  name: International Boat Building Traning Centre
+  id: 3836458d-0450-4ee1-bc73-1e73b2bfd0fa
+place_built: Lowestoft
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Salcombe
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- id: 289
+  share: 64
+  start: 1997
+  member: 3523
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 83781de3-aa64-4685-b028-5a4187663fae
+draft: 0
 handicap_data:
   beam: 2.718849061204584
   main:
@@ -33,23 +49,7 @@ handicap_data:
   fore_triangle_base: 4.648256522799317
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 5.867471348451597
-home_country: GBR
-home_port: Salcombe
-hull_form: long keel sloping forefoot
-id: 83781de3-aa64-4685-b028-5a4187663fae
 length_on_deck: 7.492
-callsign: ''
-ownerships:
-- id: 289
-  share: 64
-  start: 1997
-  member: 3523
-  current: true
-place_built: Lowestoft
-updated_at: '2021-12-19T13:39:30.529392+00:00'
-website: ''
-year: 1997
-year_is_approximate: false
 beam: 2.7188
 for_sale_state:
   text: not_for_sale

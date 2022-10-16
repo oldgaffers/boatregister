@@ -5,17 +5,34 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Possibly at Dunkirk, listed in Lloyds from 1940's
-builder:
-  name: ErnestgF. Elkins
-  id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
+year: 1932
+year_is_approximate: false
 designer:
   name: Elkins
   id: add24da0-f687-409a-b355-d58da07fb26f
+builder:
+  name: ErnestgF. Elkins
+  id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
+place_built: Christchurch
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Pitch pine on oak carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Poole
+hull_form: long keel deep forefoot
+ssr: '114061'
+uk_part1: '187996'
+callsign: ''
+ownerships:
+- name: David Ashley
+  share: 64
+  start: 2004
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 061749dd-4b58-41fe-b0e6-c2373b5b5a69
+draft: 0.9144
 handicap_data:
   beam: 2.539014874420873
   main:
@@ -34,24 +51,7 @@ handicap_data:
   fore_triangle_base: 1.21921482565228
   length_on_waterline: 9.881736161911729
   fore_triangle_height: 5.7912704218483295
-home_country: 'null'
-home_port: Poole
-hull_form: long keel deep forefoot
-id: 061749dd-4b58-41fe-b0e6-c2373b5b5a69
 length_on_deck: 9.8816
-ssr: '114061'
-uk_part1: '187996'
-callsign: ''
-ownerships:
-- name: David Ashley
-  share: 64
-  start: 2004
-place_built: Christchurch
-updated_at: '2021-12-19T13:38:56.879883+00:00'
-website: ''
-year: 1932
-year_is_approximate: false
-construction_details: Pitch pine on oak carvel
 beam: 2.539
 for_sale_state:
   text: not_for_sale

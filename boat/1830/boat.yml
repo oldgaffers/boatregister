@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 89/3, Au/93. Jun 2010 log for sale p. 49
-builder:
-  name: Arthur Holt
-  id: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
+year: 1980
+year_is_approximate: false
 designer:
   name: Arthur Holt
   id: 24308b60-4e0a-44aa-b47c-b16e5392a93b
+builder:
+  name: Arthur Holt
+  id: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
+place_built: Heybridge
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel on laminated frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 89/3
+- Log Aug 93
+- Log Jun 2010 p. 49
+callsign: ''
+ownerships:
+- name: M C R Emmett
+  share: 64
+  start: 1980
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b9376684-ae34-401b-ab75-feb58da13a2b
+draft: 1.2192
 handicap_data:
   beam: 3.5052426237503047
   main:
@@ -30,26 +49,7 @@ handicap_data:
   fore_triangle_base: 7.467690807120214
   length_on_waterline: 9.44891489880517
   fore_triangle_height: 7.010485247500609
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: b9376684-ae34-401b-ab75-feb58da13a2b
 length_on_deck: 9.9578
-reference:
-- Log 89/3
-- Log Aug 93
-- Log Jun 2010 p. 49
-callsign: ''
-ownerships:
-- name: M C R Emmett
-  share: 64
-  start: 1980
-place_built: Heybridge
-updated_at: '2021-12-19T13:39:21.547652+00:00'
-website: ''
-year: 1980
-year_is_approximate: false
-construction_details: Carvel on laminated frames
 beam: 3.5052
 for_sale_state:
   text: not_for_sale

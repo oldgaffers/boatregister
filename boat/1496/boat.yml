@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: William King and Sons
-  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+year: 1910
+year_is_approximate: false
 designer:
   name: G.U. Laws
   id: 6b0e581f-8507-4748-8d44-f8fb73dbef19
+builder:
+  name: William King and Sons
+  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
-draft: 1.4478
+construction_details: Carvel Teak on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Wrabness
+hull_form: unknown
+uk_part1: '135938'
+callsign: ''
+ownerships:
+- name: J Alexander
+  share: 64
+  start: 1983
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fcf6a35b-df75-4b66-9ca2-e02cf0230ca9
+draft: 1.4478
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -28,23 +44,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.858083394294074
   fore_triangle_height: 7.040965618141917
-home_country: 'null'
-home_port: Wrabness
-hull_form: unknown
-id: fcf6a35b-df75-4b66-9ca2-e02cf0230ca9
 length_on_deck: 9.8146
-uk_part1: '135938'
-callsign: ''
-ownerships:
-- name: J Alexander
-  share: 64
-  start: 1983
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:39:13.024381+00:00'
-website: ''
-year: 1910
-year_is_approximate: false
-construction_details: Carvel Teak on Oak
 beam: 2.286
 for_sale_state:
   text: not_for_sale

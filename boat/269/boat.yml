@@ -41,33 +41,25 @@ full_description: "Lillibullero was built in Boston (Lincolnshire), 1932, by A.M
   \ has been back to England twice to visit the Shotley Classic Boat and Beer festival.\
   \ She also attended every Dutch Classic Yacht Regatta at Hellevoetsluis from 1991\
   \ to 2009.."
-builder:
-  name: Alexander E. Gostelow
-  id: 8d74da63-305e-4666-8f7f-931df43292b5
+year: 1932
+year_is_approximate: false
 designer:
   name: Alexander E. Gostelow
   id: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
+builder:
+  name: Alexander E. Gostelow
+  id: 8d74da63-305e-4666-8f7f-931df43292b5
+place_built: Boston
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.4326
 engine_installations: []
 for_sales:
 - asking_price: 37000
 - asking_price: 35000
-handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.432577420141429
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 9.75371860521824
-  length_on_waterline: 8.83930748597903
 home_country: GBR
 home_port: Holbrook
 hull_form: long keel deep forefoot
-id: 66da7f6b-2fc5-4bea-bf33-34578dc75fbb
-length_on_deck: 9.7536
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1947
@@ -110,12 +102,21 @@ ownerships:
   member: 2791
   current: true
   start: '?'
-place_built: Boston
-updated_at: '2021-12-19T13:38:37.602674+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1932
-year_is_approximate: false
+id: 66da7f6b-2fc5-4bea-bf33-34578dc75fbb
 image_key: R9hDWX
+thumb: https://photos.smugmug.com/photos/i-D8DtBsF/0/Th/i-D8DtBsF-Th.jpg
+draft: 1.4326
+handicap_data:
+  beam: 2.8956352109241648
+  draft: 1.432577420141429
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 9.75371860521824
+  length_on_waterline: 8.83930748597903
+length_on_deck: 9.7536
 beam: 2.8956
 for_sale_state:
   text: for_sale

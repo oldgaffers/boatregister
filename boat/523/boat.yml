@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 79/3, 80/1
-builder:
-  name: Whisstocks Boatyard Ltd
-  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+year: 1936
+year_is_approximate: false
 designer:
   name: William Maxwell Blake
   id: 7be4728c-aec1-4b98-9245-33fa05964add
+builder:
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
+construction_details: pitch pine on CRE timbers
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.3774689100219457
-  draft: 1.3716166788588149
-  length_over_all: 7.620092660326749
-  length_on_waterline: 7.162887100707144
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 5df911d1-a445-49fd-8fbc-4add3ab80516
-length_on_deck: 7.62
 reference:
 - Log 79/3
 - Log 80/1
@@ -34,13 +30,18 @@ ownerships:
 - name: T Prichard
   share: 64
   start: 2012
-place_built: Woodbridge
-updated_at: '2021-12-19T13:38:44.748656+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1936
-year_is_approximate: false
+id: 5df911d1-a445-49fd-8fbc-4add3ab80516
 image_key: 3dcPff
-construction_details: pitch pine on CRE timbers
+thumb: https://photos.smugmug.com/photos/i-XK2HVHS/0/Th/i-XK2HVHS-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.3774689100219457
+  draft: 1.3716166788588149
+  length_over_all: 7.620092660326749
+  length_on_waterline: 7.162887100707144
+length_on_deck: 7.62
 beam: 2.3774
 for_sale_state:
   text: not_for_sale

@@ -5,29 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 83/2, 87/2 CB Mar '93
-builder:
-  name: A.H. Watty and Sons
-  id: 38047e91-0349-4b10-aa50-f4b4806c6915
+year: 1921
+year_is_approximate: false
 designer:
   name: A.H. Watty
   id: 2aea0045-40dc-4a04-949d-40dc23e97afe
+builder:
+  name: A.H. Watty and Sons
+  id: 38047e91-0349-4b10-aa50-f4b4806c6915
+place_built: Fowey
 construction_material: wood
 construction_method: carvel
-draft: 1.4234
+construction_details: Carvel Pitch Pine on Oak, lead keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.1854425749817117
-  draft: 1.4234333089490367
-  propellor:
-    type: fixed
-  length_over_all: 6.4008778346744695
-  length_on_waterline: 6.035113386978786
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
-id: 532eeb23-a4c8-4f5e-adf1-609a2decbc6d
-length_on_deck: 6.4008
 reference:
 - Log 83/2
 - Log 87/2
@@ -37,12 +31,18 @@ ownerships:
 - name: P R Bedwell
   share: 64
   start: 1985
-place_built: Fowey
-updated_at: '2021-12-19T13:38:48.601134+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1921
-year_is_approximate: false
-construction_details: Carvel Pitch Pine on Oak, lead keel
+id: 532eeb23-a4c8-4f5e-adf1-609a2decbc6d
+draft: 1.4234
+handicap_data:
+  beam: 2.1854425749817117
+  draft: 1.4234333089490367
+  propellor:
+    type: fixed
+  length_over_all: 6.4008778346744695
+  length_on_waterline: 6.035113386978786
+length_on_deck: 6.4008
 beam: 2.1854
 for_sale_state:
   text: not_for_sale

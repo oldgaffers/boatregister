@@ -17,26 +17,24 @@ full_description: "<p>&#39;Betsy&#39; is a very pretty Bermudan yawl, designed b
   \ to that point. Her sails were originally made by Gowans, although by 1980 some\
   \ were also from Jeckells.</p>\r\n\r\n<p>30 ft overall carvel planked, pitch pine\
   \ on oak timbers.</p>"
-builder:
-  name: Walter Cook
-  id: 4cee8312-2bc7-49c8-bc84-2a9c6018d11b
+year: 1930
+year_is_approximate: false
 designer:
   name: Walter Easton
   id: 9a052a4d-0f8c-4876-b447-ef6a80b85609
+builder:
+  name: Walter Cook
+  id: 4cee8312-2bc7-49c8-bc84-2a9c6018d11b
+place_built: Maldon
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel, Pitch pine on oak
 engine_installations: []
 for_sales:
 - asking_price: 3000
-handicap_data:
-  length_overall: 9.144
-  length_on_waterline: 7.9248
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: cdcfeadf-4d10-4777-bf33-7c81de93005b
-length_on_deck: 9.144
 callsign: ''
 ownerships:
 - note: 'Built for Major Blewitt in 1930, he kept her for 4 years. She was then owned
@@ -73,13 +71,16 @@ ownerships:
   name: Ian Kemp
   share: 64
   start: 2010
-place_built: Maldon
-updated_at: '2021-12-19T13:40:10.112182+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1930
-year_is_approximate: false
+id: cdcfeadf-4d10-4777-bf33-7c81de93005b
 image_key: TZ8tCX
-construction_details: Carvel, Pitch pine on oak
+thumb: https://photos.smugmug.com/photos/i-mvV9rsp/0/Th/i-mvV9rsp-Th.jpg
+draft: 1.3716
+handicap_data:
+  length_overall: 9.144
+  length_on_waterline: 7.9248
+length_on_deck: 9.144
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

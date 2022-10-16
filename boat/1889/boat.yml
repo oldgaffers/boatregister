@@ -10,17 +10,38 @@ full_description: "In 1999 her owner, Simon, sailed her to the Canaries. Leaving
   \ was very successful in the Antigua Classics winning every race in her class and\
   \ a second in the Concours d\u2019Elegance competition for owner maintained boat.\
   \ After this she returned to England."
-builder:
-  name: Peter Nash
-  id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
+year: 1982
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: Peter Nash
+  id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
+place_built: Dartmouth
 construction_material: wood
 construction_method: unknown
-draft: 2.0422
+construction_details: Iroko on grown oak frames copper fastened
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Dartmouth
+hull_form: long keel deep forefoot
+sail_number: 5510T
+uk_part1: '700889'
+callsign: ''
+ownerships:
+- note: "For sale in Classic Boat, Sept 2002, no 171, \xA3125,000 from Gosport."
+  text: For sale in Classic Boat, Sept
+  start: 2002
+  start_is_approximate: false
+- name: Bob Strawson
+  share: 64
+  start: 2007
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 35bc028d-3aa7-4729-8bed-b24fee42b8b2
+draft: 2.0422
 handicap_data:
   beam: 3.886247256766642
   main:
@@ -38,28 +59,7 @@ handicap_data:
   fore_triangle_base: 8.83930748597903
   length_on_waterline: 11.887344550109729
   fore_triangle_height: 16.45940014630578
-home_country: 'null'
-home_port: Dartmouth
-hull_form: long keel deep forefoot
-id: 35bc028d-3aa7-4729-8bed-b24fee42b8b2
 length_on_deck: 12.8016
-sail_number: 5510T
-uk_part1: '700889'
-callsign: ''
-ownerships:
-- note: "For sale in Classic Boat, Sept 2002, no 171, \xA3125,000 from Gosport."
-  text: For sale in Classic Boat, Sept
-  start: 2002
-  start_is_approximate: false
-- name: Bob Strawson
-  share: 64
-  start: 2007
-place_built: Dartmouth
-updated_at: '2021-12-19T13:39:23.282123+00:00'
-website: ''
-year: 1982
-year_is_approximate: false
-construction_details: Iroko on grown oak frames copper fastened
 beam: 3.8862
 for_sale_state:
   text: not_for_sale

@@ -7,17 +7,40 @@ short_description: Built in 1923/4 as a 21st birthday present for Harry Meacock.
 full_description: <p>First owner, Harry Meacock sailed Nymph on the River Mersey until
   his death in 1989. Although she fits the 1/2 rater rules, she is believed to be
   a one off and based on the boat Emerald.</p>
-builder:
-  name: Sam Meacock
-  id: e40e6cec-e6ab-4f37-9d17-97983de84049
+year: 1923
+year_is_approximate: false
 designer:
   name: Rudge Davies
   id: 6c589176-52d7-4fc0-b6e2-07a1ffc23a20
+builder:
+  name: Sam Meacock
+  id: e40e6cec-e6ab-4f37-9d17-97983de84049
+place_built: Warrington
 construction_material: wood
 construction_method: carvel
-draft: 0.3048
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Alsager
+hull_form: unknown
+callsign: ''
+ownerships:
+- end: 1989
+  name: Harry Meacock
+  share: 64
+  start: 1923
+- id: 224
+  share: 64
+  start: 1994
+  member: 3108
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 98b3e4f5-e780-420b-b9e2-82d4d8efa117
+image_key: 6jKsDf
+thumb: https://photos.smugmug.com/photos/i-nh59tdc/0/Th/i-nh59tdc-Th.jpg
+draft: 0.3048
 handicap_data:
   beam: 1.798341867837113
   main:
@@ -30,29 +53,7 @@ handicap_data:
   fore_triangle_base: 1.7526213118751524
   length_on_waterline: 5.7912704218483295
   fore_triangle_height: 4.191050963179712
-home_country: GBR
-home_port: Alsager
-hull_form: unknown
-id: 98b3e4f5-e780-420b-b9e2-82d4d8efa117
 length_on_deck: 6.096
-callsign: ''
-ownerships:
-- end: 1989
-  name: Harry Meacock
-  share: 64
-  start: 1923
-- id: 224
-  share: 64
-  start: 1994
-  member: 3108
-  current: true
-place_built: Warrington
-updated_at: '2021-12-19T13:39:24.27714+00:00'
-website: ''
-year: 1923
-year_is_approximate: false
-image_key: 6jKsDf
-construction_details: Carvel
 beam: 1.8044
 for_sale_state:
   text: not_for_sale

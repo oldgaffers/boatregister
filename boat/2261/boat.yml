@@ -15,54 +15,25 @@ full_description: "<p>&#39;Chantey&#39; is a gunter sloop built for AGH McPherso
   \ in commission, in the same ownership from 1955 - 2017. During the war years, she\
   \ was stored in a shed that burnt down around her, and was restored. Documented\
   \ restorations were also undertaken in the mid 1980s and again in 2003.</p>"
-builder:
-  name: Harry Feltham
-  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+year: 1934
+year_is_approximate: false
 designer:
   name: Harry Feltham
   id: f8c85f47-b20c-4687-baea-172a05d5d1f1
+builder:
+  name: Harry Feltham
+  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+place_built: Portsmouth
 construction_material: wood
+spar_material: wood
 construction_method: clinker
-draft: 0.6096
+construction_details: Clinker, wych elm on steamed timbers
 engine_installations: []
 for_sales:
 - asking_price: 3000
-  flexibility: normal
-  offered: null
-  price_flexibility:
-    text: normal
-  reduced: true
-  sales_text: "<p>18\" clinker day boat built by Harry Feltham of Portsmouth in 1934.\
-    \ Elm planking on Canadian rock elm timbers. Gunter rigged with spruce spars.\
-    \ In same ownership since 1955 with extensive, documented restorations in mid\
-    \ 1980\u2019s and again in 2003.</p><p>LOA; 18\u2019, beam 7\u2019, draft 2\u2019\
-    \ (plate up) 4\u2019 (plate down)</p><p>Class winner at Cowes Classic Rally 2008,\
-    \ featured next to Classic Boat editorial 1998 and regular participant at Yarmouth\
-    \ OGA rallies. Extensive sail wardrobe, launching trolley, canvas cabin and single\
-    \ bunk for short-handed cruising.</p><p>Lying Gosport, Portsmouth Harbour.</p>"
-  sold: null
-  summary: null
-  updated_at: '2020-05-03T10:13:12.506878+00:00'
-handicap_data:
-  beam: 2.13362594489149
-  main:
-    foot: 4.114862228724701
-    head: 4.368861253352841
-    luff: 2.79403803950256
-  thcf: 0.831
-  draft: 0.60960741282614
-  sailarea: 21.86494560078217
-  length_over_all: 5.4864667154352595
-  length_over_spars: 6.248488173616191
-  fore_triangle_base: 2.13362594489149
-  length_on_waterline: 4.87685930260912
-  fore_triangle_height: 5.7912704218483295
 home_country: GBR
 home_port: Portsmouth
 hull_form: centre-board dinghy
-id: b64f13e1-f8f1-484f-a312-9aeb15c0d43b
-length_on_deck: 5.4864
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1954
@@ -83,15 +54,29 @@ ownerships:
   text: Roy Rolf was her fourth owner, having bought her in
   start: 1954
   start_is_approximate: false
-place_built: Portsmouth
 updated_at: '2022-07-01T06:49:20.262593+00:00'
 website: ''
-year: 1934
-year_is_approximate: false
+id: b64f13e1-f8f1-484f-a312-9aeb15c0d43b
 previous_names:
 - Wallop ll
 image_key: 4KtzTn
-construction_details: Clinker, wych elm on steamed timbers
+thumb: https://photos.smugmug.com/photos/i-L8qdWDX/0/Th/i-L8qdWDX-Th.jpg
+draft: 0.6096
+handicap_data:
+  beam: 2.13362594489149
+  main:
+    foot: 4.114862228724701
+    head: 4.368861253352841
+    luff: 2.79403803950256
+  thcf: 0.831
+  draft: 0.60960741282614
+  sailarea: 21.86494560078217
+  length_over_all: 5.4864667154352595
+  length_over_spars: 6.248488173616191
+  fore_triangle_base: 2.13362594489149
+  length_on_waterline: 4.87685930260912
+  fore_triangle_height: 5.7912704218483295
+length_on_deck: 5.4864
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

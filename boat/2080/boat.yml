@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Curtis Frank/Pape Bros.
-  id: 5806579b-4f55-4912-9723-fec050064ac4
+year: 1947
+year_is_approximate: false
 designer:
   name: Tom Munro Glass
   id: 72bf5733-3341-4a43-86dd-581f74ad5303
+builder:
+  name: Curtis Frank/Pape Bros.
+  id: 5806579b-4f55-4912-9723-fec050064ac4
+place_built: Looe
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel mahogany planking with single diagonal inner skin on
+  oak ribs
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Shoreham
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2014
+  name: Chris Ennis
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3ff1840c-ff50-40df-96a6-7afa6e09920f
+draft: 0.9144
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -33,24 +50,7 @@ handicap_data:
   fore_triangle_base: 2.286027798098025
   length_on_waterline: 5.18166300902219
   fore_triangle_height: 5.4864667154352595
-home_country: 'null'
-home_port: Shoreham
-hull_form: long keel deep forefoot
-id: 3ff1840c-ff50-40df-96a6-7afa6e09920f
 length_on_deck: 6.096
-callsign: ''
-ownerships:
-- end: 2014
-  name: Chris Ennis
-  share: 64
-  start: 2012
-place_built: Looe
-updated_at: '2021-12-19T13:39:28.762624+00:00'
-website: ''
-year: 1947
-year_is_approximate: false
-construction_details: Carvel mahogany planking with single diagonal inner skin on
-  oak ribs
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

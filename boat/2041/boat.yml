@@ -33,17 +33,48 @@ full_description: "<p>&#39;Dart&#39; was launched in 1912. She was one of ten Ri
   \ Miller. &#39;Dart&#39; was in need of refastening, some broken frames replaced&nbsp;and\
   \ the cabin was at the end of its useful life.<br />\r\n2016 Sold and undergoing\
   \ further restoration.</p>"
-builder:
-  name: Wiliam Crossfield and Sons
-  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+year: 1912
+year_is_approximate: false
 designer:
   name: William Crossfield
   id: da4baa22-674e-4ea8-b2c5-14aee7286837
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+place_built: Arnside
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel built with counter stern. Pitch pine planks and steamed
+  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Preston
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- note: 'Bought by William and Ernest Wilson of West Kirby SC. '
+  text: Bought by William and Ernest Wilson of West Kirby SC.
+- note: Brought to Barrow by Mr Johnson.
+  text: Brought to Barrow by Mr Johnson.
+- note: Purchased by J E Miller
+  text: Purchased by J E Miller
+- note: Passed to N P Miller
+  text: Passed to N P Miller
+- note: Sold to Preston
+  text: Sold to Preston
+- end: 2016
+  name: Nick Miller
+  share: 64
+  start: 2005
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: ed26b6da-f8cb-426d-bae0-a1704ccc3d61
+nsbr: '661'
+image_key: Tbpzmb
+thumb: https://photos.smugmug.com/photos/i-Sjs5R7N/0/Th/i-Sjs5R7N-Th.jpg
+draft: 1.0668
 handicap_data:
   beam: 2.0726652036088757
   main:
@@ -62,37 +93,7 @@ handicap_data:
   fore_triangle_base: 3.8100463301633747
   length_on_waterline: 6.035113386978786
   fore_triangle_height: 5.562667642038527
-home_country: GBR
-home_port: Preston
-hull_form: long keel sloping forefoot
-id: ed26b6da-f8cb-426d-bae0-a1704ccc3d61
 length_on_deck: 7.0104
-spar_material: wood
-callsign: ''
-ownerships:
-- note: 'Bought by William and Ernest Wilson of West Kirby SC. '
-  text: Bought by William and Ernest Wilson of West Kirby SC.
-- note: Brought to Barrow by Mr Johnson.
-  text: Brought to Barrow by Mr Johnson.
-- note: Purchased by J E Miller
-  text: Purchased by J E Miller
-- note: Passed to N P Miller
-  text: Passed to N P Miller
-- note: Sold to Preston
-  text: Sold to Preston
-- end: 2016
-  name: Nick Miller
-  share: 64
-  start: 2005
-place_built: Arnside
-updated_at: '2021-12-19T13:39:27.729875+00:00'
-website: ''
-year: 1912
-year_is_approximate: false
-nsbr: '661'
-image_key: Tbpzmb
-construction_details: Carvel built with counter stern. Pitch pine planks and steamed
-  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
 beam: 2.0818
 design_class:
   name: Rivers Class

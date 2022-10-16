@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 83/2
-builder:
-  name: Philip and Son
-  id: c7ac6200-7aa7-4161-a80f-a1955ff76709
+year: 1931
+year_is_approximate: false
 designer:
   name: Philip and Son
   id: bf58cbd9-0494-49f6-ac2c-68c5fe3d9a6b
+builder:
+  name: Philip and Son
+  id: c7ac6200-7aa7-4161-a80f-a1955ff76709
+place_built: Dartmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.6764
+construction_details: Carvel Pitch pine on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 83/2
+callsign: ''
+ownerships:
+- name: T Price
+  share: 64
+  start: 1979
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fb234a3b-7642-4a3d-9728-62d1728299a7
+draft: 1.6764
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -33,24 +50,7 @@ handicap_data:
   fore_triangle_base: 5.18166300902219
   length_on_waterline: 8.382101926359423
   fore_triangle_height: 9.75371860521824
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: fb234a3b-7642-4a3d-9728-62d1728299a7
 length_on_deck: 9.144
-reference:
-- Log 83/2
-callsign: ''
-ownerships:
-- name: T Price
-  share: 64
-  start: 1979
-place_built: Dartmouth
-updated_at: '2021-12-19T13:38:53.177166+00:00'
-website: ''
-year: 1931
-year_is_approximate: false
-construction_details: Carvel Pitch pine on Oak
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

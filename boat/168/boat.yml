@@ -5,27 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 75/1
-builder:
-  name: Camper and Nicholson Ltd.
-  id: 83a839af-b960-4cce-a881-b4401432846c
+year: 1924
+year_is_approximate: false
 designer:
   name: Charles E. Nicholson
   id: f97b2d74-8535-4ed5-8602-651d2ca2898f
+builder:
+  name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
+place_built: Gosport
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.3774689100219457
-  draft: 1.21921482565228
-  length_over_all: 7.620092660326749
-  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 5edfe5b4-703a-47d2-9201-a1ea3609ab42
-length_on_deck: 7.62
 reference:
 - Log 75/1
 callsign: ''
@@ -33,11 +28,16 @@ ownerships:
 - name: A R Walker
   share: 64
   start: 2012
-place_built: Gosport
-updated_at: '2021-12-19T13:38:34.44994+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1924
-year_is_approximate: false
+id: 5edfe5b4-703a-47d2-9201-a1ea3609ab42
+draft: 1.2192
+handicap_data:
+  beam: 2.3774689100219457
+  draft: 1.21921482565228
+  length_over_all: 7.620092660326749
+  length_on_waterline: 6.0960741282613995
+length_on_deck: 7.62
 beam: 2.3774
 for_sale_state:
   text: not_for_sale

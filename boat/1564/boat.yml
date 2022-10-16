@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 87/4
-builder:
-  name: John Arthur Barnard
-  id: eb031e2c-65be-41c6-bd84-8bf4dfbbedce
+year: 1981
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: John Arthur Barnard
+  id: eb031e2c-65be-41c6-bd84-8bf4dfbbedce
+place_built: Dunstable
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Ferro ceoment, carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 87/4
+uk_part1: '399107'
+callsign: ''
+ownerships:
+- name: D G Davies
+  share: 64
+  start: 1991
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9f18c671-88b6-4aef-97f5-25b5a43bd197
+draft: 1.2192
 handicap_data:
   beam: 2.4689100219458666
   main:
@@ -33,25 +51,7 @@ handicap_data:
   fore_triangle_base: 4.87685930260912
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 8.22970007315289
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 9f18c671-88b6-4aef-97f5-25b5a43bd197
 length_on_deck: 6.797
-reference:
-- Log 87/4
-uk_part1: '399107'
-callsign: ''
-ownerships:
-- name: D G Davies
-  share: 64
-  start: 1991
-place_built: Dunstable
-updated_at: '2021-12-19T13:39:14.903408+00:00'
-website: ''
-year: 1981
-year_is_approximate: false
-construction_details: Ferro ceoment, carvel
 beam: 2.4689
 for_sale_state:
   text: not_for_sale

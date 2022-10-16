@@ -5,11 +5,28 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Rocinante is a Van de Stadt cruiser.</p>
 full_description: ''
+year: 1974
+year_is_approximate: false
 construction_material: wood
 construction_method: carvel
-draft: 1.7069
+construction_details: Carvel plank on frame. Aluminum spars.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Lymington
+hull_form: cut_away_stem
+sail_number: 2424Y
+callsign: ''
+ownerships:
+- id: 920
+  share: 64
+  start: 2016
+  member: 6078
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 625b9dec-c220-4351-bba5-b3af2d688785
+draft: 1.7069
 handicap_data:
   main:
     foot: 11
@@ -20,24 +37,7 @@ handicap_data:
   fore_triangle_base: 3.2309
   length_on_waterline: 7.6962
   fore_triangle_height: 9.7536
-home_country: GBR
-home_port: Lymington
-hull_form: cut_away_stem
-id: 625b9dec-c220-4351-bba5-b3af2d688785
 length_on_deck: 8.7112
-sail_number: 2424Y
-callsign: ''
-ownerships:
-- id: 920
-  share: 64
-  start: 2016
-  member: 6078
-  current: true
-updated_at: '2021-12-19T13:40:07.317391+00:00'
-website: ''
-year: 1974
-year_is_approximate: false
-construction_details: Carvel plank on frame. Aluminum spars.
 beam: 2.5603
 for_sale_state:
   text: not_for_sale

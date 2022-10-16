@@ -5,35 +5,35 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Hull no 1383
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1954
+year_is_approximate: false
 designer:
   name: S.C. Latimer
   id: 2e04b425-6e0d-4d2d-aedb-66f81082f9cd
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  length_over_all: 6.0960741282613995
 home_country: 'null'
 home_port: Harwich
 hull_form: unknown
-id: 1763d68e-8273-462c-909b-87711fa654b5
-length_on_deck: 6.096
 callsign: ''
 ownerships:
 - name: Mr R Fenton
   share: 64
   start: 2012
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:47.659131+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1954
-year_is_approximate: false
+id: 1763d68e-8273-462c-909b-87711fa654b5
+draft: 0
+handicap_data:
+  beam: 2.286027798098025
+  length_over_all: 6.0960741282613995
+length_on_deck: 6.096
 beam: 2.286
 for_sale_state:
   text: not_for_sale

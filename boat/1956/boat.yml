@@ -6,36 +6,22 @@ mainsail_type: gaff
 short_description: <p>Hester is a 20ft Tosher built by Martin Heard in1994.</p>
 full_description: <p>Built by Martin Heard, &#39;Hester&#39; is a 20ft Tosher, build
   no. 19.</p>
+year: 1994
+year_is_approximate: false
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+place_built: Mylor Bridge
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.0668
+construction_details: GRP Hull, wood top cabin, wood spars.
 engine_installations: []
 for_sales:
 - asking_price: 8000
-  flexibility: normal
-  offered: null
-  price_flexibility:
-    text: normal
-  reduced: false
-  sales_text: <p>"Hester" is a Martin Heard 20ft Tosher, build no 19, launched in
-    1994.<br />She is GRP, long keel with two berth cabin and drying out legs.<br
-    />1 GM 10 Yanmar engine and all usual electronics.</p>
-  sold: '2020-06-11'
-  summary: <p>&quot;Hester&quot; is a Martin Heard 20ft Tosher, build no 19, launched
-    in 1994.</p>
-  updated_at: '2020-05-03T10:13:12.851579+00:00'
-handicap_data:
-  beam: 2.13362594489149
-  length_over_all: 6.0960741282613995
 home_country: GBR
 home_port: Ispwich
 hull_form: long keel deep forefoot
-id: fdc6b302-cf19-41b0-8b93-0406bfbe8057
-length_on_deck: 6.096
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2012
@@ -51,13 +37,16 @@ ownerships:
   share: 64
   start: 2017
   member: 3058
-place_built: Mylor Bridge
-updated_at: '2022-02-25T20:57:29.810608+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1994
-year_is_approximate: false
+id: fdc6b302-cf19-41b0-8b93-0406bfbe8057
 image_key: X5qhMK
-construction_details: GRP Hull, wood top cabin, wood spars.
+thumb: https://photos.smugmug.com/photos/i-DjLkVdg/0/Th/i-DjLkVdg-Th.jpg
+draft: 1.0668
+handicap_data:
+  beam: 2.13362594489149
+  length_over_all: 6.0960741282613995
+length_on_deck: 6.096
 beam: 1.9812
 design_class:
   name: Tosher 20

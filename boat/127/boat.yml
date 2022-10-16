@@ -7,27 +7,23 @@ short_description: ''
 full_description: Log 80/3, 83/4, 91/3 Fishing Smack converted to a yacht by Priors
   in 1936 for then owner Mr G Sartoris. Previous owner 1987 - 99 Previous engine Thornycroft
   HB petrol - 9 hp. Last owner from 1987 to 2001
-builder:
-  name: Kitto and Sons
-  id: 17765d18-db09-4fea-866f-44e41a2c8948
+year: 1897
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Kitto and Sons
+  id: 17765d18-db09-4fea-866f-44e41a2c8948
+place_built: Porthleven
 construction_material: wood
 construction_method: carvel
-draft: 1.4722
+construction_details: Carvel pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.9779322116556934
-  draft: 1.472201901975128
-  length_over_all: 9.906120458424773
-  length_on_waterline: 9.75371860521824
 home_country: 'null'
 home_port: Cornwall
 hull_form: unknown
-id: 711adc61-4873-4c54-8c65-97e421fc9206
-length_on_deck: 9.906
 reference:
 - Log 80/3
 - Log 83/4
@@ -38,12 +34,16 @@ ownerships:
 - name: Richard Jones
   share: 64
   start: 1987
-place_built: Porthleven
-updated_at: '2021-12-19T13:38:33.270155+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1897
-year_is_approximate: false
-construction_details: Carvel pitch pine on oak
+id: 711adc61-4873-4c54-8c65-97e421fc9206
+draft: 1.4722
+handicap_data:
+  beam: 2.9779322116556934
+  draft: 1.472201901975128
+  length_over_all: 9.906120458424773
+  length_on_waterline: 9.75371860521824
+length_on_deck: 9.906
 beam: 2.9779
 for_sale_state:
   text: not_for_sale

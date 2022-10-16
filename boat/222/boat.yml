@@ -49,32 +49,23 @@ full_description: "<p>Cachalot&#39;s construction is carvel laid elm planking be
   \ her earlier history; and I would be delighted if any OGA members have information\
   \ on the efficiency of either Cascover sheathing or Admiralty &lsquo;Impetite&rsquo;.</blockquote>\r\
   \n\r\n<h4>First published in the Old Gaffers Association Newsletter 1977/3</h4>"
-builder:
-  name: R. Sanders
-  id: 64a3bdc0-e6cc-4aef-a95d-747ece447289
+year: 1898
+year_is_approximate: false
 designer:
   name: R. Sanders
   id: 27b62e2d-4145-4681-b8b9-7d68915e7e27
+builder:
+  name: R. Sanders
+  id: 64a3bdc0-e6cc-4aef-a95d-747ece447289
+place_built: Folkestone, Kent
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel Pitch pine/Teak on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.987076322848086
-  draft: 1.5240185320653499
-  propellor:
-    type: fixed
-    blades: 3
-  boat_depth: 1.0058522311631308
-  length_over_all: 9.1441111923921
-  length_over_spars: 9.44891489880517
-  length_on_waterline: 7.010485247500609
 home_country: GBR
 home_port: Woodbridge, Suffolk
 hull_form: long keel deep forefoot
-id: 5469ce0c-6a55-400f-acdb-f3f4481836f6
-length_on_deck: 9.1958
 uk_part1: '120778'
 callsign: ''
 ownerships:
@@ -144,13 +135,23 @@ ownerships:
 - name: Beverley Daley-Yates
   share: 64
   start: 2011
-place_built: Folkestone, Kent
-updated_at: '2021-12-19T13:38:36.039709+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.cachalot.org.uk
-year: 1898
-year_is_approximate: false
+id: 5469ce0c-6a55-400f-acdb-f3f4481836f6
 image_key: 7w4vX9
-construction_details: Carvel Pitch pine/Teak on oak
+thumb: https://photos.smugmug.com/photos/i-xGWcfVw/0/Th/i-xGWcfVw-Th.jpg
+draft: 1.524
+handicap_data:
+  beam: 2.987076322848086
+  draft: 1.5240185320653499
+  propellor:
+    type: fixed
+    blades: 3
+  boat_depth: 1.0058522311631308
+  length_over_all: 9.1441111923921
+  length_over_spars: 9.44891489880517
+  length_on_waterline: 7.010485247500609
+length_on_deck: 9.1958
 beam: 3.9106
 for_sale_state:
   text: not_for_sale

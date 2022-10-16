@@ -9,17 +9,36 @@ short_description: <p>&#39;Lucy&#39; is a Swallow Class dayboat (No 1)&nbsp;desi
 full_description: <p>&#39;Lucy&#39; is the first hull built to the Swallow design
   by Andrew Wolstenholme, a larger sister of the Mallard. Visit the <a href="https://wolstenholmedesign.wordpress.com/portfolio/sail-oar/dinghy-plans/"
   target="_blank">Andrew Wolstenholme website</a> to see the plans.</p>
-builder:
-  name: Nick Hanbury
-  id: 8c5ce537-2bda-4dd9-af08-b5dabaac3732
+year: 2004
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: Nick Hanbury
+  id: 8c5ce537-2bda-4dd9-af08-b5dabaac3732
+place_built: Modbury, Devon
 construction_material: wood
 construction_method: clinker_ply
-draft: 0.2042
+construction_details: Glued clinker ply
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Modbury, Devon
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Nick Hanbury
+  share: 64
+  start: 2004
+- share: 64
+  member: 4543
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 13868ac8-41e2-445c-bd29-54491a524922
+draft: 0.2042
 handicap_data:
   beam: 1.6764203852718849
   main:
@@ -32,26 +51,7 @@ handicap_data:
   fore_triangle_base: 1.097293343087052
   length_on_waterline: 4.22457937088515
   fore_triangle_height: 3.9624481833699097
-home_country: GBR
-home_port: Modbury, Devon
-hull_form: unknown
-id: 13868ac8-41e2-445c-bd29-54491a524922
 length_on_deck: 4.4196
-callsign: ''
-ownerships:
-- name: Nick Hanbury
-  share: 64
-  start: 2004
-- share: 64
-  member: 4543
-  current: true
-  start: '?'
-place_built: Modbury, Devon
-updated_at: '2021-12-19T13:39:45.972617+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-construction_details: Glued clinker ply
 beam: 1.6764
 design_class:
   name: Swallow

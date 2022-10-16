@@ -5,19 +5,15 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1929
+year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  length_over_all: 6.0960741282613995
 home_country: GBR
 home_port: Dartmouth
 hull_form: unknown
-id: 4c192852-c611-4933-8036-b3049db458a8
-length_on_deck: 6.096
 callsign: ''
 ownerships:
 - id: 183
@@ -25,10 +21,14 @@ ownerships:
   start: 2012
   member: 2726
   current: true
-updated_at: '2021-12-19T13:39:25.897387+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1929
-year_is_approximate: false
+id: 4c192852-c611-4933-8036-b3049db458a8
+draft: 0
+handicap_data:
+  beam: 2.286027798098025
+  length_over_all: 6.0960741282613995
+length_on_deck: 6.096
 beam: 2.286
 for_sale_state:
   text: not_for_sale

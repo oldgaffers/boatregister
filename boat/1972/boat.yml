@@ -4,25 +4,22 @@ generic_type: Dinghy
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: David Mitchell
-  id: 731a9dce-447a-40e8-90c0-5d3ffd9452d2
+year: 1991
+year_is_approximate: false
 designer:
   name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+builder:
+  name: David Mitchell
+  id: 731a9dce-447a-40e8-90c0-5d3ffd9452d2
+place_built: Bungay
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.3716166788588149
-  length_over_all: 4.419653742989515
 home_country: 'null'
 home_port: Langstone Harbour
 hull_form: unknown
-id: 0b09269c-93c4-4ad7-9e9f-fde716b82d62
-length_on_deck: 4.4196
 callsign: ''
 ownerships:
 - id: 128
@@ -30,11 +27,14 @@ ownerships:
   start: 2012
   member: 2195
   current: true
-place_built: Bungay
-updated_at: '2021-12-19T13:39:25.685361+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1991
-year_is_approximate: false
+id: 0b09269c-93c4-4ad7-9e9f-fde716b82d62
+draft: 0
+handicap_data:
+  beam: 1.3716166788588149
+  length_over_all: 4.419653742989515
+length_on_deck: 4.4196
 beam: 1.3716
 design_class:
   name: Whilly Boat

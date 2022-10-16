@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: log 86/2
-builder:
-  name: Walter Cook
-  id: 4cee8312-2bc7-49c8-bc84-2a9c6018d11b
+year: 1967
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: Walter Cook
+  id: 4cee8312-2bc7-49c8-bc84-2a9c6018d11b
+place_built: Maldon
 construction_material: wood
 construction_method: unknown
-draft: 1.524
+construction_details: Clencher larch on C R elm bent frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: D Grose
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3e5d0cd1-b2a9-4789-b4c1-916d5d95b83a
+previous_names:
+- Sal
+draft: 1.524
 handicap_data:
   beam: 2.560351133869788
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 5.6388685686417945
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 7.772494513533284
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 3e5d0cd1-b2a9-4789-b4c1-916d5d95b83a
 length_on_deck: 7.3762
-callsign: ''
-ownerships:
-- name: D Grose
-  share: 64
-  start: 2012
-place_built: Maldon
-updated_at: '2021-12-19T13:38:48.663876+00:00'
-website: ''
-year: 1967
-year_is_approximate: false
-previous_names:
-- Sal
-construction_details: Clencher larch on C R elm bent frames
 beam: 2.5603
 for_sale_state:
   text: not_for_sale

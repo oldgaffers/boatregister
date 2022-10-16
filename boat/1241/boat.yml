@@ -5,26 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Nigel Ward/Amber Boats
-  id: 2f8fd77e-8547-4df3-a6ec-b601b5a437a4
+year: 1984
+year_is_approximate: false
 designer:
   name: John Shuttleworth
   id: 3d22dffa-4da3-4391-bad7-de15c1127b5d
+builder:
+  name: Nigel Ward/Amber Boats
+  id: 2f8fd77e-8547-4df3-a6ec-b601b5a437a4
+place_built: Bonsall
 construction_material: grp
 construction_method: unknown
-draft: 1.1186
+construction_details: Glass fibre, hand laid hull
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.0330407217751767
-  draft: 1.1186296025359668
-  length_over_all: 4.977444525725432
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 66880f9b-d70c-4351-bbd4-dfaa59ab538d
-length_on_deck: 4.9774
 callsign: ''
 ownerships:
 - id: 111
@@ -32,13 +29,17 @@ ownerships:
   start: 1985
   member: 1945
   current: true
-place_built: Bonsall
-updated_at: '2021-12-19T13:39:05.746408+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1984
-year_is_approximate: false
+id: 66880f9b-d70c-4351-bbd4-dfaa59ab538d
 image_key: TMCmgm
-construction_details: Glass fibre, hand laid hull
+thumb: https://photos.smugmug.com/photos/i-b7QRVn3/0/Th/i-b7QRVn3-Th.jpg
+draft: 1.1186
+handicap_data:
+  beam: 2.0330407217751767
+  draft: 1.1186296025359668
+  length_over_all: 4.977444525725432
+length_on_deck: 4.9774
 beam: 2.033
 design_class:
   name: Carra 16

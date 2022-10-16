@@ -5,24 +5,20 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: <p>Amy J is a 25ft Montagu Whaler</p>
 full_description: ''
+year: 1920
+year_is_approximate: false
 builder:
   name: Navy Royal
   id: c3f74d74-1eab-4eb5-8f55-a79c24ea6012
 construction_material: wood
 construction_method: clinker
-draft: 0.2804
+construction_details: Clinker 3/4 in x 6 in Wytch Elm on 1 in by 1 in bent Ash on
+  12 in centres
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.2804194099000244
-  length_over_all: 7.620092660326749
-  length_on_waterline: 6.0960741282613995
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 0f23c960-ed9c-4ea9-839a-accae2578db6
-length_on_deck: 7.62
 callsign: ''
 ownerships:
 - note: London Fire Brigade
@@ -46,12 +42,16 @@ ownerships:
 - name: Bristol Sea Scouts
   share: 64
   start: 1980
-updated_at: '2021-12-19T13:38:34.081183+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1920
-year_is_approximate: false
-construction_details: Clinker 3/4 in x 6 in Wytch Elm on 1 in by 1 in bent Ash on
-  12 in centres
+id: 0f23c960-ed9c-4ea9-839a-accae2578db6
+draft: 0.2804
+handicap_data:
+  beam: 1.8288222384784198
+  draft: 0.2804194099000244
+  length_over_all: 7.620092660326749
+  length_on_waterline: 6.0960741282613995
+length_on_deck: 7.62
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

@@ -5,14 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1957
+year_is_approximate: false
 builder:
   name: J.W. Shuttlewood and Sons
   id: f7e10100-9016-4757-874b-b5ca9742ef7e
+place_built: Paglesham
 construction_material: wood
 construction_method: carvel
-draft: 0.8626
+construction_details: Carvel mahogany on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Paglesham
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 32
+  share: 64
+  start: 1969
+  member: 862
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a1e30aa5-a106-4d5f-a8b1-89c66bbd0e1a
+draft: 0.8626
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -27,24 +44,7 @@ handicap_data:
   fore_triangle_base: 4.26725188978298
   length_on_waterline: 6.2484759814679345
   fore_triangle_height: 6.5532796878810045
-home_country: 'null'
-home_port: Paglesham
-hull_form: long keel deep forefoot
-id: a1e30aa5-a106-4d5f-a8b1-89c66bbd0e1a
 length_on_deck: 6.7056
-callsign: ''
-ownerships:
-- id: 32
-  share: 64
-  start: 1969
-  member: 862
-  current: true
-place_built: Paglesham
-updated_at: '2021-12-19T13:39:01.17741+00:00'
-website: ''
-year: 1957
-year_is_approximate: false
-construction_details: Carvel mahogany on oak
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

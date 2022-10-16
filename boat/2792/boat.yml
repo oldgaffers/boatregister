@@ -11,27 +11,23 @@ full_description: Built for and fished by 'Custard' Cooper for 30 years, then by
   from Norfolk to Holland and back,160 miles door to door, in 2006. Skipper Graeme
   Peart notes he fitted a radar as a precaution but felt it wasn't a bad passage for
   an open boat.
-builder:
-  name: Emery Bros.
-  id: 33d33eac-1dfc-4753-a159-0504f59974ae
+year: 1951
+year_is_approximate: false
 designer:
   name: Emery
   id: 1c7ca434-6376-46ca-a4c6-f5258b6c0673
+builder:
+  name: Emery Bros.
+  id: 33d33eac-1dfc-4753-a159-0504f59974ae
+place_built: Sheringham
 construction_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clincher larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.148622287247013
-  propellor:
-    type: fixed
-  length_over_all: 7.924896366739819
 home_country: GBR
 home_port: Blakeney
 hull_form: long keel deep forefoot
-id: 7ec84ac2-b249-40a3-a249-003186c92906
-length_on_deck: 7.9248
 callsign: ''
 ownerships:
 - name: Graeme Peart
@@ -41,13 +37,18 @@ ownerships:
   member: 3848
   current: true
   start: '?'
-place_built: Sheringham
-updated_at: '2021-12-19T13:39:49.583852+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1951
-year_is_approximate: false
+id: 7ec84ac2-b249-40a3-a249-003186c92906
 image_key: 75zsXh
-construction_details: Clincher larch on oak
+thumb: https://photos.smugmug.com/photos/i-CrtJKFf/0/Th/i-CrtJKFf-Th.jpg
+draft: 0
+handicap_data:
+  beam: 3.148622287247013
+  propellor:
+    type: fixed
+  length_over_all: 7.924896366739819
+length_on_deck: 7.9248
 beam: 3.1486
 for_sale_state:
   text: not_for_sale

@@ -5,21 +5,17 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1912
+year_is_approximate: false
+place_built: Porthleven
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel pine on oak frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.5146305779078273
-  draft: 1.21921482565228
-  length_over_all: 8.22970007315289
-  length_on_waterline: 7.620092660326749
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 027ab14b-3d16-4713-a309-e0ecf3e300eb
-length_on_deck: 8.2296
 ssr: '28839'
 callsign: ''
 ownerships:
@@ -30,14 +26,18 @@ ownerships:
   member: 2299
   current: true
   start: '?'
-place_built: Porthleven
-updated_at: '2021-12-19T13:39:05.682883+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1912
-year_is_approximate: false
+id: 027ab14b-3d16-4713-a309-e0ecf3e300eb
 previous_names:
 - Porth Ennis
-construction_details: Carvel pine on oak frames
+draft: 1.2192
+handicap_data:
+  beam: 2.5146305779078273
+  draft: 1.21921482565228
+  length_over_all: 8.22970007315289
+  length_on_waterline: 7.620092660326749
+length_on_deck: 8.2296
 beam: 2.5146
 for_sale_state:
   text: not_for_sale

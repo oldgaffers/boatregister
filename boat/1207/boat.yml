@@ -9,28 +9,24 @@ full_description: <p><em>Mutual Friend</em> was built in 1983 by Tyrell and Youn
   for John Tyrell himself. She is built on the lines of a traditional East Coast Smack,
   but had 6&#39;2 headroom below decks, with heating, hot and cold water and accomodation
   for 6. She has been continually maintained and upgraded over the last 30 years</p>
-builder:
-  name: Tyrell and Young
-  id: 94b0313d-39ac-4e36-8e9c-48e1906cab05
+year: 1983
+year_is_approximate: false
 designer:
   name: J.W. Tyrrell
   id: d23dc52a-3d61-413e-8423-a25f9603e6f5
+builder:
+  name: Tyrell and Young
+  id: 94b0313d-39ac-4e36-8e9c-48e1906cab05
+place_built: Sandwich or Faversham
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.3716
+construction_details: GRP hull with GRP sheathed plywood decks
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  draft: 1.6764203852718849
-  length_over_all: 11.734942696903193
-  length_on_waterline: 9.75371860521824
 home_country: GBR
 home_port: Woolvestone
 hull_form: long keel deep forefoot
-id: 489ab5aa-b978-434f-a44a-a0d7472bba7a
-length_on_deck: 10.9728
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1989
@@ -42,13 +38,18 @@ ownerships:
   start: 2019
   member: 6274
   current: true
-place_built: Sandwich or Faversham
-updated_at: '2022-03-03T22:01:01.524318+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1983
-year_is_approximate: false
+id: 489ab5aa-b978-434f-a44a-a0d7472bba7a
 image_key: NLNRVc
-construction_details: GRP hull with GRP sheathed plywood decks
+thumb: https://photos.smugmug.com/photos/i-j4bfP8d/0/Th/i-j4bfP8d-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.590831504511095
+  draft: 1.6764203852718849
+  length_over_all: 11.734942696903193
+  length_on_waterline: 9.75371860521824
+length_on_deck: 10.9728
 beam: 3.429
 design_class:
   name: Tyrell and Young 28 Smack

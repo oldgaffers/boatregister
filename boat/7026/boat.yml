@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: J.W. and A. Upham Ltd.
-  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+year: 1961
+year_is_approximate: false
 designer:
   name: Kim Holman
   id: 8833d78f-9c94-4d4e-bde5-71fa74207177
+builder:
+  name: J.W. and A. Upham Ltd.
+  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+place_built: Brixham
 construction_material: wood
 construction_method: unknown
-draft: 1.463
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Tollesbury
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Robert M Lewington
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e03b3620-bc19-4b12-9711-6f65122bbe92
+previous_names:
+- Ryal
+draft: 1.463
 handicap_data:
   beam: 2.6213118751524016
   main:
@@ -26,23 +42,7 @@ handicap_data:
   fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 9.75371860521824
-home_country: 'null'
-home_port: Tollesbury
-hull_form: unknown
-id: e03b3620-bc19-4b12-9711-6f65122bbe92
 length_on_deck: 8.5344
-callsign: ''
-ownerships:
-- name: Robert M Lewington
-  share: 64
-  start: 2012
-place_built: Brixham
-updated_at: '2021-12-19T13:40:00.752607+00:00'
-website: ''
-year: 1961
-year_is_approximate: false
-previous_names:
-- Ryal
 beam: 2.6213
 design_class:
   name: Sterling 28

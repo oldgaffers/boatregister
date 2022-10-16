@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1966
+year_is_approximate: false
 designer:
   name: Latimer
   id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Benfleet
 construction_material: wood
 construction_method: unknown
-draft: 0.4877
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Maningtree
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Robert Coles
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 84438488-2909-4416-9e31-ca668662510d
+draft: 0.4877
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -26,21 +40,7 @@ handicap_data:
   fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.0960741282613995
   fore_triangle_height: 8.22970007315289
-home_country: 'null'
-home_port: Maningtree
-hull_form: unknown
-id: 84438488-2909-4416-9e31-ca668662510d
 length_on_deck: 6.7056
-callsign: ''
-ownerships:
-- name: Robert Coles
-  share: 64
-  start: 2012
-place_built: Benfleet
-updated_at: '2021-12-19T13:40:00.501885+00:00'
-website: ''
-year: 1966
-year_is_approximate: false
 beam: 2.4384
 design_class:
   name: Dauntless 22

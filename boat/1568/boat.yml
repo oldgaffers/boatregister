@@ -6,41 +6,25 @@ mainsail_type: gaff
 short_description: <p><em>Molly Oxford</em> is a gaff cutter fitted out in 1989 by
   Robertsons of Woodbridge, based on a Heard 28 GRP hull built in Falmouth.</p>
 full_description: <p>type some text ...</p>
-builder:
-  name: Terry Heard
-  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+year: 1989
+year_is_approximate: false
 designer:
   name: Percy Blandford
   id: 4ccaddc1-f55e-4112-bdd5-676570e46b91
+builder:
+  name: Terry Heard
+  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+place_built: Falmouth
 construction_material: grp
+spar_material: wood
 construction_method: unknown
-draft: 1.4722
+construction_details: Glassfibre hull, wooden decks
 engine_installations: []
 for_sales:
 - asking_price: 26000
-handicap_data:
-  beam: 2.9718361375274323
-  main:
-    foot: 5.9436722750548645
-    head: 5.4864667154352595
-    luff: 4.937820043891733
-  thcf: 0.984595849
-  draft: 1.4478176054620824
-  topsail:
-    luff: 5.7912704218483295
-    perpendicular: 2.834674469641551
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 6.705681541087539
-  length_on_waterline: 8.53450377956596
-  fore_triangle_height: 8.53450377956596
 home_country: GBR
 home_port: Chichester
 hull_form: long keel deep forefoot
-id: cd58dcf8-fc68-4465-822b-d0af21da7eaf
-length_on_deck: 8.5344
-spar_material: wood
 uk_part1: '709284'
 callsign: ''
 ownerships:
@@ -61,13 +45,30 @@ ownerships:
   member: 6395
   current: true
   start: '?'
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:15.034408+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1989
-year_is_approximate: false
+id: cd58dcf8-fc68-4465-822b-d0af21da7eaf
 image_key: SjfFp8
-construction_details: Glassfibre hull, wooden decks
+thumb: https://photos.smugmug.com/photos/i-NV9QLr3/0/Th/i-NV9QLr3-Th.jpg
+draft: 1.4722
+handicap_data:
+  beam: 2.9718361375274323
+  main:
+    foot: 5.9436722750548645
+    head: 5.4864667154352595
+    luff: 4.937820043891733
+  thcf: 0.984595849
+  draft: 1.4478176054620824
+  topsail:
+    luff: 5.7912704218483295
+    perpendicular: 2.834674469641551
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 6.705681541087539
+  length_on_waterline: 8.53450377956596
+  fore_triangle_height: 8.53450377956596
+length_on_deck: 8.5344
 beam: 2.9962
 design_class:
   name: Heard 28

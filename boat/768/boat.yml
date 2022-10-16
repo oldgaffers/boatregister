@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Kris Cruisers Ltd.
-  id: 62059f9c-0184-454f-8f7d-52a1448957b8
+year: 1934
+year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+builder:
+  name: Kris Cruisers Ltd.
+  id: 62059f9c-0184-454f-8f7d-52a1448957b8
+place_built: Isleworth
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Jonathan Read
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f264c9ca-55bd-4dd1-8e1a-0cb62fe2f3e9
+draft: 1.2192
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -30,21 +44,7 @@ handicap_data:
   fore_triangle_base: 3.3528407705437697
   length_on_waterline: 5.6388685686417945
   fore_triangle_height: 5.4864667154352595
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: f264c9ca-55bd-4dd1-8e1a-0cb62fe2f3e9
 length_on_deck: 6.7056
-callsign: ''
-ownerships:
-- name: Jonathan Read
-  share: 64
-  start: 2012
-place_built: Isleworth
-updated_at: '2021-12-19T13:38:51.743893+00:00'
-website: ''
-year: 1934
-year_is_approximate: false
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

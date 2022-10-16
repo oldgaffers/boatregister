@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 65/3, 76/4, 77/1, 77/2
-builder:
-  name: William Wyatt Ltd.
-  id: db113064-8980-479b-8190-764e09007320
+year: 1961
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: William Wyatt Ltd.
+  id: db113064-8980-479b-8190-764e09007320
+place_built: West Mersea
 construction_material: wood
 construction_method: clinker
-draft: 1.3106
+construction_details: Clinker Mahogany on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 65/3
+- Log 76/4
+- Log 77/1
+- Log 77/2
+callsign: ''
+ownerships:
+- name: T L Cheesewright
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 881badfd-cc30-45a8-888e-e175520ca861
+draft: 1.3106
 handicap_data:
   beam: 2.529870763228481
   main:
@@ -28,27 +48,7 @@ handicap_data:
   fore_triangle_base: 4.57205559619605
   length_on_waterline: 6.766642282370153
   fore_triangle_height: 6.4008778346744695
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 881badfd-cc30-45a8-888e-e175520ca861
 length_on_deck: 7.1323
-reference:
-- Log 65/3
-- Log 76/4
-- Log 77/1
-- Log 77/2
-callsign: ''
-ownerships:
-- name: T L Cheesewright
-  share: 64
-  start: 2012
-place_built: West Mersea
-updated_at: '2021-12-19T13:38:39.281169+00:00'
-website: ''
-year: 1961
-year_is_approximate: false
-construction_details: Clinker Mahogany on oak
 beam: 2.5298
 for_sale_state:
   text: not_for_sale

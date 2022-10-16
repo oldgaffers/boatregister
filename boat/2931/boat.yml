@@ -10,55 +10,25 @@ full_description: <p>Epoxied below the waterline by the builders, Gimli carries 
   she is &lsquo;part of the modern tradition of fast, retro-styled daysailers&rsquo;,
   except that she&rsquo;s fine for weekending and indeed we have spent a week or more
   on board.</p>
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2009
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Burlesdon
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5578
+construction_details: GRP
 engine_installations: []
 for_sales:
 - asking_price: 0
-  flexibility: normal
-  offered: null
-  price_flexibility:
-    text: normal
-  reduced: false
-  sales_text: <p>"Gimli", a well cared for Memory 19, overall winner of the OGA Helford
-    Regatta in 2017, is for sale. She is a fast boat with a distinguished racing history
-    in the Solent before she came to Devon.</p><p>She is just launched onto her mooring
-    on the Dart with a new coat of antifoul, having spent the winter in her barn under
-    cover for the winter in Devon&nbsp;as she has been these last three years.&nbsp;</p><p>She
-    has a two year old SBS galvanised&nbsp;trailer that has never been in salt water.
-    She has always been launched by crane. Full set of sails including topsail, plus
-    inboard outboard.&nbsp;More details to follow on request.</p>
-  sold: null
-  summary: null
-  updated_at: '2020-05-03T10:13:13.311563+00:00'
-handicap_data:
-  beam: 2.13362594489149
-  main:
-    foot: 4.57205559619605
-    head: 3.2004389173372347
-    luff: 3.8100463301633747
-  thcf: 0.85333142
-  draft: 0.5334064862228725
-  propellor:
-    type: fixed
-  draft_keeldown: 1.1430138990490124
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 2.6426481346013166
-  length_on_waterline: 5.690685198732017
-  fore_triangle_height: 5.867471348451597
 home_country: GBR
 home_port: Dittisham, Devon
 hull_form: centre-boarder
-id: c7d3a3db-7fd3-4c52-a833-71e0879b54bb
-length_on_deck: 5.7912
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2013
@@ -74,13 +44,28 @@ ownerships:
   start: 2018
   member: 6330
   current: true
-place_built: Burlesdon
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
-year: 2009
-year_is_approximate: false
+id: c7d3a3db-7fd3-4c52-a833-71e0879b54bb
 image_key: gRFpVN
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-GBq4C9p/0/Th/i-GBq4C9p-Th.jpg
+draft: 0.5578
+handicap_data:
+  beam: 2.13362594489149
+  main:
+    foot: 4.57205559619605
+    head: 3.2004389173372347
+    luff: 3.8100463301633747
+  thcf: 0.85333142
+  draft: 0.5334064862228725
+  propellor:
+    type: fixed
+  draft_keeldown: 1.1430138990490124
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 2.6426481346013166
+  length_on_waterline: 5.690685198732017
+  fore_triangle_height: 5.867471348451597
+length_on_deck: 5.7912
 beam: 2.1336
 design_class:
   name: Memory 19

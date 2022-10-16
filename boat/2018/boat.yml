@@ -6,17 +6,32 @@ mainsail_type: gaff
 short_description: ''
 full_description: Mould taken from an old work boat found at Cadgwith Cove.  PBO Feb
   1986 CB Jul/Aug 88
-builder:
-  name: Barry Chisam
-  id: c1b2c9bc-2dfa-41ba-92d4-9edef2062cf5
+year: 1985
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Barry Chisam
+  id: c1b2c9bc-2dfa-41ba-92d4-9edef2062cf5
+place_built: Penryn
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.6096
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: G Wadeson
+  share: 64
+  start: 1994
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c20733af-df37-45e1-bdb2-a09aafc5c89b
+draft: 0.6096
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -34,22 +49,7 @@ handicap_data:
   fore_triangle_base: 2.9474518410143866
   length_on_waterline: 5.4864667154352595
   fore_triangle_height: 5.257863935625457
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: c20733af-df37-45e1-bdb2-a09aafc5c89b
 length_on_deck: 5.6388
-callsign: ''
-ownerships:
-- name: G Wadeson
-  share: 64
-  start: 1994
-place_built: Penryn
-updated_at: '2021-12-19T13:39:27.047647+00:00'
-website: ''
-year: 1985
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

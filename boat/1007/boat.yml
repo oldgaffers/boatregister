@@ -23,17 +23,48 @@ full_description: "<p>&#39;Hanser&#39;s lifting keel alows the boat to sit on th
   \ and more ballast added for sail carrying capacity. A short bowsprit has been added,\
   \ making the boat more of a family cruiser than a racer. A new mainsail was made\
   \ in 2013 and a deeper analysis of the boat is planned.</p>"
-builder:
-  name: Arthur Holt
-  id: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
+year: 1974
+year_is_approximate: false
 designer:
   name: Arthur Holt
   id: 24308b60-4e0a-44aa-b47c-b16e5392a93b
+builder:
+  name: Arthur Holt
+  id: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
+place_built: Heybridge
 construction_material: wood
 construction_method: cold_moulded
-draft: 0.8382
+construction_details: ' Cold Moulded - 2 layers of khaya + external layer of teak
+  over stringers and laminated frames and ply webs. Iroko centre resorcinal glue.
+  Ply deck. Very light build akin to an aircraft'
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel sloping forefoot
+sail_number: '1007'
+ssr: '60769'
+callsign: ''
+ownerships:
+- end: 1986
+  name: Nigel and Jean Willimot
+  share: 64
+  start: 1974
+- end: 1999
+  name: Arthur Holt
+  share: 64
+  start: 1986
+- id: 332
+  share: 64
+  start: 1999
+  member: 3831
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d751add7-7152-4af1-ad2f-c84093c1507e
+image_key: LBJBjj
+thumb: https://photos.smugmug.com/photos/i-P2vMtfd/0/Th/i-P2vMtfd-Th.jpg
+draft: 0.8382
 handicap_data:
   beam: 2.2352353084613505
   main:
@@ -52,37 +83,7 @@ handicap_data:
   fore_triangle_base: 4.57205559619605
   length_on_waterline: 10.36332601804438
   fore_triangle_height: 10.287143379663496
-home_country: GBR
-home_port: ''
-hull_form: long keel sloping forefoot
-id: d751add7-7152-4af1-ad2f-c84093c1507e
 length_on_deck: 10.9728
-sail_number: '1007'
-ssr: '60769'
-callsign: ''
-ownerships:
-- end: 1986
-  name: Nigel and Jean Willimot
-  share: 64
-  start: 1974
-- end: 1999
-  name: Arthur Holt
-  share: 64
-  start: 1986
-- id: 332
-  share: 64
-  start: 1999
-  member: 3831
-  current: true
-place_built: Heybridge
-updated_at: '2021-12-19T13:38:58.609666+00:00'
-website: ''
-year: 1974
-year_is_approximate: false
-image_key: LBJBjj
-construction_details: ' Cold Moulded - 2 layers of khaya + external layer of teak
-  over stringers and laminated frames and ply webs. Iroko centre resorcinal glue.
-  Ply deck. Very light build akin to an aircraft'
 beam: 2.2342
 for_sale_state:
   text: not_for_sale

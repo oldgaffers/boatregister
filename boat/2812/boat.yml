@@ -5,17 +5,30 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Fiddler's Ferry Boatyard
-  id: d38d3959-b44f-4514-bd3a-16cf1ebe806c
+year: 1994
+year_is_approximate: false
 designer:
   name: Eric Bergqvist
   id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
+builder:
+  name: Fiddler's Ferry Boatyard
+  id: d38d3959-b44f-4514-bd3a-16cf1ebe806c
+place_built: Penketh
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3566
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Camina Portugal
+hull_form: unknown
+sail_number: WB 95
+uk_part1: 2356CM5
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a781048a-1237-4031-9d24-ac7ed654a426
+draft: 0.3566
 handicap_data:
   beam: 2.029992684711046
   main:
@@ -28,20 +41,7 @@ handicap_data:
   fore_triangle_base: 2.7432333577176298
   length_on_waterline: 4.57205559619605
   fore_triangle_height: 4.825042672518897
-home_country: 'null'
-home_port: Camina Portugal
-hull_form: unknown
-id: a781048a-1237-4031-9d24-ac7ed654a426
 length_on_deck: 4.8768
-sail_number: WB 95
-uk_part1: 2356CM5
-callsign: ''
-place_built: Penketh
-updated_at: '2021-03-23T08:45:35.98548+00:00'
-website: ''
-year: 1994
-year_is_approximate: false
-construction_details: GRP
 beam: 2.03
 design_class:
   name: Winkle Brig

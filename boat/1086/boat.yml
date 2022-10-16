@@ -5,14 +5,35 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 87/2, 91/2, 92/1, 92/3, S-A/94
+year: 1971
+year_is_approximate: false
 builder:
   name: A. Last/W. Cook and Sons
   id: a30afd57-77cc-4c17-9b51-200abd8ddca8
+place_built: Maldon
 construction_material: wood
 construction_method: clinker
-draft: 0.2743
+construction_details: Mahogany on oak clinker
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 87/2
+- Log 91/2
+- Log 92/1
+- Log 92/3
+- Log S-A/94
+callsign: ''
+ownerships:
+- name: Simper.
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: dd7ea107-1711-4f36-8b69-f1647a095d28
+draft: 0.2743
 handicap_data:
   beam: 1.8806388685686417
   main:
@@ -25,28 +46,7 @@ handicap_data:
   fore_triangle_base: 1.8288222384784198
   length_on_waterline: 4.26725188978298
   fore_triangle_height: 4.57205559619605
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: dd7ea107-1711-4f36-8b69-f1647a095d28
 length_on_deck: 4.572
-reference:
-- Log 87/2
-- Log 91/2
-- Log 92/1
-- Log 92/3
-- Log S-A/94
-callsign: ''
-ownerships:
-- name: Simper.
-  share: 64
-  start: 2012
-place_built: Maldon
-updated_at: '2021-12-19T13:39:01.084399+00:00'
-website: ''
-year: 1971
-year_is_approximate: false
-construction_details: Mahogany on oak clinker
 beam: 1.8806
 for_sale_state:
   text: not_for_sale

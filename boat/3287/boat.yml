@@ -6,29 +6,24 @@ mainsail_type: gaff
 short_description: Cornish Crabber 22 No 32.
 full_description: "<p style=\"margin:0cm 0cm 0.0001pt\">&nbsp;</p>\r\n\r\n<p style=\"\
   margin:0cm 0cm 0.0001pt\">&nbsp;</p>"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2002
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7102
+construction_details: GRP
 engine_installations: []
 for_sales:
 - asking_price: 30000
-handicap_data:
-  moving_keel: true
-  length_overall: 6.7056
-  moving_keel_type: Centreboard
-  length_over_spars: 8.2296
-  length_on_waterline: 6.2911
 home_country: GBR
 home_port: Emsworth
 hull_form: long keel deep forefoot
-id: 39f572d1-5078-48a3-9b9e-64f97089ea55
-length_on_deck: 6.7056
 sail_number: '32'
 callsign: VSOZ3
 ownerships:
@@ -39,14 +34,20 @@ ownerships:
 - name: Frank Davies
   share: 64
   start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:40:06.42718+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2002
-year_is_approximate: false
+id: 39f572d1-5078-48a3-9b9e-64f97089ea55
 mssi: '235003979'
 image_key: v32HJG
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-NFfB9mL/0/Th/i-NFfB9mL-Th.jpg
+draft: 0.7102
+handicap_data:
+  moving_keel: true
+  length_overall: 6.7056
+  moving_keel_type: Centreboard
+  length_over_spars: 8.2296
+  length_on_waterline: 6.2911
+length_on_deck: 6.7056
 beam: 2.5207
 design_class:
   name: Cornish Crabber 22

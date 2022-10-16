@@ -6,17 +6,43 @@ mainsail_type: gaff
 short_description: <p>Originally built in 1921 with 9&#39; overhanging bowsprit and
   boom 4&#39; beyond her stern, in 1923 the boom overhang was reduced to 2&#39;.&nbsp;</p>
 full_description: ''
-builder:
-  name: Burnham Yacht Co.
-  id: 25bb143b-17e5-4994-8f55-001275c1786a
+year: 1921
+year_is_approximate: false
 designer:
   name: H.C. Smith
   id: e2e5f3e6-7900-4fd8-b10a-bb3e0cc11f9a
+builder:
+  name: Burnham Yacht Co.
+  id: 25bb143b-17e5-4994-8f55-001275c1786a
+place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
-draft: 0.7864
+construction_details: ' Carvel, Pitch pine on oak'
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Keyhaven
+hull_form: unknown
+sail_number: B2
+callsign: ''
+ownerships:
+- end: 2017
+  name: Ben Collins
+  share: 64
+  start: 2006
+- name: Dick Durham
+  share: 64
+  start: 2017
+- share: 64
+  member: 5847
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9d13cf36-48bf-47d8-8326-fc3bbba68448
+image_key: M5Zj7f
+thumb: https://photos.smugmug.com/photos/i-LL7NVzV/0/Th/i-LL7NVzV-Th.jpg
+draft: 0.7864
 handicap_data:
   beam: 2.560351133869788
   main:
@@ -33,32 +59,7 @@ handicap_data:
   fore_triangle_base: 4.724457449402585
   length_on_waterline: 7.315288953913679
   fore_triangle_height: 8.260180443794196
-home_country: GBR
-home_port: Keyhaven
-hull_form: unknown
-id: 9d13cf36-48bf-47d8-8326-fc3bbba68448
 length_on_deck: 7.6718
-sail_number: B2
-callsign: ''
-ownerships:
-- end: 2017
-  name: Ben Collins
-  share: 64
-  start: 2006
-- name: Dick Durham
-  share: 64
-  start: 2017
-- share: 64
-  member: 5847
-  current: true
-  start: '?'
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:40:05.959404+00:00'
-website: ''
-year: 1921
-year_is_approximate: false
-image_key: M5Zj7f
-construction_details: ' Carvel, Pitch pine on oak'
 beam: 2.5664
 for_sale_state:
   text: not_for_sale

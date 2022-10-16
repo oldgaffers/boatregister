@@ -5,17 +5,40 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Ted Spears
-  id: 3e03e622-e0ba-4ad0-ae05-991fb1e182b8
+year: 1998
+year_is_approximate: false
 designer:
   name: Ted Spears
   id: 14976d7d-34fa-4ed1-8843-602dc834bde8
+builder:
+  name: Ted Spears
+  id: 3e03e622-e0ba-4ad0-ae05-991fb1e182b8
+place_built: Conyer
 construction_material: wood
 construction_method: unknown
-draft: 0.4816
+construction_details: Strip Plank
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bosham
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2015
+  name: Barnaby Wiener
+  share: 64
+  start: 1998
+- name: Peter Firstbrook
+  share: 64
+  start: 2015
+- share: 64
+  member: 6033
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fea13b94-5366-4bd1-be41-ed766660f41a
+draft: 0.4816
 handicap_data:
   beam: 2.1580102414045355
   main:
@@ -30,30 +53,7 @@ handicap_data:
   fore_triangle_base: 2.792001950743721
   length_on_waterline: 5.535235308461351
   fore_triangle_height: 5.9436722750548645
-home_country: GBR
-home_port: Bosham
-hull_form: long keel deep forefoot
-id: fea13b94-5366-4bd1-be41-ed766660f41a
 length_on_deck: 5.8674
-callsign: ''
-ownerships:
-- end: 2015
-  name: Barnaby Wiener
-  share: 64
-  start: 1998
-- name: Peter Firstbrook
-  share: 64
-  start: 2015
-- share: 64
-  member: 6033
-  current: true
-  start: '?'
-place_built: Conyer
-updated_at: '2021-12-19T13:39:37.066406+00:00'
-website: ''
-year: 1998
-year_is_approximate: false
-construction_details: Strip Plank
 beam: 2.158
 design_class:
   name: North Quay 19

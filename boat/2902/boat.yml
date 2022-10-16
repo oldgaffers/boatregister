@@ -23,25 +23,24 @@ full_description: "<p>Frolic is a traditional gaff cutter, built in 2005 at Hega
   \ of Ireland swells&nbsp;without a&nbsp;bother, even when handled by a mostly hungover\
   \ crew.</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"360\"\
   \ src=\"//www.youtube.com/embed/1ibs_JHEnxo?rel=0\" width=\"640\"></iframe></p>"
-builder:
-  name: Liam Hegarty
-  id: 78e1fe04-f0f2-4b59-b529-e481aacbb131
+year: 2005
+year_is_approximate: false
 designer:
   name: Ed Burnett
   id: ec954b97-b4e7-4203-a28c-7d85278bf748
+builder:
+  name: Liam Hegarty
+  id: 78e1fe04-f0f2-4b59-b529-e481aacbb131
+place_built: Hegartys Yard Oldcourt Skibereen West Cork Ireland
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
+construction_details: Larch planking on steamed oak ribs. Teak deck. Copper nails,
+  silicon bronze bolts, lead keel.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  length_over_all: 7.034869544013654
 home_country: IRL
 home_port: Fenit, Co. Kerry Ireland
 hull_form: long keel sloping forefoot
-id: 81641c9c-d0fd-4882-b04e-7e832f726fa9
-length_on_deck: 7.0104
 callsign: ''
 ownerships:
 - end: 2013
@@ -52,14 +51,16 @@ ownerships:
   name: Ivan Godley
   share: 64
   start: 2013
-place_built: Hegartys Yard Oldcourt Skibereen West Cork Ireland
-updated_at: '2021-12-19T13:39:52.857379+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.burnettyachtdesign.co.uk/110smallcutter.html
-year: 2005
-year_is_approximate: false
+id: 81641c9c-d0fd-4882-b04e-7e832f726fa9
 image_key: zx2SsR
-construction_details: Larch planking on steamed oak ribs. Teak deck. Copper nails,
-  silicon bronze bolts, lead keel.
+thumb: https://photos.smugmug.com/photos/i-mjJJSKw/0/Th/i-mjJJSKw-Th.png
+draft: 1.2192
+handicap_data:
+  beam: 2.13362594489149
+  length_over_all: 7.034869544013654
+length_on_deck: 7.0104
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

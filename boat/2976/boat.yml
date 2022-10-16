@@ -8,30 +8,23 @@ full_description: Purchased as an auxiliary masthead sloop, she had kemp masts i
   the 1960s. Designed as a gaff cutter, she originally had a Marconi rig. She was
   re-rigged using the original design drawings as a gaff cutter in 2010 by David Beling
   Largs Yacht Haven. Spars by Freeland Spars (Collars), sails by Saturn Sails Largs.
-builder:
-  name: C. Cooper (Conyer) Ltd
-  id: a0c9fc21-5e1d-4df9-a589-1e057ef97844
+year: 1936
+year_is_approximate: false
 designer:
   name: A. Bellingham/Fredrick Shepherd
   id: a4c70ed8-1574-475f-b5bd-ac4dfc6e067d
+builder:
+  name: C. Cooper (Conyer) Ltd
+  id: a0c9fc21-5e1d-4df9-a589-1e057ef97844
+place_built: Conyer Kent
 construction_material: wood
 construction_method: unknown
-draft: 1.524
+construction_details: Teak on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.4689100219458666
-  draft: 1.5240185320653499
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.686905632772493
-  length_on_waterline: 6.705681541087539
 home_country: GBR
 home_port: Clyde
 hull_form: long keel deep forefoot
-id: 2211d15e-9c2a-4069-b687-79f2e5d58017
-length_on_deck: 8.6868
 sail_number: 69C
 uk_part1: '161803'
 callsign: ''
@@ -43,12 +36,19 @@ ownerships:
   member: 5408
   current: true
   start: '?'
-place_built: Conyer Kent
-updated_at: '2021-12-19T13:39:55.132874+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1936
-year_is_approximate: false
-construction_details: Teak on Oak
+id: 2211d15e-9c2a-4069-b687-79f2e5d58017
+draft: 1.524
+handicap_data:
+  beam: 2.4689100219458666
+  draft: 1.5240185320653499
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 8.686905632772493
+  length_on_waterline: 6.705681541087539
+length_on_deck: 8.6868
 beam: 2.4689
 design_class:
   name: Cooper 6 Tonner

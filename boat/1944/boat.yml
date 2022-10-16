@@ -5,37 +5,37 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Owns Ladybird
-builder:
-  name: McNulty
-  id: 06695439-7dec-4f40-8ab4-3c3599ebfa84
+year: 1980
+year_is_approximate: false
 designer:
   name: McNulty
   id: 1cba4dc5-eecc-4e2a-9519-694ae3e0bac9
+builder:
+  name: McNulty
+  id: 06695439-7dec-4f40-8ab4-3c3599ebfa84
+place_built: South Shields
 construction_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clinker on Larch
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.3716166788588149
-  length_over_all: 3.0480370641306997
-  length_on_waterline: 3.0480370641306997
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: c852370f-8d3e-41f1-b7c2-4a03c10b3b1b
-length_on_deck: 3.048
 callsign: ''
 ownerships:
 - name: Peter Adams
   share: 64
   start: 1985
-place_built: South Shields
-updated_at: '2021-12-19T13:39:24.867131+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1980
-year_is_approximate: false
-construction_details: Clinker on Larch
+id: c852370f-8d3e-41f1-b7c2-4a03c10b3b1b
+draft: 0
+handicap_data:
+  beam: 1.3716166788588149
+  length_over_all: 3.0480370641306997
+  length_on_waterline: 3.0480370641306997
+length_on_deck: 3.048
 beam: 1.3716
 for_sale_state:
   text: not_for_sale

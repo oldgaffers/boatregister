@@ -7,17 +7,39 @@ short_description: <p>Ajax&#39;s build date and builder are uncertain but she wa
   probably built in Looe, certainly down the West Country.</p>
 full_description: Rebuilt by Roger Atkinson in 1960's he claims she was built in 1886
   in Mevagissey, but with Breton influence - due to her draft of only 3ft.
-builder:
-  name: Unknown
-  id: b3841693-d336-4132-8e60-8933dfd41cf6
+year: 1886
+year_is_approximate: false
 designer:
   name: Unknown
   id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+builder:
+  name: Unknown
+  id: b3841693-d336-4132-8e60-8933dfd41cf6
+place_built: Mevagissey
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bosham
+hull_form: long keel deep forefoot
+ssr: 01596
+callsign: ''
+ownerships:
+- name: P A J Scott
+  share: 64
+  start: 1982
+- share: 64
+  member: 1937
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4f20c5c8-6c91-47cf-8e58-bfff24f21721
+previous_names:
+- Djinns
+draft: 0.9144
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -35,29 +57,7 @@ handicap_data:
   fore_triangle_base: 5.4864667154352595
   length_on_waterline: 8.22970007315289
   fore_triangle_height: 7.315288953913679
-home_country: GBR
-home_port: Bosham
-hull_form: long keel deep forefoot
-id: 4f20c5c8-6c91-47cf-8e58-bfff24f21721
 length_on_deck: 8.3058
-ssr: 01596
-callsign: ''
-ownerships:
-- name: P A J Scott
-  share: 64
-  start: 1982
-- share: 64
-  member: 1937
-  current: true
-  start: '?'
-place_built: Mevagissey
-updated_at: '2021-12-19T13:38:51.652413+00:00'
-website: ''
-year: 1886
-year_is_approximate: false
-previous_names:
-- Djinns
-construction_details: Carvel
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

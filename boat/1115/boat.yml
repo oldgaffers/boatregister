@@ -5,38 +5,38 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1948
+year_is_approximate: false
 designer:
   name: N. Latimer
   id: b617a4a2-ef28-47ba-8091-49508f437dbd
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: clinker
-draft: 0.6401
+construction_details: Wooden clinker built
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.3774689100219457
-  draft: 0.640087783467447
-  length_over_all: 5.4864667154352595
-  length_on_waterline: 5.334064862228725
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 7307522f-c09f-4d57-a4d9-4dc9817c2584
-length_on_deck: 5.4864
 callsign: ''
 ownerships:
 - name: J Baseden
   share: 64
   start: 2012
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:01.944155+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1948
-year_is_approximate: false
-construction_details: Wooden clinker built
+id: 7307522f-c09f-4d57-a4d9-4dc9817c2584
+draft: 0.6401
+handicap_data:
+  beam: 2.3774689100219457
+  draft: 0.640087783467447
+  length_over_all: 5.4864667154352595
+  length_on_waterline: 5.334064862228725
+length_on_deck: 5.4864
 beam: 2.3774
 for_sale_state:
   text: not_for_sale

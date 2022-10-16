@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 82/2, 83/2
-builder:
-  name: P. Waters
-  id: fb22546d-4ed1-4bc5-a632-2a4a1b49de3f
+year: 1934
+year_is_approximate: false
 designer:
   name: A.H. Comben
   id: 8456eb5d-95ca-4b22-b215-124ed4585642
+builder:
+  name: P. Waters
+  id: fb22546d-4ed1-4bc5-a632-2a4a1b49de3f
+place_built: Appledore
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
+construction_details: Larch on oak, copper fastened, teak coamings and cabin
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.3716166788588149
-  length_over_all: 9.1441111923921
-  length_on_waterline: 8.382101926359423
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: fef9a24f-8a95-4b24-ae5e-35abac6da98a
-length_on_deck: 9.144
 reference:
 - Log 82/2
 - Log 83/2
@@ -34,12 +30,16 @@ ownerships:
 - name: M K Hutchings
   share: 64
   start: 2012
-place_built: Appledore
-updated_at: '2021-12-19T13:39:04.126135+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1934
-year_is_approximate: false
-construction_details: Larch on oak, copper fastened, teak coamings and cabin
+id: fef9a24f-8a95-4b24-ae5e-35abac6da98a
+draft: 1.3716
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.3716166788588149
+  length_over_all: 9.1441111923921
+  length_on_waterline: 8.382101926359423
+length_on_deck: 9.144
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

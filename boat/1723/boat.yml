@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1983
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7864
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: West Mersea
+hull_form: long keel deep forefoot
+ssr: '43314'
+callsign: ''
+ownerships:
+- name: Terry L Taylor
+  share: 64
+  start: 1991
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 95ecb78a-4d38-421c-8fe1-3b344cc686fe
+draft: 0.7864
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,23 +49,7 @@ handicap_data:
   fore_triangle_base: 4.191050963179712
   length_on_waterline: 6.196659351377712
   fore_triangle_height: 7.010485247500609
-home_country: 'null'
-home_port: West Mersea
-hull_form: long keel deep forefoot
-id: 95ecb78a-4d38-421c-8fe1-3b344cc686fe
 length_on_deck: 7.3152
-ssr: '43314'
-callsign: ''
-ownerships:
-- name: Terry L Taylor
-  share: 64
-  start: 1991
-place_built: Rock
-updated_at: '2021-12-19T13:39:18.646895+00:00'
-website: ''
-year: 1983
-year_is_approximate: false
-construction_details: GRP
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 2

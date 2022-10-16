@@ -8,27 +8,23 @@ short_description: <p>Bought in June 2007 for unpaid yard fees, the new owner co
   being 100 years old. The rig includes a single roller foresail and mainmast stepped
   Broads-type tabernacle.</p>
 full_description: ''
-builder:
-  name: J.A. Akester
-  id: dd2c827c-de98-4f6c-a0e5-37912d292a19
+year: 1897
+year_is_approximate: false
 designer:
   name: George F. Holmes
   id: 18294e5e-ffa2-48af-939e-bc30b9668eef
+builder:
+  name: J.A. Akester
+  id: dd2c827c-de98-4f6c-a0e5-37912d292a19
+place_built: Hornsea
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel Wood larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.2098268714947573
-  draft: 1.3716166788588149
-  length_over_all: 6.4008778346744695
-  length_on_waterline: 5.7912704218483295
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 8d392c55-af7f-432f-bb4b-4d1b76a6afdb
-length_on_deck: 6.4008
 sail_number: '993'
 uk_part1: '149737'
 callsign: ''
@@ -41,12 +37,16 @@ ownerships:
   member: 5104
   current: true
   start: '?'
-place_built: Hornsea
-updated_at: '2021-12-19T13:38:58.205386+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1897
-year_is_approximate: false
-construction_details: Carvel Wood larch on oak
+id: 8d392c55-af7f-432f-bb4b-4d1b76a6afdb
+draft: 1.3716
+handicap_data:
+  beam: 2.2098268714947573
+  draft: 1.3716166788588149
+  length_over_all: 6.4008778346744695
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 6.4008
 beam: 2.2098
 for_sale_state:
   text: not_for_sale

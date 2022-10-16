@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Mould taken from Dan Hatcher original
-builder:
-  name: G D B Marine Ltd
-  id: 670653fb-b856-4551-b83d-091a3da80155
+year: 1970
+year_is_approximate: false
 designer:
   name: Daniel G. Hatcher
   id: 14683616-0fe8-4912-8de4-12c0337b20e6
+builder:
+  name: G D B Marine Ltd
+  id: 670653fb-b856-4551-b83d-091a3da80155
+place_built: Southampton
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Marchwood
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 129
+  share: 64
+  start: 2007
+  member: 2215
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d329f8f5-58ec-4bfc-85b9-f2d848c6e226
+draft: 0.9144
 handicap_data:
   beam: 2.386613021214338
   main:
@@ -34,24 +51,7 @@ handicap_data:
   fore_triangle_base: 4.419653742989515
   length_on_waterline: 6.4008778346744695
   fore_triangle_height: 6.5532796878810045
-home_country: 'null'
-home_port: Marchwood
-hull_form: long keel deep forefoot
-id: d329f8f5-58ec-4bfc-85b9-f2d848c6e226
 length_on_deck: 6.7056
-callsign: ''
-ownerships:
-- id: 129
-  share: 64
-  start: 2007
-  member: 2215
-  current: true
-place_built: Southampton
-updated_at: '2021-12-19T13:39:51.438864+00:00'
-website: ''
-year: 1970
-year_is_approximate: false
-construction_details: GRP
 beam: 2.3866
 for_sale_state:
   text: not_for_sale

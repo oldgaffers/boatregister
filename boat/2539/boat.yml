@@ -17,17 +17,35 @@ full_description: "<p>Her rig dates to 1907 and is faster than 1920s Bermudan ri
   \ of May&#39;. Apart from the use of modern materials and a lifting keel for easier\
   \ trailing she replicates the original. The &#39;Class&#39; now comprises six boats\
   \ built between 1897 and 2001.</p>"
-builder:
-  name: Nigel Waller
-  id: 6892de4b-db39-4ba2-9d07-73221ffb8621
+year: 2001
+year_is_approximate: false
 designer:
   name: H.C. Smith
   id: e2e5f3e6-7900-4fd8-b10a-bb3e0cc11f9a
+builder:
+  name: Nigel Waller
+  id: 6892de4b-db39-4ba2-9d07-73221ffb8621
+place_built: Woolverstone Suffolk
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.4996
+construction_details: GRP wooden deck
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Woodbridge
+hull_form: lifting bulb keel
+sail_number: '3'
+callsign: ''
+ownerships:
+- id: 249
+  share: 64
+  start: 2001
+  member: 3317
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: ba338b6d-8b48-4b68-af10-dc4986fb1d97
+draft: 1.4996
 handicap_data:
   beam: 1.6000194586686174
   main:
@@ -42,25 +60,7 @@ handicap_data:
   fore_triangle_base: 2.5100305257863935
   length_on_waterline: 4.600055943672275
   fore_triangle_height: 4.300052295171909
-home_country: 'null'
-home_port: Woodbridge
-hull_form: lifting bulb keel
-id: ba338b6d-8b48-4b68-af10-dc4986fb1d97
 length_on_deck: 5.4864
-sail_number: '3'
-callsign: ''
-ownerships:
-- id: 249
-  share: 64
-  start: 2001
-  member: 3317
-  current: true
-place_built: Woolverstone Suffolk
-updated_at: '2021-12-19T13:39:42.141876+00:00'
-website: ''
-year: 2001
-year_is_approximate: false
-construction_details: GRP wooden deck
 beam: 1.6002
 design_class:
   name: Orwell Corinthian OD

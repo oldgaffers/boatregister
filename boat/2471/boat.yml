@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Self built
-builder:
-  name: A.J. Davidson
-  id: bd534b7c-34dd-48fe-8afa-aef219775e8b
+year: 2000
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: A.J. Davidson
+  id: bd534b7c-34dd-48fe-8afa-aef219775e8b
+place_built: Kenilworth
 construction_material: wood
 construction_method: unknown
-draft: 0.4816
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '52'
+callsign: ''
+ownerships:
+- name: Angus James Davidson
+  share: 64
+  start: 2000
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a6e3611f-35c0-4f42-92ed-7f2ed2745e29
+draft: 0.4816
 handicap_data:
   beam: 2.194586686174104
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 2.6670324311143623
   length_on_waterline: 5.364545232870032
   fore_triangle_height: 5.282248232138502
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: a6e3611f-35c0-4f42-92ed-7f2ed2745e29
 length_on_deck: 5.8674
-sail_number: '52'
-callsign: ''
-ownerships:
-- name: Angus James Davidson
-  share: 64
-  start: 2000
-place_built: Kenilworth
-updated_at: '2021-12-19T13:39:39.83139+00:00'
-website: ''
-year: 2000
-year_is_approximate: false
 beam: 2.1946
 design_class:
   name: Golant Gaffer

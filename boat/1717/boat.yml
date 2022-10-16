@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: CB Jul/Aug 88
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1989
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.1768
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '248'
+callsign: ''
+ownerships:
+- name: S N Lapping
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c61a7c49-7454-4d87-b630-4d1a70a0e729
+draft: 0.1768
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -28,23 +44,7 @@ handicap_data:
   fore_triangle_base: 2.4993903925871734
   length_on_waterline: 4.038649109973177
   fore_triangle_height: 3.7307973664959766
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: c61a7c49-7454-4d87-b630-4d1a70a0e729
 length_on_deck: 5.0536
-sail_number: '248'
-callsign: ''
-ownerships:
-- name: S N Lapping
-  share: 64
-  start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:39:18.553141+00:00'
-website: ''
-year: 1989
-year_is_approximate: false
-construction_details: GRP
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

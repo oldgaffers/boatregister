@@ -5,17 +5,30 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Used to be rigged as a ketch.  Log 91/1
-builder:
-  name: Unknown
-  id: b3841693-d336-4132-8e60-8933dfd41cf6
+year: 1920
+year_is_approximate: false
 designer:
   name: Unknown
   id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+builder:
+  name: Unknown
+  id: b3841693-d336-4132-8e60-8933dfd41cf6
+place_built: Unknown
 construction_material: ferro
 construction_method: unknown
-draft: 1.2009
+construction_details: Pine on Oak - Ferro Sheathed.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 91/1
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 876fcb55-76f1-4f13-95ca-e55f754c3e03
+draft: 1.2009
 handicap_data:
   beam: 2.3988051694708608
   main:
@@ -30,20 +43,7 @@ handicap_data:
   fore_triangle_base: 5.199951231406973
   length_on_waterline: 7.501219214825651
   fore_triangle_height: 8.500975371860521
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 876fcb55-76f1-4f13-95ca-e55f754c3e03
 length_on_deck: 7.8974
-reference:
-- Log 91/1
-callsign: ''
-place_built: Unknown
-updated_at: '2021-03-26T07:56:26.831198+00:00'
-website: ''
-year: 1920
-year_is_approximate: false
-construction_details: Pine on Oak - Ferro Sheathed.
 beam: 2.3988
 for_sale_state:
   text: not_for_sale

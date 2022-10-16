@@ -5,17 +5,31 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Boatman Sep 94
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1963
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
 construction_method: unknown
-draft: 1.0668
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Peel, Isle of Man
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: K D Hewson
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4a36e9b9-d0a5-44cc-adac-15aa0dede93e
+draft: 1.0668
 handicap_data:
   beam: 2.8194342843208973
   draft: 1.066812972445745
@@ -23,21 +37,7 @@ handicap_data:
     type: fixed
   length_over_all: 9.1441111923921
   length_on_waterline: 8.458302852962692
-home_country: 'null'
-home_port: Peel, Isle of Man
-hull_form: long keel deep forefoot
-id: 4a36e9b9-d0a5-44cc-adac-15aa0dede93e
 length_on_deck: 9.144
-callsign: ''
-ownerships:
-- name: K D Hewson
-  share: 64
-  start: 2012
-place_built: Littlehampton
-updated_at: '2021-12-19T13:39:20.98087+00:00'
-website: ''
-year: 1963
-year_is_approximate: false
 beam: 2.8194
 for_sale_state:
   text: not_for_sale

@@ -5,21 +5,15 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 86/2
+year_is_approximate: false
 construction_material: wood
 construction_method: clinker
-draft: 1.0668
+construction_details: Teak on oak clinker with pine spars
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  draft: 1.066812972445745
-  length_over_all: 9.1441111923921
-  length_on_waterline: 9.1441111923921
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 6ea18569-2afd-4dd7-b9a5-79e4d28a0e7c
-length_on_deck: 9.144
 reference:
 - Log 86/2
 callsign: ''
@@ -27,10 +21,16 @@ ownerships:
 - name: K W Silcock
   share: 64
   start: 2012
-updated_at: '2021-12-19T13:39:01.776663+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year_is_approximate: false
-construction_details: Teak on oak clinker with pine spars
+id: 6ea18569-2afd-4dd7-b9a5-79e4d28a0e7c
+draft: 1.0668
+handicap_data:
+  beam: 3.0480370641306997
+  draft: 1.066812972445745
+  length_over_all: 9.1441111923921
+  length_on_waterline: 9.1441111923921
+length_on_deck: 9.144
 beam: 3.048
 for_sale_state:
   text: not_for_sale

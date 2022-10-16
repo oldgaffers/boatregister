@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: Reproduction of a 1930's cruising yacht
 full_description: ''
-builder:
-  name: A. C. Stock
-  id: 101fb6b7-4262-4e67-b6e9-8dda73683dac
+year: 2004
+year_is_approximate: false
 designer:
   name: Welch
   id: f19202cc-f8ad-449a-98f2-6f8e60e4a14e
+builder:
+  name: A. C. Stock
+  id: 101fb6b7-4262-4e67-b6e9-8dda73683dac
+place_built: Plymouth
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.4478
+construction_details: GRP on a light plywood frame, ballasted with scrap metal cemented
+  in the bilge.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: cut_away_stem
+callsign: ''
+ownerships:
+- name: MH Jones
+  share: 64
+  start: 2004
+- share: 64
+  member: 5544
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6a8858a4-6d78-4bbb-b799-9ce4287877aa
+draft: 1.4478
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -33,27 +53,7 @@ handicap_data:
   fore_triangle_base: 5.334064862228725
   length_on_waterline: 7.315288953913679
   fore_triangle_height: 9.1441111923921
-home_country: GBR
-home_port: ''
-hull_form: cut_away_stem
-id: 6a8858a4-6d78-4bbb-b799-9ce4287877aa
 length_on_deck: 10.3632
-callsign: ''
-ownerships:
-- name: MH Jones
-  share: 64
-  start: 2004
-- share: 64
-  member: 5544
-  current: true
-  start: '?'
-place_built: Plymouth
-updated_at: '2021-12-19T13:39:59.279363+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-construction_details: GRP on a light plywood frame, ballasted with scrap metal cemented
-  in the bilge.
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

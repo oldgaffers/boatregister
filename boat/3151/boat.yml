@@ -9,43 +9,44 @@ full_description: "<p>&#39;Blue Note&#39; is an East Coast Smacks Boat, 12&#39;,
   \ lug sail on an unstayed mast, built by Brian Kennell in 2013.</p>\r\n\r\n<p>She\
   \ has a GRP hull made from a mould taken from an original smack&#39;s boat built\
   \ by Alf Last of Maldon around 1970.</p>"
-builder:
-  name: Brian Kennell
-  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+year: 2013
+year_is_approximate: false
 designer:
   name: Alf Last
   id: f6e9f88a-6f88-40f7-82d2-e700bf57d1c5
+builder:
+  name: Brian Kennell
+  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+place_built: Layer Breton, Colchester
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.2042
+construction_details: GRP, mould taken from Alf Last design. Fitted out in wood with
+  galvanised centreboard.
 engine_installations: []
 for_sales:
 - asking_price: 4750
-handicap_data:
-  sailarea: 0
-  moving_keel: true
-  length_overall: 3.6576
-  moving_keel_type: Centreboard
 home_country: GBR
 home_port: RHSC
 hull_form: centre-board dinghy
-id: 1726e256-23a9-4233-95e3-db063c59bddd
-length_on_deck: 3.6576
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2018
   name: Gotthelf Wiedermann
   share: 64
   start: 2013
-place_built: Layer Breton, Colchester
-updated_at: '2021-12-19T13:39:59.342307+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2013
-year_is_approximate: false
+id: 1726e256-23a9-4233-95e3-db063c59bddd
 image_key: vT24BP
-construction_details: GRP, mould taken from Alf Last design. Fitted out in wood with
-  galvanised centreboard.
+thumb: https://photos.smugmug.com/photos/i-Ck3cWmh/0/Th/i-Ck3cWmh-Th.jpg
+draft: 0.2042
+handicap_data:
+  sailarea: 0
+  moving_keel: true
+  length_overall: 3.6576
+  moving_keel_type: Centreboard
+length_on_deck: 3.6576
 beam: 1.524
 design_class:
   name: Brian Kennel Smacks Boat

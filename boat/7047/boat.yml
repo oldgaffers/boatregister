@@ -9,39 +9,24 @@ full_description: "<p>Built to a very high standard by John Sant and launched in
   \ &#39;Swyn y Don&#39; is a YW People&#39;s Boat.</p>\r\n\r\n<p>Her owner, David\
   \ Tallant, cruises the coast from his home port of Poole and finds her to be a tough\
   \ and reliable boat.</p>"
-builder:
-  name: J.D. Sant
-  id: 73a20456-cddf-4b59-838c-a8054861e67d
+year: 1964
+year_is_approximate: false
 designer:
   name: Per Brohall
   id: be7b1db2-0a3f-4191-afe4-7f9dbb60e5bf
+builder:
+  name: J.D. Sant
+  id: 73a20456-cddf-4b59-838c-a8054861e67d
+place_built: Carshalton Beeches
 construction_material: wood
 construction_method: unknown
-draft: 0.7102
+construction_details: Thames Makore Marine Ply on Oak Frames
 engine_installations: []
 for_sales:
 - asking_price: 6995
-handicap_data:
-  beam: 2.1854425749817117
-  main:
-    foot: 3.2004389173372347
-    luff: 9.067910265788832
-  thcf: 0.86
-  draft: 0.7101926359424531
-  sailarea: 20.82820681891006
-  propellor:
-    type: fixed
-    blades: 3
-  draft_keeldown: 1.21921482565228
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 2.43842965130456
-  length_on_waterline: 5.7912704218483295
-  fore_triangle_height: 6.0960741282613995
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
-id: 0a29eca8-c34b-4dc3-8fdf-d0f96c91162a
-length_on_deck: 7.3152
 sail_number: 658Y
 uk_part1: '305147'
 callsign: ''
@@ -58,13 +43,29 @@ ownerships:
   member: 4667
   current: true
   start: '?'
-place_built: Carshalton Beeches
-updated_at: '2021-12-19T13:40:01.434402+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1964
-year_is_approximate: false
+id: 0a29eca8-c34b-4dc3-8fdf-d0f96c91162a
 image_key: x28N96
-construction_details: Thames Makore Marine Ply on Oak Frames
+thumb: https://photos.smugmug.com/photos/i-mxDJjqL/0/Th/i-mxDJjqL-Th.jpg
+draft: 0.7102
+handicap_data:
+  beam: 2.1854425749817117
+  main:
+    foot: 3.2004389173372347
+    luff: 9.067910265788832
+  thcf: 0.86
+  draft: 0.7101926359424531
+  sailarea: 20.82820681891006
+  propellor:
+    type: fixed
+    blades: 3
+  draft_keeldown: 1.21921482565228
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 2.43842965130456
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 6.0960741282613995
+length_on_deck: 7.3152
 beam: 2.1854
 design_class:
   name: Y W Peoples Boat

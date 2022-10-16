@@ -5,18 +5,42 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Liverpool Boat Co. Ltd.
-  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+year: 1979
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Liverpool Boat Co. Ltd.
+  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+place_built: Liverpool
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: grp
 engine_installations: []
 for_sales:
 - asking_price: 9000
+home_country: 'null'
+home_port: Carrickfergus
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Fred Reid
+  share: 64
+  start: 2012
+- share: 64
+  member: 3761
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 176bff02-6f1c-4182-b57a-41a8d340d265
+previous_names:
+- Pretender
+image_key: szCFcR
+thumb: https://photos.smugmug.com/photos/i-qk7GR8v/0/Th/i-qk7GR8v-Th.jpg
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -32,30 +56,7 @@ handicap_data:
   fore_triangle_base: 2.6670324311143623
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 5.18166300902219
-home_country: 'null'
-home_port: Carrickfergus
-hull_form: unknown
-id: 176bff02-6f1c-4182-b57a-41a8d340d265
 length_on_deck: 5.7912
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Fred Reid
-  share: 64
-  start: 2012
-- share: 64
-  member: 3761
-  current: true
-  start: '?'
-place_built: Liverpool
-updated_at: '2022-02-08T21:53:04.677651+00:00'
-website: ''
-year: 1979
-year_is_approximate: false
-previous_names:
-- Pretender
-image_key: szCFcR
-construction_details: grp
 beam: 2.1336
 for_sale_state:
   text: for_sale

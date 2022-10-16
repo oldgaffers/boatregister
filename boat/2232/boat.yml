@@ -27,17 +27,38 @@ full_description: "<p>Tarifa was kept at Walton on the Naze from when she was bu
   \ teak planking is original, as is much of the deck, cabin and cockpit joinery.\
   \ Her rig is a new one but a faithful copy of the original.</p>\r\n\r\n<p>Tarifa\
   \ has a shallow draft of 2ft 6ins with a lifting centre plate.</p>"
-builder:
-  name: Burnham Yacht Building Co.
-  id: cbdb2200-b74d-4fa1-ad09-8782b1c69ff9
+year: 1909
+year_is_approximate: false
 designer:
   name: G.U. Laws
   id: 6b0e581f-8507-4748-8d44-f8fb73dbef19
+builder:
+  name: Burnham Yacht Building Co.
+  id: cbdb2200-b74d-4fa1-ad09-8782b1c69ff9
+place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel pitch pine on Canadian rock elm with teak sheerstrake
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bembridge
+hull_form: long keel deep forefoot
+uk_part1: '165451'
+callsign: ''
+ownerships:
+- id: 264
+  share: 64
+  start: 1998
+  member: 3393
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 479e70ee-efac-4072-840f-9791f10bdcda
+previous_names:
+- Kitzi
+- Tarifa
+draft: 0.9144
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -52,28 +73,7 @@ handicap_data:
   fore_triangle_base: 3.3528407705437697
   length_on_waterline: 6.160082906608144
   fore_triangle_height: 6.705681541087539
-home_country: GBR
-home_port: Bembridge
-hull_form: long keel deep forefoot
-id: 479e70ee-efac-4072-840f-9791f10bdcda
 length_on_deck: 8.5954
-uk_part1: '165451'
-callsign: ''
-ownerships:
-- id: 264
-  share: 64
-  start: 1998
-  member: 3393
-  current: true
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:39:32.964379+00:00'
-website: ''
-year: 1909
-year_is_approximate: false
-previous_names:
-- Kitzi
-- Tarifa
-construction_details: Carvel pitch pine on Canadian rock elm with teak sheerstrake
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

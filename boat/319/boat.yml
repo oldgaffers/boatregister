@@ -9,27 +9,23 @@ full_description: Log 80/1 Converted from center boarder in late 50s by Fox of I
   of Brunaphen 1978.  New main, jib, staysail, topsail by J. Lawrence of Brightlingsea
   1979. New Bosch dynastart electrics, h/d battery, tricolour, auto bilge pump 1979.
   New boom & all running rigging 1979.
-builder:
-  name: W. Hayward
-  id: 2a6b5b51-7c56-48b4-ad62-a6e17db529a3
+year: 1906
+year_is_approximate: false
 designer:
   name: W. Hayward
   id: ace520cf-f9c9-48e3-bfb9-057d6d3c6248
+builder:
+  name: W. Hayward
+  id: 2a6b5b51-7c56-48b4-ad62-a6e17db529a3
+place_built: Southend on Sea
 construction_material: wood
 construction_method: unknown
-draft: 1.0363
+construction_details: Larch on oak, Canvassed t & g pine decks, teak trim.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  draft: 1.0363326018044379
-  length_over_all: 8.53450377956596
-  length_on_waterline: 6.949524506217996
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 35eaf3f6-27ac-41c4-b6d7-6e442fcc737e
-length_on_deck: 8.5344
 reference:
 - Log 80/1
 callsign: ''
@@ -37,12 +33,16 @@ ownerships:
 - name: C M Spickett
   share: 64
   start: 2012
-place_built: Southend on Sea
-updated_at: '2021-12-19T13:38:39.08314+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1906
-year_is_approximate: false
-construction_details: Larch on oak, Canvassed t & g pine decks, teak trim.
+id: 35eaf3f6-27ac-41c4-b6d7-6e442fcc737e
+draft: 1.0363
+handicap_data:
+  beam: 2.590831504511095
+  draft: 1.0363326018044379
+  length_over_all: 8.53450377956596
+  length_on_waterline: 6.949524506217996
+length_on_deck: 8.5344
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

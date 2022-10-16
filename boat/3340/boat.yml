@@ -5,33 +5,24 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: Lucy Louise is a Memory 19 built in 2006.
 full_description: ''
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2006
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Bursledon
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 15.5
-    head: 10.5
-  sailarea: 7
-  moving_keel: true
-  length_overall: 5.7912
-  moving_keel_type: Centreboard
-  length_over_spars: 7.5682
-  length_on_waterline: 5.6906
 home_country: GBR
 home_port: Tollesbury
 hull_form: centre-boarder
-id: a63eb13d-8651-43f1-bf20-ffd326d8d081
-length_on_deck: 5.7912
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2012
@@ -54,13 +45,23 @@ ownerships:
   member: 6487
   current: true
   start: '?'
-place_built: Bursledon
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
-year: 2006
-year_is_approximate: false
+id: a63eb13d-8651-43f1-bf20-ffd326d8d081
 image_key: Gv7jKq
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-mk44Tc9/0/Th/i-mk44Tc9-Th.jpg
+draft: 0.5334
+handicap_data:
+  main:
+    foot: 15.5
+    head: 10.5
+  sailarea: 7
+  moving_keel: true
+  length_overall: 5.7912
+  moving_keel_type: Centreboard
+  length_over_spars: 7.5682
+  length_on_waterline: 5.6906
+length_on_deck: 5.7912
 beam: 2.1336
 design_class:
   name: Memory 19

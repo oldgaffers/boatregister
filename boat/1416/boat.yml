@@ -5,17 +5,38 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: W.G. Luke and Co.
-  id: d0336872-a447-4748-ae62-85ce7b90efe1
+year: 1897
+year_is_approximate: false
 designer:
   name: Alfred E. Payne
   id: cfb14a6f-03f7-4689-832d-2a21f28b7fc4
+builder:
+  name: W.G. Luke and Co.
+  id: d0336872-a447-4748-ae62-85ce7b90efe1
+place_built: Hamble
 construction_material: wood
 construction_method: carvel
-draft: 1.6002
+construction_details: Carvel teak on oak and iron frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+uk_part1: '120416'
+callsign: ''
+ownerships:
+- end: 2005
+  name: John Bignell
+  share: 64
+  start: 1990
+- note: For Sale in Classic Boat October 2004. Now sold
+  text: For Sale in Classic Boat October
+  start: 2004
+  start_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 63bcea91-ff66-41ef-966f-3c68bef5253c
+draft: 1.6002
 handicap_data:
   beam: 2.834674469641551
   main:
@@ -30,28 +51,7 @@ handicap_data:
   fore_triangle_base: 5.273104120946111
   length_on_waterline: 8.83930748597903
   fore_triangle_height: 9.75371860521824
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 63bcea91-ff66-41ef-966f-3c68bef5253c
 length_on_deck: 8.9916
-uk_part1: '120416'
-callsign: ''
-ownerships:
-- end: 2005
-  name: John Bignell
-  share: 64
-  start: 1990
-- note: For Sale in Classic Boat October 2004. Now sold
-  text: For Sale in Classic Boat October
-  start: 2004
-  start_is_approximate: false
-place_built: Hamble
-updated_at: '2021-12-19T13:39:10.660171+00:00'
-website: ''
-year: 1897
-year_is_approximate: false
-construction_details: Carvel teak on oak and iron frames
 beam: 2.8438
 for_sale_state:
   text: not_for_sale

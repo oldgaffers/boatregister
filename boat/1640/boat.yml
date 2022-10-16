@@ -5,27 +5,23 @@ rig_type: Ketch
 mainsail_type: lug
 short_description: Converted to a lugger in 1997.
 full_description: ''
-builder:
-  name: Neakle and Watterson
-  id: 928e0123-21a2-44e6-a419-859ca72909a7
+year: 1904
+year_is_approximate: false
 designer:
   name: Neakle and Waterson
   id: d154e969-cb16-4a4d-a50b-2ebea78c52d6
+builder:
+  name: Neakle and Watterson
+  id: 928e0123-21a2-44e6-a419-859ca72909a7
+place_built: Peel Isle of Man
 construction_material: wood
 construction_method: carvel
-draft: 1.9812
+construction_details: Carvel planked, larch on oak with raised coach roof & wheelhouse
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.114850036576445
-  draft: 1.9812240916849548
-  length_over_all: 13.716166788588149
-  length_on_waterline: 11.277737137283589
 home_country: 'null'
 home_port: Laxey Isle of Man
 hull_form: unknown
-id: 0f356aad-a77c-4db1-b518-1cfd13a63369
-length_on_deck: 13.716
 callsign: ''
 ownerships:
 - id: 123
@@ -33,13 +29,18 @@ ownerships:
   start: 1990
   member: 2087
   current: true
-place_built: Peel Isle of Man
-updated_at: '2021-12-19T13:39:16.876666+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.white-heather-nobby.com
-year: 1904
-year_is_approximate: false
+id: 0f356aad-a77c-4db1-b518-1cfd13a63369
 image_key: MWWbWg
-construction_details: Carvel planked, larch on oak with raised coach roof & wheelhouse
+thumb: https://photos.smugmug.com/photos/i-nMhh4q2/0/Th/i-nMhh4q2-Th.jpg
+draft: 1.9812
+handicap_data:
+  beam: 4.114850036576445
+  draft: 1.9812240916849548
+  length_over_all: 13.716166788588149
+  length_on_waterline: 11.277737137283589
+length_on_deck: 13.716
 beam: 4.1148
 for_sale_state:
   text: not_for_sale

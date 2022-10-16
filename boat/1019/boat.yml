@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 80/3
-builder:
-  name: Fairey Marine Ltd.
-  id: 97373e89-d53d-428d-a9b4-bf6c68aebd94
+year: 1955
+year_is_approximate: false
 designer:
   name: Marine Fairey
   id: 2140403d-5316-44fd-8e70-c84b097a3182
+builder:
+  name: Fairey Marine Ltd.
+  id: 97373e89-d53d-428d-a9b4-bf6c68aebd94
+place_built: Hamble
 construction_material: wood
 construction_method: hot_moulded
-draft: 0.762
+construction_details: Hot moulded Teak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.5240185320653499
-  draft: 0.7620092660326749
-  length_over_all: 5.029261155815655
-  length_on_waterline: 4.358693001706901
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 33bfd45d-2f91-46f2-b098-c10f84601bd5
-length_on_deck: 5.0292
 reference:
 - Log 80/3
 callsign: ''
@@ -33,12 +29,16 @@ ownerships:
 - name: W A MacGregor
   share: 64
   start: 2012
-place_built: Hamble
-updated_at: '2021-12-19T13:38:58.959134+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1955
-year_is_approximate: false
-construction_details: Hot moulded Teak
+id: 33bfd45d-2f91-46f2-b098-c10f84601bd5
+draft: 0.762
+handicap_data:
+  beam: 1.5240185320653499
+  draft: 0.7620092660326749
+  length_over_all: 5.029261155815655
+  length_on_waterline: 4.358693001706901
+length_on_deck: 5.0292
 beam: 1.524
 for_sale_state:
   text: not_for_sale

@@ -7,17 +7,37 @@ short_description: ''
 full_description: '<p>Log 77/2, 78/1, Undergoing restoration in 2022</p>
 
   <p><br></p>'
-builder:
-  name: Slipway Bute
-  id: 0e95d174-49f9-4481-9b8d-bd7dff1d3171
+year: 1923
+year_is_approximate: false
 designer:
   name: Alfred Mylne
   id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
+builder:
+  name: Slipway Bute
+  id: 0e95d174-49f9-4481-9b8d-bd7dff1d3171
+place_built: Clydeside
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel Mahogany on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 77/2
+- Log 78/1
+callsign: ''
+ownerships:
+- name: Bob Long
+  current: true
+- name: R K Long
+  share: 64
+  start: 1986
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: bf06cf99-521a-4645-966e-bccf4d2a4d7a
+draft: 1.0668
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -33,27 +53,7 @@ handicap_data:
   fore_triangle_base: 2.43842965130456
   length_on_waterline: 7.010485247500609
   fore_triangle_height: 4.26725188978298
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: bf06cf99-521a-4645-966e-bccf4d2a4d7a
 length_on_deck: 7.9248
-reference:
-- Log 77/2
-- Log 78/1
-callsign: ''
-ownerships:
-- name: Bob Long
-  current: true
-- name: R K Long
-  share: 64
-  start: 1986
-place_built: Clydeside
-updated_at: '2022-03-16T22:49:18.393078+00:00'
-website: ''
-year: 1923
-year_is_approximate: false
-construction_details: Carvel Mahogany on oak
 beam: 2.286
 for_sale_state:
   text: not_for_sale

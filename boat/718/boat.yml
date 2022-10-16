@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 80/2, 81/2
-builder:
-  name: T. Pearce
-  id: 5bb0e6bb-85d8-4cfb-beaa-6595805475ca
+year: 1904
+year_is_approximate: false
 designer:
   name: T. Pearce
   id: 663f1b77-dd26-4fe8-8332-2148ae4717df
+builder:
+  name: T. Pearce
+  id: 5bb0e6bb-85d8-4cfb-beaa-6595805475ca
+place_built: Looe
 construction_material: wood
 construction_method: carvel
-draft: 1.7069
+construction_details: Larch on oak, carvel hull with iron fastenings
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.7069007559131917
-  length_over_all: 8.686905632772493
-  length_on_waterline: 8.22970007315289
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 6cef6c32-dbab-4dfa-8c2f-2498503985b1
-length_on_deck: 8.6868
 reference:
 - Log 80/2
 - Log 81/2
@@ -34,12 +30,16 @@ ownerships:
 - name: C G Wherry
   share: 64
   start: 2012
-place_built: Looe
-updated_at: '2021-12-19T13:38:50.475418+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1904
-year_is_approximate: false
-construction_details: Larch on oak, carvel hull with iron fastenings
+id: 6cef6c32-dbab-4dfa-8c2f-2498503985b1
+draft: 1.7069
+handicap_data:
+  beam: 2.8956352109241648
+  draft: 1.7069007559131917
+  length_over_all: 8.686905632772493
+  length_on_waterline: 8.22970007315289
+length_on_deck: 8.6868
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

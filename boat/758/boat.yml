@@ -9,28 +9,48 @@ full_description: Reynardine was constructed from 1&frac14; pitch pine planking 
   11/4 oak timbers, copper fastened with teak over ply decks, iron ballasted long
   keel, short counter stern and pretty fiddle-head bow with bowsprit. She has varnished
   coach roof sides and cockpit, tiller steering and a self draining cockpit.
-builder:
-  name: R.M. Johnson
-  id: 7543552c-e599-4cba-a94e-9b862c43c54a
+year: 1974
+year_is_approximate: false
 designer:
   name: Alan Buchanan
   id: c501c48d-9b2b-4b4b-a120-ddbf63ae35b5
+builder:
+  name: R.M. Johnson
+  id: 7543552c-e599-4cba-a94e-9b862c43c54a
+place_built: Gweek
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.6154
+construction_details: Pitch pine on oak with teak decks, bronze and copper fastened,
+  steamed timbers
 engine_installations: []
 for_sales:
 - asking_price: 12500
-  flexibility: normal
-  offered: '2020-08-23'
-  price_flexibility:
-    text: normal
-  reduced: true
-  sales_text: Full details at <a href="http://www.mjlewisboatsales.com/boats/32-5ft-gaff-yawl-buchanan-design-1974/">
-    M J Lewis Boat Sales</a>.
-  sold: null
-  summary: null
-  updated_at: '2020-08-24T06:21:54.406873+00:00'
+home_country: GBR
+home_port: Althorne
+hull_form: long keel deep forefoot
+uk_part1: '362401'
+callsign: ''
+ownerships:
+- end: 2007
+  name: Jon Wainwright
+  share: 64
+  start: 2004
+- end: 2013
+  name: Eric Tym
+  share: 64
+  start: 2010
+- id: 662
+  share: 64
+  start: 2013
+  member: 5500
+  current: true
+updated_at: '2022-07-20T08:05:06.210703+00:00'
+website: ''
+id: bfdc9528-fd27-4da4-afd2-8f2e615374a2
+image_key: jNFNKZ
+thumb: https://photos.smugmug.com/photos/i-HZMjzx6/0/Th/i-HZMjzx6-Th.jpg
+draft: 1.6154
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -48,36 +68,7 @@ handicap_data:
   fore_triangle_base: 4.191050963179712
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 8.22970007315289
-home_country: GBR
-home_port: Althorne
-hull_form: long keel deep forefoot
-id: bfdc9528-fd27-4da4-afd2-8f2e615374a2
 length_on_deck: 9.906
-spar_material: wood
-uk_part1: '362401'
-callsign: ''
-ownerships:
-- end: 2007
-  name: Jon Wainwright
-  share: 64
-  start: 2004
-- end: 2013
-  name: Eric Tym
-  share: 64
-  start: 2010
-- id: 662
-  share: 64
-  start: 2013
-  member: 5500
-  current: true
-place_built: Gweek
-updated_at: '2022-07-20T08:05:06.210703+00:00'
-website: ''
-year: 1974
-year_is_approximate: false
-image_key: jNFNKZ
-construction_details: Pitch pine on oak with teak decks, bronze and copper fastened,
-  steamed timbers
 beam: 2.7432
 for_sale_state:
   text: for_sale

@@ -11,17 +11,44 @@ full_description: <p>Galatea was built in 1930 with cutter rig by Anderson, Ridg
   112, from 1910. Ed Allen purchased her in 2004 and kept her at Wrabness on the River
   Stour. Ed writes about his new purchase on the <a href="http://www.albertstrange.org/?p=101"
   target="_blank">Albert Strange Association website</a>.</p>
-builder:
-  name: Anderson Rigden and Perkins
-  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+year: 1930
+year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+builder:
+  name: Anderson Rigden and Perkins
+  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+place_built: Whitstable
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel - Pitch Pine on oak.  New sheathed deck '88, transom
+  '89, re-rigged to original Albert Strange drawings '96/7.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Maylandsea
+hull_form: long keel deep forefoot
+sail_number: AS 112
+ssr: '130688'
+uk_part1: '161399'
+callsign: MGEA7
+ownerships:
+- end: 2007
+  name: Ed Allen
+  share: 64
+  start: 2004
+- id: 512
+  share: 64
+  start: 2007
+  member: 4784
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f9e14e79-f739-4ca1-beaa-3177318d8455
+image_key: zdMsBP
+thumb: https://photos.smugmug.com/photos/i-3g27sL7/0/Th/i-3g27sL7-Th.jpg
+draft: 1.2192
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -43,33 +70,7 @@ handicap_data:
   fore_triangle_base: 3.733845403560107
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 6.9342843208973415
-home_country: GBR
-home_port: Maylandsea
-hull_form: long keel deep forefoot
-id: f9e14e79-f739-4ca1-beaa-3177318d8455
 length_on_deck: 7.9004
-sail_number: AS 112
-ssr: '130688'
-uk_part1: '161399'
-callsign: MGEA7
-ownerships:
-- end: 2007
-  name: Ed Allen
-  share: 64
-  start: 2004
-- id: 512
-  share: 64
-  start: 2007
-  member: 4784
-  current: true
-place_built: Whitstable
-updated_at: '2021-12-19T13:39:23.951431+00:00'
-website: ''
-year: 1930
-year_is_approximate: false
-image_key: zdMsBP
-construction_details: Carvel - Pitch Pine on oak.  New sheathed deck '88, transom
-  '89, re-rigged to original Albert Strange drawings '96/7.
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

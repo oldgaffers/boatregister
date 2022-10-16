@@ -18,17 +18,39 @@ full_description: "<p>&lsquo;Muriel&rsquo;, built in 1905 of pitch pine on oak w
   \ took her on and she underwent a thorough refit, including a new hollow mast and\
   \ running rigging. To reflect the next stage of her life, &#39;Muriel&#39; has been\
   \ painted white and will continue to sail with the South West Gaffers.</p>"
-builder:
-  name: A. Stowe
-  id: 12b058b6-bba5-47c2-9c9c-d45c8a73717e
+year: 1905
+year_is_approximate: false
 designer:
   name: A. Stowe
   id: d8083ff7-94ae-4f1e-92f9-b8e2f59e7d91
+builder:
+  name: A. Stowe
+  id: 12b058b6-bba5-47c2-9c9c-d45c8a73717e
+place_built: Shoreham
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Dartmouth
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2016
+  name: Paul Heighway
+  share: 64
+  start: 1966
+- id: 724
+  share: 64
+  start: 2016
+  member: 5684
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 07b955ac-5408-47ad-9b8f-ea9b84566338
+image_key: vFmj5j
+thumb: https://photos.smugmug.com/photos/i-vtQkvpP/0/Th/i-vtQkvpP-Th.jpg
+draft: 0
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -45,28 +67,7 @@ handicap_data:
   fore_triangle_base: 5.18166300902219
   length_on_waterline: 7.620092660326749
   fore_triangle_height: 8.22970007315289
-home_country: GBR
-home_port: Dartmouth
-hull_form: long keel deep forefoot
-id: 07b955ac-5408-47ad-9b8f-ea9b84566338
 length_on_deck: 9.906
-callsign: ''
-ownerships:
-- end: 2016
-  name: Paul Heighway
-  share: 64
-  start: 1966
-- id: 724
-  share: 64
-  start: 2016
-  member: 5684
-  current: true
-place_built: Shoreham
-updated_at: '2021-12-19T13:39:33.923978+00:00'
-website: ''
-year: 1905
-year_is_approximate: false
-image_key: vFmj5j
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,36 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Figaro is a Hamble One Design built in 1913.</p>
 full_description: ''
-builder:
-  name: A.R. Luke and Sons
-  id: b8602ee5-946b-4f9d-ab1d-ee6a1b246f2a
+year: 1913
+year_is_approximate: false
 designer:
   name: A.R. Luke
   id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+builder:
+  name: A.R. Luke and Sons
+  id: b8602ee5-946b-4f9d-ab1d-ee6a1b246f2a
+place_built: Hamble
 construction_material: wood
 construction_method: carvel
-draft: 0.9906
+construction_details: Carvel plank
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Newport IOW
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: David Blades / Hargreaves
+  share: 64
+  start: 2012
+- share: 64
+  member: 4351
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 897f5b5f-91f6-45cc-a800-fb6a55b4d1f8
+draft: 0.9906
 handicap_data:
   beam: 1.7069007559131917
   main:
@@ -31,26 +50,7 @@ handicap_data:
   fore_triangle_base: 1.9050231650816873
   length_on_waterline: 4.724457449402585
   fore_triangle_height: 8.290660814435503
-home_country: GBR
-home_port: Newport IOW
-hull_form: unknown
-id: 897f5b5f-91f6-45cc-a800-fb6a55b4d1f8
 length_on_deck: 5.4864
-callsign: ''
-ownerships:
-- name: David Blades / Hargreaves
-  share: 64
-  start: 2012
-- share: 64
-  member: 4351
-  current: true
-  start: '?'
-place_built: Hamble
-updated_at: '2021-12-19T13:38:59.916907+00:00'
-website: ''
-year: 1913
-year_is_approximate: false
-construction_details: Carvel plank
 beam: 1.7069
 design_class:
   name: Hamble OD

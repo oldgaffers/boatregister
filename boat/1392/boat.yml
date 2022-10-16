@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Landamore and Co. Ltd.
-  id: 19fdfb59-bb48-4015-abe5-1c3ec1ce0a8d
+year: 1979
+year_is_approximate: false
 designer:
   name: Terence Ward
   id: 84a1dcc1-0ed9-42ac-9cd2-b72ccf2f1999
+builder:
+  name: Landamore and Co. Ltd.
+  id: 19fdfb59-bb48-4015-abe5-1c3ec1ce0a8d
+place_built: Wroxham
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.762
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bucklers Hard
+hull_form: long keel deep forefoot
+uk_part1: '387112'
+callsign: ''
+ownerships:
+- name: Peter & Mary Keeble
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: bc101ce8-4db1-4355-b76f-c13b6f726004
+draft: 0.762
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -30,23 +46,7 @@ handicap_data:
   fore_triangle_base: 5.7912704218483295
   length_on_waterline: 7.924896366739819
   fore_triangle_height: 7.772494513533284
-home_country: 'null'
-home_port: Bucklers Hard
-hull_form: long keel deep forefoot
-id: bc101ce8-4db1-4355-b76f-c13b6f726004
 length_on_deck: 9.4488
-uk_part1: '387112'
-callsign: ''
-ownerships:
-- name: Peter & Mary Keeble
-  share: 64
-  start: 2012
-place_built: Wroxham
-updated_at: '2021-12-19T13:39:10.057681+00:00'
-website: ''
-year: 1979
-year_is_approximate: false
-construction_details: GRP
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

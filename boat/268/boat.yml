@@ -39,17 +39,43 @@ full_description: <p>Deva first appeared in Lloyds Register, 1914, owners NF Hal
   was sold in 2008 from the estate of Jon Wainwright.</p><p>In 2019 Deva was purchased
   by an 18 year old boat builder who started to restore her with a view to sailing
   in 2020.</p>
-builder:
-  name: Wiliam Crossfield and Sons
-  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+year: 1912
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+place_built: Arnside
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel built with counter stern. Pitch pine planks and steamed
+  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: '268'
+callsign: ''
+ownerships:
+- end: 2008
+  name: Jon Wainwright
+  share: 64
+  start: 1960
+- id: 1078
+  share: 64
+  start: 2019
+  member: 6331
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: https://tomcurtisboatbuilding.com/repair-and-restoration
+id: 911f6d16-68af-43c2-a765-ee6136f0ec3a
+image_key: 2gfds4
+thumb: https://photos.smugmug.com/photos/i-6GnKZTx/0/Th/i-6GnKZTx-Th.jpg
+draft: 0.9144
 handicap_data:
   beam: 2.2098268714947573
   main:
@@ -67,32 +93,7 @@ handicap_data:
   fore_triangle_base: 4.57205559619605
   length_on_waterline: 5.4864667154352595
   fore_triangle_height: 5.4864667154352595
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: 911f6d16-68af-43c2-a765-ee6136f0ec3a
 length_on_deck: 7.0104
-sail_number: '268'
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2008
-  name: Jon Wainwright
-  share: 64
-  start: 1960
-- id: 1078
-  share: 64
-  start: 2019
-  member: 6331
-  current: true
-place_built: Arnside
-updated_at: '2022-01-03T14:48:40.978814+00:00'
-website: https://tomcurtisboatbuilding.com/repair-and-restoration
-year: 1912
-year_is_approximate: false
-image_key: 2gfds4
-construction_details: Carvel built with counter stern. Pitch pine planks and steamed
-  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
 beam: 2.2342
 design_class:
   name: Rivers Class

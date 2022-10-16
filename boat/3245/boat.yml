@@ -9,17 +9,36 @@ full_description: "<p>&#39;Arthes&#39; has been trailed to sail in a number of p
   \ Sailing Club near Reading, off Bexhill Sailing Club and Norman&#39;s Bay, East\
   \ Sussex and Bewl Valley Sailing Club in Kent.</p>\r\n\r\n<p>A jib was added to\
   \ the rig in 1997.</p>"
-builder:
-  name: John Kerr
-  id: 58cb5d74-c8b1-49d0-a8a8-8fe1c190b524
+year: 1990
+year_is_approximate: false
 designer:
   name: Laurent Giles Ltd
   id: 098ad4e9-d178-4c90-bd2e-b6793ffc6fc4
+builder:
+  name: John Kerr
+  id: 58cb5d74-c8b1-49d0-a8a8-8fe1c190b524
+place_built: Landysul, Cardiganshie Wales
 construction_material: plywood
 construction_method: clinker
-draft: 0.2012
+construction_details: Marine ply, 3 plank lapstrake.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- id: 859
+  share: 64
+  start: 1990
+  member: 5955
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9384f3b4-8f76-46ca-b9a3-0deb0f469c93
+image_key: N5k45h
+thumb: https://photos.smugmug.com/photos/i-v3fHsCr/0/Th/i-v3fHsCr-Th.jpg
+draft: 0.2012
 handicap_data:
   main:
     foot: 7.48
@@ -34,25 +53,7 @@ handicap_data:
   fore_triangle_base: 1.3686
   length_on_waterline: 4.3007
   fore_triangle_height: 2.4994
-home_country: GBR
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 9384f3b4-8f76-46ca-b9a3-0deb0f469c93
 length_on_deck: 4.8006
-callsign: ''
-ownerships:
-- id: 859
-  share: 64
-  start: 1990
-  member: 5955
-  current: true
-place_built: Landysul, Cardiganshie Wales
-updated_at: '2021-12-19T13:40:05.175596+00:00'
-website: ''
-year: 1990
-year_is_approximate: false
-image_key: N5k45h
-construction_details: Marine ply, 3 plank lapstrake.
 beam: 1.271
 for_sale_state:
   text: not_for_sale

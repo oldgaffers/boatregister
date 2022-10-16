@@ -16,37 +16,23 @@ full_description: Full history available Log 91/1, 92/1, A-W/94,S-S/95,Sep/97, N
   gaff cutter rig in 1978 by Derek Lawrence at Maldon.  She has been owned by Kevin
   since that time and he has established a comprehensive history of her and raced
   very successfully against all comers.
-builder:
-  name: A. Senecal
-  id: baeb347d-f0d3-46d2-a91c-3611636b5b96
+year: 1916
+year_is_approximate: false
 designer:
   name: L. Dyevre
   id: b3d30935-b34f-426f-98b8-e76ed693c918
+builder:
+  name: A. Senecal
+  id: baeb347d-f0d3-46d2-a91c-3611636b5b96
+place_built: Les Mureaux
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  main:
-    foot: 4.87685930260912
-    head: 4.44403803950256
-    luff: 4.419653742989515
-  thcf: 0.967662312
-  draft: 1.3716166788588149
-  topsail:
-    luff: 4.74884174591563
-    perpendicular: 1.9812240916849548
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 4.419653742989515
-  length_on_waterline: 7.162887100707144
-  fore_triangle_height: 7.415874177029992
 home_country: 'null'
 home_port: Mayland
 hull_form: unknown
-id: d9955573-cacd-43b3-a726-982ef678eadc
-length_on_deck: 8.5344
 reference:
 - Log 91/1
 - Log 92/1
@@ -62,14 +48,28 @@ ownerships:
 - name: Amerami Association
   share: 64
   start: 2012
-place_built: Les Mureaux
-updated_at: '2021-12-19T13:38:56.392158+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1916
-year_is_approximate: false
+id: d9955573-cacd-43b3-a726-982ef678eadc
 previous_names:
 - Chiquita      Lola
-construction_details: Carvel pine on oak
+draft: 1.3716
+handicap_data:
+  beam: 2.286027798098025
+  main:
+    foot: 4.87685930260912
+    head: 4.44403803950256
+    luff: 4.419653742989515
+  thcf: 0.967662312
+  draft: 1.3716166788588149
+  topsail:
+    luff: 4.74884174591563
+    perpendicular: 1.9812240916849548
+  length_over_all: 8.53450377956596
+  fore_triangle_base: 4.419653742989515
+  length_on_waterline: 7.162887100707144
+  fore_triangle_height: 7.415874177029992
+length_on_deck: 8.5344
 beam: 2.286
 design_class:
   name: 7.5 Metre

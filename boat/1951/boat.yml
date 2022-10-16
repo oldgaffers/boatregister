@@ -5,17 +5,43 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Scandal is a Tamarisk 22 built in 1974.</p>
 full_description: ''
-builder:
-  name: North Sea Yachts
-  id: 411af781-798f-471e-8e98-6a621bf6ea94
+year: 1974
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Sea Yachts
+  id: 411af781-798f-471e-8e98-6a621bf6ea94
+place_built: Norwich
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.8382
+construction_details: GRP, ply deck on columbian pine beams
 engine_installations: []
 for_sales: []
+home_country: FRA
+home_port: Portrieux
+hull_form: long keel deep forefoot
+ssr: '169934'
+callsign: ''
+ownerships:
+- note: 'Also owned after Max Manning Dave Jardine-Smith, Tom Coakley. '
+  text: Also owned after Max Manning Dave Jardine-Smith, Tom Coakley.
+- end: 2011
+  name: Max Manning
+  share: 64
+  start: 2003
+- id: 975
+  share: 64
+  start: 2017
+  member: 6193
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 003552a1-5aa5-4e05-a5ba-188db4dd427d
+image_key: Z5HCtW
+thumb: https://photos.smugmug.com/photos/i-FQ5nhT8/0/Th/i-FQ5nhT8-Th.jpg
+draft: 0.8382
 handicap_data:
   beam: 2.386613021214338
   main:
@@ -33,32 +59,7 @@ handicap_data:
   fore_triangle_base: 4.166666666666666
   length_on_waterline: 6.4008778346744695
   fore_triangle_height: 6.309436722750548
-home_country: FRA
-home_port: Portrieux
-hull_form: long keel deep forefoot
-id: 003552a1-5aa5-4e05-a5ba-188db4dd427d
 length_on_deck: 6.7574
-ssr: '169934'
-callsign: ''
-ownerships:
-- note: 'Also owned after Max Manning Dave Jardine-Smith, Tom Coakley. '
-  text: Also owned after Max Manning Dave Jardine-Smith, Tom Coakley.
-- end: 2011
-  name: Max Manning
-  share: 64
-  start: 2003
-- id: 975
-  share: 64
-  start: 2017
-  member: 6193
-  current: true
-place_built: Norwich
-updated_at: '2021-12-19T13:39:25.092933+00:00'
-website: ''
-year: 1974
-year_is_approximate: false
-image_key: Z5HCtW
-construction_details: GRP, ply deck on columbian pine beams
 beam: 2.3866
 design_class:
   name: Tamarisk 22

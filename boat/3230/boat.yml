@@ -5,23 +5,17 @@ rig_type: Sloop
 mainsail_type: gunter
 short_description: <p>Dilys is a Norfolk Oyster.</p>
 full_description: ''
+year_is_approximate: false
 builder:
   name: Neil Thompson Boats
   id: bdf9408c-d4c6-4830-b209-3570113ef778
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 4.9774
-  length_over_spars: 4.9774
-  length_on_waterline: 4.6482
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: d9db1197-ca05-4034-b362-3eb82f644c43
-length_on_deck: 4.9774
 sail_number: '2'
 callsign: ''
 ownerships:
@@ -30,9 +24,15 @@ ownerships:
   start: 2012
   member: 1054
   current: true
-updated_at: '2021-12-19T13:40:04.761879+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year_is_approximate: false
+id: d9db1197-ca05-4034-b362-3eb82f644c43
+draft: 0
+handicap_data:
+  length_overall: 4.9774
+  length_over_spars: 4.9774
+  length_on_waterline: 4.6482
+length_on_deck: 4.9774
 beam: 0
 for_sale_state:
   text: not_for_sale

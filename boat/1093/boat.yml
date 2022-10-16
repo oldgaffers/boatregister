@@ -4,17 +4,32 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: C.G. Waite
-  id: 6f471008-6e14-4637-a833-2e648e5e8b7e
+year: 1976
+year_is_approximate: false
 designer:
   name: C.G. Waite
   id: e756daca-5651-4533-8e88-7f9983f1e00d
+builder:
+  name: C.G. Waite
+  id: 6f471008-6e14-4637-a833-2e648e5e8b7e
+place_built: Plymouth
 construction_material: wood
 construction_method: clinker
-draft: 0.3048
+construction_details: G R P imtiation clinker
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: C G Waite
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 27ff6907-5c1d-494a-a7fb-db9ecebe26d2
+draft: 0.3048
 handicap_data:
   beam: 1.4996342355523042
   main:
@@ -27,22 +42,7 @@ handicap_data:
   fore_triangle_base: 1.21921482565228
   length_on_waterline: 4.1453304072177515
   fore_triangle_height: 3.8710070714459883
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 27ff6907-5c1d-494a-a7fb-db9ecebe26d2
 length_on_deck: 4.4196
-callsign: ''
-ownerships:
-- name: C G Waite
-  share: 64
-  start: 2012
-place_built: Plymouth
-updated_at: '2021-12-19T13:39:01.300685+00:00'
-website: ''
-year: 1976
-year_is_approximate: false
-construction_details: G R P imtiation clinker
 beam: 1.4996
 for_sale_state:
   text: not_for_sale

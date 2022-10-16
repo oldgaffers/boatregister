@@ -5,16 +5,33 @@ mainsail_type: gaff
 short_description: <p>The Ebihen 16 is a gaff cutter, clinker ply construction. Redwing
   was built during the Covid pandemic and kept the builder/owner sane! The boat was
   designed by Francois Vivier and is a stable heavy day-sailor.</p>
-builder:
-  name: Nick Fox
-  id: 0e2955b4-42a1-41f0-9e6a-42610ab13874
+year: 2021
+year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+builder:
+  name: Nick Fox
+  id: 0e2955b4-42a1-41f0-9e6a-42610ab13874
+place_built: Lydford
 construction_material: plywood
+spar_material: wood
 construction_method: clinker_ply
 engine_installations: []
 for_sales: []
+home_country: United Kingdom
+home_port: Plymouth
+hull_form: centre-boarder
+ownerships:
+- id: 34823
+  share: 64
+  start: Nov 19
+  member: 6450
+  current: true
+updated_at: '2022-04-07T20:58:20.42942+00:00'
+id: 28d9e0b9-828d-4cec-9989-f7b8b144906d
+image_key: XC9n8W
+thumb: https://photos.smugmug.com/photos/i-MJvXX4T/0/Th/i-MJvXX4T-Th.jpg
 handicap_data:
   beam: 1.85
   thcf: 0.803
@@ -23,22 +40,6 @@ handicap_data:
     type: none
   length_on_deck: 4.828
   length_on_waterline: 4.398
-home_country: United Kingdom
-home_port: Plymouth
-hull_form: centre-boarder
-id: 28d9e0b9-828d-4cec-9989-f7b8b144906d
-spar_material: wood
-ownerships:
-- id: 34823
-  share: 64
-  start: Nov 19
-  member: 6450
-  current: true
-place_built: Lydford
-updated_at: '2022-04-07T20:58:20.42942+00:00'
-year: 2021
-year_is_approximate: false
-image_key: XC9n8W
 air_draft: 23.33
 design_class:
   name: Ebihen

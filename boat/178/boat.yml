@@ -14,18 +14,37 @@ full_description: Alando is a 27 ft smack, one of four built by Aldous in 1923 f
   with new Terylene sails by James Lawrence of Brightlingsea, Alando spent time in
   Falmouth and Scotland before returning to Maldon in 2003 when she was purchased
   by her present owner and kept on the Medway at Gillingham.
-builder:
-  name: Aldous Ltd.
-  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+year: 1923
+year_is_approximate: false
 designer:
   name: Aldous
   id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
+builder:
+  name: Aldous Ltd.
+  id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+place_built: Brightlingsea
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.1948
+construction_details: Carvel, pitch pine on oak
 engine_installations: []
 for_sales:
 - asking_price: 10000
+home_country: GBR
+home_port: Colchester
+hull_form: long keel deep forefoot
+sail_number: CK178
+callsign: ''
+ownerships:
+- name: Simon Long
+  share: 64
+  start: 2002
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://www.colnesmack.co.uk/alando/
+id: 7c266cc8-daf3-43d0-a8b4-d81396c23632
+image_key: QLHHXd
+thumb: https://photos.smugmug.com/photos/i-V9Bngs7/0/Th/i-V9Bngs7-Th.jpg
+draft: 1.1948
 handicap_data:
   beam: 2.43842965130456
   draft: 1.1582540843696658
@@ -33,25 +52,7 @@ handicap_data:
     type: fixed
   length_over_all: 8.22970007315289
   length_on_waterline: 7.924896366739819
-home_country: GBR
-home_port: Colchester
-hull_form: long keel deep forefoot
-id: 7c266cc8-daf3-43d0-a8b4-d81396c23632
 length_on_deck: 7.9766
-sail_number: CK178
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Simon Long
-  share: 64
-  start: 2002
-place_built: Brightlingsea
-updated_at: '2021-12-19T13:38:34.767184+00:00'
-website: http://www.colnesmack.co.uk/alando/
-year: 1923
-year_is_approximate: false
-image_key: QLHHXd
-construction_details: Carvel, pitch pine on oak
 beam: 2.3622
 for_sale_state:
   text: not_for_sale

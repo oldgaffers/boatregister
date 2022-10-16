@@ -4,27 +4,22 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: Log 79/4
-builder:
-  name: H. Roberts
-  id: 0e95c616-3e57-4ace-97d0-2b252ee68d3c
+year: 1904
+year_is_approximate: false
 designer:
   name: H. Roberts
   id: 40e9921e-6f67-4fbe-a801-eeb7cb4ba4be
+builder:
+  name: H. Roberts
+  id: 0e95c616-3e57-4ace-97d0-2b252ee68d3c
+place_built: Mevagissey
 construction_material: wood
 construction_method: unknown
-draft: 1.9812
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.8100463301633747
-  draft: 1.9812240916849548
-  length_over_all: 12.192148256522799
-  length_on_waterline: 10.36332601804438
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 35282053-de02-4920-93b3-4b8f409e737d
-length_on_deck: 12.192
 reference:
 - Log 79/4
 callsign: ''
@@ -32,11 +27,16 @@ ownerships:
 - name: David James
   share: 64
   start: 2012
-place_built: Mevagissey
-updated_at: '2021-12-19T13:38:55.249637+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1904
-year_is_approximate: false
+id: 35282053-de02-4920-93b3-4b8f409e737d
+draft: 1.9812
+handicap_data:
+  beam: 3.8100463301633747
+  draft: 1.9812240916849548
+  length_over_all: 12.192148256522799
+  length_on_waterline: 10.36332601804438
+length_on_deck: 12.192
 beam: 3.81
 for_sale_state:
   text: not_for_sale

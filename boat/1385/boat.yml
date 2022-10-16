@@ -5,14 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1951
+year_is_approximate: false
 builder:
   name: Jack Tve/T.C. White
   id: ea527c5b-27b7-457e-b13e-04edcfe0a070
+place_built: Brightlingsea
 construction_material: wood
 construction_method: clinker
-draft: 1.0668
+construction_details: Clinker Mahogany on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: T3
+callsign: ''
+ownerships:
+- name: R Mansfield
+  share: 64
+  start: 1994
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: dfbd5ff8-8dbc-4716-98ba-311764f37b79
+previous_names:
+- Dooly
+- Chick
+- Babuschka
+draft: 1.0668
 handicap_data:
   beam: 1.6002194586686174
   main:
@@ -28,27 +48,7 @@ handicap_data:
   fore_triangle_base: 2.2098268714947573
   length_on_waterline: 4.191050963179712
   fore_triangle_height: 3.6576444769568397
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: dfbd5ff8-8dbc-4716-98ba-311764f37b79
 length_on_deck: 4.2672
-sail_number: T3
-callsign: ''
-ownerships:
-- name: R Mansfield
-  share: 64
-  start: 1994
-place_built: Brightlingsea
-updated_at: '2021-12-19T13:39:09.836644+00:00'
-website: ''
-year: 1951
-year_is_approximate: false
-previous_names:
-- Dooly
-- Chick
-- Babuschka
-construction_details: Clinker Mahogany on Oak
 beam: 1.6002
 for_sale_state:
   text: not_for_sale

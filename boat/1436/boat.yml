@@ -5,38 +5,38 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: <p>Sonora is a Drascombe Lugger built in 1988</p>
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1988
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.253
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9050231650816873
-  draft: 0.25298707632284806
-  length_over_all: 5.715069495245062
-  length_on_waterline: 4.57205559619605
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 5605ab46-5635-4e77-9ef4-c75783de39a5
-length_on_deck: 5.715
 callsign: ''
 ownerships:
 - name: R R Ford
   share: 64
   start: 1988
-place_built: Totnes
-updated_at: '2021-12-19T13:39:11.286436+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1988
-year_is_approximate: false
-construction_details: GRP
+id: 5605ab46-5635-4e77-9ef4-c75783de39a5
+draft: 0.253
+handicap_data:
+  beam: 1.9050231650816873
+  draft: 0.25298707632284806
+  length_over_all: 5.715069495245062
+  length_on_waterline: 4.57205559619605
+length_on_deck: 5.715
 beam: 1.905
 design_class:
   name: Drascombe Lugger

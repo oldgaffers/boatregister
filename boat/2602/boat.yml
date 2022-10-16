@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: John Brown
-  id: f67a12b8-a8db-4dd5-84f7-3bb89920eb06
+year: 1983
+year_is_approximate: false
 designer:
   name: J. Slocum
   id: 580d8fc2-d0ea-40fb-a294-9e8d85a239a3
+builder:
+  name: John Brown
+  id: f67a12b8-a8db-4dd5-84f7-3bb89920eb06
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Queenborough
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- end: 2014
+  name: Yvonne Mitchell
+  share: 64
+  start: 2007
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e26af873-81f6-4a9e-b2ac-22f11cfbf569
+image_key: 5CKkbD
+thumb: https://photos.smugmug.com/photos/i-9872LNk/0/Th/i-9872LNk-Th.jpg
+draft: 1.3716
 handicap_data:
   beam: 2.9718361375274323
   main:
@@ -30,23 +47,7 @@ handicap_data:
   fore_triangle_base: 5.4864667154352595
   length_on_waterline: 7.187271397220189
   fore_triangle_height: 7.492075103633259
-home_country: GBR
-home_port: Queenborough
-hull_form: long keel sloping forefoot
-id: e26af873-81f6-4a9e-b2ac-22f11cfbf569
 length_on_deck: 7.9248
-callsign: ''
-ownerships:
-- end: 2014
-  name: Yvonne Mitchell
-  share: 64
-  start: 2007
-updated_at: '2021-12-19T13:39:43.98813+00:00'
-website: ''
-year: 1983
-year_is_approximate: false
-image_key: 5CKkbD
-construction_details: Carvel
 beam: 2.987
 for_sale_state:
   text: not_for_sale

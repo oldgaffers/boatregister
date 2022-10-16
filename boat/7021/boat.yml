@@ -7,17 +7,37 @@ short_description: <p>Built, 1938 for Arthur Hobson and then owned by her builde
   Ernest Elkins. Found derelict in Wales by Martin Waterman, who rebuilt her retaining
   as much as possible of her original features and keeping her for 20 years.</p>
 full_description: Similar to Sheldrake, possibly a sister to RSVP.
-builder:
-  name: ErnestgF. Elkins
-  id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
+year: 1938
+year_is_approximate: false
 designer:
   name: Reg Freeman
   id: 9b31c7c9-025d-42eb-9274-3bbd0b30b744
+builder:
+  name: ErnestgF. Elkins
+  id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
+place_built: Leigh on Sea
 construction_material: wood
 construction_method: carvel
-draft: 0.7376
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Martlesham, River Deben
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Nigel Foden
+  share: 64
+  start: 2001
+- id: 363
+  share: 64
+  member: 4000
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6089841e-28b0-4e2c-90e6-f3ba6cdc21a6
+draft: 0.7376
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -31,27 +51,7 @@ handicap_data:
   fore_triangle_base: 1.21921482565228
   length_on_waterline: 6.0960741282613995
   fore_triangle_height: 10.05852231163131
-home_country: GBR
-home_port: Martlesham, River Deben
-hull_form: long keel deep forefoot
-id: 6089841e-28b0-4e2c-90e6-f3ba6cdc21a6
 length_on_deck: 7.4432
-callsign: ''
-ownerships:
-- name: Nigel Foden
-  share: 64
-  start: 2001
-- id: 363
-  share: 64
-  member: 4000
-  current: true
-  start: '?'
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:40:00.597368+00:00'
-website: ''
-year: 1938
-year_is_approximate: false
-construction_details: Carvel
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

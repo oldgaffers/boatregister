@@ -5,26 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Mould taken off hull, in care of Causway Coast Heritage Group.</p>
 full_description: ''
-builder:
-  name: Robin Ruddick
-  id: f5ac4d1b-a89b-4237-b55b-6e2a2eed10eb
+year: 2009
+year_is_approximate: false
 designer:
   name: McDonald of Moville
   id: c4f5feb6-70e3-423c-82c3-5a2b6af1a041
+builder:
+  name: Robin Ruddick
+  id: f5ac4d1b-a89b-4237-b55b-6e2a2eed10eb
+place_built: Portrush
 construction_material: wood
 construction_method: clinker
-draft: 0.509
+construction_details: GRP simulated clinker
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.5758351621555717
-  draft: 0.5090221897098268
-  length_over_all: 5.105462082418922
 home_country: 'null'
 home_port: Portrush
 hull_form: unknown
-id: 6cd2681e-7526-452d-9da9-28d8f8f1ca40
-length_on_deck: 5.1054
 callsign: ''
 ownerships:
 - name: Robin Ruddock
@@ -34,12 +31,15 @@ ownerships:
   member: 2978
   current: true
   start: '?'
-place_built: Portrush
-updated_at: '2021-12-19T13:39:53.830866+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2009
-year_is_approximate: false
-construction_details: GRP simulated clinker
+id: 6cd2681e-7526-452d-9da9-28d8f8f1ca40
+draft: 0.509
+handicap_data:
+  beam: 1.5758351621555717
+  draft: 0.5090221897098268
+  length_over_all: 5.105462082418922
+length_on_deck: 5.1054
 beam: 1.5758
 for_sale_state:
   text: not_for_sale

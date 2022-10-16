@@ -5,22 +5,20 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>&#39;Mona&#39; is a Cornish Crabber 22.</p>
 full_description: ''
+year: 2007
+year_is_approximate: false
 builder:
   name: Select Yacht Group
   id: fb9f223c-0dac-4f25-b1d9-62b4d4c6973f
+place_built: Wadebridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.5146305779078273
-  length_over_all: 6.705681541087539
 home_country: IRL
 home_port: Dun Laoghaire
 hull_form: unknown
-id: 3b57907d-1ef1-4d5a-b594-9ec4124f8034
-length_on_deck: 6.7056
 callsign: ''
 ownerships:
 - id: 581
@@ -28,12 +26,14 @@ ownerships:
   start: 2012
   member: 5105
   current: true
-place_built: Wadebridge
-updated_at: '2021-12-19T13:39:52.161884+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2007
-year_is_approximate: false
-construction_details: GRP
+id: 3b57907d-1ef1-4d5a-b594-9ec4124f8034
+draft: 0
+handicap_data:
+  beam: 2.5146305779078273
+  length_over_all: 6.705681541087539
+length_on_deck: 6.7056
 beam: 2.5146
 design_class:
   name: Cornish Crabber 22

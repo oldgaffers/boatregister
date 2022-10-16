@@ -6,17 +6,32 @@ mainsail_type: gaff
 short_description: ''
 full_description: Crebuilt from Shelduck bare hull into a half deck Gaff cutter by
   Dennis Wright
-builder:
-  name: C. Purbrook
-  id: 88b2fea2-a949-433a-abeb-32039984ce8d
+year: 1947
+year_is_approximate: false
 designer:
   name: C. Purbrook
   id: 9ff011da-4e82-4daf-a352-888767923a2a
+builder:
+  name: C. Purbrook
+  id: 88b2fea2-a949-433a-abeb-32039984ce8d
+place_built: Christchurch
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel mahogany on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Conwy
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Graham Carter
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 13d84f70-386b-4d1d-8054-f9ff42124ee5
+draft: 1.0668
 handicap_data:
   beam: 1.9812240916849548
   main:
@@ -29,22 +44,7 @@ handicap_data:
   fore_triangle_base: 2.8956352109241648
   length_on_waterline: 5.029261155815655
   fore_triangle_height: 3.3528407705437697
-home_country: 'null'
-home_port: Conwy
-hull_form: unknown
-id: 13d84f70-386b-4d1d-8054-f9ff42124ee5
 length_on_deck: 5.4864
-callsign: ''
-ownerships:
-- name: Graham Carter
-  share: 64
-  start: 2012
-place_built: Christchurch
-updated_at: '2021-12-19T13:39:50.349128+00:00'
-website: ''
-year: 1947
-year_is_approximate: false
-construction_details: Carvel mahogany on oak
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

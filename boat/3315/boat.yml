@@ -5,17 +5,36 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Sans Souci is a Cornish Shrimper</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: unknown
-draft: 0.4816
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- name: Ben Armstrong
+  share: 64
+  start: 2016
+- id: 369
+  share: 64
+  member: 4028
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: cc0ac1fe-0d75-4beb-ad30-a07414e50cb2
+draft: 0.4816
 handicap_data:
   main:
     foot: 11.5
@@ -32,26 +51,7 @@ handicap_data:
   fore_triangle_base: 2.539
   length_on_waterline: 5.3584
   fore_triangle_height: 4.6482
-home_country: GBR
-home_port: ''
-hull_form: centre-boarder
-id: cc0ac1fe-0d75-4beb-ad30-a07414e50cb2
 length_on_deck: 5.8674
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Ben Armstrong
-  share: 64
-  start: 2016
-- id: 369
-  share: 64
-  member: 4028
-  current: true
-  start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:40:07.379115+00:00'
-website: ''
-year_is_approximate: false
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

@@ -5,29 +5,17 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>&#39;Winona&#39; is a Victorian yacht built c.1898.</p>
 full_description: ''
+year: 1898
+year_is_approximate: false
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel timber
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  main:
-    foot: 4.825042672518897
-    head: 3.6576444769568397
-    luff: 4.57205559619605
-  thcf: 0.917920629
-  draft: 1.3716166788588149
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 4.57205559619605
-  length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 6.0960741282613995
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: b4d541af-0ff5-4567-93ca-03c99fe3a6cc
-length_on_deck: 7.3152
-spar_material: wood
 callsign: ''
 ownerships:
 - note: Mr Peter Money kept her in Maldon in the late 1980's and put her up for sale
@@ -45,9 +33,21 @@ ownerships:
   start: 2011
 updated_at: '2022-09-04T10:10:05.565316+00:00'
 website: ''
-year: 1898
-year_is_approximate: false
-construction_details: Carvel timber
+id: b4d541af-0ff5-4567-93ca-03c99fe3a6cc
+draft: 1.3716
+handicap_data:
+  beam: 2.13362594489149
+  main:
+    foot: 4.825042672518897
+    head: 3.6576444769568397
+    luff: 4.57205559619605
+  thcf: 0.917920629
+  draft: 1.3716166788588149
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 4.57205559619605
+  length_on_waterline: 6.0960741282613995
+  fore_triangle_height: 6.0960741282613995
+length_on_deck: 7.3152
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Designer = International Marine Designs
-builder:
-  name: Martham Boatyard
-  id: d14cef91-1a54-4325-acc3-449172538073
+year: 1999
+year_is_approximate: false
 designer:
   name: International Marine Designs
   id: 89ad9a1d-4084-4e03-8485-a0616e8ea570
+builder:
+  name: Martham Boatyard
+  id: d14cef91-1a54-4325-acc3-449172538073
+place_built: Martham Boatyard Norfolk
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.3716
+construction_details: grp
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Gosport
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Andrew White
+  share: 64
+  start: 1999
+- share: 64
+  member: 3694
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 26fb4014-645d-42d6-a0c7-a7a23cbd4397
+draft: 1.3716
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -33,26 +52,7 @@ handicap_data:
   fore_triangle_base: 5.327968788100463
   length_on_waterline: 7.010485247500609
   fore_triangle_height: 6.858083394294074
-home_country: 'null'
-home_port: Gosport
-hull_form: long keel deep forefoot
-id: 26fb4014-645d-42d6-a0c7-a7a23cbd4397
 length_on_deck: 9.144
-callsign: ''
-ownerships:
-- name: Andrew White
-  share: 64
-  start: 1999
-- share: 64
-  member: 3694
-  current: true
-  start: '?'
-place_built: Martham Boatyard Norfolk
-updated_at: '2021-12-19T13:39:33.622142+00:00'
-website: ''
-year: 1999
-year_is_approximate: false
-construction_details: grp
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Golant gaffer built in Northumberland.</p>
 full_description: ''
-builder:
-  name: Vaughan
-  id: 3e051428-a9f0-4bc7-8bc1-d8acc5359bf8
+year: 2014
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Vaughan
+  id: 3e051428-a9f0-4bc7-8bc1-d8acc5359bf8
+place_built: Northumberland
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.8382
+construction_details: Cedar speedstrip on ply bulkheads and iroko keel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Portinscale
+hull_form: long keel deep forefoot
+sail_number: G48
+callsign: ''
+ownerships:
+- id: 774
+  share: 64
+  start: 2014
+  member: 5791
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 56a3214a-7003-46c8-ab12-1fedaadd0793
+draft: 0.8382
 handicap_data:
   main:
     foot: 11.83
@@ -28,25 +46,7 @@ handicap_data:
   fore_triangle_base: 3.4046
   length_on_waterline: 5.4102
   fore_triangle_height: 6.3002
-home_country: GBR
-home_port: Portinscale
-hull_form: long keel deep forefoot
-id: 56a3214a-7003-46c8-ab12-1fedaadd0793
 length_on_deck: 5.715
-sail_number: G48
-callsign: ''
-ownerships:
-- id: 774
-  share: 64
-  start: 2014
-  member: 5791
-  current: true
-place_built: Northumberland
-updated_at: '2021-12-19T13:40:03.75193+00:00'
-website: ''
-year: 2014
-year_is_approximate: false
-construction_details: Cedar speedstrip on ply bulkheads and iroko keel
 beam: 2.1336
 design_class:
   name: Golant Gaffer

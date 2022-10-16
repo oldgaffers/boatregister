@@ -5,26 +5,24 @@ rig_type: Ketch
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: James A. Silver
-  id: 8737e788-ba48-483e-9da9-971d1700fa27
+year: 1938
+year_is_approximate: false
 designer:
   name: John Bain
   id: e831b83b-6131-426d-8f8d-1a58dd2a1703
+builder:
+  name: James A. Silver
+  id: 8737e788-ba48-483e-9da9-971d1700fa27
+place_built: Rosneath, Clyde
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel
 engine_installations: []
 for_sales:
 - asking_price: 54750
-handicap_data:
-  beam: 3.0480370641306997
-  length_over_all: 13.106559375762009
 home_country: 'null'
 home_port: Cultra Co Down
 hull_form: long keel deep forefoot
-id: 037b9ba0-4519-4e22-9e12-b681dae9dece
-length_on_deck: 13.1064
 callsign: ''
 ownerships:
 - id: 205
@@ -32,13 +30,16 @@ ownerships:
   start: 2012
   member: 2964
   current: true
-place_built: Rosneath, Clyde
-updated_at: '2021-12-19T13:39:25.123139+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1938
-year_is_approximate: false
+id: 037b9ba0-4519-4e22-9e12-b681dae9dece
 image_key: b6NPqS
-construction_details: Carvel
+thumb: https://photos.smugmug.com/photos/i-vrcMnHr/0/Th/i-vrcMnHr-Th.jpg
+draft: 1.0668
+handicap_data:
+  beam: 3.0480370641306997
+  length_over_all: 13.106559375762009
+length_on_deck: 13.1064
 beam: 3.048
 design_class:
   name: TSDY

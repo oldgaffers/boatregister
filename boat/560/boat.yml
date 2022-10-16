@@ -6,17 +6,37 @@ mainsail_type: gaff
 short_description: <p>&#39;Veryan&#39; is a fine example of a Falmouth Quay Punt.
   Built in 1908</p>
 full_description: ''
-builder:
-  name: R.S. Burt and Son
-  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+year: 1908
+year_is_approximate: false
 designer:
   name: R.S. Burt
   id: 3a2bf172-f648-44a1-af0f-0598af8b960b
+builder:
+  name: R.S. Burt and Son
+  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+place_built: Falmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.777
+construction_details: Carvel pitch pine on oak sawn and bent frames with elm garboard
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel sloping forefoot
+uk_part1: '149560'
+callsign: ''
+ownerships:
+- name: J Maggs
+  share: 64
+  start: 1993
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9e8896e8-c1b7-40dc-8c0f-dfdb4cdb2217
+previous_names:
+- Melvill
+image_key: ScWKBf
+thumb: https://photos.smugmug.com/photos/i-tM4GtRz/0/Th/i-tM4GtRz-Th.jpg
+draft: 1.777
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -37,26 +57,7 @@ handicap_data:
   fore_triangle_base: 5.7912704218483295
   length_on_waterline: 8.138258961228967
   fore_triangle_height: 9.1441111923921
-home_country: GBR
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 9e8896e8-c1b7-40dc-8c0f-dfdb4cdb2217
 length_on_deck: 8.6258
-uk_part1: '149560'
-callsign: ''
-ownerships:
-- name: J Maggs
-  share: 64
-  start: 1993
-place_built: Falmouth
-updated_at: '2021-12-19T13:38:45.83516+00:00'
-website: ''
-year: 1908
-year_is_approximate: false
-previous_names:
-- Melvill
-image_key: ScWKBf
-construction_details: Carvel pitch pine on oak sawn and bent frames with elm garboard
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

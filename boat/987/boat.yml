@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Luke Bros and Co.
-  id: a777971c-fef9-4412-9ad3-422224af5a67
+year: 1933
+year_is_approximate: false
 designer:
   name: A.R. Luke
   id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+builder:
+  name: Luke Bros and Co.
+  id: a777971c-fef9-4412-9ad3-422224af5a67
+place_built: Hamble
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: '987'
+callsign: ''
+ownerships:
+- id: 244
+  share: 64
+  start: 1996
+  member: 3290
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: ea84744f-962d-4a05-b9fe-88331571d26c
+image_key: dKKNPm
+thumb: https://photos.smugmug.com/photos/i-tFKDQGP/0/Th/i-tFKDQGP-Th.jpg
+draft: 1.524
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -33,26 +53,7 @@ handicap_data:
   fore_triangle_base: 5.129846378931967
   length_on_waterline: 7.620092660326749
   fore_triangle_height: 8.787490855888807
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: ea84744f-962d-4a05-b9fe-88331571d26c
 length_on_deck: 8.5344
-sail_number: '987'
-callsign: ''
-ownerships:
-- id: 244
-  share: 64
-  start: 1996
-  member: 3290
-  current: true
-place_built: Hamble
-updated_at: '2021-12-19T13:38:58.081426+00:00'
-website: ''
-year: 1933
-year_is_approximate: false
-image_key: dKKNPm
-construction_details: Carvel
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

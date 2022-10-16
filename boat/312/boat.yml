@@ -25,44 +25,25 @@ full_description: "<p>Built as a copy of Star, the champion Itchen Ferry in the 
   \ in the OGA Jubilee Festival at Cowes in 2013. Find out more about her on &#39;Sailing\
   \ by&#39; and listen to an interview with her skipper on <a href=\"http://www.sailing-by.org.uk/fanny-of-cowes-built-1872-still-winning-trophies/\"\
   >BBC Radio Solent</a>.</p>"
-builder:
-  name: J. Watts
-  id: 149882ed-ad0d-44cd-bcf6-238a62addfe6
+year: 1872
+year_is_approximate: false
 designer:
   name: J. Watts
   id: 91937783-cf02-4258-b009-6d5730e46fea
+builder:
+  name: J. Watts
+  id: 149882ed-ad0d-44cd-bcf6-238a62addfe6
+place_built: Cowes IoW
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel red pine on oak
 engine_installations: []
 for_sales:
 - asking_price: null
-handicap_data:
-  beam: 2.5908436966593515
-  main:
-    foot: 4.673664959765911
-    head: 4.62286027798098
-    luff: 4.800676664228237
-  thcf: 0.94
-  draft: 1.0922275054864667
-  topsail:
-    luff: 5.994489148988052
-    perpendicular: 2.9718544257498167
-  sailarea: 56.80587667724669
-  propellor:
-    type: folding
-    blades: 2
-  length_over_all: 6.934302609119727
-  length_over_spars: 11.049140453547915
-  fore_triangle_base: 5.740490124359912
-  length_on_waterline: 6.781888563764935
-  fore_triangle_height: 8.686942209217264
 home_country: GBR
 home_port: Woolverstone
 hull_form: long keel deep forefoot
-id: c5d2a8a0-0c46-4459-92c3-81bcd2f09386
-length_on_deck: 6.9494
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1930
@@ -85,15 +66,35 @@ ownerships:
   member: 2728
   current: true
   start: '?'
-place_built: Cowes IoW
-updated_at: '2021-12-19T13:38:38.86292+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1872
-year_is_approximate: false
+id: c5d2a8a0-0c46-4459-92c3-81bcd2f09386
 previous_names:
 - Fanny
 image_key: T5QMB5
-construction_details: Carvel red pine on oak
+thumb: https://photos.smugmug.com/photos/i-gS2f6qZ/0/Th/i-gS2f6qZ-Th.jpg
+draft: 1.0668
+handicap_data:
+  beam: 2.5908436966593515
+  main:
+    foot: 4.673664959765911
+    head: 4.62286027798098
+    luff: 4.800676664228237
+  thcf: 0.94
+  draft: 1.0922275054864667
+  topsail:
+    luff: 5.994489148988052
+    perpendicular: 2.9718544257498167
+  sailarea: 56.80587667724669
+  propellor:
+    type: folding
+    blades: 2
+  length_over_all: 6.934302609119727
+  length_over_spars: 11.049140453547915
+  fore_triangle_base: 5.740490124359912
+  length_on_waterline: 6.781888563764935
+  fore_triangle_height: 8.686942209217264
+length_on_deck: 6.9494
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

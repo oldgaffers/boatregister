@@ -5,22 +5,20 @@ rig_type: single_sail
 mainsail_type: gaff
 short_description: Gaff rig sailing dinghy.
 full_description: ''
+year: 2008
+year_is_approximate: false
 builder:
   name: Geoff Sinton
   id: 857786ff-5888-4c9c-b005-b844ef76c4ac
+place_built: Woodbridge
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 3.048
 home_country: GBR
 home_port: Woodbridge
 hull_form: unknown
-id: d8940a2b-2b57-4699-b195-09f13842a883
-length_on_deck: 3.048
-spar_material: wood
 callsign: ''
 ownerships:
 - name: Julia Raper
@@ -30,11 +28,13 @@ ownerships:
   member: 3654
   current: true
   start: '?'
-place_built: Woodbridge
-updated_at: '2021-12-19T13:40:03.907619+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2008
-year_is_approximate: false
+id: d8940a2b-2b57-4699-b195-09f13842a883
+draft: 0
+handicap_data:
+  length_overall: 3.048
+length_on_deck: 3.048
 beam: 0
 for_sale_state:
   text: not_for_sale

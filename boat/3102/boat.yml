@@ -5,28 +5,23 @@ rig_type: Cutter
 mainsail_type: bermudan
 short_description: Altered from yawll to cutter 1939
 full_description: ''
-builder:
-  name: Edey and Duff
-  id: af62b978-c617-4ca5-94f7-ff8bbff9de93
+year: 1937
+year_is_approximate: false
 designer:
   name: Charles Kingsley
   id: bdf111fd-0e30-4e79-89ad-6a7a5a64fcfe
+builder:
+  name: Edey and Duff
+  id: af62b978-c617-4ca5-94f7-ff8bbff9de93
+place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel Pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.5146366739819555
-  draft: 1.5240185320653499
-  length_over_all: 10.05852231163131
-  length_over_spars: 11.582540843696659
-  length_on_waterline: 8.53450377956596
 home_country: 'null'
 home_port: ''
 hull_form: long keel sloping forefoot
-id: 4b8d465d-b21e-4ea2-bcc7-225aef2cdcd4
-length_on_deck: 10.0584
 uk_part1: '185994'
 callsign: ''
 ownerships:
@@ -45,12 +40,17 @@ ownerships:
 - name: John Macmillan
   share: 64
   start: 2011
-place_built: Woodbridge
-updated_at: '2021-12-19T13:39:57.877376+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1937
-year_is_approximate: false
-construction_details: Carvel Pitch pine on oak
+id: 4b8d465d-b21e-4ea2-bcc7-225aef2cdcd4
+draft: 1.524
+handicap_data:
+  beam: 2.5146366739819555
+  draft: 1.5240185320653499
+  length_over_all: 10.05852231163131
+  length_over_spars: 11.582540843696659
+  length_on_waterline: 8.53450377956596
+length_on_deck: 10.0584
 beam: 2.5146
 for_sale_state:
   text: not_for_sale

@@ -33,40 +33,22 @@ full_description: "<p>&#39;Peggy&#39; was built for the Bristol Channel pilot Ar
   \ would not have had an engine, however she had acquired one of of dubious age and\
   \ this was replaced with a similar one that had been a stand by generator. It was\
   \ marinised together with a second hand gearbox. She was back sailing in 1986.</p>"
-builder:
-  name: E. Rowles
-  id: ff6045c3-b7bd-49c9-826a-03c628da0cf1
+year: 1903
+year_is_approximate: false
 designer:
   name: E. Rowles
   id: 4df1507d-c01d-4e1e-950b-f2a6f875369f
+builder:
+  name: E. Rowles
+  id: ff6045c3-b7bd-49c9-826a-03c628da0cf1
+place_built: Pill
 construction_material: wood
 construction_method: unknown
-draft: 2.286
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.8710070714459883
-  main:
-    foot: 8.53450377956596
-    head: 6.858083394294074
-    luff: 8.22970007315289
-  thcf: 1.131
-  draft: 2.286027798098025
-  topsail:
-    luff: 6.9342843208973415
-    perpendicular: 3.3528407705437697
-  sailarea: 127.34653726326762
-  propellor:
-    type: fixed
-  length_over_all: 13.838088271153376
-  fore_triangle_base: 8.686905632772493
-  length_on_waterline: 12.344550109729333
-  fore_triangle_height: 10.820531577663983
 home_country: GBR
 home_port: Bristol
 hull_form: long keel deep forefoot
-id: c9c2f2cb-cb12-47f5-8bb6-71849a17babe
-length_on_deck: 13.8379
 callsign: ''
 ownerships:
 - note: John Potter and Rachel Haynes bought Peggy from Diccon Pridie
@@ -85,14 +67,33 @@ ownerships:
   member: 6314
   current: true
   start: '?'
-place_built: Pill
-updated_at: '2021-12-19T13:39:00.582408+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1903
-year_is_approximate: false
+id: c9c2f2cb-cb12-47f5-8bb6-71849a17babe
 previous_names:
 - The Wave
 image_key: WmB85k
+thumb: https://photos.smugmug.com/photos/i-GknDrGg/0/Th/i-GknDrGg-Th.jpg
+draft: 2.286
+handicap_data:
+  beam: 3.8710070714459883
+  main:
+    foot: 8.53450377956596
+    head: 6.858083394294074
+    luff: 8.22970007315289
+  thcf: 1.131
+  draft: 2.286027798098025
+  topsail:
+    luff: 6.9342843208973415
+    perpendicular: 3.3528407705437697
+  sailarea: 127.34653726326762
+  propellor:
+    type: fixed
+  length_over_all: 13.838088271153376
+  fore_triangle_base: 8.686905632772493
+  length_on_waterline: 12.344550109729333
+  fore_triangle_height: 10.820531577663983
+length_on_deck: 13.8379
 beam: 3.871
 design_class:
   name: Bristol Channel Pilot Cutter

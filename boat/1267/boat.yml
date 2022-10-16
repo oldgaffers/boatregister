@@ -5,17 +5,33 @@ rig_type: single_sail
 mainsail_type: lug
 short_description: ''
 full_description: CB Spring 87
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1983
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: 'GRP  '
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Janet Dunlop
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 174e77ed-597a-4aaa-8041-7c5c79e7536d
+draft: 0.5334
 handicap_data:
   beam: 1.7526213118751524
   main:
@@ -26,23 +42,7 @@ handicap_data:
   draft: 0.5334064862228725
   length_over_all: 4.495854669592782
   length_on_waterline: 3.733845403560107
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 174e77ed-597a-4aaa-8041-7c5c79e7536d
 length_on_deck: 4.4958
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Janet Dunlop
-  share: 64
-  start: 2012
-place_built: Totnes
-updated_at: '2021-12-19T13:39:06.515381+00:00'
-website: ''
-year: 1983
-year_is_approximate: false
-construction_details: 'GRP  '
 beam: 1.7526
 design_class:
   name: Drascombe Scaffie

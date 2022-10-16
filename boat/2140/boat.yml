@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Water Craft Nov/Dec 97
-builder:
-  name: Luke Powell
-  id: a20d46df-5e22-4755-8a54-72a7b4d15efe
+year: 1997
+year_is_approximate: false
 designer:
   name: Luke Powell
   id: fb9a7691-8b98-42cc-9545-3248c2e161d0
+builder:
+  name: Luke Powell
+  id: a20d46df-5e22-4755-8a54-72a7b4d15efe
+place_built: Exeter
 construction_material: wood
 construction_method: unknown
-draft: 1.8806
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: St Mawes
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Debbie Monk & Luke Purser
+  share: 64
+  start: 1997
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 97241de0-5fdc-4442-a8d9-a5f0edd5a546
+draft: 1.8806
 handicap_data:
   beam: 3.581443550353572
   main:
@@ -33,21 +47,7 @@ handicap_data:
   fore_triangle_base: 7.315288953913679
   length_on_waterline: 9.1441111923921
   fore_triangle_height: 13.411363082175079
-home_country: 'null'
-home_port: St Mawes
-hull_form: long keel deep forefoot
-id: 97241de0-5fdc-4442-a8d9-a5f0edd5a546
 length_on_deck: 11.4544
-callsign: ''
-ownerships:
-- name: Debbie Monk & Luke Purser
-  share: 64
-  start: 1997
-place_built: Exeter
-updated_at: '2021-12-19T13:39:30.37143+00:00'
-website: ''
-year: 1997
-year_is_approximate: false
 beam: 3.5814
 for_sale_state:
   text: not_for_sale

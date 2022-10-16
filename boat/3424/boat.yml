@@ -7,24 +7,24 @@ short_description: Truant is a Mark 1 Cheverton
 full_description: Kept at the Orwell Yacht Club and sailed by the current owner when
   visiting the East Coast from his home in Ireland. The owner is happy to discuss
   handing the boat on.
-builder:
-  name: Cheverton
-  id: 483b31fa-c244-4202-87d5-cd08643f3e09
+year: 1965
+year_is_approximate: false
 designer:
   name: Cheverton
   id: b8f45269-5036-4d64-8479-93e4c2b21d12
+builder:
+  name: Cheverton
+  id: 483b31fa-c244-4202-87d5-cd08643f3e09
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 0
+construction_details: carvel mahogany on oak
 engine_installations: []
 for_sales:
 - asking_price: 0
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
-id: 2d143cd8-a91a-4da5-9a36-690e7707948f
-length_on_deck: 0
-spar_material: wood
 callsign: ''
 ownerships:
 - id: 701
@@ -32,12 +32,13 @@ ownerships:
   member: 5637
   current: true
   start: '?'
-updated_at: '2022-02-14T11:04:40.382535+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
+id: 2d143cd8-a91a-4da5-9a36-690e7707948f
 image_key: 5jtgxC
-construction_details: carvel mahogany on oak
+thumb: https://photos.smugmug.com/photos/i-RHQGBhq/0/Th/i-RHQGBhq-Th.jpg
+draft: 0
+length_on_deck: 0
 beam: 0
 for_sale_state:
   text: for_sale

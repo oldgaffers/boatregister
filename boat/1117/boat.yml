@@ -31,38 +31,23 @@ full_description: "<p>Originally built for the Baxter Family &#39;Comrades&#39; 
   \ rigging and blocks. Down below he added a new cooker, solid fuel stove, modern\
   \ electrics, water tank and cushions.</p>\r\n\r\n<p>Robert has sailed her around\
   \ the Irish Sea from Liverpool to the Isle of Man and Ireland.</p>"
-builder:
-  name: Crossfield
-  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+year: 1908
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+place_built: Arnside
 construction_material: wood
 construction_method: carvel
-draft: 1.143
+construction_details: Carvel larch planking on sawn oak frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  main:
-    foot: 4.724469641550841
-    head: 3.9624481833699097
-    luff: 3.7338514996342353
-  thcf: 0.944
-  draft: 1.143032187271397
-  sailarea: 38.203060225832395
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
-  length_over_spars: 10.972933430870519
-  fore_triangle_base: 5.18166300902219
-  length_on_waterline: 7.924896366739819
-  fore_triangle_height: 7.924896366739819
 home_country: GBR
 home_port: Conway
 hull_form: long keel sloping forefoot
-id: b2010b77-87ac-45c9-9ec6-7d58b9016431
-length_on_deck: 8.4826
 ssr: '141690'
 callsign: ''
 ownerships:
@@ -103,17 +88,33 @@ ownerships:
   start: 2008
   member: 3217
   current: true
-place_built: Arnside
-updated_at: '2021-12-19T13:39:02.007903+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1908
-year_is_approximate: false
+id: b2010b77-87ac-45c9-9ec6-7d58b9016431
 previous_names:
 - Natashquant
 - Ena-Jane
 - Thira lll.
 image_key: PjDC9r
-construction_details: Carvel larch planking on sawn oak frames
+thumb: https://photos.smugmug.com/photos/i-CMwfHkn/0/Th/i-CMwfHkn-Th.jpg
+draft: 1.143
+handicap_data:
+  beam: 2.43842965130456
+  main:
+    foot: 4.724469641550841
+    head: 3.9624481833699097
+    luff: 3.7338514996342353
+  thcf: 0.944
+  draft: 1.143032187271397
+  sailarea: 38.203060225832395
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  length_over_spars: 10.972933430870519
+  fore_triangle_base: 5.18166300902219
+  length_on_waterline: 7.924896366739819
+  fore_triangle_height: 7.924896366739819
+length_on_deck: 8.4826
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

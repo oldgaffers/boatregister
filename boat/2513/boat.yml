@@ -5,17 +5,42 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Furstin is a Tamarisk 29</p>
 full_description: ''
-builder:
-  name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+year: 1988
+year_is_approximate: false
 designer:
   name: Percy Dalton/David M. Cannell
   id: 1240b4a7-2890-42ab-873d-17cdfe774e9d
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+place_built: Cornwall
 construction_material: grp
 construction_method: unknown
-draft: 1.4326
+construction_details: G R P
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Yarmouth I o W
+hull_form: long keel deep forefoot
+sail_number: TK12
+callsign: ''
+ownerships:
+- name: Peter Garratt
+  share: 64
+  start: 2012
+- id: 542
+  share: 64
+  member: 4913
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f291ee9f-4c89-4d79-bc09-8993ce7071e7
+previous_names:
+- Turstin
+image_key: jcdTBL
+thumb: https://photos.smugmug.com/photos/i-3FtcSWS/0/Th/i-3FtcSWS-Th.jpg
+draft: 1.4326
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -35,31 +60,7 @@ handicap_data:
   fore_triangle_base: 5.18166300902219
   length_on_waterline: 8.330285296269201
   fore_triangle_height: 8.558888076079004
-home_country: GBR
-home_port: Yarmouth I o W
-hull_form: long keel deep forefoot
-id: f291ee9f-4c89-4d79-bc09-8993ce7071e7
 length_on_deck: 8.8392
-sail_number: TK12
-callsign: ''
-ownerships:
-- name: Peter Garratt
-  share: 64
-  start: 2012
-- id: 542
-  share: 64
-  member: 4913
-  current: true
-  start: '?'
-place_built: Cornwall
-updated_at: '2021-12-19T13:39:41.339611+00:00'
-website: ''
-year: 1988
-year_is_approximate: false
-previous_names:
-- Turstin
-image_key: jcdTBL
-construction_details: G R P
 beam: 2.7432
 design_class:
   name: Tamarisk 29

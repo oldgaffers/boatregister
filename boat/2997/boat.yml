@@ -6,17 +6,35 @@ mainsail_type: gaff
 short_description: <p>One off design.</p>
 full_description: Designed and built by 1st owner, his company Master Interiors Neil
   Martin, Roger Jones, Paul Nicholls, Peter Berrow.
-builder:
-  name: Interiors Master
-  id: d9d425eb-f97b-454d-b149-e7923e2f66a9
+year: 2009
+year_is_approximate: false
 designer:
   name: Brian Curtis
   id: 701f756b-a8f3-46bc-91bc-ade2eadbfa20
+builder:
+  name: Interiors Master
+  id: d9d425eb-f97b-454d-b149-e7923e2f66a9
+place_built: Bursledon
 construction_material: woodepoxy
 construction_method: unknown
-draft: 1.7983
+construction_details: Resin and veneer over strip cedar
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Hamble
+hull_form: long keel deep forefoot
+uk_part1: '917203'
+callsign: ''
+ownerships:
+- id: 236
+  share: 64
+  start: 2008
+  member: 3264
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: cf6174df-6be9-4bba-a507-5694898791bd
+draft: 1.7983
 handicap_data:
   beam: 2.801146061936113
   main:
@@ -35,25 +53,7 @@ handicap_data:
   fore_triangle_base: 5.998536942209217
   length_on_waterline: 7.79992684711046
   fore_triangle_height: 7.6993416239941475
-home_country: 'null'
-home_port: Hamble
-hull_form: long keel deep forefoot
-id: cf6174df-6be9-4bba-a507-5694898791bd
 length_on_deck: 9.6012
-uk_part1: '917203'
-callsign: ''
-ownerships:
-- id: 236
-  share: 64
-  start: 2008
-  member: 3264
-  current: true
-place_built: Bursledon
-updated_at: '2021-12-19T13:39:55.70661+00:00'
-website: ''
-year: 2009
-year_is_approximate: false
-construction_details: Resin and veneer over strip cedar
 beam: 2.8011
 for_sale_state:
   text: not_for_sale

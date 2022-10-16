@@ -13,30 +13,23 @@ full_description: "<p>First produced in the early 1970&#39;s from one of the las
   \ the Smacks Boat. Since then he has been steadily building Smacks Boats for an\
   \ enthusiastic East Coast clientele for the last 25 years. Every boat built by Brian\
   \ has been fitted out to the client&#39;s individual specification.</p>"
-builder:
-  name: Brian Kennell
-  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+year: 2019
+year_is_approximate: false
 designer:
   name: Alf Last
   id: f6e9f88a-6f88-40f7-82d2-e700bf57d1c5
+builder:
+  name: Brian Kennell
+  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+place_built: Layer Breton
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.1524
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 0
-  moving_keel: true
-  length_overall: 3.7338
-  draft_keel_down: 0.8382
-  moving_keel_type: Centreboard
-  length_over_spars: 3.7338
 home_country: GBR
 home_port: Salisbury
 hull_form: centre-board dinghy
-id: 3dab62e0-22cb-48fb-af73-2aa63d7faceb
-length_on_deck: 3.7338
-spar_material: wood
 callsign: ''
 ownerships:
 - id: 394
@@ -44,12 +37,20 @@ ownerships:
   start: 2019
   member: 4164
   current: true
-place_built: Layer Breton
-updated_at: '2021-12-19T13:40:10.302371+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2019
-year_is_approximate: false
+id: 3dab62e0-22cb-48fb-af73-2aa63d7faceb
 image_key: dRLhhz
+thumb: https://photos.smugmug.com/photos/i-vQ9SQrM/0/Th/i-vQ9SQrM-Th.jpg
+draft: 0.1524
+handicap_data:
+  sailarea: 0
+  moving_keel: true
+  length_overall: 3.7338
+  draft_keel_down: 0.8382
+  moving_keel_type: Centreboard
+  length_over_spars: 3.7338
+length_on_deck: 3.7338
 beam: 1.524
 design_class:
   name: Brian Kennel Smacks Boat

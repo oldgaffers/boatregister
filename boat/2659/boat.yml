@@ -6,25 +6,22 @@ mainsail_type: lug
 short_description: <p>Designer, GF Holmes and Builder James Holmes share a surname,
   but are not related.</p>
 full_description: ''
-builder:
-  name: James Holmes
-  id: 4368fb79-05b8-4596-8a54-1a09ae20df5e
+year: 1904
+year_is_approximate: false
 designer:
   name: George F. Holmes
   id: 18294e5e-ffa2-48af-939e-bc30b9668eef
+builder:
+  name: James Holmes
+  id: 4368fb79-05b8-4596-8a54-1a09ae20df5e
+place_built: Hornsea Mere, E Yorks
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.5240185320653499
-  length_over_all: 4.57205559619605
 home_country: GBR
 home_port: Brough Haven
 hull_form: unknown
-id: 147a9feb-2984-4151-8f5a-0c1c64f9e5aa
-length_on_deck: 4.572
 sail_number: HY 1904
 callsign: ''
 ownerships:
@@ -35,11 +32,14 @@ ownerships:
   member: 4459
   current: true
   start: '?'
-place_built: Hornsea Mere, E Yorks
-updated_at: '2021-12-19T13:39:45.499155+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1904
-year_is_approximate: false
+id: 147a9feb-2984-4151-8f5a-0c1c64f9e5aa
+draft: 0
+handicap_data:
+  beam: 1.5240185320653499
+  length_over_all: 4.57205559619605
+length_on_deck: 4.572
 beam: 1.524
 for_sale_state:
   text: not_for_sale

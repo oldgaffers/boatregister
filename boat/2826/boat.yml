@@ -9,17 +9,37 @@ full_description: <p>&#39;Swallow&#39; is used for annual holidays being taken f
   day sailing in Falmouth, Chichester, Pembrokeshire, Norfolk Broads, Lake District,
   Lindesfarne and the West Coast of Scotland at Portsoy. Her sails were replaced &#39;like
   for like&#39; in 2001.</p>
-builder:
-  name: Character Boats
-  id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+year: 1990
+year_is_approximate: false
 designer:
   name: Bill Bailiff
   id: 40fab132-73c1-48a6-8aa5-9c471b1543a8
+builder:
+  name: Character Boats
+  id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+place_built: Overton
 construction_material: grp
 construction_method: clinker
-draft: 0
+construction_details: GRP simuated clinker
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Glenridding
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Malcolm Lawrence
+  share: 64
+  start: 1990
+- id: 552
+  share: 64
+  member: 4965
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e8dcc47c-bdf6-481a-bb20-72425f49586b
+draft: 0
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -33,27 +53,7 @@ handicap_data:
   fore_triangle_base: 2.895647403072421
   length_on_waterline: 4.724469641550841
   fore_triangle_height: 3.454450134113631
-home_country: GBR
-home_port: Glenridding
-hull_form: long keel deep forefoot
-id: e8dcc47c-bdf6-481a-bb20-72425f49586b
 length_on_deck: 5.7912
-callsign: ''
-ownerships:
-- name: Malcolm Lawrence
-  share: 64
-  start: 1990
-- id: 552
-  share: 64
-  member: 4965
-  current: true
-  start: '?'
-place_built: Overton
-updated_at: '2021-12-19T13:39:50.538118+00:00'
-website: ''
-year: 1990
-year_is_approximate: false
-construction_details: GRP simuated clinker
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

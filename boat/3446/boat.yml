@@ -24,22 +24,23 @@ full_description: "<p>&#39;Julietta&#39; was built in either 1957 or 1959 by Fai
   \ the Netherlands canals.</p>\r\n\r\n<p>The Coventry Victor 8hp petrol engine was\
   \ beyong repair and has been replaced with a 15hp Kabuta which has been&nbsp;marinised&nbsp;and\
   \ adaptated&nbsp;to drive the variable prop gearbox. Not an easy task.</p>"
-builder:
-  name: Fairey Marine
-  id: d695aa0f-63c7-452a-bfb0-eb5ad4a58d2e
+year: 1959
+year_is_approximate: false
 designer:
   name: Uffa Fox
   id: eaf77e9d-2030-46b2-946c-6838f696bd4a
+builder:
+  name: Fairey Marine
+  id: d695aa0f-63c7-452a-bfb0-eb5ad4a58d2e
+place_built: Hamble
 construction_material: wood
 construction_method: hot_moulded
-draft: 0.4572
+construction_details: Hot moulded cross plywood
 engine_installations: []
 for_sales: []
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 7da47016-5edc-4653-8370-9d9da1b49d5b
-length_on_deck: 7.9858
 sail_number: A59
 callsign: Yacht Julietta
 ownerships:
@@ -48,12 +49,11 @@ ownerships:
   start: 2007
   member: 6340
   current: true
-place_built: Hamble
-updated_at: '2021-12-19T13:40:10.793117+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1959
-year_is_approximate: false
-construction_details: Hot moulded cross plywood
+id: 7da47016-5edc-4653-8370-9d9da1b49d5b
+draft: 0.4572
+length_on_deck: 7.9858
 beam: 2.347
 design_class:
   name: Atalanta

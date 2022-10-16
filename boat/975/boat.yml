@@ -6,27 +6,23 @@ mainsail_type: gaff
 short_description: ''
 full_description: Log 79/3, 81/1, see cardex for list of owners.  Was yawl untill
   1930
-builder:
-  name: J. White and Co.
-  id: 1df25223-4515-4799-b52b-605f41ca5b45
+year: 1901
+year_is_approximate: false
 designer:
   name: Samuel White
   id: 2bdbf719-c82d-4960-a74c-64c8d3af8a14
+builder:
+  name: J. White and Co.
+  id: 1df25223-4515-4799-b52b-605f41ca5b45
+place_built: Southampton
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel Pitch Pine on Oak Counter Stern
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.066812972445745
-  length_over_all: 10.972933430870519
-  length_on_waterline: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: f47f84d2-bd72-4417-a8fd-a59ace065e23
-length_on_deck: 10.9728
 reference:
 - Log 79/3
 - Log 81/1
@@ -35,12 +31,16 @@ ownerships:
 - name: D A Edgar
   share: 64
   start: 2012
-place_built: Southampton
-updated_at: '2021-12-19T13:38:57.737933+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1901
-year_is_approximate: false
-construction_details: Carvel Pitch Pine on Oak Counter Stern
+id: f47f84d2-bd72-4417-a8fd-a59ace065e23
+draft: 1.0668
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.066812972445745
+  length_over_all: 10.972933430870519
+  length_on_waterline: 7.924896366739819
+length_on_deck: 10.9728
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,41 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1969
+year_is_approximate: false
 designer:
   name: Latimer
   id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: clinker
-draft: 0.4572
+construction_details: Clinker wood
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Walton on the Naze
+hull_form: long keel deep forefoot
+sail_number: DA686
+uk_part1: '1686'
+callsign: ''
+ownerships:
+- name: Maxine Fisher
+  share: 64
+  start: 2011
+- share: 64
+  member: 5502
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f367dced-3419-4928-8801-8c1363131bd0
+previous_names:
+- Cavanina
+- Quest of Quills
+draft: 0.4572
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -32,31 +56,7 @@ handicap_data:
   fore_triangle_base: 2.13362594489149
   length_on_waterline: 7.010485247500609
   fore_triangle_height: 5.7912704218483295
-home_country: GBR
-home_port: Walton on the Naze
-hull_form: long keel deep forefoot
-id: f367dced-3419-4928-8801-8c1363131bd0
 length_on_deck: 7.3152
-sail_number: DA686
-uk_part1: '1686'
-callsign: ''
-ownerships:
-- name: Maxine Fisher
-  share: 64
-  start: 2011
-- share: 64
-  member: 5502
-  current: true
-  start: '?'
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:56.86564+00:00'
-website: ''
-year: 1969
-year_is_approximate: false
-previous_names:
-- Cavanina
-- Quest of Quills
-construction_details: Clinker wood
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

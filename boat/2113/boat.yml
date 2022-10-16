@@ -9,17 +9,46 @@ full_description: <p>&#39;Ianthe&#39; has spent all her life at Chrishtchurch Sa
   Club. Her original mast was replaced in 1993, made by her owner, Steve Renvoize,
   and her keel and centreboard were renewed in 2003 by Rossiters. She has never had
   an engine.</p>
-builder:
-  name: Berthon Boat Co. Ltd.
-  id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
+year: 1890
+year_is_approximate: false
 designer:
   name: Percival Hunt
   id: 6fbb10ee-a9c9-44f3-a641-c290692576ea
+builder:
+  name: Berthon Boat Co. Ltd.
+  id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
+place_built: Lymington
 construction_material: wood
 construction_method: carvel
-draft: 0.6096
+construction_details: carvel wood
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Christchurch
+hull_form: cut_away_stem
+sail_number: '3'
+callsign: ''
+ownerships:
+- end: 33
+  note: '''Ianthe'' was owned for 33 years, 1916 - 1949, by Melville Druit, Commodore
+    of the Christchurch Sailing Club.'
+  text: '''Ianthe'' was owned for'
+  end_is_approximate: false
+- end: 1949
+  name: Melville Druitt
+  share: 64
+  start: 1916
+- id: 113
+  share: 64
+  start: 1987
+  member: 1950
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4cd239ff-2317-47e5-b293-ef60d85d1706
+image_key: m9CWHR
+thumb: https://photos.smugmug.com/photos/i-TmhBjbt/0/Th/i-TmhBjbt-Th.jpg
+draft: 0.6096
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -38,35 +67,7 @@ handicap_data:
   fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.0960741282613995
   fore_triangle_height: 5.4864667154352595
-home_country: GBR
-home_port: Christchurch
-hull_form: cut_away_stem
-id: 4cd239ff-2317-47e5-b293-ef60d85d1706
 length_on_deck: 7.3152
-sail_number: '3'
-callsign: ''
-ownerships:
-- end: 33
-  note: '''Ianthe'' was owned for 33 years, 1916 - 1949, by Melville Druit, Commodore
-    of the Christchurch Sailing Club.'
-  text: '''Ianthe'' was owned for'
-  end_is_approximate: false
-- end: 1949
-  name: Melville Druitt
-  share: 64
-  start: 1916
-- id: 113
-  share: 64
-  start: 1987
-  member: 1950
-  current: true
-place_built: Lymington
-updated_at: '2021-12-19T13:39:29.69789+00:00'
-website: ''
-year: 1890
-year_is_approximate: false
-image_key: m9CWHR
-construction_details: carvel wood
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

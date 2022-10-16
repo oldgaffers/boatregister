@@ -52,66 +52,26 @@ full_description: "<p>Based on Breton Lines, Primrose designed &#39;Prawle&#39; 
   \ />\r\n5) 2013 lazy jacks were added, another non-original feature.<br />\r\n6)\
   \ New Mahogany gallows installed 2015<br />\r\n7)&nbsp;New rudder 2017</p>\r\n\r\
   \n<p>&nbsp;</p>"
-builder:
-  name: Ferris and Blank
-  id: 846a15b6-0225-4ba3-ba72-969fe4c531cd
+year: 1965
+year_is_approximate: false
 designer:
   name: R. Primrose
   id: 638a14e8-1db1-459b-8a6d-3cd927221589
+builder:
+  name: Ferris and Blank
+  id: 846a15b6-0225-4ba3-ba72-969fe4c531cd
+place_built: Dartmouth
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel Mahogony on canadian rock elm oak deadwoods, elm keel,
+  iroko transom, Columbian pine deck and cabin beams, ply decks.
 engine_installations: []
 for_sales:
 - asking_price: 4500
-  flexibility: normal
-  offered: null
-  price_flexibility:
-    text: normal
-  reduced: true
-  sales_text: <p>"Prawle" is an approx. third scale (20ft+ sprit) replica of a Breton
-    fishing boat, professionally built at the former Ferris and Blank boatyard in
-    Dartmouth in 1965/66, She is still resident in Dartmouth and well known and appreciated
-    by locals. &nbsp;Very pretty, she also attracts an instant fan club wherever she
-    ties up.</p><p>She has a lovely, good-natured character on the water, ideal for
-    cruising along the coast. Once her sails are set the user-friendly sheet-cleats
-    in the cockpit make life easy, and her traditional hull design can handle a bit
-    of sea better than many modern boats. Two berths in the cabin. Unusual deep cockpit
-    with sliding cover and original Rippingilles parafin cooker. New (2012) switch
-    panel with depth sounder, meter for both batteries and 12v socket. Good inventory,
-    including a Manson Supreme anchor and 30yds+ of chain, long additional anchor
-    warp, fisherman"s + other spare achors, mudweight/angel, mooring warps, tools,
-    a cupboard of spares, lifebuoy, emergency boarding ladder, etc. Legs for drying
-    berths.</p><p>Her hull is long keel, carvel, mahogany on oak, all copper fixed.</p><p>"Prawle"
-    is ready to sail, with a newly reconditioned Volvo MD1b installed in 2015 and
-    up to date maintenance. She needs someone to appreciate her and take care of her
-    now that we are looking for a bluewater cruiser before we get too old.</p>
-  sold: '2021-07-13'
-  summary: ''
-  updated_at: '2020-05-03T10:13:13.152552+00:00'
-handicap_data:
-  beam: 2.0117044623262617
-  main:
-    foot: 3.886247256766642
-    head: 2.5146305779078273
-    luff: 3.8100463301633747
-  thcf: 0.844116069
-  draft: 0.9144111192392099
-  topsail:
-    luff: 3.2766398439405022
-    perpendicular: 1.8288222384784198
-  propellor:
-    type: fixed
-  length_over_all: 5.867471348451597
-  fore_triangle_base: 3.3528407705437697
-  length_on_waterline: 4.907339673250427
-  fore_triangle_height: 5.7912704218483295
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel sloping forefoot
-id: d88235b9-2d3a-4d08-8a23-87ce0b54d4b2
-length_on_deck: 5.8674
-spar_material: wood
 uk_part1: '308290'
 callsign: ''
 ownerships:
@@ -142,14 +102,30 @@ ownerships:
   start: 2021
   member: 6498
   current: true
-place_built: Dartmouth
 updated_at: '2022-10-02T20:27:07.875941+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
+id: d88235b9-2d3a-4d08-8a23-87ce0b54d4b2
 image_key: 4vLsBG
-construction_details: Carvel Mahogony on canadian rock elm oak deadwoods, elm keel,
-  iroko transom, Columbian pine deck and cabin beams, ply decks.
+thumb: https://photos.smugmug.com/photos/i-jZPfLxH/0/Th/i-jZPfLxH-Th.jpg
+draft: 0.9144
+handicap_data:
+  beam: 2.0117044623262617
+  main:
+    foot: 3.886247256766642
+    head: 2.5146305779078273
+    luff: 3.8100463301633747
+  thcf: 0.844116069
+  draft: 0.9144111192392099
+  topsail:
+    luff: 3.2766398439405022
+    perpendicular: 1.8288222384784198
+  propellor:
+    type: fixed
+  length_over_all: 5.867471348451597
+  fore_triangle_base: 3.3528407705437697
+  length_on_waterline: 4.907339673250427
+  fore_triangle_height: 5.7912704218483295
+length_on_deck: 5.8674
 beam: 2.0056
 for_sale_state:
   text: not_for_sale

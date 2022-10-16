@@ -10,26 +10,24 @@ full_description: <p>Built as a gentleman's yacht for cruising the Baltic, 'Lili
   until 1988, having become derelict as a Sea Cadet training ship at Windsor. She
   was restored and refurbished and attended the 1992 and 1996 Brest Festival of the
   Sea. She travelled to Stockholm in 1995.</p>
-builder:
-  name: Varvet Sodra
-  id: d7ddb9e2-b875-428f-91af-8c525738d18f
+year: 1916
+year_is_approximate: false
 designer:
   name: C.G. Petterson
   id: 29ac1f39-a8f3-475d-8a91-24a1b348b5e4
+builder:
+  name: Varvet Sodra
+  id: d7ddb9e2-b875-428f-91af-8c525738d18f
+place_built: Stockholm
 construction_material: steel
+spar_material: wood
 construction_method: unknown
-draft: 1.8044
+construction_details: Riveted steel, mahogany superstructure, teak decks.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.87685930260912
-  length_over_all: 30.480370641306997
 home_country: GBR
 home_port: Twickenham, River Thames
 hull_form: long keel deep forefoot
-id: 596db085-8a8d-4fc3-a0a3-37a3a905709c
-length_on_deck: 29.9984
-spar_material: wood
 uk_part1: '164525'
 callsign: ''
 ownerships:
@@ -58,18 +56,21 @@ ownerships:
   start: 1980
   member: 3614
   current: true
-place_built: Stockholm
-updated_at: '2021-12-19T13:39:32.293396+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://lilianboat.co.uk/
-year: 1916
-year_is_approximate: false
+id: 596db085-8a8d-4fc3-a0a3-37a3a905709c
 previous_names:
 - Lilian of Stockholm
 - Dahu
 - TS Windsor Castle
 nhsr: '2758'
 image_key: 8XKCJW
-construction_details: Riveted steel, mahogany superstructure, teak decks.
+thumb: https://photos.smugmug.com/photos/i-fKJcGCv/0/Th/i-fKJcGCv-Th.jpg
+draft: 1.8044
+handicap_data:
+  beam: 4.87685930260912
+  length_over_all: 30.480370641306997
+length_on_deck: 29.9984
 beam: 5.0048
 for_sale_state:
   text: not_for_sale

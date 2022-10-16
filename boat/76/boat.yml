@@ -15,17 +15,45 @@ full_description: "<p>The Brixham trawler &#39;Vigilance&#39; BM76, a gaff-rigge
   \ getting her back to sailing. He lived on board, sailing mostly along the South\
   \ Coast.</p>\r\n\r\n<p>In 1997 she was bought by the Vigilance Preservation Society\
   \ and returned to Brixham.</p>"
-builder:
-  name: J.W. and A. Upham Ltd.
-  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+year: 1926
+year_is_approximate: false
 designer:
   name: J.W. Upham
   id: 1847f26b-0352-45ca-8bfc-b3e144120831
+builder:
+  name: J.W. and A. Upham Ltd.
+  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+place_built: Brixham
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 2.5908
+construction_details: Carvel planking on oak sawn frames with elm keel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Brixham
+hull_form: unknown
+uk_part1: '148999'
+callsign: ''
+ownerships:
+- end: 1997
+  name: Ken L Harris
+  share: 64
+  start: 1955
+- name: Vigilance Preservation Society, Brixham
+  share: 64
+  start: 1997
+- id: 757
+  share: 64
+  member: 5762
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: bcf0c456-d2ef-478d-b3c0-f8d9fb55bef9
+image_key: mF4bjT
+thumb: https://photos.smugmug.com/photos/i-2BLMmNN/0/Th/i-2BLMmNN-Th.jpg
+draft: 2.5908
 handicap_data:
   beam: 6.035113386978786
   main:
@@ -49,34 +77,7 @@ handicap_data:
   fore_triangle_base: 12.801755669348939
   length_on_waterline: 20.72665203608876
   fore_triangle_height: 23.165081687393318
-home_country: GBR
-home_port: Brixham
-hull_form: unknown
-id: bcf0c456-d2ef-478d-b3c0-f8d9fb55bef9
 length_on_deck: 20.4216
-spar_material: wood
-uk_part1: '148999'
-callsign: ''
-ownerships:
-- end: 1997
-  name: Ken L Harris
-  share: 64
-  start: 1955
-- name: Vigilance Preservation Society, Brixham
-  share: 64
-  start: 1997
-- id: 757
-  share: 64
-  member: 5762
-  current: true
-  start: '?'
-place_built: Brixham
-updated_at: '2021-12-19T13:38:31.909678+00:00'
-website: ''
-year: 1926
-year_is_approximate: false
-image_key: mF4bjT
-construction_details: Carvel planking on oak sawn frames with elm keel
 beam: 6.035
 for_sale_state:
   text: not_for_sale

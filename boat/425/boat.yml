@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Smeeth
-  id: 2f78de72-d6fd-4278-9587-3cecc82f099f
+year: 1960
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: Smeeth
+  id: 2f78de72-d6fd-4278-9587-3cecc82f099f
+place_built: Dedham
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
+construction_details: Iroko on oak frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Tollesbury
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: C Hughes
+  share: 64
+  start: 1976
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 241b7e38-f520-436c-8d70-da88635edd86
+draft: 1.2192
 handicap_data:
   beam: 3.017556693489393
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 4.87685930260912
   length_on_waterline: 8.53450377956596
   fore_triangle_height: 8.915508412582296
-home_country: 'null'
-home_port: Tollesbury
-hull_form: long keel deep forefoot
-id: 241b7e38-f520-436c-8d70-da88635edd86
 length_on_deck: 10.1498
-callsign: ''
-ownerships:
-- name: C Hughes
-  share: 64
-  start: 1976
-place_built: Dedham
-updated_at: '2021-12-19T13:38:41.943899+00:00'
-website: ''
-year: 1960
-year_is_approximate: false
-construction_details: Iroko on oak frames
 beam: 3.0175
 for_sale_state:
   text: not_for_sale

@@ -16,37 +16,20 @@ full_description: "<p>Before the second world war, she fished for cod and ling t
   \ completely rebuilt between 2001 and 2005.</p>\r\n\r\n<p>For more information,\
   \ visit the <a href=\"http://www.adls.org.uk/t1/node/511\" target=\"_blank\">Association\
   \ of Dunkirk Little Ships website</a>.</p>"
+year: 1921
+year_is_approximate: false
 builder:
   name: Chantier Naval le Maitre
   id: f92ac75b-39f6-4ce5-904d-f2e9cf8de409
+place_built: Fecamp
 construction_material: wood
 construction_method: unknown
-draft: 2.286
+construction_details: Oak on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 5.18166300902219
-  main:
-    foot: 7.620092660326749
-    head: 7.010485247500609
-    luff: 7.620092660326749
-  thcf: 1.090044868
-  draft: 2.286027798098025
-  mizzen:
-    foot: 4.26725188978298
-    head: 3.6576444769568397
-    luff: 4.724457449402585
-  propellor:
-    type: fixed
-  length_over_all: 16.154596439892707
-  fore_triangle_base: 8.53450377956596
-  length_on_waterline: 13.716166788588149
-  fore_triangle_height: 9.75371860521824
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: dfe2d954-393e-4bd0-af57-cac0d1254ccb
-length_on_deck: 16.1544
 sail_number: TSK59
 uk_part1: '398992'
 callsign: ''
@@ -67,13 +50,31 @@ ownerships:
 - name: Ray Dunstone
   share: 64
   start: 2007
-place_built: Fecamp
-updated_at: '2021-12-19T13:39:13.370909+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1921
-year_is_approximate: false
+id: dfe2d954-393e-4bd0-af57-cac0d1254ccb
 image_key: qb6wQN
-construction_details: Oak on oak
+thumb: https://photos.smugmug.com/photos/i-pW5PXn7/0/Th/i-pW5PXn7-Th.jpg
+draft: 2.286
+handicap_data:
+  beam: 5.18166300902219
+  main:
+    foot: 7.620092660326749
+    head: 7.010485247500609
+    luff: 7.620092660326749
+  thcf: 1.090044868
+  draft: 2.286027798098025
+  mizzen:
+    foot: 4.26725188978298
+    head: 3.6576444769568397
+    luff: 4.724457449402585
+  propellor:
+    type: fixed
+  length_over_all: 16.154596439892707
+  fore_triangle_base: 8.53450377956596
+  length_on_waterline: 13.716166788588149
+  fore_triangle_height: 9.75371860521824
+length_on_deck: 16.1544
 beam: 5.1816
 for_sale_state:
   text: not_for_sale

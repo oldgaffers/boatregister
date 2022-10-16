@@ -6,17 +6,39 @@ mainsail_type: gaff
 short_description: <p>Mnemosyne is a Memory 19 built in 2007 by Saltern Boat Builders.</p>
 full_description: Used as day sailer but has been trailed to Seafair Rally twice and
   la Semaine du Golfe de Morbihan (2013).
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2007
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Bursledon, Hampshire
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Faversham Kent
+hull_form: centre-boarder
+sail_number: M131
+ssr: '127408'
+callsign: ''
+ownerships:
+- id: 779
+  share: 64
+  start: 2007
+  member: 5799
+  current: true
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: 24354660-a78a-4be2-802d-b3aa603b9cfe
+image_key: g9pRqK
+thumb: https://photos.smugmug.com/photos/i-cCb78bb/0/Th/i-cCb78bb-Th.jpg
+draft: 0.5334
 handicap_data:
   beam: 2.1000255395025604
   main:
@@ -34,28 +56,7 @@ handicap_data:
   fore_triangle_base: 1.2200148372348207
   length_on_waterline: 5.690069199890271
   fore_triangle_height: 6.320076861741039
-home_country: GBR
-home_port: Faversham Kent
-hull_form: centre-boarder
-id: 24354660-a78a-4be2-802d-b3aa603b9cfe
 length_on_deck: 5.7912
-sail_number: M131
-spar_material: wood
-ssr: '127408'
-callsign: ''
-ownerships:
-- id: 779
-  share: 64
-  start: 2007
-  member: 5799
-  current: true
-place_built: Bursledon, Hampshire
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 2007
-year_is_approximate: false
-image_key: g9pRqK
-construction_details: GRP
 beam: 2.1092
 design_class:
   name: Memory 19

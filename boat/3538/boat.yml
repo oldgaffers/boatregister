@@ -5,16 +5,28 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: Cornish shrimper from cornish crabbers of Rock
 full_description: Shrimper 19
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1990
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
 engine_installations: []
 for_sales: []
+home_country: United Kingdom
+home_port: 'Helford '
+hull_form: centre-boarder
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 2dbcf4fc-4cca-46f3-88ec-9bc43b910510
+previous_names:
+- Diedre
+image_key: 5Xnzth
 handicap_data:
   beam: 2.1854425749817117
   main:
@@ -28,18 +40,6 @@ handicap_data:
   fore_triangle_base: 2.8194342843208973
   length_on_waterline: 5.334064862228725
   fore_triangle_height: 4.114850036576445
-home_country: United Kingdom
-home_port: 'Helford '
-hull_form: centre-boarder
-id: 2dbcf4fc-4cca-46f3-88ec-9bc43b910510
-spar_material: wood
-place_built: Rock
-updated_at: '2021-04-15T20:47:35.807561+00:00'
-year: 1990
-year_is_approximate: false
-previous_names:
-- Diedre
-image_key: 5Xnzth
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

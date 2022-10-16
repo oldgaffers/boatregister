@@ -5,36 +5,36 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Owns Good Girl
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1954
+year_is_approximate: false
 designer:
   name: Latimer
   id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clinker
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  length_over_all: 6.4008778346744695
 home_country: 'null'
 home_port: Greenwich
 hull_form: unknown
-id: e22770c8-d7e2-40e2-b76a-323bd09c043e
-length_on_deck: 6.4008
 callsign: ''
 ownerships:
 - name: Joyce Lowman
   share: 64
   start: 1997
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:30.308881+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1954
-year_is_approximate: false
-construction_details: Clinker
+id: e22770c8-d7e2-40e2-b76a-323bd09c043e
+draft: 0
+handicap_data:
+  beam: 2.286027798098025
+  length_over_all: 6.4008778346744695
+length_on_deck: 6.4008
 beam: 2.286
 for_sale_state:
   text: not_for_sale

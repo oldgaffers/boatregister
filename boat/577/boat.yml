@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Tidebird is a New Blossom Class yacht designed by John Leather.</p>
 full_description: ''
-builder:
-  name: Ian Brown Ltd.
-  id: 5c5e4266-5fe8-44c5-84bd-b3cfb5708397
+year: 1965
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: Ian Brown Ltd.
+  id: 5c5e4266-5fe8-44c5-84bd-b3cfb5708397
+place_built: Rowhedge
 construction_material: wood
 construction_method: clinker
-draft: 0.762
+construction_details: Clinker
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 0.6339917093391856
-  length_over_all: 5.843087051938552
-  length_on_waterline: 5.257863935625457
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 1457196e-6f53-4779-868d-42f319787395
-length_on_deck: 5.843
 uk_part1: '308733'
 callsign: ''
 ownerships:
@@ -42,13 +38,18 @@ ownerships:
   start: 2015
   member: 5992
   current: true
-place_built: Rowhedge
-updated_at: '2021-12-19T13:38:46.339633+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
+id: 1457196e-6f53-4779-868d-42f319787395
 image_key: tMzQbK
-construction_details: Clinker
+thumb: https://photos.smugmug.com/photos/i-f6CpFVV/0/Th/i-f6CpFVV-Th.jpg
+draft: 0.762
+handicap_data:
+  beam: 2.13362594489149
+  draft: 0.6339917093391856
+  length_over_all: 5.843087051938552
+  length_on_waterline: 5.257863935625457
+length_on_deck: 5.843
 beam: 2.4384
 design_class:
   name: New Blossom Class

@@ -18,18 +18,38 @@ full_description: "<p>&lsquo;Lily&rsquo; was launched August 2002 and based at S
   \ were then built by a boatyard based in Norfolk named Marsham. Peter Herbert purchased\
   \ the hull in 1998 and fitted her out over a period of three years including the\
   \ wooden spars.</p>"
-builder:
-  name: Martham Boats/P Herbert
-  id: 67c4ada7-880c-431b-9867-1a245894f00f
+year: 2002
+year_is_approximate: false
 designer:
   name: International Marine Designs
   id: 89ad9a1d-4084-4e03-8485-a0616e8ea570
+builder:
+  name: Martham Boats/P Herbert
+  id: 67c4ada7-880c-431b-9867-1a245894f00f
+place_built: Martham
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.271
+construction_details: GRP hull deck and outfit wood
 engine_installations: []
 for_sales:
 - asking_price: 0
+home_country: GBR
+home_port: Maldon
+hull_form: long keel deep forefoot
+sail_number: '23'
+ssr: '101333'
+callsign: ''
+ownerships:
+- end: 2015
+  name: Peter Herbert
+  share: 64
+  start: 1998
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: df523145-43a9-427b-8864-f9476451ea07
+image_key: CGC7Hh
+thumb: https://photos.smugmug.com/photos/i-fQpGLB5/0/Th/i-fQpGLB5-Th.jpg
+draft: 1.271
 handicap_data:
   beam: 2.5900314987198243
   main:
@@ -49,26 +69,7 @@ handicap_data:
   fore_triangle_base: 7.000085131675201
   length_on_waterline: 7.380089753108997
   fore_triangle_height: 10.560128427212874
-home_country: GBR
-home_port: Maldon
-hull_form: long keel deep forefoot
-id: df523145-43a9-427b-8864-f9476451ea07
 length_on_deck: 8.51
-sail_number: '23'
-ssr: '101333'
-callsign: ''
-ownerships:
-- end: 2015
-  name: Peter Herbert
-  share: 64
-  start: 1998
-place_built: Martham
-updated_at: '2021-12-19T13:39:40.591697+00:00'
-website: ''
-year: 2002
-year_is_approximate: false
-image_key: CGC7Hh
-construction_details: GRP hull deck and outfit wood
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

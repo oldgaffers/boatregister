@@ -6,38 +6,38 @@ mainsail_type: gaff
 short_description: ''
 full_description: Yacht replica of a coaster vessel of the late 1800's  Carried wood,
   fertilizer, etc
-builder:
-  name: Frank Weeks
-  id: d79205eb-e8e2-4617-a346-8896e609dfc6
+year: 1938
+year_is_approximate: false
 designer:
   name: Murray G. Peterson
   id: a2e01005-a9e2-4e11-84f6-26828637d074
+builder:
+  name: Frank Weeks
+  id: d79205eb-e8e2-4617-a346-8896e609dfc6
+place_built: Patchogue, NY
 construction_material: wood
 construction_method: carvel
-draft: 1.7008
+construction_details: Carvel planked, mahogany on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.5570592538405266
-  draft: 1.7008046817849305
-  length_over_all: 11.430138990490123
-  length_on_waterline: 9.348329675688856
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 433f5dcf-1bd8-4281-afff-d5abd7042737
-length_on_deck: 11.43
 callsign: ''
 ownerships:
 - name: H E Hock
   share: 64
   start: 1987
-place_built: Patchogue, NY
-updated_at: '2021-12-19T13:39:17.675621+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1938
-year_is_approximate: false
-construction_details: Carvel planked, mahogany on oak
+id: 433f5dcf-1bd8-4281-afff-d5abd7042737
+draft: 1.7008
+handicap_data:
+  beam: 3.5570592538405266
+  draft: 1.7008046817849305
+  length_over_all: 11.430138990490123
+  length_on_waterline: 9.348329675688856
+length_on_deck: 11.43
 beam: 3.557
 for_sale_state:
   text: not_for_sale

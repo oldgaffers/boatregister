@@ -5,21 +5,15 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log 85/2
+year: 1947
+year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-draft: 0.9144
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.9144111192392099
-  length_over_all: 8.22970007315289
-  length_on_waterline: 7.650573030968056
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 341733ab-5658-4d2a-826a-f62bfdceac67
-length_on_deck: 8.2296
 reference:
 - Log 85/2
 callsign: ''
@@ -27,10 +21,16 @@ ownerships:
 - name: P Bennison
   share: 64
   start: 2012
-updated_at: '2021-12-19T13:38:56.329398+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1947
-year_is_approximate: false
+id: 341733ab-5658-4d2a-826a-f62bfdceac67
+draft: 0.9144
+handicap_data:
+  beam: 1.8288222384784198
+  draft: 0.9144111192392099
+  length_over_all: 8.22970007315289
+  length_on_waterline: 7.650573030968056
+length_on_deck: 8.2296
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

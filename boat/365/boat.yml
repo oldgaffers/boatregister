@@ -6,26 +6,22 @@ mainsail_type: gaff
 short_description: <p>Reputedly built for the Governer of Tasmania, &#39;Tasma&#39;
   sailed in the Solent moving to West Mersea in the 1930s.</p>
 full_description: ''
-builder:
-  name: W.G. Luke and Co.
-  id: d0336872-a447-4748-ae62-85ce7b90efe1
+year: 1897
+year_is_approximate: false
 designer:
   name: A.R. Luke
   id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+builder:
+  name: W.G. Luke and Co.
+  id: d0336872-a447-4748-ae62-85ce7b90efe1
+place_built: Hamble
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  length_over_all: 9.75371860521824
-  length_on_waterline: 7.924896366739819
 home_country: GBR
 home_port: Port Penrhyn, Bangor
 hull_form: unknown
-id: e151e33f-db51-489c-93ef-0aa6f6868a28
-length_on_deck: 9.7536
 callsign: ''
 ownerships:
 - note: '''Tasma'' was in the ownership of the Metcalfe family from 1962.'
@@ -36,11 +32,15 @@ ownerships:
   name: Scott Metcalfe
   share: 64
   start: 1984
-place_built: Hamble
-updated_at: '2021-12-19T13:38:40.361377+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1897
-year_is_approximate: false
+id: e151e33f-db51-489c-93ef-0aa6f6868a28
+draft: 0
+handicap_data:
+  beam: 2.7432333577176298
+  length_over_all: 9.75371860521824
+  length_on_waterline: 7.924896366739819
+length_on_deck: 9.7536
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

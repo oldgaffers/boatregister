@@ -5,16 +5,31 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: Originally built as an Adventure 21 the initial owner had her re-rigged
   as a Shrimper 21 with wooden spars and a Gaff rig.
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2016
+year_is_approximate: false
 designer:
   name: Roger Dongray/David Thomas Yachts
   id: 7d1ad008-4263-419d-8843-d466ded0ec2c
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: unknown
 engine_installations: []
 for_sales: []
+home_country: United Kingdom
+home_port: Dartmouth
+hull_form: long keel deep forefoot
+ownerships:
+- id: 712
+  share: 64
+  member: 5663
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: c626e4e7-6bec-4d36-92be-9e37aebc5fb1
+image_key: Xt8X5j
 handicap_data:
   main:
     foot: 12.7
@@ -29,21 +44,6 @@ handicap_data:
   fore_triangle_base: 3.0297
   length_on_waterline: 6.099
   fore_triangle_height: 5.6601
-home_country: United Kingdom
-home_port: Dartmouth
-hull_form: long keel deep forefoot
-id: c626e4e7-6bec-4d36-92be-9e37aebc5fb1
-ownerships:
-- id: 712
-  share: 64
-  member: 5663
-  current: true
-  start: '?'
-place_built: Rock
-updated_at: '2022-02-14T11:04:40.382535+00:00'
-year: 2016
-year_is_approximate: false
-image_key: Xt8X5j
 beam: 2.3988
 design_class:
   name: Cornish Shrimper 21

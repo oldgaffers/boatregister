@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 84/3
-builder:
-  name: R. Latham
-  id: d7388203-7714-49a4-8fd0-38edbd0f35e2
+year: 1904
+year_is_approximate: false
 designer:
   name: R. Latham
   id: 07f98629-8945-45a0-97ad-85d70371e56e
+builder:
+  name: R. Latham
+  id: d7388203-7714-49a4-8fd0-38edbd0f35e2
+place_built: Crossens Nr Southport
 construction_material: wood
 construction_method: carvel
-draft: 1.6764
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.5052426237503047
-  draft: 1.6764203852718849
-  length_over_all: 13.258961228968543
-  length_on_waterline: 10.515727871250913
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: c4280af5-c900-4ad1-9f96-ada6336ef387
-length_on_deck: 13.2588
 reference:
 - Log 84/3
 uk_part1: '120857'
@@ -34,12 +30,16 @@ ownerships:
 - name: J P King & C H Peacock
   share: 64
   start: 2012
-place_built: Crossens Nr Southport
-updated_at: '2021-12-19T13:39:06.228888+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1904
-year_is_approximate: false
-construction_details: Pitch pine on oak
+id: c4280af5-c900-4ad1-9f96-ada6336ef387
+draft: 1.6764
+handicap_data:
+  beam: 3.5052426237503047
+  draft: 1.6764203852718849
+  length_over_all: 13.258961228968543
+  length_on_waterline: 10.515727871250913
+length_on_deck: 13.2588
 beam: 3.5052
 for_sale_state:
   text: not_for_sale

@@ -18,17 +18,41 @@ full_description: "<p>Ariel is a cutter from that doyen of yawl designers, Alber
   \ to Ostend race. This was their first ever handicap race.</p>\r\n\r\n<p>In 1998\
   \ she was substantially restored by Peter and Jim Maynard. This included a redesigned\
   \ sail plan by Gayle Heard which has radically altered her performance.</p>"
-builder:
-  name: Anderson Rigden and Perkins
-  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+year: 1925
+year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+builder:
+  name: Anderson Rigden and Perkins
+  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+place_built: Whitstable
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel pitch pine on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Shotley Marina
+hull_form: long keel deep forefoot
+ssr: '132068'
+callsign: ''
+ownerships:
+- end: 2014
+  name: Neil Mordey
+  share: 64
+  start: 2007
+- id: 966
+  share: 64
+  start: 2014
+  member: 6180
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 94df70a8-2198-4cc3-83f5-fd6040018c71
+image_key: hZf6VZ
+thumb: https://photos.smugmug.com/photos/i-spdz8f5/0/Th/i-spdz8f5-Th.jpg
+draft: 1.3716
 handicap_data:
   beam: 2.5146305779078273
   main:
@@ -49,30 +73,7 @@ handicap_data:
   fore_triangle_base: 5.7912704218483295
   length_on_waterline: 6.9342843208973415
   fore_triangle_height: 7.467690807120214
-home_country: GBR
-home_port: Shotley Marina
-hull_form: long keel deep forefoot
-id: 94df70a8-2198-4cc3-83f5-fd6040018c71
 length_on_deck: 7.8486
-ssr: '132068'
-callsign: ''
-ownerships:
-- end: 2014
-  name: Neil Mordey
-  share: 64
-  start: 2007
-- id: 966
-  share: 64
-  start: 2014
-  member: 6180
-  current: true
-place_built: Whitstable
-updated_at: '2021-12-19T13:38:35.595137+00:00'
-website: ''
-year: 1925
-year_is_approximate: false
-image_key: hZf6VZ
-construction_details: Carvel pitch pine on oak
 beam: 2.5146
 for_sale_state:
   text: not_for_sale

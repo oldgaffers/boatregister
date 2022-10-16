@@ -6,33 +6,25 @@ mainsail_type: lug
 short_description: A home build Goat Island Skiff
 full_description: Home built, she took part in the Morbihan Festival 2009 and OGA
   meet at Clewydog, 2009.
-builder:
-  name: Mike Worthington
-  id: 76e414e9-3e61-45a6-b064-cb4ea231be19
+year: 2008
+year_is_approximate: false
 designer:
   name: Michael Storer
   id: b9445c68-7788-4967-bf22-6de34e7f4562
+builder:
+  name: Mike Worthington
+  id: 76e414e9-3e61-45a6-b064-cb4ea231be19
+place_built: Kenley
 construction_material: plywood
+spar_material: wood
 construction_method: unknown
-draft: 0.0762
+construction_details: Ply
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.500018242501829
-  main:
-    foot: 3.2800398902706656
-    head: 3.1800386741038773
-    luff: 2.3700288231528894
-  draft: 0.070000851316752
-  length_over_all: 4.700057159839063
-  length_on_waterline: 4.5000547275054865
 home_country: GBR
 home_port: Abersoch
 hull_form: long keel deep forefoot
-id: 25fff84f-f1bc-4a55-b211-6c7ec3c7fa4a
-length_on_deck: 4.7
 sail_number: GIS UK 3
-spar_material: wood
 callsign: ''
 ownerships:
 - name: Mike Worthington
@@ -43,12 +35,20 @@ ownerships:
   member: 3285
   current: true
   start: '?'
-place_built: Kenley
-updated_at: '2021-12-19T13:39:52.506873+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.fyneboatkits.co.uk/plans/sailing/goat-island-skiff/
-year: 2008
-year_is_approximate: false
-construction_details: Ply
+id: 25fff84f-f1bc-4a55-b211-6c7ec3c7fa4a
+draft: 0.0762
+handicap_data:
+  beam: 1.500018242501829
+  main:
+    foot: 3.2800398902706656
+    head: 3.1800386741038773
+    luff: 2.3700288231528894
+  draft: 0.070000851316752
+  length_over_all: 4.700057159839063
+  length_on_waterline: 4.5000547275054865
+length_on_deck: 4.7
 beam: 1.4996
 design_class:
   name: Goat Island skiff

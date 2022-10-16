@@ -5,17 +5,40 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: <p>Annabelle is a Cornish Crabber Yawl.</p>
 full_description: Name changed 1996
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1989
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Rock
+hull_form: long keel deep forefoot
+sail_number: CY10
+ssr: '130098'
+callsign: ''
+ownerships:
+- id: 543
+  share: 64
+  start: 2007
+  member: 4923
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 80970363-829d-494f-8124-316baba13350
+previous_names:
+- Burong Hantu
+image_key: LNN6JQ
+thumb: https://photos.smugmug.com/photos/i-mstjpdD/0/Th/i-mstjpdD-Th.jpg
+draft: 0.9144
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -33,29 +56,7 @@ handicap_data:
   fore_triangle_base: 3.8100463301633747
   length_on_waterline: 6.3246769080712015
   fore_triangle_height: 7.620092660326749
-home_country: GBR
-home_port: Rock
-hull_form: long keel deep forefoot
-id: 80970363-829d-494f-8124-316baba13350
 length_on_deck: 7.4676
-sail_number: CY10
-ssr: '130098'
-callsign: ''
-ownerships:
-- id: 543
-  share: 64
-  start: 2007
-  member: 4923
-  current: true
-place_built: Rock
-updated_at: '2021-12-19T13:39:21.104891+00:00'
-website: ''
-year: 1989
-year_is_approximate: false
-previous_names:
-- Burong Hantu
-image_key: LNN6JQ
-construction_details: GRP
 beam: 2.5908
 design_class:
   name: Cornish Yawl

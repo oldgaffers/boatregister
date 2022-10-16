@@ -19,27 +19,24 @@ full_description: "From Gaffer's Log 74-4\r\n\"We fully intended taking part in 
   \ kept in Cornwall and the Isles of  Scilly. In 1987 her rig was recorded as being\
   \ altered from a \"high peak gaff sloop to a conventional gaff cutter, with the\
   \ mast altered to fit in a tabernacle.\""
-builder:
-  name: Everson A. and Sons
-  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+year: 1932
+year_is_approximate: false
 designer:
   name: A.R. Curjel
   id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
-draft: 0.8382
+construction_details: Carvel larch  above waterline, a pitch pine below. Steamed Oak
+  ribs,  & cast iron keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 0.8382101926359424
-  length_over_all: 6.4008778346744695
-  length_on_waterline: 5.18166300902219
 home_country: 'null'
 home_port: Scillies
 hull_form: unknown
-id: 181898c5-5646-41fe-b016-f6c593a00b59
-length_on_deck: 6.4008
 reference:
 - From Gaffer's Log 74-4
 sail_number: CC7
@@ -81,14 +78,18 @@ ownerships:
   member: 6360
   current: true
   start: '?'
-place_built: Woodbridge
-updated_at: '2021-12-19T13:38:49.880177+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1932
-year_is_approximate: false
+id: 181898c5-5646-41fe-b016-f6c593a00b59
 image_key: gwKVRf
-construction_details: Carvel larch  above waterline, a pitch pine below. Steamed Oak
-  ribs,  & cast iron keel
+thumb: https://photos.smugmug.com/photos/i-W7nZv4c/0/Th/i-W7nZv4c-Th.jpg
+draft: 0.8382
+handicap_data:
+  beam: 2.13362594489149
+  draft: 0.8382101926359424
+  length_over_all: 6.4008778346744695
+  length_on_waterline: 5.18166300902219
+length_on_deck: 6.4008
 beam: 2.1336
 design_class:
   name: Deben Cherub

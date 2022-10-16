@@ -6,40 +6,40 @@ mainsail_type: gaff
 short_description: ''
 full_description: Rebuilt from derelict by  Jeff Rutherford for Sam McNiell in Richmond
   California from June 2000 to 2002, see WB No 169 and CB July 04.
-builder:
-  name: Herreshoff Manufacturing Co.
-  id: 56dde7ef-29a3-4294-9a45-8ad7f9eb8da4
+year: 1911
+year_is_approximate: false
 designer:
   name: Nathaniel Herreshoff
   id: 8123cc79-2c83-4a39-8f6c-a249fbe4658c
+builder:
+  name: Herreshoff Manufacturing Co.
+  id: 56dde7ef-29a3-4294-9a45-8ad7f9eb8da4
+place_built: Bristol Rhode Island
 construction_material: wood
 construction_method: carvel
-draft: 2.1336
+construction_details: Double carvel cedar and douglass fir planking on steamed frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.429041697147037
-  thcf: 1.263250116
-  draft: 2.13362594489149
-  length_over_all: 17.67861497195806
-  length_on_waterline: 10.692514020970494
 home_country: 'null'
 home_port: Richmond New England
 hull_form: unknown
-id: 72c643e3-e2b1-419d-97d2-21c6998fd075
-length_on_deck: 17.6784
 sail_number: P - 57
 callsign: ''
 ownerships:
 - name: Sam McNiell
   share: 64
   start: 2000
-place_built: Bristol Rhode Island
-updated_at: '2021-12-19T13:39:45.369125+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1911
-year_is_approximate: false
-construction_details: Double carvel cedar and douglass fir planking on steamed frames
+id: 72c643e3-e2b1-419d-97d2-21c6998fd075
+draft: 2.1336
+handicap_data:
+  beam: 3.429041697147037
+  thcf: 1.263250116
+  draft: 2.13362594489149
+  length_over_all: 17.67861497195806
+  length_on_waterline: 10.692514020970494
+length_on_deck: 17.6784
 beam: 3.429
 for_sale_state:
   text: not_for_sale

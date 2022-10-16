@@ -4,27 +4,22 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: Log 68/4
-builder:
-  name: Philcox
-  id: c70dbd4c-244c-464c-9b26-3659dd6b7189
+year: 1951
+year_is_approximate: false
 designer:
   name: Philcox
   id: 74f38665-5fe8-44e1-8ef7-0a00e4b785c2
+builder:
+  name: Philcox
+  id: c70dbd4c-244c-464c-9b26-3659dd6b7189
+place_built: Hastings
 construction_material: wood
 construction_method: unknown
-draft: 1.524
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.3528407705437697
-  draft: 1.5240185320653499
-  length_over_all: 9.1441111923921
-  length_on_waterline: 7.772494513533284
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 805ea508-76be-44fb-abf6-8da63125d6aa
-length_on_deck: 9.144
 reference:
 - Log 68/4
 callsign: ''
@@ -32,11 +27,16 @@ ownerships:
 - name: A C W Frost
   share: 64
   start: 2012
-place_built: Hastings
-updated_at: '2021-12-19T13:38:46.912672+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1951
-year_is_approximate: false
+id: 805ea508-76be-44fb-abf6-8da63125d6aa
+draft: 1.524
+handicap_data:
+  beam: 3.3528407705437697
+  draft: 1.5240185320653499
+  length_over_all: 9.1441111923921
+  length_on_waterline: 7.772494513533284
+length_on_deck: 9.144
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

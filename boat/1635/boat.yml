@@ -5,38 +5,38 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1980
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes
 construction_material: grp
 construction_method: unknown
-draft: 0.4572
+construction_details: Fibreglass & Teak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.45720555961960496
-  length_over_all: 4.724457449402585
-  length_on_waterline: 4.495854669592782
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 586ec66a-46e1-4280-902c-9123c14f95a8
-length_on_deck: 4.7244
 callsign: ''
 ownerships:
 - name: Dr A J H Stephens
   share: 64
   start: 1981
-place_built: Totnes
-updated_at: '2021-12-19T13:39:16.71387+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1980
-year_is_approximate: false
-construction_details: Fibreglass & Teak
+id: 586ec66a-46e1-4280-902c-9123c14f95a8
+draft: 0.4572
+handicap_data:
+  beam: 1.8288222384784198
+  draft: 0.45720555961960496
+  length_over_all: 4.724457449402585
+  length_on_waterline: 4.495854669592782
+length_on_deck: 4.7244
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

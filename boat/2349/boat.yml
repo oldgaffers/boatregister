@@ -10,17 +10,38 @@ full_description: "<p>The only Orford Whitewing still sailing, &#39;Quinque&#39;
   \ Suffolk in the summer and laid up ashore in the winter.</p>\r\n\r\n<p>She was\
   \ built in 1911 at Everson&rsquo;s yard at Woodbridge on the River Deben to Sibbick&rsquo;s\
   \ design, the only Orford Whitewing built in Suffolk.&nbsp;</p>"
-builder:
-  name: Everson A. and Sons
-  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+year: 1911
+year_is_approximate: false
 designer:
   name: Charles Sibbick
   id: a5468014-9c00-4985-85ca-f3115f1fc4f7
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-draft: 1.1887
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Pin Mill
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: N Temple
+  share: 64
+  start: 2003
+- id: 119
+  share: 64
+  member: 2032
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d94fcbe8-a178-4885-8244-93db220a7e06
+image_key: hh8wTz
+thumb: https://photos.smugmug.com/photos/i-hRsC24f/0/Th/i-hRsC24f-Th.jpg
+draft: 1.1887
 handicap_data:
   beam: 1.777005608388198
   main:
@@ -35,27 +56,7 @@ handicap_data:
   fore_triangle_base: 2.0117044623262617
   length_on_waterline: 5.669348939283102
   fore_triangle_height: 3.9929285540112165
-home_country: 'null'
-home_port: Pin Mill
-hull_form: unknown
-id: d94fcbe8-a178-4885-8244-93db220a7e06
 length_on_deck: 7.0104
-callsign: ''
-ownerships:
-- name: N Temple
-  share: 64
-  start: 2003
-- id: 119
-  share: 64
-  member: 2032
-  current: true
-  start: '?'
-place_built: Woodbridge
-updated_at: '2021-12-19T13:39:35.657386+00:00'
-website: ''
-year: 1911
-year_is_approximate: false
-image_key: hh8wTz
 beam: 1.777
 for_sale_state:
   text: not_for_sale

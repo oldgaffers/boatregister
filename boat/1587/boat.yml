@@ -5,14 +5,29 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1913
+year_is_approximate: false
 builder:
   name: Wilson
   id: 4e23ca09-f4b3-4af9-8717-5d1ea9fbba99
+place_built: Annan
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Haverigg
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: J R Turner
+  share: 64
+  start: 1984
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: bc5c657e-4838-4cee-96b7-fb52ddb86a40
+draft: 1.2192
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 4.319068519873201
   length_on_waterline: 8.205315776639845
   fore_triangle_height: 4.623872226286271
-home_country: 'null'
-home_port: Haverigg
-hull_form: long keel deep forefoot
-id: bc5c657e-4838-4cee-96b7-fb52ddb86a40
 length_on_deck: 8.6868
-callsign: ''
-ownerships:
-- name: J R Turner
-  share: 64
-  start: 1984
-place_built: Annan
-updated_at: '2021-12-19T13:39:15.607883+00:00'
-website: ''
-year: 1913
-year_is_approximate: false
-construction_details: Carvel
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

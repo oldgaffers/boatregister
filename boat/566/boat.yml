@@ -5,38 +5,39 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Watkins and Co. Ltd.
-  id: 8c100874-4799-4967-a239-a5911245057c
+year: 1884
+year_is_approximate: false
 designer:
   name: W. Watkins
   id: 7a2b0cba-fbe3-4461-87c2-9b529ce509fe
+builder:
+  name: Watkins and Co. Ltd.
+  id: 8c100874-4799-4967-a239-a5911245057c
+place_built: Blackwall, London
 construction_material: wood
 construction_method: unknown
-draft: 1.524
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.865154840282858
-  draft: 1.5240185320653499
-  length_over_all: 12.192148256522799
-  length_on_waterline: 9.1441111923921
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 6f31a7c1-aa54-416a-b0a2-b19daaa5bdf9
-length_on_deck: 12.192
 callsign: ''
 ownerships:
 - name: N Collingwood
   share: 64
   start: 2012
-place_built: Blackwall, London
-updated_at: '2021-12-19T13:38:46.02291+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1884
-year_is_approximate: false
+id: 6f31a7c1-aa54-416a-b0a2-b19daaa5bdf9
 image_key: M3x5NV
+thumb: https://photos.smugmug.com/photos/i-pnKzrt7/0/Th/i-pnKzrt7-Th.jpg
+draft: 1.524
+handicap_data:
+  beam: 2.865154840282858
+  draft: 1.5240185320653499
+  length_over_all: 12.192148256522799
+  length_on_waterline: 9.1441111923921
+length_on_deck: 12.192
 beam: 2.8712
 for_sale_state:
   text: not_for_sale

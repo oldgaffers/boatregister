@@ -5,29 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Elshar was built as a yacht in 1966</p>
 full_description: <p>Elshar was rebuilt in 1972-3 and had a new keel in 2002.</p>
-builder:
-  name: Johnson and Jago
-  id: 5bf7d21b-4988-4f18-a0ee-42437a24e642
+year: 1966
+year_is_approximate: false
 designer:
   name: Johnson and Jago
   id: de94fe11-0ff1-4839-bd1f-b72dde32a2c2
+builder:
+  name: Johnson and Jago
+  id: 5bf7d21b-4988-4f18-a0ee-42437a24e642
+place_built: Hadleigh Creek
 construction_material: wood
 construction_method: clinker
-draft: 0.9144
+construction_details: Clinker, mahogany on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 15.83
-    head: 13.75
-    luff: 26
-  length_overall: 9.144
-  length_on_waterline: 8.8392
 home_country: GBR
 home_port: St Osyth
 hull_form: long keel deep forefoot
-id: aef4619e-817a-43fa-b317-c52052124883
-length_on_deck: 9.144
 sail_number: '1'
 ssr: '10291'
 callsign: ''
@@ -38,12 +32,18 @@ ownerships:
   name: Robin and Elaine Hales
   share: 64
   start: 2001
-place_built: Hadleigh Creek
-updated_at: '2021-12-19T13:40:05.433149+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1966
-year_is_approximate: false
-construction_details: Clinker, mahogany on oak
+id: aef4619e-817a-43fa-b317-c52052124883
+draft: 0.9144
+handicap_data:
+  main:
+    foot: 15.83
+    head: 13.75
+    luff: 26
+  length_overall: 9.144
+  length_on_waterline: 8.8392
+length_on_deck: 9.144
 beam: 3.048
 for_sale_state:
   text: not_for_sale

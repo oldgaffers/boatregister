@@ -24,28 +24,25 @@ full_description: "<p>&#39;Anjak&#39; was home built in 1967/8 and the W Atkin d
   \ improved her facilities.</p>\r\n\r\n<p>&#39;Anjak&#39; won many races during membership\
   \ of the Medway Cruising Club, and given her owners, Mick and Hazel Tyrrell much\
   \ pleasure sailing around the Medway and east coast area and beyond.</p>"
-builder:
-  name: John Brown
-  id: f67a12b8-a8db-4dd5-84f7-3bb89920eb06
+year: 1967
+year_is_approximate: false
 designer:
   name: William Atkin
   id: f455f3b6-d2be-4793-a2d4-512398485aef
+builder:
+  name: John Brown
+  id: f67a12b8-a8db-4dd5-84f7-3bb89920eb06
+place_built: Gillingham/Chatham
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel, mahogany on oak with a teak deck. She has a long keel
+  and a clipper bow.
 engine_installations: []
 for_sales:
 - asking_price: 9950
-handicap_data:
-  beam: 2.9565959522067784
-  draft: 1.21921482565228
-  length_over_all: 9.1441111923921
-  length_on_waterline: 7.315288953913679
 home_country: GBR
 home_port: Gillingham, Kent
 hull_form: long keel sloping forefoot
-id: 4d463e1e-ed62-4852-a92d-b004975d8fb4
-length_on_deck: 9.7536
 callsign: ''
 ownerships:
 - end: 1985
@@ -56,14 +53,18 @@ ownerships:
   name: Hazel Tyrrell
   share: 64
   start: 2012
-place_built: Gillingham/Chatham
-updated_at: '2021-12-19T13:38:34.144428+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1967
-year_is_approximate: false
+id: 4d463e1e-ed62-4852-a92d-b004975d8fb4
 image_key: FdvGZT
-construction_details: Carvel, mahogany on oak with a teak deck. She has a long keel
-  and a clipper bow.
+thumb: https://photos.smugmug.com/photos/i-2scfDJC/0/Th/i-2scfDJC-Th.jpg
+draft: 1.2192
+handicap_data:
+  beam: 2.9565959522067784
+  draft: 1.21921482565228
+  length_over_all: 9.1441111923921
+  length_on_waterline: 7.315288953913679
+length_on_deck: 9.7536
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

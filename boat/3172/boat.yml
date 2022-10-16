@@ -5,24 +5,20 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: <p>Burnham Scow no 230</p>
 full_description: ''
+year: 1953
+year_is_approximate: false
 builder:
   name: Stebbings (Burnham) Ltd.
   id: 4663ee52-4578-4c12-bd25-513727eee649
+place_built: Burnham on Crouch
 construction_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clinker, larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  moving_keel: true
-  length_overall: 3.4442
-  moving_keel_type: Centreboard
-  length_over_spars: 3.4442
 home_country: GBR
 home_port: Burnham on Crouch
 hull_form: unknown
-id: 2db0a9cd-98cf-493c-8002-6fca915398fe
-length_on_deck: 3.4442
 sail_number: '230'
 callsign: ''
 ownerships:
@@ -31,12 +27,16 @@ ownerships:
   start: 2009
   member: 5857
   current: true
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:40:03.077648+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1953
-year_is_approximate: false
-construction_details: Clinker, larch on oak
+id: 2db0a9cd-98cf-493c-8002-6fca915398fe
+draft: 0
+handicap_data:
+  moving_keel: true
+  length_overall: 3.4442
+  moving_keel_type: Centreboard
+  length_over_spars: 3.4442
+length_on_deck: 3.4442
 beam: 1.463
 design_class:
   name: Burnham Scow

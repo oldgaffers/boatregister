@@ -6,27 +6,23 @@ mainsail_type: bermudan
 short_description: <p>Jay is fourth owner of &#39;Sequoiah, and he sailed from Dartmouth
   to her new home port, Newburgh, Scotland in July 2011.</p>
 full_description: ''
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1973
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
 construction_method: carvel
-draft: 1.7282
+construction_details: Carvel Iroko on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.2004389173372347
-  draft: 1.737381126554499
-  length_over_all: 11.582540843696659
-  length_on_waterline: 10.66812972445745
 home_country: GBR
 home_port: Newburgh
 hull_form: long keel sloping forefoot
-id: f2150975-40e8-4771-bd2d-52c299d43053
-length_on_deck: 11.5824
 ssr: '45953'
 uk_part1: '361165'
 callsign: ''
@@ -36,12 +32,16 @@ ownerships:
   start: 2011
   member: 1129
   current: true
-place_built: Littlehampton
-updated_at: '2021-12-19T13:40:02.231618+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1973
-year_is_approximate: false
-construction_details: Carvel Iroko on Oak
+id: f2150975-40e8-4771-bd2d-52c299d43053
+draft: 1.7282
+handicap_data:
+  beam: 3.2004389173372347
+  draft: 1.737381126554499
+  length_over_all: 11.582540843696659
+  length_on_waterline: 10.66812972445745
+length_on_deck: 11.5824
 beam: 3.2004
 design_class:
   name: Hillyard 12 Ton

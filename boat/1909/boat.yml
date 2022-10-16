@@ -26,17 +26,41 @@ full_description: "<p>&#39;Island Swift&#39; is a 35&#39; Gaff Cutter (Wylo II),
   \ so far.</p>\r\n\r\n<p>When not saiing, they run <a href=\"http://Www.bashstreet.co.uk\"\
   >Bash Street Theatre.</a></p>\r\n\r\n<p>Skipper: JoJo Pickering&nbsp;<br />\r\n\
   Crew: Simon Pullum, Finbar Pullum (17 yrs) and Lochlann Pickering (15 yrs)</p>"
-builder:
-  name: N.H. Skeates/J. Richardson
-  id: f6389be2-ee74-4f63-afe7-6f66917b6d94
+year: 1996
+year_is_approximate: false
 designer:
   name: Nick Skeates
   id: 75b8e267-30d0-4825-90e1-b253d02723a5
+builder:
+  name: N.H. Skeates/J. Richardson
+  id: f6389be2-ee74-4f63-afe7-6f66917b6d94
+place_built: Ryde
 construction_material: steel
 construction_method: unknown
-draft: 1.3106
+construction_details: Steel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Penzance
+hull_form: long keel sloping forefoot
+uk_part1: '72881'
+callsign: MWVN5
+ownerships:
+- end: 2013
+  name: John Richardson
+  share: 64
+  start: 1996
+- id: 815
+  share: 64
+  start: 2013
+  member: 5877
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://islandswift.blogspot.pt/
+id: 87b7bae3-57c7-4e9f-851c-82e4ac22bba6
+image_key: cLrwd4
+thumb: https://photos.smugmug.com/photos/i-GJqqfMK/0/Th/i-GJqqfMK-Th.jpg
+draft: 1.3106
 handicap_data:
   beam: 3.0998536942209216
   main:
@@ -55,30 +79,7 @@ handicap_data:
   fore_triangle_base: 6.4008778346744695
   length_on_waterline: 9.250792489636673
   fore_triangle_height: 10.44867105584004
-home_country: GBR
-home_port: Penzance
-hull_form: long keel sloping forefoot
-id: 87b7bae3-57c7-4e9f-851c-82e4ac22bba6
 length_on_deck: 10.6985
-uk_part1: '72881'
-callsign: MWVN5
-ownerships:
-- end: 2013
-  name: John Richardson
-  share: 64
-  start: 1996
-- id: 815
-  share: 64
-  start: 2013
-  member: 5877
-  current: true
-place_built: Ryde
-updated_at: '2021-12-19T13:39:23.826148+00:00'
-website: http://islandswift.blogspot.pt/
-year: 1996
-year_is_approximate: false
-image_key: cLrwd4
-construction_details: Steel
 beam: 3.109
 design_class:
   name: Wylo II

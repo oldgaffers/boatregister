@@ -20,18 +20,41 @@ full_description: "<p>Phil and Rose-Marie Newman purchased &lsquo;Peggy&rsquo; i
   \ Fortunately her plight came to the attention of Eric&nbsp;Crossfield, the builder&#39;s\
   \ grandson. He bought her and she was towed round to the Woodbridge Boat Yard where\
   \ she awaits restoration.</p>"
-builder:
-  name: Wiliam Crossfield and Sons
-  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+year: 1910
+year_is_approximate: false
 designer:
   name: William Crossfield
   id: da4baa22-674e-4ea8-b2c5-14aee7286837
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+place_built: Arnside
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.4722
 engine_installations: []
 for_sales:
 - asking_price: 11000
+home_country: GBR
+home_port: Woodbridge
+hull_form: unknown
+callsign: ''
+ownerships:
+- end: 2018
+  name: Philip Newman
+  share: 64
+  start: 1999
+- id: 808
+  share: 64
+  start: 2019
+  member: 5868
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8353e9c9-7ec8-4645-9b83-b4a4edcdf435
+image_key: 5fwC3H
+thumb: https://photos.smugmug.com/photos/i-TnJfvMr/0/Th/i-TnJfvMr-Th.jpg
+draft: 1.4722
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -46,29 +69,7 @@ handicap_data:
   fore_triangle_base: 6.739209948792976
   length_on_waterline: 9.692757863935626
   fore_triangle_height: 10.028041940990002
-home_country: GBR
-home_port: Woodbridge
-hull_form: unknown
-id: 8353e9c9-7ec8-4645-9b83-b4a4edcdf435
 length_on_deck: 10.9728
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2018
-  name: Philip Newman
-  share: 64
-  start: 1999
-- id: 808
-  share: 64
-  start: 2019
-  member: 5868
-  current: true
-place_built: Arnside
-updated_at: '2022-01-04T20:09:34.233014+00:00'
-website: ''
-year: 1910
-year_is_approximate: false
-image_key: 5fwC3H
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

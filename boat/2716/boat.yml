@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Converted from rescue boat in 1972
-builder:
-  name: Katwyth Taat
-  id: 65f7809a-ac65-4fe9-aa27-b98ffa9aaa84
+year: 1946
+year_is_approximate: false
 designer:
   name: Smid
   id: b6d34259-e7fd-4116-85b8-ed0554dae4db
+builder:
+  name: Katwyth Taat
+  id: 65f7809a-ac65-4fe9-aa27-b98ffa9aaa84
+place_built: Edam
 construction_material: wood
 construction_method: unknown
-draft: 1.3503
+construction_details: Teak Oregon pine
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Enkhuitzen
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Cees van Spierenberg
+  share: 64
+  start: 1992
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f84354d7-15c4-4cc0-bac8-34bd0f193047
+previous_names:
+- Sparta
+draft: 1.3503
 handicap_data:
   beam: 2.9687881004633017
   draft: 1.3502804194098998
@@ -23,24 +40,7 @@ handicap_data:
     type: fixed
   length_over_all: 10.972933430870519
   length_on_waterline: 6.5532796878810045
-home_country: 'null'
-home_port: Enkhuitzen
-hull_form: long keel deep forefoot
-id: f84354d7-15c4-4cc0-bac8-34bd0f193047
 length_on_deck: 10.9728
-callsign: ''
-ownerships:
-- name: Cees van Spierenberg
-  share: 64
-  start: 1992
-place_built: Edam
-updated_at: '2021-12-19T13:39:47.280626+00:00'
-website: ''
-year: 1946
-year_is_approximate: false
-previous_names:
-- Sparta
-construction_details: Teak Oregon pine
 beam: 2.9688
 for_sale_state:
   text: not_for_sale

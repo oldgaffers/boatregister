@@ -5,20 +5,15 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 83/1
+year_is_approximate: false
 construction_material: wood
 construction_method: clinker
-draft: 0.762
+construction_details: Clinker pitch pine on oak frames with drop plate keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 0.7620092660326749
-  length_over_all: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 7557c0f6-ad44-4260-84e7-212db1361a25
-length_on_deck: 7.3152
 reference:
 - Log 83/1
 callsign: ''
@@ -26,10 +21,15 @@ ownerships:
 - name: R V Silvester
   share: 64
   start: 2012
-updated_at: '2021-12-19T13:39:01.975424+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year_is_approximate: false
-construction_details: Clinker pitch pine on oak frames with drop plate keel
+id: 7557c0f6-ad44-4260-84e7-212db1361a25
+draft: 0.762
+handicap_data:
+  beam: 2.13362594489149
+  draft: 0.7620092660326749
+  length_over_all: 7.315288953913679
+length_on_deck: 7.3152
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

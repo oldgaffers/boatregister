@@ -5,27 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 84/3, 85/1
-builder:
-  name: Kitto and Sons
-  id: 17765d18-db09-4fea-866f-44e41a2c8948
+year: 1905
+year_is_approximate: false
 designer:
   name: Richard Kitto
   id: 221d2458-a9c4-4071-ae62-433c977da616
+builder:
+  name: Kitto and Sons
+  id: 17765d18-db09-4fea-866f-44e41a2c8948
+place_built: Porthleven
 construction_material: wood
 construction_method: unknown
-draft: 1.4326
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.432577420141429
-  length_over_all: 7.833455254815898
-  length_on_waterline: 7.620092660326749
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 0111762e-7810-47a5-acc5-8b7477926cc6
-length_on_deck: 7.8334
 reference:
 - Log 84/3
 - Log 85/1
@@ -34,13 +29,18 @@ ownerships:
 - name: M A Trueman
   share: 64
   start: 2012
-place_built: Porthleven
-updated_at: '2021-12-19T13:38:47.672152+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1905
-year_is_approximate: false
+id: 0111762e-7810-47a5-acc5-8b7477926cc6
 previous_names:
 - Friendship
+draft: 1.4326
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.432577420141429
+  length_over_all: 7.833455254815898
+  length_on_waterline: 7.620092660326749
+length_on_deck: 7.8334
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

@@ -18,17 +18,42 @@ full_description: "<p>Bonita is 35&#39; long, weighs 9 tons and was built in 188
   \ Bonita was the oldest boat to take part in the OGA Round Britain Challenge, celebrating\
   \ the OGA&#39;s 50th and her own 125th birthday. The blog of this passage makes\
   \ fascinating reading.</p>"
-builder:
-  name: Crossfields
-  id: d05aaa8e-4983-451f-a0e8-1727b279e84a
+year: 1888
+year_is_approximate: false
 designer:
   name: William Crossfield
   id: da4baa22-674e-4ea8-b2c5-14aee7286837
+builder:
+  name: Crossfields
+  id: d05aaa8e-4983-451f-a0e8-1727b279e84a
+place_built: Arnside
 construction_material: wood
 construction_method: unknown
-draft: 1.1674
+construction_details: Pitch pine planking on oak sawn frames
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Harty Ferry River Swale
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- end: 1983
+  name: Allan Beckett
+  share: 64
+  start: 1933
+- id: 97
+  share: 64
+  start: 1983
+  member: 1814
+updated_at: '2022-06-05T21:07:11.889761+00:00'
+website: http://bonitayawl.blogspot.co.uk/2013
+id: c465350e-1b66-4cfe-af9d-fc7262521ebf
+previous_names:
+- White Rose
+- Iris
+image_key: djpGdv
+thumb: https://photos.smugmug.com/photos/i-XVwJ8NC/0/Th/i-XVwJ8NC-Th.jpg
+draft: 1.1674
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -47,31 +72,7 @@ handicap_data:
   fore_triangle_base: 5.974152645696172
   length_on_waterline: 8.891124116069252
   fore_triangle_height: 7.985857108022433
-home_country: GBR
-home_port: Harty Ferry River Swale
-hull_form: long keel sloping forefoot
-id: c465350e-1b66-4cfe-af9d-fc7262521ebf
 length_on_deck: 10.8204
-callsign: ''
-ownerships:
-- end: 1983
-  name: Allan Beckett
-  share: 64
-  start: 1933
-- id: 97
-  share: 64
-  start: 1983
-  member: 1814
-place_built: Arnside
-updated_at: '2022-06-05T21:07:11.889761+00:00'
-website: http://bonitayawl.blogspot.co.uk/2013
-year: 1888
-year_is_approximate: false
-previous_names:
-- White Rose
-- Iris
-image_key: djpGdv
-construction_details: Pitch pine planking on oak sawn frames
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

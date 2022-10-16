@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1952
+year_is_approximate: false
 designer:
   name: Latimer
   id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey island
 construction_material: wood
 construction_method: clinker
-draft: 0.6096
+construction_details: Mahogany clinker planking on oak sawn & bent frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: P B Newman
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e0cafc00-567e-459d-9ae7-0aa6d8a4260b
+draft: 0.6096
 handicap_data:
   beam: 2.3774689100219457
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 2.8194342843208973
   length_on_waterline: 5.7912704218483295
   fore_triangle_height: 5.257863935625457
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: e0cafc00-567e-459d-9ae7-0aa6d8a4260b
 length_on_deck: 6.2179
-callsign: ''
-ownerships:
-- name: P B Newman
-  share: 64
-  start: 2012
-place_built: Canvey island
-updated_at: '2021-12-19T13:39:22.814625+00:00'
-website: ''
-year: 1952
-year_is_approximate: false
-construction_details: Mahogany clinker planking on oak sawn & bent frames
 beam: 2.3774
 for_sale_state:
   text: not_for_sale

@@ -19,18 +19,43 @@ full_description: "<p>&#39;Avola&#39; is a gaff rigged cutter with a good sailin
   \ 2015, &#39;Avola&#39; celebrated her 50th birthday in style on both sides of the\
   \ North Sea with the East Coast OGA and on a cruise in the Netherlands. OGA members\
   \ may read about the cruise in the December 2015 and Spring 2016 Gaffers Log.</p>"
-builder:
-  name: St. Osyth Boatyard
-  id: 72130576-1f51-4cf1-af98-c718d4eea5bb
+year: 1965
+year_is_approximate: false
 designer:
   name: Francis J. Jones
   id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
+builder:
+  name: St. Osyth Boatyard
+  id: 72130576-1f51-4cf1-af98-c718d4eea5bb
+place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
-draft: 1.6002
+construction_details: Carvel - Larch on Elm, Oak and Iron Keel
 engine_installations: []
 for_sales:
 - asking_price: 35000
+home_country: GBR
+home_port: Ipswich Haven Marina
+hull_form: long keel deep forefoot
+sail_number: '1242'
+uk_part1: '306858'
+callsign: ''
+ownerships:
+- end: 2017
+  name: Brian Hammett
+  share: 64
+  start: 1980
+- id: 526
+  share: 64
+  member: 4832
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fe61cc86-a835-45de-8f80-1edd0cbc9916
+image_key: QbzvFK
+thumb: https://photos.smugmug.com/photos/i-VHFjhsZ/0/Th/i-VHFjhsZ-Th.png
+draft: 1.6002
 handicap_data:
   beam: 2.9413557668861254
   main:
@@ -48,31 +73,7 @@ handicap_data:
   fore_triangle_base: 4.800658376005852
   length_on_waterline: 7.924896366739819
   fore_triangle_height: 8.382101926359423
-home_country: GBR
-home_port: Ipswich Haven Marina
-hull_form: long keel deep forefoot
-id: fe61cc86-a835-45de-8f80-1edd0cbc9916
 length_on_deck: 9.906
-sail_number: '1242'
-uk_part1: '306858'
-callsign: ''
-ownerships:
-- end: 2017
-  name: Brian Hammett
-  share: 64
-  start: 1980
-- id: 526
-  share: 64
-  member: 4832
-  current: true
-  start: '?'
-place_built: Brightlingsea
-updated_at: '2021-12-19T13:39:05.777389+00:00'
-website: ''
-year: 1965
-year_is_approximate: false
-image_key: QbzvFK
-construction_details: Carvel - Larch on Elm, Oak and Iron Keel
 beam: 2.9474
 for_sale_state:
   text: not_for_sale

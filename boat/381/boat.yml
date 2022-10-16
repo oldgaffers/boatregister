@@ -13,39 +13,22 @@ full_description: "<p>Built in Cardif, 1875, Madcap worked as a Bristol Channel 
   \ extensively since 1998, including the west coast of Greenland, via Iceland, from\
   \ Ireland south to Cornwall, Brittany, the Mediterreran, Almerimar, Morocco, Palma\
   \ and Alicante, down to the Azores and Lorient and north to the west coast of Scotland.</p>"
+year: 1875
+year_is_approximate: false
 builder:
   name: Davies and Plain
   id: 3a6fafaf-0d11-4a1e-80b4-c8f394436110
+place_built: Cardiff
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.733845403560107
-  main:
-    foot: 7.2390880273104115
-    head: 6.4770787612777365
-    luff: 7.010485247500609
-  thcf: 1.113
-  draft: 1.8288222384784198
-  topsail:
-    luff: 7.924896366739819
-    perpendicular: 4.648256522799317
-  sailarea: 118.29414771258735
-  propellor:
-    type: fixed
-  length_over_all: 13.158376005852231
-  fore_triangle_base: 6.528895391367959
-  length_on_waterline: 11.710558400390148
-  fore_triangle_height: 15.087783467446963
 home_country: FRA
 home_port: La Rochelle France
 hull_form: long keel deep forefoot
-id: 17064a1a-8ec4-4c46-a892-d4a99fe4f8d6
-length_on_deck: 13.1582
 sail_number: '381'
-spar_material: wood
 uk_part1: '79381'
 callsign: ''
 ownerships:
@@ -66,13 +49,31 @@ ownerships:
   text: Sold to a the Maritime Musuem, la Rochelle, France,
   start: 2014
   start_is_approximate: false
-place_built: Cardiff
-updated_at: '2021-12-19T13:38:40.775031+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1875
-year_is_approximate: false
+id: 17064a1a-8ec4-4c46-a892-d4a99fe4f8d6
 image_key: J56Sv5
-construction_details: Pitch pine on oak
+thumb: https://photos.smugmug.com/photos/i-DbmPThw/0/Th/i-DbmPThw-Th.jpg
+draft: 1.8288
+handicap_data:
+  beam: 3.733845403560107
+  main:
+    foot: 7.2390880273104115
+    head: 6.4770787612777365
+    luff: 7.010485247500609
+  thcf: 1.113
+  draft: 1.8288222384784198
+  topsail:
+    luff: 7.924896366739819
+    perpendicular: 4.648256522799317
+  sailarea: 118.29414771258735
+  propellor:
+    type: fixed
+  length_over_all: 13.158376005852231
+  fore_triangle_base: 6.528895391367959
+  length_on_waterline: 11.710558400390148
+  fore_triangle_height: 15.087783467446963
+length_on_deck: 13.1582
 beam: 3.7582
 for_sale_state:
   text: not_for_sale

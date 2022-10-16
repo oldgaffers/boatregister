@@ -10,17 +10,43 @@ full_description: <p>The design is said to have been taken from a Falmouth workb
   in Penryn. Built and fitted out locally and launched 1989,&nbsp;she has wooden mast
   and spars.&nbsp; She was re-engined with a Yanmar 30hp&nbsp;around 2000. She has
   very&nbsp;traditional&nbsp;wineglass lines and&nbsp;a sea-friendly ride.&nbsp;&nbsp;</p>
-builder:
-  name: Cygnus Marine/N Cornwall Marine
-  id: dc7942f9-4548-42e4-8546-e557f57d165d
+year: 1989
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: Cygnus Marine/N Cornwall Marine
+  id: dc7942f9-4548-42e4-8546-e557f57d165d
+place_built: Falmouth
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.4234
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Dover
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2018
+  name: Clive Thompson
+  share: 64
+  start: 2012
+- name: Dominic Lucas
+  share: 64
+  start: 2019
+- id: 1039
+  share: 64
+  member: 6292
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 63d92674-43be-4a9a-b66f-554c782445c1
+image_key: GMxqmB
+thumb: https://photos.smugmug.com/photos/i-bLjPm3b/0/Th/i-bLjPm3b-Th.jpg
+draft: 1.4234
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -38,32 +64,7 @@ handicap_data:
   fore_triangle_base: 4.87685930260912
   length_on_waterline: 8.330285296269201
   fore_triangle_height: 8.967325042672519
-home_country: GBR
-home_port: Dover
-hull_form: long keel deep forefoot
-id: 63d92674-43be-4a9a-b66f-554c782445c1
 length_on_deck: 8.8392
-callsign: ''
-ownerships:
-- end: 2018
-  name: Clive Thompson
-  share: 64
-  start: 2012
-- name: Dominic Lucas
-  share: 64
-  start: 2019
-- id: 1039
-  share: 64
-  member: 6292
-  current: true
-  start: '?'
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:44.587608+00:00'
-website: ''
-year: 1989
-year_is_approximate: false
-image_key: GMxqmB
-construction_details: GRP
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

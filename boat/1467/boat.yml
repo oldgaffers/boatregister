@@ -9,38 +9,24 @@ full_description: Tony Robinson based his design of the Memory class on the plan
   he saved being burned at the James Yard, Brightlingsea. Roots of the design go back
   to the fishery patrol boats, built by Aldous to protect the Colne oysterbeds. The
   ballast is a mix of sand bags and iron. Jenny Wren VII has a trailer.
-builder:
-  name: Eric Bergqvist
-  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+year: 1977
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+place_built: Lymm
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: Cabin added in 1999
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  main:
-    foot: 4.57205559619605
-    head: 3.2004389173372347
-    luff: 3.8100463301633747
-  thcf: 0.862300947
-  draft: 0.5334064862228725
-  topsail:
-    luff: 3.6576444769568397
-    perpendicular: 1.8288222384784198
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 1.6764203852718849
-  length_on_waterline: 5.690685198732017
-  fore_triangle_height: 5.18166300902219
 home_country: GBR
 home_port: Chichester
 hull_form: centre-boarder
-id: e41b506b-2ece-43bb-89ce-7793f68c9eb0
-length_on_deck: 5.7912
-spar_material: wood
 ssr: 011095
 callsign: ''
 ownerships:
@@ -57,16 +43,30 @@ ownerships:
   member: 6026
   current: true
   start: '?'
-place_built: Lymm
 updated_at: '2022-07-01T06:35:00.31811+00:00'
 website: ''
-year: 1977
-year_is_approximate: false
+id: e41b506b-2ece-43bb-89ce-7793f68c9eb0
 previous_names:
 - Merganser
 - Penelope
 - Half Penny
-construction_details: Cabin added in 1999
+draft: 0.5334
+handicap_data:
+  beam: 2.13362594489149
+  main:
+    foot: 4.57205559619605
+    head: 3.2004389173372347
+    luff: 3.8100463301633747
+  thcf: 0.862300947
+  draft: 0.5334064862228725
+  topsail:
+    luff: 3.6576444769568397
+    perpendicular: 1.8288222384784198
+  length_over_all: 5.7912704218483295
+  fore_triangle_base: 1.6764203852718849
+  length_on_waterline: 5.690685198732017
+  fore_triangle_height: 5.18166300902219
+length_on_deck: 5.7912
 beam: 2.1336
 design_class:
   name: Memory 19

@@ -6,17 +6,37 @@ mainsail_type: gaff
 short_description: ''
 full_description: 11 ton Ocean cruiser designed for Squadron Leader Alan Whitby. Mar2010  Log
   p 43
-builder:
-  name: A Whitby
-  id: 11629076-8362-4d8b-9f23-496063f2af2d
+year: 1959
+year_is_approximate: false
 designer:
   name: Alan Buchanan
   id: c501c48d-9b2b-4b4b-a120-ddbf63ae35b5
+builder:
+  name: A Whitby
+  id: 11629076-8362-4d8b-9f23-496063f2af2d
+place_built: Hayling Island
 construction_material: steel
 construction_method: unknown
-draft: 1.6794
+construction_details: Steel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Malta
+hull_form: long keel sloping forefoot
+reference:
+- Log Mar 2010 p 43
+uk_part1: '306795'
+callsign: ''
+ownerships:
+- name: Alexander Hall
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 785d6b9d-058d-4b91-b7dd-4f982ef20240
+previous_names:
+- Alando
+draft: 1.6794
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -34,27 +54,7 @@ handicap_data:
   fore_triangle_base: 3.5692514020970494
   length_on_waterline: 8.22970007315289
   fore_triangle_height: 12.000121921482563
-home_country: 'null'
-home_port: Malta
-hull_form: long keel sloping forefoot
-id: 785d6b9d-058d-4b91-b7dd-4f982ef20240
 length_on_deck: 10.0584
-reference:
-- Log Mar 2010 p 43
-uk_part1: '306795'
-callsign: ''
-ownerships:
-- name: Alexander Hall
-  share: 64
-  start: 2012
-place_built: Hayling Island
-updated_at: '2021-12-19T13:39:46.499394+00:00'
-website: ''
-year: 1959
-year_is_approximate: false
-previous_names:
-- Alando
-construction_details: Steel
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

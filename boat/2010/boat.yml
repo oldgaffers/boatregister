@@ -6,17 +6,34 @@ mainsail_type: gaff
 short_description: ''
 full_description: Owned since 20/12/1996, Log Mar/97 Rig altered July 2002 back to
   cutter from sloop, new bowsprite shipped, all else original.  Colour photo's provided.
-builder:
-  name: D.G.W. Mace
-  id: 5af8b2bd-c77e-49fa-ab94-3629a59e7ad4
+year: 1957
+year_is_approximate: false
 designer:
   name: D.G.W. Mace
   id: 3817d361-3c76-4f16-afbc-ffd9e3e4d479
+builder:
+  name: D.G.W. Mace
+  id: 5af8b2bd-c77e-49fa-ab94-3629a59e7ad4
+place_built: Dundas Ontario Canada
 construction_material: wood
 construction_method: carvel
-draft: 0.9906
+construction_details: Carvel single chine long keel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: London
+hull_form: long keel deep forefoot
+reference:
+- Log Mar/97
+callsign: ''
+ownerships:
+- name: W J R Davenport
+  share: 64
+  start: 1996
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1fbf37cd-715c-47c8-9c72-2c4298ce9770
+draft: 0.9906
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -31,24 +48,7 @@ handicap_data:
   fore_triangle_base: 3.6576444769568397
   length_on_waterline: 6.5532796878810045
   fore_triangle_height: 5.18166300902219
-home_country: 'null'
-home_port: London
-hull_form: long keel deep forefoot
-id: 1fbf37cd-715c-47c8-9c72-2c4298ce9770
 length_on_deck: 8.382
-reference:
-- Log Mar/97
-callsign: ''
-ownerships:
-- name: W J R Davenport
-  share: 64
-  start: 1996
-place_built: Dundas Ontario Canada
-updated_at: '2021-12-19T13:39:26.830112+00:00'
-website: ''
-year: 1957
-year_is_approximate: false
-construction_details: Carvel single chine long keel
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

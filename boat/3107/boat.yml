@@ -5,17 +5,35 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log Nov/97.  Now in Vancouve Island?
-builder:
-  name: Worfolk
-  id: ee8729e9-416e-4600-a107-3ce842cc4750
+year: 1975
+year_is_approximate: false
 designer:
   name: Bros. Worfolk
   id: d323524d-7eac-4d6a-ae6c-5c3b5e9bea1c
+builder:
+  name: Worfolk
+  id: ee8729e9-416e-4600-a107-3ce842cc4750
+place_built: King's Lynn
 construction_material: wood
 construction_method: clinker
-draft: 1.3716
+construction_details: Wood Clinker
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log Nov/97
+uk_part1: '18519'
+callsign: ''
+ownerships:
+- name: T J Huntsman
+  share: 64
+  start: 1975
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 55a90b3e-8f06-412e-81ea-5ab05da83914
+draft: 1.3716
 handicap_data:
   beam: 3.5052426237503047
   main:
@@ -37,25 +55,7 @@ handicap_data:
   fore_triangle_base: 4.26725188978298
   length_on_waterline: 9.601316752011703
   fore_triangle_height: 8.83930748597903
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 55a90b3e-8f06-412e-81ea-5ab05da83914
 length_on_deck: 9.906
-reference:
-- Log Nov/97
-uk_part1: '18519'
-callsign: ''
-ownerships:
-- name: T J Huntsman
-  share: 64
-  start: 1975
-place_built: King's Lynn
-updated_at: '2021-12-19T13:39:58.040507+00:00'
-website: ''
-year: 1975
-year_is_approximate: false
-construction_details: Wood Clinker
 beam: 3.5052
 for_sale_state:
   text: not_for_sale

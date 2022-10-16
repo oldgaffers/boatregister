@@ -5,38 +5,38 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: CB Feb 92
-builder:
-  name: W.E. Thomas
-  id: a9e83f1e-565e-4568-b052-7a492147a30d
+year: 1914
+year_is_approximate: false
 designer:
   name: R.S. Burt
   id: 3a2bf172-f648-44a1-af0f-0598af8b960b
+builder:
+  name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 1.7282
+construction_details: Larch on grown oak, iron keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.539014874420873
-  draft: 1.7282370153621067
-  length_over_all: 8.686905632772493
-  length_on_waterline: 8.53450377956596
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 04e30a2b-40ee-4d4f-9cd0-134fc60fe461
-length_on_deck: 8.6868
 callsign: ''
 ownerships:
 - name: C Ford
   share: 64
   start: 1989
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:45.027115+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1914
-year_is_approximate: false
-construction_details: Larch on grown oak, iron keel
+id: 04e30a2b-40ee-4d4f-9cd0-134fc60fe461
+draft: 1.7282
+handicap_data:
+  beam: 2.539014874420873
+  draft: 1.7282370153621067
+  length_over_all: 8.686905632772493
+  length_on_waterline: 8.53450377956596
+length_on_deck: 8.6868
 beam: 2.539
 for_sale_state:
   text: not_for_sale

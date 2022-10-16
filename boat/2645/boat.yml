@@ -5,17 +5,36 @@ rig_type: single_sail
 mainsail_type: gaff
 short_description: ''
 full_description: Sail area 70 sq.ft. Design no 50.
-builder:
-  name: Paul Bown
-  id: bfe332fd-e0bc-454c-9380-681ed56b9a0b
+year: 1986
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: Paul Bown
+  id: bfe332fd-e0bc-454c-9380-681ed56b9a0b
+place_built: Ashmanhaugh
 construction_material: wood
 construction_method: clinker_ply
-draft: 0.1524
+construction_details: glued ply clinker
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Wroxham
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 449
+  share: 64
+  start: 2009
+  member: 4425
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: bba6bada-c3d3-44f4-8731-f2b87a392da3
+image_key: 7FsbM5
+thumb: https://photos.smugmug.com/photos/i-9hWwctj/0/Th/i-9hWwctj-Th.jpg
+draft: 0.1524
 handicap_data:
   beam: 1.3960009753718605
   main:
@@ -27,25 +46,7 @@ handicap_data:
   draft_keeldown: 0.7863935625457206
   length_over_all: 3.3528407705437697
   length_on_waterline: 3.148622287247013
-home_country: GBR
-home_port: Wroxham
-hull_form: unknown
-id: bba6bada-c3d3-44f4-8731-f2b87a392da3
 length_on_deck: 3.3528
-callsign: ''
-ownerships:
-- id: 449
-  share: 64
-  start: 2009
-  member: 4425
-  current: true
-place_built: Ashmanhaugh
-updated_at: '2021-12-19T13:39:45.183125+00:00'
-website: ''
-year: 1986
-year_is_approximate: false
-image_key: 7FsbM5
-construction_details: glued ply clinker
 beam: 1.396
 design_class:
   name: Coot

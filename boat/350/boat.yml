@@ -5,22 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 74/1
-builder:
-  name: S. Peters
-  id: 9074909d-118b-4284-bf75-f32ca879ebd7
+year: 1952
+year_is_approximate: false
 designer:
   name: S. Peters
   id: a787c1c3-2595-4fa6-97d0-cdc030315ce6
+builder:
+  name: S. Peters
+  id: 9074909d-118b-4284-bf75-f32ca879ebd7
+place_built: Southend on Sea
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: 'Wytch elm on Japanese oak, '
 engine_installations: []
 for_sales: []
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 2d2fd8c9-f713-452a-bd45-d230ba7f2669
-length_on_deck: 0
 reference:
 - Log 74/1
 callsign: ''
@@ -28,12 +29,11 @@ ownerships:
 - name: N Titshall
   share: 64
   start: 2012
-place_built: Southend on Sea
-updated_at: '2021-12-19T13:38:39.917162+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1952
-year_is_approximate: false
-construction_details: 'Wytch elm on Japanese oak, '
+id: 2d2fd8c9-f713-452a-bd45-d230ba7f2669
+draft: 0
+length_on_deck: 0
 beam: 0
 for_sale_state:
   text: not_for_sale

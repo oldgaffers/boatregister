@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Mark 1 Cornish Crabber built in 1979</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1979
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Wadebridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7376
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bosham
+hull_form: long keel deep forefoot
+sail_number: '236'
+callsign: ''
+ownerships:
+- id: 366
+  share: 64
+  start: 2012
+  member: 4010
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d2b77d63-15f4-49b1-8f40-8e996ce3c6f1
+draft: 0.7376
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -35,25 +53,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
   fore_triangle_height: 5.6388685686417945
-home_country: GBR
-home_port: Bosham
-hull_form: long keel deep forefoot
-id: d2b77d63-15f4-49b1-8f40-8e996ce3c6f1
 length_on_deck: 7.3152
-sail_number: '236'
-callsign: ''
-ownerships:
-- id: 366
-  share: 64
-  start: 2012
-  member: 4010
-  current: true
-place_built: Wadebridge
-updated_at: '2021-12-19T13:39:40.324906+00:00'
-website: ''
-year: 1979
-year_is_approximate: false
-construction_details: GRP
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 1

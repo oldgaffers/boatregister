@@ -5,38 +5,24 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Claude Whisstock
-  id: 14a939d0-e062-4e1d-9e21-c1ec89fef573
+year: 1936
+year_is_approximate: false
 designer:
   name: William Maxwell Blake
   id: 7be4728c-aec1-4b98-9245-33fa05964add
+builder:
+  name: Claude Whisstock
+  id: 14a939d0-e062-4e1d-9e21-c1ec89fef573
+place_built: Woodbridge
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 0
+construction_details: Carvel wood
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.2098268714947573
-  main:
-    foot: 4.114850036576445
-    head: 3.6576444769568397
-    luff: 3.9624481833699097
-  thcf: 0.87
-  sailarea: 29.19463876925176
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 6.528895391367959
-  fore_triangle_base: 3.8344306266764203
-  length_on_waterline: 5.7912704218483295
-  fore_triangle_height: 6.501463057790782
 home_country: 'null'
 home_port: Yarmouth I o W
 hull_form: long keel deep forefoot
-id: 14171513-0f0c-4c36-8e21-d84d9c6ea765
-length_on_deck: 6.5288
-spar_material: wood
 callsign: ''
 ownerships:
 - id: 541
@@ -54,13 +40,28 @@ ownerships:
   start: 2021
   member: 6432
   current: true
-place_built: Woodbridge
-updated_at: '2022-02-16T16:59:06.702715+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1936
-year_is_approximate: false
+id: 14171513-0f0c-4c36-8e21-d84d9c6ea765
 image_key: BgxVZg
-construction_details: Carvel wood
+thumb: https://photos.smugmug.com/photos/i-rLf7h9R/0/Th/i-rLf7h9R-Th.jpg
+draft: 0
+handicap_data:
+  beam: 2.2098268714947573
+  main:
+    foot: 4.114850036576445
+    head: 3.6576444769568397
+    luff: 3.9624481833699097
+  thcf: 0.87
+  sailarea: 29.19463876925176
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 6.528895391367959
+  fore_triangle_base: 3.8344306266764203
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 6.501463057790782
+length_on_deck: 6.5288
 beam: 2.2098
 design_class:
   name: Deben 4 Ton

@@ -7,27 +7,22 @@ short_description: ''
 full_description: "<p>Built for Andrew Bain, one of three built by Fife, others designed\
   \ by G L Watson.</p>\r\n\r\n<p>&#39;Hatasoo&#39; proved the fastest of the class,\
   \ winning 100 prizes before retiring from racing in 1897.</p>"
-builder:
-  name: William Fife Son
-  id: 39e7da25-6ae3-4210-8bd7-840e21b1b839
+year: 1894
+year_is_approximate: false
 designer:
   name: William Fife II
   id: decdd96e-9768-4ae4-8ba4-7816d4569c15
+builder:
+  name: William Fife Son
+  id: 39e7da25-6ae3-4210-8bd7-840e21b1b839
+place_built: Fairlie
 construction_material: wood
 construction_method: unknown
-draft: 1.2802
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.2250670568154107
-  draft: 1.280175566934894
-  length_over_all: 5.7912704218483295
-  length_on_waterline: 5.18166300902219
 home_country: GBR
 home_port: Clyde
 hull_form: cut_away_stem
-id: c34eda8c-b316-44c2-97fa-b14e2d8d2507
-length_on_deck: 5.7912
 callsign: ''
 ownerships:
 - note: Sold in 1926 to J Henry Downes, then to Mrs William Bergius in 1932 until
@@ -38,11 +33,16 @@ ownerships:
 - name: R A McGrouther
   share: 64
   start: 1973
-place_built: Fairlie
-updated_at: '2021-12-19T13:38:29.824158+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1894
-year_is_approximate: false
+id: c34eda8c-b316-44c2-97fa-b14e2d8d2507
+draft: 1.2802
+handicap_data:
+  beam: 2.2250670568154107
+  draft: 1.280175566934894
+  length_over_all: 5.7912704218483295
+  length_on_waterline: 5.18166300902219
+length_on_deck: 5.7912
 beam: 2.225
 design_class:
   name: Clyde 17/19

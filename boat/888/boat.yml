@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 82/4, 84/2
-builder:
-  name: Alan F. Platt  Ltd
-  id: 954dc050-837f-454f-be87-830d8cf00c2b
+year: 1972
+year_is_approximate: false
 designer:
   name: Laurie Harbottell
   id: 429d5fa7-e592-464a-9e6e-611903d6fe0e
+builder:
+  name: Alan F. Platt  Ltd
+  id: 954dc050-837f-454f-be87-830d8cf00c2b
+place_built: Benfleet
 construction_material: wood
 construction_method: clinker
-draft: 0.6096
+construction_details: Clinker Mahagany planking on oak frames  copper fastenings
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  draft: 0.60960741282614
-  length_over_all: 6.4008778346744695
-  length_on_waterline: 5.4864667154352595
 home_country: 'null'
 home_port: Morston Norfolk
 hull_form: unknown
-id: 4b0a48b0-ddc3-4ad5-aae8-1175a1264e16
-length_on_deck: 6.4008
 reference:
 - Log 82/4
 - Log 84/2
@@ -35,12 +31,16 @@ ownerships:
 - name: C R J Hawke
   share: 64
   start: 2012
-place_built: Benfleet
-updated_at: '2021-12-19T13:38:55.156158+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1972
-year_is_approximate: false
-construction_details: Clinker Mahagany planking on oak frames  copper fastenings
+id: 4b0a48b0-ddc3-4ad5-aae8-1175a1264e16
+draft: 0.6096
+handicap_data:
+  beam: 2.286027798098025
+  draft: 0.60960741282614
+  length_over_all: 6.4008778346744695
+  length_on_waterline: 5.4864667154352595
+length_on_deck: 6.4008
 beam: 2.286
 design_class:
   name: Finesse 21

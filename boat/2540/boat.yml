@@ -9,17 +9,45 @@ full_description: '<p>16''6" on deck, 21ft overall. Lug sail ketch GRP hull wood
   to be a Shipmate Senior hull</p>
 
   <p>I also own Blue Jack a 19ft Cornish Shrimper No. 277</p>'
-builder:
-  name: Alan Channel
-  id: db874783-26c8-4c75-bc81-fc6e8aea3b6b
+year: 1988
+year_is_approximate: false
 designer:
   name: Alan Channel
   id: 4de0584b-58f0-4cc2-be62-44385598d513
+builder:
+  name: Alan Channel
+  id: db874783-26c8-4c75-bc81-fc6e8aea3b6b
+place_built: Poole
 construction_material: wood
 construction_method: unknown
-draft: 0.3048
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Cardiff
+hull_form: unknown
+callsign: ''
+ownerships:
+- end: 2002
+  note: Built and owned by Alan Channel (Poole) 1988 - 2002
+  text: Built and owned by Alan Channel (Poole)
+  start: 1988
+  end_is_approximate: false
+  start_is_approximate: false
+- id: 393
+  share: 64
+  start: 2002
+  member: 4163
+  current: true
+- note: 'Owned by Viv Head (Cardiff) 2002 - '
+  text: Owned by Viv Head (Cardiff)
+  start: 2002
+  start_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a848cd43-9dab-4207-9cbd-c70716bfbc15
+image_key: sJjSFp
+thumb: https://photos.smugmug.com/photos/i-zgMmF77/0/Th/i-zgMmF77-Th.jpg
+draft: 0.3048
 handicap_data:
   beam: 1.9050292611558155
   main:
@@ -39,34 +67,7 @@ handicap_data:
   fore_triangle_base: 2.1082479882955374
   length_on_waterline: 4.826079005120702
   fore_triangle_height: 3.505254815898561
-home_country: GBR
-home_port: Cardiff
-hull_form: unknown
-id: a848cd43-9dab-4207-9cbd-c70716bfbc15
 length_on_deck: 5.0292
-callsign: ''
-ownerships:
-- end: 2002
-  note: Built and owned by Alan Channel (Poole) 1988 - 2002
-  text: Built and owned by Alan Channel (Poole)
-  start: 1988
-  end_is_approximate: false
-  start_is_approximate: false
-- id: 393
-  share: 64
-  start: 2002
-  member: 4163
-  current: true
-- note: 'Owned by Viv Head (Cardiff) 2002 - '
-  text: Owned by Viv Head (Cardiff)
-  start: 2002
-  start_is_approximate: false
-place_built: Poole
-updated_at: '2022-02-13T12:59:57.134618+00:00'
-website: ''
-year: 1988
-year_is_approximate: false
-image_key: sJjSFp
 beam: 1.9294
 for_sale_state:
   text: not_for_sale

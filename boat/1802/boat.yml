@@ -23,17 +23,37 @@ full_description: "<p>&#39;Wind Song&#39; is the first Maurice Griffiths boat, b
   \ returned to Chichester Harbour and continues to give much pleasure pottering about\
   \ the Solent.</p>\r\n\r\n<p>In 2014 the old faithful Volvo diesel was replaced by\
   \ a modern Beta 25 HP.</p>"
-builder:
-  name: Geo. A. Feltham Ltd.
-  id: 0a458ae5-5649-4233-a1c0-81f96361a627
+year: 1929
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: Geo. A. Feltham Ltd.
+  id: 0a458ae5-5649-4233-a1c0-81f96361a627
+place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
-draft: 0.762
+construction_details: Carvel teak on Canadian rock elm
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Chichester
+hull_form: long keel sloping forefoot
+uk_part1: '160910'
+callsign: ''
+ownerships:
+- id: 274
+  share: 64
+  start: 2007
+  member: 3456
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 621796be-c24f-4541-8fca-9102f683510e
+image_key: 4FLcV4
+thumb: https://photos.smugmug.com/photos/i-SBcN9Kt/0/Th/i-SBcN9Kt-Th.jpg
+draft: 0.762
 handicap_data:
   beam: 2.560351133869788
   main:
@@ -53,26 +73,7 @@ handicap_data:
   fore_triangle_base: 5.120702267739576
   length_on_waterline: 7.321385028041941
   fore_triangle_height: 7.659717142160448
-home_country: GBR
-home_port: Chichester
-hull_form: long keel sloping forefoot
-id: 621796be-c24f-4541-8fca-9102f683510e
 length_on_deck: 8.382
-uk_part1: '160910'
-callsign: ''
-ownerships:
-- id: 274
-  share: 64
-  start: 2007
-  member: 3456
-  current: true
-place_built: Portsmouth
-updated_at: '2021-12-19T13:39:20.717891+00:00'
-website: ''
-year: 1929
-year_is_approximate: false
-image_key: 4FLcV4
-construction_details: Carvel teak on Canadian rock elm
 beam: 2.5664
 design_class:
   name: Maurice Griffiths Wind Song

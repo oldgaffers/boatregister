@@ -5,11 +5,28 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1921
+year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-draft: 1.6764
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: cut_away_stem
+callsign: ''
+ownerships:
+- name: Daniel Tester
+  share: 64
+  start: 2012
+- share: 64
+  member: 5971
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 30f41b43-d476-428e-b2da-f9865ccb3357
+draft: 1.6764
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -26,24 +43,7 @@ handicap_data:
   fore_triangle_base: 2.6670507193367468
   length_on_waterline: 7.137496951962935
   fore_triangle_height: 8.53450377956596
-home_country: 'null'
-home_port: ''
-hull_form: cut_away_stem
-id: 30f41b43-d476-428e-b2da-f9865ccb3357
 length_on_deck: 8.382
-callsign: ''
-ownerships:
-- name: Daniel Tester
-  share: 64
-  start: 2012
-- share: 64
-  member: 5971
-  current: true
-  start: '?'
-updated_at: '2021-12-19T13:39:24.179405+00:00'
-website: ''
-year: 1921
-year_is_approximate: false
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

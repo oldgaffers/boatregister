@@ -4,23 +4,20 @@ generic_type: Yacht
 mainsail_type: gaff
 short_description: ''
 full_description: Log 83/1.  Two letters in archive
+year: 1896
+year_is_approximate: false
 builder:
   name: J. Welligton
   id: 36c65fb2-ba4e-42c3-94f6-3a05c1bc7597
+place_built: Malahide Co Dubln
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
+construction_details: Larch on oak 1 1/2 ton lead keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9812240916849548
-  draft: 1.21921482565228
-  length_over_all: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 32dddc7e-9871-494f-b880-7bfc7e63c360
-length_on_deck: 7.9248
 reference:
 - Log 83/1.  Two letters in archive
 callsign: ''
@@ -28,12 +25,15 @@ ownerships:
 - name: R Kavanagh
   share: 64
   start: 2012
-place_built: Malahide Co Dubln
-updated_at: '2021-12-19T13:39:16.777655+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1896
-year_is_approximate: false
-construction_details: Larch on oak 1 1/2 ton lead keel
+id: 32dddc7e-9871-494f-b880-7bfc7e63c360
+draft: 1.2192
+handicap_data:
+  beam: 1.9812240916849548
+  draft: 1.21921482565228
+  length_over_all: 7.924896366739819
+length_on_deck: 7.9248
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

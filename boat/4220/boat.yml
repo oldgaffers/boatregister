@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 90/3, 91/2
-builder:
-  name: ErnestgF. Elkins
-  id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
+year: 1936
+year_is_approximate: false
 designer:
   name: C. Purbrook
   id: 9ff011da-4e82-4daf-a352-888767923a2a
+builder:
+  name: ErnestgF. Elkins
+  id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
+place_built: Christchurch
 construction_material: wood
 construction_method: carvel
-draft: 0.762
+construction_details: Carvel pine on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 90/3
+- Log 91/2
+sail_number: '1'
+ssr: '54220'
+callsign: ''
+ownerships:
+- name: John Francis
+  share: 64
+  start: 1991
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6f9362e2-4fe6-41fe-99ea-d536209bcfa5
+draft: 0.762
 handicap_data:
   beam: 2.4902462813947817
   main:
@@ -33,27 +53,7 @@ handicap_data:
   fore_triangle_base: 4.084369665935138
   length_on_waterline: 6.858083394294074
   fore_triangle_height: 6.705681541087539
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 6f9362e2-4fe6-41fe-99ea-d536209bcfa5
 length_on_deck: 7.3396
-reference:
-- Log 90/3
-- Log 91/2
-sail_number: '1'
-ssr: '54220'
-callsign: ''
-ownerships:
-- name: John Francis
-  share: 64
-  start: 1991
-place_built: Christchurch
-updated_at: '2021-12-19T13:39:59.661861+00:00'
-website: ''
-year: 1936
-year_is_approximate: false
-construction_details: Carvel pine on oak
 beam: 2.4902
 for_sale_state:
   text: not_for_sale

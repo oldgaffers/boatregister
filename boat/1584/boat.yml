@@ -28,17 +28,42 @@ full_description: "<p>&#39;Freda&#39; was built in 1989 using a mould taken from
   \ &#39;Freda&#39; was exibited at the 1989 Southampton Boat Show to much acclaim.\
   \ She was also displayed at the Lancaster Maritime Museum for some time. The class\
   \ is named after Eric Bergqvist&#39;s wife, Freda but no further boats were built.</p>"
-builder:
-  name: Classic Yachts
-  id: 9bfa5fa1-4c94-4793-b980-b1a8ad4c01d3
+year: 1989
+year_is_approximate: false
 designer:
   name: William Crossfield
   id: da4baa22-674e-4ea8-b2c5-14aee7286837
+builder:
+  name: Classic Yachts
+  id: 9bfa5fa1-4c94-4793-b980-b1a8ad4c01d3
+place_built: Southampton
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.0424
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Portsmouth
+hull_form: long keel deep forefoot
+sail_number: '1584'
+ssr: '159640'
+callsign: ''
+ownerships:
+- end: 2014
+  name: Peter Brand
+  share: 64
+  start: 2009
+- id: 595
+  share: 64
+  start: 2014
+  member: 5145
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c72c89a7-96a4-4371-acc7-347fa428b4de
+image_key: FNqPcR
+thumb: https://photos.smugmug.com/photos/i-L2RtTtR/0/Th/i-L2RtTtR-Th.jpg
+draft: 1.0424
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -56,31 +81,7 @@ handicap_data:
   fore_triangle_base: 4.57205559619605
   length_on_waterline: 7.162887100707144
   fore_triangle_height: 4.2611558156547185
-home_country: GBR
-home_port: Portsmouth
-hull_form: long keel deep forefoot
-id: c72c89a7-96a4-4371-acc7-347fa428b4de
 length_on_deck: 8.3302
-sail_number: '1584'
-ssr: '159640'
-callsign: ''
-ownerships:
-- end: 2014
-  name: Peter Brand
-  share: 64
-  start: 2009
-- id: 595
-  share: 64
-  start: 2014
-  member: 5145
-  current: true
-place_built: Southampton
-updated_at: '2021-12-19T13:39:15.513393+00:00'
-website: ''
-year: 1989
-year_is_approximate: false
-image_key: FNqPcR
-construction_details: GRP
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

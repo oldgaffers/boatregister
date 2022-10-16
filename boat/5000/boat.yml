@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: French and McDermott
-  id: 895259ce-497e-4e21-a923-d0ef7f227f2f
+year: 1951
+year_is_approximate: false
 designer:
   name: Welch
   id: f19202cc-f8ad-449a-98f2-6f8e60e4a14e
+builder:
+  name: French and McDermott
+  id: 895259ce-497e-4e21-a923-d0ef7f227f2f
+place_built: Groomsport Co Down
 construction_material: wood
 construction_method: clinker
-draft: 0.1524
+construction_details: Clinker
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '5'
+callsign: ''
+ownerships:
+- name: L Jess
+  share: 64
+  start: 1992
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 661671f1-fc36-4daf-b593-70cabfb6df7b
+draft: 0.1524
 handicap_data:
   beam: 1.624603755181663
   main:
@@ -28,23 +44,7 @@ handicap_data:
   fore_triangle_base: 1.2435991221653255
   length_on_waterline: 4.114850036576445
   fore_triangle_height: 4.166666666666666
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 661671f1-fc36-4daf-b593-70cabfb6df7b
 length_on_deck: 4.2672
-sail_number: '5'
-callsign: ''
-ownerships:
-- name: L Jess
-  share: 64
-  start: 1992
-place_built: Groomsport Co Down
-updated_at: '2021-12-19T13:39:59.821868+00:00'
-website: ''
-year: 1951
-year_is_approximate: false
-construction_details: Clinker
 beam: 1.6246
 design_class:
   name: Ballyholme YC Insect

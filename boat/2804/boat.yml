@@ -7,17 +7,35 @@ short_description: ''
 full_description: <p>Built in Salterns Boatyard in 1998, Dram is a Memory Class yacht.
   She suffered a knockdown and ballast shifted on her way to the Yarmouth Old Gaffers
   Festival. She was recovered and refitted.</p>
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 1998
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Burlesdon
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: grp
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Wooton Creek
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- id: 513
+  share: 64
+  start: 2007
+  member: 4785
+  current: true
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: 25dc0e6f-4625-41f1-8bdb-558593043f92
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -33,25 +51,7 @@ handicap_data:
   fore_triangle_base: 2.6426481346013166
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 5.867471348451597
-home_country: 'null'
-home_port: Wooton Creek
-hull_form: centre-boarder
-id: 25dc0e6f-4625-41f1-8bdb-558593043f92
 length_on_deck: 5.7912
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 513
-  share: 64
-  start: 2007
-  member: 4785
-  current: true
-place_built: Burlesdon
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1998
-year_is_approximate: false
-construction_details: grp
 beam: 2.1336
 design_class:
   name: Memory 19

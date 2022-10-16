@@ -6,17 +6,36 @@ mainsail_type: gaff
 short_description: <p>Originally called Paguera, Ivy May was designed by Alan Buchananand
   built in 1960. She is a Clyde Cruiser One Design.</p>
 full_description: ''
-builder:
-  name: Delor Marine
-  id: 8779cbe6-95d9-4edc-8ceb-f62a22d02aa7
+year: 1960
+year_is_approximate: false
 designer:
   name: Alan Buchanan
   id: c501c48d-9b2b-4b4b-a120-ddbf63ae35b5
+builder:
+  name: Delor Marine
+  id: 8779cbe6-95d9-4edc-8ceb-f62a22d02aa7
+place_built: Burnham on Crouch
 construction_material: wood
 construction_method: unknown
-draft: 1.524
+construction_details: African mahogany on oak and Canadian rock elm frames, teak deck.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Mylor
+hull_form: long keel deep forefoot
+ssr: '12542'
+callsign: ''
+ownerships:
+- end: 2014
+  name: Alan MacRae
+  share: 64
+  start: 2006
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 229734ea-02ea-4dbc-be36-f3ffe2296063
+previous_names:
+- Paguera
+draft: 1.524
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -27,26 +46,7 @@ handicap_data:
     type: fixed
   length_over_all: 8.53450377956596
   length_on_waterline: 6.4008778346744695
-home_country: GBR
-home_port: Mylor
-hull_form: long keel deep forefoot
-id: 229734ea-02ea-4dbc-be36-f3ffe2296063
 length_on_deck: 8.5344
-ssr: '12542'
-callsign: ''
-ownerships:
-- end: 2014
-  name: Alan MacRae
-  share: 64
-  start: 2006
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:38:42.680653+00:00'
-website: ''
-year: 1960
-year_is_approximate: false
-previous_names:
-- Paguera
-construction_details: African mahogany on oak and Canadian rock elm frames, teak deck.
 beam: 2.7432
 design_class:
   name: Clyde Cruiser OD

@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: CB Nov 91
-builder:
-  name: R.W. Ingall
-  id: aee820b1-2c8b-405b-9d67-c8421e667454
+year: 1992
+year_is_approximate: false
 designer:
   name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+builder:
+  name: R.W. Ingall
+  id: aee820b1-2c8b-405b-9d67-c8421e667454
+place_built: Saltash
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.2134
+construction_details: Epoxy Glued Marine Ply
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: R Ingall
+  share: 64
+  start: 1992
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 32a8d77f-6522-4b98-9dcb-6bde5b63e58e
+draft: 0.2134
 handicap_data:
   beam: 1.4020970495001217
   main:
@@ -25,22 +40,7 @@ handicap_data:
   thcf: 0.670668909
   draft: 0.21336259448914896
   length_over_all: 4.419653742989515
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 32a8d77f-6522-4b98-9dcb-6bde5b63e58e
 length_on_deck: 4.4196
-callsign: ''
-ownerships:
-- name: R Ingall
-  share: 64
-  start: 1992
-place_built: Saltash
-updated_at: '2021-12-19T13:39:22.534619+00:00'
-website: ''
-year: 1992
-year_is_approximate: false
-construction_details: Epoxy Glued Marine Ply
 beam: 1.4021
 design_class:
   name: Whilly Boat

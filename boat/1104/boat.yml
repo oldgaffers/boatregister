@@ -4,26 +4,23 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: Log 78/2
-builder:
-  name: J. Bowden/R. Kitto
-  id: 5f63e3a8-30de-4f93-9b1c-3cc6060d3b04
+year: 1925
+year_is_approximate: false
 designer:
   name: J. Bowden/Kitto R.
   id: 5373469c-8eae-4a47-ac62-01ff28afaa2f
+builder:
+  name: J. Bowden/R. Kitto
+  id: 5f63e3a8-30de-4f93-9b1c-3cc6060d3b04
+place_built: Fowey
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.114850036576445
-  draft: 1.8288222384784198
-  length_over_all: 13.563764935381613
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 0f8628d7-32e8-429b-842d-07d96839b986
-length_on_deck: 13.5636
 reference:
 - Log 78/2
 callsign: ''
@@ -31,12 +28,15 @@ ownerships:
 - name: J Davidson
   share: 64
   start: 2012
-place_built: Fowey
-updated_at: '2021-12-19T13:39:01.618624+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1925
-year_is_approximate: false
-construction_details: Pitch pine on oak
+id: 0f8628d7-32e8-429b-842d-07d96839b986
+draft: 1.8288
+handicap_data:
+  beam: 4.114850036576445
+  draft: 1.8288222384784198
+  length_over_all: 13.563764935381613
+length_on_deck: 13.5636
 beam: 4.1148
 for_sale_state:
   text: not_for_sale

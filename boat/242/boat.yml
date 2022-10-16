@@ -5,17 +5,31 @@ rig_type: Schooner
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: A. Geise
-  id: b202fd5a-46a2-4081-b03a-3f407befc022
+year: 1950
+year_is_approximate: false
 designer:
   name: Murray G. Peterson
   id: a2e01005-a9e2-4e11-84f6-26828637d074
+builder:
+  name: A. Geise
+  id: b202fd5a-46a2-4081-b03a-3f407befc022
+place_built: Costa Mesa California USA
 construction_material: wood
 construction_method: unknown
-draft: 1.905
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: P Ritter
+  share: 64
+  start: 1970
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9b5df753-3d09-4eee-b41b-2fc1f48f7c69
+draft: 1.905
 handicap_data:
   beam: 3.6576444769568397
   fore:
@@ -35,21 +49,7 @@ handicap_data:
   fore_triangle_base: 6.4008778346744695
   length_on_waterline: 10.36332601804438
   fore_triangle_height: 10.972933430870519
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 9b5df753-3d09-4eee-b41b-2fc1f48f7c69
 length_on_deck: 12.4968
-callsign: ''
-ownerships:
-- name: P Ritter
-  share: 64
-  start: 1970
-place_built: Costa Mesa California USA
-updated_at: '2021-12-19T13:38:36.688635+00:00'
-website: ''
-year: 1950
-year_is_approximate: false
 beam: 3.6576
 for_sale_state:
   text: not_for_sale

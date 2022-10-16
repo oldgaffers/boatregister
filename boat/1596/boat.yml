@@ -22,17 +22,37 @@ full_description: "<p>&#39;Hannah Hambleton&#39;, launched in 1931, was one of t
   \ to Morecambe registered as LR177<br />\r\n1982 Sold to Hoylake, registered for\
   \ fishing as LL40 in 1984<br />\r\n1986 Broke adrift from her moorings in a storm\
   \ and severely damaged. Rebuilt by a Birkenhead owner.<br />\r\n1990 Changed ownership.</p>"
-builder:
-  name: Crossfield
-  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+year: 1931
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+place_built: Arnside
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel , Larch on Oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Liverpool
+hull_form: long keel deep forefoot
+ssr: '47535'
+callsign: ''
+ownerships:
+- id: 171
+  share: 64
+  start: 1990
+  member: 2619
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 65abfc21-46a0-4eda-9c1f-d91bd754ee92
+image_key: XFJ98F
+thumb: https://photos.smugmug.com/photos/i-3dWBsx9/0/Th/i-3dWBsx9-Th.jpg
+draft: 1.2192
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -47,26 +67,7 @@ handicap_data:
   fore_triangle_base: 7.315288953913679
   length_on_waterline: 9.906120458424773
   fore_triangle_height: 9.44891489880517
-home_country: GBR
-home_port: Liverpool
-hull_form: long keel deep forefoot
-id: 65abfc21-46a0-4eda-9c1f-d91bd754ee92
 length_on_deck: 10.9728
-ssr: '47535'
-callsign: ''
-ownerships:
-- id: 171
-  share: 64
-  start: 1990
-  member: 2619
-  current: true
-place_built: Arnside
-updated_at: '2021-12-19T13:39:15.861872+00:00'
-website: ''
-year: 1931
-year_is_approximate: false
-image_key: XFJ98F
-construction_details: Carvel , Larch on Oak
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

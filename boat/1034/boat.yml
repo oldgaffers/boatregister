@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 79/2
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1965
+year_is_approximate: false
 designer:
   name: Syd Latimer
   id: 1fe5b287-4134-4eb0-ba64-4cb075b2e170
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: clinker
-draft: 1.2192
+construction_details: Clinker Mahogony
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  draft: 1.21921482565228
-  length_over_all: 7.315288953913679
-  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: Walton on the Naze
 hull_form: unknown
-id: bc867036-c88a-4226-9969-8a4c0466a844
-length_on_deck: 7.3152
 reference:
 - Log 79/2
 callsign: ''
@@ -33,12 +29,16 @@ ownerships:
 - name: P A Booty
   share: 64
   start: 1987
-place_built: Canvey Island
-updated_at: '2021-12-19T13:38:59.428876+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
-construction_details: Clinker Mahogony
+id: bc867036-c88a-4226-9969-8a4c0466a844
+draft: 1.2192
+handicap_data:
+  beam: 2.590831504511095
+  draft: 1.21921482565228
+  length_over_all: 7.315288953913679
+  length_on_waterline: 6.0960741282613995
+length_on_deck: 7.3152
 beam: 2.5908
 design_class:
   name: Dauntless 24

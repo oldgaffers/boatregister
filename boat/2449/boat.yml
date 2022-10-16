@@ -5,14 +5,33 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
+year: 1965
+year_is_approximate: false
 builder:
   name: Ranabatfabrik
   id: e9150b2d-c864-478b-8e7d-2bc7f160856c
+place_built: Rana Fjord N Norway
 construction_material: wood
 construction_method: clinker
-draft: 0.3048
+construction_details: Clinker Pine on steamed timbers and grown frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 220
+  share: 64
+  start: 1996
+  member: 3086
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 303b28fa-2919-466a-9596-00ab80dc0be1
+previous_names:
+- Shiloh
+draft: 0.3048
 handicap_data:
   beam: 1.5240185320653499
   main:
@@ -25,26 +44,7 @@ handicap_data:
   fore_triangle_base: 1.889782979761034
   length_on_waterline: 4.511094854913436
   fore_triangle_height: 3.139478176054621
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 303b28fa-2919-466a-9596-00ab80dc0be1
 length_on_deck: 4.8768
-callsign: ''
-ownerships:
-- id: 220
-  share: 64
-  start: 1996
-  member: 3086
-  current: true
-place_built: Rana Fjord N Norway
-updated_at: '2021-12-19T13:39:39.082864+00:00'
-website: ''
-year: 1965
-year_is_approximate: false
-previous_names:
-- Shiloh
-construction_details: Clinker Pine on steamed timbers and grown frames
 beam: 1.524
 for_sale_state:
   text: not_for_sale

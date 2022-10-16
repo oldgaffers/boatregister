@@ -5,17 +5,32 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: John Sharpe
-  id: 8c5dcde6-cea6-4acb-ae19-b0be5c8f0640
+year: 2011
+year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+builder:
+  name: John Sharpe
+  id: 8c5dcde6-cea6-4acb-ae19-b0be5c8f0640
+place_built: Barrow in Furness
 construction_material: wood
 construction_method: clinker_ply
-draft: 0.2896
+construction_details: Clinker ply and epoxy
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Barrow
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: John Sharpe
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 25093b20-26b5-4587-8e5a-e1bfed28e961
+draft: 0.2896
 handicap_data:
   beam: 1.9995123140697388
   main:
@@ -36,22 +51,7 @@ handicap_data:
   fore_triangle_base: 1.3990490124359911
   length_on_waterline: 4.87685930260912
   fore_triangle_height: 7.028773469885393
-home_country: 'null'
-home_port: Barrow
-hull_form: unknown
-id: 25093b20-26b5-4587-8e5a-e1bfed28e961
 length_on_deck: 4.8768
-callsign: ''
-ownerships:
-- name: John Sharpe
-  share: 64
-  start: 2012
-place_built: Barrow in Furness
-updated_at: '2021-12-19T13:39:56.678153+00:00'
-website: ''
-year: 2011
-year_is_approximate: false
-construction_details: Clinker ply and epoxy
 beam: 1.9995
 for_sale_state:
   text: not_for_sale

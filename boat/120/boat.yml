@@ -14,18 +14,37 @@ full_description: "<p>Wonder is an Itchin Ferry built in 1860 by Dan Hatcher. Sh
   \ frames as well as renewing the rudder and building a new mast and gaff. This work\
   \ was carried out by Testers at Hollowshore. She now sails out of the Swale. In\
   \ 2011 she won the OGA East Coast Race.</p>"
-builder:
-  name: Daniel G. Hatcher
-  id: e5fdda85-1a85-4e28-a871-89b055d3d22f
+year: 1860
+year_is_approximate: false
 designer:
   name: Daniel G. Hatcher
   id: 14683616-0fe8-4912-8de4-12c0337b20e6
+builder:
+  name: Daniel G. Hatcher
+  id: e5fdda85-1a85-4e28-a871-89b055d3d22f
+place_built: Belvedere Southampton
 construction_material: wood
 construction_method: carvel
-draft: 0.9906
+construction_details: Carvel Pitch Pine on Oak, in original condition
 engine_installations: []
 for_sales:
 - asking_price: 15000
+home_country: GBR
+home_port: ' Faversham'
+hull_form: long keel deep forefoot
+ssr: A23310
+callsign: ''
+ownerships:
+- end: 2015
+  name: Edwin Bracken
+  share: 64
+  start: 2010
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://www.itchenferry.org/Itchen_Ferry_Society/Wonder.html#1
+id: c674769a-e78b-4c6e-9377-9bd10f2192c8
+image_key: PcPRrC
+thumb: https://photos.smugmug.com/photos/i-HfGgP36/0/Th/i-HfGgP36-Th.jpg
+draft: 0.9906
 handicap_data:
   beam: 2.5146305779078273
   main:
@@ -40,25 +59,7 @@ handicap_data:
   fore_triangle_base: 4.57205559619605
   length_on_waterline: 5.715069495245062
   fore_triangle_height: 6.6294806144842715
-home_country: GBR
-home_port: ' Faversham'
-hull_form: long keel deep forefoot
-id: c674769a-e78b-4c6e-9377-9bd10f2192c8
 length_on_deck: 5.7912
-ssr: A23310
-callsign: ''
-ownerships:
-- end: 2015
-  name: Edwin Bracken
-  share: 64
-  start: 2010
-place_built: Belvedere Southampton
-updated_at: '2021-12-19T13:38:33.048199+00:00'
-website: http://www.itchenferry.org/Itchen_Ferry_Society/Wonder.html#1
-year: 1860
-year_is_approximate: false
-image_key: PcPRrC
-construction_details: Carvel Pitch Pine on Oak, in original condition
 beam: 2.5146
 for_sale_state:
   text: not_for_sale

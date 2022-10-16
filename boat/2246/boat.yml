@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Cabin version
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 1999
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Bursledon
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: GRP hull and Deck
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Noss Mayo
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Stephen Brunskill
+  share: 64
+  start: 1999
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 560db815-0ad0-4949-ab7e-70a1e8328a17
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -31,22 +46,7 @@ handicap_data:
     type: fixed
   length_over_all: 5.7912704218483295
   length_on_waterline: 5.690685198732017
-home_country: 'null'
-home_port: Noss Mayo
-hull_form: long keel deep forefoot
-id: 560db815-0ad0-4949-ab7e-70a1e8328a17
 length_on_deck: 5.7912
-callsign: ''
-ownerships:
-- name: Stephen Brunskill
-  share: 64
-  start: 1999
-place_built: Bursledon
-updated_at: '2021-12-19T13:39:33.404118+00:00'
-website: ''
-year: 1999
-year_is_approximate: false
-construction_details: GRP hull and Deck
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

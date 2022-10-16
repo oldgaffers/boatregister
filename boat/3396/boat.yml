@@ -8,32 +8,21 @@ full_description: <p>4 Kattegat 26 hulls were produced by Jim Spencer at Watersi
   and &quot;Widgeon&quot; and 2 bare hulls for owner completion. Grey Seal&#39;s hull
   is number 5 and probably the last hull has been fitted out by shipwright&nbsp;Josh
   Brooks and her first owner Michael Breese 2018/19.</p>
-builder:
-  name: Michael Breese/Josh Brooks
-  id: 9d4baccc-bde9-4519-a2b9-054cca7f6f77
+year: 2021
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
-draft: 1.2192
+builder:
+  name: Michael Breese/Josh Brooks
+  id: 9d4baccc-bde9-4519-a2b9-054cca7f6f77
+place_built: Halnaker and Thornham Marine
+construction_details: GRP hull, timber deck and fitout.
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 16
-    head: 13
-    luff: 14
-  topsail:
-    luff: 17.5
-    perpendicular: 7.5
-  sailarea: 4
-  length_overall: 8.0772
-  length_over_spars: 10.2108
-  length_on_waterline: 6.8062
 home_country: GBR
 home_port: Chichester Harbour
 hull_form: long keel sloping forefoot
-id: dc79a8ad-7417-43b4-807a-aa09d2e76ecd
-length_on_deck: 8.0772
 sail_number: K26/5
 callsign: ''
 ownerships:
@@ -46,13 +35,25 @@ ownerships:
   start: 2019
   member: 6288
   current: true
-place_built: Halnaker and Thornham Marine
-updated_at: '2021-12-19T13:40:09.845126+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2021
-year_is_approximate: false
+id: dc79a8ad-7417-43b4-807a-aa09d2e76ecd
 image_key: 2sThVq
-construction_details: GRP hull, timber deck and fitout.
+thumb: https://photos.smugmug.com/photos/i-ZmHzGNC/0/Th/i-ZmHzGNC-Th.gif
+draft: 1.2192
+handicap_data:
+  main:
+    foot: 16
+    head: 13
+    luff: 14
+  topsail:
+    luff: 17.5
+    perpendicular: 7.5
+  sailarea: 4
+  length_overall: 8.0772
+  length_over_spars: 10.2108
+  length_on_waterline: 6.8062
+length_on_deck: 8.0772
 beam: 2.7432
 design_class:
   name: Kattegat

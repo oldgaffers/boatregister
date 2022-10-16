@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 87/4
-builder:
-  name: Allcraft
-  id: fd2e4b78-45ff-44c6-9d9d-ae186ad4a3b3
+year: 1951
+year_is_approximate: false
 designer:
   name: J. Johnston
   id: c3380d3d-db77-447c-ba36-bd5f1dd0c1f6
+builder:
+  name: Allcraft
+  id: fd2e4b78-45ff-44c6-9d9d-ae186ad4a3b3
+place_built: Lerwick
 construction_material: wood
 construction_method: clinker
-draft: 0.7925
+construction_details: Larch clinker planking on oak frames with oak keel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 87/4
+sail_number: C 358
+callsign: ''
+ownerships:
+- name: T C Duggan
+  share: 64
+  start: 1985
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2ab65a62-c1b1-4ca8-867d-df1e1171099c
+image_key: vFn6P6
+thumb: https://photos.smugmug.com/photos/i-ffSbWdN/0/Th/i-ffSbWdN-Th.jpg
+draft: 0.7925
 handicap_data:
   beam: 2.103145574250183
   main:
@@ -28,26 +48,7 @@ handicap_data:
   fore_triangle_base: 3.4046574006339916
   length_on_waterline: 6.431358205315777
   fore_triangle_height: 5.9436722750548645
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 2ab65a62-c1b1-4ca8-867d-df1e1171099c
 length_on_deck: 7.4371
-reference:
-- Log 87/4
-sail_number: C 358
-callsign: ''
-ownerships:
-- name: T C Duggan
-  share: 64
-  start: 1985
-place_built: Lerwick
-updated_at: '2021-12-19T13:38:40.169171+00:00'
-website: ''
-year: 1951
-year_is_approximate: false
-image_key: vFn6P6
-construction_details: Larch clinker planking on oak frames with oak keel
 beam: 2.1031
 for_sale_state:
   text: not_for_sale

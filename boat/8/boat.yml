@@ -5,27 +5,22 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: <p>Dusky Maid was a Falmouth Quay Punt built in 1908</p>
 full_description: CB Feb 92 Early OGA photos in archive
-builder:
-  name: W.E. Thomas
-  id: a9e83f1e-565e-4568-b052-7a492147a30d
+year: 1908
+year_is_approximate: false
 designer:
   name: W.E. Thomas
   id: 3f7b6145-a556-462d-a51f-11d24c3f94db
+builder:
+  name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 1.8288
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 1.5240185320653499
-  length_over_all: 7.284808583272372
-  length_on_waterline: 7.711533772250671
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: d951c7f3-9cdc-4e1d-a6fd-ffd7f7c39756
-length_on_deck: 7.2847
 uk_part1: '136683'
 callsign: ''
 ownerships:
@@ -42,14 +37,20 @@ ownerships:
 - name: Mike Davies
   share: 64
   start: 2012
-place_built: Falmouth
-updated_at: '2021-12-19T13:38:29.91865+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1908
-year_is_approximate: false
+id: d951c7f3-9cdc-4e1d-a6fd-ffd7f7c39756
 previous_names:
 - Lily
 image_key: KzqGGc
+thumb: https://photos.smugmug.com/photos/i-kBdp2ZR/0/Th/i-kBdp2ZR-Th.jpg
+draft: 1.8288
+handicap_data:
+  beam: 2.43842965130456
+  draft: 1.5240185320653499
+  length_over_all: 7.284808583272372
+  length_on_waterline: 7.711533772250671
+length_on_deck: 7.2847
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

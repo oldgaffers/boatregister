@@ -16,17 +16,34 @@ full_description: <p>There is evidence that, like Heard's early Picarooners, Sel
   iroko decking. Buoyancy tanks have been made for each side with side benches above.
   The cockpit has a slatted iroko floor and the running rigging has been improved.
   She retains her original tan main, but now has a slightly larger cream jib.</p>
-builder:
-  name: Martin Heard
-  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+builder:
+  name: Martin Heard
+  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3566
+construction_details: 'GRP '
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Keyhaven
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Oliver Nares
+  share: 64
+  start: 2010
+- share: 64
+  member: 4984
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0d881365-3f53-48c0-bde4-48f36282bc8e
+draft: 0.3566
 handicap_data:
   beam: 1.6764203852718849
   main:
@@ -40,24 +57,7 @@ handicap_data:
   fore_triangle_base: 2.081809314801268
   length_on_waterline: 4.724457449402585
   fore_triangle_height: 4.26725188978298
-home_country: 'null'
-home_port: Keyhaven
-hull_form: long keel deep forefoot
-id: 0d881365-3f53-48c0-bde4-48f36282bc8e
 length_on_deck: 4.8768
-callsign: ''
-ownerships:
-- name: Oliver Nares
-  share: 64
-  start: 2010
-- share: 64
-  member: 4984
-  current: true
-  start: '?'
-updated_at: '2021-12-19T13:39:55.922112+00:00'
-website: ''
-year_is_approximate: false
-construction_details: 'GRP '
 beam: 1.6764
 design_class:
   name: Clovelly Picarooner

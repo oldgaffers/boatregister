@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Paul Lohr
-  id: c120bfcb-742e-4dfa-a03e-c0c843dc5d7f
+year: 2004
+year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+builder:
+  name: Paul Lohr
+  id: c120bfcb-742e-4dfa-a03e-c0c843dc5d7f
+place_built: Tewin
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.1524
+construction_details: Stitch and tape epoxy ply
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Trailer sail
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 440
+  share: 64
+  start: 2004
+  member: 4397
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fd124b5b-e639-4e36-abcf-064c3c7d7ce9
+draft: 0.1524
 handicap_data:
   beam: 1.4996342355523042
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 1.3258961228968542
   length_on_waterline: 3.5052426237503047
   fore_triangle_height: 2.691416727627408
-home_country: GBR
-home_port: Trailer sail
-hull_form: unknown
-id: fd124b5b-e639-4e36-abcf-064c3c7d7ce9
 length_on_deck: 3.81
-callsign: ''
-ownerships:
-- id: 440
-  share: 64
-  start: 2004
-  member: 4397
-  current: true
-place_built: Tewin
-updated_at: '2021-12-19T13:39:45.05763+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-construction_details: Stitch and tape epoxy ply
 beam: 1.4996
 for_sale_state:
   text: not_for_sale

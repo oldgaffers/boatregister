@@ -5,25 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>One of seven built to this design.</p>
 full_description: ''
-builder:
-  name: S. Bezuien/R. Verras
-  id: e8a95b51-edca-4f73-b75f-93d5e5a45500
+year: 1976
+year_is_approximate: false
 designer:
   name: Remy Verras
   id: c4c30b5b-4b84-4007-997e-a07641258237
+builder:
+  name: S. Bezuien/R. Verras
+  id: e8a95b51-edca-4f73-b75f-93d5e5a45500
+place_built: Hellevoetsluis
 construction_material: steel
 construction_method: unknown
-draft: 0
+construction_details: Welded steel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.4991465496220435
-  length_over_all: 10.000609607412827
 home_country: NLD
 home_port: Steenbergn - Felixtowe Ferry
 hull_form: unknown
-id: 58ca77ca-eb3f-4903-85f8-d0205857c1cb
-length_on_deck: 10.0066
 ssr: '10157'
 callsign: ''
 ownerships:
@@ -35,12 +33,14 @@ ownerships:
   member: 5046
   current: true
   start: '?'
-place_built: Hellevoetsluis
-updated_at: '2021-12-19T13:39:51.469635+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1976
-year_is_approximate: false
-construction_details: Welded steel
+id: 58ca77ca-eb3f-4903-85f8-d0205857c1cb
+draft: 0
+handicap_data:
+  beam: 3.4991465496220435
+  length_over_all: 10.000609607412827
+length_on_deck: 10.0066
 beam: 3.5052
 for_sale_state:
   text: not_for_sale

@@ -8,17 +8,38 @@ short_description: Boat built for family sailing in the enthusiasm for trad. sai
 full_description: <p>The original French owner had to sell &#39;Avel Dro&#39; when
   he had a 4th child, as the boat is only registered for five people.</p><p>Roger
   Barnes has used the boat to cruise around the British and Breton coasts.</p>
-builder:
-  name: Lew Walker
-  id: 305b3633-2f99-4039-a029-c9c278894951
+year: 1994
+year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+builder:
+  name: Lew Walker
+  id: 305b3633-2f99-4039-a029-c9c278894951
+place_built: Cancale, France
 construction_material: plywood
+spar_material: wood
 construction_method: clinker_ply
-draft: 0.3048
+construction_details: Clinker plywood
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: centre-board dinghy
+ssr: '112203'
+callsign: ''
+ownerships:
+- end: 2003
+  name: Benoit de Saulce
+  share: 64
+  start: 1994
+- name: Roger Barnes
+  share: 64
+  start: 2003
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 008198fe-7630-4c3c-b749-28849a37b12e
+draft: 0.3048
 handicap_data:
   beam: 1.6764325774201414
   main:
@@ -31,28 +52,7 @@ handicap_data:
   draft_keeldown: 0.7600092428675932
   length_over_all: 4.470470616922701
   length_on_waterline: 3.9624481833699097
-home_country: GBR
-home_port: ''
-hull_form: centre-board dinghy
-id: 008198fe-7630-4c3c-b749-28849a37b12e
 length_on_deck: 4.4714
-spar_material: wood
-ssr: '112203'
-callsign: ''
-ownerships:
-- end: 2003
-  name: Benoit de Saulce
-  share: 64
-  start: 1994
-- name: Roger Barnes
-  share: 64
-  start: 2003
-place_built: Cancale, France
-updated_at: '2021-12-19T13:39:57.608107+00:00'
-website: ''
-year: 1994
-year_is_approximate: false
-construction_details: Clinker plywood
 beam: 1.6764
 design_class:
   name: Ilur

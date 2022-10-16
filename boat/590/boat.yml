@@ -5,27 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 68/4, 86/2
-builder:
-  name: Goldsmith
-  id: 3e798258-a07d-4634-8e44-572916db7e06
+year: 1895
+year_is_approximate: false
 designer:
   name: Goldsmith
   id: fae1d96d-944a-4ed4-be65-580c74d48022
+builder:
+  name: Goldsmith
+  id: 3e798258-a07d-4634-8e44-572916db7e06
+place_built: Grays, Essex
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  draft: 1.3716166788588149
-  length_over_all: 7.772494513533284
-  length_on_waterline: 6.705681541087539
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 8ac44ac6-68b8-4812-ac76-b65d670b100c
-length_on_deck: 7.7724
 reference:
 - Log 68/4
 - Log 86/2
@@ -34,14 +29,20 @@ ownerships:
 - name: N J Mitchell
   share: 64
   start: 2012
-place_built: Grays, Essex
-updated_at: '2021-12-19T13:38:46.725375+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1895
-year_is_approximate: false
+id: 8ac44ac6-68b8-4812-ac76-b65d670b100c
 previous_names:
 - Thetis
 image_key: wrd2Rk
+thumb: https://photos.smugmug.com/photos/i-3qfHC7V/0/Th/i-3qfHC7V-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.286027798098025
+  draft: 1.3716166788588149
+  length_over_all: 7.772494513533284
+  length_on_waterline: 6.705681541087539
+length_on_deck: 7.7724
 beam: 2.286
 for_sale_state:
   text: not_for_sale

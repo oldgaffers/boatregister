@@ -5,17 +5,34 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Yachting Monthly Feb 1964
-builder:
-  name: J. Fyfe
-  id: 72297490-9617-40f2-9866-897333c52b95
+year: 1925
+year_is_approximate: false
 designer:
   name: J. Fyfe
   id: f9d32093-a08e-47d4-bc08-028ed54cecf6
+builder:
+  name: J. Fyfe
+  id: 72297490-9617-40f2-9866-897333c52b95
+place_built: Port Bannatyne
 construction_material: wood
 construction_method: carvel
-draft: 1.7678
+construction_details: Carvel Pitch Pine on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Stornoway
+hull_form: long keel deep forefoot
+ssr: '19265'
+uk_part1: '147825'
+callsign: ''
+ownerships:
+- name: William Evans
+  share: 64
+  start: 1986
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f9ff0307-5a99-4357-8133-7f289cd07be4
+draft: 1.7678
 handicap_data:
   beam: 3.2613996586198484
   main:
@@ -40,24 +57,7 @@ handicap_data:
   fore_triangle_base: 6.4008778346744695
   length_on_waterline: 10.546208241892222
   fore_triangle_height: 8.22970007315289
-home_country: 'null'
-home_port: Stornoway
-hull_form: long keel deep forefoot
-id: f9ff0307-5a99-4357-8133-7f289cd07be4
 length_on_deck: 11.2166
-ssr: '19265'
-uk_part1: '147825'
-callsign: ''
-ownerships:
-- name: William Evans
-  share: 64
-  start: 1986
-place_built: Port Bannatyne
-updated_at: '2021-12-19T13:38:36.82465+00:00'
-website: ''
-year: 1925
-year_is_approximate: false
-construction_details: Carvel Pitch Pine on Oak
 beam: 3.2614
 for_sale_state:
   text: not_for_sale

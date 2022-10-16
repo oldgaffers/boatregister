@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Sail no 23
-builder:
-  name: Martin Heard
-  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+year: 1987
+year_is_approximate: false
 designer:
   name: Percy Dalton/Martin Heard
   id: f19c441f-b6a2-4f96-95b9-d25a6e3e36a5
+builder:
+  name: Martin Heard
+  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.524
+construction_details: GRP, wood deck, cabin & spars
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Restrouguet
+hull_form: long keel deep forefoot
+sail_number: '23'
+callsign: ''
+ownerships:
+- name: Brigadier & Mrs G R P Ransy
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: dd7198ce-b886-41e5-911f-ab10ca1ac2fd
+previous_names:
+- Tillisober
+draft: 1.524
 handicap_data:
   beam: 3.0480370641306997
   draft: 1.5240185320653499
@@ -23,25 +41,7 @@ handicap_data:
     type: fixed
   length_over_all: 8.53450377956596
   length_on_waterline: 8.077298219946353
-home_country: 'null'
-home_port: Restrouguet
-hull_form: long keel deep forefoot
-id: dd7198ce-b886-41e5-911f-ab10ca1ac2fd
 length_on_deck: 8.5344
-sail_number: '23'
-callsign: ''
-ownerships:
-- name: Brigadier & Mrs G R P Ransy
-  share: 64
-  start: 2012
-place_built: Mylor Bridge
-updated_at: '2021-12-19T13:39:39.453861+00:00'
-website: ''
-year: 1987
-year_is_approximate: false
-previous_names:
-- Tillisober
-construction_details: GRP, wood deck, cabin & spars
 beam: 3.048
 design_class:
   name: Heard 28

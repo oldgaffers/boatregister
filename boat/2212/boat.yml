@@ -5,28 +5,24 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Roger Wilkinson
-  id: 13013b12-8617-439c-bc35-ba8f2259031e
+year: 1993
+year_is_approximate: false
 designer:
   name: Roger Wilkinson
   id: 7b55967c-c09b-4375-8aab-2aa606d145cd
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+place_built: Macclesfield
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.253
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.5240185320653499
-  draft: 0.25298707632284806
-  length_over_all: 4.328212631065593
-  length_on_waterline: 4.26725188978298
 home_country: 'null'
 home_port: London
 hull_form: unknown
-id: 2ab28008-72a4-4fac-a72c-c86c5146e20e
-length_on_deck: 4.319
-spar_material: wood
 callsign: ''
 ownerships:
 - id: 298
@@ -34,12 +30,16 @@ ownerships:
   start: 2012
   member: 3614
   current: true
-place_built: Macclesfield
-updated_at: '2021-12-19T13:39:32.32919+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1993
-year_is_approximate: false
-construction_details: GRP
+id: 2ab28008-72a4-4fac-a72c-c86c5146e20e
+draft: 0.253
+handicap_data:
+  beam: 1.5240185320653499
+  draft: 0.25298707632284806
+  length_over_all: 4.328212631065593
+  length_on_waterline: 4.26725188978298
+length_on_deck: 4.319
 beam: 1.524
 for_sale_state:
   text: not_for_sale

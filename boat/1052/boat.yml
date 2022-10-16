@@ -6,17 +6,37 @@ mainsail_type: gaff
 short_description: ''
 full_description: Previous owner 1990-1997, when she was called Speedwell Log Mar/98
   Water Craft Sep/Oct 98.  Sold to non member 11.06
-builder:
-  name: Bar Creek Yacht Station
-  id: 474ba972-00c3-4a90-82b6-4bc18df0e980
+year: 1974
+year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+builder:
+  name: Bar Creek Yacht Station
+  id: 474ba972-00c3-4a90-82b6-4bc18df0e980
+place_built: Truro
 construction_material: grp
 construction_method: unknown
-draft: 0.9144
+construction_details: G R P
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Dartmouth
+hull_form: long keel deep forefoot
+reference:
+- Log Mar 98
+- Water Craft Sep/Oct 98
+callsign: ''
+ownerships:
+- name: Brian Terry
+  share: 64
+  start: 2006
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a69901d0-b56b-4528-b5eb-251dfcbd980b
+previous_names:
+- Speedwell
+draft: 0.9144
 handicap_data:
   beam: 1.9202633504023408
   main:
@@ -34,27 +54,7 @@ handicap_data:
   fore_triangle_base: 3.291880029261156
   length_on_waterline: 4.633016337478663
   fore_triangle_height: 6.217995610826627
-home_country: 'null'
-home_port: Dartmouth
-hull_form: long keel deep forefoot
-id: a69901d0-b56b-4528-b5eb-251dfcbd980b
 length_on_deck: 4.8768
-reference:
-- Log Mar 98
-- Water Craft Sep/Oct 98
-callsign: ''
-ownerships:
-- name: Brian Terry
-  share: 64
-  start: 2006
-place_built: Truro
-updated_at: '2021-12-19T13:39:00.014902+00:00'
-website: ''
-year: 1974
-year_is_approximate: false
-previous_names:
-- Speedwell
-construction_details: G R P
 beam: 1.9202
 design_class:
   name: Oysterman 16

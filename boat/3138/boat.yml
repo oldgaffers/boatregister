@@ -5,17 +5,44 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: Dixon Kerley Ltd.
-  id: 9bbdbafb-61fd-490d-8254-deeabc409b32
+year: 1964
+year_is_approximate: false
 designer:
   name: Alan Buchanan
   id: c501c48d-9b2b-4b4b-a120-ddbf63ae35b5
+builder:
+  name: Dixon Kerley Ltd.
+  id: 9bbdbafb-61fd-490d-8254-deeabc409b32
+place_built: Spain/Maldon
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel mahogany on steamed oak and ash
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel sloping forefoot
+sail_number: 140Y
+ssr: '151174'
+callsign: ''
+ownerships:
+- end: 2011
+  name: Robert Leadbeater
+  share: 64
+  start: 0
+- name: Mary and Wayne Brietbart
+  share: 64
+  start: 2011
+- share: 64
+  member: 5732
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: bc2867f9-ea36-498f-9897-2c9ce7c25f39
+previous_names:
+- Cariad
+draft: 1.3716
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -32,34 +59,7 @@ handicap_data:
   fore_triangle_base: 3.3528407705437697
   length_on_waterline: 6.4008778346744695
   fore_triangle_height: 8.07731041209461
-home_country: GBR
-home_port: ''
-hull_form: long keel sloping forefoot
-id: bc2867f9-ea36-498f-9897-2c9ce7c25f39
 length_on_deck: 8.4582
-sail_number: 140Y
-ssr: '151174'
-callsign: ''
-ownerships:
-- end: 2011
-  name: Robert Leadbeater
-  share: 64
-  start: 0
-- name: Mary and Wayne Brietbart
-  share: 64
-  start: 2011
-- share: 64
-  member: 5732
-  current: true
-  start: '?'
-place_built: Spain/Maldon
-updated_at: '2021-12-19T13:39:58.985359+00:00'
-website: ''
-year: 1964
-year_is_approximate: false
-previous_names:
-- Cariad
-construction_details: Carvel mahogany on steamed oak and ash
 beam: 2.4384
 design_class:
   name: East Anglian Mk I

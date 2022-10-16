@@ -7,17 +7,32 @@ short_description: ''
 full_description: She was fitted out at Robinsons Yard, Woodbridge and is a sister
   ship to "Grace O' Malley" in which Libby Purves and family sailed around the UK
   as featured in her book "One Summer's Grace".
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1987
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.143
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- name: Chris Minty
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7c626d10-5779-43fa-97d6-e9871288b605
+draft: 1.143
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -35,22 +50,7 @@ handicap_data:
   fore_triangle_base: 5.7912704218483295
   length_on_waterline: 7.848695440136551
   fore_triangle_height: 8.458302852962692
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 7c626d10-5779-43fa-97d6-e9871288b605
 length_on_deck: 9.144
-callsign: ''
-ownerships:
-- name: Chris Minty
-  share: 64
-  start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:39:38.186132+00:00'
-website: ''
-year: 1987
-year_is_approximate: false
-construction_details: GRP
 beam: 2.8956
 design_class:
   name: Cornish Crabber Pilot Cutter 30

@@ -24,14 +24,42 @@ full_description: "<p>Built by Saunders &amp; Co. on the River Dart in 1924, for
   \ showing &#39;Provident&#39; at sea and undergoing significant restoration in 2013.</p>\r\
   \n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"360\" src=\"https://www.youtube.com/embed/a5Xua89bmic\"\
   \ width=\"640\"></iframe></p>"
+year: 1924
+year_is_approximate: false
 builder:
   name: Sanders and Co.
   id: 661dad0e-9862-43d8-bc2d-729c2e8b757a
+place_built: Galmpton
 construction_material: wood
 construction_method: unknown
-draft: 2.6914
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Brixham
+hull_form: long keel deep forefoot
+sail_number: BM28
+callsign: ''
+ownerships:
+- end: 1971
+  name: Island Cruising Club
+  share: 64
+  start: 1951
+- note: Bought in 1951 John Bayley who founded the Island Cruising Club she continued
+    under Club ownership until 1971 when she was bought by the Maritime Trust and
+    subsequently the Island Trust. She was bought by the Trinity Sailing Foundation
+    in 2002.
+  text: Bought in
+  start: 1951
+  start_is_approximate: false
+- name: Trinity Sailing
+  share: 64
+  start: 2002
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://www.trinitysailing.org/vessels/provident/
+id: 9895bb27-7350-47f4-9cbe-4a2f48beb9e9
+image_key: 4rRbxZ
+thumb: https://photos.smugmug.com/photos/i-DMCmg72/0/Th/i-DMCmg72-Th.jpg
+draft: 2.6914
 handicap_data:
   beam: 5.4864667154352595
   main:
@@ -56,34 +84,7 @@ handicap_data:
   fore_triangle_base: 12.192148256522799
   length_on_waterline: 18.2882223847842
   fore_triangle_height: 10.66812972445745
-home_country: GBR
-home_port: Brixham
-hull_form: long keel deep forefoot
-id: 9895bb27-7350-47f4-9cbe-4a2f48beb9e9
 length_on_deck: 21.336
-sail_number: BM28
-callsign: ''
-ownerships:
-- end: 1971
-  name: Island Cruising Club
-  share: 64
-  start: 1951
-- note: Bought in 1951 John Bayley who founded the Island Cruising Club she continued
-    under Club ownership until 1971 when she was bought by the Maritime Trust and
-    subsequently the Island Trust. She was bought by the Trinity Sailing Foundation
-    in 2002.
-  text: Bought in
-  start: 1951
-  start_is_approximate: false
-- name: Trinity Sailing
-  share: 64
-  start: 2002
-place_built: Galmpton
-updated_at: '2021-12-19T13:38:42.135195+00:00'
-website: http://www.trinitysailing.org/vessels/provident/
-year: 1924
-year_is_approximate: false
-image_key: 4rRbxZ
 beam: 5.4864
 for_sale_state:
   text: not_for_sale

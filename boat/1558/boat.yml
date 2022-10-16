@@ -6,17 +6,37 @@ mainsail_type: gaff
 short_description: Built by John Robert Laband in 1991, Working Yacht I is ferrocement
   with ply and teak deck.
 full_description: ''
-builder:
-  name: Brookes/Laband
-  id: 11f88b89-0199-47e5-9f91-967d6f18da88
+year: 1991
+year_is_approximate: false
 designer:
   name: Hartley and Brookes
   id: 3f60dec6-7b94-4a89-ac3b-0982e638172c
+builder:
+  name: Brookes/Laband
+  id: 11f88b89-0199-47e5-9f91-967d6f18da88
+place_built: Bristol
 construction_material: ferro
 construction_method: unknown
-draft: 1.6764
+construction_details: Ferro cement, ply and teak deck
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bristol
+hull_form: long keel deep forefoot
+ssr: '45040'
+callsign: ''
+ownerships:
+- id: 188
+  share: 64
+  start: 1990
+  member: 2782
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b084fd15-223c-4755-977d-b37a4538e785
+image_key: KpFMHr
+thumb: https://photos.smugmug.com/photos/i-dQzSjSZ/0/Th/i-dQzSjSZ-Th.jpg
+draft: 1.6764
 handicap_data:
   beam: 4.114850036576445
   main:
@@ -35,26 +55,7 @@ handicap_data:
   fore_triangle_base: 6.705681541087539
   length_on_waterline: 11.887344550109729
   fore_triangle_height: 13.258961228968543
-home_country: GBR
-home_port: Bristol
-hull_form: long keel deep forefoot
-id: b084fd15-223c-4755-977d-b37a4538e785
 length_on_deck: 13.1064
-ssr: '45040'
-callsign: ''
-ownerships:
-- id: 188
-  share: 64
-  start: 1990
-  member: 2782
-  current: true
-place_built: Bristol
-updated_at: '2021-12-19T13:39:14.711909+00:00'
-website: ''
-year: 1991
-year_is_approximate: false
-image_key: KpFMHr
-construction_details: Ferro cement, ply and teak deck
 beam: 4.1148
 for_sale_state:
   text: not_for_sale

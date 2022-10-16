@@ -8,37 +8,23 @@ full_description: "<p>1971 - 1981 based at Gosport, 1981 -1999 based at St Just,
   \ 1999 - 2013 based at Maryport, Cumbria.</p>\r\n\r\n<p>Awarded 3rd prize in YM/RYA\
   \ cruising log competition 2002. New rig with taller mast and longer boom (for better\
   \ performance in light airs) fitted 2012.</p>"
-builder:
-  name: J.W. and A. Upham Ltd.
-  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+year: 1971
+year_is_approximate: false
 designer:
   name: Kim Holman
   id: 8833d78f-9c94-4d4e-bde5-71fa74207177
+builder:
+  name: J.W. and A. Upham Ltd.
+  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+place_built: Brixham
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.6764
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  main:
-    foot: 3.3528407705437697
-    luff: 9.1441111923921
-  thcf: 0.905
-  draft: 1.6764203852718849
-  sailarea: 29.218136016747565
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
-  length_over_spars: 8.53450377956596
-  fore_triangle_base: 3.2004389173372347
-  length_on_waterline: 6.5532796878810045
-  fore_triangle_height: 10.210924164837843
 home_country: 'null'
 home_port: Whitehaven
 hull_form: long keel sloping forefoot
-id: 2d41200c-ddba-4fe9-858f-e683cf1ee016
-length_on_deck: 8.5344
 sail_number: 1643Y
 uk_part1: '342613'
 callsign: ''
@@ -59,12 +45,26 @@ ownerships:
   member: 4817
   current: true
   start: '?'
-place_built: Brixham
-updated_at: '2021-12-19T13:40:01.688134+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1971
-year_is_approximate: false
-construction_details: GRP
+id: 2d41200c-ddba-4fe9-858f-e683cf1ee016
+draft: 1.6764
+handicap_data:
+  beam: 2.43842965130456
+  main:
+    foot: 3.3528407705437697
+    luff: 9.1441111923921
+  thcf: 0.905
+  draft: 1.6764203852718849
+  sailarea: 29.218136016747565
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  length_over_spars: 8.53450377956596
+  fore_triangle_base: 3.2004389173372347
+  length_on_waterline: 6.5532796878810045
+  fore_triangle_height: 10.210924164837843
+length_on_deck: 8.5344
 beam: 2.4384
 design_class:
   name: Twister

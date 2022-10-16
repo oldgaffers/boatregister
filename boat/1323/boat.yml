@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Island Plastics/T. Wallace
-  id: 41fc0674-08cc-4d89-a9b0-0ad00be9adf0
+year: 1978
+year_is_approximate: false
 designer:
   name: B. Waite
   id: 3fbf7108-84d0-4482-8901-9a5a0d62bddf
+builder:
+  name: Island Plastics/T. Wallace
+  id: 41fc0674-08cc-4d89-a9b0-0ad00be9adf0
+place_built: Ryde
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.0668
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: T Wallace
+  share: 64
+  start: 1978
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1dfb3883-59e9-4bfc-945a-598bea6bad65
+draft: 1.0668
 handicap_data:
   beam: 2.8041940990002434
   draft: 1.066812972445745
@@ -23,22 +38,7 @@ handicap_data:
     type: fixed
   length_over_all: 7.010485247500609
   length_on_waterline: 6.4008778346744695
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 1dfb3883-59e9-4bfc-945a-598bea6bad65
 length_on_deck: 7.0104
-callsign: ''
-ownerships:
-- name: T Wallace
-  share: 64
-  start: 1978
-place_built: Ryde
-updated_at: '2021-12-19T13:39:08.130882+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-construction_details: GRP
 beam: 2.8042
 design_class:
   name: IP23 Motorsailer

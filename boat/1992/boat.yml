@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Gunning
-  id: 91048ebb-62f1-47a5-9768-add175a34ed2
+year: 1947
+year_is_approximate: false
 designer:
   name: M Gunning
   id: 4df22458-0cdb-4244-8bea-662592a1fb87
+builder:
+  name: Gunning
+  id: 91048ebb-62f1-47a5-9768-add175a34ed2
+place_built: Sunderland
 construction_material: steel
 construction_method: unknown
-draft: 0.9144
+construction_details: Steel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Wootton Creek
+hull_form: long keel deep forefoot
+sail_number: '906'
+uk_part1: '181142'
+callsign: ''
+ownerships:
+- name: B Strutt
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b47ba51e-f646-421e-bc81-82c52f1e564b
+draft: 0.9144
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -30,24 +47,7 @@ handicap_data:
   fore_triangle_base: 3.4046574006339916
   length_on_waterline: 8.199219702511582
   fore_triangle_height: 9.022189709826872
-home_country: 'null'
-home_port: Wootton Creek
-hull_form: long keel deep forefoot
-id: b47ba51e-f646-421e-bc81-82c52f1e564b
 length_on_deck: 9.144
-sail_number: '906'
-uk_part1: '181142'
-callsign: ''
-ownerships:
-- name: B Strutt
-  share: 64
-  start: 2012
-place_built: Sunderland
-updated_at: '2021-12-19T13:39:26.302375+00:00'
-website: ''
-year: 1947
-year_is_approximate: false
-construction_details: Steel
 beam: 3.048
 for_sale_state:
   text: not_for_sale

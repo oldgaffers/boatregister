@@ -5,14 +5,31 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
+year: 1938
+year_is_approximate: false
 builder:
   name: Bemesters
   id: c1598b05-de6e-484a-890d-ca85c5b599b3
+place_built: Chichester
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Wood carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bradwell
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 660
+  share: 64
+  member: 5493
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2f7a02c3-2949-49ad-a872-0a1790157bfa
+draft: 1.2192
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -27,24 +44,7 @@ handicap_data:
   fore_triangle_base: 2.590831504511095
   length_on_waterline: 7.467690807120214
   fore_triangle_height: 10.66812972445745
-home_country: 'null'
-home_port: Bradwell
-hull_form: long keel deep forefoot
-id: 2f7a02c3-2949-49ad-a872-0a1790157bfa
 length_on_deck: 8.1778
-callsign: ''
-ownerships:
-- id: 660
-  share: 64
-  member: 5493
-  current: true
-  start: '?'
-place_built: Chichester
-updated_at: '2022-02-14T11:04:40.382535+00:00'
-website: ''
-year: 1938
-year_is_approximate: false
-construction_details: Wood carvel
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

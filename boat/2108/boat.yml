@@ -7,17 +7,38 @@ short_description: <p>The first hull was built in 1983 and after being burned, w
   replaced in 1986.&nbsp;</p>
 full_description: <p>&#39;Aussie II&#39; is a Cornish Shrimper, well known for racing
   with the OGA on the East Coast since the 1980s.</p>
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1986
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.4816
+construction_details: GRP hull
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Burnham on Crouch
+hull_form: centre-boarder
+sail_number: '108'
+callsign: ''
+ownerships:
+- id: 109
+  share: 64
+  start: 1988
+  member: 1921
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 139f3161-e2c9-46a8-ac44-eb7d525a4029
+image_key: KTNHXF
+thumb: https://photos.smugmug.com/photos/i-WRPK4tN/0/Th/i-WRPK4tN-Th.jpg
+draft: 0.4816
 handicap_data:
   beam: 2.1854425749817117
   main:
@@ -30,27 +51,7 @@ handicap_data:
   fore_triangle_base: 2.539014874420873
   length_on_waterline: 5.334064862228725
   fore_triangle_height: 4.648256522799317
-home_country: GBR
-home_port: Burnham on Crouch
-hull_form: centre-boarder
-id: 139f3161-e2c9-46a8-ac44-eb7d525a4029
 length_on_deck: 5.8674
-sail_number: '108'
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 109
-  share: 64
-  start: 1988
-  member: 1921
-  current: true
-place_built: Rock
-updated_at: '2021-12-19T13:39:29.570139+00:00'
-website: ''
-year: 1986
-year_is_approximate: false
-image_key: KTNHXF
-construction_details: GRP hull
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

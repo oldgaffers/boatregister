@@ -5,24 +5,19 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Ibis was converted from a fishing smack to a yacht in the 1930&#39;s</p>
 full_description: ''
+year: 1888
+year_is_approximate: false
 builder:
   name: Whitstable Oyster Co.
   id: a6c3dc29-2260-442b-abc4-c09d7c2f318e
+place_built: Faversham
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.5052426237503047
-  draft: 1.3716166788588149
-  length_over_all: 11.277737137283589
-  length_on_waterline: 9.1441111923921
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: ca0283fb-f6ad-4d73-98f8-5958d773f2d6
-length_on_deck: 11.2776
 callsign: ''
 ownerships:
 - end: 1972
@@ -32,12 +27,18 @@ ownerships:
 - name: Helen Davies
   share: 64
   start: 1979
-place_built: Faversham
-updated_at: '2021-12-19T13:38:34.175404+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1888
-year_is_approximate: false
+id: ca0283fb-f6ad-4d73-98f8-5958d773f2d6
 image_key: gBqKMr
+thumb: https://photos.smugmug.com/photos/i-2Gdb4Wz/0/Th/i-2Gdb4Wz-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 3.5052426237503047
+  draft: 1.3716166788588149
+  length_over_all: 11.277737137283589
+  length_on_waterline: 9.1441111923921
+length_on_deck: 11.2776
 beam: 3.5052
 for_sale_state:
   text: not_for_sale

@@ -5,30 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: ErnestgF. Elkins
-  id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
+year_is_approximate: false
 designer:
   name: Unknown
   id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+builder:
+  name: ErnestgF. Elkins
+  id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
+place_built: Christchurch
 construction_material: wood
 construction_method: carvel
-draft: 0.9906
+construction_details: Carvel Pitchpine on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  moving_keel: true
-  draft_keel_up: 0.9906
-  length_overall: 7.0104
-  draft_keel_down: 2.0056
-  moving_keel_type: Centreboard
-  length_over_spars: 8.9916
-  length_on_waterline: 6.5014
 home_country: GBR
 home_port: Chichester
 hull_form: long keel deep forefoot
-id: 7640cace-6c66-4d8a-8d5a-ad233208a8e1
-length_on_deck: 7.0104
 callsign: ''
 ownerships:
 - name: Ian McKinnell
@@ -39,11 +31,19 @@ ownerships:
   member: 3713
   current: true
   start: '?'
-place_built: Christchurch
-updated_at: '2021-12-19T13:40:04.213606+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year_is_approximate: false
-construction_details: Carvel Pitchpine on Oak
+id: 7640cace-6c66-4d8a-8d5a-ad233208a8e1
+draft: 0.9906
+handicap_data:
+  moving_keel: true
+  draft_keel_up: 0.9906
+  length_overall: 7.0104
+  draft_keel_down: 2.0056
+  moving_keel_type: Centreboard
+  length_over_spars: 8.9916
+  length_on_waterline: 6.5014
+length_on_deck: 7.0104
 beam: 2.0056
 for_sale_state:
   text: not_for_sale

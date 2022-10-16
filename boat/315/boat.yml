@@ -31,42 +31,27 @@ full_description: "<p>\"When his last boat, the 42' Tredwin barge <em>Pearl</em>
   \ Club Journal, 1938, on <a href=\"http://www.sailing-by.org.uk/content/standing-waves-and-submarines\"\
   >Sailing by</a> and explore her <a href=\"http://robinetta-log.blogspot.co.uk/\"\
   \ target=\"_blank\">blog</a> with a detailed history of ownership and other exploits.</p>"
-builder:
-  name: Enterprise Small Craft
-  id: a27bca50-d155-428a-be49-a542d64ba316
+year: 1937
+year_is_approximate: false
 designer:
   name: D.A. Rayner
   id: afc68d59-e7ba-466e-861f-741e2eeae526
+builder:
+  name: Enterprise Small Craft
+  id: a27bca50-d155-428a-be49-a542d64ba316
+place_built: Rock Ferry, Birkenhead
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: pitch pine on oak and elm
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.441
-  main:
-    foot: 4
-    head: 4.26725188978298
-    luff: 4.319068519873201
-  thcf: 0.85
-  topsail: {}
-  sailarea: 24.156
-  propellor:
-    type: fixed
-  length_on_deck: 6.858
-  length_over_all: 6.858083394294074
-  fore_triangle_base: 1.5240185320653499
-  length_on_waterline: 6.096
-  fore_triangle_height: 4.57205559619605
 home_country: GBR
 home_port: Tollesbury
 hull_form: long keel deep forefoot
-id: 85315666-4359-47f7-8d8d-4dd2905b7aa2
-length_on_deck: 6.858
 reference:
 - YM 1937
 sail_number: '315'
-spar_material: wood
 ssr: '131134'
 uk_part1: '165315'
 callsign: MKDZ8
@@ -105,15 +90,31 @@ ownerships:
   start: 2007
   member: 5004
   current: true
-place_built: Rock Ferry, Birkenhead
 updated_at: '2022-09-04T12:52:20.666308+00:00'
 website: https://robinetta-log.blogspot.com/p/robinetta.html
-year: 1937
-year_is_approximate: false
+id: 85315666-4359-47f7-8d8d-4dd2905b7aa2
 nsbr: '1717'
 fishing_number: ''
 mssi: '235109366'
 image_key: 9NV8KW
-construction_details: pitch pine on oak and elm
+thumb: https://photos.smugmug.com/photos/i-F8N5HJk/2/Th/i-F8N5HJk-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.441
+  main:
+    foot: 4
+    head: 4.26725188978298
+    luff: 4.319068519873201
+  thcf: 0.85
+  topsail: {}
+  sailarea: 24.156
+  propellor:
+    type: fixed
+  length_on_deck: 6.858
+  length_over_all: 6.858083394294074
+  fore_triangle_base: 1.5240185320653499
+  length_on_waterline: 6.096
+  fore_triangle_height: 4.57205559619605
+length_on_deck: 6.858
 for_sale_state:
   text: not_for_sale

@@ -13,27 +13,23 @@ full_description: <i>Ceres</i> was built by Everson &amp; Sons of Woodbridge alo
   and 2007.<p>After an on-water survey by Adrian Overbury, Rod Daniel bought her in
   December 2019 and renamed her <i>Ceres</i>. The Woodbridge Boatyard (formerly Everson's)
   is responsible for her 60<sup>th</sup> Birthday refurbishment.
-builder:
-  name: Eversons Boatyard
-  id: 6775dd6b-1272-4fbb-b070-992f199347f2
+year: 1960
+year_is_approximate: false
 designer:
   name: Everson
   id: 6c163a0c-1d1b-4c81-afcf-b6b184ffde94
+builder:
+  name: Eversons Boatyard
+  id: 6775dd6b-1272-4fbb-b070-992f199347f2
+place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-draft: 1.1674
 engine_installations: []
 for_sales:
 - asking_price: 57000
-handicap_data:
-  length_overall: 9.144
-  length_over_spars: 12.8016
-  length_on_waterline: 7.9248
 home_country: GBR
 home_port: Woodbridge Boatyard, Woodbridge IP12 4BB
 hull_form: long keel deep forefoot
-id: 1c9796a7-7562-42d4-ac9d-9b83a99ddb5d
-length_on_deck: 9.144
 ssr: '156705'
 uk_part1: '302311'
 callsign: ''
@@ -50,15 +46,20 @@ ownerships:
   member: 6370
   current: true
   start: '?'
-place_built: Woodbridge
-updated_at: '2021-12-19T13:40:09.980353+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1960
-year_is_approximate: false
+id: 1c9796a7-7562-42d4-ac9d-9b83a99ddb5d
 previous_names:
 - Glee
 - Rosanna
 image_key: kDndPb
+thumb: https://photos.smugmug.com/photos/i-4j7N2ct/0/Th/i-4j7N2ct-Th.jpg
+draft: 1.1674
+handicap_data:
+  length_overall: 9.144
+  length_over_spars: 12.8016
+  length_on_waterline: 7.9248
+length_on_deck: 9.144
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

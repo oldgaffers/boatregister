@@ -5,39 +5,39 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Anderson William and Sons
-  id: 2bcba7b6-1394-4d4b-b67a-c2ae394f7eea
+year: 1908
+year_is_approximate: false
 designer:
   name: William Anderson
   id: 1d38414c-e5b9-44c8-92ae-f21d43dd8c78
+builder:
+  name: Anderson William and Sons
+  id: 2bcba7b6-1394-4d4b-b67a-c2ae394f7eea
+place_built: Millom
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.21921482565228
-  length_over_all: 9.997561570348694
-  length_on_waterline: 8.22970007315289
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: aea2e344-6fd2-463d-a09c-41ce324c92dd
-length_on_deck: 9.9974
 callsign: ''
 ownerships:
 - name: A W Johnson
   share: 64
   start: 2012
-place_built: Millom
-updated_at: '2021-12-19T13:38:56.552663+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1908
-year_is_approximate: false
+id: aea2e344-6fd2-463d-a09c-41ce324c92dd
 previous_names:
 - Mermaid
+draft: 1.2192
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.21921482565228
+  length_over_all: 9.997561570348694
+  length_on_waterline: 8.22970007315289
+length_on_deck: 9.9974
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

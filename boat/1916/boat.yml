@@ -26,34 +26,23 @@ full_description: "<p>Built in 1923, &#39;Squib&#39; is a Westcliff One Design, 
   \ W Sails of Leigh. In 1998 - 1999 she was based at Fleetwood Marina and used for\
   \ day sailing off the port and in the River Wyre.</p>\r\n\r\n<p>In 2008, she was\
   \ moved to Britanny.</p>"
-builder:
-  name: Cole and Wiggins
-  id: ef72fbc2-c153-4229-aa98-3b6d1af50ab8
+year: 1923
+year_is_approximate: false
 designer:
   name: Norman Dallimore
   id: d620b2b5-76e8-4d57-87b8-7beadfc28743
+builder:
+  name: Cole and Wiggins
+  id: ef72fbc2-c153-4229-aa98-3b6d1af50ab8
+place_built: Leigh on Sea
 construction_material: wood
 construction_method: clinker
-draft: 0.253
+construction_details: Clinker - Mahogany on Oak. Spruce mast & spars.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  main:
-    foot: 3.5052426237503047
-    head: 5.334064862228725
-    luff: 2.286027798098025
-  thcf: 0.844973721
-  draft: 0.24384296513045597
-  length_over_all: 5.4864667154352595
-  fore_triangle_base: 2.0574250182882223
-  length_on_waterline: 5.105462082418922
-  fore_triangle_height: 5.273104120946111
 home_country: FRA
 home_port: la Rance, Dinan
 hull_form: unknown
-id: 67de3361-7742-4e2d-bc67-a21c8abb324e
-length_on_deck: 5.4864
 sail_number: WOD 5
 callsign: ''
 ownerships:
@@ -74,12 +63,23 @@ ownerships:
   text: Sold to Queyrens family, based in Britanny, France,
   start: 2008
   start_is_approximate: false
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:39:23.985415+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1923
-year_is_approximate: false
-construction_details: Clinker - Mahogany on Oak. Spruce mast & spars.
+id: 67de3361-7742-4e2d-bc67-a21c8abb324e
+draft: 0.253
+handicap_data:
+  beam: 1.8288222384784198
+  main:
+    foot: 3.5052426237503047
+    head: 5.334064862228725
+    luff: 2.286027798098025
+  thcf: 0.844973721
+  draft: 0.24384296513045597
+  length_over_all: 5.4864667154352595
+  fore_triangle_base: 2.0574250182882223
+  length_on_waterline: 5.105462082418922
+  fore_triangle_height: 5.273104120946111
+length_on_deck: 5.4864
 beam: 1.8288
 design_class:
   name: Westcliff OD

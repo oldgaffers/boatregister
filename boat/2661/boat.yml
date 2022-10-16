@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Design of 1906.  See paper archive for build specn and plans.
-builder:
-  name: Rutherfords
-  id: 5ffea3ec-47dc-4ba8-9366-b05f0875f16d
+year: 1932
+year_is_approximate: false
 designer:
   name: G. Cockshott
   id: 33f4a349-1159-4c85-9b58-8b067340bf7d
+builder:
+  name: Rutherfords
+  id: 5ffea3ec-47dc-4ba8-9366-b05f0875f16d
+place_built: Birkenhead
 construction_material: wood
 construction_method: clinker
-draft: 0.4572
+construction_details: Larch clinker on american elm timbers, transom stern over skeg,
+  5cwt internal ballast and 1/2 &quot; steel centre plate
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: West Kirby
+hull_form: unknown
+sail_number: '1'
+callsign: ''
+ownerships:
+- name: John Laing
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b882aa84-c1bf-440c-aa1f-e7e08bb62cf0
+draft: 0.4572
 handicap_data:
   beam: 1.6764203852718849
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 2.081809314801268
   length_on_waterline: 4.87685930260912
   fore_triangle_height: 2.8956352109241648
-home_country: 'null'
-home_port: West Kirby
-hull_form: unknown
-id: b882aa84-c1bf-440c-aa1f-e7e08bb62cf0
 length_on_deck: 5.1054
-sail_number: '1'
-callsign: ''
-ownerships:
-- name: John Laing
-  share: 64
-  start: 2012
-place_built: Birkenhead
-updated_at: '2021-12-19T13:39:45.529364+00:00'
-website: ''
-year: 1932
-year_is_approximate: false
-construction_details: Larch clinker on american elm timbers, transom stern over skeg,
-  5cwt internal ballast and 1/2 &quot; steel centre plate
 beam: 1.6764
 for_sale_state:
   text: not_for_sale

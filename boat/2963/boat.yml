@@ -5,26 +5,20 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1898
+year_is_approximate: false
 builder:
   name: Jelles Croles Jelle
   id: ecfdfc20-af56-44c6-8507-3e45712a993a
+place_built: Ijlst
 construction_material: iron
 construction_method: unknown
-draft: 0.7986
+construction_details: Riveted Wrought Iron
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.947207998049256
-  draft: 0.7985857108022434
-  propellor:
-    type: fixed
-  length_over_all: 17.230553523530844
-  length_on_waterline: 16.499024628139477
 home_country: 'null'
 home_port: London (Downings Rd. Moorings
 hull_form: long keel deep forefoot
-id: 017bb17d-b9f5-414e-8edd-2c2020fb91c9
-length_on_deck: 17.2303
 sail_number: 115TA
 ssr: '2963'
 callsign: ''
@@ -32,14 +26,20 @@ ownerships:
 - name: Martin Ford
   share: 64
   start: 2011
-place_built: Ijlst
-updated_at: '2021-12-19T13:39:54.732861+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1898
-year_is_approximate: false
+id: 017bb17d-b9f5-414e-8edd-2c2020fb91c9
 previous_names:
 - Vrouwe Johanna
-construction_details: Riveted Wrought Iron
+draft: 0.7986
+handicap_data:
+  beam: 3.947207998049256
+  draft: 0.7985857108022434
+  propellor:
+    type: fixed
+  length_over_all: 17.230553523530844
+  length_on_waterline: 16.499024628139477
+length_on_deck: 17.2303
 beam: 3.9472
 for_sale_state:
   text: not_for_sale

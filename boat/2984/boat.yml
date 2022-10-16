@@ -7,17 +7,32 @@ short_description: ''
 full_description: Donated to Fort Augustus Abbey School, Invernesshire 1965. Donated
   Historic Boat Section, Portsmouth Naval Base Porperty Trust 1990. Renovated 2002
   - 2006.
-builder:
-  name: Devonport Dockyard
-  id: 2ee8ba2c-dea1-4109-afeb-f4437787633f
+year: 1965
+year_is_approximate: false
 designer:
   name: Admiralty
   id: 4517e267-94ae-4e6f-bc79-ba3d30f4153e
+builder:
+  name: Devonport Dockyard
+  id: 2ee8ba2c-dea1-4109-afeb-f4437787633f
 construction_material: wood
 construction_method: clinker
-draft: 0.4328
+construction_details: Clinker mahogany on Canadian elm steamed timbers and strimgers
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Portsmouth naval Base
+hull_form: unknown
+sail_number: K216
+callsign: ''
+ownerships:
+- name: Portsmouth Naval Bast Property Trust
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 824180ee-f5b8-4780-9dad-240673f262ca
+draft: 0.4328
 handicap_data:
   beam: 1.8288
   main:
@@ -32,22 +47,7 @@ handicap_data:
   fore_triangle_base: 2.286
   length_on_waterline: 8.2296
   fore_triangle_height: 3.8618
-home_country: 'null'
-home_port: Portsmouth naval Base
-hull_form: unknown
-id: 824180ee-f5b8-4780-9dad-240673f262ca
 length_on_deck: 8.2296
-sail_number: K216
-callsign: ''
-ownerships:
-- name: Portsmouth Naval Bast Property Trust
-  share: 64
-  start: 2012
-updated_at: '2021-12-19T13:39:55.354134+00:00'
-website: ''
-year: 1965
-year_is_approximate: false
-construction_details: Clinker mahogany on Canadian elm steamed timbers and strimgers
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

@@ -26,37 +26,24 @@ full_description: "<p>&#39;Odd Times III&#39; is a Tamarisk 24, a design evolved
   \ moving to the Helford River and later Falmouth.</p>\r\n\r\n<p>After several more\
   \ owners &#39;Odd Times III&#39; returned to cruising the Solent and racing/rallying\
   \ with the OGA.</p>"
-builder:
-  name: North Sea Craft/C.F. Gill
-  id: 65b3484b-536d-4494-98cf-76349fd1b647
+year: 1975
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Sea Craft/C.F. Gill
+  id: 65b3484b-536d-4494-98cf-76349fd1b647
+place_built: Brundall
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.8839
+construction_details: GRP with timber deck and cabin
 engine_installations: []
 for_sales:
 - asking_price: 9250
-handicap_data:
-  beam: 2.43842965130456
-  main:
-    foot: 3.9624481833699097
-    head: 3.6576444769568397
-    luff: 3.6576444769568397
-  thcf: 0.874563858
-  draft: 0.8839307485979029
-  propellor:
-    type: fixed
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 3.9929285540112165
-  length_on_waterline: 6.452694464764692
-  fore_triangle_height: 6.4008778346744695
 home_country: GBR
 home_port: Hamble
 hull_form: long keel deep forefoot
-id: 208c68cb-a3a7-456e-afe2-c6896fe83391
-length_on_deck: 7.3152
 sail_number: '3246'
 ssr: '39535'
 callsign: ''
@@ -76,13 +63,27 @@ ownerships:
 - name: Chris OConnor
   share: 64
   start: 2016
-place_built: Brundall
-updated_at: '2021-12-19T13:39:59.375911+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1975
-year_is_approximate: false
+id: 208c68cb-a3a7-456e-afe2-c6896fe83391
 image_key: s2QGkw
-construction_details: GRP with timber deck and cabin
+thumb: https://photos.smugmug.com/photos/i-h9WH2JK/0/Th/i-h9WH2JK-Th.jpg
+draft: 0.8839
+handicap_data:
+  beam: 2.43842965130456
+  main:
+    foot: 3.9624481833699097
+    head: 3.6576444769568397
+    luff: 3.6576444769568397
+  thcf: 0.874563858
+  draft: 0.8839307485979029
+  propellor:
+    type: fixed
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 3.9929285540112165
+  length_on_waterline: 6.452694464764692
+  fore_triangle_height: 6.4008778346744695
+length_on_deck: 7.3152
 beam: 2.4384
 design_class:
   name: Tamarisk 24

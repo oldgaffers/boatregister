@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Previous owner Denis Aymer and Joe Connolly
-builder:
-  name: Brannelly
-  id: 34ac85f5-6346-4c30-8616-b9230ed48a6a
+year: 1884
+year_is_approximate: false
 designer:
   name: Brannelly
   id: 06aea8b0-6a5d-4724-8545-5fe2216a1d91
+builder:
+  name: Brannelly
+  id: 34ac85f5-6346-4c30-8616-b9230ed48a6a
+place_built: Kinvara, Co Galway
 construction_material: wood
 construction_method: unknown
-draft: 1.8532
+construction_details: Larch on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: John Healion
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2236c5bd-c3cf-452f-9666-1ca03d8e1bb6
+draft: 1.8532
 handicap_data:
   beam: 3.5357229943916115
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 12.496951962935869
   length_on_waterline: 10.972933430870519
   fore_triangle_height: 6.0960741282613995
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 2236c5bd-c3cf-452f-9666-1ca03d8e1bb6
 length_on_deck: 12.0396
-callsign: ''
-ownerships:
-- name: John Healion
-  share: 64
-  start: 2012
-place_built: Kinvara, Co Galway
-updated_at: '2021-12-19T13:39:21.361167+00:00'
-website: ''
-year: 1884
-year_is_approximate: false
-construction_details: Larch on Oak
 beam: 3.5357
 for_sale_state:
   text: not_for_sale

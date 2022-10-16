@@ -33,37 +33,24 @@ full_description: "<p>Designed by William &amp; John Atkin, the hull of the &#39
   \ to join him on the passage, <a href=\"https://www.oga.org.uk/news/marihona-crew\"\
   >more details here</a>.</p>\r\n\r\n<h4>Interior images courtesy of <a href=\"http://www.red-ensign.com\"\
   \ target=\"_blank\">Red Ensign Yacht Brokers</a>, Port Pendennis, Falmouth.</h4>"
-builder:
-  name: Sauvika Battyggeri
-  id: 63ae9d4e-f777-40ed-bd03-92155d42458b
+year: 1957
+year_is_approximate: false
 designer:
   name: William Atkin
   id: f455f3b6-d2be-4793-a2d4-512398485aef
+builder:
+  name: Sauvika Battyggeri
+  id: 63ae9d4e-f777-40ed-bd03-92155d42458b
+place_built: Risor, South Norway
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  main:
-    foot: 5.919287978541819
-    head: 3.605827846866618
-    luff: 5.766886125335284
-  thcf: 0.993146243
-  draft: 1.5240185320653499
-  propellor:
-    type: fixed
-  length_over_all: 10.439526944647646
-  fore_triangle_base: 5.840039014874421
-  length_on_waterline: 9.75371860521824
-  fore_triangle_height: 8.662521336259449
 home_country: NOR
 home_port: "Moen Tryb\xE5tbyggeri"
 hull_form: long keel deep forefoot
-id: 3ba010af-0c0e-4d8c-ab2a-e8121eb75a63
-length_on_deck: 10.4394
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1971
@@ -86,13 +73,27 @@ ownerships:
   share: 64
   start: 2015
   current: true
-place_built: Risor, South Norway
 updated_at: '2022-04-10T21:36:43.81064+00:00'
 website: ''
-year: 1957
-year_is_approximate: false
+id: 3ba010af-0c0e-4d8c-ab2a-e8121eb75a63
 image_key: PM5tqX
-construction_details: Carvel
+thumb: https://photos.smugmug.com/photos/i-p9j9M64/0/Th/i-p9j9M64-Th.jpg
+draft: 1.524
+handicap_data:
+  beam: 3.0480370641306997
+  main:
+    foot: 5.919287978541819
+    head: 3.605827846866618
+    luff: 5.766886125335284
+  thcf: 0.993146243
+  draft: 1.5240185320653499
+  propellor:
+    type: fixed
+  length_over_all: 10.439526944647646
+  fore_triangle_base: 5.840039014874421
+  length_on_waterline: 9.75371860521824
+  fore_triangle_height: 8.662521336259449
+length_on_deck: 10.4394
 beam: 3.048
 for_sale_state:
   text: not_for_sale

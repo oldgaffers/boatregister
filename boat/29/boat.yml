@@ -11,29 +11,23 @@ full_description: <p>Built for Mr. Joseph Taylor, during the Great War she was s
   under sail until 1964. A small motor was fitted during the Second World War. The
   well-known writer of the Essex Marshlands, James Wentworth Day, has been on many
   a coastal adventure with the Clayden brothers and &#39;Joseph T&#39;.</p>
-builder:
-  name: Barr and Hocking
-  id: 6f731efb-b3b2-43c7-b4c7-1e5bfae60a37
+year: 1901
+year_is_approximate: false
 designer:
   name: Joseph Taylor/Barr and Hocking
   id: 48dcb94a-4644-40fe-b669-8bd9a976c6dd
+builder:
+  name: Barr and Hocking
+  id: 6f731efb-b3b2-43c7-b4c7-1e5bfae60a37
+place_built: Maldon
 construction_material: wood
 construction_method: carvel
-draft: 1.143
+construction_details: Carvel larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.2004389173372347
-  draft: 1.097293343087052
-  propellor:
-    type: fixed
-  length_over_all: 9.296513045598633
-  length_on_waterline: 8.991709339185563
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
-id: 7870c4ae-a90c-4d7a-9730-4c2c38326b9d
-length_on_deck: 9.2964
 callsign: ''
 ownerships:
 - note: 'Previous owner '
@@ -46,16 +40,23 @@ ownerships:
   name: Douglas Scurrey
   share: 64
   start: 1980
-place_built: Maldon
-updated_at: '2021-12-19T13:38:30.507678+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1901
-year_is_approximate: false
+id: 7870c4ae-a90c-4d7a-9730-4c2c38326b9d
 previous_names:
 - Frederick George
 - Joseph T
 image_key: xRVFzw
-construction_details: Carvel larch on oak
+thumb: https://photos.smugmug.com/photos/i-4GbgX54/0/Th/i-4GbgX54-Th.jpg
+draft: 1.143
+handicap_data:
+  beam: 3.2004389173372347
+  draft: 1.097293343087052
+  propellor:
+    type: fixed
+  length_over_all: 9.296513045598633
+  length_on_waterline: 8.991709339185563
+length_on_deck: 9.2964
 beam: 3.2004
 for_sale_state:
   text: not_for_sale

@@ -6,16 +6,32 @@ mainsail_type: gaff
 short_description: Very pretty baby cutter.
 full_description: Off white deck and hull with Oxford blue top plank and waterline.
   Tan sails.
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2006
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: unknown
 engine_installations: []
 for_sales: []
+home_country: United Kingdom
+home_port: Gosport
+hull_form: long keel deep forefoot
+ownerships:
+- id: 1031
+  share: 64
+  member: 6284
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 98128b94-d940-455d-b783-552e2d93b5df
+image_key: Sj89k6
 handicap_data:
   sailarea: 7
   moving_keel: true
@@ -23,22 +39,6 @@ handicap_data:
   draft_keel_down: 1.524
   moving_keel_type: Centreboard
   length_on_waterline: 6.2972
-home_country: United Kingdom
-home_port: Gosport
-hull_form: long keel deep forefoot
-id: 98128b94-d940-455d-b783-552e2d93b5df
-spar_material: wood
-ownerships:
-- id: 1031
-  share: 64
-  member: 6284
-  current: true
-  start: '?'
-place_built: Rock
-updated_at: '2022-02-14T11:04:40.382535+00:00'
-year: 2006
-year_is_approximate: false
-image_key: Sj89k6
 beam: 2.5146
 design_class:
   name: Cornish Crabber 22

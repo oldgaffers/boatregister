@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Water Craft Sep/Oct 97
-builder:
-  name: Liverpool Boat Co. Ltd.
-  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+year: 1983
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Liverpool Boat Co. Ltd.
+  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+place_built: Liverpool
 construction_material: grp
+spar_material: wood
 construction_method: unknown
-draft: 0.5334
+construction_details: G R P hull, deck, and cabin mouldings with solid wood spars
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Southampton
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- name: Ian & Sahra MacGILLIVRAY
+  share: 64
+  start: 2012
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: a760ea78-8a8f-4d20-93cb-29814bbfcdf8
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -29,23 +45,7 @@ handicap_data:
     perpendicular: 1.8288222384784198
   length_over_all: 5.7912704218483295
   length_on_waterline: 5.690685198732017
-home_country: 'null'
-home_port: Southampton
-hull_form: centre-boarder
-id: a760ea78-8a8f-4d20-93cb-29814bbfcdf8
 length_on_deck: 5.7912
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Ian & Sahra MacGILLIVRAY
-  share: 64
-  start: 2012
-place_built: Liverpool
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1983
-year_is_approximate: false
-construction_details: G R P hull, deck, and cabin mouldings with solid wood spars
 beam: 2.1336
 design_class:
   name: Memory 19

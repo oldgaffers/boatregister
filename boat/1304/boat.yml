@@ -6,17 +6,38 @@ mainsail_type: gaff
 short_description: ''
 full_description: Boatman Jul 95 Log W-S/94 CB Dec 90  sold Chell Lady in 2001 to
   east coast, owned since 1991
-builder:
-  name: North Norfolk Boat Building Co.
-  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+year: 1990
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: North Norfolk Boat Building Co.
+  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+place_built: Holt Norfolk
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.5578
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bucklers Hard
+hull_form: unknown
+reference:
+- Boatman Jul 95 Log W-S/94
+- CB Dec 90
+ssr: '43560'
+callsign: ''
+ownerships:
+- name: Philip Wake
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1cfceafa-eda3-48da-a27a-ff11efcbcb2e
+previous_names:
+- Adrienne III
+draft: 0.5578
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -29,28 +50,7 @@ handicap_data:
   fore_triangle_base: 3.002316508168739
   length_on_waterline: 5.715069495245062
   fore_triangle_height: 5.334064862228725
-home_country: 'null'
-home_port: Bucklers Hard
-hull_form: unknown
-id: 1cfceafa-eda3-48da-a27a-ff11efcbcb2e
 length_on_deck: 6.0442
-reference:
-- Boatman Jul 95 Log W-S/94
-- CB Dec 90
-ssr: '43560'
-callsign: ''
-ownerships:
-- name: Philip Wake
-  share: 64
-  start: 2012
-place_built: Holt Norfolk
-updated_at: '2021-12-19T13:39:07.628158+00:00'
-website: ''
-year: 1990
-year_is_approximate: false
-previous_names:
-- Adrienne III
-construction_details: GRP
 beam: 2.286
 design_class:
   name: Norfolk Gypsy

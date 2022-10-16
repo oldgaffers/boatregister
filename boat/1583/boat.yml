@@ -5,39 +5,39 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: FMS
-  id: 13e5206b-71c0-4148-ac6e-0360c6a00222
+year: 1980
+year_is_approximate: false
 designer:
   name: John F. French
   id: bb0171e9-35f7-49a9-a287-d2a45ad98b19
+builder:
+  name: FMS
+  id: 13e5206b-71c0-4148-ac6e-0360c6a00222
+place_built: Portsmouth
 construction_material: ferro
 construction_method: unknown
-draft: 1.143
+construction_details: Ferrocement Hull
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.2309192879785416
-  draft: 1.1430138990490124
-  length_over_all: 9.44891489880517
-  length_on_waterline: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 17741521-561d-4004-8518-d170f0193f5e
-length_on_deck: 9.4488
 uk_part1: '397590'
 callsign: ''
 ownerships:
 - name: Commander J Rayner
   share: 64
   start: 1980
-place_built: Portsmouth
-updated_at: '2021-12-19T13:39:15.482706+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1980
-year_is_approximate: false
-construction_details: Ferrocement Hull
+id: 17741521-561d-4004-8518-d170f0193f5e
+draft: 1.143
+handicap_data:
+  beam: 3.2309192879785416
+  draft: 1.1430138990490124
+  length_over_all: 9.44891489880517
+  length_on_waterline: 7.924896366739819
+length_on_deck: 9.4488
 beam: 3.2309
 for_sale_state:
   text: not_for_sale

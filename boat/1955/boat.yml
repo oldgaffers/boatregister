@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Caton Classic Yachts
-  id: 06f874d1-cfa8-4ed9-a531-afebc630a9b0
+year: 1993
+year_is_approximate: false
 designer:
   name: Alan Pape
   id: 7ba2e3ee-165d-4af8-ab62-3741e9fc24d2
+builder:
+  name: Caton Classic Yachts
+  id: 06f874d1-cfa8-4ed9-a531-afebc630a9b0
+place_built: Caernarfon
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.4722
+construction_details: GRP sheathed timber
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.4996342355523042
-  length_over_all: 9.296513045598633
-  length_on_waterline: 7.620092660326749
 home_country: GBR
 home_port: Holyhead
 hull_form: long keel sloping forefoot
-id: fc82f5fb-b124-4977-966e-2df581b62b95
-length_on_deck: 9.2964
 uk_part1: '712815'
 callsign: ''
 ownerships:
@@ -38,12 +34,16 @@ ownerships:
   start: 2014
   member: 5790
   current: true
-place_built: Caernarfon
-updated_at: '2021-12-19T13:39:25.216641+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1993
-year_is_approximate: false
-construction_details: GRP sheathed timber
+id: fc82f5fb-b124-4977-966e-2df581b62b95
+draft: 1.4722
+handicap_data:
+  beam: 2.8956352109241648
+  draft: 1.4996342355523042
+  length_over_all: 9.296513045598633
+  length_on_waterline: 7.620092660326749
+length_on_deck: 9.2964
 beam: 2.8956
 design_class:
   name: Saga 31

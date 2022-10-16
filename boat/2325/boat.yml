@@ -7,18 +7,44 @@ short_description: <p>Blue Gansey was rebuilt by Ian MacGillivray in 2000. She i
   regularly sailed across the English Channel to French festivals, even though she
   is an open boat.</p>
 full_description: ''
-builder:
-  name: Alan F. Platt  Ltd
-  id: 954dc050-837f-454f-be87-830d8cf00c2b
+year: 1966
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: Alan F. Platt  Ltd
+  id: 954dc050-837f-454f-be87-830d8cf00c2b
+place_built: Essex
 construction_material: wood
 construction_method: unknown
-draft: 0.4267
+construction_details: Mahogany on elm open boat
 engine_installations: []
 for_sales:
 - asking_price: 5500
+home_country: GBR
+home_port: Dartmouth
+hull_form: long keel deep forefoot
+sail_number: 2325Y
+callsign: ''
+ownerships:
+- end: 2016
+  name: Ian MacGillivray
+  share: 64
+  start: 2000
+- name: Peter and Glynis Bidwell
+  share: 64
+  start: 2016
+- share: 64
+  member: 4482
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: aa4ef347-aeed-4609-96f6-5d8d5b09ee8d
+image_key: 85v9bK
+thumb: https://photos.smugmug.com/photos/i-dtnkM5g/0/Th/i-dtnkM5g-Th.jpg
+draft: 0.4267
 handicap_data:
   beam: 2.3600287015362107
   main:
@@ -39,32 +65,7 @@ handicap_data:
   fore_triangle_base: 2.6700324716532555
   length_on_waterline: 5.840071024140453
   fore_triangle_height: 6.04007345647403
-home_country: GBR
-home_port: Dartmouth
-hull_form: long keel deep forefoot
-id: aa4ef347-aeed-4609-96f6-5d8d5b09ee8d
 length_on_deck: 6.4922
-sail_number: 2325Y
-callsign: ''
-ownerships:
-- end: 2016
-  name: Ian MacGillivray
-  share: 64
-  start: 2000
-- name: Peter and Glynis Bidwell
-  share: 64
-  start: 2016
-- share: 64
-  member: 4482
-  current: true
-  start: '?'
-place_built: Essex
-updated_at: '2021-12-19T13:39:35.024383+00:00'
-website: ''
-year: 1966
-year_is_approximate: false
-image_key: 85v9bK
-construction_details: Mahogany on elm open boat
 beam: 2.3774
 design_class:
   name: Blue Peter Class

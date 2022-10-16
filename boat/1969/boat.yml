@@ -5,25 +5,22 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Fabian Bush
-  id: ae48cdcc-b7ab-41a9-ad74-c8a8e1ad745d
+year: 1984
+year_is_approximate: false
 designer:
   name: Fabian Bush
   id: d5ec1a95-1407-4872-b5a7-be568b10e49a
+builder:
+  name: Fabian Bush
+  id: ae48cdcc-b7ab-41a9-ad74-c8a8e1ad745d
+place_built: Osea Island
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.6002194586686174
-  length_over_all: 4.26725188978298
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: bcc203c1-424b-495f-917f-a95b5bae8437
-length_on_deck: 4.2672
 callsign: ''
 ownerships:
 - id: 266
@@ -31,11 +28,14 @@ ownerships:
   start: 2012
   member: 3413
   current: true
-place_built: Osea Island
-updated_at: '2021-12-19T13:39:25.594135+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1984
-year_is_approximate: false
+id: bcc203c1-424b-495f-917f-a95b5bae8437
+draft: 0
+handicap_data:
+  beam: 1.6002194586686174
+  length_over_all: 4.26725188978298
+length_on_deck: 4.2672
 beam: 1.6002
 for_sale_state:
   text: not_for_sale

@@ -5,27 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Dauntless&nbsp; 20ft gaffer built in 1953</p>
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1953
+year_is_approximate: false
 designer:
   name: Latimer
   id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: clinker
-draft: 0.4572
+construction_details: Mahogany clinker copper fastened to oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.6426481346013166
-  draft: 0.45720555961960496
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.690685198732017
 home_country: GBR
 home_port: Christchurch
 hull_form: unknown
-id: c6202b91-74d7-4ab6-b304-b1dfd4631f17
-length_on_deck: 6.096
 callsign: ''
 ownerships:
 - note: Previous owner in 1992 Tony Osborne
@@ -37,12 +33,16 @@ ownerships:
   start: 2012
   member: 3292
   current: true
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:27.793643+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1953
-year_is_approximate: false
-construction_details: Mahogany clinker copper fastened to oak
+id: c6202b91-74d7-4ab6-b304-b1dfd4631f17
+draft: 0.4572
+handicap_data:
+  beam: 2.6426481346013166
+  draft: 0.45720555961960496
+  length_over_all: 6.0960741282613995
+  length_on_waterline: 5.690685198732017
+length_on_deck: 6.096
 beam: 2.6426
 for_sale_state:
   text: not_for_sale

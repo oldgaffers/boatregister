@@ -16,26 +16,23 @@ full_description: "<p>Panacea was built in 1997 as the first of six intended bui
   \ sailed on the East Coast of Ireland between Howth and Wicklow.</p>\r\n\r\n<p>She\
   \ has been laid up in a field in Wexford since 2018, and passed into new ownership\
   \ 2019.</p>"
-builder:
-  name: Steve Prout
-  id: e0a4d921-b8dd-4871-89b6-4f3bc32d5b22
+year: 1998
+year_is_approximate: false
 designer:
   name: Steve Prout
   id: c9859bd5-6d75-487a-ac19-91cdbd6219df
+builder:
+  name: Steve Prout
+  id: e0a4d921-b8dd-4871-89b6-4f3bc32d5b22
+place_built: Sudbourne
 construction_material: grp
 construction_method: unknown
-draft: 0.8382
 engine_installations: []
 for_sales:
 - asking_price: 4000
-handicap_data:
-  beam: 1.9812240916849548
-  length_over_all: 5.4864667154352595
 home_country: IRL
 home_port: Ashore at Donaghmore, Co. Wexford, Ireland
 hull_form: long keel deep forefoot
-id: a565e8c4-d083-4cc8-b1e2-a234a8a09544
-length_on_deck: 5.4864
 callsign: ''
 ownerships:
 - end: 2010
@@ -46,12 +43,16 @@ ownerships:
   name: Frank Traynor
   share: 64
   start: 2012
-place_built: Sudbourne
-updated_at: '2021-12-19T13:39:33.892385+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1998
-year_is_approximate: false
+id: a565e8c4-d083-4cc8-b1e2-a234a8a09544
 image_key: jGz4q8
+thumb: https://photos.smugmug.com/photos/i-zbng5NR/0/Th/i-zbng5NR-Th.jpg
+draft: 0.8382
+handicap_data:
+  beam: 1.9812240916849548
+  length_over_all: 5.4864667154352595
+length_on_deck: 5.4864
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

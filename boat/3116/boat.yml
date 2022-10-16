@@ -5,11 +5,29 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1990
+year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-draft: 0.9114
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '58'
+callsign: ''
+ownerships:
+- name: John Barns
+  share: 64
+  start: 0
+- share: 64
+  member: 5620
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0502560d-7e68-4c30-8acb-6a84dc70e980
+draft: 0.9114
 handicap_data:
   beam: 1.550018850585223
   main:
@@ -23,25 +41,7 @@ handicap_data:
   fore_triangle_base: 2.260027485369422
   length_on_waterline: 5.030061173189466
   fore_triangle_height: 4.56005545720556
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 0502560d-7e68-4c30-8acb-6a84dc70e980
 length_on_deck: 6.099
-sail_number: '58'
-callsign: ''
-ownerships:
-- name: John Barns
-  share: 64
-  start: 0
-- share: 64
-  member: 5620
-  current: true
-  start: '?'
-updated_at: '2021-12-19T13:39:58.335873+00:00'
-website: ''
-year: 1990
-year_is_approximate: false
 beam: 1.5514
 design_class:
   name: Broads One Design

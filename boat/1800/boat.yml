@@ -10,17 +10,37 @@ full_description: '<p>Cruised to Norway 1993, Baltic and Russian Lakes 1994, Cro
 
   <p>Sold in 2021, to an owner on the Isle of Wight, and underwent all necessary structural
   work to keep her sailing&nbsp;</p>'
-builder:
-  name: Bayliss/Skeates/Forsyth
-  id: dba8cb05-41af-43d9-8eda-30977681fb0a
+year: 1988
+year_is_approximate: false
 designer:
   name: Nick Skeates
   id: 75b8e267-30d0-4825-90e1-b253d02723a5
+builder:
+  name: Bayliss/Skeates/Forsyth
+  id: dba8cb05-41af-43d9-8eda-30977681fb0a
+place_built: Southampton
 construction_material: steel
+spar_material: wood
 construction_method: unknown
-draft: 0.9906
+construction_details: Steel hull, wooden deck, traditional wood spars & rigging
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Porchester
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: '2021'
+  name: Sam Bayliss
+  share: 64
+  start: 1988
+- name: Geoffrey Muston
+  share: 64
+  start: '2021'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 64f572e5-ae9d-4f56-83f2-dd442c244a0b
+draft: 0.9906
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -38,27 +58,7 @@ handicap_data:
   fore_triangle_base: 6.0960741282613995
   length_on_waterline: 8.83930748597903
   fore_triangle_height: 10.66812972445745
-home_country: GBR
-home_port: Porchester
-hull_form: long keel deep forefoot
-id: 64f572e5-ae9d-4f56-83f2-dd442c244a0b
 length_on_deck: 9.7536
-spar_material: wood
-callsign: ''
-ownerships:
-- end: '2021'
-  name: Sam Bayliss
-  share: 64
-  start: 1988
-- name: Geoffrey Muston
-  share: 64
-  start: '2021'
-place_built: Southampton
-updated_at: '2022-02-28T22:21:44.168647+00:00'
-website: ''
-year: 1988
-year_is_approximate: false
-construction_details: Steel hull, wooden deck, traditional wood spars & rigging
 beam: 3.048
 design_class:
   name: Wylo II

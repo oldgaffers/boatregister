@@ -6,14 +6,38 @@ mainsail_type: gaff
 short_description: <p>&#39;Sugar Creek&#39; is a 30&#39; Colin Archer design. She
   took part in the first East Coast Old Gaffers Race in 1963.</p>
 full_description: Log 68/5, 89/3
+year: 1932
+year_is_approximate: false
 designer:
   name: Colin Archer
   id: 7e919cb2-8404-432d-a57a-3b17cfd38e60
+place_built: Larvik, Norway
 construction_material: wood
 construction_method: carvel
-draft: 1.585
+construction_details: Oak, carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 68/5
+- Log 89/3
+callsign: ''
+ownerships:
+- note: Owned by Mike Peyton in the 1960s.
+  text: Owned by Mike Peyton in the
+  start: 1960
+  start_is_approximate: false
+- name: C K Doyle
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 468d4b1e-68a4-408b-95ca-9692997308cd
+image_key: bmJvX6
+thumb: https://photos.smugmug.com/photos/i-VGBLW4D/0/Th/i-VGBLW4D-Th.jpg
+draft: 1.585
 handicap_data:
   beam: 3.2004389173372347
   main:
@@ -29,30 +53,7 @@ handicap_data:
   fore_triangle_base: 5.4864667154352595
   length_on_waterline: 8.83930748597903
   fore_triangle_height: 10.36332601804438
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 468d4b1e-68a4-408b-95ca-9692997308cd
 length_on_deck: 9.144
-reference:
-- Log 68/5
-- Log 89/3
-callsign: ''
-ownerships:
-- note: Owned by Mike Peyton in the 1960s.
-  text: Owned by Mike Peyton in the
-  start: 1960
-  start_is_approximate: false
-- name: C K Doyle
-  share: 64
-  start: 2012
-place_built: Larvik, Norway
-updated_at: '2021-12-19T13:38:45.710649+00:00'
-website: ''
-year: 1932
-year_is_approximate: false
-image_key: bmJvX6
-construction_details: Oak, carvel
 beam: 3.2004
 for_sale_state:
   text: not_for_sale

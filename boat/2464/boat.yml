@@ -14,36 +14,24 @@ full_description: "<p>&#39;Nanette&#39; was built by Crossfields, Arnside in 193
   \ Her owner was recorded as Mr Palin.</p>\r\n\r\n<p>In a 1945 letter, Arthur Ransome\
   \ referred to &#39;Nanette&#39; as being &#39;a little beauty&#39; and Crossfields,\
   \ the builders as his old friends.</p>"
-builder:
-  name: Wiliam Crossfield and Sons
-  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+year: 1933
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+place_built: Arnside
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Larch carvel on sawn oak, transom ended counter, else typical
+  nobby build
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  main:
-    foot: 5.257863935625457
-    head: 3.931967812728603
-    luff: 3.627164106315533
-  thcf: 0.91406834
-  draft: 1.3716166788588149
-  propellor:
-    type: folding
-  length_over_all: 7.924896366739819
-  fore_triangle_base: 4.724457449402585
-  length_on_waterline: 6.705681541087539
-  fore_triangle_height: 6.705681541087539
 home_country: GBR
 home_port: Fleetwood
 hull_form: long keel sloping forefoot
-id: 5effef66-faf4-47da-ad6e-6a63ff13dac2
-length_on_deck: 7.9248
 callsign: ''
 ownerships:
 - note: 1939 Lloyds Register of Yachts lists 'Nanette' as being owned by Granville
@@ -61,14 +49,27 @@ ownerships:
   member: 4804
   current: true
   start: '?'
-place_built: Arnside
-updated_at: '2021-12-19T13:39:39.631434+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1933
-year_is_approximate: false
+id: 5effef66-faf4-47da-ad6e-6a63ff13dac2
 image_key: 6DgQ6w
-construction_details: Larch carvel on sawn oak, transom ended counter, else typical
-  nobby build
+thumb: https://photos.smugmug.com/photos/i-KkmzpbL/0/Th/i-KkmzpbL-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.43842965130456
+  main:
+    foot: 5.257863935625457
+    head: 3.931967812728603
+    luff: 3.627164106315533
+  thcf: 0.91406834
+  draft: 1.3716166788588149
+  propellor:
+    type: folding
+  length_over_all: 7.924896366739819
+  fore_triangle_base: 4.724457449402585
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 6.705681541087539
+length_on_deck: 7.9248
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

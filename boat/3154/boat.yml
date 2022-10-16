@@ -6,17 +6,35 @@ mainsail_type: gaff
 short_description: <p>Purchased by original owner as a sail away bare boat and fitted
   out at home with accommodation.</p>
 full_description: ''
-builder:
-  name: Churchouse
-  id: cf73e700-eb81-47d7-b6da-5985b0c6da95
+year: 2007
+year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+builder:
+  name: Churchouse
+  id: cf73e700-eb81-47d7-b6da-5985b0c6da95
+place_built: Andover
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3962
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Conwy
+hull_form: long keel deep forefoot
+ssr: '146457'
+callsign: ''
+ownerships:
+- id: 668
+  share: 64
+  start: 2007
+  member: 5513
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3bc6814f-aac8-4f78-9b6e-393c5400e19e
+draft: 0.3962
 handicap_data:
   main:
     foot: 11.1
@@ -35,25 +53,7 @@ handicap_data:
   fore_triangle_base: 2.8956
   length_on_waterline: 5.8826
   fore_triangle_height: 5.7912
-home_country: GBR
-home_port: Conwy
-hull_form: long keel deep forefoot
-id: 3bc6814f-aac8-4f78-9b6e-393c5400e19e
 length_on_deck: 6.7056
-ssr: '146457'
-callsign: ''
-ownerships:
-- id: 668
-  share: 64
-  start: 2007
-  member: 5513
-  current: true
-place_built: Andover
-updated_at: '2021-12-19T13:40:02.602117+00:00'
-website: ''
-year: 2007
-year_is_approximate: false
-construction_details: GRP
 beam: 2.286
 design_class:
   name: Drascombe Drifter 22

@@ -5,38 +5,38 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Built with centreboard but altered to fixed keel soon afterward
-builder:
-  name: F Peters
-  id: 1fae28c7-1e2d-4f0b-ba60-91459825b571
+year: 1910
+year_is_approximate: false
 designer:
   name: F. Peters
   id: 612cfefd-0f55-43bf-83d1-ca750a5295c5
+builder:
+  name: F Peters
+  id: 1fae28c7-1e2d-4f0b-ba60-91459825b571
+place_built: St Mawes
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.2192
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.889782979761034
-  draft: 1.21921482565228
-  length_over_all: 4.87685930260912
-  length_on_waterline: 4.87685930260912
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: c958b14d-0312-4cd0-9e68-656f81812d92
-length_on_deck: 4.8768
-spar_material: wood
 callsign: ''
 ownerships:
 - name: D G Carne
   share: 64
   start: 2012
-place_built: St Mawes
-updated_at: '2021-12-19T13:38:56.520136+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1910
-year_is_approximate: false
+id: c958b14d-0312-4cd0-9e68-656f81812d92
+draft: 1.2192
+handicap_data:
+  beam: 1.889782979761034
+  draft: 1.21921482565228
+  length_over_all: 4.87685930260912
+  length_on_waterline: 4.87685930260912
+length_on_deck: 4.8768
 beam: 1.8898
 for_sale_state:
   text: not_for_sale

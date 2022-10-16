@@ -5,24 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 89/1
-builder:
-  name: R.J. Moore
-  id: 363024e1-d0c1-4d17-8125-13dfcdb4b9c7
+year: 1939
+year_is_approximate: false
 designer:
   name: J.W. Muirhead
   id: 50095a6f-cda4-4ac1-83a6-0bb853d7288a
+builder:
+  name: R.J. Moore
+  id: 363024e1-d0c1-4d17-8125-13dfcdb4b9c7
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_over_all: 8.53450377956596
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 4fd8d9fc-b151-4470-ad7f-da5543437bae
-length_on_deck: 8.5344
 reference:
 - Log 89/1
 callsign: ''
@@ -30,11 +28,13 @@ ownerships:
 - name: B Seymour
   share: 64
   start: 2012
-place_built: Falmouth
-updated_at: '2021-12-19T13:38:53.716089+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1939
-year_is_approximate: false
+id: 4fd8d9fc-b151-4470-ad7f-da5543437bae
+draft: 0
+handicap_data:
+  length_over_all: 8.53450377956596
+length_on_deck: 8.5344
 beam: 0
 for_sale_state:
   text: not_for_sale

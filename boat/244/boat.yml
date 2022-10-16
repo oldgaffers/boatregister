@@ -5,14 +5,28 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1965
+year_is_approximate: false
 builder:
   name: H.E. Evans
   id: f2d836c2-4027-4d22-afec-56f1c9b53f4e
 construction_material: wood
 construction_method: clinker
-draft: 0.701
+construction_details: Oregon pine clinker planking
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: M Evans
+  share: 64
+  start: 1970
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 47b222e8-2d4f-4571-8259-9ab545d633b9
+draft: 0.701
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -25,21 +39,7 @@ handicap_data:
   fore_triangle_base: 4.57205559619605
   length_on_waterline: 8.382101926359423
   fore_triangle_height: 7.315288953913679
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 47b222e8-2d4f-4571-8259-9ab545d633b9
 length_on_deck: 8.6868
-callsign: ''
-ownerships:
-- name: M Evans
-  share: 64
-  start: 1970
-updated_at: '2021-12-19T13:38:36.725136+00:00'
-website: ''
-year: 1965
-year_is_approximate: false
-construction_details: Oregon pine clinker planking
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

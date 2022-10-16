@@ -6,17 +6,32 @@ mainsail_type: gaff
 short_description: <p>Pain Clark designed three boats called &#39;Lona&#39; in the
   1900s.</p>
 full_description: ''
-builder:
-  name: Burnham Yacht Building Co.
-  id: cbdb2200-b74d-4fa1-ad09-8782b1c69ff9
+year: 1902
+year_is_approximate: false
 designer:
   name: Clark J. Pain
   id: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
+builder:
+  name: Burnham Yacht Building Co.
+  id: cbdb2200-b74d-4fa1-ad09-8782b1c69ff9
+place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel teak on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: T M W Burnham
+  share: 64
+  start: 1992
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a2b49dcc-f751-45a7-ac51-c6612a562ecb
+draft: 1.2192
 handicap_data:
   beam: 2.042184832967569
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 3.2766398439405022
   length_on_waterline: 6.4008778346744695
   fore_triangle_height: 7.162887100707144
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: a2b49dcc-f751-45a7-ac51-c6612a562ecb
 length_on_deck: 0
-callsign: ''
-ownerships:
-- name: T M W Burnham
-  share: 64
-  start: 1992
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:39:14.026885+00:00'
-website: ''
-year: 1902
-year_is_approximate: false
-construction_details: Carvel teak on oak
 beam: 2.0422
 for_sale_state:
   text: not_for_sale

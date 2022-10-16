@@ -6,17 +6,32 @@ mainsail_type: gaff
 short_description: ''
 full_description: Similar to traditional East Coast Blackwater Sloop For sale, Web
   site August 2003, log Dec 2003.
-builder:
-  name: Elton Boat Building Co.
-  id: 09d6abe6-0f2a-4d5f-a151-3c5c65ff9bdc
+year: 1993
+year_is_approximate: false
 designer:
   name: Tim J. Goldstraw
   id: 594a90af-6ec1-4906-bc06-a7fe0bfc9a84
+builder:
+  name: Elton Boat Building Co.
+  id: 09d6abe6-0f2a-4d5f-a151-3c5c65ff9bdc
+place_built: Kirkcudbright
 construction_material: wood
 construction_method: clinker
-draft: 0.6096
+construction_details: Clinker - larch on oak, lifting keel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bosham
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: John Allen
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: baa337ee-54d6-4c1b-86b9-1c3713d80ad1
+draft: 0.6096
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -34,22 +49,7 @@ handicap_data:
   fore_triangle_base: 2.43842965130456
   length_on_waterline: 4.87685930260912
   fore_triangle_height: 5.4864667154352595
-home_country: 'null'
-home_port: Bosham
-hull_form: long keel deep forefoot
-id: baa337ee-54d6-4c1b-86b9-1c3713d80ad1
 length_on_deck: 5.4864
-callsign: ''
-ownerships:
-- name: John Allen
-  share: 64
-  start: 2012
-place_built: Kirkcudbright
-updated_at: '2021-12-19T13:39:29.010121+00:00'
-website: ''
-year: 1993
-year_is_approximate: false
-construction_details: Clinker - larch on oak, lifting keel
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

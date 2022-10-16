@@ -5,14 +5,35 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1977
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: grp
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- end: 2015
+  name: Andrew Moll
+  share: 64
+  start: 2006
+- id: 341
+  share: 64
+  member: 3865
+  current: true
+  start: '?'
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: 072a2c55-7ac9-4638-8c2e-8647be2b3c8d
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -28,28 +49,7 @@ handicap_data:
   fore_triangle_base: 2.6426481346013166
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 5.867471348451597
-home_country: 'null'
-home_port: ''
-hull_form: centre-boarder
-id: 072a2c55-7ac9-4638-8c2e-8647be2b3c8d
 length_on_deck: 5.7912
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2015
-  name: Andrew Moll
-  share: 64
-  start: 2006
-- id: 341
-  share: 64
-  member: 3865
-  current: true
-  start: '?'
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1977
-year_is_approximate: false
-construction_details: grp
 beam: 2.1336
 design_class:
   name: Memory 19

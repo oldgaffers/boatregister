@@ -8,30 +8,25 @@ short_description: <p>&#39;Juniper&#39; is a&nbsp;24&#39; Brock gaff rigged yawl
 full_description: <p>&#39;Juniper&#39; is a traditional gaff rigged yawl built 1997&nbsp;by
   Bridgend Boat Company and designed by Martin Eyre. She is excellent for estuary
   and coastal cruising.</p>
-builder:
-  name: Bridgend Boat Co.
-  id: 2baf8a14-dd14-4e3a-936c-369594ab0618
+year: 1997
+year_is_approximate: false
 designer:
   name: Martin Eyre
   id: 7cf820e0-d23e-423a-88b8-796db102e59a
+builder:
+  name: Bridgend Boat Co.
+  id: 2baf8a14-dd14-4e3a-936c-369594ab0618
+place_built: Bridgend, Noss Mayo Devon
 construction_material: woodepoxy
 construction_method: unknown
-draft: 1.2954
+construction_details: "Hard wood, covered with west epoxy system. Iroko cockpit. Hollow\
+  \ douglas fir mast and spars.\r\n"
 engine_installations: []
 for_sales:
 - asking_price: 19980
-handicap_data:
-  sailarea: 7
-  moving_keel: true
-  length_overall: 7.3152
-  moving_keel_type: Centreboard
-  length_over_spars: 9.144
-  length_on_waterline: 6.7056
 home_country: GBR
 home_port: 'Yacht Haven, Plymouth '
 hull_form: unknown
-id: 9596cf93-e308-45f7-b3d7-05210f27ac5d
-length_on_deck: 7.3152
 ssr: '150785'
 callsign: ''
 ownerships:
@@ -42,16 +37,22 @@ ownerships:
   member: 5932
   current: true
   start: '?'
-place_built: Bridgend, Noss Mayo Devon
-updated_at: '2021-12-19T13:40:04.697609+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1997
-year_is_approximate: false
+id: 9596cf93-e308-45f7-b3d7-05210f27ac5d
 previous_names:
 - Nancy Will
 image_key: Zjwffk
-construction_details: "Hard wood, covered with west epoxy system. Iroko cockpit. Hollow\
-  \ douglas fir mast and spars.\r\n"
+thumb: https://photos.smugmug.com/photos/i-DPHn4tB/0/Th/i-DPHn4tB-Th.jpg
+draft: 1.2954
+handicap_data:
+  sailarea: 7
+  moving_keel: true
+  length_overall: 7.3152
+  moving_keel_type: Centreboard
+  length_over_spars: 9.144
+  length_on_waterline: 6.7056
+length_on_deck: 7.3152
 beam: 2.5908
 design_class:
   name: Brock 24

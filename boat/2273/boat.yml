@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Tamsyn is the last Mark 1 Cornish Crabber built.</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1981
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7376
+construction_details: GRP with teak external trim
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Littlehampton
+hull_form: long keel deep forefoot
+sail_number: '273'
+callsign: ''
+ownerships:
+- end: 2007
+  name: George Bevan
+  share: 64
+  start: 2003
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 011826a5-62e5-4ccd-a845-a98a75565b8c
+draft: 0.7376
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,24 +50,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
   fore_triangle_height: 5.6388685686417945
-home_country: 'null'
-home_port: Littlehampton
-hull_form: long keel deep forefoot
-id: 011826a5-62e5-4ccd-a845-a98a75565b8c
 length_on_deck: 7.3152
-sail_number: '273'
-callsign: ''
-ownerships:
-- end: 2007
-  name: George Bevan
-  share: 64
-  start: 2003
-place_built: Rock
-updated_at: '2021-12-19T13:39:34.143622+00:00'
-website: ''
-year: 1981
-year_is_approximate: false
-construction_details: GRP with teak external trim
 beam: 2.4384
 design_class:
   name: Cornish Crabber 24

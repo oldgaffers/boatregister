@@ -11,36 +11,24 @@ full_description: "<p>&#39;Ranger&#39;, built in 1933 by William (Billy) Fisher 
   \ senior gaffer who started crewing on her over 75 years ago.</p>\r\n\r\n<p>Read\
   \ an article about Bill Gale and &#39;Ranger&#39; in <a href=\"http://www.afloat.com.au/afloat-magazine/2013/may-2013/Bloody_good_season_ahead_for_sailing_legend_87\"\
   \ target=\"_blank\">Afloat Magazine, Australia, May 2013</a>.</p>"
-builder:
-  name: W. Fisher
-  id: a4a1b86d-e71c-4264-addb-f40ccd541652
+year: 1933
+year_is_approximate: false
 designer:
   name: E.C. Gale
   id: f88e0d68-d68e-49bd-964d-669a02c7965d
+builder:
+  name: W. Fisher
+  id: a4a1b86d-e71c-4264-addb-f40ccd541652
+place_built: La Perouse New S Wales
 construction_material: wood
 construction_method: carvel
-draft: 1.4478
+construction_details: Carvel Huon Pine on Spotted Gum Ribs. Teak and Queensland Maple
+  Trim
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.870245062179956
-  main:
-    foot: 5.334077054376981
-    head: 4.419665935137771
-    luff: 8.356711777615216
-  thcf: 0.956
-  draft: 1.4478358936844673
-  sailarea: 59.121149620564815
-  length_over_all: 7.391495976591075
-  length_over_spars: 9.1441111923921
-  fore_triangle_base: 4.26725188978298
-  length_on_waterline: 7.239106315532797
-  fore_triangle_height: 8.22970007315289
 home_country: AUS
 home_port: Sydney
 hull_form: long keel deep forefoot
-id: 5f618dd5-eb2e-4024-963c-1e1f4bc774db
-length_on_deck: 7.3914
 sail_number: A1
 callsign: ''
 ownerships:
@@ -55,14 +43,27 @@ ownerships:
 - name: Shaun McKnight
   share: 64
   start: 2015
-place_built: La Perouse New S Wales
-updated_at: '2021-12-19T13:39:28.543142+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1933
-year_is_approximate: false
+id: 5f618dd5-eb2e-4024-963c-1e1f4bc774db
 image_key: Z5pkgg
-construction_details: Carvel Huon Pine on Spotted Gum Ribs. Teak and Queensland Maple
-  Trim
+thumb: https://photos.smugmug.com/photos/i-SKgcFnn/0/Th/i-SKgcFnn-Th.jpg
+draft: 1.4478
+handicap_data:
+  beam: 2.870245062179956
+  main:
+    foot: 5.334077054376981
+    head: 4.419665935137771
+    luff: 8.356711777615216
+  thcf: 0.956
+  draft: 1.4478358936844673
+  sailarea: 59.121149620564815
+  length_over_all: 7.391495976591075
+  length_over_spars: 9.1441111923921
+  fore_triangle_base: 4.26725188978298
+  length_on_waterline: 7.239106315532797
+  fore_triangle_height: 8.22970007315289
+length_on_deck: 7.3914
 beam: 2.8712
 design_class:
   name: Ranger Class

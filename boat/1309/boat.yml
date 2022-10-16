@@ -5,21 +5,15 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1890
+year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-draft: 0.4572
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.6154596439892708
-  draft: 0.45720555961960496
-  length_over_all: 4.846378931967813
-  length_on_waterline: 4.663496708119971
 home_country: GBR
 home_port: West Mersea
 hull_form: unknown
-id: 23bd6a0d-2d81-42cd-8934-4a8515c3bb31
-length_on_deck: 4.8524
 callsign: ''
 ownerships:
 - end: 2016
@@ -30,10 +24,16 @@ ownerships:
   member: 1938
   current: true
   start: '?'
-updated_at: '2021-12-19T13:39:07.78714+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1890
-year_is_approximate: false
+id: 23bd6a0d-2d81-42cd-8934-4a8515c3bb31
+draft: 0.4572
+handicap_data:
+  beam: 1.6154596439892708
+  draft: 0.45720555961960496
+  length_over_all: 4.846378931967813
+  length_on_waterline: 4.663496708119971
+length_on_deck: 4.8524
 beam: 1.6246
 for_sale_state:
   text: not_for_sale

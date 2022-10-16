@@ -6,37 +6,37 @@ mainsail_type: gaff
 short_description: <p>&#39;Thrift&#39; was designed by Richard Dadson and built in
   1960. She was rebuilt in 2008.</p>
 full_description: ''
-builder:
-  name: Richard Dadson
-  id: 5b2dd975-943e-45c0-8bd8-b1b08279aded
+year: 1960
+year_is_approximate: false
 designer:
   name: Richard Dadson
   id: 298ae795-bc85-4014-9cb1-3eb6cd627f6e
+builder:
+  name: Richard Dadson
+  id: 5b2dd975-943e-45c0-8bd8-b1b08279aded
+place_built: Faversham
 construction_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clinker, skeg built stem punt half decked
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9812240916849548
-  length_over_all: 4.57205559619605
 home_country: GBR
 home_port: Medway
 hull_form: unknown
-id: a2c36a09-4902-421c-8a65-d71a2675ca56
-length_on_deck: 4.572
 callsign: ''
 ownerships:
 - end: 2012
   name: Philip Treloar
   share: 64
   start: 2008
-place_built: Faversham
-updated_at: '2021-12-19T13:39:52.8199+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1960
-year_is_approximate: false
-construction_details: Clinker, skeg built stem punt half decked
+id: a2c36a09-4902-421c-8a65-d71a2675ca56
+draft: 0
+handicap_data:
+  beam: 1.9812240916849548
+  length_over_all: 4.57205559619605
+length_on_deck: 4.572
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

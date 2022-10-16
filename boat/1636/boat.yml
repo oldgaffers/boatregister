@@ -4,22 +4,17 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: Log 78/4, 80/4
+year: 1946
+year_is_approximate: false
+place_built: Weaterhead
 construction_material: wood
 construction_method: unknown
-draft: 1.8288
+construction_details: Larch on oak double frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.724457449402585
-  draft: 1.8288222384784198
-  propellor:
-    type: fixed
-  length_over_all: 14.173372348207753
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
-id: 36b41c05-ca03-4e98-8f3d-79073cc41f97
-length_on_deck: 14.1732
 reference:
 - Log 78/4
 - Log 80/4
@@ -28,12 +23,17 @@ ownerships:
 - name: J Cresswell
   share: 64
   start: 2012
-place_built: Weaterhead
-updated_at: '2021-12-19T13:39:16.745902+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1946
-year_is_approximate: false
-construction_details: Larch on oak double frames
+id: 36b41c05-ca03-4e98-8f3d-79073cc41f97
+draft: 1.8288
+handicap_data:
+  beam: 4.724457449402585
+  draft: 1.8288222384784198
+  propellor:
+    type: fixed
+  length_over_all: 14.173372348207753
+length_on_deck: 14.1732
 beam: 4.7244
 for_sale_state:
   text: not_for_sale

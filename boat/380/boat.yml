@@ -5,17 +5,39 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1924
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel pitch pine on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+uk_part1: '161380'
+callsign: 2XAD
+ownerships:
+- id: 186
+  share: 64
+  start: 1991
+  member: 2769
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8e83fd53-f897-4117-ad74-26cd85de17fe
+previous_names:
+- Graineog
+image_key: N5bRBc
+thumb: https://photos.smugmug.com/photos/i-B4njGWf/0/Th/i-B4njGWf-Th.jpg
+draft: 1.3716
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -30,28 +52,7 @@ handicap_data:
   fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 5.18166300902219
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: 8e83fd53-f897-4117-ad74-26cd85de17fe
 length_on_deck: 7.4676
-uk_part1: '161380'
-callsign: 2XAD
-ownerships:
-- id: 186
-  share: 64
-  start: 1991
-  member: 2769
-  current: true
-place_built: Littlehampton
-updated_at: '2022-02-17T17:24:06.823746+00:00'
-website: ''
-year: 1924
-year_is_approximate: false
-previous_names:
-- Graineog
-image_key: N5bRBc
-construction_details: Carvel pitch pine on oak
 beam: 2.286
 for_sale_state:
   text: not_for_sale

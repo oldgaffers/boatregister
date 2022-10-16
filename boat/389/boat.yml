@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Previous owners:-  1972 - 1996 Home port Liverpool and Conwy.
-builder:
-  name: Richard Dadson
-  id: 5b2dd975-943e-45c0-8bd8-b1b08279aded
+year: 1958
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: Richard Dadson
+  id: 5b2dd975-943e-45c0-8bd8-b1b08279aded
+place_built: Faversham
 construction_material: wood
 construction_method: carvel
-draft: 0.8382
+construction_details: Carvel - Mahogany on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: C M Fielding
+  share: 64
+  start: 1996
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 731cef3e-a7ad-4db0-8850-e4b96dbf3e58
+draft: 0.8382
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,22 +48,7 @@ handicap_data:
   fore_triangle_base: 3.581443550353572
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 8.53450377956596
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 731cef3e-a7ad-4db0-8850-e4b96dbf3e58
 length_on_deck: 7.5682
-callsign: ''
-ownerships:
-- name: C M Fielding
-  share: 64
-  start: 1996
-place_built: Faversham
-updated_at: '2021-12-19T13:38:40.99365+00:00'
-website: ''
-year: 1958
-year_is_approximate: false
-construction_details: Carvel - Mahogany on Oak
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

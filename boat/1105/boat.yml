@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 88/2
-builder:
-  name: M. Fernandez
-  id: b365bd64-4344-43a2-b3ae-b42942c36b67
+year: 1981
+year_is_approximate: false
 designer:
   name: J. Branson
   id: c8731283-5fa6-4fc8-b385-3697d4967f58
+builder:
+  name: M. Fernandez
+  id: b365bd64-4344-43a2-b3ae-b42942c36b67
+place_built: Sri Lanka
 construction_material: wood
 construction_method: carvel
-draft: 0.9906
+construction_details: Carvel on alternative sawn and steamed frame, see paper archive.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.529870763228481
-  draft: 0.9906120458424774
-  length_over_all: 7.528651548402828
-  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 7f1f8657-1dff-4ee7-9fdb-8eff3a345de2
-length_on_deck: 7.5286
 reference:
 - Log 88/2
 callsign: ''
@@ -33,12 +29,16 @@ ownerships:
 - name: J N Branson
   share: 64
   start: 1983
-place_built: Sri Lanka
-updated_at: '2021-12-19T13:39:01.650365+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1981
-year_is_approximate: false
-construction_details: Carvel on alternative sawn and steamed frame, see paper archive.
+id: 7f1f8657-1dff-4ee7-9fdb-8eff3a345de2
+draft: 0.9906
+handicap_data:
+  beam: 2.529870763228481
+  draft: 0.9906120458424774
+  length_over_all: 7.528651548402828
+  length_on_waterline: 6.0960741282613995
+length_on_deck: 7.5286
 beam: 2.5298
 for_sale_state:
   text: not_for_sale

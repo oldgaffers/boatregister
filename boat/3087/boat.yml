@@ -8,17 +8,36 @@ full_description: <p>Built as a cat boat, Mystery was rebuilt and re-rigged in 1
   by H &amp; R Stevens (sons of Paul) as a gaff cutter. She sank in Poole harbour
   in the 1960s and bought by David Hawkes in 1971. Rebuilt by him and son Andrew,
   she was relaunched in 1980.</p>
-builder:
-  name: P. Stevens
-  id: 808b6f4b-b714-4c7c-8551-e2bd1aa7a71c
+year: 1887
+year_is_approximate: false
 designer:
   name: P. Stevens
   id: 57dff9d9-f048-4526-99e7-d1aa1aed15de
+builder:
+  name: P. Stevens
+  id: 808b6f4b-b714-4c7c-8551-e2bd1aa7a71c
+place_built: Southampton
 construction_material: wood
 construction_method: carvel
-draft: 0.6096
+construction_details: Carvel Larch on Rock Elm & Oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- note: Early owner Captain Philips, sold in 1934 to Frank Martin of Poole.
+  text: Early owner Captain Philips, sold in
+  start: 1934
+  start_is_approximate: false
+- name: Simon Thorne
+  share: 64
+  start: 2011
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 41c3edb0-4461-46e3-97bd-7aef3aebcefb
+draft: 0.6096
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,26 +52,7 @@ handicap_data:
   fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.0960741282613995
   fore_triangle_height: 6.0960741282613995
-home_country: GBR
-home_port: ''
-hull_form: unknown
-id: 41c3edb0-4461-46e3-97bd-7aef3aebcefb
 length_on_deck: 6.096
-callsign: ''
-ownerships:
-- note: Early owner Captain Philips, sold in 1934 to Frank Martin of Poole.
-  text: Early owner Captain Philips, sold in
-  start: 1934
-  start_is_approximate: false
-- name: Simon Thorne
-  share: 64
-  start: 2011
-place_built: Southampton
-updated_at: '2021-12-19T13:39:57.516128+00:00'
-website: ''
-year: 1887
-year_is_approximate: false
-construction_details: Carvel Larch on Rock Elm & Oak
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

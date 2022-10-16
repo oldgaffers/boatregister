@@ -5,40 +5,26 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: CB May 89
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1987
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.4816
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.1854425749817117
-  main:
-    foot: 3.5052426237503047
-    head: 3.0998536942209216
-    luff: 3.3528407705437697
-  thcf: 0.820610574
-  draft: 0.4815898561326506
-  propellor:
-    type: fixed
-  length_over_all: 5.867471348451597
-  fore_triangle_base: 2.539014874420873
-  length_on_waterline: 5.334064862228725
-  fore_triangle_height: 4.648256522799317
 home_country: GBR
 home_port: Lytham
 hull_form: centre-boarder
-id: 26dd90ae-4c24-4087-927c-e53673eae3bb
-length_on_deck: 5.8674
 reference:
 - CB May 89
 sail_number: '246'
-spar_material: wood
 callsign: MFJN9
 ownerships:
 - end: 2015
@@ -62,17 +48,32 @@ ownerships:
   start: 2017
   member: 6431
   current: true
-place_built: Rock
-updated_at: '2022-02-14T11:43:34.806226+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1987
-year_is_approximate: false
+id: 26dd90ae-4c24-4087-927c-e53673eae3bb
 previous_names:
 - Emily Ann
 - Garatania
 nsbr: '169435'
 mssi: '232022430'
 image_key: R7MWpV
+thumb: https://photos.smugmug.com/photos/i-9prvqzh/0/Th/i-9prvqzh-Th.jpg
+draft: 0.4816
+handicap_data:
+  beam: 2.1854425749817117
+  main:
+    foot: 3.5052426237503047
+    head: 3.0998536942209216
+    luff: 3.3528407705437697
+  thcf: 0.820610574
+  draft: 0.4815898561326506
+  propellor:
+    type: fixed
+  length_over_all: 5.867471348451597
+  fore_triangle_base: 2.539014874420873
+  length_on_waterline: 5.334064862228725
+  fore_triangle_height: 4.648256522799317
+length_on_deck: 5.8674
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

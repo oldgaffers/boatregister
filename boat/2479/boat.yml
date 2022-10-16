@@ -10,14 +10,38 @@ full_description: "<p>Originally an open boat, &#39;St Piran&#39; now has a fore
   \ ply roof. Her coamings are sapele and cockpit seats mahogany.</p>\r\n\r\n<p>A\
   \ previous owner sailed her from Rock and cruised North Cornwall and the Scilly\
   \ Isles.</p>"
+year: 1994
+year_is_approximate: false
 designer:
   name: Jeremy Gill
   id: 295d3d6d-2986-4b62-8ecb-74a8963c44e1
+place_built: Trevilling Quay, Wadebridge.
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.701
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Cardiff,
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- note: Previous owner Nick Nethercott.
+  text: Previous owner Nick Nethercott.
+- id: 361
+  share: 64
+  start: 1999
+  member: 3981
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1b5373c0-6dae-44e0-b07a-120bd5a5498e
+previous_names:
+- St Pyran
+- Pyran
+image_key: CSXx5X
+thumb: https://photos.smugmug.com/photos/i-R8t4GJr/0/Th/i-R8t4GJr-Th.jpg
+draft: 0.701
 handicap_data:
   main:
     foot: 11.32
@@ -30,30 +54,7 @@ handicap_data:
   fore_triangle_base: 2.9992
   length_on_waterline: 6.099
   fore_triangle_height: 5.4986
-home_country: GBR
-home_port: Cardiff,
-hull_form: long keel deep forefoot
-id: 1b5373c0-6dae-44e0-b07a-120bd5a5498e
 length_on_deck: 6.5989
-callsign: ''
-ownerships:
-- note: Previous owner Nick Nethercott.
-  text: Previous owner Nick Nethercott.
-- id: 361
-  share: 64
-  start: 1999
-  member: 3981
-  current: true
-place_built: Trevilling Quay, Wadebridge.
-updated_at: '2021-12-19T13:39:40.114391+00:00'
-website: ''
-year: 1994
-year_is_approximate: false
-previous_names:
-- St Pyran
-- Pyran
-image_key: CSXx5X
-construction_details: GRP
 beam: 1.9995
 for_sale_state:
   text: not_for_sale

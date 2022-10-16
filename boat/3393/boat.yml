@@ -5,24 +5,21 @@ rig_type: Ketch
 mainsail_type: bermudan
 short_description: <p>Peridot is a Bermudian Ketch built in Littlehampton in 1977.</p>
 full_description: ''
-builder:
-  name: McWester Marine
-  id: 93ab3b7a-0b22-433f-8588-79f7e236c5b3
+year: 1977
+year_is_approximate: false
 designer:
   name: Marin McWester
   id: ea7a10d5-7de8-4611-94e2-79e5fca466bc
+builder:
+  name: McWester Marine
+  id: 93ab3b7a-0b22-433f-8588-79f7e236c5b3
 construction_material: wood
 construction_method: unknown
-draft: 1.4234
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 9.6774
 home_country: GBR
 home_port: St Osyth
 hull_form: unknown
-id: f1e19741-f951-4bfe-bee6-72e018c633ca
-length_on_deck: 9.6774
 callsign: ''
 ownerships:
 - name: Robbie and Elaine Hales
@@ -33,12 +30,15 @@ ownerships:
   member: 5980
   current: true
   start: '?'
-updated_at: '2021-12-19T13:40:09.751377+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1977
-year_is_approximate: false
+id: f1e19741-f951-4bfe-bee6-72e018c633ca
 previous_names:
 - Argonault of Aln
+draft: 1.4234
+handicap_data:
+  length_overall: 9.6774
+length_on_deck: 9.6774
 beam: 2.8438
 for_sale_state:
   text: not_for_sale

@@ -18,17 +18,48 @@ full_description: "<p>High Barbaree was built in 2001, and purchased by her curr
   \ in Milford Haven and briefly visited Ireland.</p>\r\n\r\n<p>In 2013, High Barbaree\
   \ took part in the OGA Round Britain Challenge. <a href=\"http://www.sailing-by.org.uk/content/high-barbaree-sails-round-britain-2013\"\
   >Reports may be found on Sailing by.</a></p>"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2001
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.0668
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bucklers Hard
+hull_form: long keel sloping forefoot
+sail_number: P45
+uk_part1: '908244'
+callsign: ''
+ownerships:
+- end: 2002
+  name: Cornish Crabbers Charters
+  share: 64
+  start: 2001
+- name: Liz Dodwell
+  share: 32
+  start: 2002
+- name: Tim Dodwell
+  share: 32
+  start: 2002
+- id: 317
+  share: 64
+  member: 3767
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 584b261c-5e5d-4b86-8838-dd5f061bb4fc
+image_key: hxG8hQ
+thumb: https://photos.smugmug.com/photos/i-fttLPrT/0/Th/i-fttLPrT-Th.jpg
+draft: 1.0668
 handicap_data:
   beam: 2.895647403072421
   main:
@@ -50,37 +81,7 @@ handicap_data:
   fore_triangle_base: 5.918282126310655
   length_on_waterline: 7.848713728358937
   fore_triangle_height: 8.38211411850768
-home_country: GBR
-home_port: Bucklers Hard
-hull_form: long keel sloping forefoot
-id: 584b261c-5e5d-4b86-8838-dd5f061bb4fc
 length_on_deck: 9.144
-sail_number: P45
-uk_part1: '908244'
-callsign: ''
-ownerships:
-- end: 2002
-  name: Cornish Crabbers Charters
-  share: 64
-  start: 2001
-- name: Liz Dodwell
-  share: 32
-  start: 2002
-- name: Tim Dodwell
-  share: 32
-  start: 2002
-- id: 317
-  share: 64
-  member: 3767
-  current: true
-  start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:39:47.442897+00:00'
-website: ''
-year: 2001
-year_is_approximate: false
-image_key: hxG8hQ
-construction_details: GRP
 beam: 2.8956
 design_class:
   name: Cornish Crabber Pilot Cutter 30

@@ -6,18 +6,38 @@ mainsail_type: gaff
 short_description: <p>Built in 1978, an Oysterman 16, &#39;Marie Louise&#39; is a
   regular winner in OGA events.</p>
 full_description: ''
-builder:
-  name: Bar Creek Yacht Station
-  id: 474ba972-00c3-4a90-82b6-4bc18df0e980
+year: 1978
+year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+builder:
+  name: Bar Creek Yacht Station
+  id: 474ba972-00c3-4a90-82b6-4bc18df0e980
+place_built: Malpas
 construction_material: wood
 construction_method: cold_moulded
-draft: 0.8626
+construction_details: Cold Moulded Mahogany on Oak Frames
 engine_installations: []
 for_sales:
 - asking_price: 12500
+home_country: GBR
+home_port: Torquay
+hull_form: long keel deep forefoot
+sail_number: OY1603
+callsign: ''
+ownerships:
+- id: 190
+  share: 64
+  start: 1984
+  member: 2789
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f4fad322-e6da-45f6-81b8-2c9b0c7e5596
+image_key: BtGprB
+thumb: https://photos.smugmug.com/photos/i-pcPd5rK/0/Th/i-pcPd5rK-Th.jpg
+draft: 0.8626
 handicap_data:
   beam: 1.9507437210436478
   main:
@@ -35,26 +55,7 @@ handicap_data:
   fore_triangle_base: 3.6576444769568397
   length_on_waterline: 4.633016337478663
   fore_triangle_height: 6.217995610826627
-home_country: GBR
-home_port: Torquay
-hull_form: long keel deep forefoot
-id: f4fad322-e6da-45f6-81b8-2c9b0c7e5596
 length_on_deck: 4.8768
-sail_number: OY1603
-callsign: ''
-ownerships:
-- id: 190
-  share: 64
-  start: 1984
-  member: 2789
-  current: true
-place_built: Malpas
-updated_at: '2021-12-19T13:39:15.231635+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-image_key: BtGprB
-construction_details: Cold Moulded Mahogany on Oak Frames
 beam: 1.9568
 design_class:
   name: Oysterman 16

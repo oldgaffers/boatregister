@@ -5,17 +5,31 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: William King and Sons
-  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+year: 1945
+year_is_approximate: false
 designer:
   name: Norman Dallimore
   id: d620b2b5-76e8-4d57-87b8-7beadfc28743
+builder:
+  name: William King and Sons
+  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+place_built: Burnham on Crouch
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Chichester
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: B W Shales
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a888e978-6b8d-4666-b690-67ed2f5b0554
+draft: 1.3716
 handicap_data:
   beam: 2.1183857595708364
   main:
@@ -30,21 +44,7 @@ handicap_data:
   fore_triangle_base: 2.6152158010241404
   length_on_waterline: 5.6388685686417945
   fore_triangle_height: 6.501463057790782
-home_country: 'null'
-home_port: Chichester
-hull_form: long keel deep forefoot
-id: a888e978-6b8d-4666-b690-67ed2f5b0554
 length_on_deck: 6.1874
-callsign: ''
-ownerships:
-- name: B W Shales
-  share: 64
-  start: 2012
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:39:35.849878+00:00'
-website: ''
-year: 1945
-year_is_approximate: false
 beam: 2.1184
 for_sale_state:
   text: not_for_sale

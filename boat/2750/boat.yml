@@ -40,26 +40,23 @@ full_description: "<h3>First published in the OGA East Coast Newsletter, &#39;Ea
   \ was awarded in 2012 when &#39;Sheemaun&#39;<em> </em>was invited to take part\
   \ in the &lsquo;Avenue of Sail&rsquo; at the Queen&rsquo;s Jubilee Thames Pageant\
   \ on 3 June and when, as their Flagship, she represented the Little Ship Club.</p>"
-builder:
-  name: James Noble and Co.
-  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
+year: 1935
+year_is_approximate: false
 designer:
   name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
+builder:
+  name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
+place_built: Fraserburgh
 construction_material: wood
 construction_method: unknown
-draft: 1.524
+construction_details: Pithpine & larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.200195074372104
-  draft: 1.5240185320653499
-  length_over_all: 13.716166788588149
 home_country: GBR
 home_port: Ramsgate
 hull_form: unknown
-id: de4e1bbf-2dab-49a3-8ae3-6179a37036df
-length_on_deck: 13.716
 callsign: ''
 ownerships:
 - id: 626
@@ -67,13 +64,17 @@ ownerships:
   start: 1987
   member: 5348
   current: true
-place_built: Fraserburgh
-updated_at: '2021-12-19T13:39:48.28512+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1935
-year_is_approximate: false
+id: de4e1bbf-2dab-49a3-8ae3-6179a37036df
 image_key: Ct5f3g
-construction_details: Pithpine & larch on oak
+thumb: https://photos.smugmug.com/photos/i-MkvgS3D/0/Th/i-MkvgS3D-Th.jpg
+draft: 1.524
+handicap_data:
+  beam: 4.200195074372104
+  draft: 1.5240185320653499
+  length_over_all: 13.716166788588149
+length_on_deck: 13.716
 beam: 4.191
 for_sale_state:
   text: not_for_sale

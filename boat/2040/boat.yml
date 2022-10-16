@@ -5,21 +5,17 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log 86/3
+year: 1903
+year_is_approximate: false
+place_built: St Ives
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Pitch Pine on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 1.066812972445745
-  length_over_all: 8.53450377956596
-  length_on_waterline: 6.705681541087539
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 930b5abb-b598-4abb-bfa5-0cdd989ae11a
-length_on_deck: 8.5344
 reference:
 - Log 86/3
 callsign: ''
@@ -27,12 +23,16 @@ ownerships:
 - name: A Maclean
   share: 64
   start: 2012
-place_built: St Ives
-updated_at: '2021-12-19T13:39:27.698868+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1903
-year_is_approximate: false
-construction_details: Pitch Pine on Oak
+id: 930b5abb-b598-4abb-bfa5-0cdd989ae11a
+draft: 1.0668
+handicap_data:
+  beam: 2.43842965130456
+  draft: 1.066812972445745
+  length_over_all: 8.53450377956596
+  length_on_waterline: 6.705681541087539
+length_on_deck: 8.5344
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

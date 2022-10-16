@@ -5,27 +5,19 @@ rig_type: single_sail
 mainsail_type: lug
 short_description: <p>&#39;Nanouk&#39; is a Francis Vivier Aber design.</p>
 full_description: ''
+year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
 construction_material: woodepoxy
+spar_material: wood
 construction_method: unknown
-draft: 0.3048
+construction_details: Strip plank epoxy.
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 11.67
-    head: 10.25
-    luff: 6.33
-  length_overall: 4.5202
-  length_on_waterline: 4.1148
 home_country: FRA
 home_port: Brittany
 hull_form: long keel deep forefoot
-id: d6aa26de-ca7f-4a22-a76c-982abd2e0d83
-length_on_deck: 4.5202
-spar_material: wood
 callsign: ''
 ownerships:
 - id: 502
@@ -33,11 +25,20 @@ ownerships:
   start: 2014
   member: 4743
   current: true
-updated_at: '2021-12-19T13:40:04.604621+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year_is_approximate: false
+id: d6aa26de-ca7f-4a22-a76c-982abd2e0d83
 image_key: wxf5LP
-construction_details: Strip plank epoxy.
+thumb: https://photos.smugmug.com/photos/i-kJCtnFP/0/Th/i-kJCtnFP-Th.jpg
+draft: 0.3048
+handicap_data:
+  main:
+    foot: 11.67
+    head: 10.25
+    luff: 6.33
+  length_overall: 4.5202
+  length_on_waterline: 4.1148
+length_on_deck: 4.5202
 beam: 1.4996
 design_class:
   name: Aber

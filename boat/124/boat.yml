@@ -5,27 +5,23 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Log 68/3, 65/4
-builder:
-  name: W.E. Thomas
-  id: a9e83f1e-565e-4568-b052-7a492147a30d
+year: 1906
+year_is_approximate: false
 designer:
   name: W.E. Thomas
   id: 3f7b6145-a556-462d-a51f-11d24c3f94db
+builder:
+  name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 1.4021
+construction_details: Pitch pine on oak with iron keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.1641063155327966
-  draft: 1.4020970495001217
-  length_over_all: 8.53450377956596
-  length_on_waterline: 6.705681541087539
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: c498f722-aec1-4bf5-899b-f1352ad08627
-length_on_deck: 8.5344
 reference:
 - Log 68/3
 - Log 65/4
@@ -35,12 +31,16 @@ ownerships:
 - name: P Atkins
   share: 64
   start: 2012
-place_built: Falmouth
-updated_at: '2021-12-19T13:38:33.175497+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1906
-year_is_approximate: false
-construction_details: Pitch pine on oak with iron keel
+id: c498f722-aec1-4bf5-899b-f1352ad08627
+draft: 1.4021
+handicap_data:
+  beam: 2.1641063155327966
+  draft: 1.4020970495001217
+  length_over_all: 8.53450377956596
+  length_on_waterline: 6.705681541087539
+length_on_deck: 8.5344
 beam: 2.1641
 for_sale_state:
   text: not_for_sale

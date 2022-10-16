@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: no longer a member.
-builder:
-  name: Jim Chapman
-  id: b7d57ee9-c133-4ee8-9c3e-35ba24262834
+year: 1995
+year_is_approximate: false
 designer:
   name: Jim Chapman
   id: 4db86de8-ecd4-4702-bce5-a0e0a51eefae
+builder:
+  name: Jim Chapman
+  id: b7d57ee9-c133-4ee8-9c3e-35ba24262834
+place_built: Southampton
 construction_material: steel
 construction_method: unknown
-draft: 1.2192
+construction_details: Steel Multi-Chine
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Jim Chapman
+  share: 64
+  start: 1995
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1c6730f6-89be-40c3-86f2-37ebf209b4b2
+draft: 1.2192
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -33,22 +48,7 @@ handicap_data:
   fore_triangle_base: 4.968300414533041
   length_on_waterline: 7.924896366739819
   fore_triangle_height: 6.583760058522312
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 1c6730f6-89be-40c3-86f2-37ebf209b4b2
 length_on_deck: 8.6868
-callsign: ''
-ownerships:
-- name: Jim Chapman
-  share: 64
-  start: 1995
-place_built: Southampton
-updated_at: '2021-12-19T13:39:24.213405+00:00'
-website: ''
-year: 1995
-year_is_approximate: false
-construction_details: Steel Multi-Chine
 beam: 3.048
 for_sale_state:
   text: not_for_sale

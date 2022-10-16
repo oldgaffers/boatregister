@@ -6,17 +6,38 @@ mainsail_type: gaff
 short_description: ''
 full_description: Hull mould from racing  class Traddur bay, rig based on Falmouth
   working rig.
-builder:
-  name: Roger Wilkinson
-  id: 13013b12-8617-439c-bc35-ba8f2259031e
+year: 2003
+year_is_approximate: false
 designer:
   name: Roger Wilkinson
   id: 7b55967c-c09b-4375-8aab-2aa606d145cd
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+place_built: Pottstringley
 construction_material: grp
 construction_method: cold_moulded
-draft: 2.7432
+construction_details: Grp & Mahogany
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Chichester
+hull_form: unknown
+sail_number: '35'
+callsign: ''
+ownerships:
+- name: R A Hayles
+  share: 64
+  start: 2007
+- id: 68
+  share: 64
+  member: 1491
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 43547d41-3527-4ce5-9972-08ae9a8d5f5e
+draft: 2.7432
 handicap_data:
   beam: 1.5240185320653499
   main:
@@ -32,28 +53,7 @@ handicap_data:
   fore_triangle_base: 2.4628139478176054
   length_on_waterline: 4.26725188978298
   fore_triangle_height: 3.8100463301633747
-home_country: 'null'
-home_port: Chichester
-hull_form: unknown
-id: 43547d41-3527-4ce5-9972-08ae9a8d5f5e
 length_on_deck: 4.3434
-sail_number: '35'
-callsign: ''
-ownerships:
-- name: R A Hayles
-  share: 64
-  start: 2007
-- id: 68
-  share: 64
-  member: 1491
-  current: true
-  start: '?'
-place_built: Pottstringley
-updated_at: '2021-12-19T13:39:49.711899+00:00'
-website: ''
-year: 2003
-year_is_approximate: false
-construction_details: Grp & Mahogany
 beam: 1.524
 design_class:
   name: Kittiwake 14

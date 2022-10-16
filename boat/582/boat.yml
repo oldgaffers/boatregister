@@ -9,27 +9,22 @@ short_description: '<p class="western" style="margin-top: 0.1cm; margin-bottom: 
   Winner of the second prize in class 2 in the 1965 ECOGR,<i><b> a</b></i>nd first
   overall in the 1966 race.</p>'
 full_description: Log 90/1
-builder:
-  name: William King and Sons
-  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+year: 1913
+year_is_approximate: false
 designer:
   name: G.U. Laws
   id: 6b0e581f-8507-4748-8d44-f8fb73dbef19
+builder:
+  name: William King and Sons
+  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+place_built: Burnham on Crouch
 construction_material: wood
 construction_method: unknown
-draft: 1.6154
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.3622287247012923
-  draft: 1.6154596439892708
-  length_over_all: 8.991709339185563
-  length_on_waterline: 6.827603023652767
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 14dea900-e253-4e8f-9f37-4259c30f85f3
-length_on_deck: 8.9916
 reference:
 - Log 90/1
 callsign: ''
@@ -37,11 +32,16 @@ ownerships:
 - name: Peter and Mary Keeble
   share: 64
   start: 2012
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:38:46.474157+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1913
-year_is_approximate: false
+id: 14dea900-e253-4e8f-9f37-4259c30f85f3
+draft: 1.6154
+handicap_data:
+  beam: 2.3622287247012923
+  draft: 1.6154596439892708
+  length_over_all: 8.991709339185563
+  length_on_waterline: 6.827603023652767
+length_on_deck: 8.9916
 beam: 2.3622
 for_sale_state:
   text: not_for_sale

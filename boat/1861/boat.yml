@@ -5,14 +5,29 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1987
+year_is_approximate: false
 builder:
   name: Johnny Healion
   id: d8f71c56-56e2-454d-954a-c6be971648db
+place_built: Dunboyne Co Meath
 construction_material: wood
 construction_method: carvel
-draft: 0.9906
+construction_details: Wood Carvel, oak and larch
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Howth Co Dublin
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Frank McCarthy
+  share: 64
+  start: 1988
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 02038f62-f090-4679-a6e7-3857867da045
+draft: 0.9906
 handicap_data:
   beam: 2.234211168007803
   main:
@@ -25,22 +40,7 @@ handicap_data:
   fore_triangle_base: 5.867471348451597
   length_on_waterline: 7.187271397220189
   fore_triangle_height: 5.587051938551572
-home_country: 'null'
-home_port: Howth Co Dublin
-hull_form: unknown
-id: 02038f62-f090-4679-a6e7-3857867da045
 length_on_deck: 7.7206
-callsign: ''
-ownerships:
-- name: Frank McCarthy
-  share: 64
-  start: 1988
-place_built: Dunboyne Co Meath
-updated_at: '2021-12-19T13:39:22.412128+00:00'
-website: ''
-year: 1987
-year_is_approximate: false
-construction_details: Wood Carvel, oak and larch
 beam: 2.2342
 for_sale_state:
   text: not_for_sale

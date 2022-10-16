@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Swallow class boat home built by her 1st owner.</p>
 full_description: Home built
-builder:
-  name: Jon Dykes
-  id: b7f06c54-e865-434f-9acc-36239baec6d3
+year: 2007
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: Jon Dykes
+  id: b7f06c54-e865-434f-9acc-36239baec6d3
+place_built: Teignmouth
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Teignmouth
+hull_form: unknown
+callsign: ''
+ownerships:
+- end: 2019
+  name: Jon Dykes
+  share: 64
+  start: 2007
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 36f03692-0810-48b4-94ae-a9ba764e9de1
+draft: 0
 handicap_data:
   beam: 1.6764203852718849
   main:
@@ -27,22 +42,7 @@ handicap_data:
   fore_triangle_base: 1.097293343087052
   length_on_waterline: 4.22457937088515
   fore_triangle_height: 3.9624481833699097
-home_country: GBR
-home_port: Teignmouth
-hull_form: unknown
-id: 36f03692-0810-48b4-94ae-a9ba764e9de1
 length_on_deck: 4.4196
-callsign: ''
-ownerships:
-- end: 2019
-  name: Jon Dykes
-  share: 64
-  start: 2007
-place_built: Teignmouth
-updated_at: '2021-12-19T13:39:50.442639+00:00'
-website: ''
-year: 2007
-year_is_approximate: false
 beam: 1.6764
 design_class:
   name: Swallow

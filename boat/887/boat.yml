@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: log 91/1, A-W/95.  Changed hands 2002
-builder:
-  name: Harry Feltham
-  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+year: 1928
+year_is_approximate: false
 designer:
   name: Harry Feltham
   id: f8c85f47-b20c-4687-baea-172a05d5d1f1
+builder:
+  name: Harry Feltham
+  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.6002
+construction_details: Pitch Pine on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: River Trent
+hull_form: long keel deep forefoot
+uk_part1: '162445'
+callsign: ''
+ownerships:
+- name: John Carson
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 76a8858c-629f-4d27-a6e0-7b4ca293e349
+draft: 1.6002
 handicap_data:
   beam: 2.682272616435016
   main:
@@ -33,23 +49,7 @@ handicap_data:
   fore_triangle_base: 4.724457449402585
   length_on_waterline: 8.53450377956596
   fore_triangle_height: 6.5532796878810045
-home_country: 'null'
-home_port: River Trent
-hull_form: long keel deep forefoot
-id: 76a8858c-629f-4d27-a6e0-7b4ca293e349
 length_on_deck: 8.6868
-uk_part1: '162445'
-callsign: ''
-ownerships:
-- name: John Carson
-  share: 64
-  start: 2012
-place_built: Portsmouth
-updated_at: '2021-12-19T13:38:55.121162+00:00'
-website: ''
-year: 1928
-year_is_approximate: false
-construction_details: Pitch Pine on Oak
 beam: 2.6822
 for_sale_state:
   text: not_for_sale

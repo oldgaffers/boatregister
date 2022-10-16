@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Oystersailers Ltd.
-  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+year: 1989
+year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+builder:
+  name: Oystersailers Ltd.
+  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+place_built: Penryn
 construction_material: wood
 construction_method: unknown
-draft: 1.3472
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Numansgoes
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Gerard K Wind
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 18021c02-f693-48b8-b4e0-78b89ffca100
+draft: 1.3472
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -30,21 +44,7 @@ handicap_data:
   fore_triangle_base: 5.050597415264569
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 7.6993416239941475
-home_country: 'null'
-home_port: Numansgoes
-hull_form: long keel deep forefoot
-id: 18021c02-f693-48b8-b4e0-78b89ffca100
 length_on_deck: 6.9098
-callsign: ''
-ownerships:
-- name: Gerard K Wind
-  share: 64
-  start: 2012
-place_built: Penryn
-updated_at: '2021-12-19T13:39:41.422373+00:00'
-website: ''
-year: 1989
-year_is_approximate: false
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

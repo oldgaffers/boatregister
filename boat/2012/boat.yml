@@ -51,17 +51,35 @@ full_description: "<p>Diamond was a Blackpool and Fleetwood Yacht Club Jewel Cla
   \ the Smalley district of Derbyshire. He was President of Lancaster Royal Infirmary\
   \ Committee in 1938.</p>\n<p>It would be interesting know what happen to her after\
   \ 1945.</p>"
-builder:
-  name: Wiliam Crossfield and Sons
-  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+year: 1912
+year_is_approximate: false
 designer:
   name: William Crossfield
   id: da4baa22-674e-4ea8-b2c5-14aee7286837
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+place_built: Arnside
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel Pitch Pine on sawn & bent oak frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Fleetwood
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: M Royle
+  share: 64
+  start: 1988
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 30257a1a-549c-4271-8e7c-88332a495a58
+image_key: FL7jMQ
+thumb: https://photos.smugmug.com/photos/i-HMb5w6M/0/Th/i-HMb5w6M-Th.png
+draft: 0.9144
 handicap_data:
   beam: 2.081809314801268
   main:
@@ -79,24 +97,7 @@ handicap_data:
   fore_triangle_base: 4.57205559619605
   length_on_waterline: 5.7912704218483295
   fore_triangle_height: 5.7912704218483295
-home_country: 'null'
-home_port: Fleetwood
-hull_form: long keel deep forefoot
-id: 30257a1a-549c-4271-8e7c-88332a495a58
 length_on_deck: 7.0104
-spar_material: wood
-callsign: ''
-ownerships:
-- name: M Royle
-  share: 64
-  start: 1988
-place_built: Arnside
-updated_at: '2022-02-24T22:53:56.671362+00:00'
-website: ''
-year: 1912
-year_is_approximate: false
-image_key: FL7jMQ
-construction_details: Carvel Pitch Pine on sawn & bent oak frames
 beam: 2.0818
 design_class:
   name: Jewel

@@ -4,33 +4,33 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Designed by Maurine Griffiths, but built in GRP.</p>
-builder:
-  name: Armstrong Marine
-  id: 23f54e5c-f403-45d8-b86e-7fbe3552192d
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: Armstrong Marine
+  id: 23f54e5c-f403-45d8-b86e-7fbe3552192d
+place_built: Scarborough
 construction_material: grp
+spar_material: wood
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
 home_country: UK
 home_port: Solent
 hull_form: unknown
-id: ef8a16b7-47d8-490f-90fa-ef31c1ef6318
-length_on_deck: 9.44891489880517
-spar_material: wood
 ownerships:
 - id: 411
   share: 64
   member: 4242
   current: true
   start: '?'
-place_built: Scarborough
-updated_at: '2022-02-14T11:04:40.382535+00:00'
-year_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: ef8a16b7-47d8-490f-90fa-ef31c1ef6318
 image_key: X79jDh
+handicap_data:
+  beam: 2.7432333577176298
+length_on_deck: 9.44891489880517
 design_class:
   name: Lone Gull II
   id: ee60be28-a961-41ab-9ccb-9fdde1ae0109

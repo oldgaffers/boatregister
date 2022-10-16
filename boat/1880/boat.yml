@@ -6,17 +6,34 @@ mainsail_type: gaff
 short_description: ''
 full_description: Ref The Brown Boats By Charles Goodey Pub 1972. Mr Bent has a copy
   of the drawings, CB August 2004.
-builder:
-  name: Burnham Boat Building Co.
-  id: 75161165-a1fa-4aed-b33d-474a39160242
+year: 1925
+year_is_approximate: false
 designer:
   name: Hope Linton
   id: f238ed22-175a-4b8c-9337-dc58c6619754
+builder:
+  name: Burnham Boat Building Co.
+  id: 75161165-a1fa-4aed-b33d-474a39160242
+place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel Canadian Redwood on Ash + Oak Iron keel Copper Fastened
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Lowestoft
+hull_form: unknown
+sail_number: '18'
+ssr: '35566'
+callsign: ''
+ownerships:
+- name: W.T.C. Bent
+  share: 64
+  start: 1989
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a11b5cce-f21e-4064-bd1b-efab1b1e554b
+draft: 0.9144
 handicap_data:
   beam: 1.8044379419653742
   main:
@@ -29,24 +46,7 @@ handicap_data:
   fore_triangle_base: 2.1671543525969277
   length_on_waterline: 4.87685930260912
   fore_triangle_height: 5.346257010485247
-home_country: 'null'
-home_port: Lowestoft
-hull_form: unknown
-id: a11b5cce-f21e-4064-bd1b-efab1b1e554b
 length_on_deck: 7.3152
-sail_number: '18'
-ssr: '35566'
-callsign: ''
-ownerships:
-- name: W.T.C. Bent
-  share: 64
-  start: 1989
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:39:23.005386+00:00'
-website: ''
-year: 1925
-year_is_approximate: false
-construction_details: Carvel Canadian Redwood on Ash + Oak Iron keel Copper Fastened
 beam: 1.8044
 for_sale_state:
   text: not_for_sale

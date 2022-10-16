@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: T. Pearce
-  id: 5bb0e6bb-85d8-4cfb-beaa-6595805475ca
+year: 1893
+year_is_approximate: false
 designer:
   name: T. Pearce
   id: 663f1b77-dd26-4fe8-8332-2148ae4717df
+builder:
+  name: T. Pearce
+  id: 5bb0e6bb-85d8-4cfb-beaa-6595805475ca
+place_built: East Looe
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.3716
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- id: 35
+  share: 64
+  start: 2012
+  member: 907
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4f708a9e-c762-4eb7-b911-3729cf61eece
+draft: 1.3716
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -31,24 +48,7 @@ handicap_data:
   fore_triangle_base: 2.7432333577176298
   length_on_waterline: 9.1441111923921
   fore_triangle_height: 8.22970007315289
-home_country: GBR
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 4f708a9e-c762-4eb7-b911-3729cf61eece
 length_on_deck: 9.4488
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 35
-  share: 64
-  start: 2012
-  member: 907
-  current: true
-place_built: East Looe
-updated_at: '2021-12-19T13:39:08.599386+00:00'
-website: ''
-year: 1893
-year_is_approximate: false
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

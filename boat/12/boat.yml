@@ -19,24 +19,20 @@ full_description: "<p>Based on Mike Illingworth&#39;s research when he purchase 
   \ seems &#39;Gipsy&#39; has spent all her life on the East Coast and the best estimate\
   \ of her construction date is 1895.</p>\r\n\r\n<p>She was class II winner in the\
   \ East Coast Old Gaffers Annual Race in 1974 and 1977.</p>"
+year: 1895
+year_is_approximate: false
 builder:
   name: J. Ackett
   id: c20051f9-8e60-42c1-ab4d-0aa501f4e42a
+place_built: Southampton
 construction_material: wood
 construction_method: unknown
-draft: 1.0668
+construction_details: Teak & pitch pine on oak. Clipper bow counter stern flush deck
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 1.066812972445745
-  length_over_all: 7.315288953913679
-  length_on_waterline: 5.7912704218483295
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 1279f803-a796-4773-9cf6-5b71c509f260
-length_on_deck: 7.3152
 ownerships:
 - end: 1976
   name: G. Peers
@@ -57,13 +53,17 @@ ownerships:
 - name: R A Eberhard
   share: 64
   start: 1985
-place_built: Southampton
-updated_at: '2021-12-19T13:38:30.01693+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1895
-year_is_approximate: false
+id: 1279f803-a796-4773-9cf6-5b71c509f260
 image_key: ''
-construction_details: Teak & pitch pine on oak. Clipper bow counter stern flush deck
+draft: 1.0668
+handicap_data:
+  beam: 2.43842965130456
+  draft: 1.066812972445745
+  length_over_all: 7.315288953913679
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 7.3152
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

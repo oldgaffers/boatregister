@@ -5,36 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Liverpool Boat Co. Ltd.
-  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+year: 1980
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Liverpool Boat Co. Ltd.
+  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+place_built: Liverpool
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: dfe551ff-4c8b-4961-9028-617b2fc73c52
-length_on_deck: 6.096
 callsign: ''
 ownerships:
 - name: D Coles
   share: 64
   start: 2012
-place_built: Liverpool
-updated_at: '2021-12-19T13:38:59.726402+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1980
-year_is_approximate: false
+id: dfe551ff-4c8b-4961-9028-617b2fc73c52
+draft: 0
+handicap_data:
+  beam: 2.13362594489149
+  length_over_all: 6.0960741282613995
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 6.096
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

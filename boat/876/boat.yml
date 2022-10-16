@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 70/3, 82/1
-builder:
-  name: Douglas Stone and Sons
-  id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
+year: 1893
+year_is_approximate: false
 designer:
   name: W.J. Barber
   id: d2debbb7-a741-43be-8634-cffdddc29301
+builder:
+  name: Douglas Stone and Sons
+  id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
+place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
-draft: 1.6459
+construction_details: Carvel Ferro cement sheathed
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 70/3
+- Log 82/1
+callsign: ''
+ownerships:
+- name: Mr & Mrs Stuart
+  share: 64
+  start: 1986
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a7456ebe-0067-4644-a272-1f9eda4157f4
+draft: 1.6459
 handicap_data:
   beam: 3.139478176054621
   main:
@@ -28,25 +46,7 @@ handicap_data:
   fore_triangle_base: 9.601316752011703
   length_on_waterline: 11.582540843696659
   fore_triangle_height: 8.83930748597903
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: a7456ebe-0067-4644-a272-1f9eda4157f4
 length_on_deck: 12.893
-reference:
-- Log 70/3
-- Log 82/1
-callsign: ''
-ownerships:
-- name: Mr & Mrs Stuart
-  share: 64
-  start: 1986
-place_built: Brightlingsea
-updated_at: '2021-12-19T13:38:54.809668+00:00'
-website: ''
-year: 1893
-year_is_approximate: false
-construction_details: Carvel Ferro cement sheathed
 beam: 3.1394
 for_sale_state:
   text: not_for_sale

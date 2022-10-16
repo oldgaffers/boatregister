@@ -20,17 +20,41 @@ full_description: "She was built at the Northam yard of Summers & Payne, from th
   \ and re-converted below to echo her elegance of form and her pedigree as a Victorian\
   \ gentleman\u2019s racing yacht.  She was relaunched in 2017 and given her original\
   \ name of Wayward.  In 2019 she was for sale."
-builder:
-  name: Summers and Payne Ltd.
-  id: f37c4642-15f1-44a0-bcc6-68590f9516c8
+year: 1898
+year_is_approximate: false
 designer:
   name: Alfred E. Payne
   id: cfb14a6f-03f7-4689-832d-2a21f28b7fc4
+builder:
+  name: Summers and Payne Ltd.
+  id: f37c4642-15f1-44a0-bcc6-68590f9516c8
+place_built: Southampton
 construction_material: wood
 construction_method: unknown
-draft: 2.5908
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- CB Aug 90
+- CB Jul 91
+- Classic Sailor Jan 2019
+sail_number: K3884T
+uk_part1: '109275'
+callsign: ' MRXF, ZNKG5'
+ownerships:
+- name: D Cook
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 006b3466-c4c7-4351-99fe-ba5b98e5234c
+previous_names:
+- Samphire
+- Wayward
+mssi: '235021661'
+draft: 2.5908
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -51,32 +75,8 @@ handicap_data:
   fore_triangle_base: 8.153499146549622
   length_on_waterline: 12.496951962935869
   fore_triangle_height: 16.45940014630578
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 006b3466-c4c7-4351-99fe-ba5b98e5234c
-length_on_deck: 15.24
-reference:
-- CB Aug 90
-- CB Jul 91
-- Classic Sailor Jan 2019
-sail_number: K3884T
-uk_part1: '109275'
-callsign: ' MRXF, ZNKG5'
-ownerships:
-- name: D Cook
-  share: 64
-  start: 2012
-place_built: Southampton
-updated_at: '2021-12-19T13:39:59.500113+00:00'
-website: ''
-year: 1898
-year_is_approximate: false
-previous_names:
-- Samphire
-- Wayward
-mssi: '235021661'
 launched: '1998-04-01'
+length_on_deck: 15.24
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

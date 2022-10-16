@@ -7,17 +7,37 @@ short_description: Featured in Maurice Griffith's Book 'Sixty Years A Yacht Desi
   Seaway has been based in Portsmouth all her life. She has suffered two fires but
   sails on regardless.
 full_description: ''
-builder:
-  name: A. Clemens
-  id: 849b7318-45b8-4e01-a04d-4929c4f89f1a
+year: 1932
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: A. Clemens
+  id: 849b7318-45b8-4e01-a04d-4929c4f89f1a
+place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.3106
+construction_details: Carvel, pine on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Portsmouth
+hull_form: long keel deep forefoot
+sail_number: CWAY
+callsign: ''
+ownerships:
+- id: 163
+  share: 64
+  start: 1990
+  member: 2480
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 87e8ffce-b468-44b8-801c-a66c4e51df77
+image_key: 6Cnnrv
+thumb: https://photos.smugmug.com/photos/i-BgJShZW/0/Th/i-BgJShZW-Th.jpg
+draft: 1.3106
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -33,26 +53,7 @@ handicap_data:
   fore_triangle_base: 5.029261155815655
   length_on_waterline: 8.025481589856131
   fore_triangle_height: 9.1441111923921
-home_country: GBR
-home_port: Portsmouth
-hull_form: long keel deep forefoot
-id: 87e8ffce-b468-44b8-801c-a66c4e51df77
 length_on_deck: 8.5344
-sail_number: CWAY
-callsign: ''
-ownerships:
-- id: 163
-  share: 64
-  start: 1990
-  member: 2480
-  current: true
-place_built: Portsmouth
-updated_at: '2021-12-19T13:38:45.061143+00:00'
-website: ''
-year: 1932
-year_is_approximate: false
-image_key: 6Cnnrv
-construction_details: Carvel, pine on oak
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

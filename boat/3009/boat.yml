@@ -5,14 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 2010
+year_is_approximate: false
 builder:
   name: Cockwells
   id: ba7746ff-a625-4270-a6b8-b90e06678211
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 2.2007
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- name: Lance Whitehead
+  share: 64
+  start: 2012
+- share: 64
+  member: 5470
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 34d2b03a-2dac-4274-aaac-e0d3390bc907
+draft: 2.2007
 handicap_data:
   beam: 4.099609851255791
   main:
@@ -31,25 +49,7 @@ handicap_data:
   fore_triangle_base: 9.141063155327968
   length_on_waterline: 13.039502560351133
   fore_triangle_height: 11.171055840039013
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 34d2b03a-2dac-4274-aaac-e0d3390bc907
 length_on_deck: 14.6304
-callsign: ''
-ownerships:
-- name: Lance Whitehead
-  share: 64
-  start: 2012
-- share: 64
-  member: 5470
-  current: true
-  start: '?'
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:55.986645+00:00'
-website: ''
-year: 2010
-year_is_approximate: false
 beam: 4.0996
 for_sale_state:
   text: not_for_sale

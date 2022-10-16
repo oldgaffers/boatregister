@@ -4,32 +4,25 @@ generic_type: Yacht
 mainsail_type: gaff
 short_description: <p>Glory is a Cornish Crabber Yawl built in 1989.</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1989
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP
 engine_installations: []
 for_sales:
 - asking_price: 22500
-handicap_data:
-  sailarea: 7
-  moving_keel: true
-  length_overall: 7.4676
-  draft_keel_down: 1.524
-  moving_keel_type: Centreboard
-  length_over_spars: 9.906
-  length_on_waterline: 6.3246
 home_country: GBR
 home_port: Sold 2020, now based in Brighton
 hull_form: long keel deep forefoot
-id: 95d77d42-ff93-444b-a203-0ab18a746496
-length_on_deck: 7.4676
 sail_number: CY12
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1999
@@ -51,15 +44,23 @@ ownerships:
 - name: Leslie May
   share: 64
   start: 2013
-place_built: Rock
-updated_at: '2021-12-19T13:40:09.683376+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1989
-year_is_approximate: false
+id: 95d77d42-ff93-444b-a203-0ab18a746496
 previous_names:
 - Glory of Hastings
 image_key: PbGgT6
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-XtPH38s/0/Th/i-XtPH38s-Th.jpg
+draft: 0.9144
+handicap_data:
+  sailarea: 7
+  moving_keel: true
+  length_overall: 7.4676
+  draft_keel_down: 1.524
+  moving_keel_type: Centreboard
+  length_over_spars: 9.906
+  length_on_waterline: 6.3246
+length_on_deck: 7.4676
 beam: 2.5908
 design_class:
   name: Cornish Yawl

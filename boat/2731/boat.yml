@@ -5,22 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2004
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: grp
 engine_installations: []
 for_sales: []
 home_country: 'null'
 home_port: Edam Nederlands
 hull_form: unknown
-id: da952013-6828-418e-8243-0f8edd196d95
-length_on_deck: 0
 sail_number: '43'
 uk_part1: GB-BIH-220y3BYOY
 callsign: ''
@@ -28,12 +29,11 @@ ownerships:
 - name: Dick J de Graaf
   share: 64
   start: 2004
-place_built: Rock
-updated_at: '2021-12-19T13:39:47.690129+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2004
-year_is_approximate: false
-construction_details: grp
+id: da952013-6828-418e-8243-0f8edd196d95
+draft: 0
+length_on_deck: 0
 beam: 0
 for_sale_state:
   text: not_for_sale

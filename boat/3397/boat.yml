@@ -10,17 +10,45 @@ full_description: "<p>A very responsive sailboat, Cornish Crabbers yawl, <del>&#
   </ins> 6<del>&rdquo;</del><ins>\u201D</ins>, LOD &nbsp;24<del>&rsquo;6&rdquo;</del><ins>\u2019\
   6\u201D</ins>, sail area 379sq. ft., draught 3<del>&rsquo;</del><ins>\u2019</ins>.</p><ins>\n\
   </ins><p><ins>twin bilge keel</ins></p>"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1992
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock, North Cornwall
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.914
+construction_details: "GRP\r\n"
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: 'Titchmarsh Walton on the Naze '
+hull_form: bilge keel
+sail_number: CY29
+ssr: SSR173341
+callsign: MINGS3
+ownerships:
+- note: First owner, Mr J Mabins, 1994, sold to Mr Richard Martin 2006. Sold again
+    in 2019.
+  text: First owner, Mr J Mabins,
+  start: 1994
+  start_is_approximate: false
+- id: 721
+  share: 64
+  start: 2019
+  member: 5681
+  current: true
+updated_at: '2022-05-09T11:08:55.244485+00:00'
+website: ''
+id: fe06aa11-ab21-4cf7-9685-b0f4d85af3b7
+previous_names:
+- None
+image_key: Jb7X5w
+thumb: https://photos.smugmug.com/photos/i-zrhbDb4/0/Th/i-zrhbDb4-Th.jpg
+draft: 0.914
 handicap_data:
   beam: 2.591
   main:
@@ -38,34 +66,7 @@ handicap_data:
   fore_triangle_base: 4.1148
   length_on_waterline: 6.319
   fore_triangle_height: 7.3152
-home_country: GBR
-home_port: 'Titchmarsh Walton on the Naze '
-hull_form: bilge keel
-id: fe06aa11-ab21-4cf7-9685-b0f4d85af3b7
 length_on_deck: 7.471
-sail_number: CY29
-ssr: SSR173341
-callsign: MINGS3
-ownerships:
-- note: First owner, Mr J Mabins, 1994, sold to Mr Richard Martin 2006. Sold again
-    in 2019.
-  text: First owner, Mr J Mabins,
-  start: 1994
-  start_is_approximate: false
-- id: 721
-  share: 64
-  start: 2019
-  member: 5681
-  current: true
-place_built: Rock, North Cornwall
-updated_at: '2022-05-09T11:08:55.244485+00:00'
-website: ''
-year: 1992
-year_is_approximate: false
-previous_names:
-- None
-image_key: Jb7X5w
-construction_details: "GRP\r\n"
 beam: 2.5908
 design_class:
   name: Cornish Yawl

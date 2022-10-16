@@ -5,26 +5,23 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Swallow Boats Ltd
-  id: dd7be0d6-25a4-4000-9631-8ac687d81280
+year: 2010
+year_is_approximate: false
 designer:
   name: Matt Newland
   id: 30fcf69f-e274-4284-9cb8-8327a7f730f5
+builder:
+  name: Swallow Boats Ltd
+  id: dd7be0d6-25a4-4000-9631-8ac687d81280
+place_built: Cardigan
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.25
+construction_details: Glassfibre Reinforced Polyester
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.051328944159961
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.5992440868080955
 home_country: GBR
 home_port: Salcombe
 hull_form: unknown
-id: 848fccec-2249-4649-9011-d3fb71fdd1d0
-length_on_deck: 6
 callsign: ''
 ownerships:
 - name: Ian Stokes
@@ -34,12 +31,15 @@ ownerships:
   member: 3323
   current: true
   start: '?'
-place_built: Cardigan
-updated_at: '2021-12-19T13:39:55.41662+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2010
-year_is_approximate: false
-construction_details: Glassfibre Reinforced Polyester
+id: 848fccec-2249-4649-9011-d3fb71fdd1d0
+draft: 0.25
+handicap_data:
+  beam: 2.051328944159961
+  length_over_all: 6.0960741282613995
+  length_on_waterline: 5.5992440868080955
+length_on_deck: 6
 beam: 2.0574
 design_class:
   name: Bay Raider 20

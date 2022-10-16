@@ -70,34 +70,24 @@ full_description: "<p>Lona III is an absolute beauty.</p>\r\n\r\n<p>She was desi
   \ 92 now, Tony visited the restoration yard a number of times. &nbsp;And &ndash;\
   \ importantly &ndash; he approves the new execution of his Lona III.</p>\r\n\r\n\
   <p>Thanks to Austin and the Tradewind Yachts team!</p>"
-builder:
-  name: W. King and Sons
-  id: ec4aa381-8c1e-4af6-9a91-edab7287202c
+year: 1907
+year_is_approximate: false
 designer:
   name: Clark J. Pain
   id: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
+builder:
+  name: W. King and Sons
+  id: ec4aa381-8c1e-4af6-9a91-edab7287202c
+place_built: Burnham-on-Crouch
 construction_material: wood
 construction_method: carvel
-draft: 1.6002
+construction_details: Carvel, Pitch pine on oak frames below the waterline, teak on
+  oak above waterline
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 17.22
-    head: 14.27
-    luff: 21.36
-  topsail:
-    luff: 24.47
-    perpendicular: 10.43
-  length_overall: 10.8204
-  length_over_spars: 12.7498
-  fore_triangle_base: 5.5687
-  length_on_waterline: 8.443
 home_country: BEL
 home_port: Antwerp
 hull_form: cut_away_stem
-id: ac9bcb09-c6a3-4aab-bd70-53fdf35074e5
-length_on_deck: 10.8204
 callsign: OR3533
 ownerships:
 - end: 1926
@@ -165,14 +155,25 @@ ownerships:
   text: Bart Carpentier
   start: 2011
   start_is_approximate: false
-place_built: Burnham-on-Crouch
-updated_at: '2021-12-19T13:40:10.252124+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: https://bartcarpentier.wixsite.com/Lona3
-year: 1907
-year_is_approximate: false
+id: ac9bcb09-c6a3-4aab-bd70-53fdf35074e5
 image_key: 8WfftD
-construction_details: Carvel, Pitch pine on oak frames below the waterline, teak on
-  oak above waterline
+thumb: https://photos.smugmug.com/photos/i-rK33xDX/0/Th/i-rK33xDX-Th.jpg
+draft: 1.6002
+handicap_data:
+  main:
+    foot: 17.22
+    head: 14.27
+    luff: 21.36
+  topsail:
+    luff: 24.47
+    perpendicular: 10.43
+  length_overall: 10.8204
+  length_over_spars: 12.7498
+  fore_triangle_base: 5.5687
+  length_on_waterline: 8.443
+length_on_deck: 10.8204
 beam: 2.3683
 for_sale_state:
   text: not_for_sale

@@ -4,17 +4,34 @@ generic_type: unknown
 mainsail_type: bermudan
 short_description: ''
 full_description: Kept Marchwood Yacht Club
-builder:
-  name: Enterprise Small Craft
-  id: a27bca50-d155-428a-be49-a542d64ba316
+year: 1962
+year_is_approximate: false
 designer:
   name: Alan Buchanan
   id: c501c48d-9b2b-4b4b-a120-ddbf63ae35b5
+builder:
+  name: Enterprise Small Craft
+  id: a27bca50-d155-428a-be49-a542d64ba316
+place_built: Rockferry
 construction_material: wood
 construction_method: clinker
-draft: 0.4816
+construction_details: Clinker mahogany on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Southampton
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Ian Wilson
+  share: 64
+  start: 2000
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: ac81cec8-9af5-47c8-9d22-8d6f40986b5d
+previous_names:
+- Hi-c
+draft: 0.4816
 handicap_data:
   beam: 1.9812240916849548
   fore:
@@ -23,24 +40,7 @@ handicap_data:
   draft: 0.4815898561326506
   length_over_all: 6.019873201658132
   length_on_waterline: 5.434650085345037
-home_country: 'null'
-home_port: Southampton
-hull_form: unknown
-id: ac81cec8-9af5-47c8-9d22-8d6f40986b5d
 length_on_deck: 6.0198
-callsign: ''
-ownerships:
-- name: Ian Wilson
-  share: 64
-  start: 2000
-place_built: Rockferry
-updated_at: '2021-12-19T13:40:00.281869+00:00'
-website: ''
-year: 1962
-year_is_approximate: false
-previous_names:
-- Hi-c
-construction_details: Clinker mahogany on oak
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

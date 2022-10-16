@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Yarmouth Boat Co.
-  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+year: 2010
+year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+place_built: Shri Lanka / Yarmouth IOW
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP Wood soars
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Cowes
+hull_form: long keel deep forefoot
+sail_number: '015'
+callsign: ''
+ownerships:
+- name: Harold Cross
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3b1fce32-609b-4eab-a38c-ac8df0d9105c
+draft: 0.9144
 handicap_data:
   beam: 2.2799317239697636
   main:
@@ -33,23 +49,7 @@ handicap_data:
   fore_triangle_base: 3.038892952938308
   length_on_waterline: 5.498658863691782
   fore_triangle_height: 5.7912704218483295
-home_country: 'null'
-home_port: Cowes
-hull_form: long keel deep forefoot
-id: 3b1fce32-609b-4eab-a38c-ac8df0d9105c
 length_on_deck: 6.8793
-sail_number: '015'
-callsign: ''
-ownerships:
-- name: Harold Cross
-  share: 64
-  start: 2012
-place_built: Shri Lanka / Yarmouth IOW
-updated_at: '2021-12-19T13:39:53.463131+00:00'
-website: ''
-year: 2010
-year_is_approximate: false
-construction_details: GRP Wood soars
 beam: 2.2799
 design_class:
   name: Yarmouth 23

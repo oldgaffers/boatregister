@@ -6,28 +6,24 @@ mainsail_type: gaff
 short_description: ''
 full_description: Traditioally built, hull shape loosely based on Falmouth Quay Punts
   but with a gaff cutter rig.
-builder:
-  name: Joff Rorke
-  id: d3a6f272-cae1-43ec-91a2-fab782cca8fc
+year: 2009
+year_is_approximate: false
 designer:
   name: Joff Rorke
   id: a1dce618-78ea-40be-ad79-4e7c4045af03
+builder:
+  name: Joff Rorke
+  id: d3a6f272-cae1-43ec-91a2-fab782cca8fc
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 2.2098268714947573
+construction_details: Traditionally built,  larch planking on sawn oak frames with
+  2 intermediate steamed timbers
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.453425993660083
-  length_overall: 10.668
-  length_over_all: 10.66812972445745
-  length_on_waterline: 10.05852231163131
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 009025ee-2f32-4306-a704-28eb5013c4cb
-length_on_deck: 10.66812972445745
-spar_material: wood
 callsign: ''
 ownerships:
 - id: 388
@@ -35,12 +31,16 @@ ownerships:
   start: 2010
   member: 4143
   current: true
-updated_at: '2021-12-19T13:40:03.971375+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: www.hollymae.info
-year: 2009
-year_is_approximate: false
-construction_details: Traditionally built,  larch planking on sawn oak frames with
-  2 intermediate steamed timbers
+id: 009025ee-2f32-4306-a704-28eb5013c4cb
+draft: 2.2098268714947573
+handicap_data:
+  beam: 3.453425993660083
+  length_overall: 10.668
+  length_over_all: 10.66812972445745
+  length_on_waterline: 10.05852231163131
+length_on_deck: 10.66812972445745
 beam: 3.4534
 air_draft: 56
 for_sale_state:

@@ -5,21 +5,16 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 76/1
+year: 1910
+year_is_approximate: false
+place_built: Mevagissey
 construction_material: wood
 construction_method: unknown
-draft: 2.0726
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.5052426237503047
-  draft: 2.0726652036088757
-  length_over_all: 12.192148256522799
-  length_on_waterline: 10.972933430870519
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: da2f73d1-9f83-4c74-bcf7-d34e7bcafd10
-length_on_deck: 12.192
 reference:
 - Log 76/1
 callsign: ''
@@ -27,11 +22,16 @@ ownerships:
 - name: H P Baum
   share: 64
   start: 2012
-place_built: Mevagissey
-updated_at: '2021-12-19T13:38:39.377923+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1910
-year_is_approximate: false
+id: da2f73d1-9f83-4c74-bcf7-d34e7bcafd10
+draft: 2.0726
+handicap_data:
+  beam: 3.5052426237503047
+  draft: 2.0726652036088757
+  length_over_all: 12.192148256522799
+  length_on_waterline: 10.972933430870519
+length_on_deck: 12.192
 beam: 3.5052
 for_sale_state:
   text: not_for_sale

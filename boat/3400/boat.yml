@@ -6,26 +6,23 @@ mainsail_type: gaff
 short_description: <p>Built in 1937 at Mews in Fremantle ,Western Australia. &nbsp;Sailed
   most weekends, usually day sailed but with the occaisional trip away.</p>
 full_description: ''
-builder:
-  name: Mews
-  id: ab123c6f-8cf9-4c48-914b-5b54e144e596
+year: 1937
+year_is_approximate: false
 designer:
   name: Blake William
   id: 9671c6c0-d4cf-47d6-9b2a-49b968a5c8a7
+builder:
+  name: Mews
+  id: ab123c6f-8cf9-4c48-914b-5b54e144e596
+place_built: Freemantle, Western Australia
 construction_material: wood
 construction_method: unknown
-draft: 1.0668
+construction_details: Pine of Jarrah timbers
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 6.7056
-  length_over_spars: 7.62
-  length_on_waterline: 5.7912
 home_country: AUS
 home_port: Mandurah
 hull_form: long keel sloping forefoot
-id: 23ef0c7e-2b15-4f05-b53e-b7898246c7aa
-length_on_deck: 6.7056
 callsign: ''
 ownerships:
 - note: Chris Bell - short term
@@ -48,13 +45,17 @@ ownerships:
   member: 6289
   current: true
   start: '?'
-place_built: Freemantle, Western Australia
-updated_at: '2021-12-19T13:40:09.909629+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1937
-year_is_approximate: false
+id: 23ef0c7e-2b15-4f05-b53e-b7898246c7aa
 image_key: sTX2kD
-construction_details: Pine of Jarrah timbers
+thumb: https://photos.smugmug.com/photos/i-4vsL9hR/0/Th/i-4vsL9hR-Th.jpg
+draft: 1.0668
+handicap_data:
+  length_overall: 6.7056
+  length_over_spars: 7.62
+  length_on_waterline: 5.7912
+length_on_deck: 6.7056
 beam: 2.1336
 design_class:
   name: Deben 4 Ton

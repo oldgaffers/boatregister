@@ -39,42 +39,23 @@ full_description: "<h3>Martin Pound, skipper of &#39;Lucy&#39;, thanks the East 
   \ not run dry of his best tipple!!).</blockquote>\r\n\r\n<blockquote>Thank you again\
   \ East Coast; it was a great example of how to host a visiting Gaffer. Memorable\
   \ days.</blockquote>"
-builder:
-  name: Martin Heard
-  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+year: 1985
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: Martin Heard
+  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+place_built: Tregatreath
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.2192
+construction_details: GRP hull with plywood coachroof and deck
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  main:
-    foot: 4.368861253352841
-    head: 3.2766581321628867
-    luff: 3.6576444769568397
-  thcf: 0.912
-  draft: 1.21921482565228
-  topsail:
-    luff: 4.648262618873445
-    perpendicular: 1.9812362838332114
-  sailarea: 41.6499691269796
-  propellor:
-    type: fixed
-    blades: 2
-  length_over_all: 7.010485247500609
-  length_over_spars: 10.66812972445745
-  fore_triangle_base: 5.89287978541819
-  length_on_waterline: 6.705681541087539
-  fore_triangle_height: 7.874116069251402
 home_country: GBR
 home_port: Gosport
 hull_form: long keel deep forefoot
-id: e7d30d25-addd-4673-88f1-449c2332bb62
-length_on_deck: 7.0104
 sail_number: '1265'
 callsign: ''
 ownerships:
@@ -96,15 +77,35 @@ ownerships:
   start: 2011
   member: 5473
   current: true
-place_built: Tregatreath
-updated_at: '2021-12-19T13:39:06.45091+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1985
-year_is_approximate: false
+id: e7d30d25-addd-4673-88f1-449c2332bb62
 previous_names:
 - Lucy
 image_key: GgdcHM
-construction_details: GRP hull with plywood coachroof and deck
+thumb: https://photos.smugmug.com/photos/i-6fDFLPm/0/Th/i-6fDFLPm-Th.jpg
+draft: 1.2192
+handicap_data:
+  beam: 2.43842965130456
+  main:
+    foot: 4.368861253352841
+    head: 3.2766581321628867
+    luff: 3.6576444769568397
+  thcf: 0.912
+  draft: 1.21921482565228
+  topsail:
+    luff: 4.648262618873445
+    perpendicular: 1.9812362838332114
+  sailarea: 41.6499691269796
+  propellor:
+    type: fixed
+    blades: 2
+  length_over_all: 7.010485247500609
+  length_over_spars: 10.66812972445745
+  fore_triangle_base: 5.89287978541819
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 7.874116069251402
+length_on_deck: 7.0104
 beam: 2.4384
 design_class:
   name: Heard 23

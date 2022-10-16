@@ -4,17 +4,33 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: Log 84/4 Sail area 566.14 sq ft.
-builder:
-  name: Burnham Motor & Boat Co.
-  id: 8e1e9c57-c81a-4bcc-9173-9e964084eb37
+year: 1906
+year_is_approximate: false
 designer:
   name: W. Launchbury
   id: 9e5e2c5d-1eab-407e-a18f-676cf1b05c16
+builder:
+  name: Burnham Motor & Boat Co.
+  id: 8e1e9c57-c81a-4bcc-9173-9e964084eb37
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
+construction_details: Teak on elm
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 84/4
+callsign: ''
+ownerships:
+- name: C P Fibbins
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7057641d-2ff4-482e-b343-ec3c7885a196
+draft: 1.2192
 handicap_data:
   beam: 2.4993903925871734
   main:
@@ -26,23 +42,7 @@ handicap_data:
     luff: 3.9014874420872956
   length_over_all: 9.601316752011703
   length_on_waterline: 6.4008778346744695
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 7057641d-2ff4-482e-b343-ec3c7885a196
 length_on_deck: 9.6012
-reference:
-- Log 84/4
-callsign: ''
-ownerships:
-- name: C P Fibbins
-  share: 64
-  start: 2012
-updated_at: '2021-12-19T13:39:16.845635+00:00'
-website: ''
-year: 1906
-year_is_approximate: false
-construction_details: Teak on elm
 beam: 2.4994
 for_sale_state:
   text: not_for_sale

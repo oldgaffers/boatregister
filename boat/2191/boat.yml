@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Boatman Jul 95 CB Dec 90
-builder:
-  name: North Norfolk Boat Building Co.
-  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+year: 1997
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: North Norfolk Boat Building Co.
+  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+place_built: Shotley
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Tom Moeller
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1dffd7ec-d83b-4aa9-9b45-3ae20a79e232
+draft: 0
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -29,22 +44,7 @@ handicap_data:
   fore_triangle_base: 2.4109973177273836
   length_on_waterline: 5.410265788831992
   fore_triangle_height: 4.700073152889539
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 1dffd7ec-d83b-4aa9-9b45-3ae20a79e232
 length_on_deck: 7.2146
-callsign: ''
-ownerships:
-- name: Tom Moeller
-  share: 64
-  start: 2012
-place_built: Shotley
-updated_at: '2021-12-19T13:39:31.804054+00:00'
-website: ''
-year: 1997
-year_is_approximate: false
-construction_details: GRP
 beam: 2.286
 for_sale_state:
   text: not_for_sale

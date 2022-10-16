@@ -5,17 +5,28 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Falmouth Bass Boats Ltd.
-  id: 89944fb4-eca8-48de-ae1d-8b861ef9ea8f
+year: 1986
+year_is_approximate: false
 designer:
   name: R. Warrington-Smythe
   id: 408e82d2-b5f0-4aa3-bbee-c4d4b18f6213
+builder:
+  name: Falmouth Bass Boats Ltd.
+  id: 89944fb4-eca8-48de-ae1d-8b861ef9ea8f
+place_built: Falmouth
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.253
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8e8c4373-a178-4051-9c47-b0ede1ed5da3
+draft: 0.253
 handicap_data:
   beam: 1.777005608388198
   main:
@@ -32,18 +43,7 @@ handicap_data:
   fore_triangle_base: 2.3378444281882467
   length_on_waterline: 3.9624481833699097
   fore_triangle_height: 3.0480370641306997
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 8e8c4373-a178-4051-9c47-b0ede1ed5da3
 length_on_deck: 4.8768
-callsign: ''
-place_built: Falmouth
-updated_at: '2021-03-27T22:50:25.152753+00:00'
-website: ''
-year: 1986
-year_is_approximate: false
-construction_details: GRP
 beam: 1.777
 for_sale_state:
   text: not_for_sale

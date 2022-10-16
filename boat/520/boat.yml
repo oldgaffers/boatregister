@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Gouwerck
-  id: e72f9da4-c6a9-4df0-912e-0802cea0cb9e
+year: 1971
+year_is_approximate: false
 designer:
   name: Lundstroo
   id: ccc9baab-42d9-497c-938b-8e94f22e62fe
+builder:
+  name: Gouwerck
+  id: e72f9da4-c6a9-4df0-912e-0802cea0cb9e
+place_built: Amsterdam
 construction_material: wood
 construction_method: unknown
-draft: 0.762
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Chris N Rawlings
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 5135a74e-cf87-45ec-8c4f-4570dc300ede
+draft: 0.762
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -30,21 +44,7 @@ handicap_data:
   fore_triangle_base: 5.4864667154352595
   length_on_waterline: 7.924896366739819
   fore_triangle_height: 7.315288953913679
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 5135a74e-cf87-45ec-8c4f-4570dc300ede
 length_on_deck: 9.144
-callsign: ''
-ownerships:
-- name: Chris N Rawlings
-  share: 64
-  start: 2012
-place_built: Amsterdam
-updated_at: '2021-12-19T13:38:44.656397+00:00'
-website: ''
-year: 1971
-year_is_approximate: false
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

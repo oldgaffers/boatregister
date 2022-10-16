@@ -5,17 +5,33 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: A.M. Dickie and Sons
-  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+year: 1935
+year_is_approximate: false
 designer:
   name: W. Macpherson-Campbell
   id: 4b2bbe16-9fc2-4e5b-88a9-658b6b4c7eb5
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+place_built: Bangor, N Wales
 construction_material: wood
 construction_method: carvel
-draft: 2.286
+construction_details: Carvel construction, Burma teak on oak grown frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+uk_part1: '164232'
+callsign: ''
+ownerships:
+- name: T, J, and D Southwick
+  share: 64
+  start: 1976
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 51bf33c7-c5ec-4eb2-9afd-4c279b57eaa3
+draft: 2.286
 handicap_data:
   beam: 4.57205559619605
   draft: 2.286027798098025
@@ -23,23 +39,7 @@ handicap_data:
     type: fixed
   length_over_all: 21.3362594489149
   length_on_waterline: 15.849792733479639
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 51bf33c7-c5ec-4eb2-9afd-4c279b57eaa3
 length_on_deck: 21.336
-uk_part1: '164232'
-callsign: ''
-ownerships:
-- name: T, J, and D Southwick
-  share: 64
-  start: 1976
-place_built: Bangor, N Wales
-updated_at: '2021-12-19T13:38:56.169927+00:00'
-website: ''
-year: 1935
-year_is_approximate: false
-construction_details: Carvel construction, Burma teak on oak grown frames
 beam: 4.572
 for_sale_state:
   text: not_for_sale

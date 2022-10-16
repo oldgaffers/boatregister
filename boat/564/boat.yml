@@ -5,27 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 71/4
-builder:
-  name: Alfred Burgoine
-  id: 3a51dd4c-bea1-4569-9682-77965546c737
+year: 1897
+year_is_approximate: false
 designer:
   name: A. Burgoine
   id: 913f6109-2f34-4d5a-a77e-d7e956d1c2dd
+builder:
+  name: Alfred Burgoine
+  id: 3a51dd4c-bea1-4569-9682-77965546c737
+place_built: Kingston upon Thames
 construction_material: wood
 construction_method: unknown
-draft: 0.253
+construction_details: Strip and Ribbon Pine on Elm
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.2098268714947573
-  draft: 0.25298707632284806
-  length_over_all: 8.077298219946353
-  length_on_waterline: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 055792ce-f6d0-4c4c-99d2-c0baea6f4043
-length_on_deck: 8.0772
 reference:
 - Log 71/4
 callsign: ''
@@ -33,12 +29,16 @@ ownerships:
 - name: T Lester
   share: 64
   start: 1991
-place_built: Kingston upon Thames
-updated_at: '2021-12-19T13:38:45.961914+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1897
-year_is_approximate: false
-construction_details: Strip and Ribbon Pine on Elm
+id: 055792ce-f6d0-4c4c-99d2-c0baea6f4043
+draft: 0.253
+handicap_data:
+  beam: 2.2098268714947573
+  draft: 0.25298707632284806
+  length_over_all: 8.077298219946353
+  length_on_waterline: 7.924896366739819
+length_on_deck: 8.0772
 beam: 2.2098
 for_sale_state:
   text: not_for_sale

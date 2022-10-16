@@ -5,41 +5,41 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Rose Bros.
-  id: 380e9d0f-fbb0-4f11-8a02-2b2c32c8e6e7
+year: 1964
+year_is_approximate: false
 designer:
   name: Bros. Rose
   id: 53b64826-3942-46d4-911f-d7500299f65d
+builder:
+  name: Rose Bros.
+  id: 380e9d0f-fbb0-4f11-8a02-2b2c32c8e6e7
+place_built: Boston
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.023408924652523
-  draft: 1.8288222384784198
-  length_over_all: 13.106559375762009
-  length_on_waterline: 11.887344550109729
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: d590be75-b699-4792-ad12-63681995c566
-length_on_deck: 13.1064
 uk_part1: '388661'
 callsign: ''
 ownerships:
 - name: J R Waterhouse
   share: 64
   start: 1973
-place_built: Boston
-updated_at: '2021-12-19T13:38:58.57739+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1964
-year_is_approximate: false
+id: d590be75-b699-4792-ad12-63681995c566
 previous_names:
 - Andante
-construction_details: Carvel
+draft: 1.8288
+handicap_data:
+  beam: 4.023408924652523
+  draft: 1.8288222384784198
+  length_over_all: 13.106559375762009
+  length_on_waterline: 11.887344550109729
+length_on_deck: 13.1064
 beam: 4.0234
 for_sale_state:
   text: not_for_sale

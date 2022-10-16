@@ -10,28 +10,23 @@ full_description: "<p>Stolen from her mooring in Mylor and sailed to Brest, July
   \ This was carried out at Falmouth Boat Construction. Since October 2013 she has\
   \ been at Mylor being copper coated. She is also being converted from a single headsail\
   \ to a cutter rig, furling jib and hanked on staysail.</p>"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1990
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.3716
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.5908436966593515
-  draft: 1.3716288710070714
-  length_over_all: 7.467702999268471
-  length_over_spars: 10.41413069982931
-  length_on_waterline: 6.324695196293587
 home_country: GBR
 home_port: Mylor
 hull_form: long keel sloping forefoot
-id: 5f36c578-2698-4ad8-a2d1-bc92709b6c76
-length_on_deck: 7.4676
 sail_number: CY25
 callsign: ''
 ownerships:
@@ -50,14 +45,19 @@ ownerships:
   member: 5538
   current: true
   start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:39:58.738387+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: www.cornishyawl.wordpress.com
-year: 1990
-year_is_approximate: false
+id: 5f36c578-2698-4ad8-a2d1-bc92709b6c76
 previous_names:
 - Suzanne
-construction_details: GRP
+draft: 1.3716
+handicap_data:
+  beam: 2.5908436966593515
+  draft: 1.3716288710070714
+  length_over_all: 7.467702999268471
+  length_over_spars: 10.41413069982931
+  length_on_waterline: 6.324695196293587
+length_on_deck: 7.4676
 beam: 2.5908
 design_class:
   name: Cornish Yawl

@@ -5,24 +5,23 @@ rig_type: Cutter
 mainsail_type: bermudan
 short_description: <p>Hillyard yacht</p>
 full_description: ''
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1937
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
 construction_method: carvel
-draft: 0
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 10.668
 home_country: GBR
 home_port: Bangor N. Wales
 hull_form: long keel sloping forefoot
-id: eb8de9ba-dd38-46bd-9e8a-3dadbc1dfb89
-length_on_deck: 10.668
 callsign: ''
 ownerships:
 - name: Derek Atkins
@@ -32,12 +31,13 @@ ownerships:
   member: 5812
   current: true
   start: '?'
-place_built: Littlehampton
-updated_at: '2021-12-19T13:40:03.844605+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1937
-year_is_approximate: false
-construction_details: Carvel
+id: eb8de9ba-dd38-46bd-9e8a-3dadbc1dfb89
+draft: 0
+handicap_data:
+  length_overall: 10.668
+length_on_deck: 10.668
 beam: 0
 for_sale_state:
   text: not_for_sale

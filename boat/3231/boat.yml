@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Kitty is a Yarmouth 23</p>
 full_description: ''
-builder:
-  name: Yarmouth Boat Co.
-  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+year: 2004
+year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+place_built: Yarmouth Isle of Wight
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Dartmouth
+hull_form: long keel sloping forefoot
+sail_number: '27'
+callsign: ''
+ownerships:
+- id: 714
+  share: 64
+  start: 2012
+  member: 5668
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 44462bfc-0a31-4f49-8107-eef831be4029
+draft: 0.9144
 handicap_data:
   main:
     foot: 12.73
@@ -27,25 +45,7 @@ handicap_data:
   fore_triangle_base: 3.0389
   length_on_waterline: 5.4986
   fore_triangle_height: 5.7912
-home_country: GBR
-home_port: Dartmouth
-hull_form: long keel sloping forefoot
-id: 44462bfc-0a31-4f49-8107-eef831be4029
 length_on_deck: 6.8793
-sail_number: '27'
-callsign: ''
-ownerships:
-- id: 714
-  share: 64
-  start: 2012
-  member: 5668
-  current: true
-place_built: Yarmouth Isle of Wight
-updated_at: '2021-12-19T13:40:04.79311+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-construction_details: GRP
 beam: 2.2799
 design_class:
   name: Yarmouth 23

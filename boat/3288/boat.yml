@@ -11,17 +11,36 @@ full_description: "<p>&#39;Poppy&#39; is a Francoise Vivier designed dayboat gaf
   \ target=\"_blank\">visit Vivier&#39;s website</a>.</p>\r\n\r\n<p><a href=\"http://www.boatbuildingacademy.com/boats/14-beg-meil-gaff-rigged-dinghy-stuart-mcgowan/\"\
   \ target=\"_blank\">Visit the Lyme Regis Boatbuilding Academy website</a> to see\
   \ some pictures of her build.&nbsp;</p>"
-builder:
-  name: Stuart McGowan
-  id: 67c88a64-e303-434a-a8bb-4c18c609d94d
+year: 2014
+year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+builder:
+  name: Stuart McGowan
+  id: 67c88a64-e303-434a-a8bb-4c18c609d94d
+place_built: Lyme Regis
 construction_material: woodepoxy
 construction_method: clinker_ply
-draft: 0.6797
+construction_details: Glued clinker marine ply
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Port Solent, Portsmouth.
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 843
+  share: 64
+  start: 2014
+  member: 5924
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2ecb183a-cf8b-420f-9c2a-96cb8c60afd8
+image_key: J7jrvC
+thumb: https://photos.smugmug.com/photos/i-TrNR6NV/0/Th/i-TrNR6NV-Th.png
+draft: 0.6797
 handicap_data:
   main:
     foot: 10.71
@@ -38,25 +57,7 @@ handicap_data:
   fore_triangle_base: 1.649
   length_on_waterline: 4.2001
   fore_triangle_height: 3.999
-home_country: GBR
-home_port: Port Solent, Portsmouth.
-hull_form: long keel deep forefoot
-id: 2ecb183a-cf8b-420f-9c2a-96cb8c60afd8
 length_on_deck: 4.5507
-callsign: ''
-ownerships:
-- id: 843
-  share: 64
-  start: 2014
-  member: 5924
-  current: true
-place_built: Lyme Regis
-updated_at: '2021-12-19T13:40:06.458362+00:00'
-website: ''
-year: 2014
-year_is_approximate: false
-image_key: J7jrvC
-construction_details: Glued clinker marine ply
 beam: 1.8014
 design_class:
   name: Beg Meil

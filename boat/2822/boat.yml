@@ -5,25 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Roger Wilkinson
-  id: 13013b12-8617-439c-bc35-ba8f2259031e
+year: 2006
+year_is_approximate: false
 designer:
   name: Roger Wilkinson
   id: 7b55967c-c09b-4375-8aab-2aa606d145cd
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+place_built: Pottstringley
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: Grp & Mahogany
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  length_over_all: 4.87685930260912
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: e2918a88-5c15-450f-9fa1-58d195fab81f
-length_on_deck: 4.8768
 ssr: '123332'
 uk_part1: GB KIT 160030604
 callsign: ''
@@ -31,12 +29,14 @@ ownerships:
 - name: Tim Byshell
   share: 64
   start: 2006
-place_built: Pottstringley
-updated_at: '2021-12-19T13:39:50.411868+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2006
-year_is_approximate: false
-construction_details: Grp & Mahogany
+id: e2918a88-5c15-450f-9fa1-58d195fab81f
+draft: 0
+handicap_data:
+  beam: 1.8288222384784198
+  length_over_all: 4.87685930260912
+length_on_deck: 4.8768
 beam: 1.8288
 design_class:
   name: Kittiwake 16

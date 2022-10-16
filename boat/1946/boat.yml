@@ -5,17 +5,35 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: <p>Derived from a Falmouth Quay Punt.</p>
 full_description: ''
-builder:
-  name: Roger Wilkinson
-  id: 13013b12-8617-439c-bc35-ba8f2259031e
+year: 1988
+year_is_approximate: false
 designer:
   name: Roger Wilkinson
   id: 7b55967c-c09b-4375-8aab-2aa606d145cd
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+place_built: Macclesfield
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.2591
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Nolton Haven
+hull_form: centre-board dinghy
+callsign: ''
+ownerships:
+- id: 451
+  share: 64
+  start: 1988
+  member: 4443
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fe2fee9f-686e-43bd-98ad-4d6ddaa32c6a
+draft: 0.2591
 handicap_data:
   beam: 1.5240185320653499
   main:
@@ -31,25 +49,7 @@ handicap_data:
   fore_triangle_base: 2.255547427456718
   length_on_waterline: 4.31297244574494
   fore_triangle_height: 3.596683735674226
-home_country: GBR
-home_port: Nolton Haven
-hull_form: centre-board dinghy
-id: fe2fee9f-686e-43bd-98ad-4d6ddaa32c6a
 length_on_deck: 4.3282
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 451
-  share: 64
-  start: 1988
-  member: 4443
-  current: true
-place_built: Macclesfield
-updated_at: '2021-12-19T13:39:24.937654+00:00'
-website: ''
-year: 1988
-year_is_approximate: false
-construction_details: GRP
 beam: 1.524
 for_sale_state:
   text: not_for_sale

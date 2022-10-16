@@ -10,39 +10,39 @@ full_description: <p>2015 Cornish Crabber 26 cutter rigged gaffer. Cream hull wi
   owners kept her in Mylor and Falmouth; we amended the name to "Molly of Mylor" to
   avoid the confusion of two boats of the same type with the same name on the same
   stretch of water!</p>
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2015
+year_is_approximate: false
 designer:
   name: David Thomas
   id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: unknown
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 8.001
-  moving_keel_type: Centreboard
-  length_on_waterline: 7.239
 home_country: United Kingdom
 home_port: Gosport
 hull_form: long keel deep forefoot
-id: 3622a490-facc-4038-9eb0-f5f4c3939f73
-length_on_deck: 8.001
 sail_number: '33'
-spar_material: wood
 ownerships:
 - id: 780
   share: 64
   start: 2022
   member: 5802
   current: true
-place_built: Rock
-updated_at: '2022-03-24T10:54:03.895917+00:00'
-year: 2015
-year_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 3622a490-facc-4038-9eb0-f5f4c3939f73
 previous_names:
 - Molly
+handicap_data:
+  length_overall: 8.001
+  moving_keel_type: Centreboard
+  length_on_waterline: 7.239
+length_on_deck: 8.001
 beam: 2.9962
 design_class:
   name: Cornish Crabber 26

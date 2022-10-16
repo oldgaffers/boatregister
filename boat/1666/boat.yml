@@ -5,17 +5,39 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Log 79/1, 92/3,sp/93, J/96
-builder:
-  name: F. McKeown
-  id: 97612369-5592-4c04-84c6-a2ebb9c4edb4
+year: 1910
+year_is_approximate: false
 designer:
   name: Vincent Craig
   id: 04b453f8-4dd7-4ff7-98d5-4dfd55029dc4
+builder:
+  name: F. McKeown
+  id: 97612369-5592-4c04-84c6-a2ebb9c4edb4
+place_built: Belfast
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel Mahogany on Oak above waterline Pitch pine below, lead
+  keel, teak decks
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 79/1
+- Log 92/3
+- sp/93
+- Log June 96
+uk_part1: '129632'
+callsign: ''
+ownerships:
+- name: S A Spence
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: eed38443-d490-4d8a-b73e-b7dba296a360
+draft: 1.3716
 handicap_data:
   beam: 2.3104120946110704
   main:
@@ -37,29 +59,7 @@ handicap_data:
   fore_triangle_base: 4.13923433308949
   length_on_waterline: 8.903316264325774
   fore_triangle_height: 8.40648622287247
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: eed38443-d490-4d8a-b73e-b7dba296a360
 length_on_deck: 9.7536
-reference:
-- Log 79/1
-- Log 92/3
-- sp/93
-- Log June 96
-uk_part1: '129632'
-callsign: ''
-ownerships:
-- name: S A Spence
-  share: 64
-  start: 2012
-place_built: Belfast
-updated_at: '2021-12-19T13:39:17.326161+00:00'
-website: ''
-year: 1910
-year_is_approximate: false
-construction_details: Carvel Mahogany on Oak above waterline Pitch pine below, lead
-  keel, teak decks
 beam: 2.3104
 for_sale_state:
   text: not_for_sale

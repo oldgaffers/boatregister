@@ -6,17 +6,36 @@ mainsail_type: lug
 short_description: ''
 full_description: Second version of this craft, 1st one also called Julia Mary OGA
   number 2037 was broken up.
-builder:
-  name: Anthony Sharples
-  id: b64af597-7b76-45cb-b9df-b9de7d74854d
+year: 2004
+year_is_approximate: false
 designer:
   name: Anthony Sharples
   id: a5aedf34-b048-434b-8d1b-52dc6c16b5e4
+builder:
+  name: Anthony Sharples
+  id: b64af597-7b76-45cb-b9df-b9de7d74854d
+place_built: Southampton
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.4572
+construction_details: Epoxy sheathed marine ply.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Southampton
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Tony Sharples
+  share: 64
+  start: 2004
+- share: 64
+  member: 4541
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d5c92037-62f7-4b96-9c23-079d9b5891ea
+draft: 0.4572
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -30,26 +49,7 @@ handicap_data:
     perpendicular: 4.26725188978298
   length_over_all: 7.010485247500609
   length_on_waterline: 5.18166300902219
-home_country: 'null'
-home_port: Southampton
-hull_form: unknown
-id: d5c92037-62f7-4b96-9c23-079d9b5891ea
 length_on_deck: 7.0104
-callsign: ''
-ownerships:
-- name: Tony Sharples
-  share: 64
-  start: 2004
-- share: 64
-  member: 4541
-  current: true
-  start: '?'
-place_built: Southampton
-updated_at: '2021-12-19T13:39:23.345135+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-construction_details: Epoxy sheathed marine ply.
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

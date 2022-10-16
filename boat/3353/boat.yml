@@ -42,17 +42,43 @@ full_description: <p>The boat was imported to Castletown, IOM as a shell by the 
   there's all that weight below the sole and plenty of buoyancy each side above the
   sole in the sealed fore and aft lockers/seats. Once upright it's self-draining above
   the sole.</p><p>Isle of Man Pleasure Craft Registry no. 1688</p>
-builder:
-  name: Liverpool Boat Co. Ltd.
-  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+year: 1975
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Liverpool Boat Co. Ltd.
+  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+place_built: Liverpool
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.4572
+construction_details: Hull GRP with wood trim, carbon mast, alloy yard, wooden bowsprit.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Port St. Mary, Isle of Man
+hull_form: centre-boarder
+sail_number: '3353'
+callsign: ''
+ownerships:
+- name: Michael Kneale
+  share: 64
+  start: 2017
+- id: 624
+  share: 64
+  member: 5340
+  current: true
+  start: '?'
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: bda16439-f603-4d64-b7d0-7a0cce787e05
+previous_names:
+- Drean
+image_key: pmvPsG
+thumb: https://photos.smugmug.com/photos/i-8wQzrpv/0/Th/i-8wQzrpv-Th.jpg
+draft: 0.4572
 handicap_data:
   main:
     foot: 12.3
@@ -64,32 +90,7 @@ handicap_data:
   moving_keel_type: Centreboard
   length_over_spars: 6.4008
   length_on_waterline: 5.7912
-home_country: GBR
-home_port: Port St. Mary, Isle of Man
-hull_form: centre-boarder
-id: bda16439-f603-4d64-b7d0-7a0cce787e05
 length_on_deck: 5.7912
-sail_number: '3353'
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Michael Kneale
-  share: 64
-  start: 2017
-- id: 624
-  share: 64
-  member: 5340
-  current: true
-  start: '?'
-place_built: Liverpool
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1975
-year_is_approximate: false
-previous_names:
-- Drean
-image_key: pmvPsG
-construction_details: Hull GRP with wood trim, carbon mast, alloy yard, wooden bowsprit.
 beam: 2.1946
 design_class:
   name: Memory 19

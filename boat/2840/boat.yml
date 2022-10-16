@@ -5,17 +5,42 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Luke and Co Ltd
-  id: c75fcaa9-f643-4379-862a-9ca83007e463
+year: 1915
+year_is_approximate: false
 designer:
   name: A.R. Luke
   id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+builder:
+  name: Luke and Co Ltd
+  id: c75fcaa9-f643-4379-862a-9ca83007e463
+place_built: Hamble River
 construction_material: wood
 construction_method: carvel
-draft: 0.9601
+construction_details: Elm and pine carvel plank on canadian elm timbers, oak floors
+  Iron allast keel.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Keyhaven
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Jago Walker
+  share: 32
+  start: 2012
+- name: John Tindle
+  share: 32
+  start: 2012
+- share: 64
+  member: 5009
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c077c1f0-03d2-4017-8c64-741d64d39003
+previous_names:
+- Morvran
+draft: 0.9601
 handicap_data:
   beam: 1.9812240916849548
   main:
@@ -30,32 +55,7 @@ handicap_data:
   fore_triangle_base: 1.8196781272860276
   length_on_waterline: 4.392221409412338
   fore_triangle_height: 4.721409412338454
-home_country: 'null'
-home_port: Keyhaven
-hull_form: long keel deep forefoot
-id: c077c1f0-03d2-4017-8c64-741d64d39003
 length_on_deck: 5.4803
-callsign: ''
-ownerships:
-- name: Jago Walker
-  share: 32
-  start: 2012
-- name: John Tindle
-  share: 32
-  start: 2012
-- share: 64
-  member: 5009
-  current: true
-  start: '?'
-place_built: Hamble River
-updated_at: '2021-12-19T13:39:50.964381+00:00'
-website: ''
-year: 1915
-year_is_approximate: false
-previous_names:
-- Morvran
-construction_details: Elm and pine carvel plank on canadian elm timbers, oak floors
-  Iron allast keel.
 beam: 1.9812
 design_class:
   name: Hamble OD

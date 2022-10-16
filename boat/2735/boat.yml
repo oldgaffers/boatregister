@@ -5,17 +5,35 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Eric Bergqvist
-  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+year: 1977
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: grp
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Hythe Southampton
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- end: 2012
+  name: Tim Aspden
+  share: 64
+  start: 2005
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: 91c45828-417f-4bec-a1c6-abab51810752
+previous_names:
+- Sid's Memory
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -35,25 +53,7 @@ handicap_data:
   fore_triangle_base: 2.6426481346013166
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 5.867471348451597
-home_country: 'null'
-home_port: Hythe Southampton
-hull_form: centre-boarder
-id: 91c45828-417f-4bec-a1c6-abab51810752
 length_on_deck: 5.9436
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2012
-  name: Tim Aspden
-  share: 64
-  start: 2005
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1977
-year_is_approximate: false
-previous_names:
-- Sid's Memory
-construction_details: grp
 beam: 2.1336
 design_class:
   name: Memory 19

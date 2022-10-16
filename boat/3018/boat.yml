@@ -16,12 +16,40 @@ full_description: '<p><em>Fortuna</em>, a gaff cutter, was found off Cockham Sli
   in 2010, and sailed regularly in OGA events. She was sold in 2016.</p>
 
   <p>Her sister ship, <em>Chickpea</em>, has been fitted out for cruising with a cabin.</p>'
+year: 1990
+year_is_approximate: false
+place_built: Baltic Wharf
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.3716
+construction_details: GRP
 engine_installations: []
 for_sales:
 - asking_price: 12950
+home_country: GBR
+home_port: Brightlingsea, ESsex
+hull_form: long keel sloping forefoot
+sail_number: '1'
+callsign: ''
+ownerships:
+- end: 2010
+  name: Harry Hutchinson
+  share: 64
+  start: 0
+- end: 2016
+  name: Nick Dance
+  share: 32
+  start: 2010
+- id: 1098
+  share: 64
+  member: 6352
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 721efdd1-03ce-466e-9f4f-01c20af02274
+image_key: RMcX9S
+thumb: https://photos.smugmug.com/photos/i-DJX3KNm/0/Th/i-DJX3KNm-Th.jpg
+draft: 1.3716
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -41,34 +69,7 @@ handicap_data:
   fore_triangle_base: 4.419653742989515
   length_on_waterline: 7.467690807120214
   fore_triangle_height: 9.75371860521824
-home_country: GBR
-home_port: Brightlingsea, ESsex
-hull_form: long keel sloping forefoot
-id: 721efdd1-03ce-466e-9f4f-01c20af02274
 length_on_deck: 9.144
-sail_number: '1'
-callsign: ''
-ownerships:
-- end: 2010
-  name: Harry Hutchinson
-  share: 64
-  start: 0
-- end: 2016
-  name: Nick Dance
-  share: 32
-  start: 2010
-- id: 1098
-  share: 64
-  member: 6352
-  current: true
-  start: '?'
-place_built: Baltic Wharf
-updated_at: '2021-12-19T13:39:56.119627+00:00'
-website: ''
-year: 1990
-year_is_approximate: false
-image_key: RMcX9S
-construction_details: GRP
 beam: 2.4384
 design_class:
   name: Baltic one design

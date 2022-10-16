@@ -5,14 +5,29 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Used in Children's TV Serial 1986 BBC Snowgoose
+year: 1928
+year_is_approximate: false
 designer:
   name: F.W. Mitchell
   id: 256b950e-c13c-450f-9167-a002d26e2a96
+place_built: Brightlingsea
 construction_material: wood
 construction_method: clinker
-draft: 0.9144
+construction_details: Clinker
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Dr & Mrs N G Mumford
+  share: 64
+  start: 1988
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3613f4e4-80fd-4fc2-907a-7dc54374238d
+draft: 0.9144
 handicap_data:
   beam: 1.4843940502316508
   main:
@@ -25,22 +40,7 @@ handicap_data:
   fore_triangle_base: 0.7101926359424531
   length_on_waterline: 3.6576444769568397
   fore_triangle_height: 3.2309192879785416
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 3613f4e4-80fd-4fc2-907a-7dc54374238d
 length_on_deck: 3.7856
-callsign: ''
-ownerships:
-- name: Dr & Mrs N G Mumford
-  share: 64
-  start: 1988
-place_built: Brightlingsea
-updated_at: '2021-12-19T13:39:33.280376+00:00'
-website: ''
-year: 1928
-year_is_approximate: false
-construction_details: Clinker
 beam: 1.4844
 for_sale_state:
   text: not_for_sale

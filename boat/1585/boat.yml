@@ -10,17 +10,43 @@ full_description: <p>Bought in June 1978 by D.R.Bedford of Ely, le Moulin Vert w
   by D.Sayer in 2003 who restored her and used her up to 2011, she was sold to Dave
   Percival who carried out a full restoration and replaced the engine. Sold again
   in 2013.</p>
-builder:
-  name: D. Bedford/Cornish Crabbers
-  id: 1581e3df-9b8e-46ba-8176-6e109df76bf7
+year: 1978
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: D. Bedford/Cornish Crabbers
+  id: 1581e3df-9b8e-46ba-8176-6e109df76bf7
+place_built: Rock/Ely
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7376
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Emsworth
+hull_form: long keel deep forefoot
+sail_number: C157
+ssr: '15503'
+callsign: ''
+ownerships:
+- end: 2013
+  name: Dave Percival
+  share: 64
+  start: 1978
+- name: Andrew and Tarnia Roan
+  share: 64
+  start: 2013
+- id: 812
+  share: 64
+  member: 5874
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1e73826a-5965-4384-9a6f-7c40b4a20aae
+draft: 0.7376
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -38,33 +64,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
   fore_triangle_height: 5.6388685686417945
-home_country: GBR
-home_port: Emsworth
-hull_form: long keel deep forefoot
-id: 1e73826a-5965-4384-9a6f-7c40b4a20aae
 length_on_deck: 7.3152
-sail_number: C157
-ssr: '15503'
-callsign: ''
-ownerships:
-- end: 2013
-  name: Dave Percival
-  share: 64
-  start: 1978
-- name: Andrew and Tarnia Roan
-  share: 64
-  start: 2013
-- id: 812
-  share: 64
-  member: 5874
-  current: true
-  start: '?'
-place_built: Rock/Ely
-updated_at: '2021-12-19T13:39:15.54564+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-construction_details: GRP
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 1

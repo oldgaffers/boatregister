@@ -5,25 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Northboats
-  id: 8c0353ef-df7a-419b-b6c2-14822e368d24
+year: 2009
+year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+builder:
+  name: Northboats
+  id: 8c0353ef-df7a-419b-b6c2-14822e368d24
+place_built: Old Leslie, Insh
 construction_material: wood
 construction_method: clinker_ply
-draft: 0
+construction_details: Glued clinker ply
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.6764203852718849
-  length_over_all: 5.029261155815655
 home_country: 'null'
 home_port: Old Leslie
 hull_form: unknown
-id: 4765355c-5eea-45f3-be0b-d55cd97bb3e5
-length_on_deck: 5.0292
 callsign: ''
 ownerships:
 - name: Mike Tatham
@@ -33,12 +31,14 @@ ownerships:
   member: 5281
   current: true
   start: '?'
-place_built: Old Leslie, Insh
-updated_at: '2021-12-19T13:39:54.093605+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2009
-year_is_approximate: false
-construction_details: Glued clinker ply
+id: 4765355c-5eea-45f3-be0b-d55cd97bb3e5
+draft: 0
+handicap_data:
+  beam: 1.6764203852718849
+  length_over_all: 5.029261155815655
+length_on_deck: 5.0292
 beam: 1.6764
 for_sale_state:
   text: not_for_sale

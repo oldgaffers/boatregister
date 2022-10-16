@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2003
+year_is_approximate: false
 designer:
   name: Greg Dalrymple
   id: 44caaf02-656f-41f2-bcce-5abea44511ed
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Old Bursledon
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3566
+construction_details: GRP, timber trim and spars.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Brightlingsea
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: David Sloan
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 943b804d-157f-46cb-8d57-8d159d6b1d4b
+draft: 0.3566
 handicap_data:
   beam: 1.6764203852718849
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 1.9812240916849548
   length_on_waterline: 4.800658376005852
   fore_triangle_height: 4.419653742989515
-home_country: 'null'
-home_port: Brightlingsea
-hull_form: unknown
-id: 943b804d-157f-46cb-8d57-8d159d6b1d4b
 length_on_deck: 5.0292
-callsign: ''
-ownerships:
-- name: David Sloan
-  share: 64
-  start: 2012
-place_built: Old Bursledon
-updated_at: '2021-12-19T13:39:53.493621+00:00'
-website: ''
-year: 2003
-year_is_approximate: false
-construction_details: GRP, timber trim and spars.
 beam: 1.6764
 design_class:
   name: Tela

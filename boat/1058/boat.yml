@@ -5,41 +5,41 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Everson A. and Sons
-  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+year: 1933
+year_is_approximate: false
 designer:
   name: A.R. Curjel
   id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
+builder:
+  name: Everson A. and Sons
+  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
-draft: 0.8534
+construction_details: Carvel pitch pine and teak on canadian rock elm
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 0.8534503779565958
-  length_over_all: 6.4008778346744695
-  length_on_waterline: 4.87685930260912
 home_country: GBR
 home_port: Maldon
 hull_form: unknown
-id: 27872d97-1a29-4924-b34c-be2f9f37b720
-length_on_deck: 6.4008
 sail_number: CC5
 callsign: ''
 ownerships:
 - name: Gareth Davies
   share: 64
   start: 2008
-place_built: Woodbridge
-updated_at: '2021-12-19T13:39:00.20267+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1933
-year_is_approximate: false
+id: 27872d97-1a29-4924-b34c-be2f9f37b720
 previous_names:
 - Lindy Loo
-construction_details: Carvel pitch pine and teak on canadian rock elm
+draft: 0.8534
+handicap_data:
+  beam: 2.13362594489149
+  draft: 0.8534503779565958
+  length_over_all: 6.4008778346744695
+  length_on_waterline: 4.87685930260912
+length_on_deck: 6.4008
 beam: 2.1336
 design_class:
   name: Deben Cherub

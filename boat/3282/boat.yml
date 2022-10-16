@@ -10,17 +10,37 @@ full_description: <p>Mary Louise is an open day boat with short fore deck. Her h
   is based on a traditional small fishing craft of Northern Brittany and Normandy.
   She is rigged as a gaff cutter in the style of the traditional small inshore fishing
   craft of Carantec in the Morlaix estuary, Brittany.</p>
-builder:
-  name: John Harris
-  id: 37f91789-9ef7-4831-b7d6-43c0e081b108
+year: 2011
+year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+builder:
+  name: John Harris
+  id: 37f91789-9ef7-4831-b7d6-43c0e081b108
+place_built: Tavistock
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.8412
+construction_details: "Douglas fir strip planks 15mm thick, sheathed with 400g biaxial\
+  \ glass cloth in epoxy inside and out.\r\n"
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Plymouth
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 695
+  share: 64
+  start: 2012
+  member: 5618
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 81dc6394-6370-48d6-bb56-c9939d615133
+image_key: 4NxxTT
+thumb: https://photos.smugmug.com/photos/i-rvG73Rh/0/Th/i-rvG73Rh-Th.jpg
+draft: 0.8412
 handicap_data:
   beam: 1.8501584979273349
   main:
@@ -50,26 +70,7 @@ handicap_data:
   fore_triangle_base: 2.9596439892709094
   length_on_waterline: 4.239819556205803
   fore_triangle_height: 4.2977322604242865
-home_country: GBR
-home_port: Plymouth
-hull_form: long keel deep forefoot
-id: 81dc6394-6370-48d6-bb56-c9939d615133
 length_on_deck: 4.4988
-callsign: ''
-ownerships:
-- id: 695
-  share: 64
-  start: 2012
-  member: 5618
-  current: true
-place_built: Tavistock
-updated_at: '2021-12-19T13:40:06.270912+00:00'
-website: ''
-year: 2011
-year_is_approximate: false
-image_key: 4NxxTT
-construction_details: "Douglas fir strip planks 15mm thick, sheathed with 400g biaxial\
-  \ glass cloth in epoxy inside and out.\r\n"
 beam: 1.8501
 design_class:
   name: Ebihen

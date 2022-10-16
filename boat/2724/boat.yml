@@ -6,17 +6,34 @@ mainsail_type: lug
 short_description: ''
 full_description: Handicapped @ 0.973 by Solent, For sale  Log Dec '07 sold to Holland
   '09
-builder:
-  name: Bridgend Boat Co.
-  id: 2baf8a14-dd14-4e3a-936c-369594ab0618
+year: 1997
+year_is_approximate: false
 designer:
   name: Nigel Irens
   id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
+builder:
+  name: Bridgend Boat Co.
+  id: 2baf8a14-dd14-4e3a-936c-369594ab0618
+place_built: Plymouth
 construction_material: wood
 construction_method: unknown
-draft: 1.7496
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Kortgene NL
+hull_form: long keel sloping forefoot
+reference:
+- Log Dec 2007
+sail_number: Rx9
+callsign: ''
+ownerships:
+- name: Verhoef Cees
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 809059dc-e351-46b4-9037-629068ae9e1d
+draft: 1.7496
 handicap_data:
   beam: 2.740185320653499
   main:
@@ -35,24 +52,7 @@ handicap_data:
   fore_triangle_base: 2.9992684711046085
   length_on_waterline: 8.1016825164594
   fore_triangle_height: 4.998780785174347
-home_country: 'null'
-home_port: Kortgene NL
-hull_form: long keel sloping forefoot
-id: 809059dc-e351-46b4-9037-629068ae9e1d
 length_on_deck: 8.9916
-reference:
-- Log Dec 2007
-sail_number: Rx9
-callsign: ''
-ownerships:
-- name: Verhoef Cees
-  share: 64
-  start: 2012
-place_built: Plymouth
-updated_at: '2021-12-19T13:39:47.474121+00:00'
-website: ''
-year: 1997
-year_is_approximate: false
 beam: 2.7402
 design_class:
   name: Roxanne

@@ -6,17 +6,33 @@ mainsail_type: gaff
 short_description: ''
 full_description: Built to take sailing guests to Holland. Impounded in Holland During
   the Boer war. Skipper and Boy slipped mooring and sailed her home.
-builder:
-  name: Albert Loynes
-  id: 384d5f60-92ed-44d3-8f3f-4027d02e67fe
+year: 1897
+year_is_approximate: false
 designer:
   name: Albert Loynes
   id: bcec2dd6-7f1f-4103-8f74-a532cb0199ff
+builder:
+  name: Albert Loynes
+  id: 384d5f60-92ed-44d3-8f3f-4027d02e67fe
+place_built: Wroxham
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel - Pitch Pine on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+uk_part1: '104092'
+callsign: ''
+ownerships:
+- name: Edward Class
+  share: 64
+  start: 1968
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f799d7bf-8f42-493b-89d8-d4a1ea19dd72
+draft: 1.2192
 handicap_data:
   beam: 3.4138015118263834
   draft: 1.21921482565228
@@ -24,23 +40,7 @@ handicap_data:
     type: fixed
   length_over_all: 13.716166788588149
   length_on_waterline: 9.75371860521824
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: f799d7bf-8f42-493b-89d8-d4a1ea19dd72
 length_on_deck: 13.716
-uk_part1: '104092'
-callsign: ''
-ownerships:
-- name: Edward Class
-  share: 64
-  start: 1968
-place_built: Wroxham
-updated_at: '2021-12-19T13:39:24.649661+00:00'
-website: ''
-year: 1897
-year_is_approximate: false
-construction_details: Carvel - Pitch Pine on oak
 beam: 3.4138
 for_sale_state:
   text: not_for_sale

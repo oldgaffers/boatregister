@@ -10,27 +10,24 @@ full_description: "<p>Espanola may have originally been built for the King of Sp
   \ Cruising Club. She remained in Ireland until 1956 when she was moved to England\
   \ having several owners over the years.</p>\r\n\r\n<p>She is now a gaff yawl based\
   \ in Preston.</p>"
-builder:
-  name: S.F. Bond
-  id: cb17e76b-9888-4502-85a6-c7640e16e6ce
+year: 1902
+year_is_approximate: false
 designer:
   name: S.F. Bond
   id: 51523844-fc95-4eae-af0d-c08e8e17b059
+builder:
+  name: S.F. Bond
+  id: cb17e76b-9888-4502-85a6-c7640e16e6ce
+place_built: Birkenhead
 construction_material: wood
 construction_method: carvel
-draft: 2.286
+construction_details: Carvel construction with teak planks on steamed rock elm and
+  grown oak frames.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.996220434040478
-  draft: 2.286027798098025
-  length_over_all: 14.325774201414289
-  length_on_waterline: 10.972933430870519
 home_country: GBR
 home_port: Preston
 hull_form: unknown
-id: 3af5674b-f5a4-4c8d-97a8-7ee58af130d2
-length_on_deck: 14.3256
 callsign: ''
 ownerships:
 - name: Martin Birch
@@ -40,16 +37,20 @@ ownerships:
   member: 3209
   current: true
   start: '?'
-place_built: Birkenhead
-updated_at: '2021-12-19T13:39:28.918138+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1902
-year_is_approximate: false
+id: 3af5674b-f5a4-4c8d-97a8-7ee58af130d2
 previous_names:
 - Irene ll
 image_key: GfdbNw
-construction_details: Carvel construction with teak planks on steamed rock elm and
-  grown oak frames.
+thumb: https://photos.smugmug.com/photos/i-tBsSbpn/0/Th/i-tBsSbpn-Th.jpg
+draft: 2.286
+handicap_data:
+  beam: 2.996220434040478
+  draft: 2.286027798098025
+  length_over_all: 14.325774201414289
+  length_on_waterline: 10.972933430870519
+length_on_deck: 14.3256
 beam: 2.987
 for_sale_state:
   text: not_for_sale

@@ -7,17 +7,37 @@ short_description: <p>&#39;Irene&#39; went to the West Indies for charter and wa
   burnt out in 2003 being returned to the River Lynher for rebuild. Following her
   rebuild, she attended the OGA 50 Anniversary party in Cowes, 2013.</p>
 full_description: ''
-builder:
-  name: Carver
-  id: 4e496de8-48dc-4de2-bf62-7ab5ff3c6f56
+year: 1907
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Carver
+  id: 4e496de8-48dc-4de2-bf62-7ab5ff3c6f56
+place_built: Bridgewater
 construction_material: wood
 construction_method: unknown
-draft: 2.7432
+construction_details: Wood
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Plymouth
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- name: L Morrish
+  share: 64
+  start: 1966
+- id: 35
+  share: 64
+  member: 907
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://cinnabarsolutions.co.uk/Irene/
+id: bfcb48c6-e3f4-481d-9748-19a6b89267ba
+draft: 2.7432
 handicap_data:
   beam: 6.4008778346744695
   main:
@@ -42,27 +62,7 @@ handicap_data:
   fore_triangle_base: 14.935381614240429
   length_on_waterline: 24.384296513045598
   fore_triangle_height: 23.043160204828087
-home_country: GBR
-home_port: Plymouth
-hull_form: long keel sloping forefoot
-id: bfcb48c6-e3f4-481d-9748-19a6b89267ba
 length_on_deck: 25.908
-callsign: ''
-ownerships:
-- name: L Morrish
-  share: 64
-  start: 1966
-- id: 35
-  share: 64
-  member: 907
-  current: true
-  start: '?'
-place_built: Bridgewater
-updated_at: '2021-12-19T13:38:31.433161+00:00'
-website: http://cinnabarsolutions.co.uk/Irene/
-year: 1907
-year_is_approximate: false
-construction_details: Wood
 beam: 6.4008
 for_sale_state:
   text: not_for_sale

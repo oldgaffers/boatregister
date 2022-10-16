@@ -8,18 +8,48 @@ short_description: '''Foxhound'' was owned by Mark Woodhouse from new and featur
 full_description: <p>She is sister ship to <a href="http://www.oga.org.uk/boat/zinnia">Zinnia</a>
   and Meagan and has taken line honours in the Gaffers Section of the Round the Island
   Race, 2002 and 2003.</p>
-builder:
-  name: M.B. Yachts Ltd.
-  id: 4d50239e-9170-4840-89b4-9ba010fcf52b
+year: 2001
+year_is_approximate: false
 designer:
   name: Ed Burnett/Nigel Irens
   id: 8f64ae6c-9f1b-46cc-b03d-d1f269ced762
+builder:
+  name: M.B. Yachts Ltd.
+  id: 4d50239e-9170-4840-89b4-9ba010fcf52b
+place_built: Poole
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.6764
+construction_details: Wood epoxy
 engine_installations: []
 for_sales:
 - asking_price: null
+home_country: GBR
+home_port: Poole
+hull_form: long keel sloping forefoot
+sail_number: '4'
+callsign: ''
+ownerships:
+- end: 2011
+  name: Mark Woodhouse
+  share: 64
+  start: 2001
+- id: 329
+  end: 2020
+  sale: '2020-12-01'
+  start: 2011
+  member: 3820
+- id: 34936
+  share: 64
+  start: 2020
+  member: 6533
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2c5afa93-1f82-4a10-86b1-2fe6bd1b04e3
+image_key: VdHkd4
+thumb: https://photos.smugmug.com/photos/i-bJq8Ndg/0/Th/i-bJq8Ndg-Th.jpg
+draft: 1.6764
 handicap_data:
   beam: 2.9718361375274323
   main:
@@ -38,36 +68,7 @@ handicap_data:
   fore_triangle_base: 5.87966349670812
   length_on_waterline: 8.177883443062667
   fore_triangle_height: 9.525115825408436
-home_country: GBR
-home_port: Poole
-hull_form: long keel sloping forefoot
-id: 2c5afa93-1f82-4a10-86b1-2fe6bd1b04e3
 length_on_deck: 9.144
-sail_number: '4'
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2011
-  name: Mark Woodhouse
-  share: 64
-  start: 2001
-- id: 329
-  end: 2020
-  sale: '2020-12-01'
-  start: 2011
-  member: 3820
-- id: 34936
-  share: 64
-  start: 2020
-  member: 6533
-  current: true
-place_built: Poole
-updated_at: '2022-01-04T18:58:53.230628+00:00'
-website: ''
-year: 2001
-year_is_approximate: false
-image_key: VdHkd4
-construction_details: Wood epoxy
 beam: 2.987
 for_sale_state:
   text: not_for_sale

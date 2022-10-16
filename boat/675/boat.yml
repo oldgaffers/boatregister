@@ -5,24 +5,19 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 87/2, 92/2
+year: 1927
+year_is_approximate: false
 builder:
   name: Risor Shipyard
   id: cf95f2fd-cdef-4fae-beea-bf1c308b6759
+place_built: Risor
 construction_material: wood
 construction_method: unknown
-draft: 1.8288
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.114850036576445
-  draft: 1.8288222384784198
-  length_over_all: 10.790051207022676
-  length_on_waterline: 9.1441111923921
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 940871fc-3103-4620-af92-ea8b6e7cc884
-length_on_deck: 10.7899
 reference:
 - Log 87/2
 - Log 92/2
@@ -31,11 +26,16 @@ ownerships:
 - name: A E Tate
   share: 64
   start: 1981
-place_built: Risor
-updated_at: '2021-12-19T13:38:49.202136+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1927
-year_is_approximate: false
+id: 940871fc-3103-4620-af92-ea8b6e7cc884
+draft: 1.8288
+handicap_data:
+  beam: 4.114850036576445
+  draft: 1.8288222384784198
+  length_over_all: 10.790051207022676
+  length_on_waterline: 9.1441111923921
+length_on_deck: 10.7899
 beam: 4.1148
 for_sale_state:
   text: not_for_sale

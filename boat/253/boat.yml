@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 80/2  for sale on web Nov 05 see cardex for list of owners
-builder:
-  name: Johnson and Johnson
-  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+year: 1939
+year_is_approximate: false
 designer:
   name: Edward Wigfull
   id: 82839c59-e386-42a8-9061-6798451cab74
+builder:
+  name: Johnson and Johnson
+  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+place_built: Leigh on Sea
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 0.9144
+construction_details: Pine on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Hullbridge Y C
+hull_form: long keel deep forefoot
+reference:
+- Log 80/2
+callsign: ''
+ownerships:
+- name: Cliff S Draycott
+  share: 64
+  start: 1983
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 49018e1d-fc01-452b-b7ec-31a8ba679081
+image_key: 3dH2DT
+thumb: https://photos.smugmug.com/photos/i-6PDtvPn/0/Th/i-6PDtvPn-Th.jpg
+draft: 0.9144
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -32,26 +52,7 @@ handicap_data:
   length_over_all: 6.705681541087539
   fore_triangle_base: 4.166666666666666
   fore_triangle_height: 7.010485247500609
-home_country: 'null'
-home_port: Hullbridge Y C
-hull_form: long keel deep forefoot
-id: 49018e1d-fc01-452b-b7ec-31a8ba679081
 length_on_deck: 6.7056
-reference:
-- Log 80/2
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Cliff S Draycott
-  share: 64
-  start: 1983
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:38:37.105158+00:00'
-website: ''
-year: 1939
-year_is_approximate: false
-image_key: 3dH2DT
-construction_details: Pine on oak
 beam: 2.286
 design_class:
   name: Linette Class

@@ -7,17 +7,41 @@ short_description: Capraia is a Heard 28 Falmouth work boat built in 2000 in GRP
   Gaffers and Luggers.
 full_description: Moored in the River Cleddau, Pembrokeshire. Capraia took part in
   the OGA Round Britain Challenge, 2013.
-builder:
-  name: Martin Heard
-  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+year: 2000
+year_is_approximate: false
 designer:
   name: Percy Dalton/Martin Heard
   id: f19c441f-b6a2-4f96-95b9-d25a6e3e36a5
+builder:
+  name: Martin Heard
+  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+place_built: Mylor
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.524
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+ssr: '116113'
+callsign: ''
+ownerships:
+- name: P J Vyvyan-Robinson
+  share: 64
+  start: 2009
+- id: 692
+  share: 64
+  member: 5608
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://onboardcapraia.blogspot.co.uk
+id: 9963d6f5-3d2d-4431-8a9b-8426a9ac489b
+image_key: kBDhTt
+thumb: https://photos.smugmug.com/photos/i-F9CtCPM/0/Th/i-F9CtCPM-Th.jpg
+draft: 1.524
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -37,30 +61,7 @@ handicap_data:
   fore_triangle_base: 6.2484759814679345
   length_on_waterline: 8.077298219946353
   fore_triangle_height: 9.75371860521824
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 9963d6f5-3d2d-4431-8a9b-8426a9ac489b
 length_on_deck: 8.6868
-spar_material: wood
-ssr: '116113'
-callsign: ''
-ownerships:
-- name: P J Vyvyan-Robinson
-  share: 64
-  start: 2009
-- id: 692
-  share: 64
-  member: 5608
-  current: true
-  start: '?'
-place_built: Mylor
-updated_at: '2021-12-19T13:39:59.153135+00:00'
-website: http://onboardcapraia.blogspot.co.uk
-year: 2000
-year_is_approximate: false
-image_key: kBDhTt
-construction_details: GRP
 beam: 3.048
 design_class:
   name: Heard 28

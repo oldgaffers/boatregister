@@ -5,17 +5,36 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 78/1
-builder:
-  name: Smith Bros
-  id: 94919ef1-95e3-4861-aa55-c98016ebe67e
+year: 1926
+year_is_approximate: false
 designer:
   name: Colin McCullum
   id: 508e0370-35e3-4d21-a252-c8e32b0e4b6e
+builder:
+  name: Smith Bros
+  id: 94919ef1-95e3-4861-aa55-c98016ebe67e
+place_built: Tighnabruaich
 construction_material: wood
 construction_method: carvel
-draft: 1.6459
+construction_details: Carvel pitch pine on oak sawn and rock elm bent frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 78/1
+callsign: ''
+ownerships:
+- name: R Peacock
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d4a1526d-5750-4ba5-a252-228e724a2443
+previous_names:
+- Pervaneh
+draft: 1.6459
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -28,26 +47,7 @@ handicap_data:
   fore_triangle_base: 3.2004389173372347
   length_on_waterline: 7.010485247500609
   fore_triangle_height: 9.75371860521824
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: d4a1526d-5750-4ba5-a252-228e724a2443
 length_on_deck: 8.0162
-reference:
-- Log 78/1
-callsign: ''
-ownerships:
-- name: R Peacock
-  share: 64
-  start: 2012
-place_built: Tighnabruaich
-updated_at: '2021-12-19T13:38:47.827646+00:00'
-website: ''
-year: 1926
-year_is_approximate: false
-previous_names:
-- Pervaneh
-construction_details: Carvel pitch pine on oak sawn and rock elm bent frames
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

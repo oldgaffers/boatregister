@@ -5,17 +5,29 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: CB Jun 91
-builder:
-  name: Hilditch John
-  id: 419b997a-03fd-48b2-b58e-923e30825ae9
+year: 1898
+year_is_approximate: false
 designer:
   name: Walter H. Boyd
   id: 1f2cf7e4-3f73-4334-8eda-a96e16587b46
+builder:
+  name: Hilditch John
+  id: 419b997a-03fd-48b2-b58e-923e30825ae9
+place_built: Carrickfergus
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '7'
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 5da5eb12-fc5f-4222-9131-99eb6bd68463
+draft: 1.2192
 handicap_data:
   beam: 1.5240185320653499
   main:
@@ -32,19 +44,7 @@ handicap_data:
   fore_triangle_base: 2.48923433308949
   length_on_waterline: 5.18166300902219
   fore_triangle_height: 4.775274323335771
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 5da5eb12-fc5f-4222-9131-99eb6bd68463
 length_on_deck: 6.858
-sail_number: '7'
-callsign: ''
-place_built: Carrickfergus
-updated_at: '2021-03-23T08:38:13.181598+00:00'
-website: ''
-year: 1898
-year_is_approximate: false
-construction_details: Carvel
 beam: 1.524
 for_sale_state:
   text: not_for_sale

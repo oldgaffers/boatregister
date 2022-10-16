@@ -5,17 +5,29 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: CB Jun 91
-builder:
-  name: Kelly
-  id: 12762ec7-8200-4c09-854d-ef098b4b7020
+year: 1907
+year_is_approximate: false
 designer:
   name: Walter H. Boyd
   id: 1f2cf7e4-3f73-4334-8eda-a96e16587b46
+builder:
+  name: Kelly
+  id: 12762ec7-8200-4c09-854d-ef098b4b7020
+place_built: Portrush
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '12'
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d5867a88-0908-4e48-943b-16f8722bca92
+draft: 1.0668
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -31,19 +43,7 @@ handicap_data:
   fore_triangle_base: 2.4902462813947817
   length_on_waterline: 5.18166300902219
   fore_triangle_height: 5.233479639112412
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: d5867a88-0908-4e48-943b-16f8722bca92
 length_on_deck: 6.858
-sail_number: '12'
-callsign: ''
-place_built: Portrush
-updated_at: '2021-03-23T08:38:13.181598+00:00'
-website: ''
-year: 1907
-year_is_approximate: false
-construction_details: Carvel
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

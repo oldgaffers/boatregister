@@ -5,29 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Hilditch John
-  id: 419b997a-03fd-48b2-b58e-923e30825ae9
+year: 1900
+year_is_approximate: false
 designer:
   name: Alfred Mylne
   id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
+builder:
+  name: Hilditch John
+  id: 419b997a-03fd-48b2-b58e-923e30825ae9
+place_built: Carrickfergus
 construction_material: wood
 construction_method: carvel
-draft: 1.6764
+construction_details: Carvel Larch on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  draft: 1.6764203852718849
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
-  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: Rosneath, Clyde
 hull_form: long keel deep forefoot
-id: c09fa9ba-4fd4-40e8-a562-4129871e7c08
-length_on_deck: 8.5344
 callsign: ''
 ownerships:
 - id: 125
@@ -35,14 +29,20 @@ ownerships:
   start: 1986
   member: 2127
   current: true
-place_built: Carrickfergus
-updated_at: '2021-12-19T13:38:52.734153+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1900
-year_is_approximate: false
+id: c09fa9ba-4fd4-40e8-a562-4129871e7c08
 previous_names:
 - Ulster Star
-construction_details: Carvel Larch on Oak
+draft: 1.6764
+handicap_data:
+  beam: 2.286027798098025
+  draft: 1.6764203852718849
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  length_on_waterline: 6.0960741282613995
+length_on_deck: 8.5344
 beam: 2.286
 design_class:
   name: Belfast Lough OD

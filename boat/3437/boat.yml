@@ -6,14 +6,32 @@ mainsail_type: gaff
 short_description: <p>bluejay is a Cornish Shrimper 19, sail number 1152</p>
 full_description: <p>bluejay&#39;s longest solo&nbsp;passage to date was from Plymouth
   to Hamble in 2019</p>
+year: 2018
+year_is_approximate: false
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: unknown
-draft: 0.4815898561326506
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: centre-boarder
+sail_number: '1152'
+callsign: ''
+ownerships:
+- id: 34595
+  share: 64
+  member: 6359
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3e20783a-075c-422e-a7b5-dc4b0a9d65e9
+draft: 0.4815898561326506
 handicap_data:
   main:
     foot: 11.5
@@ -30,25 +48,7 @@ handicap_data:
   fore_triangle_base: 2.539
   length_on_waterline: 5.3584
   fore_triangle_height: 4.6482
-home_country: GBR
-home_port: ''
-hull_form: centre-boarder
-id: 3e20783a-075c-422e-a7b5-dc4b0a9d65e9
 length_on_deck: 5.8826
-sail_number: '1152'
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 34595
-  share: 64
-  member: 6359
-  current: true
-  start: '?'
-place_built: Rock
-updated_at: '2022-02-14T11:04:40.382535+00:00'
-website: ''
-year: 2018
-year_is_approximate: false
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

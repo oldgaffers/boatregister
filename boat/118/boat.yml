@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 76/3, 82/1, 90/2
-builder:
-  name: Johnson and Johnson
-  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+year: 1936
+year_is_approximate: false
 designer:
   name: Johnson and Jago
   id: de94fe11-0ff1-4839-bd1f-b72dde32a2c2
+builder:
+  name: Johnson and Johnson
+  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+place_built: Leigh on Sea
 construction_material: wood
 construction_method: carvel
-draft: 0.7102
+construction_details: Carvel pitch pine on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 76/3
+- Log 82/1
+- Log 90/2
+callsign: ''
+ownerships:
+- name: R A Blake
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a07e3c63-051d-4c60-9c20-0ac35afd2d2b
+draft: 0.7102
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -28,26 +47,7 @@ handicap_data:
   fore_triangle_base: 3.2004389173372347
   length_on_waterline: 6.583760058522312
   fore_triangle_height: 5.334064862228725
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: a07e3c63-051d-4c60-9c20-0ac35afd2d2b
 length_on_deck: 6.8062
-reference:
-- Log 76/3
-- Log 82/1
-- Log 90/2
-callsign: ''
-ownerships:
-- name: R A Blake
-  share: 64
-  start: 2012
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:38:33.017394+00:00'
-website: ''
-year: 1936
-year_is_approximate: false
-construction_details: Carvel pitch pine on oak
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

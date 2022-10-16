@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Owner built entire rig, April '08 cruising in Red Sea
-builder:
-  name: John Thomas
-  id: 9365af36-e6e0-415b-8cca-e686b4e3ee89
+year: 2005
+year_is_approximate: false
 designer:
   name: Nick Skeates
   id: 75b8e267-30d0-4825-90e1-b253d02723a5
+builder:
+  name: John Thomas
+  id: 9365af36-e6e0-415b-8cca-e686b4e3ee89
 construction_material: steel
 construction_method: unknown
-draft: 0.9906
+construction_details: Steel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Calstock
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Mr Sanuel Bouquet
+  share: 64
+  start: 2005
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: dbb53aed-de47-43fc-85e0-d19a4991af82
+draft: 0.9906
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -30,21 +44,7 @@ handicap_data:
   fore_triangle_base: 6.004633016337478
   length_on_waterline: 8.83930748597903
   fore_triangle_height: 8.443062667642037
-home_country: 'null'
-home_port: Calstock
-hull_form: long keel deep forefoot
-id: dbb53aed-de47-43fc-85e0-d19a4991af82
 length_on_deck: 9.7536
-callsign: ''
-ownerships:
-- name: Mr Sanuel Bouquet
-  share: 64
-  start: 2005
-updated_at: '2021-12-19T13:39:51.691377+00:00'
-website: ''
-year: 2005
-year_is_approximate: false
-construction_details: Steel
 beam: 3.048
 design_class:
   name: Wylo II

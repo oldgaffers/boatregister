@@ -5,28 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: Motor Cruisng boat. Complete rebuild 2010/2011 inc engines
 full_description: ''
-builder:
-  name: Alan Platt
-  id: efb4cf0c-f3c1-4edc-a1bf-b51afceb7a2b
+year: 1973
+year_is_approximate: false
 designer:
   name: Storebro
   id: 395ebf4c-471f-480e-9245-a0572d30da1e
+builder:
+  name: Alan Platt
+  id: efb4cf0c-f3c1-4edc-a1bf-b51afceb7a2b
+place_built: Sweden
 construction_material: wood
 construction_method: unknown
-draft: 0.9144
+construction_details: Mahogany - semi displacement hull.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  draft: 0.9144111192392099
-  length_over_all: 10.36332601804438
-  length_over_spars: 10.36332601804438
-  length_on_waterline: 9.1441111923921
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 498b3e22-b607-4f74-b52f-164105dd1258
-length_on_deck: 10.3632
 callsign: ''
 ownerships:
 - end: 2011
@@ -36,12 +31,17 @@ ownerships:
 - name: Paul Mortlock
   share: 64
   start: 2011
-place_built: Sweden
-updated_at: '2021-12-19T13:39:57.63838+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1973
-year_is_approximate: false
-construction_details: Mahogany - semi displacement hull.
+id: 498b3e22-b607-4f74-b52f-164105dd1258
+draft: 0.9144
+handicap_data:
+  beam: 3.0480370641306997
+  draft: 0.9144111192392099
+  length_over_all: 10.36332601804438
+  length_over_spars: 10.36332601804438
+  length_on_waterline: 9.1441111923921
+length_on_deck: 10.3632
 beam: 3.048
 for_sale_state:
   text: not_for_sale

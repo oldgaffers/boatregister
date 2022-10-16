@@ -5,14 +5,30 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1974
+year_is_approximate: false
 builder:
   name: North Sea Craft
   id: a6482c01-706a-469d-93db-2ccab9020581
+place_built: Brundall
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.8382
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+uk_part1: '377038'
+callsign: ''
+ownerships:
+- name: S 2600
+  share: 64
+  start: 1991
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e9f411fb-7a35-45e5-a092-01fe7993d13a
+draft: 0.8382
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -30,23 +46,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.452694464764692
   fore_triangle_height: 7.315288953913679
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: e9f411fb-7a35-45e5-a092-01fe7993d13a
 length_on_deck: 7.3152
-uk_part1: '377038'
-callsign: ''
-ownerships:
-- name: S 2600
-  share: 64
-  start: 1991
-place_built: Brundall
-updated_at: '2021-12-19T13:39:13.591427+00:00'
-website: ''
-year: 1974
-year_is_approximate: false
-construction_details: GRP
 beam: 2.286
 for_sale_state:
   text: not_for_sale

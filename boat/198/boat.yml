@@ -8,17 +8,39 @@ short_description: <p>New Blossom Class, designed by John Leather and described 
   1965. She&#39;s described as a characterful and comfortable weekender, with good
   sitting headroom.</p>
 full_description: ''
-builder:
-  name: Ian Brown Ltd.
-  id: 5c5e4266-5fe8-44c5-84bd-b3cfb5708397
+year: 1965
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: Ian Brown Ltd.
+  id: 5c5e4266-5fe8-44c5-84bd-b3cfb5708397
+place_built: Rowhedge
 construction_material: wood
+spar_material: wood
 construction_method: clinker
-draft: 0.8626
+construction_details: Clinker planking on bent frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: West Mersea
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 316
+  end: 2015
+  name: Hugh Webb
+  share: 64
+  start: 2004
+  member: 3765
+  end_is_approximate: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 42a81c60-eaa8-40b8-9d9c-066e06e165fe
+image_key: VmVrBK
+thumb: https://photos.smugmug.com/photos/i-Pqf6WX5/0/Th/i-Pqf6WX5-Th.jpg
+draft: 0.8626
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -31,28 +53,7 @@ handicap_data:
   fore_triangle_base: 3.581443550353572
   length_on_waterline: 5.257863935625457
   fore_triangle_height: 5.18166300902219
-home_country: 'null'
-home_port: West Mersea
-hull_form: unknown
-id: 42a81c60-eaa8-40b8-9d9c-066e06e165fe
 length_on_deck: 5.843
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 316
-  end: 2015
-  name: Hugh Webb
-  share: 64
-  start: 2004
-  member: 3765
-  end_is_approximate: true
-place_built: Rowhedge
-updated_at: '2021-12-31T13:41:51.645677+00:00'
-website: ''
-year: 1965
-year_is_approximate: false
-image_key: VmVrBK
-construction_details: Clinker planking on bent frames
 beam: 2.1336
 design_class:
   name: New Blossom Class

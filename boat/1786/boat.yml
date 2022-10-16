@@ -5,17 +5,31 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1979
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: wood
 construction_method: unknown
-draft: 1.0668
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: C Haysom
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e4db55d8-6d23-4d8a-a7bf-b99a2c6048b9
+draft: 1.0668
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -37,21 +51,7 @@ handicap_data:
   fore_triangle_base: 4.977444525725432
   length_on_waterline: 7.848695440136551
   fore_triangle_height: 7.949280663252864
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: e4db55d8-6d23-4d8a-a7bf-b99a2c6048b9
 length_on_deck: 9.144
-callsign: ''
-ownerships:
-- name: C Haysom
-  share: 64
-  start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:39:20.252901+00:00'
-website: ''
-year: 1979
-year_is_approximate: false
 beam: 2.8956
 design_class:
   name: Cornish Trader

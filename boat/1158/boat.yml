@@ -5,37 +5,37 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1970
+year_is_approximate: false
 designer:
   name: Latimer
   id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: clinker
-draft: 1.2802
+construction_details: Clinker mahogany on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  draft: 1.280175566934894
-  length_over_all: 7.162887100707144
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: b30f4781-007b-490e-bb1a-2bd152b29082
-length_on_deck: 7.1628
 callsign: ''
 ownerships:
 - name: T J Powles
   share: 64
   start: 2012
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:03.273941+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1970
-year_is_approximate: false
-construction_details: Clinker mahogany on oak
+id: b30f4781-007b-490e-bb1a-2bd152b29082
+draft: 1.2802
+handicap_data:
+  beam: 2.590831504511095
+  draft: 1.280175566934894
+  length_over_all: 7.162887100707144
+length_on_deck: 7.1628
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

@@ -7,24 +7,22 @@ short_description: <p>&#39;Parrot&#39; is a Murray Peterson design, slightly mod
   so she is a one off. Her builder had planned to do a world cruise in her, but having
   reached Jersey, after being seasick, he went no further and sold the boat.</p>
 full_description: ''
-builder:
-  name: Martyn Wynness
-  id: 23b435ac-3247-4b03-ad81-61e57f59e9e4
+year: 1989
+year_is_approximate: false
 designer:
   name: Murray G. Peterson/Martyn Wynness
   id: 58f09459-129d-4dc5-8793-b62ca882919b
+builder:
+  name: Martyn Wynness
+  id: 23b435ac-3247-4b03-ad81-61e57f59e9e4
+place_built: Windermere
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 9.144
 home_country: GBR
 home_port: Christchurch
 hull_form: long keel sloping forefoot
-id: a76d3c5f-3a74-4900-8eb6-9a4e3d9b955c
-length_on_deck: 9.144
 callsign: ''
 ownerships:
 - end: 2015
@@ -39,11 +37,13 @@ ownerships:
   member: 4643
   current: true
   start: '?'
-place_built: Windermere
-updated_at: '2021-12-19T13:40:06.239624+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1989
-year_is_approximate: false
+id: a76d3c5f-3a74-4900-8eb6-9a4e3d9b955c
+draft: 0
+handicap_data:
+  length_overall: 9.144
+length_on_deck: 9.144
 beam: 0
 for_sale_state:
   text: not_for_sale

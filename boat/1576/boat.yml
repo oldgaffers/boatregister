@@ -12,28 +12,24 @@ full_description: Linnea has white mainsail and stays'l with tan jib. The hull i
   her current owner bought her from Stuart & Graham Bernthal in 1981/82, she has been
   extensively rebuilt since then. She has two bunks on each side of the centerplate
   case, table, fair size galley and a little solid fuel stove.
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1949
+year_is_approximate: false
 designer:
   name: Latimer
   id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
+spar_material: wood
 construction_method: clinker
-draft: 1.2192
+construction_details: Clinker pine on oak with iroko cockpit and cabin sides
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  draft: 1.21921482565228
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.7912704218483295
 home_country: GBR
 home_port: Faversham
 hull_form: centre-boarder
-id: 8de8fca7-972a-49c0-af8c-d36b6b71af68
-length_on_deck: 6.096
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1982
@@ -48,15 +44,20 @@ ownerships:
   member: 2336
   current: true
   start: '?'
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:15.262159+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1949
-year_is_approximate: false
+id: 8de8fca7-972a-49c0-af8c-d36b6b71af68
 previous_names:
 - Cestria
 image_key: qx4CGZ
-construction_details: Clinker pine on oak with iroko cockpit and cabin sides
+thumb: https://photos.smugmug.com/photos/i-tRkCq2R/0/Th/i-tRkCq2R-Th.jpg
+draft: 1.2192
+handicap_data:
+  beam: 2.286027798098025
+  draft: 1.21921482565228
+  length_over_all: 6.0960741282613995
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 6.096
 beam: 2.286
 design_class:
   name: Dauntless 20

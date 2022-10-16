@@ -62,38 +62,24 @@ full_description: "<p>\u2018Ploughboy\u2019 was built for John Jackson of North 
   \ to Arnside, anchoring overnight at New Barns Bay.</p>\n<p>2012: Bought by new\
   \ owner. Kept at Gillingham in Kent.<br>\n2017: Advertised on Ebay for \xA314,500</p>\n\
   <p>2021: Change of ownership and undergoing restoration in Port Penryn, Wales.</p>"
-builder:
-  name: Crossfield
-  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+year: 1901
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+place_built: Arnside
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Larch on Oak carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  main:
-    foot: 5.9436722750548645
-    head: 4.57205559619605
-    luff: 3.9624481833699097
-  thcf: 1.00052171
-  draft: 1.3716166788588149
-  topsail:
-    luff: 6.0960741282613995
-    perpendicular: 2.13362594489149
-  length_over_all: 8.83930748597903
-  fore_triangle_base: 6.2484759814679345
-  length_on_waterline: 8.077298219946353
-  fore_triangle_height: 7.620092660326749
 home_country: 'null'
 home_port: Penrhyn, North Wales
 hull_form: unknown
-id: 6f9ac63f-e3d2-4634-bedd-f01beed2445c
-length_on_deck: 8.8392
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2012
@@ -113,13 +99,28 @@ ownerships:
   start: 2022
   member: 6582
   current: true
-place_built: Arnside
 updated_at: '2022-08-02T20:50:34.776839+00:00'
 website: ''
-year: 1901
-year_is_approximate: false
+id: 6f9ac63f-e3d2-4634-bedd-f01beed2445c
 image_key: s7wLDf
-construction_details: Larch on Oak carvel
+thumb: https://photos.smugmug.com/photos/i-4dT2nPr/0/Th/i-4dT2nPr-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.43842965130456
+  main:
+    foot: 5.9436722750548645
+    head: 4.57205559619605
+    luff: 3.9624481833699097
+  thcf: 1.00052171
+  draft: 1.3716166788588149
+  topsail:
+    luff: 6.0960741282613995
+    perpendicular: 2.13362594489149
+  length_over_all: 8.83930748597903
+  fore_triangle_base: 6.2484759814679345
+  length_on_waterline: 8.077298219946353
+  fore_triangle_height: 7.620092660326749
+length_on_deck: 8.8392
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

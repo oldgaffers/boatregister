@@ -4,26 +4,23 @@ generic_type: Yacht
 mainsail_type: gaff
 short_description: ''
 full_description: Log 89/3
-builder:
-  name: Shepherd and Morgan
-  id: fbfac399-5f86-4cc4-9389-4ffe8fa125fb
+year: 1925
+year_is_approximate: false
 designer:
   name: Chas W. Clarke
   id: ad03a0fe-4370-413c-8e33-f5503c5675dd
+builder:
+  name: Shepherd and Morgan
+  id: fbfac399-5f86-4cc4-9389-4ffe8fa125fb
+place_built: Swanwick
 construction_material: wood
 construction_method: carvel
-draft: 1.4234
+construction_details: Teak on oak, carvel planked
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.3378444281882467
-  draft: 1.4234333089490367
-  length_over_all: 9.677517678614972
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 1497021f-4232-4408-86d1-ef758c59b7fd
-length_on_deck: 9.6774
 reference:
 - Log 89/3
 uk_part1: '137729'
@@ -32,12 +29,15 @@ ownerships:
 - name: M Hatton
   share: 64
   start: 2012
-place_built: Swanwick
-updated_at: '2021-12-19T13:39:09.60689+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1925
-year_is_approximate: false
-construction_details: Teak on oak, carvel planked
+id: 1497021f-4232-4408-86d1-ef758c59b7fd
+draft: 1.4234
+handicap_data:
+  beam: 2.3378444281882467
+  draft: 1.4234333089490367
+  length_over_all: 9.677517678614972
+length_on_deck: 9.6774
 beam: 2.3378
 for_sale_state:
   text: not_for_sale

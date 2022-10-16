@@ -7,28 +7,24 @@ short_description: ''
 full_description: <p>Built on lines similar to a Falmouth Quay Punt, an OGA member
   owned her 1959 to 1966 and in 1968 refitted her in Rye for Swiss owners. She moved
   to the Elephant Boatyard Hamble, then was sold to a West Country owner.</p>
-builder:
-  name: W.H. Watty
-  id: 8f91be65-a448-40b0-ad82-49e268fa08cd
+year: 1909
+year_is_approximate: false
 designer:
   name: W.T. Adams
   id: ffa0451d-3edb-4506-b9f7-50d429fbb25f
+builder:
+  name: W.H. Watty
+  id: 8f91be65-a448-40b0-ad82-49e268fa08cd
+place_built: Fowey
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.2004389173372347
-  draft: 1.8288222384784198
-  length_over_all: 9.662277493294317
-  length_on_waterline: 9.23555230431602
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 63c51200-c5f0-46ec-a9eb-5e90e4db1634
-length_on_deck: 9.6622
-spar_material: wood
 uk_part1: '149936'
 callsign: ''
 ownerships:
@@ -41,12 +37,16 @@ ownerships:
   member: 6302
   current: true
   start: '?'
-place_built: Fowey
-updated_at: '2021-12-19T13:38:39.947899+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1909
-year_is_approximate: false
-construction_details: Pitch pine on oak
+id: 63c51200-c5f0-46ec-a9eb-5e90e4db1634
+draft: 1.8288
+handicap_data:
+  beam: 3.2004389173372347
+  draft: 1.8288222384784198
+  length_over_all: 9.662277493294317
+  length_on_waterline: 9.23555230431602
+length_on_deck: 9.6622
 beam: 3.2004
 for_sale_state:
   text: not_for_sale

@@ -5,42 +5,42 @@ rig_type: Schooner
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Herreshoff
-  id: 417cff4f-e242-4cf3-a94c-436fa819dac6
+year: 1910
+year_is_approximate: false
 designer:
   name: Nathaniel Herreshoff
   id: 8123cc79-2c83-4a39-8f6c-a249fbe4658c
+builder:
+  name: Herreshoff
+  id: 417cff4f-e242-4cf3-a94c-436fa819dac6
+place_built: Bristol USA
 construction_material: wood
 construction_method: unknown
-draft: 3.81
+construction_details: Composite construction, iron frames and yellow pine planking
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 5.4864667154352595
-  draft: 3.8100463301633747
-  length_over_all: 32.309192879785414
-  length_on_waterline: 17.06900755913192
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 54f74bf9-a09b-4a2c-a363-b2deabb63320
-length_on_deck: 32.3088
 uk_part1: '711687'
 callsign: ''
 ownerships:
 - name: Vagrant Yacht Co Ltd
   share: 64
   start: 2012
-place_built: Bristol USA
-updated_at: '2021-12-19T13:40:02.447107+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1910
-year_is_approximate: false
+id: 54f74bf9-a09b-4a2c-a363-b2deabb63320
 previous_names:
 - Queen Mab
 - Vagrant
-construction_details: Composite construction, iron frames and yellow pine planking
+draft: 3.81
+handicap_data:
+  beam: 5.4864667154352595
+  draft: 3.8100463301633747
+  length_over_all: 32.309192879785414
+  length_on_waterline: 17.06900755913192
+length_on_deck: 32.3088
 beam: 5.4864
 for_sale_state:
   text: not_for_sale

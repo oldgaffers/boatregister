@@ -5,21 +5,16 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Dunkirk evacuation veteran Log 72/1, 79/1
+year: 1914
+year_is_approximate: false
+place_built: Penzance
 construction_material: wood
 construction_method: unknown
-draft: 1.4326
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8041940990002434
-  draft: 1.432577420141429
-  length_over_all: 9.1441111923921
-  length_on_waterline: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: da1762c4-6663-4277-ad69-2a8d86a11fed
-length_on_deck: 9.144
 reference:
 - Log 72/1
 - Log 79/1
@@ -28,13 +23,18 @@ ownerships:
 - name: L Todd
   share: 64
   start: 2012
-place_built: Penzance
-updated_at: '2021-12-19T13:38:34.830913+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1914
-year_is_approximate: false
+id: da1762c4-6663-4277-ad69-2a8d86a11fed
 previous_names:
 - May Queen
+draft: 1.4326
+handicap_data:
+  beam: 2.8041940990002434
+  draft: 1.432577420141429
+  length_over_all: 9.1441111923921
+  length_on_waterline: 8.83930748597903
+length_on_deck: 9.144
 beam: 2.8042
 for_sale_state:
   text: not_for_sale

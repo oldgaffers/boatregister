@@ -5,24 +5,19 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log 76/1 CB Mar/Apr 88
+year: 1931
+year_is_approximate: false
 builder:
   name: Raa Holmes Boatyard
   id: b2726316-3a85-4461-9744-23a5c356d8c4
+place_built: Raa  Sweden
 construction_material: wood
 construction_method: unknown
-draft: 1.9202
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 6.0960741282613995
-  draft: 1.9202633504023408
-  length_over_all: 22.860277980980246
-  length_on_waterline: 20.72665203608876
 home_country: 'null'
 home_port: Chichester Harbour
 hull_form: unknown
-id: 2e1ccd89-df2e-4a76-94bd-7db6cee70eca
-length_on_deck: 22.86
 reference:
 - Log 76/1
 - CB Mar/Apr 88
@@ -31,13 +26,18 @@ ownerships:
 - name: Richard Pereira
   share: 64
   start: 2012
-place_built: Raa  Sweden
-updated_at: '2021-12-19T13:38:49.296177+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1931
-year_is_approximate: false
+id: 2e1ccd89-df2e-4a76-94bd-7db6cee70eca
 previous_names:
 - Luna
+draft: 1.9202
+handicap_data:
+  beam: 6.0960741282613995
+  draft: 1.9202633504023408
+  length_over_all: 22.860277980980246
+  length_on_waterline: 20.72665203608876
+length_on_deck: 22.86
 beam: 6.096
 for_sale_state:
   text: not_for_sale

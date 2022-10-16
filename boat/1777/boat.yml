@@ -5,27 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Eric Bergqvist
-  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+year: 1986
+year_is_approximate: false
 designer:
   name: Eric Bergqvist
   id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+place_built: Penketh
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.762
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.042184832967569
-  draft: 0.7620092660326749
-  length_over_all: 4.87685930260912
-  length_on_waterline: 4.57205559619605
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: fa93d467-1c01-48ad-bd56-59ea9ae4e3b1
-length_on_deck: 4.8768
 sail_number: WB 7
 callsign: ''
 ownerships:
@@ -37,12 +33,16 @@ ownerships:
   member: 1665
   current: true
   start: '?'
-place_built: Penketh
-updated_at: '2021-12-19T13:39:20.036647+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1986
-year_is_approximate: false
-construction_details: GRP
+id: fa93d467-1c01-48ad-bd56-59ea9ae4e3b1
+draft: 0.762
+handicap_data:
+  beam: 2.042184832967569
+  draft: 0.7620092660326749
+  length_over_all: 4.87685930260912
+  length_on_waterline: 4.57205559619605
+length_on_deck: 4.8768
 beam: 2.0422
 design_class:
   name: Winkle Brig

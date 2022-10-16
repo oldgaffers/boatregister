@@ -13,18 +13,44 @@ full_description: "<p>Golden Nomad is a very sea kindly stable boat and can be s
   \ engine is running and an immersion heater when hooked up.</p>\r\n\r\n<p>After\
   \ spending many years based in Belfast, Northern Ireland, she was brought to Rye,\
   \ Sussex in 2018.</p>"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1981
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: wood
 construction_method: unknown
-draft: 0.1006
 engine_installations: []
 for_sales:
 - asking_price: 37500
+home_country: GBR
+home_port: Rye, Sussex
+hull_form: long keel deep forefoot
+sail_number: '6'
+callsign: ''
+ownerships:
+- end: 2017
+  name: Alan Aston
+  share: 64
+  start: 1997
+- name: Gary Palmer
+  share: 64
+  start: 2017
+- id: 1001
+  share: 64
+  member: 6233
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 43a96ecb-d64c-4a30-8936-066e53f8e941
+image_key: W8LxxR
+thumb: https://photos.smugmug.com/photos/i-xmNCm7z/0/Th/i-xmNCm7z-Th.jpg
+draft: 0.1006
 handicap_data:
   beam: 2.8956
   main:
@@ -46,32 +72,7 @@ handicap_data:
   fore_triangle_base: 4.87685930260912
   length_on_waterline: 7.848695440136551
   fore_triangle_height: 7.467690807120214
-home_country: GBR
-home_port: Rye, Sussex
-hull_form: long keel deep forefoot
-id: 43a96ecb-d64c-4a30-8936-066e53f8e941
 length_on_deck: 9.144
-sail_number: '6'
-callsign: ''
-ownerships:
-- end: 2017
-  name: Alan Aston
-  share: 64
-  start: 1997
-- name: Gary Palmer
-  share: 64
-  start: 2017
-- id: 1001
-  share: 64
-  member: 6233
-  current: true
-  start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:39:06.290133+00:00'
-website: ''
-year: 1981
-year_is_approximate: false
-image_key: W8LxxR
 design_class:
   name: Cornish Trader
   id: 34112a28-7463-42b2-9aaf-2106409b1a0a

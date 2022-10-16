@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cock and Ennery
-  id: 9d3f8fe3-a70f-49de-a403-d70d80a007f2
+year: 1964
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: Cock and Ennery
+  id: 9d3f8fe3-a70f-49de-a403-d70d80a007f2
+place_built: West Mersea
 construction_material: wood
 construction_method: clinker
-draft: 1.2192
+construction_details: Clinker Wych Elm on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+uk_part1: '309678'
+callsign: ''
+ownerships:
+- name: J M Austin
+  share: 64
+  start: 1982
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3405574e-d0dd-4d2d-b675-d02a0deeca43
+draft: 1.2192
 handicap_data:
   beam: 2.4231894659839064
   main:
@@ -30,23 +46,7 @@ handicap_data:
   fore_triangle_base: 3.3528407705437697
   length_on_waterline: 6.2484759814679345
   fore_triangle_height: 5.6388685686417945
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 3405574e-d0dd-4d2d-b675-d02a0deeca43
 length_on_deck: 6.5532
-uk_part1: '309678'
-callsign: ''
-ownerships:
-- name: J M Austin
-  share: 64
-  start: 1982
-place_built: West Mersea
-updated_at: '2021-12-19T13:38:41.086649+00:00'
-website: ''
-year: 1964
-year_is_approximate: false
-construction_details: Clinker Wych Elm on oak
 beam: 2.4232
 for_sale_state:
   text: not_for_sale

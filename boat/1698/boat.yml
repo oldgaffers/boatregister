@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Hunter Boats Ltd.
-  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
+year: 1987
+year_is_approximate: false
 designer:
   name: David Thomas
   id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+builder:
+  name: Hunter Boats Ltd.
+  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
+place_built: Rochford Essex
 construction_material: grp
 construction_method: unknown
-draft: 0.3566
+construction_details: G R P mouldings
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: M10
+callsign: ''
+ownerships:
+- name: P R Anstey
+  share: 64
+  start: 1987
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8517d53b-d175-4ef8-bcc2-f39e4a879a69
+draft: 0.3566
 handicap_data:
   beam: 2.2250670568154107
   main:
@@ -28,23 +44,7 @@ handicap_data:
   fore_triangle_base: 2.261643501584979
   length_on_waterline: 5.821750792489637
   fore_triangle_height: 4.925627895635211
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 8517d53b-d175-4ef8-bcc2-f39e4a879a69
 length_on_deck: 6.919
-sail_number: M10
-callsign: ''
-ownerships:
-- name: P R Anstey
-  share: 64
-  start: 1987
-place_built: Rochford Essex
-updated_at: '2021-12-19T13:39:18.08563+00:00'
-website: ''
-year: 1987
-year_is_approximate: false
-construction_details: G R P mouldings
 beam: 2.225
 design_class:
   name: Hunter Minstrel

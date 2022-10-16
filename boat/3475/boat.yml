@@ -5,16 +5,26 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: Stargazy is a Mark 1 Crabber 24 based on the Tamar. Standard specification
   with a gaff cutter rig.
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1978
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: unknown
 engine_installations: []
 for_sales: []
+home_country: United Kingdom
+home_port: Cargreen
+hull_form: long keel deep forefoot
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 671fefe6-91c1-4187-8810-7276db50ab6b
+image_key: QKGZvc
+thumb: https://photos.smugmug.com/photos/i-xzDbLG9/0/Th/i-xzDbLG9-Th.jpg
 handicap_data:
   main:
     foot: 14.17
@@ -24,16 +34,7 @@ handicap_data:
   fore_triangle_base: 4.191
   length_on_waterline: 6.3246
   fore_triangle_height: 7.5438
-home_country: United Kingdom
-home_port: Cargreen
-hull_form: long keel deep forefoot
-id: 671fefe6-91c1-4187-8810-7276db50ab6b
 length_on_deck: 7.4676
-place_built: Rock
-updated_at: '2021-01-26T15:50:33.266207+00:00'
-year: 1978
-year_is_approximate: false
-image_key: QKGZvc
 beam: 2.5908
 design_class:
   name: Cornish Crabber 24

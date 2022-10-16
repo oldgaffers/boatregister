@@ -15,17 +15,44 @@ full_description: "<p>Abandoned in 1990 in a field, with the lid chopped off, on
   \ make it into a dayboat. The watertight raised floor is made of 9mm Robins Elite\
   \ ply, glassed over. She is a gaff&nbsp;sloop rig with alloy spars and daggerboard\
   \ has a 315 kg bulb drawing 2m.</p>"
-builder:
-  name: Freedom Yachts
-  id: d326778f-1881-46cc-8a2f-9f9cc01c30c8
+year: 1985
+year_is_approximate: false
 designer:
   name: Nick Wyatt/Peter Whipp
   id: fc5d51de-a9dc-484c-8935-6542382996ed
+builder:
+  name: Freedom Yachts
+  id: d326778f-1881-46cc-8a2f-9f9cc01c30c8
+place_built: Jurby, Isle of Man
 construction_material: grp
+spar_material: aluminium
 construction_method: cold_moulded
-draft: 2.1336
+construction_details: grp balsa core  plywood raised floor glassed over (self-draining)
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Isle of Man
+hull_form: lifting bulb keel
+sail_number: '2967'
+callsign: ''
+ownerships:
+- end: 2009
+  name: Peter Whipp
+  share: 64
+  start: 1985
+- id: 624
+  share: 64
+  start: 2009
+  member: 5340
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 07c4f5d9-64b6-4336-a540-a2ae39921262
+previous_names:
+- Ching Ching
+image_key: BPm9qC
+thumb: https://photos.smugmug.com/photos/i-B6M3z7g/0/Th/i-B6M3z7g-Th.jpg
+draft: 2.1336
 handicap_data:
   beam: 2.400029188002926
   main:
@@ -41,33 +68,7 @@ handicap_data:
   fore_triangle_base: 2.600031620336503
   length_on_waterline: 7.000085131675201
   fore_triangle_height: 6.640080753474762
-home_country: GBR
-home_port: Isle of Man
-hull_form: lifting bulb keel
-id: 07c4f5d9-64b6-4336-a540-a2ae39921262
 length_on_deck: 7.111
-sail_number: '2967'
-spar_material: aluminium
-callsign: ''
-ownerships:
-- end: 2009
-  name: Peter Whipp
-  share: 64
-  start: 1985
-- id: 624
-  share: 64
-  start: 2009
-  member: 5340
-  current: true
-place_built: Jurby, Isle of Man
-updated_at: '2021-12-19T13:39:54.861141+00:00'
-website: ''
-year: 1985
-year_is_approximate: false
-previous_names:
-- Ching Ching
-image_key: BPm9qC
-construction_details: grp balsa core  plywood raised floor glassed over (self-draining)
 beam: 2.3866
 design_class:
   name: Panda 711

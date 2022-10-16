@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2004
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: wood
 construction_method: unknown
-draft: 1.0668
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Southampton
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Kate/John Saunders/Ridehalgh
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 94000c1f-7c23-4364-91c3-25ad6e334dec
+draft: 1.0668
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -30,21 +44,7 @@ handicap_data:
   fore_triangle_base: 4.191050963179712
   length_on_waterline: 6.3246769080712015
   fore_triangle_height: 7.543891733723481
-home_country: 'null'
-home_port: Southampton
-hull_form: long keel deep forefoot
-id: 94000c1f-7c23-4364-91c3-25ad6e334dec
 length_on_deck: 7.4676
-callsign: ''
-ownerships:
-- name: Kate/John Saunders/Ridehalgh
-  share: 64
-  start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:39:46.405675+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
 beam: 2.5908
 design_class:
   name: Cornish Crabber 24

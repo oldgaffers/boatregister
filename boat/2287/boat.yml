@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: Boomless rig for easy day sailing
-builder:
-  name: Highlander Boatbuilding
-  id: c3de9093-22ca-4236-b410-45d34689b6c1
+year: 1988
+year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+builder:
+  name: Highlander Boatbuilding
+  id: c3de9093-22ca-4236-b410-45d34689b6c1
+place_built: Cardiff
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.2286
+construction_details: Marine ply chine/ epoxy.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Thomas Eeles
+  share: 64
+  start: 1987
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: de9602fa-01d9-44f7-802a-98de88d2b50b
+draft: 0.2286
 handicap_data:
   beam: 1.6002194586686174
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 1.21921482565228
   length_on_waterline: 3.9624481833699097
   fore_triangle_height: 3.5052426237503047
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: de9602fa-01d9-44f7-802a-98de88d2b50b
 length_on_deck: 4.2672
-callsign: ''
-ownerships:
-- name: Thomas Eeles
-  share: 64
-  start: 1987
-place_built: Cardiff
-updated_at: '2021-12-19T13:39:34.547877+00:00'
-website: ''
-year: 1988
-year_is_approximate: false
-construction_details: Marine ply chine/ epoxy.
 beam: 1.6002
 design_class:
   name: Highlander 14

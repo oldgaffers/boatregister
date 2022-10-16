@@ -16,17 +16,42 @@ full_description: "<p>From 1946 - 1953 Major &#39;Spider&#39; Dale kept &#39;Mar
   \ Birdham Pool, who kept her until 2000.</p>\r\n\r\n<p>Her original rig was probably\
   \ gaff but &#39;Mary Ellen&#39; was Bermudan since the war until being re-rigged\
   \ gaff in 2001 with mast by Priors and sails by Lawrence.</p>"
-builder:
-  name: C.J. Kidby and Sons
-  id: d025a19c-adec-4a5a-99da-a961f0746179
+year: 1934
+year_is_approximate: false
 designer:
   name: Charles J. Kidby
   id: 01ceb963-0a9a-494f-be76-bbd2893e9eba
+builder:
+  name: C.J. Kidby and Sons
+  id: d025a19c-adec-4a5a-99da-a961f0746179
+place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
-draft: 1.396
+construction_details: Carvel pitch pine on double sawn oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Southampton
+hull_form: long keel deep forefoot
+sail_number: '1000'
+uk_part1: '166191'
+callsign: ''
+ownerships:
+- end: 2014
+  name: Roger Taylor
+  share: 64
+  start: 2000
+- id: 50
+  share: 64
+  start: 2014
+  member: 1206
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 40c65ed9-1662-44ae-ad1e-7f3f6f4659ea
+image_key: qNcDgS
+thumb: https://photos.smugmug.com/photos/i-3qFpQHB/0/Th/i-3qFpQHB-Th.jpg
+draft: 1.396
 handicap_data:
   beam: 2.9992684711046085
   main:
@@ -46,31 +71,7 @@ handicap_data:
   fore_triangle_base: 5.199951231406973
   length_on_waterline: 8.299804925627896
   fore_triangle_height: 9.299561082662764
-home_country: GBR
-home_port: Southampton
-hull_form: long keel deep forefoot
-id: 40c65ed9-1662-44ae-ad1e-7f3f6f4659ea
 length_on_deck: 9.1958
-sail_number: '1000'
-uk_part1: '166191'
-callsign: ''
-ownerships:
-- end: 2014
-  name: Roger Taylor
-  share: 64
-  start: 2000
-- id: 50
-  share: 64
-  start: 2014
-  member: 1206
-  current: true
-place_built: Brightlingsea
-updated_at: '2021-12-19T13:39:40.628955+00:00'
-website: ''
-year: 1934
-year_is_approximate: false
-image_key: qNcDgS
-construction_details: Carvel pitch pine on double sawn oak
 beam: 2.9962
 for_sale_state:
   text: not_for_sale

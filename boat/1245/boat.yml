@@ -9,17 +9,35 @@ full_description: "<p>&#39;Juno&#39; was built by BS Woolacott, a designer at th
   \ in 1917 and fully commissioned in 1918.</p>\r\n\r\n<p>Woollacott sold her to Geoffrey\
   \ Nockold&#39;s father in 1919, and she has been in the family ever since. Woolacott\
   \ subsequently went to New Zealand to design 6 metre craft.</p>"
-builder:
-  name: Southampton Launch & Pinnace Co.
-  id: 0b3b99de-ce0b-4a83-8fde-efb63d1b5bc6
+year: 1917
+year_is_approximate: false
 designer:
   name: B.S. Woolacott
   id: ad7f3e5b-4dcc-42fe-9232-a3027953a13f
+builder:
+  name: Southampton Launch & Pinnace Co.
+  id: 0b3b99de-ce0b-4a83-8fde-efb63d1b5bc6
+place_built: Southampton
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Timber  Carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Dartmouth
+hull_form: long keel deep forefoot
+uk_part1: '146993'
+callsign: ''
+ownerships:
+- id: 114
+  share: 64
+  start: 1919
+  member: 1952
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 192ae714-2684-4cd9-a1fa-eb69bbc6d501
+draft: 1.524
 handicap_data:
   beam: 2.539014874420873
   main:
@@ -37,25 +55,7 @@ handicap_data:
   fore_triangle_base: 4.57205559619605
   length_on_waterline: 7.924896366739819
   fore_triangle_height: 10.591928797854182
-home_country: 'null'
-home_port: Dartmouth
-hull_form: long keel deep forefoot
-id: 192ae714-2684-4cd9-a1fa-eb69bbc6d501
 length_on_deck: 9.3482
-uk_part1: '146993'
-callsign: ''
-ownerships:
-- id: 114
-  share: 64
-  start: 1919
-  member: 1952
-  current: true
-place_built: Southampton
-updated_at: '2021-12-19T13:39:05.839879+00:00'
-website: ''
-year: 1917
-year_is_approximate: false
-construction_details: Timber  Carvel
 beam: 2.539
 for_sale_state:
   text: not_for_sale

@@ -5,24 +5,20 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 75/2
+year: 1904
+year_is_approximate: false
 builder:
   name: Gale
   id: 496aa611-a9f5-490c-baa1-b89ef0ad1933
+place_built: Cowes IoW
 construction_material: wood
 construction_method: clinker
-draft: 0.9144
+construction_details: Clinker built Wych Elm on oak, half decked
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9812240916849548
-  draft: 0.9144111192392099
-  length_over_all: 5.6388685686417945
-  length_on_waterline: 5.334064862228725
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: e54386c0-0629-4555-b9df-1b89f8643416
-length_on_deck: 5.6388
 reference:
 - Log 75/2
 callsign: ''
@@ -30,12 +26,16 @@ ownerships:
 - name: H L LLewellyn
   share: 64
   start: 2012
-place_built: Cowes IoW
-updated_at: '2021-12-19T13:38:48.278557+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1904
-year_is_approximate: false
-construction_details: Clinker built Wych Elm on oak, half decked
+id: e54386c0-0629-4555-b9df-1b89f8643416
+draft: 0.9144
+handicap_data:
+  beam: 1.9812240916849548
+  draft: 0.9144111192392099
+  length_over_all: 5.6388685686417945
+  length_on_waterline: 5.334064862228725
+length_on_deck: 5.6388
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

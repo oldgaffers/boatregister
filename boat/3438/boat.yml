@@ -6,29 +6,22 @@ mainsail_type: gaff
 short_description: <p>Kate is a GRP version of the Kite design</p>
 full_description: <p>Kate was used as the demonstrator for the GRP version of the
   Kite, and shows&nbsp;just how well a trailer-sailer can sail</p>
-builder:
-  name: Demon Yachts
-  id: eb91a8b3-3bd3-436e-97cf-b238c6a09833
+year: 2015
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: Demon Yachts
+  id: eb91a8b3-3bd3-436e-97cf-b238c6a09833
+place_built: Aldeburgh
 construction_material: grp
 construction_method: unknown
-draft: 0.3048
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 6
-  moving_keel: true
-  length_overall: 6.4008
-  draft_keel_down: 1.1948
-  moving_keel_type: Centreboard
-  length_over_spars: 7.1872
 home_country: GBR
 home_port: Burnham on Crouch
 hull_form: centre-boarder
-id: 44b2a005-e89c-4d7b-a80f-7508f93095f1
-length_on_deck: 6.4008
 sail_number: '3'
 callsign: ''
 ownerships:
@@ -40,12 +33,20 @@ ownerships:
   member: 6357
   current: true
   start: '?'
-place_built: Aldeburgh
-updated_at: '2021-12-19T13:40:10.639882+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2015
-year_is_approximate: false
+id: 44b2a005-e89c-4d7b-a80f-7508f93095f1
 image_key: DjFtg8
+thumb: https://photos.smugmug.com/photos/i-hQ9zsrj/0/Th/i-hQ9zsrj-Th.jpg
+draft: 0.3048
+handicap_data:
+  sailarea: 6
+  moving_keel: true
+  length_overall: 6.4008
+  draft_keel_down: 1.1948
+  moving_keel_type: Centreboard
+  length_over_spars: 7.1872
+length_on_deck: 6.4008
 beam: 2.0574
 design_class:
   name: Kite

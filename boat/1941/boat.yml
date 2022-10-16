@@ -5,25 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: G. Bernthal
-  id: 3d210f9c-47fa-42e6-be15-40274bb0614d
+year: 1995
+year_is_approximate: false
 designer:
   name: G. Bernthal
   id: 2353ef72-c2e7-4033-9e93-43a021b840dc
+builder:
+  name: G. Bernthal
+  id: 3d210f9c-47fa-42e6-be15-40274bb0614d
+place_built: Faversham
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  thcf: 0.952
-  length_over_all: 8.53450377956596
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 3c79b2cd-c223-4747-864d-8c3342c52de3
-length_on_deck: 8.5344
 callsign: ''
 ownerships:
 - id: 231
@@ -31,12 +29,14 @@ ownerships:
   start: 1995
   member: 3199
   current: true
-place_built: Faversham
-updated_at: '2021-12-19T13:39:24.773637+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1995
-year_is_approximate: false
-construction_details: GRP
+id: 3c79b2cd-c223-4747-864d-8c3342c52de3
+draft: 0
+handicap_data:
+  thcf: 0.952
+  length_over_all: 8.53450377956596
+length_on_deck: 8.5344
 beam: 0
 for_sale_state:
   text: not_for_sale

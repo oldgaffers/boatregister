@@ -5,37 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: Ester is the first Oysterman 22, built, 1986
 full_description: ''
-builder:
-  name: Oystersailers Ltd.
-  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+year: 1986
+year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+builder:
+  name: Oystersailers Ltd.
+  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+place_built: Penryn
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.3472
+construction_details: GRP balsa core
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  main:
-    foot: 4.090465740063399
-    head: 3.8100463301633747
-    luff: 4.901243599122164
-  thcf: 0.889
-  draft: 1.3472323823457693
-  sailarea: 39.31478297898657
-  propellor:
-    type: fixed
-  length_over_all: 6.909900024384297
-  fore_triangle_base: 5.00487685930261
-  length_on_waterline: 6.705681541087539
-  fore_triangle_height: 8.052913923433309
 home_country: GBR
 home_port: Plymouth - King Point Marina
 hull_form: long keel deep forefoot
-id: 7bbb3163-42f0-4b07-9a77-4cfb32eea0eb
-length_on_deck: 6.9098
 sail_number: '1'
 ssr: '114046'
 callsign: MFMY7
@@ -57,13 +43,28 @@ ownerships:
   start: 2004
   member: 4227
   current: true
-place_built: Penryn
-updated_at: '2021-12-19T13:39:18.178138+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1986
-year_is_approximate: false
+id: 7bbb3163-42f0-4b07-9a77-4cfb32eea0eb
 image_key: RDZcTt
-construction_details: GRP balsa core
+thumb: https://photos.smugmug.com/photos/i-79NFZD8/0/Th/i-79NFZD8-Th.jpg
+draft: 1.3472
+handicap_data:
+  beam: 2.7432333577176298
+  main:
+    foot: 4.090465740063399
+    head: 3.8100463301633747
+    luff: 4.901243599122164
+  thcf: 0.889
+  draft: 1.3472323823457693
+  sailarea: 39.31478297898657
+  propellor:
+    type: fixed
+  length_over_all: 6.909900024384297
+  fore_triangle_base: 5.00487685930261
+  length_on_waterline: 6.705681541087539
+  fore_triangle_height: 8.052913923433309
+length_on_deck: 6.9098
 beam: 2.7432
 design_class:
   name: Oysterman 22

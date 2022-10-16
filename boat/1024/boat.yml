@@ -5,37 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: 1995 Thought to be in Cornwall and converted to bermudian
-builder:
-  name: Whisstocks Boatyard Ltd
-  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+year: 1950
+year_is_approximate: false
 designer:
   name: William Maxwell Blake
   id: 7be4728c-aec1-4b98-9245-33fa05964add
+builder:
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-draft: 1.0668
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 1.066812972445745
-  length_over_all: 6.858083394294074
-  length_on_waterline: 5.4864667154352595
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 30261fe5-c2f3-4240-8fbe-b458a0c00dfb
-length_on_deck: 6.858
 callsign: ''
 ownerships:
 - name: H Slater
   share: 64
   start: 2012
-place_built: Woodbridge
-updated_at: '2021-12-19T13:38:59.117403+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1950
-year_is_approximate: false
+id: 30261fe5-c2f3-4240-8fbe-b458a0c00dfb
+draft: 1.0668
+handicap_data:
+  beam: 2.13362594489149
+  draft: 1.066812972445745
+  length_over_all: 6.858083394294074
+  length_on_waterline: 5.4864667154352595
+length_on_deck: 6.858
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

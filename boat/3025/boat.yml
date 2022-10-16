@@ -5,17 +5,39 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2005
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.0668
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Chichester
+hull_form: long keel deep forefoot
+sail_number: '79'
+callsign: ''
+ownerships:
+- name: Dave Morley
+  share: 64
+  start: 2012
+- share: 64
+  member: 5469
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2ab026bf-8433-4b2f-8403-3b22eeb970d2
+previous_names:
+- Mave
+draft: 1.0668
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -31,29 +53,7 @@ handicap_data:
   fore_triangle_base: 4.191050963179712
   length_on_waterline: 6.3246769080712015
   fore_triangle_height: 7.543891733723481
-home_country: 'null'
-home_port: Chichester
-hull_form: long keel deep forefoot
-id: 2ab026bf-8433-4b2f-8403-3b22eeb970d2
 length_on_deck: 7.4676
-sail_number: '79'
-callsign: ''
-ownerships:
-- name: Dave Morley
-  share: 64
-  start: 2012
-- share: 64
-  member: 5469
-  current: true
-  start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:39:56.215386+00:00'
-website: ''
-year: 2005
-year_is_approximate: false
-previous_names:
-- Mave
-construction_details: GRP
 beam: 2.5908
 design_class:
   name: Cornish Crabber 24

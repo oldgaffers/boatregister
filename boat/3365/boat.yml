@@ -5,22 +5,18 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Jezebel is a Golant Gaffer built in 2002</p>
 full_description: ''
+year: 2002
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.8382
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 5.715
-  length_on_waterline: 5.4102
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 9dfa5350-79f7-4966-a941-a98da05ae1d5
-length_on_deck: 5.715
 sail_number: G 64
 callsign: ''
 ownerships:
@@ -29,10 +25,14 @@ ownerships:
   start: 2017
   member: 2860
   current: true
-updated_at: '2021-12-19T13:40:08.922632+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2002
-year_is_approximate: false
+id: 9dfa5350-79f7-4966-a941-a98da05ae1d5
+draft: 0.8382
+handicap_data:
+  length_overall: 5.715
+  length_on_waterline: 5.4102
+length_on_deck: 5.715
 beam: 2.1336
 design_class:
   name: Golant Gaffer

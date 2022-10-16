@@ -5,17 +5,39 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Yachting Monthly Article in 1933 Log 69/3, Sp/94
-builder:
-  name: William King and Sons
-  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+year: 1933
+year_is_approximate: false
 designer:
   name: H.C. Smith
   id: e2e5f3e6-7900-4fd8-b10a-bb3e0cc11f9a
+builder:
+  name: William King and Sons
+  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel Pitch Pine on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- YM 1933
+- Log 69/3
+- Log Sp/94
+uk_part1: '163361'
+callsign: ''
+ownerships:
+- name: C Heaviside
+  share: 64
+  start: 1991
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3c9415ac-876c-493b-8a3a-5aac4b885aa6
+previous_names:
+- Gold Crest
+draft: 1.2192
 handicap_data:
   beam: 2.2707876127773714
   main:
@@ -30,29 +52,7 @@ handicap_data:
   fore_triangle_base: 4.011216776396001
   length_on_waterline: 6.644720799804926
   fore_triangle_height: 6.0564496464277005
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 3c9415ac-876c-493b-8a3a-5aac4b885aa6
 length_on_deck: 7.2695
-reference:
-- YM 1933
-- Log 69/3
-- Log Sp/94
-uk_part1: '163361'
-callsign: ''
-ownerships:
-- name: C Heaviside
-  share: 64
-  start: 1991
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:38:39.3469+00:00'
-website: ''
-year: 1933
-year_is_approximate: false
-previous_names:
-- Gold Crest
-construction_details: Carvel Pitch Pine on Oak
 beam: 2.2708
 for_sale_state:
   text: not_for_sale

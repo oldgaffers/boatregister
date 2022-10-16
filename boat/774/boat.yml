@@ -12,31 +12,22 @@ full_description: "<p>&#39;Cormorant&#39; was designed and built by Lukes of Ham
   \ sails are made by the sailmakers Cormorant Sails.</p>\r\n\r\n<p>After being based\
   \ in Tollesbury, where she was often seen being paddled back to her mooring, she\
   \ returned to Cowes in 2016.</p>"
-builder:
-  name: Luke and Co Ltd
-  id: c75fcaa9-f643-4379-862a-9ca83007e463
+year: 1911
+year_is_approximate: false
 designer:
   name: A.R. Luke
   id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+builder:
+  name: Luke and Co Ltd
+  id: c75fcaa9-f643-4379-862a-9ca83007e463
+place_built: Hamble
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  main:
-    foot: 4.87685930260912
-    head: 3.291880029261156
-    luff: 3.6576444769568397
-  draft: 1.5240185320653499
-  length_over_all: 9.1441111923921
-  length_on_waterline: 7.543891733723481
 home_country: GBR
 home_port: Cowes
 hull_form: long keel sloping forefoot
-id: 22735e25-e4fa-42b8-a731-7437083b4e27
-length_on_deck: 9.144
 callsign: ''
 ownerships:
 - end: 2009
@@ -50,12 +41,22 @@ ownerships:
   member: 5111
   current: true
   start: '?'
-place_built: Hamble
-updated_at: '2021-12-19T13:38:51.900647+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: www.cormorantsails.co.uk
-year: 1911
-year_is_approximate: false
+id: 22735e25-e4fa-42b8-a731-7437083b4e27
 image_key: wF3WSN
+thumb: https://photos.smugmug.com/photos/i-qkrD9Fp/0/Th/i-qkrD9Fp-Th.jpg
+draft: 1.2192
+handicap_data:
+  beam: 2.286027798098025
+  main:
+    foot: 4.87685930260912
+    head: 3.291880029261156
+    luff: 3.6576444769568397
+  draft: 1.5240185320653499
+  length_over_all: 9.1441111923921
+  length_on_waterline: 7.543891733723481
+length_on_deck: 9.144
 beam: 2.286
 for_sale_state:
   text: not_for_sale

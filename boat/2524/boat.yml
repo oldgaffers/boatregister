@@ -32,18 +32,43 @@ full_description: <i>Lazy Wind</i> is a North Quay 30 gaff cutter designed and b
   the NorthEast wind is too lazy to blow around you, so blows through you! <p>Always
   based on the Medway, she has visited France, Belgium and Holland, plus UK coasts
   as far as Whitby in the East and the Isles of Scilly and Milford Haven in the South.
-builder:
-  name: North Quay Marine Services
-  id: c740b35f-7148-4ee2-8ae2-19fb312bc860
+year: 2002
+year_is_approximate: false
 designer:
   name: Ted Spears
   id: 14976d7d-34fa-4ed1-8843-602dc834bde8
+builder:
+  name: North Quay Marine Services
+  id: c740b35f-7148-4ee2-8ae2-19fb312bc860
+place_built: Conyer
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.9144
+construction_details: 3/4" Western Red Cedar T&G strip, epoxy glass sheathed, iroko
+  stem & hog, mahogany transom, 5/8" ply deck and cabin
 engine_installations: []
 for_sales:
 - asking_price: 47500
+home_country: GBR
+home_port: River Medway
+hull_form: long keel deep forefoot
+sail_number: '1'
+ssr: '100298'
+callsign: VSQU8
+ownerships:
+- name: Ian Baron
+  share: 64
+  start: 2002
+- id: 1260
+  share: 32
+  member: 5680
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b5398ec8-5dd9-4c80-93f6-6705b5b936ff
+image_key: pQ64Vn
+thumb: https://photos.smugmug.com/photos/i-zwKTxvb/0/Th/i-zwKTxvb-Th.jpg
+draft: 0.9144
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -64,31 +89,7 @@ handicap_data:
   fore_triangle_base: 4.87685930260912
   length_on_waterline: 8.89011216776396
   fore_triangle_height: 8.22970007315289
-home_country: GBR
-home_port: River Medway
-hull_form: long keel deep forefoot
-id: b5398ec8-5dd9-4c80-93f6-6705b5b936ff
 length_on_deck: 9.144
-sail_number: '1'
-ssr: '100298'
-callsign: VSQU8
-ownerships:
-- name: Ian Baron
-  share: 64
-  start: 2002
-- id: 1260
-  share: 32
-  member: 5680
-  current: true
-  start: '?'
-place_built: Conyer
-updated_at: '2021-12-19T13:39:41.710627+00:00'
-website: ''
-year: 2002
-year_is_approximate: false
-image_key: pQ64Vn
-construction_details: 3/4" Western Red Cedar T&G strip, epoxy glass sheathed, iroko
-  stem & hog, mahogany transom, 5/8" ply deck and cabin
 beam: 3.048
 design_class:
   name: North Quay 30

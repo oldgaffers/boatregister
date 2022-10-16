@@ -6,24 +6,21 @@ mainsail_type: gaff
 short_description: ''
 full_description: Flush deck  Clipper bow  Carvel planked hull  Wide cockpit Log 81/4,
   84/1, 85/3, 86/3, 87/2
+year: 1897
+year_is_approximate: false
 builder:
   name: S.F. Bond
   id: cb17e76b-9888-4502-85a6-c7640e16e6ce
+place_built: Birkenhead
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel greenheart garboards, pitch pine bottom, yellow pine
+  topside on oak, lead keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.3165081687393316
-  draft: 1.5240185320653499
-  length_over_all: 10.66812972445745
-  length_on_waterline: 6.4008778346744695
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 7aaa39e0-0c89-426a-bd76-8b0c64b7fdb3
-length_on_deck: 10.668
 reference:
 - Log 81/4
 - Log 84/1
@@ -35,16 +32,20 @@ ownerships:
 - name: A M Bowkes and O F Boyd
   share: 64
   start: 1985
-place_built: Birkenhead
-updated_at: '2021-12-19T13:39:01.400662+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1897
-year_is_approximate: false
+id: 7aaa39e0-0c89-426a-bd76-8b0c64b7fdb3
 previous_names:
 - Myfanwy
 image_key: SvqprM
-construction_details: Carvel greenheart garboards, pitch pine bottom, yellow pine
-  topside on oak, lead keel
+thumb: https://photos.smugmug.com/photos/i-wcgTq6p/0/Th/i-wcgTq6p-Th.jpg
+draft: 1.524
+handicap_data:
+  beam: 2.3165081687393316
+  draft: 1.5240185320653499
+  length_over_all: 10.66812972445745
+  length_on_waterline: 6.4008778346744695
+length_on_deck: 10.668
 beam: 2.3165
 for_sale_state:
   text: not_for_sale

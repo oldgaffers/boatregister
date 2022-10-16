@@ -11,17 +11,38 @@ full_description: "<p>Amelie Rose, owned by Nick Beck, was built specifically wi
   \ derived from the lines of Agnes, a pilot cutter out of the Scilly Isles.</p>\r\
   \n\r\n<p>Read about the launch party in <a href=\"http://www.classicboat.co.uk/articles/amelie-rose-yacht-charter/\"\
   \ target=\"_blank\">Classic Boat, April 2011</a>.</p>"
-builder:
-  name: Luke Powell
-  id: a20d46df-5e22-4755-8a54-72a7b4d15efe
+year: 2009
+year_is_approximate: false
 designer:
   name: Luke Powell
   id: fb9a7691-8b98-42cc-9545-3248c2e161d0
+builder:
+  name: Luke Powell
+  id: a20d46df-5e22-4755-8a54-72a7b4d15efe
+place_built: Gweek
 construction_material: wood
 construction_method: carvel
-draft: 2.1336
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Poole
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Nick Beck
+  share: 64
+  start: 2009
+- share: 64
+  member: 4938
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://www.topsail-adventures.co.uk/
+id: 3299d331-7aef-4bfa-9e56-a1eb06cc7570
+image_key: t6gPCv
+thumb: https://photos.smugmug.com/photos/i-g92ntQZ/0/Th/i-g92ntQZ-Th.jpg
+draft: 2.1336
 handicap_data:
   beam: 4.063033406486222
   main:
@@ -41,27 +62,7 @@ handicap_data:
   fore_triangle_base: 9.75371860521824
   length_on_waterline: 11.582540843696659
   fore_triangle_height: 17.373811265544987
-home_country: GBR
-home_port: Poole
-hull_form: long keel deep forefoot
-id: 3299d331-7aef-4bfa-9e56-a1eb06cc7570
 length_on_deck: 13.4112
-callsign: ''
-ownerships:
-- name: Nick Beck
-  share: 64
-  start: 2009
-- share: 64
-  member: 4938
-  current: true
-  start: '?'
-place_built: Gweek
-updated_at: '2021-12-19T13:39:53.308429+00:00'
-website: http://www.topsail-adventures.co.uk/
-year: 2009
-year_is_approximate: false
-image_key: t6gPCv
-construction_details: Carvel
 beam: 4.063
 for_sale_state:
   text: not_for_sale

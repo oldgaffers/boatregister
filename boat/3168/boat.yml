@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: "<p>2\xBD ton Hillyard</p>"
 full_description: <p>Full restoration started December 2013.</p>
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1935
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.0668
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Hull
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 35002
+  share: 64
+  start: 2012
+  member: 5832
+  current: true
+updated_at: '2022-08-17T21:16:05.191112+00:00'
+website: ''
+id: 2199e74e-3837-437a-ad3c-1c20fa0e5674
+draft: 1.0668
 handicap_data:
   main:
     foot: 12.5
@@ -27,24 +44,7 @@ handicap_data:
   fore_triangle_base: 1.8288
   length_on_waterline: 5.1816
   fore_triangle_height: 3.9624
-home_country: GBR
-home_port: Hull
-hull_form: unknown
-id: 2199e74e-3837-437a-ad3c-1c20fa0e5674
 length_on_deck: 5.4864
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 35002
-  share: 64
-  start: 2012
-  member: 5832
-  current: true
-place_built: Littlehampton
-updated_at: '2022-08-17T21:16:05.191112+00:00'
-website: ''
-year: 1935
-year_is_approximate: false
 beam: 1.9812
 design_class:
   name: 2 1/2 Tonner

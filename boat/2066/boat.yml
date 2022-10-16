@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1986
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.143
+construction_details: GRP hull, sheathed ply decks
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: D A Gurdon
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a9e67972-aae5-4f45-b9c0-51ff4e82d723
+draft: 1.143
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -33,22 +48,7 @@ handicap_data:
   fore_triangle_base: 5.7912704218483295
   length_on_waterline: 7.848695440136551
   fore_triangle_height: 8.458302852962692
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: a9e67972-aae5-4f45-b9c0-51ff4e82d723
 length_on_deck: 9.144
-callsign: ''
-ownerships:
-- name: D A Gurdon
-  share: 64
-  start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:39:28.417894+00:00'
-website: ''
-year: 1986
-year_is_approximate: false
-construction_details: GRP hull, sheathed ply decks
 beam: 2.8956
 design_class:
   name: Cornish Crabber Pilot Cutter 30

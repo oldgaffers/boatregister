@@ -10,39 +10,40 @@ full_description: "<p>Shoal Waters was built from the best hull available and co
   \ bought in 1948.</p>\r\n\r\n<p>Over 70,000 nautical miles have been made good from\
   \ Maldon between Whitby, Ostend and the Solent. Charles Stock wrote many books about\
   \ his sailing activities and there are references to these on the boat&#39;s website.</p>"
-builder:
-  name: Fairey Marine/A C Stock
-  id: 5a752162-a047-471c-a1e7-240a2d3ae2aa
+year: 1963
+year_is_approximate: false
 designer:
   name: A.C. Stock
   id: 6e4d1bc7-167b-4980-916a-654483a0aa77
+builder:
+  name: Fairey Marine/A C Stock
+  id: 5a752162-a047-471c-a1e7-240a2d3ae2aa
+place_built: Pleshey
 construction_material: wood
 construction_method: unknown
-draft: 0.823
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.822970007315289
-  length_over_all: 5.029261155815655
-  length_on_waterline: 4.724457449402585
 home_country: GBR
 home_port: Maldon
 hull_form: unknown
-id: 24a933a5-4c80-482e-a84e-70b23aadfd9e
-length_on_deck: 5.0292
 callsign: ''
 ownerships:
 - end: 2012
   name: Charles Stock
   share: 64
   start: 1963
-place_built: Pleshey
-updated_at: '2021-12-19T13:38:45.184904+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: shoal-waters.moonfruit.com/
-year: 1963
-year_is_approximate: false
+id: 24a933a5-4c80-482e-a84e-70b23aadfd9e
 image_key: hWgPKr
+thumb: https://photos.smugmug.com/photos/i-DwkXR6H/0/Th/i-DwkXR6H-Th.jpg
+draft: 0.823
+handicap_data:
+  beam: 1.8288222384784198
+  draft: 0.822970007315289
+  length_over_all: 5.029261155815655
+  length_on_waterline: 4.724457449402585
+length_on_deck: 5.0292
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

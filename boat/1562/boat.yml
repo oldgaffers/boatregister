@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Terry Heard
-  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+year: 1974
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: Terry Heard
+  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+place_built: Mylor Bridge
 construction_material: grp
 construction_method: unknown
-draft: 1.463
+construction_details: Glassfibre
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Roy Godfrey
+  share: 64
+  start: 1984
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 348f1d46-afd3-41ce-912a-701282ffc61a
+draft: 1.463
 handicap_data:
   beam: 2.987076322848086
   draft: 1.4630577907827358
@@ -23,22 +38,7 @@ handicap_data:
     type: fixed
   length_over_all: 8.53450377956596
   length_on_waterline: 8.22970007315289
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 348f1d46-afd3-41ce-912a-701282ffc61a
 length_on_deck: 8.5344
-callsign: ''
-ownerships:
-- name: Roy Godfrey
-  share: 64
-  start: 1984
-place_built: Mylor Bridge
-updated_at: '2021-12-19T13:39:14.839143+00:00'
-website: ''
-year: 1974
-year_is_approximate: false
-construction_details: Glassfibre
 beam: 2.987
 for_sale_state:
   text: not_for_sale

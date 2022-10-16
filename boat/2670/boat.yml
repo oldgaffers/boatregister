@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: G. Kroes
-  id: 929004c5-597e-486e-b992-56bde39378a8
+year: 2001
+year_is_approximate: false
 designer:
   name: M. Breckbrede
   id: 4a0d15c2-22f0-44f6-b0e4-31b85f910433
+builder:
+  name: G. Kroes
+  id: 929004c5-597e-486e-b992-56bde39378a8
+place_built: Leeuwarden
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
+home_country: NLD
+home_port: Andijk, Netherlands
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Ron and Mieke Bos
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 859aaecc-0f45-4245-a9c7-be91685ee223
+draft: 0
 handicap_data:
   beam: 3.800902218970983
   main:
@@ -32,21 +46,7 @@ handicap_data:
   fore_triangle_base: 6.700499878078517
   length_on_waterline: 10.000609607412827
   fore_triangle_height: 12.600890026822725
-home_country: NLD
-home_port: Andijk, Netherlands
-hull_form: long keel deep forefoot
-id: 859aaecc-0f45-4245-a9c7-be91685ee223
 length_on_deck: 10.6985
-callsign: ''
-ownerships:
-- name: Ron and Mieke Bos
-  share: 64
-  start: 2012
-place_built: Leeuwarden
-updated_at: '2021-12-19T13:39:45.814119+00:00'
-website: ''
-year: 2001
-year_is_approximate: false
 beam: 3.81
 for_sale_state:
   text: not_for_sale

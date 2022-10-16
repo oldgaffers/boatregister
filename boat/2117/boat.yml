@@ -5,17 +5,37 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Thames Yacht Building Co.
-  id: 9e5dd8aa-1190-48bf-9290-e7b5dc99ff48
+year: 1894
+year_is_approximate: false
 designer:
   name: Hope Linton
   id: f238ed22-175a-4b8c-9337-dc58c6619754
+builder:
+  name: Thames Yacht Building Co.
+  id: 9e5dd8aa-1190-48bf-9290-e7b5dc99ff48
+place_built: Greenhythe
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Dartmouth
+hull_form: unknown
+sail_number: '7'
+callsign: ''
+ownerships:
+- name: Lance Rowell
+  share: 64
+  start: 2003
+- id: 34597
+  share: 64
+  member: 6361
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: df092457-e856-4ff7-bb7b-80b6b44ca483
+draft: 0
 handicap_data:
   beam: 2.261643501584979
   main:
@@ -30,27 +50,7 @@ handicap_data:
   fore_triangle_base: 3.096805657156791
   length_on_waterline: 6.693489392831017
   fore_triangle_height: 7.720677883443062
-home_country: 'null'
-home_port: Dartmouth
-hull_form: unknown
-id: df092457-e856-4ff7-bb7b-80b6b44ca483
 length_on_deck: 10.0066
-sail_number: '7'
-callsign: ''
-ownerships:
-- name: Lance Rowell
-  share: 64
-  start: 2003
-- id: 34597
-  share: 64
-  member: 6361
-  current: true
-  start: '?'
-place_built: Greenhythe
-updated_at: '2021-12-19T13:39:29.83339+00:00'
-website: ''
-year: 1894
-year_is_approximate: false
 beam: 2.2616
 for_sale_state:
   text: not_for_sale

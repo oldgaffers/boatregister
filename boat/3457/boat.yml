@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: Lapstrake, round bilged, beamy gaffer, a straight stemmed,  lightweight
   dayboat, with fore and after decks and two rowing thwarts .
-builder:
-  name: PM Treloar
-  id: 5b250713-301b-49b7-82a6-e1e776fb3d0b
+year: 2018
+year_is_approximate: false
 designer:
   name: PM Treloar
   id: b2735dfe-b993-42ae-9ec7-284a6e1a49f5
+builder:
+  name: PM Treloar
+  id: 5b250713-301b-49b7-82a6-e1e776fb3d0b
 construction_material: plywood
+spar_material: wood
 construction_method: clinker
-draft: 0.09144
 engine_installations: []
 for_sales: []
+home_country: United Kingdom
+home_port: Putney
+hull_form: centre-board dinghy
+ownerships:
+- id: 262
+  share: 64
+  member: 3386
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 48d727c7-aeff-438a-9f8d-460c80d787ae
+image_key: gf5SsV
+thumb: https://photos.smugmug.com/photos/i-RTchGsT/0/Th/i-RTchGsT-Th.png
+draft: 0.09144
 handicap_data:
   main:
     foot: 3.3528
@@ -24,22 +40,7 @@ handicap_data:
   sailarea: 13.93546
   length_overall: 4.8768
   length_on_waterline: 4.7244
-home_country: United Kingdom
-home_port: Putney
-hull_form: centre-board dinghy
-id: 48d727c7-aeff-438a-9f8d-460c80d787ae
 length_on_deck: 4.8768
-spar_material: wood
-ownerships:
-- id: 262
-  share: 64
-  member: 3386
-  current: true
-  start: '?'
-updated_at: '2022-02-14T11:04:40.382535+00:00'
-year: 2018
-year_is_approximate: false
-image_key: gf5SsV
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

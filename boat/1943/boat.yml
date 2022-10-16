@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1991
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.4816
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: centre-boarder
+sail_number: '466'
+callsign: ''
+ownerships:
+- name: Peter Brannen
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 50dfa0df-da6a-4bcb-8f5e-38e771fffd75
+draft: 0.4816
 handicap_data:
   beam: 2.1844306266764204
   main:
@@ -33,24 +50,7 @@ handicap_data:
   fore_triangle_base: 2.540039014874421
   length_on_waterline: 5.334077054376981
   fore_triangle_height: 4.648262618873445
-home_country: 'null'
-home_port: ''
-hull_form: centre-boarder
-id: 50dfa0df-da6a-4bcb-8f5e-38e771fffd75
 length_on_deck: 5.8826
-sail_number: '466'
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Peter Brannen
-  share: 64
-  start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:39:24.835133+00:00'
-website: ''
-year: 1991
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

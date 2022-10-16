@@ -5,27 +5,24 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 80/3, 84/2, 85/4, 88/2, 89/3, A-W/95
-builder:
-  name: H. Gale Co. Ltd.
-  id: ea4fadbd-aa76-4971-9a5c-72a860b3beba
+year: 1912
+year_is_approximate: false
 designer:
   name: Sidney Burnett
   id: 13e7408b-bd86-4d84-9857-95a63c2e5870
+builder:
+  name: H. Gale Co. Ltd.
+  id: ea4fadbd-aa76-4971-9a5c-72a860b3beba
+place_built: Cowes IoW
 construction_material: wood
 construction_method: carvel
-draft: 1.4326
+construction_details: Carvel pitch pine on oak frames with teak cockpit and skylight
+  - laid up in the creek at the Elephant Boatyard for many years (2010)
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.682272616435016
-  draft: 1.432577420141429
-  length_over_all: 7.681053401609363
-  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 72309a2d-03ff-4288-be9a-966913f2122c
-length_on_deck: 7.681
 reference:
 - Log 80/3
 - Log 84/2
@@ -39,15 +36,18 @@ ownerships:
 - name: J Gulliver
   share: 64
   start: 2012
-place_built: Cowes IoW
-updated_at: '2021-12-19T13:38:45.246899+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1912
-year_is_approximate: false
+id: 72309a2d-03ff-4288-be9a-966913f2122c
 previous_names:
 - Laura II
-construction_details: Carvel pitch pine on oak frames with teak cockpit and skylight
-  - laid up in the creek at the Elephant Boatyard for many years (2010)
+draft: 1.4326
+handicap_data:
+  beam: 2.682272616435016
+  draft: 1.432577420141429
+  length_over_all: 7.681053401609363
+  length_on_waterline: 7.315288953913679
+length_on_deck: 7.681
 beam: 2.6822
 for_sale_state:
   text: not_for_sale

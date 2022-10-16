@@ -5,28 +5,20 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Boat show model 1982</p>
 full_description: ''
+year: 1982
+year_is_approximate: false
 builder:
   name: Hoskyns
   id: 1e4ec857-881b-4cfb-bb35-3a89820bbe01
+place_built: Rye
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.4328
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 1
-  moving_keel: true
-  draft_keel_up: 0.4328
-  length_overall: 5.1816
-  draft_keel_down: 1.0424
-  moving_keel_type: Centreboard
-  length_over_spars: 5.7912
-  length_on_waterline: 4.5202
 home_country: GBR
 home_port: Watchet
 hull_form: long keel deep forefoot
-id: 48f46b6e-2699-4ce8-8f7b-4f32395ff676
-length_on_deck: 5.1816
 callsign: ''
 ownerships:
 - end: 2013
@@ -40,12 +32,20 @@ ownerships:
   member: 5413
   current: true
   start: '?'
-place_built: Rye
-updated_at: '2021-12-19T13:40:02.952353+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1982
-year_is_approximate: false
-construction_details: GRP
+id: 48f46b6e-2699-4ce8-8f7b-4f32395ff676
+draft: 0.4328
+handicap_data:
+  sailarea: 1
+  moving_keel: true
+  draft_keel_up: 0.4328
+  length_overall: 5.1816
+  draft_keel_down: 1.0424
+  moving_keel_type: Centreboard
+  length_over_spars: 5.7912
+  length_on_waterline: 4.5202
+length_on_deck: 5.1816
 beam: 2.0818
 design_class:
   name: Sheldrake

@@ -14,28 +14,24 @@ full_description: <p>Hugh Phillips purchased a new fibreglass hull from Gaffers 
   Falmouth to Croatia. Her home port became the Marina of Punat, Island of Krk. She
   was registerd in Croatia PN1513 in 2013 and sold to Marko Lastro in 2014 who passed
   away in 2016.</p><p>In 2017, she was sold to a new owner in Mayfield, UK.</p>
-builder:
-  name: Martin Heard
-  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+year: 1997
+year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+builder:
+  name: Martin Heard
+  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.524
+construction_details: GRP and wood
 engine_installations: []
 for_sales:
 - asking_price: 15000
-handicap_data:
-  beam: 3.0480370641306997
-  draft: 1.5240185320653499
-  length_over_all: 8.53450377956596
-  length_on_waterline: 8.077298219946353
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 5d27eaf5-8234-4910-a0dc-c4851b6dab8c
-length_on_deck: 8.5344
 ssr: SSR89116
 uk_part1: PN1513 Croatia
 callsign: ''
@@ -48,13 +44,18 @@ ownerships:
   name: Marko Lastro
   share: 64
   start: 2014
-place_built: Mylor Bridge
-updated_at: '2021-12-19T13:39:41.869672+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1997
-year_is_approximate: false
+id: 5d27eaf5-8234-4910-a0dc-c4851b6dab8c
 image_key: KpvHfB
-construction_details: GRP and wood
+thumb: https://photos.smugmug.com/photos/i-LbbJPkn/0/Th/i-LbbJPkn-Th.jpg
+draft: 1.524
+handicap_data:
+  beam: 3.0480370641306997
+  draft: 1.5240185320653499
+  length_over_all: 8.53450377956596
+  length_on_waterline: 8.077298219946353
+length_on_deck: 8.5344
 beam: 3.048
 design_class:
   name: Heard 28

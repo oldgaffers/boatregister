@@ -7,17 +7,33 @@ short_description: ''
 full_description: Her previous owner purchased her in poor condition at Fowey. He
   completed the repairs and her present owner Steve bought her in 1998 and keeps her
   in Poole.
-builder:
-  name: D.E. Smith
-  id: 023f51e3-1421-49e3-881f-28afa2e9a758
+year: 1986
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: D.E. Smith
+  id: 023f51e3-1421-49e3-881f-28afa2e9a758
+place_built: Curbridge So'ton
 construction_material: ferro
 construction_method: unknown
-draft: 1.4722
+construction_details: Ferrocement
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Poole
+hull_form: long keel deep forefoot
+ssr: '14153'
+callsign: ''
+ownerships:
+- name: Steve Gillon
+  share: 64
+  start: 1998
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 99ecbec0-f5e6-4fe1-922d-fe4f9bec6fb5
+draft: 1.4722
 handicap_data:
   beam: 2.4628139478176054
   main:
@@ -35,23 +51,7 @@ handicap_data:
   fore_triangle_base: 4.26725188978298
   length_on_waterline: 6.528895391367959
   fore_triangle_height: 6.5532796878810045
-home_country: 'null'
-home_port: Poole
-hull_form: long keel deep forefoot
-id: 99ecbec0-f5e6-4fe1-922d-fe4f9bec6fb5
 length_on_deck: 7.0104
-ssr: '14153'
-callsign: ''
-ownerships:
-- name: Steve Gillon
-  share: 64
-  start: 1998
-place_built: Curbridge So'ton
-updated_at: '2021-12-19T13:39:10.628894+00:00'
-website: ''
-year: 1986
-year_is_approximate: false
-construction_details: Ferrocement
 beam: 2.6914
 for_sale_state:
   text: not_for_sale

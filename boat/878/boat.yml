@@ -8,36 +8,23 @@ short_description: <p>Zephyr is a yacht designed by Brewster and built by J King
 full_description: Zephyr probably had a drop keel at some time. She is an unusual
   design and is often mistaken as French or American.  For sale Log Sept 2005 after
   Ralph Soars died. He was restoring her at the time.
-builder:
-  name: J. King
-  id: fa0a6d9c-9362-4efe-82b3-70bd9a82e5eb
+year: 1896
+year_is_approximate: false
 designer:
   name: Brewster
   id: 58bb9f58-3665-47c6-8c12-0b8527907af5
+builder:
+  name: J. King
+  id: fa0a6d9c-9362-4efe-82b3-70bd9a82e5eb
+place_built: Limehouse
 construction_material: wood
 construction_method: carvel
-draft: 1.1979
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8194342843208973
-  main:
-    foot: 5.715069495245062
-    head: 5.410265788831992
-    luff: 4.928675932699342
-  thcf: 0.946856454
-  draft: 1.197878566203365
-  propellor:
-    type: fixed
-  length_over_all: 8.83930748597903
-  fore_triangle_base: 5.157278712509144
-  length_on_waterline: 7.010485247500609
-  fore_triangle_height: 8.382101926359423
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 5641f69c-534d-4958-8dcd-570b75aa8091
-length_on_deck: 8.8392
 reference:
 - 'Log Sep 2005 '
 callsign: ''
@@ -57,12 +44,25 @@ ownerships:
   text: Bought by Ralph G.J.Soars in
   start: 1979
   start_is_approximate: false
-place_built: Limehouse
-updated_at: '2021-12-19T13:38:54.872661+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1896
-year_is_approximate: false
-construction_details: Carvel
+id: 5641f69c-534d-4958-8dcd-570b75aa8091
+draft: 1.1979
+handicap_data:
+  beam: 2.8194342843208973
+  main:
+    foot: 5.715069495245062
+    head: 5.410265788831992
+    luff: 4.928675932699342
+  thcf: 0.946856454
+  draft: 1.197878566203365
+  propellor:
+    type: fixed
+  length_over_all: 8.83930748597903
+  fore_triangle_base: 5.157278712509144
+  length_on_waterline: 7.010485247500609
+  fore_triangle_height: 8.382101926359423
+length_on_deck: 8.8392
 beam: 2.8194
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,35 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log Jun/98  CB Oct 91
-builder:
-  name: Luke Bros and Co.
-  id: a777971c-fef9-4412-9ad3-422224af5a67
+year: 1936
+year_is_approximate: false
 designer:
   name: A.R. Luke
   id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+builder:
+  name: Luke Bros and Co.
+  id: a777971c-fef9-4412-9ad3-422224af5a67
+place_built: Hamble
 construction_material: wood
 construction_method: clinker
-draft: 0.6492
+construction_details: Half decked ballasted clinker with centreboard
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Cowes
+hull_form: unknown
+reference:
+- Log Jun 98
+- CB Oct 91
+callsign: ''
+ownerships:
+- name: Paul Wood
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a76893c2-5cca-463c-a742-5c7eb7399806
+draft: 0.6492
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -28,25 +46,7 @@ handicap_data:
   fore_triangle_base: 1.5240185320653499
   length_on_waterline: 5.4864667154352595
   fore_triangle_height: 4.57205559619605
-home_country: 'null'
-home_port: Cowes
-hull_form: unknown
-id: a76893c2-5cca-463c-a742-5c7eb7399806
 length_on_deck: 5.6388
-reference:
-- Log Jun 98
-- CB Oct 91
-callsign: ''
-ownerships:
-- name: Paul Wood
-  share: 64
-  start: 2012
-place_built: Hamble
-updated_at: '2021-12-19T13:38:37.267926+00:00'
-website: ''
-year: 1936
-year_is_approximate: false
-construction_details: Half decked ballasted clinker with centreboard
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

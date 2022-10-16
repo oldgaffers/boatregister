@@ -5,17 +5,36 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: B. Cooper
-  id: dec42986-64b1-423b-9b07-20102b2b43f7
+year: 1985
+year_is_approximate: false
 designer:
   name: John E. Perryman
   id: 729dd628-f1e4-4278-b407-d33f922d87fb
+builder:
+  name: B. Cooper
+  id: dec42986-64b1-423b-9b07-20102b2b43f7
 construction_material: ferro
+spar_material: wood
 construction_method: unknown
-draft: 1.6002
+construction_details: Ferrocement
 engine_installations: []
 for_sales: []
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: '1213'
+callsign: ''
+ownerships:
+- id: 72
+  share: 64
+  start: 2007
+  member: 1502
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 51dc5cb8-2586-43d7-8ee0-aaa0e45ddec9
+image_key: X4LkK7
+thumb: https://photos.smugmug.com/photos/i-tB5DppS/0/Th/i-tB5DppS-Th.jpg
+draft: 1.6002
 handicap_data:
   beam: 3.6576444769568397
   main:
@@ -38,25 +57,7 @@ handicap_data:
   fore_triangle_base: 5.4864667154352595
   length_on_waterline: 9.1441111923921
   fore_triangle_height: 10.36332601804438
-home_port: ''
-hull_form: long keel deep forefoot
-id: 51dc5cb8-2586-43d7-8ee0-aaa0e45ddec9
 length_on_deck: 10.668
-sail_number: '1213'
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 72
-  share: 64
-  start: 2007
-  member: 1502
-  current: true
-updated_at: '2021-12-19T13:39:04.945884+00:00'
-website: ''
-year: 1985
-year_is_approximate: false
-image_key: X4LkK7
-construction_details: Ferrocement
 beam: 3.6576
 for_sale_state:
   text: not_for_sale

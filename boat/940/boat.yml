@@ -5,27 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: AC. Brett
-  id: 81d50213-db34-400d-9094-1d466735ec13
+year: 1975
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: AC. Brett
+  id: 81d50213-db34-400d-9094-1d466735ec13
+place_built: Wivenhoe
 construction_material: wood
 construction_method: unknown
-draft: 0.8626
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 0.6339917093391856
-  length_over_all: 5.843087051938552
-  length_on_waterline: 5.257863935625457
 home_country: 'null'
 home_port: Arlesford Creek
 hull_form: unknown
-id: c274cc38-e60f-4efa-af1b-782f31333611
-length_on_deck: 5.843
 callsign: ''
 ownerships:
 - id: 66
@@ -33,11 +28,16 @@ ownerships:
   start: 2012
   member: 1488
   current: true
-place_built: Wivenhoe
-updated_at: '2021-12-19T13:38:56.654151+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1975
-year_is_approximate: false
+id: c274cc38-e60f-4efa-af1b-782f31333611
+draft: 0.8626
+handicap_data:
+  beam: 2.13362594489149
+  draft: 0.6339917093391856
+  length_over_all: 5.843087051938552
+  length_on_waterline: 5.257863935625457
+length_on_deck: 5.843
 beam: 2.1336
 design_class:
   name: New Blossom Class

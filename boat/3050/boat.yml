@@ -5,25 +5,21 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Puff is a Walker Tideway built in 2011</p>
 full_description: ''
+year: 2011
+year_is_approximate: false
 builder:
   name: Tideways Dinghies
   id: 0f2eea77-cd93-433b-94c3-a9c195864bd8
+place_built: Maldon
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.1524
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.5240185320653499
-  draft: 0.152401853206535
-  draft_keeldown: 0.9144111192392099
-  length_over_all: 3.6576444769568397
 home_country: GBR
 home_port: Dittisham
 hull_form: unknown
-id: b35f54c2-bf75-4dbe-bc38-56b5f74e2b6b
-length_on_deck: 3.6576
-spar_material: wood
 callsign: ''
 ownerships:
 - name: Richard Hayes
@@ -34,13 +30,18 @@ ownerships:
   member: 5524
   current: true
   start: '?'
-place_built: Maldon
-updated_at: '2021-12-19T13:39:56.8039+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2011
-year_is_approximate: false
+id: b35f54c2-bf75-4dbe-bc38-56b5f74e2b6b
 image_key: wgfvH7
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-jDmZTmQ/0/Th/i-jDmZTmQ-Th.jpg
+draft: 0.1524
+handicap_data:
+  beam: 1.5240185320653499
+  draft: 0.152401853206535
+  draft_keeldown: 0.9144111192392099
+  length_over_all: 3.6576444769568397
+length_on_deck: 3.6576
 beam: 1.524
 design_class:
   name: Tideway 12

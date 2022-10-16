@@ -21,39 +21,23 @@ full_description: "2018 Sailed from Portland Dorset to Titchmarsh Marina, Walton
   \ into the VHF radio with Splitter, GPS,AIS transponder,NMEA 2000. At the moment\
   \ it doesn\u2019t exist.\r\nJobs to do.\r\nMake the bowsprit swivel.\r\nMaybe lead\
   \ lines aft into cockpit\r\nFit fresh water tank and pipes \r\nFeathering prop"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1990
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.143
+construction_details: GRP, sitka Spruce spars
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  main:
-    foot: 5.6388685686417945
-    head: 4.495854669592782
-    luff: 4.953060229212387
-  thcf: 0.969236092
-  draft: 1.1430138990490124
-  topsail:
-    luff: 5.715069495245062
-    perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.7912704218483295
-  length_on_waterline: 7.848695440136551
-  fore_triangle_height: 8.458302852962692
 home_country: GBR
 home_port: Titchmarsh Marina
 hull_form: long keel deep forefoot
-id: 1cc46971-e888-4fbd-b8eb-035bdda40ded
-length_on_deck: 9.144
 sail_number: P33
 callsign: MEBY3
 ownerships:
@@ -73,15 +57,32 @@ ownerships:
   member: 5698
   current: true
   start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:39:29.632905+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1990
-year_is_approximate: false
+id: 1cc46971-e888-4fbd-b8eb-035bdda40ded
 previous_names:
 - Rosie G
 image_key: vQc3NS
-construction_details: GRP, sitka Spruce spars
+thumb: https://photos.smugmug.com/photos/i-cNPNHMQ/0/Th/i-cNPNHMQ-Th.jpg
+draft: 1.143
+handicap_data:
+  beam: 2.8956352109241648
+  main:
+    foot: 5.6388685686417945
+    head: 4.495854669592782
+    luff: 4.953060229212387
+  thcf: 0.969236092
+  draft: 1.1430138990490124
+  topsail:
+    luff: 5.715069495245062
+    perpendicular: 2.286027798098025
+  propellor:
+    type: fixed
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 5.7912704218483295
+  length_on_waterline: 7.848695440136551
+  fore_triangle_height: 8.458302852962692
+length_on_deck: 9.144
 beam: 2.8956
 design_class:
   name: Cornish Crabber Pilot Cutter 30

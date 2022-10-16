@@ -5,37 +5,37 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Balaton Ship Co.
-  id: 3d98c1ce-b282-40a5-8263-c95ea4de6c9e
+year: 1971
+year_is_approximate: false
 designer:
   name: S. Nemath
   id: e69bd5e5-9666-45ab-a56d-1da083d0d65f
+builder:
+  name: Balaton Ship Co.
+  id: 3d98c1ce-b282-40a5-8263-c95ea4de6c9e
+place_built: Balaton Hungary
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Marine Ply
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  length_over_all: 7.772494513533284
 home_country: 'null'
 home_port: Dublin
 hull_form: unknown
-id: f1f1ef98-d116-4ac1-8ada-db91fa5a49c7
-length_on_deck: 7.7724
 sail_number: '63'
 callsign: ''
 ownerships:
 - name: Arthur Hughes
   share: 64
   start: 2012
-place_built: Balaton Hungary
-updated_at: '2021-12-19T13:39:30.974611+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1971
-year_is_approximate: false
-construction_details: Marine Ply
+id: f1f1ef98-d116-4ac1-8ada-db91fa5a49c7
+draft: 0
+handicap_data:
+  beam: 2.43842965130456
+  length_over_all: 7.772494513533284
+length_on_deck: 7.7724
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

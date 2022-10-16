@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Oystersailers Ltd.
-  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+year: 1988
+year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+builder:
+  name: Oystersailers Ltd.
+  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+place_built: Penryn
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.3472
+construction_details: GRP hull and deck; wooden spars
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.3472323823457693
-  length_over_all: 6.909900024384297
-  length_on_waterline: 6.705681541087539
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 7f8a7559-7c6a-4fc3-83f5-194079523853
-length_on_deck: 6.9098
 ssr: '27251'
 callsign: ''
 ownerships:
@@ -36,12 +32,16 @@ ownerships:
   member: 2289
   current: true
   start: '?'
-place_built: Penryn
-updated_at: '2021-12-19T13:39:23.857136+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1988
-year_is_approximate: false
-construction_details: GRP hull and deck; wooden spars
+id: 7f8a7559-7c6a-4fc3-83f5-194079523853
+draft: 1.3472
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.3472323823457693
+  length_over_all: 6.909900024384297
+  length_on_waterline: 6.705681541087539
+length_on_deck: 6.9098
 beam: 2.7432
 design_class:
   name: Oysterman 22

@@ -43,32 +43,25 @@ full_description: "<p>Although built in Scotland by Dickies of Tarbert her first
   \ and she is now being sailed out of Bembridge IOW.</p>\r\n\r\n<p>Although initally\
   \ a &quot;one off&quot; design, Crystal II now has a sister ship, Daydream, constructed\
   \ using traditional methods in America in 2016.</p>"
-builder:
-  name: A.M. Dickie and Sons
-  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+year: 1927
+year_is_approximate: false
 designer:
   name: Frederick Shepherd
   id: a1307f55-2601-4a92-ad68-1db523c0e3b9
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+place_built: Tarbert
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.2954157522555474
+construction_details: Carvel planked in teak on steamed and grown frames of oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  thcf: 1.004
-  sailarea: 40.71296032197498
-  propellor:
-    type: feathering
-  length_over_all: 9.296513045598633
-  length_on_waterline: 10.820531577663983
 home_country: GBR
 home_port: Bembridge IOW
 hull_form: long keel sloping forefoot
-id: 18fee80e-da6e-41f8-95c3-0f45cbcd6a3f
-length_on_deck: 9.296513045598633
 sail_number: CL2
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1933
@@ -118,13 +111,21 @@ ownerships:
   start: 2017
   member: 6346
   current: true
-place_built: Tarbert
-updated_at: '2021-12-19T13:40:10.543891+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1927
-year_is_approximate: false
+id: 18fee80e-da6e-41f8-95c3-0f45cbcd6a3f
 image_key: 382NCP
-construction_details: Carvel planked in teak on steamed and grown frames of oak
+thumb: https://photos.smugmug.com/photos/i-Lt45Hsg/0/Th/i-Lt45Hsg-Th.jpg
+draft: 1.2954157522555474
+handicap_data:
+  beam: 2.590831504511095
+  thcf: 1.004
+  sailarea: 40.71296032197498
+  propellor:
+    type: feathering
+  length_over_all: 9.296513045598633
+  length_on_waterline: 10.820531577663983
+length_on_deck: 9.296513045598633
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

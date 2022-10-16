@@ -86,27 +86,23 @@ full_description: "<h3>Restoring &#39;Charm&#39; (2000 - 2006) by Russell Read</
   \ for it but to go out for a proper sail, and hope for a few admiring comments.\
   \ Inevitably no-one said very much: the East Coast is a bit blas&eacute; about pretty\
   \ boats. But for me; at last it all seemed to have been worthwhile.</blockquote>"
-builder:
-  name: Woods
-  id: 4dad4b68-a367-41df-a4db-81940c97bb0c
+year: 1922
+year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+builder:
+  name: Woods
+  id: 4dad4b68-a367-41df-a4db-81940c97bb0c
+place_built: Cantley
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.3104120946110704
-  draft: 1.5240185320653499
-  length_over_all: 10.05852231163131
-  length_on_waterline: 7.620092660326749
 home_country: GBR
 home_port: Walton Backwaters
 hull_form: unknown
-id: 580f3164-fafb-4972-9f61-f224f3d25001
-length_on_deck: 10.0584
 uk_part1: '144126'
 callsign: ''
 ownerships:
@@ -121,13 +117,18 @@ ownerships:
   member: 5830
   current: true
   start: '?'
-place_built: Cantley
-updated_at: '2021-12-19T13:39:38.455392+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.albertstrange.org/?cat=9
-year: 1922
-year_is_approximate: false
+id: 580f3164-fafb-4972-9f61-f224f3d25001
 image_key: 44NMJ4
-construction_details: Carvel pine on oak
+thumb: https://photos.smugmug.com/photos/i-bVSMdZZ/0/Th/i-bVSMdZZ-Th.jpg
+draft: 1.524
+handicap_data:
+  beam: 2.3104120946110704
+  draft: 1.5240185320653499
+  length_over_all: 10.05852231163131
+  length_on_waterline: 7.620092660326749
+length_on_deck: 10.0584
 beam: 2.3104
 for_sale_state:
   text: not_for_sale

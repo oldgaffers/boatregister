@@ -13,18 +13,43 @@ full_description: "<p>&#39;Emerald&#39; has been based on the Clyde since 1997, 
   \ a Yanmar 20hp diesel with Aquadrive and Gori feathering propeller. A safe, fast\
   \ and very comfortable yacht, she has cruised extensively in Scottish and Irish\
   \ Sea waters.</p>"
-builder:
-  name: Williams and Parkinson
-  id: 28fd53d4-bb37-4584-be38-268a7296d656
+year: 1938
+year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+builder:
+  name: Williams and Parkinson
+  id: 28fd53d4-bb37-4584-be38-268a7296d656
+place_built: Deganwy
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.3198
+construction_details: Carvel pitch pine on grown oak frames with steamed oak timbers
 engine_installations: []
 for_sales:
 - asking_price: 20000
+home_country: GBR
+home_port: Woodbridge
+hull_form: long keel deep forefoot
+ssr: '87528'
+callsign: ''
+ownerships:
+- end: 2017
+  name: Roger Clarke
+  share: 64
+  start: 1994
+- id: 454
+  share: 64
+  start: 2017
+  member: 4446
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8b10bdeb-2f56-48eb-b4ee-69f9353b6520
+image_key: 52ZG2X
+thumb: https://photos.smugmug.com/photos/i-m598qPc/0/Th/i-m598qPc-Th.jpg
+draft: 1.3198
 handicap_data:
   beam: 2.4902462813947817
   main:
@@ -46,31 +71,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 7.010485247500609
   fore_triangle_height: 6.705681541087539
-home_country: GBR
-home_port: Woodbridge
-hull_form: long keel deep forefoot
-id: 8b10bdeb-2f56-48eb-b4ee-69f9353b6520
 length_on_deck: 8.6868
-spar_material: wood
-ssr: '87528'
-callsign: ''
-ownerships:
-- end: 2017
-  name: Roger Clarke
-  share: 64
-  start: 1994
-- id: 454
-  share: 64
-  start: 2017
-  member: 4446
-  current: true
-place_built: Deganwy
-updated_at: '2021-12-19T13:38:56.005388+00:00'
-website: ''
-year: 1938
-year_is_approximate: false
-image_key: 52ZG2X
-construction_details: Carvel pitch pine on grown oak frames with steamed oak timbers
 beam: 2.4902
 for_sale_state:
   text: not_for_sale

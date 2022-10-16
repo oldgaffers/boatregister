@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: For sale on web April 04, see paper archive.
-builder:
-  name: J. Mahood and Son
-  id: 18fce216-7e98-41d6-b1cd-d2745be425b9
+year: 1981
+year_is_approximate: false
 designer:
   name: A.H. Marshall
   id: 0676af78-da2f-46eb-bf56-e6134b74e39e
+builder:
+  name: J. Mahood and Son
+  id: 18fce216-7e98-41d6-b1cd-d2745be425b9
+place_built: Portavogie C Down
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel Larch on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Carrickfergus
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Peter Kennedy
+  share: 64
+  start: 2003
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 067eb321-4307-440b-934d-0751a8a8a509
+draft: 0.9144
 handicap_data:
   beam: 2.6670324311143623
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 4.038649109973177
   length_on_waterline: 7.315288953913679
   fore_triangle_height: 9.296513045598633
-home_country: 'null'
-home_port: Carrickfergus
-hull_form: long keel deep forefoot
-id: 067eb321-4307-440b-934d-0751a8a8a509
 length_on_deck: 8.7478
-callsign: ''
-ownerships:
-- name: Peter Kennedy
-  share: 64
-  start: 2003
-place_built: Portavogie C Down
-updated_at: '2021-12-19T13:39:08.82641+00:00'
-website: ''
-year: 1981
-year_is_approximate: false
-construction_details: Carvel Larch on oak
 beam: 2.667
 for_sale_state:
   text: not_for_sale

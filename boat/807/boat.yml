@@ -5,37 +5,37 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: W. Osborne and Co. Ltd.
-  id: 5cfea163-ff18-4cbd-b679-fd1f2218007d
+year: 1926
+year_is_approximate: false
 designer:
   name: W. Osborne
   id: 33db3b7e-2123-4476-b981-a702fd27676b
+builder:
+  name: W. Osborne and Co. Ltd.
+  id: 5cfea163-ff18-4cbd-b679-fd1f2218007d
+place_built: Littlehampton
 construction_material: wood
 construction_method: unknown
-draft: 1.585
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  draft: 1.584979273347964
-  length_over_all: 10.972933430870519
-  length_on_waterline: 9.906120458424773
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 6221696a-5780-4611-b393-42c3eadd1a0e
-length_on_deck: 10.9728
 callsign: ''
 ownerships:
 - name: E A Winter
   share: 64
   start: 2012
-place_built: Littlehampton
-updated_at: '2021-12-19T13:38:52.89315+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1926
-year_is_approximate: false
+id: 6221696a-5780-4611-b393-42c3eadd1a0e
+draft: 1.585
+handicap_data:
+  beam: 2.590831504511095
+  draft: 1.584979273347964
+  length_over_all: 10.972933430870519
+  length_on_waterline: 9.906120458424773
+length_on_deck: 10.9728
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

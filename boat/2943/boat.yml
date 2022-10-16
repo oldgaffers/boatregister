@@ -11,17 +11,33 @@ full_description: Morwenna of Bristol's design was based on the famous Bristol C
   Pilot Cutter Mischief. Mischief was built at Cardiff in 1906 and worked until 1919,
   when she was sold and became a yacht. Bill Tillman bought her in 1954 who used her
   for long distance sailing until her loss in 1968.
-builder:
-  name: R.B. Boatbuilding Ltd.
-  id: 19323232-4b26-4530-bdb8-d638f7ff209b
+year: 2009
+year_is_approximate: false
 designer:
   name: Ed Burnett
   id: ec954b97-b4e7-4203-a28c-7d85278bf748
+builder:
+  name: R.B. Boatbuilding Ltd.
+  id: 19323232-4b26-4530-bdb8-d638f7ff209b
+place_built: Bristol
 construction_material: wood
 construction_method: carvel
-draft: 2.289
+construction_details: Trad Carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bristol
+hull_form: long keel deep forefoot
+sail_number: GBR 1946L
+callsign: ''
+ownerships:
+- name: Stuart Jenkins
+  share: 64
+  start: 2009
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8bffc1d8-1d33-47af-831e-c1fd222730b0
+draft: 2.289
 handicap_data:
   beam: 4.011216776396001
   main:
@@ -40,23 +56,7 @@ handicap_data:
   fore_triangle_base: 9.44891489880517
   length_on_waterline: 12.070226773957572
   fore_triangle_height: 13.271153377225065
-home_country: 'null'
-home_port: Bristol
-hull_form: long keel deep forefoot
-id: 8bffc1d8-1d33-47af-831e-c1fd222730b0
 length_on_deck: 14.0208
-sail_number: GBR 1946L
-callsign: ''
-ownerships:
-- name: Stuart Jenkins
-  share: 64
-  start: 2009
-place_built: Bristol
-updated_at: '2021-12-19T13:39:54.124356+00:00'
-website: ''
-year: 2009
-year_is_approximate: false
-construction_details: Trad Carvel
 beam: 4.0112
 for_sale_state:
   text: not_for_sale

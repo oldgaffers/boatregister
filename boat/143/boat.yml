@@ -5,24 +5,20 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Secret is a Smack Yacht built by Shuttlewood in 1932</p>
 full_description: ''
+year: 1932
+year_is_approximate: false
 builder:
   name: J.W. Shuttlewood and Sons
   id: f7e10100-9016-4757-874b-b5ca9742ef7e
+place_built: Paglesham
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.4689100219458666
-  draft: 1.127773713728359
-  length_over_all: 8.53450377956596
-  length_on_waterline: 7.315288953913679
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
-id: c5b2c0a3-c1ae-4b13-85b4-5a09f96eb09d
-length_on_deck: 8.5344
 uk_part1: '106143'
 callsign: ''
 ownerships:
@@ -52,13 +48,18 @@ ownerships:
   member: 5045
   current: true
   start: '?'
-place_built: Paglesham
-updated_at: '2021-12-19T13:38:33.761425+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1932
-year_is_approximate: false
+id: c5b2c0a3-c1ae-4b13-85b4-5a09f96eb09d
 image_key: 3pTngG
-construction_details: Carvel larch on oak
+thumb: https://photos.smugmug.com/photos/i-Lh6cnXw/0/Th/i-Lh6cnXw-Th.jpg
+draft: 1.0668
+handicap_data:
+  beam: 2.4689100219458666
+  draft: 1.127773713728359
+  length_over_all: 8.53450377956596
+  length_on_waterline: 7.315288953913679
+length_on_deck: 8.5344
 beam: 2.6914
 for_sale_state:
   text: not_for_sale

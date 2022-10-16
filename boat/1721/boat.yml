@@ -5,14 +5,29 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1959
+year_is_approximate: false
 builder:
   name: Werkelin
   id: fd83d8af-e031-4285-8f04-e8005edf1838
+place_built: Faro Sweden
 construction_material: wood
 construction_method: clinker
-draft: 1.4478
+construction_details: Clinker swedish fir on
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bursledon
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Peter Thorpe
+  share: 64
+  start: 1994
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: ec71a533-7e2b-44fe-9652-b899926c366e
+draft: 1.4478
 handicap_data:
   beam: 3.2522555474274566
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 7.010485247500609
   length_on_waterline: 7.924896366739819
   fore_triangle_height: 7.2390880273104115
-home_country: 'null'
-home_port: Bursledon
-hull_form: long keel deep forefoot
-id: ec71a533-7e2b-44fe-9652-b899926c366e
 length_on_deck: 8.5344
-callsign: ''
-ownerships:
-- name: Peter Thorpe
-  share: 64
-  start: 1994
-place_built: Faro Sweden
-updated_at: '2021-12-19T13:39:18.615117+00:00'
-website: ''
-year: 1959
-year_is_approximate: false
-construction_details: Clinker swedish fir on
 beam: 3.2522
 for_sale_state:
   text: not_for_sale

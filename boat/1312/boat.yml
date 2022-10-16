@@ -5,27 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 90/4
-builder:
-  name: Westerley Boats Ltd.
-  id: 133b2f53-dd64-4511-a0ee-4b794e02fabf
+year: 1975
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Westerley Boats Ltd.
+  id: 133b2f53-dd64-4511-a0ee-4b794e02fabf
+place_built: Rock
 construction_material: wood
 construction_method: unknown
-draft: 0.762
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 0.7620092660326749
-  length_over_all: 7.315288953913679
-  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 04e59242-9cba-4701-a5ef-0b175c3fd3fe
-length_on_deck: 7.3152
 reference:
 - Log 90/4
 callsign: ''
@@ -33,11 +28,16 @@ ownerships:
 - name: A W Matthews
   share: 64
   start: 1985
-place_built: Rock
-updated_at: '2021-12-19T13:39:07.851396+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1975
-year_is_approximate: false
+id: 04e59242-9cba-4701-a5ef-0b175c3fd3fe
+draft: 0.762
+handicap_data:
+  beam: 2.43842965130456
+  draft: 0.7620092660326749
+  length_over_all: 7.315288953913679
+  length_on_waterline: 6.0960741282613995
+length_on_deck: 7.3152
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

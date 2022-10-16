@@ -5,17 +5,32 @@ rig_type: single_sail
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: John Moody/D. Chillington
-  id: b516bb55-36c7-4e4f-9740-01f15df596eb
+year: 1990
+year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+builder:
+  name: John Moody/D. Chillington
+  id: b516bb55-36c7-4e4f-9740-01f15df596eb
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 0.3048
+construction_details: Strip Pine Planking and epoxy
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Jonno Barrett
+  share: 64
+  start: 1990
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 30ad902c-516a-41d3-b0e7-761aa095e9e2
+draft: 0.3048
 handicap_data:
   beam: 1.4996342355523042
   main:
@@ -26,22 +41,7 @@ handicap_data:
   draft: 0.30480370641307
   length_over_all: 4.395269446476469
   length_on_waterline: 4.114850036576445
-home_country: GBR
-home_port: ''
-hull_form: unknown
-id: 30ad902c-516a-41d3-b0e7-761aa095e9e2
 length_on_deck: 4.3952
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Jonno Barrett
-  share: 64
-  start: 1990
-updated_at: '2021-12-19T13:39:11.828413+00:00'
-website: ''
-year: 1990
-year_is_approximate: false
-construction_details: Strip Pine Planking and epoxy
 beam: 1.4996
 design_class:
   name: Aber

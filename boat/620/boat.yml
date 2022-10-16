@@ -5,27 +5,22 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log 65/2, 81/1
-builder:
-  name: J.W. and A. Upham Ltd.
-  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+year: 1933
+year_is_approximate: false
 designer:
   name: J.W. Upham
   id: 1847f26b-0352-45ca-8bfc-b3e144120831
+builder:
+  name: J.W. and A. Upham Ltd.
+  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+place_built: Brixham
 construction_material: wood
 construction_method: unknown
-draft: 2.0726
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.023408924652523
-  draft: 2.0726652036088757
-  length_over_all: 16.154596439892707
-  length_on_waterline: 13.716166788588149
 home_country: 'null'
 home_port: Brightlingsea
 hull_form: unknown
-id: 4f3b14f8-8a6e-4d10-8982-c9f0f39bc9cd
-length_on_deck: 16.1544
 reference:
 - Log 65/2
 - Log 81/1
@@ -34,15 +29,21 @@ ownerships:
 - name: Chris Bedford
   share: 64
   start: 2000
-place_built: Brixham
-updated_at: '2021-12-19T13:38:47.578897+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1933
-year_is_approximate: false
+id: 4f3b14f8-8a6e-4d10-8982-c9f0f39bc9cd
 previous_names:
 - Our Boy
 - Thankful
 image_key: DNtR7F
+thumb: https://photos.smugmug.com/photos/i-K2xjr5s/0/Th/i-K2xjr5s-Th.jpg
+draft: 2.0726
+handicap_data:
+  beam: 4.023408924652523
+  draft: 2.0726652036088757
+  length_over_all: 16.154596439892707
+  length_on_waterline: 13.716166788588149
+length_on_deck: 16.1544
 beam: 4.0234
 for_sale_state:
   text: not_for_sale

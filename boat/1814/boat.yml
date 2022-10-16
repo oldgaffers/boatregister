@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: YM c 1930 article on her construction by the builder.
-builder:
-  name: Stanley M. Knowles
-  id: e9212292-2432-4605-8063-36914e6206da
+year: 1928
+year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+builder:
+  name: Stanley M. Knowles
+  id: e9212292-2432-4605-8063-36914e6206da
+place_built: Hull
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel  Mahogany on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Birdham, Chichester
+hull_form: long keel deep forefoot
+uk_part1: '160796'
+callsign: ''
+ownerships:
+- name: John Floutier
+  share: 64
+  start: 1997
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 55d04055-e6c4-4ca4-97a6-4f13e7683906
+draft: 1.0668
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -33,23 +49,7 @@ handicap_data:
   fore_triangle_base: 2.7432333577176298
   length_on_waterline: 5.867471348451597
   fore_triangle_height: 6.370397464033162
-home_country: 'null'
-home_port: Birdham, Chichester
-hull_form: long keel deep forefoot
-id: 55d04055-e6c4-4ca4-97a6-4f13e7683906
 length_on_deck: 6.4008
-uk_part1: '160796'
-callsign: ''
-ownerships:
-- name: John Floutier
-  share: 64
-  start: 1997
-place_built: Hull
-updated_at: '2021-12-19T13:39:21.042392+00:00'
-website: ''
-year: 1928
-year_is_approximate: false
-construction_details: Carvel  Mahogany on Oak
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

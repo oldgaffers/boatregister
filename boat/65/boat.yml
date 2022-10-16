@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 72/2
-builder:
-  name: Hugh McClean
-  id: 44563f23-865b-4b3d-b42b-49da619fa5b2
+year: 1902
+year_is_approximate: false
 designer:
   name: Hugh McClean
   id: e1b2f9f5-420a-474f-8401-9b6c9b37dffd
+builder:
+  name: Hugh McClean
+  id: 44563f23-865b-4b3d-b42b-49da619fa5b2
+place_built: Govan
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel/Pine
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 72/2
+callsign: ''
+ownerships:
+- name: A B J Wayman
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4d4c970a-da78-4d87-9ce4-6bb432a38237
+draft: 1.8288
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 3.0480370641306997
   length_on_waterline: 5.7912704218483295
   fore_triangle_height: 7.924896366739819
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 4d4c970a-da78-4d87-9ce4-6bb432a38237
 length_on_deck: 7.3152
-reference:
-- Log 72/2
-callsign: ''
-ownerships:
-- name: A B J Wayman
-  share: 64
-  start: 2012
-place_built: Govan
-updated_at: '2021-12-19T13:38:31.628642+00:00'
-website: ''
-year: 1902
-year_is_approximate: false
-construction_details: Carvel/Pine
 beam: 2.286
 design_class:
   name: Clyde 19/24

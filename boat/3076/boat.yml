@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: Whisht was built by her first owner, Hugh Russell.
 full_description: ''
-builder:
-  name: Hugh Russell
-  id: f34c1d8b-123b-4d15-a42b-142ea5a5223f
+year: 2011
+year_is_approximate: false
 designer:
   name: Derek Ellard
   id: dc826c22-e1ed-44df-948e-d227bc9ba767
+builder:
+  name: Hugh Russell
+  id: f34c1d8b-123b-4d15-a42b-142ea5a5223f
+place_built: Devizes
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.701
+construction_details: Ply Epoxy
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Devizes
+hull_form: unknown
+ssr: '148369'
+callsign: ''
+ownerships:
+- end: 2014
+  name: Hugh Russell
+  share: 64
+  start: 2011
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b168fc1a-6dcb-492f-9577-eb1c4f23276c
+draft: 0.701
 handicap_data:
   beam: 2.100097537186052
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 3.4991465496220435
   length_on_waterline: 5.248719824433064
   fore_triangle_height: 5.900999756157034
-home_country: GBR
-home_port: Devizes
-hull_form: unknown
-id: b168fc1a-6dcb-492f-9577-eb1c4f23276c
 length_on_deck: 6.0046
-ssr: '148369'
-callsign: ''
-ownerships:
-- end: 2014
-  name: Hugh Russell
-  share: 64
-  start: 2011
-place_built: Devizes
-updated_at: '2021-12-19T13:39:57.295369+00:00'
-website: ''
-year: 2011
-year_is_approximate: false
-construction_details: Ply Epoxy
 beam: 2.1031
 design_class:
   name: Secret 20

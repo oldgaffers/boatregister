@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1985
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: unknown
-draft: 0.4816
+construction_details: G R P hull
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- name: P Keeling
+  share: 64
+  start: 1985
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e755d0b3-4b7e-4b9b-867f-5e393736b250
+draft: 0.4816
 handicap_data:
   beam: 2.1854425749817117
   main:
@@ -28,23 +44,7 @@ handicap_data:
   fore_triangle_base: 2.539014874420873
   length_on_waterline: 5.334064862228725
   fore_triangle_height: 4.648256522799317
-home_country: 'null'
-home_port: ''
-hull_form: centre-boarder
-id: e755d0b3-4b7e-4b9b-867f-5e393736b250
 length_on_deck: 5.8674
-spar_material: wood
-callsign: ''
-ownerships:
-- name: P Keeling
-  share: 64
-  start: 1985
-place_built: Rock
-updated_at: '2021-12-19T13:39:15.700643+00:00'
-website: ''
-year: 1985
-year_is_approximate: false
-construction_details: G R P hull
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

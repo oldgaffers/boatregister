@@ -4,32 +4,33 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>She is a fine example of her type needing a bit of tlc.</p>
-builder:
-  name: Blondecell
-  id: 59486298-9c7f-4dab-b343-5c96ca6104ea
+year: 2002
+year_is_approximate: false
 designer:
   name: John Rock
   id: 2bd090b8-ef1a-4894-9853-fd9b5c7a7a24
+builder:
+  name: Blondecell
+  id: 59486298-9c7f-4dab-b343-5c96ca6104ea
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.2435991221653255
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
 home_country: England
 home_port: Burnham on Crouch
 hull_form: long keel sloping forefoot
-id: 74954172-9c32-41c9-8445-3606d89d2ff2
-length_on_deck: 7.620092660326749
 sail_number: '6'
-spar_material: wood
 ssr: SSR98657
 callsign: VSRS2
-updated_at: '2021-10-02T07:19:57.412381+00:00'
-year: 2002
-year_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 74954172-9c32-41c9-8445-3606d89d2ff2
 image_key: c9kdMm
+thumb: https://photos.smugmug.com/photos/i-KSfMwrV/0/Th/i-KSfMwrV-Th.jpg
+draft: 1.2435991221653255
+handicap_data:
+  beam: 3.0480370641306997
+length_on_deck: 7.620092660326749
 design_class:
   name: Tradewind 25
   id: 41704b91-04bb-4107-bbd9-8e86feee4e43

@@ -6,17 +6,36 @@ mainsail_type: gaff
 short_description: <p>Two berth cabin version of a Memory 19 built in 2006 by Salterns
   on the Hamble.</p>
 full_description: ''
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2006
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Bursledon, Hampshire
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: GRP hull teak coachroof
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Chichester
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- share: 64
+  member: 5749
+  current: true
+  start: '?'
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: a9323eb7-5062-41fd-b4ac-f6a678d549f6
+image_key: 8xNKpg
+thumb: https://photos.smugmug.com/photos/i-GQkhNdF/0/Th/i-GQkhNdF-Th.jpg
+draft: 0.5334
 handicap_data:
   sailarea: 7
   moving_keel: true
@@ -25,25 +44,7 @@ handicap_data:
   moving_keel_type: Centreboard
   length_over_spars: 7.5682
   length_on_waterline: 5.6906
-home_country: GBR
-home_port: Chichester
-hull_form: centre-boarder
-id: a9323eb7-5062-41fd-b4ac-f6a678d549f6
 length_on_deck: 5.7912
-spar_material: wood
-callsign: ''
-ownerships:
-- share: 64
-  member: 5749
-  current: true
-  start: '?'
-place_built: Bursledon, Hampshire
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 2006
-year_is_approximate: false
-image_key: 8xNKpg
-construction_details: GRP hull teak coachroof
 beam: 2.1336
 design_class:
   name: Memory 19

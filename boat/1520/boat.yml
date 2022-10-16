@@ -9,38 +9,23 @@ short_description: <p>&#39;Nelly Mathilde&#39; was named after the last Swedish 
 full_description: "<p>&#39;Nelly Mathilde&#39; has been undergoing a major refit,\
   \ which turned out to be a complete renovation.</p>\r\n\r\n<p>Her owner hopes to\
   \ launch in 2016.</p>"
-builder:
-  name: Knut Aspergren
-  id: 9417a837-7696-477e-9a67-e0da0765b391
+year: 1964
+year_is_approximate: false
 designer:
   name: Jac Iversen
   id: b488fb10-3784-411e-9819-0c379bbbbf02
+builder:
+  name: Knut Aspergren
+  id: 9417a837-7696-477e-9a67-e0da0765b391
+place_built: Simrishamn, southern Sweden
 construction_material: steel
 construction_method: unknown
-draft: 2.3104
+construction_details: Welded steel hull on steel frames with Oregon pine decks
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.191050963179712
-  main:
-    foot: 4.998780785174347
-    head: 4.498902706656913
-    luff: 13.999634235552303
-  thcf: 1.090565573
-  draft: 2.3104120946110704
-  mizzen:
-    foot: 3.4991465496220435
-    head: 2.3988051694708608
-    luff: 8.549743964886613
-  length_over_all: 14.301389904901244
-  fore_triangle_base: 6.199707388441843
-  length_on_waterline: 10.896732504267252
-  fore_triangle_height: 10.500487685930262
 home_country: BEL
 home_port: Ostend
 hull_form: unknown
-id: 298a3a90-dfa8-47aa-8ccc-bcbb0fab26fa
-length_on_deck: 14.3012
 uk_part1: '386329'
 callsign: ''
 ownerships:
@@ -57,13 +42,29 @@ ownerships:
   start: 1996
   member: 5179
   current: true
-place_built: Simrishamn, southern Sweden
-updated_at: '2021-12-19T13:39:13.717647+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.nelly-mathilde.fr/
-year: 1964
-year_is_approximate: false
+id: 298a3a90-dfa8-47aa-8ccc-bcbb0fab26fa
 image_key: pXzVn7
-construction_details: Welded steel hull on steel frames with Oregon pine decks
+thumb: https://photos.smugmug.com/photos/i-hkvQTw6/0/Th/i-hkvQTw6-Th.jpg
+draft: 2.3104
+handicap_data:
+  beam: 4.191050963179712
+  main:
+    foot: 4.998780785174347
+    head: 4.498902706656913
+    luff: 13.999634235552303
+  thcf: 1.090565573
+  draft: 2.3104120946110704
+  mizzen:
+    foot: 3.4991465496220435
+    head: 2.3988051694708608
+    luff: 8.549743964886613
+  length_over_all: 14.301389904901244
+  fore_triangle_base: 6.199707388441843
+  length_on_waterline: 10.896732504267252
+  fore_triangle_height: 10.500487685930262
+length_on_deck: 14.3012
 beam: 4.191
 for_sale_state:
   text: not_for_sale

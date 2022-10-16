@@ -5,27 +5,22 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 80/1
-builder:
-  name: Ewing McGruer
-  id: 6b3efa85-087e-40f9-a7f7-531e81c033fa
+year: 1920
+year_is_approximate: false
 designer:
   name: McGruer
   id: 65f5f8f5-cb92-47c1-8c77-03cbd269ce0b
+builder:
+  name: Ewing McGruer
+  id: 6b3efa85-087e-40f9-a7f7-531e81c033fa
+place_built: Lambeth
 construction_material: wood
 construction_method: unknown
-draft: 0.9144
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 0.9144111192392099
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.730309680565716
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 3100a041-4d64-481d-8700-ec0eef87260d
-length_on_deck: 6.096
 reference:
 - Log 80/1
 callsign: ''
@@ -33,11 +28,16 @@ ownerships:
 - name: M Raynor
   share: 64
   start: 2012
-place_built: Lambeth
-updated_at: '2021-12-19T13:38:53.747175+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1920
-year_is_approximate: false
+id: 3100a041-4d64-481d-8700-ec0eef87260d
+draft: 0.9144
+handicap_data:
+  beam: 2.43842965130456
+  draft: 0.9144111192392099
+  length_over_all: 6.0960741282613995
+  length_on_waterline: 5.730309680565716
+length_on_deck: 6.096
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

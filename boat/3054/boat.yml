@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Triple keeled gunter rig mainsail 240 sq ft.</p>
 full_description: ''
-builder:
-  name: Westerly Marine
-  id: b54f18a6-4887-4163-9c95-30d09792d098
+year: 1966
+year_is_approximate: false
 designer:
   name: D.A. Rayner
   id: afc68d59-e7ba-466e-861f-741e2eeae526
+builder:
+  name: Westerly Marine
+  id: b54f18a6-4887-4163-9c95-30d09792d098
+place_built: Waterlooville
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.261643501584979
-  draft: 0.9144111192392099
-  length_over_all: 6.858083394294074
-  length_on_waterline: 5.587051938551572
 home_country: 'null'
 home_port: Queenborough
 hull_form: unknown
-id: c15614f4-5da0-4df2-888f-1702c0dacb2c
-length_on_deck: 6.858
 uk_part1: '309108'
 callsign: ''
 ownerships:
@@ -36,12 +32,16 @@ ownerships:
   member: 5522
   current: true
   start: '?'
-place_built: Waterlooville
-updated_at: '2021-12-19T13:39:56.92636+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1966
-year_is_approximate: false
-construction_details: GRP
+id: c15614f4-5da0-4df2-888f-1702c0dacb2c
+draft: 0.9144
+handicap_data:
+  beam: 2.261643501584979
+  draft: 0.9144111192392099
+  length_over_all: 6.858083394294074
+  length_on_waterline: 5.587051938551572
+length_on_deck: 6.858
 beam: 2.2616
 design_class:
   name: Westerly 22

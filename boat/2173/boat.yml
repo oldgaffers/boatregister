@@ -5,25 +5,22 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Mike Cussans
-  id: 403e816e-89a2-43db-8883-e2b08171c847
+year: 1998
+year_is_approximate: false
 designer:
   name: Joel White
   id: 8052b20d-f45d-42cf-82c9-c5c870e14efc
+builder:
+  name: Mike Cussans
+  id: 403e816e-89a2-43db-8883-e2b08171c847
+place_built: Great Harwood, Lincs.
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.3716166788588149
-  length_over_all: 3.886247256766642
 home_country: 'null'
 home_port: Great Harwood
 hull_form: unknown
-id: 0d064c95-f5fa-404a-aad8-ad37d142753f
-length_on_deck: 3.8862
 callsign: ''
 ownerships:
 - id: 286
@@ -31,11 +28,14 @@ ownerships:
   start: 1998
   member: 3509
   current: true
-place_built: Great Harwood, Lincs.
-updated_at: '2021-12-19T13:39:31.222884+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1998
-year_is_approximate: false
+id: 0d064c95-f5fa-404a-aad8-ad37d142753f
+draft: 0
+handicap_data:
+  beam: 1.3716166788588149
+  length_over_all: 3.886247256766642
+length_on_deck: 3.8862
 beam: 1.3716
 for_sale_state:
   text: not_for_sale

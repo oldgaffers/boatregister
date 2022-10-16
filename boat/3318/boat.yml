@@ -5,24 +5,22 @@ rig_type: Sloop
 short_description: <p>&#39;Merry Maid&#39; is a 24ft linear rater, designed and built
   by Charles Sibbick, launched 1906.</p>
 full_description: ''
-builder:
-  name: Charles Sibbick and Co
-  id: 3b623161-dc07-46fc-96b1-98e7ad47b431
+year: 1906
+year_is_approximate: false
 designer:
   name: Charles Sibbick
   id: a5468014-9c00-4985-85ca-f3115f1fc4f7
+builder:
+  name: Charles Sibbick and Co
+  id: 3b623161-dc07-46fc-96b1-98e7ad47b431
+place_built: Cowes
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 10.5156
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 1b865ca3-d847-43e5-92c2-2c30c87a5cf7
-length_on_deck: 10.5156
 callsign: ''
 ownerships:
 - id: 522
@@ -30,11 +28,13 @@ ownerships:
   start: 2016
   member: 4806
   current: true
-place_built: Cowes
-updated_at: '2021-12-19T13:40:07.486642+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1906
-year_is_approximate: false
+id: 1b865ca3-d847-43e5-92c2-2c30c87a5cf7
+draft: 1.2192
+handicap_data:
+  length_overall: 10.5156
+length_on_deck: 10.5156
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

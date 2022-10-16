@@ -4,22 +4,19 @@ generic_type: Dayboat
 mainsail_type: lug
 short_description: ''
 full_description: ''
+year: 1989
+year_is_approximate: false
 designer:
   name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+place_built: Portsmouth
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.3716166788588149
-  length_over_all: 4.419653742989515
 home_country: GBR
 home_port: Wargrave
 hull_form: unknown
-id: c7228824-6533-4ad6-a5d9-58752b9229dc
-length_on_deck: 4.4196
 callsign: ''
 ownerships:
 - name: Robin Ford
@@ -29,13 +26,16 @@ ownerships:
   member: 2302
   current: true
   start: '?'
-place_built: Portsmouth
-updated_at: '2021-12-19T13:39:26.491639+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1989
-year_is_approximate: false
+id: c7228824-6533-4ad6-a5d9-58752b9229dc
 previous_names:
 - Eusa
+draft: 0
+handicap_data:
+  beam: 1.3716166788588149
+  length_over_all: 4.419653742989515
+length_on_deck: 4.4196
 beam: 1.3716
 for_sale_state:
   text: not_for_sale

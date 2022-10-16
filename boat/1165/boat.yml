@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 86/1
-builder:
-  name: A.J. Murray
-  id: 2ede4b83-3b0b-4238-b0b0-321d5561f0f4
+year: 1982
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: A.J. Murray
+  id: 2ede4b83-3b0b-4238-b0b0-321d5561f0f4
+place_built: Falmouth
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.2192
+construction_details: GRP hull, spruce spars
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.3774689100219457
-  draft: 1.21921482565228
-  length_over_all: 7.2390880273104115
-  length_on_waterline: 6.6294806144842715
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 3ddec637-c594-469f-8cda-b1595359674d
-length_on_deck: 7.239
 reference:
 - Log 86/1
 ssr: '3308'
@@ -34,12 +30,16 @@ ownerships:
 - name: J Fearnley
   share: 64
   start: 1985
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:03.510362+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1982
-year_is_approximate: false
-construction_details: GRP hull, spruce spars
+id: 3ddec637-c594-469f-8cda-b1595359674d
+draft: 1.2192
+handicap_data:
+  beam: 2.3774689100219457
+  draft: 1.21921482565228
+  length_over_all: 7.2390880273104115
+  length_on_waterline: 6.6294806144842715
+length_on_deck: 7.239
 beam: 2.3774
 for_sale_state:
   text: not_for_sale

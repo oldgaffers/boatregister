@@ -5,17 +5,35 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Built at Stanground, near Peterborough.</p>
 full_description: ''
-builder:
-  name: W.A. Jackson
-  id: 37837e47-ed48-4d6d-887c-c8d1a263a037
+year: 1960
+year_is_approximate: false
 designer:
   name: W.A. Jackson
   id: 2c2eddf0-0b4f-41a3-a3ee-c46366e3ada7
+builder:
+  name: W.A. Jackson
+  id: 37837e47-ed48-4d6d-887c-c8d1a263a037
+place_built: Peterborough
 construction_material: wood
 construction_method: clinker_ply
-draft: 0.2286
+construction_details: Clinker plywood with mahogany brightwork
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: unknown
+sail_number: '2'
+callsign: ''
+ownerships:
+- id: 77
+  share: 64
+  start: 1979
+  member: 1581
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 046c69bd-7a00-4ab6-855b-7fc9ebde1685
+draft: 0.2286
 handicap_data:
   beam: 1.4996342355523042
   main:
@@ -28,25 +46,7 @@ handicap_data:
   fore_triangle_base: 1.2710314557425018
   length_on_waterline: 3.5052426237503047
   fore_triangle_height: 2.7950499878078516
-home_country: GBR
-home_port: ''
-hull_form: unknown
-id: 046c69bd-7a00-4ab6-855b-7fc9ebde1685
 length_on_deck: 3.6576
-sail_number: '2'
-callsign: ''
-ownerships:
-- id: 77
-  share: 64
-  start: 1979
-  member: 1581
-  current: true
-place_built: Peterborough
-updated_at: '2021-12-19T13:38:58.801891+00:00'
-website: ''
-year: 1960
-year_is_approximate: false
-construction_details: Clinker plywood with mahogany brightwork
 beam: 1.4996
 for_sale_state:
   text: not_for_sale

@@ -5,25 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Built for 1956 boat show Log 69/5. Jun 2010 log for sale p.48
-builder:
-  name: R. Clarke/W. Clarke
-  id: dc8b4f4a-af87-4a08-810e-d5a1dcbec3b2
+year: 1955
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: R. Clarke/W. Clarke
+  id: dc8b4f4a-af87-4a08-810e-d5a1dcbec3b2
+place_built: Cowes IoW
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Honduras mahogany on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  length_over_all: 5.029261155815655
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 0bea7e91-73e5-42cb-b359-3a8ab2b096a0
-length_on_deck: 5.0292
 reference:
 - Log 69/5
 - Log Jun 2010
@@ -32,12 +30,14 @@ ownerships:
 - name: G R Millar
   share: 64
   start: 1968
-place_built: Cowes IoW
-updated_at: '2021-12-19T13:38:34.672171+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1955
-year_is_approximate: false
-construction_details: Honduras mahogany on oak
+id: 0bea7e91-73e5-42cb-b359-3a8ab2b096a0
+draft: 0
+handicap_data:
+  beam: 2.43842965130456
+  length_over_all: 5.029261155815655
+length_on_deck: 5.0292
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

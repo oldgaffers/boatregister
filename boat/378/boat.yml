@@ -7,17 +7,42 @@ short_description: ''
 full_description: Designed and built by Harley Mead in 1909 'Lady Belle' is a gaff
   yawl design built as a yacht on Falmouth Quay punt lines. She was rebuilt 2004 -
   2006 by Alistair Garland.
-builder:
-  name: Harley Mead
-  id: b0258705-de81-4e73-9b5a-caed5813e418
+year: 1909
+year_is_approximate: false
 designer:
   name: Harley Mead
   id: 25412902-8c25-4fd2-8023-2f506c99a366
+builder:
+  name: Harley Mead
+  id: b0258705-de81-4e73-9b5a-caed5813e418
+place_built: Cowes IoW
 construction_material: wood
 construction_method: carvel
-draft: 1.7983
+construction_details: Carvel teak on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Hamble
+hull_form: long keel sloping forefoot
+sail_number: '1909'
+uk_part1: '128428'
+callsign: ''
+ownerships:
+- end: 2017
+  name: David Reynolds
+  share: 64
+  start: 2007
+- id: 24
+  share: 64
+  start: 2017
+  member: 722
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2074e65a-0c5f-4fe2-8c9f-cc4e4455dbcb
+image_key: TGrfvD
+thumb: https://photos.smugmug.com/photos/i-gj2QSfh/0/Th/i-gj2QSfh-Th.jpg
+draft: 1.7983
 handicap_data:
   beam: 2.7676176542306754
   main:
@@ -36,31 +61,7 @@ handicap_data:
   fore_triangle_base: 4.648256522799317
   length_on_waterline: 8.077298219946353
   fore_triangle_height: 8.025481589856131
-home_country: GBR
-home_port: Hamble
-hull_form: long keel sloping forefoot
-id: 2074e65a-0c5f-4fe2-8c9f-cc4e4455dbcb
 length_on_deck: 8.5344
-sail_number: '1909'
-uk_part1: '128428'
-callsign: ''
-ownerships:
-- end: 2017
-  name: David Reynolds
-  share: 64
-  start: 2007
-- id: 24
-  share: 64
-  start: 2017
-  member: 722
-  current: true
-place_built: Cowes IoW
-updated_at: '2021-12-19T13:38:40.711895+00:00'
-website: ''
-year: 1909
-year_is_approximate: false
-image_key: TGrfvD
-construction_details: Carvel teak on oak
 beam: 2.7737
 for_sale_state:
   text: not_for_sale

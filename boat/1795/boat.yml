@@ -5,14 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1970
+year_is_approximate: false
 builder:
   name: Elton Boat Building Co.
   id: 09d6abe6-0f2a-4d5f-a151-3c5c65ff9bdc
+place_built: Belper Derbyshire
 construction_material: wood
 construction_method: clinker
-draft: 0.3048
+construction_details: Clinker mahogany on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Trailer sail
+hull_form: unknown
+ssr: '47266'
+callsign: ''
+ownerships:
+- id: 200
+  share: 64
+  start: 1970
+  member: 2907
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6ef94ab2-fdd7-43ce-8743-cc04d7dce87a
+draft: 0.3048
 handicap_data:
   beam: 1.6764203852718849
   main:
@@ -25,25 +43,7 @@ handicap_data:
   fore_triangle_base: 1.8288222384784198
   length_on_waterline: 4.114850036576445
   fore_triangle_height: 3.9624481833699097
-home_country: GBR
-home_port: Trailer sail
-hull_form: unknown
-id: 6ef94ab2-fdd7-43ce-8743-cc04d7dce87a
 length_on_deck: 4.3434
-ssr: '47266'
-callsign: ''
-ownerships:
-- id: 200
-  share: 64
-  start: 1970
-  member: 2907
-  current: true
-place_built: Belper Derbyshire
-updated_at: '2021-12-19T13:39:20.500883+00:00'
-website: ''
-year: 1970
-year_is_approximate: false
-construction_details: Clinker mahogany on oak
 beam: 1.6764
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,30 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 68/1
-builder:
-  name: W.E. Thomas
-  id: a9e83f1e-565e-4568-b052-7a492147a30d
+year: 1920
+year_is_approximate: false
 designer:
   name: Harley Mead
   id: 25412902-8c25-4fd2-8023-2f506c99a366
+builder:
+  name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
+place_built: Falmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel pine planking on oak sawn frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 68/1
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: edf3d6ec-1f87-4561-b118-6513eb169ae0
+draft: 1.8288
 handicap_data:
   beam: 3.322360399902463
   main:
@@ -31,20 +44,7 @@ handicap_data:
   fore_triangle_base: 6.644720799804926
   length_on_waterline: 8.961228968544257
   fore_triangle_height: 11.765423067544502
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: edf3d6ec-1f87-4561-b118-6513eb169ae0
 length_on_deck: 9.906
-reference:
-- Log 68/1
-callsign: ''
-place_built: Falmouth
-updated_at: '2021-03-23T08:38:13.181598+00:00'
-website: ''
-year: 1920
-year_is_approximate: false
-construction_details: Carvel pine planking on oak sawn frames
 beam: 3.3223
 for_sale_state:
   text: not_for_sale

@@ -6,17 +6,32 @@ mainsail_type: gaff
 short_description: ''
 full_description: Hull design based on Laurent Giles' Dyararchy, rig based on Conor
   O'Brien's Saoirse
-builder:
-  name: M.A. Betts
-  id: 8c251627-3307-4c17-8aff-c9683ab4c134
+year: 1979
+year_is_approximate: false
 designer:
   name: C. Petrie
   id: 50731bdf-58dc-46ed-bfec-61a54362af1a
+builder:
+  name: M.A. Betts
+  id: 8c251627-3307-4c17-8aff-c9683ab4c134
+place_built: Southend on Sea
 construction_material: ferro
 construction_method: unknown
-draft: 1.9202
+construction_details: Ferro cement hull
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Portsmouth
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: M A Betts
+  share: 64
+  start: 1979
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 48888144-ace4-408c-95d2-6d8487142d0f
+draft: 1.9202
 handicap_data:
   beam: 3.291880029261156
   main:
@@ -34,22 +49,7 @@ handicap_data:
   fore_triangle_base: 6.0960741282613995
   length_on_waterline: 9.44891489880517
   fore_triangle_height: 12.314069739088026
-home_country: 'null'
-home_port: Portsmouth
-hull_form: long keel deep forefoot
-id: 48888144-ace4-408c-95d2-6d8487142d0f
 length_on_deck: 11.7348
-callsign: ''
-ownerships:
-- name: M A Betts
-  share: 64
-  start: 1979
-place_built: Southend on Sea
-updated_at: '2021-12-19T13:39:00.675432+00:00'
-website: ''
-year: 1979
-year_is_approximate: false
-construction_details: Ferro cement hull
 beam: 3.2918
 for_sale_state:
   text: not_for_sale

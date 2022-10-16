@@ -5,17 +5,40 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2000
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Bursledon
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5578
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Dell Quay
+hull_form: centre-boarder
+sail_number: '2637'
+callsign: ''
+ownerships:
+- end: 2012
+  name: Marion Shirley
+  share: 32
+  start: 2009
+- id: 934
+  share: 64
+  start: 2016
+  member: 6115
+  current: true
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: e02896b9-26fa-4187-b8fd-97d5edfc439e
+draft: 0.5578
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -35,30 +58,7 @@ handicap_data:
   fore_triangle_base: 2.6426481346013166
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 5.867471348451597
-home_country: GBR
-home_port: Dell Quay
-hull_form: centre-boarder
-id: e02896b9-26fa-4187-b8fd-97d5edfc439e
 length_on_deck: 5.7912
-sail_number: '2637'
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2012
-  name: Marion Shirley
-  share: 32
-  start: 2009
-- id: 934
-  share: 64
-  start: 2016
-  member: 6115
-  current: true
-place_built: Bursledon
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 2000
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1336
 design_class:
   name: Memory 19

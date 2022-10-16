@@ -5,17 +5,36 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: Sutton of Wiggins
-  id: 4d84ffdb-d5df-44d8-a47f-f83131d9ab44
+year: 1965
+year_is_approximate: false
 designer:
   name: Alan Buchanan
   id: c501c48d-9b2b-4b4b-a120-ddbf63ae35b5
+builder:
+  name: Sutton of Wiggins
+  id: 4d84ffdb-d5df-44d8-a47f-f83131d9ab44
+place_built: Great Wakering
 construction_material: wood
 construction_method: unknown
-draft: 1.7282
+construction_details: Wood, teak below w/l mahogany above, lead keel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Tollesbury
+hull_form: long keel deep forefoot
+sail_number: '1067'
+uk_part1: '305846'
+callsign: ''
+ownerships:
+- id: 667
+  share: 64
+  start: 2003
+  member: 5511
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a42793d0-069d-4b00-9c55-9194a04bcf47
+draft: 1.7282
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -30,26 +49,7 @@ handicap_data:
   fore_triangle_base: 3.7094611070470616
   length_on_waterline: 7.315288953913679
   fore_triangle_height: 12.192148256522799
-home_country: GBR
-home_port: Tollesbury
-hull_form: long keel deep forefoot
-id: a42793d0-069d-4b00-9c55-9194a04bcf47
 length_on_deck: 10.3632
-sail_number: '1067'
-uk_part1: '305846'
-callsign: ''
-ownerships:
-- id: 667
-  share: 64
-  start: 2003
-  member: 5511
-  current: true
-place_built: Great Wakering
-updated_at: '2021-12-19T13:40:02.355873+00:00'
-website: ''
-year: 1965
-year_is_approximate: false
-construction_details: Wood, teak below w/l mahogany above, lead keel
 beam: 2.7432
 design_class:
   name: Buchanan 34

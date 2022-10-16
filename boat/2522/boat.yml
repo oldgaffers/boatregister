@@ -19,38 +19,25 @@ full_description: "<p>Sula&#39;s design by John Leather was inspired by the desi
   \n\r\n<p>In 2016, she was sold in Portugal and is now based in the Netherlands.</p>\r\
   \n\r\n<p>In 2017 she had a new Beta marine 25 HP Diesel engine.&nbsp;<br />\r\n\
   &nbsp;</p>"
-builder:
-  name: Jim Spencer
-  id: fedcd933-6d83-4a65-8777-44aa22d2c8ea
+year: 1997
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: Jim Spencer
+  id: fedcd933-6d83-4a65-8777-44aa22d2c8ea
+place_built: Waterside Boatyard, Brightlingsea.
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.2192
+construction_details: GRP isopthalic resin. Epoxy coated ( 3 coats) from new. 2014,
+  2 further epoxy coats applied and 4 coats Coppercoat epoxy antifouling applied.
 engine_installations: []
 for_sales:
 - asking_price: 0
-handicap_data:
-  main:
-    foot: 14
-    head: 12
-    luff: 10
-  topsail:
-    luff: 12
-    perpendicular: 10
-  sailarea: 4
-  length_overall: 8.0467
-  calculated_thcf: 0.881
-  length_over_spars: 9.4488
-  fore_triangle_base: 3.048
-  length_on_waterline: 6.4008
-  fore_triangle_height: 7.9248
 home_country: NLD
 home_port: Durgerdam
 hull_form: long keel sloping forefoot
-id: 10573dc2-3495-4f6f-a021-8cc13e31c667
-length_on_deck: 8.0467
 sail_number: '1'
 uk_part1: '90512'
 callsign: ''
@@ -70,16 +57,30 @@ ownerships:
   member: 80000005
   current: true
   start: '?'
-place_built: Waterside Boatyard, Brightlingsea.
-updated_at: '2021-12-19T13:39:41.647895+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1997
-year_is_approximate: false
+id: 10573dc2-3495-4f6f-a021-8cc13e31c667
 previous_names:
 - Sula
 image_key: jN6h3X
-construction_details: GRP isopthalic resin. Epoxy coated ( 3 coats) from new. 2014,
-  2 further epoxy coats applied and 4 coats Coppercoat epoxy antifouling applied.
+thumb: https://photos.smugmug.com/photos/i-RGrfw6W/0/Th/i-RGrfw6W-Th.jpg
+draft: 1.2192
+handicap_data:
+  main:
+    foot: 14
+    head: 12
+    luff: 10
+  topsail:
+    luff: 12
+    perpendicular: 10
+  sailarea: 4
+  length_overall: 8.0467
+  calculated_thcf: 0.881
+  length_over_spars: 9.4488
+  fore_triangle_base: 3.048
+  length_on_waterline: 6.4008
+  fore_triangle_height: 7.9248
+length_on_deck: 8.0467
 beam: 2.7432
 design_class:
   name: Kattegat

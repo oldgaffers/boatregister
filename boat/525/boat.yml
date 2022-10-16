@@ -6,17 +6,40 @@ mainsail_type: gaff
 short_description: ''
 full_description: Following a dismasting near Le Havre in 1997, a new mast was made
   as a demonstration during the Fete du Chant de Marin at Paimol, Brittany.
-builder:
-  name: Birdham Shipyard
-  id: 818788b1-5aff-4f2a-a514-22b3c820ce45
+year: 1948
+year_is_approximate: false
 designer:
   name: M.G. Duff
   id: 2b103892-d6bc-4466-8ba6-e9facf83aec1
+builder:
+  name: Birdham Shipyard
+  id: 818788b1-5aff-4f2a-a514-22b3c820ce45
+place_built: Birdham Poole
 construction_material: wood
 construction_method: carvel
-draft: 1.4021
+construction_details: Carvel Pitch Pine on Oak, mahogany above wl, Lead keel,GRP sheathed
+  ply deck
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Fareham
+hull_form: long keel deep forefoot
+uk_part1: '182525'
+callsign: ''
+ownerships:
+- name: Andrew Clague
+  share: 64
+  start: 2003
+- share: 64
+  member: 4215
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 618404fb-7ea2-45ed-b9ef-6dce806474c4
+image_key: P9342V
+thumb: https://photos.smugmug.com/photos/i-WrPPS9K/0/Th/i-WrPPS9K-Th.jpg
+draft: 1.4021
 handicap_data:
   beam: 2.4902462813947817
   main:
@@ -33,29 +56,7 @@ handicap_data:
   fore_triangle_base: 5.300536454523287
   length_on_waterline: 7.443306510607169
   fore_triangle_height: 6.199707388441843
-home_country: GBR
-home_port: Fareham
-hull_form: long keel deep forefoot
-id: 618404fb-7ea2-45ed-b9ef-6dce806474c4
 length_on_deck: 7.9248
-uk_part1: '182525'
-callsign: ''
-ownerships:
-- name: Andrew Clague
-  share: 64
-  start: 2003
-- share: 64
-  member: 4215
-  current: true
-  start: '?'
-place_built: Birdham Poole
-updated_at: '2021-12-19T13:38:44.81141+00:00'
-website: ''
-year: 1948
-year_is_approximate: false
-image_key: P9342V
-construction_details: Carvel Pitch Pine on Oak, mahogany above wl, Lead keel,GRP sheathed
-  ply deck
 beam: 2.4994
 for_sale_state:
   text: not_for_sale

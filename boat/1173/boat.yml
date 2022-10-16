@@ -36,18 +36,40 @@ full_description: "<p><em>Margaret Ann</em> (sometimes in the past referred to a
   \ the re-construction of the coachhouse and cockpit coamings and coachhouse deck\
   \ (the beams for this could be reused). She comes complete with the timber (mahogany\
   \ for the coamings and pitch pine for the cabin deck) to do this.</p>"
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1939
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel
 engine_installations: []
 for_sales:
 - asking_price: 0
+home_country: GBR
+home_port: Salcombe
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Elspeth Macfarlane and Peter Crook
+  share: 64
+  start: 2001
+- id: 1106
+  share: 32
+  member: 1377
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 824acb22-665e-4e09-b2d3-cdc1773c6fda
+image_key: 8t7FFL
+thumb: https://photos.smugmug.com/photos/i-r9BvCv4/0/Th/i-r9BvCv4-Th.jpg
+draft: 0.9144
 handicap_data:
   beam: 1.9812240916849548
   main:
@@ -62,28 +84,7 @@ handicap_data:
   fore_triangle_base: 2.529870763228481
   length_on_waterline: 5.334064862228725
   fore_triangle_height: 5.029261155815655
-home_country: GBR
-home_port: Salcombe
-hull_form: long keel deep forefoot
-id: 824acb22-665e-4e09-b2d3-cdc1773c6fda
 length_on_deck: 5.6388
-callsign: ''
-ownerships:
-- name: Elspeth Macfarlane and Peter Crook
-  share: 64
-  start: 2001
-- id: 1106
-  share: 32
-  member: 1377
-  current: true
-  start: '?'
-place_built: Littlehampton
-updated_at: '2021-12-19T13:39:03.705659+00:00'
-website: ''
-year: 1939
-year_is_approximate: false
-image_key: 8t7FFL
-construction_details: Carvel
 beam: 1.9812
 design_class:
   name: 2 1/2 Tonner

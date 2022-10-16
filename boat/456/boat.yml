@@ -6,41 +6,42 @@ mainsail_type: gaff
 short_description: A Tahiti ketch
 full_description: In 1983 she was in Devon and offered for charter. CB Jun 90 Log
   83/3
-builder:
-  name: Harry King and Sons
-  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
+year: 1932
+year_is_approximate: false
 designer:
   name: John G. Hanna
   id: c4721fcb-96c6-463f-a516-3f206a95f6ba
+builder:
+  name: Harry King and Sons
+  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
+place_built: Pin Mill
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.4021
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  draft: 1.4020970495001217
-  length_over_all: 9.1441111923921
-  length_on_waterline: 8.83930748597903
 home_port: ''
 hull_form: unknown
-id: 4480e915-b459-430e-bca7-a02d5e34de1e
-length_on_deck: 9.144
 reference:
 - CB Jun 90
 - Log 83/3
-spar_material: wood
 callsign: ''
 ownerships:
 - name: G H Dormer
   share: 64
   start: 1955
-place_built: Pin Mill
-updated_at: '2021-12-19T13:38:42.836629+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1932
-year_is_approximate: false
+id: 4480e915-b459-430e-bca7-a02d5e34de1e
 image_key: HhvBRQ
+thumb: https://photos.smugmug.com/photos/i-mDz8sT8/0/Th/i-mDz8sT8-Th.jpg
+draft: 1.4021
+handicap_data:
+  beam: 3.0480370641306997
+  draft: 1.4020970495001217
+  length_over_all: 9.1441111923921
+  length_on_waterline: 8.83930748597903
+length_on_deck: 9.144
 beam: 3.048
 design_class:
   name: Tahiti Ketch

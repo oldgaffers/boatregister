@@ -6,11 +6,29 @@ mainsail_type: gaff
 short_description: ''
 full_description: 'Query on Handicap, Why so low? Note: Refigured on 7/7/92 Log 79/1,
   86/4 NB called Waraxe then'
+year_is_approximate: false
 construction_material: wood
 construction_method: clinker
-draft: 0.9906
+construction_details: larch on oak, clinker
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 79/1
+- Log 86/4
+callsign: ''
+ownerships:
+- name: V Wardale
+  share: 64
+  start: 1987
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 60d7b750-7f0b-4ef0-af2d-3ff1ce332fac
+previous_names:
+- Waraxe
+draft: 0.9906
 handicap_data:
   beam: 2.8956352109241648
   fore:
@@ -32,25 +50,7 @@ handicap_data:
   fore_triangle_base: 4.87685930260912
   length_on_waterline: 8.991709339185563
   fore_triangle_height: 8.53450377956596
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 60d7b750-7f0b-4ef0-af2d-3ff1ce332fac
 length_on_deck: 9.144
-reference:
-- Log 79/1
-- Log 86/4
-callsign: ''
-ownerships:
-- name: V Wardale
-  share: 64
-  start: 1987
-updated_at: '2021-12-19T13:38:54.998214+00:00'
-website: ''
-year_is_approximate: false
-previous_names:
-- Waraxe
-construction_details: larch on oak, clinker
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

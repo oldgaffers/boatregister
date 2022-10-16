@@ -8,17 +8,39 @@ short_description: <p>Designed by Percy Dalton, &#39;Constance&#39; was built in
 full_description: <p>25&rsquo; LOD, beam 9&rsquo;, draft 4&rsquo;, displacement 5
   tons, &#39;Constance&#39; is a very pretty boat with huge amount of space below,
   suitable for long distance passages and budget blue water cruising.</p>
-builder:
-  name: E. Bracken
-  id: dd43b6c0-5389-4382-a770-5336f7a00778
+year: 1996
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: E. Bracken
+  id: dd43b6c0-5389-4382-a770-5336f7a00778
+place_built: Hoo, Kent
 construction_material: steel
 construction_method: unknown
-draft: 1.3716
+construction_details: Steel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Plymouth
+hull_form: long keel deep forefoot
+ssr: '68159'
+callsign: ''
+ownerships:
+- end: 2007
+  name: Kelvin Bracken
+  share: 64
+  start: 1996
+- name: David Craddock
+  share: 64
+  start: 2007
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e53aa04e-4029-48f7-82c5-3a9ab58a44d3
+image_key: MfqzJN
+thumb: https://photos.smugmug.com/photos/i-mwm5Ggr/0/Th/i-mwm5Ggr-Th.jpg
+draft: 1.3716
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -36,28 +58,7 @@ handicap_data:
   fore_triangle_base: 3.9624481833699097
   length_on_waterline: 7.315288953913679
   fore_triangle_height: 8.53450377956596
-home_country: GBR
-home_port: Plymouth
-hull_form: long keel deep forefoot
-id: e53aa04e-4029-48f7-82c5-3a9ab58a44d3
 length_on_deck: 7.62
-ssr: '68159'
-callsign: ''
-ownerships:
-- end: 2007
-  name: Kelvin Bracken
-  share: 64
-  start: 1996
-- name: David Craddock
-  share: 64
-  start: 2007
-place_built: Hoo, Kent
-updated_at: '2021-12-19T13:39:48.854907+00:00'
-website: ''
-year: 1996
-year_is_approximate: false
-image_key: MfqzJN
-construction_details: Steel
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

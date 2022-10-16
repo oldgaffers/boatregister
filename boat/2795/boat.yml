@@ -5,25 +5,23 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Roger Wilkinson
-  id: 13013b12-8617-439c-bc35-ba8f2259031e
+year: 2005
+year_is_approximate: false
 designer:
   name: Roger Wilkinson
   id: 7b55967c-c09b-4375-8aab-2aa606d145cd
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+place_built: Pottstringley
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: Grp & Mahogany
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.5240185320653499
-  length_over_all: 4.26725188978298
 home_country: 'null'
 home_port: Henly on Thames
 hull_form: unknown
-id: 11318055-2e55-41f8-98a5-a9fc8ae811a2
-length_on_deck: 4.2672
 sail_number: '39'
 uk_part1: GB-Kit-Cy-039V96
 callsign: ''
@@ -31,12 +29,14 @@ ownerships:
 - name: Ian Manocha
   share: 64
   start: 2005
-place_built: Pottstringley
-updated_at: '2021-12-19T13:39:49.681372+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2005
-year_is_approximate: false
-construction_details: Grp & Mahogany
+id: 11318055-2e55-41f8-98a5-a9fc8ae811a2
+draft: 0
+handicap_data:
+  beam: 1.5240185320653499
+  length_over_all: 4.26725188978298
+length_on_deck: 4.2672
 beam: 1.524
 design_class:
   name: Kittiwake 14

@@ -5,38 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Yarmouth Boat Co.
-  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+year: 2003
+year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+place_built: Isle of Wight & Sri Lanka
 construction_material: wood
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.9144
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  main:
-    foot: 3.9624481833699097
-    head: 2.7432333577176298
-    luff: 3.6576444769568397
-  thcf: 0.863461238
-  draft: 0.9144111192392099
-  topsail:
-    luff: 3.6576444769568397
-    perpendicular: 1.6764203852718849
-  length_over_all: 6.882467690807119
-  fore_triangle_base: 3.3528407705437697
-  length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 5.9436722750548645
 home_country: Scotland
 home_port: Tobermory
 hull_form: unknown
-id: 0f0e37e7-66a2-40e3-8d30-8c95041c2bb7
-length_on_deck: 6.8824
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2021
@@ -57,12 +42,28 @@ ownerships:
   start: 2021
   member: 6463
   current: true
-place_built: Isle of Wight & Sri Lanka
-updated_at: '2022-02-16T15:14:53.406345+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2003
-year_is_approximate: false
+id: 0f0e37e7-66a2-40e3-8d30-8c95041c2bb7
 image_key: sqrqw7
+thumb: https://photos.smugmug.com/photos/i-5hFN5NF/0/Th/i-5hFN5NF-Th.jpg
+draft: 0.9144
+handicap_data:
+  beam: 2.286027798098025
+  main:
+    foot: 3.9624481833699097
+    head: 2.7432333577176298
+    luff: 3.6576444769568397
+  thcf: 0.863461238
+  draft: 0.9144111192392099
+  topsail:
+    luff: 3.6576444769568397
+    perpendicular: 1.6764203852718849
+  length_over_all: 6.882467690807119
+  fore_triangle_base: 3.3528407705437697
+  length_on_waterline: 5.4864667154352595
+  fore_triangle_height: 5.9436722750548645
+length_on_deck: 6.8824
 beam: 2.286
 design_class:
   name: Yarmouth 23

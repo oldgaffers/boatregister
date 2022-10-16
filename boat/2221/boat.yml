@@ -7,17 +7,40 @@ short_description: One of the last Nobbys built by Crossfields of Arnside, June 
   Maryll was registered as a yacht in 1948.
 full_description: <p>Rigged as a bermudan sloop, with deck layout changes in the 1960s,
   Maryll was converted back to gaff rig in 1997 by Jon Wainwright.</p>
-builder:
-  name: Crossfield
-  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+year: 1937
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+place_built: Arnside
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Larch carvel on sawn oak, iron ballast keel, cl prop.
 engine_installations: []
 for_sales: []
+home_country: NLD
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2005
+  name: Jon Wainwright
+  share: 64
+  start: 1997
+- id: 526
+  share: 64
+  start: 2005
+  member: 4832
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8b32da5d-367e-462e-90aa-6fadd120e4a5
+image_key: KbB98d
+thumb: https://photos.smugmug.com/photos/i-DWm2b62/0/Th/i-DWm2b62-Th.jpg
+draft: 1.2192
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -31,29 +54,7 @@ handicap_data:
   fore_triangle_base: 5.18166300902219
   length_on_waterline: 6.0960741282613995
   fore_triangle_height: 6.909900024384297
-home_country: NLD
-home_port: ''
-hull_form: long keel deep forefoot
-id: 8b32da5d-367e-462e-90aa-6fadd120e4a5
 length_on_deck: 7.62
-callsign: ''
-ownerships:
-- end: 2005
-  name: Jon Wainwright
-  share: 64
-  start: 1997
-- id: 526
-  share: 64
-  start: 2005
-  member: 4832
-  current: true
-place_built: Arnside
-updated_at: '2021-12-19T13:39:32.613885+00:00'
-website: ''
-year: 1937
-year_is_approximate: false
-image_key: KbB98d
-construction_details: Larch carvel on sawn oak, iron ballast keel, cl prop.
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

@@ -5,14 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1955
+year_is_approximate: false
 builder:
   name: Stanley Goodwin
   id: 4727ae3a-15cf-416e-be0d-44de503157f0
+place_built: Kidderminster
 construction_material: wood
+spar_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clinker
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Reg Bladen
+  share: 64
+  start: 1995
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fc913a62-dc9f-4d83-aacd-b6a4c941e6f4
+previous_names:
+- Dianna
+draft: 0
 handicap_data:
   beam: 1.7008046817849305
   main:
@@ -24,25 +42,7 @@ handicap_data:
   fore_triangle_base: 2.1854425749817117
   length_on_waterline: 4.215435259692757
   fore_triangle_height: 3.4046574006339916
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: fc913a62-dc9f-4d83-aacd-b6a4c941e6f4
 length_on_deck: 4.2916
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Reg Bladen
-  share: 64
-  start: 1995
-place_built: Kidderminster
-updated_at: '2021-12-19T13:39:24.514681+00:00'
-website: ''
-year: 1955
-year_is_approximate: false
-previous_names:
-- Dianna
-construction_details: Clinker
 beam: 1.7008
 for_sale_state:
   text: not_for_sale

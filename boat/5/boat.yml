@@ -5,24 +5,19 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1916
+year_is_approximate: false
 builder:
   name: W. McMillan
   id: 77fde2a7-d8fa-4cf8-8a0b-2e9b16103302
+place_built: Tarbert
 construction_material: wood
 construction_method: unknown
-draft: 2.0117
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.3833211411850765
-  draft: 1.8593026091197267
-  length_over_all: 11.155815654718362
-  length_on_waterline: 10.05852231163131
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: bfca122e-802c-4140-a3d3-de4dee09db81
-length_on_deck: 11.1557
 sail_number: '5'
 uk_part1: '166981'
 callsign: ''
@@ -30,11 +25,16 @@ ownerships:
 - name: J M Snelgar
   share: 64
   start: 1966
-place_built: Tarbert
-updated_at: '2021-12-19T13:38:29.855409+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1916
-year_is_approximate: false
+id: bfca122e-802c-4140-a3d3-de4dee09db81
+draft: 2.0117
+handicap_data:
+  beam: 3.3833211411850765
+  draft: 1.8593026091197267
+  length_over_all: 11.155815654718362
+  length_on_waterline: 10.05852231163131
+length_on_deck: 11.1557
 beam: 3.3833
 for_sale_state:
   text: not_for_sale

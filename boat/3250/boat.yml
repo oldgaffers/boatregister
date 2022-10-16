@@ -15,27 +15,23 @@ full_description: "<p>In 1935 the Aldeburgh Yacht Club Members, encouraged by Uf
   \ Hubber for &pound;7,000 by John Mann. She was restored by B.D. Isassacs of BDI,\
   \ 1996-7.</p>\r\n\r\n<p>In 2015 her engine was removed and the interior modified,\
   \ keel bolts were replaced and the forestay repositioned.</p>"
-builder:
-  name: Knud Reimers
-  id: c89ec86a-f833-4cf0-81db-2da01d3ef74a
+year: 1935
+year_is_approximate: false
 designer:
   name: Knud Reimers
   id: e90fa3e6-7a57-44ea-9377-419ef9fd1197
+builder:
+  name: Knud Reimers
+  id: c89ec86a-f833-4cf0-81db-2da01d3ef74a
+place_built: Stockholm
 construction_material: wood
 construction_method: carvel
-draft: 1.271
+construction_details: Carvel lead keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 6
-  length_overall: 8.4338
-  length_over_spars: 8.4338
-  length_on_waterline: 6.858
 home_country: GBR
 home_port: Fowey
 hull_form: cut_away_stem
-id: 656d527b-b4c9-4165-8096-a272439d26e1
-length_on_deck: 8.4338
 sail_number: K30
 callsign: ''
 ownerships:
@@ -57,13 +53,18 @@ ownerships:
   member: 5397
   current: true
   start: '?'
-place_built: Stockholm
-updated_at: '2021-12-19T13:40:05.240641+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1935
-year_is_approximate: false
+id: 656d527b-b4c9-4165-8096-a272439d26e1
 image_key: 7T7qFb
-construction_details: Carvel lead keel
+thumb: https://photos.smugmug.com/photos/i-tTt9McZ/0/Th/i-tTt9McZ-Th.jpg
+draft: 1.271
+handicap_data:
+  sailarea: 6
+  length_overall: 8.4338
+  length_over_spars: 8.4338
+  length_on_waterline: 6.858
+length_on_deck: 8.4338
 beam: 1.905
 design_class:
   name: Tumlare

@@ -94,27 +94,23 @@ full_description: "<p>&#39;Richard Davey&#39; was built in 1913 and was a well-l
   \ seas of the Channel, and she coped admirably with all conditions including the\
   \ Force 10 finish to one famous Solent Race.</blockquote>\r\n\r\n<h4>First published\
   \ in the Old Gaffers Association Newsletter, 1978/3<br />\r\nWritten by JH Robinson.</h4>"
-builder:
-  name: R.S. Burt and Son
-  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+year: 1913
+year_is_approximate: false
 designer:
   name: R.S. Burt
   id: 3a2bf172-f648-44a1-af0f-0598af8b960b
+builder:
+  name: R.S. Burt and Son
+  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 2.4384
+construction_details: Pitch pine on oak grown timbers
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.2004389173372347
-  draft: 2.43842965130456
-  length_over_all: 12.649353816142403
-  length_on_waterline: 10.515727871250913
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 09211d0c-bff3-4364-8dd1-260c9bf675cf
-length_on_deck: 12.6492
 uk_part1: '164451'
 callsign: ''
 ownerships:
@@ -122,13 +118,18 @@ ownerships:
   name: ' JH and CD Robinson'
   share: 64
   start: 1962
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:13.085877+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1913
-year_is_approximate: false
+id: 09211d0c-bff3-4364-8dd1-260c9bf675cf
 image_key: fVkwwW
-construction_details: Pitch pine on oak grown timbers
+thumb: https://photos.smugmug.com/photos/i-X9vZCZq/0/Th/i-X9vZCZq-Th.jpg
+draft: 2.4384
+handicap_data:
+  beam: 3.2004389173372347
+  draft: 2.43842965130456
+  length_over_all: 12.649353816142403
+  length_on_waterline: 10.515727871250913
+length_on_deck: 12.6492
 beam: 3.2004
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 92/1
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1988
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.143
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 92/1
+sail_number: P 26
+ssr: '26761'
+callsign: ''
+ownerships:
+- name: R and B Keen
+  share: 64
+  start: 1988
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7b61fe07-c5cd-4ab7-a464-41f764e579ed
+draft: 1.143
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -33,26 +52,7 @@ handicap_data:
   fore_triangle_base: 5.7912704218483295
   length_on_waterline: 7.848695440136551
   fore_triangle_height: 8.382101926359423
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 7b61fe07-c5cd-4ab7-a464-41f764e579ed
 length_on_deck: 9.144
-reference:
-- Log 92/1
-sail_number: P 26
-ssr: '26761'
-callsign: ''
-ownerships:
-- name: R and B Keen
-  share: 64
-  start: 1988
-place_built: Rock
-updated_at: '2021-12-19T13:39:14.471154+00:00'
-website: ''
-year: 1988
-year_is_approximate: false
-construction_details: GRP
 beam: 2.8956
 design_class:
   name: Cornish Crabber Pilot Cutter 30

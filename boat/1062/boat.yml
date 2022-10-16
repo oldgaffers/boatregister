@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Full set of lines in National Maritime Museum MNK Race 02
-builder:
-  name: G.W. Gill
-  id: 3da81f0b-aa1c-4639-8913-5e37ac92a9cc
+year: 1887
+year_is_approximate: false
 designer:
   name: G.W. Gill
   id: d53c2f54-ebfa-476f-9e73-2f6e805a3d6b
+builder:
+  name: G.W. Gill
+  id: 3da81f0b-aa1c-4639-8913-5e37ac92a9cc
+place_built: Rochester
 construction_material: wood
 construction_method: carvel
-draft: 1.7526
+construction_details: Carvel Pitch Pine on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Hollowshore
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: M A Jones
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 37949649-217a-4fe1-8067-ea03072a84b2
+previous_names:
+- Thistle
+draft: 1.7526
 handicap_data:
   beam: 4.014264813460131
   main:
@@ -33,24 +50,7 @@ handicap_data:
   fore_triangle_base: 8.763106559375762
   length_on_waterline: 10.66812972445745
   fore_triangle_height: 8.305900999756156
-home_country: 'null'
-home_port: Hollowshore
-hull_form: long keel deep forefoot
-id: 37949649-217a-4fe1-8067-ea03072a84b2
 length_on_deck: 10.9728
-callsign: ''
-ownerships:
-- name: M A Jones
-  share: 64
-  start: 2012
-place_built: Rochester
-updated_at: '2021-12-19T13:39:00.330872+00:00'
-website: ''
-year: 1887
-year_is_approximate: false
-previous_names:
-- Thistle
-construction_details: Carvel Pitch Pine on Oak
 beam: 4.0142
 for_sale_state:
   text: not_for_sale

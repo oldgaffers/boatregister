@@ -5,17 +5,31 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Sorensen
-  id: 5a015d5e-a825-4a15-8f91-5fbf672b02ba
+year: 1980
+year_is_approximate: false
 designer:
   name: Niels Roos
   id: 50b78148-412a-4e36-9402-d4ac211cffce
+builder:
+  name: Sorensen
+  id: 5a015d5e-a825-4a15-8f91-5fbf672b02ba
 construction_material: wood
 construction_method: unknown
-draft: 1.8989
+construction_details: Cavel, Larch on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Tim Wilson
+  share: 64
+  start: 2006
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 26a1e7ab-b9f3-4036-bf30-828be901a198
+draft: 1.8989
 handicap_data:
   beam: 3.800902218970983
   main:
@@ -40,21 +54,7 @@ handicap_data:
   fore_triangle_base: 5.800414533040722
   length_on_waterline: 10.500487685930262
   fore_triangle_height: 10.899780541331381
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 26a1e7ab-b9f3-4036-bf30-828be901a198
 length_on_deck: 11.8019
-callsign: ''
-ownerships:
-- name: Tim Wilson
-  share: 64
-  start: 2006
-updated_at: '2021-12-19T13:39:50.603605+00:00'
-website: ''
-year: 1980
-year_is_approximate: false
-construction_details: Cavel, Larch on oak
 beam: 3.8009
 for_sale_state:
   text: not_for_sale

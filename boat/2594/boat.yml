@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Home built in the study. T(H)CF with jib 0.698, as catboat 0.684
-builder:
-  name: Chris Chipchase
-  id: 739ca267-428e-4f9b-9349-d1d8ba2540c5
+year: 1980
+year_is_approximate: false
 designer:
   name: Jack Holt
   id: 6f4beede-1d23-4769-b07f-1721c2f9f9f9
+builder:
+  name: Chris Chipchase
+  id: 739ca267-428e-4f9b-9349-d1d8ba2540c5
+place_built: Hastings
 construction_material: wood
 construction_method: unknown
-draft: 0.253
+construction_details: Stitch and tape single chine ply
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Hastings
+hull_form: unknown
+sail_number: m64398
+callsign: ''
+ownerships:
+- name: Chris Chipchase
+  share: 64
+  start: 1980
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 67fde595-6df0-41ae-88c2-a06bd88911e6
+draft: 0.253
 handicap_data:
   beam: 1.4478176054620824
   main:
@@ -28,23 +44,7 @@ handicap_data:
   fore_triangle_base: 1.014996342355523
   length_on_waterline: 3.0480370641306997
   fore_triangle_height: 3.0724213606437454
-home_country: 'null'
-home_port: Hastings
-hull_form: unknown
-id: 67fde595-6df0-41ae-88c2-a06bd88911e6
 length_on_deck: 3.301
-sail_number: m64398
-callsign: ''
-ownerships:
-- name: Chris Chipchase
-  share: 64
-  start: 1980
-place_built: Hastings
-updated_at: '2021-12-19T13:39:43.762355+00:00'
-website: ''
-year: 1980
-year_is_approximate: false
-construction_details: Stitch and tape single chine ply
 beam: 1.4478
 for_sale_state:
   text: not_for_sale

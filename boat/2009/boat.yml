@@ -5,22 +5,19 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
+year: 1997
+year_is_approximate: false
 builder:
   name: Michael Gilbert
   id: 3bbcf37e-dd2b-4708-93ac-229ac87866eb
+place_built: Twickenham
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.4478176054620824
-  length_over_all: 3.9624481833699097
 home_country: GBR
 home_port: Twickenham
 hull_form: unknown
-id: dcdbe9ea-01f0-4395-9ee0-75365aa114e1
-length_on_deck: 3.9624
 callsign: ''
 ownerships:
 - name: Michael Gilbert
@@ -30,11 +27,14 @@ ownerships:
   member: 2599
   current: true
   start: '?'
-place_built: Twickenham
-updated_at: '2021-12-19T13:39:26.799125+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1997
-year_is_approximate: false
+id: dcdbe9ea-01f0-4395-9ee0-75365aa114e1
+draft: 0
+handicap_data:
+  beam: 1.4478176054620824
+  length_over_all: 3.9624481833699097
+length_on_deck: 3.9624
 beam: 1.4478
 for_sale_state:
   text: not_for_sale

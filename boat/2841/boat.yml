@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Tideway Boat Construction Ltd
-  id: 056fa523-2f8e-44dd-a0cd-0136b231a920
+year: 1995
+year_is_approximate: false
 designer:
   name: Barry Pritchard
   id: d0ca6cff-cc25-4036-b67d-a59f55519004
+builder:
+  name: Tideway Boat Construction Ltd
+  id: 056fa523-2f8e-44dd-a0cd-0136b231a920
+place_built: Salcombe
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.4204
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Neyland
+hull_form: long keel deep forefoot
+ssr: '139284'
+uk_part1: '726544'
+callsign: ''
+ownerships:
+- name: John Plumb
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7a45ed62-00a1-4721-8b1d-c7a3def481b6
+image_key: 3xW4Q8
+thumb: https://photos.smugmug.com/photos/i-74J9GS6/0/Th/i-74J9GS6-Th.jpg
+draft: 1.4204
 handicap_data:
   beam: 2.849914654962204
   main:
@@ -31,25 +50,7 @@ handicap_data:
   fore_triangle_base: 5.5992440868080955
   length_on_waterline: 7.720677883443062
   fore_triangle_height: 8.699097781029016
-home_country: 'null'
-home_port: Neyland
-hull_form: long keel deep forefoot
-id: 7a45ed62-00a1-4721-8b1d-c7a3def481b6
 length_on_deck: 7.998
-ssr: '139284'
-uk_part1: '726544'
-callsign: ''
-ownerships:
-- name: John Plumb
-  share: 64
-  start: 2012
-place_built: Salcombe
-updated_at: '2021-12-19T13:39:50.995357+00:00'
-website: ''
-year: 1995
-year_is_approximate: false
-image_key: 3xW4Q8
-construction_details: GRP
 beam: 2.8499
 design_class:
   name: Salcombe Trader

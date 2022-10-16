@@ -28,17 +28,42 @@ full_description: "<p>&#39;Minx&#39; is one of several GRP Morecambe Bay prawner
   \ boat built. The &#39;Sir William Priestley&#39; was retired from service in 1987\
   \ and taken to Lancaster Maritime Museum to await restoration.</p>\r\n\r\n<h4>Alasdair\
   \ Simpson, Arnside Sailing Club, September 2018</h4>\r\n</blockquote>"
-builder:
-  name: Eric Bergqvist
-  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+year: 1993
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+place_built: Fiddlers Ferry/Bristol
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.0668
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Brixham
+hull_form: long keel deep forefoot
+ssr: '70314'
+callsign: ''
+ownerships:
+- end: 2015
+  name: Rosie Tomlinson
+  share: 64
+  start: 1993
+- id: 553
+  share: 64
+  start: 2015
+  member: 4969
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a9392f44-a656-4cdd-9b49-2357850f71d3
+image_key: Kxt9PQ
+thumb: https://photos.smugmug.com/photos/i-QZT92Bc/0/Th/i-QZT92Bc-Th.jpg
+draft: 1.0668
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -53,31 +78,7 @@ handicap_data:
     type: fixed
   length_over_all: 8.382101926359423
   length_on_waterline: 7.162887100707144
-home_country: GBR
-home_port: Brixham
-hull_form: long keel deep forefoot
-id: a9392f44-a656-4cdd-9b49-2357850f71d3
 length_on_deck: 8.382
-spar_material: wood
-ssr: '70314'
-callsign: ''
-ownerships:
-- end: 2015
-  name: Rosie Tomlinson
-  share: 64
-  start: 1993
-- id: 553
-  share: 64
-  start: 2015
-  member: 4969
-  current: true
-place_built: Fiddlers Ferry/Bristol
-updated_at: '2022-02-26T21:42:33.438888+00:00'
-website: ''
-year: 1993
-year_is_approximate: false
-image_key: Kxt9PQ
-construction_details: GRP
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

@@ -5,28 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Moen
-  id: 5e609724-2127-40a7-95b5-0ab9e405f923
+year: 1980
+year_is_approximate: false
 designer:
   name: Colin Archer
   id: 7e919cb2-8404-432d-a57a-3b17cfd38e60
+builder:
+  name: Moen
+  id: 5e609724-2127-40a7-95b5-0ab9e405f923
+place_built: Risor, Norway
 construction_material: wood
 construction_method: unknown
-draft: 1.8989
+construction_details: Pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.5997317727383566
-  propellor:
-    type: fixed
-  length_over_all: 11.71360643745428
-  length_on_waterline: 9.601316752011703
 home_country: NLD
 home_port: Enkhuizen, Netherlands
 hull_form: long keel deep forefoot
-id: afb4625e-33c3-462c-b6c3-1fe5b9b66381
-length_on_deck: 10.7991
 sail_number: N2422
 uk_part1: 776ZB2003
 callsign: PE2933
@@ -41,15 +36,21 @@ ownerships:
   member: 5946
   current: true
   start: '?'
-place_built: Risor, Norway
-updated_at: '2021-12-19T13:39:45.782647+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1980
-year_is_approximate: false
+id: afb4625e-33c3-462c-b6c3-1fe5b9b66381
 previous_names:
 - Argo
 image_key: qBBhcn
-construction_details: Pine on oak
+thumb: https://photos.smugmug.com/photos/i-cSVHg4B/0/Th/i-cSVHg4B-Th.jpg
+draft: 1.8989
+handicap_data:
+  beam: 3.5997317727383566
+  propellor:
+    type: fixed
+  length_over_all: 11.71360643745428
+  length_on_waterline: 9.601316752011703
+length_on_deck: 10.7991
 beam: 3.5997
 for_sale_state:
   text: not_for_sale

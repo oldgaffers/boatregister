@@ -5,17 +5,32 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1981
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3048
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '535'
+ssr: '38544'
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c173b9bb-c6cc-41be-a630-f98237b3d5df
+previous_names:
+- Poppy
+draft: 0.3048
 handicap_data:
   beam: 2.0117044623262617
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 1.5240185320653499
   length_on_waterline: 5.4864667154352595
   fore_triangle_height: 3.9624481833699097
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: c173b9bb-c6cc-41be-a630-f98237b3d5df
 length_on_deck: 6.6294
-sail_number: '535'
-ssr: '38544'
-callsign: ''
-place_built: Totnes
-updated_at: '2021-03-27T22:50:25.058249+00:00'
-website: ''
-year: 1981
-year_is_approximate: false
-previous_names:
-- Poppy
-construction_details: GRP
 beam: 2.0117
 for_sale_state:
   text: not_for_sale

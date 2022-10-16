@@ -10,17 +10,44 @@ full_description: 'Charmina, designed by Albert Strange, has featured in three b
   by Keble Chatterton in the 1930s: ''Through Brittany in Charmina'', ''To the Mediterranean
   in Charmina'' and ''On the Rivera in Charmina''. She has had only seven owners in
   90 years.'
-builder:
-  name: Woods
-  id: 4dad4b68-a367-41df-a4db-81940c97bb0c
+year: 1923
+year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+builder:
+  name: Woods
+  id: 4dad4b68-a367-41df-a4db-81940c97bb0c
+place_built: Cantley
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Plank on frame
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Upnor on the Medway
+hull_form: long keel deep forefoot
+sail_number: OS1
+callsign: ''
+ownerships:
+- end: 2013
+  name: Richard Rouse
+  share: 64
+  start: 1983
+- id: 760
+  share: 64
+  start: 2013
+  member: 5769
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6c6fc02b-ec99-464b-aac7-a9185411e615
+previous_names:
+- Charmain
+image_key: qj4LNN
+thumb: https://photos.smugmug.com/photos/i-Kj7xL8p/0/Th/i-Kj7xL8p-Th.jpg
+draft: 1.3716
 handicap_data:
   beam: 2.3988051694708608
   main:
@@ -41,33 +68,7 @@ handicap_data:
   fore_triangle_base: 3.5997317727383566
   length_on_waterline: 7.101926359424531
   fore_triangle_height: 8.415630334064861
-home_country: GBR
-home_port: Upnor on the Medway
-hull_form: long keel deep forefoot
-id: 6c6fc02b-ec99-464b-aac7-a9185411e615
 length_on_deck: 8.5344
-sail_number: OS1
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2013
-  name: Richard Rouse
-  share: 64
-  start: 1983
-- id: 760
-  share: 64
-  start: 2013
-  member: 5769
-  current: true
-place_built: Cantley
-updated_at: '2022-02-13T12:56:13.906272+00:00'
-website: ''
-year: 1923
-year_is_approximate: false
-previous_names:
-- Charmain
-image_key: qj4LNN
-construction_details: Plank on frame
 beam: 2.3988
 for_sale_state:
   text: not_for_sale

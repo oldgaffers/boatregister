@@ -15,17 +15,40 @@ full_description: "<p>Marguerite was built in Malahide, North Dublin in 1896 by 
   \ OhUallachain; Dalkey.<br>1977-1984 Ronnie Kavanagh;<br>1984-1985 Johnny McCarthy;<br>1986-1993\
   \ Ken Hudson; Redcross, Co. Wickow.<br>1993-2018 Tim Magennis; Dun Laoghaire</p><p>2017\
   \ \u2013 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guy Kilroy;</p>"
-builder:
-  name: Jack Wellington
-  id: 54c5ea1b-5ad9-44fb-9f68-1bddb4c4e06a
+year: 1896
+year_is_approximate: false
 designer:
   name: Walter H. Boyd
   id: 1f2cf7e4-3f73-4334-8eda-a96e16587b46
+builder:
+  name: Jack Wellington
+  id: 54c5ea1b-5ad9-44fb-9f68-1bddb4c4e06a
+place_built: Malahyde Boat Yard
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: IRL
+home_port: Dun Laoghaire
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Timothy Magennis
+  share: 64
+  start: 1994
+- id: 34801
+  share: 64
+  member: 6438
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fab8d2b3-7b95-4d67-8c1c-c695d2d3c8ca
+image_key: wsvWQx
+thumb: https://photos.smugmug.com/photos/i-SgGTpc3/0/Th/i-SgGTpc3-Th.png
+draft: 1.0668
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -41,29 +64,7 @@ handicap_data:
   fore_triangle_base: 2.4902462813947817
   length_on_waterline: 5.18166300902219
   fore_triangle_height: 5.233479639112412
-home_country: IRL
-home_port: Dun Laoghaire
-hull_form: unknown
-id: fab8d2b3-7b95-4d67-8c1c-c695d2d3c8ca
 length_on_deck: 6.858
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Timothy Magennis
-  share: 64
-  start: 1994
-- id: 34801
-  share: 64
-  member: 6438
-  current: true
-  start: '?'
-place_built: Malahyde Boat Yard
-updated_at: '2021-12-19T13:39:21.297114+00:00'
-website: ''
-year: 1896
-year_is_approximate: false
-image_key: wsvWQx
-construction_details: Carvel
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

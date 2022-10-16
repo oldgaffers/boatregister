@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Shipwright
-  id: d65813b6-b548-4ac7-a01f-4b28db6f5a13
+year: 1927
+year_is_approximate: false
 designer:
   name: Shipwright
   id: 58a76519-1e54-4d4a-a5d2-22a7efd9a6fb
+builder:
+  name: Shipwright
+  id: d65813b6-b548-4ac7-a01f-4b28db6f5a13
 construction_material: wood
 construction_method: carvel
-draft: 1.3015
+construction_details: 'Carvel traditional '
 engine_installations: []
 for_sales: []
+home_country: NLD
+home_port: Niew en St Josland
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Nick van Raaij
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1805544e-1d03-43e7-b917-56a58ae5bb29
+previous_names:
+- Stormvogel
+image_key: MTQpG6
+thumb: https://photos.smugmug.com/photos/i-vvd8Bdk/0/Th/i-vvd8Bdk-Th.jpg
+draft: 1.3015
 handicap_data:
   beam: 1.9995123140697388
   main:
@@ -33,24 +51,7 @@ handicap_data:
   fore_triangle_base: 3.950256035113387
   length_on_waterline: 6.199707388441843
   fore_triangle_height: 7.001341136308217
-home_country: NLD
-home_port: Niew en St Josland
-hull_form: long keel deep forefoot
-id: 1805544e-1d03-43e7-b917-56a58ae5bb29
 length_on_deck: 7.0013
-callsign: ''
-ownerships:
-- name: Nick van Raaij
-  share: 64
-  start: 2012
-updated_at: '2021-12-19T13:39:52.950104+00:00'
-website: ''
-year: 1927
-year_is_approximate: false
-previous_names:
-- Stormvogel
-image_key: MTQpG6
-construction_details: 'Carvel traditional '
 beam: 1.9995
 for_sale_state:
   text: not_for_sale

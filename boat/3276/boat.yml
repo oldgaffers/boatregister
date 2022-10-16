@@ -9,17 +9,35 @@ full_description: "<p>&#39;Maia&#39; is a traditionally built St Ives Sailing Pu
   \ lug rig and no centreboard or dagger board. The design was developed by Jonny\
   \ Nance from lines of the punt of a St Ives lugger &#39;Silas&#39;. The lines were\
   \ taken off by Jonny&#39;s father in 1975.</p>"
-builder:
-  name: J.M. Nance
-  id: 7ef9b514-48cf-47c7-b809-811fb0761cd8
+year: 2015
+year_is_approximate: false
 designer:
   name: J.M. Nance
   id: 8c8aee60-6141-4589-94c6-1da0c28b69f0
+builder:
+  name: J.M. Nance
+  id: 7ef9b514-48cf-47c7-b809-811fb0761cd8
+place_built: Uffculm Devon
 construction_material: wood
 construction_method: clinker
-draft: 0.3048
+construction_details: Traditional clinker construction, oak ribs and keel, Douglas
+  fir plants and thwarts.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: St Ives
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 871
+  share: 64
+  start: 2015
+  member: 5977
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 33a846e4-b6bf-4774-ad1e-b1c5590cacac
+draft: 0.3048
 handicap_data:
   main:
     foot: 8.75
@@ -29,25 +47,7 @@ handicap_data:
   length_overall: 3.5052
   length_over_spars: 3.5052
   length_on_waterline: 3.3528
-home_country: GBR
-home_port: St Ives
-hull_form: unknown
-id: 33a846e4-b6bf-4774-ad1e-b1c5590cacac
 length_on_deck: 3.5052
-callsign: ''
-ownerships:
-- id: 871
-  share: 64
-  start: 2015
-  member: 5977
-  current: true
-place_built: Uffculm Devon
-updated_at: '2021-12-19T13:40:06.050595+00:00'
-website: ''
-year: 2015
-year_is_approximate: false
-construction_details: Traditional clinker construction, oak ribs and keel, Douglas
-  fir plants and thwarts.
 beam: 1.4234
 design_class:
   name: St Ives Sailing Punt

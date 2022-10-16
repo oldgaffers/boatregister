@@ -21,29 +21,27 @@ full_description: <p>Camay was a Normandy class, thought of as a &#39;stretched 
   and she ended up bing broken up as&nbsp; hulk, but parts&nbsp; of &#39;Camay&#39;
   will survive her - (mast, boom to be used by the Blyth Tall Ship Project on &#39;Puddleduck&#39;&nbsp;
   &amp; some sails &amp; covers to &#39;Wagtail&#39; ).&nbsp;&nbsp;</p>
-builder:
-  name: Punton and Campell
-  id: 8aabd4bc-1cdc-4e9e-9d1f-10206af9f873
+year: 1965
+year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+builder:
+  name: Punton and Campell
+  id: 8aabd4bc-1cdc-4e9e-9d1f-10206af9f873
+place_built: Blyth Northumberland
 construction_material: wood
+spar_material: wood
 construction_method: strip_planking
-draft: 1.2954
+construction_details: Strip planked larch on oak frames, oak keelson,stem and hog.
+  Cast iron ballast keel. Mast and spars silver spruce.
 engine_installations: []
 for_sales:
 - asking_price: 7999
-handicap_data:
-  length_overall: 9.0922
-  length_over_spars: 9.0922
-  length_on_waterline: 6.096
 home_country: GBR
 home_port: Amble
 hull_form: cut_away_stem
-id: 64698b8c-8e0f-485d-8f6b-9b6216ded912
-length_on_deck: 9.0922
 sail_number: 660Y
-spar_material: wood
 ssr: '156661'
 uk_part1: '306951'
 callsign: ''
@@ -51,14 +49,17 @@ ownerships:
 - name: Jim Bell
   share: 64
   start: 1999
-place_built: Blyth Northumberland
-updated_at: '2021-12-19T13:40:04.730857+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
+id: 64698b8c-8e0f-485d-8f6b-9b6216ded912
 image_key: GpFmgW
-construction_details: Strip planked larch on oak frames, oak keelson,stem and hog.
-  Cast iron ballast keel. Mast and spars silver spruce.
+thumb: https://photos.smugmug.com/photos/i-vDKWCMb/0/Th/i-vDKWCMb-Th.jpg
+draft: 1.2954
+handicap_data:
+  length_overall: 9.0922
+  length_over_spars: 9.0922
+  length_on_waterline: 6.096
+length_on_deck: 9.0922
 beam: 2.3866
 design_class:
   name: Normandy

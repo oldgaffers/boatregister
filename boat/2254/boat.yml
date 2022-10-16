@@ -6,37 +6,38 @@ mainsail_type: gaff
 short_description: ''
 full_description: <p>New owner. Currently laying at Fleetwood and relocating to Glasson
   soon</p>
-builder:
-  name: Thames Ironworks and Shipbuilding Co.
-  id: 632de67d-b846-4307-a62c-b10083392f98
+year: 1903
+year_is_approximate: false
 designer:
   name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
+builder:
+  name: Thames Ironworks and Shipbuilding Co.
+  id: 632de67d-b846-4307-a62c-b10083392f98
+place_built: London
 construction_material: wood
+spar_material: wood
 construction_method: double_diagonal
-draft: 0
+construction_details: "Built for the RNLI as O.N. 530, \u201COldham\u201D in double\
+  \ diagonal Honduras mahogany "
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  length_over_all: 11.277737137283589
 home_country: 'null'
 home_port: Barry
 hull_form: unknown
-id: 06ad91af-4149-43fb-b069-4178d24258cf
-length_on_deck: 11.2776
-spar_material: wood
 callsign: ''
-place_built: London
-updated_at: '2022-02-13T12:42:36.414159+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1903
-year_is_approximate: false
+id: 06ad91af-4149-43fb-b069-4178d24258cf
 previous_names:
 - Oldham
 image_key: 6g4HvM
-construction_details: "Built for the RNLI as O.N. 530, \u201COldham\u201D in double\
-  \ diagonal Honduras mahogany "
+thumb: https://photos.smugmug.com/photos/i-tnfq4WF/0/Th/i-tnfq4WF-Th.jpg
+draft: 0
+handicap_data:
+  beam: 3.0480370641306997
+  length_over_all: 11.277737137283589
+length_on_deck: 11.2776
 beam: 3.048
 for_sale_state:
   text: not_for_sale

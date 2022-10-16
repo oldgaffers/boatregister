@@ -4,39 +4,39 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1954
+year_is_approximate: false
 designer:
   name: Latimer
   id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: clinker
-draft: 1.2192
+construction_details: Clinker mahogany
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  draft: 1.21921482565228
-  length_over_all: 6.0960741282613995
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 74cca936-0672-4a65-a160-c165e1324c82
-length_on_deck: 6.096
 callsign: ''
 ownerships:
 - name: A E Smith
   share: 64
   start: 1986
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:06.196877+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1954
-year_is_approximate: false
+id: 74cca936-0672-4a65-a160-c165e1324c82
 previous_names:
 - Gay Venture
-construction_details: Clinker mahogany
+draft: 1.2192
+handicap_data:
+  beam: 2.286027798098025
+  draft: 1.21921482565228
+  length_over_all: 6.0960741282613995
+length_on_deck: 6.096
 beam: 2.286
 for_sale_state:
   text: not_for_sale

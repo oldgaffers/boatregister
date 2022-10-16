@@ -5,26 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 87/2
-builder:
-  name: W.H. Orvis and Co.
-  id: 79e7e17e-89dd-48de-9d34-d9ca4e6d285f
+year: 1912
+year_is_approximate: false
 designer:
   name: E.W. Orvis
   id: 99676a24-943f-4af5-9f67-e05a3238cb86
+builder:
+  name: W.H. Orvis and Co.
+  id: 79e7e17e-89dd-48de-9d34-d9ca4e6d285f
+place_built: Ipswich
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Pitch pine on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 1.066812972445745
-  length_over_all: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: d6208ed3-dc19-4ffd-9e0f-65369cc716ea
-length_on_deck: 7.9248
 reference:
 - Log 87/2
 callsign: ''
@@ -32,15 +29,18 @@ ownerships:
 - name: M B Garnham
   share: 64
   start: 2012
-place_built: Ipswich
-updated_at: '2021-12-19T13:39:27.109144+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1912
-year_is_approximate: false
+id: d6208ed3-dc19-4ffd-9e0f-65369cc716ea
 previous_names:
 - Sheldrake
 - Sunbeam
-construction_details: Pitch pine on Oak
+draft: 1.0668
+handicap_data:
+  beam: 2.43842965130456
+  draft: 1.066812972445745
+  length_over_all: 7.924896366739819
+length_on_deck: 7.9248
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

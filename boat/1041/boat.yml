@@ -5,17 +5,31 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Petersen
-  id: 19e0f715-cac7-4a4e-9b65-5312e05b52b5
+year: 1927
+year_is_approximate: false
 designer:
   name: Petersen
   id: 7db69f0b-e684-4b01-9019-5a445fb26244
+builder:
+  name: Petersen
+  id: 19e0f715-cac7-4a4e-9b65-5312e05b52b5
+place_built: St Peter Port
 construction_material: wood
 construction_method: unknown
-draft: 0.823
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: D Fury
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9e009ab1-486f-462d-8bd8-939cba9557b5
+draft: 0.823
 handicap_data:
   beam: 1.9202633504023408
   main:
@@ -29,21 +43,7 @@ handicap_data:
     luff: 0.9144111192392099
   length_over_all: 4.968300414533041
   length_on_waterline: 4.57205559619605
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 9e009ab1-486f-462d-8bd8-939cba9557b5
 length_on_deck: 4.9682
-callsign: ''
-ownerships:
-- name: D Fury
-  share: 64
-  start: 2012
-place_built: St Peter Port
-updated_at: '2021-12-19T13:38:59.665184+00:00'
-website: ''
-year: 1927
-year_is_approximate: false
 beam: 1.9202
 for_sale_state:
   text: not_for_sale

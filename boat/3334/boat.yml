@@ -9,33 +9,22 @@ full_description: <p>The Broads One Design was created for the Royal Norfolk and
   sea off Lowestoft. 31 wooden boats were originally built of which 27 still exist.
   Since the 1980s they have been built in GRP and there are now a total of 88 of which
   Eider is number 78</p>
-builder:
-  name: Kingsley Farrington
-  id: 6a3e9e9c-1eea-419a-9417-47a678d6bf11
+year: 2004
+year_is_approximate: false
 designer:
   name: Hope Linton
   id: f238ed22-175a-4b8c-9337-dc58c6619754
+builder:
+  name: Kingsley Farrington
+  id: 6a3e9e9c-1eea-419a-9417-47a678d6bf11
+place_built: Norwich
 construction_material: grp
 construction_method: unknown
-draft: 0.9144
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 17
-    head: 10.92
-    luff: 11.83
-  length_overall: 7.3152
-  calculated_thcf: 0.923
-  length_over_spars: 7.3152
-  fore_triangle_base: 2.1336
-  length_on_waterline: 4.8768
-  fore_triangle_height: 5.4346
 home_country: GBR
 home_port: ''
 hull_form: cut_away_stem
-id: 70cbe1f9-6597-455e-b8a6-00921cd3878b
-length_on_deck: 7.3152
 sail_number: '78'
 callsign: ''
 ownerships:
@@ -48,12 +37,24 @@ ownerships:
   start: 2016
   member: 4754
   current: true
-place_built: Norwich
-updated_at: '2021-12-19T13:40:07.891115+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2004
-year_is_approximate: false
+id: 70cbe1f9-6597-455e-b8a6-00921cd3878b
 image_key: 524FGh
+thumb: https://photos.smugmug.com/photos/i-8QLKxKG/0/Th/i-8QLKxKG-Th.jpg
+draft: 0.9144
+handicap_data:
+  main:
+    foot: 17
+    head: 10.92
+    luff: 11.83
+  length_overall: 7.3152
+  calculated_thcf: 0.923
+  length_over_spars: 7.3152
+  fore_triangle_base: 2.1336
+  length_on_waterline: 4.8768
+  fore_triangle_height: 5.4346
+length_on_deck: 7.3152
 beam: 1.524
 design_class:
   name: Broads One Design

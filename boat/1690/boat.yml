@@ -5,36 +5,36 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1969
+year_is_approximate: false
 designer:
   name: Syd Latimer
   id: 1fe5b287-4134-4eb0-ba64-4cb075b2e170
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.529870763228481
-  length_over_all: 7.010485247500609
-  length_on_waterline: 6.705681541087539
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: c02b95bf-56bf-4ffe-9585-5450b45e4f3f
-length_on_deck: 7.0104
 callsign: ''
 ownerships:
 - name: M D Tuck
   share: 64
   start: 2012
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:17.928892+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1969
-year_is_approximate: false
+id: c02b95bf-56bf-4ffe-9585-5450b45e4f3f
+draft: 0
+handicap_data:
+  beam: 2.529870763228481
+  length_over_all: 7.010485247500609
+  length_on_waterline: 6.705681541087539
+length_on_deck: 7.0104
 beam: 2.5298
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,33 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: VHF call WBV 3595
-builder:
-  name: C.A.T. La Montagne
-  id: 3dd647a8-ab24-46e7-83f5-30c4f1d730f7
+year: 1992
+year_is_approximate: false
 designer:
   name: Robert Tucker
   id: 5a9ff358-5fd8-431c-9e4e-d716fa3ac84b
+builder:
+  name: C.A.T. La Montagne
+  id: 3dd647a8-ab24-46e7-83f5-30c4f1d730f7
+place_built: Cormeilles France
 construction_material: wood
 construction_method: unknown
-draft: 0.8626
+construction_details: Marine Ply Single Chine
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: St Valery-sur-Somme
+hull_form: long keel deep forefoot
+ssr: '2674'
+callsign: ''
+ownerships:
+- name: I Furstenburg
+  share: 64
+  start: 1992
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3d47a00f-5c4b-4c4b-9e76-71438c8f5de4
+draft: 0.8626
 handicap_data:
   beam: 2.426237503048037
   main:
@@ -33,23 +49,7 @@ handicap_data:
   fore_triangle_base: 3.5570592538405266
   length_on_waterline: 6.150938795415752
   fore_triangle_height: 6.044257498171177
-home_country: 'null'
-home_port: St Valery-sur-Somme
-hull_form: long keel deep forefoot
-id: 3d47a00f-5c4b-4c4b-9e76-71438c8f5de4
 length_on_deck: 7.4432
-ssr: '2674'
-callsign: ''
-ownerships:
-- name: I Furstenburg
-  share: 64
-  start: 1992
-place_built: Cormeilles France
-updated_at: '2021-12-19T13:39:22.784141+00:00'
-website: ''
-year: 1992
-year_is_approximate: false
-construction_details: Marine Ply Single Chine
 beam: 2.4262
 for_sale_state:
   text: not_for_sale

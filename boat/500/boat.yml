@@ -17,30 +17,23 @@ full_description: '<p>Mari was built in Littlehampton 1924, &nbsp;and remained b
   owners bought her in late 2020.</p>
 
   <p>She is currently undergoing a comprehensive restoration.</p>'
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1924
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.3106
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 1.3106559375762008
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
-  length_on_waterline: 8.138258961228967
 home_country: GBR
 home_port: Blyth Northumberland
 hull_form: long keel deep forefoot
-id: 05eff311-b2e6-4361-b642-ce2e541c104f
-length_on_deck: 8.5344
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1933
@@ -117,12 +110,20 @@ ownerships:
   start: 2020
   member: 5958
   current: true
-place_built: Littlehampton
-updated_at: '2022-02-20T21:37:20.758221+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1924
-year_is_approximate: false
+id: 05eff311-b2e6-4361-b642-ce2e541c104f
 image_key: zXtjsS
+thumb: https://photos.smugmug.com/photos/i-Rm6V6pv/0/Th/i-Rm6V6pv-Th.jpg
+draft: 1.3106
+handicap_data:
+  beam: 2.43842965130456
+  draft: 1.3106559375762008
+  propellor:
+    type: fixed
+  length_over_all: 8.53450377956596
+  length_on_waterline: 8.138258961228967
+length_on_deck: 8.5344
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

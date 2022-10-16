@@ -146,39 +146,20 @@ full_description: '<h4>Summary of facts known about ''Victoria'' and sources<br 
   for transport on her lorry and rigging her afterwards.<br /><br />2011: Victoria&rsquo;s
   boom was broken in a collision. The new one retains fittings from the original (if
   original it was).</p><h4>Sue Lewis 15th May 2017</h4>'
+year: 1897
+year_is_approximate: false
 builder:
   name: Aldous Ltd.
   id: 78bc9e97-d57d-481e-b855-b10261a92e4d
+place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
-draft: 0.8138
+construction_details: Initially clinker then "carvelled over" in early 20th century
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.400029188002926
-  main:
-    foot: 4.130050227688368
-    head: 2.960035998536942
-    luff: 3.9000474305047543
-  thcf: 0.874
-  draft: 0.9000109455010973
-  topsail:
-    luff: 3.8300465791880027
-    perpendicular: 2.060025053035845
-  sailarea: 31.830160448720573
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 6.500079050841258
-  length_over_spars: 8.50010337417703
-  fore_triangle_base: 4.200051079005121
-  length_on_waterline: 6.30007661850768
-  fore_triangle_height: 6.40007783467447
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
-id: a6983184-b98f-4463-9106-e0e5037e1a39
-length_on_deck: 6.5014
 ssr: SSR165417
 callsign: ''
 ownerships:
@@ -200,13 +181,33 @@ ownerships:
 - name: Tony Winter
   share: 64
   start: 2017
-place_built: Brightlingsea
-updated_at: '2021-12-19T13:39:03.923643+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://victoria1897.blogspot.co.uk/
-year: 1897
-year_is_approximate: false
+id: a6983184-b98f-4463-9106-e0e5037e1a39
 image_key: T7JxxW
-construction_details: Initially clinker then "carvelled over" in early 20th century
+thumb: https://photos.smugmug.com/photos/i-Fsn2VzX/0/Th/i-Fsn2VzX-Th.jpg
+draft: 0.8138
+handicap_data:
+  beam: 2.400029188002926
+  main:
+    foot: 4.130050227688368
+    head: 2.960035998536942
+    luff: 3.9000474305047543
+  thcf: 0.874
+  draft: 0.9000109455010973
+  topsail:
+    luff: 3.8300465791880027
+    perpendicular: 2.060025053035845
+  sailarea: 31.830160448720573
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 6.500079050841258
+  length_over_spars: 8.50010337417703
+  fore_triangle_base: 4.200051079005121
+  length_on_waterline: 6.30007661850768
+  fore_triangle_height: 6.40007783467447
+length_on_deck: 6.5014
 beam: 2.3866
 for_sale_state:
   text: not_for_sale

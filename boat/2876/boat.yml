@@ -5,17 +5,30 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: De Jong/Van Roon
-  id: ca224058-ba89-46e2-81cc-14cd668872e0
+year: 2000
+year_is_approximate: false
 designer:
   name: Joachem van Roon
   id: 87a4381f-816a-4a79-b72b-059f5c84e3b4
+builder:
+  name: De Jong/Van Roon
+  id: ca224058-ba89-46e2-81cc-14cd668872e0
 construction_material: wood
 construction_method: unknown
-draft: 1.3503
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Durgerdam
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Jochem van Roon
+  share: 64
+  start: 2000
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a6f082fc-9977-40b4-93db-aca006fb1f16
+draft: 1.3503
 handicap_data:
   beam: 2.1488661302121432
   main:
@@ -33,20 +46,7 @@ handicap_data:
   fore_triangle_base: 5.120702267739576
   length_on_waterline: 6.589856132650573
   fore_triangle_height: 6.888563764935382
-home_country: 'null'
-home_port: Durgerdam
-hull_form: long keel deep forefoot
-id: a6f082fc-9977-40b4-93db-aca006fb1f16
 length_on_deck: 8.001
-callsign: ''
-ownerships:
-- name: Jochem van Roon
-  share: 64
-  start: 2000
-updated_at: '2021-12-19T13:39:52.037372+00:00'
-website: ''
-year: 2000
-year_is_approximate: false
 beam: 2.1488
 for_sale_state:
   text: not_for_sale

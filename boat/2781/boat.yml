@@ -5,25 +5,23 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Roger Wilkinson
-  id: 13013b12-8617-439c-bc35-ba8f2259031e
+year: 1995
+year_is_approximate: false
 designer:
   name: Roger Wilkinson
   id: 7b55967c-c09b-4375-8aab-2aa606d145cd
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+place_built: Macclesfield
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.5240185320653499
-  length_over_all: 4.26725188978298
 home_country: GBR
 home_port: Chichester
 hull_form: unknown
-id: 827c79d4-61bf-43e5-94b1-81b5a02383cc
-length_on_deck: 4.2672
 ssr: '112039'
 callsign: ''
 ownerships:
@@ -32,12 +30,14 @@ ownerships:
   start: 1995
   member: 4796
   current: true
-place_built: Macclesfield
-updated_at: '2021-12-19T13:39:49.239892+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1995
-year_is_approximate: false
-construction_details: GRP
+id: 827c79d4-61bf-43e5-94b1-81b5a02383cc
+draft: 0
+handicap_data:
+  beam: 1.5240185320653499
+  length_over_all: 4.26725188978298
+length_on_deck: 4.2672
 beam: 1.524
 for_sale_state:
   text: not_for_sale

@@ -99,28 +99,25 @@ full_description: "<p><em>Severn</em> was built in Arnside in Cumbria in 1912 by
   \ Times' article about the best places to live in March 2021</p>\n<p>A Friends Group\
   \ has been set up to maintain, fund and sail her.<br>\n <a href=\"mailto:crossfieldyachtsevern@gmail.com?subject=Yacht%20Severn%20listed%20on%20the%20OGA%20website\"\
   >Contact the Friends by email</a> if you wish to join or support the group.</p>"
-builder:
-  name: Wiliam Crossfield and Sons
-  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+year: 1912
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+place_built: Arnside
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel built with counter stern. Pitch pine planks and steamed
+  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 1.21921482565228
-  length_over_all: 7.162887100707144
-  length_on_waterline: 5.6388685686417945
 home_country: GBR
 home_port: Arnside
 hull_form: long keel deep forefoot
-id: a0706dca-6291-4aff-beb0-0d251771316e
-length_on_deck: 7.0104
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1972
@@ -161,11 +158,9 @@ ownerships:
   start: 2018
   member: 6232
   current: true
-place_built: Arnside
 updated_at: '2022-04-04T19:25:08.364755+00:00'
 website: https://www.facebook.com/crossfieldyachtsevern
-year: 1912
-year_is_approximate: false
+id: a0706dca-6291-4aff-beb0-0d251771316e
 previous_names:
 - Elwy
 - Ribble
@@ -173,8 +168,14 @@ previous_names:
 - Rosevern
 nsbr: '3176'
 image_key: 57NNsz
-construction_details: Carvel built with counter stern. Pitch pine planks and steamed
-  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
+thumb: https://photos.smugmug.com/photos/i-hZbBnpg/0/Th/i-hZbBnpg-Th.jpg
+draft: 0.9144
+handicap_data:
+  beam: 2.13362594489149
+  draft: 1.21921482565228
+  length_over_all: 7.162887100707144
+  length_on_waterline: 5.6388685686417945
+length_on_deck: 7.0104
 beam: 2.1336
 design_class:
   name: Rivers Class

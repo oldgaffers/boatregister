@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 83/1, 91/1
-builder:
-  name: J.A. Servain
-  id: 9095929d-e20f-4b8b-a1e3-f3f450e33b65
+year: 1977
+year_is_approximate: false
 designer:
   name: Roger Servain
   id: f996b433-6bc2-4c07-b4e7-da26ac2c690f
+builder:
+  name: J.A. Servain
+  id: 9095929d-e20f-4b8b-a1e3-f3f450e33b65
+place_built: Granville
 construction_material: wood
 construction_method: unknown
-draft: 2.0726
+construction_details: Oak hull with iroko deck and superstructure
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 83/1
+- Log 91/1
+callsign: ''
+ownerships:
+- name: D de Recy
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 360f4581-fe12-4540-85a1-57417b495aa4
+draft: 2.0726
 handicap_data:
   beam: 3.9624481833699097
   main:
@@ -28,25 +46,7 @@ handicap_data:
   fore_triangle_base: 9.1441111923921
   length_on_waterline: 11.277737137283589
   fore_triangle_height: 13.655206047305533
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 360f4581-fe12-4540-85a1-57417b495aa4
 length_on_deck: 13.2588
-reference:
-- Log 83/1
-- Log 91/1
-callsign: ''
-ownerships:
-- name: D de Recy
-  share: 64
-  start: 2012
-place_built: Granville
-updated_at: '2021-12-19T13:39:06.484379+00:00'
-website: ''
-year: 1977
-year_is_approximate: false
-construction_details: Oak hull with iroko deck and superstructure
 beam: 3.9624
 for_sale_state:
   text: not_for_sale

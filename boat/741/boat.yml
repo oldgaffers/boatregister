@@ -5,27 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Ferrocement Services
-  id: bdb242d0-d59c-4439-8216-f92469012004
+year: 1976
+year_is_approximate: false
 designer:
   name: Alan F. Hill
   id: 6541e39a-cf4e-4abf-9c13-0e8750af27d7
+builder:
+  name: Ferrocement Services
+  id: bdb242d0-d59c-4439-8216-f92469012004
+place_built: Burnham on Crouch
 construction_material: ferro
 construction_method: unknown
-draft: 1.3716
+construction_details: Ferrocement
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.6576444769568397
-  draft: 1.3716166788588149
-  length_over_all: 10.05852231163131
-  length_on_waterline: 9.906120458424773
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
-id: d6e6012b-7d84-475d-a8b8-a0947b1ca525
-length_on_deck: 10.0584
 callsign: ''
 ownerships:
 - end: 2016
@@ -39,15 +35,20 @@ ownerships:
   member: 6094
   current: true
   start: '?'
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:38:51.078893+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1976
-year_is_approximate: false
+id: d6e6012b-7d84-475d-a8b8-a0947b1ca525
 previous_names:
 - My Pet
 image_key: 5LLRfT
-construction_details: Ferrocement
+thumb: https://photos.smugmug.com/photos/i-bJVbXk9/0/Th/i-bJVbXk9-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 3.6576444769568397
+  draft: 1.3716166788588149
+  length_over_all: 10.05852231163131
+  length_on_waterline: 9.906120458424773
+length_on_deck: 10.0584
 beam: 3.6576
 design_class:
   name: Thames Estuary OD

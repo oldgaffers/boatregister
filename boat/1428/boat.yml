@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1976
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: wood
 construction_method: unknown
-draft: 0.7376
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: M & J Adda
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 28669179-db23-425f-9db4-7ffc1cc0d172
+draft: 0.7376
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,21 +47,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
   fore_triangle_height: 5.6388685686417945
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 28669179-db23-425f-9db4-7ffc1cc0d172
 length_on_deck: 7.3152
-callsign: ''
-ownerships:
-- name: M & J Adda
-  share: 64
-  start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:39:11.031628+00:00'
-website: ''
-year: 1976
-year_is_approximate: false
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 1

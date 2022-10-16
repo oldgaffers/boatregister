@@ -9,17 +9,42 @@ full_description: Given to Roger Hayles 2012. She had not been used for 6 years 
   the centreboard case. Roger rebuilt her in a year, scarphing in new plank ends,
   fitting fashion pieces to rebuild the stem, putting in a new hog and rebuilding
   the centreboard case as well as the tabernackle.
-builder:
-  name: Covic Craft
-  id: db6a3862-c68b-4e91-ba87-5e14e2378a21
+year: 1962
+year_is_approximate: false
 designer:
   name: Lew Walker
   id: eb88b861-9e90-4673-9cbc-1227c2df737f
+builder:
+  name: Covic Craft
+  id: db6a3862-c68b-4e91-ba87-5e14e2378a21
+place_built: Leith on Sea
 construction_material: wood
+spar_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clinker mahogany on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: centre-boarder
+sail_number: TW 022
+callsign: ''
+ownerships:
+- end: 2012
+  name: Christopher Chrystal
+  share: 64
+  start: 1982
+- id: 68
+  share: 64
+  start: 2012
+  member: 1491
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a7ac11df-b3b6-49d7-baf9-7596ca77863b
+previous_names:
+- Pride
+draft: 0
 handicap_data:
   beam: 1.4732382345769324
   main:
@@ -34,32 +59,7 @@ handicap_data:
   fore_triangle_base: 1.2954218483296758
   length_on_waterline: 3.6068641794684217
   fore_triangle_height: 3.200451109485491
-home_country: 'null'
-home_port: ''
-hull_form: centre-boarder
-id: a7ac11df-b3b6-49d7-baf9-7596ca77863b
 length_on_deck: 3.6576
-sail_number: TW 022
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2012
-  name: Christopher Chrystal
-  share: 64
-  start: 1982
-- id: 68
-  share: 64
-  start: 2012
-  member: 1491
-  current: true
-place_built: Leith on Sea
-updated_at: '2021-12-19T13:39:58.176626+00:00'
-website: ''
-year: 1962
-year_is_approximate: false
-previous_names:
-- Pride
-construction_details: Clinker mahogany on oak
 beam: 1.4722
 design_class:
   name: Tideway 12

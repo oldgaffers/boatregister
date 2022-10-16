@@ -5,17 +5,29 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: CB Jun 91
-builder:
-  name: Hollway
-  id: e027a78e-6313-40d4-912c-e13a5637baa0
+year: 1914
+year_is_approximate: false
 designer:
   name: Walter H. Boyd
   id: 1f2cf7e4-3f73-4334-8eda-a96e16587b46
+builder:
+  name: Hollway
+  id: e027a78e-6313-40d4-912c-e13a5637baa0
+place_built: Dublin
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '8'
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9b629bcc-7ecc-4975-a61d-2654983bcb47
+draft: 1.0668
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -31,19 +43,7 @@ handicap_data:
   fore_triangle_base: 2.4902462813947817
   length_on_waterline: 5.18166300902219
   fore_triangle_height: 5.233479639112412
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 9b629bcc-7ecc-4975-a61d-2654983bcb47
 length_on_deck: 6.858
-sail_number: '8'
-callsign: ''
-place_built: Dublin
-updated_at: '2021-03-23T08:38:13.181598+00:00'
-website: ''
-year: 1914
-year_is_approximate: false
-construction_details: Carvel
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

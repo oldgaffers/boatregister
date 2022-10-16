@@ -5,14 +5,29 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1898
+year_is_approximate: false
 builder:
   name: Teignmouth Ship and Yacht Co.
   id: 07790682-8e41-4213-ae8e-b6ac024f4cb2
+place_built: Teignmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: 'Carvel '
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Fleur Oswald
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 77e51ab0-7e95-4530-a856-321e4ce6fa45
+draft: 1.3716
 handicap_data:
   beam: 2.3378444281882467
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 4.471470373079736
   length_on_waterline: 7.162887100707144
   fore_triangle_height: 7.620092660326749
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 77e51ab0-7e95-4530-a856-321e4ce6fa45
 length_on_deck: 8.4582
-callsign: ''
-ownerships:
-- name: Fleur Oswald
-  share: 64
-  start: 2012
-place_built: Teignmouth
-updated_at: '2021-12-19T13:38:43.337393+00:00'
-website: ''
-year: 1898
-year_is_approximate: false
-construction_details: 'Carvel '
 beam: 2.3378
 for_sale_state:
   text: not_for_sale

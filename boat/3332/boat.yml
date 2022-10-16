@@ -7,41 +7,42 @@ short_description: <p>Lily Lodestone was designed by Percy Dalton on the lines o
   the Falmouth Oyster Dredger.</p>
 full_description: <p>&#39;Lily Lodestone&#39; was designed by Percy Dalton on the
   lines of the Falmouth Oyster Dredger. Hull and deck are ferrocement.</p>
-builder:
-  name: M. Whittingham
-  id: 192f1693-fc56-4824-8b1a-4753d50d7eb0
+year: 1997
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: M. Whittingham
+  id: 192f1693-fc56-4824-8b1a-4753d50d7eb0
+place_built: Dartmouth
 construction_material: ferro
 construction_method: unknown
-draft: 0.9144
+construction_details: Hull and deck is ferrocement, coachroof, cockpit coaming and
+  rubbing strake are wood.
 engine_installations: []
 for_sales:
 - asking_price: 2000
-handicap_data:
-  length_overall: 7.3152
-  length_over_spars: 9.144
-  length_on_waterline: 7.3152
 home_country: GBR
 home_port: River Dart
 hull_form: long keel deep forefoot
-id: 48cf5671-97a7-4e2c-ab32-2458d5600e48
-length_on_deck: 7.3152
 callsign: ''
 ownerships:
 - end: 2017
   name: John Smith
   share: 64
   start: 1997
-place_built: Dartmouth
-updated_at: '2021-12-19T13:40:07.817376+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1997
-year_is_approximate: false
+id: 48cf5671-97a7-4e2c-ab32-2458d5600e48
 image_key: R63nfN
-construction_details: Hull and deck is ferrocement, coachroof, cockpit coaming and
-  rubbing strake are wood.
+thumb: https://photos.smugmug.com/photos/i-jLq48Kr/0/Th/i-jLq48Kr-Th.jpg
+draft: 0.9144
+handicap_data:
+  length_overall: 7.3152
+  length_over_spars: 9.144
+  length_on_waterline: 7.3152
+length_on_deck: 7.3152
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

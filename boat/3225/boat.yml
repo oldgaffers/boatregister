@@ -6,29 +6,23 @@ mainsail_type: gunter
 short_description: <p>Windhover is an original wooden Drascombe Lugger.</p>
 full_description: <p>Windhover is an original wooden Drascombe Lugger, the 3rd built
   by John Elliott under his own name after building 65 at Kelly and Hall.</p>
-builder:
-  name: John Elliot
-  id: fd92000c-a4ab-4f4f-89b9-b6c1b168ac13
+year: 1968
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: John Elliot
+  id: fd92000c-a4ab-4f4f-89b9-b6c1b168ac13
+place_built: Yealmbridge Devon
 construction_material: plywood
 construction_method: clinker
-draft: 0.3048
+construction_details: Lapstrake ply
 engine_installations: []
 for_sales: []
-handicap_data:
-  moving_keel: true
-  draft_keel_up: 0.3048
-  length_overall: 5.715
-  moving_keel_type: Centreboard
-  length_over_spars: 5.715
-  length_on_waterline: 5.0292
 home_country: GBR
 home_port: London
 hull_form: long keel deep forefoot
-id: bacae85c-9952-4229-a094-6974f72ce8b6
-length_on_deck: 5.715
 sail_number: '68'
 callsign: ''
 ownerships:
@@ -39,13 +33,20 @@ ownerships:
   member: 4841
   current: true
   start: '?'
-place_built: Yealmbridge Devon
-updated_at: '2021-12-19T13:40:04.635624+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1968
-year_is_approximate: false
+id: bacae85c-9952-4229-a094-6974f72ce8b6
 image_key: XTwhH7
-construction_details: Lapstrake ply
+thumb: https://photos.smugmug.com/photos/i-QLQD7bj/0/Th/i-QLQD7bj-Th.jpg
+draft: 0.3048
+handicap_data:
+  moving_keel: true
+  draft_keel_up: 0.3048
+  length_overall: 5.715
+  moving_keel_type: Centreboard
+  length_over_spars: 5.715
+  length_on_waterline: 5.0292
+length_on_deck: 5.715
 beam: 1.9294
 design_class:
   name: Drascombe Lugger

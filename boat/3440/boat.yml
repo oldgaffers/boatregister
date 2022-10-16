@@ -18,27 +18,25 @@ full_description: "<p><em>Dagmar</em>&nbsp;&nbsp;was built by James A Silver Ltd
   \ of Petersfield, who spent the next ten years renovating her, including fitting\
   \ a new Yanmar engine.</p>\r\n\r\n<p>She came first in class in the Round the Island\
   \ Race in 2017, before being sold&nbsp; in 2019.</p>"
-builder:
-  name: James A. Silver
-  id: 8737e788-ba48-483e-9da9-971d1700fa27
+year: 1935
+year_is_approximate: false
 designer:
   name: John Bain
   id: e831b83b-6131-426d-8f8d-1a58dd2a1703
+builder:
+  name: James A. Silver
+  id: 8737e788-ba48-483e-9da9-971d1700fa27
+place_built: Rosneath
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 6.858
-  length_on_waterline: 5.334
 home_country: GBR
 home_port: Chichester
 hull_form: long keel sloping forefoot
-id: 46b92ea5-ced8-4a4b-8314-0927c4f4574e
-length_on_deck: 6.858
 sail_number: GBR4573L
-spar_material: wood
 callsign: MFMA7
 ownerships:
 - end: 1940
@@ -61,13 +59,16 @@ ownerships:
   share: 64
   start: 2019
   member: 6369
-place_built: Rosneath
-updated_at: '2022-02-12T19:17:34.737786+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1935
-year_is_approximate: false
+id: 46b92ea5-ced8-4a4b-8314-0927c4f4574e
 image_key: PCTQ7M
-construction_details: Carvel
+thumb: https://photos.smugmug.com/photos/i-kMLWjs6/0/Th/i-kMLWjs6-Th.jpg
+draft: 1.2192
+handicap_data:
+  length_overall: 6.858
+  length_on_waterline: 5.334
+length_on_deck: 6.858
 beam: 2.4079
 for_sale_state:
   text: not_for_sale

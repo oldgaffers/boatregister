@@ -6,17 +6,34 @@ mainsail_type: lug
 short_description: ''
 full_description: <p><em>Falcon</em> was put into the safe hands of a boat builder
   in Dorset in 2022.</p>
-builder:
-  name: Anderson Rigden and Perkins
-  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+year: 1948
+year_is_approximate: false
 designer:
   name: Herbert Reiach
   id: cd8a07cc-d960-4ed9-8553-1153b7fca2d1
+builder:
+  name: Anderson Rigden and Perkins
+  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+place_built: Whitstable
 construction_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clinker
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Trailer sail
+hull_form: dinghy
+callsign: ''
+ownerships:
+- id: 358
+  end: '2022'
+  share: 64
+  start: 2012
+  member: 3976
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fee05c1d-28e4-49db-86bb-a1122899a98d
+draft: 0
 handicap_data:
   beam: 1.3960009753718605
   main:
@@ -26,24 +43,7 @@ handicap_data:
   thcf: 0.725897116
   length_over_all: 3.0480370641306997
   length_on_waterline: 2.996220434040478
-home_country: 'null'
-home_port: Trailer sail
-hull_form: dinghy
-id: fee05c1d-28e4-49db-86bb-a1122899a98d
 length_on_deck: 3.048
-callsign: ''
-ownerships:
-- id: 358
-  end: '2022'
-  share: 64
-  start: 2012
-  member: 3976
-place_built: Whitstable
-updated_at: '2022-03-02T14:18:21.670758+00:00'
-website: ''
-year: 1948
-year_is_approximate: false
-construction_details: Clinker
 beam: 1.396
 for_sale_state:
   text: not_for_sale

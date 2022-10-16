@@ -5,36 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Designer and builder not confirmed</p>
 full_description: For sale in Log, Dec '07 and June '08
-builder:
-  name: Daniel G. Hatcher
-  id: e5fdda85-1a85-4e28-a871-89b055d3d22f
+year: 1900
+year_is_approximate: false
 designer:
   name: Daniel G. Hatcher
   id: 14683616-0fe8-4912-8de4-12c0337b20e6
+builder:
+  name: Daniel G. Hatcher
+  id: e5fdda85-1a85-4e28-a871-89b055d3d22f
+place_built: Southampton
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Larch on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  length_over_all: 6.5532796878810045
 home_country: 'null'
 home_port: Southampton
 hull_form: unknown
-id: f546b38d-b818-4043-9cdb-76e8afa09cf5
-length_on_deck: 6.5532
 callsign: ''
 ownerships:
 - name: Christopher Rudd
   share: 64
   start: 2012
-place_built: Southampton
-updated_at: '2021-12-19T13:39:51.05886+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1900
-year_is_approximate: false
-construction_details: Larch on Oak
+id: f546b38d-b818-4043-9cdb-76e8afa09cf5
+draft: 0
+handicap_data:
+  beam: 2.43842965130456
+  length_over_all: 6.5532796878810045
+length_on_deck: 6.5532
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

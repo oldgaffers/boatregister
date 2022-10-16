@@ -5,26 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Crossfields
-  id: d05aaa8e-4983-451f-a0e8-1727b279e84a
+year: 1926
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Crossfields
+  id: d05aaa8e-4983-451f-a0e8-1727b279e84a
+place_built: Arnside
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
+construction_details: Pitch pine on sawn oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.3716166788588149
-  length_over_all: 9.75371860521824
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: ede941d2-f70a-4b5b-a47a-fe4a77d6bb90
-length_on_deck: 9.7536
 callsign: ''
 ownerships:
 - name: Albert de Graf
@@ -34,16 +31,20 @@ ownerships:
   text: Sold and moved to Northern Ireland in
   start: 2006
   start_is_approximate: false
-place_built: Arnside
-updated_at: '2021-12-19T13:38:34.735899+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1926
-year_is_approximate: false
+id: ede941d2-f70a-4b5b-a47a-fe4a77d6bb90
 previous_names:
 - White Heather
 - Prawner
 image_key: Zkkmw2
-construction_details: Pitch pine on sawn oak
+thumb: https://photos.smugmug.com/photos/i-LHqQ69j/0/Th/i-LHqQ69j-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.8956352109241648
+  draft: 1.3716166788588149
+  length_over_all: 9.75371860521824
+length_on_deck: 9.7536
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

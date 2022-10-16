@@ -5,38 +5,38 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1970
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3048
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.2098268714947573
-  draft: 0.30480370641307
-  length_over_all: 6.6294806144842715
-  length_on_waterline: 5.587051938551572
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 8988ac2d-c3ed-4df3-a30a-2adcf42fe4e8
-length_on_deck: 6.6294
 callsign: ''
 ownerships:
 - name: R H J Hopwood
   share: 64
   start: 1981
-place_built: Totnes
-updated_at: '2021-12-19T13:39:09.38913+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1970
-year_is_approximate: false
-construction_details: GRP
+id: 8988ac2d-c3ed-4df3-a30a-2adcf42fe4e8
+draft: 0.3048
+handicap_data:
+  beam: 2.2098268714947573
+  draft: 0.30480370641307
+  length_over_all: 6.6294806144842715
+  length_on_waterline: 5.587051938551572
+length_on_deck: 6.6294
 beam: 2.2098
 air_draft: 0
 design_class:

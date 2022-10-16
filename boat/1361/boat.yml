@@ -6,17 +6,38 @@ mainsail_type: gaff
 short_description: <p>'Comus of Wivenhoe' is a gaff rigged wooden schooner of carvel
   construction, built in 1882 by James Husk of Wivenhoe.</p>
 full_description: ''
-builder:
-  name: Husk James and Sons
-  id: 7320ec38-3d1e-436e-9366-1c440fe64a9c
+year: 1882
+year_is_approximate: false
 designer:
   name: Jasmes Husk
   id: a5bcd933-f26f-4043-be64-35742cb970d1
+builder:
+  name: Husk James and Sons
+  id: 7320ec38-3d1e-436e-9366-1c440fe64a9c
+place_built: Wivenhoe
 construction_material: wood
 construction_method: carvel
-draft: 2.4902
+construction_details: Carvel Teak on Oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Heybrige Basin
+hull_form: long keel deep forefoot
+uk_part1: '87276'
+callsign: ''
+ownerships:
+- name: Jim Olney
+  share: 64
+  start: 1979
+- id: 172
+  share: 64
+  member: 2623
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6cffc7f2-a6c0-429c-9482-9e0a427c4f80
+draft: 2.4902
 handicap_data:
   beam: 3.733845403560107
   fore:
@@ -38,28 +59,7 @@ handicap_data:
   fore_triangle_base: 9.067910265788832
   length_on_waterline: 16.45940014630578
   fore_triangle_height: 10.972933430870519
-home_country: GBR
-home_port: Heybrige Basin
-hull_form: long keel deep forefoot
-id: 6cffc7f2-a6c0-429c-9482-9e0a427c4f80
 length_on_deck: 18.288
-uk_part1: '87276'
-callsign: ''
-ownerships:
-- name: Jim Olney
-  share: 64
-  start: 1979
-- id: 172
-  share: 64
-  member: 2623
-  current: true
-  start: '?'
-place_built: Wivenhoe
-updated_at: '2021-12-19T13:39:09.170157+00:00'
-website: ''
-year: 1882
-year_is_approximate: false
-construction_details: Carvel Teak on Oak
 beam: 3.7338
 for_sale_state:
   text: not_for_sale

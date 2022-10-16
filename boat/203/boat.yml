@@ -18,28 +18,24 @@ full_description: "<p>A gaff cutter designed by John Leather and&nbsp;built in W
   \ original and retains a warmth and charm, enhanced by traditional equipment &ndash;\
   \ Taylors cooker and cabin heater and paraffin lamps.</p>\r\n\r\n<p>She has a Yanmar\
   \ 2GM 20 hp fitted in 1998.</p>"
-builder:
-  name: William Wyatt Ltd.
-  id: db113064-8980-479b-8190-764e09007320
+year: 1960
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: William Wyatt Ltd.
+  id: db113064-8980-479b-8190-764e09007320
+place_built: West Mersea
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel mahogony on steamed oak, teak decks
 engine_installations: []
 for_sales:
 - asking_price: 5900
-handicap_data:
-  beam: 2.560351133869788
-  draft: 1.21921482565228
-  length_over_all: 7.620092660326749
-  length_on_waterline: 6.2484759814679345
 home_country: GBR
 home_port: Weir Quay, Plymouth, Devon
 hull_form: unknown
-id: e8222996-23f7-4d9a-9347-f5172b7c1257
-length_on_deck: 7.9248
 uk_part1: '302000'
 callsign: ''
 ownerships:
@@ -66,13 +62,18 @@ ownerships:
   name: Rupert Reid
   share: 64
   start: 2010
-place_built: West Mersea
-updated_at: '2021-12-19T13:38:35.501161+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1960
-year_is_approximate: false
+id: e8222996-23f7-4d9a-9347-f5172b7c1257
 image_key: 7WSXKt
-construction_details: Carvel mahogony on steamed oak, teak decks
+thumb: https://photos.smugmug.com/photos/i-bM9m522/0/Th/i-bM9m522-Th.jpg
+draft: 1.2192
+handicap_data:
+  beam: 2.560351133869788
+  draft: 1.21921482565228
+  length_over_all: 7.620092660326749
+  length_on_waterline: 6.2484759814679345
+length_on_deck: 7.9248
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

@@ -5,36 +5,36 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: P. Parmenter
-  id: 8cf582e7-d4f8-49a4-a63f-6efd95a4e1fd
+year: 1997
+year_is_approximate: false
 designer:
   name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+builder:
+  name: P. Parmenter
+  id: 8cf582e7-d4f8-49a4-a63f-6efd95a4e1fd
+place_built: Monmouth
 construction_material: wood
 construction_method: clinker_ply
-draft: 0
+construction_details: Epoxy clinker ply
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.3960009753718605
-  length_over_all: 4.114850036576445
 home_country: 'null'
 home_port: Monmouth
 hull_form: unknown
-id: c41d9fea-92f1-44d8-9523-8ed94ab7ad49
-length_on_deck: 4.1148
 callsign: ''
 ownerships:
 - name: R G Hockey
   share: 64
   start: 2012
-place_built: Monmouth
-updated_at: '2021-12-19T13:39:29.166892+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1997
-year_is_approximate: false
-construction_details: Epoxy clinker ply
+id: c41d9fea-92f1-44d8-9523-8ed94ab7ad49
+draft: 0
+handicap_data:
+  beam: 1.3960009753718605
+  length_over_all: 4.114850036576445
+length_on_deck: 4.1148
 beam: 1.396
 for_sale_state:
   text: not_for_sale

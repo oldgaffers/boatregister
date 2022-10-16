@@ -12,17 +12,45 @@ full_description: "<p>&#39;Cygnet of London&#39; took part in the OGA Round Brit
   \ in a TV programme with other OGA boats during the passage through the Caledonian\
   \ Canal, 2013. &#39;Cygnet&#39; also sails regularly with the East Coast OGA.<br\
   \ />\r\n&nbsp;</p>"
-builder:
-  name: Alfred Burgoine
-  id: 3a51dd4c-bea1-4569-9682-77965546c737
+year: 1906
+year_is_approximate: false
 designer:
   name: G. Chalmers
   id: 3cb80068-e259-4668-9f21-67058e4a6b89
+builder:
+  name: Alfred Burgoine
+  id: 3a51dd4c-bea1-4569-9682-77965546c737
+place_built: Kingston on Thames
 construction_material: wood
 construction_method: unknown
-draft: 1.1674
+construction_details: Burma Teak on oak, with drop keel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Fambridge
+hull_form: long keel sloping forefoot
+sail_number: '2743'
+uk_part1: '123659'
+callsign: ''
+ownerships:
+- end: 2011
+  name: Kim Hartley
+  share: 64
+  start: 2005
+- id: 284
+  share: 64
+  start: 2011
+  member: 3502
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://oga50cygnetroundbritainchallenge.blogspot.co.uk/
+id: 8177ae91-e92d-47b1-b0e1-93397cc52411
+previous_names:
+- Cygnet
+- Morning Mist
+image_key: kJ3BNR
+thumb: https://photos.smugmug.com/photos/i-h3JX2Tz/0/Th/i-h3JX2Tz-Th.jpg
+draft: 1.1674
 handicap_data:
   beam: 2.996220434040478
   main:
@@ -44,34 +72,7 @@ handicap_data:
   fore_triangle_base: 5.334064862228725
   length_on_waterline: 9.1441111923921
   fore_triangle_height: 12.496951962935869
-home_country: GBR
-home_port: Fambridge
-hull_form: long keel sloping forefoot
-id: 8177ae91-e92d-47b1-b0e1-93397cc52411
 length_on_deck: 12.1402
-sail_number: '2743'
-uk_part1: '123659'
-callsign: ''
-ownerships:
-- end: 2011
-  name: Kim Hartley
-  share: 64
-  start: 2005
-- id: 284
-  share: 64
-  start: 2011
-  member: 3502
-  current: true
-place_built: Kingston on Thames
-updated_at: '2021-12-19T13:39:48.066379+00:00'
-website: http://oga50cygnetroundbritainchallenge.blogspot.co.uk/
-year: 1906
-year_is_approximate: false
-previous_names:
-- Cygnet
-- Morning Mist
-image_key: kJ3BNR
-construction_details: Burma Teak on oak, with drop keel
 beam: 2.9962
 for_sale_state:
   text: not_for_sale

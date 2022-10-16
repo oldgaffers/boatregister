@@ -10,18 +10,41 @@ short_description: Built by the famous Lancashire Nobby builder, Crossfields of 
   include North Wales, Ireland, Scotland, the Cumbrian Coast and not forgetting her
   years present at the Peel Traditional Boat Festival at Peel on the Isle of Man.
 full_description: ''
-builder:
-  name: Crossfield
-  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+year: 1896
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+place_built: Arnside
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Pitch Pine on Oak
 engine_installations: []
 for_sales:
 - asking_price: 27500
+home_country: GBR
+home_port: Liverpool
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- name: John T Middlebrook
+  share: 64
+  start: 1989
+- id: 170
+  share: 64
+  member: 2617
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e2f4192b-3bdf-49e5-9155-949e8d80db02
+image_key: Rf4gkr
+thumb: https://photos.smugmug.com/photos/i-LqvmBCw/0/Th/i-LqvmBCw-Th.jpg
+draft: 1.2192
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -36,29 +59,7 @@ handicap_data:
   fore_triangle_base: 6.2484759814679345
   length_on_waterline: 8.991709339185563
   fore_triangle_height: 8.763106559375762
-home_country: GBR
-home_port: Liverpool
-hull_form: long keel sloping forefoot
-id: e2f4192b-3bdf-49e5-9155-949e8d80db02
 length_on_deck: 9.7536
-spar_material: wood
-callsign: ''
-ownerships:
-- name: John T Middlebrook
-  share: 64
-  start: 1989
-- id: 170
-  share: 64
-  member: 2617
-  current: true
-  start: '?'
-place_built: Arnside
-updated_at: '2021-12-19T13:39:00.551145+00:00'
-website: ''
-year: 1896
-year_is_approximate: false
-image_key: Rf4gkr
-construction_details: Pitch Pine on Oak
 beam: 2.7432
 for_sale_state:
   text: for_sale

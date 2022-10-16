@@ -12,28 +12,25 @@ full_description: '<p>Salvaged from Tigers Tail, Fleetwood, she was bought and r
   out and in need of &nbsp;full restoration. By spring of 2022 she was in the final
   stages of completion with hope to &nbsp;launch in the summer. The engine has had
   a complete rebuild and the mast, bowsprit, gaff and boom have also been renovated.</p>'
-builder:
-  name: John Gibson and Sons
-  id: ad8da949-93e8-4d53-9961-1d698f5c9852
+year: 1894
+year_is_approximate: false
 designer:
   name: William Stoba
   id: a9c50d55-f3c5-4112-8f58-ed18082f5637
+builder:
+  name: John Gibson and Sons
+  id: ad8da949-93e8-4d53-9961-1d698f5c9852
+place_built: Fleetwood
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.3716166788588149
+construction_details: Carvel on steamed frames, iron keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.2004389173372347
-  length_on_deck: 10.0584
-  length_over_all: 10.05852231163131
 home_country: GBR
 home_port: Conwy
 hull_form: unknown
-id: 4be7144b-d87a-4a2a-b702-a69c88be815a
-length_on_deck: 10.0584
 sail_number: LL1
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2000
@@ -54,15 +51,19 @@ ownerships:
   start: 2015
   member: 6310
   current: true
-place_built: Fleetwood
-updated_at: '2022-02-14T19:53:52.820791+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1894
-year_is_approximate: false
+id: 4be7144b-d87a-4a2a-b702-a69c88be815a
 previous_names:
 - Tern
 image_key: bR7Gcx
-construction_details: Carvel on steamed frames, iron keel
+thumb: https://photos.smugmug.com/photos/i-9sgxWsZ/0/Th/i-9sgxWsZ-Th.jpg
+draft: 1.3716166788588149
+handicap_data:
+  beam: 3.2004389173372347
+  length_on_deck: 10.0584
+  length_over_all: 10.05852231163131
+length_on_deck: 10.0584
 beam: 0
 for_sale_state:
   text: not_for_sale

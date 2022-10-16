@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+year: 1981
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+place_built: St. Columb Major
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.89
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: C & S Anstee
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 192bef17-0e77-4417-a6e3-336ea60e9b8f
+draft: 0.89
 handicap_data:
   beam: 2.43842965130456
   draft: 0.8900268227261643
@@ -23,22 +38,7 @@ handicap_data:
     type: fixed
   length_over_all: 7.315288953913679
   length_on_waterline: 6.452694464764692
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 192bef17-0e77-4417-a6e3-336ea60e9b8f
 length_on_deck: 7.3152
-callsign: ''
-ownerships:
-- name: C & S Anstee
-  share: 64
-  start: 2012
-place_built: St. Columb Major
-updated_at: '2021-12-19T13:39:27.855661+00:00'
-website: ''
-year: 1981
-year_is_approximate: false
-construction_details: GRP
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

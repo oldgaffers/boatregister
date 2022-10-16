@@ -21,41 +21,26 @@ full_description: '<p>Built by Robertsons of Woodbridge in 1965 as <em>Sekyd</em
 
   <p>Accomodation is typical of her class, with 4 berths. She is free of gas hazards,
   using a spirit cooker and charcoal stove.</p>'
-builder:
-  name: Robertsons
-  id: 6cd1bf47-97b9-4f1b-8402-c27b59e901d9
+year: 1965
+year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+builder:
+  name: Robertsons
+  id: 6cd1bf47-97b9-4f1b-8402-c27b59e901d9
+place_built: Woodbridge
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.3716
+construction_details: Iroko on Oak Frames, ply decks
 engine_installations: []
 for_sales:
 - asking_price: 10000
-handicap_data:
-  beam: 2.1844306266764204
-  main:
-    foot: 3.6576444769568397
-    luff: 8.22970007315289
-  thcf: 0.904
-  draft: 1.3716288710070714
-  sailarea: 27.843718243110544
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.696299683004145
-  length_over_spars: 7.696299683004145
-  fore_triangle_base: 3.6576444769568397
-  length_on_waterline: 6.553291880029261
-  fore_triangle_height: 8.22970007315289
 home_country: GBR
 home_port: Emsworth
 hull_form: long keel sloping forefoot
-id: 4042b70f-5c00-479f-b28a-45eba631876e
-length_on_deck: 7.6962
 sail_number: '131'
-spar_material: wood
 ssr: '11191'
 callsign: ''
 ownerships:
@@ -80,15 +65,31 @@ ownerships:
   start: 2011
   member: 5660
   current: true
-place_built: Woodbridge
-updated_at: '2021-12-29T15:28:27.297374+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
+id: 4042b70f-5c00-479f-b28a-45eba631876e
 previous_names:
 - Sekxd
 image_key: csst5f
-construction_details: Iroko on Oak Frames, ply decks
+thumb: https://photos.smugmug.com/photos/i-fsc5WD3/0/Th/i-fsc5WD3-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.1844306266764204
+  main:
+    foot: 3.6576444769568397
+    luff: 8.22970007315289
+  thcf: 0.904
+  draft: 1.3716288710070714
+  sailarea: 27.843718243110544
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.696299683004145
+  length_over_spars: 7.696299683004145
+  fore_triangle_base: 3.6576444769568397
+  length_on_waterline: 6.553291880029261
+  fore_triangle_height: 8.22970007315289
+length_on_deck: 7.6962
 beam: 2.1854
 design_class:
   name: Vertue

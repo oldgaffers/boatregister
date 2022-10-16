@@ -5,17 +5,41 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>&#39;Jabiru&#39; is a Yarmouth 23 built in 2002.</p>
 full_description: ''
-builder:
-  name: Yarmouth Boat Co.
-  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+year: 2002
+year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+place_built: Yarmouth IOW
 construction_material: grp
 construction_method: unknown
-draft: 0.9144
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Hamble
+hull_form: long keel sloping forefoot
+sail_number: '19'
+ssr: '104592'
+callsign: ''
+ownerships:
+- end: 2012
+  name: Peter Brannen
+  share: 64
+  start: 2002
+- id: 993
+  share: 64
+  start: 2016
+  member: 6222
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 89b697e9-6985-448b-adc0-4a81335171f2
+image_key: BPK68p
+thumb: https://photos.smugmug.com/photos/i-BcSn4k5/0/Th/i-BcSn4k5-Th.jpg
+draft: 0.9144
 handicap_data:
   beam: 2.2799317239697636
   main:
@@ -33,30 +57,7 @@ handicap_data:
   fore_triangle_base: 3.038892952938308
   length_on_waterline: 5.498658863691782
   fore_triangle_height: 5.7912704218483295
-home_country: GBR
-home_port: Hamble
-hull_form: long keel sloping forefoot
-id: 89b697e9-6985-448b-adc0-4a81335171f2
 length_on_deck: 6.8824
-sail_number: '19'
-ssr: '104592'
-callsign: ''
-ownerships:
-- end: 2012
-  name: Peter Brannen
-  share: 64
-  start: 2002
-- id: 993
-  share: 64
-  start: 2016
-  member: 6222
-  current: true
-place_built: Yarmouth IOW
-updated_at: '2021-12-19T13:39:43.102142+00:00'
-website: ''
-year: 2002
-year_is_approximate: false
-image_key: BPK68p
 beam: 2.2799
 for_sale_state:
   text: not_for_sale

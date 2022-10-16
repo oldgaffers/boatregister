@@ -5,14 +5,28 @@ rig_type: Schooner
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1996
+year_is_approximate: false
 designer:
   name: Chris Gunter
   id: 45a81d89-9b27-40f5-a62a-dc90c194908c
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 0.6096
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Weymouth
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: E C North
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 971d8e17-cc57-459b-a23d-9f08773d6771
+draft: 0.6096
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -37,21 +51,7 @@ handicap_data:
   fore_triangle_base: 5.300536454523287
   length_on_waterline: 9.000853450377956
   fore_triangle_height: 7.220799804925628
-home_country: 'null'
-home_port: Weymouth
-hull_form: long keel deep forefoot
-id: 971d8e17-cc57-459b-a23d-9f08773d6771
 length_on_deck: 8.9154
-callsign: ''
-ownerships:
-- name: E C North
-  share: 64
-  start: 2012
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:31.127144+00:00'
-website: ''
-year: 1996
-year_is_approximate: false
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

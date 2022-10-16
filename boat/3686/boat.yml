@@ -4,34 +4,35 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
 short_description: She is a fine example of her type.
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1968
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
 construction_method: unknown
-draft: 1.7282370153621067
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
 home_country: UK
 home_port: Walton on Naze
 hull_form: long keel sloping forefoot
-id: 967a9e2c-8ebf-4757-8305-a9aa71979e3b
-length_on_deck: 9.1441111923921
 ownerships:
 - id: 29
   share: 64
   member: 794
   current: true
-place_built: Littlehampton
-updated_at: '2022-02-17T11:10:26.719431+00:00'
-year: 1968
-year_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 967a9e2c-8ebf-4757-8305-a9aa71979e3b
 image_key: VRhQd3
+thumb: https://photos.smugmug.com/photos/i-g3nH6qR/0/Th/i-g3nH6qR-Th.jpg
+draft: 1.7282370153621067
+handicap_data:
+  beam: 2.7432333577176298
+length_on_deck: 9.1441111923921
 design_class:
   name: Hillyard 9 Ton
   id: a653049b-8d6d-4ca0-85e0-f271d69811db

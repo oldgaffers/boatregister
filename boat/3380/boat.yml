@@ -13,29 +13,23 @@ full_description: "<p>&#39;Tournesol&#39; is a Tideway 12ft GRP reproduction of 
   \ href=\"http://www.tidewaydinghy.org\" target=\"_blank\">Tideway Dinghy Owners&#39;\
   \ Association</a> and <a href=\"http://www.tidewaydinghies.co.uk/\" target=\"_blank\"\
   >Tideway Dinghies</a> for more information about these boats.</p>"
-builder:
-  name: Tideways Dinghies
-  id: 0f2eea77-cd93-433b-94c3-a9c195864bd8
+year: 2005
+year_is_approximate: false
 designer:
   name: Lew Walker
   id: eb88b861-9e90-4673-9cbc-1227c2df737f
+builder:
+  name: Tideways Dinghies
+  id: 0f2eea77-cd93-433b-94c3-a9c195864bd8
+place_built: Leigh on Sea
 construction_material: grp
 construction_method: clinker
-draft: 0.1524
+construction_details: Simulated clinker GRP with mahogany thwarts and gunwhales
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 0
-  moving_keel: true
-  length_overall: 3.6576
-  draft_keel_down: 0.9144
-  moving_keel_type: Centreboard
-  length_on_waterline: 3.4534
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 45c420a0-6586-4662-ad21-236600817ea9
-length_on_deck: 3.6576
 callsign: ''
 ownerships:
 - id: 1011
@@ -43,13 +37,20 @@ ownerships:
   start: 2005
   member: 6250
   current: true
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:40:09.365357+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2005
-year_is_approximate: false
+id: 45c420a0-6586-4662-ad21-236600817ea9
 image_key: hkhcr4
-construction_details: Simulated clinker GRP with mahogany thwarts and gunwhales
+thumb: https://photos.smugmug.com/photos/i-cd4Jj3X/0/Th/i-cd4Jj3X-Th.jpg
+draft: 0.1524
+handicap_data:
+  sailarea: 0
+  moving_keel: true
+  length_overall: 3.6576
+  draft_keel_down: 0.9144
+  moving_keel_type: Centreboard
+  length_on_waterline: 3.4534
+length_on_deck: 3.6576
 beam: 1.524
 design_class:
   name: Tideway 12

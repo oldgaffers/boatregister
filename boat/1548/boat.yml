@@ -5,17 +5,38 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Whisstocks Boatyard Ltd
-  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+year: 1948
+year_is_approximate: false
 designer:
   name: William Maxwell Blake
   id: 7be4728c-aec1-4b98-9245-33fa05964add
+builder:
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel Larch on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Brightlingsea
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Stephen Layer
+  share: 64
+  start: 2002
+- share: 64
+  member: 4139
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c08ba21a-b1ed-4917-b0b4-81238a015317
+image_key: PSnmpr
+thumb: https://photos.smugmug.com/photos/i-Dn4n6sd/0/Th/i-Dn4n6sd-Th.jpg
+draft: 1.0668
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -33,27 +54,7 @@ handicap_data:
   fore_triangle_base: 3.0480370641306997
   length_on_waterline: 5.7912704218483295
   fore_triangle_height: 6.0960741282613995
-home_country: GBR
-home_port: Brightlingsea
-hull_form: long keel deep forefoot
-id: c08ba21a-b1ed-4917-b0b4-81238a015317
 length_on_deck: 6.858
-callsign: ''
-ownerships:
-- name: Stephen Layer
-  share: 64
-  start: 2002
-- share: 64
-  member: 4139
-  current: true
-  start: '?'
-place_built: Woodbridge
-updated_at: '2021-12-19T13:39:14.505952+00:00'
-website: ''
-year: 1948
-year_is_approximate: false
-image_key: PSnmpr
-construction_details: Carvel Larch on oak
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

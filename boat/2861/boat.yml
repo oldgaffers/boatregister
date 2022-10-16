@@ -5,25 +5,24 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Tony Hinton
-  id: 1ac79257-8661-4830-9556-1047a70fd1b6
+year: 1991
+year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+builder:
+  name: Tony Hinton
+  id: 1ac79257-8661-4830-9556-1047a70fd1b6
+place_built: Axmouth
 construction_material: plywood
 construction_method: unknown
-draft: 0.6096
+construction_details: "Double skinned, epoxied, marine plywood.\r\nMain keel with\
+  \ mini keels with internal drop plates."
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.081809314801268
-  length_over_all: 5.6388685686417945
 home_country: GBR
 home_port: Buckie
 hull_form: long keel sloping forefoot
-id: d69d950c-54ef-47a7-a3b9-e06f1bb5dbc8
-length_on_deck: 5.6388
 callsign: ''
 ownerships:
 - end: 2011
@@ -41,13 +40,14 @@ ownerships:
   member: 6000
   current: true
   start: '?'
-place_built: Axmouth
-updated_at: '2021-12-19T13:39:51.566372+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1991
-year_is_approximate: false
-construction_details: "Double skinned, epoxied, marine plywood.\r\nMain keel with\
-  \ mini keels with internal drop plates."
+id: d69d950c-54ef-47a7-a3b9-e06f1bb5dbc8
+draft: 0.6096
+handicap_data:
+  beam: 2.081809314801268
+  length_over_all: 5.6388685686417945
+length_on_deck: 5.6388
 beam: 2.0818
 for_sale_state:
   text: not_for_sale

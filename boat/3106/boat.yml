@@ -5,23 +5,19 @@ rig_type: Ketch
 mainsail_type: bermudan
 short_description: ''
 full_description: Mainsail 14.1 sq m. Genoa 30.7 sq m. Mizzen 5 sq m.
+year: 1979
+year_is_approximate: false
 builder:
   name: Westerly Marine
   id: b54f18a6-4887-4163-9c95-30d09792d098
+place_built: Waterlooville Portsmouth
 construction_material: grp
 construction_method: unknown
-draft: 1.1003
 engine_installations: []
 for_sales: []
-handicap_data:
-  draft: 1.1000133778346743
-  length_over_all: 9.900120400512069
-  length_on_waterline: 7.630092793525969
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: d6da80b0-f0ee-48a8-bc8d-b5850123456b
-length_on_deck: 9.8999
 sail_number: '462'
 uk_part1: '397415'
 callsign: MEGD2
@@ -34,11 +30,15 @@ ownerships:
   member: 4803
   current: true
   start: '?'
-place_built: Waterlooville Portsmouth
-updated_at: '2021-12-19T13:39:58.006199+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1979
-year_is_approximate: false
+id: d6da80b0-f0ee-48a8-bc8d-b5850123456b
+draft: 1.1003
+handicap_data:
+  draft: 1.1000133778346743
+  length_over_all: 9.900120400512069
+  length_on_waterline: 7.630092793525969
+length_on_deck: 9.8999
 beam: 0
 design_class:
   name: Westerly Berwick

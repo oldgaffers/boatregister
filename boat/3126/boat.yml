@@ -13,18 +13,43 @@ full_description: "<p>When named &#39;Corystes&#39; she was based on Hayling Isl
   \ drains removed, now drains to the bilges. She is fitted with custom pulpit and\
   \ guard rails.</p>\r\n\r\n<p>In 2014 she&nbsp;has had a 35sqft topsail jib added&nbsp;to\
   \ her sail wardrobe.</p>"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1977
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: unknown
-draft: 0.7102
 engine_installations: []
 for_sales:
 - asking_price: 0
+home_country: GBR
+home_port: St Mawes, currently laid up ashore in Somerset.
+hull_form: long keel deep forefoot
+ssr: '115299'
+callsign: ''
+ownerships:
+- end: 2010
+  name: Derek Fabian
+  share: 64
+  start: 0
+- id: 761
+  share: 64
+  start: 2010
+  member: 5772
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 27b6b6eb-b199-4f32-b6f5-8a0c5ae372aa
+previous_names:
+- Corystes
+image_key: tDkbPd
+thumb: https://photos.smugmug.com/photos/i-Xsh8fRp/0/Th/i-Xsh8fRp-Th.jpg
+draft: 0.7102
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -45,31 +70,7 @@ handicap_data:
   fore_triangle_base: 4.191069251402097
   length_on_waterline: 6.172281150938795
   fore_triangle_height: 5.334077054376981
-home_country: GBR
-home_port: St Mawes, currently laid up ashore in Somerset.
-hull_form: long keel deep forefoot
-id: 27b6b6eb-b199-4f32-b6f5-8a0c5ae372aa
 length_on_deck: 7.3152
-ssr: '115299'
-callsign: ''
-ownerships:
-- end: 2010
-  name: Derek Fabian
-  share: 64
-  start: 0
-- id: 761
-  share: 64
-  start: 2010
-  member: 5772
-  current: true
-place_built: Rock
-updated_at: '2021-12-19T13:39:58.598863+00:00'
-website: ''
-year: 1977
-year_is_approximate: false
-previous_names:
-- Corystes
-image_key: tDkbPd
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 1

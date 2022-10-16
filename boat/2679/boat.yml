@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: For slae Log, Dec '07
-builder:
-  name: Buccaneer Boats
-  id: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
+year: 2005
+year_is_approximate: false
 designer:
   name: Judd Varley
   id: 18067660-4c29-42b2-9894-e32cd213a3f7
+builder:
+  name: Buccaneer Boats
+  id: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
+place_built: Cambourne
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.0668
+construction_details: grp
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Watchet
+hull_form: long keel deep forefoot
+sail_number: '2679'
+ssr: '114133'
+callsign: ''
+ownerships:
+- name: Colin Pople
+  share: 64
+  start: 2005
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2c0529bc-348e-4a7b-99e7-6ef4d41f0310
+draft: 1.0668
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -30,24 +47,7 @@ handicap_data:
   fore_triangle_base: 3.8100463301633747
   length_on_waterline: 5.715069495245062
   fore_triangle_height: 6.705681541087539
-home_country: 'null'
-home_port: Watchet
-hull_form: long keel deep forefoot
-id: 2c0529bc-348e-4a7b-99e7-6ef4d41f0310
 length_on_deck: 8.5344
-sail_number: '2679'
-ssr: '114133'
-callsign: ''
-ownerships:
-- name: Colin Pople
-  share: 64
-  start: 2005
-place_built: Cambourne
-updated_at: '2021-12-19T13:39:46.097113+00:00'
-website: ''
-year: 2005
-year_is_approximate: false
-construction_details: grp
 beam: 2.4384
 design_class:
   name: Oystercatcher 20

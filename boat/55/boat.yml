@@ -5,17 +5,34 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Indefatigable News Mersey Hr. Tranmere Y/C Maryport Y/C
-builder:
-  name: W. Reekie
-  id: c740295f-49f4-41be-bb46-b27d5469b272
+year: 1937
+year_is_approximate: false
 designer:
   name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
+builder:
+  name: W. Reekie
+  id: c740295f-49f4-41be-bb46-b27d5469b272
+place_built: St Monance, Fife
 construction_material: wood
 construction_method: carvel
-draft: 1.6764
+construction_details: Carvel  Oak on Pine
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: 55C
+uk_part1: '164385'
+callsign: ''
+ownerships:
+- name: R M Harrison
+  share: 64
+  start: 1979
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3d62ca2e-8efe-4cf0-8c36-8c2765241283
+draft: 1.6764
 handicap_data:
   beam: 2.560351133869788
   main:
@@ -40,24 +57,7 @@ handicap_data:
   fore_triangle_base: 5.18166300902219
   length_on_waterline: 7.711533772250671
   fore_triangle_height: 7.211655693733236
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 3d62ca2e-8efe-4cf0-8c36-8c2765241283
 length_on_deck: 8.5344
-sail_number: 55C
-uk_part1: '164385'
-callsign: ''
-ownerships:
-- name: R M Harrison
-  share: 64
-  start: 1979
-place_built: St Monance, Fife
-updated_at: '2021-12-19T13:38:31.303385+00:00'
-website: ''
-year: 1937
-year_is_approximate: false
-construction_details: Carvel  Oak on Pine
 beam: 2.5603
 for_sale_state:
   text: not_for_sale

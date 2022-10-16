@@ -10,26 +10,23 @@ full_description: "Owned late '40's by Lord Stanley of Alderley, author of \"Sea
   \r\nPresent owners (2015)have a log book from 1935. There was a big rebuild in 1953\
   \ after she lost her rig in the North Sea. She had a big refit in the winter of\
   \ 2013-4 - new electrics, new standing rigging, fridge put in."
-builder:
-  name: Harry Feltham
-  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+year: 1933
+year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+builder:
+  name: Harry Feltham
+  id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
+place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.4996
+construction_details: Carvel pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 7.0013
-  length_over_spars: 9.0007
-  length_on_waterline: 6.0015
 home_country: GBR
 home_port: Port Hamble
 hull_form: long keel sloping forefoot
-id: fbd37731-69f5-418e-9a3d-010818ddb96f
-length_on_deck: 7.0013
 uk_part1: '162793'
 callsign: ''
 ownerships:
@@ -45,15 +42,19 @@ ownerships:
   member: 5965
   current: true
   start: '?'
-place_built: Portsmouth
-updated_at: '2021-12-19T13:40:00.440127+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1933
-year_is_approximate: false
+id: fbd37731-69f5-418e-9a3d-010818ddb96f
 previous_names:
 - Phoebe
 image_key: HWWSkH
-construction_details: Carvel pitch pine on oak
+thumb: https://photos.smugmug.com/photos/i-Z6w4vX4/0/Th/i-Z6w4vX4-Th.jpg
+draft: 1.4996
+handicap_data:
+  length_overall: 7.0013
+  length_over_spars: 9.0007
+  length_on_waterline: 6.0015
+length_on_deck: 7.0013
 beam: 1.9995
 design_class:
   name: Yonne Design

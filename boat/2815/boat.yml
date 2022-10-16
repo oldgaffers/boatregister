@@ -5,25 +5,22 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Penarth Boatbuilding Co.
-  id: 31ee959f-c0dc-4a31-bedb-dbcd06686c3a
+year: 1989
+year_is_approximate: false
 designer:
   name: P. Rundle
   id: 4c5fdfde-4b14-4bf6-802b-2bee0c17eac4
+builder:
+  name: Penarth Boatbuilding Co.
+  id: 31ee959f-c0dc-4a31-bedb-dbcd06686c3a
+place_built: Penarth
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.4902462813947817
-  length_over_all: 7.010485247500609
 home_country: 'null'
 home_port: Penarth
 hull_form: unknown
-id: d58dd3e7-bb1f-434d-8e8d-6159e88c63a0
-length_on_deck: 7.0104
 callsign: ''
 ownerships:
 - id: 537
@@ -31,11 +28,14 @@ ownerships:
   start: 2012
   member: 4889
   current: true
-place_built: Penarth
-updated_at: '2021-12-19T13:39:50.254132+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1989
-year_is_approximate: false
+id: d58dd3e7-bb1f-434d-8e8d-6159e88c63a0
+draft: 0
+handicap_data:
+  beam: 2.4902462813947817
+  length_over_all: 7.010485247500609
+length_on_deck: 7.0104
 beam: 2.4902
 for_sale_state:
   text: not_for_sale

@@ -5,26 +5,22 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log 74/2  Ex Auxiliary lugger
-builder:
-  name: Chislett and Lewis
-  id: de0894b2-8d6c-4886-bd0d-a96a1cf0378d
+year: 1896
+year_is_approximate: false
 designer:
   name: Chislett and Lewis
   id: cc7bba06-26ca-476d-9e13-56f6a7e81808
+builder:
+  name: Chislett and Lewis
+  id: de0894b2-8d6c-4886-bd0d-a96a1cf0378d
+place_built: Poole
 construction_material: wood
 construction_method: unknown
-draft: 1.8806
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.8806388685686417
-  length_over_all: 9.653133382101926
 home_country: 'null'
 home_port: Medway
 hull_form: unknown
-id: 6cb93e5b-014b-4a70-9778-b5b34821ab41
-length_on_deck: 9.653
 reference:
 - Log 74/?
 callsign: ''
@@ -32,11 +28,15 @@ ownerships:
 - name: Steven Truss
   share: 64
   start: 2012
-place_built: Poole
-updated_at: '2021-12-19T13:38:55.632396+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1896
-year_is_approximate: false
+id: 6cb93e5b-014b-4a70-9778-b5b34821ab41
+draft: 1.8806
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.8806388685686417
+  length_over_all: 9.653133382101926
+length_on_deck: 9.653
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

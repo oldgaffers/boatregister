@@ -5,36 +5,36 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cole and Son
-  id: 0afad960-c764-4439-a4d0-8b7c3dfd7a0f
+year: 1912
+year_is_approximate: false
 designer:
   name: Morgan Giles
   id: f1bc585c-9638-4fd8-8fc7-f382b028513c
+builder:
+  name: Cole and Son
+  id: 0afad960-c764-4439-a4d0-8b7c3dfd7a0f
+place_built: Leigh on Sea
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  length_over_all: 5.4864667154352595
-  length_on_waterline: 5.120702267739576
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 5eb16435-09b6-4b97-9428-0ec3e5ccfa6e
-length_on_deck: 5.4864
 callsign: ''
 ownerships:
 - name: M J Wilde
   share: 64
   start: 2012
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:38:42.616914+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1912
-year_is_approximate: false
+id: 5eb16435-09b6-4b97-9428-0ec3e5ccfa6e
+draft: 0
+handicap_data:
+  beam: 1.8288222384784198
+  length_over_all: 5.4864667154352595
+  length_on_waterline: 5.120702267739576
+length_on_deck: 5.4864
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

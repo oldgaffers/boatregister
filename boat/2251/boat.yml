@@ -11,25 +11,22 @@ full_description: <p>She was built for a Liverpool Lawyer in Scarborough, by Gor
   discovered in the late 1990's to be in a poor state of repair. Extensive works were
   done, including a new deck and deck houses and engine. She relocated to Scotland
   in 2021.</p>
-builder:
-  name: Armstrong Gordon Ltd.
-  id: 55257fcd-bb7c-4ca2-a09b-162f45540808
+year: 1964
+year_is_approximate: false
 designer:
   name: Francis J. Jones
   id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
+builder:
+  name: Armstrong Gordon Ltd.
+  id: 55257fcd-bb7c-4ca2-a09b-162f45540808
+place_built: Scarborough
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  length_over_all: 10.972933430870519
 home_country: '[remove] Scotland '
 home_port: ' Lochaber'
 hull_form: unknown
-id: 9adee2a6-711f-4dd9-9110-8638e3255368
-length_on_deck: 10.9728
 callsign: ''
 ownerships:
 - name: Nicholas C Gray
@@ -38,12 +35,16 @@ ownerships:
 - id: 1
   share: 64
   start: 2021
-place_built: Scarborough
 updated_at: '2022-06-11T12:48:20.483916+00:00'
 website: ''
-year: 1964
-year_is_approximate: false
+id: 9adee2a6-711f-4dd9-9110-8638e3255368
 image_key: F2nF2K
+thumb: https://photos.smugmug.com/photos/i-NWPV9V2/0/Th/i-NWPV9V2-Th.jpg
+draft: 0
+handicap_data:
+  beam: 3.0480370641306997
+  length_over_all: 10.972933430870519
+length_on_deck: 10.9728
 beam: 3.048
 for_sale_state:
   text: not_for_sale

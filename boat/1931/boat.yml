@@ -10,34 +10,47 @@ full_description: "<p>Nutmeg was built in 1996 and originally called Rebecca. He
   \ She is a Sea Otter design.</p>\r\n\r\n<p>Watch the My Classic Boat video here.</p>\r\
   \n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/jsCOoKpdYiY\"\
   \ width=\"560\"></iframe></p>"
-builder:
-  name: David Moss Boatbuilders
-  id: 57e22238-cdd2-4556-a3f3-ef834d765e07
+year: 1996
+year_is_approximate: false
 designer:
   name: David Moss
   id: 30120c08-ecbb-43ac-91d2-f4e0cce3231f
+builder:
+  name: David Moss Boatbuilders
+  id: 57e22238-cdd2-4556-a3f3-ef834d765e07
+place_built: Skipool Creek
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.457
+construction_details: Epoxy/wood Strip Planked Douglas Fir with Khaya Veneer
 engine_installations: []
 for_sales:
 - asking_price: 15500
-  flexibility: normal
-  offered: null
-  price_flexibility:
-    text: normal
-  reduced: false
-  sales_text: <p>"Nutmeg" is a Sea Otter 18, beautifully designed and built by David
-    Moss. This outstanding gaff rigged yawl is in excellent condition and has been
-    featured in all the major classic and wooden boat magazines. She is easy to sail
-    single handed, very close winded and by far the most beautiful for her size and
-    class!</p><p>"Nutmeg" is easily maintained and can be dry stored in the average
-    garage on her yard trolley. Recently feature on video by "My Classic Boat".</p><p>A
-    reluctant sale, but a rare opportunity to purchase a future baby classic at a
-    very reasonable price.</p>
-  sold: null
-  summary: null
-  updated_at: '2020-05-03T10:13:12.965566+00:00'
+home_country: GBR
+home_port: '[remo     Windermere'
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- end: 2013
+  note: 'Previous owners: 1st Mr J.Jackson, 2nd Mr R Silman, 3rd Mr D Horwer 4th Mr
+    D Hogge, 5th Mr V Powell.'
+  text: 'Previous owners:'
+- end: 2021
+  name: David Maunder
+  share: 64
+  start: 2013
+- id: 34769
+  share: 64
+  start: 2021
+  member: 6417
+  current: true
+updated_at: '2022-06-11T11:36:47.298414+00:00'
+website: ''
+id: ab4b1767-a337-4039-b169-3cfd3054303d
+previous_names:
+- Rebecca
+image_key: xv5h9q
+thumb: https://photos.smugmug.com/photos/i-wXZsHDk/0/Th/i-wXZsHDk-Th.jpg
+draft: 0.457
 handicap_data:
   beam: 1.829
   main:
@@ -55,35 +68,7 @@ handicap_data:
   fore_triangle_base: 2.13362594489149
   length_on_waterline: 5.105
   fore_triangle_height: 4.419653742989515
-home_country: GBR
-home_port: '[remo     Windermere'
-hull_form: centre-boarder
-id: ab4b1767-a337-4039-b169-3cfd3054303d
 length_on_deck: 5.41
-callsign: ''
-ownerships:
-- end: 2013
-  note: 'Previous owners: 1st Mr J.Jackson, 2nd Mr R Silman, 3rd Mr D Horwer 4th Mr
-    D Hogge, 5th Mr V Powell.'
-  text: 'Previous owners:'
-- end: 2021
-  name: David Maunder
-  share: 64
-  start: 2013
-- id: 34769
-  share: 64
-  start: 2021
-  member: 6417
-  current: true
-place_built: Skipool Creek
-updated_at: '2022-06-11T11:36:47.298414+00:00'
-website: ''
-year: 1996
-year_is_approximate: false
-previous_names:
-- Rebecca
-image_key: xv5h9q
-construction_details: Epoxy/wood Strip Planked Douglas Fir with Khaya Veneer
 beam: 1.8288
 design_class:
   name: Sea Otter

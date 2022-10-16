@@ -12,17 +12,40 @@ full_description: "<p>&#39;Kan an Mor&#39; is a Falmouth workboat built as an op
   \ out for long distance short-handed cruising.</p>\r\n\r\n<p>She was re-registered\
   \ when relaunched in 2000 with her present name &#39;Kan an Mor&#39; which is &#39;Song\
   \ of the Sea&#39; in Cornish.</p>"
-builder:
-  name: Johnathon Jackson
-  id: 9e64a642-ee2b-4b50-8cc7-7c9f7bef8f70
+year: 1982
+year_is_approximate: false
 designer:
   name: Johnathon Jackson
   id: 63c96b50-73d5-4773-a9a3-75741d010c88
+builder:
+  name: Johnathon Jackson
+  id: 9e64a642-ee2b-4b50-8cc7-7c9f7bef8f70
+place_built: Mylor Bridge
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel iroko on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Falmouth
+hull_form: long keel deep forefoot
+sail_number: '2512'
+callsign: ''
+ownerships:
+- end: 2012
+  name: John Lesh
+  share: 64
+  start: 2000
+- share: 64
+  member: 4013
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8c061e94-795b-442a-bd1b-b2bd8f8ff96d
+previous_names:
+- Heritage of Mylor
+draft: 1.524
 handicap_data:
   beam: 3.581443550353572
   main:
@@ -37,30 +60,7 @@ handicap_data:
   fore_triangle_base: 7.467690807120214
   length_on_waterline: 9.906120458424773
   fore_triangle_height: 11.277737137283589
-home_country: 'null'
-home_port: Falmouth
-hull_form: long keel deep forefoot
-id: 8c061e94-795b-442a-bd1b-b2bd8f8ff96d
 length_on_deck: 10.8204
-sail_number: '2512'
-callsign: ''
-ownerships:
-- end: 2012
-  name: John Lesh
-  share: 64
-  start: 2000
-- share: 64
-  member: 4013
-  current: true
-  start: '?'
-place_built: Mylor Bridge
-updated_at: '2021-12-19T13:39:41.303618+00:00'
-website: ''
-year: 1982
-year_is_approximate: false
-previous_names:
-- Heritage of Mylor
-construction_details: Carvel iroko on oak
 beam: 3.5814
 for_sale_state:
   text: not_for_sale

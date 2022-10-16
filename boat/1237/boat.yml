@@ -6,21 +6,17 @@ mainsail_type: gaff
 short_description: ''
 full_description: Log 89/3 - for sale. Similar to Itchen Ferry - probably a yacht
   - day sailing occasional fishing
+year: 1912
+year_is_approximate: false
+place_built: Portsmouth
 construction_material: wood
 construction_method: unknown
-draft: 0.9662
+construction_details: Pitch pine on oak timbers iron ballast keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.386613021214338
-  draft: 0.9662277493294318
-  length_over_all: 6.4008778346744695
-  length_on_waterline: 5.995488905145087
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
-id: 030d1fd3-6deb-4c52-bc45-c290ea1b61e6
-length_on_deck: 6.4008
 reference:
 - Log 89/3
 callsign: ''
@@ -28,12 +24,16 @@ ownerships:
 - name: Ron Crick
   share: 64
   start: 1989
-place_built: Portsmouth
-updated_at: '2021-12-19T13:39:05.617614+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1912
-year_is_approximate: false
-construction_details: Pitch pine on oak timbers iron ballast keel
+id: 030d1fd3-6deb-4c52-bc45-c290ea1b61e6
+draft: 0.9662
+handicap_data:
+  beam: 2.386613021214338
+  draft: 0.9662277493294318
+  length_over_all: 6.4008778346744695
+  length_on_waterline: 5.995488905145087
+length_on_deck: 6.4008
 beam: 2.3866
 for_sale_state:
   text: not_for_sale

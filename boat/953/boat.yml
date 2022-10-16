@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 81/4
-builder:
-  name: Terry Heard
-  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+year: 1979
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: Terry Heard
+  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.524
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 81/4
+callsign: ''
+ownerships:
+- name: A J Cobley
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6a633f09-af45-4a39-b534-5c2f9b0ac6a0
+draft: 1.524
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 6.858083394294074
   length_on_waterline: 8.22970007315289
   fore_triangle_height: 8.83930748597903
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 6a633f09-af45-4a39-b534-5c2f9b0ac6a0
 length_on_deck: 8.5344
-reference:
-- Log 81/4
-callsign: ''
-ownerships:
-- name: A J Cobley
-  share: 64
-  start: 2012
-place_built: Mylor Bridge
-updated_at: '2021-12-19T13:38:57.065148+00:00'
-website: ''
-year: 1979
-year_is_approximate: false
-construction_details: GRP
 beam: 3.048
 for_sale_state:
   text: not_for_sale

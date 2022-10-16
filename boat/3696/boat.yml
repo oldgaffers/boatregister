@@ -5,33 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p><em>Morning Vicar</em> is a venerable old MK1 Shrimper 19 classic
   outboard. Black hull and grey topsides.</p>
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1986
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.195
 home_country: UK
 home_port: Galmpton Quay
 hull_form: centre-boarder
-id: d4514e07-32b5-48d8-b5a5-37c1135271aa
-length_on_deck: 5.791
 sail_number: '294'
-spar_material: wood
 ssr: '50419'
 ownerships:
 - share: 64
-place_built: rock
 updated_at: '2022-05-16T15:02:38.81753+00:00'
-year: 1986
-year_is_approximate: false
+id: d4514e07-32b5-48d8-b5a5-37c1135271aa
 image_key: CDHwP8
+thumb: https://photos.smugmug.com/photos/i-WDQQ983/0/Th/i-WDQQ983-Th.jpg
+handicap_data:
+  beam: 2.195
+length_on_deck: 5.791
 design_class:
   name: Cornish Shrimper
   id: 7caf07ef-acf3-434b-a639-5c94188071a8

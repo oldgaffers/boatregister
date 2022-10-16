@@ -5,37 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Penarth Boatbuilding Co.
-  id: 31ee959f-c0dc-4a31-bedb-dbcd06686c3a
+year: 1969
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: Penarth Boatbuilding Co.
+  id: 31ee959f-c0dc-4a31-bedb-dbcd06686c3a
+place_built: Penarth
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  length_over_all: 9.1441111923921
 home_country: 'null'
 home_port: Faversham
 hull_form: unknown
-id: bd5773ad-0c37-4891-8431-721596dfabbf
-length_on_deck: 9.144
-spar_material: wood
 callsign: ''
 ownerships:
 - name: William Tidnam
   share: 64
   start: 2012
-place_built: Penarth
-updated_at: '2021-12-19T13:39:54.217134+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1969
-year_is_approximate: false
+id: bd5773ad-0c37-4891-8431-721596dfabbf
 image_key: ''
+draft: 0
+handicap_data:
+  beam: 2.8956352109241648
+  length_over_all: 9.1441111923921
+length_on_deck: 9.144
 beam: 2.8956
 design_class:
   name: MG Tideway

@@ -4,37 +4,37 @@ generic_type: Yacht
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dave Berry
-  id: 9d16e246-571c-4905-a47b-2ddcf729f77a
+year: 1988
+year_is_approximate: false
 designer:
   name: N.W.J. Hunt
   id: 1aa14da1-eae0-4edd-995c-026695999e67
+builder:
+  name: Dave Berry
+  id: 9d16e246-571c-4905-a47b-2ddcf729f77a
+place_built: Acle, Norwich
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9662
+construction_details: GRP hull & deck with mahogany superstructure and wooden spars
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.4902462813947817
-  draft: 0.9662277493294318
-  length_over_all: 8.53450377956596
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 199cece5-0901-41c0-8525-2f7f61de6c64
-length_on_deck: 8.5344
 callsign: ''
 ownerships:
 - name: I R & G E Bayliss
   share: 64
   start: 2012
-place_built: Acle, Norwich
-updated_at: '2021-12-19T13:39:10.939638+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1988
-year_is_approximate: false
-construction_details: GRP hull & deck with mahogany superstructure and wooden spars
+id: 199cece5-0901-41c0-8525-2f7f61de6c64
+draft: 0.9662
+handicap_data:
+  beam: 2.4902462813947817
+  draft: 0.9662277493294318
+  length_over_all: 8.53450377956596
+length_on_deck: 8.5344
 beam: 2.4902
 for_sale_state:
   text: not_for_sale

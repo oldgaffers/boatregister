@@ -5,14 +5,29 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1940
+year_is_approximate: false
 builder:
   name: Lauridson
   id: 13437b0f-11c1-4ebf-b7ae-d5c4ff2573f6
+place_built: Esbjerg
 construction_material: wood
 construction_method: unknown
-draft: 3.048
+construction_details: Oak on Oak pine deck
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- name: J H L Lewis
+  share: 64
+  start: 1989
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f31e637a-ca00-4504-afe9-63144d1aadca
+draft: 3.048
 handicap_data:
   beam: 5.18166300902219
   main:
@@ -31,22 +46,7 @@ handicap_data:
     type: folding
   length_over_all: 17.983418678371127
   length_on_waterline: 17.983418678371127
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: f31e637a-ca00-4504-afe9-63144d1aadca
 length_on_deck: 17.9832
-callsign: ''
-ownerships:
-- name: J H L Lewis
-  share: 64
-  start: 1989
-place_built: Esbjerg
-updated_at: '2021-12-19T13:39:21.011767+00:00'
-website: ''
-year: 1940
-year_is_approximate: false
-construction_details: Oak on Oak pine deck
 beam: 5.1816
 for_sale_state:
   text: not_for_sale

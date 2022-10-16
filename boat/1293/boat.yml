@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Alan Stewart
-  id: ecf61953-ee08-457d-acb3-9ae34136372f
+year: 1985
+year_is_approximate: false
 designer:
   name: Marine Wyche
   id: 621f8883-e06b-4301-8788-ee17a395e207
+builder:
+  name: Alan Stewart
+  id: ecf61953-ee08-457d-acb3-9ae34136372f
+place_built: Armagh
 construction_material: wood
 construction_method: unknown
-draft: 0.9906
+construction_details: '''Wilson  Weld'' Marine ply'
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: B B Williams
+  share: 64
+  start: 1989
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: ba14ac12-1d65-4abb-87b9-aed33d93674d
+draft: 0.9906
 handicap_data:
   beam: 2.0574250182882223
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 1.8288222384784198
   length_on_waterline: 4.623872226286271
   fore_triangle_height: 4.700073152889539
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: ba14ac12-1d65-4abb-87b9-aed33d93674d
 length_on_deck: 5.3858
-callsign: ''
-ownerships:
-- name: B B Williams
-  share: 64
-  start: 1989
-place_built: Armagh
-updated_at: '2021-12-19T13:39:07.308651+00:00'
-website: ''
-year: 1985
-year_is_approximate: false
-construction_details: '''Wilson  Weld'' Marine ply'
 beam: 2.0574
 for_sale_state:
   text: not_for_sale

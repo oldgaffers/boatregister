@@ -5,24 +5,20 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 75/1
+year: 1904
+year_is_approximate: false
 builder:
   name: L. Latinger
   id: 0b7bda6e-9e91-4b4b-aded-4c42dd2ae921
+place_built: Ylst Holland
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel Oak on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.6576444769568397
-  draft: 1.066812972445745
-  length_over_all: 10.36332601804438
-  length_on_waterline: 10.05852231163131
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 3a1e0f71-bfd1-4bb0-9fb3-357dae2e6229
-length_on_deck: 10.3632
 reference:
 - Log 75/1
 callsign: ''
@@ -30,14 +26,18 @@ ownerships:
 - name: J Grainger
   share: 64
   start: 2012
-place_built: Ylst Holland
-updated_at: '2021-12-19T13:38:53.684874+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1904
-year_is_approximate: false
+id: 3a1e0f71-bfd1-4bb0-9fb3-357dae2e6229
 previous_names:
 - Catherina
-construction_details: Carvel Oak on Oak
+draft: 1.0668
+handicap_data:
+  beam: 3.6576444769568397
+  draft: 1.066812972445745
+  length_over_all: 10.36332601804438
+  length_on_waterline: 10.05852231163131
+length_on_deck: 10.3632
 beam: 3.6576
 for_sale_state:
   text: not_for_sale

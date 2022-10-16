@@ -5,17 +5,32 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Owen M. and Sons
-  id: 33d09f32-f92d-468c-8ee8-b8575dd65a18
+year: 1929
+year_is_approximate: false
 designer:
   name: W.H. Rowland
   id: cdf3c0f5-fe88-496d-b115-52ae17b64dc9
+builder:
+  name: Owen M. and Sons
+  id: 33d09f32-f92d-468c-8ee8-b8575dd65a18
+place_built: Bangor, N Wales
 construction_material: wood
 construction_method: unknown
-draft: 1.4234
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Birdham, Chichester
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2000
+  name: Mark Taylor
+  share: 64
+  start: 1994
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3b509781-8697-488a-b173-cbd258ab172d
+draft: 1.4234
 handicap_data:
   beam: 4.023408924652523
   main:
@@ -33,22 +48,7 @@ handicap_data:
   fore_triangle_base: 6.1722750548646665
   length_on_waterline: 10.491343574737868
   fore_triangle_height: 10.186539868324799
-home_country: 'null'
-home_port: Birdham, Chichester
-hull_form: long keel deep forefoot
-id: 3b509781-8697-488a-b173-cbd258ab172d
 length_on_deck: 11.4056
-callsign: ''
-ownerships:
-- end: 2000
-  name: Mark Taylor
-  share: 64
-  start: 1994
-place_built: Bangor, N Wales
-updated_at: '2021-12-19T13:38:36.330389+00:00'
-website: ''
-year: 1929
-year_is_approximate: false
 beam: 4.0142
 for_sale_state:
   text: not_for_sale

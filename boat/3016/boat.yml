@@ -6,17 +6,36 @@ mainsail_type: gaff
 short_description: <p>Step back in Time is a Golant Gaffer launched at the Yarmouth
   Old Gaffers Festival in 2011.</p>
 full_description: ''
-builder:
-  name: Kiddle
-  id: 63774885-6110-48c4-a881-f96ae65d415a
+year: 2011
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Kiddle
+  id: 63774885-6110-48c4-a881-f96ae65d415a
+place_built: Grimsby
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.8382
+construction_details: Strip Plank Epoxy
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Grimsby
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- id: 615
+  share: 64
+  start: 2011
+  member: 5241
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2e2cdd1c-25b7-4249-8e97-45c2ad9816ed
+image_key: tVfL8q
+thumb: https://photos.smugmug.com/photos/i-gTBxhVK/0/Th/i-gTBxhVK-Th.jpg
+draft: 0.8382
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -34,25 +53,7 @@ handicap_data:
   fore_triangle_base: 3.401609363569861
   length_on_waterline: 5.410265788831992
   fore_triangle_height: 5.998536942209217
-home_country: GBR
-home_port: Grimsby
-hull_form: long keel sloping forefoot
-id: 2e2cdd1c-25b7-4249-8e97-45c2ad9816ed
 length_on_deck: 5.715
-callsign: ''
-ownerships:
-- id: 615
-  share: 64
-  start: 2011
-  member: 5241
-  current: true
-place_built: Grimsby
-updated_at: '2021-12-19T13:39:56.05764+00:00'
-website: ''
-year: 2011
-year_is_approximate: false
-image_key: tVfL8q
-construction_details: Strip Plank Epoxy
 beam: 2.1336
 design_class:
   name: Golant Gaffer

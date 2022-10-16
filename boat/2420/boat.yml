@@ -5,23 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: A Harris built Smack, Albion is in need of a refit.
 full_description: ''
-builder:
-  name: Harris Brothers
-  id: 3ec78f7a-e558-43bb-9145-1368ce3f949e
+year: 1892
+year_is_approximate: false
 designer:
   name: Harris Brothers
   id: 009e934b-3e6d-4651-b895-a4b712da3886
+builder:
+  name: Harris Brothers
+  id: 3ec78f7a-e558-43bb-9145-1368ce3f949e
+place_built: Rowhedge
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
 home_country: GBR
 home_port: West Mersea
 hull_form: long keel deep forefoot
-id: 48e74afe-63e2-4e4d-ad29-4b234e7961d3
-length_on_deck: 0
-spar_material: wood
 callsign: ''
 ownerships:
 - id: 337
@@ -29,12 +29,13 @@ ownerships:
   start: 2012
   member: 3846
   current: true
-place_built: Rowhedge
-updated_at: '2021-12-19T13:39:38.123622+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1892
-year_is_approximate: false
+id: 48e74afe-63e2-4e4d-ad29-4b234e7961d3
 image_key: Wbzcwr
+thumb: https://photos.smugmug.com/photos/i-zzbsR74/0/Th/i-zzbsR74-Th.jpg
+draft: 0
+length_on_deck: 0
 beam: 0
 for_sale_state:
   text: not_for_sale

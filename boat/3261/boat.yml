@@ -8,28 +8,24 @@ short_description: <p>&#39;Penelope&#39; is a Tela Yacht, 16&#39; gaff day-saile
 full_description: <p>The design for &#39;Penelope&#39; is based on a boat called &#39;Tela&#39;,
   a &#39;seeking boat&#39; built and sailed in the Bristol Channel in 1911. The original
   &#39;Tela&#39; was used to make the mould in the 1980s.</p>
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2012
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Dorchester, Oxon.
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3566
+construction_details: GRP
 engine_installations: []
 for_sales:
 - asking_price: 9000
-handicap_data:
-  moving_keel: true
-  length_overall: 5.0292
-  moving_keel_type: Centreboard
-  length_over_spars: 5.715
 home_country: GBR
 home_port: Cardiff
 hull_form: long keel deep forefoot
-id: b6e94026-67a4-4491-b1b7-d0be9b4a6085
-length_on_deck: 5.0292
 callsign: ''
 ownerships:
 - id: 723
@@ -37,13 +33,18 @@ ownerships:
   start: 2012
   member: 5683
   current: true
-place_built: Dorchester, Oxon.
-updated_at: '2021-12-19T13:40:05.562877+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2012
-year_is_approximate: false
+id: b6e94026-67a4-4491-b1b7-d0be9b4a6085
 image_key: zLDw5M
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-WnfWXGT/0/Th/i-WnfWXGT-Th.jpg
+draft: 0.3566
+handicap_data:
+  moving_keel: true
+  length_overall: 5.0292
+  moving_keel_type: Centreboard
+  length_over_spars: 5.715
+length_on_deck: 5.0292
 beam: 1.6764
 design_class:
   name: Tela

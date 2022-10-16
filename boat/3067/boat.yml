@@ -6,18 +6,38 @@ mainsail_type: gaff
 short_description: Swallow is a Tela, GRP replica of a pursuit boat working out of
   Barry Port S Wales - inshore pilot boat.
 full_description: ''
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2004
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Hamble
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.4328
+construction_details: GRP
 engine_installations: []
 for_sales:
 - asking_price: 4000
+home_country: GBR
+home_port: ' '
+hull_form: centre-boarder
+sail_number: ' '
+ssr: ' '
+callsign: ''
+ownerships:
+- name: John Wynn
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9c6de060-bf6d-43f2-aeea-d8688d4cd4c8
+image_key: 9XLnhH
+thumb: https://photos.smugmug.com/photos/i-dxzTzjK/0/Th/i-dxzTzjK-Th.jpg
+draft: 0.4328
 handicap_data:
   beam: 1.6764203852718849
   main:
@@ -34,26 +54,7 @@ handicap_data:
   fore_triangle_base: 2.081809314801268
   length_on_waterline: 4.800658376005852
   fore_triangle_height: 4.419653742989515
-home_country: GBR
-home_port: ' '
-hull_form: centre-boarder
-id: 9c6de060-bf6d-43f2-aeea-d8688d4cd4c8
 length_on_deck: 5.0292
-sail_number: ' '
-spar_material: wood
-ssr: ' '
-callsign: ''
-ownerships:
-- name: John Wynn
-  share: 64
-  start: 2012
-place_built: Hamble
-updated_at: '2021-12-19T13:39:57.11186+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-image_key: 9XLnhH
-construction_details: GRP
 beam: 1.6764
 design_class:
   name: Tela

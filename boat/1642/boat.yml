@@ -6,27 +6,23 @@ mainsail_type: gaff
 short_description: ''
 full_description: Log 77/1 "Red Mainsail" " The Sea is for sailing" "Sail in a Forest"
   books written by the Pyes
-builder:
-  name: William Ferris
-  id: 8f51d5a1-12b7-403d-9f91-4eab2b259c94
+year: 1896
+year_is_approximate: false
 designer:
   name: W. Ferris
   id: d1621350-b025-4abe-8a27-6387350ba217
+builder:
+  name: William Ferris
+  id: 8f51d5a1-12b7-403d-9f91-4eab2b259c94
+place_built: Looe
 construction_material: wood
 construction_method: unknown
-draft: 1.8288
+construction_details: Pitch pine on oak frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.9261155815654716
-  draft: 1.8288222384784198
-  length_over_all: 8.83930748597903
-  length_on_waterline: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: d9389a9c-cc4a-48dd-91ed-fa73ed01f47c
-length_on_deck: 8.8392
 reference:
 - 'Log 77/1 '
 ssr: '15108'
@@ -35,14 +31,18 @@ ownerships:
 - name: C Robson
   share: 64
   start: 1987
-place_built: Looe
-updated_at: '2021-12-19T13:39:16.908635+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1896
-year_is_approximate: false
+id: d9389a9c-cc4a-48dd-91ed-fa73ed01f47c
 previous_names:
 - Monraker of Fowey
-construction_details: Pitch pine on oak frames
+draft: 1.8288
+handicap_data:
+  beam: 2.9261155815654716
+  draft: 1.8288222384784198
+  length_over_all: 8.83930748597903
+  length_on_waterline: 8.83930748597903
+length_on_deck: 8.8392
 beam: 2.9261
 for_sale_state:
   text: not_for_sale

@@ -13,17 +13,44 @@ full_description: "<p>Designed by Ed Burnet and Nigel Irens and built by Fairlie
   \ her over 19 years, increasing the sail area and installing a larger engine.</p>\r\
   \n\r\n<p>She was purchased by new owners in 2017, who brought her back to the UK\
   \ where she will join the Solent Gaffers, based in Poole.</p>"
-builder:
-  name: Fairlie Restorations - Duncan Walker
-  id: 23ed6471-afc6-443d-a141-1fb563770b55
+year: 1997
+year_is_approximate: false
 designer:
   name: Ed Burnett/Nigel Irens
   id: 8f64ae6c-9f1b-46cc-b03d-d1f269ced762
+builder:
+  name: Fairlie Restorations - Duncan Walker
+  id: 23ed6471-afc6-443d-a141-1fb563770b55
+place_built: Hamble
 construction_material: woodepoxy
 construction_method: unknown
-draft: 1.8593
+construction_details: Woodepoxy construction, wood mast, carbon gaff and boom
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Poole
+hull_form: long keel sloping forefoot
+sail_number: N 1
+uk_part1: '900740'
+callsign: ''
+ownerships:
+- id: 565
+  share: 64
+  start: 2017
+  member: 5031
+  current: true
+- name: Michael Shaw
+  share: 64
+  start: 2017
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3192fc96-555b-4020-94f6-22e4e7bb7458
+previous_names:
+- Kilrush
+- Nomad ll
+image_key: nmJsXR
+thumb: https://photos.smugmug.com/photos/i-5Wdd68Q/0/Th/i-5Wdd68Q-Th.jpg
+draft: 1.8593
 handicap_data:
   main:
     foot: 22.74
@@ -38,33 +65,7 @@ handicap_data:
   fore_triangle_base: 5.7577
   length_on_waterline: 11.1892
   fore_triangle_height: 13.21
-home_country: GBR
-home_port: Poole
-hull_form: long keel sloping forefoot
-id: 3192fc96-555b-4020-94f6-22e4e7bb7458
 length_on_deck: 13.1064
-sail_number: N 1
-uk_part1: '900740'
-callsign: ''
-ownerships:
-- id: 565
-  share: 64
-  start: 2017
-  member: 5031
-  current: true
-- name: Michael Shaw
-  share: 64
-  start: 2017
-place_built: Hamble
-updated_at: '2021-12-19T13:40:08.131857+00:00'
-website: ''
-year: 1997
-year_is_approximate: false
-previous_names:
-- Kilrush
-- Nomad ll
-image_key: nmJsXR
-construction_details: Woodepoxy construction, wood mast, carbon gaff and boom
 beam: 3.938
 design_class:
   name: Nomad 43

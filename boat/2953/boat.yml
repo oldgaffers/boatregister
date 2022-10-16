@@ -17,15 +17,47 @@ full_description: "<p>Built in 1938 by Elkins of Christchurch and bought by a co
   \ at the Classic Boat Museum, Newport IoW.</p>\r\n\r\n<p>In 2010, &#39;Diane&#39;\
   \ was winner of the YOGAFF Concourse d&#39;Elegance. In 2015, her new owner, Edmund\
   \ Hewitt changed her name back to her original one &#39;Diric&#39;.</p>"
+year: 1938
+year_is_approximate: false
 builder:
   name: ErnestgF. Elkins
   id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
+place_built: Christchurch
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel round bilge Mahogany on oak Lead Keel Canvas covered
+  decks.
 engine_installations: []
 for_sales:
 - asking_price: 8000
+home_country: GBR
+home_port: Hayling Island
+hull_form: long keel deep forefoot
+uk_part1: '917620'
+callsign: ''
+ownerships:
+- end: 2010
+  name: Nick and Jill Bredon
+  share: 64
+  start: 2008
+- end: 2015
+  name: Keith Hudson
+  share: 64
+  start: 2010
+- id: 900
+  share: 64
+  start: 2015
+  member: 6031
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 89785200-6dfc-461d-bc50-9cb44e816dfa
+previous_names:
+- Diric
+- Diane
+image_key: gQNGDF
+thumb: https://photos.smugmug.com/photos/i-Ckp8dFZ/0/Th/i-Ckp8dFZ-Th.jpg
+draft: 0.9144
 handicap_data:
   beam: 2.081809314801268
   main:
@@ -44,38 +76,7 @@ handicap_data:
   fore_triangle_base: 2.871250914411119
   length_on_waterline: 5.538283345525482
   fore_triangle_height: 5.587051938551572
-home_country: GBR
-home_port: Hayling Island
-hull_form: long keel deep forefoot
-id: 89785200-6dfc-461d-bc50-9cb44e816dfa
 length_on_deck: 6.096
-uk_part1: '917620'
-callsign: ''
-ownerships:
-- end: 2010
-  name: Nick and Jill Bredon
-  share: 64
-  start: 2008
-- end: 2015
-  name: Keith Hudson
-  share: 64
-  start: 2010
-- id: 900
-  share: 64
-  start: 2015
-  member: 6031
-  current: true
-place_built: Christchurch
-updated_at: '2021-12-19T13:39:54.444619+00:00'
-website: ''
-year: 1938
-year_is_approximate: false
-previous_names:
-- Diric
-- Diane
-image_key: gQNGDF
-construction_details: Carvel round bilge Mahogany on oak Lead Keel Canvas covered
-  decks.
 beam: 2.0818
 for_sale_state:
   text: not_for_sale

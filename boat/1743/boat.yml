@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>A cabin version of the popular Tosher 18</p>
 full_description: ''
-builder:
-  name: Gaffers and Luggers
-  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+year: 1978
+year_is_approximate: false
 designer:
   name: Terry Heard
   id: c7a4b5d4-0751-4858-8054-b0e0636bb711
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.8992
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: T43
+callsign: ''
+ownerships:
+- name: R J Morgan
+  share: 64
+  start: 1990
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6fd3048d-1a5a-44fe-aa38-4ba640f61a52
+draft: 0.8992
 handicap_data:
   beam: 1.798341867837113
   main:
@@ -31,23 +47,7 @@ handicap_data:
   fore_triangle_base: 3.5997317727383566
   length_on_waterline: 5.401121677639599
   fore_triangle_height: 5.18166300902219
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 6fd3048d-1a5a-44fe-aa38-4ba640f61a52
 length_on_deck: 5.6998
-sail_number: T43
-callsign: ''
-ownerships:
-- name: R J Morgan
-  share: 64
-  start: 1990
-place_built: Mylor Bridge
-updated_at: '2021-12-19T13:39:19.126386+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-construction_details: GRP
 beam: 1.7983
 design_class:
   name: Tosher 18

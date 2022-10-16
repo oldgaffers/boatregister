@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Jack Payne
-  id: df357579-28ee-4b9d-8e25-2bee17659edf
+year: 1991
+year_is_approximate: false
 designer:
   name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+builder:
+  name: Jack Payne
+  id: df357579-28ee-4b9d-8e25-2bee17659edf
+place_built: West Mersea
 construction_material: wood
 construction_method: clinker
-draft: 0.2286
+construction_details: Glued Clinker
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: West Mersea
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: J W Payne
+  share: 64
+  start: 1991
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 036323b7-a043-4ff6-8816-8870c94e7023
+draft: 0.2286
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -27,22 +42,7 @@ handicap_data:
   fore_triangle_base: 2.286027798098025
   length_on_waterline: 4.968300414533041
   fore_triangle_height: 4.57205559619605
-home_country: 'null'
-home_port: West Mersea
-hull_form: unknown
-id: 036323b7-a043-4ff6-8816-8870c94e7023
 length_on_deck: 5.1054
-callsign: ''
-ownerships:
-- name: J W Payne
-  share: 64
-  start: 1991
-place_built: West Mersea
-updated_at: '2021-12-19T13:39:14.805653+00:00'
-website: ''
-year: 1991
-year_is_approximate: false
-construction_details: Glued Clinker
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

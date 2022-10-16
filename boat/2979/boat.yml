@@ -5,14 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Modern 22&nbsp;ft Gaff Cutter made by Cornish Crabbers</p>
 full_description: ''
+year: 2013
+year_is_approximate: false
 designer:
   name: David Thomas
   id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7102
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Beaulieu
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Christopher Pryke
+  share: 64
+  start: 2012
+- id: 640
+  share: 64
+  member: 5399
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6b291161-f422-45ce-8428-f9b2f63def2a
+draft: 0.7102
 handicap_data:
   beam: 2.5146305779078273
   main:
@@ -29,27 +49,7 @@ handicap_data:
   fore_triangle_base: 3.3528407705437697
   length_on_waterline: 6.300292611558157
   fore_triangle_height: 5.358449158741769
-home_country: GBR
-home_port: Beaulieu
-hull_form: long keel deep forefoot
-id: 6b291161-f422-45ce-8428-f9b2f63def2a
 length_on_deck: 6.7056
-callsign: ''
-ownerships:
-- name: Christopher Pryke
-  share: 64
-  start: 2012
-- id: 640
-  share: 64
-  member: 5399
-  current: true
-  start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:39:55.228377+00:00'
-website: ''
-year: 2013
-year_is_approximate: false
-construction_details: GRP
 beam: 2.5146
 design_class:
   name: Cornish Crabber 22

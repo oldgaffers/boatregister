@@ -5,37 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: A.M. Dickie and Sons
-  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+year: 1898
+year_is_approximate: false
 designer:
   name: A.M. Dickie
   id: e03f87f0-9a2d-4cfc-a685-814bc4757242
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+place_built: Tarbert
 construction_material: wood
 construction_method: unknown
-draft: 2.0117
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 2.0117044623262617
-  length_over_all: 8.62594489148988
-  length_on_waterline: 7.620092660326749
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 48d84180-6394-40a9-8360-4fd2bb00e7f3
-length_on_deck: 8.6258
 callsign: ''
 ownerships:
 - name: Richard Doig
   share: 64
   start: 2012
-place_built: Tarbert
-updated_at: '2021-12-19T13:38:52.405134+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1898
-year_is_approximate: false
+id: 48d84180-6394-40a9-8360-4fd2bb00e7f3
+draft: 2.0117
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 2.0117044623262617
+  length_over_all: 8.62594489148988
+  length_on_waterline: 7.620092660326749
+length_on_deck: 8.6258
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

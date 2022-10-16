@@ -19,28 +19,23 @@ full_description: "<p>&#39;Charles Henry Ashley&#39; was in service at Cemaes, A
   \ a Heritage Lottery Grant with the restoration completed by Classic Sailboats in\
   \ 2008.</p>\r\n\r\n<p>In April 2009 Charles Henry Ashley returned to Cemaes and\
   \ is moored in the harbour.</p>"
-builder:
-  name: Thames Ironworks and Shipbuilding Co.
-  id: 632de67d-b846-4307-a62c-b10083392f98
+year: 1907
+year_is_approximate: false
 designer:
   name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
+builder:
+  name: Thames Ironworks and Shipbuilding Co.
+  id: 632de67d-b846-4307-a62c-b10083392f98
+place_built: Bow Creek London
 construction_material: wood
 construction_method: double_diagonal
-draft: 0.4572
+construction_details: Double diagonal honduras Mahogany
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  draft: 0.45720555961960496
-  length_over_all: 11.582540843696659
-  length_over_spars: 11.887344550109729
-  length_on_waterline: 8.046817849305047
 home_country: GBR
 home_port: Cemaes Bay
 hull_form: long keel deep forefoot
-id: 86a7a3ff-8f5a-4f76-8846-6af084dae673
-length_on_deck: 11.5824
 uk_part1: ON 583
 callsign: Charles Henry Ashley
 ownerships:
@@ -49,13 +44,19 @@ ownerships:
   member: 5259
   current: true
   start: '?'
-place_built: Bow Creek London
-updated_at: '2022-02-14T11:04:40.382535+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: www.cemaesclassiclifeboat.org.uk
-year: 1907
-year_is_approximate: false
+id: 86a7a3ff-8f5a-4f76-8846-6af084dae673
 image_key: LQfktM
-construction_details: Double diagonal honduras Mahogany
+thumb: https://photos.smugmug.com/photos/i-sp2Fhsp/0/Th/i-sp2Fhsp-Th.jpg
+draft: 0.4572
+handicap_data:
+  beam: 2.8956352109241648
+  draft: 0.45720555961960496
+  length_over_all: 11.582540843696659
+  length_over_spars: 11.887344550109729
+  length_on_waterline: 8.046817849305047
+length_on_deck: 11.5824
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

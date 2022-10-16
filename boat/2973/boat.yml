@@ -27,17 +27,37 @@ full_description: "<p>Margherita is a Shilling class yacht, built in 2008 by Phi
   \ and a number of other Solent events each year. Eight of these yachts currently\
   \ exist, as far as I am aware; five rigged as yawls, two as cutters and one open\
   \ dayboat variant as a sloop. Another yawl is in build.</p>\r\n\r\n<p>&nbsp;</p>"
-builder:
-  name: Willow Bay Boats
-  id: b0d65e81-46dd-427f-9c2e-b64845d09f63
+year: 2008
+year_is_approximate: false
 designer:
   name: Phil Swift
   id: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
+builder:
+  name: Willow Bay Boats
+  id: b0d65e81-46dd-427f-9c2e-b64845d09f63
+place_built: Bowness on Windermere
 construction_material: wood
 construction_method: unknown
-draft: 0.381
+construction_details: Cedar Strip hull with Glass epoxy covering inside and out. Iroko
+  keel.Marine Ply frames, deck and cabin.Utile trim. Douglas fir spars
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Poole
+hull_form: long keel sloping forefoot
+callsign: 2BZX2
+ownerships:
+- id: 593
+  share: 64
+  start: 2008
+  member: 5143
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://sailingmargherita.blogspot.co.uk/
+id: e790430b-46aa-46f9-85dc-ca4bde9b737c
+image_key: kXc5hQ
+thumb: https://photos.smugmug.com/photos/i-THr77wk/0/Th/i-THr77wk-Th.jpg
+draft: 0.381
 handicap_data:
   beam: 2.1305779078273592
   main:
@@ -54,26 +74,7 @@ handicap_data:
   fore_triangle_base: 2.801146061936113
   length_on_waterline: 5.480370641306998
   fore_triangle_height: 9.299561082662764
-home_country: GBR
-home_port: Poole
-hull_form: long keel sloping forefoot
-id: e790430b-46aa-46f9-85dc-ca4bde9b737c
 length_on_deck: 5.1816
-callsign: 2BZX2
-ownerships:
-- id: 593
-  share: 64
-  start: 2008
-  member: 5143
-  current: true
-place_built: Bowness on Windermere
-updated_at: '2021-12-19T13:39:55.069611+00:00'
-website: http://sailingmargherita.blogspot.co.uk/
-year: 2008
-year_is_approximate: false
-image_key: kXc5hQ
-construction_details: Cedar Strip hull with Glass epoxy covering inside and out. Iroko
-  keel.Marine Ply frames, deck and cabin.Utile trim. Douglas fir spars
 beam: 1.9812
 design_class:
   name: Shilling

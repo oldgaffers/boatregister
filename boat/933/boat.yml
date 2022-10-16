@@ -29,35 +29,20 @@ full_description: "<p>Kestrel is believed to have been built in 1891 by John Whi
   \ from the 1991 rig it is still somewhat smaller than the 800 square ft listed in\
   \ 1904. Kestrel took part in the first East Coast Old Gaffers Race in 1963 and the\
   \ 2013 OGA Jubilee Celebrations in Cowes and East Coast Race.</p>"
+year: 1891
+year_is_approximate: false
 builder:
   name: J. White and Co.
   id: 1df25223-4515-4799-b52b-605f41ca5b45
+place_built: Cowes IoW
 construction_material: wood
 construction_method: carvel
-draft: 1.1674
+construction_details: Carvel teak on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.5146305779078273
-  main:
-    foot: 5.6388685686417945
-    head: 4.57205559619605
-    luff: 4.87685930260912
-  thcf: 0.96
-  draft: 1.167398195562058
-  sailarea: 47.080329271090456
-  propellor:
-    type: folding
-  length_over_all: 8.40648622287247
-  length_over_spars: 11.582540843696659
-  fore_triangle_base: 4.57205559619605
-  length_on_waterline: 7.620092660326749
-  fore_triangle_height: 8.382101926359423
 home_country: GBR
 home_port: Waldringfield
 hull_form: long keel deep forefoot
-id: 532dbad7-9ab2-4915-b9bc-6655142b3db7
-length_on_deck: 8.4064
 uk_part1: '123933'
 callsign: ''
 ownerships:
@@ -102,13 +87,29 @@ ownerships:
   text: James Palmer
   start: 1997
   start_is_approximate: false
-place_built: Cowes IoW
-updated_at: '2021-12-19T13:38:56.425686+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1891
-year_is_approximate: false
+id: 532dbad7-9ab2-4915-b9bc-6655142b3db7
 image_key: 9tg58q
-construction_details: Carvel teak on oak
+thumb: https://photos.smugmug.com/photos/i-ZXcCVbt/0/Th/i-ZXcCVbt-Th.jpg
+draft: 1.1674
+handicap_data:
+  beam: 2.5146305779078273
+  main:
+    foot: 5.6388685686417945
+    head: 4.57205559619605
+    luff: 4.87685930260912
+  thcf: 0.96
+  draft: 1.167398195562058
+  sailarea: 47.080329271090456
+  propellor:
+    type: folding
+  length_over_all: 8.40648622287247
+  length_over_spars: 11.582540843696659
+  fore_triangle_base: 4.57205559619605
+  length_on_waterline: 7.620092660326749
+  fore_triangle_height: 8.382101926359423
+length_on_deck: 8.4064
 beam: 2.5146
 for_sale_state:
   text: not_for_sale

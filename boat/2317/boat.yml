@@ -5,27 +5,23 @@ rig_type: Schooner
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Peter Matheson
-  id: 409521fb-a2e7-4817-b845-aedcfae56bcc
+year: 1997
+year_is_approximate: false
 designer:
   name: Murray G. Peterson
   id: a2e01005-a9e2-4e11-84f6-26828637d074
+builder:
+  name: Peter Matheson
+  id: 409521fb-a2e7-4817-b845-aedcfae56bcc
+place_built: Scarf Skerry
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.6576444769568397
-  draft: 1.8288222384784198
-  length_over_all: 12.557912704218484
-  length_on_waterline: 10.271884906120459
 home_country: GBR
 home_port: Gosport
 hull_form: long keel sloping forefoot
-id: 3abbf8e5-3765-431e-a7c6-7a482fcc970d
-length_on_deck: 13.1064
 callsign: ''
 ownerships:
 - name: Tom and Katie Guy
@@ -35,12 +31,16 @@ ownerships:
   member: 5890
   current: true
   start: '?'
-place_built: Scarf Skerry
-updated_at: '2021-12-19T13:39:34.898666+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1997
-year_is_approximate: false
-construction_details: Carvel
+id: 3abbf8e5-3765-431e-a7c6-7a482fcc970d
+draft: 1.8288
+handicap_data:
+  beam: 3.6576444769568397
+  draft: 1.8288222384784198
+  length_over_all: 12.557912704218484
+  length_on_waterline: 10.271884906120459
+length_on_deck: 13.1064
 beam: 3.6576
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Crabber 26.</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2013
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.8138
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Warsash
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Graham and Patricia Woodward
+  share: 64
+  start: 2013
+- share: 64
+  member: 5880
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: ccad0b72-ab19-4492-aac6-ea9a9516c058
+draft: 0.8138
 handicap_data:
   main:
     foot: 16.67
@@ -31,26 +50,7 @@ handicap_data:
   fore_triangle_base: 4.3952
   length_on_waterline: 7.239
   fore_triangle_height: 7.9004
-home_country: GBR
-home_port: Warsash
-hull_form: long keel deep forefoot
-id: ccad0b72-ab19-4492-aac6-ea9a9516c058
 length_on_deck: 8.001
-callsign: ''
-ownerships:
-- name: Graham and Patricia Woodward
-  share: 64
-  start: 2013
-- share: 64
-  member: 5880
-  current: true
-  start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:40:03.938632+00:00'
-website: ''
-year: 2013
-year_is_approximate: false
-construction_details: GRP
 beam: 2.7432
 design_class:
   name: Cornish Crabber 26

@@ -5,14 +5,34 @@ rig_type: Cutter
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
+year: 1934
+year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
 construction_material: wood
 construction_method: carvel
-draft: 0
+construction_details: Carvel Wood
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Cowes
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Craig and Kate Nutter
+  share: 64
+  start: 1998
+- share: 64
+  member: 4288
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e533d6d3-23a4-4623-860c-d0e8ccf2aea9
+previous_names:
+- Sabrina of Hamble
+draft: 0
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -25,27 +45,7 @@ handicap_data:
   fore_triangle_base: 4.404413557668861
   length_on_waterline: 7.620092660326749
   fore_triangle_height: 8.558888076079004
-home_country: GBR
-home_port: Cowes
-hull_form: long keel deep forefoot
-id: e533d6d3-23a4-4623-860c-d0e8ccf2aea9
 length_on_deck: 8.0772
-callsign: ''
-ownerships:
-- name: Craig and Kate Nutter
-  share: 64
-  start: 1998
-- share: 64
-  member: 4288
-  current: true
-  start: '?'
-updated_at: '2021-12-19T13:40:02.262657+00:00'
-website: ''
-year: 1934
-year_is_approximate: false
-previous_names:
-- Sabrina of Hamble
-construction_details: Carvel Wood
 beam: 2.5908
 design_class:
   name: Cyclone

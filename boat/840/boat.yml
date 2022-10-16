@@ -16,18 +16,40 @@ full_description: "<p>&#39;Stadats&#39; was built by S.E. Saunders of Cowes for 
   \ yacht, cruising the East Coast rivers and taking part in traditional regattas\
   \ and OGA events.&nbsp;Never at the front of the fleet, she was always there no\
   \ matter what the weather.</p>"
-builder:
-  name: E.W. Saunders
-  id: 015f772c-ed32-42f7-ba2a-de6e2356b856
+year: 1921
+year_is_approximate: false
 designer:
   name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
+builder:
+  name: E.W. Saunders
+  id: 015f772c-ed32-42f7-ba2a-de6e2356b856
+place_built: Cowes IoW
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.0912
+construction_details: Double diagonal Honduras Mahogany
 engine_installations: []
 for_sales:
 - asking_price: 0
+home_country: GBR
+home_port: Woodbridge
+hull_form: unknown
+uk_part1: '160486'
+callsign: ''
+ownerships:
+- end: 2018
+  name: John Krejsa
+  share: 64
+  start: 1985
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8fe5fc6e-27db-43c9-a485-fa6403335fe1
+previous_names:
+- Frederick and Emma
+image_key: szvRmL
+thumb: https://photos.smugmug.com/photos/i-RtPsp3R/0/Th/i-RtPsp3R-Th.jpg
+draft: 1.0912
 handicap_data:
   beam: 3.6576444769568397
   main:
@@ -42,28 +64,7 @@ handicap_data:
   fore_triangle_base: 3.7186052182394533
   length_on_waterline: 13.106559375762009
   fore_triangle_height: 9.570836381370396
-home_country: GBR
-home_port: Woodbridge
-hull_form: unknown
-id: 8fe5fc6e-27db-43c9-a485-fa6403335fe1
 length_on_deck: 13.716
-spar_material: wood
-uk_part1: '160486'
-callsign: ''
-ownerships:
-- end: 2018
-  name: John Krejsa
-  share: 64
-  start: 1985
-place_built: Cowes IoW
-updated_at: '2021-12-19T13:38:53.875447+00:00'
-website: ''
-year: 1921
-year_is_approximate: false
-previous_names:
-- Frederick and Emma
-image_key: szvRmL
-construction_details: Double diagonal Honduras Mahogany
 beam: 3.6576
 design_class:
   name: RNLI Watson Class

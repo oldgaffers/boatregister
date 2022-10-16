@@ -5,21 +5,17 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log 83/3
+year: 1933
+year_is_approximate: false
+place_built: Gosport
 construction_material: wood
 construction_method: carvel
-draft: 1.7678
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.529870763228481
-  draft: 1.7678614971958058
-  length_over_all: 8.01633747866374
-  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: c0d2d7d0-466e-4ab3-9453-d9b3727ae827
-length_on_deck: 8.0162
 reference:
 - Log 83/3
 callsign: ''
@@ -27,12 +23,16 @@ ownerships:
 - name: T Wright
   share: 64
   start: 2012
-place_built: Gosport
-updated_at: '2021-12-19T13:38:47.547151+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1933
-year_is_approximate: false
-construction_details: Pitch pine on oak
+id: c0d2d7d0-466e-4ab3-9453-d9b3727ae827
+draft: 1.7678
+handicap_data:
+  beam: 2.529870763228481
+  draft: 1.7678614971958058
+  length_over_all: 8.01633747866374
+  length_on_waterline: 7.315288953913679
+length_on_deck: 8.0162
 beam: 2.5298
 for_sale_state:
   text: not_for_sale

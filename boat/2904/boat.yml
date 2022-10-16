@@ -6,28 +6,23 @@ mainsail_type: gaff
 short_description: <p>&#39;Gypsy&#39; was built as an open boat with a two-berth cuddy
   under the foredeck. She is a gunter sloop.</p>
 full_description: ''
-builder:
-  name: North Norfolk Boatbuilding Co./Charlie Ward
-  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+year: 1994
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: North Norfolk Boatbuilding Co./Charlie Ward
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+place_built: Moreston
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 6.035113386978786
-  length_on_waterline: 5.730309680565716
 home_country: 'null'
 home_port: Braye Alderney
 hull_form: long keel deep forefoot
-id: b7cb4f84-4059-4d88-9c04-1d6dcec76d61
-length_on_deck: 6.035
 ssr: '51602'
 callsign: ''
 ownerships:
@@ -37,12 +32,17 @@ ownerships:
   name: Chris J Rees
   share: 64
   start: 2008
-place_built: Moreston
-updated_at: '2021-12-19T13:39:52.919377+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1994
-year_is_approximate: false
-construction_details: GRP
+id: b7cb4f84-4059-4d88-9c04-1d6dcec76d61
+draft: 0
+handicap_data:
+  beam: 2.286027798098025
+  propellor:
+    type: fixed
+  length_over_all: 6.035113386978786
+  length_on_waterline: 5.730309680565716
+length_on_deck: 6.035
 beam: 2.286
 design_class:
   name: Norfolk Gypsy

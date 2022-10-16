@@ -5,17 +5,35 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Blackjack is a Cornish Shrimper 21</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2015
+year_is_approximate: false
 designer:
   name: Roger Dongray/David Thomas Yachts
   id: 7d1ad008-4263-419d-8843-d466ded0ec2c
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.57
+construction_details: Hull GRP solid laminate. Deck GRP with balsa core
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: '12'
+callsign: ''
+ownerships:
+- id: 607
+  share: 64
+  start: 2015
+  member: 5210
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b2bda74c-f824-4934-abb0-838d8c682bf7
+draft: 0.57
 handicap_data:
   main:
     foot: 12.7
@@ -31,25 +49,7 @@ handicap_data:
   fore_triangle_base: 3.0297
   length_on_waterline: 6.099
   fore_triangle_height: 5.6601
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: b2bda74c-f824-4934-abb0-838d8c682bf7
 length_on_deck: 6.4008
-sail_number: '12'
-callsign: ''
-ownerships:
-- id: 607
-  share: 64
-  start: 2015
-  member: 5210
-  current: true
-place_built: Rock
-updated_at: '2021-12-19T13:40:07.216123+00:00'
-website: ''
-year: 2015
-year_is_approximate: false
-construction_details: Hull GRP solid laminate. Deck GRP with balsa core
 beam: 2.3988
 design_class:
   name: Cornish Shrimper 21

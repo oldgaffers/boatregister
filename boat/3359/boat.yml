@@ -10,39 +10,24 @@ full_description: <p>&#39;Zeezot&#39; was built as a lobster sloop in Golfe du M
   by Vandamme in Zeebrugge, 2008.</p><p>Since then, her the teak deck and coachroof
   have been refitted and in 2017 she sailed to the Golfe du Morbihan Festival.</p><p>K
   774445 Registered 2010 Nieuwpoort Belgium</p><p>OGA NL boat no. 190</p>
-builder:
-  name: Henri Guillo/Joel Guillo
-  id: cb47b701-68f2-49dc-9d29-ecc912f0367f
+year: 1948
+year_is_approximate: false
 designer:
   name: Unknown
   id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+builder:
+  name: Henri Guillo/Joel Guillo
+  id: cb47b701-68f2-49dc-9d29-ecc912f0367f
+place_built: Conleau-Vannes
 construction_material: wood
 construction_method: carvel
-draft: 1.0973
+construction_details: Carvel oak and oregon pine above the water. Teak deck on waterproof
+  multiplex. Spruce spars
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 14.96
-    head: 12.63
-    luff: 12.96
-  topsail:
-    luff: 12.7
-    perpendicular: 8.04
-  sailarea: 7
-  moving_keel: true
-  length_overall: 7.748
-  calculated_thcf: 0.889
-  moving_keel_type: Centreboard
-  length_over_spars: 10.351
-  fore_triangle_base: 4.2001
-  length_on_waterline: 6.5014
-  fore_triangle_height: 8.001
 home_country: BEL
 home_port: Vlaams Yacht Haven Nieuwpoort
 hull_form: long keel deep forefoot
-id: 3d0e36a8-5a5e-46d7-80bd-88d29db887cc
-length_on_deck: 7.748
 callsign: ''
 ownerships:
 - end: 1960
@@ -76,14 +61,30 @@ ownerships:
   member: 126
   current: true
   start: '?'
-place_built: Conleau-Vannes
-updated_at: '2021-12-19T13:40:08.734136+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1948
-year_is_approximate: false
+id: 3d0e36a8-5a5e-46d7-80bd-88d29db887cc
 image_key: 5JhRwf
-construction_details: Carvel oak and oregon pine above the water. Teak deck on waterproof
-  multiplex. Spruce spars
+thumb: https://photos.smugmug.com/photos/i-MNvtCKT/0/Th/i-MNvtCKT-Th.jpg
+draft: 1.0973
+handicap_data:
+  main:
+    foot: 14.96
+    head: 12.63
+    luff: 12.96
+  topsail:
+    luff: 12.7
+    perpendicular: 8.04
+  sailarea: 7
+  moving_keel: true
+  length_overall: 7.748
+  calculated_thcf: 0.889
+  moving_keel_type: Centreboard
+  length_over_spars: 10.351
+  fore_triangle_base: 4.2001
+  length_on_waterline: 6.5014
+  fore_triangle_height: 8.001
+length_on_deck: 7.748
 beam: 2.9505
 for_sale_state:
   text: not_for_sale

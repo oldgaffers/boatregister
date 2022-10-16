@@ -5,27 +5,22 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 70/2, 69/2, 68/4, 67/1. See CB Sept 04.
-builder:
-  name: Dan Webb/Feesey Webb
-  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+year: 1965
+year_is_approximate: false
 designer:
   name: Dan Webb
   id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
+builder:
+  name: Dan Webb/Feesey Webb
+  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+place_built: Maldon
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9812240916849548
-  draft: 1.21921482565228
-  length_over_all: 5.6388685686417945
-  length_on_waterline: 5.029261155815655
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: f077fb43-f84f-46ff-bc13-fc363aa20547
-length_on_deck: 5.6388
 reference:
 - Log 70/2
 - Log 69/2
@@ -37,11 +32,16 @@ ownerships:
 - name: A J Yeatman
   share: 64
   start: 2012
-place_built: Maldon
-updated_at: '2021-12-19T13:38:38.514165+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
+id: f077fb43-f84f-46ff-bc13-fc363aa20547
+draft: 1.2192
+handicap_data:
+  beam: 1.9812240916849548
+  draft: 1.21921482565228
+  length_over_all: 5.6388685686417945
+  length_on_waterline: 5.029261155815655
+length_on_deck: 5.6388
 beam: 1.9812
 design_class:
   name: Blackwater Sloop

@@ -5,37 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Luke Bros and Co.
-  id: a777971c-fef9-4412-9ad3-422224af5a67
+year: 1906
+year_is_approximate: false
 designer:
   name: A.R. Luke
   id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+builder:
+  name: Luke Bros and Co.
+  id: a777971c-fef9-4412-9ad3-422224af5a67
+place_built: Hamble
 construction_material: wood
 construction_method: carvel
-draft: 0
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.682272616435016
-  length_over_all: 11.430138990490123
-  length_on_waterline: 8.22970007315289
 home_country: NLD
 home_port: Rosmalen
 hull_form: unknown
-id: 7b825972-7082-4613-a0d7-27d70aa3d35a
-length_on_deck: 11.43
 callsign: ''
 ownerships:
 - name: Frank Zomerdijk
   share: 64
   start: 2003
-place_built: Hamble
-updated_at: '2021-12-19T13:39:49.492109+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1906
-year_is_approximate: false
-construction_details: Carvel
+id: 7b825972-7082-4613-a0d7-27d70aa3d35a
+draft: 0
+handicap_data:
+  beam: 2.682272616435016
+  length_over_all: 11.430138990490123
+  length_on_waterline: 8.22970007315289
+length_on_deck: 11.43
 beam: 2.6822
 for_sale_state:
   text: not_for_sale

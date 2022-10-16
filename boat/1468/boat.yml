@@ -5,18 +5,42 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>&#39;Sally-J&#39; is a Heard 28, built in 1981.</p>
 full_description: ''
-builder:
-  name: Gaffers and Luggers
-  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+year: 1981
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.524
+construction_details: GRP hull, ply decks, Iroko cabin
 engine_installations: []
 for_sales:
 - asking_price: 28000
+home_country: GBR
+home_port: Pembrokeshire
+hull_form: long keel deep forefoot
+sail_number: '1468'
+ssr: '46305'
+callsign: ''
+ownerships:
+- end: 2014
+  name: C L Rihan
+  share: 64
+  start: 1992
+- end: 2019
+  name: Dick Boele
+  share: 64
+  start: 2014
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 00d4a10b-f9a1-4ebd-b8c2-3ed6aa720623
+image_key: bQTgVv
+thumb: https://photos.smugmug.com/photos/i-F7sfjGT/0/Th/i-F7sfjGT-Th.jpg
+draft: 1.524
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -34,30 +58,7 @@ handicap_data:
   fore_triangle_base: 5.739453791758107
   length_on_waterline: 8.077298219946353
   fore_triangle_height: 9.982321385028042
-home_country: GBR
-home_port: Pembrokeshire
-hull_form: long keel deep forefoot
-id: 00d4a10b-f9a1-4ebd-b8c2-3ed6aa720623
 length_on_deck: 8.5344
-sail_number: '1468'
-ssr: '46305'
-callsign: ''
-ownerships:
-- end: 2014
-  name: C L Rihan
-  share: 64
-  start: 1992
-- end: 2019
-  name: Dick Boele
-  share: 64
-  start: 2014
-place_built: Mylor Bridge
-updated_at: '2021-12-19T13:39:12.23786+00:00'
-website: ''
-year: 1981
-year_is_approximate: false
-image_key: bQTgVv
-construction_details: GRP hull, ply decks, Iroko cabin
 beam: 3.048
 design_class:
   name: Heard 28

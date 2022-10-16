@@ -5,28 +5,23 @@ rig_type: Yawl
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: Dartington Boatworks Ltd.
-  id: aadcb1bc-ba24-4c1d-8a25-46f85fb96b83
+year: 1995
+year_is_approximate: false
 designer:
   name: Nigel Irens
   id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
+builder:
+  name: Dartington Boatworks Ltd.
+  id: aadcb1bc-ba24-4c1d-8a25-46f85fb96b83
+place_built: Totnes
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.509
+construction_details: GRP with Carbon fibre foresail spars and grp mizzen spars.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.081809314801268
-  thcf: 0.865769509
-  draft: 0.5090221897098268
-  length_over_all: 6.705681541087539
-  length_on_waterline: 6.1722750548646665
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 8440129f-047f-4453-9eb4-f9362121bc73
-length_on_deck: 6.7056
 callsign: ''
 ownerships:
 - name: Stephen Cross
@@ -36,12 +31,17 @@ ownerships:
   member: 6109
   current: true
   start: '?'
-place_built: Totnes
-updated_at: '2021-12-19T13:39:34.829634+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1995
-year_is_approximate: false
-construction_details: GRP with Carbon fibre foresail spars and grp mizzen spars.
+id: 8440129f-047f-4453-9eb4-f9362121bc73
+draft: 0.509
+handicap_data:
+  beam: 2.081809314801268
+  thcf: 0.865769509
+  draft: 0.5090221897098268
+  length_over_all: 6.705681541087539
+  length_on_waterline: 6.1722750548646665
+length_on_deck: 6.7056
 beam: 2.0818
 design_class:
   name: Romilly

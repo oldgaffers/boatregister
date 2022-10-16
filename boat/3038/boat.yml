@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 2003
+year_is_approximate: false
 designer:
   name: Dudley Dix
   id: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Rochdale
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.4054
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- end: 2012
+  name: Geoffrey Platten
+  share: 64
+  start: 2003
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: aee79df1-cb4e-4730-b600-ef7affd4def5
+previous_names:
+- Rondinella
+image_key: 5gzWjj
+thumb: https://photos.smugmug.com/photos/i-Pmf5P4T/0/Th/i-Pmf5P4T-Th.jpg
+draft: 0.4054
 handicap_data:
   beam: 2.200682760302365
   main:
@@ -29,26 +49,7 @@ handicap_data:
   fore_triangle_base: 3.401609363569861
   length_on_waterline: 5.501706900755913
   fore_triangle_height: 5.5992440868080955
-home_country: GBR
-home_port: ''
-hull_form: unknown
-id: aee79df1-cb4e-4730-b600-ef7affd4def5
 length_on_deck: 5.7912
-callsign: ''
-ownerships:
-- end: 2012
-  name: Geoffrey Platten
-  share: 64
-  start: 2003
-place_built: Rochdale
-updated_at: '2021-12-19T13:39:56.432145+00:00'
-website: ''
-year: 2003
-year_is_approximate: false
-previous_names:
-- Rondinella
-image_key: 5gzWjj
-construction_details: GRP
 beam: 2.2098
 design_class:
   name: Cape Cutter 19

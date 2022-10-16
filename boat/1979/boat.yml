@@ -5,36 +5,36 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Hunter Boats Ltd.
-  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
+year: 1987
+year_is_approximate: false
 designer:
   name: David Thomas
   id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+builder:
+  name: Hunter Boats Ltd.
+  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
+place_built: Rochford Essex
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.234211168007803
-  length_over_all: 7.010485247500609
 home_country: 'null'
 home_port: Dartmouth
 hull_form: unknown
-id: 211e80df-3d26-493c-897c-60b11e09baf1
-length_on_deck: 7.0104
 callsign: ''
 ownerships:
 - name: John Bush
   share: 64
   start: 2012
-place_built: Rochford Essex
-updated_at: '2021-12-19T13:39:25.927626+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1987
-year_is_approximate: false
-construction_details: GRP
+id: 211e80df-3d26-493c-897c-60b11e09baf1
+draft: 0
+handicap_data:
+  beam: 2.234211168007803
+  length_over_all: 7.010485247500609
+length_on_deck: 7.0104
 beam: 2.2342
 design_class:
   name: Hunter Minstrel

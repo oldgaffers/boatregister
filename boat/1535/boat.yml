@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Y M Feb 1964  Thames Bawley 6 Tonners
-builder:
-  name: Johnson and Johnson
-  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+year: 1968
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: Johnson and Johnson
+  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+place_built: Leigh on Sea
 construction_material: wood
 construction_method: carvel
-draft: 1.1156
+construction_details: Carvel Mahogany on Canadian Rock Elm. Iroko Backbone.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Hullbridge R Crouch
+hull_form: long keel deep forefoot
+uk_part1: '341624'
+callsign: ''
+ownerships:
+- name: J R H Bullock
+  share: 64
+  start: 1971
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7c2da325-4093-4e50-80c9-f134b96abdbb
+draft: 1.1156
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -30,23 +46,7 @@ handicap_data:
   fore_triangle_base: 4.26725188978298
   length_on_waterline: 7.010485247500609
   fore_triangle_height: 7.2390880273104115
-home_country: 'null'
-home_port: Hullbridge R Crouch
-hull_form: long keel deep forefoot
-id: 7c2da325-4093-4e50-80c9-f134b96abdbb
 length_on_deck: 7.9248
-uk_part1: '341624'
-callsign: ''
-ownerships:
-- name: J R H Bullock
-  share: 64
-  start: 1971
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:39:14.154377+00:00'
-website: ''
-year: 1968
-year_is_approximate: false
-construction_details: Carvel Mahogany on Canadian Rock Elm. Iroko Backbone.
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

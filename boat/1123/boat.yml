@@ -5,25 +5,20 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 85/2
+year: 1949
+year_is_approximate: false
 builder:
   name: G.W. Parham
   id: 11dd7e2a-3685-4c91-ac4c-805f012da2a9
+place_built: Emsworth
 construction_material: wood
 construction_method: carvel
-draft: 0.3292
+construction_details: Carvel mahogany on oak with steel centreboard
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 0.3302060473055352
-  draft_keeldown: 1.3716288710070714
-  length_over_all: 5.4864667154352595
-  length_on_waterline: 5.18166300902219
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: e81e750c-4e5f-4221-a014-e67d5c99c492
-length_on_deck: 5.4864
 reference:
 - Log 85/2
 callsign: ''
@@ -31,12 +26,17 @@ ownerships:
 - name: M A Tutton
   share: 64
   start: 2012
-place_built: Emsworth
-updated_at: '2021-12-19T13:39:02.165631+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1949
-year_is_approximate: false
-construction_details: Carvel mahogany on oak with steel centreboard
+id: e81e750c-4e5f-4221-a014-e67d5c99c492
+draft: 0.3292
+handicap_data:
+  beam: 2.13362594489149
+  draft: 0.3302060473055352
+  draft_keeldown: 1.3716288710070714
+  length_over_all: 5.4864667154352595
+  length_on_waterline: 5.18166300902219
+length_on_deck: 5.4864
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

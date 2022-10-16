@@ -5,17 +5,33 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: D. France
-  id: 5c03b582-7338-4735-84ca-5701410a281c
+year: 1976
+year_is_approximate: false
 designer:
   name: William Atkin
   id: f455f3b6-d2be-4793-a2d4-512398485aef
+builder:
+  name: D. France
+  id: 5c03b582-7338-4735-84ca-5701410a281c
+place_built: Costa Mesa California USA
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.6764
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+uk_part1: '572577'
+callsign: ''
+ownerships:
+- name: S2665
+  share: 64
+  start: 1989
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0f436966-0012-4d81-9b0d-e35ffc9b6de4
+draft: 1.6764
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -34,23 +50,7 @@ handicap_data:
   fore_triangle_base: 5.105462082418922
   length_on_waterline: 8.382101926359423
   fore_triangle_height: 8.686905632772493
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 0f436966-0012-4d81-9b0d-e35ffc9b6de4
 length_on_deck: 10.0584
-uk_part1: '572577'
-callsign: ''
-ownerships:
-- name: S2665
-  share: 64
-  start: 1989
-place_built: Costa Mesa California USA
-updated_at: '2021-12-19T13:39:11.89314+00:00'
-website: ''
-year: 1976
-year_is_approximate: false
-construction_details: GRP
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

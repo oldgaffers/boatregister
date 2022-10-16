@@ -21,18 +21,38 @@ full_description: "<p>Designed by Charles Nicholson and Uffa Fox, &#39;Kingfishe
   \ bronze fittings that would make I K Brunel whistle. Peppered with crowsfeet and\
   \ Chatham marks on every surface, her beautiful Egyptian cotton sails have Chatham\
   \ sail loft marks, made in the 1960s.</p>"
-builder:
-  name: Naval Dockyard Chatham
-  id: 19f2f4a9-5bdc-4cea-ba45-17be5e6e7bea
+year_is_approximate: false
 designer:
   name: Charles E. Nicholson
   id: f97b2d74-8535-4ed5-8602-651d2ca2898f
+builder:
+  name: Naval Dockyard Chatham
+  id: 19f2f4a9-5bdc-4cea-ba45-17be5e6e7bea
+place_built: Chatham Naval Dockyard
 construction_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clinker built, probably mahogany on oak, copper fastened. Bronze
+  fittings including centreplate winch.
 engine_installations: []
 for_sales:
 - asking_price: 1500
+home_country: GBR
+home_port: Shoreham on Sea
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- note: Previous owner Graham Stanford
+  text: Previous owner Graham Stanford
+- end: 2017
+  name: Charles Harrison
+  share: 64
+  start: 2003
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 37f984cb-aae1-499e-aab7-d55b1323ce5b
+image_key: rxNpGs
+thumb: https://photos.smugmug.com/photos/i-DqCNPL9/0/Th/i-DqCNPL9-Th.jpg
+draft: 0
 handicap_data:
   main:
     foot: 10.08
@@ -48,26 +68,7 @@ handicap_data:
   fore_triangle_base: 1.2192
   length_on_waterline: 4.2672
   fore_triangle_height: 4.1148
-home_country: GBR
-home_port: Shoreham on Sea
-hull_form: long keel deep forefoot
-id: 37f984cb-aae1-499e-aab7-d55b1323ce5b
 length_on_deck: 4.2672
-callsign: ''
-ownerships:
-- note: Previous owner Graham Stanford
-  text: Previous owner Graham Stanford
-- end: 2017
-  name: Charles Harrison
-  share: 64
-  start: 2003
-place_built: Chatham Naval Dockyard
-updated_at: '2021-12-19T13:40:08.35288+00:00'
-website: ''
-year_is_approximate: false
-image_key: rxNpGs
-construction_details: Clinker built, probably mahogany on oak, copper fastened. Bronze
-  fittings including centreplate winch.
 beam: 1.6703
 design_class:
   name: RNSA14

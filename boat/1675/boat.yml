@@ -5,25 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 89/3 Sister ship to Olive Mary
-builder:
-  name: Harry King and Sons
-  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
+year: 1931
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: Harry King and Sons
+  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
+place_built: Pin Mill
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  length_over_all: 7.772494513533284
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: a4c36d8d-54fc-4321-a0a6-91ad28ea4968
-length_on_deck: 7.7724
 reference:
 - Log 89/3
 callsign: ''
@@ -31,13 +28,16 @@ ownerships:
 - name: Capt J Mark Stevenson
   share: 64
   start: 2012
-place_built: Pin Mill
-updated_at: '2021-12-19T13:39:17.518646+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1931
-year_is_approximate: false
+id: a4c36d8d-54fc-4321-a0a6-91ad28ea4968
 previous_names:
 - Silver Fox
+draft: 0
+handicap_data:
+  beam: 2.590831504511095
+  length_over_all: 7.772494513533284
+length_on_deck: 7.7724
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

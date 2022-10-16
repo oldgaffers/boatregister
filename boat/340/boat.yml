@@ -16,18 +16,49 @@ full_description: "<p>Built in 1896 at Blackwall, London in teak on oak, with la
   \ in Class I in 1968, and, third in 1969.</p>\r\n\r\n<p>In 1970 she was owned and\
   \ raced by T F Emmons and R J Woods of Little Horkesley.</p>\r\n\r\n<p>She has been\
   \ owned since 1972 by Mike King.</p>"
-builder:
-  name: Watkins and Co. Ltd.
-  id: 8c100874-4799-4967-a239-a5911245057c
+year: 1896
+year_is_approximate: false
 designer:
   name: W. Watkins
   id: 7a2b0cba-fbe3-4461-87c2-9b529ce509fe
+builder:
+  name: Watkins and Co. Ltd.
+  id: 8c100874-4799-4967-a239-a5911245057c
+place_built: Blackwall, London
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.7526
+construction_details: Teak carvel planking on oak sawn and bent frames
 engine_installations: []
 for_sales:
 - asking_price: 28000
+home_country: GBR
+home_port: Leigh on Sea
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- note: "Advertised for sale in OGA Newsletter 1969/5 by A.Smith, Great Bentley, Essex\
+    \ for \xA31,800 'less than the amount spent on refitting over past three years,\
+    \ essential that prospective owner is someone who will take care of a very beautiful\
+    \ boat'."
+  text: Advertised for sale in OGA Newsletter
+  start: 1969
+  start_is_approximate: false
+- end: 2019
+  name: M King
+  share: 64
+  start: 1972
+- id: 26
+  share: 64
+  member: 725
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d2e354dd-6367-47a9-ba21-9779bd6f01b7
+image_key: VS7m8t
+thumb: https://photos.smugmug.com/photos/i-QhCMrWF/0/Th/i-QhCMrWF-Th.jpg
+draft: 1.7526
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -48,37 +79,7 @@ handicap_data:
   fore_triangle_base: 5.18166300902219
   length_on_waterline: 8.53450377956596
   fore_triangle_height: 9.75371860521824
-home_country: GBR
-home_port: Leigh on Sea
-hull_form: long keel deep forefoot
-id: d2e354dd-6367-47a9-ba21-9779bd6f01b7
 length_on_deck: 10.3114
-spar_material: wood
-callsign: ''
-ownerships:
-- note: "Advertised for sale in OGA Newsletter 1969/5 by A.Smith, Great Bentley, Essex\
-    \ for \xA31,800 'less than the amount spent on refitting over past three years,\
-    \ essential that prospective owner is someone who will take care of a very beautiful\
-    \ boat'."
-  text: Advertised for sale in OGA Newsletter
-  start: 1969
-  start_is_approximate: false
-- end: 2019
-  name: M King
-  share: 64
-  start: 1972
-- id: 26
-  share: 64
-  member: 725
-  current: true
-  start: '?'
-place_built: Blackwall, London
-updated_at: '2021-12-19T13:38:39.606186+00:00'
-website: ''
-year: 1896
-year_is_approximate: false
-image_key: VS7m8t
-construction_details: Teak carvel planking on oak sawn and bent frames
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

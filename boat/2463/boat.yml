@@ -5,17 +5,36 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: Sail & Oar
-  id: 4a3774d0-9dfe-4e5f-85e2-2abbd40a54ab
+year: 1993
+year_is_approximate: false
 designer:
   name: Joel White
   id: 8052b20d-f45d-42cf-82c9-c5c870e14efc
+builder:
+  name: Sail & Oar
+  id: 4a3774d0-9dfe-4e5f-85e2-2abbd40a54ab
+place_built: Totnes
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.509
+construction_details: epoxy ply
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Totnes
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: John Scott
+  share: 64
+  start: 1993
+- note: First owner passed away 2007, taken on by his son.
+  text: First owner passed away
+  start: 2007
+  start_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7fd77b40-4679-4238-aa42-0e30827ea946
+draft: 0.509
 handicap_data:
   beam: 1.3716166788588149
   main:
@@ -28,26 +47,7 @@ handicap_data:
   fore_triangle_base: 1.21921482565228
   length_on_waterline: 3.5052426237503047
   fore_triangle_height: 3.2004389173372347
-home_country: GBR
-home_port: Totnes
-hull_form: unknown
-id: 7fd77b40-4679-4238-aa42-0e30827ea946
 length_on_deck: 3.9106
-callsign: ''
-ownerships:
-- name: John Scott
-  share: 64
-  start: 1993
-- note: First owner passed away 2007, taken on by his son.
-  text: First owner passed away
-  start: 2007
-  start_is_approximate: false
-place_built: Totnes
-updated_at: '2021-12-19T13:39:39.590905+00:00'
-website: ''
-year: 1993
-year_is_approximate: false
-construction_details: epoxy ply
 beam: 1.3716
 for_sale_state:
   text: not_for_sale

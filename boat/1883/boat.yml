@@ -5,14 +5,29 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1995
+year_is_approximate: false
 builder:
   name: Character Boats
   id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+place_built: Overton
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.509
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Stephens
+  share: 64
+  start: 1995
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 38aa07cb-2920-4dce-a305-ea92b95cad63
+draft: 0.509
 handicap_data:
   beam: 1.8288
   main:
@@ -27,22 +42,7 @@ handicap_data:
   fore_triangle_base: 1.8288
   length_on_waterline: 4.2672
   fore_triangle_height: 2.4384
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 38aa07cb-2920-4dce-a305-ea92b95cad63
 length_on_deck: 5.1816
-callsign: ''
-ownerships:
-- name: Stephens
-  share: 64
-  start: 1995
-place_built: Overton
-updated_at: '2021-12-19T13:39:23.097111+00:00'
-website: ''
-year: 1995
-year_is_approximate: false
-construction_details: GRP
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

@@ -18,17 +18,34 @@ full_description: "<p>Wren was built in 1947 by Whistocks on the river Deben. Sh
   \ providing access to remove and replace broken timbers. Surprisingly the majority\
   \ of the copper fastenings below the waterline were in a very poor state and need\
   \ refastening</p>"
-builder:
-  name: Claude Whisstock
-  id: 14a939d0-e062-4e1d-9e21-c1ec89fef573
+year: 1947
+year_is_approximate: false
 designer:
   name: William Maxwell Blake
   id: 7be4728c-aec1-4b98-9245-33fa05964add
+builder:
+  name: Claude Whisstock
+  id: 14a939d0-e062-4e1d-9e21-c1ec89fef573
+place_built: Woodbridge
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.0668
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Pin Mill
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 38
+  end: 2020
+  share: 64
+  start: 2007
+  member: 954
+updated_at: '2022-09-20T07:02:52.234626+00:00'
+website: ''
+id: e6271324-dc11-45f7-b80b-8a48f94661fb
+draft: 1.0668
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -39,24 +56,7 @@ handicap_data:
   fore_triangle_base: 2.7432333577176298
   length_on_waterline: 5.7912704218483295
   fore_triangle_height: 7.924896366739819
-home_country: GBR
-home_port: Pin Mill
-hull_form: long keel deep forefoot
-id: e6271324-dc11-45f7-b80b-8a48f94661fb
 length_on_deck: 6.858
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 38
-  end: 2020
-  share: 64
-  start: 2007
-  member: 954
-place_built: Woodbridge
-updated_at: '2022-09-20T07:02:52.234626+00:00'
-website: ''
-year: 1947
-year_is_approximate: false
 beam: 2.1336
 design_class:
   name: Deben 4 Ton

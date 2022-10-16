@@ -5,22 +5,20 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>She had a ketch rig until 1997, before conversion to cutter.</p>
 full_description: ''
+year: 1963
+year_is_approximate: false
 builder:
   name: James Noble and Co.
   id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
+place_built: Fraserburgh
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Larch on oak, iroko deck
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  length_over_all: 8.656425262131187
 home_country: GBR
 home_port: Amble
 hull_form: unknown
-id: 689ff2a1-74ca-4596-8426-9fe19442c63c
-length_on_deck: 8.6563
 uk_part1: '338548'
 callsign: ''
 ownerships:
@@ -35,12 +33,14 @@ ownerships:
   member: 5860
   current: true
   start: '?'
-place_built: Fraserburgh
-updated_at: '2021-12-19T13:39:35.495631+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1963
-year_is_approximate: false
-construction_details: Larch on oak, iroko deck
+id: 689ff2a1-74ca-4596-8426-9fe19442c63c
+draft: 0
+handicap_data:
+  beam: 2.590831504511095
+  length_over_all: 8.656425262131187
+length_on_deck: 8.6563
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

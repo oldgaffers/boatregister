@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log S-S/95
-builder:
-  name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+year: 1980
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+place_built: Cornwall
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.4234
+construction_details: G.R.P.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log S-S/95
+callsign: ''
+ownerships:
+- name: R H Bedford
+  share: 64
+  start: 1992
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e3bc5c35-207c-49b9-a7a3-884ab9b837f0
+draft: 1.4234
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -33,24 +50,7 @@ handicap_data:
   fore_triangle_base: 5.00487685930261
   length_on_waterline: 8.330285296269201
   fore_triangle_height: 8.967325042672519
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: e3bc5c35-207c-49b9-a7a3-884ab9b837f0
 length_on_deck: 8.8392
-reference:
-- Log S-S/95
-callsign: ''
-ownerships:
-- name: R H Bedford
-  share: 64
-  start: 1992
-place_built: Cornwall
-updated_at: '2021-12-19T13:39:22.160621+00:00'
-website: ''
-year: 1980
-year_is_approximate: false
-construction_details: G.R.P.
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

@@ -20,30 +20,24 @@ full_description: "<p>&#39;Laura&#39; was built in 1900 for Joseph Henry Atkey, 
   \ modern electronic conveniences, but she has never been mucked about.&nbsp; Her\
   \ inventory is very original and includes a beautifully-made Pascal Atkey copper\
   \ kettle, almost certainly one of the few left in existence.</p>"
-builder:
-  name: John West
-  id: af2c6e56-9998-425c-aeed-10e8874dfbde
+year: 1900
+year_is_approximate: false
 designer:
   name: Alfred E. Payne
   id: cfb14a6f-03f7-4689-832d-2a21f28b7fc4
+builder:
+  name: John West
+  id: af2c6e56-9998-425c-aeed-10e8874dfbde
+place_built: Woolston
 construction_material: wood
 construction_method: carvel
-draft: 1.6459
+construction_details: Carvel Pitch Pine on Oak Wrought iron Floors Lead Keel
 engine_installations: []
 for_sales:
 - asking_price: 0
-handicap_data:
-  beam: 3.0480370641306997
-  draft: 1.6764203852718849
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  length_on_waterline: 8.53450377956596
 home_country: GBR
 home_port: Newtown Creek IoW
 hull_form: long keel sloping forefoot
-id: abef0157-aaeb-43eb-a498-db7ddd2f7643
-length_on_deck: 9.144
 uk_part1: '120420'
 callsign: ''
 ownerships:
@@ -55,13 +49,20 @@ ownerships:
   name: Richard Seabroke
   share: 64
   start: 1997
-place_built: Woolston
-updated_at: '2021-12-19T13:39:14.971172+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1900
-year_is_approximate: false
+id: abef0157-aaeb-43eb-a498-db7ddd2f7643
 image_key: gf2jvB
-construction_details: Carvel Pitch Pine on Oak Wrought iron Floors Lead Keel
+thumb: https://photos.smugmug.com/photos/i-LGP2h5q/0/Th/i-LGP2h5q-Th.jpg
+draft: 1.6459
+handicap_data:
+  beam: 3.0480370641306997
+  draft: 1.6764203852718849
+  propellor:
+    type: fixed
+  length_over_all: 9.1441111923921
+  length_on_waterline: 8.53450377956596
+length_on_deck: 9.144
 beam: 2.987
 for_sale_state:
   text: not_for_sale

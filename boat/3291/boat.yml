@@ -5,17 +5,35 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Blue Poppy is a Cornish Shrimper built in 2002.</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2002
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.4816
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Braye Harbour, Alderney
+hull_form: centre-boarder
+sail_number: '892'
+callsign: ''
+ownerships:
+- end: 2019
+  name: Chris Rees
+  share: 64
+  start: 2016
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e883c11e-35ad-4825-91a8-ca086575a18f
+draft: 0.4816
 handicap_data:
   main:
     foot: 11.5
@@ -32,25 +50,7 @@ handicap_data:
   fore_triangle_base: 2.539
   length_on_waterline: 5.3584
   fore_triangle_height: 4.6482
-home_country: GBR
-home_port: Braye Harbour, Alderney
-hull_form: centre-boarder
-id: e883c11e-35ad-4825-91a8-ca086575a18f
 length_on_deck: 5.8674
-sail_number: '892'
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2019
-  name: Chris Rees
-  share: 64
-  start: 2016
-place_built: Rock
-updated_at: '2021-12-19T13:40:06.553097+00:00'
-website: ''
-year: 2002
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

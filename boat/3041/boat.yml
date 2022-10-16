@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Chris Volkes
-  id: 28b2faf4-72a1-42e3-8302-46e32aaaa713
+year: 2009
+year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+builder:
+  name: Chris Volkes
+  id: 28b2faf4-72a1-42e3-8302-46e32aaaa713
+place_built: Machynlleth
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.1646
+construction_details: 6mm ply stitch and tape/epoxy
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Aberdovey
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Christopher Volkes
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fa9da236-d895-4302-b2e6-3634f9f0f79e
+draft: 0.1646
 handicap_data:
   beam: 1.4996342355523042
   main:
@@ -29,22 +44,7 @@ handicap_data:
   fore_triangle_base: 0.9753718605218239
   length_on_waterline: 3.6149719580590096
   fore_triangle_height: 3.4503779565959523
-home_country: 'null'
-home_port: Aberdovey
-hull_form: unknown
-id: fa9da236-d895-4302-b2e6-3634f9f0f79e
 length_on_deck: 3.6393
-callsign: ''
-ownerships:
-- name: Christopher Volkes
-  share: 64
-  start: 2012
-place_built: Machynlleth
-updated_at: '2021-12-19T13:39:56.523112+00:00'
-website: ''
-year: 2009
-year_is_approximate: false
-construction_details: 6mm ply stitch and tape/epoxy
 beam: 1.4996
 for_sale_state:
   text: not_for_sale

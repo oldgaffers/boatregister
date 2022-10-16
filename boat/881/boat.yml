@@ -5,27 +5,23 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Log 87/2
-builder:
-  name: Turk Bros.
-  id: 290eb1f3-9b51-48b6-a376-847284342b87
+year: 1893
+year_is_approximate: false
 designer:
   name: R.J. Turk
   id: d5f35882-aa76-4a23-8c39-11800b7faedb
+builder:
+  name: Turk Bros.
+  id: 290eb1f3-9b51-48b6-a376-847284342b87
+place_built: Kingston upon Thames
 construction_material: wood
 construction_method: clinker
-draft: 1.8288
+construction_details: Cedar clinker on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.5240185320653499
-  draft: 1.8288222384784198
-  length_over_all: 5.4864667154352595
-  length_on_waterline: 5.4864667154352595
 home_country: 'null'
 home_port: Burnham on Crouch
 hull_form: unknown
-id: d3a07ef2-4864-4687-ae96-af552f0cac2d
-length_on_deck: 5.4864
 reference:
 - Log 87/2
 callsign: ''
@@ -33,12 +29,16 @@ ownerships:
 - name: A Law
   share: 64
   start: 2012
-place_built: Kingston upon Thames
-updated_at: '2021-12-19T13:38:54.96692+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1893
-year_is_approximate: false
-construction_details: Cedar clinker on oak
+id: d3a07ef2-4864-4687-ae96-af552f0cac2d
+draft: 1.8288
+handicap_data:
+  beam: 1.5240185320653499
+  draft: 1.8288222384784198
+  length_over_all: 5.4864667154352595
+  length_on_waterline: 5.4864667154352595
+length_on_deck: 5.4864
 beam: 1.524
 for_sale_state:
   text: not_for_sale

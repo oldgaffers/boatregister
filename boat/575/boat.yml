@@ -6,41 +6,42 @@ mainsail_type: gaff
 short_description: <p>Built by A. Taylor at Sandown, Isle of Wight&nbsp;in 1907, 'Theresa'
   was designed by Albert Strange.</p>
 full_description: ''
-builder:
-  name: A. Taylor
-  id: 00f616d0-3b6a-48ac-9f7e-957a6a1349d2
+year: 1907
+year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+builder:
+  name: A. Taylor
+  id: 00f616d0-3b6a-48ac-9f7e-957a6a1349d2
+place_built: Sandown IOW
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: 3/4" Pitch pine planking, carvel, onto oak timbers
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.9144111192392099
-  length_over_all: 6.2484759814679345
-  length_on_waterline: 5.4864667154352595
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 466ab605-aa06-4936-bb02-578775aa7b85
-length_on_deck: 6.2484
 callsign: ''
 ownerships:
 - name: A J Richards
   share: 64
   start: 1986
-place_built: Sandown IOW
-updated_at: '2021-12-19T13:38:46.27638+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1907
-year_is_approximate: false
+id: 466ab605-aa06-4936-bb02-578775aa7b85
 previous_names:
 - Malia
 image_key: kGh7Bd
-construction_details: 3/4" Pitch pine planking, carvel, onto oak timbers
+thumb: https://photos.smugmug.com/photos/i-j69BZ6H/0/Th/i-j69BZ6H-Th.jpg
+draft: 0.9144
+handicap_data:
+  beam: 1.8288222384784198
+  draft: 0.9144111192392099
+  length_over_all: 6.2484759814679345
+  length_on_waterline: 5.4864667154352595
+length_on_deck: 6.2484
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Beem Brandsma/Van
-  id: 5f07320b-9e83-458f-b8fa-a1139eb68d0c
+year: 2000
+year_is_approximate: false
 designer:
   name: Brandsma and Van Beem
   id: 65585eb6-d44a-4f6f-b227-f354ac8c16fd
+builder:
+  name: Beem Brandsma/Van
+  id: 5f07320b-9e83-458f-b8fa-a1139eb68d0c
 construction_material: wood
 construction_method: carvel
-draft: 1.7008
+construction_details: 'Carvel, '
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Werkendam
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Aart Gerrit van Beem
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8979978b-ecee-4bf5-afd5-722b8d53f3f3
+draft: 1.7008
 handicap_data:
   beam: 3.4991465496220435
   main:
@@ -33,21 +47,7 @@ handicap_data:
   fore_triangle_base: 5.699829309924408
   length_on_waterline: 8.598512557912704
   fore_triangle_height: 8.799683004145331
-home_country: 'null'
-home_port: Werkendam
-hull_form: long keel deep forefoot
-id: 8979978b-ecee-4bf5-afd5-722b8d53f3f3
 length_on_deck: 9.9487
-callsign: ''
-ownerships:
-- name: Aart Gerrit van Beem
-  share: 64
-  start: 2012
-updated_at: '2021-12-19T13:39:52.980622+00:00'
-website: ''
-year: 2000
-year_is_approximate: false
-construction_details: 'Carvel, '
 beam: 3.4991
 for_sale_state:
   text: not_for_sale

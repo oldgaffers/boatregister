@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Converted back to cutter rig from ketch in 1993.  Log 82/2
-builder:
-  name: Gilbert and Pascoe
-  id: 9a290c53-5245-43aa-8bb3-9deb1f7e4aa1
+year: 1926
+year_is_approximate: false
 designer:
   name: Harley Mead
   id: 25412902-8c25-4fd2-8023-2f506c99a366
+builder:
+  name: Gilbert and Pascoe
+  id: 9a290c53-5245-43aa-8bb3-9deb1f7e4aa1
+place_built: Porthleven
 construction_material: wood
 construction_method: carvel
-draft: 1.905
+construction_details: Carvel Pitch Pine on Grown Oak, see paper archive
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+reference:
+- Log 82/2
+uk_part1: '148481'
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8c78e2a1-2d85-484c-9306-a88c68857c1a
+draft: 1.905
 handicap_data:
   beam: 3.8100463301633747
   main:
@@ -33,21 +47,7 @@ handicap_data:
   fore_triangle_base: 6.583760058522312
   length_on_waterline: 11.201536210680322
   fore_triangle_height: 13.411363082175079
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 8c78e2a1-2d85-484c-9306-a88c68857c1a
 length_on_deck: 11.7348
-reference:
-- Log 82/2
-uk_part1: '148481'
-callsign: ''
-place_built: Porthleven
-updated_at: '2021-03-26T07:56:15.568974+00:00'
-website: ''
-year: 1926
-year_is_approximate: false
-construction_details: Carvel Pitch Pine on Grown Oak, see paper archive
 beam: 3.81
 for_sale_state:
   text: not_for_sale

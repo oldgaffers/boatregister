@@ -14,28 +14,24 @@ full_description: "<p>Launched as the &#39;Eureka&#39; in 1911, and registered f
   \r<p>&#39;Margaret&#39; is a very stiff boat and easy to sail. She has been continually\
   \ upgraded and refurbished in traditional and authentic materials since 2003 to\
   \ keep her sailing.</p>\r\r<p>In 2016, she was sold following the death of her owner.</p>"
-builder:
-  name: Allen
-  id: a6f5d0ec-34af-4039-ab45-796fe0858f34
+year: 1911
+year_is_approximate: false
 designer:
   name: Allen
   id: d31eab4c-acb3-4ecb-ab62-45f9878c0988
+builder:
+  name: Allen
+  id: a6f5d0ec-34af-4039-ab45-796fe0858f34
+place_built: Poole
 construction_material: wood
 construction_method: carvel
-draft: 1.3198
+construction_details: Elm Keel, oak frames. Carvel larch and pine planks
 engine_installations: []
 for_sales:
 - asking_price: 0
-handicap_data:
-  beam: 3.2004389173372347
-  draft: 1.4020970495001217
-  length_over_all: 8.686905632772493
-  length_on_waterline: 8.22970007315289
 home_country: GBR
 home_port: Rochester
 hull_form: unknown
-id: 0a6fcc24-99a3-4a61-9cf0-ef77514fd871
-length_on_deck: 8.6868
 callsign: ''
 ownerships:
 - end: 2016
@@ -46,15 +42,20 @@ ownerships:
   name: Karen Seymour
   share: 64
   start: 2016
-place_built: Poole
-updated_at: '2021-12-19T13:39:10.375878+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1911
-year_is_approximate: false
+id: 0a6fcc24-99a3-4a61-9cf0-ef77514fd871
 previous_names:
 - Eureka
 image_key: L7SpS3
-construction_details: Elm Keel, oak frames. Carvel larch and pine planks
+thumb: https://photos.smugmug.com/photos/i-fwr4x72/0/Th/i-fwr4x72-Th.jpg
+draft: 1.3198
+handicap_data:
+  beam: 3.2004389173372347
+  draft: 1.4020970495001217
+  length_over_all: 8.686905632772493
+  length_on_waterline: 8.22970007315289
+length_on_deck: 8.6868
 beam: 3.2004
 for_sale_state:
   text: not_for_sale

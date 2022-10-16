@@ -5,25 +5,23 @@ rig_type: Cutter
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: J.W. Shuttlewood and Sons
-  id: f7e10100-9016-4757-874b-b5ca9742ef7e
+year: 1965
+year_is_approximate: false
 designer:
   name: Maurice Griffiths/Frank W. Shuttlewood
   id: dc5c0a43-eefe-41f3-a2cd-23b511c7c3e2
+builder:
+  name: J.W. Shuttlewood and Sons
+  id: f7e10100-9016-4757-874b-b5ca9742ef7e
+place_built: Paglesham
 construction_material: wood
 construction_method: carvel
-draft: 0
+construction_details: Carvel iroko on C anadian rock elm
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.6426481346013166
-  length_over_all: 8.53450377956596
 home_country: 'null'
 home_port: Hamble
 hull_form: unknown
-id: a4b9aa22-d188-4eb1-b2f2-e6919bd940f0
-length_on_deck: 8.5344
 ssr: '103679'
 uk_part1: '335836'
 callsign: ''
@@ -37,14 +35,16 @@ ownerships:
   start: 2012
   member: 4402
   current: true
-place_built: Paglesham
-updated_at: '2021-12-19T13:40:01.109388+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
+id: a4b9aa22-d188-4eb1-b2f2-e6919bd940f0
 previous_names:
 - Seahorse of Paglesham
-construction_details: Carvel iroko on C anadian rock elm
+draft: 0
+handicap_data:
+  beam: 2.6426481346013166
+  length_over_all: 8.53450377956596
+length_on_deck: 8.5344
 beam: 2.6426
 design_class:
   name: Roach Class

@@ -12,18 +12,41 @@ full_description: '<p>A Mallard 12'' gunter rigged dinghy, ''Beth'' is construct
 
   <p>She''s a popular class of boat with the OGA Trailer Section and has sailed extensively
   on lakes, rivers and the sea.</p>'
-builder:
-  name: Hunter's Yard
-  id: c5de7b05-7fc2-441c-a1c4-2489bc988f39
+year: 1997
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: Hunter's Yard
+  id: c5de7b05-7fc2-441c-a1c4-2489bc988f39
+place_built: Ashmanhaugh Norfolk
 construction_material: plywood
 construction_method: clinker_ply
-draft: 0.1524
+construction_details: Glued lap clinker ply, Knees, Thwarts etc. Mahogany
 engine_installations: []
 for_sales:
 - asking_price: 3000
+home_country: GBR
+home_port: Daventry, Northamptonshire
+hull_form: centre-board dinghy
+sail_number: '103'
+callsign: ''
+ownerships:
+- end: 2009
+  name: Robin Flowerday
+  share: 64
+  start: 1997
+- end: 2017
+  name: Dave Rogers
+  share: 64
+  start: 2009
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d683e9fd-8f65-4307-b240-0ff06f3db728
+image_key: N2FbKb
+thumb: https://photos.smugmug.com/photos/i-G7k4M7Z/0/Th/i-G7k4M7Z-Th.jpg
+draft: 0.1524
 handicap_data:
   beam: 1.4478358936844673
   main:
@@ -38,29 +61,7 @@ handicap_data:
   fore_triangle_base: 0.8636308217507925
   length_on_waterline: 3.6068641794684217
   fore_triangle_height: 3.3528407705437697
-home_country: GBR
-home_port: Daventry, Northamptonshire
-hull_form: centre-board dinghy
-id: d683e9fd-8f65-4307-b240-0ff06f3db728
 length_on_deck: 3.6576
-sail_number: '103'
-callsign: ''
-ownerships:
-- end: 2009
-  name: Robin Flowerday
-  share: 64
-  start: 1997
-- end: 2017
-  name: Dave Rogers
-  share: 64
-  start: 2009
-place_built: Ashmanhaugh Norfolk
-updated_at: '2021-12-19T13:39:53.861609+00:00'
-website: ''
-year: 1997
-year_is_approximate: false
-image_key: N2FbKb
-construction_details: Glued lap clinker ply, Knees, Thwarts etc. Mahogany
 beam: 1.4478
 design_class:
   name: Mallard

@@ -5,28 +5,24 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: John Crossfield
-  id: 36052b67-5b2e-421e-9d5b-852981ae1c74
+year: 1937
+year_is_approximate: false
 designer:
   name: John Crossfield
   id: 4139d907-458e-4b08-88d2-6e8cefb63324
+builder:
+  name: John Crossfield
+  id: 36052b67-5b2e-421e-9d5b-852981ae1c74
+place_built: Conwy
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.463
+construction_details: Carvel, sawn frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.3528407705437697
-  draft: 1.4478176054620824
-  length_over_all: 10.972933430870519
-  length_on_waterline: 9.75371860521824
 home_country: GBR
 home_port: Port Penrhyn, Bangor
 hull_form: unknown
-id: 2c0bd07f-347a-4547-9dfb-f678ba9afcd5
-length_on_deck: 10.9728
-spar_material: wood
 ssr: '6870'
 callsign: ''
 ownerships:
@@ -37,15 +33,20 @@ ownerships:
 - name: Adrian Farey
   share: 32
   start: 2012
-place_built: Conwy
-updated_at: '2021-12-19T13:39:42.498374+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1937
-year_is_approximate: false
+id: 2c0bd07f-347a-4547-9dfb-f678ba9afcd5
 previous_names:
 - Lassie
 image_key: 24MFPn
-construction_details: Carvel, sawn frames
+thumb: https://photos.smugmug.com/photos/i-pxQvDTj/0/Th/i-pxQvDTj-Th.jpg
+draft: 1.463
+handicap_data:
+  beam: 3.3528407705437697
+  draft: 1.4478176054620824
+  length_over_all: 10.972933430870519
+  length_on_waterline: 9.75371860521824
+length_on_deck: 10.9728
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

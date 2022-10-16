@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: L.H. Walker
-  id: 1f2a16b2-6602-44b8-8f5f-a0a89f3db4f0
+year: 1972
+year_is_approximate: false
 designer:
   name: L.H. Walker
   id: 0eadeae8-3aed-497d-8d5e-1caca3fc3215
+builder:
+  name: L.H. Walker
+  id: 1f2a16b2-6602-44b8-8f5f-a0a89f3db4f0
+place_built: Leigh on Sea
 construction_material: wood
 construction_method: clinker
-draft: 0.1524
+construction_details: Clinker Mahogany on Oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Kingsbridge, Devon
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 59
+  share: 64
+  start: 1990
+  member: 1377
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d776b893-574e-4173-847a-409b6410517d
+draft: 0.1524
 handicap_data:
   beam: 1.472201901975128
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 1.097293343087052
   length_on_waterline: 3.5052426237503047
   fore_triangle_height: 3.0998536942209216
-home_country: GBR
-home_port: Kingsbridge, Devon
-hull_form: unknown
-id: d776b893-574e-4173-847a-409b6410517d
 length_on_deck: 3.6576
-callsign: ''
-ownerships:
-- id: 59
-  share: 64
-  start: 1990
-  member: 1377
-  current: true
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:39:22.846493+00:00'
-website: ''
-year: 1972
-year_is_approximate: false
-construction_details: Clinker Mahogany on Oak
 beam: 1.4722
 design_class:
   name: Tideway 12

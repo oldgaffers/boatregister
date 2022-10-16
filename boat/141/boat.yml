@@ -30,44 +30,25 @@ full_description: '<p>The Tahiti Ketch was designed by Texan <a href="https://en
 
   <p><em>Rawanah</em> is currently undergoing restoration in Crinan Boatyard and will
   hopefully be afloat in 2022.</p>'
-builder:
-  name: Harry King and Sons
-  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
+year: 1935
+year_is_approximate: false
 designer:
   name: John G. Hanna
   id: c4721fcb-96c6-463f-a516-3f206a95f6ba
+builder:
+  name: Harry King and Sons
+  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
+place_built: Pin Mill
 construction_material: wood
 construction_method: carvel
-draft: 1.4996
+construction_details: Carvel
 engine_installations: []
 for_sales:
 - asking_price: null
 - asking_price: null
-handicap_data:
-  beam: 3.0785174347720066
-  main:
-    foot: 4.26725188978298
-    head: 3.627164106315533
-    luff: 6.2484759814679345
-  thcf: 0.999255819
-  draft: 1.493538161424043
-  mizzen:
-    foot: 3.0480370641306997
-    luff: 6.272860277980979
-  topsail:
-    luff: 5.334064862228725
-    perpendicular: 2.43842965130456
-  propellor:
-    type: fixed
-  length_over_all: 10.698610095098756
-  fore_triangle_base: 5.273104120946111
-  length_on_waterline: 9.525115825408436
-  fore_triangle_height: 9.723238234576932
 home_country: GBR
 home_port: Crinan
 hull_form: long keel deep forefoot
-id: a0055f2c-31ce-4cb7-9978-077c05ef268f
-length_on_deck: 10.921
 reference:
 - Log Dec 2007
 sail_number: G141
@@ -99,13 +80,33 @@ ownerships:
   start: 2019
   member: 6254
   current: true
-place_built: Pin Mill
-updated_at: '2022-01-04T20:22:16.534929+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1935
-year_is_approximate: false
+id: a0055f2c-31ce-4cb7-9978-077c05ef268f
 image_key: v6gTDt
-construction_details: Carvel
+thumb: https://photos.smugmug.com/photos/i-mgMWPB8/0/Th/i-mgMWPB8-Th.jpg
+draft: 1.4996
+handicap_data:
+  beam: 3.0785174347720066
+  main:
+    foot: 4.26725188978298
+    head: 3.627164106315533
+    luff: 6.2484759814679345
+  thcf: 0.999255819
+  draft: 1.493538161424043
+  mizzen:
+    foot: 3.0480370641306997
+    luff: 6.272860277980979
+  topsail:
+    luff: 5.334064862228725
+    perpendicular: 2.43842965130456
+  propellor:
+    type: fixed
+  length_over_all: 10.698610095098756
+  fore_triangle_base: 5.273104120946111
+  length_on_waterline: 9.525115825408436
+  fore_triangle_height: 9.723238234576932
+length_on_deck: 10.921
 beam: 3.301
 design_class:
   name: Tahiti Ketch

@@ -5,21 +5,17 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 79/3 then known as Demelza
+year: 1948
+year_is_approximate: false
+place_built: Bosham
 construction_material: wood
 construction_method: unknown
-draft: 0.9144
+construction_details: Converted ships boat
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  draft: 0.9144111192392099
-  length_over_all: 9.1441111923921
-  length_on_waterline: 7.924896366739819
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: a7dbab91-9320-4b99-8fc0-11071a0ce8b1
-length_on_deck: 9.144
 reference:
 - Log 79/3
 callsign: ''
@@ -27,14 +23,18 @@ ownerships:
 - name: B Lambert
   share: 64
   start: 2012
-place_built: Bosham
-updated_at: '2021-12-19T13:38:54.278395+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1948
-year_is_approximate: false
+id: a7dbab91-9320-4b99-8fc0-11071a0ce8b1
 previous_names:
 - Demelza
-construction_details: Converted ships boat
+draft: 0.9144
+handicap_data:
+  beam: 3.0480370641306997
+  draft: 0.9144111192392099
+  length_over_all: 9.1441111923921
+  length_on_waterline: 7.924896366739819
+length_on_deck: 9.144
 beam: 3.048
 for_sale_state:
   text: not_for_sale

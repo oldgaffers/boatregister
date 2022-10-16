@@ -5,25 +5,23 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: Character Boats
-  id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+year: 1995
+year_is_approximate: false
 designer:
   name: Bill Bailiff
   id: 40fab132-73c1-48a6-8aa5-9c471b1543a8
+builder:
+  name: Character Boats
+  id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+place_built: Overton
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: grp
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  length_over_all: 5.18166300902219
 home_country: GBR
 home_port: Glenridding
 hull_form: unknown
-id: 81ffff9e-cfc2-465b-8df1-ad857c084c9a
-length_on_deck: 5.1816
 callsign: ''
 ownerships:
 - name: Dennis Leech
@@ -33,15 +31,17 @@ ownerships:
   member: 4967
   current: true
   start: '?'
-place_built: Overton
-updated_at: '2021-12-19T13:39:50.701626+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1995
-year_is_approximate: false
+id: 81ffff9e-cfc2-465b-8df1-ad857c084c9a
 previous_names:
 - Clara
 - Lara
-construction_details: grp
+draft: 0
+handicap_data:
+  beam: 1.8288222384784198
+  length_over_all: 5.18166300902219
+length_on_deck: 5.1816
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

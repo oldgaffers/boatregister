@@ -15,17 +15,47 @@ full_description: "<p>Ferro-cement hull built by Windboats of Wroxham to John Pe
   \ a refit in 2008 she cruised to South Brittany and was kept there for four seasons,\
   \ returning to UK waters in 2013, being berthed in Exmouth.</p>\r\n\r\n<p>She has\
   \ returned to her French home port of La Roche Bernard.</p>"
-builder:
-  name: Windboats Marine Ltd.
-  id: a70bd01d-2983-458e-9341-376978ca6f0e
+year: 1977
+year_is_approximate: false
 designer:
   name: John E. Perryman
   id: 729dd628-f1e4-4278-b407-d33f922d87fb
+builder:
+  name: Windboats Marine Ltd.
+  id: a70bd01d-2983-458e-9341-376978ca6f0e
+place_built: Wroxham
 construction_material: ferro
 construction_method: cold_moulded
-draft: 1.6002
+construction_details: 'Ferro cement: seacrete/GRP decks and superstructure'
 engine_installations: []
 for_sales: []
+home_country: FRA
+home_port: La Roche-Bernard
+hull_form: long keel deep forefoot
+ssr: '36796'
+callsign: ''
+ownerships:
+- end: 2005
+  name: Adrian Tilley
+  share: 64
+  start: 2000
+- end: 2014
+  name: Geoff Skinner
+  share: 64
+  start: 2005
+- id: 420
+  share: 64
+  start: 2014
+  member: 4280
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 5f5d6489-b327-4731-8b35-d2863f91dbdb
+previous_names:
+- Sujo
+image_key: 37DmrB
+thumb: https://photos.smugmug.com/photos/i-J296Zx6/0/Th/i-J296Zx6-Th.jpg
+draft: 1.6002
 handicap_data:
   beam: 3.5296269202633503
   main:
@@ -43,36 +73,7 @@ handicap_data:
   fore_triangle_base: 6.0960741282613995
   length_on_waterline: 9.44891489880517
   fore_triangle_height: 9.171543525969275
-home_country: FRA
-home_port: La Roche-Bernard
-hull_form: long keel deep forefoot
-id: 5f5d6489-b327-4731-8b35-d2863f91dbdb
 length_on_deck: 10.668
-ssr: '36796'
-callsign: ''
-ownerships:
-- end: 2005
-  name: Adrian Tilley
-  share: 64
-  start: 2000
-- end: 2014
-  name: Geoff Skinner
-  share: 64
-  start: 2005
-- id: 420
-  share: 64
-  start: 2014
-  member: 4280
-  current: true
-place_built: Wroxham
-updated_at: '2021-12-19T13:39:07.245599+00:00'
-website: ''
-year: 1977
-year_is_approximate: false
-previous_names:
-- Sujo
-image_key: 37DmrB
-construction_details: 'Ferro cement: seacrete/GRP decks and superstructure'
 beam: 3.6576
 design_class:
   name: Norske 35

@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Bill Winter Boats
-  id: b04631e9-ccc7-4e76-9665-6b2448e0d87d
+year: 1980
+year_is_approximate: false
 designer:
   name: John F. French
   id: bb0171e9-35f7-49a9-a287-d2a45ad98b19
+builder:
+  name: Bill Winter Boats
+  id: b04631e9-ccc7-4e76-9665-6b2448e0d87d
+place_built: Lymm
 construction_material: ferro
 construction_method: unknown
-draft: 1.2192
+construction_details: Ferrocement
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: D Webster
+  share: 64
+  start: 1980
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8940d256-8b77-46cf-8327-66dac5f3ce61
+draft: 1.2192
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -33,22 +48,7 @@ handicap_data:
   fore_triangle_base: 5.029261155815655
   length_on_waterline: 8.22970007315289
   fore_triangle_height: 6.0960741282613995
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 8940d256-8b77-46cf-8327-66dac5f3ce61
 length_on_deck: 9.4488
-callsign: ''
-ownerships:
-- name: D Webster
-  share: 64
-  start: 1980
-place_built: Lymm
-updated_at: '2021-12-19T13:39:07.116634+00:00'
-website: ''
-year: 1980
-year_is_approximate: false
-construction_details: Ferrocement
 beam: 3.048
 for_sale_state:
   text: not_for_sale

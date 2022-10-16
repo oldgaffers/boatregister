@@ -10,18 +10,45 @@ full_description: "<p>In the late seventies the &#39;Ragamuffin&#39; was sold to
   \ an important role in the&nbsp;OGA-NL history. &#39;</p>\r\n\r\n<p>In 2016, she\
   \ changed hands and &#39;Ragamuffin&#39; was commissioned&nbsp;by Whaleboat for\
   \ an overhaul with new paint finish, antifouling etc. completed in late 2018.</p>"
-builder:
-  name: Terry Heard
-  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+year: 1977
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: Terry Heard
+  id: ceeba774-b0f8-48a9-a036-732b70c8a35f
+place_built: Mylor
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.524
+construction_details: grp
 engine_installations: []
 for_sales:
 - asking_price: 25000
+home_country: UK
+home_port: Naarden
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Joachim van Houweninge
+  share: 64
+  start: 2005
+- end: 2019
+  name: Karel en Rene de Leeuw
+  share: 64
+  start: 2016
+- note: '''Ragamuffin'' was sold to Karel de Leeuw, September 2016'
+  text: '''Ragamuffin'' was sold to Karel de Leeuw, September'
+  start: 2016
+  start_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4e128cd8-9d21-487c-a64e-abdcc23770c4
+previous_names:
+- null
+image_key: nVz44g
+thumb: https://photos.smugmug.com/photos/i-mdkBqZn/0/Th/i-mdkBqZn-Th.jpg
+draft: 1.524
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -39,33 +66,7 @@ handicap_data:
   fore_triangle_base: 6.4008778346744695
   length_on_waterline: 7.924896366739819
   fore_triangle_height: 11.582540843696659
-home_country: UK
-home_port: Naarden
-hull_form: long keel deep forefoot
-id: 4e128cd8-9d21-487c-a64e-abdcc23770c4
 length_on_deck: 8.5344
-callsign: ''
-ownerships:
-- name: Joachim van Houweninge
-  share: 64
-  start: 2005
-- end: 2019
-  name: Karel en Rene de Leeuw
-  share: 64
-  start: 2016
-- note: '''Ragamuffin'' was sold to Karel de Leeuw, September 2016'
-  text: '''Ragamuffin'' was sold to Karel de Leeuw, September'
-  start: 2016
-  start_is_approximate: false
-place_built: Mylor
-updated_at: '2021-12-19T13:39:50.635114+00:00'
-website: ''
-year: 1977
-year_is_approximate: false
-previous_names:
-- null
-image_key: nVz44g
-construction_details: grp
 beam: 2.7432
 design_class:
   name: Heard 28

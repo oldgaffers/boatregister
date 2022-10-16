@@ -6,17 +6,35 @@ mainsail_type: gaff
 short_description: ''
 full_description: Based on Claud Worth's Tern III, redesigned by first owner /builder
   to a smaller size.  Ed Burnett designed rig, which includes a 52' hollow mast.
-builder:
-  name: Peter Nash
-  id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
+year: 2005
+year_is_approximate: false
 designer:
   name: Peter Nash
   id: ddd45081-5eb8-4b22-83a6-995501de0374
+builder:
+  name: Peter Nash
+  id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
+place_built: Dartmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Larch carvel on oak, teak deck and brightwork
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Dartmouth
+hull_form: long keel deep forefoot
+ssr: '126068'
+callsign: ''
+ownerships:
+- id: 164
+  share: 64
+  start: 2005
+  member: 2529
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 79242391-8c3e-4cf4-ba24-3cee53a1c9d0
+draft: 1.8288
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -34,25 +52,7 @@ handicap_data:
   fore_triangle_base: 6.5532796878810045
   length_on_waterline: 9.1441111923921
   fore_triangle_height: 10.66812972445745
-home_country: GBR
-home_port: Dartmouth
-hull_form: long keel deep forefoot
-id: 79242391-8c3e-4cf4-ba24-3cee53a1c9d0
 length_on_deck: 11.2776
-ssr: '126068'
-callsign: ''
-ownerships:
-- id: 164
-  share: 64
-  start: 2005
-  member: 2529
-  current: true
-place_built: Dartmouth
-updated_at: '2021-12-19T13:39:51.597874+00:00'
-website: ''
-year: 2005
-year_is_approximate: false
-construction_details: Larch carvel on oak, teak deck and brightwork
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

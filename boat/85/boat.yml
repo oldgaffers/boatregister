@@ -10,17 +10,38 @@ full_description: "<p>Built as a yacht in 1922 by H. Gale of West Cowes on the l
   \ detailed photographic history dating back to 1922 on the day of her launch.</p>\r\
   \n\r\n<p>Built of pitch pine on oak, she has a lead keel with bronze keelbolts,\
   \ copper fastened.</p>"
-builder:
-  name: H. Gale Co. Ltd.
-  id: ea4fadbd-aa76-4971-9a5c-72a860b3beba
+year: 1922
+year_is_approximate: false
 designer:
   name: R.C. Till
   id: 065dc278-b595-417d-9779-2703739006f0
+builder:
+  name: H. Gale Co. Ltd.
+  id: ea4fadbd-aa76-4971-9a5c-72a860b3beba
+place_built: Cowes IoW
 construction_material: wood
 construction_method: unknown
-draft: 1.4722
+construction_details: Pitch pine on oak, lead keel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Southampton
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Charles Dickerson
+  share: 64
+  start: 1985
+- share: 64
+  member: 1580
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7d5e973c-9ab1-46fb-8d9e-9dc9e89b827e
+image_key: n8qdLr
+thumb: https://photos.smugmug.com/photos/i-gwZKhpp/0/Th/i-gwZKhpp-Th.jpg
+draft: 1.4722
 handicap_data:
   beam: 2.2098268714947573
   main:
@@ -36,27 +57,7 @@ handicap_data:
   fore_triangle_base: 3.7033650329188004
   length_on_waterline: 6.373445501097293
   fore_triangle_height: 7.620092660326749
-home_country: GBR
-home_port: Southampton
-hull_form: long keel deep forefoot
-id: 7d5e973c-9ab1-46fb-8d9e-9dc9e89b827e
 length_on_deck: 6.6538
-callsign: ''
-ownerships:
-- name: Charles Dickerson
-  share: 64
-  start: 1985
-- share: 64
-  member: 1580
-  current: true
-  start: '?'
-place_built: Cowes IoW
-updated_at: '2021-12-19T13:38:32.131154+00:00'
-website: ''
-year: 1922
-year_is_approximate: false
-image_key: n8qdLr
-construction_details: Pitch pine on oak, lead keel
 beam: 2.2342
 for_sale_state:
   text: not_for_sale

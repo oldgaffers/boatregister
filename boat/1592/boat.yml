@@ -10,18 +10,47 @@ full_description: In 2010, Friendly Spirit was re-fitted again with new engine, 
   re-painted and copper coated as well as having her spars stripped and re-coated.</p><p>She
   is a very strong, mini ocean going yacht, with a 55% ballast ratio which makes her
   very steady!
-builder:
-  name: Oystersailers Ltd.
-  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+year: 1988
+year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+builder:
+  name: Oystersailers Ltd.
+  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+place_built: Penryn
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.3472
+construction_details: GRP, balsa core above waterline
 engine_installations: []
 for_sales:
 - asking_price: 21000
+home_country: GBR
+home_port: Mylor
+hull_form: long keel deep forefoot
+sail_number: '7'
+callsign: ''
+ownerships:
+- end: 2009
+  name: Jeremy Baker
+  share: 64
+  start: 2004
+- end: 2016
+  name: Miles Atherton
+  share: 64
+  start: 2015
+- id: 733
+  share: 64
+  start: 2016
+  member: 5705
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4ab54c1b-db5b-4da4-87a7-3039b92448be
+image_key: KRkp2x
+thumb: https://photos.smugmug.com/photos/i-KHsxqtZ/0/Th/i-KHsxqtZ-Th.jpg
+draft: 1.3472
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -39,35 +68,7 @@ handicap_data:
   fore_triangle_base: 5.00487685930261
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 8.052913923433309
-home_country: GBR
-home_port: Mylor
-hull_form: long keel deep forefoot
-id: 4ab54c1b-db5b-4da4-87a7-3039b92448be
 length_on_deck: 6.9098
-sail_number: '7'
-spar_material: wood
-callsign: ''
-ownerships:
-- end: 2009
-  name: Jeremy Baker
-  share: 64
-  start: 2004
-- end: 2016
-  name: Miles Atherton
-  share: 64
-  start: 2015
-- id: 733
-  share: 64
-  start: 2016
-  member: 5705
-  current: true
-place_built: Penryn
-updated_at: '2021-12-19T13:39:15.76792+00:00'
-website: ''
-year: 1988
-year_is_approximate: false
-image_key: KRkp2x
-construction_details: GRP, balsa core above waterline
 beam: 2.7432
 design_class:
   name: Oysterman 22

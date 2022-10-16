@@ -5,29 +5,24 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: John MacDonald
-  id: b7c91e44-c516-4d7d-9946-8b1b69c43987
+year: 1931
+year_is_approximate: false
 designer:
   name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
+builder:
+  name: John MacDonald
+  id: b7c91e44-c516-4d7d-9946-8b1b69c43987
+place_built: Oban
 construction_material: wood
 construction_method: carvel
-draft: 1.2954
+construction_details: Carvel planked in mahogany, steamed elm frames, oak sawn, oak
+  stern post, trak transom
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9050231650816873
-  draft: 1.2954157522555474
-  propellor:
-    type: fixed
-  length_over_all: 8.83930748597903
-  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: Clyde
 hull_form: long keel deep forefoot
-id: 1dd5fca5-ba2e-446d-9914-7f8e48a7e149
-length_on_deck: 8.8392
 callsign: ''
 ownerships:
 - name: David Gray
@@ -37,13 +32,18 @@ ownerships:
   member: 2145
   current: true
   start: '?'
-place_built: Oban
-updated_at: '2021-12-19T13:38:54.216452+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1931
-year_is_approximate: false
-construction_details: Carvel planked in mahogany, steamed elm frames, oak sawn, oak
-  stern post, trak transom
+id: 1dd5fca5-ba2e-446d-9914-7f8e48a7e149
+draft: 1.2954
+handicap_data:
+  beam: 1.9050231650816873
+  draft: 1.2954157522555474
+  propellor:
+    type: fixed
+  length_over_all: 8.83930748597903
+  length_on_waterline: 7.315288953913679
+length_on_deck: 8.8392
 beam: 1.905
 for_sale_state:
   text: not_for_sale

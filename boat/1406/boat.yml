@@ -5,17 +5,36 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Kelly and Hall
-  id: 236503e9-b0a6-4089-bad4-0634b32ae600
+year: 1969
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Kelly and Hall
+  id: 236503e9-b0a6-4089-bad4-0634b32ae600
+place_built: Newton Ferrers
 construction_material: wood
 construction_method: unknown
-draft: 0.253
+construction_details: Multi- chine plywood
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Danielle Gallagher and Mandy Finch
+  share: 64
+  start: 1969
+- share: 64
+  member: 2672
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9da7fbc9-c49d-489e-a799-862a546824ea
+draft: 0.253
 handicap_data:
   beam: 1.9050231650816873
   main:
@@ -30,26 +49,7 @@ handicap_data:
   fore_triangle_base: 1.3960009753718605
   length_on_waterline: 4.57205559619605
   fore_triangle_height: 4.191050963179712
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 9da7fbc9-c49d-489e-a799-862a546824ea
 length_on_deck: 5.715
-callsign: ''
-ownerships:
-- name: Danielle Gallagher and Mandy Finch
-  share: 64
-  start: 1969
-- share: 64
-  member: 2672
-  current: true
-  start: '?'
-place_built: Newton Ferrers
-updated_at: '2021-12-19T13:39:10.41015+00:00'
-website: ''
-year: 1969
-year_is_approximate: false
-construction_details: Multi- chine plywood
 beam: 1.905
 design_class:
   name: Drascombe Lugger

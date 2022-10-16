@@ -12,17 +12,43 @@ full_description: "<p>Built by Ferrocement Marine Services (FCMS) and delivered 
   \ taken to the Isle of Wight.</p>\r\n\r\n<p>She was bought by Andrea Sandford in\
   \ May 2010 when her name was changed to Pegasus. Her mast and bowsprit were lost\
   \ in the Solent Race, August 2010.</p>"
-builder:
-  name: Ferro Cement Marine Services
-  id: 849df6d6-4646-4549-8db6-6dd9b6cb739b
+year: 1980
+year_is_approximate: false
 designer:
   name: John F. French
   id: bb0171e9-35f7-49a9-a287-d2a45ad98b19
+builder:
+  name: Ferro Cement Marine Services
+  id: 849df6d6-4646-4549-8db6-6dd9b6cb739b
+place_built: Burnham on Crouch
 construction_material: ferro
 construction_method: unknown
-draft: 1.463
+construction_details: Ferrocement
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bursledon
+hull_form: long keel sloping forefoot
+sail_number: 5901T
+callsign: ''
+ownerships:
+- end: 2010
+  name: Jeremy Gully
+  share: 64
+  start: 2002
+- id: 479
+  share: 64
+  start: 2010
+  member: 4616
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 17d92148-53bd-4dd4-b65d-b0e5659ec60e
+previous_names:
+- Grace
+image_key: zzzCvC
+thumb: https://photos.smugmug.com/photos/i-Ldx3NTC/0/Th/i-Ldx3NTC-Th.jpg
+draft: 1.463
 handicap_data:
   beam: 2.9840282857839546
   main:
@@ -41,32 +67,7 @@ handicap_data:
   fore_triangle_base: 7.162887100707144
   length_on_waterline: 8.052913923433309
   fore_triangle_height: 8.01633747866374
-home_country: GBR
-home_port: Bursledon
-hull_form: long keel sloping forefoot
-id: 17d92148-53bd-4dd4-b65d-b0e5659ec60e
 length_on_deck: 9.144
-sail_number: 5901T
-callsign: ''
-ownerships:
-- end: 2010
-  name: Jeremy Gully
-  share: 64
-  start: 2002
-- id: 479
-  share: 64
-  start: 2010
-  member: 4616
-  current: true
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:39:43.134637+00:00'
-website: ''
-year: 1980
-year_is_approximate: false
-previous_names:
-- Grace
-image_key: zzzCvC
-construction_details: Ferrocement
 beam: 2.987
 for_sale_state:
   text: not_for_sale

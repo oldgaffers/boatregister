@@ -6,23 +6,20 @@ mainsail_type: gaff
 short_description: <p>Widgeon is a&nbsp;Gleoiteog class Galway hooker built in Connemara
   in 1938.</p>
 full_description: ''
+year: 1938
+year_is_approximate: false
 builder:
   name: Reaney
   id: 7d3c1ceb-1c29-4a3e-96a1-8153bb8c0b32
+place_built: Connemara, Ireland
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 9.7536
-  length_over_spars: 12.4968
-  length_on_waterline: 8.6868
 home_country: GBR
 home_port: Kilkeel, Northern Ireland
 hull_form: long keel deep forefoot
-id: 44aac418-9b26-43bc-9768-085d4d135456
-length_on_deck: 9.7536
 sail_number: '3'
 callsign: ''
 ownerships:
@@ -31,13 +28,17 @@ ownerships:
   start: 2018
   member: 6293
   current: true
-place_built: Connemara, Ireland
-updated_at: '2021-12-19T13:40:09.945608+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1938
-year_is_approximate: false
+id: 44aac418-9b26-43bc-9768-085d4d135456
 image_key: f623gH
-construction_details: Carvel
+thumb: https://photos.smugmug.com/photos/i-qtb9RcZ/0/Th/i-qtb9RcZ-Th.jpg
+draft: 1.0668
+handicap_data:
+  length_overall: 9.7536
+  length_over_spars: 12.4968
+  length_on_waterline: 8.6868
+length_on_deck: 9.7536
 beam: 2.5908
 design_class:
   name: Gleoiteog

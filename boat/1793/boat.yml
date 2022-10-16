@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: M. Collins
-  id: d285bcd3-0d57-4dff-adfc-1d0465333f67
+year: 1978
+year_is_approximate: false
 designer:
   name: M. Collins
   id: d050724b-9860-429f-897a-22625eeb124c
+builder:
+  name: M. Collins
+  id: d285bcd3-0d57-4dff-adfc-1d0465333f67
+place_built: Warsash
 construction_material: ferro
 construction_method: unknown
-draft: 0.6706
+construction_details: Ferrocement
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- name: M Collins
+  share: 64
+  start: 1978
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4c0398f4-9bce-4afa-b507-51fcb7d5beda
+draft: 0.6706
 handicap_data:
   beam: 2.0117044623262617
   main:
@@ -33,22 +48,7 @@ handicap_data:
   fore_triangle_base: 3.2613996586198484
   length_on_waterline: 5.120702267739576
   fore_triangle_height: 4.754937820043891
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 4c0398f4-9bce-4afa-b507-51fcb7d5beda
 length_on_deck: 5.8826
-callsign: ''
-ownerships:
-- name: M Collins
-  share: 64
-  start: 1978
-place_built: Warsash
-updated_at: '2021-12-19T13:39:20.439377+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-construction_details: Ferrocement
 beam: 2.0117
 for_sale_state:
   text: not_for_sale

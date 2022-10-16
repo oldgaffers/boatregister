@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Richard Kitto
-  id: 8597a6f4-4749-4f1f-93e9-5e0160e745e9
+year: 1898
+year_is_approximate: false
 designer:
   name: Richard Kitto
   id: 221d2458-a9c4-4071-ae62-433c977da616
+builder:
+  name: Richard Kitto
+  id: 8597a6f4-4749-4f1f-93e9-5e0160e745e9
+place_built: Porthleven
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel pine on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Falmouth
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Pat J Crockford
+  share: 64
+  start: 1982
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a88dfccc-4814-471d-bbfd-e339a69ba855
+draft: 1.8288
 handicap_data:
   beam: 3.1089978054133134
   main:
@@ -33,22 +48,7 @@ handicap_data:
   fore_triangle_base: 6.705681541087539
   length_on_waterline: 9.1441111923921
   fore_triangle_height: 10.36332601804438
-home_country: 'null'
-home_port: Falmouth
-hull_form: long keel deep forefoot
-id: a88dfccc-4814-471d-bbfd-e339a69ba855
 length_on_deck: 9.4488
-callsign: ''
-ownerships:
-- name: Pat J Crockford
-  share: 64
-  start: 1982
-place_built: Porthleven
-updated_at: '2021-12-19T13:39:33.861605+00:00'
-website: ''
-year: 1898
-year_is_approximate: false
-construction_details: Carvel pine on oak
 beam: 3.109
 for_sale_state:
   text: not_for_sale

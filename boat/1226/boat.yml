@@ -40,18 +40,39 @@ full_description: '&lsquo;Stonechat&rsquo; was built at Fambridge 1976-78. Her b
   October 1993 she was moved from Maldon, Essex to Mercury Marina, Hamble on voluntary
   loan to the Hamble Sea Scouts enabling them to gain experience and the joy of sailing
   a gaffer.'
-builder:
-  name: Austin Edge
-  id: 3be6eb88-762e-446c-a21f-1cd26ed246a2
+year: 1978
+year_is_approximate: false
 designer:
   name: Paul Johnson
   id: 90b15620-e866-4701-8023-bdc4f3a2f079
+builder:
+  name: Austin Edge
+  id: 3be6eb88-762e-446c-a21f-1cd26ed246a2
+place_built: Fambridge
 construction_material: ferro
 construction_method: unknown
-draft: 1.6246
+construction_details: Ferrocement
 engine_installations: []
 for_sales:
 - asking_price: 0
+home_country: GBR
+home_port: Hamble
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Jill Gomez
+  share: 64
+  start: 2009
+- share: 64
+  member: 6248
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: e4a70cd4-7fc8-41a1-8913-e05b9217af9c
+image_key: nqrDqC
+thumb: https://photos.smugmug.com/photos/i-bgLcspZ/0/Th/i-bgLcspZ-Th.jpg
+draft: 1.6246
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -71,27 +92,7 @@ handicap_data:
   fore_triangle_base: 4.5293830772982195
   length_on_waterline: 8.080346257010484
   fore_triangle_height: 9.400146305779078
-home_country: GBR
-home_port: Hamble
-hull_form: long keel deep forefoot
-id: e4a70cd4-7fc8-41a1-8913-e05b9217af9c
 length_on_deck: 9.6012
-callsign: ''
-ownerships:
-- name: Jill Gomez
-  share: 64
-  start: 2009
-- share: 64
-  member: 6248
-  current: true
-  start: '?'
-place_built: Fambridge
-updated_at: '2021-12-19T13:39:05.321649+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-image_key: nqrDqC
-construction_details: Ferrocement
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

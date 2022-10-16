@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: David Bewick
-  id: f9d99b3a-da00-4026-94f0-afab51a59c33
+year: 2005
+year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+builder:
+  name: David Bewick
+  id: f9d99b3a-da00-4026-94f0-afab51a59c33
+place_built: Kingsbridge
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.2286
+construction_details: Marine ply chine/ epoxy.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: David Berwick
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d10c9965-5ade-4805-96a2-a8f3e250939e
+draft: 0.2286
 handicap_data:
   beam: 1.6002194586686174
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 1.21921482565228
   length_on_waterline: 3.9624481833699097
   fore_triangle_height: 3.5052426237503047
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: d10c9965-5ade-4805-96a2-a8f3e250939e
 length_on_deck: 4.2672
-callsign: ''
-ownerships:
-- name: David Berwick
-  share: 64
-  start: 2012
-place_built: Kingsbridge
-updated_at: '2021-12-19T13:39:57.14211+00:00'
-website: ''
-year: 2005
-year_is_approximate: false
-construction_details: Marine ply chine/ epoxy.
 beam: 1.6002
 design_class:
   name: Highlander 14

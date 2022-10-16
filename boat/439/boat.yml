@@ -5,26 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 82/4
-builder:
-  name: Frazier Bros.
-  id: 3b268770-409e-4127-92b6-3da884b484ef
+year: 1920
+year_is_approximate: false
 designer:
   name: Mitchell
   id: d4da67bd-e797-4ddc-ad26-010e86930646
+builder:
+  name: Frazier Bros.
+  id: 3b268770-409e-4127-92b6-3da884b484ef
+place_built: Mevagissey
 construction_material: wood
 construction_method: carvel
-draft: 0
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.4864667154352595
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: ee5cf945-9f44-41af-8596-9e9d5001b73b
-length_on_deck: 6.096
 reference:
 - Log 82/4
 callsign: ''
@@ -32,12 +29,15 @@ ownerships:
 - name: N Adams
   share: 64
   start: 2012
-place_built: Mevagissey
-updated_at: '2021-12-19T13:38:42.328151+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1920
-year_is_approximate: false
-construction_details: Pitch pine on oak
+id: ee5cf945-9f44-41af-8596-9e9d5001b73b
+draft: 0
+handicap_data:
+  beam: 2.286027798098025
+  length_over_all: 6.0960741282613995
+  length_on_waterline: 5.4864667154352595
+length_on_deck: 6.096
 beam: 2.286
 for_sale_state:
   text: not_for_sale

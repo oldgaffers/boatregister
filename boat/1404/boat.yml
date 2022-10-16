@@ -5,39 +5,39 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: CB Sep 89
-builder:
-  name: Oystersailers Ltd.
-  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+year: 1987
+year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+builder:
+  name: Oystersailers Ltd.
+  id: 8f423342-b25e-40d9-8725-3d143660e8f5
+place_built: Penryn
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.3472
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.3472323823457693
-  length_over_all: 6.909900024384297
-  length_on_waterline: 6.705681541087539
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: ae2a52c2-df5d-4f33-a4d7-fbea0fc81ce2
-length_on_deck: 6.9098
 sail_number: 022/04
 callsign: ''
 ownerships:
 - name: Brian Gadd
   share: 64
   start: 2012
-place_built: Penryn
-updated_at: '2021-12-19T13:39:10.344641+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1987
-year_is_approximate: false
-construction_details: GRP
+id: ae2a52c2-df5d-4f33-a4d7-fbea0fc81ce2
+draft: 1.3472
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.3472323823457693
+  length_over_all: 6.909900024384297
+  length_on_waterline: 6.705681541087539
+length_on_deck: 6.9098
 beam: 2.7432
 design_class:
   name: Oysterman 22

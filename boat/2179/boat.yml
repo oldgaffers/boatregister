@@ -5,25 +5,22 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: Gil Carter
-  id: de50f6dc-8c8d-4259-ad57-9bab9e49d6ec
+year: 1992
+year_is_approximate: false
 designer:
   name: Malcolm Goodwin
   id: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
+builder:
+  name: Gil Carter
+  id: de50f6dc-8c8d-4259-ad57-9bab9e49d6ec
+place_built: Thames Ditton
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.7526213118751524
-  length_over_all: 4.114850036576445
 home_country: 'null'
 home_port: Trailer sail
 hull_form: unknown
-id: 74dea908-dcb2-4a56-af2e-13369267ed05
-length_on_deck: 4.1148
 callsign: ''
 ownerships:
 - name: Gil Carter
@@ -33,11 +30,14 @@ ownerships:
   member: 3591
   current: true
   start: '?'
-place_built: Thames Ditton
-updated_at: '2021-12-19T13:39:31.410885+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1992
-year_is_approximate: false
+id: 74dea908-dcb2-4a56-af2e-13369267ed05
+draft: 0
+handicap_data:
+  beam: 1.7526213118751524
+  length_over_all: 4.114850036576445
+length_on_deck: 4.1148
 beam: 1.7526
 for_sale_state:
   text: not_for_sale

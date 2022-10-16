@@ -5,21 +5,16 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log 90/1
+year: 1900
+year_is_approximate: false
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Mahogany Carvel outer Hull inner diagonal planking
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 1.3716166788588149
-  length_over_all: 11.887344550109729
-  length_on_waterline: 9.44891489880517
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: af6bc566-b0a3-4e33-a93e-3916959b06c5
-length_on_deck: 11.8872
 reference:
 - Log 90/1
 callsign: ''
@@ -27,11 +22,16 @@ ownerships:
 - name: S2489
   share: 64
   start: 2012
-updated_at: '2021-12-19T13:39:12.331127+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1900
-year_is_approximate: false
-construction_details: Mahogany Carvel outer Hull inner diagonal planking
+id: af6bc566-b0a3-4e33-a93e-3916959b06c5
+draft: 1.3716
+handicap_data:
+  beam: 2.43842965130456
+  draft: 1.3716166788588149
+  length_over_all: 11.887344550109729
+  length_on_waterline: 9.44891489880517
+length_on_deck: 11.8872
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

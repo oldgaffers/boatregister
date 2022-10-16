@@ -6,28 +6,23 @@ mainsail_type: spritsail
 short_description: <p>Elfor is an Iain Oughtred Elf design. She was built between
   2008 to 2016.</p>
 full_description: ''
-builder:
-  name: Oli Wickham/Roger Wickham
-  id: 97af15bc-9f7d-45b7-8c68-4a82a356fed1
+year: 2016
+year_is_approximate: false
 designer:
   name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+builder:
+  name: Oli Wickham/Roger Wickham
+  id: 97af15bc-9f7d-45b7-8c68-4a82a356fed1
+place_built: Dunsford, Devon
 construction_material: plywood
 construction_method: clinker_ply
-draft: 0.1768
+construction_details: Glued clinker marine ply 6mm.
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 0
-  moving_keel: true
-  length_overall: 4.572
-  moving_keel_type: Leeboard
-  length_on_waterline: 3.7551
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 403cf10b-e476-4079-9bc0-94bd86f799fa
-length_on_deck: 4.572
 sail_number: L 4
 callsign: ''
 ownerships:
@@ -36,12 +31,17 @@ ownerships:
   start: 2016
   member: 6060
   current: true
-place_built: Dunsford, Devon
-updated_at: '2021-12-19T13:40:06.939889+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2016
-year_is_approximate: false
-construction_details: Glued clinker marine ply 6mm.
+id: 403cf10b-e476-4079-9bc0-94bd86f799fa
+draft: 0.1768
+handicap_data:
+  sailarea: 0
+  moving_keel: true
+  length_overall: 4.572
+  moving_keel_type: Leeboard
+  length_on_waterline: 3.7551
+length_on_deck: 4.572
 beam: 1.3716
 for_sale_state:
   text: not_for_sale

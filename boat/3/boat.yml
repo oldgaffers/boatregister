@@ -14,26 +14,22 @@ full_description: "<p><em>Betty</em> was built in 1913 for Sam Strang of Glasgow
   \ sold to Bristol, where she remained until she disappeared from the Lloyds register\
   \ of yachts in 1969. At this point she was still a&nbsp;cutter, but OGA records\
   \ state that this was the year she&nbsp;was returned to yawl rig</p>\r\n\r\n<p>&nbsp;</p>"
-builder:
-  name: A.M. Dickie and Sons
-  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+year: 1913
+year_is_approximate: false
 designer:
   name: J.A. McCallum
   id: 37137bb5-f344-4068-9a51-5b7e9202f1e7
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+place_built: Tarbert
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  length_over_all: 9.631797122653012
-  length_on_waterline: 8.53450377956596
 home_country: GBR
 home_port: East Coast
 hull_form: unknown
-id: aeaa760a-8996-4a88-a732-0257dd1deb02
-length_on_deck: 9.6317
 callsign: ''
 ownerships:
 - note: 1913-? Sam F Strang, Glasgow
@@ -92,12 +88,17 @@ ownerships:
   text: '''Betty'' was owned in the'
   start: 1980
   start_is_approximate: false
-place_built: Tarbert
-updated_at: '2021-12-19T13:38:29.787163+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1913
-year_is_approximate: false
+id: aeaa760a-8996-4a88-a732-0257dd1deb02
 image_key: RsNPNk
+thumb: https://photos.smugmug.com/photos/i-nxJ9Hrh/0/Th/i-nxJ9Hrh-Th.jpg
+draft: 0
+handicap_data:
+  beam: 2.590831504511095
+  length_over_all: 9.631797122653012
+  length_on_waterline: 8.53450377956596
+length_on_deck: 9.6317
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

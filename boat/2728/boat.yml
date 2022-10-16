@@ -5,24 +5,20 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Hull no 4
+year: 1972
+year_is_approximate: false
 builder:
   name: Robert Ives Ltd.
   id: b334a7e7-6fbf-441f-9e06-9ae8a5dcc8c9
+place_built: London
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: GRP, teak deck, alloy spars
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.9624481833699097
-  propellor:
-    type: fixed
-  length_over_all: 10.66812972445745
 home_country: ESP
 home_port: Fuengirola, Spain
 hull_form: long keel deep forefoot
-id: 995e217a-55b4-4a06-bdc8-58b9204be30d
-length_on_deck: 10.668
 ssr: '377411'
 callsign: ''
 ownerships:
@@ -30,14 +26,18 @@ ownerships:
   name: Chris Ennis
   share: 64
   start: 2004
-place_built: London
-updated_at: '2021-12-19T13:39:47.598375+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1972
-year_is_approximate: false
+id: 995e217a-55b4-4a06-bdc8-58b9204be30d
 previous_names:
 - Poppy
-construction_details: GRP, teak deck, alloy spars
+draft: 0
+handicap_data:
+  beam: 3.9624481833699097
+  propellor:
+    type: fixed
+  length_over_all: 10.66812972445745
+length_on_deck: 10.668
 beam: 3.9624
 for_sale_state:
   text: not_for_sale

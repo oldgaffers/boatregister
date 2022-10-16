@@ -6,17 +6,34 @@ mainsail_type: gaff
 short_description: ''
 full_description: Used as a pilot cutter, when clinker built, then fishing from Ramsgate
   before being sold as a yacht in 1911, and replanked carvel.
-builder:
-  name: G.W. Gill
-  id: 3da81f0b-aa1c-4639-8913-5e37ac92a9cc
+year: 1848
+year_is_approximate: false
 designer:
   name: G.W. Gill
   id: d53c2f54-ebfa-476f-9e73-2f6e805a3d6b
+builder:
+  name: G.W. Gill
+  id: 3da81f0b-aa1c-4639-8913-5e37ac92a9cc
+place_built: Kent
 construction_material: wood
 construction_method: carvel
-draft: 1.6459
+construction_details: Carvel wood epoxy
 engine_installations: []
 for_sales: []
+home_country: NLD
+home_port: Heerenveen
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Willem M Nauta
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c69c0ae4-e996-4206-991d-5a08898751e1
+previous_names:
+- Rose
+draft: 1.6459
 handicap_data:
   beam: 3.444281882467691
   main:
@@ -35,24 +52,7 @@ handicap_data:
   fore_triangle_base: 7.351865398683248
   length_on_waterline: 8.564984150207266
   fore_triangle_height: 13.19800048768593
-home_country: NLD
-home_port: Heerenveen
-hull_form: long keel deep forefoot
-id: c69c0ae4-e996-4206-991d-5a08898751e1
 length_on_deck: 8.5649
-callsign: ''
-ownerships:
-- name: Willem M Nauta
-  share: 64
-  start: 2012
-place_built: Kent
-updated_at: '2021-12-19T13:39:46.25136+00:00'
-website: ''
-year: 1848
-year_is_approximate: false
-previous_names:
-- Rose
-construction_details: Carvel wood epoxy
 beam: 3.4442
 for_sale_state:
   text: not_for_sale

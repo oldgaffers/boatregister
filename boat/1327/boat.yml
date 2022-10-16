@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1975
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock/East Moseley
 construction_material: grp
 construction_method: unknown
-draft: 0.7376
+construction_details: G R P Hull/ iroko trimmed, wood deck
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Orwell
+hull_form: long keel deep forefoot
+uk_part1: '366270'
+callsign: ''
+ownerships:
+- name: Brian Deane
+  share: 64
+  start: 1975
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4bb23346-4f04-48a1-af66-28902fa80144
+draft: 0.7376
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,23 +49,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
   fore_triangle_height: 5.6388685686417945
-home_country: 'null'
-home_port: Orwell
-hull_form: long keel deep forefoot
-id: 4bb23346-4f04-48a1-af66-28902fa80144
 length_on_deck: 7.3152
-uk_part1: '366270'
-callsign: ''
-ownerships:
-- name: Brian Deane
-  share: 64
-  start: 1975
-place_built: Rock/East Moseley
-updated_at: '2021-12-19T13:39:08.259391+00:00'
-website: ''
-year: 1975
-year_is_approximate: false
-construction_details: G R P Hull/ iroko trimmed, wood deck
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 1

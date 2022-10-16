@@ -8,35 +8,23 @@ short_description: <p>&#39;Aliesje&#39; was built for the then owner of Cornish 
   the 1996 London Boat Show. It is believed she is the only Bermudan rigged boat of
   her class, Cornish Crabber Pilot Cutter.</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1996
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.4691
+construction_details: "GRP hull with timber deck and coachroof.\r\n"
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 14.57
-    luff: 37.4
-  sailarea: 5
-  moving_keel: true
-  length_overall: 9.144
-  calculated_thcf: 0.974
-  moving_keel_type: Centreboard
-  length_over_spars: 10.8204
-  fore_triangle_base: 4.4196
-  length_on_waterline: 7.9004
-  fore_triangle_height: 11.8994
 home_country: GBR
 home_port: Waldringfield
 hull_form: long keel sloping forefoot
-id: 79b85b5c-d437-46e2-9e29-59439b19bd5f
-length_on_deck: 9.144
 sail_number: '42'
 ssr: '127808'
 uk_part1: '901507'
@@ -51,13 +39,26 @@ ownerships:
   start: 2008
   member: 4554
   current: true
-place_built: Rock
-updated_at: '2021-12-19T13:40:06.333124+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1996
-year_is_approximate: false
+id: 79b85b5c-d437-46e2-9e29-59439b19bd5f
 image_key: MfWntJ
-construction_details: "GRP hull with timber deck and coachroof.\r\n"
+thumb: https://photos.smugmug.com/photos/i-zQjCCCX/0/Th/i-zQjCCCX-Th.jpg
+draft: 1.4691
+handicap_data:
+  main:
+    foot: 14.57
+    luff: 37.4
+  sailarea: 5
+  moving_keel: true
+  length_overall: 9.144
+  calculated_thcf: 0.974
+  moving_keel_type: Centreboard
+  length_over_spars: 10.8204
+  fore_triangle_base: 4.4196
+  length_on_waterline: 7.9004
+  fore_triangle_height: 11.8994
+length_on_deck: 9.144
 beam: 2.4689
 design_class:
   name: Cornish Crabber Pilot Cutter 30

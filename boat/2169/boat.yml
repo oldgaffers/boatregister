@@ -5,25 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Douglas Stone and Sons
-  id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
+year: 1880
+year_is_approximate: false
 designer:
   name: Douglas Stone
   id: 49e5792a-4c9a-474f-90c7-bf4619e902a4
+builder:
+  name: Douglas Stone and Sons
+  id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
+place_built: Erith
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.453425993660083
-  length_over_all: 9.75371860521824
 home_country: GBR
 home_port: Woodbridge
 hull_form: unknown
-id: dbff47ed-16ef-473d-9bbc-7f582ceb073d
-length_on_deck: 9.7536
 callsign: ''
 ownerships:
 - name: Paul Walker
@@ -33,11 +30,14 @@ ownerships:
   member: 3581
   current: true
   start: '?'
-place_built: Erith
-updated_at: '2021-12-19T13:39:31.09686+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1880
-year_is_approximate: false
+id: dbff47ed-16ef-473d-9bbc-7f582ceb073d
+draft: 0
+handicap_data:
+  beam: 3.453425993660083
+  length_over_all: 9.75371860521824
+length_on_deck: 9.7536
 beam: 3.4534
 for_sale_state:
   text: not_for_sale

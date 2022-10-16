@@ -14,34 +14,20 @@ full_description: <p>'Vilma' was built in 1934 at Vejle on the Baltic coast of D
   she was bought by Scott Metcalfe who converted her over four years to a topsail
   schooner. Based in North Wales and registered MCA cat 2 to carry 12 persons, she
   takes part in many Irish Sea events as well as Brest and Douarnenez Festivals.</p>
+year: 1934
+year_is_approximate: false
 builder:
   name: Bronsodde Shipyard
   id: c0d3c72c-71a3-4e0d-a39d-9622777f2e21
+place_built: Vejle, Denmark
 construction_material: wood
 construction_method: carvel
-draft: 1.9812
+construction_details: Carvel, oak on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 22
-    head: 17
-    luff: 17
-  topsail:
-    luff: 19
-    perpendicular: 13
-  sailarea: 8
-  length_overall: 14.3256
-  calculated_thcf: 1.078
-  length_over_spars: 19.812
-  fore_triangle_base: 7.62
-  length_on_waterline: 12.4968
-  fore_triangle_height: 11.5824
 home_country: GBR
 home_port: Port Penrhyn, Bangor
 hull_form: long keel deep forefoot
-id: b90d3ac6-1913-444d-b21f-ce8475c2e06a
-length_on_deck: 14.3256
 uk_part1: '906261'
 callsign: ''
 ownerships:
@@ -58,11 +44,9 @@ ownerships:
   start: 1996
   member: 153
   current: true
-place_built: Vejle, Denmark
-updated_at: '2021-12-19T13:40:06.583638+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1934
-year_is_approximate: false
+id: b90d3ac6-1913-444d-b21f-ce8475c2e06a
 previous_names:
 - Mias
 - Inge
@@ -71,7 +55,24 @@ previous_names:
 - Vilma
 - Ceekay
 image_key: FGT7RZ
-construction_details: Carvel, oak on oak
+thumb: https://photos.smugmug.com/photos/i-XKwB3t4/0/Th/i-XKwB3t4-Th.jpg
+draft: 1.9812
+handicap_data:
+  main:
+    foot: 22
+    head: 17
+    luff: 17
+  topsail:
+    luff: 19
+    perpendicular: 13
+  sailarea: 8
+  length_overall: 14.3256
+  calculated_thcf: 1.078
+  length_over_spars: 19.812
+  fore_triangle_base: 7.62
+  length_on_waterline: 12.4968
+  fore_triangle_height: 11.5824
+length_on_deck: 14.3256
 beam: 4.4196
 for_sale_state:
   text: not_for_sale

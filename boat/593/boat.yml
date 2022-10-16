@@ -5,24 +5,19 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Log 75/3, 76/2
+year: 1904
+year_is_approximate: false
 builder:
   name: Blythe Boat Co.
   id: a2355509-adf9-4d11-bdd9-50e7ebe19f1b
+place_built: Blythe
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  draft: 1.3716166788588149
-  length_over_all: 8.686905632772493
-  length_on_waterline: 7.162887100707144
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 2e3dd85d-937a-46b3-9e18-4907f825458c
-length_on_deck: 8.6868
 reference:
 - Log 75/3
 - Log 76/2
@@ -31,14 +26,19 @@ ownerships:
 - name: R Prasser
   share: 64
   start: 2012
-place_built: Blythe
-updated_at: '2021-12-19T13:38:46.78742+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1904
-year_is_approximate: false
+id: 2e3dd85d-937a-46b3-9e18-4907f825458c
 previous_names:
 - Shireen
 - Wavelet
+draft: 1.3716
+handicap_data:
+  beam: 2.590831504511095
+  draft: 1.3716166788588149
+  length_over_all: 8.686905632772493
+  length_on_waterline: 7.162887100707144
+length_on_deck: 8.6868
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

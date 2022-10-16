@@ -19,18 +19,44 @@ full_description: "<p>Bonify&#39;s hull is ferro cement but the decks are pitch 
   \ 2013 Bonify took part in the OGA Round Britain Challenge. Read the <a href=\"\
   http://www.classicboat.co.uk/news/sue-lewis-oga-blog/\" target=\"_blank\">Classic\
   \ Boat blog</a> to follow her four-month passage.</p>"
-builder:
-  name: David Carter
-  id: 4d1ddf72-7701-45c3-886d-c7862ed35787
+year: 1993
+year_is_approximate: false
 designer:
   name: John G. Hanna
   id: c4721fcb-96c6-463f-a516-3f206a95f6ba
+builder:
+  name: David Carter
+  id: 4d1ddf72-7701-45c3-886d-c7862ed35787
+place_built: Boxted, Colchester
 construction_material: ferro
 construction_method: unknown
-draft: 1.3198
+construction_details: Ferro cement, pitch pine on oak deck
 engine_installations: []
 for_sales:
 - asking_price: 0
+home_country: GER
+home_port: Kappeln Schleswig-Holstein Germany
+hull_form: long keel sloping forefoot
+sail_number: '2888'
+callsign: ''
+ownerships:
+- end: 1997
+  name: Graham Swift
+  share: 64
+  start: 0
+- name: David Carter
+  share: 64
+  start: 0
+- end: 2018
+  name: Sue Lewis
+  share: 64
+  start: 1997
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://bonifyatlarge.blogspot.com/
+id: e6b54fc8-c4a1-4b73-9ac7-f79bfda744db
+image_key: Pss595
+thumb: https://photos.smugmug.com/photos/i-sPPmh9W/0/Th/i-sPPmh9W-Th.jpg
+draft: 1.3198
 handicap_data:
   beam: 3.7300453630212145
   main:
@@ -51,32 +77,7 @@ handicap_data:
   fore_triangle_base: 7.000085131675201
   length_on_waterline: 10.200124049012436
   fore_triangle_height: 10.750130737929773
-home_country: GER
-home_port: Kappeln Schleswig-Holstein Germany
-hull_form: long keel sloping forefoot
-id: e6b54fc8-c4a1-4b73-9ac7-f79bfda744db
 length_on_deck: 11.2258
-sail_number: '2888'
-callsign: ''
-ownerships:
-- end: 1997
-  name: Graham Swift
-  share: 64
-  start: 0
-- name: David Carter
-  share: 64
-  start: 0
-- end: 2018
-  name: Sue Lewis
-  share: 64
-  start: 1997
-place_built: Boxted, Colchester
-updated_at: '2021-12-19T13:39:52.412884+00:00'
-website: http://bonifyatlarge.blogspot.com/
-year: 1993
-year_is_approximate: false
-image_key: Pss595
-construction_details: Ferro cement, pitch pine on oak deck
 beam: 3.7582
 design_class:
   name: Carol Class

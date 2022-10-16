@@ -43,27 +43,23 @@ full_description: "<h3>Carlotta, her story, by Stephen Mohan, British Colombia &
   \ of Carlotta in 1937</h3>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"\
   0\" height=\"480\" src=\"//www.youtube.com/embed/bkn7k5zlrwk?rel=0\" width=\"640\"\
   ></iframe></p>"
-builder:
-  name: W.H. Halford
-  id: 8f46fd03-7085-4bc2-a8e1-f69c2f4a28d4
+year: 1899
+year_is_approximate: false
 designer:
   name: W.H. Halford
   id: 7f01d30a-799c-4e5a-a634-8e7bcf6b4c7d
+builder:
+  name: W.H. Halford
+  id: 8f46fd03-7085-4bc2-a8e1-f69c2f4a28d4
+place_built: Gloucester
 construction_material: wood
 construction_method: unknown
-draft: 2.347
+construction_details: English elm, oak and pitch pine
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.9624481833699097
-  draft: 2.346988539380639
-  length_over_all: 15.240185320653499
-  length_on_waterline: 12.801755669348939
 home_country: GBR
 home_port: Southampton
 hull_form: unknown
-id: 3332ce93-73e6-43de-80a1-2d7367228784
-length_on_deck: 15.24
 uk_part1: '102469'
 callsign: ''
 ownerships:
@@ -78,15 +74,20 @@ ownerships:
 - name: Michael Wright
   share: 64
   start: 2015
-place_built: Gloucester
-updated_at: '2021-12-19T13:38:43.180202+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: https://carlottapilotcutter.com/
-year: 1899
-year_is_approximate: false
+id: 3332ce93-73e6-43de-80a1-2d7367228784
 previous_names:
 - The Solway
 image_key: 3JqDjV
-construction_details: English elm, oak and pitch pine
+thumb: https://photos.smugmug.com/photos/i-H5T6M8S/0/Th/i-H5T6M8S-Th.jpg
+draft: 2.347
+handicap_data:
+  beam: 3.9624481833699097
+  draft: 2.346988539380639
+  length_over_all: 15.240185320653499
+  length_on_waterline: 12.801755669348939
+length_on_deck: 15.24
 beam: 3.9624
 for_sale_state:
   text: not_for_sale

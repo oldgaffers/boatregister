@@ -5,37 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Thomas
-  id: c84eaf0c-624a-49ef-98ba-c9e9743a6a14
+year: 1901
+year_is_approximate: false
 designer:
   name: E.H. Hamilton
   id: 03bf93bb-1092-49b7-8a95-49e313abc30a
+builder:
+  name: Thomas
+  id: c84eaf0c-624a-49ef-98ba-c9e9743a6a14
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 2.0726
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.017556693489393
-  draft: 2.0726652036088757
-  length_over_all: 12.496951962935869
-  length_on_waterline: 10.05852231163131
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: ef8ea696-29b8-48f0-8571-05612447d48d
-length_on_deck: 12.4968
 callsign: ''
 ownerships:
 - name: W S Amos
   share: 64
   start: 2012
-place_built: Falmouth
-updated_at: '2021-12-19T13:38:38.896402+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1901
-year_is_approximate: false
+id: ef8ea696-29b8-48f0-8571-05612447d48d
+draft: 2.0726
+handicap_data:
+  beam: 3.017556693489393
+  draft: 2.0726652036088757
+  length_over_all: 12.496951962935869
+  length_on_waterline: 10.05852231163131
+length_on_deck: 12.4968
 beam: 3.0175
 for_sale_state:
   text: not_for_sale

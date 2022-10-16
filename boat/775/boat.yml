@@ -11,26 +11,23 @@ full_description: Log 83/2, 85/2 for sale 2007, se soft photo.  Built as yacht, 
   apart from owner who cruised her to Jersey etc. about 1959 for annual holidays and
   improved her with bermudan rig.  Purchased leaking and almost sunk in 1976- Chopped
   down offending mast and ditched "complete shambles".
-builder:
-  name: Forrest and Sons
-  id: a3a8ae12-0a18-44ef-9a41-e3205ed772bb
+year: 1893
+year_is_approximate: false
 designer:
   name: Harvey Forrests
   id: c8b235cc-768c-4fa6-b5a5-83376621a388
+builder:
+  name: Forrest and Sons
+  id: a3a8ae12-0a18-44ef-9a41-e3205ed772bb
+place_built: Wivenhoe
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Teak on oak frames  Pitch pine BWL
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  length_over_all: 10.36332601804438
-  length_on_waterline: 9.44891489880517
 home_country: 'null'
 home_port: Tollesbury
 hull_form: unknown
-id: f3386aba-5cfa-4b7e-ad62-517cd10952cd
-length_on_deck: 10.3632
 reference:
 - Log 83/2
 - Log 85/2
@@ -39,14 +36,17 @@ ownerships:
 - name: Richard Ham
   share: 64
   start: 2012
-place_built: Wivenhoe
-updated_at: '2021-12-19T13:38:51.932406+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1893
-year_is_approximate: false
+id: f3386aba-5cfa-4b7e-ad62-517cd10952cd
 previous_names:
 - Saida
-construction_details: Teak on oak frames  Pitch pine BWL
+draft: 0
+handicap_data:
+  beam: 2.7432333577176298
+  length_over_all: 10.36332601804438
+  length_on_waterline: 9.44891489880517
+length_on_deck: 10.3632
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

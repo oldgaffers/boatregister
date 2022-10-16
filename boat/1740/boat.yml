@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log Mar/98 For sale ec web 2006
-builder:
-  name: John Kerr
-  id: 58cb5d74-c8b1-49d0-a8a8-8fe1c190b524
+year: 1984
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: John Kerr
+  id: 58cb5d74-c8b1-49d0-a8a8-8fe1c190b524
+place_built: LLandysul, N Wales
 construction_material: wood
 construction_method: clinker_ply
-draft: 0.3048
+construction_details: Glued Clinker Ply
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Heybridge
+hull_form: unknown
+reference:
+- 'Log Mar 98 '
+callsign: ''
+ownerships:
+- name: Anna Roberts
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6c475a6c-0d27-4bb4-93d3-cce03e8c7825
+draft: 0.3048
 handicap_data:
   beam: 2.042184832967569
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 2.286027798098025
   length_on_waterline: 5.212143379663497
   fore_triangle_height: 4.57205559619605
-home_country: 'null'
-home_port: Heybridge
-hull_form: unknown
-id: 6c475a6c-0d27-4bb4-93d3-cce03e8c7825
 length_on_deck: 6.0198
-reference:
-- 'Log Mar 98 '
-callsign: ''
-ownerships:
-- name: Anna Roberts
-  share: 64
-  start: 2012
-place_built: LLandysul, N Wales
-updated_at: '2021-12-19T13:39:19.065372+00:00'
-website: ''
-year: 1984
-year_is_approximate: false
-construction_details: Glued Clinker Ply
 beam: 2.0422
 design_class:
   name: Drascombe Peterboat

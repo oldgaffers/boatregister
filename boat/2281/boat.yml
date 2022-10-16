@@ -5,38 +5,38 @@ rig_type: Schooner
 mainsail_type: gaff
 short_description: ''
 full_description: Lawrence Allen was Ist Mate on the original Bluenose
-builder:
-  name: Lawrence Allen
-  id: fe2135b0-ae35-4247-bbeb-f76abfe55295
+year: 1965
+year_is_approximate: false
 designer:
   name: William Roue
   id: fc401a0a-080f-4202-9c35-2b57d7e36d06
+builder:
+  name: Lawrence Allen
+  id: fe2135b0-ae35-4247-bbeb-f76abfe55295
+place_built: Lunenburg Nova Scotia
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
+construction_details: Yellow Pine on White Oak frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.3716166788588149
-  length_over_all: 10.972933430870519
-  length_on_waterline: 8.53450377956596
 home_country: 'null'
 home_port: Martha's Vineyard
 hull_form: unknown
-id: 04463356-6b33-413d-aa50-c033c48e5909
-length_on_deck: 10.9728
 callsign: ''
 ownerships:
 - name: Phil Smith
   share: 64
   start: 2012
-place_built: Lunenburg Nova Scotia
-updated_at: '2021-12-19T13:39:34.362886+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
-construction_details: Yellow Pine on White Oak frames
+id: 04463356-6b33-413d-aa50-c033c48e5909
+draft: 1.3716
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.3716166788588149
+  length_over_all: 10.972933430870519
+  length_on_waterline: 8.53450377956596
+length_on_deck: 10.9728
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

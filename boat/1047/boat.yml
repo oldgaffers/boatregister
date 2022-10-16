@@ -18,17 +18,41 @@ full_description: "<p>Professionally built by the Liverpool Boat Co. in 1979, Ka
   \ at Salterns, and fitted it into the stern deck in 2002.</p>\r\n\r\n<p>She has\
   \ most controls leading back to the cockpit for single-handed use and has a choice\
   \ of small Cornish or jackyard topsails.</p>"
-builder:
-  name: Liverpool Boat Co. Ltd.
-  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+year: 1978
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Liverpool Boat Co. Ltd.
+  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+place_built: Liverpool
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: grp
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Maylandsea
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- name: Keith Davidson
+  share: 64
+  start: 1999
+- share: 64
+  member: 4022
+  current: true
+  start: '?'
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: a607e04f-2e92-45be-9dc3-c0082a9bce29
+previous_names:
+- Boy Matthew
+image_key: gKjp2d
+thumb: https://photos.smugmug.com/photos/i-wvZVLZs/0/Th/i-wvZVLZs-Th.jpg
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -45,30 +69,7 @@ handicap_data:
   fore_triangle_base: 3.1242379907339672
   length_on_waterline: 5.690685198732017
   fore_triangle_height: 5.18166300902219
-home_country: GBR
-home_port: Maylandsea
-hull_form: centre-boarder
-id: a607e04f-2e92-45be-9dc3-c0082a9bce29
 length_on_deck: 5.7912
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Keith Davidson
-  share: 64
-  start: 1999
-- share: 64
-  member: 4022
-  current: true
-  start: '?'
-place_built: Liverpool
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-previous_names:
-- Boy Matthew
-image_key: gKjp2d
-construction_details: grp
 beam: 2.1336
 design_class:
   name: Memory 19

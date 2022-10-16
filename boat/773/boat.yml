@@ -5,27 +5,23 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Lymington Shipyard
-  id: a3703fef-f8d8-41d2-bc41-bc885903eb39
+year: 1900
+year_is_approximate: false
 designer:
   name: D.W. Greig
   id: 63b8c494-ae3a-42c9-8987-f6b3b8009466
+builder:
+  name: Lymington Shipyard
+  id: a3703fef-f8d8-41d2-bc41-bc885903eb39
+place_built: Lymington
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 1.8288222384784198
-  length_over_all: 12.192148256522799
-  length_on_waterline: 10.210924164837843
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 2b219981-c2a0-4b10-8ae8-78ef02c8a532
-length_on_deck: 12.192
 uk_part1: '120695'
 callsign: ''
 ownerships:
@@ -36,14 +32,18 @@ ownerships:
 - name: M Cartwright
   share: 64
   start: 1987
-place_built: Lymington
-updated_at: '2021-12-19T13:38:51.869925+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1900
-year_is_approximate: false
+id: 2b219981-c2a0-4b10-8ae8-78ef02c8a532
 previous_names:
 - Queenie
-construction_details: Carvel pitch pine on oak
+draft: 1.8288
+handicap_data:
+  beam: 2.43842965130456
+  draft: 1.8288222384784198
+  length_over_all: 12.192148256522799
+  length_on_waterline: 10.210924164837843
+length_on_deck: 12.192
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

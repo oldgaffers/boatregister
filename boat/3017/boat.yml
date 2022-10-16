@@ -7,17 +7,32 @@ short_description: <p>Built as an open sail training craft and used for adventur
   holidays on the west coast of Scotland, she was converted for cruising in 1997 and
   sailed round Britain in easy stages.</p>
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1972
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.4572
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Ashlett Creek, Soton
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Jim Hopwood
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 876d8720-7414-4502-a1ec-7f0649da2d40
+draft: 0.4572
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -34,22 +49,7 @@ handicap_data:
   fore_triangle_base: 1.929407461594733
   length_on_waterline: 6.605096317971227
   fore_triangle_height: 5.6388685686417945
-home_country: 'null'
-home_port: Ashlett Creek, Soton
-hull_form: unknown
-id: 876d8720-7414-4502-a1ec-7f0649da2d40
 length_on_deck: 7.62
-callsign: ''
-ownerships:
-- name: Jim Hopwood
-  share: 64
-  start: 2012
-place_built: Totnes
-updated_at: '2021-12-19T13:39:56.088873+00:00'
-website: ''
-year: 1972
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1336
 design_class:
   name: Drascombe Gig

@@ -9,24 +9,20 @@ full_description: <p>Oringinally called Margaret Elizabeth, she was re-named Mus
   in 2014, her painted hull being a mustard yellow. She was constructed with a standard
   design hull and sail plan, but finished as an open fishing boat. A previous owner
   created a basic cabin with 2 berths forward , a 2 burner gas cooker and Blakes W.C.</p>
+year: 1988
+year_is_approximate: false
 designer:
   name: Michael R. Hawes
   id: 1d14143b-8f55-4b26-94a4-95e4058cc952
+place_built: Fordingbridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.5578
+construction_details: GRP hull, glass sheathed timber deck
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 7
-  length_overall: 7.239
-  length_over_spars: 8.2296
-  length_on_waterline: 5.9436
 home_country: GBR
 home_port: Littlehampton
 hull_form: long keel sloping forefoot
-id: 73295a72-b35b-41ae-84b1-a8bffe0ba4cf
-length_on_deck: 7.239
 callsign: ''
 ownerships:
 - note: Previous owner DJ Lindsay
@@ -36,14 +32,18 @@ ownerships:
   start: 2014
   member: 3405
   current: true
-place_built: Fordingbridge
-updated_at: '2021-12-19T13:40:04.442874+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1988
-year_is_approximate: false
+id: 73295a72-b35b-41ae-84b1-a8bffe0ba4cf
 previous_names:
 - Margaret Elizabeth
-construction_details: GRP hull, glass sheathed timber deck
+draft: 0.5578
+handicap_data:
+  sailarea: 7
+  length_overall: 7.239
+  length_over_spars: 8.2296
+  length_on_waterline: 5.9436
+length_on_deck: 7.239
 beam: 2.539
 design_class:
   name: Skanner 24

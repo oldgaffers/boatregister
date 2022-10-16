@@ -27,27 +27,23 @@ full_description: "<p>&#39;Bird of Dawning&#39; was launched in 1937 at Paglesha
   \ are by Steve Hall of North Sea Sails in Tollesbury, and all traditionally finished.\
   \ Her cruising grounds are the Thames estuary, the Channel and the nearby continental\
   \ coasts.</p>"
-builder:
-  name: Frank W. Shuttlewood and Son
-  id: 95af8096-5755-46ff-980e-f382837e729c
+year: 1937
+year_is_approximate: false
 designer:
   name: Frank W. Shuttlewood
   id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
+builder:
+  name: Frank W. Shuttlewood and Son
+  id: 95af8096-5755-46ff-980e-f382837e729c
+place_built: Paglesham
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel, pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8194342843208973
-  draft: 1.4630577907827358
-  length_over_all: 9.266032674957327
-  length_on_waterline: 7.894415996098512
 home_country: GBR
 home_port: Hollowshore
 hull_form: long keel deep forefoot
-id: 55b655ce-5ed0-493a-a2b6-ecbaf7a546c8
-length_on_deck: 9.272
 uk_part1: '359834'
 callsign: ''
 ownerships:
@@ -75,13 +71,18 @@ ownerships:
   start: 1997
   member: 1916
   current: true
-place_built: Paglesham
-updated_at: '2021-12-19T13:38:35.147157+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1937
-year_is_approximate: false
+id: 55b655ce-5ed0-493a-a2b6-ecbaf7a546c8
 image_key: ZjfvJZ
-construction_details: Carvel, pitch pine on oak
+thumb: https://photos.smugmug.com/photos/i-vhVxDc5/0/Th/i-vhVxDc5-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.8194342843208973
+  draft: 1.4630577907827358
+  length_over_all: 9.266032674957327
+  length_on_waterline: 7.894415996098512
+length_on_deck: 9.272
 beam: 2.8194
 for_sale_state:
   text: not_for_sale

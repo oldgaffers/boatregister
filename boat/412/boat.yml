@@ -9,33 +9,20 @@ short_description: <p>Mary Niven is a yacht built in 1939. She has been consider
 full_description: "Built to a design similar to those drawn at the time by Harrison\
   \ Butler, she was once described as a Harrison Butler design but Jardine-Brown said\
   \ she wasn\u2019t."
+year: 1939
+year_is_approximate: false
 builder:
   name: J.A. Orr
   id: c964c930-08da-4582-8f5f-132ddd8b4295
+place_built: Bamber Bridge
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
+construction_details: Burma Teak on oak, Teak deck and deck works, long lead keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  main:
-    foot: 4.26725188978298
-    head: 3.0480370641306997
-    luff: 4.26725188978298
-  thcf: 0.869141143
-  draft: 1.3716166788588149
-  propellor:
-    type: fixed
-  length_over_all: 6.5532796878810045
-  fore_triangle_base: 2.590831504511095
-  length_on_waterline: 5.7912704218483295
-  fore_triangle_height: 6.4008778346744695
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
-id: 99d949ec-854e-4d7a-9837-fcb406b6708a
-length_on_deck: 6.5532
 uk_part1: '166265'
 callsign: ''
 ownerships:
@@ -56,13 +43,27 @@ ownerships:
   start: 2017
   member: 1336
   current: true
-place_built: Bamber Bridge
-updated_at: '2021-12-19T13:38:41.596174+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1939
-year_is_approximate: false
+id: 99d949ec-854e-4d7a-9837-fcb406b6708a
 image_key: RvXCbd
-construction_details: Burma Teak on oak, Teak deck and deck works, long lead keel
+thumb: https://photos.smugmug.com/photos/i-VqhD6HM/0/Th/i-VqhD6HM-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.13362594489149
+  main:
+    foot: 4.26725188978298
+    head: 3.0480370641306997
+    luff: 4.26725188978298
+  thcf: 0.869141143
+  draft: 1.3716166788588149
+  propellor:
+    type: fixed
+  length_over_all: 6.5532796878810045
+  fore_triangle_base: 2.590831504511095
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 6.4008778346744695
+length_on_deck: 6.5532
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

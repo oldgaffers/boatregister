@@ -5,14 +5,31 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1980
+year_is_approximate: false
 builder:
   name: Cygnus Marine
   id: 4defc904-dd2c-47e9-baf3-3a691a841c97
+place_built: Penryn
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.2438
+construction_details: Grp with teak fittings
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: J Burnett-Hitchcock
+  share: 64
+  start: 1986
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 19f4d3a2-25c8-44b7-9825-920c3fb47a19
+previous_names:
+- Janie
+draft: 0.2438
 handicap_data:
   beam: 1.5240185320653499
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 2.0117044623262617
   length_on_waterline: 4.480614484272128
   fore_triangle_height: 3.3528407705437697
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 19f4d3a2-25c8-44b7-9825-920c3fb47a19
 length_on_deck: 4.6634
-callsign: ''
-ownerships:
-- name: J Burnett-Hitchcock
-  share: 64
-  start: 1986
-place_built: Penryn
-updated_at: '2021-12-19T13:39:18.366916+00:00'
-website: ''
-year: 1980
-year_is_approximate: false
-previous_names:
-- Janie
-construction_details: Grp with teak fittings
 beam: 1.524
 for_sale_state:
   text: not_for_sale

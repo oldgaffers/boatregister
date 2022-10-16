@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Gilbert and Pascoe
-  id: 9a290c53-5245-43aa-8bb3-9deb1f7e4aa1
+year: 1934
+year_is_approximate: false
 designer:
   name: N. Warrington-Smythe
   id: e781b4c3-983c-430b-ae5f-3ef6a8a182b5
+builder:
+  name: Gilbert and Pascoe
+  id: 9a290c53-5245-43aa-8bb3-9deb1f7e4aa1
+place_built: Porthleven
 construction_material: wood
 construction_method: carvel
-draft: 2.1946
+construction_details: Carvel pitch pine on oak cast iron keel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Beaulieu
+hull_form: long keel deep forefoot
+uk_part1: '163780'
+callsign: ''
+ownerships:
+- name: J Minns
+  share: 64
+  start: 1984
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: da73a4c8-807e-4e21-b1b3-6b53ce2f427d
+image_key: 9bVtsM
+thumb: https://photos.smugmug.com/photos/i-2n98M8d/0/Th/i-2n98M8d-Th.jpg
+draft: 2.1946
 handicap_data:
   beam: 3.5052426237503047
   main:
@@ -33,24 +51,7 @@ handicap_data:
   fore_triangle_base: 7.290904657400634
   length_on_waterline: 10.210924164837843
   fore_triangle_height: 9.244696415508411
-home_country: 'null'
-home_port: Beaulieu
-hull_form: long keel deep forefoot
-id: da73a4c8-807e-4e21-b1b3-6b53ce2f427d
 length_on_deck: 11.8354
-uk_part1: '163780'
-callsign: ''
-ownerships:
-- name: J Minns
-  share: 64
-  start: 1984
-place_built: Porthleven
-updated_at: '2021-12-19T13:38:52.088397+00:00'
-website: ''
-year: 1934
-year_is_approximate: false
-image_key: 9bVtsM
-construction_details: Carvel pitch pine on oak cast iron keel
 beam: 3.5052
 for_sale_state:
   text: not_for_sale

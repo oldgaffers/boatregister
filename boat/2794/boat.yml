@@ -11,17 +11,37 @@ full_description: "<p>&#39;An Stearnan&#39; is a beautiful replica of a traditio
   \ Wakefield in larch on oak frames with a double ended hull.</p>\r\n\r\n<p>These\
   \ vessels would have been used offshore for fishing under sail and oars.</p>\r\n\
   \r\n<p>&nbsp;</p>"
-builder:
-  name: P.K. Wakefield
-  id: 4a992df1-c619-4d44-904c-7dab75f0240f
+year: 2007
+year_is_approximate: false
 designer:
   name: P.K. Wakefield
   id: 4425d7df-ee67-4723-8bdb-6fbe163d3f27
+builder:
+  name: P.K. Wakefield
+  id: 4a992df1-c619-4d44-904c-7dab75f0240f
+place_built: Anglesey
 construction_material: wood
 construction_method: clinker
-draft: 0.5578
+construction_details: Clinker larch on oak
 engine_installations: []
 for_sales: []
+home_country: USA
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- end: 2013
+  name: Peter Wakefield
+  share: 64
+  start: 2007
+- note: Sold to new owner in the US, 2016.
+  text: Sold to new owner in the US,
+  start: 2016
+  start_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4603fdf3-30ab-442a-ac38-5812bddd0260
+draft: 0.5578
 handicap_data:
   beam: 2.081809314801268
   fore:
@@ -38,27 +58,7 @@ handicap_data:
   fore_triangle_base: 2.0574250182882223
   length_on_waterline: 4.419653742989515
   fore_triangle_height: 3.2004389173372347
-home_country: USA
-home_port: ''
-hull_form: unknown
-id: 4603fdf3-30ab-442a-ac38-5812bddd0260
 length_on_deck: 5.0292
-callsign: ''
-ownerships:
-- end: 2013
-  name: Peter Wakefield
-  share: 64
-  start: 2007
-- note: Sold to new owner in the US, 2016.
-  text: Sold to new owner in the US,
-  start: 2016
-  start_is_approximate: false
-place_built: Anglesey
-updated_at: '2021-12-19T13:39:49.647391+00:00'
-website: ''
-year: 2007
-year_is_approximate: false
-construction_details: Clinker larch on oak
 beam: 2.0818
 for_sale_state:
   text: not_for_sale

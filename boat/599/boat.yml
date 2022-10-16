@@ -7,17 +7,40 @@ short_description: ''
 full_description: Gaff Sail. R Simper pg 119  Previous engine 28 hp 1964 Leyland.
   Log 69/4 Known as Where be Tu then 1987 to 2001  kept Liverpool For Sale 2003, old
   Petter Mini 6hp diesel of 1995 replaced Bought August 2003.  CB April 08 pp5
-builder:
-  name: Howard and Sons
-  id: 8f1dabb4-3313-4be4-9af4-5f6b76d22f92
+year: 1908
+year_is_approximate: false
 designer:
   name: John Howard
   id: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
+builder:
+  name: Howard and Sons
+  id: 8f1dabb4-3313-4be4-9af4-5f6b76d22f92
+place_built: Maldon
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel - Pine on grown oak double frames with oak garboards
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Glasson Dock
+hull_form: long keel deep forefoot
+reference:
+- Gaff Sail. R Simper pg 119
+- Log 69/4
+- CB April 08 pp5
+uk_part1: '128891'
+callsign: ''
+ownerships:
+- name: Dr Warren Scott
+  share: 64
+  start: 2001
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c63d1f12-68da-401d-87f1-64ea6e8fae0e
+previous_names:
+- Biddy
+- Where Be Tu
+draft: 1.524
 handicap_data:
   beam: 2.834674469641551
   main:
@@ -32,30 +55,7 @@ handicap_data:
   fore_triangle_base: 6.0960741282613995
   length_on_waterline: 8.53450377956596
   fore_triangle_height: 8.53450377956596
-home_country: 'null'
-home_port: Glasson Dock
-hull_form: long keel deep forefoot
-id: c63d1f12-68da-401d-87f1-64ea6e8fae0e
 length_on_deck: 10.0584
-reference:
-- Gaff Sail. R Simper pg 119
-- Log 69/4
-- CB April 08 pp5
-uk_part1: '128891'
-callsign: ''
-ownerships:
-- name: Dr Warren Scott
-  share: 64
-  start: 2001
-place_built: Maldon
-updated_at: '2021-12-19T13:38:46.973902+00:00'
-website: ''
-year: 1908
-year_is_approximate: false
-previous_names:
-- Biddy
-- Where Be Tu
-construction_details: Carvel - Pine on grown oak double frames with oak garboards
 beam: 2.8346
 for_sale_state:
   text: not_for_sale

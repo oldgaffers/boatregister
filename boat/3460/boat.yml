@@ -4,16 +4,33 @@ generic_type: unknown
 rig_type: Yawl
 mainsail_type: gaff
 full_description: Moksha is a Drascombe Coaster
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1991
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Swanage
+spar_material: wood
 construction_method: unknown
-draft: 0.2987
 engine_installations: []
 for_sales: []
+home_port: Lechlade
+hull_form: centre-boarder
+sail_number: '225'
+ownerships:
+- id: 1050
+  share: 64
+  member: 6303
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 7d84c736-1cf0-4af5-8e85-2c0902ddc2fd
+image_key: gxVjpD
+thumb: https://photos.smugmug.com/photos/i-XwwDrb2/0/Th/i-XwwDrb2-Th.jpg
+draft: 0.2987
 handicap_data:
   main:
     foot: 9.84
@@ -29,23 +46,7 @@ handicap_data:
   fore_triangle_base: 1.8014
   length_on_waterline: 5.4986
   fore_triangle_height: 4.0996
-home_port: Lechlade
-hull_form: centre-boarder
-id: 7d84c736-1cf0-4af5-8e85-2c0902ddc2fd
 length_on_deck: 6.6294
-sail_number: '225'
-spar_material: wood
-ownerships:
-- id: 1050
-  share: 64
-  member: 6303
-  current: true
-  start: '?'
-place_built: Swanage
-updated_at: '2022-02-14T11:04:40.382535+00:00'
-year: 1991
-year_is_approximate: false
-image_key: gxVjpD
 beam: 1.9995
 design_class:
   name: Drascombe Coaster

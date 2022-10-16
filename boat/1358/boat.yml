@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+year: 1981
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+place_built: Falmouth
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.1674
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+ssr: '31333'
+callsign: ''
+ownerships:
+- id: 34783
+  share: 64
+  member: 6430
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: ecd92ba5-854e-4be5-858a-5ba8aa4c8acc
+draft: 1.1674
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -33,26 +52,7 @@ handicap_data:
   fore_triangle_base: 4.520238966105827
   length_on_waterline: 8.330285296269201
   fore_triangle_height: 8.891124116069252
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: ecd92ba5-854e-4be5-858a-5ba8aa4c8acc
 length_on_deck: 8.8392
-spar_material: wood
-ssr: '31333'
-callsign: ''
-ownerships:
-- id: 34783
-  share: 64
-  member: 6430
-  current: true
-  start: '?'
-place_built: Falmouth
-updated_at: '2022-02-14T11:04:40.382535+00:00'
-website: ''
-year: 1981
-year_is_approximate: false
-construction_details: GRP
 beam: 2.7432
 design_class:
   name: Tamarisk 29

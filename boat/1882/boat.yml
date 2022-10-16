@@ -5,27 +5,22 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log 87/2
-builder:
-  name: R.A. Newman and Sons Ltd.
-  id: b852b7bf-0e72-423c-86dc-852548bb8f4f
+year: 1912
+year_is_approximate: false
 designer:
   name: E.P. Hart
   id: f28b2b12-dba9-4018-bc14-dff76a0f91e3
+builder:
+  name: R.A. Newman and Sons Ltd.
+  id: b852b7bf-0e72-423c-86dc-852548bb8f4f
+place_built: Poole
 construction_material: wood
 construction_method: unknown
-draft: 2.3774
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.596683735674226
-  draft: 2.3774689100219457
-  length_over_all: 12.954157522555473
-  length_on_waterline: 10.515727871250913
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 77de57a7-acf8-469a-bc19-45e40d0435c0
-length_on_deck: 12.954
 reference:
 - Log 87/2
 callsign: ''
@@ -33,11 +28,16 @@ ownerships:
 - name: J R Menell
   share: 64
   start: 2012
-place_built: Poole
-updated_at: '2021-12-19T13:39:23.066866+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1912
-year_is_approximate: false
+id: 77de57a7-acf8-469a-bc19-45e40d0435c0
+draft: 2.3774
+handicap_data:
+  beam: 3.596683735674226
+  draft: 2.3774689100219457
+  length_over_all: 12.954157522555473
+  length_on_waterline: 10.515727871250913
+length_on_deck: 12.954
 beam: 3.5966
 for_sale_state:
   text: not_for_sale

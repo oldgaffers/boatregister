@@ -6,17 +6,32 @@ mainsail_type: gaff
 short_description: ''
 full_description: Modified Oysterman design with reduced draft and sailplan to make
   her easier to trail. Bilges were made firmer to enable her to take the ground.
-builder:
-  name: Mayfly Classic Boats
-  id: 2a625108-bef9-404e-bf02-4aad488efa47
+year: 1993
+year_is_approximate: false
 designer:
   name: Stanley Goldman
   id: b73cc020-dae7-4e31-a517-60f7d8731aaa
+builder:
+  name: Mayfly Classic Boats
+  id: 2a625108-bef9-404e-bf02-4aad488efa47
+place_built: Gweek
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.6096
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: shoal_draft
+callsign: ''
+ownerships:
+- name: D P Miller
+  share: 64
+  start: 1993
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a291ead0-4b06-40d9-a75f-ae53db079311
+draft: 0.6096
 handicap_data:
   beam: 2.029992684711046
   main:
@@ -34,22 +49,7 @@ handicap_data:
   fore_triangle_base: 2.3165081687393316
   length_on_waterline: 4.800658376005852
   fore_triangle_height: 3.9624481833699097
-home_country: 'null'
-home_port: ''
-hull_form: shoal_draft
-id: a291ead0-4b06-40d9-a75f-ae53db079311
 length_on_deck: 4.8768
-callsign: ''
-ownerships:
-- name: D P Miller
-  share: 64
-  start: 1993
-place_built: Gweek
-updated_at: '2021-12-19T13:39:21.940633+00:00'
-website: ''
-year: 1993
-year_is_approximate: false
-construction_details: GRP
 beam: 2.03
 design_class:
   name: Oystercatcher 16

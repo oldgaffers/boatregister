@@ -11,18 +11,42 @@ full_description: "<p>Built in 1903 by Major RF Wykeham-Martin, &#39;White Moth&
   \n\r\n<p>Alan Staley undertook a major professional restoration during the 1980s.\
   \ Based in Queenborough from 2001 - 2017, &#39;White Moth&#39; was often seen around\
   \ the Thames Estuary and participating in OGA events on the East Coast.&nbsp;</p>"
-builder:
-  name: R.F. Wykeham-Martin
-  id: cec55a2b-eadb-48e3-8581-4f64a595de1b
+year: 1903
+year_is_approximate: false
 designer:
   name: Clark J. Pain
   id: f6deeaa8-366d-45d0-8dbc-e4f640b87b2e
+builder:
+  name: R.F. Wykeham-Martin
+  id: cec55a2b-eadb-48e3-8581-4f64a595de1b
+place_built: Bourne End
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel Kauri pine on oak
 engine_installations: []
 for_sales:
 - asking_price: 18000
+home_country: GBR
+home_port: Queenborough
+hull_form: long keel deep forefoot
+sail_number: 2286 Y
+callsign: ''
+ownerships:
+- end: 2018
+  name: Graham Mason
+  share: 64
+  start: 2001
+- id: 1014
+  share: 64
+  start: 2018
+  member: 6256
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 65a81bd7-0e65-453c-a85a-c8a469bd4f24
+image_key: P5MC5b
+thumb: https://photos.smugmug.com/photos/i-mFnWTxB/0/Th/i-mFnWTxB-Th.jpg
+draft: 1.524
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -41,30 +65,7 @@ handicap_data:
   fore_triangle_base: 5.029261155815655
   length_on_waterline: 8.53450377956596
   fore_triangle_height: 8.382101926359423
-home_country: GBR
-home_port: Queenborough
-hull_form: long keel deep forefoot
-id: 65a81bd7-0e65-453c-a85a-c8a469bd4f24
 length_on_deck: 9.7536
-sail_number: 2286 Y
-callsign: ''
-ownerships:
-- end: 2018
-  name: Graham Mason
-  share: 64
-  start: 2001
-- id: 1014
-  share: 64
-  start: 2018
-  member: 6256
-  current: true
-place_built: Bourne End
-updated_at: '2021-12-19T13:39:34.517126+00:00'
-website: ''
-year: 1903
-year_is_approximate: false
-image_key: P5MC5b
-construction_details: Carvel Kauri pine on oak
 beam: 2.286
 for_sale_state:
   text: not_for_sale

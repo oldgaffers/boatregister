@@ -5,17 +5,36 @@ rig_type: Schooner
 mainsail_type: gaff
 short_description: ''
 full_description: Log 66/2
-builder:
-  name: Z.T. Jacobson
-  id: 823203a8-e44b-44eb-95c9-5f692bd74a11
+year: 1903
+year_is_approximate: false
 designer:
   name: Z.T. Jacobsen
   id: 898bb58f-1292-4fcd-bfac-516d9f45682a
+builder:
+  name: Z.T. Jacobson
+  id: 823203a8-e44b-44eb-95c9-5f692bd74a11
+place_built: Troense, Denmark
 construction_material: wood
 construction_method: unknown
-draft: 3.3528
+construction_details: Oak planking and frames. Mahogony floors.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 66/2
+callsign: ''
+ownerships:
+- name: N. Decker
+  share: 64
+  start: 1965
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 11dbea42-74f4-416f-ac28-64083dc3f8f8
+previous_names:
+- Anna Thora
+draft: 3.3528
 handicap_data:
   beam: 7.711533772250671
   fore:
@@ -47,26 +66,7 @@ handicap_data:
   fore_triangle_base: 16.45940014630578
   length_on_waterline: 32.004389173372346
   fore_triangle_height: 27.432333577176298
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 11dbea42-74f4-416f-ac28-64083dc3f8f8
 length_on_deck: 35.9664
-reference:
-- Log 66/2
-callsign: ''
-ownerships:
-- name: N. Decker
-  share: 64
-  start: 1965
-place_built: Troense, Denmark
-updated_at: '2021-12-19T13:39:07.755125+00:00'
-website: ''
-year: 1903
-year_is_approximate: false
-previous_names:
-- Anna Thora
-construction_details: Oak planking and frames. Mahogony floors.
 beam: 7.7114
 for_sale_state:
   text: not_for_sale

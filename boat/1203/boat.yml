@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Skua Ferro Marine
-  id: d5f0eed5-7a20-43c2-bc46-1becd0acea4c
+year: 1981
+year_is_approximate: false
 designer:
   name: Norris and Sampson
   id: 487bb9c5-6801-4735-99cf-1b347f9aae4d
+builder:
+  name: Skua Ferro Marine
+  id: d5f0eed5-7a20-43c2-bc46-1becd0acea4c
+place_built: Maldon
 construction_material: ferro
 construction_method: unknown
-draft: 1.8288
+construction_details: Ferro Cement
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+uk_part1: '388732'
+callsign: ''
+ownerships:
+- name: B & J F Fryatt
+  share: 64
+  start: 1985
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fcbdc305-3484-4b82-91bd-86d29b720d4a
+draft: 1.8288
 handicap_data:
   beam: 3.581443550353572
   main:
@@ -31,23 +47,7 @@ handicap_data:
   fore_triangle_base: 8.53450377956596
   length_on_waterline: 8.83930748597903
   fore_triangle_height: 10.36332601804438
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: fcbdc305-3484-4b82-91bd-86d29b720d4a
 length_on_deck: 10.2718
-uk_part1: '388732'
-callsign: ''
-ownerships:
-- name: B & J F Fryatt
-  share: 64
-  start: 1985
-place_built: Maldon
-updated_at: '2021-12-19T13:39:04.62964+00:00'
-website: ''
-year: 1981
-year_is_approximate: false
-construction_details: Ferro Cement
 beam: 3.5814
 for_sale_state:
   text: not_for_sale

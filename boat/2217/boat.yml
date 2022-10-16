@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: Willow Bay Boats
-  id: b0d65e81-46dd-427f-9c2e-b64845d09f63
+year: 1995
+year_is_approximate: false
 designer:
   name: Phil Swift
   id: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
+builder:
+  name: Willow Bay Boats
+  id: b0d65e81-46dd-427f-9c2e-b64845d09f63
+place_built: Oldham
 construction_material: wood
 construction_method: unknown
-draft: 0.1768
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- end: 2014
+  name: John Alexander
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 638ee94f-1acd-46e8-b1d8-e4d52387b8ec
+draft: 0.1768
 handicap_data:
   beam: 1.5240185320653499
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 1.5240185320653499
   length_on_waterline: 3.2004389173372347
   fore_triangle_height: 2.843818580833943
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 638ee94f-1acd-46e8-b1d8-e4d52387b8ec
 length_on_deck: 3.5296
-callsign: ''
-ownerships:
-- end: 2014
-  name: John Alexander
-  share: 64
-  start: 2012
-place_built: Oldham
-updated_at: '2021-12-19T13:39:32.49064+00:00'
-website: ''
-year: 1995
-year_is_approximate: false
 beam: 1.524
 for_sale_state:
   text: not_for_sale

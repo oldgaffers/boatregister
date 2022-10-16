@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1933
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Carvel, believed to be pitch pine on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: River Exe
+hull_form: long keel deep forefoot
+ssr: '2629'
+callsign: ''
+ownerships:
+- name: C Daniels
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 61b17e3d-6e6f-460b-a662-4cbcb171cd01
+draft: 1.0668
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -30,23 +46,7 @@ handicap_data:
   fore_triangle_base: 3.6576444769568397
   length_on_waterline: 6.4008778346744695
   fore_triangle_height: 7.315288953913679
-home_country: 'null'
-home_port: River Exe
-hull_form: long keel deep forefoot
-id: 61b17e3d-6e6f-460b-a662-4cbcb171cd01
 length_on_deck: 6.7056
-ssr: '2629'
-callsign: ''
-ownerships:
-- name: C Daniels
-  share: 64
-  start: 2012
-place_built: Littlehampton
-updated_at: '2021-12-19T13:39:13.463914+00:00'
-website: ''
-year: 1933
-year_is_approximate: false
-construction_details: Carvel, believed to be pitch pine on oak
 beam: 2.286
 for_sale_state:
   text: not_for_sale

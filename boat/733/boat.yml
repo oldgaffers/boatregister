@@ -5,29 +5,23 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log 87/1
-builder:
-  name: Oscar Schellin
-  id: de3b6a6f-f3de-40ce-b6df-a88d69584e54
+year: 1947
+year_is_approximate: false
 designer:
   name: Harald Gustafsson
   id: 6bc21f37-3440-4e72-9643-cc468e297376
+builder:
+  name: Oscar Schellin
+  id: de3b6a6f-f3de-40ce-b6df-a88d69584e54
+place_built: Kungsor Sweden
 construction_material: wood
 construction_method: unknown
-draft: 1.585
+construction_details: Double horizontal mahogony on bent ash frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.764325774201414
-  draft: 1.584979273347964
-  propellor:
-    type: fixed
-  length_over_all: 12.877956595952206
-  length_on_waterline: 9.906120458424773
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
-id: 6ff4b98f-d811-4874-811a-174ae0585a38
-length_on_deck: 12.8778
 reference:
 - Log 87/1
 uk_part1: '7393'
@@ -36,12 +30,18 @@ ownerships:
 - name: D Kuhn
   share: 64
   start: 1977
-place_built: Kungsor Sweden
-updated_at: '2021-12-19T13:38:50.886644+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1947
-year_is_approximate: false
-construction_details: Double horizontal mahogony on bent ash frames
+id: 6ff4b98f-d811-4874-811a-174ae0585a38
+draft: 1.585
+handicap_data:
+  beam: 3.764325774201414
+  draft: 1.584979273347964
+  propellor:
+    type: fixed
+  length_over_all: 12.877956595952206
+  length_on_waterline: 9.906120458424773
+length_on_deck: 12.8778
 beam: 3.7643
 for_sale_state:
   text: not_for_sale

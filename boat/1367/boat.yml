@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 92/4, N/96
-builder:
-  name: North Sea Craft
-  id: a6482c01-706a-469d-93db-2ccab9020581
+year: 1974
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: North Sea Craft
+  id: a6482c01-706a-469d-93db-2ccab9020581
+place_built: Brundall
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.8382
+construction_details: GRP hull GRP sheathed wood deck
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 92/4
+- Log N/96
+uk_part1: '377038'
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6157521c-a532-4dc1-9a3e-2915557a2b4c
+draft: 0.8382
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,22 +48,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.452694464764692
   fore_triangle_height: 9.1441111923921
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 6157521c-a532-4dc1-9a3e-2915557a2b4c
 length_on_deck: 7.3152
-reference:
-- Log 92/4
-- Log N/96
-uk_part1: '377038'
-callsign: ''
-place_built: Brundall
-updated_at: '2021-03-26T07:56:13.893909+00:00'
-website: ''
-year: 1974
-year_is_approximate: false
-construction_details: GRP hull GRP sheathed wood deck
 beam: 2.4384
 design_class:
   name: Tamarisk 24

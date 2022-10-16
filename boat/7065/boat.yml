@@ -5,25 +5,22 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: John Tyrell and Sons
-  id: 4be67a9f-dcba-45c6-92fd-0d1908dea03b
+year: 1963
+year_is_approximate: false
 designer:
   name: Peter Brett
   id: 0ac38b88-67d3-4057-bdf1-1e5152a30c2b
+builder:
+  name: John Tyrell and Sons
+  id: 4be67a9f-dcba-45c6-92fd-0d1908dea03b
+place_built: Arklow
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  length_over_all: 11.734942696903193
 home_country: 'null'
 home_port: Dublin
 hull_form: unknown
-id: dca0289f-5588-419f-ac43-b07e03b5cdca
-length_on_deck: 11.7348
 callsign: ''
 ownerships:
 - id: 352
@@ -31,11 +28,14 @@ ownerships:
   start: 2012
   member: 3930
   current: true
-place_built: Arklow
-updated_at: '2021-12-19T13:40:01.949864+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1963
-year_is_approximate: false
+id: dca0289f-5588-419f-ac43-b07e03b5cdca
+draft: 0
+handicap_data:
+  beam: 3.0480370641306997
+  length_over_all: 11.734942696903193
+length_on_deck: 11.7348
 beam: 3.048
 design_class:
   name: Dee 27

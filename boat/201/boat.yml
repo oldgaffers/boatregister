@@ -14,39 +14,20 @@ full_description: "<p>Guiding Star is a Looe lugger built in 1907 by James Angea
   \n<br />\r\nWe&#39;re often looking for crew, so if you&#39;re interested in sailing\
   \ on Guiding Star, please message Paul through Guiding Star&#39;s Facebook page\
   \ at&nbsp;https://www.facebook.com/guidingstar1907/</p>"
+year: 1907
+year_is_approximate: false
 builder:
   name: J. Angear
   id: 62a35eed-a9af-49be-9ad6-5e7f222eb650
+place_built: Looe
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel; close seamed
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.5570592538405266
-  main:
-    foot: 5.715069495245062
-    head: 4.800658376005852
-    luff: 6.272860277980979
-  thcf: 1.041975759
-  draft: 1.8288222384784198
-  mizzen:
-    foot: 3.0480370641306997
-    luff: 6.2484759814679345
-  topsail:
-    luff: 6.0960741282613995
-    perpendicular: 2.6670324311143623
-  propellor:
-    type: fixed
-  length_over_all: 11.887344550109729
-  fore_triangle_base: 6.2484759814679345
-  length_on_waterline: 11.582540843696659
-  fore_triangle_height: 10.210924164837843
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel deep forefoot
-id: 1bebaf46-5891-4701-b3e8-523419a65121
-length_on_deck: 11.8872
 uk_part1: '162019'
 callsign: GKRT
 ownerships:
@@ -71,15 +52,35 @@ ownerships:
   member: 6085
   current: true
   start: '?'
-place_built: Looe
-updated_at: '2021-12-19T13:38:35.437938+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: https://guidingstar1907.com
-year: 1907
-year_is_approximate: false
+id: 1bebaf46-5891-4701-b3e8-523419a65121
 previous_names:
 - Outward Bound
 image_key: p33qVn
-construction_details: Carvel; close seamed
+thumb: https://photos.smugmug.com/photos/i-J6WWX9j/0/Th/i-J6WWX9j-Th.jpg
+draft: 1.8288
+handicap_data:
+  beam: 3.5570592538405266
+  main:
+    foot: 5.715069495245062
+    head: 4.800658376005852
+    luff: 6.272860277980979
+  thcf: 1.041975759
+  draft: 1.8288222384784198
+  mizzen:
+    foot: 3.0480370641306997
+    luff: 6.2484759814679345
+  topsail:
+    luff: 6.0960741282613995
+    perpendicular: 2.6670324311143623
+  propellor:
+    type: fixed
+  length_over_all: 11.887344550109729
+  fore_triangle_base: 6.2484759814679345
+  length_on_waterline: 11.582540843696659
+  fore_triangle_height: 10.210924164837843
+length_on_deck: 11.8872
 beam: 3.557
 for_sale_state:
   text: not_for_sale

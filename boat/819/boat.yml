@@ -5,20 +5,16 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 80/1 reporting rebuild, wet well removed
+year: 1900
+year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Oak on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.26725188978298
-  length_over_all: 13.563764935381613
-  length_on_waterline: 11.582540843696659
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 5f10f055-2786-4e54-bd45-a3f6ab00337d
-length_on_deck: 13.5636
 reference:
 - Log 80/1
 callsign: ''
@@ -26,11 +22,15 @@ ownerships:
 - name: E C Hinchcliffe
   share: 64
   start: 2012
-updated_at: '2021-12-19T13:38:53.240999+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1900
-year_is_approximate: false
-construction_details: Oak on Oak
+id: 5f10f055-2786-4e54-bd45-a3f6ab00337d
+draft: 0
+handicap_data:
+  beam: 4.26725188978298
+  length_over_all: 13.563764935381613
+  length_on_waterline: 11.582540843696659
+length_on_deck: 13.5636
 beam: 4.2672
 for_sale_state:
   text: not_for_sale

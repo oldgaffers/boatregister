@@ -5,27 +5,23 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: Dan Webb/Feesey Webb
-  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+year: 1962
+year_is_approximate: false
 designer:
   name: Kim Holman
   id: 8833d78f-9c94-4d4e-bde5-71fa74207177
+builder:
+  name: Dan Webb/Feesey Webb
+  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+place_built: Maldon
 construction_material: wood
 construction_method: clinker_ply
-draft: 1.1674
+construction_details: Clinker Mahogany on Oak, Larch deck beams, Plywood deck
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  draft: 1.167398195562058
-  length_over_all: 7.873079736649597
-  length_on_waterline: 6.0960741282613995
 home_country: 'null'
 home_port: Hoo Ness
 hull_form: cut_away_stem
-id: 5c6f386c-561f-4e25-a944-458d7f6f4a1a
-length_on_deck: 7.873
 sail_number: '64'
 ssr: '1604'
 callsign: ''
@@ -33,12 +29,16 @@ ownerships:
 - name: Mark Montgomery-Smith
   share: 64
   start: 2012
-place_built: Maldon
-updated_at: '2021-12-19T13:39:56.492148+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1962
-year_is_approximate: false
-construction_details: Clinker Mahogany on Oak, Larch deck beams, Plywood deck
+id: 5c6f386c-561f-4e25-a944-458d7f6f4a1a
+draft: 1.1674
+handicap_data:
+  beam: 2.286027798098025
+  draft: 1.167398195562058
+  length_over_all: 7.873079736649597
+  length_on_waterline: 6.0960741282613995
+length_on_deck: 7.873
 beam: 2.286
 design_class:
   name: Stella

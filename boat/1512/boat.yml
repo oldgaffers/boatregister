@@ -6,29 +6,23 @@ mainsail_type: gaff
 short_description: ''
 full_description: Log Sep/98, Dec/98 CB Jan '92 For sale Log Dec 2001,  Dec 2003 and
   again August 04 CB 194.
-builder:
-  name: Whisstocks Boatyard Ltd
-  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+year: 1952
+year_is_approximate: false
 designer:
   name: William Maxwell Blake
   id: 7be4728c-aec1-4b98-9245-33fa05964add
+builder:
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
-draft: 0.9906
+construction_details: Carvel Pitch pine and mahogany on steamed frames, Oak backbone
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 0.9906120458424774
-  propellor:
-    type: fixed
-  length_over_all: 6.833699097781029
-  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
-id: 334b3459-4397-4825-b5ea-6d265370c53e
-length_on_deck: 6.8336
 reference:
 - Log Sep/98
 - Log Dec 98
@@ -40,12 +34,18 @@ reference:
 ssr: '24162'
 uk_part1: '184911'
 callsign: ''
-place_built: Woodbridge
-updated_at: '2021-03-26T07:56:15.453715+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1952
-year_is_approximate: false
-construction_details: Carvel Pitch pine and mahogany on steamed frames, Oak backbone
+id: 334b3459-4397-4825-b5ea-6d265370c53e
+draft: 0.9906
+handicap_data:
+  beam: 2.13362594489149
+  draft: 0.9906120458424774
+  propellor:
+    type: fixed
+  length_over_all: 6.833699097781029
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 6.8336
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

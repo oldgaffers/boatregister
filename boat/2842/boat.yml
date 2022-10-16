@@ -5,25 +5,22 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Landamore and Co. Ltd.
-  id: 19fdfb59-bb48-4015-abe5-1c3ec1ce0a8d
+year: 1968
+year_is_approximate: false
 designer:
   name: Francis J. Jones
   id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
+builder:
+  name: Landamore and Co. Ltd.
+  id: 19fdfb59-bb48-4015-abe5-1c3ec1ce0a8d
+place_built: Norfolk
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.5357229943916115
-  length_over_all: 10.972933430870519
 home_country: GBR
 home_port: Levington
 hull_form: unknown
-id: a8be33f5-6cee-4913-8049-5a4ca3a95da0
-length_on_deck: 10.9728
 callsign: ''
 ownerships:
 - name: John Day
@@ -33,11 +30,14 @@ ownerships:
   member: 5003
   current: true
   start: '?'
-place_built: Norfolk
-updated_at: '2021-12-19T13:39:51.027657+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1968
-year_is_approximate: false
+id: a8be33f5-6cee-4913-8049-5a4ca3a95da0
+draft: 0
+handicap_data:
+  beam: 3.5357229943916115
+  length_over_all: 10.972933430870519
+length_on_deck: 10.9728
 beam: 3.5296
 for_sale_state:
   text: not_for_sale

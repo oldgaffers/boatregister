@@ -5,27 +5,23 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1978
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totness
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.6096
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.2098268714947573
-  draft: 0.60960741282614
-  length_over_all: 6.5532796878810045
-  length_on_waterline: 5.577907827359181
 home_country: GBR
 home_port: Newport IoW
 hull_form: long keel deep forefoot
-id: 904aba58-fc85-4abc-9cdf-c20b9399f0bc
-length_on_deck: 6.5532
 sail_number: '66'
 ssr: '82993'
 callsign: ''
@@ -37,12 +33,16 @@ ownerships:
   member: 4063
   current: true
   start: '?'
-place_built: Totness
-updated_at: '2021-12-19T13:39:52.100628+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1978
-year_is_approximate: false
-construction_details: GRP
+id: 904aba58-fc85-4abc-9cdf-c20b9399f0bc
+draft: 0.6096
+handicap_data:
+  beam: 2.2098268714947573
+  draft: 0.60960741282614
+  length_over_all: 6.5532796878810045
+  length_on_waterline: 5.577907827359181
+length_on_deck: 6.5532
 beam: 2.2098
 design_class:
   name: Drascombe Drifter

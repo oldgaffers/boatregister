@@ -8,27 +8,22 @@ short_description: <p>&#39;Fairy&#39; is a 32&#39; smack, designed and built in 
 full_description: "In 1966 she was in poor condition. She had 'Fairy of Colchester\
   \ 1891' carved under the counter then.\r\n\r\nIn December 2004, her owner reported\
   \ new spars, sails and engine are being fitted."
-builder:
-  name: John Howard
-  id: 98b37407-3881-4aba-892d-b8f6b35b8dc0
+year: 1879
+year_is_approximate: false
 designer:
   name: John Howard
   id: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
+builder:
+  name: John Howard
+  id: 98b37407-3881-4aba-892d-b8f6b35b8dc0
+place_built: Maldon
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.3716166788588149
-  length_over_all: 9.75371860521824
-  length_on_waterline: 8.53450377956596
 home_country: GBR
 home_port: Falmouth
 hull_form: long keel deep forefoot
-id: 7bd6cdc1-c287-4a6f-8788-64beaaf79303
-length_on_deck: 9.7536
 callsign: ''
 ownerships:
 - note: Owned by Terence Davey 1966.
@@ -46,12 +41,18 @@ ownerships:
   member: 4469
   current: true
   start: '?'
-place_built: Maldon
-updated_at: '2021-12-19T13:38:29.685162+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1879
-year_is_approximate: false
+id: 7bd6cdc1-c287-4a6f-8788-64beaaf79303
 image_key: s4kfxP
+thumb: https://photos.smugmug.com/photos/i-QJ5T69V/0/Th/i-QJ5T69V-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.8956352109241648
+  draft: 1.3716166788588149
+  length_over_all: 9.75371860521824
+  length_on_waterline: 8.53450377956596
+length_on_deck: 9.7536
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

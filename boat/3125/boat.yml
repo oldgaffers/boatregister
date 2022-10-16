@@ -12,31 +12,22 @@ full_description: "<p>The first Cornish Crabbers Trader, &#39;Rainbow&#39;, was 
   \ of USA competing in classic yacht rallies for 14 years.</p>\r\n\r\n<p>She was\
   \ brought back to the UK as deck cargo, and in 2013 underwent extensive structural\
   \ as well as cosmetic restoration in Poole.</p>"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1977
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: unknown
-draft: 1.0668
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.0668251645940015
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 9.1441111923921
-  length_over_spars: 12.192148256522799
-  length_on_waterline: 8.83930748597903
 home_country: GBR
 home_port: Porchester, Portsmouth UK
 hull_form: long keel deep forefoot
-id: f2a5f62a-d7e1-4f5c-9785-ae69acd65705
-length_on_deck: 9.144
 sail_number: T01
 ssr: '22084'
 callsign: 2CUE2     MMSI  235075231
@@ -52,12 +43,22 @@ ownerships:
   member: 5763
   current: true
   start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:39:58.56765+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1977
-year_is_approximate: false
+id: f2a5f62a-d7e1-4f5c-9785-ae69acd65705
 image_key: SNktSB
+thumb: https://photos.smugmug.com/photos/i-kjHWwFk/0/Th/i-kjHWwFk-Th.jpg
+draft: 1.0668
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.0668251645940015
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 9.1441111923921
+  length_over_spars: 12.192148256522799
+  length_on_waterline: 8.83930748597903
+length_on_deck: 9.144
 beam: 2.7432
 design_class:
   name: Cornish Trader

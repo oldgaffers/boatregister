@@ -5,38 +5,38 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Longshore
-  id: 3ae76e82-4c99-4787-afe3-ac1d96909940
+year: 1992
+year_is_approximate: false
 designer:
   name: Peter Harris
   id: 4e6fcb7a-923b-4d7d-a28c-098da3d8d6d7
+builder:
+  name: Longshore
+  id: 3ae76e82-4c99-4787-afe3-ac1d96909940
+place_built: Fens
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.4572
+construction_details: G.R.P. Simulated Lapstrake
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8806388685686417
-  draft: 0.45720555961960496
-  length_over_all: 5.029261155815655
-  length_on_waterline: 4.090465740063399
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 06b3a189-630d-4f8a-9e6a-8ea97feaa743
-length_on_deck: 5.0292
 callsign: ''
 ownerships:
 - name: J Ward-Hayne
   share: 64
   start: 1993
-place_built: Fens
-updated_at: '2021-12-19T13:39:22.630138+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1992
-year_is_approximate: false
-construction_details: G.R.P. Simulated Lapstrake
+id: 06b3a189-630d-4f8a-9e6a-8ea97feaa743
+draft: 0.4572
+handicap_data:
+  beam: 1.8806388685686417
+  draft: 0.45720555961960496
+  length_over_all: 5.029261155815655
+  length_on_waterline: 4.090465740063399
+length_on_deck: 5.0292
 beam: 1.8806
 design_class:
   name: Longshore 16

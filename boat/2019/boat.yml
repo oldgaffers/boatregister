@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 1999
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Bursledon
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 0.5334
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Dartmouth
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- name: Geff Jacobs
+  share: 64
+  start: 1999
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: aa11476e-4a97-40f7-941f-6cfea30b876a
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -29,22 +44,7 @@ handicap_data:
     perpendicular: 1.8288222384784198
   length_over_all: 5.7912704218483295
   length_on_waterline: 5.690685198732017
-home_country: 'null'
-home_port: Dartmouth
-hull_form: centre-boarder
-id: aa11476e-4a97-40f7-941f-6cfea30b876a
 length_on_deck: 5.7912
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Geff Jacobs
-  share: 64
-  start: 1999
-place_built: Bursledon
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1999
-year_is_approximate: false
 beam: 2.1336
 design_class:
   name: Memory 19

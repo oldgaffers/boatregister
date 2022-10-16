@@ -99,18 +99,44 @@ full_description: "<p>The<em> </em>&#39;Deirdre&#39; (pronounced &#39;daredra&#3
   \ she is a &ldquo;classic boat&rdquo; there are no guardrails but permanent fore\
   \ and aft safety lines are rigged on the cabin top and the foredeck to which a safety\
   \ harness can be clipped.</p>"
-builder:
-  name: Alexander E. Gostelow
-  id: 8d74da63-305e-4666-8f7f-931df43292b5
+year: 1935
+year_is_approximate: false
 designer:
   name: T.D. Jacobs
   id: a3cb814c-0775-42fe-bdde-7dc54cfe4460
+builder:
+  name: Alexander E. Gostelow
+  id: 8d74da63-305e-4666-8f7f-931df43292b5
+place_built: Boston
 construction_material: wood
 construction_method: unknown
-draft: 0.9906
+construction_details: American Redwood and Larch on Oak and Iroko
 engine_installations: []
 for_sales:
 - asking_price: 24950
+home_country: GBR
+home_port: Maldon
+hull_form: long keel deep forefoot
+ssr: '65997'
+callsign: ''
+ownerships:
+- end: 2015
+  name: Kit Platten
+  share: 64
+  start: 1998
+- name: Eleanor Gassman
+  share: 64
+  start: 2015
+- share: 64
+  member: 6032
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8af55bea-5184-49a0-ba16-48548fa84f49
+image_key: Bmqvz3
+thumb: https://photos.smugmug.com/photos/i-76c8Cg6/0/Th/i-76c8Cg6-Th.jpg
+draft: 0.9906
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -128,32 +154,7 @@ handicap_data:
   fore_triangle_base: 4.038649109973177
   length_on_waterline: 6.858083394294074
   fore_triangle_height: 6.6294806144842715
-home_country: GBR
-home_port: Maldon
-hull_form: long keel deep forefoot
-id: 8af55bea-5184-49a0-ba16-48548fa84f49
 length_on_deck: 7.62
-ssr: '65997'
-callsign: ''
-ownerships:
-- end: 2015
-  name: Kit Platten
-  share: 64
-  start: 1998
-- name: Eleanor Gassman
-  share: 64
-  start: 2015
-- share: 64
-  member: 6032
-  current: true
-  start: '?'
-place_built: Boston
-updated_at: '2021-12-19T13:39:08.635646+00:00'
-website: ''
-year: 1935
-year_is_approximate: false
-image_key: Bmqvz3
-construction_details: American Redwood and Larch on Oak and Iroko
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

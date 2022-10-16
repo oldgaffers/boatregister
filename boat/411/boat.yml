@@ -5,27 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dan Webb/Feesey Webb
-  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+year: 1965
+year_is_approximate: false
 designer:
   name: Dan Webb
   id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
+builder:
+  name: Dan Webb/Feesey Webb
+  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+place_built: Maldon
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 1.3716166788588149
-  length_over_all: 6.5532796878810045
-  length_on_waterline: 5.7912704218483295
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: d8d0a164-9b14-45a9-8b1d-47e4fab8f603
-length_on_deck: 6.5532
 callsign: ''
 ownerships:
 - id: 55
@@ -33,11 +28,16 @@ ownerships:
   start: 2012
   member: 1289
   current: true
-place_built: Maldon
-updated_at: '2021-12-19T13:38:41.564904+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
+id: d8d0a164-9b14-45a9-8b1d-47e4fab8f603
+draft: 1.3716
+handicap_data:
+  beam: 2.13362594489149
+  draft: 1.3716166788588149
+  length_over_all: 6.5532796878810045
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 6.5532
 beam: 2.1336
 design_class:
   name: Blackwater Sloop

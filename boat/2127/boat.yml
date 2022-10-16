@@ -11,41 +11,25 @@ full_description: Annie's first owner kept her on the Suffolk Coast. He converte
   purchased by present owners in 2016. They are undertaking a lengthy programme of
   works to restore her to her original condition. In 2017 it is planned she will be
   in Mylor.
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1990
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  main:
-    foot: 3.886247256766642
-    head: 3.429041697147037
-    luff: 4.825042672518897
-  thcf: 0.892968486
-  draft: 0.9144111192392099
-  mizzen:
-    foot: 1.8288222384784198
-    luff: 4.785418190685198
-  propellor:
-    type: fixed
-  length_over_all: 7.467690807120214
-  fore_triangle_base: 4.090465740063399
-  length_on_waterline: 6.3246769080712015
-  fore_triangle_height: 7.263472323823457
 home_country: GBR
 home_port: Mylor
 hull_form: long keel deep forefoot
-id: bae6c9e2-f631-40ec-95e2-fa1d0151c3cf
-length_on_deck: 7.4676
 sail_number: CY27
-spar_material: wood
 ssr: '96775'
 callsign: ''
 ownerships:
@@ -70,14 +54,30 @@ ownerships:
   share: 64
   start: 2016
   member: 5875
-place_built: Rock
 updated_at: '2022-07-10T20:24:24.112687+00:00'
 website: ''
-year: 1990
-year_is_approximate: false
+id: bae6c9e2-f631-40ec-95e2-fa1d0151c3cf
 previous_names:
 - Annie of Fowey
-construction_details: GRP
+draft: 0.9144
+handicap_data:
+  beam: 2.590831504511095
+  main:
+    foot: 3.886247256766642
+    head: 3.429041697147037
+    luff: 4.825042672518897
+  thcf: 0.892968486
+  draft: 0.9144111192392099
+  mizzen:
+    foot: 1.8288222384784198
+    luff: 4.785418190685198
+  propellor:
+    type: fixed
+  length_over_all: 7.467690807120214
+  fore_triangle_base: 4.090465740063399
+  length_on_waterline: 6.3246769080712015
+  fore_triangle_height: 7.263472323823457
+length_on_deck: 7.4676
 beam: 2.5908
 design_class:
   name: Cornish Yawl

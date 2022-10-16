@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Chantiers Plaquet
-  id: b6577455-e6c9-4fb1-ac29-4d4e774e683a
+year: 1964
+year_is_approximate: false
 designer:
   name: Andre Parisis
   id: 4fff2ee0-6ac6-44c0-afe1-9e18a609bc71
+builder:
+  name: Chantiers Plaquet
+  id: b6577455-e6c9-4fb1-ac29-4d4e774e683a
+place_built: Belgium
 construction_material: steel
 construction_method: unknown
-draft: 1.015
+construction_details: Steel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: P Guilor
+  share: 64
+  start: 1965
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f7aed7f0-248d-4471-9845-a4480829aa12
+draft: 1.015
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 4.953060229212387
   length_on_waterline: 7.315288953913679
   fore_triangle_height: 9.906120458424773
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: f7aed7f0-248d-4471-9845-a4480829aa12
 length_on_deck: 9.144
-callsign: ''
-ownerships:
-- name: P Guilor
-  share: 64
-  start: 1965
-place_built: Belgium
-updated_at: '2021-12-19T13:39:19.033659+00:00'
-website: ''
-year: 1964
-year_is_approximate: false
-construction_details: Steel
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

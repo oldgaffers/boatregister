@@ -6,17 +6,29 @@ mainsail_type: bermudan
 short_description: <p>Penny Blue is a Blackwater Sloop built in 1963.</p>
 full_description: <p>Penny Blue was sold in 2019 with the proceeds going to the Sea
   Scouts and local charities</p>
-builder:
-  name: Dan Webb/Feesey Webb
-  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+year: 1963
+year_is_approximate: false
 designer:
   name: Dan Webb
   id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
+builder:
+  name: Dan Webb/Feesey Webb
+  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+place_built: Maldon
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel - mahogany on oak.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Mayland
+hull_form: long keel sloping forefoot
+uk_part1: '305804'
+callsign: ''
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6f614735-0194-4cad-8de8-576d92a43405
+draft: 0.9144
 handicap_data:
   main:
     foot: 11.6
@@ -28,19 +40,7 @@ handicap_data:
   fore_triangle_base: 2.0117
   length_on_waterline: 5.1816
   fore_triangle_height: 5.0597
-home_country: GBR
-home_port: Mayland
-hull_form: long keel sloping forefoot
-id: 6f614735-0194-4cad-8de8-576d92a43405
 length_on_deck: 5.4864
-uk_part1: '305804'
-callsign: ''
-place_built: Maldon
-updated_at: '2021-03-23T08:38:13.181598+00:00'
-website: ''
-year: 1963
-year_is_approximate: false
-construction_details: Carvel - mahogany on oak.
 beam: 1.8288
 design_class:
   name: Blackwater Sloop

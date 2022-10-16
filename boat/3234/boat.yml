@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Thumble is a Mark 1 Cornish Crabber.</p>
 full_description: <p>Thumble&#39;s original name was Bess, name changed in 2009.</p>
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1978
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7346
+construction_details: GRP Hull, Ply deck and coachroof.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Southdown Marina, Millbrook, Cornwall
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2018
+  name: Martin and Janet Elliott
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0d5499d5-971e-4e30-8010-09677e2562d1
+previous_names:
+- Bess
+image_key: b63pgG
+thumb: https://photos.smugmug.com/photos/i-ZLQ4bRx/0/Th/i-ZLQ4bRx-Th.jpg
+draft: 0.7346
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -39,26 +59,7 @@ handicap_data:
   fore_triangle_base: 4.084369665935138
   length_on_waterline: 6.1722750548646665
   fore_triangle_height: 5.544379419653743
-home_country: GBR
-home_port: Southdown Marina, Millbrook, Cornwall
-hull_form: long keel deep forefoot
-id: 0d5499d5-971e-4e30-8010-09677e2562d1
 length_on_deck: 7.3152
-callsign: ''
-ownerships:
-- end: 2018
-  name: Martin and Janet Elliott
-  share: 64
-  start: 2012
-place_built: Rock
-updated_at: '2021-12-19T13:40:04.892129+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-previous_names:
-- Bess
-image_key: b63pgG
-construction_details: GRP Hull, Ply deck and coachroof.
 beam: 2.4384
 design_class:
   name: Cornish Crabber Mk 1

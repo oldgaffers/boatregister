@@ -12,33 +12,23 @@ full_description: <p>Discovered by Iain Chambers at Jim Benney's yard at St Just
   boat in the two subsequent years to a state of near perfection. She is now ready
   to race as well as enjoy in the usual run of things. This Megavissey Tosher from
   the Falmouth working boat stable is set to last another generation.</p>
-builder:
-  name: Unknown
-  id: b3841693-d336-4132-8e60-8933dfd41cf6
+year: 1950
+year_is_approximate: false
 designer:
   name: Unknown
   id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+builder:
+  name: Unknown
+  id: b3841693-d336-4132-8e60-8933dfd41cf6
+place_built: Falmouth
 construction_material: wood
 construction_method: carvel
-draft: 0.762
+construction_details: Carvel, Pine on oak ribs. Iroko decking
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.5240185320653499
-  main:
-    foot: 3.6576444769568397
-    head: 3.200451109485491
-  draft: 0.7620214581809314
-  length_over_all: 6.0960741282613995
-  length_over_spars: 9.1441111923921
-  fore_triangle_base: 4.26725188978298
-  length_on_waterline: 5.7912704218483295
-  fore_triangle_height: 6.4008778346744695
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
-id: 9e2923bb-bf73-4030-a081-518960dae398
-length_on_deck: 6.096
 callsign: ''
 ownerships:
 - name: Iain Chambers
@@ -51,12 +41,22 @@ ownerships:
   member: 5718
   current: true
   start: '?'
-place_built: Falmouth
 updated_at: '2022-04-05T11:04:42.640227+00:00'
 website: ''
-year: 1950
-year_is_approximate: false
-construction_details: Carvel, Pine on oak ribs. Iroko decking
+id: 9e2923bb-bf73-4030-a081-518960dae398
+draft: 0.762
+handicap_data:
+  beam: 1.5240185320653499
+  main:
+    foot: 3.6576444769568397
+    head: 3.200451109485491
+  draft: 0.7620214581809314
+  length_over_all: 6.0960741282613995
+  length_over_spars: 9.1441111923921
+  fore_triangle_base: 4.26725188978298
+  length_on_waterline: 5.7912704218483295
+  fore_triangle_height: 6.4008778346744695
+length_on_deck: 6.096
 beam: 1.524
 for_sale_state:
   text: not_for_sale

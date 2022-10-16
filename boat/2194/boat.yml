@@ -5,40 +5,41 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Hull no. 55
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1978
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8532065349914655
-  length_over_all: 5.4864667154352595
 home_country: GBR
 home_port: Eling/Ashlet, Soton Water
 hull_form: unknown
-id: bfea0573-a2a3-474b-8a88-948490566656
-length_on_deck: 5.4864
-spar_material: wood
 callsign: ''
 ownerships:
 - name: Ted Taylor
   share: 64
   start: 2012
-place_built: Totnes
-updated_at: '2021-12-19T13:39:31.911631+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1978
-year_is_approximate: false
+id: bfea0573-a2a3-474b-8a88-948490566656
 previous_names:
 - Daisy
 image_key: PksMNm
-construction_details: GRP
+thumb: ''
+draft: 0
+handicap_data:
+  beam: 1.8532065349914655
+  length_over_all: 5.4864667154352595
+length_on_deck: 5.4864
 beam: 1.8593
 for_sale_state:
   text: not_for_sale

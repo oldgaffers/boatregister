@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log S-A/95, A-W/95, S/96, N/96.  MNK Race 02
-builder:
-  name: E. Bracken
-  id: dd43b6c0-5389-4382-a770-5336f7a00778
+year: 1985
+year_is_approximate: false
 designer:
   name: C.G. Petrie/Percy Dalton
   id: bff1e319-11f9-4557-a5ed-e9f0856cb48e
+builder:
+  name: E. Bracken
+  id: dd43b6c0-5389-4382-a770-5336f7a00778
+place_built: Wallington Surrey
 construction_material: ferro
 construction_method: unknown
-draft: 1.524
+construction_details: Ferro hull timber deck
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Faversham
+hull_form: long keel deep forefoot
+reference:
+- Log S-A/95
+- Log A-W/95
+- Log S/96
+- Log N/96.  MNK Race 02
+callsign: ''
+ownerships:
+- name: Mike Tyrrell
+  share: 64
+  start: 2005
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9ebfa988-dc8b-4f7a-bca6-d24a7edd775c
+draft: 1.524
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -30,27 +50,7 @@ handicap_data:
   fore_triangle_base: 6.227139722019019
   length_on_waterline: 8.22970007315289
   fore_triangle_height: 9.022189709826872
-home_country: 'null'
-home_port: Faversham
-hull_form: long keel deep forefoot
-id: 9ebfa988-dc8b-4f7a-bca6-d24a7edd775c
 length_on_deck: 10.2108
-reference:
-- Log S-A/95
-- Log A-W/95
-- Log S/96
-- Log N/96.  MNK Race 02
-callsign: ''
-ownerships:
-- name: Mike Tyrrell
-  share: 64
-  start: 2005
-place_built: Wallington Surrey
-updated_at: '2021-12-19T13:39:15.35769+00:00'
-website: ''
-year: 1985
-year_is_approximate: false
-construction_details: Ferro hull timber deck
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

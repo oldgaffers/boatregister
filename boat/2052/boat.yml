@@ -4,22 +4,18 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: Ashore for restoration 1997 Log Nov/97
+year_is_approximate: false
 builder:
   name: Edgar Cove
   id: 489e9636-d651-4666-a7e7-651238f82146
+place_built: Salcombe
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.6764203852718849
-  length_over_all: 4.343452816386247
 home_country: 'null'
 home_port: Ashore for restoration 97
 hull_form: unknown
-id: 93f21f0f-dbc8-4333-9b18-848fb7f47f8c
-length_on_deck: 4.3434
 reference:
 - Log Nov 97
 callsign: ''
@@ -27,10 +23,14 @@ ownerships:
 - name: Graham Thompson
   share: 64
   start: 2012
-place_built: Salcombe
-updated_at: '2021-12-19T13:39:27.982635+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year_is_approximate: false
+id: 93f21f0f-dbc8-4333-9b18-848fb7f47f8c
+draft: 0
+handicap_data:
+  beam: 1.6764203852718849
+  length_over_all: 4.343452816386247
+length_on_deck: 4.3434
 beam: 1.6764
 for_sale_state:
   text: not_for_sale

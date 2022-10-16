@@ -5,37 +5,37 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Eyemouth Boatbuilding Co.
-  id: 10245c61-c11c-41ff-8ad8-7fa0b9de0a60
+year: 1965
+year_is_approximate: false
 designer:
   name: Francis J. Jones
   id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
+builder:
+  name: Eyemouth Boatbuilding Co.
+  id: 10245c61-c11c-41ff-8ad8-7fa0b9de0a60
+place_built: Eyemouth
 construction_material: wood
 construction_method: unknown
-draft: 2.1031
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.785418190685198
-  draft: 2.103145574250183
-  length_over_all: 15.849792733479639
-  length_on_waterline: 14.935381614240429
 home_country: 'null'
 home_port: Breskens
 hull_form: unknown
-id: b4fa7a30-5584-431d-af81-fccc2ed111db
-length_on_deck: 15.8496
 callsign: ''
 ownerships:
 - name: Soenen Philippe
   share: 64
   start: 2012
-place_built: Eyemouth
-updated_at: '2021-12-19T13:38:30.670897+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1965
-year_is_approximate: false
+id: b4fa7a30-5584-431d-af81-fccc2ed111db
+draft: 2.1031
+handicap_data:
+  beam: 4.785418190685198
+  draft: 2.103145574250183
+  length_over_all: 15.849792733479639
+  length_on_waterline: 14.935381614240429
+length_on_deck: 15.8496
 beam: 4.7854
 design_class:
   name: Inchcape

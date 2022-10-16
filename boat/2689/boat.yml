@@ -5,17 +5,42 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Moonbeam is a Yarmouth 23 built in 2004.</p>
 full_description: Hull built in Sri Lanka fitted out in Yarmouth IoW.
-builder:
-  name: Yarmouth Boat Co.
-  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+year: 2004
+year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+place_built: Yarmouth IOW
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP hull, wooden spars
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Poole
+hull_form: long keel sloping forefoot
+sail_number: '24'
+ssr: '127642'
+callsign: ''
+ownerships:
+- end: 2012
+  name: Trevor Drury
+  share: 64
+  start: 2004
+- id: 725
+  share: 64
+  start: 2012
+  member: 5685
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 15dcd4e0-3fc5-42a1-89f9-4f73f47f1689
+previous_names:
+- Moo of Cowes
+draft: 0.9144
 handicap_data:
   beam: 2.2799317239697636
   main:
@@ -34,32 +59,7 @@ handicap_data:
   fore_triangle_base: 3.038892952938308
   length_on_waterline: 5.498658863691782
   fore_triangle_height: 5.7912704218483295
-home_country: GBR
-home_port: Poole
-hull_form: long keel sloping forefoot
-id: 15dcd4e0-3fc5-42a1-89f9-4f73f47f1689
 length_on_deck: 6.8824
-sail_number: '24'
-ssr: '127642'
-callsign: ''
-ownerships:
-- end: 2012
-  name: Trevor Drury
-  share: 64
-  start: 2004
-- id: 725
-  share: 64
-  start: 2012
-  member: 5685
-  current: true
-place_built: Yarmouth IOW
-updated_at: '2021-12-19T13:39:46.374613+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-previous_names:
-- Moo of Cowes
-construction_details: GRP hull, wooden spars
 beam: 2.2799
 design_class:
   name: Yarmouth 23

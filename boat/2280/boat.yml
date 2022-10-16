@@ -8,17 +8,33 @@ full_description: Classic Boat 1990 Nov   At one time she was entirely black, in
   sails! She is a sister ship to Suhali, the yacht Robin Knox-Johnson sailed around
   the world on his own and non stop - the first time this was achieved.  She has spent
   the last 3 years in Clare Lallow's Boatyard in Cowes undergoing a substantial refit.
-builder:
-  name: Jack Bracket
-  id: 58545c0d-8f8e-4e11-a55d-436e731a8eea
+year: 1960
+year_is_approximate: false
 designer:
   name: William Atkin
   id: f455f3b6-d2be-4793-a2d4-512398485aef
+builder:
+  name: Jack Bracket
+  id: 58545c0d-8f8e-4e11-a55d-436e731a8eea
+place_built: Costa Mesa California USA
 construction_material: wood
 construction_method: unknown
-draft: 1.6276
+construction_details: Douglas Fir
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Cowes
+hull_form: long keel deep forefoot
+uk_part1: '397933'
+callsign: ''
+ownerships:
+- name: P J Carey
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 017403e9-d478-4d27-8e62-ef0b8e06045c
+draft: 1.6276
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -36,23 +52,7 @@ handicap_data:
   fore_triangle_base: 5.6388685686417945
   length_on_waterline: 8.93074859790295
   fore_triangle_height: 9.296513045598633
-home_country: 'null'
-home_port: Cowes
-hull_form: long keel deep forefoot
-id: 017403e9-d478-4d27-8e62-ef0b8e06045c
 length_on_deck: 10.668
-uk_part1: '397933'
-callsign: ''
-ownerships:
-- name: P J Carey
-  share: 64
-  start: 2012
-place_built: Costa Mesa California USA
-updated_at: '2021-12-19T13:39:34.331863+00:00'
-website: ''
-year: 1960
-year_is_approximate: false
-construction_details: Douglas Fir
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

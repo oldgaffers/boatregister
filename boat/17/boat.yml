@@ -7,27 +7,22 @@ short_description: ''
 full_description: Gadfly II's paper archive suggests that Gadfly was damaged in WWII
   to be rebuilt.  This boat was attributed to T Harrison Butler, but Gadfly II's archive
   suggests that if this is the first gadfly she was designed by her builders.
-builder:
-  name: Anderson Rigden and Perkins
-  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+year: 1937
+year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+builder:
+  name: Anderson Rigden and Perkins
+  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
+place_built: Whitstable
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.6213118751524016
-  draft: 1.7678614971958058
-  length_over_all: 8.077298219946353
-  length_on_waterline: 6.858083394294074
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: c653e0c7-f7aa-45b6-934c-c47df889df0c
-length_on_deck: 8.0772
 callsign: ''
 ownerships:
 - note: 'Previous owners:'
@@ -43,13 +38,18 @@ ownerships:
 - name: P J Durnford
   share: 64
   start: 1974
-place_built: Whitstable
-updated_at: '2021-12-19T13:38:30.211641+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1937
-year_is_approximate: false
+id: c653e0c7-f7aa-45b6-934c-c47df889df0c
 previous_names:
 - Gadfly
+draft: 1.3716
+handicap_data:
+  beam: 2.6213118751524016
+  draft: 1.7678614971958058
+  length_over_all: 8.077298219946353
+  length_on_waterline: 6.858083394294074
+length_on_deck: 8.0772
 beam: 2.6213
 for_sale_state:
   text: not_for_sale

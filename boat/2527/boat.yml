@@ -10,17 +10,36 @@ full_description: "<p>Having completed her build in 2002, she was converted from
   \ to gaff a year later and offered for sale in 2010.</p>\r\n\r\n<p>She has now been\
   \ fitted out with a single mast and a lug sail. The hull was modified by removing\
   \ the skeg to maintain a balanced rig.</p>"
-builder:
-  name: Ian McBride
-  id: 8839ce53-2469-402e-b09d-ba338fac045d
+year: 2002
+year_is_approximate: false
 designer:
   name: Ian McBride
   id: 2b32b083-1d05-40d8-b26c-4d40dc2e26ab
+builder:
+  name: Ian McBride
+  id: 8839ce53-2469-402e-b09d-ba338fac045d
+place_built: Heswall
 construction_material: wood
 construction_method: clinker_ply
-draft: 0.3566
+construction_details: Glued Clinker ply on oak and utele backbone
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Heswall
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 336
+  share: 64
+  start: 2002
+  member: 3842
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 60c14556-6f19-40eb-8afd-c02def59b4a1
+image_key: Wsk6mk
+thumb: https://photos.smugmug.com/photos/i-ZkTD5nf/0/Th/i-ZkTD5nf-Th.jpg
+draft: 0.3566
 handicap_data:
   beam: 1.5484028285783955
   main:
@@ -34,25 +53,7 @@ handicap_data:
     luff: 2.203730797366496
   length_over_all: 4.075225554742746
   length_on_waterline: 3.8100463301633747
-home_country: 'null'
-home_port: Heswall
-hull_form: unknown
-id: 60c14556-6f19-40eb-8afd-c02def59b4a1
 length_on_deck: 4.0752
-callsign: ''
-ownerships:
-- id: 336
-  share: 64
-  start: 2002
-  member: 3842
-  current: true
-place_built: Heswall
-updated_at: '2021-12-19T13:39:41.776366+00:00'
-website: ''
-year: 2002
-year_is_approximate: false
-image_key: Wsk6mk
-construction_details: Glued Clinker ply on oak and utele backbone
 beam: 1.5484
 for_sale_state:
   text: not_for_sale

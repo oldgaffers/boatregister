@@ -5,17 +5,38 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: <p>Dayboat Kittiwake class</p>
 full_description: <p>Dayboat - Kittiwake Class</p>
-builder:
-  name: Roger Wilkinson
-  id: 13013b12-8617-439c-bc35-ba8f2259031e
+year: 1996
+year_is_approximate: false
 designer:
   name: Roger Wilkinson
   id: 7b55967c-c09b-4375-8aab-2aa606d145cd
+builder:
+  name: Roger Wilkinson
+  id: 13013b12-8617-439c-bc35-ba8f2259031e
+place_built: Macclesfield
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3048
+construction_details: GRP Timber fit out
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Holyhead
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2009
+  name: Jeff Rooney
+  share: 64
+  start: 2004
+- id: 386
+  share: 64
+  start: 2009
+  member: 4136
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b835c269-5b1b-48aa-af9c-2c2d8efd4147
+draft: 0.3048
 handicap_data:
   main:
     foot: 10
@@ -33,28 +54,7 @@ handicap_data:
   fore_triangle_base: 2.4384
   length_on_waterline: 4.2672
   fore_triangle_height: 3.6576
-home_country: GBR
-home_port: Holyhead
-hull_form: long keel deep forefoot
-id: b835c269-5b1b-48aa-af9c-2c2d8efd4147
 length_on_deck: 4.2672
-callsign: ''
-ownerships:
-- end: 2009
-  name: Jeff Rooney
-  share: 64
-  start: 2004
-- id: 386
-  share: 64
-  start: 2009
-  member: 4136
-  current: true
-place_built: Macclesfield
-updated_at: '2021-12-19T13:40:03.148383+00:00'
-website: ''
-year: 1996
-year_is_approximate: false
-construction_details: GRP Timber fit out
 beam: 1.524
 design_class:
   name: Kittiwake 14

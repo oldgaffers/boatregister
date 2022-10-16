@@ -11,17 +11,36 @@ full_description: <p>Hull believed to be a Canadian design with 3 keels and a Be
   to illness the owner was not able to rebuild, and local pressure from the Panglesham
   Village Trust led to her breakup in 2019. The mast is to be re-used as the mizzen
   mast for the lugger &quot;Lyonesse&quot; of Mousehole.</p>
-builder:
-  name: F. Graves
-  id: 4a00e161-ba6f-4407-80bc-31eab3901bae
+year: 1970
+year_is_approximate: false
 designer:
   name: Unknown
   id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+builder:
+  name: F. Graves
+  id: 4a00e161-ba6f-4407-80bc-31eab3901bae
+place_built: Hull unknown fitted out Paglesham
 construction_material: wood
 construction_method: unknown
-draft: 1.1582
+construction_details: Mahogany Hard Chine Double skin
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: F C
+ssr: '42633'
+callsign: ''
+ownerships:
+- id: 108
+  share: 64
+  start: 1978
+  member: 1918
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a986eec8-5e01-4f06-99fd-66aa1da7987e
+draft: 1.1582
 handicap_data:
   beam: 2.987076322848086
   main:
@@ -39,26 +58,7 @@ handicap_data:
   fore_triangle_base: 5.18166300902219
   length_on_waterline: 7.138502804194099
   fore_triangle_height: 6.339917093391856
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: a986eec8-5e01-4f06-99fd-66aa1da7987e
 length_on_deck: 7.9248
-sail_number: F C
-ssr: '42633'
-callsign: ''
-ownerships:
-- id: 108
-  share: 64
-  start: 1978
-  member: 1918
-  current: true
-place_built: Hull unknown fitted out Paglesham
-updated_at: '2021-12-19T13:39:05.354134+00:00'
-website: ''
-year: 1970
-year_is_approximate: false
-construction_details: Mahogany Hard Chine Double skin
 beam: 2.987
 for_sale_state:
   text: not_for_sale

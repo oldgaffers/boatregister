@@ -5,42 +5,42 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Dawn is a Thames Estuary One Design</p>
 full_description: Log 74/2 Gunter sloop 3/4 deck
-builder:
-  name: H.E. Cole
-  id: a0fb014b-5bc9-4db7-b639-37dbecd7cde8
+year: 1912
+year_is_approximate: false
 designer:
   name: Morgan Giles
   id: f1bc585c-9638-4fd8-8fc7-f382b028513c
+builder:
+  name: H.E. Cole
+  id: a0fb014b-5bc9-4db7-b639-37dbecd7cde8
+place_built: Leigh on Sea
 construction_material: wood
+spar_material: wood
 construction_method: clinker
-draft: 0.4054
+construction_details: clinker
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.396244818336991
-  length_over_all: 5.4864667154352595
-  length_on_waterline: 5.120702267739576
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: b27646c6-cde6-42d4-82b4-4935fbf11ec7
-length_on_deck: 5.4864
 reference:
 - Log 74/2
-spar_material: wood
 callsign: ''
 ownerships:
 - name: P J T Millen
   share: 64
   start: 1974
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:38:30.577156+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1912
-year_is_approximate: false
+id: b27646c6-cde6-42d4-82b4-4935fbf11ec7
 image_key: XDJdMs
-construction_details: clinker
+draft: 0.4054
+handicap_data:
+  beam: 1.8288222384784198
+  draft: 0.396244818336991
+  length_over_all: 5.4864667154352595
+  length_on_waterline: 5.120702267739576
+length_on_deck: 5.4864
 beam: 1.8288
 design_class:
   name: Thames Estuary OD

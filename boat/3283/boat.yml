@@ -18,25 +18,28 @@ full_description: "<p>Capella is a good representative of the boats that David H
   \ done a circumnavigation of Britain.</p>\n<p>Much of the original interior has\
   \ alas been removed or altered but she retains something the atmosphere of a 1930s\
   \ cruising yacht.</p>"
-builder:
-  name: David Hillyard
-  id: d649c6a5-3acc-4f60-868f-7415641908a4
+year: 1937
+year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+builder:
+  name: David Hillyard
+  id: d649c6a5-3acc-4f60-868f-7415641908a4
+place_built: Littlehampton
 construction_material: wood
 construction_method: unknown
-draft: 1.7282
+construction_details: "Oak backbone, sawn oak frames at 30in spacing with three steamed\
+  \ timbers between, pitchpine planking, elm garboards, all bronze and copper fastened.\
+  \ Cast iron outside ballast keel of about three tons and about one and a half tons\
+  \ of inside lead ballast.\r\nDeck is of painted ply over the original tongue and\
+  \ groove boarding on sawn oak beams. Spars of douglas fir, made new by Hillyards\
+  \ in 2005."
 engine_installations: []
 for_sales: []
-handicap_data:
-  length_overall: 9.144
-  length_over_spars: 11.5824
 home_country: GBR
 home_port: Greenwich
 hull_form: long keel sloping forefoot
-id: 0b100821-72a0-43a4-869a-3bb5a7bbe7c0
-length_on_deck: 9.144
 reference: []
 ssr: '36215'
 callsign: MKKH3
@@ -46,20 +49,18 @@ ownerships:
   start: 2014
   member: 5978
   current: true
-place_built: Littlehampton
 updated_at: '2022-05-09T10:37:11.950785+00:00'
 website: ''
-year: 1937
-year_is_approximate: false
+id: 0b100821-72a0-43a4-869a-3bb5a7bbe7c0
 previous_names:
 - If
 image_key: zMWX6T
-construction_details: "Oak backbone, sawn oak frames at 30in spacing with three steamed\
-  \ timbers between, pitchpine planking, elm garboards, all bronze and copper fastened.\
-  \ Cast iron outside ballast keel of about three tons and about one and a half tons\
-  \ of inside lead ballast.\r\nDeck is of painted ply over the original tongue and\
-  \ groove boarding on sawn oak beams. Spars of douglas fir, made new by Hillyards\
-  \ in 2005."
+thumb: https://photos.smugmug.com/photos/i-LdSRFsn/0/Th/i-LdSRFsn-Th.jpg
+draft: 1.7282
+handicap_data:
+  length_overall: 9.144
+  length_over_spars: 11.5824
+length_on_deck: 9.144
 beam: 0
 design_class:
   name: Hillyard 9 Ton

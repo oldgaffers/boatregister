@@ -5,26 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Replica of the Drontheim Elizabeth CE117 .  Sprit main and jib rig.
-builder:
-  name: Robin Ruddick
-  id: f5ac4d1b-a89b-4237-b55b-6e2a2eed10eb
+year: 2003
+year_is_approximate: false
 designer:
   name: James Kelly
   id: 5a68549c-c5b2-4996-a591-b2b4fa62c288
+builder:
+  name: Robin Ruddick
+  id: f5ac4d1b-a89b-4237-b55b-6e2a2eed10eb
+place_built: Portrush
 construction_material: wood
 construction_method: clinker
-draft: 0.6096
+construction_details: GRP simulated clinker
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8257742014142893
-  draft: 0.60960741282614
-  length_over_all: 6.705681541087539
 home_country: 'null'
 home_port: Portrush
 hull_form: unknown
-id: b575ec14-96ab-49ac-b9ec-cdef5ad38c5d
-length_on_deck: 6.7056
 callsign: ''
 ownerships:
 - name: Robin Ruddock
@@ -34,12 +31,15 @@ ownerships:
   member: 2978
   current: true
   start: '?'
-place_built: Portrush
-updated_at: '2021-12-19T13:39:53.798855+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2003
-year_is_approximate: false
-construction_details: GRP simulated clinker
+id: b575ec14-96ab-49ac-b9ec-cdef5ad38c5d
+draft: 0.6096
+handicap_data:
+  beam: 1.8257742014142893
+  draft: 0.60960741282614
+  length_over_all: 6.705681541087539
+length_on_deck: 6.7056
 beam: 1.8258
 for_sale_state:
   text: not_for_sale

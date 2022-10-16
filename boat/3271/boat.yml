@@ -9,17 +9,39 @@ full_description: "<p>&#39;Crabby Madge&#39;, a Cornish Crabber Pilot Cutter sai
   \ boat &#39;Aeolus&#39;.</p>\r\n\r\n<p><iframe allow=\"autoplay; encrypted-media\"\
   \ allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/5RXX5uoPtEE\"\
   \ width=\"560\"></iframe></p>"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.0668
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: P46
+callsign: ''
+ownerships:
+- name: James and Liz Goodwin
+  share: 64
+  start: 2015
+- id: 876
+  share: 64
+  member: 5985
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 2abc8d0c-3f18-444e-acc2-c5eb95f919d4
+image_key: FQQ92Z
+thumb: https://photos.smugmug.com/photos/i-Zmr79NV/0/Th/i-Zmr79NV-Th.jpg
+draft: 1.0668
 handicap_data:
   main:
     foot: 17.9
@@ -35,28 +57,7 @@ handicap_data:
   fore_triangle_base: 5.9131
   length_on_waterline: 7.8638
   fore_triangle_height: 8.382
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: 2abc8d0c-3f18-444e-acc2-c5eb95f919d4
 length_on_deck: 9.144
-sail_number: P46
-callsign: ''
-ownerships:
-- name: James and Liz Goodwin
-  share: 64
-  start: 2015
-- id: 876
-  share: 64
-  member: 5985
-  current: true
-  start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:40:05.892373+00:00'
-website: ''
-year_is_approximate: false
-image_key: FQQ92Z
-construction_details: GRP
 beam: 2.8956
 design_class:
   name: Cornish Crabber Pilot Cutter 30

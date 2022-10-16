@@ -7,42 +7,43 @@ short_description: <p>&#39;Beano&#39; is a 14ft gunter dinghy.</p>
 full_description: <p>&#39;Beano&#39; is a Halcyon 14 Gunter rig by Kenneth M Gibbs
   &amp; Co of Shepperton. We believe this yard built several Halcyons as private commissions
   in the 1950s.</p>
-builder:
-  name: Kenneth M. Gibbs
-  id: 3e45b2e9-a3dc-413e-9099-0b47035a0afd
+year: 1950
+year_is_approximate: false
 designer:
   name: Halcyon
   id: 9b93a0d0-2e38-4844-a342-a89e7e45414e
+builder:
+  name: Kenneth M. Gibbs
+  id: 3e45b2e9-a3dc-413e-9099-0b47035a0afd
+place_built: Shepperton
 construction_material: wood
 construction_method: clinker
-draft: 0.2286
+construction_details: Clinker
 engine_installations: []
 for_sales:
 - asking_price: 2000
-handicap_data:
-  moving_keel: true
-  length_overall: 4.2672
-  moving_keel_type: Leeboard
-  length_over_spars: 4.2672
-  length_on_waterline: 4.1148
 home_country: GBR
 home_port: Harwich
 hull_form: long keel deep forefoot
-id: 022175f4-2503-408a-900a-ff2be45db211
-length_on_deck: 4.2672
 callsign: ''
 ownerships:
 - end: 2015
   name: Benjamin Dale
   share: 64
   start: 1995
-place_built: Shepperton
-updated_at: '2021-12-19T13:40:05.762377+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1950
-year_is_approximate: false
+id: 022175f4-2503-408a-900a-ff2be45db211
 image_key: X26mV4
-construction_details: Clinker
+thumb: https://photos.smugmug.com/photos/i-4QPpPGp/0/Th/i-4QPpPGp-Th.jpg
+draft: 0.2286
+handicap_data:
+  moving_keel: true
+  length_overall: 4.2672
+  moving_keel_type: Leeboard
+  length_over_spars: 4.2672
+  length_on_waterline: 4.1148
+length_on_deck: 4.2672
 beam: 1.524
 for_sale_state:
   text: not_for_sale

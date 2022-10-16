@@ -5,20 +5,16 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 75/1
+year: 1896
+year_is_approximate: false
 construction_material: wood
 construction_method: clinker
-draft: 1.0668
+construction_details: Clinker pine on oak, lead keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  draft: 1.066812972445745
-  length_over_all: 5.4864667154352595
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 397218f5-ad24-46b0-860d-7e1ebc9856f8
-length_on_deck: 5.4864
 reference:
 - Log 75/1
 callsign: ''
@@ -26,11 +22,15 @@ ownerships:
 - name: W K M Wood
   share: 64
   start: 2012
-updated_at: '2021-12-19T13:38:55.852396+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1896
-year_is_approximate: false
-construction_details: Clinker pine on oak, lead keel
+id: 397218f5-ad24-46b0-860d-7e1ebc9856f8
+draft: 1.0668
+handicap_data:
+  beam: 1.8288222384784198
+  draft: 1.066812972445745
+  length_over_all: 5.4864667154352595
+length_on_deck: 5.4864
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

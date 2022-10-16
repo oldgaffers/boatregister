@@ -5,25 +5,22 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Small Craft
-  id: 18583dd4-8ab1-4778-96df-40955b771221
+year: 1961
+year_is_approximate: false
 designer:
   name: Ian Proctor
   id: 8ae8af94-3e4e-44fd-9b2b-6ea45fe80024
+builder:
+  name: Small Craft
+  id: 18583dd4-8ab1-4778-96df-40955b771221
+place_built: Southampton
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.4478176054620824
-  length_over_all: 3.3528407705437697
 home_country: GBR
 home_port: Waldringfield
 hull_form: unknown
-id: bcd1cda9-3d27-4c1d-9810-d5bdc418662e
-length_on_deck: 3.3528
 callsign: ''
 ownerships:
 - id: 250
@@ -31,11 +28,14 @@ ownerships:
   start: 2012
   member: 3318
   current: true
-place_built: Southampton
-updated_at: '2021-12-19T13:39:27.483369+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1961
-year_is_approximate: false
+id: bcd1cda9-3d27-4c1d-9810-d5bdc418662e
+draft: 0
+handicap_data:
+  beam: 1.4478176054620824
+  length_over_all: 3.3528407705437697
+length_on_deck: 3.3528
 beam: 1.4478
 for_sale_state:
   text: not_for_sale

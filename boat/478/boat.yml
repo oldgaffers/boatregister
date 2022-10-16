@@ -11,44 +11,45 @@ full_description: 'Described by the West Solent Boat builders in a for sale noti
   <p>Her almost brand new diesel engine drives her at 6 knots and consumes approximately
   one gallon per hour. <p>The owner has crossed the channel very comfortably in heavy
   weather using jib, staysail and mizen while stowing the m ainsail. <p>'
-builder:
-  name: May Harden and May
-  id: ad522340-0cee-437f-8a69-904bd989b74f
+year: 1914
+year_is_approximate: false
 designer:
   name: Morgan Giles
   id: f1bc585c-9638-4fd8-8fc7-f382b028513c
+builder:
+  name: May Harden and May
+  id: ad522340-0cee-437f-8a69-904bd989b74f
+place_built: Hythe, Hamble
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.1582
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  draft: 1.1582540843696658
-  length_over_all: 7.010485247500609
-  length_on_waterline: 6.0960741282613995
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 84b334f5-25ed-48c1-a3b2-887e29ad6e8e
-length_on_deck: 7.0104
 reference:
 - Log 74/1
 - Log 81/2
 - Log 85/4
-spar_material: wood
 callsign: ''
 ownerships:
 - name: R Eyton-Lloyd
   share: 64
   start: 2012
-place_built: Hythe, Hamble
-updated_at: '2021-12-19T13:38:43.399657+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1914
-year_is_approximate: false
+id: 84b334f5-25ed-48c1-a3b2-887e29ad6e8e
 image_key: n7ncvc
-construction_details: Pitch pine on oak
+thumb: https://photos.smugmug.com/photos/i-HDftG4D/0/Th/i-HDftG4D-Th.jpg
+draft: 1.1582
+handicap_data:
+  beam: 1.8288222384784198
+  draft: 1.1582540843696658
+  length_over_all: 7.010485247500609
+  length_on_waterline: 6.0960741282613995
+length_on_deck: 7.0104
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

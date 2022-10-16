@@ -5,26 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 77/3
-builder:
-  name: D. Williams
-  id: bebab287-b578-4735-b0fc-0e37a1091e20
+year: 1960
+year_is_approximate: false
 designer:
   name: D. Williams
   id: 00c0d8b0-731a-41d6-9d89-5adae021b8e2
+builder:
+  name: D. Williams
+  id: bebab287-b578-4735-b0fc-0e37a1091e20
+place_built: Pill
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  length_over_all: 7.315288953913679
-  length_on_waterline: 6.858083394294074
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: a4742fe4-2b7b-427f-b3a4-a019fad1148b
-length_on_deck: 7.3152
 reference:
 - Log 77/3
 callsign: ''
@@ -32,11 +28,15 @@ ownerships:
 - name: D Williams
   share: 64
   start: 1960
-place_built: Pill
-updated_at: '2021-12-19T13:38:38.670643+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1960
-year_is_approximate: false
+id: a4742fe4-2b7b-427f-b3a4-a019fad1148b
+draft: 0
+handicap_data:
+  beam: 2.590831504511095
+  length_over_all: 7.315288953913679
+  length_on_waterline: 6.858083394294074
+length_on_deck: 7.3152
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

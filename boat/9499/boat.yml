@@ -5,17 +5,33 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: G.P. Allington
-  id: 61fdc4be-95e5-46ae-8a1e-d8b5d740866c
+year: 1983
+year_is_approximate: false
 designer:
   name: Maurice Griffiths/Allington
   id: b7d63036-78cc-49c9-812f-437c8321a8a0
+builder:
+  name: G.P. Allington
+  id: 61fdc4be-95e5-46ae-8a1e-d8b5d740866c
+place_built: Hayling Island
 construction_material: ferro
 construction_method: unknown
-draft: 1.6764
+construction_details: Ferro cement hull over laminated wood frames, teak decks
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+uk_part1: '701210'
+callsign: ''
+ownerships:
+- name: James Williams
+  share: 64
+  start: 1983
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8311c866-95a8-4944-9acc-7739b06fc678
+draft: 1.6764
 handicap_data:
   beam: 3.480858327237259
   main:
@@ -36,23 +52,7 @@ handicap_data:
   fore_triangle_base: 6.492318946598391
   length_on_waterline: 10.66812972445745
   fore_triangle_height: 11.734942696903193
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 8311c866-95a8-4944-9acc-7739b06fc678
 length_on_deck: 12.192
-uk_part1: '701210'
-callsign: ''
-ownerships:
-- name: James Williams
-  share: 64
-  start: 1983
-place_built: Hayling Island
-updated_at: '2021-12-19T13:40:02.539395+00:00'
-website: ''
-year: 1983
-year_is_approximate: false
-construction_details: Ferro cement hull over laminated wood frames, teak decks
 beam: 3.4808
 for_sale_state:
   text: not_for_sale

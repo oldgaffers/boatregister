@@ -5,22 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Fitted out by first owner from bare molding
-builder:
-  name: Mike Hawes
-  id: e5fba2ea-634d-4e9f-b715-a77e5b65164c
+year: 1995
+year_is_approximate: false
 designer:
   name: Michael R. Hawes
   id: 1d14143b-8f55-4b26-94a4-95e4058cc952
+builder:
+  name: Mike Hawes
+  id: e5fba2ea-634d-4e9f-b715-a77e5b65164c
+place_built: Fordingbridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: Grp, teak overlay on deck
 engine_installations: []
 for_sales: []
 home_country: 'null'
 home_port: Wells next the Sea
 hull_form: unknown
-id: 2080acc6-cb3e-4bc1-83e4-8c3ffc065a81
-length_on_deck: 0
 sail_number: '43'
 ssr: '83432'
 callsign: ''
@@ -28,12 +29,11 @@ ownerships:
 - name: Brian Parkinson
   share: 64
   start: 1996
-place_built: Fordingbridge
-updated_at: '2021-12-19T13:39:49.175375+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1995
-year_is_approximate: false
-construction_details: Grp, teak overlay on deck
+id: 2080acc6-cb3e-4bc1-83e4-8c3ffc065a81
+draft: 0
+length_on_deck: 0
 beam: 0
 design_class:
   name: Skanner 24

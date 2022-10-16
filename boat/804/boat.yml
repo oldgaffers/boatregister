@@ -9,17 +9,35 @@ full_description: "<p>Originally built as a RNLI boarding boat, &#39;Willow&#39;
   \ number 237&nbsp;of 300 built in the mid 1950s. She was used as a rowing boat to\
   \ take the crew to and from the offshore lifeboat.</p>\r\n\r\n<p>She was restored\
   \ and changed to a sailing rig over six years, completed in 2017.</p>"
-builder:
-  name: Brooke Marine
-  id: 559cd4bc-a18f-48c0-adb8-ecf51442d3df
+year: 1957
+year_is_approximate: false
 designer:
   name: RNLI
   id: abc1d6d9-7bed-4405-a804-aff0df037e36
+builder:
+  name: Brooke Marine
+  id: 559cd4bc-a18f-48c0-adb8-ecf51442d3df
+place_built: Lowestoft
 construction_material: wood
 construction_method: clinker
-draft: 0.381
+construction_details: Pitch pine clinker planks on oak frames
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 447
+  share: 64
+  start: 2012
+  member: 4418
+updated_at: '2022-09-09T09:37:12.424506+00:00'
+website: ''
+id: 1209001e-9b4c-4095-9ce6-b402ec690b7c
+image_key: 3pP7Pg
+thumb: https://photos.smugmug.com/photos/i-nddCjfN/0/Th/i-nddCjfN-Th.jpg
+draft: 0.381
 handicap_data:
   beam: 1.9812362838332114
   main:
@@ -35,24 +53,7 @@ handicap_data:
   fore_triangle_base: 3.0480370641306997
   length_on_waterline: 4.775274323335771
   fore_triangle_height: 5.029273347963911
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: 1209001e-9b4c-4095-9ce6-b402ec690b7c
 length_on_deck: 4.8768
-callsign: ''
-ownerships:
-- id: 447
-  share: 64
-  start: 2012
-  member: 4418
-place_built: Lowestoft
-updated_at: '2022-09-09T09:37:12.424506+00:00'
-website: ''
-year: 1957
-year_is_approximate: false
-image_key: 3pP7Pg
-construction_details: Pitch pine clinker planks on oak frames
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

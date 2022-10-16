@@ -6,29 +6,23 @@ mainsail_type: gaff
 short_description: ''
 full_description: Prev owners David Thompson, D R G Ford, for sale on web Sep 08,
   Log Dec 08, sold to Hastings March 2009
-builder:
-  name: Skanner Yachts Ltd
-  id: b0b2274f-edd3-4bd5-b521-e7884d73e8b6
+year: 1987
+year_is_approximate: false
 designer:
   name: Michael W. Hawes
   id: 5c5f2dd3-64e0-44ba-88df-159e1aa2491e
+builder:
+  name: Skanner Yachts Ltd
+  id: b0b2274f-edd3-4bd5-b521-e7884d73e8b6
+place_built: Fordingbridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7102
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.1854425749817117
-  draft: 0.7101926359424531
-  propellor:
-    type: fixed
-  length_over_all: 6.858083394294074
-  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: Trailer sail
 hull_form: long keel deep forefoot
-id: b6483846-a90c-45ba-9f3c-5d8fac157653
-length_on_deck: 6.858
 reference:
 - Log Dec 08
 sail_number: D 30
@@ -38,12 +32,18 @@ ownerships:
 - name: Nick Thompson
   share: 64
   start: 2009
-place_built: Fordingbridge
-updated_at: '2021-12-19T13:39:51.216633+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1987
-year_is_approximate: false
-construction_details: GRP
+id: b6483846-a90c-45ba-9f3c-5d8fac157653
+draft: 0.7102
+handicap_data:
+  beam: 2.1854425749817117
+  draft: 0.7101926359424531
+  propellor:
+    type: fixed
+  length_over_all: 6.858083394294074
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 6.858
 beam: 2.1854
 design_class:
   name: Skanner 19

@@ -5,18 +5,37 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Morwenna is a Cornish Shrimper built in 2003.</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2003
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.4816
+construction_details: GRP
 engine_installations: []
 for_sales:
 - asking_price: null
+home_country: GBR
+home_port: Dartmouth
+hull_form: centre-boarder
+sail_number: 897 or 829 ?
+callsign: ''
+ownerships:
+- name: Michael and Penny Olliff-Lee
+  share: 64
+  start: 2011
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 733a5e67-4395-4250-93dd-cb2fa3a7ecd2
+image_key: KZDGVm
+thumb: https://photos.smugmug.com/photos/i-NzrCQtK/0/Th/i-NzrCQtK-Th.jpg
+draft: 0.4816
 handicap_data:
   main:
     foot: 11.5
@@ -33,25 +52,7 @@ handicap_data:
   fore_triangle_base: 2.539
   length_on_waterline: 5.3584
   fore_triangle_height: 4.6482
-home_country: GBR
-home_port: Dartmouth
-hull_form: centre-boarder
-id: 733a5e67-4395-4250-93dd-cb2fa3a7ecd2
 length_on_deck: 5.8674
-sail_number: 897 or 829 ?
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Michael and Penny Olliff-Lee
-  share: 64
-  start: 2011
-place_built: Rock
-updated_at: '2021-12-19T13:40:04.473642+00:00'
-website: ''
-year: 2003
-year_is_approximate: false
-image_key: KZDGVm
-construction_details: GRP
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

@@ -6,17 +6,39 @@ mainsail_type: gaff
 short_description: <p>Eleanor Mary was built in 1988, designed for a friend who wanted
   a traditional high peaked gaff-rigged cruising yacht.</p>
 full_description: ''
-builder:
-  name: David Patient
-  id: 14a2abf9-8f2a-41ea-8e85-ec0169b63789
+year: 1988
+year_is_approximate: false
 designer:
   name: Alan F. Hill
   id: 6541e39a-cf4e-4abf-9c13-0e8750af27d7
+builder:
+  name: David Patient
+  id: 14a2abf9-8f2a-41ea-8e85-ec0169b63789
+place_built: Fullbridge
 construction_material: wood
 construction_method: unknown
-draft: 1.6154
+construction_details: Iroko planks on steam bent oak timbers
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Poole
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Andrew Cull
+  share: 64
+  start: 2009
+- id: 331
+  share: 64
+  member: 3826
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8fd4866e-941f-40d0-a631-2ff81f9c9ddf
+image_key: gJz7d6
+thumb: https://photos.smugmug.com/photos/i-kHvDKDs/0/Th/i-kHvDKDs-Th.jpg
+draft: 1.6154
 handicap_data:
   beam: 3.1242379907339672
   main:
@@ -31,28 +53,7 @@ handicap_data:
   fore_triangle_base: 4.724457449402585
   length_on_waterline: 7.467690807120214
   fore_triangle_height: 11.024750060960741
-home_country: GBR
-home_port: Poole
-hull_form: long keel deep forefoot
-id: 8fd4866e-941f-40d0-a631-2ff81f9c9ddf
 length_on_deck: 9.845
-callsign: ''
-ownerships:
-- name: Andrew Cull
-  share: 64
-  start: 2009
-- id: 331
-  share: 64
-  member: 3826
-  current: true
-  start: '?'
-place_built: Fullbridge
-updated_at: '2021-12-19T13:39:07.690884+00:00'
-website: ''
-year: 1988
-year_is_approximate: false
-image_key: gJz7d6
-construction_details: Iroko planks on steam bent oak timbers
 beam: 3.1394
 for_sale_state:
   text: not_for_sale

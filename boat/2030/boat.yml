@@ -5,38 +5,38 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Greensit
-  id: 0c6a8d57-9660-4fa1-8d24-663de9218923
+year: 1899
+year_is_approximate: false
 designer:
   name: George F. Holmes
   id: 18294e5e-ffa2-48af-939e-bc30b9668eef
+builder:
+  name: Greensit
+  id: 0c6a8d57-9660-4fa1-8d24-663de9218923
+place_built: Scotswood,R Tyne
 construction_material: wood
 construction_method: carvel
-draft: 1.0668
+construction_details: Scots pine carvel planking on oak frames
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 1.066812972445745
-  length_over_all: 6.705681541087539
-  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: Humber Yawl Club, Brough Hull
 hull_form: unknown
-id: c8874bf4-6a7d-4a79-b049-5a72c9ac03f8
-length_on_deck: 6.7056
 callsign: ''
 ownerships:
 - name: John Biglin
   share: 64
   start: 2012
-place_built: Scotswood,R Tyne
-updated_at: '2021-12-19T13:39:27.389654+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1899
-year_is_approximate: false
-construction_details: Scots pine carvel planking on oak frames
+id: c8874bf4-6a7d-4a79-b049-5a72c9ac03f8
+draft: 1.0668
+handicap_data:
+  beam: 2.13362594489149
+  draft: 1.066812972445745
+  length_over_all: 6.705681541087539
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 6.7056
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

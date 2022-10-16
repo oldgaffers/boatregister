@@ -5,25 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: JEP Marine
-  id: ce942be3-3ad1-4365-92fd-bccd167a3725
+year: 2001
+year_is_approximate: false
 designer:
   name: John Pollitt
   id: 67ee9ca0-40ef-4ed5-8a05-a577afd43672
+builder:
+  name: JEP Marine
+  id: ce942be3-3ad1-4365-92fd-bccd167a3725
+place_built: Faversham
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.8288222384784198
-  length_over_all: 4.87685930260912
 home_country: GBR
 home_port: Langstone
 hull_form: unknown
-id: 220842f1-10c2-400c-b3d3-974f6346c2a9
-length_on_deck: 4.8768
 callsign: ''
 ownerships:
 - name: David and Adrienne Higham
@@ -33,11 +30,14 @@ ownerships:
   member: 4949
   current: true
   start: '?'
-place_built: Faversham
-updated_at: '2021-12-19T13:39:50.570618+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2001
-year_is_approximate: false
+id: 220842f1-10c2-400c-b3d3-974f6346c2a9
+draft: 0
+handicap_data:
+  beam: 1.8288222384784198
+  length_over_all: 4.87685930260912
+length_on_deck: 4.8768
 beam: 1.8288
 design_class:
   name: Swale Pilot 16

@@ -5,17 +5,35 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Picture and note of building in The Yachtsman 1911
-builder:
-  name: A.M. Dickie and Sons
-  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+year: 1911
+year_is_approximate: false
 designer:
   name: J.A. McCallum
   id: 37137bb5-f344-4068-9a51-5b7e9202f1e7
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+place_built: Tarbert
 construction_material: wood
 construction_method: carvel
-draft: 1.6002
+construction_details: Pitch Pine on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Lithuania
+hull_form: long keel deep forefoot
+uk_part1: '129569'
+callsign: ''
+ownerships:
+- name: Norman Mikkelsen
+  share: 64
+  start: 2006
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9b2badb3-3a56-4c1a-9353-cac83dbd1576
+previous_names:
+- Lady Jean
+draft: 1.6002
 handicap_data:
   beam: 2.996220434040478
   main:
@@ -37,25 +55,7 @@ handicap_data:
   fore_triangle_base: 6.0960741282613995
   length_on_waterline: 12.344550109729333
   fore_triangle_height: 8.53450377956596
-home_country: 'null'
-home_port: Lithuania
-hull_form: long keel deep forefoot
-id: 9b2badb3-3a56-4c1a-9353-cac83dbd1576
 length_on_deck: 12.3444
-uk_part1: '129569'
-callsign: ''
-ownerships:
-- name: Norman Mikkelsen
-  share: 64
-  start: 2006
-place_built: Tarbert
-updated_at: '2021-12-19T13:39:20.28387+00:00'
-website: ''
-year: 1911
-year_is_approximate: false
-previous_names:
-- Lady Jean
-construction_details: Pitch Pine on Oak
 beam: 2.9962
 for_sale_state:
   text: not_for_sale

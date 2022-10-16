@@ -5,17 +5,36 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+year: 1974
+year_is_approximate: false
 designer:
   name: W.R. Latimer
   id: c4dfc37f-79d3-415e-a478-ff50a7650a68
+builder:
+  name: Dauntless Boat Co.
+  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
+place_built: Canvey Island
 construction_material: wood
 construction_method: clinker
-draft: 0.5334
+construction_details: Clinker Mahogany on Oak Frames and Ash Ribs
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: R Witham nr Boston
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 173
+  share: 64
+  start: 1990
+  member: 2669
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 66f7844a-0553-4e78-9d00-0b5d5842f369
+previous_names:
+- Muskoka
+draft: 0.5334
 handicap_data:
   beam: 2.566447207998049
   main:
@@ -28,26 +47,7 @@ handicap_data:
   fore_triangle_base: 2.9718361375274323
   length_on_waterline: 6.6294806144842715
   fore_triangle_height: 5.690685198732017
-home_country: 'null'
-home_port: R Witham nr Boston
-hull_form: unknown
-id: 66f7844a-0553-4e78-9d00-0b5d5842f369
 length_on_deck: 7.1872
-callsign: ''
-ownerships:
-- id: 173
-  share: 64
-  start: 1990
-  member: 2669
-  current: true
-place_built: Canvey Island
-updated_at: '2021-12-19T13:39:09.265385+00:00'
-website: ''
-year: 1974
-year_is_approximate: false
-previous_names:
-- Muskoka
-construction_details: Clinker Mahogany on Oak Frames and Ash Ribs
 beam: 2.5664
 design_class:
   name: Dauntless 24

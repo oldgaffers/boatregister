@@ -6,29 +6,23 @@ mainsail_type: gaff
 short_description: ''
 full_description: Built Barling Hall, nr Southend Taken by Platt's in exchange for
   unpaid bills Laurie designed and built her for himself Log 82/4
-builder:
-  name: Laurie Harbottell
-  id: ea7854a9-c5e3-4e46-a7fb-919565eb69ee
+year: 1937
+year_is_approximate: false
 designer:
   name: Laurie Harbottell
   id: 429d5fa7-e592-464a-9e6e-611903d6fe0e
+builder:
+  name: Laurie Harbottell
+  id: ea7854a9-c5e3-4e46-a7fb-919565eb69ee
+place_built: Southend on Sea
 construction_material: wood
 construction_method: carvel
-draft: 0.762
+construction_details: Carvel pine or hemlock
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 0.7620092660326749
-  propellor:
-    type: fixed
-  length_over_all: 6.705681541087539
-  length_on_waterline: 5.7912704218483295
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
-id: df6b22f6-460e-4a6a-946d-e5e1666ffb1e
-length_on_deck: 6.7056
 reference:
 - Log 82/4
 callsign: ''
@@ -36,12 +30,18 @@ ownerships:
 - name: Alan Platt
   share: 64
   start: 1993
-place_built: Southend on Sea
-updated_at: '2021-12-19T13:38:58.452637+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1937
-year_is_approximate: false
-construction_details: Carvel pine or hemlock
+id: df6b22f6-460e-4a6a-946d-e5e1666ffb1e
+draft: 0.762
+handicap_data:
+  beam: 2.43842965130456
+  draft: 0.7620092660326749
+  propellor:
+    type: fixed
+  length_over_all: 6.705681541087539
+  length_on_waterline: 5.7912704218483295
+length_on_deck: 6.7056
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

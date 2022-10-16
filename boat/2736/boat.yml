@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Character Boats
-  id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+year: 1999
+year_is_approximate: false
 designer:
   name: Bill Bailiff
   id: 40fab132-73c1-48a6-8aa5-9c471b1543a8
+builder:
+  name: Character Boats
+  id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+place_built: Lytham St Anne's
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3048
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Glenridding
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- name: Ray Taylor
+  share: 64
+  start: 2005
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: eddbe0ba-d608-4386-bcd0-c6eca669dbcd
+draft: 0.3048
 handicap_data:
   main:
     foot: 10.5
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 1.6764
   length_on_waterline: 4.0538
   fore_triangle_height: 4.3586
-home_country: GBR
-home_port: Glenridding
-hull_form: long keel sloping forefoot
-id: eddbe0ba-d608-4386-bcd0-c6eca669dbcd
 length_on_deck: 4.4196
-callsign: ''
-ownerships:
-- name: Ray Taylor
-  share: 64
-  start: 2005
-place_built: Lytham St Anne's
-updated_at: '2021-12-19T13:39:47.848354+00:00'
-website: ''
-year: 1999
-year_is_approximate: false
-construction_details: GRP
 beam: 1.6154
 design_class:
   name: Lune Pilot

@@ -5,17 +5,31 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: Woodnutt and Co. Ltd.
-  id: c04e2023-3dc9-4679-9e31-fd807bec3001
+year: 1953
+year_is_approximate: false
 designer:
   name: Frederick R. Parker
   id: 73886138-de87-44e1-91db-e47afe3b6def
+builder:
+  name: Woodnutt and Co. Ltd.
+  id: c04e2023-3dc9-4679-9e31-fd807bec3001
+place_built: St Helens IoW
 construction_material: wood
 construction_method: unknown
-draft: 1.777
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Tollesbury
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Trevor Green
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0c14ffc1-998f-48c4-b5fe-7a5aac7b24fd
+draft: 1.777
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -26,21 +40,7 @@ handicap_data:
   fore_triangle_base: 3.6576444769568397
   length_on_waterline: 7.315288953913679
   fore_triangle_height: 9.44891489880517
-home_country: GBR
-home_port: Tollesbury
-hull_form: unknown
-id: 0c14ffc1-998f-48c4-b5fe-7a5aac7b24fd
 length_on_deck: 9.4488
-callsign: ''
-ownerships:
-- name: Trevor Green
-  share: 64
-  start: 2012
-place_built: St Helens IoW
-updated_at: '2021-12-19T13:40:00.18315+00:00'
-website: ''
-year: 1953
-year_is_approximate: false
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

@@ -17,38 +17,23 @@ full_description: "<p>25ft LOD, 9ft beam, &#39;Onward of Ito&#39; was built in 1
   \ in the 1980s, many Solent OGA members&nbsp;may remember she remained &ldquo;Norman&rsquo;s\
   \ Boat&rdquo; even after Martyn Jenkins bought her around 1989/1990.</p>\r\n\r\n\
   <p>In 2019 her new owner moved her to Greenwich on the River Thames.</p>"
-builder:
-  name: W. Mollett
-  id: 89f21e57-274c-427f-b670-c25c7d5fa7cf
+year: 1923
+year_is_approximate: false
 designer:
   name: A.J. White
   id: 7fb0136e-f542-4c4b-89b3-cca9c2a62d2e
+builder:
+  name: W. Mollett
+  id: 89f21e57-274c-427f-b670-c25c7d5fa7cf
+place_built: Southampton
 construction_material: wood
 construction_method: unknown
-draft: 1.2192
 engine_installations: []
 for_sales:
 - asking_price: 15995
-handicap_data:
-  beam: 2.7432333577176298
-  main:
-    foot: 4.87685930260912
-    head: 3.9624481833699097
-    luff: 3.9624481833699097
-  thcf: 0.913512643
-  draft: 1.21921482565228
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 6.4008778346744695
-  length_on_waterline: 7.315288953913679
-  fore_triangle_height: 7.924896366739819
 home_country: GBR
 home_port: Yarmouth
 hull_form: long keel deep forefoot
-id: 87f7b5e0-6cf2-4ea2-a3b7-c8d78671df89
-length_on_deck: 7.3152
 sail_number: '919'
 callsign: ''
 ownerships:
@@ -78,14 +63,30 @@ ownerships:
   start: 2019
   member: 4559
   current: true
-place_built: Southampton
-updated_at: '2021-12-19T13:38:56.039688+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1923
-year_is_approximate: false
+id: 87f7b5e0-6cf2-4ea2-a3b7-c8d78671df89
 previous_names:
 - Onward
 image_key: XH94w5
+thumb: https://photos.smugmug.com/photos/i-xjnTrqB/0/Th/i-xjnTrqB-Th.jpg
+draft: 1.2192
+handicap_data:
+  beam: 2.7432333577176298
+  main:
+    foot: 4.87685930260912
+    head: 3.9624481833699097
+    luff: 3.9624481833699097
+  thcf: 0.913512643
+  draft: 1.21921482565228
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.315288953913679
+  fore_triangle_base: 6.4008778346744695
+  length_on_waterline: 7.315288953913679
+  fore_triangle_height: 7.924896366739819
+length_on_deck: 7.3152
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

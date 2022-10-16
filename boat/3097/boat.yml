@@ -5,26 +5,23 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: Grade A Mouldings
-  id: a8aff553-a7c6-483e-9285-d67a3f804469
+year: 1963
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: Grade A Mouldings
+  id: a8aff553-a7c6-483e-9285-d67a3f804469
+place_built: Rhodesia
 construction_material: woodepoxy
 construction_method: unknown
-draft: 0.9906
+construction_details: Marine Plywood/west expxy sheath Framework Teak, iroko and Mahogany
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.895647403072421
-  draft: 0.9906181419166057
-  length_over_all: 10.05852231163131
 home_country: 'null'
 home_port: ''
 hull_form: long keel sloping forefoot
-id: 1e2cb87c-4223-471b-8016-751c5a2d0fdd
-length_on_deck: 10.0584
 sail_number: YM W26
 ssr: '108868'
 callsign: ''
@@ -40,12 +37,15 @@ ownerships:
   start: 2008
   member: 5721
   current: true
-place_built: Rhodesia
-updated_at: '2021-12-19T13:39:57.701131+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1963
-year_is_approximate: false
-construction_details: Marine Plywood/west expxy sheath Framework Teak, iroko and Mahogany
+id: 1e2cb87c-4223-471b-8016-751c5a2d0fdd
+draft: 0.9906
+handicap_data:
+  beam: 2.895647403072421
+  draft: 0.9906181419166057
+  length_over_all: 10.05852231163131
+length_on_deck: 10.0584
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

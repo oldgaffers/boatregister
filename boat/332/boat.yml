@@ -79,41 +79,22 @@ full_description: "<p><iframe allow=\"accelerometer; autoplay; encrypted-media; 
   \ Raymond Labb&eacute;&nbsp; in recognition of her overall performance, classic\
   \ lines and restoration. Martin Goodrich went to France to receive his award on\
   \ 2 December 2015.</p>\r\n</blockquote>"
+year: 1910
+year_is_approximate: false
 builder:
   name: A La Gorce Fils
   id: 1ce51692-3a99-4fba-970f-eec75c51f176
+place_built: Bordeaux
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel pine on oak. Acacia timbers, elm garboard, iron ballast
+  keel.
 engine_installations: []
 for_sales:
 - asking_price: 35000
-handicap_data:
-  beam: 2.980980248719824
-  main:
-    foot: 6.059497683491831
-    head: 5.730309680565716
-    luff: 5.992440868080956
-  thcf: 1.069
-  draft: 1.5240185320653499
-  mizzen:
-    foot: 2.7980980248719822
-    luff: 6.059497683491831
-  topsail:
-    luff: 4.87685930260912
-    perpendicular: 2.43842965130456
-  sailarea: 83.94465652793865
-  propellor:
-    type: fixed
-  length_over_all: 11.63740551085101
-  fore_triangle_base: 6.4008778346744695
-  length_on_waterline: 10.210924164837843
-  fore_triangle_height: 9.906120458424773
 home_country: GRE
 home_port: Thessaloniki, Greece
 hull_form: long keel deep forefoot
-id: 99bdaf09-7cbc-480a-ab8a-b28ee5f19e03
-length_on_deck: 11.6342
 sail_number: 394Y
 ssr: '1353'
 callsign: ''
@@ -135,16 +116,36 @@ ownerships:
   text: In
   start: 2019
   start_is_approximate: false
-place_built: Bordeaux
-updated_at: '2021-12-19T13:38:39.441421+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1910
-year_is_approximate: false
+id: 99bdaf09-7cbc-480a-ab8a-b28ee5f19e03
 previous_names:
 - Piros
 image_key: Zvb8vP
-construction_details: Carvel pine on oak. Acacia timbers, elm garboard, iron ballast
-  keel.
+thumb: https://photos.smugmug.com/photos/i-NSrt5Lj/0/Th/i-NSrt5Lj-Th.jpg
+draft: 1.524
+handicap_data:
+  beam: 2.980980248719824
+  main:
+    foot: 6.059497683491831
+    head: 5.730309680565716
+    luff: 5.992440868080956
+  thcf: 1.069
+  draft: 1.5240185320653499
+  mizzen:
+    foot: 2.7980980248719822
+    luff: 6.059497683491831
+  topsail:
+    luff: 4.87685930260912
+    perpendicular: 2.43842965130456
+  sailarea: 83.94465652793865
+  propellor:
+    type: fixed
+  length_over_all: 11.63740551085101
+  fore_triangle_base: 6.4008778346744695
+  length_on_waterline: 10.210924164837843
+  fore_triangle_height: 9.906120458424773
+length_on_deck: 11.6342
 beam: 2.9718
 for_sale_state:
   text: not_for_sale

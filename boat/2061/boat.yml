@@ -1,6 +1,6 @@
 name: Master Frank
 oga_no: 2061
-generic_type: unknown
+generic_type: Manx Nobby
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Master Frank, launched in 1896, continued to fish commercially
@@ -14,26 +14,43 @@ full_description: '<p>Master Frank was built between 1893 and 1895 and according
   3 months before coming&nbsp;back to Ramsey and the ownership of the Kinnin Family.
   They owned her until 1969.</p><p>After that she has a number of owners before&nbsp;coming
   into the possession of Joe Pennington in 1993. He rebuilt her as originally as possible.</p><p>&nbsp;</p>'
-builder:
-  name: C. Lucas/C. Duggan
-  id: 27461ea9-6ac6-463e-948c-55df5892b82c
+year: 1895
+year_is_approximate: false
 designer:
   name: C. Duggan
   id: 61b3d0c0-755b-424c-8352-c08b0bda5bbb
+builder:
+  name: C. Lucas/C. Duggan
+  id: 27461ea9-6ac6-463e-948c-55df5892b82c
+place_built: Ramsey Isle of Man
 construction_material: wood
-construction_method: unknown
-draft: 0
+spar_material: wood
+construction_method: carvel
+construction_details: Using traditional methods, fully rebuilt by current owner
 engine_installations: []
-for_sales: []
-handicap_data:
-  beam: 3.2004389173372347
-  length_over_all: 11.734942696903193
+for_sales:
+- asking_price: 30000
+  flexibility: right_buyer
+  offered: '2022-10-14'
+  price_flexibility:
+    text: right_buyer
+  reduced: false
+  sales_text: <p>Master Frank is the Isle of Man&rsquo;s oldest boat afloat and the
+    only surviving half decked longliner. She was originally built in 1896 by Clucas
+    &amp; Duggan shipwrights of Ramsey. She has an innovative build, with elements
+    from Essex Smacks, and Morecambe Bay Prawners but also has a &ldquo;rocker&rdquo;
+    keel. Rigged as a gaff cutter.</p> <p>Lovingly rebuilt in 1993-96 by her current
+    owner, a master carpenter and shipwright the <em>Master Frank</em> has been kept
+    in good condition. She has had a new big jib in 2021, new mainsail in 2019, and
+    the engine has only done about 300hrs since the last rebuild. Fully equipped,
+    ready to sail, and used regularly</p> <p>Lying Ramsey, Isle of Man</p>
+  sold: null
+  summary: null
+  updated_at: '2022-10-14T06:29:21.3651+00:00'
 home_country: GBR
 home_port: Ramsey, Isle of Man
 hull_form: long keel deep forefoot
-id: faaf11f2-734d-425f-b248-d77bc62c5242
-length_on_deck: 11.7348
-sail_number: RY95
+sail_number: RY 95
 callsign: ''
 ownerships:
 - name: Manx Heritage Foundation
@@ -44,13 +61,16 @@ ownerships:
   start: 1993
   member: 1708
   current: true
-place_built: Ramsey Isle of Man
-updated_at: '2021-12-19T13:39:28.262139+00:00'
+updated_at: '2022-10-14T06:31:06.009378+00:00'
 website: ''
-year: 1895
-year_is_approximate: false
+id: faaf11f2-734d-425f-b248-d77bc62c5242
+fishing_number: RY 95
 image_key: 3w676D
-construction_details: Using traditional methods, fully rebuilt by current owner
+draft: 0
+handicap_data:
+  beam: 3.2004389173372347
+  length_over_all: 11.734942696903193
+length_on_deck: 11.7348
 beam: 3.2004
 for_sale_state:
-  text: not_for_sale
+  text: for_sale

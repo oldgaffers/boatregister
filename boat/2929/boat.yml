@@ -10,25 +10,22 @@ full_description: "<p>Rob Cawley of Banbury imported the boat in 2006 and named 
   \ to sail out of Holyhead with the intention of leaving her in Cemaes Bay, which\
   \ dries out from approx. half tide, for some periods. She has a centreboard with\
   \ draft of 14&quot; - 54&quot;.</p>"
-builder:
-  name: Hutchins Co.
-  id: b6e979af-6060-428b-9da6-f328feef204d
+year: 2006
+year_is_approximate: false
 designer:
   name: Clark Mills
   id: 35aee782-828a-4097-8035-8dd166e550c4
+builder:
+  name: Hutchins Co.
+  id: b6e979af-6060-428b-9da6-f328feef204d
+place_built: Clearwater, Florida USA
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.2098268714947573
-  length_over_all: 5.282248232138502
 home_country: 'null'
 home_port: Holyhead
 hull_form: unknown
-id: bad7f7fa-37ca-42d2-bf1a-db664422b6f6
-length_on_deck: 5.2822
 callsign: ''
 ownerships:
 - end: 2009
@@ -43,11 +40,14 @@ ownerships:
   member: 5235
   current: true
   start: '?'
-place_built: Clearwater, Florida USA
-updated_at: '2021-12-19T13:39:53.664382+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2006
-year_is_approximate: false
+id: bad7f7fa-37ca-42d2-bf1a-db664422b6f6
+draft: 0
+handicap_data:
+  beam: 2.2098268714947573
+  length_over_all: 5.282248232138502
+length_on_deck: 5.2822
 beam: 2.2098
 for_sale_state:
   text: not_for_sale

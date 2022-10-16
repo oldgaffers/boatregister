@@ -14,73 +14,27 @@ full_description: "<p>&#39;Frances Webber&#39;, formerley &#39;Alice Pellow&#39;
   \ windward ability. The lifting keel is ideal for coastal cruising. &#39;Alice&#39;\
   \ was re-fitted in 2014 and sails regularly with the OGA, she changed hands in 2019\
   \ when her name was changed to &#39;Frances Webber&#39;.</p>"
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1989
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.0668
+construction_details: GRP
 engine_installations: []
 for_sales:
+- asking_price: 50000
 - asking_price: 48500
-  flexibility: normal
-  offered: '2022-09-20'
-  price_flexibility:
-    text: normal
-  reduced: false
-  sales_text: "<p>Pilot Cutter P20 \u201CFrances Webber\u201D was originally named\
-    \ \u201CAlice Pellow\u201D after the first owner\u2019s grandmother.</p><p>The\
-    \ gaff rigged cutter has a full suite of sails including topsail on jack staff\
-    \ and a flying jib as well as the standard cutter rig. A modern cruising chute\
-    \ is also available.<p><p> Although looking like a gaff rigged classic the hull\
-    \ is a very solid GRP moulding with flexiteek deck . The wooden mast, spars and\
-    \ steving bowsprit complete the look of a modern classic. Indeed, when fitting\
-    \ out, Alice Pellow featured in \u201CClassic Boat\u201D magazine . A lifting\
-    \ keel reduces draft from about 1.6meters to just over a meter and the vessel\
-    \ is fitted with mounting points for substantial wooden beaching legs (included).</p>\
-    \ <p>Frances Webber benefits from a host of modern upgrades over the last few\
-    \ years including: <ul>  <li>a new Yanmar 3YM30hp engine (2016)</li> <li>new mast\
-    \ and spray hood (2014)</li> <li>new prop shaft and seals (2017)</li> <li>Raymarine\
-    \ autopilot and other instrumentation (2015-2021)</li> <li>new headlining &amp;\
-    \ LED lighting throughout (2021)</li> <li>professional mains electric installation\
-    \ (2019)</li> <li>new gas hob/oven and professional gas pipework installation\
-    \ (2018)</li> <li>new standing rigging (2021)</li> <li>refurbished Jabsco heads\
-    \ (2019)</li> <li>new 150L flexi water tank and pressurised cold water system\
-    \ (2020)</li> <li>Standard Horizon VHF with AIS and deck mounted remote handset.</li>\
-    \ </ul> <p>Frances Webber adopts the roomier layout below of having two very large\
-    \ quarter berths aft with airy heads forward allowing a longer saloon than the\
-    \ alternative forward \u201CA berth\u201D layout.</p> <p>For reluctant sale due\
-    \ to family illness</p>"
-  sold: null
-  summary: null
-  updated_at: '2022-09-20T06:51:40.462754+00:00'
-handicap_data:
-  beam: 2.8956352109241648
-  main:
-    foot: 5.6388685686417945
-    head: 4.495854669592782
-    luff: 4.953060229212387
-  thcf: 0.969236092
-  draft: 1.1430138990490124
-  topsail:
-    luff: 5.715069495245062
-    perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.7912704218483295
-  length_on_waterline: 7.848695440136551
-  fore_triangle_height: 8.458302852962692
 home_country: GBR
 home_port: Emsworth
 hull_form: long keel deep forefoot
-id: 99a0d2f7-3059-4739-ac18-2a8887ddbe83
-length_on_deck: 9.144
 sail_number: P 20
-spar_material: wood
 ssr: '28782'
 callsign: ''
 ownerships:
@@ -102,15 +56,32 @@ ownerships:
   start: 2018
   member: 6282
   current: true
-place_built: Rock
 updated_at: '2022-09-20T06:52:43.385426+00:00'
 website: ''
-year: 1989
-year_is_approximate: false
+id: 99a0d2f7-3059-4739-ac18-2a8887ddbe83
 previous_names:
 - Alice Pellow
 image_key: 93SNB4
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-TkSsq66/0/Th/i-TkSsq66-Th.jpg
+draft: 1.0668
+handicap_data:
+  beam: 2.8956352109241648
+  main:
+    foot: 5.6388685686417945
+    head: 4.495854669592782
+    luff: 4.953060229212387
+  thcf: 0.969236092
+  draft: 1.1430138990490124
+  topsail:
+    luff: 5.715069495245062
+    perpendicular: 2.286027798098025
+  propellor:
+    type: fixed
+  length_over_all: 9.1441111923921
+  fore_triangle_base: 5.7912704218483295
+  length_on_waterline: 7.848695440136551
+  fore_triangle_height: 8.458302852962692
+length_on_deck: 9.144
 beam: 2.8956
 design_class:
   name: Cornish Crabber Pilot Cutter 30

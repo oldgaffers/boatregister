@@ -10,17 +10,38 @@ full_description: "<p>&#39;Irene V&#39; is a GRP Memory 19, built in Liverpool, 
   \ from Maylandsea and trailered to Elephant Boatyard, 2005, then sailed from Langstone\
   \ Harbour until October 2018 when she was sold and trailered back to Bradwell, Blackwater\
   \ River.</p>"
-builder:
-  name: Liverpool Boat Co. Ltd.
-  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+year: 1970
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Liverpool Boat Co. Ltd.
+  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
+place_built: Liverpool
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bradwell, River Blackwater
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- note: 'Owner for ten or more years by Trevor Fulcher, Maylandsea, Essex. '
+  text: Owner for ten or more years by Trevor Fulcher, Maylandsea, Essex.
+- end: 2018
+  name: Terry Smith
+  share: 64
+  start: 2004
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: 9a603e09-494b-41ea-aa85-95b22e5f8aa5
+image_key: fgNphF
+thumb: https://photos.smugmug.com/photos/i-Q26tm9x/0/Th/i-Q26tm9x-Th.jpg
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -40,27 +61,7 @@ handicap_data:
   fore_triangle_base: 2.7676176542306754
   length_on_waterline: 5.6388685686417945
   fore_triangle_height: 5.968056571567909
-home_country: GBR
-home_port: Bradwell, River Blackwater
-hull_form: centre-boarder
-id: 9a603e09-494b-41ea-aa85-95b22e5f8aa5
 length_on_deck: 5.7912
-spar_material: wood
-callsign: ''
-ownerships:
-- note: 'Owner for ten or more years by Trevor Fulcher, Maylandsea, Essex. '
-  text: Owner for ten or more years by Trevor Fulcher, Maylandsea, Essex.
-- end: 2018
-  name: Terry Smith
-  share: 64
-  start: 2004
-place_built: Liverpool
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1970
-year_is_approximate: false
-image_key: fgNphF
-construction_details: GRP
 beam: 2.1336
 design_class:
   name: Memory 19

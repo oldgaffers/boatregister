@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: No 3 built
-builder:
-  name: Yarmouth Boat Co.
-  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+year: 2000
+year_is_approximate: false
 designer:
   name: David Freeman
   id: 5af3289c-8c25-4030-a68d-cce002ae7b43
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+place_built: Yarmouth IOW
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP, Wooden Spars
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Lymington
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Ewan Scott Joughin
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1bf2f7db-f4f0-40d0-83b9-b70068e5ada4
+draft: 0.9144
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -33,22 +48,7 @@ handicap_data:
   fore_triangle_base: 3.3528407705437697
   length_on_waterline: 5.4864667154352595
   fore_triangle_height: 5.9436722750548645
-home_country: 'null'
-home_port: Lymington
-hull_form: long keel deep forefoot
-id: 1bf2f7db-f4f0-40d0-83b9-b70068e5ada4
 length_on_deck: 6.8824
-callsign: ''
-ownerships:
-- name: Ewan Scott Joughin
-  share: 64
-  start: 2012
-place_built: Yarmouth IOW
-updated_at: '2021-12-19T13:39:40.176923+00:00'
-website: ''
-year: 2000
-year_is_approximate: false
-construction_details: GRP, Wooden Spars
 beam: 2.286
 for_sale_state:
   text: not_for_sale

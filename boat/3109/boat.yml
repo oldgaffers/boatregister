@@ -5,31 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Lola is a Norfolk Smuggler, built by Charlie Ward in 1998</p>
 full_description: ''
-builder:
-  name: North Norfolk Boatbuilding Co./Charlie Ward
-  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+year: 1998
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: North Norfolk Boatbuilding Co./Charlie Ward
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+place_built: Norfolk
 construction_material: grp
+spar_material: wood
 construction_method: unknown
-draft: 0.8412
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.6600323500365763
-  draft: 0.8400102158010241
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.62009267190929
-  length_over_spars: 9.100110671177761
-  length_on_waterline: 6.780082456108266
 home_port: Levington, Suffolk
 hull_form: long keel deep forefoot
-id: c5b5f580-8294-4c3c-a7dc-04a826ceb7c1
-length_on_deck: 7.62
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2009
@@ -53,14 +44,24 @@ ownerships:
   start: 2022
   member: 6581
   current: true
-place_built: Norfolk
 updated_at: '2022-08-17T09:34:48.114143+00:00'
 website: ''
-year: 1998
-year_is_approximate: false
+id: c5b5f580-8294-4c3c-a7dc-04a826ceb7c1
 previous_names:
 - Water Witch
 image_key: JRvTvt
+thumb: https://photos.smugmug.com/photos/i-gT6Tp5n/0/Th/i-gT6Tp5n-Th.jpg
+draft: 0.8412
+handicap_data:
+  beam: 2.6600323500365763
+  draft: 0.8400102158010241
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_all: 7.62009267190929
+  length_over_spars: 9.100110671177761
+  length_on_waterline: 6.780082456108266
+length_on_deck: 7.62
 beam: 2.6609
 design_class:
   name: Norfolk Smuggler

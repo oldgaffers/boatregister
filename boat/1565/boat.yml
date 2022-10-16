@@ -5,14 +5,29 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
+year: 1953
+year_is_approximate: false
 builder:
   name: Edgar Cove
   id: 489e9636-d651-4666-a7e7-651238f82146
+place_built: Salcombe
 construction_material: wood
 construction_method: clinker
-draft: 0.6096
+construction_details: Mahogany clinker on oak ribs
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Gibralter
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: C Heath
+  share: 64
+  start: 1977
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a5830cd2-0e59-458f-9c86-891530f7fbde
+draft: 0.6096
 handicap_data:
   beam: 1.9812240916849548
   main:
@@ -27,22 +42,7 @@ handicap_data:
   fore_triangle_base: 1.8593026091197267
   length_on_waterline: 4.937820043891733
   fore_triangle_height: 4.724457449402585
-home_country: 'null'
-home_port: Gibralter
-hull_form: long keel deep forefoot
-id: a5830cd2-0e59-458f-9c86-891530f7fbde
 length_on_deck: 4.9682
-callsign: ''
-ownerships:
-- name: C Heath
-  share: 64
-  start: 1977
-place_built: Salcombe
-updated_at: '2021-12-19T13:39:14.936143+00:00'
-website: ''
-year: 1953
-year_is_approximate: false
-construction_details: Mahogany clinker on oak ribs
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

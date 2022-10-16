@@ -5,29 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 89/4 as a schooner
-builder:
-  name: Forrest and Sons
-  id: a3a8ae12-0a18-44ef-9a41-e3205ed772bb
+year: 1896
+year_is_approximate: false
 designer:
   name: H.W. Ridsdale
   id: ab9cfdec-09b4-4801-bcc6-ae6298f10adb
+builder:
+  name: Forrest and Sons
+  id: a3a8ae12-0a18-44ef-9a41-e3205ed772bb
+place_built: Wivenhoe
 construction_material: steel
 construction_method: unknown
-draft: 1.6764
+construction_details: Riveted galvanised steel hull
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0785174347720066
-  draft: 1.6764203852718849
-  propellor:
-    type: fixed
-  length_over_all: 14.935381614240429
-  length_on_waterline: 12.801755669348939
 home_country: 'null'
 home_port: Poole
 hull_form: long keel deep forefoot
-id: 264bd401-90a6-4a02-aa08-1121025ef97c
-length_on_deck: 14.9352
 reference:
 - Log 89/4
 callsign: ''
@@ -39,12 +33,18 @@ ownerships:
   member: 3941
   current: true
   start: '?'
-place_built: Wivenhoe
-updated_at: '2021-12-19T13:39:05.937144+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1896
-year_is_approximate: false
-construction_details: Riveted galvanised steel hull
+id: 264bd401-90a6-4a02-aa08-1121025ef97c
+draft: 1.6764
+handicap_data:
+  beam: 3.0785174347720066
+  draft: 1.6764203852718849
+  propellor:
+    type: fixed
+  length_over_all: 14.935381614240429
+  length_on_waterline: 12.801755669348939
+length_on_deck: 14.9352
 beam: 3.0785
 for_sale_state:
   text: not_for_sale

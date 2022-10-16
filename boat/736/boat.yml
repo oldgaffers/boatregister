@@ -5,23 +5,19 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 76/3, 82/2
+year: 1891
+year_is_approximate: false
 builder:
   name: Brabyn of Truro
   id: 9ea00d9e-6b25-481e-9585-f43eac80bad9
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.9624481833699097
-  length_over_all: 9.296513045598633
-  length_on_waterline: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 538e3ad6-8626-468d-b20c-a1323d3077f5
-length_on_deck: 9.2964
 reference:
 - Log 76/3
 - Log 82/2
@@ -30,11 +26,15 @@ ownerships:
 - name: P E Fowle
   share: 64
   start: 2012
-place_built: Falmouth
-updated_at: '2021-12-19T13:38:50.986908+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1891
-year_is_approximate: false
+id: 538e3ad6-8626-468d-b20c-a1323d3077f5
+draft: 0
+handicap_data:
+  beam: 3.9624481833699097
+  length_over_all: 9.296513045598633
+  length_on_waterline: 8.83930748597903
+length_on_deck: 9.2964
 beam: 3.9624
 for_sale_state:
   text: not_for_sale

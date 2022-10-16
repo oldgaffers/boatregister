@@ -5,28 +5,24 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p><em>Cautious Clara</em> was built as a yacht in 1910.</p>
 full_description: ''
-builder:
-  name: H. Gale Co. Ltd.
-  id: ea4fadbd-aa76-4971-9a5c-72a860b3beba
+year: 1910
+year_is_approximate: false
 designer:
   name: H. Gale
   id: 315c3cc9-dec3-4599-84d6-6ae051d19f2a
+builder:
+  name: H. Gale Co. Ltd.
+  id: ea4fadbd-aa76-4971-9a5c-72a860b3beba
+place_built: Cowes IoW
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.9812
+construction_details: Carvel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  draft: 1.9812240916849548
-  length_over_all: 9.23555230431602
-  length_on_waterline: 9.052670080468177
 home_country: GBR
 home_port: Salcombe
 hull_form: long keel deep forefoot
-id: 00a2b9ee-b607-4ed5-bee6-eb08119dc43b
-length_on_deck: 9.2446
-spar_material: wood
 uk_part1: '149309'
 callsign: ''
 ownerships:
@@ -39,16 +35,21 @@ ownerships:
   start: 2003
   member: 1377
   current: true
-place_built: Cowes IoW
-updated_at: '2022-02-08T21:48:44.318796+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1910
-year_is_approximate: false
+id: 00a2b9ee-b607-4ed5-bee6-eb08119dc43b
 previous_names:
 - Itchen
 - Cautious Clara
 image_key: nXc9mX
-construction_details: Carvel
+thumb: https://photos.smugmug.com/photos/i-BRJwFkZ/0/Th/i-BRJwFkZ-Th.jpg
+draft: 1.9812
+handicap_data:
+  beam: 3.0480370641306997
+  draft: 1.9812240916849548
+  length_over_all: 9.23555230431602
+  length_on_waterline: 9.052670080468177
+length_on_deck: 9.2446
 beam: 3.048
 for_sale_state:
   text: not_for_sale

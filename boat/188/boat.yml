@@ -17,29 +17,23 @@ full_description: <p>'Nell' was commissioned by Robert Cowan Robertson from Geor
   St Katherine's Dock, London. She was owned for a time by Neil Gamble of Teignmouth
   and was often to be seen in the River Teign in the 1960s. At that time she had a
   large wooden deckhouse.</p><p>She was spotted on the Hamble in 2010.</p>
-builder:
-  name: Thomas Orr Jr.
-  id: ccda72cf-a2ad-4fd2-a4e9-a9b6baa51a3d
+year: 1887
+year_is_approximate: false
 designer:
   name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
+builder:
+  name: Thomas Orr Jr.
+  id: ccda72cf-a2ad-4fd2-a4e9-a9b6baa51a3d
+place_built: Greenock
 construction_material: wood
 construction_method: unknown
-draft: 2.286
+construction_details: '1 1/2" Pitch pine on oak frames, copper sheathed. '
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.6576444769568397
-  draft: 2.3165081687393316
-  propellor:
-    type: fixed
-  length_over_all: 13.960009753718603
-  length_on_waterline: 13.106559375762009
 home_country: GBR
 home_port: Dover
 hull_form: long keel deep forefoot
-id: 58f12eb4-a251-4eeb-8334-be0e54e88cba
-length_on_deck: 13.9446
 uk_part1: '93188'
 callsign: ''
 ownerships:
@@ -57,13 +51,20 @@ ownerships:
   name: David F Stabb
   share: 64
   start: 1986
-place_built: Greenock
-updated_at: '2021-12-19T13:38:35.050898+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1887
-year_is_approximate: false
+id: 58f12eb4-a251-4eeb-8334-be0e54e88cba
 image_key: ZLsm7G
-construction_details: '1 1/2" Pitch pine on oak frames, copper sheathed. '
+thumb: https://photos.smugmug.com/photos/i-Px6S4hj/0/Th/i-Px6S4hj-Th.jpg
+draft: 2.286
+handicap_data:
+  beam: 3.6576444769568397
+  draft: 2.3165081687393316
+  propellor:
+    type: fixed
+  length_over_all: 13.960009753718603
+  length_on_waterline: 13.106559375762009
+length_on_deck: 13.9446
 beam: 3.6576
 for_sale_state:
   text: not_for_sale

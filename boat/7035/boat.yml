@@ -20,36 +20,25 @@ full_description: "<p>Originally built for a French dentist, &#39;Jo&euml;lle&#3
   \ Diesel.</p>\r\n\r\n<p>As a family we sailed to Alderney, Guernsey and the South\
   \ Coast. On the passage home we heard Concorde&rsquo;s double &lsquo;Bang&rsquo;.\
   \ One of the best family passages ever.</p>\r\n</blockquote>"
-builder:
-  name: Philip and Son
-  id: c7ac6200-7aa7-4161-a80f-a1955ff76709
+year: 1947
+year_is_approximate: false
 designer:
   name: Robert Clark Ltd
   id: 2c4f12ba-8608-4078-a0eb-129504d5785f
+builder:
+  name: Philip and Son
+  id: c7ac6200-7aa7-4161-a80f-a1955ff76709
+place_built: Dartmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.2649
+construction_details: Carvel larch on oak, steel floors, Copper and Silicon Bronze
+  fastened
 engine_installations: []
 for_sales:
 - asking_price: 6000
-handicap_data:
-  beam: 2.5725432821263103
-  main:
-    foot: 3.0480370641306997
-    luff: 14.630577907827359
-  thcf: 0.895368733
-  draft: 1.4478176054620824
-  propellor:
-    type: fixed
-  length_over_all: 8.83930748597903
-  fore_triangle_base: 2.590831504511095
-  length_on_waterline: 6.376493538161424
-  fore_triangle_height: 7.315288953913679
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
-id: e23bdad1-fc58-450f-bb10-0a167f9b285c
-length_on_deck: 7.3152
 sail_number: 1516Y
 uk_part1: '183718'
 callsign: MDEK 8
@@ -67,15 +56,27 @@ ownerships:
   name: Stuart Welford
   share: 64
   start: 1988
-place_built: Dartmouth
-updated_at: '2021-12-19T13:40:01.043663+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1947
-year_is_approximate: false
+id: e23bdad1-fc58-450f-bb10-0a167f9b285c
 mssi: '235057446'
 image_key: RqLrtw
-construction_details: Carvel larch on oak, steel floors, Copper and Silicon Bronze
-  fastened
+thumb: https://photos.smugmug.com/photos/i-sWGNQBt/0/Th/i-sWGNQBt-Th.jpg
+draft: 1.2649
+handicap_data:
+  beam: 2.5725432821263103
+  main:
+    foot: 3.0480370641306997
+    luff: 14.630577907827359
+  thcf: 0.895368733
+  draft: 1.4478176054620824
+  propellor:
+    type: fixed
+  length_over_all: 8.83930748597903
+  fore_triangle_base: 2.590831504511095
+  length_on_waterline: 6.376493538161424
+  fore_triangle_height: 7.315288953913679
+length_on_deck: 7.3152
 beam: 2.5725
 design_class:
   name: Yachting World 5 Tonner

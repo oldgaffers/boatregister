@@ -5,40 +5,25 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Hunter Boats Ltd.
-  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
+year: 1990
+year_is_approximate: false
 designer:
   name: David Thomas
   id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+builder:
+  name: Hunter Boats Ltd.
+  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
+place_built: Rochford Essex
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.381
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.2098329675688855
-  main:
-    foot: 0
-    head: 3.9624481833699097
-    luff: 3.3528407705437697
-  thcf: 0.818
-  draft: 0.3810107290904657
-  sailarea: 12.802359739605919
-  propellor:
-    type: fixed
-  length_over_all: 6.908900268227262
-  length_over_spars: 6.908900268227262
-  fore_triangle_base: 2.7432333577176298
-  length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 5.28327237259205
 home_country: 'null'
 home_port: Bradwell on Sea
 hull_form: centre-boarder
-id: 28d90f19-5a84-49f4-b367-776891504a7f
-length_on_deck: 6.9098
 sail_number: '108'
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 1992
@@ -57,12 +42,27 @@ ownerships:
   member: 6500
   current: true
   start: '?'
-place_built: Rochford Essex
-updated_at: '2022-02-12T19:50:20.685523+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1990
-year_is_approximate: false
-construction_details: GRP
+id: 28d90f19-5a84-49f4-b367-776891504a7f
+draft: 0.381
+handicap_data:
+  beam: 2.2098329675688855
+  main:
+    foot: 0
+    head: 3.9624481833699097
+    luff: 3.3528407705437697
+  thcf: 0.818
+  draft: 0.3810107290904657
+  sailarea: 12.802359739605919
+  propellor:
+    type: fixed
+  length_over_all: 6.908900268227262
+  length_over_spars: 6.908900268227262
+  fore_triangle_base: 2.7432333577176298
+  length_on_waterline: 6.0960741282613995
+  fore_triangle_height: 5.28327237259205
+length_on_deck: 6.9098
 beam: 2.2098
 design_class:
   name: Hunter Minstrel

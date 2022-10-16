@@ -6,17 +6,36 @@ mainsail_type: gaff
 short_description: <p>Misty Morn is a standard Cornish Shrimper hull but her rig has
   been modified to a gaff cutter and her bowsprit lengthened by 12 inches.</p>
 full_description: <p><br></p>
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1989
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.4816
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Salcombe
+hull_form: centre-boarder
+sail_number: '352'
+callsign: ''
+ownerships:
+- id: 285
+  share: 64
+  start: 2012
+  member: 3503
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 10e0a1fd-74e5-43be-9ce1-15f91919f58b
+draft: 0.4816
 handicap_data:
   beam: 2.1854425749817117
   main:
@@ -29,26 +48,7 @@ handicap_data:
   fore_triangle_base: 2.539014874420873
   length_on_waterline: 5.334064862228725
   fore_triangle_height: 4.648256522799317
-home_country: GBR
-home_port: Salcombe
-hull_form: centre-boarder
-id: 10e0a1fd-74e5-43be-9ce1-15f91919f58b
 length_on_deck: 5.8674
-sail_number: '352'
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 285
-  share: 64
-  start: 2012
-  member: 3503
-  current: true
-place_built: Rock
-updated_at: '2021-12-19T13:39:30.180875+00:00'
-website: ''
-year: 1989
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1854
 design_class:
   name: Cornish Shrimper

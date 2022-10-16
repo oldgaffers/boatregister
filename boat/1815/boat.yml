@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Jachtwerf Rik Homan
-  id: 89447eba-063c-4945-9640-8da9b39233d6
+year: 1991
+year_is_approximate: false
 designer:
   name: H.A. Homan
   id: 5d3e4184-c418-4e19-8b0f-05ce97d2a6b0
+builder:
+  name: Jachtwerf Rik Homan
+  id: 89447eba-063c-4945-9640-8da9b39233d6
+place_built: Reeuwijk
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.4572
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Reeuwijk
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: H A (Rik) Homan
+  share: 64
+  start: 1991
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 496ff7bc-119d-44b4-96da-4186a7d1a392
+draft: 0.4572
 handicap_data:
   beam: 1.777005608388198
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 2.9474518410143866
   length_on_waterline: 5.410265788831992
   fore_triangle_height: 5.206047305535234
-home_country: 'null'
-home_port: Reeuwijk
-hull_form: long keel deep forefoot
-id: 496ff7bc-119d-44b4-96da-4186a7d1a392
 length_on_deck: 5.4712
-callsign: ''
-ownerships:
-- name: H A (Rik) Homan
-  share: 64
-  start: 1991
-place_built: Reeuwijk
-updated_at: '2021-12-19T13:39:21.073869+00:00'
-website: ''
-year: 1991
-year_is_approximate: false
-construction_details: GRP
 beam: 1.777
 for_sale_state:
   text: not_for_sale

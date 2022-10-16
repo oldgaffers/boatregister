@@ -5,29 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 81/2 Was in Ocean Youth Club fleet
-builder:
-  name: R. Pearce
-  id: f1340885-9432-4bde-ad18-1b7553df83dc
+year: 1903
+year_is_approximate: false
 designer:
   name: R. Pearce
   id: deff54e9-5012-461b-9ec5-46f494cd606b
+builder:
+  name: R. Pearce
+  id: f1340885-9432-4bde-ad18-1b7553df83dc
+place_built: Looe
 construction_material: wood
 construction_method: unknown
-draft: 1.8288
+construction_details: Pitch pine on oak frames Teak laid decks  Doghouse
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.5357229943916115
-  draft: 1.8288222384784198
-  propellor:
-    type: fixed
-  length_over_all: 12.161667885881492
-  length_on_waterline: 10.972933430870519
 home_country: 'null'
 home_port: ''
 hull_form: long keel deep forefoot
-id: 3c25079a-6d9d-4930-9f00-d877d30f0a2e
-length_on_deck: 12.1615
 reference:
 - Log 81/2
 callsign: ''
@@ -35,12 +29,18 @@ ownerships:
 - name: R Elliot-Pyle
   share: 64
   start: 1992
-place_built: Looe
-updated_at: '2021-12-19T13:38:39.24566+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1903
-year_is_approximate: false
-construction_details: Pitch pine on oak frames Teak laid decks  Doghouse
+id: 3c25079a-6d9d-4930-9f00-d877d30f0a2e
+draft: 1.8288
+handicap_data:
+  beam: 3.5357229943916115
+  draft: 1.8288222384784198
+  propellor:
+    type: fixed
+  length_over_all: 12.161667885881492
+  length_on_waterline: 10.972933430870519
+length_on_deck: 12.1615
 beam: 3.5357
 for_sale_state:
   text: not_for_sale

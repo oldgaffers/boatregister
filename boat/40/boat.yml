@@ -6,29 +6,25 @@ mainsail_type: gaff
 short_description: Centreboard gaff ketch, built Pin Mill by H. King &amp; Sons in
   1936, designed by Fred Shepherd, MINA.
 full_description: ''
-builder:
-  name: Harry King and Sons
-  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
+year: 1936
+year_is_approximate: false
 designer:
   name: Frederick Shepherd
   id: a1307f55-2601-4a92-ad68-1db523c0e3b9
+builder:
+  name: Harry King and Sons
+  id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
+place_built: Pin Mill
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales:
 - asking_price: 40000
-handicap_data:
-  beam: 3.148622287247013
-  draft: 1.8288222384784198
-  length_over_all: 10.820531577663983
-  length_on_waterline: 8.53450377956596
 home_country: GBR
 home_port: Lochaline, Argyll
 hull_form: unknown
-id: bc3d71ec-872a-4eb4-a2a9-2844289659b3
-length_on_deck: 10.8204
-spar_material: wood
 uk_part1: '165040'
 callsign: ''
 ownerships:
@@ -39,15 +35,20 @@ ownerships:
 - name: Roderick James
   share: 64
   start: 1980
-place_built: Pin Mill
-updated_at: '2021-12-19T13:38:30.82871+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1936
-year_is_approximate: false
+id: bc3d71ec-872a-4eb4-a2a9-2844289659b3
 previous_names:
 - Vivette II
 image_key: kDt8m9
-construction_details: Pitch pine on oak
+thumb: https://photos.smugmug.com/photos/i-Qt4HtQ8/0/Th/i-Qt4HtQ8-Th.jpg
+draft: 1.2192
+handicap_data:
+  beam: 3.148622287247013
+  draft: 1.8288222384784198
+  length_over_all: 10.820531577663983
+  length_on_waterline: 8.53450377956596
+length_on_deck: 10.8204
 beam: 3.1486
 for_sale_state:
   text: not_for_sale

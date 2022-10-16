@@ -5,17 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Peter Harris
-  id: 0bd18114-3b00-40be-84e6-2251189b4d6c
+year: 1990
+year_is_approximate: false
 designer:
   name: Peter Harris
   id: 4e6fcb7a-923b-4d7d-a28c-098da3d8d6d7
+builder:
+  name: Peter Harris
+  id: 0bd18114-3b00-40be-84e6-2251189b4d6c
+place_built: Swinton
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.4572
+construction_details: GRP Hull Teak Deck
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Brightlingsea
+hull_form: unknown
+sail_number: '7'
+callsign: ''
+ownerships:
+- name: J Fraser
+  share: 64
+  start: 1991
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d0b830be-d6d4-4b22-b131-788cfc8d2378
+draft: 0.4572
 handicap_data:
   beam: 1.889782979761034
   main:
@@ -28,23 +44,7 @@ handicap_data:
   fore_triangle_base: 1.4386734942696902
   length_on_waterline: 4.114850036576445
   fore_triangle_height: 3.1089978054133134
-home_country: 'null'
-home_port: Brightlingsea
-hull_form: unknown
-id: d0b830be-d6d4-4b22-b131-788cfc8d2378
 length_on_deck: 5.0292
-sail_number: '7'
-callsign: ''
-ownerships:
-- name: J Fraser
-  share: 64
-  start: 1991
-place_built: Swinton
-updated_at: '2021-12-19T13:39:14.184874+00:00'
-website: ''
-year: 1990
-year_is_approximate: false
-construction_details: GRP Hull Teak Deck
 beam: 1.8898
 design_class:
   name: Longshore 16

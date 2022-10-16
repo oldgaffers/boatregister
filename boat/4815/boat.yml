@@ -5,17 +5,40 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: G. Bonn
-  id: 37012ee3-b35e-43b7-8dfe-1a11becfbaf9
+year: 1949
+year_is_approximate: false
 designer:
   name: G. Bonn
   id: e4fd8436-e760-4b99-8c2d-0e0a7c85db73
+builder:
+  name: G. Bonn
+  id: 37012ee3-b35e-43b7-8dfe-1a11becfbaf9
+place_built: Portmadog
 construction_material: wood
 construction_method: unknown
-draft: 0.8626
+construction_details: Larch on oak, straight ballast keel, transom.
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: '4815'
+uk_part1: '186630'
+callsign: ''
+ownerships:
+- name: Ian Cornish
+  share: 64
+  start: 2012
+- share: 64
+  member: 3468
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 654646e2-87de-4b97-8ea6-180079847ffc
+image_key: wFDz7f
+thumb: https://photos.smugmug.com/photos/i-PVkmQNX/0/Th/i-PVkmQNX-Th.jpg
+draft: 0.8626
 handicap_data:
   beam: 2.43842965130456
   main:
@@ -33,29 +56,7 @@ handicap_data:
   fore_triangle_base: 3.8100463301633747
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 6.068641794684223
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: 654646e2-87de-4b97-8ea6-180079847ffc
 length_on_deck: 6.7056
-sail_number: '4815'
-uk_part1: '186630'
-callsign: ''
-ownerships:
-- name: Ian Cornish
-  share: 64
-  start: 2012
-- share: 64
-  member: 3468
-  current: true
-  start: '?'
-place_built: Portmadog
-updated_at: '2021-12-19T13:39:59.79088+00:00'
-website: ''
-year: 1949
-year_is_approximate: false
-image_key: wFDz7f
-construction_details: Larch on oak, straight ballast keel, transom.
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

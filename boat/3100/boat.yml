@@ -5,27 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2001
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: unknown
-draft: 1.4996
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.4900302825530356
-  draft: 1.500018242501829
-  length_over_all: 8.200099725676663
-  length_on_waterline: 6.30007661850768
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 9a107178-ebf5-4e5d-b5e6-c9db64975129
-length_on_deck: 8.2052
 callsign: ''
 ownerships:
 - name: Steve Phillips
@@ -35,11 +30,16 @@ ownerships:
   member: 5649
   current: true
   start: '?'
-place_built: Rock
-updated_at: '2021-12-19T13:39:57.795113+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2001
-year_is_approximate: false
+id: 9a107178-ebf5-4e5d-b5e6-c9db64975129
+draft: 1.4996
+handicap_data:
+  beam: 2.4900302825530356
+  draft: 1.500018242501829
+  length_over_all: 8.200099725676663
+  length_on_waterline: 6.30007661850768
+length_on_deck: 8.2052
 beam: 2.4902
 for_sale_state:
   text: not_for_sale

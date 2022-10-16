@@ -5,26 +5,22 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Log Au/93
-builder:
-  name: Chapman
-  id: 5d8f6194-fb11-40fb-8e6c-40f8bb0231e2
+year: 1914
+year_is_approximate: false
 designer:
   name: R. Cole
   id: 8dd7599c-46fa-4f35-bbe0-5a80c7df7775
+builder:
+  name: Chapman
+  id: 5d8f6194-fb11-40fb-8e6c-40f8bb0231e2
+place_built: Filey
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.7432333577176298
-  length_over_all: 10.972933430870519
-  length_on_waterline: 8.22970007315289
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: b331bb68-18a6-4189-9a79-809377869b73
-length_on_deck: 10.9728
 reference:
 - Log Au/93
 callsign: ''
@@ -32,12 +28,17 @@ ownerships:
 - name: R Kember
   share: 64
   start: 2012
-place_built: Filey
-updated_at: '2021-12-19T13:38:31.401887+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1914
-year_is_approximate: false
+id: b331bb68-18a6-4189-9a79-809377869b73
 image_key: msPmtV
+thumb: https://photos.smugmug.com/photos/i-vSdjcgv/0/Th/i-vSdjcgv-Th.jpg
+draft: 0
+handicap_data:
+  beam: 2.7432333577176298
+  length_over_all: 10.972933430870519
+  length_on_waterline: 8.22970007315289
+length_on_deck: 10.9728
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

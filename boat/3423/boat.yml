@@ -5,26 +5,21 @@ rig_type: single_sail
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: Brian Kennell
-  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+year_is_approximate: false
 designer:
   name: Alf Last
   id: f6e9f88a-6f88-40f7-82d2-e700bf57d1c5
+builder:
+  name: Brian Kennell
+  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  moving_keel: true
-  moving_keel_type: Centreboard
 home_country: GBR
 home_port: ''
 hull_form: centre-board dinghy
-id: 0097c8ec-69e8-4349-b03f-57be999e115a
-length_on_deck: 3.7338
-spar_material: wood
 callsign: ''
 ownerships:
 - id: 305
@@ -32,10 +27,16 @@ ownerships:
   start: 2000
   member: 3662
   current: true
-updated_at: '2021-12-19T13:40:10.333117+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year_is_approximate: false
+id: 0097c8ec-69e8-4349-b03f-57be999e115a
 image_key: Ddbvfx
+thumb: https://photos.smugmug.com/photos/i-RZRXKwc/0/Th/i-RZRXKwc-Th.jpg
+draft: 0
+handicap_data:
+  moving_keel: true
+  moving_keel_type: Centreboard
+length_on_deck: 3.7338
 beam: 0
 design_class:
   name: Brian Kennel Smacks Boat

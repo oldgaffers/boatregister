@@ -5,38 +5,38 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: West Riding Marine
-  id: 67ba8b79-adb2-4c09-8142-04b7b74cce4e
+year: 1986
+year_is_approximate: false
 designer:
   name: J. Teale
   id: 4a6f80da-d617-4671-98c6-572aaa4b5462
+builder:
+  name: West Riding Marine
+  id: 67ba8b79-adb2-4c09-8142-04b7b74cce4e
+place_built: Wakefield
 construction_material: steel
 construction_method: unknown
-draft: 0.9906
+construction_details: Steel w aluminium superstructure
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.581443550353572
-  draft: 0.9906120458424774
-  length_over_all: 10.591928797854182
-  length_on_waterline: 8.991709339185563
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 44480ea6-0642-43d3-8bd0-aa514da5a54b
-length_on_deck: 10.5918
 callsign: ''
 ownerships:
 - name: M McCullough
   share: 64
   start: 2012
-place_built: Wakefield
-updated_at: '2021-12-19T13:39:08.890629+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1986
-year_is_approximate: false
-construction_details: Steel w aluminium superstructure
+id: 44480ea6-0642-43d3-8bd0-aa514da5a54b
+draft: 0.9906
+handicap_data:
+  beam: 3.581443550353572
+  draft: 0.9906120458424774
+  length_over_all: 10.591928797854182
+  length_on_waterline: 8.991709339185563
+length_on_deck: 10.5918
 beam: 3.5814
 for_sale_state:
   text: not_for_sale

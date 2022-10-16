@@ -5,27 +5,23 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: <p>Built by Morris between 1977 and 1985.</p>
 full_description: ''
-builder:
-  name: R. Morris
-  id: 65c278ac-9546-49b7-9fbb-046a12bf8501
+year: 1985
+year_is_approximate: false
 designer:
   name: Colin Archer/R. Morris
   id: 2a5cfc28-0ac0-47a0-a9d9-5bb74e42e153
+builder:
+  name: R. Morris
+  id: 65c278ac-9546-49b7-9fbb-046a12bf8501
+place_built: South Woodham Ferrers
 construction_material: ferro
 construction_method: unknown
-draft: 2.0574
+construction_details: Ferro cement hull  Teak coach roof
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.57205559619605
-  draft: 2.0574250182882223
-  length_over_all: 13.716166788588149
-  length_on_waterline: 12.192148256522799
 home_country: GBR
 home_port: North Fambridge
 hull_form: unknown
-id: 0fc9a6c1-c4ea-4d0b-91c1-3f2c59a6152a
-length_on_deck: 13.716
 callsign: ''
 ownerships:
 - id: 122
@@ -33,12 +29,16 @@ ownerships:
   start: 1987
   member: 2080
   current: true
-place_built: South Woodham Ferrers
-updated_at: '2021-12-19T13:39:17.389413+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1985
-year_is_approximate: false
-construction_details: Ferro cement hull  Teak coach roof
+id: 0fc9a6c1-c4ea-4d0b-91c1-3f2c59a6152a
+draft: 2.0574
+handicap_data:
+  beam: 4.57205559619605
+  draft: 2.0574250182882223
+  length_over_all: 13.716166788588149
+  length_on_waterline: 12.192148256522799
+length_on_deck: 13.716
 beam: 4.572
 for_sale_state:
   text: not_for_sale

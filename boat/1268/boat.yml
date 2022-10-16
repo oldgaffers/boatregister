@@ -24,43 +24,27 @@ full_description: "<p>In 2016, her owner asserted that Ariel&#39;s sole purpose 
   \n\r\n<p>&#39;Ariel&#39; changed hands in 2018, and was brought back to the Solent\
   \ from Ireland. To reflect this, her name was changed from &#39;Ariel of Greystones&#39;\
   \ to &#39;Arielle of Keyhaven&#39;.</p>"
-builder:
-  name: Toshers and Luggers.
-  id: 5fe617dc-5633-41d4-9e23-6070646bbb0e
+year: 1983
+year_is_approximate: false
 designer:
   name: Terry Heard
   id: c7a4b5d4-0751-4858-8054-b0e0636bb711
+builder:
+  name: Toshers and Luggers.
+  id: 5fe617dc-5633-41d4-9e23-6070646bbb0e
+place_built: Tregatreath
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP Hull, Pine & Mahogany fittings
 engine_installations: []
 for_sales:
 - asking_price: 7500
 - asking_price: 6500
-handicap_data:
-  beam: 1.9050292611558155
-  main:
-    foot: 3.6576444769568397
-    head: 3.0480370641306997
-    luff: 3.0480370641306997
-  thcf: 0.849
-  draft: 0.9144111192392099
-  topsail:
-    luff: 3.0480370641306997
-    perpendicular: 1.3716288710070714
-  sailarea: 21.554280014018275
-  length_over_all: 5.638880760790051
-  length_over_spars: 7.620092660326749
-  fore_triangle_base: 3.6576444769568397
-  length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 4.26725188978298
 home_country: GBR
 home_port: Keyhaven
 hull_form: long keel deep forefoot
-id: e0174a27-2cb3-4df5-8977-c08f7ff7eebb
-length_on_deck: 5.6388
 sail_number: '68'
-spar_material: wood
 callsign: EI-PL4
 ownerships:
 - name: Martin Coyne
@@ -78,18 +62,35 @@ ownerships:
 - name: Ben Collins
   share: 64
   start: 2018
-place_built: Tregatreath
-updated_at: '2021-12-19T13:39:06.547179+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1983
-year_is_approximate: false
+id: e0174a27-2cb3-4df5-8977-c08f7ff7eebb
 previous_names:
 - Ariel
 - Ariel of Swanwick
 - Ariel of Newcastle
 - Ariel of Greystones
 image_key: vfG5cP
-construction_details: GRP Hull, Pine & Mahogany fittings
+thumb: https://photos.smugmug.com/photos/i-dCdQNGs/0/Th/i-dCdQNGs-Th.jpg
+draft: 0.9144
+handicap_data:
+  beam: 1.9050292611558155
+  main:
+    foot: 3.6576444769568397
+    head: 3.0480370641306997
+    luff: 3.0480370641306997
+  thcf: 0.849
+  draft: 0.9144111192392099
+  topsail:
+    luff: 3.0480370641306997
+    perpendicular: 1.3716288710070714
+  sailarea: 21.554280014018275
+  length_over_all: 5.638880760790051
+  length_over_spars: 7.620092660326749
+  fore_triangle_base: 3.6576444769568397
+  length_on_waterline: 5.4864667154352595
+  fore_triangle_height: 4.26725188978298
+length_on_deck: 5.6388
 beam: 1.905
 design_class:
   name: Tosher 18

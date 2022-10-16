@@ -5,25 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Max Campbell
-  id: 0aaea60e-0435-437b-9b7f-9533a22e6c1d
+year: 2004
+year_is_approximate: false
 designer:
   name: Derek Ellard
   id: dc826c22-e1ed-44df-948e-d227bc9ba767
+builder:
+  name: Max Campbell
+  id: 0aaea60e-0435-437b-9b7f-9533a22e6c1d
+place_built: Babraham
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  length_over_all: 6.0960741282613995
 home_country: 'null'
 home_port: Trailer sail
 hull_form: unknown
-id: bea395bd-d71a-4d31-90a6-e1271ca7f83f
-length_on_deck: 6.096
 callsign: ''
 ownerships:
 - id: 456
@@ -31,11 +28,14 @@ ownerships:
   start: 2004
   member: 4450
   current: true
-place_built: Babraham
-updated_at: '2021-12-19T13:39:45.336381+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2004
-year_is_approximate: false
+id: bea395bd-d71a-4d31-90a6-e1271ca7f83f
+draft: 0
+handicap_data:
+  beam: 2.13362594489149
+  length_over_all: 6.0960741282613995
+length_on_deck: 6.096
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

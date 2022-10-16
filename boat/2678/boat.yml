@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 2005
+year_is_approximate: false
 designer:
   name: Dudley Dix
   id: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: 'Rochdale '
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.3993
+construction_details: grp
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Rye
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Richard D Cooper
+  share: 64
+  start: 2005
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0d3dc794-690c-4e61-8b2e-e18737f82524
+draft: 0.3993
 handicap_data:
   beam: 2.200682760302365
   main:
@@ -28,22 +43,7 @@ handicap_data:
   fore_triangle_base: 3.401609363569861
   length_on_waterline: 5.501706900755913
   fore_triangle_height: 5.5992440868080955
-home_country: 'null'
-home_port: Rye
-hull_form: unknown
-id: 0d3dc794-690c-4e61-8b2e-e18737f82524
 length_on_deck: 5.8003
-callsign: ''
-ownerships:
-- name: Richard D Cooper
-  share: 64
-  start: 2005
-place_built: 'Rochdale '
-updated_at: '2021-12-19T13:39:46.065641+00:00'
-website: ''
-year: 2005
-year_is_approximate: false
-construction_details: grp
 beam: 2.2007
 design_class:
   name: Cape Cutter 19

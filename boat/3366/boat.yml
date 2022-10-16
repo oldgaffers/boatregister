@@ -12,18 +12,37 @@ full_description: "<p>&#39;Cadfael&#39; was a bespoke build to a design by Franc
   \ as both Adrian and Francois&rsquo; own sites.</p>\r\n\r\n<p><a href=\"http://adriandonovan.co.uk/index.php?page=morbic-12---cadfael\"\
   \ target=\"_blank\">Visit her builder, Adrian Donovan&#39;s website</a> for more\
   \ details.</p>"
-builder:
-  name: Adrian Donovan
-  id: 7b3ce111-52de-480e-89f9-c71ea9c9db23
+year: 2013
+year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+builder:
+  name: Adrian Donovan
+  id: 7b3ce111-52de-480e-89f9-c71ea9c9db23
+place_built: Sweffling
 construction_material: plywood
 construction_method: clinker_ply
-draft: 0.1676
+construction_details: glued clinker, ply with mahogany sheerstrake and fit out. Spruce
+  spars.
 engine_installations: []
 for_sales:
 - asking_price: 5000
+home_country: GBR
+home_port: Framlingham
+hull_form: unknown
+callsign: ''
+ownerships:
+- end: 2018
+  name: Marc Fovague-Davies
+  share: 64
+  start: 2013
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 9cb06e39-b6fe-493d-9810-03ede68c6fac
+image_key: fxr4gR
+thumb: https://photos.smugmug.com/photos/i-gpZDrr3/0/Th/i-gpZDrr3-Th.jpg
+draft: 0.1676
 handicap_data:
   sailarea: 0
   moving_keel: true
@@ -31,25 +50,7 @@ handicap_data:
   draft_keel_down: 0.7803
   moving_keel_type: Centreboard
   length_on_waterline: 3.3498
-home_country: GBR
-home_port: Framlingham
-hull_form: unknown
-id: 9cb06e39-b6fe-493d-9810-03ede68c6fac
 length_on_deck: 3.6698
-callsign: ''
-ownerships:
-- end: 2018
-  name: Marc Fovague-Davies
-  share: 64
-  start: 2013
-place_built: Sweffling
-updated_at: '2021-12-19T13:40:08.953868+00:00'
-website: ''
-year: 2013
-year_is_approximate: false
-image_key: fxr4gR
-construction_details: glued clinker, ply with mahogany sheerstrake and fit out. Spruce
-  spars.
 beam: 1.5484
 design_class:
   name: Morbic 12

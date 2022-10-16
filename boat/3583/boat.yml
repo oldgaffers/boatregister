@@ -10,17 +10,33 @@ full_description: '<p><em>Squiggles</em> is a "Cape Henry", built at home over 3
   quantity of internal ballast.</p>
 
   <p>Rig consists of a yankee and staysail rather than a genoa.</p>'
-builder:
-  name: Built Self
-  id: 42e246df-e2bd-4305-9936-e671685668ef
+year: 2020
+year_is_approximate: false
 designer:
   name: Dudley Dix
   id: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
+builder:
+  name: Built Self
+  id: 42e246df-e2bd-4305-9936-e671685668ef
+place_built: Pillaton, Nr. Saltash
 construction_material: plywood
+spar_material: wood
 construction_method: other
-draft: 0.7010485247500609
+construction_details: Lapstrake ply on internal stringers across bulkheads. Bilge
+  keel. Double forward berth and two quarter berths. Internal 4kw electric motor with
+  traditional shaft through keels keg. 48 volt, 200 ah lead batteries acting as internal
+  ballast.
 engine_installations: []
 for_sales: []
+home_country: UK
+home_port: Saltash
+hull_form: bilge keel
+ssr: '176182'
+updated_at: '2022-05-18T16:13:49.4063+00:00'
+id: 6a9c49ce-c95c-4728-9018-5076a213001a
+image_key: dBZDMn
+thumb: https://photos.smugmug.com/photos/i-MchW8dX/0/Th/i-MchW8dX-Th.jpg
+draft: 0.7010485247500609
 handicap_data:
   beam: 2.42
   main:
@@ -36,22 +52,7 @@ handicap_data:
   fore_triangle_base: 3.905
   length_on_waterline: 6.05
   fore_triangle_height: 6.264
-home_country: UK
-home_port: Saltash
-hull_form: bilge keel
-id: 6a9c49ce-c95c-4728-9018-5076a213001a
 length_on_deck: 6.370397464033162
-spar_material: wood
-ssr: '176182'
-place_built: Pillaton, Nr. Saltash
-updated_at: '2022-05-18T16:13:49.4063+00:00'
-year: 2020
-year_is_approximate: false
-image_key: dBZDMn
-construction_details: Lapstrake ply on internal stringers across bulkheads. Bilge
-  keel. Double forward berth and two quarter berths. Internal 4kw electric motor with
-  traditional shaft through keels keg. 48 volt, 200 ah lead batteries acting as internal
-  ballast.
 air_draft: 28.2
 for_sale_state:
   text: not_for_sale

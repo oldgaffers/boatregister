@@ -4,14 +4,31 @@ generic_type: Yacht
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1880
+year_is_approximate: false
 builder:
   name: Thomas
   id: c84eaf0c-624a-49ef-98ba-c9e9743a6a14
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 1.524
+construction_details: Pitch pine on oak, Teak coachroof & coamings, lead keel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: P Baker
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 1dcd2777-f8ba-4dfc-b4ca-a44d89e906ad
+previous_names:
+- Marie Ann
+draft: 1.524
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -27,24 +44,7 @@ handicap_data:
   fore_triangle_base: 5.4864667154352595
   length_on_waterline: 7.620092660326749
   fore_triangle_height: 10.66812972445745
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 1dcd2777-f8ba-4dfc-b4ca-a44d89e906ad
 length_on_deck: 7.8334
-callsign: ''
-ownerships:
-- name: P Baker
-  share: 64
-  start: 2012
-place_built: Falmouth
-updated_at: '2021-12-19T13:38:54.529903+00:00'
-website: ''
-year: 1880
-year_is_approximate: false
-previous_names:
-- Marie Ann
-construction_details: Pitch pine on oak, Teak coachroof & coamings, lead keel
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

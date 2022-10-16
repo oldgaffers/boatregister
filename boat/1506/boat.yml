@@ -4,17 +4,32 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Crosby
-  id: 84db7212-ef04-4891-b3d5-2d570c56685e
+year: 1906
+year_is_approximate: false
 designer:
   name: Crosby
   id: 11303ff6-92a8-41f7-9144-53ebfe582e0a
+builder:
+  name: Crosby
+  id: 84db7212-ef04-4891-b3d5-2d570c56685e
+place_built: Osterville, Cape Cod, Mass
 construction_material: wood
 construction_method: carvel
-draft: 0.4572
+construction_details: Pine on Oak carvel
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bradwell on Sea
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Alan Hill
+  share: 64
+  start: 1992
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 52683194-bb03-403b-bf35-c45ee4264035
+draft: 0.4572
 handicap_data:
   beam: 3.291880029261156
   main:
@@ -27,22 +42,7 @@ handicap_data:
     type: fixed
   length_over_all: 7.315288953913679
   length_on_waterline: 7.254328212631066
-home_country: 'null'
-home_port: Bradwell on Sea
-hull_form: long keel deep forefoot
-id: 52683194-bb03-403b-bf35-c45ee4264035
 length_on_deck: 7.3152
-callsign: ''
-ownerships:
-- name: Alan Hill
-  share: 64
-  start: 1992
-place_built: Osterville, Cape Cod, Mass
-updated_at: '2021-12-19T13:39:13.308643+00:00'
-website: ''
-year: 1906
-year_is_approximate: false
-construction_details: Pine on Oak carvel
 beam: 3.2918
 for_sale_state:
   text: not_for_sale

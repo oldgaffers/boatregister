@@ -5,17 +5,32 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: Fyne Boat Kits
-  id: 4eeaff6e-e76c-454a-afed-0fb5be838229
+year: 1950
+year_is_approximate: false
 designer:
   name: Chesapeake Light Craft
   id: ad506e2e-f56e-4142-9461-0b90640a1cc5
+builder:
+  name: Fyne Boat Kits
+  id: 4eeaff6e-e76c-454a-afed-0fb5be838229
+place_built: Kendal
 construction_material: wood
 construction_method: clinker_ply
-draft: 0
+construction_details: Clinker ply
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: La Guardia
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Rodney Clark
+  share: 64
+  start: 2008
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a8bf6be3-7415-4745-9d65-05047be32169
+draft: 0
 handicap_data:
   beam: 1.21921482565228
   main:
@@ -25,22 +40,7 @@ handicap_data:
   thcf: 0.636253785
   length_over_all: 2.3622287247012923
   length_on_waterline: 2.0574250182882223
-home_country: 'null'
-home_port: La Guardia
-hull_form: unknown
-id: a8bf6be3-7415-4745-9d65-05047be32169
 length_on_deck: 2.3622
-callsign: ''
-ownerships:
-- name: Rodney Clark
-  share: 64
-  start: 2008
-place_built: Kendal
-updated_at: '2021-12-19T13:39:52.318614+00:00'
-website: ''
-year: 1950
-year_is_approximate: false
-construction_details: Clinker ply
 beam: 1.2192
 design_class:
   name: Eastport Pram

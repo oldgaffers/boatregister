@@ -5,25 +5,22 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Arthur Marshal
-  id: 160b7d9b-730e-4a91-bbb2-1a0295ea2a1a
+year: 1990
+year_is_approximate: false
 designer:
   name: Thomas B. Middleton
   id: c367883a-9a33-4bec-a5a7-d40f291504ac
+builder:
+  name: Arthur Marshal
+  id: 160b7d9b-730e-4a91-bbb2-1a0295ea2a1a
+place_built: Herne Bay
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.472201901975128
-  length_over_all: 3.9624481833699097
 home_country: GBR
 home_port: Herne Bay
 hull_form: unknown
-id: 38c660a4-cdc8-423b-80b3-a401afb7793a
-length_on_deck: 3.9624
 callsign: ''
 ownerships:
 - id: 495
@@ -31,11 +28,14 @@ ownerships:
   start: 2012
   member: 4706
   current: true
-place_built: Herne Bay
-updated_at: '2021-12-19T13:39:48.222887+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1990
-year_is_approximate: false
+id: 38c660a4-cdc8-423b-80b3-a401afb7793a
+draft: 0
+handicap_data:
+  beam: 1.472201901975128
+  length_over_all: 3.9624481833699097
+length_on_deck: 3.9624
 beam: 1.4722
 design_class:
   name: Water Wag

@@ -19,36 +19,23 @@ full_description: "Built in 1913, 'Fleetwing' is one of the oldest surviving Har
   \ steadily; the floors have being re galvanised and are back in. A professional\
   \ boat surveyor looked at her hull in November 2015 and came up with a schedule\
   \ of work."
-builder:
-  name: Woods and Newstead
-  id: f18e04d9-64f9-40b6-bf68-e8ceb1d44c56
+year: 1913
+year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+builder:
+  name: Woods and Newstead
+  id: f18e04d9-64f9-40b6-bf68-e8ceb1d44c56
+place_built: Cantley, Norfolk
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Pitch Pine on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  main:
-    foot: 4.87685930260912
-    head: 4.191050963179712
-    luff: 4.26725188978298
-  thcf: 0.867700176
-  draft: 1.3716166788588149
-  propellor:
-    type: fixed
-  length_over_all: 6.0960741282613995
-  fore_triangle_base: 3.3528407705437697
-  length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 4.87685930260912
 home_country: 'null'
 home_port: Heritage Marine boat yard, Essex
 hull_form: long keel deep forefoot
-id: 76a68de8-4c0a-432e-8470-7a68b881be18
-length_on_deck: 6.096
 callsign: ''
 ownerships:
 - end: 1924
@@ -131,15 +118,29 @@ ownerships:
   text: Samuel Hicks
   start: 2020
   start_is_approximate: false
-place_built: Cantley, Norfolk
-updated_at: '2021-12-19T13:38:48.177679+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.harrisonbutlerassociation.com/Pages/HBAMag72.html#MadCapVoyage
-year: 1913
-year_is_approximate: false
+id: 76a68de8-4c0a-432e-8470-7a68b881be18
 previous_names:
 - Seagull
 image_key: 9CvCQD
-construction_details: Pitch Pine on Oak
+thumb: https://photos.smugmug.com/photos/i-RNdrRCp/0/Th/i-RNdrRCp-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.13362594489149
+  main:
+    foot: 4.87685930260912
+    head: 4.191050963179712
+    luff: 4.26725188978298
+  thcf: 0.867700176
+  draft: 1.3716166788588149
+  propellor:
+    type: fixed
+  length_over_all: 6.0960741282613995
+  fore_triangle_base: 3.3528407705437697
+  length_on_waterline: 5.4864667154352595
+  fore_triangle_height: 4.87685930260912
+length_on_deck: 6.096
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

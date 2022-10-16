@@ -5,14 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1934
+year_is_approximate: false
 builder:
   name: Naval Yard Singapore
   id: c9fce1e0-a78c-4371-98d1-679d3b7b0ec9
+place_built: Singapore
 construction_material: wood
 construction_method: clinker
-draft: 0.2042
+construction_details: Clinker teak on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Cowes
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: T Frankl-Bertram
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3279694f-2207-4dbb-b3c8-5a8d2fc33752
+previous_names:
+- Duet
+draft: 0.2042
 handicap_data:
   beam: 1.9050231650816873
   main:
@@ -30,24 +47,7 @@ handicap_data:
   fore_triangle_base: 2.590831504511095
   length_on_waterline: 5.029261155815655
   fore_triangle_height: 4.26725188978298
-home_country: 'null'
-home_port: Cowes
-hull_form: long keel deep forefoot
-id: 3279694f-2207-4dbb-b3c8-5a8d2fc33752
 length_on_deck: 5.3096
-callsign: ''
-ownerships:
-- name: T Frankl-Bertram
-  share: 64
-  start: 2012
-place_built: Singapore
-updated_at: '2021-12-19T13:39:18.208631+00:00'
-website: ''
-year: 1934
-year_is_approximate: false
-previous_names:
-- Duet
-construction_details: Clinker teak on oak
 beam: 1.905
 for_sale_state:
   text: not_for_sale

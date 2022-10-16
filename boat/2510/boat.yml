@@ -6,17 +6,41 @@ mainsail_type: gaff
 short_description: <p>Cruised Chichester to Poole and Solent waters single-handed
   by owner.</p>
 full_description: ''
-builder:
-  name: Yarmouth Boat Co.
-  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+year: 2001
+year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+place_built: Yarmouth IOW
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Gosport
+hull_form: long keel deep forefoot
+sail_number: '18'
+ssr: '99712'
+callsign: ''
+ownerships:
+- end: 2019
+  name: Helen Thomas
+  share: 64
+  start: 2001
+- end: '2021'
+  note: 'Sadly Helen Thomas died in July 2019. '
+  text: Sadly Helen Thomas died in July
+  start: 2019
+- share: 64
+  start: 2019
+updated_at: '2022-04-07T20:37:41.406816+00:00'
+website: ''
+id: 0a42edad-95de-4bb9-ad63-29b99930232a
+draft: 0.9144
 handicap_data:
   beam: 2.2799317239697636
   main:
@@ -34,31 +58,7 @@ handicap_data:
   fore_triangle_base: 3.038892952938308
   length_on_waterline: 5.498658863691782
   fore_triangle_height: 5.7912704218483295
-home_country: 'null'
-home_port: Gosport
-hull_form: long keel deep forefoot
-id: 0a42edad-95de-4bb9-ad63-29b99930232a
 length_on_deck: 6.8824
-sail_number: '18'
-ssr: '99712'
-callsign: ''
-ownerships:
-- end: 2019
-  name: Helen Thomas
-  share: 64
-  start: 2001
-- end: '2021'
-  note: 'Sadly Helen Thomas died in July 2019. '
-  text: Sadly Helen Thomas died in July
-  start: 2019
-- share: 64
-  start: 2019
-place_built: Yarmouth IOW
-updated_at: '2022-04-07T20:37:41.406816+00:00'
-website: ''
-year: 2001
-year_is_approximate: false
-construction_details: GRP
 beam: 2.286
 design_class:
   name: Yarmouth 23

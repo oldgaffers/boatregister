@@ -5,17 +5,40 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: C. Brooks
-  id: 15b74d1d-0780-4a0f-a393-8f6c22c5d720
+year: 1988
+year_is_approximate: false
 designer:
   name: Colin Archer
   id: 7e919cb2-8404-432d-a57a-3b17cfd38e60
+builder:
+  name: C. Brooks
+  id: 15b74d1d-0780-4a0f-a393-8f6c22c5d720
+place_built: Essex
 construction_material: ferro
 construction_method: unknown
-draft: 0.5334
+construction_details: Ferro-concrete
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: 'Fiumara Grande - Tiber, Rome '
+hull_form: long keel deep forefoot
+ssr: '10390'
+callsign: ''
+ownerships:
+- end: 2013
+  name: Brandino Rangoni-Machiavelli
+  share: 64
+  start: 1988
+- share: 64
+  member: 2200
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8c6a1262-c2c6-4c87-b86b-53d60ae5d8c6
+image_key: XVQW6m
+thumb: https://photos.smugmug.com/photos/i-ZzGgr4W/0/Th/i-ZzGgr4W-Th.jpg
+draft: 0.5334
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -30,29 +53,7 @@ handicap_data:
   fore_triangle_base: 6.278956352109242
   length_on_waterline: 9.1441111923921
   fore_triangle_height: 8.382101926359423
-home_country: 'null'
-home_port: 'Fiumara Grande - Tiber, Rome '
-hull_form: long keel deep forefoot
-id: 8c6a1262-c2c6-4c87-b86b-53d60ae5d8c6
 length_on_deck: 10.668
-ssr: '10390'
-callsign: ''
-ownerships:
-- end: 2013
-  name: Brandino Rangoni-Machiavelli
-  share: 64
-  start: 1988
-- share: 64
-  member: 2200
-  current: true
-  start: '?'
-place_built: Essex
-updated_at: '2021-12-19T13:39:10.970647+00:00'
-website: ''
-year: 1988
-year_is_approximate: false
-image_key: XVQW6m
-construction_details: Ferro-concrete
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

@@ -7,27 +7,23 @@ short_description: <p>&#39;Mahler&#39; was built in 1983, a ferro-cement Norsk 3
   gaff cutter. Following a refit, Terry Coles sailed her from the south of England
   to the Caribbean and back.</p>
 full_description: ''
-builder:
-  name: F. Huggins
-  id: 73bf4c5b-300b-47e6-93e9-70dbc8577ac7
+year: 1983
+year_is_approximate: false
 designer:
   name: J. Peryman
   id: 78131922-866f-49d5-a909-0607d83efb72
+builder:
+  name: F. Huggins
+  id: 73bf4c5b-300b-47e6-93e9-70dbc8577ac7
+place_built: Bursledon
 construction_material: ferro
 construction_method: unknown
-draft: 1.7069
+construction_details: Ferro cement
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.596683735674226
-  draft: 1.7069007559131917
-  length_over_all: 10.576688612533529
-  length_on_waterline: 9.44891489880517
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 8b0c5ac6-bb72-44f6-8d88-6e39dbd65b96
-length_on_deck: 10.5766
 uk_part1: '703333'
 callsign: ''
 ownerships:
@@ -41,13 +37,18 @@ ownerships:
   member: 5865
   current: true
   start: '?'
-place_built: Bursledon
-updated_at: '2021-12-19T13:39:28.700684+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1983
-year_is_approximate: false
+id: 8b0c5ac6-bb72-44f6-8d88-6e39dbd65b96
 image_key: FkHng6
-construction_details: Ferro cement
+thumb: https://photos.smugmug.com/photos/i-dx8zCFJ/0/Th/i-dx8zCFJ-Th.jpg
+draft: 1.7069
+handicap_data:
+  beam: 3.596683735674226
+  draft: 1.7069007559131917
+  length_over_all: 10.576688612533529
+  length_on_waterline: 9.44891489880517
+length_on_deck: 10.5766
 beam: 3.5966
 for_sale_state:
   text: not_for_sale

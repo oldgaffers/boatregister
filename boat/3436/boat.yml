@@ -6,31 +6,25 @@ mainsail_type: gaff
 short_description: Mora is a Norfolk Gypsy built in 1994, hull number 60, without
   modification.
 full_description: She had a new set of sails in 2019, from R&amp;J Sails, Clevedon.
-builder:
-  name: Charlie Ward/North Norfolk Boatbuilders
-  id: 52871f1e-031e-4638-91c6-c87e27db173a
+year: 1994
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: Charlie Ward/North Norfolk Boatbuilders
+  id: 52871f1e-031e-4638-91c6-c87e27db173a
+place_built: Holt, North Norfolk
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.509
+construction_details: GRP and wood
 engine_installations: []
 for_sales: []
-handicap_data:
-  moving_keel: true
-  length_overall: 6.0442
-  draft_keel_down: 1.1948
-  moving_keel_type: Centreboard
-  length_over_spars: 7.2146
-  length_on_waterline: 5.4102
 home_country: GBR
 home_port: Cardiff
 hull_form: long keel deep forefoot
-id: beaefa08-3ee2-49de-81dc-3982fbd0de09
-length_on_deck: 6.0442
 sail_number: '60'
-spar_material: wood
 ssr: '65034'
 callsign: 2HQW9
 ownerships:
@@ -39,14 +33,21 @@ ownerships:
   start: 2019
   member: 6363
   current: true
-place_built: Holt, North Norfolk
-updated_at: '2022-02-08T22:14:00.782004+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1994
-year_is_approximate: false
+id: beaefa08-3ee2-49de-81dc-3982fbd0de09
 mssi: '235105902'
 image_key: P8Fcp7
-construction_details: GRP and wood
+thumb: https://photos.smugmug.com/photos/i-wrFnrQv/0/Th/i-wrFnrQv-Th.jpg
+draft: 0.509
+handicap_data:
+  moving_keel: true
+  length_overall: 6.0442
+  draft_keel_down: 1.1948
+  moving_keel_type: Centreboard
+  length_over_spars: 7.2146
+  length_on_waterline: 5.4102
+length_on_deck: 6.0442
 beam: 2.286
 design_class:
   name: Norfolk Gypsy

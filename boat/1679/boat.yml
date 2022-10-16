@@ -5,39 +5,26 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Colne Marine and Yacht Co. Ltd.
-  id: 4260d182-8203-484a-a790-fbb5d80fe8bd
+year: 1960
+year_is_approximate: false
 designer:
   name: Francis J. Jones
   id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
+builder:
+  name: Colne Marine and Yacht Co. Ltd.
+  id: 4260d182-8203-484a-a790-fbb5d80fe8bd
+place_built: Wivenhoe
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.0058
+construction_details: Carvel larch on Canandian rock elm with oak stem and stern
 engine_installations: []
 for_sales:
 - asking_price: null
 - asking_price: null
-handicap_data:
-  beam: 2.6213118751524016
-  main:
-    foot: 4.242867593269934
-    head: 1.929407461594733
-    luff: 5.9040477932211655
-  thcf: 0.879213515
-  draft: 1.0058522311631308
-  propellor:
-    type: fixed
-  length_over_all: 7.498171177761522
-  fore_triangle_base: 3.7460375518166296
-  length_on_waterline: 6.5532796878810045
-  fore_triangle_height: 7.339673250426724
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel deep forefoot
-id: e3afb637-0f86-4749-a07a-04f0141a422b
-length_on_deck: 7.4981
-spar_material: wood
 uk_part1: '303122'
 callsign: ''
 ownerships:
@@ -57,12 +44,26 @@ ownerships:
   member: 6451
   current: true
   start: '?'
-place_built: Wivenhoe
-updated_at: '2021-12-19T13:39:17.644386+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1960
-year_is_approximate: false
-construction_details: Carvel larch on Canandian rock elm with oak stem and stern
+id: e3afb637-0f86-4749-a07a-04f0141a422b
+thumb: ''
+draft: 1.0058
+handicap_data:
+  beam: 2.6213118751524016
+  main:
+    foot: 4.242867593269934
+    head: 1.929407461594733
+    luff: 5.9040477932211655
+  thcf: 0.879213515
+  draft: 1.0058522311631308
+  propellor:
+    type: fixed
+  length_over_all: 7.498171177761522
+  fore_triangle_base: 3.7460375518166296
+  length_on_waterline: 6.5532796878810045
+  fore_triangle_height: 7.339673250426724
+length_on_deck: 7.4981
 beam: 2.6213
 for_sale_state:
   text: not_for_sale

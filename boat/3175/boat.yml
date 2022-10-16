@@ -5,17 +5,30 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Gunter sloop built 1955</p>
 full_description: ''
-builder:
-  name: Itchenor Shipyard
-  id: 8cb88892-73d8-4b6e-86b8-63033744ddec
+year: 1955
+year_is_approximate: false
 designer:
   name: Pierre Cornu
   id: 6412bf1a-c7f7-4e12-8410-c3422b97282b
+builder:
+  name: Itchenor Shipyard
+  id: 8cb88892-73d8-4b6e-86b8-63033744ddec
 construction_material: wood
 construction_method: unknown
-draft: 0.253
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: F. Mark Miller
+  share: 64
+  start: 1985
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: f2551740-f246-427a-a2f7-b084a2351d01
+draft: 0.253
 handicap_data:
   sailarea: 6
   moving_keel: true
@@ -24,20 +37,7 @@ handicap_data:
   draft_keel_down: 1.1674
   moving_keel_type: Centreboard
   length_on_waterline: 5.9436
-home_country: GBR
-home_port: ''
-hull_form: unknown
-id: f2551740-f246-427a-a2f7-b084a2351d01
 length_on_deck: 6.5014
-callsign: ''
-ownerships:
-- name: F. Mark Miller
-  share: 64
-  start: 1985
-updated_at: '2021-12-19T13:40:03.182368+00:00'
-website: ''
-year: 1955
-year_is_approximate: false
 beam: 2.2342
 for_sale_state:
   text: not_for_sale

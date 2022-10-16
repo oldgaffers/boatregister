@@ -6,14 +6,30 @@ mainsail_type: gaff
 short_description: <p>One of two boats build by John Brown based on Slocum&#39;s Spray,
   the other being&nbsp;<a href="https://oga.org.uk/boat/kajan">Kajan</a></p>
 full_description: Was OGA no 1237
+year: 1984
+year_is_approximate: false
 builder:
   name: Built Self
   id: 42e246df-e2bd-4305-9936-e671685668ef
+place_built: Gillingham
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel  Larch planking on larch sawn frames
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+ssr: '37473'
+callsign: ''
+ownerships:
+- name: J Brown
+  share: 64
+  start: 1984
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 009c7cc3-7309-4f89-995d-e3cdf95c18c3
+draft: 0.9144
 handicap_data:
   beam: 3.0480370641306997
   main:
@@ -28,23 +44,7 @@ handicap_data:
   fore_triangle_base: 5.334064862228725
   length_on_waterline: 6.705681541087539
   fore_triangle_height: 7.315288953913679
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 009c7cc3-7309-4f89-995d-e3cdf95c18c3
 length_on_deck: 7.62
-ssr: '37473'
-callsign: ''
-ownerships:
-- name: J Brown
-  share: 64
-  start: 1984
-place_built: Gillingham
-updated_at: '2021-12-19T13:39:05.651411+00:00'
-website: ''
-year: 1984
-year_is_approximate: false
-construction_details: Carvel  Larch planking on larch sawn frames
 beam: 3.048
 for_sale_state:
   text: not_for_sale

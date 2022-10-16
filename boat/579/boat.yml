@@ -8,27 +8,22 @@ full_description: "Trammel was built as a yacht in 1949; her design being based 
   \ Itchen ferry lines. She raced in the early Solent Races winning the Channel Plate\
   \ in 1967. She was kept on the Hamble then. She was taken on a lowloader to Scotland\r\
   \nIn 1991 she was on the Clyde and was undergoing a major refit."
-builder:
-  name: Tormentor Yacht Station
-  id: aba1cbad-f9f4-4c5a-a1c2-8d34c0df528c
+year: 1949
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Tormentor Yacht Station
+  id: aba1cbad-f9f4-4c5a-a1c2-8d34c0df528c
+place_built: Warsash
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.529870763228481
-  draft: 1.3716166788588149
-  length_over_all: 6.461838575957083
-  length_on_waterline: 6.4008778346744695
 home_country: GBR
 home_port: Clyde
 hull_form: long keel deep forefoot
-id: 118da337-9cde-4489-8612-40073a9d7a01
-length_on_deck: 6.4526
 callsign: ''
 ownerships:
 - note: 'Previous owners '
@@ -46,12 +41,18 @@ ownerships:
 - name: G Wilson
   share: 64
   start: 1991
-place_built: Warsash
-updated_at: '2021-12-19T13:38:46.372691+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1949
-year_is_approximate: false
+id: 118da337-9cde-4489-8612-40073a9d7a01
 image_key: SkVNjs
+thumb: https://photos.smugmug.com/photos/i-fMHj9px/0/Th/i-fMHj9px-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.529870763228481
+  draft: 1.3716166788588149
+  length_over_all: 6.461838575957083
+  length_on_waterline: 6.4008778346744695
+length_on_deck: 6.4526
 beam: 2.5146
 for_sale_state:
   text: not_for_sale

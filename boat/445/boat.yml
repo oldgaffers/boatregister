@@ -5,17 +5,46 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Colin Archer
-  id: e5fbb6a7-3d4c-4822-b5a6-3e1f1ff28278
+year: 1890
+year_is_approximate: false
 designer:
   name: Colin Archer
   id: 7e919cb2-8404-432d-a57a-3b17cfd38e60
+builder:
+  name: Colin Archer
+  id: e5fbb6a7-3d4c-4822-b5a6-3e1f1ff28278
+place_built: Larvik, Norway
 construction_material: wood
 construction_method: unknown
-draft: 1.777
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+uk_part1: '168445'
+callsign: ''
+ownerships:
+- end: 2012
+  name: David Godsal
+  share: 32
+  start: 1951
+- name: David Cox
+  share: 32
+  start: 2012
+- id: 56
+  share: 64
+  member: 1321
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: fb09a8c0-c037-4ed2-97d6-ed7ee25cf8c6
+previous_names:
+- Noreg II
+- Fantom
+image_key: Hq4pqm
+thumb: https://photos.smugmug.com/photos/i-MVb85sW/0/Th/i-MVb85sW-Th.jpg
+draft: 1.777
 handicap_data:
   beam: 3.3528407705437697
   main:
@@ -33,35 +62,7 @@ handicap_data:
   fore_triangle_base: 7.300048768593025
   length_on_waterline: 9.936600829066082
   fore_triangle_height: 10.195683979517192
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: fb09a8c0-c037-4ed2-97d6-ed7ee25cf8c6
 length_on_deck: 10.8204
-uk_part1: '168445'
-callsign: ''
-ownerships:
-- end: 2012
-  name: David Godsal
-  share: 32
-  start: 1951
-- name: David Cox
-  share: 32
-  start: 2012
-- id: 56
-  share: 64
-  member: 1321
-  current: true
-  start: '?'
-place_built: Larvik, Norway
-updated_at: '2021-12-19T13:38:42.521132+00:00'
-website: ''
-year: 1890
-year_is_approximate: false
-previous_names:
-- Noreg II
-- Fantom
-image_key: Hq4pqm
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

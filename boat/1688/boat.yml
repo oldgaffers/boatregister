@@ -5,17 +5,36 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: R.E. Powell
-  id: 9605b6a4-19bc-473c-b0cb-2f329aa0bd02
+year: 1988
+year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+builder:
+  name: R.E. Powell
+  id: 9605b6a4-19bc-473c-b0cb-2f329aa0bd02
+place_built: South Woodham Ferrers
 construction_material: woodepoxy
 construction_method: clinker
-draft: 0.381
+construction_details: Multi-chine plywood, lapstrake, epoxy encapsulated timbers
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: South Woodham Ferrers
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: Richard Powell
+  share: 64
+  start: 1993
+- share: 64
+  member: 3034
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3d70e633-a274-42e0-b31b-5c429c53fa8d
+draft: 0.381
 handicap_data:
   beam: 1.9050231650816873
   main:
@@ -32,26 +51,7 @@ handicap_data:
   fore_triangle_base: 2.3622287247012923
   length_on_waterline: 3.8100463301633747
   fore_triangle_height: 3.6576444769568397
-home_country: GBR
-home_port: South Woodham Ferrers
-hull_form: unknown
-id: 3d70e633-a274-42e0-b31b-5c429c53fa8d
 length_on_deck: 4.8006
-callsign: ''
-ownerships:
-- name: Richard Powell
-  share: 64
-  start: 1993
-- share: 64
-  member: 3034
-  current: true
-  start: '?'
-place_built: South Woodham Ferrers
-updated_at: '2021-12-19T13:39:17.866132+00:00'
-website: ''
-year: 1988
-year_is_approximate: false
-construction_details: Multi-chine plywood, lapstrake, epoxy encapsulated timbers
 beam: 1.905
 for_sale_state:
   text: not_for_sale

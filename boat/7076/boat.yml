@@ -5,28 +5,23 @@ rig_type: Cutter
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: Reg Patten
-  id: 688e8fed-6cdc-4ef4-af16-11eef4cfbd8d
+year: 1976
+year_is_approximate: false
 designer:
   name: Seaking
   id: acc16672-b916-4b9b-bbed-0115d69488f3
+builder:
+  name: Reg Patten
+  id: 688e8fed-6cdc-4ef4-af16-11eef4cfbd8d
+place_built: Leigh on Sea
 construction_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clinker iroko on oak bilge keel
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 0.7620092660326749
-  propellor:
-    type: fixed
-  length_over_all: 7.924896366739819
-  length_on_waterline: 2.8956352109241648
 home_country: GBR
 home_port: Brightlingsea
 hull_form: bilge keel
-id: 7d4e73b5-cf3f-4e93-ad6f-3d31b77bb1c4
-length_on_deck: 7.9248
 sail_number: '66'
 ssr: '121528'
 callsign: ''
@@ -34,12 +29,17 @@ ownerships:
 - name: Ian Samways
   share: 64
   start: 2007
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:40:02.293381+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1976
-year_is_approximate: false
-construction_details: Clinker iroko on oak bilge keel
+id: 7d4e73b5-cf3f-4e93-ad6f-3d31b77bb1c4
+draft: 0
+handicap_data:
+  beam: 0.7620092660326749
+  propellor:
+    type: fixed
+  length_over_all: 7.924896366739819
+  length_on_waterline: 2.8956352109241648
+length_on_deck: 7.9248
 beam: 0.762
 design_class:
   name: Sea King 26

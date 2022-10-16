@@ -5,25 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Hebe is a Norfolk Smuggler built in 1999.</p>
 full_description: ''
-builder:
-  name: North Norfolk Boatbuilding Co./Charlie Ward
-  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+year: 1999
+year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+builder:
+  name: North Norfolk Boatbuilding Co./Charlie Ward
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+place_built: Aylesham
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.8626
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.6670324311143623
-  length_over_all: 9.1441111923921
 home_country: GBR
 home_port: Yarmouth I o W
 hull_form: long keel deep forefoot
-id: e3eebf6c-ee14-435f-b0ae-a27cfb55baab
-length_on_deck: 7.62
 callsign: ''
 ownerships:
 - end: 2015
@@ -34,12 +32,14 @@ ownerships:
   member: 5164
   current: true
   start: '?'
-place_built: Aylesham
-updated_at: '2021-12-19T13:39:53.340136+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1999
-year_is_approximate: false
-construction_details: GRP
+id: e3eebf6c-ee14-435f-b0ae-a27cfb55baab
+draft: 0.8626
+handicap_data:
+  beam: 2.6670324311143623
+  length_over_all: 9.1441111923921
+length_on_deck: 7.62
 beam: 2.6914
 design_class:
   name: Norfolk Smuggler

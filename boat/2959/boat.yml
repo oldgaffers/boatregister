@@ -5,17 +5,44 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Built for 1991 Southampton Boat Show, launched Falmouth 1992.</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1992
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.0668
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Salcombe
+hull_form: long keel deep forefoot
+sail_number: P 37
+ssr: '158174'
+callsign: ''
+ownerships:
+- end: 2012
+  name: Giles Gostwick
+  share: 64
+  start: 1992
+- end: 2015
+  name: P and P Budd
+  share: 64
+  start: 2012
+- id: 873
+  share: 64
+  start: 2015
+  member: 5979
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 146f5a4e-29a8-430c-abc2-a54cadac11e2
+draft: 1.0668
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -35,34 +62,7 @@ handicap_data:
   fore_triangle_base: 5.733357717629846
   length_on_waterline: 7.848695440136551
   fore_triangle_height: 8.266276517922458
-home_country: GBR
-home_port: Salcombe
-hull_form: long keel deep forefoot
-id: 146f5a4e-29a8-430c-abc2-a54cadac11e2
 length_on_deck: 9.144
-sail_number: P 37
-ssr: '158174'
-callsign: ''
-ownerships:
-- end: 2012
-  name: Giles Gostwick
-  share: 64
-  start: 1992
-- end: 2015
-  name: P and P Budd
-  share: 64
-  start: 2012
-- id: 873
-  share: 64
-  start: 2015
-  member: 5979
-  current: true
-place_built: Rock
-updated_at: '2021-12-19T13:39:54.609126+00:00'
-website: ''
-year: 1992
-year_is_approximate: false
-construction_details: GRP
 beam: 2.8956
 design_class:
   name: Cornish Crabber Pilot Cutter 30

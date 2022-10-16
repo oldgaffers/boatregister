@@ -5,39 +5,39 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: See paper archive for history of this first of class.
-builder:
-  name: White Samuel and Co. Ltd.
-  id: e47d03d3-fa87-473c-a1fc-15c0fa5279f0
+year: 1921
+year_is_approximate: false
 designer:
   name: James Rennie Barnett
   id: dd11ff0f-2cbf-4eda-a771-3dd1830ba5ba
+builder:
+  name: White Samuel and Co. Ltd.
+  id: e47d03d3-fa87-473c-a1fc-15c0fa5279f0
+place_built: Cowes IoW
 construction_material: wood
 construction_method: double_diagonal
-draft: 0
+construction_details: Mahogany double diagonal
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 4.57205559619605
-  length_over_all: 18.2882223847842
 home_country: 'null'
 home_port: Ramsgate
 hull_form: unknown
-id: 8f234562-ef3a-49ca-8874-f7dd13b4eaf7
-length_on_deck: 18.288
 callsign: ''
 ownerships:
 - name: Alexander Thomson
   share: 64
   start: 2012
-place_built: Cowes IoW
-updated_at: '2021-12-19T13:39:37.31463+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1921
-year_is_approximate: false
+id: 8f234562-ef3a-49ca-8874-f7dd13b4eaf7
 previous_names:
 - Nexus
 - Symphany
-construction_details: Mahogany double diagonal
+draft: 0
+handicap_data:
+  beam: 4.57205559619605
+  length_over_all: 18.2882223847842
+length_on_deck: 18.288
 beam: 4.572
 for_sale_state:
   text: not_for_sale

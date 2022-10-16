@@ -6,14 +6,36 @@ mainsail_type: gaff
 short_description: <p>Rosebud is a Falmout Quay Punt type designed by John Hesp and
   built in steel in 2000</p>
 full_description: ''
+year: 2000
+year_is_approximate: false
 designer:
   name: John Hesp
   id: 8b6dd01b-31b8-4e71-9424-a97a26346595
+place_built: Falmouth
 construction_material: steel
 construction_method: unknown
-draft: 1.143
+construction_details: Steel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Tim Goodingham
+  share: 64
+  start: 2000
+- id: 973
+  share: 64
+  member: 6189
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: acaa9479-0040-4bf1-8640-dd01174cf7fb
+image_key: NndpcZ
+thumb: https://photos.smugmug.com/photos/i-39q9knN/0/Th/i-39q9knN-Th.jpg
+draft: 1.143
 handicap_data:
   main:
     foot: 21
@@ -32,28 +54,7 @@ handicap_data:
   fore_triangle_base: 7.3152
   length_on_waterline: 10.668
   fore_triangle_height: 10.3632
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: acaa9479-0040-4bf1-8640-dd01174cf7fb
 length_on_deck: 10.9728
-callsign: ''
-ownerships:
-- name: Tim Goodingham
-  share: 64
-  start: 2000
-- id: 973
-  share: 64
-  member: 6189
-  current: true
-  start: '?'
-place_built: Falmouth
-updated_at: '2021-12-19T13:40:09.177396+00:00'
-website: ''
-year: 2000
-year_is_approximate: false
-image_key: NndpcZ
-construction_details: Steel
 beam: 3.3528
 for_sale_state:
   text: not_for_sale

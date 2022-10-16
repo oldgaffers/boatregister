@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Being rebuilt. Log 78/1
-builder:
-  name: Pearce and Son
-  id: 30a101ca-7893-45a1-8649-3517f3443491
+year: 1913
+year_is_approximate: false
 designer:
   name: R. Pearce
   id: deff54e9-5012-461b-9ec5-46f494cd606b
+builder:
+  name: Pearce and Son
+  id: 30a101ca-7893-45a1-8649-3517f3443491
+place_built: Looe
 construction_material: wood
 construction_method: carvel
-draft: 1.7282
+construction_details: Carvel larch on sawn oak frames elm keel and garboards.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 78/1
+callsign: ''
+ownerships:
+- name: J Shepperd
+  share: 64
+  start: 1993
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 92993629-6fc9-49ca-80ef-4e1af7d163c6
+draft: 1.7282
 handicap_data:
   beam: 3.910631553279688
   main:
@@ -29,24 +46,7 @@ handicap_data:
   length_over_all: 12.344550109729333
   fore_triangle_base: 8.53450377956596
   length_on_waterline: 11.887344550109729
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 92993629-6fc9-49ca-80ef-4e1af7d163c6
 length_on_deck: 12.3444
-reference:
-- Log 78/1
-callsign: ''
-ownerships:
-- name: J Shepperd
-  share: 64
-  start: 1993
-place_built: Looe
-updated_at: '2021-12-19T13:38:47.765899+00:00'
-website: ''
-year: 1913
-year_is_approximate: false
-construction_details: Carvel larch on sawn oak frames elm keel and garboards.
 beam: 3.9106
 for_sale_state:
   text: not_for_sale

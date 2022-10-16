@@ -5,17 +5,33 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Built as a trawler converted to Yawl and yacht in 1935
-builder:
-  name: A.M. Dickie and Sons
-  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+year: 1932
+year_is_approximate: false
 designer:
   name: A.M. Dickie
   id: e03f87f0-9a2d-4cfc-a685-814bc4757242
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+place_built: Bangor, N Wales
 construction_material: wood
 construction_method: carvel
-draft: 1.9812
+construction_details: Carvel Pitch pine on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+uk_part1: '162070'
+callsign: ''
+ownerships:
+- name: C D Ryan
+  share: 64
+  start: 1990
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7cca4033-1227-4adc-aac8-386c601f796d
+draft: 1.9812
 handicap_data:
   beam: 4.114850036576445
   main:
@@ -40,23 +56,7 @@ handicap_data:
   fore_triangle_base: 8.22970007315289
   length_on_waterline: 11.582540843696659
   fore_triangle_height: 8.22970007315289
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 7cca4033-1227-4adc-aac8-386c601f796d
 length_on_deck: 13.716
-uk_part1: '162070'
-callsign: ''
-ownerships:
-- name: C D Ryan
-  share: 64
-  start: 1990
-place_built: Bangor, N Wales
-updated_at: '2021-12-19T13:39:19.62238+00:00'
-website: ''
-year: 1932
-year_is_approximate: false
-construction_details: Carvel Pitch pine on Oak
 beam: 4.1148
 for_sale_state:
   text: not_for_sale

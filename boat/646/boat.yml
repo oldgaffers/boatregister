@@ -31,17 +31,42 @@ full_description: "<p>In 1975 her owner since 1973 decided to take a look to see
   \ and a large hammer.</p>\r\n\r\n<p>The decks which were yellow pine have been scarfed\
   \ half-inch ply, glass sheathed.</p>\r\n\r\n<p>There&#39;s a bridge deck to accommodate\
   \ the new Petter engine which lives where her companion doors used to be.</p>"
-builder:
-  name: Morgan Giles and May
-  id: 2a40460d-13b2-4a30-99f2-57d37a7f4246
+year: 1912
+year_is_approximate: false
 designer:
   name: Morgan Giles and May
   id: 52aac42f-8b34-432c-933d-96094fc50681
+builder:
+  name: Morgan Giles and May
+  id: 2a40460d-13b2-4a30-99f2-57d37a7f4246
+place_built: Hythe
 construction_material: wood
 construction_method: carvel
-draft: 1.143
+construction_details: Carvel mahogany planking on oak bent frames, copper fastened
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: '646'
+uk_part1: '135646'
+callsign: ''
+ownerships:
+- name: Edward Stevens
+  share: 32
+  start: 1991
+- name: Simon Rowden
+  share: 32
+  start: 1991
+- id: 175
+  share: 64
+  member: 2685
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3e7a3580-babe-4d5c-9547-2a4d9a29d73f
+draft: 1.143
 handicap_data:
   beam: 2.3876493538161423
   main:
@@ -62,32 +87,7 @@ handicap_data:
   fore_triangle_base: 3.6972689587905387
   length_on_waterline: 7.11209461107047
   fore_triangle_height: 7.315288953913679
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 3e7a3580-babe-4d5c-9547-2a4d9a29d73f
 length_on_deck: 7.7724
-sail_number: '646'
-uk_part1: '135646'
-callsign: ''
-ownerships:
-- name: Edward Stevens
-  share: 32
-  start: 1991
-- name: Simon Rowden
-  share: 32
-  start: 1991
-- id: 175
-  share: 64
-  member: 2685
-  current: true
-  start: '?'
-place_built: Hythe
-updated_at: '2021-12-19T13:38:48.310152+00:00'
-website: ''
-year: 1912
-year_is_approximate: false
-construction_details: Carvel mahogany planking on oak bent frames, copper fastened
 beam: 2.3866
 for_sale_state:
   text: not_for_sale

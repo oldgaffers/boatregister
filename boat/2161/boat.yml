@@ -5,26 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log S-S/95, S-A/95, See CB Sept 04.
-builder:
-  name: Dan Webb
-  id: 10519115-4641-4b89-8e3a-47b27aae16e6
+year: 1936
+year_is_approximate: false
 designer:
   name: Dan Webb
   id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
+builder:
+  name: Dan Webb
+  id: 10519115-4641-4b89-8e3a-47b27aae16e6
+place_built: Maldon
 construction_material: wood
 construction_method: unknown
-draft: 0.9144
+construction_details: Larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.0330407217751767
-  draft: 0.9144111192392099
-  length_over_all: 5.6388685686417945
 home_country: 'null'
 home_port: Dublin Bay
 hull_form: unknown
-id: 6f423852-a349-4af3-92d0-49707e2fa82c
-length_on_deck: 5.6388
 reference:
 - Log S-S/95
 - Log S-A/95
@@ -34,12 +31,15 @@ ownerships:
 - name: Michael Howes
   share: 64
   start: 2012
-place_built: Maldon
-updated_at: '2021-12-19T13:39:30.943619+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1936
-year_is_approximate: false
-construction_details: Larch on oak
+id: 6f423852-a349-4af3-92d0-49707e2fa82c
+draft: 0.9144
+handicap_data:
+  beam: 2.0330407217751767
+  draft: 0.9144111192392099
+  length_over_all: 5.6388685686417945
+length_on_deck: 5.6388
 beam: 2.033
 for_sale_state:
   text: not_for_sale

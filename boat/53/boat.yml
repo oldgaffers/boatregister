@@ -6,32 +6,26 @@ mainsail_type: gaff
 short_description: ''
 full_description: Lloyds Yacht Register from 1886 to 1965. Mentioned in Wherries &
   Waterways by R Maltster. Log 70/1
-builder:
-  name: J.E. Wilkins
-  id: 7698e261-23a5-478f-b389-68f771c3b5d1
+year: 1886
+year_is_approximate: false
 designer:
   name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
+builder:
+  name: J.E. Wilkins
+  id: 7698e261-23a5-478f-b389-68f771c3b5d1
+place_built: Wivenhoe
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.4935
+construction_details: pitch pine on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.1641063155327966
-  draft: 1.493538161424043
-  propellor:
-    type: fixed
-  length_over_all: 7.863935625457206
-  length_on_waterline: 6.919044135576688
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 9a64ba10-1d01-4204-ba10-0c03b3fc4fcc
-length_on_deck: 7.8638
 reference:
 - Log 70/1
-spar_material: wood
 callsign: ''
 ownerships:
 - name: J J Clay
@@ -42,13 +36,20 @@ ownerships:
   member: 1819
   current: true
   start: '?'
-place_built: Wivenhoe
-updated_at: '2021-12-19T13:38:31.238437+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1886
-year_is_approximate: false
+id: 9a64ba10-1d01-4204-ba10-0c03b3fc4fcc
 image_key: DDbLh2
-construction_details: pitch pine on oak
+thumb: https://photos.smugmug.com/photos/i-s4cShn8/0/Th/i-s4cShn8-Th.jpg
+draft: 1.4935
+handicap_data:
+  beam: 2.1641063155327966
+  draft: 1.493538161424043
+  propellor:
+    type: fixed
+  length_over_all: 7.863935625457206
+  length_on_waterline: 6.919044135576688
+length_on_deck: 7.8638
 beam: 2.1641
 for_sale_state:
   text: not_for_sale

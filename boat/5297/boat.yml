@@ -7,27 +7,22 @@ short_description: <p>'Merlin' was a Falmouth Quay Punt, converted to a yacht. A
   Chris Beane sold her the new owner embarked on a major refit but never completed
   it.</p><p>Broken up in 2019.</p>
 full_description: ''
-builder:
-  name: F. Jackett
-  id: 28bf1278-5cdb-4856-86c0-0de7e34ec288
+year: 1914
+year_is_approximate: false
 designer:
   name: Harley Mead
   id: 25412902-8c25-4fd2-8023-2f506c99a366
+builder:
+  name: F. Jackett
+  id: 28bf1278-5cdb-4856-86c0-0de7e34ec288
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 2.0818
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.169958546695928
-  draft: 2.0726652036088757
-  length_over_all: 9.692757863935626
-  length_on_waterline: 9.509875640087783
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: e1898912-e985-4ee0-9f1a-c12c32995074
-length_on_deck: 9.7018
 callsign: ''
 ownerships:
 - end: 2014
@@ -38,12 +33,18 @@ ownerships:
   name: Chris Beane
   share: 32
   start: 2007
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:59.884373+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1914
-year_is_approximate: false
+id: e1898912-e985-4ee0-9f1a-c12c32995074
 image_key: zjDqtf
+thumb: https://photos.smugmug.com/photos/i-cw4jMVB/0/Th/i-cw4jMVB-Th.jpg
+draft: 2.0818
+handicap_data:
+  beam: 3.169958546695928
+  draft: 2.0726652036088757
+  length_over_all: 9.692757863935626
+  length_on_waterline: 9.509875640087783
+length_on_deck: 9.7018
 beam: 3.176
 for_sale_state:
   text: not_for_sale

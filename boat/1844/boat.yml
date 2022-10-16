@@ -5,17 +5,38 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log Au/93
-builder:
-  name: Frinoot Nelson
-  id: 21c29f44-267a-46e6-84e5-c6754128b56f
+year: 1938
+year_is_approximate: false
 designer:
   name: Aaron Utzoni
   id: 993c3854-add6-430f-b567-25ba6c06c1fe
+builder:
+  name: Frinoot Nelson
+  id: 21c29f44-267a-46e6-84e5-c6754128b56f
+place_built: Lynaes, Denmark
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.7678
+construction_details: Carvel larch on oak, iron keel and fastenings
 engine_installations: []
 for_sales: []
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log Aug 93
+ssr: '36743'
+uk_part1: '184479'
+callsign: ''
+ownerships:
+- name: T C Spooner
+  share: 64
+  start: 1989
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0ddf3146-5a24-4659-8d48-9dc0608aa523
+previous_names:
+- Gaily
+draft: 1.7678
 handicap_data:
   beam: 3.2613996586198484
   main:
@@ -36,28 +57,7 @@ handicap_data:
   fore_triangle_base: 4.724457449402585
   length_on_waterline: 9.967081199707389
   fore_triangle_height: 10.515727871250913
-home_port: ''
-hull_form: long keel deep forefoot
-id: 0ddf3146-5a24-4659-8d48-9dc0608aa523
 length_on_deck: 11.43
-reference:
-- Log Aug 93
-spar_material: wood
-ssr: '36743'
-uk_part1: '184479'
-callsign: ''
-ownerships:
-- name: T C Spooner
-  share: 64
-  start: 1989
-place_built: Lynaes, Denmark
-updated_at: '2021-12-19T13:39:21.904645+00:00'
-website: ''
-year: 1938
-year_is_approximate: false
-previous_names:
-- Gaily
-construction_details: Carvel larch on oak, iron keel and fastenings
 beam: 3.2614
 for_sale_state:
   text: not_for_sale

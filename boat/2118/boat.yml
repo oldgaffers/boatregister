@@ -5,37 +5,37 @@ rig_type: Yawl
 mainsail_type: lug
 short_description: ''
 full_description: ''
-builder:
-  name: Honnor Marine Ltd.
-  id: 2e1683ac-2223-480f-9412-be351f564ae9
+year: 1978
+year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+builder:
+  name: Honnor Marine Ltd.
+  id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes
 construction_material: wood
 construction_method: unknown
-draft: 0.9144
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.7678614971958058
-  draft: 0.9144111192392099
-  length_over_all: 4.724457449402585
-  length_on_waterline: 4.1453304072177515
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: edb3372e-9baf-483e-ac19-982a8461af99
-length_on_deck: 4.7244
 callsign: ''
 ownerships:
 - name: B Guttridge
   share: 64
   start: 2012
-place_built: Totnes
-updated_at: '2021-12-19T13:39:29.868128+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1978
-year_is_approximate: false
+id: edb3372e-9baf-483e-ac19-982a8461af99
+draft: 0.9144
+handicap_data:
+  beam: 1.7678614971958058
+  draft: 0.9144111192392099
+  length_over_all: 4.724457449402585
+  length_on_waterline: 4.1453304072177515
+length_on_deck: 4.7244
 beam: 1.7678
 for_sale_state:
   text: not_for_sale

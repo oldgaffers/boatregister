@@ -5,27 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 82/4, 83/2
-builder:
-  name: W.E. Thomas
-  id: a9e83f1e-565e-4568-b052-7a492147a30d
+year: 1900
+year_is_approximate: false
 designer:
   name: W.E. Thomas
   id: 3f7b6145-a556-462d-a51f-11d24c3f94db
+builder:
+  name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 1.463
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  draft: 1.4630577907827358
-  length_over_all: 7.924896366739819
-  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 08c34f19-261a-4358-9cdc-5f5127f07b11
-length_on_deck: 7.9248
 reference:
 - Log 82/4
 - Log 83/2
@@ -34,11 +29,16 @@ ownerships:
 - name: D T Godfrey
   share: 64
   start: 2012
-place_built: Falmouth
-updated_at: '2021-12-19T13:38:49.622906+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1900
-year_is_approximate: false
+id: 08c34f19-261a-4358-9cdc-5f5127f07b11
+draft: 1.463
+handicap_data:
+  beam: 2.590831504511095
+  draft: 1.4630577907827358
+  length_over_all: 7.924896366739819
+  length_on_waterline: 7.315288953913679
+length_on_deck: 7.9248
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

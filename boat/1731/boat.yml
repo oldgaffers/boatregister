@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Built by Cornish Crabbers in 1992 she is a Cornish Pilot Cutter.</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 1990
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.143
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Chichester
+hull_form: long keel sloping forefoot
+sail_number: P23
+ssr: '49095'
+callsign: ''
+ownerships:
+- id: 38
+  share: 64
+  start: 2022
+  member: 954
+  current: true
+updated_at: '2022-09-20T07:03:19.198415+00:00'
+website: ''
+id: a06c766d-7726-4b93-8741-07bc00675c36
+draft: 1.143
 handicap_data:
   beam: 2.8956352109241648
   main:
@@ -33,27 +53,7 @@ handicap_data:
   fore_triangle_base: 5.7912704218483295
   length_on_waterline: 7.848695440136551
   fore_triangle_height: 8.458302852962692
-home_country: 'null'
-home_port: Chichester
-hull_form: long keel sloping forefoot
-id: a06c766d-7726-4b93-8741-07bc00675c36
 length_on_deck: 9.144
-sail_number: P23
-spar_material: wood
-ssr: '49095'
-callsign: ''
-ownerships:
-- id: 38
-  share: 64
-  start: 2022
-  member: 954
-  current: true
-place_built: Rock
-updated_at: '2022-09-20T07:03:19.198415+00:00'
-website: ''
-year: 1990
-year_is_approximate: false
-construction_details: GRP
 beam: 2.8956
 design_class:
   name: Cornish Crabber Pilot Cutter 30

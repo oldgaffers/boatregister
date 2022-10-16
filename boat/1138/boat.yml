@@ -4,21 +4,15 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1952
+year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-draft: 0.1768
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.3716166788588149
-  draft: 0.18288222384784197
-  length_over_all: 3.7186052182394533
-  length_on_waterline: 3.596683735674226
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: f72a5db3-c814-466d-8998-36b1725c0b6a
-length_on_deck: 3.7094
 callsign: ''
 ownerships:
 - id: 41
@@ -26,10 +20,16 @@ ownerships:
   start: 2012
   member: 1106
   current: true
-updated_at: '2021-12-19T13:39:02.67839+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1952
-year_is_approximate: false
+id: f72a5db3-c814-466d-8998-36b1725c0b6a
+draft: 0.1768
+handicap_data:
+  beam: 1.3716166788588149
+  draft: 0.18288222384784197
+  length_over_all: 3.7186052182394533
+  length_on_waterline: 3.596683735674226
+length_on_deck: 3.7094
 beam: 1.3716
 for_sale_state:
   text: not_for_sale

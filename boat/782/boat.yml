@@ -5,14 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Converted to yacht 1950 Log 80/2, 80/3, 81/1
+year: 1890
+year_is_approximate: false
 builder:
   name: White Bros.
   id: 67ee9852-ec68-4e03-9b49-5c459cb934bf
+place_built: St Ives
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Carvel pine on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+reference:
+- Log 80/2
+- Log 80/3
+- Log 81/1
+callsign: ''
+ownerships:
+- name: Charles Maclean
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4b191837-9938-4fc1-893a-a74d87dd794c
+draft: 1.2192
 handicap_data:
   beam: 2.529870763228481
   main:
@@ -25,26 +44,7 @@ handicap_data:
   fore_triangle_base: 4.419653742989515
   length_on_waterline: 6.858083394294074
   fore_triangle_height: 7.467690807120214
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 4b191837-9938-4fc1-893a-a74d87dd794c
 length_on_deck: 7.0104
-reference:
-- Log 80/2
-- Log 80/3
-- Log 81/1
-callsign: ''
-ownerships:
-- name: Charles Maclean
-  share: 64
-  start: 2012
-place_built: St Ives
-updated_at: '2021-12-19T13:38:52.15189+00:00'
-website: ''
-year: 1890
-year_is_approximate: false
-construction_details: Carvel pine on oak
 beam: 2.5298
 for_sale_state:
   text: not_for_sale

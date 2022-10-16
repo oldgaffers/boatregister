@@ -14,17 +14,44 @@ full_description: "<p>Retired from fishing in 1961, she was converted to a motor
   \n\r\n<p>In 2012 she took part in the Queen&#39;s Jubilee Pageant in company with\
   \ other Dunkirk Little Ships as reported in <a href=\"http://www.classicboat.co.uk/queens-pageant/dunkirk-little-ships-the-queens-pageant/\"\
   \ target=\"_blank\">Classic Boat Magazine</a>.</p>"
-builder:
-  name: Percy G. Mitchell
-  id: a9a42e1a-3c2c-4137-9c49-31d250504b41
+year: 1925
+year_is_approximate: false
 designer:
   name: Percy G. Mitchell
   id: 5f19fc16-706a-4add-a80a-67ab97c4c002
+builder:
+  name: Percy G. Mitchell
+  id: a9a42e1a-3c2c-4137-9c49-31d250504b41
+place_built: Portmellon Mevagissey
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel Pitch Pine on Oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Woodbridge
+hull_form: long keel deep forefoot
+sail_number: PZ61
+callsign: ''
+ownerships:
+- note: 'Sold to John Orchard of Porthleven in 1935. After the Second World War, she
+    was sold to Jack Siley, chairman of Falmouth Docks. '
+  text: Sold to John Orchard of Porthleven in
+  start: 1935
+  start_is_approximate: false
+- id: 191
+  share: 64
+  start: 1963
+  member: 2790
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: b47768dd-a361-420f-b971-54dace80382a
+previous_names:
+- Westward
+image_key: fMkpB6
+thumb: https://photos.smugmug.com/photos/i-CXPCx36/0/Th/i-CXPCx36-Th.jpg
+draft: 1.524
 handicap_data:
   beam: 4.1148
   main:
@@ -43,33 +70,7 @@ handicap_data:
   fore_triangle_base: 2.1336
   length_on_waterline: 11.2776
   fore_triangle_height: 5.1816
-home_country: GBR
-home_port: Woodbridge
-hull_form: long keel deep forefoot
-id: b47768dd-a361-420f-b971-54dace80382a
 length_on_deck: 11.5824
-sail_number: PZ61
-callsign: ''
-ownerships:
-- note: 'Sold to John Orchard of Porthleven in 1935. After the Second World War, she
-    was sold to Jack Siley, chairman of Falmouth Docks. '
-  text: Sold to John Orchard of Porthleven in
-  start: 1935
-  start_is_approximate: false
-- id: 191
-  share: 64
-  start: 1963
-  member: 2790
-  current: true
-place_built: Portmellon Mevagissey
-updated_at: '2021-12-19T13:39:13.212377+00:00'
-website: ''
-year: 1925
-year_is_approximate: false
-previous_names:
-- Westward
-image_key: fMkpB6
-construction_details: Carvel Pitch Pine on Oak
 beam: 4.1148
 for_sale_state:
   text: not_for_sale

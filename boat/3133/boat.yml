@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: 9 Cooper 6 tonners built at Conyer 4 still afloat one in San Fransico
-builder:
-  name: Charles Cooper
-  id: 51f6e6af-f15d-48f9-a636-c09098a9937d
+year: 1936
+year_is_approximate: false
 designer:
   name: A. Bellingham
   id: bc7fd1d2-faab-498a-b029-acf001d8a9ff
+builder:
+  name: Charles Cooper
+  id: 51f6e6af-f15d-48f9-a636-c09098a9937d
+place_built: Conyer Wharf
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel oak sawn frames pitchpine hull pine deck
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- name: Mr Pugh
+  share: 64
+  start: 0
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8067ebe3-6af4-410e-8a0c-3093fe3c817e
+previous_names:
+- Spindrift of Teyham
+draft: 1.3716
 handicap_data:
   beam: 2.43842965130456
   draft: 1.3716288710070714
@@ -25,24 +42,7 @@ handicap_data:
   length_over_all: 8.68691782492075
   length_over_spars: 8.68691782492075
   length_on_waterline: 6.705681541087539
-home_country: 'null'
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 8067ebe3-6af4-410e-8a0c-3093fe3c817e
 length_on_deck: 8.6868
-callsign: ''
-ownerships:
-- name: Mr Pugh
-  share: 64
-  start: 0
-place_built: Conyer Wharf
-updated_at: '2021-12-19T13:39:58.860393+00:00'
-website: ''
-year: 1936
-year_is_approximate: false
-previous_names:
-- Spindrift of Teyham
-construction_details: Carvel oak sawn frames pitchpine hull pine deck
 beam: 2.4384
 design_class:
   name: Cooper 6 Tonner

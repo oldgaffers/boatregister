@@ -5,25 +5,22 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: ''
 full_description: Log 87/1, 87/2 CB Feb 92
-builder:
-  name: R.S. Burt and Son
-  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+year: 1925
+year_is_approximate: false
 designer:
   name: R.S. Burt
   id: 3a2bf172-f648-44a1-af0f-0598af8b960b
+builder:
+  name: R.S. Burt and Son
+  id: 034f4f9b-6334-45d7-a0b3-5116da588b30
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  length_over_all: 7.772494513533284
 home_country: 'null'
 home_port: West Mersea
 hull_form: unknown
-id: d0b36eac-0f37-4a99-8be3-99bee1b4f564
-length_on_deck: 7.7724
 reference:
 - Log 87/1
 - Log 87/2
@@ -33,11 +30,14 @@ ownerships:
 - name: Robert Bassi
   share: 64
   start: 2012
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:17.002394+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1925
-year_is_approximate: false
+id: d0b36eac-0f37-4a99-8be3-99bee1b4f564
+draft: 0
+handicap_data:
+  beam: 2.590831504511095
+  length_over_all: 7.772494513533284
+length_on_deck: 7.7724
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

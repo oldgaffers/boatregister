@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Boomless main
-builder:
-  name: Grand Largue
-  id: 067d0b46-5c84-45a5-8c92-e62df2308f88
+year: 2006
+year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+builder:
+  name: Grand Largue
+  id: 067d0b46-5c84-45a5-8c92-e62df2308f88
+place_built: Calorgen, Dinan
 construction_material: wood
 construction_method: clinker_ply
-draft: 0.1524
+construction_details: Clinker ply
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: London
+hull_form: unknown
+sail_number: '19'
+ssr: '123664'
+callsign: ''
+ownerships:
+- name: Nick Floyer
+  share: 64
+  start: 2006
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0bbce418-dfb9-40db-a584-558bd7dc9de7
+draft: 0.1524
 handicap_data:
   beam: 1.5484028285783955
   main:
@@ -28,24 +45,7 @@ handicap_data:
   fore_triangle_base: 1.6002194586686174
   length_on_waterline: 4.367837112899292
   fore_triangle_height: 3.8100463301633747
-home_country: 'null'
-home_port: London
-hull_form: unknown
-id: 0bbce418-dfb9-40db-a584-558bd7dc9de7
 length_on_deck: 4.6482
-sail_number: '19'
-ssr: '123664'
-callsign: ''
-ownerships:
-- name: Nick Floyer
-  share: 64
-  start: 2006
-place_built: Calorgen, Dinan
-updated_at: '2021-12-19T13:39:49.866896+00:00'
-website: ''
-year: 2006
-year_is_approximate: false
-construction_details: Clinker ply
 beam: 1.5484
 for_sale_state:
   text: not_for_sale

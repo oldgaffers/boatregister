@@ -7,34 +7,23 @@ short_description: <p>&#39;Anna Ellidi&#39; is a Nobby, fishing no. BW111, built
   a yacht and only used for fishing in WWI</p>
 full_description: <p>&#39;Anna Ellidi&#39; had a new deck around 2003 and new engine
   around 2012. In 2015 she sailed around the UK.</p>
-builder:
-  name: Anderson William and Sons
-  id: 2bcba7b6-1394-4d4b-b67a-c2ae394f7eea
+year: 1912
+year_is_approximate: false
 designer:
   name: Vincent Anderson
   id: dcd4b284-2d5b-47ae-b97e-06178e2f1bd5
+builder:
+  name: Anderson William and Sons
+  id: 2bcba7b6-1394-4d4b-b67a-c2ae394f7eea
+place_built: Millom, Barrow in Furness
 construction_material: wood
 construction_method: carvel
-draft: 1.6246
+construction_details: Carvel, pitch pine on oak, teak deck
 engine_installations: []
 for_sales: []
-handicap_data:
-  main:
-    foot: 23
-    head: 19
-    luff: 19
-  sailarea: 11
-  length_overall: 11.5824
-  calculated_thcf: 1.059
-  length_over_spars: 15.8496
-  fore_triangle_base: 7.0104
-  length_on_waterline: 10.0584
-  fore_triangle_height: 11.7866
 home_country: GBR
 home_port: Port Penrhyn Bangor
 hull_form: long keel sloping forefoot
-id: 697d724d-9d24-42a2-b121-2de633c5377e
-length_on_deck: 11.5824
 ssr: '150215'
 uk_part1: '125908'
 callsign: ''
@@ -47,15 +36,27 @@ ownerships:
   member: 6046
   current: true
   start: '?'
-place_built: Millom, Barrow in Furness
-updated_at: '2021-12-19T13:40:06.72362+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1912
-year_is_approximate: false
+id: 697d724d-9d24-42a2-b121-2de633c5377e
 previous_names:
 - Ellidi
 image_key: 64nZ7W
-construction_details: Carvel, pitch pine on oak, teak deck
+thumb: https://photos.smugmug.com/photos/i-f5XvNMt/0/Th/i-f5XvNMt-Th.jpg
+draft: 1.6246
+handicap_data:
+  main:
+    foot: 23
+    head: 19
+    luff: 19
+  sailarea: 11
+  length_overall: 11.5824
+  calculated_thcf: 1.059
+  length_over_spars: 15.8496
+  fore_triangle_base: 7.0104
+  length_on_waterline: 10.0584
+  fore_triangle_height: 11.7866
+length_on_deck: 11.5824
 beam: 3.2004
 for_sale_state:
   text: not_for_sale

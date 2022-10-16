@@ -6,17 +6,33 @@ mainsail_type: gaff
 short_description: ''
 full_description: Gunter rigged John Leather design of 1940/45, as a raceing day boat,
   Surprise built in 1997 from original plans Previous owner Robert Harris
-builder:
-  name: North Norfolk Boat Building Co.
-  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
+year: 1997
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: North Norfolk Boat Building Co.
+  id: da7cf47d-6570-4d9f-bdc3-94a328ab6c23
 construction_material: wood
 construction_method: clinker
-draft: 1.524
+construction_details: Clinker mahogany on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bradwell on Sea
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: John R Harris
+  share: 64
+  start: 1999
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 918e4839-5269-4d49-8539-81f9dbf804c8
+previous_names:
+- Black Betty
+draft: 1.524
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -28,23 +44,7 @@ handicap_data:
   fore_triangle_base: 2.0330407217751767
   length_on_waterline: 5.334064862228725
   fore_triangle_height: 4.87685930260912
-home_country: 'null'
-home_port: Bradwell on Sea
-hull_form: unknown
-id: 918e4839-5269-4d49-8539-81f9dbf804c8
 length_on_deck: 5.4864
-callsign: ''
-ownerships:
-- name: John R Harris
-  share: 64
-  start: 1999
-updated_at: '2021-12-19T13:39:37.542888+00:00'
-website: ''
-year: 1997
-year_is_approximate: false
-previous_names:
-- Black Betty
-construction_details: Clinker mahogany on oak
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

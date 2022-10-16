@@ -17,28 +17,25 @@ full_description: "<p>Built 1910, &#39;Ruby&#39; is a classic half-decker. LOA 2
   \ fast boat, won Quiver Trophy (Class 3) in 1973 OGA Solent Annual Race&#39;.</p>\r\
   \n\r\n<p>Racing with the OGA on&nbsp;the East Coast during the 1980s she was 2nd\
   \ in Class 2 in 1982 and first in the class in 1983.</p>"
-builder:
-  name: Coombes Boatyard
-  id: 0f386410-e8a6-40af-ba85-11b7eab5be1b
+year: 1910
+year_is_approximate: false
 designer:
   name: Charles E. Nicholson
   id: f97b2d74-8535-4ed5-8602-651d2ca2898f
+builder:
+  name: Coombes Boatyard
+  id: 0f386410-e8a6-40af-ba85-11b7eab5be1b
+place_built: Bosham
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel Pitch Pine on Steamed Oak  Keelbolts removed and cascover
+  sheathed 1975 by Tylors of Tunbridge Wells.
 engine_installations: []
 for_sales:
 - asking_price: 2950
-handicap_data:
-  beam: 1.8288222384784198
-  draft: 1.014996342355523
-  length_over_all: 6.858083394294074
-  length_on_waterline: 5.4864667154352595
 home_country: GBR
 home_port: West Mersea
 hull_form: unknown
-id: 77e9c12a-e6b3-4180-8574-5886e03f223b
-length_on_deck: 6.858
 sail_number: '147'
 callsign: ''
 ownerships:
@@ -60,16 +57,20 @@ ownerships:
   name: P W Rowe
   share: 64
   start: 2012
-place_built: Bosham
-updated_at: '2021-12-19T13:38:33.888919+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1910
-year_is_approximate: false
+id: 77e9c12a-e6b3-4180-8574-5886e03f223b
 previous_names:
 - Alan
 image_key: 8pTmhb
-construction_details: Carvel Pitch Pine on Steamed Oak  Keelbolts removed and cascover
-  sheathed 1975 by Tylors of Tunbridge Wells.
+thumb: https://photos.smugmug.com/photos/i-mPLMsTk/0/Th/i-mPLMsTk-Th.jpg
+draft: 0.9144
+handicap_data:
+  beam: 1.8288222384784198
+  draft: 1.014996342355523
+  length_over_all: 6.858083394294074
+  length_on_waterline: 5.4864667154352595
+length_on_deck: 6.858
 beam: 1.6764
 design_class:
   name: Bembridge Redwing

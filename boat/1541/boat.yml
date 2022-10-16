@@ -5,38 +5,38 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Design no 514
-builder:
-  name: Nunns Bros.
-  id: 3e33b64a-fbb4-4868-aef6-3dc065f20ae8
+year: 1953
+year_is_approximate: false
 designer:
   name: Francis J. Jones
   id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
+builder:
+  name: Nunns Bros.
+  id: 3e33b64a-fbb4-4868-aef6-3dc065f20ae8
+place_built: Waldringfield
 construction_material: wood
 construction_method: clinker
-draft: 0.6858
+construction_details: Clinker larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.6426481346013166
-  draft: 0.6858083394294074
-  length_over_all: 7.976712996830042
-  length_on_waterline: 7.467690807120214
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: a35643bf-78d2-4d4d-8d62-b6732e409f0e
-length_on_deck: 7.9766
 callsign: ''
 ownerships:
 - name: M Steer
   share: 64
   start: 2012
-place_built: Waldringfield
-updated_at: '2021-12-19T13:39:14.278935+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1953
-year_is_approximate: false
-construction_details: Clinker larch on oak
+id: a35643bf-78d2-4d4d-8d62-b6732e409f0e
+draft: 0.6858
+handicap_data:
+  beam: 2.6426481346013166
+  draft: 0.6858083394294074
+  length_over_all: 7.976712996830042
+  length_on_waterline: 7.467690807120214
+length_on_deck: 7.9766
 beam: 2.6426
 for_sale_state:
   text: not_for_sale

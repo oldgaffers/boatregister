@@ -5,24 +5,19 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 69/5
+year: 1917
+year_is_approximate: false
 designer:
   name: J. Walters
   id: 0ca977a6-9f7a-4f26-a3bd-0654e5b99656
+place_built: Milford Haven
 construction_material: wood
 construction_method: unknown
-draft: 1.3106
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.2250670568154107
-  draft: 1.3106559375762008
-  length_over_all: 8.382101926359423
-  length_on_waterline: 7.010485247500609
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 4feb73e2-9682-4216-9c22-662587299802
-length_on_deck: 8.382
 reference:
 - Log 69/5
 callsign: ''
@@ -30,11 +25,16 @@ ownerships:
 - name: N Thornber
   share: 64
   start: 2012
-place_built: Milford Haven
-updated_at: '2021-12-19T13:38:35.406667+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1917
-year_is_approximate: false
+id: 4feb73e2-9682-4216-9c22-662587299802
+draft: 1.3106
+handicap_data:
+  beam: 2.2250670568154107
+  draft: 1.3106559375762008
+  length_over_all: 8.382101926359423
+  length_on_waterline: 7.010485247500609
+length_on_deck: 8.382
 beam: 2.225
 for_sale_state:
   text: not_for_sale

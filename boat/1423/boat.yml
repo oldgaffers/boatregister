@@ -4,21 +4,17 @@ generic_type: unknown
 mainsail_type: lug
 short_description: ''
 full_description: ''
+year: 1980
+year_is_approximate: false
+place_built: Paimpol
 construction_material: wood
 construction_method: unknown
-draft: 1.3716
+construction_details: Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.712752987076323
-  draft: 1.3716166788588149
-  length_over_all: 10.05852231163131
-  length_on_waterline: 8.83930748597903
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 988b1dce-eeeb-49f6-820c-9b7e91e68782
-length_on_deck: 10.0584
 callsign: ''
 ownerships:
 - name: Paul Ladyman
@@ -29,12 +25,16 @@ ownerships:
   member: 3123
   current: true
   start: '?'
-place_built: Paimpol
-updated_at: '2021-12-19T13:39:10.87788+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1980
-year_is_approximate: false
-construction_details: Oak
+id: 988b1dce-eeeb-49f6-820c-9b7e91e68782
+draft: 1.3716
+handicap_data:
+  beam: 2.712752987076323
+  draft: 1.3716166788588149
+  length_over_all: 10.05852231163131
+  length_on_waterline: 8.83930748597903
+length_on_deck: 10.0584
 beam: 2.7127
 for_sale_state:
   text: not_for_sale

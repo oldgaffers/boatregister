@@ -5,38 +5,38 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Blondecell
-  id: 59486298-9c7f-4dab-b343-5c96ca6104ea
+year: 1995
+year_is_approximate: false
 designer:
   name: Rock
   id: 292171a7-1f85-4bf3-9e17-68a526872431
+builder:
+  name: Blondecell
+  id: 59486298-9c7f-4dab-b343-5c96ca6104ea
+place_built: Sway, Lymington
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.2436
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.996220434040478
-  draft: 1.2435991221653255
-  length_over_all: 7.620092660326749
-  length_on_waterline: 6.653864910997317
 home_country: 'null'
 home_port: Hamble
 hull_form: unknown
-id: 306e1694-279c-4837-a1f4-680dd081de8f
-length_on_deck: 7.62
 callsign: ''
 ownerships:
 - name: Peter Renninson
   share: 64
   start: 2012
-place_built: Sway, Lymington
-updated_at: '2021-12-19T13:39:35.366134+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1995
-year_is_approximate: false
-construction_details: GRP
+id: 306e1694-279c-4837-a1f4-680dd081de8f
+draft: 1.2436
+handicap_data:
+  beam: 2.996220434040478
+  draft: 1.2435991221653255
+  length_over_all: 7.620092660326749
+  length_on_waterline: 6.653864910997317
+length_on_deck: 7.62
 beam: 2.9962
 for_sale_state:
   text: not_for_sale

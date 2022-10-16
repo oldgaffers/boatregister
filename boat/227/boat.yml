@@ -6,17 +6,33 @@ mainsail_type: gaff
 short_description: <p>Walkabout is a gaff ketch built in Freemantle Australia to a
   John Alden design in 1952.</p>
 full_description: ''
-builder:
-  name: Driscoll Bros.
-  id: 5e65cc07-a771-4cb4-95c6-38cdd75dd2ab
+year: 1952
+year_is_approximate: false
 designer:
   name: John G. Alden
   id: 7ae52563-8658-4911-addd-13e3b72ff1f8
+builder:
+  name: Driscoll Bros.
+  id: 5e65cc07-a771-4cb4-95c6-38cdd75dd2ab
+place_built: Fremantle,WA
 construction_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel Jarrah Fasten with Copper Clench
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Plymouth
+hull_form: long keel deep forefoot
+uk_part1: '140227'
+callsign: ''
+ownerships:
+- name: Clive Ellis
+  share: 64
+  start: 1974
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 43d26728-8b76-47ac-abac-fb7b93c402e0
+draft: 1.8288
 handicap_data:
   beam: 2.8041940990002434
   main:
@@ -37,23 +53,7 @@ handicap_data:
   fore_triangle_base: 4.419653742989515
   length_on_waterline: 8.564984150207266
   fore_triangle_height: 8.077298219946353
-home_country: GBR
-home_port: Plymouth
-hull_form: long keel deep forefoot
-id: 43d26728-8b76-47ac-abac-fb7b93c402e0
 length_on_deck: 10.1102
-uk_part1: '140227'
-callsign: ''
-ownerships:
-- name: Clive Ellis
-  share: 64
-  start: 1974
-place_built: Fremantle,WA
-updated_at: '2021-12-19T13:38:36.202435+00:00'
-website: ''
-year: 1952
-year_is_approximate: false
-construction_details: Carvel Jarrah Fasten with Copper Clench
 beam: 2.795
 for_sale_state:
   text: not_for_sale

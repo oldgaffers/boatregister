@@ -33,18 +33,42 @@ full_description: "<p>A typical East Coast gaff cutter yacht, &#39;Wendy May&#39
   \ the Netherlands. She was described when launched as being &lsquo;dry and well\
   \ able to heave-to, with sitting headroom beneath wide side-decks and with bulwarks\
   \ 9ins high. In short a hard-weather packet.&rsquo;</p>"
-builder:
-  name: Williams and Parkinson
-  id: 28fd53d4-bb37-4584-be38-268a7296d656
+year: 1936
+year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+  name: Williams and Parkinson
+  id: 28fd53d4-bb37-4584-be38-268a7296d656
+place_built: Deganwy, North Wales
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel pitch pine on oak
 engine_installations: []
 for_sales:
 - asking_price: 13500
+home_country: GBR
+home_port: Canvey Island, Essex
+hull_form: long keel deep forefoot
+uk_part1: '166077'
+callsign: ''
+ownerships:
+- end: 2014
+  name: Phil Slade
+  share: 64
+  start: 1996
+- id: 1095
+  share: 64
+  start: 2017
+  member: 6349
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0598dcd7-6fa3-4a27-8bbc-261e99f8b499
+image_key: rQR8nj
+thumb: https://photos.smugmug.com/photos/i-htLnc4V/0/Th/i-htLnc4V-Th.jpg
+draft: 1.3716
 handicap_data:
   beam: 2.590831504511095
   main:
@@ -62,30 +86,7 @@ handicap_data:
   fore_triangle_base: 5.6388685686417945
   length_on_waterline: 7.010485247500609
   fore_triangle_height: 7.162887100707144
-home_country: GBR
-home_port: Canvey Island, Essex
-hull_form: long keel deep forefoot
-id: 0598dcd7-6fa3-4a27-8bbc-261e99f8b499
 length_on_deck: 7.7724
-uk_part1: '166077'
-callsign: ''
-ownerships:
-- end: 2014
-  name: Phil Slade
-  share: 64
-  start: 1996
-- id: 1095
-  share: 64
-  start: 2017
-  member: 6349
-  current: true
-place_built: Deganwy, North Wales
-updated_at: '2021-12-19T13:38:48.726393+00:00'
-website: ''
-year: 1936
-year_is_approximate: false
-image_key: rQR8nj
-construction_details: Carvel pitch pine on oak
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

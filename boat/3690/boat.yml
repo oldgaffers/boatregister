@@ -5,32 +5,33 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>A one-off long-keel auxiliary gaff sloop designed in 1934 but
   only built in 2006.</p>
+year: 2006
+year_is_approximate: false
 designer:
   name: Murray G. Peterson
   id: a2e01005-a9e2-4e11-84f6-26828637d074
+place_built: Fowey
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 0.762
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.92
 home_country: United Kingdom
 home_port: Weymouth
-id: a3be009e-8b48-4e49-92b2-0093036ae894
-length_on_deck: 5.486
-spar_material: wood
 ownerships:
 - id: 34919
   share: 64
   start: 2022
   member: 6519
   current: true
-place_built: Fowey
-updated_at: '2022-02-24T20:35:12.524822+00:00'
-year: 2006
-year_is_approximate: false
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: a3be009e-8b48-4e49-92b2-0093036ae894
 image_key: XgWfGn
+thumb: https://photos.smugmug.com/photos/i-GKPd4sT/0/Th/i-GKPd4sT-Th.jpg
+draft: 0.762
+handicap_data:
+  beam: 1.92
+length_on_deck: 5.486
 air_draft: 11.5
 for_sale_state:
   text: not_for_sale

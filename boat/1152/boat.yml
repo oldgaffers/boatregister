@@ -12,27 +12,23 @@ full_description: Log A-S/95 Owns Eve, for sale Log Sept 04, and on web.  Design
   Dacca, Caribbean Islands, Bahamas, East Coast of Maine to Chesapeake and back to
   Cowes via the Azores. Her present owners have sailed her to Brittany Portugal, Porto
   Santo and the Azores. She is an excellent strong sea kindly boat.
-builder:
-  name: Penarth Boat Building Co.
-  id: 7fdfb977-92d4-4775-8e51-122694185ef8
+year: 1969
+year_is_approximate: false
 designer:
   name: Peter Blandell
   id: 7028d514-131f-4a36-bed7-6520ba0c158f
+builder:
+  name: Penarth Boat Building Co.
+  id: 7fdfb977-92d4-4775-8e51-122694185ef8
+place_built: Penarth
 construction_material: wood
 construction_method: carvel
-draft: 1.6764
+construction_details: Carvel. Larch on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.2004389173372347
-  draft: 1.6764203852718849
-  length_over_all: 10.820531577663983
-  length_on_waterline: 8.83930748597903
 home_country: 'null'
 home_port: Exmouth
 hull_form: unknown
-id: fd301d66-ad57-47dd-bd77-d8ad90e0ea0f
-length_on_deck: 10.8204
 reference:
 - Log A-S/95
 - Log Sep 04
@@ -42,12 +38,16 @@ ownerships:
 - name: Rod Nelson
   share: 64
   start: 2006
-place_built: Penarth
-updated_at: '2021-12-19T13:39:03.117132+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1969
-year_is_approximate: false
-construction_details: Carvel. Larch on oak
+id: fd301d66-ad57-47dd-bd77-d8ad90e0ea0f
+draft: 1.6764
+handicap_data:
+  beam: 3.2004389173372347
+  draft: 1.6764203852718849
+  length_over_all: 10.820531577663983
+  length_on_waterline: 8.83930748597903
+length_on_deck: 10.8204
 beam: 3.2004
 for_sale_state:
   text: not_for_sale

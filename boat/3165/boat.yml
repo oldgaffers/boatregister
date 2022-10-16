@@ -8,17 +8,33 @@ short_description: <p>Dayboat with a cuddy and simple accommodation. Similar to 
 full_description: <p>The Westmacott dayboat has many features similar to a Bembridge
   One design and the Solent Sunbeams, but with the addition of a cuddy and double
   berth.</p>
-builder:
-  name: Woodnutt and Co. Ltd.
-  id: c04e2023-3dc9-4679-9e31-fd807bec3001
+year: 1938
+year_is_approximate: false
 designer:
   name: Alfred J Westmacott
   id: 54a54a45-ffb9-499b-8e78-74c125fcc35f
+builder:
+  name: Woodnutt and Co. Ltd.
+  id: c04e2023-3dc9-4679-9e31-fd807bec3001
+place_built: St Helens Isle of Wight
 construction_material: wood
 construction_method: unknown
-draft: 0.762
+construction_details: Pitch pine on oak timbers
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Chichester
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- end: 2014
+  name: Minnie Brigden
+  share: 32
+  start: 2013
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 31817ad8-522f-4893-a6c3-191af5cce121
+draft: 0.762
 handicap_data:
   sailarea: 6
   moving_keel: true
@@ -27,23 +43,7 @@ handicap_data:
   draft_keel_down: 1.1674
   moving_keel_type: Centreboard
   length_over_spars: 6.9586
-home_country: GBR
-home_port: Chichester
-hull_form: long keel sloping forefoot
-id: 31817ad8-522f-4893-a6c3-191af5cce121
 length_on_deck: 6.9586
-callsign: ''
-ownerships:
-- end: 2014
-  name: Minnie Brigden
-  share: 32
-  start: 2013
-place_built: St Helens Isle of Wight
-updated_at: '2021-12-19T13:40:02.890107+00:00'
-website: ''
-year: 1938
-year_is_approximate: false
-construction_details: Pitch pine on oak timbers
 beam: 2.286
 for_sale_state:
   text: not_for_sale

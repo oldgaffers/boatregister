@@ -5,23 +5,19 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 78/4
+year: 1950
+year_is_approximate: false
 builder:
   name: Estuary Yacht Co.
   id: b60691a7-24a2-4655-92ed-c4b114287899
+place_built: Leigh on Sea
 construction_material: wood
 construction_method: unknown
-draft: 0.762
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.286027798098025
-  draft: 0.7620092660326749
-  length_over_all: 6.705681541087539
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 8eed98a4-6543-485f-a18e-f511d8687f66
-length_on_deck: 6.7056
 reference:
 - Log 78/4
 callsign: ''
@@ -29,11 +25,15 @@ ownerships:
 - name: A M Wakeling
   share: 64
   start: 1978
-place_built: Leigh on Sea
-updated_at: '2021-12-19T13:38:54.904519+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1950
-year_is_approximate: false
+id: 8eed98a4-6543-485f-a18e-f511d8687f66
+draft: 0.762
+handicap_data:
+  beam: 2.286027798098025
+  draft: 0.7620092660326749
+  length_over_all: 6.705681541087539
+length_on_deck: 6.7056
 beam: 2.286
 for_sale_state:
   text: not_for_sale

@@ -53,42 +53,42 @@ full_description: "<p><em>Mersey</em> was one of ten Rivers Class Yachts built b
   \ just before the Second World War or after it, <em>Mersey </em>was &nbsp;moved\
   \ to Pwllheli and then to Aberystwyth. In 1987 she was owned by &nbsp;Gron Davies,\
   \ who mentions that he was restoring her in a letter to the Gaffers Log.</p>"
-builder:
-  name: Wiliam Crossfield and Sons
-  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+year: 1912
+year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Wiliam Crossfield and Sons
+  id: d02ef310-75b8-46ab-8c53-f17b72d64671
+place_built: Arnside
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.0058
+construction_details: Carvel built with counter stern. Pitch pine planks and steamed
+  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 1.0058522311631308
-  length_over_all: 7.010485247500609
-  length_on_waterline: 5.562667642038527
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: 9c294311-1913-47dc-b159-b40c1ac727c4
-length_on_deck: 7.0104
 reference:
 - Log 92/3
-spar_material: wood
 callsign: ''
 ownerships:
 - name: D G Davies
   share: 64
   start: 1985
-place_built: Arnside
-updated_at: '2021-12-19T13:38:41.814901+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1912
-year_is_approximate: false
-construction_details: Carvel built with counter stern. Pitch pine planks and steamed
-  American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
+id: 9c294311-1913-47dc-b159-b40c1ac727c4
+draft: 1.0058
+handicap_data:
+  beam: 2.13362594489149
+  draft: 1.0058522311631308
+  length_over_all: 7.010485247500609
+  length_on_waterline: 5.562667642038527
+length_on_deck: 7.0104
 beam: 2.1336
 design_class:
   name: Rivers Class

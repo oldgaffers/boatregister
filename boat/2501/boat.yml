@@ -5,38 +5,38 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: One of two built. See CB 1988 and April 2003.
-builder:
-  name: C.S. Murley
-  id: fcf41041-a488-4429-83db-268fb1083e56
+year: 1988
+year_is_approximate: false
 designer:
   name: C.S. Murley
   id: c8e21664-fcec-48f3-b279-873dcdd63f60
+builder:
+  name: C.S. Murley
+  id: fcf41041-a488-4429-83db-268fb1083e56
+place_built: Penryn
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.1278
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.0574250182882223
-  draft: 1.127773713728359
-  length_over_all: 7.498171177761522
-  length_on_waterline: 5.6388685686417945
 home_country: 'null'
 home_port: St Columb
 hull_form: unknown
-id: 7da3ced4-8fb1-4bf1-b755-dc75025c68ac
-length_on_deck: 7.4981
 callsign: ''
 ownerships:
 - name: Guy Essex, Tom & James
   share: 64
   start: 2002
-place_built: Penryn
-updated_at: '2021-12-19T13:39:40.871112+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1988
-year_is_approximate: false
-construction_details: GRP
+id: 7da3ced4-8fb1-4bf1-b755-dc75025c68ac
+draft: 1.1278
+handicap_data:
+  beam: 2.0574250182882223
+  draft: 1.127773713728359
+  length_over_all: 7.498171177761522
+  length_on_waterline: 5.6388685686417945
+length_on_deck: 7.4981
 beam: 2.0574
 for_sale_state:
   text: not_for_sale

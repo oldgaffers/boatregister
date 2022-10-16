@@ -5,26 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Sea Daisy is a Tamarisk 24 built in 1981</p>
 full_description: ''
-builder:
-  name: Tamarisk Yachts Ltd
-  id: cb36f930-8457-4c52-a31a-c87825617e5f
+year: 1981
+year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+builder:
+  name: Tamarisk Yachts Ltd
+  id: cb36f930-8457-4c52-a31a-c87825617e5f
+place_built: Fowey
 construction_material: grp
 construction_method: cold_moulded
-draft: 0
+construction_details: Grp
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  length_over_all: 7.315288953913679
-  length_on_waterline: 6.452694464764692
 home_country: GBR
 home_port: ' Cargreen'
 hull_form: unknown
-id: 1cfa4df9-4edd-4c40-b3f2-79e68c2775e2
-length_on_deck: 7.3152
 callsign: ''
 ownerships:
 - id: 625
@@ -32,12 +29,15 @@ ownerships:
   start: 2008
   member: 5344
   current: true
-place_built: Fowey
-updated_at: '2021-12-19T13:39:51.941639+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1981
-year_is_approximate: false
-construction_details: Grp
+id: 1cfa4df9-4edd-4c40-b3f2-79e68c2775e2
+draft: 0
+handicap_data:
+  beam: 2.43842965130456
+  length_over_all: 7.315288953913679
+  length_on_waterline: 6.452694464764692
+length_on_deck: 7.3152
 beam: 2.4384
 design_class:
   name: Tamarisk 24

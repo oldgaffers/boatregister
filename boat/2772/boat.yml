@@ -5,25 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Undergoing restoration from 50 years as housboat 2006.
-builder:
-  name: Watkins and Co. Ltd.
-  id: 8c100874-4799-4967-a239-a5911245057c
+year: 1888
+year_is_approximate: false
 designer:
   name: Kemp Dixon
   id: 2f15bad7-0188-45ab-b833-cc4cdcf439e4
+builder:
+  name: Watkins and Co. Ltd.
+  id: 8c100874-4799-4967-a239-a5911245057c
+place_built: Blackwall
 construction_material: wood
 construction_method: unknown
-draft: 0
+construction_details: Teak and American rock elm on oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.8344306266764203
-  length_over_all: 16.45940014630578
 home_country: GBR
 home_port: Cowes
 hull_form: unknown
-id: a2842e63-bc89-44d4-9c92-bee9f971318d
-length_on_deck: 16.4592
 callsign: ''
 ownerships:
 - id: 508
@@ -31,12 +29,14 @@ ownerships:
   start: 2005
   member: 4768
   current: true
-place_built: Blackwall
-updated_at: '2021-12-19T13:39:48.951868+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1888
-year_is_approximate: false
-construction_details: Teak and American rock elm on oak
+id: a2842e63-bc89-44d4-9c92-bee9f971318d
+draft: 0
+handicap_data:
+  beam: 3.8344306266764203
+  length_over_all: 16.45940014630578
+length_on_deck: 16.4592
 beam: 3.8344
 for_sale_state:
   text: not_for_sale

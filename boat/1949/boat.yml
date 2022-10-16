@@ -5,17 +5,33 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Thomas Cubitt
-  id: e45a9b0e-5600-43dd-a724-54cda79b882e
+year: 1889
+year_is_approximate: false
 designer:
   name: Walter Reeks
   id: a5ae3204-6eae-4cfa-ad7c-4e12d2a2f89d
+builder:
+  name: Thomas Cubitt
+  id: e45a9b0e-5600-43dd-a724-54cda79b882e
+place_built: Sydney Australia
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel Huon Pine
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Sydney
+hull_form: long keel deep forefoot
+sail_number: '49'
+callsign: ''
+ownerships:
+- name: Neville Olliffe
+  share: 64
+  start: 1993
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 27d367be-9132-4440-a3d5-d0213ef823ac
+draft: 1.524
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -33,23 +49,7 @@ handicap_data:
   fore_triangle_base: 5.18166300902219
   length_on_waterline: 6.0960741282613995
   fore_triangle_height: 5.4864667154352595
-home_country: 'null'
-home_port: Sydney
-hull_form: long keel deep forefoot
-id: 27d367be-9132-4440-a3d5-d0213ef823ac
 length_on_deck: 8.5344
-sail_number: '49'
-callsign: ''
-ownerships:
-- name: Neville Olliffe
-  share: 64
-  start: 1993
-place_built: Sydney Australia
-updated_at: '2021-12-19T13:39:25.031368+00:00'
-website: ''
-year: 1889
-year_is_approximate: false
-construction_details: Carvel Huon Pine
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

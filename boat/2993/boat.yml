@@ -8,17 +8,36 @@ full_description: 1st registered as Gerda 1952 de-registered 2002. 1st owner R.G
   Waid. Surveyed May 1990 at LLANOCUM Pems. Abandoned at Rudders Boatyard in 1999.
   Purchased as a restoration project May 2010. At home in mid Wales - no sails or
   rig.
-builder:
-  name: Dixons of Exmouth
-  id: c1257c1f-039c-4828-a962-7bdf68ce82f1
+year: 1952
+year_is_approximate: false
 designer:
   name: Peter Dixon
   id: 9b6ba6f7-c514-4688-a206-6bbf7506632b
+builder:
+  name: Dixons of Exmouth
+  id: c1257c1f-039c-4828-a962-7bdf68ce82f1
+place_built: Exmouth
 construction_material: wood
 construction_method: carvel
-draft: 0.6096
+construction_details: Carvel Timber
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Milford Haven
+hull_form: long keel deep forefoot
+ssr: '145329'
+uk_part1: '167785'
+callsign: ''
+ownerships:
+- name: Ian Jones
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: d68a8775-436f-4772-af93-9b15b8529d30
+previous_names:
+- Gerda
+draft: 0.6096
 handicap_data:
   beam: 2.13362594489149
   draft: 0.60960741282614
@@ -27,26 +46,7 @@ handicap_data:
     blades: 3
   length_over_all: 6.272860277980979
   length_on_waterline: 5.919287978541819
-home_country: 'null'
-home_port: Milford Haven
-hull_form: long keel deep forefoot
-id: d68a8775-436f-4772-af93-9b15b8529d30
 length_on_deck: 6.2728
-ssr: '145329'
-uk_part1: '167785'
-callsign: ''
-ownerships:
-- name: Ian Jones
-  share: 64
-  start: 2012
-place_built: Exmouth
-updated_at: '2021-12-19T13:39:55.574368+00:00'
-website: ''
-year: 1952
-year_is_approximate: false
-previous_names:
-- Gerda
-construction_details: Carvel Timber
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

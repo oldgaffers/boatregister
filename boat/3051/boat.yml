@@ -11,17 +11,37 @@ full_description: "<p>In 1996 Rob and Sue set off around the world in &#39;Barba
   \ Benfleet again, sailing to the Canaries, across the Atlantic, north to USA, New\
   \ York, Hudson River to the Great Lakes, through Chicago, down the Mississippi and\
   \ home again, logging 78,000 miles.</p>"
-builder:
-  name: R.J.H. Hart
-  id: 1a93fcdb-a7d1-4449-bd0c-0a198aa97d48
+year: 1976
+year_is_approximate: false
 designer:
   name: R.J.H. Hart
   id: d80a0f9c-c254-4a9f-ba18-c6b2c8053378
+builder:
+  name: R.J.H. Hart
+  id: 1a93fcdb-a7d1-4449-bd0c-0a198aa97d48
+place_built: Benfleet
 construction_material: ferro
 construction_method: unknown
-draft: 1.9568
+construction_details: Ferrocement
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Benfleet
+hull_form: long keel deep forefoot
+ssr: '1148'
+callsign: ''
+ownerships:
+- id: 672
+  share: 64
+  start: 1976
+  member: 5527
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 8e705996-de84-40eb-9d70-df7340060ef8
+image_key: MBMTv7
+thumb: https://photos.smugmug.com/photos/i-Z96q3XQ/0/Th/i-Z96q3XQ-Th.jpg
+draft: 1.9568
 handicap_data:
   beam: 4.1453304072177515
   main:
@@ -44,26 +64,7 @@ handicap_data:
   fore_triangle_base: 8.177883443062667
   length_on_waterline: 11.582540843696659
   fore_triangle_height: 16.611801999512313
-home_country: GBR
-home_port: Benfleet
-hull_form: long keel deep forefoot
-id: 8e705996-de84-40eb-9d70-df7340060ef8
 length_on_deck: 14.9352
-ssr: '1148'
-callsign: ''
-ownerships:
-- id: 672
-  share: 64
-  start: 1976
-  member: 5527
-  current: true
-place_built: Benfleet
-updated_at: '2021-12-19T13:39:56.834377+00:00'
-website: ''
-year: 1976
-year_is_approximate: false
-image_key: MBMTv7
-construction_details: Ferrocement
 beam: 4.1392
 for_sale_state:
   text: not_for_sale

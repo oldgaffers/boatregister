@@ -6,14 +6,38 @@ mainsail_type: gaff
 short_description: <p>A lovely gaff-rigged dayboat, &#39;Thetis&#39; is a 16ft 6in
   Salterns Tela, built 2004 in GRP with&nbsp;hardwood trim.</p>
 full_description: ''
+year: 2004
+year_is_approximate: false
 builder:
   name: Salterns Boatyard Ltd.
   id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Bursledon
 construction_material: grp
 construction_method: unknown
-draft: 0.4328
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Newton Ferrers
+hull_form: long keel deep forefoot
+sail_number: '8'
+ssr: '130978'
+callsign: ''
+ownerships:
+- end: 2017
+  name: John Guy
+  share: 64
+  start: 2012
+- id: 677
+  share: 64
+  start: 2017
+  member: 5558
+  current: true
+updated_at: '2022-06-11T11:38:56.467473+00:00'
+website: ''
+id: f881f4cb-bc9d-4995-8b0d-02986a3042fe
+image_key: G7xr4q
+thumb: https://photos.smugmug.com/photos/i-XKL7C5k/0/Th/i-XKL7C5k-Th.jpg
+draft: 0.4328
 handicap_data:
   beam: 1.676
   main:
@@ -32,30 +56,7 @@ handicap_data:
   fore_triangle_base: 2.082
   length_on_waterline: 4.801
   fore_triangle_height: 4.471
-home_country: GBR
-home_port: Newton Ferrers
-hull_form: long keel deep forefoot
-id: f881f4cb-bc9d-4995-8b0d-02986a3042fe
 length_on_deck: 5.0292
-sail_number: '8'
-ssr: '130978'
-callsign: ''
-ownerships:
-- end: 2017
-  name: John Guy
-  share: 64
-  start: 2012
-- id: 677
-  share: 64
-  start: 2017
-  member: 5558
-  current: true
-place_built: Bursledon
-updated_at: '2022-06-11T11:38:56.467473+00:00'
-website: ''
-year: 2004
-year_is_approximate: false
-image_key: G7xr4q
 beam: 1.6764
 design_class:
   name: Tela

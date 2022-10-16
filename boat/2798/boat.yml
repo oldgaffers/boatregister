@@ -5,28 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Kingsley Farrington
-  id: 6a3e9e9c-1eea-419a-9417-47a678d6bf11
+year: 2007
+year_is_approximate: false
 designer:
   name: Hope Linton
   id: f238ed22-175a-4b8c-9337-dc58c6619754
+builder:
+  name: Kingsley Farrington
+  id: 6a3e9e9c-1eea-419a-9417-47a678d6bf11
+place_built: Norwich
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP hull wood spars
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.549420872957815
-  draft: 0.9144111192392099
-  length_over_all: 7.315288953913679
-  length_over_spars: 7.543910021945867
-  length_on_waterline: 4.87685930260912
 home_country: GBR
 home_port: Suffolk Yacht Harbour, Levington, River Orwell
 hull_form: cut_away_stem
-id: bfdf628f-65e6-4139-93ec-7adf34900fd4
-length_on_deck: 7.3152
 sail_number: '84'
 callsign: ''
 ownerships:
@@ -39,12 +34,17 @@ ownerships:
   member: 4850
   current: true
   start: '?'
-place_built: Norwich
-updated_at: '2021-12-19T13:39:49.77337+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2007
-year_is_approximate: false
-construction_details: GRP hull wood spars
+id: bfdf628f-65e6-4139-93ec-7adf34900fd4
+draft: 0.9144
+handicap_data:
+  beam: 1.549420872957815
+  draft: 0.9144111192392099
+  length_over_all: 7.315288953913679
+  length_over_spars: 7.543910021945867
+  length_on_waterline: 4.87685930260912
+length_on_deck: 7.3152
 beam: 1.777
 design_class:
   name: Broads One Design

@@ -5,41 +5,42 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Philips
-  id: 9cd9a733-e8e4-4038-8c91-6f37b70dcb49
+year: 1951
+year_is_approximate: false
 designer:
   name: Philips
   id: 064cae67-ed93-4765-a15e-780c837b09f4
+builder:
+  name: Philips
+  id: 9cd9a733-e8e4-4038-8c91-6f37b70dcb49
+place_built: Galmpton, Devon
 construction_material: wood
+spar_material: wood
 construction_method: clinker
-draft: 0.6096
+construction_details: Clinker red African Mahogany on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.777005608388198
-  draft: 0.60960741282614
-  length_over_all: 4.87685930260912
-  length_on_waterline: 4.800658376005852
 home_country: GBR
 home_port: Pyefleet
 hull_form: unknown
-id: 485b8a78-a43d-4300-8136-d3bbf6c0feb8
-length_on_deck: 4.8768
-spar_material: wood
 callsign: ''
 ownerships:
 - end: 2013
   name: A Judd
   share: 64
   start: 1986
-place_built: Galmpton, Devon
-updated_at: '2021-12-19T13:39:09.931145+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1951
-year_is_approximate: false
+id: 485b8a78-a43d-4300-8136-d3bbf6c0feb8
 image_key: PHpLQg
-construction_details: Clinker red African Mahogany on Oak
+thumb: https://photos.smugmug.com/photos/i-mBx2vGk/0/Th/i-mBx2vGk-Th.jpg
+draft: 0.6096
+handicap_data:
+  beam: 1.777005608388198
+  draft: 0.60960741282614
+  length_over_all: 4.87685930260912
+  length_on_waterline: 4.800658376005852
+length_on_deck: 4.8768
 beam: 1.7678
 for_sale_state:
   text: not_for_sale

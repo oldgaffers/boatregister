@@ -7,30 +7,25 @@ short_description: '''Naomh Cronan'' is built from the lines of Galway Hooker, '
   Star''.'
 full_description: Built in 1997, the 'Naomh Cronan' is maintained and sailed by a
   group of men of Clondalkin.
-builder:
-  name: Members of Muintir Cronan
-  id: fbb5836d-420a-4f3c-bfd0-a7eb382ec89b
+year: 1997
+year_is_approximate: false
 designer:
   name: Joe Murphy
   id: 10beb09b-eb0e-4aa4-9e1a-a397a05ee9f2
+builder:
+  name: Members of Muintir Cronan
+  id: fbb5836d-420a-4f3c-bfd0-a7eb382ec89b
+place_built: Clondalkin, Dublin
 construction_material: wood
+spar_material: wood
 construction_method: unknown
-draft: 1.9202
+construction_details: Larch on sawn oak
 engine_installations: []
 for_sales:
 - asking_price: null
-handicap_data:
-  beam: 3.5052426237503047
-  draft: 1.929407461594733
-  propellor:
-    type: fixed
-  length_over_all: 12.192148256522799
 home_country: IRL
 home_port: Dublin
 hull_form: long keel deep forefoot
-id: af099e33-0848-4312-ae12-4b4098eebc71
-length_on_deck: 12.192
-spar_material: wood
 uk_part1: '403600'
 ownerships:
 - end: 2021
@@ -64,13 +59,19 @@ ownerships:
 - name: The Claddagh Boatmen
   share: 64
   start: 2021
-place_built: Clondalkin, Dublin
-updated_at: '2022-01-04T19:03:27.713593+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1997
-year_is_approximate: false
+id: af099e33-0848-4312-ae12-4b4098eebc71
 image_key: 3BmmFR
-construction_details: Larch on sawn oak
+thumb: https://photos.smugmug.com/photos/i-XVLB9HZ/0/Th/i-XVLB9HZ-Th.jpg
+draft: 1.9202
+handicap_data:
+  beam: 3.5052426237503047
+  draft: 1.929407461594733
+  propellor:
+    type: fixed
+  length_over_all: 12.192148256522799
+length_on_deck: 12.192
 beam: 3.5052
 design_class:
   name: "B\xE1d M\xF3r"

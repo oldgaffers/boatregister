@@ -5,23 +5,19 @@ rig_type: Sloop
 mainsail_type: gunter
 short_description: ''
 full_description: ''
+year: 1948
+year_is_approximate: false
 designer:
   name: Arthur C. Robb
   id: c83205a1-3dfc-4977-871e-03a8ed74e6ec
+place_built: Thames
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.1641063155327966
-  length_over_all: 6.858083394294074
-  length_on_waterline: 6.4008778346744695
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: 1003f53f-94c5-4e0e-8bc6-cbdb02a5b90e
-length_on_deck: 6.858
 callsign: ''
 ownerships:
 - note: Previous owner J.F.Hatch 1974
@@ -31,13 +27,17 @@ ownerships:
 - name: Graham Morris
   share: 64
   start: 2012
-place_built: Thames
-updated_at: '2021-12-19T13:38:34.048674+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1948
-year_is_approximate: false
+id: 1003f53f-94c5-4e0e-8bc6-cbdb02a5b90e
 previous_names:
 - Jenny Wren
+draft: 0
+handicap_data:
+  beam: 2.1641063155327966
+  length_over_all: 6.858083394294074
+  length_on_waterline: 6.4008778346744695
+length_on_deck: 6.858
 beam: 2.158
 for_sale_state:
   text: not_for_sale

@@ -6,31 +6,24 @@ mainsail_type: gaff
 short_description: <p>Coco is a beautiful, lightly used Cornish Crabber 22, built
   in 2004 to the usual high spec. by Crabbers of Rock.</p>
 full_description: ''
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2004
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.7102
+construction_details: GRP, coppercoated
 engine_installations: []
 for_sales:
 - asking_price: 38950
-handicap_data:
-  beam: 2.5146305779078273
-  draft: 0.7101926359424531
-  propellor:
-    type: fixed
-  draft_keeldown: 1.5240185320653499
-  length_over_all: 6.705681541087539
-  length_on_waterline: 6.300292611558157
 home_country: GBR
 home_port: Bosham
 hull_form: long keel deep forefoot
-id: 4feb6ccd-2385-4832-801a-7a6f515a25bf
-length_on_deck: 6.7056
 sail_number: '47'
 ssr: '114239'
 callsign: ''
@@ -39,13 +32,21 @@ ownerships:
   name: Julian Biggs
   share: 64
   start: 2011
-place_built: Rock
-updated_at: '2021-12-19T13:39:56.77287+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2004
-year_is_approximate: false
+id: 4feb6ccd-2385-4832-801a-7a6f515a25bf
 image_key: 89rHBB
-construction_details: GRP, coppercoated
+thumb: https://photos.smugmug.com/photos/i-tQRJCJn/0/Th/i-tQRJCJn-Th.jpg
+draft: 0.7102
+handicap_data:
+  beam: 2.5146305779078273
+  draft: 0.7101926359424531
+  propellor:
+    type: fixed
+  draft_keeldown: 1.5240185320653499
+  length_over_all: 6.705681541087539
+  length_on_waterline: 6.300292611558157
+length_on_deck: 6.7056
 beam: 2.5146
 design_class:
   name: Cornish Crabber 22

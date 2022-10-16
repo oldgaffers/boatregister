@@ -72,17 +72,37 @@ full_description: "<p>&#39;Speedwell&#39; was built as a motor oyster dredger fo
   \ launch in 1901 plus many of her working.</em></p>\r\n\r\n<p>It is interesting\
   \ to note that the measurements he mentions are recorded under the measurement section\
   \ - resumably given by him when he owned the boat.<br />\r\n&nbsp;</p>"
-builder:
-  name: William King and Sons
-  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+year: 1908
+year_is_approximate: false
 designer:
   name: William King
   id: 534aff81-71b3-4ea0-91a5-9b8d209abdda
+builder:
+  name: William King and Sons
+  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+place_built: Burnham on Crouch
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 1.8288
+construction_details: Carvel pitch pine on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Shoreham
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 491
+  share: 64
+  start: 2006
+  member: 4686
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 03550e49-4038-44e8-81ec-bc36c40de645
+image_key: DhXqNW
+thumb: https://photos.smugmug.com/photos/i-Dnpbgdv/0/Th/i-Dnpbgdv-Th.jpg
+draft: 1.8288
 handicap_data:
   beam: 4.26725188978298
   main:
@@ -104,26 +124,7 @@ handicap_data:
   fore_triangle_base: 9.244696415508411
   length_on_waterline: 13.106559375762009
   fore_triangle_height: 12.091563033406485
-home_country: GBR
-home_port: Shoreham
-hull_form: long keel deep forefoot
-id: 03550e49-4038-44e8-81ec-bc36c40de645
 length_on_deck: 15.8496
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 491
-  share: 64
-  start: 2006
-  member: 4686
-  current: true
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:38:45.453651+00:00'
-website: ''
-year: 1908
-year_is_approximate: false
-image_key: DhXqNW
-construction_details: Carvel pitch pine on oak
 beam: 4.2672
 for_sale_state:
   text: not_for_sale

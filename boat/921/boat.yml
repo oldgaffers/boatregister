@@ -12,17 +12,33 @@ full_description: "<p>Originally built to make fast ocean passages, she carried 
   \ Jolie Brise has cruised and raced extensively around the world, winning the Blue\
   \ Water medal and Tall Ships race twice.</p>\r\n\r\n<p>In 1977 she was acquired\
   \ by Dauntseys School Sailing Club, her current owners.</p>"
-builder:
-  name: M. Paumelle
-  id: c74c987d-ea72-44fa-ad62-a5e1e6cc0240
+year: 1913
+year_is_approximate: false
 designer:
   name: Paumelle
   id: 2e41747d-c3a0-4526-a3a4-b0869e987a00
+builder:
+  name: M. Paumelle
+  id: c74c987d-ea72-44fa-ad62-a5e1e6cc0240
+place_built: Le Havre
 construction_material: wood
 construction_method: unknown
-draft: 3.109
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Hamble
+hull_form: long keel sloping forefoot
+callsign: ''
+ownerships:
+- name: Toby Marris
+  share: 64
+  start: 1977
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: http://www.joliebrise.com/
+id: 9c1485d4-d93c-4edf-b4b8-9ae293e3295c
+image_key: XKMkwD
+thumb: https://photos.smugmug.com/photos/i-75KQNRg/0/Th/i-75KQNRg-Th.jpg
+draft: 3.109
 handicap_data:
   beam: 4.623872226286271
   main:
@@ -40,22 +56,7 @@ handicap_data:
   fore_triangle_base: 10.66812972445745
   length_on_waterline: 14.630577907827359
   fore_triangle_height: 10.36332601804438
-home_country: GBR
-home_port: Hamble
-hull_form: long keel sloping forefoot
-id: 9c1485d4-d93c-4edf-b4b8-9ae293e3295c
 length_on_deck: 17.0688
-callsign: ''
-ownerships:
-- name: Toby Marris
-  share: 64
-  start: 1977
-place_built: Le Havre
-updated_at: '2021-12-19T13:38:56.107137+00:00'
-website: http://www.joliebrise.com/
-year: 1913
-year_is_approximate: false
-image_key: XKMkwD
 beam: 4.633
 for_sale_state:
   text: not_for_sale

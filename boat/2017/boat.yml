@@ -5,17 +5,35 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: John Howard
-  id: 98b37407-3881-4aba-892d-b8f6b35b8dc0
+year: 1888
+year_is_approximate: false
 designer:
   name: John Howard
   id: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
+builder:
+  name: John Howard
+  id: 98b37407-3881-4aba-892d-b8f6b35b8dc0
+place_built: Maldon
 construction_material: wood
 construction_method: unknown
-draft: 1.1186
+construction_details: red pine on oak, teak deck
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: North Fambridge
+hull_form: long keel deep forefoot
+uk_part1: '82397'
+callsign: ''
+ownerships:
+- id: 302
+  share: 64
+  start: 1994
+  member: 3626
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 6bcb7e0b-b165-4550-affe-a69fe2f7aded
+draft: 1.1186
 handicap_data:
   beam: 2.286027798098025
   main:
@@ -33,25 +51,7 @@ handicap_data:
   fore_triangle_base: 4.014264813460131
   length_on_waterline: 6.5532796878810045
   fore_triangle_height: 8.421726408193123
-home_country: GBR
-home_port: North Fambridge
-hull_form: long keel deep forefoot
-id: 6bcb7e0b-b165-4550-affe-a69fe2f7aded
 length_on_deck: 7.7724
-uk_part1: '82397'
-callsign: ''
-ownerships:
-- id: 302
-  share: 64
-  start: 1994
-  member: 3626
-  current: true
-place_built: Maldon
-updated_at: '2021-12-19T13:39:27.016634+00:00'
-website: ''
-year: 1888
-year_is_approximate: false
-construction_details: red pine on oak, teak deck
 beam: 2.286
 for_sale_state:
   text: not_for_sale

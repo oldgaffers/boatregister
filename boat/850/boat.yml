@@ -5,17 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 90/3, 91/2
-builder:
-  name: F.C. Marine Services
-  id: 846026be-31a6-4c02-b6d1-1324b6e9757e
+year: 1975
+year_is_approximate: false
 designer:
   name: Alan F. Hill
   id: 6541e39a-cf4e-4abf-9c13-0e8750af27d7
+builder:
+  name: F.C. Marine Services
+  id: 846026be-31a6-4c02-b6d1-1324b6e9757e
+place_built: Burnham on Crouch
 construction_material: ferro
 construction_method: unknown
-draft: 1.2192
+construction_details: Ferrocement
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 90/3
+- Log 91/2
+uk_part1: '376357'
+callsign: ''
+ownerships:
+- name: Frank Campbell
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7a9e3d42-1314-4c7b-8139-365c1961a5cd
+draft: 1.2192
 handicap_data:
   beam: 3.581443550353572
   main:
@@ -33,26 +52,7 @@ handicap_data:
   fore_triangle_base: 6.300292611558157
   length_on_waterline: 9.75371860521824
   fore_triangle_height: 9.75371860521824
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 7a9e3d42-1314-4c7b-8139-365c1961a5cd
 length_on_deck: 9.906
-reference:
-- Log 90/3
-- Log 91/2
-uk_part1: '376357'
-callsign: ''
-ownerships:
-- name: Frank Campbell
-  share: 64
-  start: 2012
-place_built: Burnham on Crouch
-updated_at: '2021-12-19T13:38:54.152654+00:00'
-website: ''
-year: 1975
-year_is_approximate: false
-construction_details: Ferrocement
 beam: 3.5814
 for_sale_state:
   text: not_for_sale

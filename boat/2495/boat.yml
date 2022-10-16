@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Tyrell and Young
-  id: 94b0313d-39ac-4e36-8e9c-48e1906cab05
+year: 1997
+year_is_approximate: false
 designer:
   name: Traditional, Shuttlewood and Tyrrell
   id: a92ac18c-8c7b-43f7-829a-bbd3bd43304e
+builder:
+  name: Tyrell and Young
+  id: 94b0313d-39ac-4e36-8e9c-48e1906cab05
+place_built: Selling Nr Faversham
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.1674
+construction_details: GRP hul
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Brightlingsea
+hull_form: long keel deep forefoot
+uk_part1: '729831'
+callsign: ''
+ownerships:
+- end: 2014
+  name: Andy Lindley
+  share: 64
+  start: 1997
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c5b4d5d6-1625-47a7-a5a3-c097b6929838
+draft: 1.1674
 handicap_data:
   beam: 2.386613021214338
   main:
@@ -33,24 +50,7 @@ handicap_data:
   fore_triangle_base: 6.705681541087539
   length_on_waterline: 7.162887100707144
   fore_triangle_height: 8.305900999756156
-home_country: GBR
-home_port: Brightlingsea
-hull_form: long keel deep forefoot
-id: c5b4d5d6-1625-47a7-a5a3-c097b6929838
 length_on_deck: 8.8392
-uk_part1: '729831'
-callsign: ''
-ownerships:
-- end: 2014
-  name: Andy Lindley
-  share: 64
-  start: 1997
-place_built: Selling Nr Faversham
-updated_at: '2022-03-03T22:02:59.728155+00:00'
-website: ''
-year: 1997
-year_is_approximate: false
-construction_details: GRP hul
 beam: 2.3866
 design_class:
   name: Tyrell and Young 28 Smack

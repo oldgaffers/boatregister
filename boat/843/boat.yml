@@ -10,41 +10,26 @@ short_description: <p>Ro-an-mor is built with traditional layout and GRP hull. H
 full_description: <p>New 28hp Beta engine in 2011. The cabin is deep and has two good
   berths and a galley, folding table and small multi-fuel stove. The fore-cabin has
   a double bunk with a sea toilet under.</p>
-builder:
-  name: Treve Marine Ltd
-  id: bf86c19b-e994-4b0e-839a-f9b04d952f7b
+year: 1978
+year_is_approximate: false
 designer:
   name: Frank Argall
   id: 3a457a8b-d19d-4843-8c97-937489f0635f
+builder:
+  name: Treve Marine Ltd
+  id: bf86c19b-e994-4b0e-839a-f9b04d952f7b
+place_built: Penryn
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.3716
+construction_details: ' GRP hull over inside mould with ply deck over beams with lead
+  keel'
 engine_installations: []
 for_sales:
 - asking_price: 0
-handicap_data:
-  beam: 2.43842965130456
-  main:
-    foot: 5.059741526456962
-    head: 4.419653742989515
-    luff: 5.6388685686417945
-  thcf: 0.972411278
-  draft: 1.3716166788588149
-  topsail:
-    luff: 5.4864667154352595
-    perpendicular: 2.43842965130456
-  propellor:
-    type: fixed
-  length_over_all: 7.620092660326749
-  fore_triangle_base: 6.4008778346744695
-  length_on_waterline: 7.315288953913679
-  fore_triangle_height: 8.382101926359423
 home_country: GBR
 home_port: ''
 hull_form: long keel deep forefoot
-id: 4477c31a-e812-461c-955c-029165c94009
-length_on_deck: 7.62
-spar_material: wood
 ssr: 06786
 callsign: ''
 ownerships:
@@ -64,14 +49,30 @@ ownerships:
 - name: Paul Blyth
   share: 64
   start: 2018
-place_built: Penryn
-updated_at: '2021-12-19T13:38:53.966649+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1978
-year_is_approximate: false
+id: 4477c31a-e812-461c-955c-029165c94009
 image_key: LnsDPq
-construction_details: ' GRP hull over inside mould with ply deck over beams with lead
-  keel'
+thumb: https://photos.smugmug.com/photos/i-mKk8Fhr/0/Th/i-mKk8Fhr-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.43842965130456
+  main:
+    foot: 5.059741526456962
+    head: 4.419653742989515
+    luff: 5.6388685686417945
+  thcf: 0.972411278
+  draft: 1.3716166788588149
+  topsail:
+    luff: 5.4864667154352595
+    perpendicular: 2.43842965130456
+  propellor:
+    type: fixed
+  length_over_all: 7.620092660326749
+  fore_triangle_base: 6.4008778346744695
+  length_on_waterline: 7.315288953913679
+  fore_triangle_height: 8.382101926359423
+length_on_deck: 7.62
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

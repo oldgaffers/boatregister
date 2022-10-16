@@ -5,17 +5,37 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Log 80/1, 80/2, 88/3 CB Oct 91
-builder:
-  name: W.G. Luke and Co.
-  id: d0336872-a447-4748-ae62-85ce7b90efe1
+year: 1905
+year_is_approximate: false
 designer:
   name: A.R. Luke
   id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
+builder:
+  name: W.G. Luke and Co.
+  id: d0336872-a447-4748-ae62-85ce7b90efe1
+place_built: Hamble
 construction_material: wood
 construction_method: unknown
-draft: 0.9144
+construction_details: Trad wood
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+reference:
+- Log 80/1
+- Log 80/2
+- Log 88/3
+- CB Oct 91
+callsign: ''
+ownerships:
+- name: Chris Olden
+  share: 64
+  start: 2012
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 098643ca-3001-48c9-904d-4c45a6610f66
+draft: 0.9144
 handicap_data:
   beam: 2.346988539380639
   main:
@@ -33,27 +53,7 @@ handicap_data:
   fore_triangle_base: 4.40136552060473
   length_on_waterline: 7.7054376981224095
   fore_triangle_height: 5.590099975615703
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 098643ca-3001-48c9-904d-4c45a6610f66
 length_on_deck: 7.7511
-reference:
-- Log 80/1
-- Log 80/2
-- Log 88/3
-- CB Oct 91
-callsign: ''
-ownerships:
-- name: Chris Olden
-  share: 64
-  start: 2012
-place_built: Hamble
-updated_at: '2021-12-19T13:38:45.679165+00:00'
-website: ''
-year: 1905
-year_is_approximate: false
-construction_details: Trad wood
 beam: 2.347
 for_sale_state:
   text: not_for_sale

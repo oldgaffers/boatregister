@@ -14,18 +14,41 @@ full_description: "<p>Designed and built by Fabian Bush, 2002, &lsquo;Poppy&rsqu
   \ to give a wooden boat suitable for trailer sailing. She was built with especial\
   \ care for robustness and durability and she can be maintained with comparative\
   \ ease.</p>"
-builder:
-  name: Fabian Bush
-  id: ae48cdcc-b7ab-41a9-ad74-c8a8e1ad745d
+year: 2002
+year_is_approximate: false
 designer:
   name: Fabian Bush
   id: d5ec1a95-1407-4872-b5a7-be568b10e49a
+builder:
+  name: Fabian Bush
+  id: ae48cdcc-b7ab-41a9-ad74-c8a8e1ad745d
+place_built: Rowhedge
 construction_material: wood
 construction_method: clinker_ply
-draft: 0.2286
+construction_details: Glued clinker ply
 engine_installations: []
 for_sales:
 - asking_price: 12500
+home_country: GBR
+home_port: Queen Anne's Battery Marina, Plymouth
+hull_form: unknown
+callsign: ''
+ownerships:
+- end: 2016
+  name: Francis Frost
+  share: 64
+  start: 2002
+- id: 332
+  share: 64
+  start: 2016
+  member: 3831
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 14696da8-69bc-4b4b-869d-84527d03cb97
+image_key: kQHmVR
+thumb: https://photos.smugmug.com/photos/i-S4pTxqF/0/Th/i-S4pTxqF-Th.jpg
+draft: 0.2286
 handicap_data:
   beam: 1.9812240916849548
   main:
@@ -41,29 +64,7 @@ handicap_data:
   fore_triangle_base: 1.21921482565228
   length_on_waterline: 6.0960741282613995
   fore_triangle_height: 3.6576444769568397
-home_country: GBR
-home_port: Queen Anne's Battery Marina, Plymouth
-hull_form: unknown
-id: 14696da8-69bc-4b4b-869d-84527d03cb97
 length_on_deck: 6.4008
-callsign: ''
-ownerships:
-- end: 2016
-  name: Francis Frost
-  share: 64
-  start: 2002
-- id: 332
-  share: 64
-  start: 2016
-  member: 3831
-  current: true
-place_built: Rowhedge
-updated_at: '2021-12-19T13:39:42.748883+00:00'
-website: ''
-year: 2002
-year_is_approximate: false
-image_key: kQHmVR
-construction_details: Glued clinker ply
 beam: 1.9812
 for_sale_state:
   text: not_for_sale

@@ -6,17 +6,34 @@ mainsail_type: bermudan
 short_description: <p>Built in 1961, &#39;Vydra&#39; has been used for short cruising
   along the South Coast and in the Solent.</p>
 full_description: ''
-builder:
-  name: Dan Webb/Feesey Webb
-  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+year: 1961
+year_is_approximate: false
 designer:
   name: Dan Webb
   id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
+builder:
+  name: Dan Webb/Feesey Webb
+  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+place_built: Maldon
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel mahogany on oak
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel sloping forefoot
+sail_number: '298'
+callsign: ''
+ownerships:
+- name: Roger Hickman
+  share: 64
+  start: 1998
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 0a69cc45-8e9f-4bc1-a337-8a07bec70d86
+draft: 0.9144
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -33,24 +50,7 @@ handicap_data:
   fore_triangle_base: 3.4036454523287
   length_on_waterline: 5.18166300902219
   fore_triangle_height: 6.705705925384052
-home_country: GBR
-home_port: ''
-hull_form: long keel sloping forefoot
-id: 0a69cc45-8e9f-4bc1-a337-8a07bec70d86
 length_on_deck: 5.6906
-sail_number: '298'
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Roger Hickman
-  share: 64
-  start: 1998
-place_built: Maldon
-updated_at: '2021-12-19T13:40:00.049647+00:00'
-website: ''
-year: 1961
-year_is_approximate: false
-construction_details: Carvel mahogany on oak
 beam: 1.8288
 design_class:
   name: Blackwater Sloop

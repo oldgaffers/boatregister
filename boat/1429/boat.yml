@@ -23,50 +23,25 @@ full_description: '<p><em>Theta</em> was built in 1982 to a hull design by Percy
   sail as a single hander.</p>
 
   <p>Leighton Hargreaves bought her in 2022 and she moved to the Exe.</p>'
-builder:
-  name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+year: 1982
+year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+builder:
+  name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+place_built: Cornwall
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.6002
+construction_details: 'GRP hull,Teak over ply deck,Mahogany coachroof and coamings. '
 engine_installations: []
 for_sales:
 - asking_price: 21950
-  flexibility: normal
-  offered: null
-  price_flexibility:
-    text: normal
-  reduced: false
-  sales_text: '<p>THETA - Tamarisk 29 Gaff Cutter,built 1982 by North Cornwall Marine
-    to a hull design by Percy Dalton closely based on the Falmouth Quay Punts of the
-    late19th/early20.th century..Strong GRP hull by Cygnus Marine,swept teak over
-    ply deck,mahoghany coachroof and coamings and spruce spars.,In current ownership
-    for 6 years she is a straightfoward singlehander and has proved a strong competitor
-    in classic sailing events.</p><p>Accommodation for 5 in 2cabins full headroom
-    in main saloon</p><p>Full inventory for offshore cruising/racing</p><p>4xGibb
-    sheet winches</p><p>Navaids: Autohelm ST30 Speed/Depth,Autohelm ST 4000 autopilot,Standard
-    Horizon CP180 Chartplotter,Garmin GPS 120 XL,Icom DSC/VHF</p><p>Yanmar 2YM15 diesel&nbsp;
-    / 16''dia Darglow Featherstream propellor / 100L fuel</p><p>Batteries.;Starter
-    85 Ah,Domestic 2 x 110 Ah (all 2016)</p><p>Avon dinghy</p><p>Lying:Salcombe</p>'
-  sold: '2022-03-03'
-  summary: null
-  updated_at: '2020-05-03T10:13:13.603702+00:00'
-handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.4630577907827358
-  propellor:
-    type: fixed
-  length_over_all: 8.83930748597903
-  length_on_waterline: 8.22970007315289
 home_country: GBR
 home_port: STARCROSS
 hull_form: long keel deep forefoot
-id: 9ffb60cb-5464-46a4-ba0b-07a78513e5b4
-length_on_deck: 8.6563
-spar_material: wood
 ssr: '24199'
 callsign: ''
 ownerships:
@@ -87,13 +62,20 @@ ownerships:
   share: 64
   start: 2022
   current: true
-place_built: Cornwall
 updated_at: '2022-05-10T19:17:23.84226+00:00'
 website: ''
-year: 1982
-year_is_approximate: false
+id: 9ffb60cb-5464-46a4-ba0b-07a78513e5b4
 image_key: GPbhKZ
-construction_details: 'GRP hull,Teak over ply deck,Mahogany coachroof and coamings. '
+thumb: https://photos.smugmug.com/photos/i-Gb2TSWq/0/Th/i-Gb2TSWq-Th.jpg
+draft: 1.6002
+handicap_data:
+  beam: 2.7432333577176298
+  draft: 1.4630577907827358
+  propellor:
+    type: fixed
+  length_over_all: 8.83930748597903
+  length_on_waterline: 8.22970007315289
+length_on_deck: 8.6563
 beam: 2.7432
 design_class:
   name: Tamarisk 29

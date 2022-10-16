@@ -5,27 +5,23 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Log 82/3, 88/3, S-S/95, S-A/95, See CB Sept 04.
-builder:
-  name: Dan Webb/Feesey Webb
-  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+year: 1964
+year_is_approximate: false
 designer:
   name: Dan Webb
   id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
+builder:
+  name: Dan Webb/Feesey Webb
+  id: 57c4e472-875f-4e6b-aae8-4f198579d842
+place_built: Maldon
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel Mahogany on Oak
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.9568397951719092
-  draft: 0.9144111192392099
-  length_over_all: 5.6388685686417945
-  length_on_waterline: 4.87685930260912
 home_country: 'null'
 home_port: Tollesbury
 hull_form: unknown
-id: 1a18b33b-3591-4146-bee1-39b252233af5
-length_on_deck: 5.6388
 reference:
 - Log 82/3
 - Log 88/3
@@ -37,12 +33,16 @@ ownerships:
 - name: David Shrimpton
   share: 64
   start: 2012
-place_built: Maldon
-updated_at: '2021-12-19T13:38:52.374373+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1964
-year_is_approximate: false
-construction_details: Carvel Mahogany on Oak
+id: 1a18b33b-3591-4146-bee1-39b252233af5
+draft: 0.9144
+handicap_data:
+  beam: 1.9568397951719092
+  draft: 0.9144111192392099
+  length_over_all: 5.6388685686417945
+  length_on_waterline: 4.87685930260912
+length_on_deck: 5.6388
 beam: 1.9568
 design_class:
   name: Blackwater Sloop

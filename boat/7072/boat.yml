@@ -8,17 +8,33 @@ short_description: <p>&#39;Magic Calabasse&#39; was the last boat of 38 built to
 full_description: Designed in 1946 for Arthur Ransome by Jack Laurent Giles, 38 boats
   were eventually built to this design by Porter and Haylett. The standard rig has
   been modified by the addition of bowsprit.
-builder:
-  name: Porter and Haylett Ltd.
-  id: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
+year: 1970
+year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+builder:
+  name: Porter and Haylett Ltd.
+  id: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
+place_built: Wroxham
 construction_material: wood
 construction_method: carvel
-draft: 1.143
+construction_details: Carvel wood
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: ''
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- end: 2011
+  name: R.J. Evans
+  share: 64
+  start: 1984
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: c6f1cf49-8c07-48dc-a6da-657b5301c9cd
+draft: 1.143
 handicap_data:
   beam: 2.7432333577176298
   main:
@@ -32,23 +48,7 @@ handicap_data:
   fore_triangle_base: 4.114850036576445
   length_on_waterline: 7.620092660326749
   fore_triangle_height: 9.1441111923921
-home_country: GBR
-home_port: ''
-hull_form: long keel deep forefoot
-id: c6f1cf49-8c07-48dc-a6da-657b5301c9cd
 length_on_deck: 8.6868
-callsign: ''
-ownerships:
-- end: 2011
-  name: R.J. Evans
-  share: 64
-  start: 1984
-place_built: Wroxham
-updated_at: '2021-12-19T13:40:02.170909+00:00'
-website: ''
-year: 1970
-year_is_approximate: false
-construction_details: Carvel wood
 beam: 2.7432
 design_class:
   name: Peter Duck

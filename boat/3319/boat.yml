@@ -7,32 +7,25 @@ short_description: Mischief is a Cornish Crabber 22 built in 2009.
 full_description: After being kept on the Solent, she was sailed to Dittisham, River
   Dart by her new owners in September 2014. She has been cruised on the south Devon
   and Cornwall coast and taken part in several regattas and rallies.
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+year: 2009
+year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.7102
+construction_details: GRP
 engine_installations: []
 for_sales: []
-handicap_data:
-  sailarea: 7
-  moving_keel: true
-  length_overall: 6.7056
-  draft_keel_down: 1.524
-  moving_keel_type: Centreboard
-  length_over_spars: 8.2296
-  length_on_waterline: 6.2972
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel deep forefoot
-id: df27d07e-2ad7-49f3-9ea7-d974ca64110d
-length_on_deck: 6.7056
 sail_number: '66'
-spar_material: wood
 ssr: '141022'
 callsign: ''
 ownerships:
@@ -41,15 +34,23 @@ ownerships:
   start: 2014
   member: 5506
   current: true
-place_built: Rock
-updated_at: '2021-12-19T13:40:07.520877+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2009
-year_is_approximate: false
+id: df27d07e-2ad7-49f3-9ea7-d974ca64110d
 previous_names:
 - Three Kings
 image_key: L8W5kh
-construction_details: GRP
+thumb: https://photos.smugmug.com/photos/i-86GxJ7R/0/Th/i-86GxJ7R-Th.jpg
+draft: 0.7102
+handicap_data:
+  sailarea: 7
+  moving_keel: true
+  length_overall: 6.7056
+  draft_keel_down: 1.524
+  moving_keel_type: Centreboard
+  length_over_spars: 8.2296
+  length_on_waterline: 6.2972
+length_on_deck: 6.7056
 beam: 2.5146
 design_class:
   name: Cornish Crabber 22

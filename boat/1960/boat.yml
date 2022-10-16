@@ -5,17 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Martin Heard/Daykin
-  id: a3cbe6bb-3932-412e-ab53-db1e337880d3
+year: 1995
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Martin Heard/Daykin
+  id: a3cbe6bb-3932-412e-ab53-db1e337880d3
+place_built: Mylor Bridge / Plymouth
 construction_material: wood
 construction_method: unknown
-draft: 1.143
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Newton Ferrers
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Chris Daykin
+  share: 64
+  start: 1995
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 5b4eabc7-503c-4b41-a405-42ef14484bb6
+draft: 1.143
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -33,21 +47,7 @@ handicap_data:
   fore_triangle_base: 4.26725188978298
   length_on_waterline: 6.0960741282613995
   fore_triangle_height: 5.7912704218483295
-home_country: 'null'
-home_port: Newton Ferrers
-hull_form: long keel deep forefoot
-id: 5b4eabc7-503c-4b41-a405-42ef14484bb6
 length_on_deck: 6.2484
-callsign: ''
-ownerships:
-- name: Chris Daykin
-  share: 64
-  start: 1995
-place_built: Mylor Bridge / Plymouth
-updated_at: '2021-12-19T13:39:25.372626+00:00'
-website: ''
-year: 1995
-year_is_approximate: false
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

@@ -5,27 +5,23 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: ''
 full_description: Log 80/1 Sister ship to White Moth
-builder:
-  name: R.F. Wykeham-Martin
-  id: cec55a2b-eadb-48e3-8581-4f64a595de1b
+year: 1915
+year_is_approximate: false
 designer:
   name: R.F. Wykeham-Martin
   id: 1eb40240-b18a-4037-8202-ced093cbfd8c
+builder:
+  name: R.F. Wykeham-Martin
+  id: cec55a2b-eadb-48e3-8581-4f64a595de1b
+place_built: Bourne End
 construction_material: wood
 construction_method: unknown
-draft: 0.823
+construction_details: Teak on oak with glass fibre covered decks & cabin
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  draft: 0.822970007315289
-  length_over_all: 8.22970007315289
-  length_on_waterline: 7.315288953913679
 home_country: 'null'
 home_port: ''
 hull_form: unknown
-id: c24127ff-01de-433f-b38c-824e3db61707
-length_on_deck: 8.2296
 reference:
 - Log 80/1
 callsign: ''
@@ -33,13 +29,18 @@ ownerships:
 - name: W E Upchurch
   share: 64
   start: 2012
-place_built: Bourne End
-updated_at: '2022-01-19T11:43:42.844329+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1915
-year_is_approximate: false
+id: c24127ff-01de-433f-b38c-824e3db61707
 image_key: T4LZTr
-construction_details: Teak on oak with glass fibre covered decks & cabin
+thumb: https://photos.smugmug.com/photos/i-4fQqsJr/1/Th/i-4fQqsJr-Th.jpg
+draft: 0.823
+handicap_data:
+  beam: 2.13362594489149
+  draft: 0.822970007315289
+  length_over_all: 8.22970007315289
+  length_on_waterline: 7.315288953913679
+length_on_deck: 8.2296
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

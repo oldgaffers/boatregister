@@ -8,36 +8,25 @@ full_description: <p>Blue Bell is a Tela. The mould for this class of boat was t
   from a boat built in 1911 in Barry Dock.</p><p>16 ft GRP Tela Day Boat with 2.5
   outboard. She has lovely iroko thwarts, combing etc. and does very well in OGA regattas.
   She can be sailed single handed or as a family boat.</p>
-builder:
-  name: Chris Libby
-  id: c31a2564-db7c-430a-b928-9cf48fe4c180
+year: 1991
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Chris Libby
+  id: c31a2564-db7c-430a-b928-9cf48fe4c180
+place_built: Penryn
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.4572
+construction_details: GRP hull with 600 lbs of ballast bonded into the hull. Spars
+  douglas fir
 engine_installations: []
 for_sales:
 - asking_price: 4500
-handicap_data:
-  main:
-    foot: 11
-    head: 11.5
-    luff: 7.5
-  sailarea: 1
-  moving_keel: true
-  length_overall: 5.0292
-  draft_keel_down: 0.8626
-  moving_keel_type: Centreboard
-  length_over_spars: 5.4864
-  fore_triangle_base: 2.1336
-  fore_triangle_height: 4.572
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
-id: 0b1178ba-47ec-49a7-994f-167e72353264
-length_on_deck: 5.0292
 callsign: ''
 ownerships:
 - end: 2011
@@ -52,14 +41,26 @@ ownerships:
   name: Sam Westcott
   share: 64
   start: 2017
-place_built: Penryn
-updated_at: '2021-12-19T13:40:09.555646+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1991
-year_is_approximate: false
+id: 0b1178ba-47ec-49a7-994f-167e72353264
 image_key: mJtgLN
-construction_details: GRP hull with 600 lbs of ballast bonded into the hull. Spars
-  douglas fir
+thumb: https://photos.smugmug.com/photos/i-ZVnTq5h/0/Th/i-ZVnTq5h-Th.jpg
+draft: 0.4572
+handicap_data:
+  main:
+    foot: 11
+    head: 11.5
+    luff: 7.5
+  sailarea: 1
+  moving_keel: true
+  length_overall: 5.0292
+  draft_keel_down: 0.8626
+  moving_keel_type: Centreboard
+  length_over_spars: 5.4864
+  fore_triangle_base: 2.1336
+  fore_triangle_height: 4.572
+length_on_deck: 5.0292
 beam: 1.6764
 design_class:
   name: Tela

@@ -23,35 +23,23 @@ full_description: "<p>&#39;Quintet&#39; was converted to cutter from ketch in 19
   \ undertook a circumnavigation of England with crew-member Les, departing Fosdyke\
   \ in mid-June and returning mid-September. <a href=\"http://www.2oldgitsinaboat.co.uk/\"\
   \ target=\"_blank\">Read the full story at &#39;Two old gits in a boat&#39;</a>.</p>"
-builder:
-  name: E.W. Sutton
-  id: 5582e9c2-6c1c-4e14-ab92-70a56fcc80d6
+year: 1953
+year_is_approximate: false
 designer:
   name: Reg Freeman
   id: 9b31c7c9-025d-42eb-9274-3bbd0b30b744
+builder:
+  name: E.W. Sutton
+  id: 5582e9c2-6c1c-4e14-ab92-70a56fcc80d6
+place_built: Great Wakering
 construction_material: wood
 construction_method: carvel
-draft: 1.3716
+construction_details: Carvel construction, mahogany planks on oak frames.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  main:
-    foot: 5.18166300902219
-    luff: 11.277737137283589
-  thcf: 0.960829605
-  draft: 1.2710314557425018
-  propellor:
-    type: fixed
-  length_over_all: 9.473299195318214
-  fore_triangle_base: 4.26725188978298
-  length_on_waterline: 7.924896366739819
-  fore_triangle_height: 12.192148256522799
 home_country: GBR
 home_port: Fosdyke
 hull_form: long keel deep forefoot
-id: e27fa4b0-434d-4d24-ba33-8da6d06cbc62
-length_on_deck: 9.7018
 sail_number: '835'
 uk_part1: '186524'
 callsign: ''
@@ -68,13 +56,26 @@ ownerships:
   member: 4930
   current: true
   start: '?'
-place_built: Great Wakering
-updated_at: '2021-12-19T13:40:01.822878+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.2oldgitsinaboat.co.uk
-year: 1953
-year_is_approximate: false
+id: e27fa4b0-434d-4d24-ba33-8da6d06cbc62
 image_key: k9jQVg
-construction_details: Carvel construction, mahogany planks on oak frames.
+thumb: https://photos.smugmug.com/photos/i-MH5JHhW/0/Th/i-MH5JHhW-Th.jpg
+draft: 1.3716
+handicap_data:
+  beam: 2.8956352109241648
+  main:
+    foot: 5.18166300902219
+    luff: 11.277737137283589
+  thcf: 0.960829605
+  draft: 1.2710314557425018
+  propellor:
+    type: fixed
+  length_over_all: 9.473299195318214
+  fore_triangle_base: 4.26725188978298
+  length_on_waterline: 7.924896366739819
+  fore_triangle_height: 12.192148256522799
+length_on_deck: 9.7018
 beam: 2.7432
 for_sale_state:
   text: not_for_sale

@@ -5,11 +5,26 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year_is_approximate: false
 construction_material: wood
 construction_method: double_diagonal
-draft: 0.2286
+construction_details: Double Diagonal
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 235
+  share: 64
+  start: 2012
+  member: 3249
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7d539912-89d9-4bc7-8fe8-1a3f3992fe73
+draft: 0.2286
 handicap_data:
   beam: 1.4234333089490367
   main:
@@ -22,22 +37,7 @@ handicap_data:
   fore_triangle_base: 0.8382101926359424
   length_on_waterline: 3.2004389173372347
   fore_triangle_height: 2.234211168007803
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 7d539912-89d9-4bc7-8fe8-1a3f3992fe73
 length_on_deck: 3.3528
-callsign: ''
-ownerships:
-- id: 235
-  share: 64
-  start: 2012
-  member: 3249
-  current: true
-updated_at: '2021-12-19T13:39:43.510383+00:00'
-website: ''
-year_is_approximate: false
-construction_details: Double Diagonal
 beam: 1.4234
 for_sale_state:
   text: not_for_sale

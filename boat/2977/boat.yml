@@ -5,11 +5,27 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
+year: 1910
+year_is_approximate: false
 construction_material: wood
 construction_method: carvel
-draft: 0.9662
+construction_details: Carvel plank on frame
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Bembrigde
+hull_form: unknown
+callsign: ''
+ownerships:
+- id: 373
+  share: 64
+  start: 2012
+  member: 4052
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 52f0f2a0-4cd6-4db3-b617-7bcc4c0ca9d3
+draft: 0.9662
 handicap_data:
   beam: 1.8288222384784198
   main:
@@ -22,23 +38,7 @@ handicap_data:
   fore_triangle_base: 2.5146305779078273
   length_on_waterline: 4.596439892709095
   fore_triangle_height: 6.147890758351622
-home_country: 'null'
-home_port: Bembrigde
-hull_form: unknown
-id: 52f0f2a0-4cd6-4db3-b617-7bcc4c0ca9d3
 length_on_deck: 6.605
-callsign: ''
-ownerships:
-- id: 373
-  share: 64
-  start: 2012
-  member: 4052
-  current: true
-updated_at: '2021-12-19T13:39:55.164617+00:00'
-website: ''
-year: 1910
-year_is_approximate: false
-construction_details: Carvel plank on frame
 beam: 1.8288
 for_sale_state:
   text: not_for_sale

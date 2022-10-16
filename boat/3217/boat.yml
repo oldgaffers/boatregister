@@ -9,17 +9,39 @@ full_description: The dinghies built by Borwicks were all built to order. Most w
   built as rowing dinghies but those built for sailing had an extra plank for more
   freeboard. 10 planks for rowing and 11 for saiing. All were built in larch apart
   from one that was built of mahogany for an exhibition in Manchester.
-builder:
-  name: Browicks of Windermere
-  id: 3c8bc6ea-8a13-4bf3-a25b-873bc2805fde
+year: 1950
+year_is_approximate: false
 designer:
   name: William Bland
   id: b6ec0b86-4d76-42d1-bf81-231d3156f633
+builder:
+  name: Browicks of Windermere
+  id: 3c8bc6ea-8a13-4bf3-a25b-873bc2805fde
+place_built: Bowness
 construction_material: wood
+spar_material: wood
 construction_method: clinker
-draft: 0.1524
+construction_details: Clinker, mahogany on larch ribs with oak stem and keel
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Alsager
+hull_form: centre-board dinghy
+callsign: ''
+ownerships:
+- note: Previous owner Jim Booth
+  text: Previous owner Jim Booth
+- id: 224
+  share: 64
+  start: 2000
+  member: 3108
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 85739e60-1eb1-4e77-bc6e-69c74293342d
+image_key: QCm9nm
+thumb: https://photos.smugmug.com/photos/i-RMLSjGd/0/Th/i-RMLSjGd-Th.jpg
+draft: 0.1524
 handicap_data:
   main:
     foot: 7.67
@@ -35,28 +57,7 @@ handicap_data:
   fore_triangle_base: 1.0668
   length_on_waterline: 3.6576
   fore_triangle_height: 2.8956
-home_country: GBR
-home_port: Alsager
-hull_form: centre-board dinghy
-id: 85739e60-1eb1-4e77-bc6e-69c74293342d
 length_on_deck: 3.81
-spar_material: wood
-callsign: ''
-ownerships:
-- note: Previous owner Jim Booth
-  text: Previous owner Jim Booth
-- id: 224
-  share: 64
-  start: 2000
-  member: 3108
-  current: true
-place_built: Bowness
-updated_at: '2021-12-19T13:40:04.377123+00:00'
-website: ''
-year: 1950
-year_is_approximate: false
-image_key: QCm9nm
-construction_details: Clinker, mahogany on larch ribs with oak stem and keel
 beam: 1.4722
 design_class:
   name: Borwicks Sailing Dinghy

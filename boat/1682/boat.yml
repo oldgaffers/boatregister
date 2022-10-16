@@ -5,27 +5,23 @@ mainsail_type: gaff
 short_description: <p>Foreman boatbuilder, Fred Mitchell, used a 19th century boat
   as an exact copy.</p>
 full_description: ''
-builder:
-  name: James J. and Co. Ltd.
-  id: cf91d966-b14f-427d-9da1-6cc42938b607
+year: 1947
+year_is_approximate: false
 designer:
   name: Frank Mitchell
   id: 7e30552c-9d13-4b90-95bf-f7aa6b80383c
+builder:
+  name: James J. and Co. Ltd.
+  id: cf91d966-b14f-427d-9da1-6cc42938b607
+place_built: Brightlingsea
 construction_material: wood
 construction_method: clinker
-draft: 0.1768
+construction_details: Wooden clinker varnished
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 1.4478176054620824
-  draft: 0.18288222384784197
-  length_over_all: 3.6576444769568397
-  length_on_waterline: 3.6576444769568397
 home_country: GBR
 home_port: ''
 hull_form: unknown
-id: ace82a21-25f3-4949-bf2c-358f1be2c16d
-length_on_deck: 3.6576
 callsign: ''
 ownerships:
 - id: 161
@@ -33,12 +29,16 @@ ownerships:
   start: 1965
   member: 2476
   current: true
-place_built: Brightlingsea
-updated_at: '2021-12-19T13:39:17.711384+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1947
-year_is_approximate: false
-construction_details: Wooden clinker varnished
+id: ace82a21-25f3-4949-bf2c-358f1be2c16d
+draft: 0.1768
+handicap_data:
+  beam: 1.4478176054620824
+  draft: 0.18288222384784197
+  length_over_all: 3.6576444769568397
+  length_on_waterline: 3.6576444769568397
+length_on_deck: 3.6576
 beam: 1.4478
 for_sale_state:
   text: not_for_sale

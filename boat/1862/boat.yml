@@ -5,17 +5,32 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: D.L. Mears
-  id: 7452688f-2ba1-4727-8854-e6d238f2b5a9
+year: 1972
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: D.L. Mears
+  id: 7452688f-2ba1-4727-8854-e6d238f2b5a9
+place_built: Gillingham
 construction_material: wood
 construction_method: clinker
-draft: 0
+construction_details: Clinker African Mahogany on Oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Gillingham
+hull_form: unknown
+callsign: ''
+ownerships:
+- name: D L Mears
+  share: 64
+  start: 1972
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 326553de-3883-4ba6-aba5-f087588efbbd
+draft: 0
 handicap_data:
   beam: 1.9050231650816873
   main:
@@ -30,22 +45,7 @@ handicap_data:
   fore_triangle_base: 2.8956352109241648
   length_on_waterline: 4.672640819312362
   fore_triangle_height: 4.87685930260912
-home_country: 'null'
-home_port: Gillingham
-hull_form: unknown
-id: 326553de-3883-4ba6-aba5-f087588efbbd
 length_on_deck: 5.1176
-callsign: ''
-ownerships:
-- name: D L Mears
-  share: 64
-  start: 1972
-place_built: Gillingham
-updated_at: '2021-12-19T13:39:22.442636+00:00'
-website: ''
-year: 1972
-year_is_approximate: false
-construction_details: Clinker African Mahogany on Oak
 beam: 1.905
 for_sale_state:
   text: not_for_sale

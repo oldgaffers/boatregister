@@ -10,29 +10,23 @@ full_description: "<p>Here&#39;s some old footage from 2007 tacking &#39;Aeolus&
   \ in the Carrick Roads</p>\r\n\r\n<p><iframe allow=\"autoplay; encrypted-media\"\
   \ allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/r692iN6-AEM\"\
   \ width=\"560\"></iframe></p>"
-builder:
-  name: Gaffers and Luggers
-  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+year: 2002
+year_is_approximate: false
 designer:
   name: Percy Dalton/Martin Heard
   id: f19c441f-b6a2-4f96-95b9-d25a6e3e36a5
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+place_built: Mylor Bridge
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 1.524
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.0480370641306997
-  thcf: 0.984185488
-  draft: 1.5240185320653499
-  length_over_all: 8.53450377956596
-  length_on_waterline: 8.077298219946353
 home_country: GBR
 home_port: Mylor
 hull_form: unknown
-id: 7138091b-f3fe-4c86-8a0b-4e4fde9ea13c
-length_on_deck: 8.5344
-spar_material: wood
 callsign: ''
 ownerships:
 - id: 307
@@ -40,12 +34,19 @@ ownerships:
   start: 2002
   member: 3675
   current: true
-place_built: Mylor Bridge
-updated_at: '2021-12-19T13:39:40.902138+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2002
-year_is_approximate: false
+id: 7138091b-f3fe-4c86-8a0b-4e4fde9ea13c
 image_key: MT9ckD
+thumb: https://photos.smugmug.com/photos/i-LMBdbTf/0/Th/i-LMBdbTf-Th.jpg
+draft: 1.524
+handicap_data:
+  beam: 3.0480370641306997
+  thcf: 0.984185488
+  draft: 1.5240185320653499
+  length_over_all: 8.53450377956596
+  length_on_waterline: 8.077298219946353
+length_on_deck: 8.5344
 beam: 3.048
 design_class:
   name: Heard 28

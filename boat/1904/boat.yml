@@ -6,17 +6,44 @@ mainsail_type: gaff
 short_description: <p>Tessa was built in 1974 from a mould taken from Yo Yo built
   approx 100 years ago in Falmouth</p>
 full_description: ''
-builder:
-  name: Gaffers and Luggers
-  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+year: 1974
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.9144
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Saltash
+hull_form: long keel deep forefoot
+sail_number: J
+callsign: ''
+ownerships:
+- end: 2014
+  name: John Forster
+  share: 64
+  start: 1994
+- note: Sold by John Forster in June 2014 to Keith Payne
+  text: Sold by John Forster in June
+  start: 2014
+  start_is_approximate: false
+- share: 64
+  member: 4493
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 98f7a5e6-1831-4bf9-a4d2-b83182ac3bba
+previous_names:
+- Satulagi
+draft: 0.9144
 handicap_data:
   beam: 1.9812240916849548
   main:
@@ -34,34 +61,7 @@ handicap_data:
   fore_triangle_base: 3.5570592538405266
   length_on_waterline: 5.4864667154352595
   fore_triangle_height: 5.081077785905877
-home_country: GBR
-home_port: Saltash
-hull_form: long keel deep forefoot
-id: 98f7a5e6-1831-4bf9-a4d2-b83182ac3bba
 length_on_deck: 5.6388
-sail_number: J
-callsign: ''
-ownerships:
-- end: 2014
-  name: John Forster
-  share: 64
-  start: 1994
-- note: Sold by John Forster in June 2014 to Keith Payne
-  text: Sold by John Forster in June
-  start: 2014
-  start_is_approximate: false
-- share: 64
-  member: 4493
-  current: true
-  start: '?'
-place_built: Mylor Bridge
-updated_at: '2021-12-19T13:39:23.657634+00:00'
-website: ''
-year: 1974
-year_is_approximate: false
-previous_names:
-- Satulagi
-construction_details: GRP
 beam: 1.9812
 design_class:
   name: Tosher 18

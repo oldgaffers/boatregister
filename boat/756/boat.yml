@@ -16,17 +16,32 @@ full_description: "<h4>Louise Heyworth wrote to the Gaffers Log Editor, December
   \ if a new owner cannot be found. Please reply to me urgently as she will not last\
   \ the winter on the slipway and will be scheduled for breaking up sooner rather\
   \ than later.</p>"
-builder:
-  name: W.E. Thomas
-  id: a9e83f1e-565e-4568-b052-7a492147a30d
+year: 1915
+year_is_approximate: false
 designer:
   name: W.E. Thomas
   id: 3f7b6145-a556-462d-a51f-11d24c3f94db
+builder:
+  name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
+place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-draft: 1.777
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: London
+hull_form: long keel deep forefoot
+uk_part1: '147568'
+callsign: ''
+ownerships:
+- name: W Humphries
+  share: 64
+  start: 1976
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: a4e8edd1-ba13-4af7-b64e-682c5ee5b3f0
+draft: 1.777
 handicap_data:
   beam: 3.9624481833699097
   main:
@@ -43,22 +58,7 @@ handicap_data:
   fore_triangle_base: 7.772494513533284
   length_on_waterline: 10.36332601804438
   fore_triangle_height: 14.73116313094367
-home_country: GBR
-home_port: London
-hull_form: long keel deep forefoot
-id: a4e8edd1-ba13-4af7-b64e-682c5ee5b3f0
 length_on_deck: 11.43
-uk_part1: '147568'
-callsign: ''
-ownerships:
-- name: W Humphries
-  share: 64
-  start: 1976
-place_built: Falmouth
-updated_at: '2021-12-19T13:38:51.520917+00:00'
-website: ''
-year: 1915
-year_is_approximate: false
 beam: 3.9624
 for_sale_state:
   text: not_for_sale

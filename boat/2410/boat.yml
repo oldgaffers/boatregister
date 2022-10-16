@@ -5,14 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Channel Handicap 0.775
+year: 1927
+year_is_approximate: false
 builder:
   name: W.H. Burt and Sons
   id: bb5374e9-93df-4b70-9b69-732c09e0616d
+place_built: Falmouth
 construction_material: wood
 construction_method: carvel
-draft: 1.2192
+construction_details: Pitch pine on oak
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: unknown
+sail_number: '410'
+callsign: ''
+ownerships:
+- name: Paul Lees
+  share: 64
+  start: 1971
+- share: 64
+  member: 3268
+  current: true
+  start: '?'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3204d82f-9c2b-4a00-9acd-c857a9964429
+draft: 1.2192
 handicap_data:
   beam: 2.2098268714947573
   main:
@@ -28,27 +48,7 @@ handicap_data:
   fore_triangle_base: 4.389173372348208
   length_on_waterline: 5.7912704218483295
   fore_triangle_height: 9.1441111923921
-home_country: 'null'
-home_port: ''
-hull_form: unknown
-id: 3204d82f-9c2b-4a00-9acd-c857a9964429
 length_on_deck: 6.3002
-sail_number: '410'
-callsign: ''
-ownerships:
-- name: Paul Lees
-  share: 64
-  start: 1971
-- share: 64
-  member: 3268
-  current: true
-  start: '?'
-place_built: Falmouth
-updated_at: '2021-12-19T13:39:38.091394+00:00'
-website: ''
-year: 1927
-year_is_approximate: false
-construction_details: Pitch pine on oak
 beam: 2.2098
 for_sale_state:
   text: not_for_sale

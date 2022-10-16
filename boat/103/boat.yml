@@ -15,27 +15,22 @@ full_description: "<p>&#39;Jan Mayen&#39; is a 29&#39; motorsailor built from ir
   \ added with a hatch to access tender storage below.</p>\r\n\r\n<p>Based in the\
   \ Solent, she has cruised the South Coast to Falmouth, the Channel Islands and North\
   \ Brittany.</p>"
-builder:
-  name: Whisstocks Boatyard Ltd
-  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+year: 1964
+year_is_approximate: false
 designer:
   name: D. Cooper
   id: 638853d8-9468-4506-9913-0bd6ae44a7ca
+builder:
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-draft: 1.0973
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.097293343087052
-  length_over_all: 8.83930748597903
-  length_on_waterline: 6.2484759814679345
 home_country: GBR
 home_port: Southampton
 hull_form: long keel sloping forefoot
-id: 0e74a449-d4db-46eb-9cf4-cd998a65a9ee
-length_on_deck: 8.8392
 uk_part1: '306804'
 callsign: ''
 ownerships:
@@ -47,15 +42,21 @@ ownerships:
   member: 6490
   current: true
   start: '?'
-place_built: Woodbridge
-updated_at: '2021-12-19T13:38:32.603657+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1964
-year_is_approximate: false
+id: 0e74a449-d4db-46eb-9cf4-cd998a65a9ee
 previous_names:
 - Wind Lass
 - Jan Mayen & Spitzbergen
 image_key: jFFrxt
+thumb: https://photos.smugmug.com/photos/i-hdHtL2C/0/Th/i-hdHtL2C-Th.jpg
+draft: 1.0973
+handicap_data:
+  beam: 2.8956352109241648
+  draft: 1.097293343087052
+  length_over_all: 8.83930748597903
+  length_on_waterline: 6.2484759814679345
+length_on_deck: 8.8392
 beam: 2.8956
 for_sale_state:
   text: not_for_sale

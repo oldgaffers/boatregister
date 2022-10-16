@@ -8,17 +8,36 @@ full_description: Hull built by Salterns 2008. Mould taken from a Cornish inshor
   fishing boat. Fittted out by first owner Charles Harris in Barry, Vale of Glamorgan.
   Launched October 2009. Internal ballast of 450 kg. Originally a sloop converted
   to a cutter in 2012.
-builder:
-  name: Salterns Boatyard Ltd.
-  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+year: 2008
+year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+builder:
+  name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+place_built: Hamble
 construction_material: grp
 construction_method: cold_moulded
-draft: 0.4572
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Penarth
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- id: 645
+  share: 64
+  start: 2008
+  member: 5427
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 4b8e3727-bdbf-4567-bf95-5bfbc040347b
+image_key: 6k9qfM
+thumb: https://photos.smugmug.com/photos/i-5PMMDk3/0/Th/i-5PMMDk3-Th.jpg
+draft: 0.4572
 handicap_data:
   beam: 1.9812362838332114
   main:
@@ -37,25 +56,7 @@ handicap_data:
   fore_triangle_base: 3.200451109485491
   length_on_waterline: 5.029273347963911
   fore_triangle_height: 5.7912704218483295
-home_country: GBR
-home_port: Penarth
-hull_form: long keel deep forefoot
-id: 4b8e3727-bdbf-4567-bf95-5bfbc040347b
 length_on_deck: 5.6388
-callsign: ''
-ownerships:
-- id: 645
-  share: 64
-  start: 2008
-  member: 5427
-  current: true
-place_built: Hamble
-updated_at: '2021-12-19T13:39:55.639125+00:00'
-website: ''
-year: 2008
-year_is_approximate: false
-image_key: 6k9qfM
-construction_details: GRP
 beam: 1.9812
 design_class:
   name: Sou'wester 18

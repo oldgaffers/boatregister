@@ -9,31 +9,27 @@ full_description: Poppy was originally a bespoke build for a 70-year old gentlem
   a North West coastal enthusiast. The mast is fitted in a tabernacle. She has 2 berths
   with a Taylors paraffin stove. Changing hands in 2017, she sails the Solent and
   Isle of Wight coast.
-builder:
-  name: David Moss Boatbuilders
-  id: 57e22238-cdd2-4556-a3f3-ef834d765e07
+year: 1985
+year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: David Moss Boatbuilders
+  id: 57e22238-cdd2-4556-a3f3-ef834d765e07
+place_built: Lancashire
 construction_material: woodepoxy
+spar_material: wood
 construction_method: strip_planking_epoxy_sheathed
-draft: 0
+construction_details: Douglas Fir strip plank with diagonal veneer, laminated beams,
+  Iroko coamings, Solid Douglas fir spars
 engine_installations: []
 for_sales:
 - asking_price: 3500
 - asking_price: 1500
-handicap_data:
-  moving_keel: true
-  length_overall: 5.3645
-  draft_keel_down: 1.4021
-  moving_keel_type: Centreboard
-  length_on_waterline: 4.9682
 home_country: GBR
 home_port: Sovereign Harbour
 hull_form: long keel deep forefoot
-id: 5ed47587-b95f-4519-ae5d-7aebce798083
-length_on_deck: 5.3645
-spar_material: wood
 ssr: '167009'
 callsign: T121621
 ownerships:
@@ -47,16 +43,21 @@ ownerships:
   member: 4213
   current: true
   start: '?'
-place_built: Lancashire
-updated_at: '2021-12-19T13:40:08.289181+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1985
-year_is_approximate: false
+id: 5ed47587-b95f-4519-ae5d-7aebce798083
 previous_names:
 - Womble
 image_key: GqMt4W
-construction_details: Douglas Fir strip plank with diagonal veneer, laminated beams,
-  Iroko coamings, Solid Douglas fir spars
+thumb: https://photos.smugmug.com/photos/i-JQRZ5Vg/0/Th/i-JQRZ5Vg-Th.jpg
+draft: 0
+handicap_data:
+  moving_keel: true
+  length_overall: 5.3645
+  draft_keel_down: 1.4021
+  moving_keel_type: Centreboard
+  length_on_waterline: 4.9682
+length_on_deck: 5.3645
 beam: 2.1336
 for_sale_state:
   text: not_for_sale

@@ -5,25 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Pawley
-  id: e25b4bba-ffb2-4088-aa31-ed7a60eaa98e
+year: 1984
+year_is_approximate: false
 designer:
   name: Colin Archer/C. Norris
   id: 166ab917-eb6f-402f-950f-f60fd68684e1
+builder:
+  name: Pawley
+  id: e25b4bba-ffb2-4088-aa31-ed7a60eaa98e
+place_built: Beaworthy Devon
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 3.9624481833699097
-  length_over_all: 12.192148256522799
 home_country: GBR
 home_port: Saltash
 hull_form: unknown
-id: 19a5b57c-f7a9-494b-a830-67528a1d355a
-length_on_deck: 12.192
 callsign: ''
 ownerships:
 - name: T W Pawley
@@ -33,11 +30,14 @@ ownerships:
   member: 626
   current: true
   start: '?'
-place_built: Beaworthy Devon
-updated_at: '2021-12-19T13:39:27.297636+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1984
-year_is_approximate: false
+id: 19a5b57c-f7a9-494b-a830-67528a1d355a
+draft: 0
+handicap_data:
+  beam: 3.9624481833699097
+  length_over_all: 12.192148256522799
+length_on_deck: 12.192
 beam: 3.9624
 for_sale_state:
   text: not_for_sale

@@ -5,17 +5,34 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: Water Craft Sep/Oct 97 Outboard fitted in well
-builder:
-  name: Eric Bergqvist
-  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+year: 1978
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+place_built: Lymm
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: GRP
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Lyme Regis
+hull_form: centre-boarder
+sail_number: '305'
+callsign: ''
+ownerships:
+- name: Jonathan Dixon
+  share: 64
+  start: 2012
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: dd17df37-5ff9-41ab-80c1-2206a3440d43
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -33,24 +50,7 @@ handicap_data:
   fore_triangle_base: 2.8194342843208973
   length_on_waterline: 5.739453791758107
   fore_triangle_height: 4.57205559619605
-home_country: 'null'
-home_port: Lyme Regis
-hull_form: centre-boarder
-id: dd17df37-5ff9-41ab-80c1-2206a3440d43
 length_on_deck: 5.7912
-sail_number: '305'
-spar_material: wood
-callsign: ''
-ownerships:
-- name: Jonathan Dixon
-  share: 64
-  start: 2012
-place_built: Lymm
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-construction_details: GRP
 beam: 2.1336
 design_class:
   name: Memory 19

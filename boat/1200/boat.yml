@@ -14,17 +14,41 @@ full_description: "<p>&#39;Mirelle&#39; was built at Whisstock&#39;s on the Rive
   \ webkitallowfullscreen=\"\" width=\"640\"></iframe></p>\r\n\r\n<p><a href=\"https://vimeo.com/119893354\"\
   >Mirelle - CLASSIC YACHT TV</a> from <a href=\"https://vimeo.com/classicyachttv\"\
   >Classic Yacht TV</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
-builder:
-  name: Claude Whisstock
-  id: 14a939d0-e062-4e1d-9e21-c1ec89fef573
+year: 1937
+year_is_approximate: false
 designer:
   name: William Maxwell Blake
   id: 7be4728c-aec1-4b98-9245-33fa05964add
+builder:
+  name: Claude Whisstock
+  id: 14a939d0-e062-4e1d-9e21-c1ec89fef573
+place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
-draft: 1.524
+construction_details: Carvel teak on oak to Lloyds scantlings
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Bucklers Hard
+hull_form: long keel sloping forefoot
+uk_part1: '166102'
+callsign: ''
+ownerships:
+- end: 2013
+  name: Andrew Craig-Bennett
+  share: 64
+  start: 1984
+- id: 870
+  share: 64
+  start: 2013
+  member: 5975
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 7575af4a-e2e5-4639-a4fb-dbbfc6fef27d
+image_key: VRqTzf
+thumb: https://photos.smugmug.com/photos/i-nxvqd5j/0/Th/i-nxvqd5j-Th.jpg
+draft: 1.524
 handicap_data:
   beam: 2.9565959522067784
   main:
@@ -42,30 +66,7 @@ handicap_data:
   fore_triangle_base: 6.2484759814679345
   length_on_waterline: 8.382101926359423
   fore_triangle_height: 7.772494513533284
-home_country: GBR
-home_port: Bucklers Hard
-hull_form: long keel sloping forefoot
-id: 7575af4a-e2e5-4639-a4fb-dbbfc6fef27d
 length_on_deck: 11.2776
-uk_part1: '166102'
-callsign: ''
-ownerships:
-- end: 2013
-  name: Andrew Craig-Bennett
-  share: 64
-  start: 1984
-- id: 870
-  share: 64
-  start: 2013
-  member: 5975
-  current: true
-place_built: Woodbridge
-updated_at: '2021-12-19T13:39:04.530176+00:00'
-website: ''
-year: 1937
-year_is_approximate: false
-image_key: VRqTzf
-construction_details: Carvel teak on oak to Lloyds scantlings
 beam: 2.9566
 for_sale_state:
   text: not_for_sale

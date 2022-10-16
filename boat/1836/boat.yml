@@ -6,25 +6,23 @@ mainsail_type: gaff
 short_description: <p>Vagabond was designed by Maxwell Blake and is an early example
   of his thinking on 4 tonners.</p>
 full_description: ''
-builder:
-  name: A.V. Robertson and Sons
-  id: 63acce53-2318-43bf-96ce-6e16e07bddc1
+year: 1936
+year_is_approximate: false
 designer:
   name: William Maxwell Blake
   id: 7be4728c-aec1-4b98-9245-33fa05964add
+builder:
+  name: A.V. Robertson and Sons
+  id: 63acce53-2318-43bf-96ce-6e16e07bddc1
+place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
-draft: 0.9144
+construction_details: Carvel, larch on oak, alternate grown and steamed timbers
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.13362594489149
-  length_over_all: 6.705681541087539
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel sloping forefoot
-id: 054be274-d75c-48aa-b551-714992ab0d24
-length_on_deck: 6.7056
 callsign: ''
 ownerships:
 - note: 'Previous owners: Bunny Hare, Peter Franklin, John Laird.'
@@ -40,12 +38,14 @@ ownerships:
   member: 5997
   current: true
   start: '?'
-place_built: Woodbridge
-updated_at: '2021-12-19T13:39:21.674647+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 1936
-year_is_approximate: false
-construction_details: Carvel, larch on oak, alternate grown and steamed timbers
+id: 054be274-d75c-48aa-b551-714992ab0d24
+draft: 0.9144
+handicap_data:
+  beam: 2.13362594489149
+  length_over_all: 6.705681541087539
+length_on_deck: 6.7056
 beam: 2.1854
 design_class:
   name: Ranzo

@@ -5,25 +5,22 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: Martham Boatyard/Vaughan Taylor
-  id: 549734ef-854d-4871-8e72-669e59dffbdd
+year: 2006
+year_is_approximate: false
 designer:
   name: Frank W. Shuttlewood
   id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
+builder:
+  name: Martham Boatyard/Vaughan Taylor
+  id: 549734ef-854d-4871-8e72-669e59dffbdd
+place_built: Maldon
 construction_material: wood
 construction_method: unknown
-draft: 0
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.590831504511095
-  length_over_all: 8.915508412582296
 home_country: 'null'
 home_port: Maldon
 hull_form: unknown
-id: e0b9878b-7eb0-4e87-ae96-240b82cd2876
-length_on_deck: 8.9154
 callsign: ''
 ownerships:
 - name: Murray Panton
@@ -33,11 +30,14 @@ ownerships:
   member: 4750
   current: true
   start: '?'
-place_built: Maldon
-updated_at: '2021-12-19T13:39:48.631868+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
-year: 2006
-year_is_approximate: false
+id: e0b9878b-7eb0-4e87-ae96-240b82cd2876
+draft: 0
+handicap_data:
+  beam: 2.590831504511095
+  length_over_all: 8.915508412582296
+length_on_deck: 8.9154
 beam: 2.5908
 for_sale_state:
   text: not_for_sale

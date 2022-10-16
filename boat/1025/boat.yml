@@ -5,17 +5,37 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: ''
 full_description: ''
-builder:
-  name: R.D. Forrest
-  id: 6a4d1c91-3bd4-4aa1-be97-30e73dc5043d
+year: 1978
+year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+builder:
+  name: R.D. Forrest
+  id: 6a4d1c91-3bd4-4aa1-be97-30e73dc5043d
+place_built: Waterlooville
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
-draft: 0.5334
+construction_details: GRP, Mahogany trim Douglas Fir spars
 engine_installations: []
 for_sales: []
+home_country: GBR
+home_port: Chichester
+hull_form: centre-boarder
+callsign: ''
+ownerships:
+- id: 357
+  share: 64
+  start: 2001
+  member: 3972
+  current: true
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+website: ''
+id: 070c50f9-0ffe-405f-8bb8-b326ec937552
+previous_names:
+- Long Nanny
+draft: 0.5334
 handicap_data:
   beam: 2.13362594489149
   main:
@@ -29,27 +49,7 @@ handicap_data:
     perpendicular: 1.8288222384784198
   length_over_all: 5.7912704218483295
   length_on_waterline: 5.690685198732017
-home_country: GBR
-home_port: Chichester
-hull_form: centre-boarder
-id: 070c50f9-0ffe-405f-8bb8-b326ec937552
 length_on_deck: 5.7912
-spar_material: wood
-callsign: ''
-ownerships:
-- id: 357
-  share: 64
-  start: 2001
-  member: 3972
-  current: true
-place_built: Waterlooville
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
-year: 1978
-year_is_approximate: false
-previous_names:
-- Long Nanny
-construction_details: GRP, Mahogany trim Douglas Fir spars
 beam: 2.1336
 design_class:
   name: Memory 19

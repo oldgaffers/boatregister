@@ -14,27 +14,23 @@ full_description: "<p>Flamingo has very little documentation. David Smallwood la
   \ fitting out, the rig has been restored, she has a new rudder, new deck and a reconditioned\
   \ Baby Blake toilet.</p>\r\n\r\n<p>In 2014 she was moved into Jonathan&#39;s orchard\
   \ where he hopes to complete the work. Visit the boat&#39;s website to see progress.</p>"
-builder:
-  name: Berthon Boat Co. Ltd.
-  id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
+year: 1930
+year_is_approximate: false
 designer:
   name: Berthon
   id: c45aee9b-7cb0-46c1-b291-016080d709f2
+builder:
+  name: Berthon Boat Co. Ltd.
+  id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
+place_built: Lymington
 construction_material: wood
 construction_method: carvel
-draft: 1.6002
+construction_details: Carvel Pitch pine planking rivetted on oak frames.
 engine_installations: []
 for_sales: []
-handicap_data:
-  beam: 2.43842965130456
-  draft: 1.066812972445745
-  length_over_all: 8.83930748597903
-  length_on_waterline: 7.924896366739819
 home_country: GBR
 home_port: ''
 hull_form: long keel sloping forefoot
-id: 9d415275-0f99-432d-82da-dbf0837790d7
-length_on_deck: 8.763
 uk_part1: '161690'
 callsign: ''
 ownerships:
@@ -47,13 +43,18 @@ ownerships:
   start: 2014
   member: 5903
   current: true
-place_built: Lymington
-updated_at: '2021-12-19T13:39:01.462639+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: www.justflamingo.com
-year: 1930
-year_is_approximate: false
+id: 9d415275-0f99-432d-82da-dbf0837790d7
 image_key: K4SPdm
-construction_details: Carvel Pitch pine planking rivetted on oak frames.
+thumb: https://photos.smugmug.com/photos/i-r6vtnCg/0/Th/i-r6vtnCg-Th.jpg
+draft: 1.6002
+handicap_data:
+  beam: 2.43842965130456
+  draft: 1.066812972445745
+  length_over_all: 8.83930748597903
+  length_on_waterline: 7.924896366739819
+length_on_deck: 8.763
 beam: 2.4384
 for_sale_state:
   text: not_for_sale

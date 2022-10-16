@@ -5,17 +5,36 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: ''
 full_description: ''
-builder:
-  name: J.W. and A. Upham Ltd.
-  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+year: 1970
+year_is_approximate: false
 designer:
   name: Kim Holman
   id: 8833d78f-9c94-4d4e-bde5-71fa74207177
+builder:
+  name: J.W. and A. Upham Ltd.
+  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+place_built: Brixham
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.4996
+construction_details: GRP hull and decks, wooden coachroof and cockpit.
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: ''
+hull_form: long keel deep forefoot
+sail_number: 1377Y
+uk_part1: '339879'
+callsign: ''
+ownerships:
+- id: 770
+  share: 64
+  start: 2008
+  member: 5787
+  current: true
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ''
+id: 3ccfba81-5a99-45ff-95a8-ab8a162031f8
+draft: 1.4996
 handicap_data:
   beam: 2.4700300393196777
   main:
@@ -31,26 +50,7 @@ handicap_data:
   fore_triangle_base: 3.300040133504023
   length_on_waterline: 6.550079658924653
   fore_triangle_height: 10.660129643379664
-home_country: 'null'
-home_port: ''
-hull_form: long keel deep forefoot
-id: 3ccfba81-5a99-45ff-95a8-ab8a162031f8
 length_on_deck: 8.6106
-sail_number: 1377Y
-uk_part1: '339879'
-callsign: ''
-ownerships:
-- id: 770
-  share: 64
-  start: 2008
-  member: 5787
-  current: true
-place_built: Brixham
-updated_at: '2021-12-19T13:39:58.706397+00:00'
-website: ''
-year: 1970
-year_is_approximate: false
-construction_details: GRP hull and decks, wooden coachroof and cockpit.
 beam: 2.6914
 design_class:
   name: Twister

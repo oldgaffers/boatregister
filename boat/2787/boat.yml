@@ -5,17 +5,34 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: ''
 full_description: Conversion of stock hull into long keel sloop by first owner
-builder:
-  name: First Owner
-  id: ae38282d-1e2d-43d9-a123-4c8ee205637f
+year: 1975
+year_is_approximate: false
 designer:
   name: First owner
   id: e101f04b-761e-4ef4-82a1-8cee62be65ed
+builder:
+  name: First Owner
+  id: ae38282d-1e2d-43d9-a123-4c8ee205637f
+place_built: Den Helder
 construction_material: grp
 construction_method: cold_moulded
-draft: 1.1003
+construction_details: Grp
 engine_installations: []
 for_sales: []
+home_country: 'null'
+home_port: Monnickendam NL
+hull_form: long keel deep forefoot
+callsign: ''
+ownerships:
+- name: Chris Corbier
+  share: 64
+  start: 2005
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+website: ' https://debestevaer.blogspot.com/'
+id: af86227b-f391-4dec-ac88-ddfdd1b5bb29
+image_key: cWrdR6
+thumb: https://photos.smugmug.com/photos/i-tsSpcgx/0/Th/i-tsSpcgx-Th.jpg
+draft: 1.1003
 handicap_data:
   beam: 2.801146061936113
   main:
@@ -30,23 +47,7 @@ handicap_data:
   fore_triangle_base: 5.300536454523287
   length_on_waterline: 9.000853450377956
   fore_triangle_height: 7.150694952450622
-home_country: 'null'
-home_port: Monnickendam NL
-hull_form: long keel deep forefoot
-id: af86227b-f391-4dec-ac88-ddfdd1b5bb29
 length_on_deck: 9.2964
-callsign: ''
-ownerships:
-- name: Chris Corbier
-  share: 64
-  start: 2005
-place_built: Den Helder
-updated_at: '2021-12-19T13:39:49.429376+00:00'
-website: ' https://debestevaer.blogspot.com/'
-year: 1975
-year_is_approximate: false
-image_key: cWrdR6
-construction_details: Grp
 beam: 2.8011
 for_sale_state:
   text: not_for_sale
