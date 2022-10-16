@@ -30,6 +30,10 @@ def wanted(boat):
     ]
     return { key: transform(boat[key]) for key in wanted_keys if key in boat }
 
+f = open('editors_choice.json')
+data = json.load(f)['data']['sort_orders'][0]['values']
+f.close()
+editors_choice = {i['oga_no']:i['rank'] for i in data}
 mypath='boat/'
 boats = listdir(mypath)
 data = []
@@ -41,6 +45,7 @@ for b in boats:
         print(f'no data for {b}')
       else:
         boat = wanted(boat)
+        boat['rank'] = editors_choice[boat['oga_no']]
         data.append(boat)
     except Exception as e:
       print(e)
