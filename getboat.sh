@@ -10,7 +10,7 @@ curl 'https://api-oga.herokuapp.com/v1/graphql' \
 -H 'Cache-Control: no-cache' \
 -H 'Connection: keep-alive' \
 --data-binary "{\"query\": \"$Q\",\"variables\":{\"oga_no\":$1},\"operationName\":\"MyQuery\"}"  | jq -c '.data.boat[0]' > $1.json
-cat > $1 <<EOF
+cat > pd${1}.json <<EOF
 {
   "staticQueryHashes": [],
   "componentChunkName": "component---src-templates-boattemplate-jsx",
@@ -25,5 +25,5 @@ cat > $1 <<EOF
   }
 }
 EOF
-jq --unbuffered -cM . $1
-rm $1.json $1
+jq --unbuffered -cM . pd${1}.json
+rm $1.json pd${1}.json
