@@ -34,6 +34,8 @@ def wanted(boat):
 def owners(boat):
   if 'ownerships' in boat:
     current = [o['id'] for o in boat['ownerships'] if 'id' in o and 'current' in o and o['current']]
+    if len(current) == 0:
+      current = [f"M{o['member']}" for o in boat['ownerships'] if 'member' in o and 'current' in o and o['current']]
     return current
   return []
 
