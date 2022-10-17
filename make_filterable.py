@@ -27,28 +27,43 @@ def wanted(boat):
     'updated_at',
     'length_on_deck',
     'price',
+    'ownerships',
     ]
     return { key: transform(boat[key]) for key in wanted_keys if key in boat }
 
-f = open('editors_choice.json')
-data = json.load(f)['data']['sort_orders'][0]['values']
-f.close()
-editors_choice = {i['oga_no']:i['rank'] for i in data}
-mypath='boat/'
-boats = listdir(mypath)
-data = []
-for b in boats:
-  with open(f"{mypath}/{b}/boat.yml", "r") as stream:
+def owners(boat):
+  if 'ownerships' in boat:
+    current = [o['id'] for o in boat['ownerships'] if 'id' in o and 'current' in o and o['current']]
+    return current
+  return []
+
+def get_boat(path):
+  with open(path, "r") as stream:
     try: 
       boat = yaml.safe_load(stream)
       if boat is None:
         print(f'no data for {b}')
       else:
-        boat = wanted(boat)
-        boat['rank'] = editors_choice[boat['oga_no']]
-        data.append(boat)
+        return wanted(boat)
     except Exception as e:
       print(e)
-      print('OGA', b)
-with open("filterable.json", "w") as stream:
-    json.dump(data, stream, ensure_ascii=False)
+      print('OGA', path)
+  return None
+
+if __name__ == '__main__':
+  f = open('editors_choice.json')
+  data = json.load(f)['data']['sort_orders'][0]['values']
+  f.close()
+  editors_choice = {i['oga_no']:i['rank'] for i in data}
+  mypath='boat/'
+  boats = listdir(mypath)
+  data = []
+  for b in boats:
+    boat = get_boat(f"{mypath}/{b}/boat.yml")
+    boat['rank'] = editors_choice[boat['oga_no']]
+    if 'ownerships' in boat:
+      boat['owners'] = owners(boat)
+      del boat['ownerships']
+    data.append(boat)
+  with open("filterable.json", "w") as stream:
+      json.dump(data, stream, ensure_ascii=False)
