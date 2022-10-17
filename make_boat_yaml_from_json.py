@@ -59,44 +59,48 @@ def simplify(field, new_field, boat):
       boat[new_field] = { 'name': boat[long_field]['name'], 'id': boat[new_field] }
     del boat[long_field]
 
+def ownerships(os):
+  if 'owners' in os and os['owners'] is not None:
+    owners = sorted(os['owners'], key=ownerSortOrder)
+  else:
+    owners = []
+  if 'current' in os and os['current'] is not None:
+    current = os['current']
+    for o in current:
+      ol = []
+      found = False
+      if 'id' in o:
+        for r in owners:
+          if 'id' in r and r['id'] == o['id']:
+            r['current'] = True
+            found = True
+          ol.append(r)
+        if not found:
+          o['current'] = True
+          if 'start' not in o:
+            o['start']='?'
+          ol.append(o)
+      else:
+        for r in owners:
+          if 'member' in r and r['member'] == o['member']:
+            r['current'] = True
+            found = True
+          ol.append(r)
+        if not found:
+          o['current'] = True
+          if 'start' not in o:
+            o['start']='?'
+          print(o)
+          ol.append(o)
+          print(ol)
+    return ol
+  else:
+    return owners
+
 def map_boat(item):
   boat = {k: v for k, v in item.items() if v is not None}
   if 'ownerships' in boat:
-    os = boat['ownerships']
-    if 'owners' in os and os['owners'] is not None:
-      owners = sorted(os['owners'], key=ownerSortOrder)
-    else:
-      owners = []
-    if 'current' in os and os['current'] is not None:
-      current = os['current']
-      for o in current:
-        ol = []
-        found = False
-        if 'id' in o:
-          for r in owners:
-            if 'id' in r and r['id'] == o['id']:
-              r['current'] = True
-              found = True
-            ol.append(r)
-          if not found:
-            o['current'] = True
-            if 'start' not in o:
-              o['start']='?'
-            ol.append(o)
-        else:
-          for r in owners:
-            if 'member' in r and r['member'] == o['member']:
-              r['current'] = True
-              found = True
-            ol.append(r)
-          if not found:
-            o['current'] = True
-            if 'start' not in o:
-              o['start']='?'
-            ol.append(o)
-      boat['ownerships'] = ol
-    else:
-      boat['ownerships'] = owners
+    boat['ownerships'] = ownerships(boat['ownerships'])
   boat.pop('genericTypeByGenericType', None)
   boat.pop('rigTypeByRigType', None)
   if 'constructionMaterialByConstructionMaterial' in boat:
