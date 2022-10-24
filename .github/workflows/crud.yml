@@ -19,7 +19,7 @@ jobs:
     - name: test
       run: |
         git checkout -b up${{ github.event.inputs.oga_no }}
-        echo '${{ github.event.inputs.data }}' | yq -P . > boat/${{ github.event.inputs.data }}/boat.yml
+        echo '${{ github.event.inputs.data }}' | make_boat_yaml_from_stdin
         git add .
         git commit . -m "from user"
         git push -u origin up${{ github.event.inputs.oga_no }}
