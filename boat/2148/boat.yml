@@ -24,15 +24,22 @@ construction_method: cold_moulded
 construction_details: GRP, Mahogany fit out
 engine_installations: []
 for_sales:
+- asking_price: 3500
+  flexibility: normal
+  offered: 2022-10-24
+  reduced: false
+  sales_text: "<div><p>Padstow Lugger Day boat. 15&rsquo; on deck 22&rsquo; over spars. GRP hull with teak gunwhales.\
+    \ solid wood spars. Steel centre plate.</p><p>Very stable, and easy to row.</p>  <p>Old sails, but still good.</p>\
+    \<p>Oars,</p>  <p>bilge pump,</p>  <p>2 covers.</p><p>Road trailer.</p>  <p>Fitted with leisure battery for use with electric trolling motor.</p></div>"
 - asking_price: 3950
   flexibility: normal
-  offered: null
+  offered: 2016
   price_flexibility:
     text: normal
   reduced: false
   sales_text: "<p>Padstow lugger, 14\u20198\" black GRP hull, beam 5\u20194\". Mahogany\
     \ fit-out. Douglas fir masts/spars. Full inventory included in sale.</p>"
-  sold: null
+  sold: 2016
   summary: "<p>Padstow lugger, 14\u20198&quot; black GRP hull, beam 5\u20194&quot;.\
     \ Mahogany fit-out. Douglas fir masts/spars. Full inventory included in sale.\
     \ Stored East Suffolk, will deliver at cost if required.</p>"
@@ -88,4 +95,4 @@ design_class:
   name: Padstow Lugger
   id: bd13b288-8825-41e1-b7a3-8cc72a9dc3e5
 for_sale_state:
-  text: not_for_sale
+  text: for_sale
