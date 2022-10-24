@@ -17,6 +17,8 @@ jobs:
       run: |
         main_sha="$(gh api -H 'Accept: application/vnd.github+json' /repos/oldgaffers/boatregister/git/matching-refs/heads/main --jq '.[0].object.sha')"
         echo 'MAIN='$main_sha >> $GITHUB_ENV
+        echo $main_sha
+        echo $MAIN
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: create branch
