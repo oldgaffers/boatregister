@@ -128,7 +128,10 @@ if __name__ == '__main__':
   data = json.load(sys.stdin)
   boat = get_boat(data)
   if boat is not None:
-    outdir = f"boat/{data['oga_no']}"
+    if 'oga_no' in boat:
+      outdir = f"boat/{data['oga_no']}"
+    else:
+      outdir = f"boat/{data['result']['pageContext']['boat']['oga_no']}"
     Path(outdir).mkdir(parents=True, exist_ok=True)
     with open(f'{outdir}/boat.yml', 'w') as outfile:
       yaml.dump(map_boat(boat), outfile, default_flow_style=False, sort_keys=False)
