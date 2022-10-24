@@ -13,22 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     name: A job to propose and update to a boat
     steps:
-    - name: get sha
+    - uses: actions/checkout@v3
+    - name: show env
+      run: env
+    - name: test
       run: |
-        main_sha="$(gh api -H 'Accept: application/vnd.github+json' /repos/$OWNER/$REPO/git/matching-refs/heads/main --jq '.[0].object.sha')"
-        echo 'MAIN='$main_sha >> $GITHUB_ENV
-        echo $main_sha
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        OWNER: ${{ github.repository_owner }}
-        REPO: ${{ github.event.repository.name }}
-    - name: create branch
-      uses: peterjgrainger/action-create-branch@v2.2.0
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        branch: 'up${{ github.event.inputs.oga_no }}'
-        sha: ${{ env.MAIN }}
-    - name: log
-      run: echo '${{ github.event.inputs.data }}'|jq .
-
+        git checkout -b up${{ github.event.inputs.oga_no }}
+        echo '${{ github.event.inputs.data }}' | yq -P . > boat/${{ github.event.inputs.data }}/boat.yml
+        git add .
+        git commit . -m "from user"
+        git push -u origin up${{ github.event.inputs.oga_no }}
