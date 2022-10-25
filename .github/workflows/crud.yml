@@ -6,7 +6,7 @@ on:
         description: 'Boat OGA No'
         required: true
       data:
-        description: 'new values'
+        description: 'new values as base 64 encoded JSON'
         required: true
 jobs:
   boat_job:
@@ -21,3 +21,4 @@ jobs:
       uses: peter-evans/create-pull-request@v4
       with:
         branch: up${{ github.event.inputs.oga_no }}
+        title: proposed updates to boat ${{ github.event.inputs.oga_no }}
