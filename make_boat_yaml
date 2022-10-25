@@ -122,7 +122,7 @@ def get_boat(data):
       if data[field] is not None:
         boat[field] = data[field]
       del data[field]
-  return boat | OrderedDict(data) # any fields not in topLevelFields
+  return OrderedDict(**boat, **OrderedDict(data)) # any fields not in topLevelFields
 
 if __name__ == '__main__':
   if len(sys.argv) == 2:
