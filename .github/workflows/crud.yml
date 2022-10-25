@@ -14,10 +14,12 @@ jobs:
     name: A job to propose and update to a boat
     steps:
     - uses: actions/checkout@v3
-    - name: test
+    - name: boat
       run: |
         git checkout -b up${{ github.event.inputs.oga_no }}
         echo '${{ github.event.inputs.data }}' | ./make_boat_yaml_from_stdin
         git add .
         git commit . -m "from user"
+    - name: push
+      run: |
         git push -u origin up${{ github.event.inputs.oga_no }}
