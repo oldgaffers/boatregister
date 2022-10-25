@@ -2,7 +2,7 @@
 from typing import OrderedDict
 import yaml
 import json
-from os import listdir
+import base64
 import sys
 from pathlib import Path
 
@@ -126,8 +126,9 @@ def get_boat(data):
 
 if __name__ == '__main__':
   if len(sys.argv) == 2:
-      with open(sys.argv[1], "r") as stream:
-        data = json.load(stream)
+    b64 = open(sys.argv[1], "r").read()
+    decoded = base64.b64decode(b64)
+    data = json.loads(decoded)
   else:
     data = json.load(sys.stdin)
   boat = get_boat(data)
