@@ -16,6 +16,7 @@ jobs:
     - uses: actions/checkout@v3
     - name: boat
       run: |
+        python3 --version
         git checkout -b up${{ github.event.inputs.oga_no }}
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
         git add .
