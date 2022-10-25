@@ -20,8 +20,7 @@ jobs:
         cat <<EOF >data.json
         ${{ github.event.inputs.data }}
         EOF
-        cat data.json
-        ./make_boat_yaml_from_stdin < data.json
+        ./make_boat_yaml data.json
         rm data.json
         git add .
         git commit . -m "from user"
