@@ -130,10 +130,7 @@ if __name__ == '__main__':
   else:
     b64 = sys.stdin.buffer.read()
   decoded = base64.b64decode(b64)
-  print(decoded)
   data = json.loads(decoded)
-  print(data)
-  print(data.keys())
   boat = get_boat(data)
   if boat is not None:
     if 'oga_no' in boat:
