@@ -22,3 +22,4 @@ jobs:
       with:
         branch: up${{ github.event.inputs.oga_no }}
         title: proposed updates to boat ${{ github.event.inputs.oga_no }}
+        assignees: AlisonCable
