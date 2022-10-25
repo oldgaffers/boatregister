@@ -127,10 +127,10 @@ def get_boat(data):
 if __name__ == '__main__':
   if len(sys.argv) == 2:
     b64 = open(sys.argv[1], "r").read()
-    decoded = base64.b64decode(b64)
-    data = json.loads(decoded)
   else:
-    data = json.load(sys.stdin)
+    b64 = sys.stdin.buffer.read()
+  decoded = base64.b64decode(b64)
+  data = json.loads(decoded)
   boat = get_boat(data)
   if boat is not None:
     if 'oga_no' in boat:
