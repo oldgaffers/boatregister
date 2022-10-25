@@ -14,8 +14,6 @@ jobs:
     name: A job to propose and update to a boat
     steps:
     - uses: actions/checkout@v3
-    - name: show env
-      run: env
     - name: test
       run: |
         git checkout -b up${{ github.event.inputs.oga_no }}
