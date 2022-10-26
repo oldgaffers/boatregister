@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from array import array
 from typing import OrderedDict
 import yaml
 import json
@@ -38,10 +39,15 @@ topLevelFields = [
   'updated_at',
   'website',
   'id',
+  'nsbr',
+  'fishing_number',
+  'mssi',
+  'image_key',
+  'thumb',
+  'draft',
+  'handicap_data',
+  'for_sale_state',
 ]
-
-#   'draft',   'handicap_data',   'length_on_deck',
-
 
 def ownerSortOrder(o):
   if 'start' in o:
@@ -60,7 +66,17 @@ def simplify(field, new_field, boat):
       boat[new_field] = { 'name': boat[long_field]['name'], 'id': boat[new_field] }
     del boat[long_field]
 
+def owner(o):
+  fields = ['name', 'member', 'id', 'start', 'end', 'share']
+  r = {}
+  for field in fields:
+    if field in o:
+      r[field] = o[field]
+  return r
+
 def ownerships(os):
+  if type(os) is list:
+    return [owner(o) for o in os]
   if 'owners' in os and os['owners'] is not None:
     owners = sorted(os['owners'], key=ownerSortOrder)
   else:
@@ -120,7 +136,14 @@ def get_boat(data):
   for field in topLevelFields:
     if field in data:
       if data[field] is not None:
-        boat[field] = data[field]
+        f = data[field]
+        if type(f) is dict and 'id' in f:
+          boat[field] = {
+            'name': f['name'],
+            'id': f['id']
+          }
+        else:
+          boat[field] = f
       del data[field]
   return OrderedDict(**boat, **OrderedDict(data)) # any fields not in topLevelFields
 
