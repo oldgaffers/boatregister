@@ -1,0 +1,52 @@
+#!/usr/bin/env python3
+import yaml
+import json
+import sys
+from os import listdir
+from pathlib import Path
+
+def nullif(o, k):
+  if k in o:
+    return o[k]
+  return None
+
+def emptyif(o, k):
+  if o is None:
+    return {}
+  if k in o:
+    return o[k]
+  return {}
+
+def jsonFromYaml(b):
+  boat = None
+  try:
+    with open(f"boat/{b}/boat.yml", "r") as stream:
+      boat = yaml.safe_load(stream)
+  except:
+    print(b)
+  if boat is not None:
+    data = {
+      "staticQueryHashes": [],
+      "componentChunkName": "component---src-templates-boattemplate-jsx",
+      "path": f"/boat/{b}",
+      "result": {
+        "pageContext": {
+          "pathSlug": f"/boat/{b}",
+          "home": "/",
+          "absolute": "https://oga.org.uk",
+          "boat": boat,
+        }
+      }
+    }
+    outdir = f"page-data/boat/{b}"
+    Path(outdir).mkdir(parents=True, exist_ok=True)
+    with open(f'{outdir}/page-data.json', 'w') as outfile:
+      json.dump(data, outfile, sort_keys=True)
+
+if __name__ == '__main__':
+  if len(sys.argv) == 2:
+    jsonFromYaml(sys.argv[1])
+  else:
+    boats = listdir('boat')
+    for b in boats:
+      jsonFromYaml(b)

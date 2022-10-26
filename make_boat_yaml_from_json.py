@@ -129,15 +129,16 @@ def get_boat(b):
 mypath='page-data/boat'
 boats = listdir(mypath)
 data = {}
-for b in boats:
+for b in [315]: #boats:
   boat = None
   try:
     boat = get_boat(b)
   except:
     print(b)
-  if boat is not None:
-    outdir = f"boat/{b}"
-    Path(outdir).mkdir(parents=True, exist_ok=True)
-    with open(f'{outdir}/boat.yml', 'w') as outfile:
-      yaml.dump(map_boat(boat), outfile, default_flow_style=False, sort_keys=False)
+  print(json.dumps(boat, sort_keys=True))
+#  if boat is not None:
+#    outdir = f"boat/{b}"
+#    Path(outdir).mkdir(parents=True, exist_ok=True)
+#    with open(f'{outdir}/boat.yml', 'w') as outfile:
+#      yaml.dump(map_boat(boat), outfile, default_flow_style=False, sort_keys=False)
 
