@@ -8,9 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: create yaml boat files
+      - name: create json boat files
         run: |
-          python3 make_boat_yaml_from_json.py
+          python3 make_boat_json_from_yaml.py
           echo ok
       - name: create picklist json
         run: |
