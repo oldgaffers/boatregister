@@ -8,6 +8,9 @@ on:
       data:
         description: 'new values as base 64 encoded JSON'
         required: true
+      email:
+        description: 'email of person proposing the changes'
+        required: true
 jobs:
   boat_job:
     runs-on: ubuntu-latest
@@ -21,5 +24,5 @@ jobs:
       uses: peter-evans/create-pull-request@v4
       with:
         branch: up${{ github.event.inputs.oga_no }}
-        title: proposed updates to boat ${{ github.event.inputs.oga_no }}
+        title: proposed updates to boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}
         assignees: AlisonCable
