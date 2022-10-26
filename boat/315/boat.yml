@@ -34,11 +34,11 @@ full_description: "<p>\"When his last boat, the 42' Tredwin barge <em>Pearl</em>
 year: 1937
 year_is_approximate: false
 designer:
-  id: afc68d59-e7ba-466e-861f-741e2eeae526
   name: D.A. Rayner
+  id: afc68d59-e7ba-466e-861f-741e2eeae526
 builder:
-  id: a27bca50-d155-428a-be49-a542d64ba316
   name: Enterprise Small Craft
+  id: a27bca50-d155-428a-be49-a542d64ba316
 place_built: Rock Ferry, Birkenhead
 construction_material: wood
 spar_material: wood
@@ -55,13 +55,47 @@ sail_number: '315'
 ssr: '131134'
 uk_part1: '165315'
 callsign: MKDZ8
-ownerships: []
+ownerships:
+- name: Denys Rayner
+  start: 1937
+  end: 1946
+  share: 64
+- name: Audrey Parker
+  start: 1946
+  end: 1949
+  share: 32
+- name: Henry Parker
+  start: 1946
+  end: 1949
+  share: 32
+- name: Nigel Heriot
+  start: 1949
+  end: 1985
+  share: 64
+- name: Frank Driscoll
+  start: 1985
+  end: 1986
+  share: 64
+- name: Mike Garnham
+  start: 1986
+  end: 2007
+  share: 64
+- member: 5004
+  id: 559
+  start: 2007
+  share: 32
+- member: 5004
+  id: 1219
+  start: 2007
+  share: 32
 updated_at: '2022-09-04T12:52:20.666308+00:00'
 website: https://robinetta-log.blogspot.com/p/robinetta.html
 id: 85315666-4359-47f7-8d8d-4dd2905b7aa2
+nsbr: '1717'
+mssi: '235109366'
+image_key: 9NV8KW
+thumb: https://photos.smugmug.com/photos/i-F8N5HJk/2/Th/i-F8N5HJk-Th.jpg
 draft: 1.3716
-for_sale_state:
-  text: not_for_sale
 handicap_data:
   beam: 2.441
   fore_triangle_base: 1.5240185320653499
@@ -78,7 +112,5 @@ handicap_data:
   sailarea: 24.156
   thcf: 0.85
   topsail: {}
-image_key: 9NV8KW
-mssi: '235109366'
-nsbr: '1717'
-thumb: https://photos.smugmug.com/photos/i-F8N5HJk/2/Th/i-F8N5HJk-Th.jpg
+for_sale_state:
+  text: not_for_sale
