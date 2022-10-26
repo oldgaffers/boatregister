@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: create json boat files
         run: |
-          ./make_boat_json_from_yaml 315
+          ./make_boat_json_from_yaml
           echo ok
       - name: create picklist json
         run: |
