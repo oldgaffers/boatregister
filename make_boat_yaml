@@ -18,6 +18,7 @@ topLevelFields = [
   'year',
   'year_is_approximate',
   'designer',
+  'design_class',
   'builder',
   'place_built',
   'construction_material',
@@ -60,6 +61,7 @@ def ownerSortOrder(o):
 def simplify(field, new_field, boat):
   long_field = f"{field}By{field[0].capitalize()}{field[1:]}"
   if long_field in boat:
+    print(boat[long_field])
     if field in boat:
       boat[field] = { 'name': boat[long_field]['name'], 'id': boat[field] }
     elif new_field in boat:
@@ -126,28 +128,24 @@ def map_boat(item):
   if 'constructionMethodByConstructionMethod' in boat:
     boat['construction_method'] = boat['constructionMethodByConstructionMethod']['name']
     del boat['constructionMethodByConstructionMethod']
-  simplify('designer', 'designer', boat)
-  simplify('builder', 'builder', boat)
-  simplify('designClass', 'design_class', boat)
   return boat
 
 def get_boat(data):
   boat = OrderedDict()
   for field in topLevelFields:
-    if field in data:
-      if data[field] is not None:
-        f = data[field]
-        if type(f) is dict and 'id' in f:
-          boat[field] = {
-            'name': f['name'],
-            'id': f['id']
-          }
-        else:
-          boat[field] = f
+    if field in data and data[field] is not None:
+      f = data[field]
+      if field in ['builder','designer','design_class']:
+        boat[field] = [p for p in pickers[field] if p['id'] == f][0]
+      else:
+        boat[field] = f
       del data[field]
   return OrderedDict(**boat, **OrderedDict(data)) # any fields not in topLevelFields
 
 if __name__ == '__main__':
+  global pickers
+  with open("pickers.json", "r") as stream:
+    pickers = json.load(stream)
   if len(sys.argv) == 2:
     b64 = open(sys.argv[1], "r").read()
   else:
