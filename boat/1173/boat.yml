@@ -41,53 +41,74 @@ year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+design_class:
+  name: 2 1/2 Tonner
+  id: 5be1e6db-e482-4704-a65e-8d2e7e8d3772
 builder:
   name: David Hillyard
   id: d649c6a5-3acc-4f60-868f-7415641908a4
 place_built: Littlehampton
 construction_material: wood
+spar_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
 for_sales:
 - asking_price: 0
+  created_at: '2019-09-22T11:38:01+00:00'
+  flexibility: normal
+  id: 255da122-6339-4ab3-8851-10b450ac2cd9
+  offered: null
+  reduced: false
+  sales_text: <p>An interrupted project - cracked timbers have been replaced or had
+    new sections scarfed in, rotten deck beams have been replaced and a new tongue
+    and groove pitch-pine deck has been laid in anticipation of canvas being laid.</p><p>The
+    coachhouse and cockpit have been removed and need replacing.</p><p>Margaret Ann
+    is available with all the timber and fittings needed to complete her restoration
+    as well as a road trailer.&nbsp; She is currently in our drive in Kingsbridge,
+    South Devon.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.520482+00:00'
+  price_flexibility:
+    text: normal
 home_country: GBR
-home_port: Salcombe
+home_port: Kingsbridge
 hull_form: long keel deep forefoot
+reference:
+- Classic Boat November 2009 p.64
 callsign: ''
 ownerships:
-- name: Elspeth Macfarlane and Peter Crook
-  share: 64
+- share: 64
   start: 2001
-- id: 1106
-  share: 32
+  name: Elspeth Macfarlane and Peter Crook
+- share: 32
+  id: 1106
   member: 1377
   current: true
   start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+updated_at: '2022-10-29T19:14:02.698608+00:00'
 website: ''
 id: 824acb22-665e-4e09-b2d3-cdc1773c6fda
 image_key: 8t7FFL
 thumb: https://photos.smugmug.com/photos/i-r9BvCv4/0/Th/i-r9BvCv4-Th.jpg
 draft: 0.9144
 handicap_data:
-  beam: 1.9812240916849548
+  fore_triangle_height: 5.029261155815655
+  fore_triangle_base: 2.529870763228481
+  propellor:
+    type: fixed
+  length_over_all: 5.6388685686417945
   main:
     foot: 4.114850036576445
     head: 3.2004389173372347
     luff: 2.590831504511095
   thcf: 0.828817333
   draft: 0.9144111192392099
-  propellor:
-    type: fixed
-  length_over_all: 5.6388685686417945
-  fore_triangle_base: 2.529870763228481
+  beam: 1.9812240916849548
   length_on_waterline: 5.334064862228725
-  fore_triangle_height: 5.029261155815655
+selling_status: for_sale
 length_on_deck: 5.6388
+created_at: '2020-04-25T17:00:57.901932+00:00'
 beam: 1.9812
-design_class:
-  name: 2 1/2 Tonner
-  id: 5be1e6db-e482-4704-a65e-8d2e7e8d3772
-for_sale_state:
-  text: for_sale
