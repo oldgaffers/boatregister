@@ -5,32 +5,31 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <i>Robinetta</i> is a 22' 6" tabloid cruiser, designed by Denys
   Rayner and built for him by the Enterprise Small Craft Company, Rock Ferry, Birkenhead.
-full_description: "<p>\"When his last boat, the 42' Tredwin barge <em>Pearl</em>,\
-  \ was burnt out on moorings, Mr. Denys Rayner decided to try his hand at designing\
-  \ a boat, after studying the \"How To\" articles in the Y.M. Economy limited the\
-  \ size to less than 23<del>'</del>' overall, while a plea from the Shipmate was\
-  \ more or less an order for 6ft headroom.<del>\"</del>\"</p>\n<p>The preceding extract\
-  \ from the February 1937 issue of Yachting Monthly was penned by Maurice Griffith.</p>\n\
-  <p><em>Robinetta </em>was designed from the outset for single handing, with all\
-  \ lines except the jib halyard let to the cockpit. She is strongly built with pine\
-  \ planking on an oak frame with an iron keel and a good deal of lead ballast. Her\
-  \ main cabin is cavernous for such a tiny boat. Part of this stems from the extension\
-  \ of the hull upwards to form the cabin sides. Griffith goes on to say, \"Perhaps\
-  \ the most striking feature of this experimental design is the fullness of the hull,\
-  \ the pronounced tumblehome of the topsides from amidships aft, and the enormous\
-  \ quarters, which appear to be based on those of the French crabbers.\"</p>\n<p>Robinetta\
-  \ is mostly original, but her iron keel was replaced by lead in the 1950 or 60s\
-  \ when small changes were also made to her foredeck, both to the designs of Alan\
-  \ Buchanan.</p>\n<p>Significant changes were made by Mike Garnham who replaced the\
-  \ previous engine by the current Yanmar 1GM10 and re-worked the cockpit. Major structural\
-  \ repairs were performed during the winter of 2007/2008 strengthening the keel fixings\
-  \ and doubling several ribs.</p>\n<p>She was re-caulked with new gaff and sails\
-  \ in 2012.<br>\n <br>\n Previous sail dimensions: Mainsail Head: 9.17 ft Topsail\
-  \ Perpendicular: 6ft Topsail luff 13 ft</p>\n<p>Deck beam replaced and other repairs\
-  \ winter 2017/18.</p>\n<p>Read articles about Robinetta from the Royal Cruising\
-  \ Club Journal, 1938, on <a href=\"http://www.sailing-by.org.uk/content/standing-waves-and-submarines\"\
-  >Sailing by</a> and explore her <a href=\"http://robinetta-log.blogspot.co.uk/\"\
-  \ target=\"_blank\">blog</a> with a detailed history of ownership and other exploits.</p>"
+full_description: '<p>"When his last boat, the 42'' Tredwin barge <em>Pearl</em>,
+  was burnt out on moorings, Mr. Denys Rayner decided to try his hand at designing
+  a boat, after studying the "How To" articles in the Y.M. Economy limited the size
+  to less than 23<del>''</del>'' overall, while a plea from the Shipmate was more
+  or less an order for 6ft headroom.<del>"</del>"</p><p>The preceding extract from
+  the February 1937 issue of Yachting Monthly was penned by Maurice Griffith.</p><p><em>Robinetta
+  </em>was designed from the outset for single handing, with all lines except the
+  jib halyard let to the cockpit. She is strongly built with pine planking on an oak
+  frame with an iron keel and a good deal of lead ballast. Her main cabin is cavernous
+  for such a tiny boat. Part of this stems from the extension of the hull upwards
+  to form the cabin sides. Griffith goes on to say, "Perhaps the most striking feature
+  of this experimental design is the fullness of the hull, the pronounced tumblehome
+  of the topsides from amidships aft, and the enormous quarters, which appear to be
+  based on those of the French crabbers."</p><p>Robinetta is mostly original, but
+  her iron keel was replaced by lead in the 1950 or 60s when small changes were also
+  made to her foredeck, both to the designs of Alan Buchanan.</p><p>Significant changes
+  were made by Mike Garnham who replaced the previous engine by the current Yanmar
+  1GM10 and re-worked the cockpit. Major structural repairs were performed during
+  the winter of 2007/2008 strengthening the keel fixings and doubling several ribs.</p><p>She
+  was re-caulked with new gaff and sails in 2012.<br> <br> Previous sail dimensions:
+  Mainsail Head: 9.17 ft Topsail Perpendicular: 6ft Topsail luff 13 ft</p><p>Deck
+  beam replaced and other repairs winter 2017/18.</p><p>Read articles about Robinetta
+  from the Royal Cruising Club Journal, 1938, on <a href="http://www.sailing-by.org.uk/content/standing-waves-and-submarines">Sailing
+  by</a> and explore her <a href="http://robinetta-log.blogspot.co.uk/" target="_blank">blog</a>
+  with a detailed history of ownership and other exploits.</p>'
 year: 1937
 year_is_approximate: false
 designer:
@@ -44,7 +43,6 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: pitch pine on oak and elm
-engine_installations: []
 for_sales: []
 home_country: GBR
 home_port: Rosneath
@@ -56,61 +54,66 @@ ssr: '131134'
 uk_part1: '165315'
 callsign: MKDZ8
 ownerships:
-- name: Denys Rayner
+- share: 64
   start: 1937
+  name: Denys Rayner
   end: 1946
-  share: 64
-- name: Audrey Parker
+- share: 32
   start: 1946
+  name: Audrey Parker
   end: 1949
-  share: 32
-- name: Henry Parker
+- share: 32
   start: 1946
+  name: Henry Parker
   end: 1949
-  share: 32
-- name: Nigel Heriot
+- share: 64
   start: 1949
+  name: Nigel Heriot
   end: 1985
-  share: 64
-- name: Frank Driscoll
+- share: 64
   start: 1985
+  name: Frank Driscoll
   end: 1986
-  share: 64
-- name: Mike Garnham
+- share: 64
   start: 1986
+  name: Mike Garnham
   end: 2007
-  share: 64
-- member: 5004
+- share: 32
+  start: 2007
   id: 559
+  member: 5004
+  current: true
+- share: 32
   start: 2007
-  share: 32
-- member: 5004
   id: 1219
-  start: 2007
-  share: 32
-updated_at: '2022-09-04T12:52:20.666308+00:00'
+  member: 5004
+  current: true
+updated_at: '2022-10-29T18:53:59.126902+00:00'
 website: https://robinetta-log.blogspot.com/p/robinetta.html
 id: 85315666-4359-47f7-8d8d-4dd2905b7aa2
 nsbr: '1717'
+fishing_number: ''
 mssi: '235109366'
 image_key: 9NV8KW
 thumb: https://photos.smugmug.com/photos/i-F8N5HJk/2/Th/i-F8N5HJk-Th.jpg
 draft: 1.3716
 handicap_data:
-  beam: 2.441
-  fore_triangle_base: 1.5240185320653499
   fore_triangle_height: 4.57205559619605
-  length_on_deck: 6.858
-  length_on_waterline: 6.096
+  fore_triangle_base: 1.5240185320653499
+  propellor:
+    type: fixed
+  sailarea: 24.156
   length_over_all: 6.858083394294074
   main:
     foot: 4
     head: 4.26725188978298
     luff: 4.319068519873201
-  propellor:
-    type: fixed
-  sailarea: 24.156
   thcf: 0.85
+  length_on_deck: 6.858
   topsail: {}
-for_sale_state:
-  text: not_for_sale
+  beam: 2.441
+  length_on_waterline: 6.096
+selling_status: not_for_sale
+update_id: 52737b6f-3070-4177-a4f8-e56c61594197
+length_on_deck: 6.858
+created_at: '2020-04-25T16:47:00.543376+00:00'
