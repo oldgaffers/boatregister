@@ -30,13 +30,14 @@ spar_material: wood
 construction_method: unknown
 construction_details: Carvel larch and Cedar on steamed oak ribs, copper fastened,
   with steel floors
-engine_installations: []
 for_sales:
 - asking_price: 15000
+  contact: ''
+  contact_email: null
+  created_at: '2022-09-29T17:28:21.36815+00:00'
   flexibility: normal
+  id: cb63b430-a8d5-445e-abf4-6040edfbc6b3
   offered: null
-  price_flexibility:
-    text: normal
   reduced: false
   sales_text: <p>Devon Maid was built as a gentleman&rsquo;s day boat in 1914. Expect
     to be the centre of attention as she&rsquo;s such a pretty classic, easily sailed
@@ -53,35 +54,42 @@ for_sales:
     &ldquo;has benefitted greatly from being owned and well maintained over the last
     several years by a professional boat builder.&rdquo; Beken photograph of Devon
     Maid taking part in the first Old Gaffers Race of 1959 included! Lying Falmouth.</p>
+  seller_gold_id: 622
+  seller_member: 5264
   sold: null
   summary: null
   updated_at: '2022-09-29T17:28:21.36815+00:00'
+  price_flexibility:
+    text: normal
 home_country: GBR
 home_port: Helford River
 hull_form: long keel deep forefoot
 callsign: ''
 ownerships:
-- id: 622
-  share: 64
+- share: 64
   start: 2009
-  member: 5264
   current: true
-updated_at: '2022-10-11T15:14:56.422306+00:00'
+  id: 622
+  member: 5264
+updated_at: '2022-10-29T17:14:56.163928+00:00'
 website: ''
 id: 35b604da-6f44-4237-898f-4f3bf9e15383
-previous_names:
-- Bingle
-- Winkle
 image_key: CWr4MM
+thumb: https://photos.smugmug.com/photos/i-FDcGTMK/0/Th/i-FDcGTMK-Th.jpg
 draft: 1.4264813460131673
 handicap_data:
-  beam: 2.475006096074128
-  draft: 1.3716166788588149
   propellor:
     type: fixed
   length_over_all: 11.582540843696659
+  draft: 1.3716166788588149
+  beam: 2.475006096074128
   length_on_waterline: 6.705681541087539
-length_on_deck: 9.1441111923921
+previous_names:
+- Bingle
+- Winkle
+selling_status: for_sale
+update_id: 59da4fc0-0c1f-4343-b959-81957d3e7334
+length_on_deck: 9.144
+created_at: '2020-04-25T16:44:05.602498+00:00'
+price: 15000
 beam: 2.6914
-for_sale_state:
-  text: for_sale
