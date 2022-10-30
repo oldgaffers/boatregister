@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-from array import array
 from typing import OrderedDict
 import yaml
 import json
@@ -40,7 +39,6 @@ topLevelFields = [
   'uk_part1',
   'callsign',
   'ownerships',
-  'updated_at',
   'website',
   'id',
   'nsbr',
@@ -50,6 +48,8 @@ topLevelFields = [
   'thumb',
   'draft',
   'handicap_data',
+  'created_at',
+  'updated_at',
 ]
 
 def simplify(field, new_field, boat):
@@ -113,8 +113,7 @@ def ownerships(os):
             if 'start' not in o:
               o['start']='?'
             ol.append(o)
-  return sorted([owner(o) for o in os], key=ownerSortOrder)
-
+  return sorted([owner(o) for o in ol], key=ownerSortOrder)
 
 handicapFields = [
   'thcf',
@@ -141,13 +140,15 @@ def map_handicap_data(b):
       del boat[f]
   r = {}
   for f in handicapFields:
-    r[f] = h[f]
-    del h[f]
+    if f in h:
+      if h[f]:
+        r[f] = h[f]
+      del h[f]
   boat['handicap_data'] = {**r, **h}
   return boat
 
 def map_boat(item):
-  boat = {k: v for k, v in item.items() if v is not None}
+  boat = {k: v for k, v in item.items() if v is not None and k not in omitFields}
   if 'ownerships' in boat:
     boat['ownerships'] = ownerships(boat['ownerships'])
   boat.pop('genericTypeByGenericType', None)
