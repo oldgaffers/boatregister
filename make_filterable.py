@@ -29,7 +29,13 @@ def wanted(boat):
     'price',
     'ownerships',
     ]
-    return { key: transform(boat[key]) for key in wanted_keys if key in boat }
+    b = { key: transform(boat[key]) for key in wanted_keys if key in boat }
+    if 'length_on_deck' not in b:
+      if 'handicap_data' in boat:
+        h = boat['handicap_data']
+        if 'length_on_deck' in h:
+          b['length_on_deck'] = h['length_on_deck']
+    return b
 
 def owners(boat):
   if 'ownerships' in boat:
