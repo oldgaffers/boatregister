@@ -113,7 +113,8 @@ def ownerships(os):
             if 'start' not in o:
               o['start']='?'
             ol.append(o)
-  return sorted([owner(o) for o in ol], key=ownerSortOrder)
+        owners = owners + ol
+  return sorted([owner(o) for o in owners], key=ownerSortOrder)
 
 handicapFields = [
   'thcf',
