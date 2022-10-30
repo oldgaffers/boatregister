@@ -3,44 +3,36 @@ oga_no: 3144
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1979
 year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
-place_built: Plymouth
-construction_material: grp
-construction_method: unknown
-engine_installations: []
-for_sales: []
-home_country: GBR
-home_port: ''
-hull_form: long keel sloping forefoot
-uk_part1: '378103'
-callsign: ''
-ownerships:
-- id: 234
-  share: 64
-  start: 2000
-  member: 3242
-  current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
-id: 8e2fb63c-b171-4576-9a79-87a0a6d8268b
-draft: 1.2192
-handicap_data:
-  beam: 2.9210497439648866
-  draft: 1.21921482565228
-  draft_keeldown: 1.9304316020482808
-  length_over_all: 9.95693733235796
-  length_over_spars: 9.95693733235796
-  length_on_waterline: 8.204322116556938
-length_on_deck: 9.9578
-beam: 2.92
 design_class:
   name: Barbican 33
   id: 62c1e6a5-3401-485a-bac6-3aaaa85fd1b6
-for_sale_state:
-  text: not_for_sale
+place_built: Plymouth
+construction_material: grp
+construction_method: unknown
+selling_status: not_for_sale
+for_sales: []
+home_country: GBR
+hull_form: long keel sloping forefoot
+uk_part1: '378103'
+ownerships:
+- member: 3242
+  id: 234
+  start: 2000
+  share: 64
+  current: true
+id: 8e2fb63c-b171-4576-9a79-87a0a6d8268b
+handicap_data:
+  beam: 2.92
+  draft: 1.2192
+  length_over_all: 9.95693733235796
+  draft_keeldown: 1.9304316020482808
+  length_over_spars: 9.95693733235796
+  length_on_waterline: 8.204322116556938
+  length_on_deck: 9.9578
+created_at: '2020-04-25T17:38:18.979905+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -19,6 +19,9 @@ year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+design_class:
+  name: Joshua Mathews
+  id: 34c007a0-c97d-40ea-97cf-2111629c1e12
 builder:
   name: Nigel Martin
   id: fb3b1d93-c7ca-404b-b6bd-9ea2ec92447b
@@ -26,7 +29,7 @@ place_built: Diss, Norfolk
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Hard chine epoxy ply on fir stringers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Woolverstone
@@ -37,37 +40,28 @@ uk_part1: '3164'
 callsign: 2CXE7
 ownerships:
 - name: Sarah Martin
+  start: 2007
   share: 32
-  start: 2007
 - name: Nigel Martin
-  share: 34
   start: 2007
-- id: 694
-  share: 64
-  member: 5615
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 34
 id: c281a797-03c2-465e-a678-61fa1248c355
 image_key: Gr2MQ4
 thumb: https://photos.smugmug.com/photos/i-ZhvMH7b/0/Th/i-ZhvMH7b-Th.jpg
-draft: 0.8626
 handicap_data:
   beam: 2.414
+  draft: 0.8626
+  fore_triangle_height: 6.096
+  fore_triangle_base: 2.9962
+  length_over_all: 6.6995
   main:
     foot: 12.33
     head: 11.83
     luff: 9.5
   length_overall: 6.6995
   calculated_thcf: 0.836
-  length_over_all: 6.6995
   length_over_spars: 7.6992
-  fore_triangle_base: 2.9962
   length_on_waterline: 5.587
-  fore_triangle_height: 6.096
-length_on_deck: 6.6995
-design_class:
-  name: Joshua Mathews
-  id: 34c007a0-c97d-40ea-97cf-2111629c1e12
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.6995
+created_at: '2020-04-25T17:45:04.179487+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -5,12 +5,14 @@ rig_type: Ketch
 mainsail_type: bermudan
 short_description: <p>Built in 1948, her cabin and cockpit were renewed in about 1985
   and she was converted to ketch rig.</p>
-full_description: ''
 year: 1948
 year_is_approximate: false
 designer:
   name: Wallasea Bay Yacht Station
   id: d86ca173-fcf4-4676-9a6f-e863389a5740
+design_class:
+  name: Ocean 30
+  id: ec935dd9-da0f-476d-86c2-3e81faf27d2b
 builder:
   name: Wallasea Bay Yacht Station Ltd.
   id: 0368166f-4cc7-4c64-86c5-4a5426e5e4ca
@@ -18,33 +20,23 @@ place_built: Rochford
 construction_material: wood
 construction_method: carvel
 construction_details: Larch on oak, carvel, copper fastened, iron keel, canoe stern
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bradwell
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Chris Turner
-  share: 64
   start: 2010
-- share: 64
-  member: 5872
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: f6d0f829-9a7f-4002-a5c4-e8336ff06aee
-draft: 1.2954
 handicap_data:
+  beam: 2.795
+  draft: 1.2954
   sailarea: 4
   length_overall: 9.144
   length_over_spars: 10.668
   length_on_waterline: 8.6106
-length_on_deck: 9.144
-beam: 2.795
-design_class:
-  name: Ocean 30
-  id: ec935dd9-da0f-476d-86c2-3e81faf27d2b
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:46:21.812124+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

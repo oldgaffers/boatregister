@@ -4,12 +4,14 @@ generic_type: unknown
 rig_type: Ketch
 mainsail_type: gaff
 short_description: Spent most of her time on the Alde Suffolk
-full_description: ''
 year: 1967
 year_is_approximate: false
 designer:
   name: Francis Jones/Eyemouth Boat Building Co.
   id: f455beb1-cf16-4328-b776-0a110ce0f572
+design_class:
+  name: Inchcape
+  id: f6fee22b-1363-4e51-b027-0ede69601dd7
 builder:
   name: Eyemouth Boatbuilding Co.
   id: 10245c61-c11c-41ff-8ad8-7fa0b9de0a60
@@ -18,49 +20,40 @@ construction_material: wood
 construction_method: unknown
 construction_details: Iroko bottom, larch topsides on Grown oak timbers. galvanised
   iron spikes, sheathed marine ply decks
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel sloping forefoot
 uk_part1: '306938'
-callsign: ''
 ownerships:
-- end: 1979
-  name: A.S. Dick
-  share: 64
+- name: A.S. Dick
   start: 1967
-- end: 1985
-  name: J C Gardner
+  end: 1979
   share: 64
+- name: J C Gardner
   start: 1979
-- end: 1988
-  name: A S Stanley
+  end: 1985
   share: 64
+- name: A S Stanley
   start: 1985
-- end: 2011
-  name: Nigel D Sheffield
+  end: 1988
   share: 64
+- name: Nigel D Sheffield
   start: 1988
-- id: 25
+  end: 2011
   share: 64
+- member: 724
+  id: 25
   start: 2011
-  member: 724
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 6f764079-a28d-4ddd-aaa0-8a40592c046c
-draft: 1.3716
 handicap_data:
-  beam: 3.5814618385759567
-  draft: 1.3716288710070714
+  beam: 3.5814
+  draft: 1.3716
   length_over_all: 9.525121921482565
   length_over_spars: 9.525121921482565
   length_on_waterline: 9.1441111923921
-length_on_deck: 9.525
-beam: 3.5814
-design_class:
-  name: Inchcape
-  id: f6fee22b-1363-4e51-b027-0ede69601dd7
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.525
+created_at: '2020-04-25T17:36:35.662563+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

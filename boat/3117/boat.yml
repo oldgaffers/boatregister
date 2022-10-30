@@ -42,45 +42,40 @@ construction_material: iron
 construction_method: unknown
 construction_details: Rivited steel plate. Six sections to each side of hull. straight
   stem with round bow and eliptical stern. Flat bottom.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: '26148'
 uk_part1: '124785'
-callsign: ''
 ownerships:
 - name: Alan Gardiner
-  share: 64
   start: 1998
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: http://www.sloopphyllis.com
 id: cafccbb7-f881-4020-9826-065cd6331160
 image_key: KHmn8h
 thumb: https://photos.smugmug.com/photos/i-FTWDQRk/0/Th/i-FTWDQRk-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 4.998780785174347
+  thcf: 1.307
+  beam: 5.0048
+  draft: 1.2192
+  fore_triangle_height: 18.77590831504511
+  fore_triangle_base: 10.05852231163131
+  length_over_all: 20.72665203608876
+  propellor:
+    type: fixed
+    blades: 4
+  sailarea: 209.23512168178226
   main:
     foot: 11.430138990490123
     head: 8.22970007315289
     luff: 8.22970007315289
-  thcf: 1.307
-  draft: 1.21921482565228
   topsail:
     luff: 8.991709339185563
     perpendicular: 5.334064862228725
-  sailarea: 209.23512168178226
-  propellor:
-    type: fixed
-    blades: 4
-  length_over_all: 20.72665203608876
   length_over_spars: 24.384296513045598
-  fore_triangle_base: 10.05852231163131
   length_on_waterline: 20.72665203608876
-  fore_triangle_height: 18.77590831504511
-length_on_deck: 20.7264
-beam: 5.0048
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 20.7264
+created_at: '2020-04-25T17:37:52.425809+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

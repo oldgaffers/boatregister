@@ -3,8 +3,6 @@ oga_no: 3077
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1925
 year_is_approximate: false
 designer:
@@ -18,50 +16,45 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel - pitch pine on oak Brazilian Mahogany superstructure
   Teak laid deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Lymington
 hull_form: long keel deep forefoot
 sail_number: GBR9183T
 uk_part1: '167972'
-callsign: ''
 ownerships:
-- id: 698
-  share: 64
+- member: 5625
+  id: 698
   start: 2008
-  member: 5625
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 034bf463-c132-4494-b506-e06acd1d4d51
 image_key: xJRcr2
 thumb: https://photos.smugmug.com/photos/i-hvnPX4t/0/Th/i-hvnPX4t-Th.jpg
-draft: 1.4996
 handicap_data:
-  beam: 2.8895391367959036
+  thcf: 0.956
+  beam: 2.8956
+  draft: 1.4996
+  fore_triangle_height: 8.400390148744208
+  fore_triangle_base: 4.3007802974884175
+  length_over_all: 9.549500121921481
+  propellor:
+    type: fixed
+    blades: 4
+  sailarea: 57.04963660105882
   main:
     foot: 5.120702267739576
     head: 5.401121677639599
     luff: 4.0508412582297
-  thcf: 0.956
-  draft: 1.4996342355523042
+  topsail:
+    luff: 4.248963667398195
+    perpendicular: 3.249207510363326
   mizzen:
     foot: 2.5512070226773953
     head: 1.7495732748110218
     luff: 2.749329431845891
-  topsail:
-    luff: 4.248963667398195
-    perpendicular: 3.249207510363326
-  sailarea: 57.04963660105882
-  propellor:
-    type: fixed
-    blades: 4
-  length_over_all: 9.549500121921481
-  fore_triangle_base: 4.3007802974884175
   length_on_waterline: 6.989148988051694
-  fore_triangle_height: 8.400390148744208
-length_on_deck: 9.5494
-beam: 2.8956
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.5494
+created_at: '2020-04-25T17:35:37.256224+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

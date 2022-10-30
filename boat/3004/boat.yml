@@ -3,8 +3,6 @@ oga_no: 3004
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2009
 year_is_approximate: false
 designer:
@@ -17,32 +15,26 @@ place_built: Bangor, Co. Down
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Marine ply on oak frames - Glass cloth + Polyester resin sheath
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Groomsport
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: George Colin Hudson
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 34d9a9f7-2dcd-472c-869d-eac556859191
-draft: 0.6096
 handicap_data:
-  beam: 2.386613021214338
+  thcf: 0.847960405
+  beam: 2.3866
+  draft: 0.6096
+  length_over_all: 5.206047305535234
   main:
     foot: 5.7912704218483295
     head: 4.26725188978298
     luff: 5.18166300902219
-  thcf: 0.847960405
-  draft: 0.60960741282614
   draft_keeldown: 1.2954157522555474
-  length_over_all: 5.206047305535234
   length_on_waterline: 5.053645452328699
-length_on_deck: 5.206
-beam: 2.3866
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.206
+created_at: '2020-04-25T17:33:54.696782+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

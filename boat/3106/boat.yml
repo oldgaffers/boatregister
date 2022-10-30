@@ -3,45 +3,33 @@ oga_no: 3106
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: bermudan
-short_description: ''
 full_description: Mainsail 14.1 sq m. Genoa 30.7 sq m. Mizzen 5 sq m.
 year: 1979
 year_is_approximate: false
+design_class:
+  name: Westerly Berwick
+  id: b15c45c4-9eb0-4cac-aacd-4943c3f7403f
 builder:
   name: Westerly Marine
   id: b54f18a6-4887-4163-9c95-30d09792d098
 place_built: Waterlooville Portsmouth
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: '462'
 uk_part1: '397415'
 callsign: MEGD2
 ownerships:
 - name: Harry Owens
-  share: 64
   start: 0
-- id: 520
   share: 64
-  member: 4803
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: d6da80b0-f0ee-48a8-bc8d-b5850123456b
-draft: 1.1003
 handicap_data:
-  draft: 1.1000133778346743
+  draft: 1.1003
   length_over_all: 9.900120400512069
   length_on_waterline: 7.630092793525969
-length_on_deck: 9.8999
-beam: 0
-design_class:
-  name: Westerly Berwick
-  id: b15c45c4-9eb0-4cac-aacd-4943c3f7403f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.8999
+created_at: '2020-04-25T17:37:08.992446+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

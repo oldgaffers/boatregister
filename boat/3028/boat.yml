@@ -6,9 +6,11 @@ mainsail_type: gaff
 short_description: Moon River is a Yarmouth 23 gaff rigged cutter built in 2001. Based
   on the Solent, she took part in the OGA Round Britain Challenge, 2013, sailed single-handed
   by skipper Barbara Runnalls.
-full_description: ''
 year: 2001
 year_is_approximate: false
+design_class:
+  name: Yarmouth 23
+  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
 builder:
   name: M.B. Yachts Ltd.
   id: 4d50239e-9170-4840-89b4-9ba010fcf52b
@@ -16,49 +18,42 @@ place_built: Wimborne
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Shoreham
 hull_form: long keel deep forefoot
 sail_number: '1'
 uk_part1: '98230'
-callsign: ''
 ownerships:
-- id: 659
-  share: 64
+- member: 5487
+  id: 659
   start: 2009
-  member: 5487
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: https://moonrivery23.wordpress.com/about/
 id: 93b4da4c-9c45-4e87-8d56-ea5c1d34dcc6
 image_key: BnvGsZ
 thumb: https://photos.smugmug.com/photos/i-gHnGmXj/0/Th/i-gHnGmXj-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 2.2799317239697636
+  thcf: 0.853
+  beam: 2.286
+  draft: 0.9144
+  fore_triangle_height: 5.7912704218483295
+  fore_triangle_base: 3.038892952938308
+  length_over_all: 6.879419653742989
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 25.07228654575443
   main:
     foot: 3.880151182638381
     head: 2.8102901731285055
     luff: 3.648500365764448
-  thcf: 0.853
-  draft: 0.9144111192392099
   topsail:
     luff: 3.648500365764448
     perpendicular: 1.6611801999512315
-  sailarea: 25.07228654575443
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 6.879419653742989
-  fore_triangle_base: 3.038892952938308
   length_on_waterline: 5.498658863691782
-  fore_triangle_height: 5.7912704218483295
-length_on_deck: 6.8885
-beam: 2.286
-design_class:
-  name: Yarmouth 23
-  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8885
+created_at: '2020-04-25T17:34:19.009869+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

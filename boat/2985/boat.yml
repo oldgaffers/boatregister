@@ -3,13 +3,14 @@ oga_no: 2985
 generic_type: unknown
 rig_type: single_sail
 mainsail_type: lug
-short_description: ''
-full_description: ''
 year: 2005
 year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+design_class:
+  name: Drascombe Scaffie
+  id: a3aaee2b-c5dc-48d2-94ed-81b856b80fd1
 builder:
   name: Honnor Marine Ltd.
   id: 2e1683ac-2223-480f-9412-be351f564ae9
@@ -18,35 +19,26 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Watchet
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2014
-  name: Jonathan Pearman
-  share: 64
+- name: Jonathan Pearman
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2014
+  share: 64
 id: 96d05d82-3b6b-4eff-9614-36a4e840cdfa
-draft: 0.3962
 handicap_data:
-  beam: 1.7526213118751524
+  thcf: 0.749421643
+  beam: 1.7678
+  draft: 0.3962
+  length_over_all: 4.495854669592782
   main:
     foot: 2.8956352109241648
     head: 2.996220434040478
     luff: 2.43842965130456
-  thcf: 0.749421643
-  draft: 0.38100463301633747
-  length_over_all: 4.495854669592782
   length_on_waterline: 3.733845403560107
-length_on_deck: 4.511
-beam: 1.7678
-design_class:
-  name: Drascombe Scaffie
-  id: a3aaee2b-c5dc-48d2-94ed-81b856b80fd1
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.511
+created_at: '2020-04-25T17:33:36.618153+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

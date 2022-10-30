@@ -5,12 +5,14 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: Aberrare is an Aber dinghy designed by Francois Vivier in the spirit
   of the traditional Breton craft.
-full_description: ''
 year: 2012
 year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+design_class:
+  name: Aber
+  id: c01425bf-c94f-40c1-b3e1-51f0bd2c7bce
 builder:
   name: David Bewick
   id: f9d99b3a-da00-4026-94f0-afab51a59c33
@@ -19,44 +21,35 @@ construction_material: plywood
 spar_material: wood
 construction_method: clinker_ply
 construction_details: Clinker/wood/glued clinker ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: centre-board dinghy
-callsign: ''
 ownerships:
-- id: 677
-  share: 64
+- member: 5558
+  id: 677
   start: 2012
-  member: 5558
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: c123225c-5640-41d0-87d9-e5d9acf91ea5
 image_key: Lg3csV
 thumb: https://photos.smugmug.com/photos/i-FbG9SgV/0/Th/i-FbG9SgV-Th.jpg
-draft: 0.2042
 handicap_data:
+  thcf: 0.782
   beam: 1.5240185320653499
+  draft: 0.2042
+  fore_triangle_height: 4.239819556205803
+  fore_triangle_base: 1.8288222384784198
+  length_over_all: 4.331260668129724
+  propellor:
+    type: none
+  sailarea: 11.685814374557658
   main:
     foot: 2.8986832479882954
     head: 2.9992684711046085
     luff: 2.09095342599366
-  thcf: 0.782
-  draft: 0.21031455742501826
-  topsail: {}
-  sailarea: 11.685814374557658
-  propellor:
-    type: none
   draft_keeldown: 0.8991709339185565
-  length_over_all: 4.331260668129724
-  fore_triangle_base: 1.8288222384784198
   length_on_waterline: 3.9990246281394777
-  fore_triangle_height: 4.239819556205803
-length_on_deck: 4.3434
-design_class:
-  name: Aber
-  id: c01425bf-c94f-40c1-b3e1-51f0bd2c7bce
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.3434
+created_at: '2020-04-25T17:35:43.982032+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

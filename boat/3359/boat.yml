@@ -23,51 +23,48 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel oak and oregon pine above the water. Teak deck on waterproof
   multiplex. Spruce spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: BEL
 home_port: Vlaams Yacht Haven Nieuwpoort
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 1960
-  name: Lahaye
-  share: 64
+- name: Lahaye
   start: 1950
-- end: 1970
-  name: Coussement
+  end: 1960
   share: 64
+- name: Coussement
   start: 1960
-- end: 1980
-  name: Nottboom
+  end: 1970
   share: 64
+- name: Nottboom
   start: 1970
-- end: 1996
-  name: Beewsaert
+  end: 1980
   share: 64
+- name: Beewsaert
   start: 1980
-- end: 2003
-  name: Van Ramsbeeck
+  end: 1996
   share: 64
+- name: Van Ramsbeeck
   start: 1997
-- end: 2010
-  name: Van Geem
+  end: 2003
   share: 64
+- name: Van Geem
   start: 2003
-- name: Pieter Jan Dros
+  end: 2010
   share: 64
+- name: Pieter Jan Dros
   start: 2010
-- share: 64
-  member: 126
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 3d0e36a8-5a5e-46d7-80bd-88d29db887cc
 image_key: 5JhRwf
 thumb: https://photos.smugmug.com/photos/i-MNvtCKT/0/Th/i-MNvtCKT-Th.jpg
-draft: 1.0973
 handicap_data:
+  beam: 2.9505
+  draft: 1.0973
+  fore_triangle_height: 8.001
+  fore_triangle_base: 4.2001
+  sailarea: 7
   main:
     foot: 14.96
     head: 12.63
@@ -75,16 +72,12 @@ handicap_data:
   topsail:
     luff: 12.7
     perpendicular: 8.04
-  sailarea: 7
   moving_keel: true
   length_overall: 7.748
   calculated_thcf: 0.889
   moving_keel_type: Centreboard
   length_over_spars: 10.351
-  fore_triangle_base: 4.2001
   length_on_waterline: 6.5014
-  fore_triangle_height: 8.001
-length_on_deck: 7.748
-beam: 2.9505
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.748
+created_at: '2020-04-25T17:51:08.293162+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

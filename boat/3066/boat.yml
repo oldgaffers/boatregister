@@ -12,6 +12,9 @@ year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Harrison
   id: dc93b6b8-f061-4d7e-a409-61a432c140d8
@@ -19,53 +22,45 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bristol Channel
 hull_form: centre-boarder
-callsign: ''
 ownerships:
-- end: 2010
-  name: Hugh Harrison
-  share: 64
+- name: Hugh Harrison
   start: 1975
-- id: 674
+  end: 2010
   share: 64
+- member: 5536
+  id: 674
   start: 2010
-  member: 5536
+  share: 64
   current: true
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
 id: a9830bff-25ce-4eff-997f-2cdf378037d5
 image_key: ZpTfBw
 thumb: https://photos.smugmug.com/photos/i-vdXNBSL/0/Th/i-vdXNBSL-Th.jpg
-draft: 0.5486
 handicap_data:
-  beam: 2.1300259043525966
+  thcf: 0.866
+  beam: 2.1031
+  draft: 0.5486
+  fore_triangle_height: 5.60006810534016
+  fore_triangle_base: 2.7300332013533284
+  length_over_all: 5.790070416057059
+  propellor:
+    type: fixed
+    blades: 2
+  sailarea: 28.405358232444776
   main:
     foot: 4.600055943672275
     head: 3.300040133504023
     luff: 4.100049862838332
-  thcf: 0.866
-  draft: 0.5300064456839795
   topsail:
     luff: 3.300040133504023
     perpendicular: 1.40001702633504
-  sailarea: 28.405358232444776
-  propellor:
-    type: fixed
-    blades: 2
   draft_keeldown: 1.14001386430139
-  length_over_all: 5.790070416057059
   length_over_spars: 7.3000887801755665
-  fore_triangle_base: 2.7300332013533284
   length_on_waterline: 5.690069199890271
-  fore_triangle_height: 5.60006810534016
-length_on_deck: 5.7912
-beam: 2.1031
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:35:26.449694+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'

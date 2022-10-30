@@ -14,39 +14,36 @@ year_is_approximate: false
 designer:
   name: Michael R. Hawes
   id: 1d14143b-8f55-4b26-94a4-95e4058cc952
+design_class:
+  name: Skanner 24
+  id: 79755ab3-aa50-4c98-95e0-a20ebf6cb481
 place_built: Fordingbridge
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP hull, glass sheathed timber deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Littlehampton
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
 - note: Previous owner DJ Lindsay
   text: Previous owner DJ Lindsay
-- id: 265
-  share: 64
+- member: 3405
+  id: 265
   start: 2014
-  member: 3405
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 73295a72-b35b-41ae-84b1-a8bffe0ba4cf
-previous_names:
-- Margaret Elizabeth
-draft: 0.5578
 handicap_data:
+  beam: 2.539
+  draft: 0.5578
   sailarea: 7
   length_overall: 7.239
   length_over_spars: 8.2296
   length_on_waterline: 5.9436
-length_on_deck: 7.239
-beam: 2.539
-design_class:
-  name: Skanner 24
-  id: 79755ab3-aa50-4c98-95e0-a20ebf6cb481
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.239
+created_at: '2020-04-25T17:46:33.243726+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Margaret Elizabeth

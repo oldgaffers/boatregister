@@ -16,44 +16,38 @@ builder:
   id: 14a19d4a-3222-4c73-a6b1-fdd7e75f1139
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: FRA
-home_port: ''
 hull_form: long keel sloping forefoot
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 80116524-13f7-4d71-86f1-7d03415ae3d4
 image_key: 5J67JB
 thumb: https://photos.smugmug.com/photos/i-5X7xdr3/0/Th/i-5X7xdr3-Th.jpg
-draft: 3.176
 handicap_data:
-  beam: 4.620824189222141
-  fore:
-    foot: 5.151182638380882
-    head: 4.998780785174347
-    luff: 10.851011948305292
+  thcf: 1.422257902
+  beam: 4.825
+  draft: 3.176
+  fore_triangle_height: 22.101316752011705
+  fore_triangle_base: 10.549256278956351
+  length_over_all: 24.500121921482563
+  propellor:
+    type: folding
+    blades: 3
   main:
     foot: 10.14996342355523
     head: 8.001097293343086
     luff: 10.899780541331381
-  thcf: 1.422257902
-  draft: 3.1791026578883197
   topsail:
     luff: 10.698610095098756
     perpendicular: 5.800414533040722
-  propellor:
-    type: folding
-    blades: 3
+  fore:
+    foot: 5.151182638380882
+    head: 4.998780785174347
+    luff: 10.851011948305292
   fore_topsail:
     luff: 9.101438673494268
     perpendicular: 3.9990246281394777
-  length_over_all: 24.500121921482563
-  fore_triangle_base: 10.549256278956351
   length_on_waterline: 18.65093879541575
-  fore_triangle_height: 22.101316752011705
-length_on_deck: 24.4846
-beam: 4.825
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 24.4846
+created_at: '2020-04-25T18:37:06.666719+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

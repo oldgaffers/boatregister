@@ -3,7 +3,6 @@ oga_no: 2996
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: 1st owner Peter Scott named her after his grand daughter. He replaced
   her with another new Whammel in 1999 and called her Martha Joy ll (OGA no 2249)
 year: 1995
@@ -18,34 +17,27 @@ place_built: Lytham St Anne's
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2016
-  name: Ben Armstrong
-  share: 64
+- name: Ben Armstrong
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2016
+  share: 64
 id: 1183647f-2774-42ae-960d-471e399cba91
-draft: 0.4816
 handicap_data:
-  beam: 1.9568397951719092
+  thcf: 0.81889426
+  beam: 1.9568
+  draft: 0.4816
+  fore_triangle_height: 3.800902218970983
+  fore_triangle_base: 2.4993903925871734
+  length_over_all: 5.334064862228725
   main:
     foot: 3.2004389173372347
     head: 2.7005608388197997
     luff: 4.200195074372104
-  thcf: 0.81889426
-  draft: 0.4815898561326506
-  length_over_all: 5.334064862228725
-  fore_triangle_base: 2.4993903925871734
   length_on_waterline: 4.724457449402585
-  fore_triangle_height: 3.800902218970983
-length_on_deck: 5.334
-beam: 1.9568
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.334
+created_at: '2020-04-25T17:33:47.744023+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

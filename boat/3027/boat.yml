@@ -3,13 +3,15 @@ oga_no: 3027
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Hull N Cornwall Marine - completed by M Miller 1980 - 2005
 year: 2005
 year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+design_class:
+  name: Tamarisk 29
+  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
 builder:
   name: North Cornwall Marine/M Miller
   id: 9873459c-3c21-4a06-a09b-795800b89dfd
@@ -17,41 +19,32 @@ place_built: Bedford
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Ipswich
 hull_form: long keel deep forefoot
 sail_number: T29
 ssr: '136141'
-callsign: ''
 ownerships:
 - name: Malcolm Miller
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: d6d6f5b1-2649-4fb9-92b3-6dde6f72f586
-draft: 1.6002
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.982569229
+  beam: 2.7432
+  draft: 1.6002
+  fore_triangle_height: 9.500731528895392
+  fore_triangle_base: 4.498902706656913
+  length_over_all: 8.83930748597903
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 5.449890270665691
     head: 5.800414533040722
     luff: 6.199707388441843
-  thcf: 0.982569229
-  draft: 1.6002194586686174
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.83930748597903
-  fore_triangle_base: 4.498902706656913
   length_on_waterline: 8.339429407461594
-  fore_triangle_height: 9.500731528895392
-length_on_deck: 8.8392
-beam: 2.7432
-design_class:
-  name: Tamarisk 29
-  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.8392
+created_at: '2020-04-25T17:34:17.889404+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

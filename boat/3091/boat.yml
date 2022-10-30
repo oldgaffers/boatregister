@@ -3,13 +3,15 @@ oga_no: 3091
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Design no 251. 1600 lbs sail area 212 sq.ft
 year: 2010
 year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+design_class:
+  name: Kite
+  id: b52c9b8d-94c8-4943-a722-fd41fa7a43a6
 builder:
   name: Watson Maynard/Dean Henwood
   id: 09231a86-9285-436e-bc22-4fc1af7d570a
@@ -17,45 +19,32 @@ place_built: Martham/Henley on Thames
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: 9mm marine ply sheathed with glass cloth and epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Burnham on Crouch
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Andrew Wolstenholme
-  share: 32
   start: 2010
-- id: 449
-  share: 64
-  member: 4425
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 32
 id: ba1496d8-7dcd-45c9-ad26-0aa5647eb327
 image_key: pJDZnJ
 thumb: https://photos.smugmug.com/photos/i-ppCGgJX/0/Th/i-ppCGgJX-Th.jpg
-draft: 0.253
 handicap_data:
-  beam: 2.1300259043525966
+  thcf: 0.848
+  beam: 2.1092
+  draft: 0.253
+  fore_triangle_height: 5.168062851499633
+  fore_triangle_base: 2.1600262692026333
+  length_over_all: 6.440078321141185
+  sailarea: 19.226348676982177
   main:
     foot: 3.970048281821507
     head: 3.800046214337966
     luff: 2.7000328365032917
-  thcf: 0.848
-  draft: 0.26400321068032184
-  sailarea: 19.226348676982177
   draft_keeldown: 1.1684345281638624
-  length_over_all: 6.440078321141185
-  fore_triangle_base: 2.1600262692026333
   length_on_waterline: 5.650068713423555
-  fore_triangle_height: 5.168062851499633
-length_on_deck: 6.6538
-beam: 2.1092
-design_class:
-  name: Kite
-  id: b52c9b8d-94c8-4943-a722-fd41fa7a43a6
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.6538
+created_at: '2020-04-25T17:36:22.531143+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

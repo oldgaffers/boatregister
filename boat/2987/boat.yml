@@ -17,45 +17,52 @@ builder:
 place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 0
+- created_at: '2016-11-15T16:50:30+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>Fishing no. LO178, Thames Bawley, built by Aldous of Brightlingsea,\
+    \ 1903. LOA: 35\u2019 Beam: 13\u2019 Engine: marinised Peugeot XLD 50hp. Twin\
+    \ hydraulic folding props. Good sail wardrobe. 9 berths. SMEV oven with 4 burners\
+    \ and grill. Heads with shower. Log burner/dual fuel stove with back boiler. Fridge.\
+    \ Previously used for charter, licensed for ten guests. Standing rigging replaced\
+    \ 2015.</p><p>Lying Titchmarsh Marina, Essex.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.840891+00:00'
 home_country: GBR
 home_port: Southwold
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- end: 2016
-  name: Jayne Smith
-  share: 64
+- name: Jayne Smith
   start: 2014
-- name: John Archer
+  end: 2016
   share: 64
+- name: John Archer
   start: 2016
-- share: 64
-  member: 6103
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 252060fd-67ee-4e7f-b9d1-f75a85bb6f8e
 image_key: kmRJQW
 thumb: https://photos.smugmug.com/photos/i-xLxcrV7/0/Th/i-xLxcrV7-Th.jpg
-draft: 1.2954
 handicap_data:
-  beam: 3.9624481833699097
+  thcf: 0.892290342
+  beam: 3.9624
+  draft: 1.2954
+  fore_triangle_height: 15.240185320653499
+  fore_triangle_base: 7.924896366739819
+  length_over_all: 10.66812972445745
+  propellor:
+    type: folding
   main:
     foot: 6.0960741282613995
     head: 7.162887100707144
     luff: 5.4864667154352595
-  thcf: 0.892290342
-  draft: 1.2954157522555474
-  propellor:
-    type: folding
-  length_over_all: 10.66812972445745
-  fore_triangle_base: 7.924896366739819
-  fore_triangle_height: 15.240185320653499
-length_on_deck: 10.668
-beam: 3.9624
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T17:33:38.70646+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -4,75 +4,67 @@ generic_type: Yacht
 rig_type: Yawl
 mainsail_type: lug
 short_description: Hebe is a Romilly built in 2001
-full_description: ''
 year: 2001
 year_is_approximate: false
 designer:
   name: Nigel Irens
   id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
+design_class:
+  name: Romilly
+  id: 82ecf7d6-04df-44bf-8de9-bf3993da60f5
 builder:
   name: Bridgend Boat Co.
   id: 2baf8a14-dd14-4e3a-936c-369594ab0618
 place_built: Plymouth
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: '24'
 uk_part1: GB-HP141034E101
-callsign: ''
 ownerships:
-- end: 2002
-  name: Simon Carpenter
-  share: 64
+- name: Simon Carpenter
   start: 2001
-- end: 2004
-  name: Arthur Cork
+  end: 2002
   share: 64
+- name: Arthur Cork
   start: 2002
-- end: 2010
-  name: Mark Davis
+  end: 2004
   share: 64
+- name: Mark Davis
   start: 2004
-- end: 2012
-  name: Jonnie Taylor
+  end: 2010
   share: 64
+- name: Jonnie Taylor
   start: 2010
-- id: 478
+  end: 2012
   share: 64
+- member: 4612
+  id: 478
   start: 2012
-  member: 4612
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 53994ee0-9400-466c-aa48-47df354fbc09
-previous_names:
-- Betty Boop
 image_key: Rr5cSv
 thumb: https://photos.smugmug.com/photos/i-5rk95HS/0/Th/i-5rk95HS-Th.jpg
-draft: 0.4999
 handicap_data:
-  beam: 2.1000255395025604
+  beam: 2.1001
+  draft: 0.4999
+  length_over_all: 6.700081483174834
   main:
     foot: 3.800046214337966
     head: 5.00006080833943
     luff: 3.7200452414045353
-  draft: 0.5000060808339429
   mizzen:
     foot: 1.550018850585223
     head: 1.8000218910021946
     luff: 1.5300186073518653
   draft_keeldown: 1.49001812088515
-  length_over_all: 6.700081483174834
   length_over_spars: 8.550103982260424
   length_on_waterline: 6.180075159107535
-length_on_deck: 6.7056
-beam: 2.1001
-design_class:
-  name: Romilly
-  id: 82ecf7d6-04df-44bf-8de9-bf3993da60f5
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:37:47.522903+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Betty Boop

@@ -5,12 +5,14 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: '<p>Built in Lyme Regis, 2014, and nominated in &#39;Spirit of
   Tradition&#39; under 40 ft. category: Classic Boat Awards, 2015.</p>'
-full_description: ''
 year: 2014
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Golant Ketch
+  id: 9d648a02-8263-4b82-a63e-eba4c5aa9216
 builder:
   name: McIlwain - Daydream Boats
   id: e3306f9d-13fc-4bb4-b713-3b306ca9f9f6
@@ -19,26 +21,26 @@ construction_material: woodepoxy
 construction_method: clinker_ply
 construction_details: Glued clinker construction, marine ply and epoxy on douglas
   fir stringers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Backwell
 hull_form: long keel deep forefoot
 sail_number: '2 '
-callsign: ''
 ownerships:
-- id: 823
-  share: 64
+- member: 5893
+  id: 823
   start: 2014
-  member: 5893
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: a25c03b2-2178-4a5b-bc6b-bc7420cdab32
 image_key: 9XZDBw
 thumb: https://photos.smugmug.com/photos/i-R8wjCzh/0/Th/i-R8wjCzh-Th.jpg
-draft: 0.509
 handicap_data:
+  beam: 2.2616
+  draft: 0.509
+  fore_triangle_height: 5.3096
+  fore_triangle_base: 2.795
   main:
     foot: 10.58
     head: 10.17
@@ -53,13 +55,7 @@ handicap_data:
   draft_keel_down: 1.2192
   moving_keel_type: Centreboard
   length_over_spars: 7.1872
-  fore_triangle_base: 2.795
   length_on_waterline: 5.7394
-  fore_triangle_height: 5.3096
-length_on_deck: 5.968
-beam: 2.2616
-design_class:
-  name: Golant Ketch
-  id: 9d648a02-8263-4b82-a63e-eba4c5aa9216
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.968
+created_at: '2020-04-25T17:46:19.058001+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

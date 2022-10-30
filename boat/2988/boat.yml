@@ -4,7 +4,6 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>&#39;Baltoro&#39; is a 27&#39; Salcombe Trader built 1994.</p>
-full_description: ''
 year: 1994
 year_is_approximate: false
 builder:
@@ -13,28 +12,17 @@ builder:
 place_built: Salcombe
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: David and Dianne Cox
-  share: 64
   start: 2010
-- share: 64
-  member: 4297
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: d6b67419-22b0-4188-a5b0-0817519de2a7
-draft: 0
 handicap_data:
-  beam: 2.8956352109241648
+  beam: 2.8956
   length_over_all: 8.22970007315289
-length_on_deck: 8.2296
-beam: 2.8956
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.2296
+created_at: '2020-04-25T17:33:39.837769+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

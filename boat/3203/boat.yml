@@ -3,7 +3,6 @@ oga_no: 3203
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Traditioally built, hull shape loosely based on Falmouth Quay Punts
   but with a gaff cutter rig.
 year: 2009
@@ -19,29 +18,25 @@ spar_material: wood
 construction_method: carvel
 construction_details: Traditionally built,  larch planking on sawn oak frames with
   2 intermediate steamed timbers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 388
-  share: 64
+- member: 4143
+  id: 388
   start: 2010
-  member: 4143
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: www.hollymae.info
 id: 009025ee-2f32-4306-a704-28eb5013c4cb
-draft: 2.2098268714947573
 handicap_data:
-  beam: 3.453425993660083
-  length_overall: 10.668
+  beam: 3.4534
+  draft: 2.2098268714947573
   length_over_all: 10.66812972445745
+  length_overall: 10.668
   length_on_waterline: 10.05852231163131
-length_on_deck: 10.66812972445745
-beam: 3.4534
+  length_on_deck: 10.66812972445745
+created_at: '2020-04-25T17:46:17.399892+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 air_draft: 56
-for_sale_state:
-  text: not_for_sale

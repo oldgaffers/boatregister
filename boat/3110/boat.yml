@@ -26,6 +26,9 @@ year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+design_class:
+  name: Vertue
+  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
 builder:
   name: Robertsons
   id: 6cd1bf47-97b9-4f1b-8402-c27b59e901d9
@@ -34,65 +37,78 @@ construction_material: wood
 spar_material: wood
 construction_method: unknown
 construction_details: Iroko on Oak Frames, ply decks
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 10000
+- created_at: '2021-12-29T15:27:12.865988+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: null
+  sales_text: "Vertue no 131, SSR11191. Built in1965 by Robertsons of Woodbridge of\
+    \ Iroco on Oak 25ft8\" long, 7ft 11\" beam, draws 4ft5\". Cosy 4 berth accomodation\
+    \ with built in charcoal stove,heads, plumbed in sink and spirit 2\xD7 hot plate\
+    \ cooker. Full nav equipment, instruments, radio,tiller pilot. Garmin551 and Aries\
+    \ wind-vane. Yanmar 2GM20 diesel with 400hrs, new engine mounts&prop seals.Excellent\
+    \ suit of sails--2 \xD7mains, 2\xD7genoas, new spinnaker, Lewmar winches, roller\
+    \ reefing on genoa, slab reefing main. Aluminium mast with nav lights, excellent\
+    \ steel rigging and guard rails. Full set of upholstry with matching covers 2\
+    \ years old--spray hood, boom cover, full deck cover with boom tent. Rib with\
+    \ outboard.Hull in good condition (keel bolts have been checked). Wintering ashore\
+    \ but ready to go. See register for extra's! "
+  seller_gold_id: 711
+  seller_member: 5660
+  sold: null
+  summary: null
+  updated_at: '2021-12-29T15:27:12.865988+00:00'
 home_country: GBR
 home_port: Emsworth
 hull_form: long keel sloping forefoot
 sail_number: '131'
 ssr: '11191'
-callsign: ''
 ownerships:
 - name: John Neville
-  share: 64
   start: 0
+  share: 64
 - name: Joan Ryley
-  share: 64
   start: 0
+  share: 64
 - name: Austen Sales Perkins
-  share: 64
   start: 0
+  share: 64
 - name: Lester McCarthy
-  share: 64
   start: 0
+  share: 64
 - note: 'Lester McCarthy, Austen Sales Perkins, Joan Ryley and John Neville have owned
     ''Zingela'': dates unknown.'
   text: 'Lester McCarthy, Austen Sales Perkins, Joan Ryley and John Neville have owned
     ''Zingela'': dates unknown.'
-- id: 711
-  share: 64
+- member: 5660
+  id: 711
   start: 2011
-  member: 5660
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 4042b70f-5c00-479f-b28a-45eba631876e
-previous_names:
-- Sekxd
 image_key: csst5f
 thumb: https://photos.smugmug.com/photos/i-fsc5WD3/0/Th/i-fsc5WD3-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.1844306266764204
-  main:
-    foot: 3.6576444769568397
-    luff: 8.22970007315289
   thcf: 0.904
-  draft: 1.3716288710070714
-  sailarea: 27.843718243110544
+  beam: 2.1854
+  draft: 1.3716
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 3.6576444769568397
+  length_over_all: 7.696299683004145
   propellor:
     type: fixed
     blades: 3
-  length_over_all: 7.696299683004145
+  sailarea: 27.843718243110544
+  main:
+    foot: 3.6576444769568397
+    luff: 8.22970007315289
   length_over_spars: 7.696299683004145
-  fore_triangle_base: 3.6576444769568397
   length_on_waterline: 6.553291880029261
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 7.6962
-beam: 2.1854
-design_class:
-  name: Vertue
-  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
-for_sale_state:
-  text: for_sale
+  length_on_deck: 7.6962
+created_at: '2020-04-25T17:37:45.030242+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Sekxd

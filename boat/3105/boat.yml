@@ -13,53 +13,75 @@ year_is_approximate: false
 designer:
   name: Bruce Roberts
   id: 79de5bf0-cc5b-4a5c-8c12-9ca7735e6b18
+design_class:
+  name: Spray 28
+  id: d90058bb-0a61-4998-82b0-fa01d2ae1d99
 place_built: Bromley Hayes Staffordshire
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 12950
+- created_at: '2019-01-28T05:34:01+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: "<p>Rugged go-anywhere shallow draft East Coast cruising boat, \"Masquerade\"\
+    \ is a Bruce Roberts `Spray 28\u2019 gaff cutter built on a GRP hull from Humber\
+    \ Boat Builders Ltd., 1997. Large galley &amp; nav area. Three full length berths\
+    \ in two cabins. Hull underwater epoxied from new. Fitted out by current owner\
+    \ and launched during 1999 from Suffolk Yacht Harbour, Levington, Suffolk.</p><p>LOD\
+    \ 9.4m, Beam 3.20m, Draft 1.00m LOA 11.30m Displ. 6.5 tons</p><p>Hollow Douglas\
+    \ Fir bowsprit. Alloy mast, boom and gaff by Sailspar, re-circulating ball gaff\
+    \ saddle, external track for the topsail, and roller furling on the jib, all designed\
+    \ for easy single-handing.</p><p>Jib #1 &amp; #2, reefing staysail, main &amp;\
+    \ topsail by Gayle Heard, Ford XLD 1.6, PRM gearbox, Halyard shaft seal, 3-blade\
+    \ prop. Stainless diesel and water tanks. Navico log/depth, Garmin 128, ICOM vhf/DSC,\
+    \ Entel 640 h/h, Navico TP32, Balmar charge regulator, twin 110Ah batteries.</p><p>Faversham\
+    \ stove, SMEV hob/oven, double sink, Jabsco + hand basin in heads compartment</p><p>Part\
+    \ 1 registration due for renewal November 2016. Sale to include all fittings,\
+    \ equipment, spares, GRP tender, and heavy-duty winter cover. Matching Jacobs\
+    \ cradle may be available by separate negotiation.</p><p>In commission, lying\
+    \ afloat at Maldon, Essex. Viewing by arrangement.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.256196+00:00'
 home_country: GBR
 home_port: Maldon, Essex
 hull_form: long keel sloping forefoot
 sail_number: GBR 6645T
 uk_part1: '901131'
-callsign: ''
 ownerships:
-- end: 2016
-  name: Richard and Diane Negus
-  share: 64
+- name: Richard and Diane Negus
   start: 1997
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2016
+  share: 64
 id: 28fdbc99-7b12-4184-9ed1-64ba38bd9cb5
 image_key: J4phZC
 thumb: https://photos.smugmug.com/photos/i-sNWM6Wp/0/Th/i-sNWM6Wp-Th.jpg
-draft: 0.9906
 handicap_data:
-  beam: 3.200451109485491
+  thcf: 0.914
+  beam: 3.2004
+  draft: 0.9906
+  fore_triangle_height: 8.407516459400146
+  fore_triangle_base: 6.629498902706657
+  length_over_all: 8.83930748597903
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 45.95397820798031
   main:
     foot: 4.800676664228237
     head: 3.6576444769568397
     luff: 4.343458912460375
-  thcf: 0.914
-  draft: 0.9906181419166057
   topsail:
     luff: 5.516947086076567
     perpendicular: 8.443062667642037
-  sailarea: 45.95397820798031
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.83930748597903
   length_over_spars: 11.32854181906852
-  fore_triangle_base: 6.629498902706657
   length_on_waterline: 7.010485247500609
-  fore_triangle_height: 8.407516459400146
-length_on_deck: 8.8392
-beam: 3.2004
-design_class:
-  name: Spray 28
-  id: d90058bb-0a61-4998-82b0-fa01d2ae1d99
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.8392
+created_at: '2020-04-25T17:36:36.923187+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

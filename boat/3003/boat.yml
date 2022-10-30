@@ -16,42 +16,36 @@ place_built: Leigh on Sea
 construction_material: wood
 construction_method: unknown
 construction_details: Mahogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hamble
 hull_form: long keel deep forefoot
 reference:
 - Log Mar 2002
 sail_number: '238'
 uk_part1: '300333'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: acc6d3d8-97cb-4c67-8be1-ed1299016da7
-previous_names:
-- Golliwog
-- Jacinta
-- Goli
-draft: 0.9906
 handicap_data:
-  beam: 2.5146305779078273
+  thcf: 0.90308888
+  beam: 2.5146
+  draft: 0.9906
+  fore_triangle_height: 6.4008778346744695
+  fore_triangle_base: 4.215435259692757
+  length_over_all: 7.696293586930016
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 3.9624481833699097
     luff: 3.0480370641306997
-  thcf: 0.90308888
-  draft: 0.9906120458424774
   topsail:
     luff: 4.87685930260912
     perpendicular: 2.43842965130456
-  propellor:
-    type: fixed
-  length_over_all: 7.696293586930016
-  fore_triangle_base: 4.215435259692757
   length_on_waterline: 7.010485247500609
-  fore_triangle_height: 6.4008778346744695
-length_on_deck: 7.6962
-beam: 2.5146
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.6962
+created_at: '2020-04-25T17:33:53.96734+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Golliwog
+- Jacinta
+- Goli

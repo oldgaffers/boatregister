@@ -13,6 +13,9 @@ year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+design_class:
+  name: Kite
+  id: b52c9b8d-94c8-4943-a722-fd41fa7a43a6
 builder:
   name: Dick Phillips
   id: babc495f-9ec5-4856-96a0-b9eda9295db8
@@ -20,44 +23,36 @@ place_built: Lyme Regis
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Ply epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: River Dart
 hull_form: unknown
 sail_number: '2'
 ssr: SSR152636
-callsign: ''
 ownerships:
-- id: 295
-  share: 64
+- member: 3580
+  id: 295
   start: 2012
-  member: 3580
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: f525cf42-3d7c-4809-89b1-155badf17120
 image_key: h4K5FM
 thumb: https://photos.smugmug.com/photos/i-tSccSjs/0/Th/i-tSccSjs-Th.jpg
-draft: 0.2804
 handicap_data:
-  beam: 2.1300259043525966
+  thcf: 0.848
+  beam: 2.1092
+  draft: 0.2804
+  fore_triangle_height: 5.4000656730065835
+  fore_triangle_base: 2.1600262692026333
+  length_over_all: 6.40007783467447
+  sailarea: 19.43932985730041
   main:
     foot: 3.970048281821507
     head: 3.800046214337966
     luff: 2.7000328365032917
-  thcf: 0.848
-  draft: 0.30000364850036576
-  sailarea: 19.43932985730041
   draft_keeldown: 1.1700142291514264
-  length_over_all: 6.40007783467447
-  fore_triangle_base: 2.1600262692026333
   length_on_waterline: 5.650068713423555
-  fore_triangle_height: 5.4000656730065835
-length_on_deck: 6.4008
-beam: 2.1092
-design_class:
-  name: Kite
-  id: b52c9b8d-94c8-4943-a722-fd41fa7a43a6
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4008
+created_at: '2020-04-25T17:36:18.609855+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

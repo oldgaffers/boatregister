@@ -3,7 +3,6 @@ oga_no: 302
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: "Log 83/2 Owner used to own Pamete,a 30ft gaff ketch built in Conway\
   \ in1931. \_He sold her on in 1965.  For sale in September 2003 Log"
 year: 1931
@@ -17,40 +16,34 @@ builder:
 place_built: Conwy
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Gosport
 hull_form: long keel deep forefoot
 reference:
 - Log 83/2
 sail_number: '302'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 46ce5aa7-cabc-44be-9ebb-3a495e66b802
-draft: 1.4021
 handicap_data:
-  beam: 2.9565959522067784
+  thcf: 0.956593337
+  beam: 2.9566
+  draft: 1.4021
+  fore_triangle_height: 9.601316752011703
+  fore_triangle_base: 5.614484272128749
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
   main:
     foot: 3.9624481833699097
     head: 3.5570592538405266
     luff: 5.4864667154352595
-  thcf: 0.956593337
-  draft: 1.4020970495001217
-  mizzen:
-    foot: 5.4864667154352595
-    luff: 2.0574250182882223
   topsail:
     luff: 4.700073152889539
     perpendicular: 2.8194342843208973
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.614484272128749
+  mizzen:
+    foot: 5.4864667154352595
+    luff: 2.0574250182882223
   length_on_waterline: 8.22970007315289
-  fore_triangle_height: 9.601316752011703
-length_on_deck: 9.144
-beam: 2.9566
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T16:46:48.757308+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

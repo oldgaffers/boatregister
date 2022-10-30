@@ -4,7 +4,6 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Gunter sloop built 1955</p>
-full_description: ''
 year: 1955
 year_is_approximate: false
 designer:
@@ -15,21 +14,18 @@ builder:
   id: 8cb88892-73d8-4b6e-86b8-63033744ddec
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: F. Mark Miller
-  share: 64
   start: 1985
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: f2551740-f246-427a-a2f7-b084a2351d01
-draft: 0.253
 handicap_data:
+  beam: 2.2342
+  draft: 0.253
   sailarea: 6
   moving_keel: true
   draft_keel_up: 0.253
@@ -37,7 +33,6 @@ handicap_data:
   draft_keel_down: 1.1674
   moving_keel_type: Centreboard
   length_on_waterline: 5.9436
-length_on_deck: 6.5014
-beam: 2.2342
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.5014
+created_at: '2020-04-25T17:45:52.832819+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

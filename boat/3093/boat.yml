@@ -13,6 +13,9 @@ year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+design_class:
+  name: Ilur
+  id: e5040ba6-01e3-47f4-a04b-a179a8189137
 builder:
   name: Lew Walker
   id: 305b3633-2f99-4039-a029-c9c278894951
@@ -21,41 +24,32 @@ construction_material: plywood
 spar_material: wood
 construction_method: clinker_ply
 construction_details: Clinker plywood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: centre-board dinghy
 ssr: '112203'
-callsign: ''
 ownerships:
-- end: 2003
-  name: Benoit de Saulce
-  share: 64
+- name: Benoit de Saulce
   start: 1994
-- name: Roger Barnes
+  end: 2003
   share: 64
+- name: Roger Barnes
   start: 2003
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 008198fe-7630-4c3c-b749-28849a37b12e
-draft: 0.3048
 handicap_data:
-  beam: 1.6764325774201414
+  thcf: 0.778
+  beam: 1.6764
+  draft: 0.3048
+  length_over_all: 4.470470616922701
+  sailarea: 12.405137773692601
   main:
     foot: 3.6830468178493048
     head: 3.454450134113631
     luff: 2.540039014874421
-  thcf: 0.778
-  draft: 0.30480370641307
-  sailarea: 12.405137773692601
   draft_keeldown: 0.7600092428675932
-  length_over_all: 4.470470616922701
   length_on_waterline: 3.9624481833699097
-length_on_deck: 4.4714
-beam: 1.6764
-design_class:
-  name: Ilur
-  id: e5040ba6-01e3-47f4-a04b-a179a8189137
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.4714
+created_at: '2020-04-25T17:36:24.186409+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

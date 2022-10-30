@@ -4,7 +4,6 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: bermudan
 short_description: <p>Hillyard yacht</p>
-full_description: ''
 year: 1937
 year_is_approximate: false
 designer:
@@ -17,27 +16,18 @@ place_built: Littlehampton
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bangor N. Wales
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
 - name: Derek Atkins
-  share: 64
   start: 2012
-- share: 64
-  member: 5812
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: eb8de9ba-dd38-46bd-9e8a-3dadbc1dfb89
-draft: 0
 handicap_data:
   length_overall: 10.668
-length_on_deck: 10.668
-beam: 0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T17:46:13.683654+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

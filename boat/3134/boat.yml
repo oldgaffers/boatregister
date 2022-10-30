@@ -11,6 +11,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -18,53 +21,45 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Lowestoft
 hull_form: long keel deep forefoot
 sail_number: P47
 ssr: '113716'
-callsign: ''
 ownerships:
-- id: 734
-  share: 64
+- member: 5707
+  id: 734
   start: 2008
-  member: 5707
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 81ef7ed5-f891-41e1-bb0d-f9d6d63906a0
-previous_names:
-- Karen Marie
 image_key: RpwdVj
 thumb: https://photos.smugmug.com/photos/i-hC4dWzk/0/Th/i-hC4dWzk-Th.jpg
-draft: 1.0668
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 0.968
+  beam: 2.8956
+  draft: 1.0668
+  fore_triangle_height: 8.077298219946353
+  fore_triangle_base: 5.974152645696172
+  length_over_all: 9.1441111923921
+  propellor:
+    type: folding
+    blades: 3
+  sailarea: 55.084211442533395
   main:
     foot: 5.577907827359181
     head: 4.358693001706901
     luff: 5.059741526456962
-  thcf: 0.968
-  draft: 1.066812972445745
   topsail:
     luff: 4.358693001706901
     perpendicular: 1.8593026091197267
-  sailarea: 55.084211442533395
-  propellor:
-    type: folding
-    blades: 3
   draft_keeldown: 1.9050231650816873
-  length_over_all: 9.1441111923921
   length_over_spars: 11.887344550109729
-  fore_triangle_base: 5.974152645696172
   length_on_waterline: 7.863935625457206
-  fore_triangle_height: 8.077298219946353
-length_on_deck: 9.144
-beam: 2.8956
-design_class:
-  name: Cornish Crabber Pilot Cutter 30
-  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:38:09.08803+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Karen Marie

@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>&#39;Carrie&#39; is a Heard 23, based on the Clyde.</p>
-full_description: ''
 year: 1983
 year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -17,31 +19,21 @@ place_built: Mylor
 construction_material: wood
 spar_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Cumbernauld
 hull_form: long keel deep forefoot
 sail_number: '8'
-callsign: ''
 ownerships:
 - name: Graham Benson
-  share: 64
   start: 2009
-- share: 64
-  member: 5127
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: http://www.scottishensign.co.uk/
 id: 3a02f5d3-c794-4f5e-a0f0-51fb55ae63ac
 image_key: rpv5Lr
 thumb: https://photos.smugmug.com/photos/i-mgdJJRN/0/Th/i-mgdJJRN-Th.jpg
-draft: 0
-length_on_deck: 0
-beam: 0
-design_class:
-  name: Heard 23
-  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:46:25.005878+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  length_on_deck: 0

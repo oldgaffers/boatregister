@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Crabber 26.</p>
-full_description: ''
 year: 2013
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber 26
+  id: 50503297-7263-4cf4-af74-102bb153bc8e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,25 +19,21 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Warsash
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Graham and Patricia Woodward
-  share: 64
   start: 2013
-- share: 64
-  member: 5880
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ccad0b72-ab19-4492-aac6-ea9a9516c058
-draft: 0.8138
 handicap_data:
+  beam: 2.7432
+  draft: 0.8138
+  fore_triangle_height: 7.9004
+  fore_triangle_base: 4.3952
   main:
     foot: 16.67
     head: 14.25
@@ -47,13 +45,7 @@ handicap_data:
   draft_keel_down: 2.0056
   moving_keel_type: Centreboard
   length_over_spars: 10.0066
-  fore_triangle_base: 4.3952
   length_on_waterline: 7.239
-  fore_triangle_height: 7.9004
-length_on_deck: 8.001
-beam: 2.7432
-design_class:
-  name: Cornish Crabber 26
-  id: 50503297-7263-4cf4-af74-102bb153bc8e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.001
+created_at: '2020-04-25T17:46:16.65286+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

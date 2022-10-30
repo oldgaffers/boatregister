@@ -18,61 +18,70 @@ full_description: '<p><em>Fortuna</em>, a gaff cutter, was found off Cockham Sli
   <p>Her sister ship, <em>Chickpea</em>, has been fitted out for cruising with a cabin.</p>'
 year: 1990
 year_is_approximate: false
+design_class:
+  name: Baltic one design
+  id: c611ec8a-8bfa-4d07-bf6d-9005e0025878
 place_built: Baltic Wharf
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 12950
+- created_at: '2020-01-27T15:29:57+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: <p>"Katie is a 30" (LOD) gaff-rigged cutter, built 1990, with hull and
+    deck in GRP. The plug was an original Victorian Gentleman"s Cutter, "Fortuna"
+    (circa 1880).</p><p>She has two forward berth and a sea toilet, and the large
+    cockpit doubles as 2 extra berths and saloon in which there is cooker/sink/cool
+    compartment and stowage. The cockpit is enclosed with a two-part tent in harbour
+    or a spray hood, if wished, at sea.</p><p>She is equipped with a Yanmar IGM 10
+    diesel engine and stainless steel 80 litre fuel tank, a s/s 180 litre water tank,
+    and holding tank. "Katie" carries a suit of seven sails, including a new unused
+    jib (2015).</p><p>Lying ashore, Walton on the Naze.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.252079+00:00'
 home_country: GBR
 home_port: Brightlingsea, ESsex
 hull_form: long keel sloping forefoot
 sail_number: '1'
-callsign: ''
 ownerships:
-- end: 2010
-  name: Harry Hutchinson
-  share: 64
+- name: Harry Hutchinson
   start: 0
-- end: 2016
-  name: Nick Dance
-  share: 32
-  start: 2010
-- id: 1098
+  end: 2010
   share: 64
-  member: 6352
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+- name: Nick Dance
+  start: 2010
+  end: 2016
+  share: 32
 id: 721efdd1-03ce-466e-9f4f-01c20af02274
 image_key: RMcX9S
 thumb: https://photos.smugmug.com/photos/i-DJX3KNm/0/Th/i-DJX3KNm-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.964
+  beam: 2.4384
+  draft: 1.3716
+  fore_triangle_height: 9.75371860521824
+  fore_triangle_base: 4.419653742989515
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 44.94427280150153
   main:
     foot: 4.928675932699342
     head: 2.9718361375274323
     luff: 4.800658376005852
-  thcf: 0.964
-  draft: 1.3716166788588149
   topsail:
     luff: 3.785662033650329
     perpendicular: 2.414045354791514
-  sailarea: 44.94427280150153
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 4.419653742989515
   length_on_waterline: 7.467690807120214
-  fore_triangle_height: 9.75371860521824
-length_on_deck: 9.144
-beam: 2.4384
-design_class:
-  name: Baltic one design
-  id: c611ec8a-8bfa-4d07-bf6d-9005e0025878
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:34:09.407582+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -12,6 +12,9 @@ year_is_approximate: false
 designer:
   name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+design_class:
+  name: Tammie Norrie
+  id: e65df0ae-09ce-438a-9877-4719c79a4588
 builder:
   name: Fiona Molloy
   id: 87314ec6-c692-449b-9e4b-715cf02007db
@@ -19,32 +22,25 @@ place_built: Lyme Regis Boat Building Academy
 construction_material: plywood
 construction_method: clinker_ply
 construction_details: Clinker, marine ply, glued. Spruce spars.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Chichester
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 697
-  share: 64
+- member: 5624
+  id: 697
   start: 2011
-  member: 5624
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: f7a26acd-936a-45b6-966a-6483e7c79fc5
 image_key: Q9mzVg
 thumb: https://photos.smugmug.com/photos/i-pSQwcCv/0/Th/i-pSQwcCv-Th.jpg
-draft: 0
 handicap_data:
+  beam: 1.3716
   moving_keel: true
   length_overall: 4.1148
   moving_keel_type: Centreboard
-length_on_deck: 4.1148
-beam: 1.3716
-design_class:
-  name: Tammie Norrie
-  id: e65df0ae-09ce-438a-9877-4719c79a4588
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.1148
+created_at: '2020-04-25T17:46:40.040729+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

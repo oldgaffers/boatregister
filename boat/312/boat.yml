@@ -38,63 +38,63 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel red pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: null
+- created_at: '2021-01-27T09:21:16.097112+00:00'
+  flexibility: null
+  offered: null
+  price_flexibility: null
+  reduced: null
+  sales_text: ''
+  seller_gold_id: 313
+  seller_member: 3744
+  sold: '2021-01-10'
+  summary: sold on the initiative of the purchaser.
+  updated_at: '2021-01-27T09:21:16.097112+00:00'
 home_country: GBR
 home_port: Woolverstone
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 1930
-  name: Paskins Family
-  share: 64
+- name: Paskins Family
   start: 1872
-- end: 1972
-  name: David Cook
+  end: 1930
   share: 64
+- name: David Cook
   start: 1958
-- end: 2003
-  name: Roger Needham
-  share: 32
+  end: 1972
+  share: 64
+- name: Roger Needham
   start: 1972
+  end: 2003
+  share: 32
 - name: Nigel Waller
-  share: 64
   start: 2003
-- id: 34806
   share: 64
-  member: 2728
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: c5d2a8a0-0c46-4459-92c3-81bcd2f09386
-previous_names:
-- Fanny
 image_key: T5QMB5
 thumb: https://photos.smugmug.com/photos/i-gS2f6qZ/0/Th/i-gS2f6qZ-Th.jpg
-draft: 1.0668
 handicap_data:
-  beam: 2.5908436966593515
+  thcf: 0.94
+  beam: 2.5908
+  draft: 1.0668
+  fore_triangle_height: 8.686942209217264
+  fore_triangle_base: 5.740490124359912
+  length_over_all: 6.934302609119727
+  propellor:
+    type: folding
+    blades: 2
+  sailarea: 56.80587667724669
   main:
     foot: 4.673664959765911
     head: 4.62286027798098
     luff: 4.800676664228237
-  thcf: 0.94
-  draft: 1.0922275054864667
   topsail:
     luff: 5.994489148988052
     perpendicular: 2.9718544257498167
-  sailarea: 56.80587667724669
-  propellor:
-    type: folding
-    blades: 2
-  length_over_all: 6.934302609119727
   length_over_spars: 11.049140453547915
-  fore_triangle_base: 5.740490124359912
   length_on_waterline: 6.781888563764935
-  fore_triangle_height: 8.686942209217264
-length_on_deck: 6.9494
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.9494
+created_at: '2020-04-25T16:46:57.17942+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Fanny

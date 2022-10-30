@@ -3,8 +3,6 @@ oga_no: 3046
 generic_type: unknown
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2011
 year_is_approximate: false
 designer:
@@ -17,41 +15,35 @@ place_built: Barrow in Furness
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Clinker ply and epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Barrow
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: John Sharpe
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 25093b20-26b5-4587-8e5a-e1bfed28e961
-draft: 0.2896
 handicap_data:
-  beam: 1.9995123140697388
+  thcf: 0.84337335
+  beam: 1.9995
+  draft: 0.2896
+  fore_triangle_height: 7.028773469885393
+  fore_triangle_base: 1.3990490124359911
+  length_over_all: 4.87685930260912
   main:
     foot: 3.0114606193611317
     head: 3.0998536942209216
     luff: 4.6787368934406235
-  thcf: 0.84337335
-  draft: 0.28956352109241645
+  topsail:
+    luff: 4.160570592538405
+    perpendicular: 1.6002194586686174
   mizzen:
     foot: 1.4264813460131673
     head: 2.100097537186052
     luff: 3.4259936600829066
-  topsail:
-    luff: 4.160570592538405
-    perpendicular: 1.6002194586686174
   draft_keeldown: 1.0698610095098755
-  length_over_all: 4.87685930260912
-  fore_triangle_base: 1.3990490124359911
   length_on_waterline: 4.87685930260912
-  fore_triangle_height: 7.028773469885393
-length_on_deck: 4.8768
-beam: 1.9995
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:35:08.821491+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

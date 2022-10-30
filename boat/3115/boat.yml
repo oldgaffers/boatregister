@@ -15,6 +15,9 @@ year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+design_class:
+  name: Norfolk Smuggler
+  id: 1af0cf00-1de2-4a9c-8ce7-79e4afe2cf08
 builder:
   name: Feltham Alan Ltd.
   id: 8b1e6357-a96e-42cb-b0cb-21f548390cfe
@@ -22,45 +25,32 @@ place_built: N Walsham
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Andrew Croft
-  share: 64
   start: 2009
-- share: 64
-  member: 5532
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 441a675a-cbc4-48e5-ad1c-84a569bba60b
-draft: 0.8626
 handicap_data:
-  beam: 2.6670507193367468
+  thcf: 0.796
+  beam: 2.6914
+  draft: 0.8626
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 4.57205559619605
+  length_over_all: 7.620092660326749
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 39.89750404997166
   main:
     foot: 4.724469641550841
     head: 4.343458912460375
     luff: 4.26725188978298
-  thcf: 0.796
-  draft: 0.8382284808583271
-  sailarea: 39.89750404997166
-  propellor:
-    type: fixed
-    blades: 3
   draft_keeldown: 1.4986405754693977
-  length_over_all: 7.620092660326749
   length_over_spars: 9.44891489880517
-  fore_triangle_base: 4.57205559619605
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 7.62
-beam: 2.6914
-design_class:
-  name: Norfolk Smuggler
-  id: 1af0cf00-1de2-4a9c-8ce7-79e4afe2cf08
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T17:37:50.648045+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

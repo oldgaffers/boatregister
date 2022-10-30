@@ -13,6 +13,9 @@ year_is_approximate: false
 designer:
   name: Martin Eyre
   id: 7cf820e0-d23e-423a-88b8-796db102e59a
+design_class:
+  name: Brock 24
+  id: 7e9888e3-6a5a-40f3-8259-cfd7e27533de
 builder:
   name: Bridgend Boat Co.
   id: 2baf8a14-dd14-4e3a-936c-369594ab0618
@@ -21,41 +24,59 @@ construction_material: woodepoxy
 construction_method: unknown
 construction_details: "Hard wood, covered with west epoxy system. Iroko cockpit. Hollow\
   \ douglas fir mast and spars.\r\n"
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 19980
+- created_at: '2018-07-02T10:36:15+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: '<p>Traditional gaff rigged yawl built in 1997 by Bridgend Boat Company
+    and designed by Martin Eyre, excellent for estuary and coastal cruising. Effective
+    development of gaffer theme, amazingy spacious whilst having good performance.
+    Lying River Yealm, Newton Ferrers.A centre boarder with lifting keel. Draft 1.3m
+    with keel down, 0.3m with keel raised.</p><p>Accommodation for 4-5 in two cabins
+    with marine toilet. Large saloon with L-shaped seating which converts to small
+    double berth, single quarter berth with trotter box arrangement, forecabin with
+    double-V berth with toilet under.&nbsp;Galley to port with ample worktop/chart
+    space. Excellent storage throughout. Comfortable deep cockpit and side decks.
+    Repainted and spars varnished recently. Serviced annually. Good condition throughout.</p><p>Inventory
+    includes: Anchor, chain and warp; warps, fenders, beaching legs allowing Juniper
+    tostand upright in mud or sand; mainsail and cockpit covers; tailor made cockpit
+    tent with good head room creating further space when moored, Autohelm tiller pilot;
+    Tacktic speed, wind and depth indicators; fixed compass. Mainsail, furling Genoa,
+    furling staysail and mizzzen with all lines leading back to the cockpit for single
+    or short handed sailing. Yanmar GM10 inboard engine, reliable and smooth running,
+    annually serviced and winterised.</p><p>"Juniper" is currenty used for local estuary,
+    coastal and inshore cruising.</p>'
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.603824+00:00'
 home_country: GBR
 home_port: 'Yacht Haven, Plymouth '
 hull_form: unknown
 ssr: '150785'
-callsign: ''
 ownerships:
 - name: James and Gabrielle Service
-  share: 64
   start: 2012
-- share: 64
-  member: 5932
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 9596cf93-e308-45f7-b3d7-05210f27ac5d
-previous_names:
-- Nancy Will
 image_key: Zjwffk
 thumb: https://photos.smugmug.com/photos/i-DPHn4tB/0/Th/i-DPHn4tB-Th.jpg
-draft: 1.2954
 handicap_data:
+  beam: 2.5908
+  draft: 1.2954
   sailarea: 7
   moving_keel: true
   length_overall: 7.3152
   moving_keel_type: Centreboard
   length_over_spars: 9.144
   length_on_waterline: 6.7056
-length_on_deck: 7.3152
-beam: 2.5908
-design_class:
-  name: Brock 24
-  id: 7e9888e3-6a5a-40f3-8259-cfd7e27533de
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:46:45.105437+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Nancy Will

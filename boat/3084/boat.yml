@@ -5,7 +5,6 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Vivid is a replica of boat designed by GL Watson in 1886. She
   was built in 2008.</p>
-full_description: ''
 year: 2008
 year_is_approximate: false
 designer:
@@ -18,43 +17,34 @@ place_built: Poole
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Brian ODonoghue
-  share: 64
   start: 2008
-- share: 64
-  member: 4613
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: efceacc3-1095-4c5b-85d9-b64d80a3e4b4
-draft: 1.2954
 handicap_data:
-  beam: 1.9446476469153864
+  thcf: 0.987248029
+  beam: 1.9568
+  draft: 1.2954
+  fore_triangle_height: 6.349061204584247
+  fore_triangle_base: 6.0960741282613995
+  length_over_all: 8.83930748597903
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 5.6388685686417945
     head: 4.114850036576445
     luff: 4.26725188978298
-  thcf: 0.987248029
-  draft: 1.2954157522555474
   topsail:
     luff: 5.029261155815655
     perpendicular: 2.194586686174104
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.83930748597903
-  fore_triangle_base: 6.0960741282613995
   length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 6.349061204584247
-length_on_deck: 8.8392
-beam: 1.9568
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.8392
+created_at: '2020-04-25T17:35:44.851515+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

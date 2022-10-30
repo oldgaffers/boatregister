@@ -19,6 +19,9 @@ year_is_approximate: false
 designer:
   name: Alfred Mylne
   id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
+design_class:
+  name: Islands One Design
+  id: 73ff63c4-da29-44a7-b2da-83c5ebd845ee
 builder:
   name: Hilditch John
   id: 419b997a-03fd-48b2-b58e-923e30825ae9
@@ -26,29 +29,24 @@ place_built: Carrickfergus
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel/Wood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel sloping forefoot
 sail_number: '6'
-callsign: ''
 ownerships:
 - name: Ian Terblanche
-  share: 64
   start: 2007
-- id: 832
   share: 64
-  member: 5907
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: f959dfeb-8712-41ad-91a5-c5d590642989
 image_key: THFKGJ
 thumb: https://photos.smugmug.com/photos/i-j4T6Nq6/0/Th/i-j4T6Nq6-Th.jpg
-draft: 1.9812
 handicap_data:
+  beam: 2.7432
+  draft: 1.9812
+  fore_triangle_height: 10.921
+  fore_triangle_base: 5.462
   main:
     foot: 19.58
     head: 15.58
@@ -59,13 +57,7 @@ handicap_data:
   length_overall: 11.8872
   calculated_thcf: 1.042
   length_over_spars: 13.4112
-  fore_triangle_base: 5.462
   length_on_waterline: 8.2296
-  fore_triangle_height: 10.921
-length_on_deck: 11.8872
-beam: 2.7432
-design_class:
-  name: Islands One Design
-  id: 73ff63c4-da29-44a7-b2da-83c5ebd845ee
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.8872
+created_at: '2020-04-25T17:46:30.412308+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

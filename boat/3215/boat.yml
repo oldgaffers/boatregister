@@ -3,13 +3,14 @@ oga_no: 3215
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1964
 year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+design_class:
+  name: Vulcan
+  id: 4819725f-9c3b-4a45-a039-a13ef5ea1def
 builder:
   name: Kesterloo Smedery
   id: 7468e94c-0695-455c-9c9b-f13e1c3f071a
@@ -17,36 +18,30 @@ place_built: Niewerkerk Holland
 construction_material: steel
 construction_method: unknown
 construction_details: Single Chine - corten steel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Maldon
 hull_form: cut_away_stem
 sail_number: 9MN
 uk_part1: '306218'
-callsign: ''
 ownerships:
-- id: 8
-  share: 64
+- member: 221
+  id: 8
   start: 2004
-  member: 221
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: d2699b42-6a0b-4dcb-8abe-03d58030d396
-draft: 1.143
 handicap_data:
+  beam: 2.8956
+  draft: 1.143
+  fore_triangle_height: 10.9728
+  fore_triangle_base: 3.5052
   main:
     foot: 15
     luff: 36
   length_overall: 9.2964
-  fore_triangle_base: 3.5052
   length_on_waterline: 7.9248
-  fore_triangle_height: 10.9728
-length_on_deck: 9.2964
-beam: 2.8956
-design_class:
-  name: Vulcan
-  id: 4819725f-9c3b-4a45-a039-a13ef5ea1def
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.2964
+created_at: '2020-04-25T17:46:29.315211+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

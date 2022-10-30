@@ -3,35 +3,26 @@ oga_no: 3080
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
-full_description: ''
 year_is_approximate: false
+design_class:
+  name: Lune Pilot
+  id: c42d511d-0c4f-48ca-9e7a-d3d2b9cd338d
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 3cb2255d-1958-420c-a919-0a429bf531c0
-draft: 0.3048
 handicap_data:
-  beam: 1.5240185320653499
+  thcf: 0.716729564
+  beam: 1.524
+  draft: 0.3048
+  length_over_all: 3.910631553279688
   main:
     foot: 2.590831504511095
     head: 2.7432333577176298
     luff: 1.3716166788588149
-  thcf: 0.716729564
-  draft: 0.30480370641307
-  length_over_all: 3.910631553279688
   length_on_waterline: 3.429041697147037
-length_on_deck: 3.9106
-beam: 1.524
-design_class:
-  name: Lune Pilot
-  id: c42d511d-0c4f-48ca-9e7a-d3d2b9cd338d
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.9106
+created_at: '2020-04-25T17:35:40.820596+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

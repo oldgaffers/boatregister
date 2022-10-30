@@ -3,39 +3,33 @@ oga_no: 3186
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: <p>West Solent One Design converted to ketch rig</p>
 year: 1926
 year_is_approximate: false
+design_class:
+  name: West Solent OD
+  id: 7cd7d8dd-97d2-444b-937f-768368d8603b
 builder:
   name: Berthon Boat Co. Ltd.
   id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
 place_built: Lymington
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: cut_away_stem
 sail_number: W 16
-callsign: ''
 ownerships:
 - name: W Shawcross
-  share: 64
   start: 1985
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 9e6405ea-7bbd-4a1e-a2c5-aa833f93ce34
-draft: 1.6764
 handicap_data:
+  beam: 2.286
+  draft: 1.6764
   sailarea: 5
   length_overall: 10.8204
   length_on_waterline: 7.9248
-length_on_deck: 10.8204
-beam: 2.286
-design_class:
-  name: West Solent OD
-  id: 7cd7d8dd-97d2-444b-937f-768368d8603b
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.8204
+created_at: '2020-04-25T17:46:02.33846+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

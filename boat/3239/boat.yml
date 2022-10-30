@@ -5,12 +5,14 @@ rig_type: single_sail
 mainsail_type: lug
 short_description: <p>Le Rosbif is a Ilur design built over 5 years by her first owner
   Chris Allender.</p>
-full_description: ''
 year: 2015
 year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+design_class:
+  name: Ilur
+  id: e5040ba6-01e3-47f4-a04b-a179a8189137
 builder:
   name: Chris Allender
   id: e773039b-d2fa-4fe4-a4ac-d2d07b23487c
@@ -18,40 +20,34 @@ place_built: Glanvilles Wootton Dorset.
 construction_material: woodepoxy
 construction_method: clinker_ply
 construction_details: Epoxy ply, steamed oak ribs, clinker built hull.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Weymouth
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 507
-  share: 64
+- member: 4762
+  id: 507
   start: 2010
-  member: 4762
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 55ff309d-73ec-4e94-9a4d-58408a50fe93
 image_key: 5gXQbv
 thumb: https://photos.smugmug.com/photos/i-MRtng9w/0/Th/i-MRtng9w-Th.jpg
-draft: 0.6797
 handicap_data:
+  beam: 1.7008
+  draft: 0.6797
+  sailarea: 1
   main:
     foot: 11.91
     head: 11.32
     luff: 8.86
-  sailarea: 1
   moving_keel: true
   draft_keel_up: 0.6797
   length_overall: 4.4409
   moving_keel_type: Centreboard
   length_over_spars: 4.4409
   length_on_waterline: 4.0996
-length_on_deck: 4.4409
-beam: 1.7008
-design_class:
-  name: Ilur
-  id: e5040ba6-01e3-47f4-a04b-a179a8189137
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.4409
+created_at: '2020-04-25T17:46:57.097419+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

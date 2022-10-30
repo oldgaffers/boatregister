@@ -3,8 +3,6 @@ oga_no: 322
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1900
 year_is_approximate: false
 designer:
@@ -16,32 +14,22 @@ builder:
 place_built: Arnside
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2012
-  name: Madelaine Geikie
-  share: 64
+- name: Madelaine Geikie
   start: 2012
-- share: 64
-  member: 5442
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2012
+  share: 64
 id: c4a3770f-8e0f-400d-aba6-78de2cebce0e
 image_key: Pk3TQG
 thumb: https://photos.smugmug.com/photos/i-t8bt8gZ/0/Th/i-t8bt8gZ-Th.jpg
-draft: 0
 handicap_data:
-  beam: 3.2004389173372347
+  beam: 3.2004
   length_over_all: 10.972933430870519
   length_on_waterline: 9.44891489880517
-length_on_deck: 10.9728
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.9728
+created_at: '2020-04-25T16:47:07.21596+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

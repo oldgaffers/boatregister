@@ -3,13 +3,14 @@ oga_no: 3013
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2010
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber 22
+  id: f0555610-6fc8-4dce-a587-d90c2a7cbc72
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,36 +18,26 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: c5c49c53-dbef-4f55-83d9-b360d06fb13b
-draft: 0.701
 handicap_data:
-  beam: 2.4993903925871734
+  thcf: 0.870247277
+  beam: 2.4994
+  draft: 0.701
+  fore_triangle_height: 6.9007559131919045
+  fore_triangle_base: 3.9014874420872956
+  length_over_all: 6.705681541087539
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 3.907583516215557
     head: 3.575347476225311
     luff: 4.608632040965618
-  thcf: 0.870247277
-  draft: 0.7010485247500609
-  propellor:
-    type: fixed
-    blades: 3
   draft_keeldown: 1.4996342355523042
-  length_over_all: 6.705681541087539
-  fore_triangle_base: 3.9014874420872956
   length_on_waterline: 6.300292611558157
-  fore_triangle_height: 6.9007559131919045
-length_on_deck: 6.7056
-beam: 2.4994
-design_class:
-  name: Cornish Crabber 22
-  id: f0555610-6fc8-4dce-a587-d90c2a7cbc72
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:34:04.099242+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

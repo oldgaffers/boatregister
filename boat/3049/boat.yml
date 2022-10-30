@@ -5,12 +5,14 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Coco is a beautiful, lightly used Cornish Crabber 22, built
   in 2004 to the usual high spec. by Crabbers of Rock.</p>
-full_description: ''
 year: 2004
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber 22
+  id: f0555610-6fc8-4dce-a587-d90c2a7cbc72
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -18,38 +20,45 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP, coppercoated
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 38950
+- created_at: '2015-09-08T11:40:13+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>Beautiful, lightly used Cornish Crabber 22, built in 2004 to the
+    usual high spec. by Crabbers of Rock. Coco is in excellent condition, lying ashore
+    in Bosham, West Sussex. She has the benefit of the Yanmar GM 20 engine, regularly
+    serviced and winterised. VHF, autohelm, Eberspacher heating,and many other extras.
+    She has a coppercoated hull, boat cover and fully compliant road trailer.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.164401+00:00'
 home_country: GBR
 home_port: Bosham
 hull_form: long keel deep forefoot
 sail_number: '47'
 ssr: '114239'
-callsign: ''
 ownerships:
-- end: 2015
-  name: Julian Biggs
-  share: 64
+- name: Julian Biggs
   start: 2011
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2015
+  share: 64
 id: 4feb6ccd-2385-4832-801a-7a6f515a25bf
 image_key: 89rHBB
 thumb: https://photos.smugmug.com/photos/i-tQRJCJn/0/Th/i-tQRJCJn-Th.jpg
-draft: 0.7102
 handicap_data:
-  beam: 2.5146305779078273
-  draft: 0.7101926359424531
+  beam: 2.5146
+  draft: 0.7102
+  length_over_all: 6.705681541087539
   propellor:
     type: fixed
   draft_keeldown: 1.5240185320653499
-  length_over_all: 6.705681541087539
   length_on_waterline: 6.300292611558157
-length_on_deck: 6.7056
-beam: 2.5146
-design_class:
-  name: Cornish Crabber 22
-  id: f0555610-6fc8-4dce-a587-d90c2a7cbc72
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:35:11.911232+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

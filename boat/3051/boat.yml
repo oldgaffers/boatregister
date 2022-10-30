@@ -23,48 +23,43 @@ place_built: Benfleet
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferrocement
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Benfleet
 hull_form: long keel deep forefoot
 ssr: '1148'
-callsign: ''
 ownerships:
-- id: 672
-  share: 64
+- member: 5527
+  id: 672
   start: 1976
-  member: 5527
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 8e705996-de84-40eb-9d70-df7340060ef8
 image_key: MBMTv7
 thumb: https://photos.smugmug.com/photos/i-Z96q3XQ/0/Th/i-Z96q3XQ-Th.jpg
-draft: 1.9568
 handicap_data:
-  beam: 4.1453304072177515
+  thcf: 1.109132621
+  beam: 4.1392
+  draft: 1.9568
+  fore_triangle_height: 16.611801999512313
+  fore_triangle_base: 8.177883443062667
+  length_over_all: 14.935381614240429
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 4.063033406486222
     head: 3.910631553279688
     luff: 10.515727871250913
-  thcf: 1.109132621
-  draft: 1.9507437210436478
+  topsail:
+    luff: 8.53450377956596
+    perpendicular: 3.605827846866618
   mizzen:
     foot: 4.114850036576445
     head: 2.8956352109241648
     luff: 4.26725188978298
-  topsail:
-    luff: 8.53450377956596
-    perpendicular: 3.605827846866618
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 14.935381614240429
-  fore_triangle_base: 8.177883443062667
   length_on_waterline: 11.582540843696659
-  fore_triangle_height: 16.611801999512313
-length_on_deck: 14.9352
-beam: 4.1392
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 14.9352
+created_at: '2020-04-25T17:35:13.691706+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

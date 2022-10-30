@@ -3,8 +3,6 @@ oga_no: 3041
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2009
 year_is_approximate: false
 designer:
@@ -17,34 +15,28 @@ place_built: Machynlleth
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: 6mm ply stitch and tape/epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Aberdovey
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Christopher Volkes
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fa9da236-d895-4302-b2e6-3634f9f0f79e
-draft: 0.1646
 handicap_data:
-  beam: 1.4996342355523042
+  thcf: 0.738090107
+  beam: 1.4996
+  draft: 0.1646
+  fore_triangle_height: 3.4503779565959523
+  fore_triangle_base: 0.9753718605218239
+  length_over_all: 3.6393562545720552
   main:
     foot: 2.100097537186052
     head: 2.5938795415752254
     luff: 2.475006096074128
-  thcf: 0.738090107
-  draft: 0.1645940014630578
   draft_keeldown: 0.8991709339185565
-  length_over_all: 3.6393562545720552
-  fore_triangle_base: 0.9753718605218239
   length_on_waterline: 3.6149719580590096
-  fore_triangle_height: 3.4503779565959523
-length_on_deck: 3.6393
-beam: 1.4996
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.6393
+created_at: '2020-04-25T17:35:04.233348+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -26,31 +26,51 @@ place_built: St Helens, Isle of Wight
 construction_material: grp
 construction_method: unknown
 construction_details: Fibreglass hull, wooden gunwale
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 680
+- created_at: '2015-11-05T23:55:31+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Phoenix" is a Woodnutt 14 dinghy believed to date from circa 1960.
+    Woonutt"s boatyard at St. Helens, Isle of Wight, burnt down in mid 1960s. She
+    is an Old Gaffers Dayboat eligible for The Dinghy Cruising Association. Hull length
+    14ft, LOA 15ft. Hull is heavy glass fibre and she is a wonderfully stable sailer
+    whilst proving a good turn of speed for her length due to 130+ sq ft sail area.
+    Restored 1990 - 1993 and refurbished 2012.&nbsp;</p><p>Present owner since 1990
+    has sailed her primarily in Chichester Harbour, but also West Coast of Scotland,
+    the Baltic as well as Golfe de Morbihan raid. She can be seen by appointment at
+    Cobnor at the mouth of Bosham Creek. She comes complete with optional Bermudan
+    rig and galvanised road/launch trailer.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.04028+00:00'
 home_country: GBR
 home_port: Cobnor, Chichester Harbour
 hull_form: long keel deep forefoot
 sail_number: B12
-callsign: ''
 ownerships:
-- end: 2015
-  name: Bob Spackman
-  share: 64
+- name: Bob Spackman
   start: 1990
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2015
+  share: 64
 id: b97c9fba-e295-4119-8e27-e0a51565a0f5
 image_key: nRTrmN
 thumb: https://photos.smugmug.com/photos/i-VRzmH3W/0/Th/i-VRzmH3W-Th.jpg
-draft: 0.1524
 handicap_data:
+  beam: 1.6764
+  draft: 0.1524
+  fore_triangle_height: 5.587
+  fore_triangle_base: 1.524
+  sailarea: 1
   main:
     foot: 12.33
     head: 11.67
     luff: 6
-  sailarea: 1
   moving_keel: true
   draft_keel_up: 0.1524
   length_overall: 4.2672
@@ -58,10 +78,7 @@ handicap_data:
   draft_keel_down: 0.9144
   moving_keel_type: Centreboard
   length_over_spars: 4.6482
-  fore_triangle_base: 1.524
   length_on_waterline: 4.2672
-  fore_triangle_height: 5.587
-length_on_deck: 4.2672
-beam: 1.6764
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.2672
+created_at: '2020-04-25T17:46:38.459148+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -4,51 +4,44 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: Siola is a Golant Gaffer, sail no. 5.
-full_description: ''
 year: 2005
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Golant Gaffer
+  id: ecdf01fb-dd46-42f7-9232-39880886de2f
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Strip plank epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Spence Mooney
-  share: 64
   start: 2009
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0d37471a-1e98-43d6-b7fa-8f9399bf2781
 image_key: xkPsPF
 thumb: https://photos.smugmug.com/photos/i-TpJtTdj/0/Th/i-TpJtTdj-Th.jpg
-draft: 0.8534
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.831
+  beam: 2.1336
+  draft: 0.8534
+  fore_triangle_height: 5.998536942209217
+  fore_triangle_base: 3.401609363569861
+  length_over_all: 5.715069495245062
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 22.278743157863985
   main:
     foot: 3.5997317727383566
     head: 3.0785174347720066
     luff: 3.3528407705437697
-  thcf: 0.831
-  draft: 0.8382101926359424
-  sailarea: 22.278743157863985
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 5.715069495245062
-  fore_triangle_base: 3.401609363569861
   length_on_waterline: 5.410265788831992
-  fore_triangle_height: 5.998536942209217
-length_on_deck: 5.7302
-beam: 2.1336
-design_class:
-  name: Golant Gaffer
-  id: ecdf01fb-dd46-42f7-9232-39880886de2f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7302
+created_at: '2020-04-25T17:35:24.640574+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

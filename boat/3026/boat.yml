@@ -3,7 +3,6 @@ oga_no: 3026
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Sailed extensively on West Coast Canada/USA 1988 sailed to California
   (6 months) 2004 sailed round Vancouver Island (32 days)
 year: 1986
@@ -18,34 +17,28 @@ place_built: Vancouver B.C.
 construction_material: steel
 construction_method: unknown
 construction_details: 'Steel '
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Vancouver B.C.
 hull_form: unknown
 uk_part1: 13K96587
-callsign: ''
 ownerships:
 - name: Ivan Bulic
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e103a78a-9fb2-480a-bb0e-69b56f5e5db9
-draft: 1.6764
 handicap_data:
-  beam: 3.2522555474274566
+  thcf: 1.039201689
+  beam: 3.2522
+  draft: 1.6764
+  fore_triangle_height: 10.66812972445745
+  fore_triangle_base: 5.4864667154352595
+  length_over_all: 10.972933430870519
   main:
     foot: 6.0960741282613995
     head: 3.9624481833699097
     luff: 9.44891489880517
-  thcf: 1.039201689
-  draft: 1.6764203852718849
-  length_over_all: 10.972933430870519
-  fore_triangle_base: 5.4864667154352595
   length_on_waterline: 9.677517678614972
-  fore_triangle_height: 10.66812972445745
-length_on_deck: 10.9728
-beam: 3.2522
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.9728
+created_at: '2020-04-25T17:34:17.121568+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

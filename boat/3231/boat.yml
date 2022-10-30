@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Kitty is a Yarmouth 23</p>
-full_description: ''
 year: 2004
 year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+design_class:
+  name: Yarmouth 23
+  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
 builder:
   name: Yarmouth Boat Co.
   id: 609d8a8b-c14c-402c-b727-519e519d6f6f
@@ -17,24 +19,24 @@ place_built: Yarmouth Isle of Wight
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel sloping forefoot
 sail_number: '27'
-callsign: ''
 ownerships:
-- id: 714
-  share: 64
+- member: 5668
+  id: 714
   start: 2012
-  member: 5668
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 44462bfc-0a31-4f49-8107-eef831be4029
-draft: 0.9144
 handicap_data:
+  beam: 2.2799
+  draft: 0.9144
+  fore_triangle_height: 5.7912
+  fore_triangle_base: 3.0389
   main:
     foot: 12.73
     head: 9.22
@@ -42,13 +44,7 @@ handicap_data:
   length_overall: 6.8793
   calculated_thcf: 0.849
   length_over_spars: 7.9766
-  fore_triangle_base: 3.0389
   length_on_waterline: 5.4986
-  fore_triangle_height: 5.7912
-length_on_deck: 6.8793
-beam: 2.2799
-design_class:
-  name: Yarmouth 23
-  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8793
+created_at: '2020-04-25T17:46:48.63155+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

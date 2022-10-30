@@ -3,7 +3,6 @@ oga_no: 3001
 generic_type: Dayboat
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Bare hull made for 1st owner with minor alterations from standard
   Ha'penny design. 1st owner's rig and sail plan.
 year: 2005
@@ -19,37 +18,30 @@ construction_material: woodepoxy
 construction_method: clinker
 construction_details: Lapstrake 6mm anchor ply, west epoxy glued. Stem + Hog iroko.
   Rail thwarts etc Sweet chestnut
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Jonathan Tatlow
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: d23375a1-724a-4fcc-8950-5f9aebcbdd51
-draft: 0.2286
 handicap_data:
-  beam: 1.7678614971958058
+  thcf: 0.764476641
+  beam: 1.7678
+  draft: 0.2286
+  fore_triangle_height: 4.038649109973177
+  fore_triangle_base: 2.3622287247012923
+  length_over_all: 4.191050963179712
   main:
     foot: 3.1242379907339672
     head: 2.3622287247012923
     luff: 2.13362594489149
-  thcf: 0.764476641
-  draft: 0.22860277980980248
   topsail:
     luff: 2.3622287247012923
     perpendicular: 1.2954157522555474
   draft_keeldown: 0.9144111192392099
-  length_over_all: 4.191050963179712
-  fore_triangle_base: 2.3622287247012923
   length_on_waterline: 3.8100463301633747
-  fore_triangle_height: 4.038649109973177
-length_on_deck: 4.191
-beam: 1.7678
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.191
+created_at: '2020-04-25T17:33:52.343513+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

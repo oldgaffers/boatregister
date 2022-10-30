@@ -5,12 +5,14 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Step back in Time is a Golant Gaffer launched at the Yarmouth
   Old Gaffers Festival in 2011.</p>
-full_description: ''
 year: 2011
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Golant Gaffer
+  id: ecdf01fb-dd46-42f7-9232-39880886de2f
 builder:
   name: Kiddle
   id: 63774885-6110-48c4-a881-f96ae65d415a
@@ -18,45 +20,36 @@ place_built: Grimsby
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Strip Plank Epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Grimsby
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- id: 615
-  share: 64
+- member: 5241
+  id: 615
   start: 2011
-  member: 5241
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 2e2cdd1c-25b7-4249-8e97-45c2ad9816ed
 image_key: tVfL8q
 thumb: https://photos.smugmug.com/photos/i-gTBxhVK/0/Th/i-gTBxhVK-Th.jpg
-draft: 0.8382
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.842
+  beam: 2.1336
+  draft: 0.8382
+  fore_triangle_height: 5.998536942209217
+  fore_triangle_base: 3.401609363569861
+  length_over_all: 5.715069495245062
+  propellor:
+    type: folding
+    blades: 3
+  sailarea: 24.18826633122056
   main:
     foot: 3.4991465496220435
     head: 2.9687881004633017
     luff: 4.218483296756888
-  thcf: 0.842
-  draft: 0.8382101926359424
-  topsail: {}
-  sailarea: 24.18826633122056
-  propellor:
-    type: folding
-    blades: 3
-  length_over_all: 5.715069495245062
-  fore_triangle_base: 3.401609363569861
   length_on_waterline: 5.410265788831992
-  fore_triangle_height: 5.998536942209217
-length_on_deck: 5.715
-beam: 2.1336
-design_class:
-  name: Golant Gaffer
-  id: ecdf01fb-dd46-42f7-9232-39880886de2f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.715
+created_at: '2020-04-25T17:34:07.500789+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

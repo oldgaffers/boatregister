@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Cornish Crabbers Pilot Cutter 30. Boat Show model in 2001.</p>
-full_description: ''
 year: 2001
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -18,30 +20,28 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Whitehaven
 hull_form: long keel deep forefoot
 sail_number: P48
 ssr: '126575'
-callsign: ''
 ownerships:
-- id: 816
+- member: 5878
+  id: 816
+  start: 2010
   end: 2022
   share: 64
-  start: 2010
-  member: 5878
-updated_at: '2022-07-10T20:25:26.749669+00:00'
-website: ''
 id: cf3849eb-72cc-4b6f-ade1-45772e6fe42e
-previous_names:
-- Son of a Sailor
-- Spot the Dog
 image_key: rv2tzQ
 thumb: https://photos.smugmug.com/photos/i-wGHPtDb/0/Th/i-wGHPtDb-Th.jpg
-draft: 1.0668
 handicap_data:
+  beam: 2.8956
+  draft: 1.0668
+  fore_triangle_height: 8.382
+  fore_triangle_base: 5.9192
+  sailarea: 5
   main:
     foot: 17.92
     head: 14.33
@@ -49,7 +49,6 @@ handicap_data:
   topsail:
     luff: 14.33
     perpendicular: 6
-  sailarea: 5
   moving_keel: true
   draft_keel_up: 1.0668
   length_overall: 9.144
@@ -57,13 +56,10 @@ handicap_data:
   draft_keel_down: 1.6246
   moving_keel_type: Centreboard
   length_over_spars: 11.8872
-  fore_triangle_base: 5.9192
   length_on_waterline: 7.873
-  fore_triangle_height: 8.382
-length_on_deck: 9.144
-beam: 2.8956
-design_class:
-  name: Cornish Crabber Pilot Cutter 30
-  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:46:14.972864+00:00'
+updated_at: '2022-07-10T20:25:26.749669+00:00'
+previous_names:
+- Son of a Sailor
+- Spot the Dog

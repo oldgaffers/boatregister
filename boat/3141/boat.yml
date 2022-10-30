@@ -48,77 +48,72 @@ spar_material: wood
 construction_method: carvel
 construction_details: Pitch pine, steamed canadian rock elm frames, copper fastened,
   oak floors, elm keel,  lead ballast keel, aluminium bronze bolts.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Guernsey
 hull_form: long keel sloping forefoot
 sail_number: '198'
 uk_part1: '164699'
-callsign: ''
 ownerships:
-- end: 1949
-  name: RC Thorne
-  share: 64
+- name: RC Thorne
   start: 1936
-- end: 1955
-  name: DHW Swiney
+  end: 1949
   share: 64
+- name: DHW Swiney
   start: 1949
-- end: 1957
-  name: Reville Farrell
+  end: 1955
   share: 64
+- name: Reville Farrell
   start: 1955
-- end: 1964
-  name: John McConnell
+  end: 1957
   share: 64
+- name: John McConnell
   start: 1957
-- end: 1969
-  name: Donald Stearns
+  end: 1964
   share: 64
+- name: Donald Stearns
   start: 1964
-- end: 1992
-  name: Alfred Abels
+  end: 1969
   share: 64
+- name: Alfred Abels
   start: 1969
-- end: 2003
-  name: Laurence Gerring
+  end: 1992
   share: 64
+- name: Laurence Gerring
   start: 1992
-- end: 2004
-  name: Karl Ronald Bacchus
+  end: 2003
   share: 64
+- name: Karl Ronald Bacchus
   start: 2003
-- end: 2010
-  name: Giles Sibun
+  end: 2004
   share: 64
+- name: Giles Sibun
   start: 2004
-- id: 88
+  end: 2010
   share: 64
+- member: 1709
+  id: 88
   start: 2010
-  member: 1709
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: c5d3d6f5-0ecd-4025-ad2b-d78731dbdf49
-draft: 1.524
 handicap_data:
-  beam: 2.5908436966593515
-  main:
-    foot: 4.724469641550841
-    luff: 11.099945135332845
   thcf: 0.981
-  draft: 1.5240185320653499
-  sailarea: 45.489261282129696
+  beam: 2.5908
+  draft: 1.524
+  fore_triangle_height: 9.29652523774689
+  fore_triangle_base: 4.87685930260912
+  length_over_all: 10.2109363569861
   propellor:
     type: fixed
     blades: 3
-  length_over_all: 10.2109363569861
+  sailarea: 45.489261282129696
+  main:
+    foot: 4.724469641550841
+    luff: 11.099945135332845
   length_over_spars: 12.03975859546452
-  fore_triangle_base: 4.87685930260912
   length_on_waterline: 7.620092660326749
-  fore_triangle_height: 9.29652523774689
-length_on_deck: 10.2108
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.2108
+created_at: '2020-04-25T17:38:15.406842+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

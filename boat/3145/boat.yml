@@ -3,50 +3,38 @@ oga_no: 3145
 generic_type: unknown
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: Cornwall to Emsworth 2011.
 year: 1977
 year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+design_class:
+  name: Drascombe Drifter
+  id: f87e1824-67f1-4d99-a8d1-4e3ed6d5650c
 builder:
   name: Honnor Marine Ltd.
   id: 2e1683ac-2223-480f-9412-be351f564ae9
 place_built: Totnes
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel sloping forefoot
 sail_number: '9'
-callsign: ''
 ownerships:
-- end: 2010
-  name: William Parker
-  share: 64
+- name: William Parker
   start: 0
-- name: David Moss
+  end: 2010
   share: 64
+- name: David Moss
   start: 2010
-- share: 64
-  member: 5670
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a927284f-906e-4ef3-b757-7a0f296ccf9c
-previous_names:
-- Anchois
-draft: 0
 handicap_data:
   length_over_all: 6.40007783467447
-length_on_deck: 6.4008
-beam: 0
-design_class:
-  name: Drascombe Drifter
-  id: f87e1824-67f1-4d99-a8d1-4e3ed6d5650c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4008
+created_at: '2020-04-25T17:38:19.831749+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Anchois

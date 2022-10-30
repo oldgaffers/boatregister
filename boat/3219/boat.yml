@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Morwenna is a Cornish Shrimper built in 2003.</p>
-full_description: ''
 year: 2003
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Shrimper
+  id: 7caf07ef-acf3-434b-a639-5c94188071a8
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -18,30 +20,40 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: null
+- created_at: '2021-02-22T21:22:57.624317+00:00'
+  flexibility: null
+  offered: null
+  price_flexibility: null
+  reduced: null
+  sales_text: ''
+  seller_gold_id: 712
+  seller_member: 5663
+  sold: null
+  summary: not owned by Mike post 2020
+  updated_at: '2021-02-22T21:22:57.624317+00:00'
 home_country: GBR
 home_port: Dartmouth
 hull_form: centre-boarder
 sail_number: 897 or 829 ?
-callsign: ''
 ownerships:
 - name: Michael and Penny Olliff-Lee
-  share: 64
   start: 2011
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 733a5e67-4395-4250-93dd-cb2fa3a7ecd2
 image_key: KZDGVm
 thumb: https://photos.smugmug.com/photos/i-NzrCQtK/0/Th/i-NzrCQtK-Th.jpg
-draft: 0.4816
 handicap_data:
+  beam: 2.1854
+  draft: 0.4816
+  fore_triangle_height: 4.6482
+  fore_triangle_base: 2.539
+  sailarea: 6
   main:
     foot: 11.5
     head: 10.17
     luff: 11
-  sailarea: 6
   moving_keel: true
   draft_keel_up: 0.4572
   length_overall: 5.8674
@@ -49,13 +61,7 @@ handicap_data:
   draft_keel_down: 1.2192
   moving_keel_type: Centreboard
   length_over_spars: 6.858
-  fore_triangle_base: 2.539
   length_on_waterline: 5.3584
-  fore_triangle_height: 4.6482
-length_on_deck: 5.8674
-beam: 2.1854
-design_class:
-  name: Cornish Shrimper
-  id: 7caf07ef-acf3-434b-a639-5c94188071a8
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.8674
+created_at: '2020-04-25T17:46:34.532226+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
