@@ -82,38 +82,22 @@ def ownerships(os):
   if type(os) is list:
     owners = os
   else:
-    if 'owners' in os and os['owners'] is not None:
-      owners = os['owners']
+    if 'owners' in os:
+      nonmembers = [o for o in os['owners'] if 'member' not in o]
+      members = [o for o in os['owners'] if 'member' in o]
     else:
-      owners = []
-    if 'current' in os and os['current'] is not None:
-      current = os['current']
-      for o in current:
-        ol = []
-        found = False
-        if 'id' in o:
-          for r in owners:
-            if 'id' in r and r['id'] == o['id']:
-              r['current'] = True
-              found = True
-            ol.append(r)
-          if not found:
-            o['current'] = True
-            if 'start' not in o:
-              o['start']='?'
-            ol.append(o)
+      nonmembers = []
+      members = []
+    if 'current' in os:
+      m = []
+      for c in os['current']:
+        if 'id' in c:
+          n = [{**n, **c, 'current': True} for n in members if 'id' in n and n['id'] == c['id']]
         else:
-          for r in owners:
-            if 'member' in r and r['member'] == o['member']:
-              r['current'] = True
-              found = True
-            ol.append(r)
-          if not found:
-            o['current'] = True
-            if 'start' not in o:
-              o['start']='?'
-            ol.append(o)
-        owners = owners + ol
+          n = [{**n, **c, 'current': True} for n in members if n['member'] == c['member']]
+        m.append(n[0])
+      members = m
+    owners = members+nonmembers
   return sorted([owner(o) for o in owners], key=ownerSortOrder)
 
 handicapFields = [
