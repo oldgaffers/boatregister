@@ -15,6 +15,7 @@ query MyQuery(\\$oga_no: Int! ) {
     draft
     fishing_number
     for_sales {
+      asking_price
       created_at
       flexibility
       offered
