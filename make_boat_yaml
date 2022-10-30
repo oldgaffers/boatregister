@@ -133,8 +133,17 @@ def map_handicap_data(b):
   boat['handicap_data'] = {**r, **h}
   return boat
 
+def falsy(v):
+  if v is None:
+    return True
+  if v == '':
+    return True
+  if v == 'null':
+    return True
+  return False
+
 def map_boat(item):
-  boat = {k: v for k, v in item.items() if v is not None and k not in omitFields}
+  boat = {k: v for k, v in item.items() if not falsy(v) and k not in omitFields}
   if 'ownerships' in boat:
     boat['ownerships'] = ownerships(boat['ownerships'])
   boat.pop('genericTypeByGenericType', None)
@@ -153,7 +162,13 @@ def get_boat(data):
     if field in data and data[field] is not None:
       f = data[field]
       if field in ['builder','designer','design_class']:
-        boat[field] = [p for p in pickers[field] if p['id'] == f][0]
+        if type(f) is dict:
+          id = f['id']
+        else:
+          id = f
+        values = [p for p in pickers[field] if p['id'] == id]
+        if (len(values) > 0):
+          boat[field] = values[0]
       else:
         boat[field] = f
       del data[field]
