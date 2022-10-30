@@ -1,8 +1,8 @@
 name: "S\xF9laire"
 oga_no: 3450
 generic_type: Dinghy
-rig_type: Sloop
-mainsail_type: gaff
+rig_type: single_sail
+mainsail_type: standing_lug
 short_description: "S\xF9laire is a fine example of a Brian Kennel Smack Boat"
 full_description: It isn't known whether she was originally gaff rigged or converted
   by a previous owner.
@@ -20,24 +20,29 @@ place_built: Layer Breton
 construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
+engine_installations: []
 for_sales: []
 home_country: GBR
 home_port: Rosneath
 hull_form: centre-board dinghy
-ownerships: []
+ownerships:
+- member: 5004
+  id: 1219
+  start: '?'
+  share: 32
+  current: true
 id: 3c06eed8-af3f-440a-aacd-2efc335b1e03
 image_key: sbvDrc
 thumb: https://photos.smugmug.com/photos/i-wZB9d9t/0/Th/i-wZB9d9t-Th.jpg
 handicap_data:
   beam: 1.524
   draft: 0.1524
-  moving_keel: true
-  length_overall: 3.7338
   draft_keel_down: 0.8382
-  moving_keel_type: Centreboard
   length_over_spars: 3.7338
+  length_overall: 3.7338
+  moving_keel: true
+  moving_keel_type: Centreboard
   length_on_deck: 3.7338
-created_at: '2020-06-06T06:20:17.785372+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - The Boggart
