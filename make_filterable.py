@@ -49,14 +49,14 @@ def get_boat(path):
   with open(path, "r") as stream:
     try: 
       boat = yaml.safe_load(stream)
-      if boat is None:
-        print(f'no data for {b}')
-      else:
-        return wanted(boat)
     except Exception as e:
       print(e)
       print('OGA', path)
-  return None
+      boat = None
+  if boat is None:
+    return None
+  else:
+    return wanted(boat)
 
 if __name__ == '__main__':
   f = open('editors_choice.json')
@@ -68,10 +68,11 @@ if __name__ == '__main__':
   data = []
   for b in boats:
     boat = get_boat(f"{mypath}/{b}/boat.yml")
-    boat['rank'] = editors_choice[boat['oga_no']]
-    if 'ownerships' in boat:
-      boat['owners'] = owners(boat)
-      del boat['ownerships']
-    data.append(boat)
+    if boat is not None:
+      boat['rank'] = editors_choice[boat['oga_no']]
+      if 'ownerships' in boat:
+        boat['owners'] = owners(boat)
+        del boat['ownerships']
+      data.append(boat)
   with open("filterable.json", "w") as stream:
       json.dump(data, stream, ensure_ascii=False)
