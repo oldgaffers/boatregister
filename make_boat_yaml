@@ -95,7 +95,8 @@ def ownerships(os):
           n = [{**n, **c, 'current': True} for n in members if 'id' in n and n['id'] == c['id']]
         else:
           n = [{**n, **c, 'current': True} for n in members if n['member'] == c['member']]
-        m.append(n[0])
+        if (len(n) > 0):
+          m.append(n[0])
       members = m
     owners = members+nonmembers
   return sorted([owner(o) for o in owners], key=ownerSortOrder)
