@@ -43,6 +43,7 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: pitch pine on oak and elm
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Rosneath
@@ -54,41 +55,40 @@ ssr: '131134'
 uk_part1: '165315'
 callsign: MKDZ8
 ownerships:
-- share: 64
+- name: Denys Rayner
   start: 1937
-  name: Denys Rayner
   end: 1946
-- share: 32
+  share: 64
+- name: Audrey Parker
   start: 1946
-  name: Audrey Parker
   end: 1949
-- share: 32
+  share: 32
+- name: Henry Parker
   start: 1946
-  name: Henry Parker
   end: 1949
-- share: 64
+  share: 32
+- name: Nigel Heriot
   start: 1949
-  name: Nigel Heriot
   end: 1985
-- share: 64
+  share: 64
+- name: Frank Driscoll
   start: 1985
-  name: Frank Driscoll
   end: 1986
-- share: 64
+  share: 64
+- name: Mike Garnham
   start: 1986
-  name: Mike Garnham
   end: 2007
-- share: 32
-  start: 2007
+  share: 64
+- member: 5004
   id: 559
-  member: 5004
-  current: true
-- share: 32
   start: 2007
-  id: 1219
-  member: 5004
+  share: 32
   current: true
-updated_at: '2022-10-29T18:53:59.126902+00:00'
+- member: 5004
+  id: 1219
+  start: 2007
+  share: 32
+  current: true
 website: https://robinetta-log.blogspot.com/p/robinetta.html
 id: 85315666-4359-47f7-8d8d-4dd2905b7aa2
 nsbr: '1717'
@@ -96,24 +96,21 @@ fishing_number: ''
 mssi: '235109366'
 image_key: 9NV8KW
 thumb: https://photos.smugmug.com/photos/i-F8N5HJk/2/Th/i-F8N5HJk-Th.jpg
-draft: 1.3716
 handicap_data:
+  thcf: 0.85
+  beam: 2.441
+  draft: 1.3716
   fore_triangle_height: 4.57205559619605
   fore_triangle_base: 1.5240185320653499
+  length_over_all: 6.858083394294074
   propellor:
     type: fixed
   sailarea: 24.156
-  length_over_all: 6.858083394294074
   main:
     foot: 4
     head: 4.26725188978298
     luff: 4.319068519873201
-  thcf: 0.85
   length_on_deck: 6.858
-  topsail: {}
-  beam: 2.441
   length_on_waterline: 6.096
-selling_status: not_for_sale
-update_id: 52737b6f-3070-4177-a4f8-e56c61594197
-length_on_deck: 6.858
 created_at: '2020-04-25T16:47:00.543376+00:00'
+updated_at: '2022-10-30T08:02:40.339981+00:00'
