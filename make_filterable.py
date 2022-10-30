@@ -29,6 +29,8 @@ def wanted(boat):
     'price',
     'ownerships',
     ]
+    if 'selling_status' in boat and boat['selling_status'] == 'for_sale':
+      boat['price'] = boat['for_sales'][0]['asking_price']
     b = { key: transform(boat[key]) for key in wanted_keys if key in boat }
     if 'length_on_deck' not in b:
       if 'handicap_data' in boat:
