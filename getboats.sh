@@ -1,6 +1,6 @@
 #!/bin/sh
-for i in `ls page-data/boat`
+for i in `ls boat`
 do
   echo $i
-  ./getboat.sh $i > page-data/boat/$i/page-data.json
+  ./getboat.sh $i|base64|./make_boat_yaml
 done

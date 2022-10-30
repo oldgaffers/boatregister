@@ -76,4 +76,4 @@ curl 'https://api-oga.herokuapp.com/v1/graphql' \
 -H 'Accept-Language: en-gb' \
 -H 'Cache-Control: no-cache' \
 -H 'Connection: keep-alive' \
---data-binary "{\"query\": \"$Q\",\"variables\":{\"oga_no\":$1},\"operationName\":\"MyQuery\"}" 
+--data-binary "{\"query\": \"$Q\",\"variables\":{\"oga_no\":$1},\"operationName\":\"MyQuery\"}"|jq -c '.data.boat[0]'
