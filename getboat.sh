@@ -4,29 +4,14 @@ query MyQuery(\\$oga_no: Int! ) {
   boat(where: {oga_no: {_eq: \\$oga_no}}) {
     air_draft
     beam
-    builderByBuilder {
-      name
-      id
-    }
+    builder
     callsign
-    constructionMaterialByConstructionMaterial {
-      name
-    }
-    constructionMethodByConstructionMethod {
-      name
-    }
     construction_details
     construction_material
     construction_method
     created_at
-    designClassByDesignClass {
-      name
-      id
-    }
-    designerByDesigner {
-      id
-      name
-    }
+    design_class
+    designer
     draft
     fishing_number
     for_sales {
@@ -45,16 +30,12 @@ query MyQuery(\\$oga_no: Int! ) {
       updated_at
     }
     full_description
-    genericTypeByGenericType {
-      name
-    }
+    generic_type
     handicap_data
     hin
     home_country
     home_port
-    hullFormByHullForm {
-      name
-    }
+    hull_form
     id
     image_key
     keel_laid
@@ -70,18 +51,11 @@ query MyQuery(\\$oga_no: Int! ) {
     place_built
     previous_names
     reference
-    rigTypeByRigType {
-      name
-    }
+    rig_type
     sail_number
-    sail_type {
-      name
-    }
     selling_status
     short_description
-    sparMaterialBySparMaterial {
-      name
-    }
+    spar_material
     ssr
     thumb
     uk_part1
@@ -93,7 +67,6 @@ query MyQuery(\\$oga_no: Int! ) {
   }
 }
 EOF`
-echo $Q
 curl 'https://api-oga.herokuapp.com/v1/graphql' \
 --silent \
 -X 'POST' \
