@@ -8,6 +8,9 @@ year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+design_class:
+  name: Jewel
+  id: c4ce9fdc-9170-48fd-baf1-e839d859150d
 builder:
   name: Mark Seymour
   id: 29a707fe-1d99-4c77-b7c5-1fe598612152
@@ -15,23 +18,19 @@ place_built: Arnside
 construction_material: wood
 spar_material: wood
 construction_method: unknown
-engine_installations: []
 for_sales: []
 home_country: United Kingdom
 home_port: 'Hamble '
 hull_form: long keel deep forefoot
 sail_number: '7'
-ownerships:
-- id: 34614
-  share: 64
-  member: 6372
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+ownerships: []
 id: 1d3bf451-7bb0-497c-93c4-5a5e0527fac8
 image_key: XGd34S
 thumb: https://photos.smugmug.com/photos/i-VcSBSLL/0/Th/i-VcSBSLL-Th.jpg
 handicap_data:
+  beam: 2.0818
+  fore_triangle_height: 5.7912
+  fore_triangle_base: 4.572
   main:
     foot: 14
     head: 10.5
@@ -40,11 +39,7 @@ handicap_data:
     luff: 11
     perpendicular: 6
   length_overall: 7.0104
-  fore_triangle_base: 4.572
   length_on_waterline: 5.7912
-  fore_triangle_height: 5.7912
-length_on_deck: 5.9893
-beam: 2.0818
-design_class:
-  name: Jewel
-  id: c4ce9fdc-9170-48fd-baf1-e839d859150d
+  length_on_deck: 5.9893
+created_at: '2020-07-14T14:05:10.397634+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

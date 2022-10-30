@@ -3,7 +3,6 @@ oga_no: 2081
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Log Nov/97
 year: 1969
 year_is_approximate: false
@@ -16,26 +15,20 @@ builder:
 place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Frankfurt
 hull_form: unknown
 reference:
 - Log Nov/97
-callsign: ''
 ownerships:
 - name: Jonathan Ward-Hayne
-  share: 64
   start: 1997
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ebc51561-5f12-4c03-815b-7a60bf64538f
-draft: 0
 handicap_data:
-  beam: 3.3528407705437697
+  beam: 3.3528
   length_over_all: 8.382101926359423
-length_on_deck: 8.382
-beam: 3.3528
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.382
+created_at: '2020-04-25T17:14:44.528934+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

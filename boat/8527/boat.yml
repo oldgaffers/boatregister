@@ -19,42 +19,35 @@ place_built: Littlehampton
 construction_material: wood
 construction_method: unknown
 construction_details: Pitch pine steamed oak timbers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 89/2
 - Log 91/2
 - Log Dec 98
 sail_number: '8527'
-callsign: ''
 ownerships:
 - note: Previous owners John ans Sue Osboune
   text: Previous owners John ans Sue Osboune
 - name: A McIver
-  share: 64
   start: 1991
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 6b9ae400-5523-4340-a6b7-41c2ff9990e7
-draft: 1.2192
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.942697789
+  beam: 2.4384
+  draft: 1.2192
+  fore_triangle_height: 6.882467690807119
+  fore_triangle_base: 4.672640819312362
+  length_over_all: 8.635089002682271
+  propellor:
+    type: fixed
   main:
     foot: 5.206047305535234
     head: 3.581443550353572
     luff: 3.886247256766642
-  thcf: 0.942697789
-  draft: 1.21921482565228
-  propellor:
-    type: fixed
-  length_over_all: 8.635089002682271
-  fore_triangle_base: 4.672640819312362
   length_on_waterline: 8.330285296269201
-  fore_triangle_height: 6.882467690807119
-length_on_deck: 8.635
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.635
+created_at: '2020-04-25T17:44:09.461727+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

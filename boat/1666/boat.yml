@@ -3,7 +3,6 @@ oga_no: 1666
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: Log 79/1, 92/3,sp/93, J/96
 year: 1910
 year_is_approximate: false
@@ -18,10 +17,8 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel Mahogany on Oak above waterline Pitch pine below, lead
   keel, teak decks
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 79/1
@@ -29,37 +26,32 @@ reference:
 - sp/93
 - Log June 96
 uk_part1: '129632'
-callsign: ''
 ownerships:
 - name: S A Spence
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: eed38443-d490-4d8a-b73e-b7dba296a360
-draft: 1.3716
 handicap_data:
-  beam: 2.3104120946110704
+  thcf: 1.001118268
+  beam: 2.3104
+  draft: 1.3716
+  fore_triangle_height: 8.40648622287247
+  fore_triangle_base: 4.13923433308949
+  length_over_all: 9.75371860521824
+  propellor:
+    type: fixed
   main:
     foot: 5.462082418922214
     head: 3.2004389173372347
     luff: 5.081077785905877
-  thcf: 1.001118268
-  draft: 1.3716166788588149
+  topsail:
+    luff: 2.590831504511095
+    perpendicular: 1.5697390880273105
   mizzen:
     foot: 1.8806388685686417
     head: 1.8288222384784198
     luff: 1.6002194586686174
-  topsail:
-    luff: 2.590831504511095
-    perpendicular: 1.5697390880273105
-  propellor:
-    type: fixed
-  length_over_all: 9.75371860521824
-  fore_triangle_base: 4.13923433308949
   length_on_waterline: 8.903316264325774
-  fore_triangle_height: 8.40648622287247
-length_on_deck: 9.7536
-beam: 2.3104
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T17:08:23.287278+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

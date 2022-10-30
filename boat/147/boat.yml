@@ -22,6 +22,9 @@ year_is_approximate: false
 designer:
   name: Charles E. Nicholson
   id: f97b2d74-8535-4ed5-8602-651d2ca2898f
+design_class:
+  name: Bembridge Redwing
+  id: c2682956-21fb-4f51-9227-c36bc9e9f69c
 builder:
   name: Coombes Boatyard
   id: 0f386410-e8a6-40af-ba85-11b7eab5be1b
@@ -30,50 +33,54 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch Pine on Steamed Oak  Keelbolts removed and cascover
   sheathed 1975 by Tylors of Tunbridge Wells.
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 2950
+- created_at: '2017-12-27T18:10:41+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>Built 1910, "Ruby" is a classic half-decker. LOA 22"6' Beam 5"5'
+    Draft 3" she is built in pitch pine on oak, carvel construction. With her classic
+    long 4cwt lead keel she"s a very stable dayboat. Extensively restored in 2004-6.<br
+    />Cream Dacron Gowen sails in excellent condition. Raymarine Echosounder. Currently
+    ashore near Colchester on a trailer.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.508623+00:00'
 home_country: GBR
 home_port: West Mersea
 hull_form: unknown
 sail_number: '147'
-callsign: ''
 ownerships:
 - note: Previous owners
   text: Previous owners
-- note: 1971 R.N. Lane
+- start: 1971
+  note: 1971 R.N. Lane
   text: R.N. Lane
-  start: 1971
-  start_is_approximate: false
-- note: 1978 J. Redgewell
+- start: 1978
+  note: 1978 J. Redgewell
   text: J. Redgewell
-  start: 1978
-  start_is_approximate: false
-- note: In 1980, 'Alan' was owned by OGA member Mr A Pedersen, London
+- start: 1980
+  note: In 1980, 'Alan' was owned by OGA member Mr A Pedersen, London
   text: In
-  start: 1980
-  start_is_approximate: false
-- end: 2017
-  name: P W Rowe
-  share: 64
+- name: P W Rowe
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2017
+  share: 64
 id: 77e9c12a-e6b3-4180-8574-5886e03f223b
-previous_names:
-- Alan
 image_key: 8pTmhb
 thumb: https://photos.smugmug.com/photos/i-mPLMsTk/0/Th/i-mPLMsTk-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 1.8288222384784198
-  draft: 1.014996342355523
+  beam: 1.6764
+  draft: 0.9144
   length_over_all: 6.858083394294074
   length_on_waterline: 5.4864667154352595
-length_on_deck: 6.858
-beam: 1.6764
-design_class:
-  name: Bembridge Redwing
-  id: c2682956-21fb-4f51-9227-c36bc9e9f69c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.858
+created_at: '2020-04-25T16:44:36.89506+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Alan

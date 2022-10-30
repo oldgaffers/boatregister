@@ -27,9 +27,9 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Using traditional methods, fully rebuilt by current owner
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 30000
+- created_at: '2022-10-14T06:29:21.3651+00:00'
   flexibility: right_buyer
   offered: '2022-10-14'
   price_flexibility:
@@ -44,6 +44,8 @@ for_sales:
     in good condition. She has had a new big jib in 2021, new mainsail in 2019, and
     the engine has only done about 300hrs since the last rebuild. Fully equipped,
     ready to sail, and used regularly</p> <p>Lying Ramsey, Isle of Man</p>
+  seller_gold_id: 87
+  seller_member: 1708
   sold: null
   summary: null
   updated_at: '2022-10-14T06:29:21.3651+00:00'
@@ -51,26 +53,22 @@ home_country: GBR
 home_port: Ramsey, Isle of Man
 hull_form: long keel deep forefoot
 sail_number: RY 95
-callsign: ''
 ownerships:
 - name: Manx Heritage Foundation
-  share: 64
   start: 1986
-- id: 87
   share: 64
+- member: 1708
+  id: 87
   start: 1993
-  member: 1708
+  share: 64
   current: true
-updated_at: '2022-10-14T06:31:06.009378+00:00'
-website: ''
 id: faaf11f2-734d-425f-b248-d77bc62c5242
 fishing_number: RY 95
 image_key: 3w676D
-draft: 0
+thumb: https://photos.smugmug.com/photos/i-WvGQRsZ/0/Th/i-WvGQRsZ-Th.jpg
 handicap_data:
-  beam: 3.2004389173372347
+  beam: 3.2004
   length_over_all: 11.734942696903193
-length_on_deck: 11.7348
-beam: 3.2004
-for_sale_state:
-  text: for_sale
+  length_on_deck: 11.7348
+created_at: '2020-04-25T17:14:24.290055+00:00'
+updated_at: '2022-10-14T06:31:06.009378+00:00'

@@ -48,39 +48,32 @@ builder:
 place_built: Brightlingsea
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 1971
-  name: Brian K Thomas
-  share: 64
+- name: Brian K Thomas
   start: 1967
-- end: 1996
-  name: Exeter Maritime Museum
+  end: 1971
   share: 64
+- name: Exeter Maritime Museum
   start: 1980
-- note: Exeter Maritime Museum closed in 1996, and the collection was dispersed.
-  text: Exeter Maritime Museum closed in
-  start: 1996
-  start_is_approximate: false
-- name: Paul Winter
+  end: 1996
   share: 64
+- start: 1996
+  note: Exeter Maritime Museum closed in 1996, and the collection was dispersed.
+  text: Exeter Maritime Museum closed in
+- name: Paul Winter
   start: 2017
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 32c5552e-a2d5-4e83-9b69-b441723d5def
 image_key: pfHQJm
 thumb: https://photos.smugmug.com/photos/i-hZ7xdgn/0/Th/i-hZ7xdgn-Th.jpg
-draft: 0
 handicap_data:
-  beam: 3.5052426237503047
+  beam: 3.5052
   length_over_all: 13.411363082175079
   length_on_waterline: 11.277737137283589
-length_on_deck: 13.4112
-beam: 3.5052
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.4112
+created_at: '2020-04-25T16:49:31.264896+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

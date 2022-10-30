@@ -3,7 +3,6 @@ oga_no: 1022
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
 full_description: Designed for Richard Bird, a close friend of Kim Holman. Richard
   Bird was a very keen and wealthy yachtsman as well as Commodore of the Royal Corinthian
   Yacht Club, Burnham on Crouch. She was given as a 21st Birthday present to her 1st
@@ -15,6 +14,9 @@ year_is_approximate: false
 designer:
   name: Kim Holman
   id: 8833d78f-9c94-4d4e-bde5-71fa74207177
+design_class:
+  name: Holman 31
+  id: a5a6643d-2f84-4b65-b0de-b4ede2830a8d
 builder:
   name: Brown Tucker
   id: a1493bcf-2aa1-45a8-9288-56fadddf53b6
@@ -22,54 +24,40 @@ place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel, Mahogany on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel sloping forefoot
 sail_number: '630'
 uk_part1: '306184'
-callsign: ''
 ownerships:
-- end: 2007
-  name: John Bird
-  share: 64
+- name: John Bird
   start: 1962
-- end: 2012
-  name: Howard Bryson
+  end: 2007
   share: 64
+- name: Howard Bryson
   start: 2007
+  end: 2012
+  share: 64
 - name: David and Mandy Rose
-  share: 64
   start: 2012
-- id: 350
   share: 64
-  member: 3909
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 437575e0-541c-4ddd-a770-94f3be2936fa
-draft: 1.6764
 handicap_data:
-  beam: 2.7432333577176298
-  main:
-    foot: 4.26725188978298
-    luff: 9.677535966837358
   thcf: 0.908
-  draft: 1.6764325774201414
-  sailarea: 28.140536739099648
+  beam: 2.7432
+  draft: 1.6764
+  fore_triangle_height: 10.51574006339917
+  fore_triangle_base: 1.6764325774201414
+  length_over_all: 9.44891489880517
   propellor:
     type: fixed
     blades: 2
-  length_over_all: 9.44891489880517
-  fore_triangle_base: 1.6764325774201414
+  sailarea: 28.140536739099648
+  main:
+    foot: 4.26725188978298
+    luff: 9.677535966837358
   length_on_waterline: 7.3660936356986095
-  fore_triangle_height: 10.51574006339917
-length_on_deck: 9.4488
-beam: 2.7432
-design_class:
-  name: Holman 31
-  id: a5a6643d-2f84-4b65-b0de-b4ede2830a8d
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.4488
+created_at: '2020-04-25T16:58:40.968143+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

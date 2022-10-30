@@ -3,7 +3,6 @@ oga_no: 118
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 76/3, 82/1, 90/2
 year: 1936
 year_is_approximate: false
@@ -17,37 +16,30 @@ place_built: Leigh on Sea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 76/3
 - Log 82/1
 - Log 90/2
-callsign: ''
 ownerships:
 - name: R A Blake
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a07e3c63-051d-4c60-9c20-0ac35afd2d2b
-draft: 0.7102
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.848344713
+  beam: 2.4384
+  draft: 0.7102
+  fore_triangle_height: 5.334064862228725
+  fore_triangle_base: 3.2004389173372347
+  length_over_all: 6.797122653011461
   main:
     foot: 3.8405267008046815
     head: 1.5240185320653499
     luff: 4.419653742989515
-  thcf: 0.848344713
-  draft: 0.7010485247500609
-  length_over_all: 6.797122653011461
-  fore_triangle_base: 3.2004389173372347
   length_on_waterline: 6.583760058522312
-  fore_triangle_height: 5.334064862228725
-length_on_deck: 6.8062
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8062
+created_at: '2020-04-25T16:44:12.030209+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

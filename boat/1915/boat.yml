@@ -24,7 +24,7 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel - Pitch Pine on oak.  New sheathed deck '88, transom
   '89, re-rigged to original Albert Strange drawings '96/7.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Maylandsea
@@ -34,43 +34,39 @@ ssr: '130688'
 uk_part1: '161399'
 callsign: MGEA7
 ownerships:
-- end: 2007
-  name: Ed Allen
-  share: 64
+- name: Ed Allen
   start: 2004
-- id: 512
+  end: 2007
   share: 64
+- member: 4784
+  id: 512
   start: 2007
-  member: 4784
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: f9e14e79-f739-4ca1-beaa-3177318d8455
 image_key: zdMsBP
 thumb: https://photos.smugmug.com/photos/i-3g27sL7/0/Th/i-3g27sL7-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.939039416
+  beam: 2.4384
+  draft: 1.2192
+  fore_triangle_height: 6.9342843208973415
+  fore_triangle_base: 3.733845403560107
+  length_over_all: 7.894415996098512
+  propellor:
+    type: fixed
   main:
     foot: 5.334064862228725
     head: 4.26725188978298
     luff: 4.511094854913436
-  thcf: 0.939039416
-  draft: 1.21921482565228
+  topsail:
+    luff: 4.511094854913436
+    perpendicular: 2.13362594489149
   mizzen:
     foot: 2.6670324311143623
     head: 2.13362594489149
     luff: 2.13362594489149
-  topsail:
-    luff: 4.511094854913436
-    perpendicular: 2.13362594489149
-  propellor:
-    type: fixed
-  length_over_all: 7.894415996098512
-  fore_triangle_base: 3.733845403560107
   length_on_waterline: 6.705681541087539
-  fore_triangle_height: 6.9342843208973415
-length_on_deck: 7.9004
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9004
+created_at: '2020-04-25T17:12:11.045508+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -2,42 +2,34 @@ name: Storyteller
 oga_no: 1972
 generic_type: Dinghy
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1991
 year_is_approximate: false
 designer:
   name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+design_class:
+  name: Whilly Boat
+  id: 4dc91198-fe94-478e-83b6-3c5e6121fbd5
 builder:
   name: David Mitchell
   id: 731a9dce-447a-40e8-90c0-5d3ffd9452d2
 place_built: Bungay
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Langstone Harbour
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 128
-  share: 64
+- member: 2195
+  id: 128
   start: 2012
-  member: 2195
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 0b09269c-93c4-4ad7-9e9f-fde716b82d62
-draft: 0
 handicap_data:
-  beam: 1.3716166788588149
+  beam: 1.3716
   length_over_all: 4.419653742989515
-length_on_deck: 4.4196
-beam: 1.3716
-design_class:
-  name: Whilly Boat
-  id: 4dc91198-fe94-478e-83b6-3c5e6121fbd5
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.4196
+created_at: '2020-04-25T17:13:05.600605+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

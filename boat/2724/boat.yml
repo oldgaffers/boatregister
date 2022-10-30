@@ -3,7 +3,6 @@ oga_no: 2724
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: lug
-short_description: ''
 full_description: Handicapped @ 0.973 by Solent, For sale  Log Dec '07 sold to Holland
   '09
 year: 1997
@@ -11,51 +10,45 @@ year_is_approximate: false
 designer:
   name: Nigel Irens
   id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
+design_class:
+  name: Roxanne
+  id: 1fd2ec36-dbd2-422e-9099-0dce80ddfc79
 builder:
   name: Bridgend Boat Co.
   id: 2baf8a14-dd14-4e3a-936c-369594ab0618
 place_built: Plymouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Kortgene NL
 hull_form: long keel sloping forefoot
 reference:
 - Log Dec 2007
 sail_number: Rx9
-callsign: ''
 ownerships:
 - name: Verhoef Cees
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 809059dc-e351-46b4-9037-629068ae9e1d
-draft: 1.7496
 handicap_data:
-  beam: 2.740185320653499
+  thcf: 0.963079921
+  beam: 2.7402
+  draft: 1.7496
+  fore_triangle_height: 4.998780785174347
+  fore_triangle_base: 2.9992684711046085
+  length_over_all: 8.991709339185563
+  propellor:
+    type: folding
   main:
     foot: 4.901243599122164
     head: 6.800170690075591
     luff: 5.5992440868080955
-  thcf: 0.963079921
-  draft: 1.7495732748110218
   mizzen:
     foot: 1.9995123140697388
     head: 1.9995123140697388
     luff: 1.9995123140697388
-  propellor:
-    type: folding
-  length_over_all: 8.991709339185563
-  fore_triangle_base: 2.9992684711046085
   length_on_waterline: 8.1016825164594
-  fore_triangle_height: 4.998780785174347
-length_on_deck: 8.9916
-beam: 2.7402
-design_class:
-  name: Roxanne
-  id: 1fd2ec36-dbd2-422e-9099-0dce80ddfc79
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.9916
+created_at: '2020-04-25T17:26:05.524085+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

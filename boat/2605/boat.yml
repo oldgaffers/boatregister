@@ -15,6 +15,9 @@ year_is_approximate: false
 designer:
   name: John Shuttleworth
   id: 3d22dffa-4da3-4391-bad7-de15c1127b5d
+design_class:
+  name: Carra 16
+  id: 25cec83f-4d2b-4660-bd80-8f29367cbf56
 builder:
   name: Amber boats
   id: 2bbe37e5-b2ac-4771-ad08-da05d53c6389
@@ -22,43 +25,35 @@ place_built: Bonsall
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP hull rebuilt outfit in iroko as a 3/4 decker.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Portsmouth
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 428
-  share: 64
+- member: 4334
+  id: 428
   start: 2012
-  member: 4334
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 388da447-e44b-465d-b71c-9f0922e3d4d3
-previous_names:
-- Ben Judy II
 image_key: HjSM7F
 thumb: https://photos.smugmug.com/photos/i-kxg4Rn8/0/Th/i-kxg4Rn8-Th.jpg
-draft: 0.2134
 handicap_data:
-  beam: 2.0321263106559373
+  thcf: 0.805433825
+  beam: 2.0422
+  draft: 0.2134
+  fore_triangle_height: 5.614484272128749
+  fore_triangle_base: 2.3104120946110704
+  length_over_all: 4.977444525725432
   main:
     foot: 3.605827846866618
     head: 2.7432333577176298
     luff: 2.871250914411119
-  thcf: 0.805433825
-  draft: 0.20330407217751767
   draft_keeldown: 1.1186296025359668
-  length_over_all: 4.977444525725432
-  fore_triangle_base: 2.3104120946110704
   length_on_waterline: 4.776274079492806
-  fore_triangle_height: 5.614484272128749
-length_on_deck: 4.9682
-beam: 2.0422
-design_class:
-  name: Carra 16
-  id: 25cec83f-4d2b-4660-bd80-8f29367cbf56
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.9682
+created_at: '2020-04-25T17:23:17.913543+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Ben Judy II

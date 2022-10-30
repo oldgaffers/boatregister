@@ -29,48 +29,41 @@ place_built: Xewkija, Gozo
 construction_material: steel
 construction_method: unknown
 construction_details: Steel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2009
-  name: Dick Couture
-  share: 64
+- name: Dick Couture
   start: 1995
-- name: Murray Buttner and Jennifer Heller
+  end: 2009
   share: 64
+- name: Murray Buttner and Jennifer Heller
   start: 2019
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 2e22b085-37f8-4816-8875-dc88d8bb9604
 image_key: fFhnxr
 thumb: https://photos.smugmug.com/photos/i-VCW8Dng/0/Th/i-VCW8Dng-Th.jpg
-draft: 2.1336
 handicap_data:
-  beam: 3.9624481833699097
+  thcf: 1.051391198
+  beam: 3.9624
+  draft: 2.1336
+  fore_triangle_height: 11.277737137283589
+  fore_triangle_base: 6.5532796878810045
+  length_over_all: 13.411363082175079
+  propellor:
+    type: fixed
   main:
     foot: 6.4008778346744695
     head: 5.18166300902219
     luff: 5.7912704218483295
-  thcf: 1.051391198
-  draft: 2.13362594489149
+  topsail:
+    luff: 8.22970007315289
+    perpendicular: 2.8194342843208973
   mizzen:
     foot: 2.5146305779078273
     head: 2.13362594489149
     luff: 2.6670324311143623
-  topsail:
-    luff: 8.22970007315289
-    perpendicular: 2.8194342843208973
-  propellor:
-    type: fixed
-  length_over_all: 13.411363082175079
-  fore_triangle_base: 6.5532796878810045
   length_on_waterline: 10.66812972445745
-  fore_triangle_height: 11.277737137283589
-length_on_deck: 13.4112
-beam: 3.9624
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.4112
+created_at: '2020-04-25T17:38:29.292603+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

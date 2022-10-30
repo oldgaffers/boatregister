@@ -3,13 +3,15 @@ oga_no: 223
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: 81/4, 86/3, 88/1, sp/93 CB Mar/Apr 88
 year: 1968
 year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+design_class:
+  name: New Blossom Class
+  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
 builder:
   name: Ian Brown Ltd.
   id: 5c5e4266-5fe8-44c5-84bd-b3cfb5708397
@@ -17,30 +19,20 @@ place_built: Rowhedge
 construction_material: wood
 construction_method: unknown
 construction_details: Clencher Wood  Mahogany planked
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 uk_part1: '365706'
-callsign: ''
 ownerships:
 - name: S D Lovegrove
-  share: 64
   start: 1986
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e75147e4-a8d4-4efa-ba40-edd2dce18d66
-draft: 0.634
 handicap_data:
-  beam: 2.13362594489149
-  draft: 0.6339917093391856
+  beam: 2.1336
+  draft: 0.634
   length_over_all: 5.843087051938552
   length_on_waterline: 5.257863935625457
-length_on_deck: 5.843
-beam: 2.1336
-design_class:
-  name: New Blossom Class
-  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.843
+created_at: '2020-04-25T16:45:41.9074+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

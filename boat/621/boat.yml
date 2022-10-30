@@ -3,7 +3,6 @@ oga_no: 621
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: log 86/2
 year: 1898
 year_is_approximate: false
@@ -14,38 +13,31 @@ place_built: Pill Creek,Falmth
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel, pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: R N Moass
-  share: 64
   start: 1985
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a5b4a2d9-fd5f-405b-b5e6-743604b00363
 image_key: NgbPcL
 thumb: https://photos.smugmug.com/photos/i-9tNk6h6/0/Th/i-9tNk6h6-Th.jpg
-draft: 1.2802
 handicap_data:
-  beam: 2.0574250182882223
+  thcf: 0.870116271
+  beam: 2.0574
+  draft: 1.2802
+  fore_triangle_height: 6.5532796878810045
+  fore_triangle_base: 3.886247256766642
+  length_over_all: 5.4864667154352595
   main:
     foot: 3.6576444769568397
     head: 3.139478176054621
     luff: 4.26725188978298
-  thcf: 0.870116271
-  draft: 1.280175566934894
   topsail:
     luff: 3.886247256766642
     perpendicular: 1.8593026091197267
-  length_over_all: 5.4864667154352595
-  fore_triangle_base: 3.886247256766642
   length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 6.5532796878810045
-length_on_deck: 5.4864
-beam: 2.0574
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T16:51:46.937095+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

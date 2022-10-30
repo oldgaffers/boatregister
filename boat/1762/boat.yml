@@ -3,7 +3,6 @@ oga_no: 1762
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Allegedly Joass was brought back as a war prize as a windfall yacht.
   The last Lloyds entry in 1957 lists her as a Bmn sloop. In 1977 she had a major
   refit, replacing the coachroof, deck and interior. She was converted to gaff with
@@ -14,35 +13,27 @@ place_built: Poland
 construction_material: wood
 construction_method: unknown
 construction_details: Oak on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- note: W J Holt, Cowes.  Frank Pierce in 1970's, then Bernie Yendall 1974. 1979 bought
+- start: 1970
+  note: W J Holt, Cowes.  Frank Pierce in 1970's, then Bernie Yendall 1974. 1979 bought
     by Mr Harrow in Truro R G Franklin bought her in 1989 and sold her in 1997 to
     Richard & Grenadine Toyne, who cruised in Med, then sold to Middleton.  For sale
     Dec 04 Gaffers Log.
   text: W J Holt, Cowes.  Frank Pierce in
-  start: 1970
-  start_is_approximate: false
 - name: Louise and Charlie Middleton
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 048ee570-c4ff-4923-a731-e94242a75836
-draft: 1.8288
 handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.8288222384784198
+  beam: 2.7432
+  draft: 1.8288
+  length_over_all: 9.75371860521824
   propellor:
     type: fixed
-  length_over_all: 9.75371860521824
   length_on_waterline: 8.22970007315289
-length_on_deck: 9.7536
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T17:09:50.764002+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

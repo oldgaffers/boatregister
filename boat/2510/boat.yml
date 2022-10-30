@@ -5,12 +5,14 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Cruised Chichester to Poole and Solent waters single-handed
   by owner.</p>
-full_description: ''
 year: 2001
 year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+design_class:
+  name: Yarmouth 23
+  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
 builder:
   name: Yarmouth Boat Co.
   id: 609d8a8b-c14c-402c-b727-519e519d6f6f
@@ -18,50 +20,41 @@ place_built: Yarmouth IOW
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Gosport
 hull_form: long keel deep forefoot
 sail_number: '18'
 ssr: '99712'
-callsign: ''
 ownerships:
-- end: 2019
-  name: Helen Thomas
-  share: 64
+- name: Helen Thomas
   start: 2001
-- end: '2021'
+  end: 2019
+  share: 64
+- start: 2019
+  end: '2021'
   note: 'Sadly Helen Thomas died in July 2019. '
   text: Sadly Helen Thomas died in July
-  start: 2019
-- share: 64
-  start: 2019
-updated_at: '2022-04-07T20:37:41.406816+00:00'
-website: ''
+- start: 2019
+  share: 64
 id: 0a42edad-95de-4bb9-ad63-29b99930232a
-draft: 0.9144
 handicap_data:
-  beam: 2.2799317239697636
+  thcf: 0.852867785
+  beam: 2.286
+  draft: 0.9144
+  fore_triangle_height: 5.7912704218483295
+  fore_triangle_base: 3.038892952938308
+  length_over_all: 6.882467690807119
+  propellor:
+    type: fixed
   main:
     foot: 3.880151182638381
     head: 2.8102901731285055
     luff: 3.648500365764448
-  thcf: 0.852867785
-  draft: 0.9144111192392099
   topsail:
     luff: 3.648500365764448
     perpendicular: 1.6703243111436235
-  propellor:
-    type: fixed
-  length_over_all: 6.882467690807119
-  fore_triangle_base: 3.038892952938308
   length_on_waterline: 5.498658863691782
-  fore_triangle_height: 5.7912704218483295
-length_on_deck: 6.8824
-beam: 2.286
-design_class:
-  name: Yarmouth 23
-  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8824
+created_at: '2020-04-25T17:21:51.132704+00:00'
+updated_at: '2022-04-07T20:37:41.406816+00:00'

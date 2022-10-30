@@ -5,12 +5,14 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: "<p>Designed by Alan Buchanan, Vashti was built at Burnham on Crouch\
   \ by Priors in 1958.<br />\r\n&nbsp;</p>"
-full_description: ''
 year: 1958
 year_is_approximate: false
 designer:
   name: Alan Buchanan
   id: c501c48d-9b2b-4b4b-a120-ddbf63ae35b5
+design_class:
+  name: Vashti Class
+  id: 34b96b03-08d4-40e4-8082-b4dde3bece70
 builder:
   name: R. and J. Prior and Son Ltd.
   id: 03029fc6-73e6-423c-8c49-b39e1d053f3e
@@ -18,40 +20,32 @@ place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel teak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Waldringfield
 hull_form: long keel sloping forefoot
 uk_part1: '187799'
-callsign: ''
 ownerships:
 - name: Wright, Dr Paul M
-  share: 64
   start: 2002
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: bc1c0018-7e17-4e69-9830-7698d5b51d17
 image_key: 2hxWw7
 thumb: https://photos.smugmug.com/photos/i-tnk8GC4/0/Th/i-tnk8GC4-Th.jpg
-draft: 2.0574
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 0.973334625
+  beam: 2.8956
+  draft: 2.0574
+  fore_triangle_height: 11.856864179468422
+  fore_triangle_base: 3.8191904413557665
+  length_over_all: 11.277737137283589
+  propellor:
+    type: folding
   main:
     foot: 4.099609851255791
     luff: 10.601072909046573
-  thcf: 0.973334625
-  draft: 2.081809314801268
-  propellor:
-    type: folding
-  length_over_all: 11.277737137283589
-  fore_triangle_base: 3.8191904413557665
   length_on_waterline: 7.924896366739819
-  fore_triangle_height: 11.856864179468422
-length_on_deck: 11.2776
-beam: 2.8956
-design_class:
-  name: Vashti Class
-  id: 34b96b03-08d4-40e4-8082-b4dde3bece70
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.2776
+created_at: '2020-04-25T17:41:44.630899+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

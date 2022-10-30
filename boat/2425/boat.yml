@@ -3,40 +3,32 @@ oga_no: 2425
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1982
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Mk 2
+  id: 32e50b84-c68f-4036-bf50-397a432d113f
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Falmouth
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: J Methorst
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0cccdadb-2bd0-401a-8582-f0bd1e70d73d
-draft: 0
 handicap_data:
-  beam: 2.43842965130456
+  beam: 2.4384
   length_over_all: 7.315288953913679
-length_on_deck: 7.3152
-beam: 2.4384
-design_class:
-  name: Cornish Crabber Mk 2
-  id: 32e50b84-c68f-4036-bf50-397a432d113f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:20:32.687175+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

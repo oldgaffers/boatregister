@@ -3,7 +3,6 @@ oga_no: 7023
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: bermudan
-short_description: ''
 full_description: Boat No 1390 in Waterwitch series.  Built Tim Drury who redesigned
   the deck, coachroof and accommodation. Bowsprite added to standard rig.
 year: 1982
@@ -11,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+design_class:
+  name: Yachting Monthly Waterwitch
+  id: 1c46aa11-a585-4376-aa83-2670db85149e
 builder:
   name: Tim Drury
   id: 97ef582b-40fd-40b2-9bc3-56d8c5b0ffc6
@@ -18,41 +20,32 @@ place_built: Ware
 construction_material: wood
 construction_method: unknown
 construction_details: Marine Ply on timber frame
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Bradwell on Sea
 hull_form: long keel deep forefoot
 ssr: '2079'
-callsign: ''
 ownerships:
 - name: Cristiano Bettini
-  share: 64
   start: 1999
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a87a12f5-155c-4518-9920-2c4a238947ff
-draft: 0.9906
 handicap_data:
-  beam: 2.590831504511095
+  thcf: 0.946494767
+  beam: 2.5908
+  draft: 0.9906
+  fore_triangle_height: 9.44891489880517
+  fore_triangle_base: 4.367837112899292
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
   main:
     foot: 3.581443550353572
     luff: 8.53450377956596
-  thcf: 0.946494767
-  draft: 0.9906120458424774
   mizen:
     foot: 2.286027798098025
     luff: 6.019873201658132
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 4.367837112899292
   length_on_waterline: 7.924896366739819
-  fore_triangle_height: 9.44891489880517
-length_on_deck: 9.144
-beam: 2.5908
-design_class:
-  name: Yachting Monthly Waterwitch
-  id: 1c46aa11-a585-4376-aa83-2670db85149e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:41:53.511525+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

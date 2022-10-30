@@ -4,7 +4,6 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>She had a ketch rig until 1997, before conversion to cutter.</p>
-full_description: ''
 year: 1963
 year_is_approximate: false
 builder:
@@ -14,33 +13,24 @@ place_built: Fraserburgh
 construction_material: wood
 construction_method: unknown
 construction_details: Larch on oak, iroko deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Amble
 hull_form: unknown
 uk_part1: '338548'
-callsign: ''
 ownerships:
-- end: 2014
-  name: John Bird
-  share: 64
+- name: John Bird
   start: 2010
-- name: Alan Kemp
+  end: 2014
   share: 64
+- name: Alan Kemp
   start: 2014
-- share: 64
-  member: 5860
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 689ff2a1-74ca-4596-8426-9fe19442c63c
-draft: 0
 handicap_data:
-  beam: 2.590831504511095
+  beam: 2.5908
   length_over_all: 8.656425262131187
-length_on_deck: 8.6563
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.6563
+created_at: '2020-04-25T17:18:42.696681+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -23,41 +23,35 @@ place_built: Vejle, Denmark
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel, oak on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Port Penrhyn, Bangor
 hull_form: long keel deep forefoot
 uk_part1: '906261'
-callsign: ''
 ownerships:
-- end: 1987
-  name: William Rarity
-  share: 64
+- name: William Rarity
   start: 1979
-- end: 1996
-  name: John Watson
+  end: 1987
   share: 64
+- name: John Watson
   start: 1987
-- id: 6
+  end: 1996
   share: 64
+- member: 153
+  id: 6
   start: 1996
-  member: 153
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: b90d3ac6-1913-444d-b21f-ce8475c2e06a
-previous_names:
-- Mias
-- Inge
-- Inge Wejse
-- Anna Katherine
-- Vilma
-- Ceekay
 image_key: FGT7RZ
 thumb: https://photos.smugmug.com/photos/i-XKwB3t4/0/Th/i-XKwB3t4-Th.jpg
-draft: 1.9812
 handicap_data:
+  beam: 4.4196
+  draft: 1.9812
+  fore_triangle_height: 11.5824
+  fore_triangle_base: 7.62
+  sailarea: 8
   main:
     foot: 22
     head: 17
@@ -65,14 +59,17 @@ handicap_data:
   topsail:
     luff: 19
     perpendicular: 13
-  sailarea: 8
   length_overall: 14.3256
   calculated_thcf: 1.078
   length_over_spars: 19.812
-  fore_triangle_base: 7.62
   length_on_waterline: 12.4968
-  fore_triangle_height: 11.5824
-length_on_deck: 14.3256
-beam: 4.4196
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 14.3256
+created_at: '2020-04-25T18:37:16.327751+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Mias
+- Inge
+- Inge Wejse
+- Anna Katherine
+- Vilma
+- Ceekay

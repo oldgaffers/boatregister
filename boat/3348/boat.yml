@@ -20,7 +20,7 @@ place_built: Ipswich
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Cold molded woodepoxy composite
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Isle Ornsay, Isle of Skye
@@ -29,37 +29,35 @@ sail_number: '54'
 uk_part1: '919249'
 callsign: 2GZR2
 ownerships:
-- id: 544
-  share: 64
+- member: 4925
+  id: 544
   start: 2013
-  member: 4925
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 16e4dbdc-7ec2-4cbf-ab18-9947a0d24c83
 image_key: R4PFvP
 thumb: https://photos.smugmug.com/photos/i-qhXRG9K/0/Th/i-qhXRG9K-Th.jpg
-draft: 1.8593
 handicap_data:
+  beam: 3.4442
+  draft: 1.8593
+  fore_triangle_height: 9.4793
+  fore_triangle_base: 6.2088
+  sailarea: 8
   main:
     foot: 21.4
     head: 16.08
     luff: 26.9
+  topsail:
+    luff: 18.2
+    perpendicular: 10.3
   mizzen:
     foot: 9.7
     head: 7.3
     luff: 11.3
-  topsail:
-    luff: 18.2
-    perpendicular: 10.3
-  sailarea: 8
   length_overall: 12.7406
   calculated_thcf: 1.08
   length_over_spars: 15.4838
-  fore_triangle_base: 6.2088
   length_on_waterline: 10.4394
-  fore_triangle_height: 9.4793
-length_on_deck: 12.7406
-beam: 3.4442
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.7406
+created_at: '2020-04-25T17:50:55.099613+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

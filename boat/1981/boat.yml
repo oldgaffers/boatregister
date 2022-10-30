@@ -3,8 +3,6 @@ oga_no: 1981
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1983
 year_is_approximate: false
 designer:
@@ -16,25 +14,20 @@ builder:
 construction_material: wood
 construction_method: unknown
 construction_details: Steel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Peter Lindley
-  share: 64
   start: 1986
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7c08c1ab-7c88-4ddb-acc0-b485fef06f1f
-draft: 1.3716
 handicap_data:
+  beam: 3.109
+  draft: 1.3716
   sailarea: 5
   length_overall: 9.7536
   length_on_waterline: 8.5344
-length_on_deck: 9.7536
-beam: 3.109
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T17:13:13.501926+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

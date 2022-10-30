@@ -166,51 +166,41 @@ place_built: Poole
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
 ssr: '116759'
-callsign: ''
 ownerships:
-- end: 2016
-  name: Brian V. Cox
-  share: 64
+- name: Brian V. Cox
   start: 1994
+  end: 2016
+  share: 64
 - name: Tim Frearson
-  share: 64
   start: 2016
-- id: 661
   share: 64
-  member: 5496
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 84451f80-a68e-437d-9ae8-f84dd48d7433
 image_key: P2LKQM
 thumb: https://photos.smugmug.com/photos/i-67G6CZd/0/Th/i-67G6CZd-Th.jpg
-draft: 1.6764
 handicap_data:
-  beam: 3.169958546695928
+  thcf: 1.03923975
+  beam: 3.176
+  draft: 1.6764
+  fore_triangle_height: 12.192148256522799
+  fore_triangle_base: 5.4864667154352595
+  length_over_all: 10.66812972445745
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 7.010485247500609
     head: 5.029261155815655
     luff: 6.0960741282613995
-  thcf: 1.03923975
-  draft: 1.6764203852718849
   topsail:
     luff: 6.4008778346744695
     perpendicular: 4.114850036576445
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 10.66812972445745
-  fore_triangle_base: 5.4864667154352595
   length_on_waterline: 9.1441111923921
-  fore_triangle_height: 12.192148256522799
-length_on_deck: 10.668
-beam: 3.176
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T16:52:45.735439+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

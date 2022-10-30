@@ -3,8 +3,6 @@ oga_no: 2252
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1997
 year_is_approximate: false
 designer:
@@ -17,37 +15,28 @@ place_built: Darlington
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Clywedog
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Howard Morgan
-  share: 64
   start: 2006
-- share: 64
-  member: 4390
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 23b0e063-0d23-444b-855b-761e8aecec83
-draft: 0.1524
 handicap_data:
-  beam: 1.5758351621555717
+  thcf: 0.730726748
+  beam: 1.5758
+  draft: 0.1524
+  fore_triangle_height: 3.1608144355035352
+  fore_triangle_base: 0.8900268227261643
+  length_over_all: 3.758229700073153
   main:
     foot: 2.6426481346013166
     head: 2.7676176542306754
     luff: 1.5240185320653499
-  thcf: 0.730726748
-  draft: 0.152401853206535
-  length_over_all: 3.758229700073153
-  fore_triangle_base: 0.8900268227261643
   length_on_waterline: 3.6820287734698853
-  fore_triangle_height: 3.1608144355035352
-length_on_deck: 3.7582
-beam: 1.5758
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.7582
+created_at: '2020-04-25T17:17:14.896712+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

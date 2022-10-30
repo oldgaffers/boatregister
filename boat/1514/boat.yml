@@ -3,8 +3,6 @@ oga_no: 1514
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
-full_description: ''
 year: 1987
 year_is_approximate: false
 designer:
@@ -17,31 +15,24 @@ place_built: Halstead Essex
 construction_material: wood
 construction_method: unknown
 construction_details: Plywood Dory
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Robert Berk
-  share: 64
   start: 1988
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 81bdba45-3d75-4e80-890a-b0d20be9b698
-draft: 0.1585
 handicap_data:
-  beam: 1.1308217507924896
+  thcf: 0.794911107
+  beam: 1.1308
+  draft: 0.1585
+  length_over_all: 4.754937820043891
   main:
     foot: 3.0998536942209216
     head: 3.0998536942209216
     luff: 1.2435991221653255
-  thcf: 0.794911107
-  draft: 0.1584979273347964
-  length_over_all: 4.754937820043891
   length_on_waterline: 4.44403803950256
-length_on_deck: 4.7549
-beam: 1.1308
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.7549
+created_at: '2020-04-25T17:06:08.913744+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

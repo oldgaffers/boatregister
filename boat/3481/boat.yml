@@ -11,6 +11,9 @@ year_is_approximate: false
 designer:
   name: L. Harbottell/A. Platt
   id: 0c6a85ba-b4aa-4907-aa78-43936ca3eb9b
+design_class:
+  name: Finesse 24
+  id: b0a089a7-eb42-4ba2-bc3e-a79a26417c02
 builder:
   name: Alan F. Platt  Ltd
   id: 954dc050-837f-454f-be87-830d8cf00c2b
@@ -18,25 +21,19 @@ place_built: Thundersley, Essex
 construction_material: wood
 spar_material: wood
 construction_method: clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: United Kingdom
 home_port: Amble
 hull_form: long keel deep forefoot
-ownerships:
-- id: 875
-  share: 64
-  member: 5984
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+ownerships: []
 id: 9d2e8e30-159b-4715-895e-48f41627c259
-previous_names:
-- Emma and Kate
 image_key: cStRtC
 thumb: https://photos.smugmug.com/photos/i-RTFgsvz/0/Th/i-RTFgsvz-Th.jpg
 handicap_data:
+  beam: 2.4384
+  fore_triangle_height: 7.3152
+  fore_triangle_base: 3.81
   main:
     foot: 14
     head: 13
@@ -46,13 +43,9 @@ handicap_data:
   calculated_thcf: 0.887
   draft_keel_down: 1.8288
   moving_keel_type: Centreboard
-  fore_triangle_base: 3.81
   length_on_waterline: 6.477
-  fore_triangle_height: 7.3152
-length_on_deck: 7.3152
-beam: 2.4384
-design_class:
-  name: Finesse 24
-  id: b0a089a7-eb42-4ba2-bc3e-a79a26417c02
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-11-20T12:55:13.56439+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Emma and Kate

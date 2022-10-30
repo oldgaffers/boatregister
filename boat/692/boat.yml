@@ -47,54 +47,47 @@ place_built: Brixham
 construction_material: wood
 construction_method: unknown
 construction_details: Pitch pine on oak, mahoghany superstructure.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GER
-home_port: ''
 hull_form: unknown
 sail_number: 692Y
 uk_part1: '162013'
-callsign: ''
 ownerships:
-- end: 1938
-  name: William Thomas Latham
-  share: 64
+- name: William Thomas Latham
   start: 1936
-- end: 1956
-  name: John Laurence Westmacott
+  end: 1938
   share: 64
+- name: John Laurence Westmacott
   start: 1938
-- end: 1960
-  name: Percy Fitzgerald Foley, CBE, Brigadier (retired) HM Army
+  end: 1956
   share: 64
+- name: Percy Fitzgerald Foley, CBE, Brigadier (retired) HM Army
   start: 1956
-- end: 1980
-  name: Lieutenant-Commander Edward Michael Shaw, Royal Indian Navy (retired)
+  end: 1960
   share: 64
+- name: Lieutenant-Commander Edward Michael Shaw, Royal Indian Navy (retired)
   start: 1960
-- end: 1960
-  name: Roger Timothy Haynes Heeley
+  end: 1980
   share: 64
+- name: Roger Timothy Haynes Heeley
   start: 1960
-- note: For sale in Gaffers Log, 1980/1. Listed as being owned since then by RA James,
+  end: 1960
+  share: 64
+- start: 1980
+  note: For sale in Gaffers Log, 1980/1. Listed as being owned since then by RA James,
     then sold to un-named German owner, 1987.
   text: For sale in Gaffers Log,
-  start: 1980
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 1c7f5186-36c6-4e7f-9efb-1582439c0d71
-previous_names:
-- Martlet
 image_key: MqZFhh
 thumb: https://photos.smugmug.com/photos/i-GQCXrF9/0/Th/i-GQCXrF9-Th.jpg
-draft: 1.777
 handicap_data:
-  beam: 2.6213118751524016
-  draft: 1.7678614971958058
+  beam: 2.6152
+  draft: 1.777
   length_over_all: 8.22970007315289
   length_on_waterline: 8.22970007315289
-length_on_deck: 8.2296
-beam: 2.6152
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.2296
+created_at: '2020-04-25T16:52:51.288832+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Martlet

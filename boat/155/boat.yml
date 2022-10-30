@@ -4,7 +4,6 @@ generic_type: unknown
 rig_type: Ketch
 mainsail_type: gaff
 short_description: <p>Amy J is a 25ft Montagu Whaler</p>
-full_description: ''
 year: 1920
 year_is_approximate: false
 builder:
@@ -14,44 +13,34 @@ construction_material: wood
 construction_method: clinker
 construction_details: Clinker 3/4 in x 6 in Wytch Elm on 1 in by 1 in bent Ash on
   12 in centres
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - note: London Fire Brigade
   text: London Fire Brigade
-- note: 1920 Royal Navy
+- start: 1920
+  note: 1920 Royal Navy
   text: Royal Navy
-  start: 1920
-  start_is_approximate: false
-- note: 1972 Roger Hardy
+- start: 1972
+  note: 1972 Roger Hardy
   text: Roger Hardy
-  start: 1972
-  start_is_approximate: false
-- note: 1975 Terry Carter
+- start: 1975
+  note: 1975 Terry Carter
   text: Terry Carter
-  start: 1975
-  start_is_approximate: false
-- note: 1976 C W Brookes
+- start: 1976
+  note: 1976 C W Brookes
   text: C W Brookes
-  start: 1976
-  start_is_approximate: false
 - name: Bristol Sea Scouts
-  share: 64
   start: 1980
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0f23c960-ed9c-4ea9-839a-accae2578db6
-draft: 0.2804
 handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.2804194099000244
+  beam: 1.8288
+  draft: 0.2804
   length_over_all: 7.620092660326749
   length_on_waterline: 6.0960741282613995
-length_on_deck: 7.62
-beam: 1.8288
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T16:44:44.226021+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

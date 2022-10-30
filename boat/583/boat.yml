@@ -24,52 +24,47 @@ construction_material: wood
 construction_method: carvel
 construction_details: 'Carvel pitch pine on oak, originally transom sterned, Counter
   added 1927 '
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
 sail_number: '583'
 uk_part1: '128583'
-callsign: ''
 ownerships:
-- end: 2013
-  name: Joe Lester
-  share: 64
+- name: Joe Lester
   start: 1963
-- name: Thierry Fialek-Birles
+  end: 2013
   share: 64
+- name: Thierry Fialek-Birles
   start: 2013
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a3e3b353-d0ec-4f11-a1c0-d4123eaa8121
-previous_names:
-- Prudence
 image_key: GmkdZ6
 thumb: https://photos.smugmug.com/photos/i-vW3KWMZ/0/Th/i-vW3KWMZ-Th.jpg
-draft: 1.9294
 handicap_data:
-  beam: 3.322360399902463
+  thcf: 1.066
+  beam: 3.3284
+  draft: 1.9294
+  fore_triangle_height: 12.344550109729333
+  fore_triangle_base: 6.4008778346744695
+  length_over_all: 12.649353816142403
+  propellor:
+    type: fixed
+  sailarea: 95.83630556436111
   main:
     foot: 6.5532796878810045
     head: 5.334064862228725
     luff: 6.0960741282613995
-  thcf: 1.066
-  draft: 1.9050231650816873
-  mizzen:
-    foot: 2.43842965130456
-    luff: 4.87685930260912
   topsail:
     luff: 8.177883443062667
     perpendicular: 3.0480370641306997
-  sailarea: 95.83630556436111
-  propellor:
-    type: fixed
-  length_over_all: 12.649353816142403
-  fore_triangle_base: 6.4008778346744695
+  mizzen:
+    foot: 2.43842965130456
+    luff: 4.87685930260912
   length_on_waterline: 9.296513045598633
-  fore_triangle_height: 12.344550109729333
-length_on_deck: 12.6492
-beam: 3.3284
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.6492
+created_at: '2020-04-25T16:51:12.987334+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Prudence

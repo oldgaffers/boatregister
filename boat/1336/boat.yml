@@ -3,8 +3,6 @@ oga_no: 1336
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1955
 year_is_approximate: false
 designer:
@@ -17,28 +15,21 @@ place_built: Patterson New Jer
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Cedar
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: J M Kirschenbaum
-  share: 64
   start: 1972
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 47e4f5e7-1f83-49a9-881d-3f27fdab34fc
-previous_names:
-- Scarlet Queen
-draft: 1.7374
 handicap_data:
-  beam: 3.0480370641306997
-  draft: 1.737381126554499
+  beam: 3.048
+  draft: 1.7374
   length_over_all: 11.582540843696659
   length_on_waterline: 8.53450377956596
-length_on_deck: 11.5824
-beam: 3.048
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.5824
+created_at: '2020-04-25T17:03:26.972341+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Scarlet Queen

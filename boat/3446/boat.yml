@@ -29,6 +29,9 @@ year_is_approximate: false
 designer:
   name: Uffa Fox
   id: eaf77e9d-2030-46b2-946c-6838f696bd4a
+design_class:
+  name: Atalanta
+  id: ace0c327-6252-4ed9-9fa4-ad3da8481e14
 builder:
   name: Fairey Marine
   id: d695aa0f-63c7-452a-bfb0-eb5ad4a58d2e
@@ -36,27 +39,22 @@ place_built: Hamble
 construction_material: wood
 construction_method: hot_moulded
 construction_details: Hot moulded cross plywood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
 sail_number: A59
 callsign: Yacht Julietta
 ownerships:
-- id: 1087
-  share: 64
+- member: 6340
+  id: 1087
   start: 2007
-  member: 6340
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 7da47016-5edc-4653-8370-9d9da1b49d5b
-draft: 0.4572
-length_on_deck: 7.9858
-beam: 2.347
-design_class:
-  name: Atalanta
-  id: ace0c327-6252-4ed9-9fa4-ad3da8481e14
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:55:08.747448+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  beam: 2.347
+  draft: 0.4572
+  length_on_deck: 7.9858

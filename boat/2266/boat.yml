@@ -29,45 +29,40 @@ builder:
 place_built: Shoreham
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2016
-  name: Paul Heighway
-  share: 64
+- name: Paul Heighway
   start: 1966
-- id: 724
+  end: 2016
   share: 64
+- member: 5684
+  id: 724
   start: 2016
-  member: 5684
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 07b955ac-5408-47ad-9b8f-ea9b84566338
 image_key: vFmj5j
 thumb: https://photos.smugmug.com/photos/i-vtQkvpP/0/Th/i-vtQkvpP-Th.jpg
-draft: 0
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 1.042509363
+  beam: 2.1336
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 5.18166300902219
+  length_over_all: 9.906120458424773
+  propellor:
+    type: fixed
   main:
     foot: 6.0960741282613995
     head: 5.029261155815655
     luff: 5.273104120946111
-  thcf: 1.042509363
   topsail:
     luff: 4.87685930260912
     perpendicular: 3.139478176054621
-  propellor:
-    type: fixed
-  length_over_all: 9.906120458424773
-  fore_triangle_base: 5.18166300902219
   length_on_waterline: 7.620092660326749
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 9.906
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.906
+created_at: '2020-04-25T17:17:29.665645+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

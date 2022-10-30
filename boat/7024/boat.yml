@@ -3,48 +3,40 @@ oga_no: 7024
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1958
 year_is_approximate: false
 designer:
   name: Todd Holm
   id: cb212094-eb83-4ad6-8f62-c1e52a7163d7
+design_class:
+  name: Folkboat
+  id: a9310538-7c42-4390-92da-0655728b5ce0
 builder:
   name: Parham and Son
   id: ee8ac7d0-c4bb-4844-89ac-e117f50b55b2
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Ipswich
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Matthew Pike
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a191b520-1042-4944-99ff-017fcd7ed454
-draft: 1.1948
 handicap_data:
-  beam: 2.2098268714947573
+  thcf: 0.867261492
+  beam: 2.2098
+  draft: 1.1948
+  fore_triangle_height: 6.501463057790782
+  fore_triangle_base: 2.0056083881980005
+  length_over_all: 7.620092660326749
   main:
     foot: 3.176054620824189
     luff: 8.662521336259449
-  thcf: 0.867261492
-  draft: 1.1948305291392343
-  length_over_all: 7.620092660326749
-  fore_triangle_base: 2.0056083881980005
   length_on_waterline: 6.019873201658132
-  fore_triangle_height: 6.501463057790782
-length_on_deck: 7.62
-beam: 2.2098
-design_class:
-  name: Folkboat
-  id: a9310538-7c42-4390-92da-0655728b5ce0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T17:41:54.236241+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

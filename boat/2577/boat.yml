@@ -3,7 +3,6 @@ oga_no: 2577
 generic_type: unknown
 rig_type: Ketch
 mainsail_type: lug
-short_description: ''
 full_description: Clinker ply version of a H Rushton canoe of 1880, rigged with two
   standing lugs
 year: 2002
@@ -18,37 +17,31 @@ place_built: Totnes / Falmouth
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Clinker ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Falmouth
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 43
-  share: 64
+- member: 1109
+  id: 43
   start: 2012
-  member: 1109
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: cad46f6e-c6aa-4da2-bb1d-4832254c39e6
-draft: 1.8288
 handicap_data:
-  beam: 0.7620092660326749
+  thcf: 0.808233623
+  beam: 0.762
+  draft: 1.8288
+  length_over_all: 4.776274079492806
   main:
     foot: 2.13362594489149
     head: 1.5240185320653499
     luff: 1.624603755181663
-  thcf: 0.808233623
-  draft: 1.8288222384784198
   mizzen:
     foot: 1.3472323823457693
     head: 1.014996342355523
     luff: 1.1430138990490124
-  length_over_all: 4.776274079492806
   length_on_waterline: 4.419653742989515
-length_on_deck: 4.7762
-beam: 0.762
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.7762
+created_at: '2020-04-25T17:22:52.362143+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

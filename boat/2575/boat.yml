@@ -20,33 +20,28 @@ builder:
 place_built: Papendrecht
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Newport
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2017
-  name: John Hardiment
-  share: 64
+- name: John Hardiment
   start: 2001
-- id: 635
+  end: 2017
   share: 64
+- member: 5372
+  id: 635
   start: 2019
-  member: 5372
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 97a31c0f-41da-4fb0-aea3-aa315860e437
-previous_names:
-- De Jonge
-- Jelle
-draft: 0
 handicap_data:
   moving_keel: true
   moving_keel_type: Leeboard
-length_on_deck: 0
-beam: 0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 0
+created_at: '2020-04-25T17:22:50.701843+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- De Jonge
+- Jelle

@@ -3,40 +3,31 @@ oga_no: 1600
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1907
 year_is_approximate: false
 designer:
   name: H.C. Smith
   id: e2e5f3e6-7900-4fd8-b10a-bb3e0cc11f9a
+design_class:
+  name: Orwell Corinthian OD
+  id: 3e708836-6e02-423d-9675-7b942a8b3131
 place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: '6'
-callsign: ''
 ownerships:
 - name: B A Moss
-  share: 64
   start: 1987
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 1e5e493e-5db7-49f6-a451-ed8b94a0072b
-draft: 0
 handicap_data:
-  beam: 1.5544989027066567
+  beam: 1.5545
   length_over_all: 5.4864667154352595
   length_on_waterline: 4.57205559619605
-length_on_deck: 5.4864
-beam: 1.5545
-design_class:
-  name: Orwell Corinthian OD
-  id: 3e708836-6e02-423d-9675-7b942a8b3131
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T17:07:26.606976+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 784
 generic_type: unknown
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Log 78/1
 year: 1904
 year_is_approximate: false
@@ -12,43 +11,36 @@ construction_material: wood
 construction_method: carvel
 construction_details: 1 1/4&quot; Carvel pitch pine planking on 5 x 3 &quot; oak grown
   timbers on 16&quot; spacing
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 78/1
-callsign: ''
 ownerships:
 - name: T J Edwards
-  share: 64
   start: 1976
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a8e48e1f-fab6-47d5-ba62-a8394d4fb66f
-draft: 1.6764
 handicap_data:
-  beam: 3.2004389173372347
+  thcf: 0.986843918
+  beam: 3.2004
+  draft: 1.6764
+  fore_triangle_height: 13.106559375762009
+  fore_triangle_base: 5.7912704218483295
+  length_over_all: 9.75371860521824
+  propellor:
+    type: fixed
   main:
     foot: 4.87685930260912
     head: 3.9624481833699097
     luff: 5.029261155815655
-  thcf: 0.986843918
-  draft: 1.6764203852718849
-  mizzen:
-    foot: 0
-    luff: 3.8100463301633747
   topsail:
     luff: 6.0960741282613995
     perpendicular: 2.7432333577176298
-  propellor:
-    type: fixed
-  length_over_all: 9.75371860521824
-  fore_triangle_base: 5.7912704218483295
+  mizzen:
+    foot: 0
+    luff: 3.8100463301633747
   length_on_waterline: 9.75371860521824
-  fore_triangle_height: 13.106559375762009
-length_on_deck: 9.7536
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T16:54:14.033067+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

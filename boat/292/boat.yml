@@ -3,7 +3,6 @@ oga_no: 292
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 69/5 CB Oct 91
 year: 1903
 year_is_approximate: false
@@ -17,41 +16,34 @@ place_built: Hamble
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch pine
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 69/5
 - CB Oct 91
-callsign: ''
 ownerships:
 - name: I Gillera
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fbf8fe54-835c-4d4e-93cb-3591b5d68df1
-draft: 1.1278
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.877677826
+  beam: 2.286
+  draft: 1.1278
+  fore_triangle_height: 6.4008778346744695
+  fore_triangle_base: 3.301024140453548
+  length_over_all: 7.162887100707144
+  propellor:
+    type: fixed
   main:
     foot: 4.700073152889539
     head: 3.148622287247013
     luff: 3.4046574006339916
-  thcf: 0.877677826
-  draft: 1.127773713728359
   topsail:
     luff: 4.419653742989515
     perpendicular: 1.7891977566447208
-  propellor:
-    type: fixed
-  length_over_all: 7.162887100707144
-  fore_triangle_base: 3.301024140453548
   length_on_waterline: 5.7912704218483295
-  fore_triangle_height: 6.4008778346744695
-length_on_deck: 7.1628
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.1628
+created_at: '2020-04-25T16:46:40.231002+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

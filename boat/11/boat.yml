@@ -25,7 +25,7 @@ construction_material: wood
 construction_method: unknown
 construction_details: Elm below, pitch pine above on grown oak, bronze fastened and
   part copper sheathed.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Hamble
@@ -38,53 +38,46 @@ ownerships:
   text: 'Previous owners:'
 - note: H.K.B. Roberts
   text: H.K.B. Roberts
-- note: A.R. Hale 1967
+- start: 1967
+  note: A.R. Hale 1967
   text: A.R. Hale
-  start: 1967
-  start_is_approximate: false
-- note: I.M. Tann 1970
+- start: 1970
+  note: I.M. Tann 1970
   text: I.M. Tann
-  start: 1970
-  start_is_approximate: false
-- note: E.B. Willard 1979
+- start: 1979
+  note: E.B. Willard 1979
   text: E.B. Willard
-  start: 1979
-  start_is_approximate: false
-- end: 2010
-  name: Ivan Jefris
-  share: 64
+- name: Ivan Jefris
   start: 1994
-- id: 634
+  end: 2010
   share: 64
+- member: 5371
+  id: 634
   start: 2010
-  member: 5371
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fd6e2ec4-ba52-4a12-9a31-767377b9773b
 image_key: hbkT8f
 thumb: https://photos.smugmug.com/photos/i-FWdcJQN/0/Th/i-FWdcJQN-Th.jpg
-draft: 1.7282
 handicap_data:
-  beam: 3.6068641794684217
+  thcf: 1.097
+  beam: 3.6058
+  draft: 1.7282
+  fore_triangle_height: 9.1441111923921
+  fore_triangle_base: 8.22970007315289
+  length_over_all: 13.716166788588149
+  propellor:
+    type: fixed
+  sailarea: 93.93159949838162
   main:
     foot: 8.22970007315289
     head: 5.334077054376981
     luff: 6.4008778346744695
-  thcf: 1.097
-  draft: 1.7272372592050718
   topsail:
     luff: 4.26725188978298
     perpendicular: 3.6576444769568397
-  sailarea: 93.93159949838162
-  propellor:
-    type: fixed
-  length_over_all: 13.716166788588149
   length_over_spars: 18.593026091197267
-  fore_triangle_base: 8.22970007315289
   length_on_waterline: 11.887344550109729
-  fore_triangle_height: 9.1441111923921
-length_on_deck: 13.716
-beam: 3.6058
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.716
+created_at: '2020-04-25T16:42:26.727877+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

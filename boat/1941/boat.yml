@@ -3,8 +3,6 @@ oga_no: 1941
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1995
 year_is_approximate: false
 designer:
@@ -17,26 +15,20 @@ place_built: Faversham
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 231
-  share: 64
+- member: 3199
+  id: 231
   start: 1995
-  member: 3199
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 3c79b2cd-c223-4747-864d-8c3342c52de3
-draft: 0
 handicap_data:
   thcf: 0.952
   length_over_all: 8.53450377956596
-length_on_deck: 8.5344
-beam: 0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T17:12:36.176312+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

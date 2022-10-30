@@ -4,62 +4,59 @@ generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
 short_description: <p>Piglet is a Skipper 17 which has been converted to gaff rig.</p>
-full_description: ''
 year_is_approximate: false
 designer:
   name: Peter Milne
   id: ceddb655-e672-47b1-9c73-ad7a0388f102
+design_class:
+  name: Skipper 17
+  id: 4b171eeb-dafb-4367-a7be-261d4b0f42cb
 builder:
   name: Richmond Marine
   id: 0ceb94c5-4440-40d5-b06d-b7d45a8e0b0b
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Cardiff
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 860
-  share: 64
+- member: 5956
+  id: 860
   start: 2015
-  member: 5956
-updated_at: '2022-08-26T15:54:58.223891+00:00'
+  share: 64
 website: myweb.tiscali.co.uk/skipper17/
 id: 99a65432-ca30-45c7-baf5-26eae451c931
-previous_names:
-- Spindrift
 image_key: sskR4d
 thumb: https://photos.smugmug.com/photos/i-NrMBzNG/0/Th/i-NrMBzNG-Th.jpg
-draft: 0.381
 handicap_data:
+  beam: 2.1336
+  draft: 0.381
+  fore_triangle_height: 5.334
+  fore_triangle_base: 2.5908
+  sailarea: 1
   main:
     foot: 9.17
     head: 5.58
     luff: 10.83
+  topsail:
+    luff: 6.25
+    perpendicular: 4.25
   mizzen:
     foot: 2.92
     head: 2.25
     luff: 6.5
-  topsail:
-    luff: 6.25
-    perpendicular: 4.25
-  sailarea: 1
   moving_keel: true
   length_overall: 5.1816
   calculated_thcf: 0.791
   draft_keel_down: 1.2192
   moving_keel_type: Leeboard
   length_over_spars: 6.5532
-  fore_triangle_base: 2.5908
   length_on_waterline: 4.572
-  fore_triangle_height: 5.334
-length_on_deck: 5.1816
-beam: 2.1336
-design_class:
-  name: Skipper 17
-  id: 4b171eeb-dafb-4367-a7be-261d4b0f42cb
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1816
+created_at: '2020-04-25T17:49:14.524825+00:00'
+updated_at: '2022-08-26T15:54:58.223891+00:00'
+previous_names:
+- Spindrift

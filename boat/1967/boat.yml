@@ -3,13 +3,14 @@ oga_no: 1967
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1989
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,41 +18,32 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Mersea
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Richard Barth
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 9b81c204-5d11-43e1-a935-fb291b2d8d24
-draft: 1.143
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 0.969236092
+  beam: 2.8956
+  draft: 1.143
+  fore_triangle_height: 8.458302852962692
+  fore_triangle_base: 5.7912704218483295
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
   main:
     foot: 5.6388685686417945
     head: 4.495854669592782
     luff: 4.953060229212387
-  thcf: 0.969236092
-  draft: 1.1430138990490124
   topsail:
     luff: 5.715069495245062
     perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.7912704218483295
   length_on_waterline: 7.848695440136551
-  fore_triangle_height: 8.458302852962692
-length_on_deck: 9.144
-beam: 2.8956
-design_class:
-  name: Cornish Crabber Pilot Cutter 30
-  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:13:01.067624+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

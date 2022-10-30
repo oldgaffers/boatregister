@@ -42,9 +42,26 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel  pitch pine on oak
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 19500
+- created_at: '2020-10-14T21:50:00+00:00'
+  flexibility: normal
+  offered: '2019-01-28'
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: "LOA 34 feet, LOD 25 feet, beam 9 ft. 2 in.   Draft 4 ft. 4 in. Displaces\
+    \ 5.5 tons approx.  Engine Vetus 16 HP (2009). Darglow feathering prop. Radio,\
+    \ GPS etc. Hull pitch pine on oak frames, copper fastened. Lead keel, bronze keel\
+    \ bolts and many fittings.  Teak cockpit, cabin, deck and interior.  Saloon: 2\
+    \ berths, table, Taylors cooker with oven, sink. Fo\u2019castle: pipe cot, heads\
+    \ and storage. Cockpit and full winter covers. More pictures and excellent 2013\
+    \ survey available.  Lying Portsmouth."
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-10-14T21:52:56.474004+00:00'
 home_country: GBR
 home_port: Portsmouth
 hull_form: long keel sloping forefoot
@@ -52,58 +69,54 @@ sail_number: '682'
 uk_part1: '166822'
 callsign: MEWV5
 ownerships:
-- end: '?'
-  name: Spence Moody
-  share: 64
+- name: Spence Moody
   start: '?'
-- end: 2007
-  name: David Still
+  end: '?'
   share: 64
+- name: David Still
   start: 2000
-- id: 502
-  end: 2011
+  end: 2007
+  share: 64
+- member: 4743
+  id: 502
   start: 2007
-  member: 4743
-- id: 477
-  share: 32
+  end: 2011
+- member: 4610
+  id: 477
   start: 2011
-  member: 4610
-  current: true
-- id: 1200
   share: 32
-  start: 2011
-  member: 4610
   current: true
-updated_at: '2022-08-17T21:04:47.809113+00:00'
-website: ''
+- member: 4610
+  id: 1200
+  start: 2011
+  share: 32
+  current: true
 id: 569a5fd3-084f-40e1-a530-e49bd4b0c998
-previous_names:
-- Sparrow
-- White Kitten
 image_key: jLZ6Mk
 thumb: https://photos.smugmug.com/photos/i-Zvs4Q8M/0/Th/i-Zvs4Q8M-Th.jpg
-draft: 1.2954
 handicap_data:
-  beam: 2.79403803950256
+  thcf: 0.92
+  beam: 2.7432
+  draft: 1.2954
+  fore_triangle_height: 6.705681541087539
+  fore_triangle_base: 5.308674713484515
+  length_over_all: 7.620092660326749
+  propellor:
+    type: folding
+    blades: 3
+  sailarea: 43.92606827628219
   main:
     foot: 4.851481346013167
     head: 3.8354608632040965
     luff: 4.749871982443306
-  thcf: 0.92
-  draft: 1.2954218483296758
   topsail:
     luff: 3.9878505242623747
     perpendicular: 2.13362594489149
-  sailarea: 43.92606827628219
-  propellor:
-    type: folding
-    blades: 3
-  length_over_all: 7.620092660326749
   length_over_spars: 9.44891489880517
-  fore_triangle_base: 5.308674713484515
   length_on_waterline: 7.315288953913679
-  fore_triangle_height: 6.705681541087539
-length_on_deck: 7.62
-beam: 2.7432
-for_sale_state:
-  text: for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T16:52:42.008164+00:00'
+updated_at: '2022-08-17T21:04:47.809113+00:00'
+previous_names:
+- Sparrow
+- White Kitten

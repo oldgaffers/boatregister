@@ -111,50 +111,66 @@ place_built: Boston
 construction_material: wood
 construction_method: unknown
 construction_details: American Redwood and Larch on Oak and Iroko
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 24950
+- created_at: '2016-02-08T14:17:17+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>The gaff cutter \"Deirdre\" is offered for sale having been restored\
+    \ to an exceptionally high standard over recent years. A \"classic boat\" in all\
+    \ respects, she has been rigged for single-handed sailing and has cruised extensively.</p><p>The\
+    \ potential inventory is vast and far too long to list here in full but includes;\
+    \ plenty of spare blocks, shackles, mooring lines, rope etc. An aluminium shear\
+    \ pole and tackle for raising and lowering the mast; whisker poles fore poling\
+    \ out jib and staysail; 2 boat hooks; A paraffin riding light( which doesn\u2019\
+    t blow out in strong winds!); a somewhat dubious inflatable dinghy and accessories\
+    \ with a 12v electric inflation pump (the pram dinghy is a much more suitable\
+    \ tender!); 5 life jackets and 2 children\u2019s buoyancy aids; A set of in-date\
+    \ coastal flares; a full set of code flags; A good selection of charts and pilot\
+    \ books (mainly for the East Coast); cockpit seat cushions ; a portable gas heater\
+    \ with flame failure and carbon monoxide cut off devices; heavy duty winter cover\
+    \ and spare tarpaulins. Suffice to say that there is pretty well everything needed\
+    \ for extended coastal water cruising.</p><p>&nbsp;</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.442893+00:00'
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
 ssr: '65997'
-callsign: ''
 ownerships:
-- end: 2015
-  name: Kit Platten
-  share: 64
+- name: Kit Platten
   start: 1998
-- name: Eleanor Gassman
+  end: 2015
   share: 64
+- name: Eleanor Gassman
   start: 2015
-- share: 64
-  member: 6032
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 8af55bea-5184-49a0-ba16-48548fa84f49
 image_key: Bmqvz3
 thumb: https://photos.smugmug.com/photos/i-76c8Cg6/0/Th/i-76c8Cg6-Th.jpg
-draft: 0.9906
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.906240773
+  beam: 2.4384
+  draft: 0.9906
+  fore_triangle_height: 6.6294806144842715
+  fore_triangle_base: 4.038649109973177
+  length_over_all: 7.620092660326749
+  propellor:
+    type: fixed
   main:
     foot: 4.87685930260912
     head: 3.6576444769568397
     luff: 3.6576444769568397
-  thcf: 0.906240773
-  draft: 0.9906120458424774
   topsail:
     luff: 4.343452816386247
     perpendicular: 1.6520360887588392
-  propellor:
-    type: fixed
-  length_over_all: 7.620092660326749
-  fore_triangle_base: 4.038649109973177
   length_on_waterline: 6.858083394294074
-  fore_triangle_height: 6.6294806144842715
-length_on_deck: 7.62
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T17:03:31.074226+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

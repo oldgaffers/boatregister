@@ -3,7 +3,6 @@ oga_no: 2512
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: "<p>&#39;Kan an Mor&#39; is a Falmouth workboat built as an open\
   \ boat 1979-82. She was registered as FH73 and originally called &#39;Heritage of\
   \ Mylor&#39;. She was found to be too big and was later registered for trawling\
@@ -24,43 +23,33 @@ place_built: Mylor Bridge
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel iroko on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Falmouth
 hull_form: long keel deep forefoot
 sail_number: '2512'
-callsign: ''
 ownerships:
-- end: 2012
-  name: John Lesh
-  share: 64
+- name: John Lesh
   start: 2000
-- share: 64
-  member: 4013
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2012
+  share: 64
 id: 8c061e94-795b-442a-bd1b-b2bd8f8ff96d
-previous_names:
-- Heritage of Mylor
-draft: 1.524
 handicap_data:
-  beam: 3.581443550353572
+  thcf: 1.009794149
+  beam: 3.5814
+  draft: 1.524
+  fore_triangle_height: 11.277737137283589
+  fore_triangle_base: 7.467690807120214
+  length_over_all: 10.820531577663983
+  propellor:
+    type: fixed
   main:
     foot: 5.434650085345037
     head: 5.129846378931967
     luff: 6.2484759814679345
-  thcf: 1.009794149
-  draft: 1.5240185320653499
-  propellor:
-    type: fixed
-  length_over_all: 10.820531577663983
-  fore_triangle_base: 7.467690807120214
   length_on_waterline: 9.906120458424773
-  fore_triangle_height: 11.277737137283589
-length_on_deck: 10.8204
-beam: 3.5814
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.8204
+created_at: '2020-04-25T17:21:52.910899+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Heritage of Mylor

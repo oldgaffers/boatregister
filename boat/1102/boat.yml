@@ -3,13 +3,15 @@ oga_no: 1102
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Log 85/3 Water Craft Sep/Oct 98
 year: 1981
 year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+design_class:
+  name: Oysterman 16
+  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
 builder:
   name: P. Gartside
   id: e00f0199-0c47-40a6-a4b7-4aca64e9f26b
@@ -17,32 +19,22 @@ place_built: Malpas
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 85/3
 - Water Craft Sep/Oct 98
-callsign: ''
 ownerships:
 - name: R Price
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 25a9e5bc-66da-43df-9f68-3974c2193ec4
-draft: 0.9144
 handicap_data:
-  beam: 1.929407461594733
-  draft: 0.9144111192392099
+  beam: 1.9294
+  draft: 0.9144
   length_over_all: 4.87685930260912
   length_on_waterline: 4.800658376005852
-length_on_deck: 4.8768
-beam: 1.9294
-design_class:
-  name: Oysterman 16
-  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T16:59:53.534168+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

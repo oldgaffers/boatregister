@@ -3,42 +3,33 @@ oga_no: 1985
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1970
 year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: T North
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: f58f5dcd-47e7-4e67-8560-8f142f2929bf
-draft: 0.4572
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.902770883
+  beam: 2.286
+  draft: 0.4572
+  fore_triangle_height: 4.800658376005852
+  fore_triangle_base: 2.9718361375274323
+  length_over_all: 7.924896366739819
   main:
     foot: 2.8194342843208973
     head: 3.0480370641306997
     luff: 4.953060229212387
-  thcf: 0.902770883
-  draft: 0.45720555961960496
   mizzen:
     foot: 2.0117044623262617
     luff: 3.9624481833699097
-  length_over_all: 7.924896366739819
-  fore_triangle_base: 2.9718361375274323
   length_on_waterline: 7.467690807120214
-  fore_triangle_height: 4.800658376005852
-length_on_deck: 7.9248
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9248
+created_at: '2020-04-25T17:13:17.469363+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

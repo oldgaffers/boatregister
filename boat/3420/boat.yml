@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Ketch
 mainsail_type: lug
 short_description: <p>Baba Lilji is a modern Lug Ketch, designed by Nigel Irens</p>
-full_description: ''
 year: 1995
 year_is_approximate: false
 designer:
   name: Nigel Irens
   id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
+design_class:
+  name: Romilly
+  id: 82ecf7d6-04df-44bf-8de9-bf3993da60f5
 builder:
   name: Bridgend Boat Co.
   id: 2baf8a14-dd14-4e3a-936c-369594ab0618
@@ -17,25 +19,20 @@ place_built: Cornwall
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Molded glass fibre over wood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Lymington
 hull_form: long keel deep forefoot
 sail_number: 2080C
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: d1a77bb8-2b56-4428-bf05-cdb5e55d82f2
-previous_names:
-- Carrihmor
 image_key: kXSLpW
 thumb: https://photos.smugmug.com/photos/i-P2QjsXr/0/Th/i-P2QjsXr-Th.jpg
-draft: 0.509
-length_on_deck: 6.7056
-beam: 2.0818
-design_class:
-  name: Romilly
-  id: 82ecf7d6-04df-44bf-8de9-bf3993da60f5
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:54:05.310026+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Carrihmor
+handicap_data:
+  beam: 2.0818
+  draft: 0.509
+  length_on_deck: 6.7056

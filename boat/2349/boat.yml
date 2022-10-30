@@ -21,42 +21,31 @@ builder:
 place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Pin Mill
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: N Temple
-  share: 64
   start: 2003
-- id: 119
   share: 64
-  member: 2032
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: d94fcbe8-a178-4885-8244-93db220a7e06
 image_key: hh8wTz
 thumb: https://photos.smugmug.com/photos/i-hRsC24f/0/Th/i-hRsC24f-Th.jpg
-draft: 1.1887
 handicap_data:
-  beam: 1.777005608388198
+  beam: 1.777
+  draft: 1.1887
+  fore_triangle_height: 3.9929285540112165
+  fore_triangle_base: 2.0117044623262617
+  length_over_all: 7.010485247500609
   main:
     foot: 4.968300414533041
     head: 3.1089978054133134
     luff: 3.0785174347720066
-  draft: 1.1887344550109729
   topsail:
     luff: 3.8405267008046815
     perpendicular: 1.7069007559131917
-  length_over_all: 7.010485247500609
-  fore_triangle_base: 2.0117044623262617
   length_on_waterline: 5.669348939283102
-  fore_triangle_height: 3.9929285540112165
-length_on_deck: 7.0104
-beam: 1.777
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.0104
+created_at: '2020-04-25T17:18:44.717468+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

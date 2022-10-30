@@ -26,50 +26,46 @@ place_built: Arklow, Co Wicklow
 construction_material: wood
 construction_method: unknown
 construction_details: Oak frames pitch pine planking
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: IRL
 home_port: Arklow
 hull_form: long keel sloping forefoot
 uk_part1: '165316'
-callsign: ''
 ownerships:
-- id: 599
-  share: 64
+- member: 5158
+  id: 599
   start: 2000
-  member: 5158
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.maybird.co.uk
 id: 82a800ae-c4b1-4489-a99b-13e4d7d918c8
-previous_names:
-- Maya
 image_key: QQBsft
 thumb: https://photos.smugmug.com/photos/i-Pq33Vjk/0/Th/i-Pq33Vjk-Th.jpg
-draft: 2.0056
 handicap_data:
-  beam: 3.3528407705437697
+  thcf: 1.026
+  beam: 3.3528
+  draft: 2.0056
+  fore_triangle_height: 10.972933430870519
+  fore_triangle_base: 5.919287978541819
+  length_over_all: 13.106559375762009
+  propellor:
+    type: folding
+    blades: 3
+  sailarea: 63.54722481911115
   main:
     foot: 5.815654718361374
     head: 4.57205559619605
     luff: 6.705681541087539
-  thcf: 1.026
-  draft: 2.0056083881980005
-  mizzen:
-    foot: 4.014264813460131
-    luff: 8.83930748597903
   topsail:
     luff: 6.0960741282613995
     perpendicular: 2.43842965130456
-  sailarea: 63.54722481911115
-  propellor:
-    type: folding
-    blades: 3
-  length_over_all: 13.106559375762009
-  fore_triangle_base: 5.919287978541819
+  mizzen:
+    foot: 4.014264813460131
+    luff: 8.83930748597903
   length_on_waterline: 10.36332601804438
-  fore_triangle_height: 10.972933430870519
-length_on_deck: 13.1064
-beam: 3.3528
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.1064
+created_at: '2020-04-25T17:31:50.525764+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Maya

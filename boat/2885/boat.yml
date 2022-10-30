@@ -3,13 +3,14 @@ oga_no: 2885
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
-full_description: ''
 year: 1950
 year_is_approximate: false
 designer:
   name: Chesapeake Light Craft
   id: ad506e2e-f56e-4142-9461-0b90640a1cc5
+design_class:
+  name: Eastport Pram
+  id: 48f08dcc-aa29-456f-a64e-f0fbcb462c2f
 builder:
   name: Fyne Boat Kits
   id: 4eeaff6e-e76c-454a-afed-0fb5be838229
@@ -17,33 +18,24 @@ place_built: Kendal
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Clinker ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: La Guardia
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Rodney Clark
-  share: 64
   start: 2008
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a8bf6be3-7415-4745-9d65-05047be32169
-draft: 0
 handicap_data:
-  beam: 1.21921482565228
+  thcf: 0.636253785
+  beam: 1.2192
+  length_over_all: 2.3622287247012923
   main:
     foot: 1.5484028285783955
     head: 1.5484028285783955
     luff: 1.472201901975128
-  thcf: 0.636253785
-  length_over_all: 2.3622287247012923
   length_on_waterline: 2.0574250182882223
-length_on_deck: 2.3622
-beam: 1.2192
-design_class:
-  name: Eastport Pram
-  id: 48f08dcc-aa29-456f-a64e-f0fbcb462c2f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 2.3622
+created_at: '2020-04-25T17:30:24.899047+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

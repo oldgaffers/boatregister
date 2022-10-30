@@ -34,40 +34,35 @@ place_built: Arnside
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel , Larch on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Liverpool
 hull_form: long keel deep forefoot
 ssr: '47535'
-callsign: ''
 ownerships:
-- id: 171
-  share: 64
+- member: 2619
+  id: 171
   start: 1990
-  member: 2619
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 65abfc21-46a0-4eda-9c1f-d91bd754ee92
 image_key: XFJ98F
 thumb: https://photos.smugmug.com/photos/i-3dWBsx9/0/Th/i-3dWBsx9-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 3.3528407705437697
+  thcf: 0.985616515
+  beam: 3.3528
+  draft: 1.2192
+  fore_triangle_height: 9.44891489880517
+  fore_triangle_base: 7.315288953913679
+  length_over_all: 10.972933430870519
+  propellor:
+    type: fixed
   main:
     foot: 0.7620092660326749
     head: 6.5532796878810045
     luff: 6.5532796878810045
-  thcf: 0.985616515
-  draft: 1.21921482565228
-  propellor:
-    type: fixed
-  length_over_all: 10.972933430870519
-  fore_triangle_base: 7.315288953913679
   length_on_waterline: 9.906120458424773
-  fore_triangle_height: 9.44891489880517
-length_on_deck: 10.9728
-beam: 3.3528
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.9728
+created_at: '2020-04-25T17:07:23.281561+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -25,80 +25,61 @@ builder:
 place_built: Tarbert
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: East Coast
 hull_form: unknown
 callsign: ''
 ownerships:
-- note: 1913-? Sam F Strang, Glasgow
+- start: 1913
+  note: 1913-? Sam F Strang, Glasgow
   text: Sam F Strang, Glasgow
-  start: 1913
-  start_is_approximate: false
-- end: 1922
+- start: 1919
+  end: 1922
   note: 1919-22 F Caldwell Ker, Glasgow
   text: F Caldwell Ker, Glasgow
-  start: 1919
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1924
+- start: 1923
+  end: 1924
   note: 1923-4 Cyril E Tarbolton, Glasgow
   text: Cyril E Tarbolton, Glasgow
-  start: 1923
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1937
+- start: 1925
+  end: 1937
   note: 1925-37 Lt-Col AOL Kindersley. Glasgow
   text: Lt-Col AOL Kindersley. Glasgow
-  start: 1925
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1953
+- start: 1938
+  end: 1953
   note: 1938-1953 Major EHM Unwin (joint with RG Gray in 1949). Glasgow
   text: Major EHM Unwin (joint with RG Gray in
-  start: 1938
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1959
+- start: 1953
+  end: 1959
   note: 1953-1959 AGA Muirhead. Glasgow
   text: AGA Muirhead. Glasgow
-  start: 1953
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1964
+- start: 1959
+  end: 1964
   note: 1959-64 Wing Commander RV Evans. Bristol
   text: Wing Commander RV Evans. Bristol
-  start: 1959
-  end_is_approximate: false
-  start_is_approximate: false
-- note: 1965-? FR West, registered to Mrs BA West in 1969. Bristol
+- start: 1965
+  note: 1965-? FR West, registered to Mrs BA West in 1969. Bristol
   text: FR West, registered to Mrs BA West in
-  start: 1965
-  start_is_approximate: false
 - name: R G Humphreys
+  start: 1979
   share: 64
-  start: 1979
-- note: 1979 RG Humphreys (OGA data)
+- start: 1979
+  note: 1979 RG Humphreys (OGA data)
   text: RG Humphreys (OGA data)
-  start: 1979
-  start_is_approximate: false
-- note: '''Betty'' was owned in the 1980s by one of the founder members of the OGA,
+- start: 1980
+  note: '''Betty'' was owned in the 1980s by one of the founder members of the OGA,
     Mike Richards.'
   text: '''Betty'' was owned in the'
-  start: 1980
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
 id: aeaa760a-8996-4a88-a732-0257dd1deb02
 image_key: RsNPNk
 thumb: https://photos.smugmug.com/photos/i-nxJ9Hrh/0/Th/i-nxJ9Hrh-Th.jpg
-draft: 0
 handicap_data:
-  beam: 2.590831504511095
+  beam: 2.5908
   length_over_all: 9.631797122653012
   length_on_waterline: 8.53450377956596
-length_on_deck: 9.6317
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.6317
+created_at: '2020-04-25T16:42:19.368417+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

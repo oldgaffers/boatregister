@@ -4,7 +4,6 @@ generic_type: unknown
 mainsail_type: gaff
 short_description: <p>Foreman boatbuilder, Fred Mitchell, used a 19th century boat
   as an exact copy.</p>
-full_description: ''
 year: 1947
 year_is_approximate: false
 designer:
@@ -17,28 +16,22 @@ place_built: Brightlingsea
 construction_material: wood
 construction_method: clinker
 construction_details: Wooden clinker varnished
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 161
-  share: 64
+- member: 2476
+  id: 161
   start: 1965
-  member: 2476
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ace82a21-25f3-4949-bf2c-358f1be2c16d
-draft: 0.1768
 handicap_data:
-  beam: 1.4478176054620824
-  draft: 0.18288222384784197
+  beam: 1.4478
+  draft: 0.1768
   length_over_all: 3.6576444769568397
   length_on_waterline: 3.6576444769568397
-length_on_deck: 3.6576
-beam: 1.4478
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.6576
+created_at: '2020-04-25T17:08:38.958118+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,13 +3,14 @@ oga_no: 2613
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1972
 year_is_approximate: false
 designer:
   name: Holt
   id: d83d96ca-b797-41d5-a91f-d662a2871b1f
+design_class:
+  name: Mirror Dinghy
+  id: e6a2f346-6819-48a2-84d3-69005e2316f4
 builder:
   name: Bell Woodworking
   id: fa4cb89a-113f-4a20-9cd6-93b34053f13a
@@ -17,30 +18,21 @@ place_built: Leicester
 construction_material: wood
 construction_method: unknown
 construction_details: Plywood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
 sail_number: '32613'
-callsign: ''
 ownerships:
-- id: 154
-  share: 64
+- member: 2381
+  id: 154
   start: 1972
-  member: 2381
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fc67f447-4d20-43e8-a794-574579baf52e
-draft: 0
 handicap_data:
-  beam: 1.4020970495001217
+  beam: 1.396
   length_over_all: 3.291880029261156
-length_on_deck: 3.301
-beam: 1.396
-design_class:
-  name: Mirror Dinghy
-  id: e6a2f346-6819-48a2-84d3-69005e2316f4
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.301
+created_at: '2020-04-25T17:23:25.061546+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

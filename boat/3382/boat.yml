@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Nimble is a Cornish Shrimper 19 built in 1992</p>
-full_description: ''
 year: 1992
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Shrimper
+  id: 7caf07ef-acf3-434b-a639-5c94188071a8
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,29 +19,28 @@ place_built: Rock
 construction_material: grp
 spar_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: centre-boarder
 sail_number: '519'
-callsign: ''
 ownerships:
-- id: 837
-  share: 64
+- member: 5913
+  id: 837
   start: 2016
-  member: 5913
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 38ea77ef-e879-4a13-ac21-59836182299b
-draft: 0.4816
 handicap_data:
+  beam: 2.1854
+  draft: 0.4816
+  fore_triangle_height: 4.6482
+  fore_triangle_base: 2.539
+  sailarea: 18
   main:
     foot: 11.5
     head: 10.17
     luff: 11
-  sailarea: 18
   moving_keel: true
   draft_keel_up: 0.4572
   length_overall: 5.8674
@@ -47,13 +48,7 @@ handicap_data:
   draft_keel_down: 1.2192
   moving_keel_type: Centreboard
   length_over_spars: 6.858
-  fore_triangle_base: 2.539
   length_on_waterline: 5.3584
-  fore_triangle_height: 4.6482
-length_on_deck: 5.8674
-beam: 2.1854
-design_class:
-  name: Cornish Shrimper
-  id: 7caf07ef-acf3-434b-a639-5c94188071a8
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.8674
+created_at: '2020-04-25T17:52:08.904637+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

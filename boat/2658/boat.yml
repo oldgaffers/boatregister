@@ -3,8 +3,6 @@ oga_no: 2658
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2004
 year_is_approximate: false
 designer:
@@ -16,40 +14,30 @@ builder:
 place_built: Sri Lanka
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hamble
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Chris Stevens
-  share: 64
   start: 2012
-- share: 64
-  member: 4463
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 28bc13a0-dbe4-4995-b58c-d60b67d59778
-draft: 0.9144
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.863461238
+  beam: 2.286
+  draft: 0.9144
+  fore_triangle_height: 5.9436722750548645
+  fore_triangle_base: 3.3528407705437697
+  length_over_all: 6.882467690807119
   main:
     foot: 3.9624481833699097
     head: 2.7432333577176298
     luff: 3.6576444769568397
-  thcf: 0.863461238
-  draft: 0.9144111192392099
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.6764203852718849
-  length_over_all: 6.882467690807119
-  fore_triangle_base: 3.3528407705437697
   length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 5.9436722750548645
-length_on_deck: 6.8824
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8824
+created_at: '2020-04-25T17:24:06.477684+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

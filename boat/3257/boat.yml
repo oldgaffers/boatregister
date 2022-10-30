@@ -4,43 +4,41 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: True Blue is a Yarmouth 23 built in 2000.
-full_description: ''
 year: 2000
 year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+design_class:
+  name: Yarmouth 23
+  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
 builder:
   name: Yarmouth Boat Co.
   id: 609d8a8b-c14c-402c-b727-519e519d6f6f
 place_built: Yarmouth Isle of Wight
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: long keel sloping forefoot
 sail_number: '4'
 ssr: '92186'
-callsign: ''
 ownerships:
-- end: 2007
-  name: Dr Potter
-  share: 64
+- name: Dr Potter
   start: 2000
-- name: Elizabeth Dalton
+  end: 2007
   share: 64
+- name: Elizabeth Dalton
   start: 2007
-- share: 64
-  member: 5112
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 5462c882-621e-47ad-b4e9-33db49080660
-draft: 0.9144
 handicap_data:
+  beam: 2.2799
+  draft: 0.9144
+  fore_triangle_height: 5.7912
+  fore_triangle_base: 3.0389
   main:
     foot: 12.73
     head: 9.22
@@ -51,13 +49,8 @@ handicap_data:
   length_overall: 6.8824
   calculated_thcf: 0.853
   length_over_spars: 7.9248
-  fore_triangle_base: 3.0389
   length_on_waterline: 5.4986
-  fore_triangle_height: 5.7912
-length_on_deck: 6.8824
-beam: 2.2799
-design_class:
-  name: Yarmouth 23
-  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8824
+created_at: '2020-04-25T17:47:15.090071+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+hin: GB YMS 23004 J 999

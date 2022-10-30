@@ -3,13 +3,14 @@ oga_no: 2637
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2000
 year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Salterns Boatyard Ltd.
   id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
@@ -18,50 +19,42 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Dell Quay
 hull_form: centre-boarder
 sail_number: '2637'
-callsign: ''
 ownerships:
-- end: 2012
-  name: Marion Shirley
-  share: 32
+- name: Marion Shirley
   start: 2009
-- id: 934
-  share: 64
+  end: 2012
+  share: 32
+- member: 6115
+  id: 934
   start: 2016
-  member: 6115
+  share: 64
   current: true
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
 id: e02896b9-26fa-4187-b8fd-97d5edfc439e
-draft: 0.5578
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.864852913
+  beam: 2.1336
+  draft: 0.5578
+  fore_triangle_height: 5.867471348451597
+  fore_triangle_base: 2.6426481346013166
+  length_over_all: 5.7912704218483295
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 4.520238966105827
     head: 3.2004389173372347
     luff: 3.7094611070470616
-  thcf: 0.864852913
-  draft: 0.5334064862228725
   topsail:
     luff: 3.9624481833699097
     perpendicular: 1.929407461594733
-  propellor:
-    type: fixed
-    blades: 3
   draft_keeldown: 1.1430138990490124
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 2.6426481346013166
   length_on_waterline: 5.690685198732017
-  fore_triangle_height: 5.867471348451597
-length_on_deck: 5.7912
-beam: 2.1336
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:23:47.024462+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'

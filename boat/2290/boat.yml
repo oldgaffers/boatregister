@@ -3,7 +3,6 @@ oga_no: 2290
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: She is a  big sister to Westernman. She is wood expoy. She has been
   extensively raced and cruised including 3 Atlantic crossings.
 year: 1998
@@ -18,39 +17,33 @@ place_built: La Have River Nova Scotia
 construction_material: wood
 construction_method: unknown
 construction_details: Wood epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Cowes
 hull_form: long keel sloping forefoot
 sail_number: Em1
-callsign: ''
 ownerships:
 - name: David Darbyshire
-  share: 64
   start: 1998
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 481df8ff-6e95-40e3-922e-dac63360715f
-draft: 2.3713
 handicap_data:
-  beam: 4.26725188978298
+  thcf: 1.179710735
+  beam: 4.2672
+  draft: 2.3713
+  fore_triangle_height: 13.981346013167519
+  fore_triangle_base: 10.198732016581321
+  length_over_all: 15.63643013899049
+  propellor:
+    type: folding
   main:
     foot: 8.53450377956596
     head: 6.705681541087539
     luff: 7.918800292611558
-  thcf: 1.179710735
-  draft: 2.3713728358936845
   topsail:
     luff: 10.128627164106314
     perpendicular: 4.0508412582297
-  propellor:
-    type: folding
-  length_over_all: 15.63643013899049
-  fore_triangle_base: 10.198732016581321
   length_on_waterline: 13.716166788588149
-  fore_triangle_height: 13.981346013167519
-length_on_deck: 15.6362
-beam: 4.2672
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 15.6362
+created_at: '2020-04-25T17:17:51.145633+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

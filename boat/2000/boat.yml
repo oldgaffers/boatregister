@@ -3,51 +3,37 @@ oga_no: 2000
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1990
 year_is_approximate: false
 place_built: Kirkcubright
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker, Red Cedar on Oak. Oak keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2012
-  name: Henry Bird
-  share: 64
+- name: Henry Bird
   start: 2002
-- end: 2014
-  name: Geoff Willerton
+  end: 2012
   share: 64
+- name: Geoff Willerton
   start: 2012
-- id: 732
+  end: 2014
   share: 64
-  member: 5698
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: bf849350-26da-4c4d-ad14-ac3a98144652
 image_key: fNGpcW
 thumb: https://photos.smugmug.com/photos/i-ZtB6M2F/0/Th/i-ZtB6M2F-Th.jpg
-draft: 0.6096
 handicap_data:
-  beam: 2.13362594489149
-  draft: 0.60960741282614
+  beam: 2.1336
+  draft: 0.6096
+  length_over_all: 5.4864667154352595
   propellor:
     type: fixed
     blades: 3
   draft_keeldown: 1.21921482565228
-  length_over_all: 5.4864667154352595
   length_over_spars: 7.315288953913679
   length_on_waterline: 5.18166300902219
-length_on_deck: 5.4864
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T17:13:32.909499+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

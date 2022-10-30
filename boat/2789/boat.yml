@@ -3,8 +3,6 @@ oga_no: 2789
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1906
 year_is_approximate: false
 designer:
@@ -17,25 +15,20 @@ place_built: Hamble
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Rosmalen
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Frank Zomerdijk
-  share: 64
   start: 2003
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7b825972-7082-4613-a0d7-27d70aa3d35a
-draft: 0
 handicap_data:
-  beam: 2.682272616435016
+  beam: 2.6822
   length_over_all: 11.430138990490123
   length_on_waterline: 8.22970007315289
-length_on_deck: 11.43
-beam: 2.6822
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.43
+created_at: '2020-04-25T17:27:12.893865+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

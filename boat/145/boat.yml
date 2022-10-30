@@ -3,7 +3,6 @@ oga_no: 145
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: <p>Onyx was built as a ketch rigged semi open boat and later used
   as a pilot cutter. In 1936 she was converted to a yacht, rigged as a cutter and
   a cabin added.</p>
@@ -12,31 +11,24 @@ year_is_approximate: false
 place_built: Guernsey
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
 uk_part1: '163597'
-callsign: ''
 ownerships:
-- note: previously owned by H.G. Fenn in the 1970's
+- start: 1970
+  note: previously owned by H.G. Fenn in the 1970's
   text: previously owned by H.G. Fenn in the
-  start: 1970
-  start_is_approximate: false
 - name: P R Costard
-  share: 64
   start: 1980
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 39faa524-ec1f-4bcd-8d5a-7ab81ff7481e
-draft: 1.524
 handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.493538161424043
+  beam: 2.7432
+  draft: 1.524
   length_over_all: 7.711533772250671
   length_on_waterline: 7.315288953913679
-length_on_deck: 7.7114
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.7114
+created_at: '2020-04-25T16:44:34.974055+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

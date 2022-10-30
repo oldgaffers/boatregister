@@ -3,8 +3,6 @@ oga_no: 2970
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
-full_description: ''
 year: 2010
 year_is_approximate: false
 builder:
@@ -14,34 +12,27 @@ place_built: Heswall Wirral
 construction_material: woodepoxy
 construction_method: clinker_ply
 construction_details: Glued ply clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 336
-  share: 64
+- member: 3842
+  id: 336
   start: 2010
-  member: 3842
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 84b21deb-b2d8-47da-86f8-5823470f058e
 image_key: G5KjSX
 thumb: https://photos.smugmug.com/photos/i-hkvsnGG/0/Th/i-hkvsnGG-Th.gif
-draft: 0
 handicap_data:
-  beam: 1.4478176054620824
+  thcf: 0.705969093
+  beam: 1.4478
+  length_over_all: 3.5296269202633503
   main:
     foot: 2.7676176542306754
     head: 2.8194342843208973
     luff: 0.9662277493294318
-  thcf: 0.705969093
-  length_over_all: 3.5296269202633503
   length_on_waterline: 3.2004389173372347
-length_on_deck: 3.5296
-beam: 1.4478
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.5296
+created_at: '2020-04-25T17:33:22.842518+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

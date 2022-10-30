@@ -3,7 +3,6 @@ oga_no: 850
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 90/3, 91/2
 year: 1975
 year_is_approximate: false
@@ -17,42 +16,35 @@ place_built: Burnham on Crouch
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferrocement
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 90/3
 - Log 91/2
 uk_part1: '376357'
-callsign: ''
 ownerships:
 - name: Frank Campbell
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7a9e3d42-1314-4c7b-8139-365c1961a5cd
-draft: 1.2192
 handicap_data:
-  beam: 3.581443550353572
+  thcf: 0.987957338
+  beam: 3.5814
+  draft: 1.2192
+  fore_triangle_height: 9.75371860521824
+  fore_triangle_base: 6.300292611558157
+  length_over_all: 9.906120458424773
+  propellor:
+    type: fixed
   main:
     foot: 6.224091684954889
     head: 4.419653742989515
     luff: 4.87685930260912
-  thcf: 0.987957338
-  draft: 1.21921482565228
   topsail:
     luff: 7.315288953913679
     perpendicular: 2.691416727627408
-  propellor:
-    type: fixed
-  length_over_all: 9.906120458424773
-  fore_triangle_base: 6.300292611558157
   length_on_waterline: 9.75371860521824
-  fore_triangle_height: 9.75371860521824
-length_on_deck: 9.906
-beam: 3.5814
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.906
+created_at: '2020-04-25T16:55:12.900744+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

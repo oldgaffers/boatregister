@@ -3,7 +3,6 @@ oga_no: 747
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: "Log 82/3, 85/3, sp/93 Sold to the Medway Yacht Club in the 1920\u2019\
   s. Fully restored by Eddie Wade, St Helens IoW in 1998-9 for current owner. CB Mar\
   \ 91"
@@ -12,6 +11,9 @@ year_is_approximate: false
 designer:
   name: G.U. Laws
   id: 6b0e581f-8507-4748-8d44-f8fb73dbef19
+design_class:
+  name: Seaview Mermaid
+  id: 9a673351-069a-47f2-bbae-e6f227b56071
 builder:
   name: A. Taylor
   id: 00f616d0-3b6a-48ac-9f7e-957a6a1349d2
@@ -19,45 +21,35 @@ place_built: Isle of Wight
 construction_material: wood
 construction_method: carvel
 construction_details: Planking carvel 5/8 Scotch larch, ash timbers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 82/3
 - Log 85/3
 - Log sp/93
 - CB Mar 91
-callsign: ''
 ownerships:
 - name: G Heard
-  share: 64
   start: 1985
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 8a17f5e5-15e9-41d7-93d1-78863caea825
-previous_names:
-- Soprano
-- Halluf II
-- Jade
-draft: 1.2192
 handicap_data:
-  beam: 1.9050231650816873
+  thcf: 0.909829375
+  beam: 1.905
+  draft: 1.2192
+  fore_triangle_height: 7.010485247500609
+  fore_triangle_base: 2.590831504511095
+  length_over_all: 7.620092660326749
   main:
     foot: 4.2977322604242865
     head: 5.9436722750548645
     luff: 2.286027798098025
-  thcf: 0.909829375
-  draft: 1.21921482565228
-  length_over_all: 7.620092660326749
-  fore_triangle_base: 2.590831504511095
   length_on_waterline: 5.334064862228725
-  fore_triangle_height: 7.010485247500609
-length_on_deck: 7.62
-beam: 1.905
-design_class:
-  name: Seaview Mermaid
-  id: 9a673351-069a-47f2-bbae-e6f227b56071
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T16:53:41.118736+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Soprano
+- Halluf II
+- Jade

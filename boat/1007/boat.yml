@@ -37,53 +37,47 @@ construction_method: cold_moulded
 construction_details: ' Cold Moulded - 2 layers of khaya + external layer of teak
   over stringers and laminated frames and ply webs. Iroko centre resorcinal glue.
   Ply deck. Very light build akin to an aircraft'
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel sloping forefoot
 sail_number: '1007'
 ssr: '60769'
-callsign: ''
 ownerships:
-- end: 1986
-  name: Nigel and Jean Willimot
-  share: 64
+- name: Nigel and Jean Willimot
   start: 1974
-- end: 1999
-  name: Arthur Holt
+  end: 1986
   share: 64
+- name: Arthur Holt
   start: 1986
-- id: 332
+  end: 1999
   share: 64
+- member: 3831
+  id: 332
   start: 1999
-  member: 3831
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: d751add7-7152-4af1-ad2f-c84093c1507e
 image_key: LBJBjj
 thumb: https://photos.smugmug.com/photos/i-P2vMtfd/0/Th/i-P2vMtfd-Th.jpg
-draft: 0.8382
 handicap_data:
-  beam: 2.2352353084613505
+  thcf: 1.032
+  beam: 2.2342
+  draft: 0.8382
+  fore_triangle_height: 10.287143379663496
+  fore_triangle_base: 4.57205559619605
+  length_over_all: 10.972933430870519
+  sailarea: 38.88957309782196
   main:
     foot: 3.0226591075347478
     head: 2.2098329675688855
     luff: 5.7912704218483295
-  thcf: 1.032
-  draft: 1.9812362838332114
   mizzen:
     foot: 1.3208241892221408
     head: 0.8382284808583271
     luff: 2.5908436966593515
-  sailarea: 38.88957309782196
-  length_over_all: 10.972933430870519
   length_over_spars: 13.106559375762009
-  fore_triangle_base: 4.57205559619605
   length_on_waterline: 10.36332601804438
-  fore_triangle_height: 10.287143379663496
-length_on_deck: 10.9728
-beam: 2.2342
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.9728
+created_at: '2020-04-25T16:58:28.077165+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

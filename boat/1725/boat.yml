@@ -49,6 +49,9 @@ year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+design_class:
+  name: Tamarisk 24
+  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
 builder:
   name: North Cornwall Marine
   id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
@@ -57,7 +60,7 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP hull, ply/timber topsides
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Itchenor
@@ -66,51 +69,45 @@ sail_number: PB
 ssr: '61019'
 callsign: MLED
 ownerships:
-- end: 2014
-  name: DG and AJ Lovelock
-  share: 64
+- name: DG and AJ Lovelock
   start: 2007
-- id: 1009
-  share: 32
+  end: 2014
+  share: 64
+- member: 6247
+  id: 1009
   start: 2014
-  member: 6247
-  current: true
-- id: 34663
   share: 32
-  start: 2014
-  member: 6247
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+- member: 6247
+  id: 34663
+  start: 2014
+  share: 32
+  current: true
 id: 2368ca5d-bb19-4580-a0f4-f6da9e65f1a9
-previous_names:
-- Puffin Too
-- Puffin Bac
 image_key: NTjRcP
 thumb: https://photos.smugmug.com/photos/i-LB8G7Xf/0/Th/i-LB8G7Xf-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.894214962
+  beam: 2.4384
+  draft: 0.9144
+  fore_triangle_height: 7.162899292855401
+  fore_triangle_base: 4.038655206047305
+  length_over_all: 7.264508656425262
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 3.810058522311631
     head: 2.7432333577176298
     luff: 5.334077054376981
-  thcf: 0.894214962
-  draft: 0.9144111192392099
   topsail:
     luff: 3.149646427700561
     perpendicular: 1.8796269202633504
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.264508656425262
   length_over_spars: 9.1441111923921
-  fore_triangle_base: 4.038655206047305
   length_on_waterline: 6.4516825164594
-  fore_triangle_height: 7.162899292855401
-length_on_deck: 7.2634
-beam: 2.4384
-design_class:
-  name: Tamarisk 24
-  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.2634
+created_at: '2020-04-25T17:09:16.794955+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Puffin Too
+- Puffin Bac

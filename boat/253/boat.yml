@@ -3,13 +3,15 @@ oga_no: 253
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 80/2  for sale on web Nov 05 see cardex for list of owners
 year: 1939
 year_is_approximate: false
 designer:
   name: Edward Wigfull
   id: 82839c59-e386-42a8-9061-6798451cab74
+design_class:
+  name: Linette Class
+  id: 2e5b0ead-1f1f-43b4-b2e1-6bc925698e55
 builder:
   name: Johnson and Johnson
   id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
@@ -18,44 +20,35 @@ construction_material: wood
 spar_material: wood
 construction_method: unknown
 construction_details: Pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hullbridge Y C
 hull_form: long keel deep forefoot
 reference:
 - Log 80/2
-callsign: ''
 ownerships:
 - name: Cliff S Draycott
-  share: 64
   start: 1983
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 49018e1d-fc01-452b-b7ec-31a8ba679081
 image_key: 3dH2DT
 thumb: https://photos.smugmug.com/photos/i-6PDtvPn/0/Th/i-6PDtvPn-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.787425365
+  beam: 2.286
+  draft: 0.9144
+  fore_triangle_height: 7.010485247500609
+  fore_triangle_base: 4.166666666666666
+  length_over_all: 6.705681541087539
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 2.9718361375274323
     luff: 5.18166300902219
-  thcf: 0.787425365
-  draft: 0.9144111192392099
   topsail:
     luff: 4.26725188978298
     perpendicular: 1.8288222384784198
-  propellor:
-    type: fixed
-  length_over_all: 6.705681541087539
-  fore_triangle_base: 4.166666666666666
-  fore_triangle_height: 7.010485247500609
-length_on_deck: 6.7056
-beam: 2.286
-design_class:
-  name: Linette Class
-  id: 2e5b0ead-1f1f-43b4-b2e1-6bc925698e55
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T16:46:08.2167+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

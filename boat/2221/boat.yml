@@ -19,42 +19,36 @@ place_built: Arnside
 construction_material: wood
 construction_method: carvel
 construction_details: Larch carvel on sawn oak, iron ballast keel, cl prop.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2005
-  name: Jon Wainwright
-  share: 64
+- name: Jon Wainwright
   start: 1997
-- id: 526
+  end: 2005
   share: 64
+- member: 4832
+  id: 526
   start: 2005
-  member: 4832
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 8b32da5d-367e-462e-90aa-6fadd120e4a5
 image_key: KbB98d
 thumb: https://photos.smugmug.com/photos/i-DWm2b62/0/Th/i-DWm2b62-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.43842965130456
+  beam: 2.4384
+  draft: 1.2192
+  fore_triangle_height: 6.909900024384297
+  fore_triangle_base: 5.18166300902219
+  length_over_all: 7.620092660326749
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 3.758229700073153
     luff: 3.886247256766642
-  draft: 1.21921482565228
-  propellor:
-    type: fixed
-  length_over_all: 7.620092660326749
-  fore_triangle_base: 5.18166300902219
   length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 6.909900024384297
-length_on_deck: 7.62
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T17:16:47.505943+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

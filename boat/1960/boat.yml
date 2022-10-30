@@ -3,8 +3,6 @@ oga_no: 1960
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1995
 year_is_approximate: false
 designer:
@@ -16,38 +14,32 @@ builder:
 place_built: Mylor Bridge / Plymouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Newton Ferrers
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Chris Daykin
-  share: 64
   start: 1995
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 5b4eabc7-503c-4b41-a405-42ef14484bb6
-draft: 1.143
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.871955344
+  beam: 2.1336
+  draft: 1.143
+  fore_triangle_height: 5.7912704218483295
+  fore_triangle_base: 4.26725188978298
+  length_over_all: 6.2484759814679345
+  propellor:
+    type: fixed
   main:
     foot: 3.910631553279688
     head: 3.2766398439405022
     luff: 3.5052426237503047
-  thcf: 0.871955344
-  draft: 1.1430138990490124
   topsail:
     luff: 2.7676176542306754
     perpendicular: 1.7282370153621067
-  propellor:
-    type: fixed
-  length_over_all: 6.2484759814679345
-  fore_triangle_base: 4.26725188978298
   length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 5.7912704218483295
-length_on_deck: 6.2484
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.2484
+created_at: '2020-04-25T17:12:54.142067+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -24,6 +24,9 @@ year_is_approximate: false
 designer:
   name: A.R. Curjel
   id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
+design_class:
+  name: Deben Cherub
+  id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
 builder:
   name: Everson A. and Sons
   id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
@@ -32,67 +35,46 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel larch  above waterline, a pitch pine below. Steamed Oak
   ribs,  & cast iron keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Scillies
 hull_form: unknown
 reference:
 - From Gaffer's Log 74-4
 sail_number: CC7
-callsign: ''
 ownerships:
-- note: pre 1987 Mr Aitkin
+- start: 1987
+  note: pre 1987 Mr Aitkin
   text: pre
-  start: 1987
-  start_is_approximate: false
-- end: 1989
+- start: 1987
+  end: 1989
   note: 1987-1989 Aidan de la Mare
   text: Aidan de la Mare
-  start: 1987
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1997
+- start: 1989
+  end: 1997
   note: 1989-1997 Norma Ashun
   text: Norma Ashun
-  start: 1989
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 2016
-  name: Dominic Walsh-Newton
-  share: 64
+- name: Dominic Walsh-Newton
   start: 2001
-- note: 2001-? Dominic Walsh-Newton
+  end: 2016
+  share: 64
+- start: 2001
+  note: 2001-? Dominic Walsh-Newton
   text: Dominic Walsh-Newton
-  start: 2001
-  start_is_approximate: false
 - name: James Vickers-Fletcher
-  share: 64
   start: 2016
-- note: James Fletcher owns her in 2019
-  text: James Fletcher owns her in
-  start: 2019
-  start_is_approximate: false
-- id: 34596
   share: 64
-  member: 6360
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+- start: 2019
+  note: James Fletcher owns her in 2019
+  text: James Fletcher owns her in
 id: 181898c5-5646-41fe-b016-f6c593a00b59
 image_key: gwKVRf
 thumb: https://photos.smugmug.com/photos/i-W7nZv4c/0/Th/i-W7nZv4c-Th.jpg
-draft: 0.8382
 handicap_data:
-  beam: 2.13362594489149
-  draft: 0.8382101926359424
+  beam: 2.1336
+  draft: 0.8382
   length_over_all: 6.4008778346744695
   length_on_waterline: 5.18166300902219
-length_on_deck: 6.4008
-beam: 2.1336
-design_class:
-  name: Deben Cherub
-  id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4008
+created_at: '2020-04-25T16:52:56.04883+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

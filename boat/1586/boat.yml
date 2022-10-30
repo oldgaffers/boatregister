@@ -25,45 +25,32 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel on steamed frames, iron keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Conwy
 hull_form: unknown
 sail_number: LL1
-callsign: ''
 ownerships:
-- end: 2000
-  name: Andy Williams
+- name: Andy Williams
+  end: 2000
   share: 64
-  end_is_approximate: true
-- end: 2014
-  name: Mike Griffiths
-  share: 64
+- name: Mike Griffiths
   start: 2000
-  start_is_approximate: true
-- end: 2015
-  name: Alex Griffiths
+  end: 2014
   share: 64
+- name: Alex Griffiths
   start: 2014
-- id: 34930
+  end: 2015
   share: 64
-  start: 2015
-  member: 6310
-  current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 4be7144b-d87a-4a2a-b702-a69c88be815a
-previous_names:
-- Tern
 image_key: bR7Gcx
 thumb: https://photos.smugmug.com/photos/i-9sgxWsZ/0/Th/i-9sgxWsZ-Th.jpg
-draft: 1.3716166788588149
 handicap_data:
-  beam: 3.2004389173372347
-  length_on_deck: 10.0584
+  draft: 1.3716166788588149
   length_over_all: 10.05852231163131
-length_on_deck: 10.0584
-beam: 0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.0584
+created_at: '2020-04-25T17:07:13.948874+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Tern

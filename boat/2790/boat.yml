@@ -3,8 +3,6 @@ oga_no: 2790
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2006
 year_is_approximate: false
 designer:
@@ -17,36 +15,31 @@ place_built: Usquert
 construction_material: aluminium
 construction_method: unknown
 construction_details: Welded alumimium, Oregon pine spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Usquert
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Pieter Dijkstra
-  share: 64
   start: 2006
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 9cdef249-6edc-4fdd-afd7-fbd74cd28922
-draft: 0.6005
 handicap_data:
-  beam: 2.051328944159961
+  thcf: 0.868772492
+  beam: 2.0513
+  draft: 0.6005
+  fore_triangle_height: 5.40020726652036
+  fore_triangle_base: 3.7003169958546698
+  length_over_all: 6.199707388441843
   main:
     foot: 3.3894172153133377
     head: 3.176054620824189
     luff: 3.880151182638381
-  thcf: 0.868772492
-  draft: 0.6004633016337478
   topsail:
     luff: 3.980736405754694
     perpendicular: 1.7495732748110218
-  length_over_all: 6.199707388441843
-  fore_triangle_base: 3.7003169958546698
   length_on_waterline: 5.498658863691782
-  fore_triangle_height: 5.40020726652036
-length_on_deck: 6.1996
-beam: 2.0513
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.1996
+created_at: '2020-04-25T17:27:13.779329+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

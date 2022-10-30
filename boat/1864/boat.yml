@@ -21,44 +21,39 @@ place_built: Golant
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch Pine on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Helford
 hull_form: long keel deep forefoot
 uk_part1: '722479'
-callsign: ''
 ownerships:
-- id: 100
-  share: 64
+- member: 1830
+  id: 100
   start: 1992
-  member: 1830
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 89c7d736-5ea9-4b54-8062-782036d7c092
 image_key: Zng8dB
 thumb: https://photos.smugmug.com/photos/i-4GbzGLL/0/Th/i-4GbzGLL-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.951
+  beam: 2.7127
+  draft: 1.3716
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 4.87685930260912
+  length_over_all: 8.22970007315289
+  propellor:
+    type: fixed
+  sailarea: 51.4695358915023
   main:
     foot: 5.029261155815655
     head: 3.7094611070470616
     luff: 5.18166300902219
-  thcf: 0.951
-  draft: 1.3716166788588149
   topsail:
     luff: 5.029261155815655
     perpendicular: 2.286027798098025
-  sailarea: 51.4695358915023
-  propellor:
-    type: fixed
-  length_over_all: 8.22970007315289
-  fore_triangle_base: 4.87685930260912
   length_on_waterline: 7.802974884174591
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 8.321
-beam: 2.7127
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.321
+created_at: '2020-04-25T17:11:23.026083+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

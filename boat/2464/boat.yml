@@ -27,49 +27,38 @@ construction_material: wood
 construction_method: carvel
 construction_details: Larch carvel on sawn oak, transom ended counter, else typical
   nobby build
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Fleetwood
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- note: 1939 Lloyds Register of Yachts lists 'Nanette' as being owned by Granville
+- start: 1939
+  note: 1939 Lloyds Register of Yachts lists 'Nanette' as being owned by Granville
     Tunstall, Fleetwood. In 1950 and 1960, the owner is still Granville Tunstall but
     she's listed as being at St Mawes.
   text: Lloyds Register of Yachts lists 'Nanette' as being owned by Granville Tunstall,
     Fleetwood. In
-  start: 1939
-  start_is_approximate: false
 - name: Peter Kennerley
-  share: 64
   start: 1999
-- id: 521
   share: 64
-  member: 4804
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 5effef66-faf4-47da-ad6e-6a63ff13dac2
 image_key: 6DgQ6w
 thumb: https://photos.smugmug.com/photos/i-KkmzpbL/0/Th/i-KkmzpbL-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.91406834
+  beam: 2.4384
+  draft: 1.3716
+  fore_triangle_height: 6.705681541087539
+  fore_triangle_base: 4.724457449402585
+  length_over_all: 7.924896366739819
+  propellor:
+    type: folding
   main:
     foot: 5.257863935625457
     head: 3.931967812728603
     luff: 3.627164106315533
-  thcf: 0.91406834
-  draft: 1.3716166788588149
-  propellor:
-    type: folding
-  length_over_all: 7.924896366739819
-  fore_triangle_base: 4.724457449402585
   length_on_waterline: 6.705681541087539
-  fore_triangle_height: 6.705681541087539
-length_on_deck: 7.9248
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9248
+created_at: '2020-04-25T17:21:08.563501+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

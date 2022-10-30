@@ -3,30 +3,28 @@ oga_no: 3209
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1977
 year_is_approximate: false
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferrocement
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Burnham on Crouch
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- id: 185
-  share: 64
+- member: 2758
+  id: 185
   start: 2000
-  member: 2758
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 86f04b90-8c4a-4f27-b7ed-9333b6d61cee
-draft: 1.271
 handicap_data:
+  beam: 3.557
+  draft: 1.271
+  fore_triangle_height: 15.3924
+  fore_triangle_base: 7.681
   main:
     foot: 17
     luff: 45.5
@@ -39,10 +37,7 @@ handicap_data:
   calculated_thcf: 1.07
   draft_keel_down: 2.1854
   moving_keel_type: Centreboard
-  fore_triangle_base: 7.681
   length_on_waterline: 9.7536
-  fore_triangle_height: 15.3924
-length_on_deck: 14.0208
-beam: 3.557
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 14.0208
+created_at: '2020-04-25T17:46:23.98544+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 7016
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
 full_description: See form for class data List of owners from Blue Book on file Structure
   90% original, Stuart Turner 8HP twin replaced C 1974.  Not now owned by member.
 year: 1961
@@ -11,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Raymond Wall
   id: 4fabdce6-d282-4054-aeff-3f205d2b25ca
+design_class:
+  name: Wivenhoe Tomahawk
+  id: 8479184d-d67c-4570-ac1f-12333e2c4cb3
 builder:
   name: Guy Harding
   id: 9ab4b0bf-c736-40a7-814e-9904120644f7
@@ -18,34 +20,24 @@ place_built: Colne Marine Wivenhoe
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch Pine & Mahogany Carvel on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 uk_part1: '303124'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 279d2214-e2bb-49a8-98c8-04486066f661
-draft: 1.3716
 handicap_data:
-  beam: 2.5146305779078273
+  thcf: 0.884544219
+  beam: 2.5146
+  draft: 1.3716
+  fore_triangle_height: 8.025481589856131
+  fore_triangle_base: 3.0480370641306997
+  length_over_all: 8.22970007315289
+  propellor:
+    type: fixed
   main:
     foot: 3.6576444769568397
     luff: 8.686905632772493
-  thcf: 0.884544219
-  draft: 1.3716166788588149
-  propellor:
-    type: fixed
-  length_over_all: 8.22970007315289
-  fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.4008778346744695
-  fore_triangle_height: 8.025481589856131
-length_on_deck: 8.2296
-beam: 2.5146
-design_class:
-  name: Wivenhoe Tomahawk
-  id: 8479184d-d67c-4570-ac1f-12333e2c4cb3
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.2296
+created_at: '2020-04-25T17:41:47.199486+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,13 +3,14 @@ oga_no: 1943
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1991
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Shrimper
+  id: 7caf07ef-acf3-434b-a639-5c94188071a8
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -18,42 +19,32 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: centre-boarder
 sail_number: '466'
-callsign: ''
 ownerships:
 - name: Peter Brannen
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 50dfa0df-da6a-4bcb-8f5e-38e771fffd75
-draft: 0.4816
 handicap_data:
-  beam: 2.1844306266764204
+  thcf: 0.821
+  beam: 2.1854
+  draft: 0.4816
+  fore_triangle_height: 4.648262618873445
+  fore_triangle_base: 2.540039014874421
+  length_over_all: 5.867477444525725
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 18.409783229046667
   main:
     foot: 3.505254815898561
     head: 3.09884174591563
     luff: 3.3528407705437697
-  thcf: 0.821
-  draft: 0.48262009266032674
-  sailarea: 18.409783229046667
-  propellor:
-    type: fixed
-    blades: 3
   draft_keeldown: 1.21921482565228
-  length_over_all: 5.867477444525725
-  fore_triangle_base: 2.540039014874421
   length_on_waterline: 5.334077054376981
-  fore_triangle_height: 4.648262618873445
-length_on_deck: 5.8826
-beam: 2.1854
-design_class:
-  name: Cornish Shrimper
-  id: 7caf07ef-acf3-434b-a639-5c94188071a8
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.8826
+created_at: '2020-04-25T17:12:38.588761+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

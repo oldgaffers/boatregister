@@ -21,53 +21,47 @@ place_built: Lymington
 construction_material: wood
 construction_method: carvel
 construction_details: carvel wood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Christchurch
 hull_form: cut_away_stem
 sail_number: '3'
-callsign: ''
 ownerships:
 - end: 33
   note: '''Ianthe'' was owned for 33 years, 1916 - 1949, by Melville Druit, Commodore
     of the Christchurch Sailing Club.'
   text: '''Ianthe'' was owned for'
-  end_is_approximate: false
-- end: 1949
-  name: Melville Druitt
-  share: 64
+- name: Melville Druitt
   start: 1916
-- id: 113
+  end: 1949
   share: 64
+- member: 1950
+  id: 113
   start: 1987
-  member: 1950
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 4cd239ff-2317-47e5-b293-ef60d85d1706
 image_key: m9CWHR
 thumb: https://photos.smugmug.com/photos/i-TmhBjbt/0/Th/i-TmhBjbt-Th.jpg
-draft: 0.6096
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.906
+  beam: 2.1336
+  draft: 0.6096
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 3.0480370641306997
+  length_over_all: 7.315288953913679
+  sailarea: 28.74238945093315
   main:
     foot: 4.87685930260912
     head: 3.3528407705437697
     luff: 3.505254815898561
-  thcf: 0.906
-  draft: 0.60960741282614
   topsail:
     luff: 3.0480370641306997
     perpendicular: 1.9812362838332114
-  sailarea: 28.74238945093315
   draft_keeldown: 1.6764325774201414
-  length_over_all: 7.315288953913679
   length_over_spars: 8.38211411850768
-  fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 7.3152
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:15:13.300123+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 2227
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
 full_description: Final version of whaler derived from the 27 foot Montague whaler
 year: 1949
 year_is_approximate: false
@@ -14,37 +13,31 @@ place_built: Portsmouth
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Gosport
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Dominic Loughborough
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 07d8a53d-b8cc-4dbd-99ee-95df42227a45
-draft: 0.4054
 handicap_data:
-  beam: 2.2098268714947573
+  thcf: 0.909982946
+  beam: 2.2098
+  draft: 0.4054
+  fore_triangle_height: 6.4008778346744695
+  fore_triangle_base: 2.590831504511095
+  length_over_all: 8.22970007315289
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 3.148622287247013
     head: 6.019873201658132
     luff: 2.7676176542306754
-  thcf: 0.909982946
-  draft: 0.4053889295293831
-  propellor:
-    type: fixed
-    blades: 3
   draft_keeldown: 1.3716166788588149
-  length_over_all: 8.22970007315289
-  fore_triangle_base: 2.590831504511095
   length_on_waterline: 7.519507437210437
-  fore_triangle_height: 6.4008778346744695
-length_on_deck: 8.2296
-beam: 2.2098
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.2296
+created_at: '2020-04-25T17:16:53.407348+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

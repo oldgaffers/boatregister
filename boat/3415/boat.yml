@@ -29,58 +29,71 @@ place_built: Maldon
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel, Pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 3000
+- created_at: '2020-01-02T13:03:54+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>\"Betsy\" is a Walter Easton Designed 30ft Yawl. Built at Cooks\
+    \ Boatyard Maldon 1930. 30 ft overall carvel planked pitch pine on oak timbers.</p><p>Long\
+    \ keel with a canoe stern and Bermudan yawl cutter rigged. At present laid up\
+    \ afloat, unrigged and in the process of refit/restoration.</p><p>Fitted with\
+    \ a BETA BD 1005 three cylinder 1001 cc 28 hp diesel engine. The long iron keel\
+    \ is bolted up under her. Internally the boat has been stripped out in preparation\
+    \ for refit.</p><p>Sails are ashore safely stowed and also various smaller spars,\
+    \ tiller and bowsprit etc. Wire standing rigging stowed ashore. Various other\
+    \ items of equipment have also been taken ashore for safety/stowage.</p><p>L.O.A.\
+    \ 30 ft L.W.L. 26ft. Beam 8ft 6ins. Draft 4ft 6ins. Displacement 7 Ton.</p><p>As\
+    \ noted the yacht is presently laid up afloat but under cover on deck and in a\
+    \ safe/secure alongside berth readily accessible at all times.</p><p>The asking\
+    \ price as is in the region of \xA33000&nbsp;but open to sensible offers or a\
+    \ possible part exchange for a small day boat.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: <p>&quot;Betsy&quot; is a Walter Easton Designed 30ft Yawl. Built at Cooks
+    Boatyard Maldon 1930. 30 ft overall carvel planked pitch pine on oak timbers.</p>
+  updated_at: '2020-05-03T10:13:12.769223+00:00'
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- note: 'Built for Major Blewitt in 1930, he kept her for 4 years. She was then owned
+- start: 1930
+  note: 'Built for Major Blewitt in 1930, he kept her for 4 years. She was then owned
     by the Royal Artillery Yacht Club from 1935- 1947, and sold on to  Major Grimshaw
     in 1948. '
   text: Built for Major Blewitt in
-  start: 1930
-  start_is_approximate: false
-- end: 1956
+- start: 1950
+  end: 1956
   note: 1950-6 she was owned by Major A D G Braithwaite, RA
   text: she was owned by Major A D G Braithwaite, RA
-  start: 1950
-  end_is_approximate: false
-  start_is_approximate: false
-- note: 1957 Walter E Smith
+- start: 1957
+  note: 1957 Walter E Smith
   text: Walter E Smith
-  start: 1957
-  start_is_approximate: false
-- end: 1973
+- start: 1958
+  end: 1973
   note: 1958-73 A J  Ratcliffe
   text: A J  Ratcliffe
-  start: 1958
-  end_is_approximate: false
-  start_is_approximate: false
-- note: 1974 T K Johnson
+- start: 1974
+  note: 1974 T K Johnson
   text: T K Johnson
-  start: 1974
-  start_is_approximate: false
-- note: 1980 G.Ormrod
+- start: 1980
+  note: 1980 G.Ormrod
   text: G.Ormrod
-  start: 1980
-  start_is_approximate: false
-- end: 2019
-  name: Ian Kemp
-  share: 64
+- name: Ian Kemp
   start: 2010
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2019
+  share: 64
 id: cdcfeadf-4d10-4777-bf33-7c81de93005b
 image_key: TZ8tCX
 thumb: https://photos.smugmug.com/photos/i-mvV9rsp/0/Th/i-mvV9rsp-Th.jpg
-draft: 1.3716
 handicap_data:
+  beam: 2.5908
+  draft: 1.3716
   length_overall: 9.144
   length_on_waterline: 7.9248
-length_on_deck: 9.144
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:53:59.791043+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -26,51 +26,46 @@ place_built: Portmellon Mevagissey
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch Pine on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel deep forefoot
 sail_number: PZ61
-callsign: ''
 ownerships:
-- note: 'Sold to John Orchard of Porthleven in 1935. After the Second World War, she
+- start: 1935
+  note: 'Sold to John Orchard of Porthleven in 1935. After the Second World War, she
     was sold to Jack Siley, chairman of Falmouth Docks. '
   text: Sold to John Orchard of Porthleven in
-  start: 1935
-  start_is_approximate: false
-- id: 191
-  share: 64
+- member: 2790
+  id: 191
   start: 1963
-  member: 2790
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: b47768dd-a361-420f-b971-54dace80382a
-previous_names:
-- Westward
 image_key: fMkpB6
 thumb: https://photos.smugmug.com/photos/i-CXPCx36/0/Th/i-CXPCx36-Th.jpg
-draft: 1.524
 handicap_data:
+  thcf: 0.97
   beam: 4.1148
+  draft: 1.524
+  fore_triangle_height: 5.1816
+  fore_triangle_base: 2.1336
+  length_over_all: 11.5824
+  propellor:
+    type: fixed
+  sailarea: 57.3
   main:
     foot: 3.9116
     head: 3.556
     luff: 7.0104
-  thcf: 0.97
   mizzen:
     foot: 3.9116
     head: 3.5052
     luff: 6.096
-  sailarea: 57.3
-  propellor:
-    type: fixed
-  length_over_all: 11.5824
-  fore_triangle_base: 2.1336
   length_on_waterline: 11.2776
-  fore_triangle_height: 5.1816
-length_on_deck: 11.5824
-beam: 4.1148
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.5824
+created_at: '2020-04-25T17:05:58.79203+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Westward

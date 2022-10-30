@@ -16,6 +16,9 @@ year_is_approximate: false
 designer:
   name: Peter Milne
   id: ceddb655-e672-47b1-9c73-ad7a0388f102
+design_class:
+  name: Ridgeway Marine Skipper
+  id: cc0c6ea3-2167-4343-9563-a8aaadfc51ec
 builder:
   name: Anderson Rigden and Perkins
   id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
@@ -23,35 +26,26 @@ place_built: Whitstable Kent
 construction_material: wood
 construction_method: cold_moulded
 construction_details: grp
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Port Clywedog Sailing Club  Llanidloes, Powys.
 hull_form: long keel deep forefoot
 sail_number: '582'
 ssr: '27763'
-callsign: ''
 ownerships:
 - note: Previous owner Geoff Weller.
   text: Previous owner Geoff Weller.
 - name: David Williams
-  share: 64
   start: 2011
-- share: 64
-  member: 5129
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: http://myweb.tiscali.co.uk/skipper17/
 id: cb65f536-63ef-490a-82f4-834a25f0929d
-previous_names:
-- Erk
-- Macaroo
-- Waz.
 image_key: 2SG6kt
 thumb: https://photos.smugmug.com/photos/i-NR6nZrD/0/Th/i-NR6nZrD-Th.jpg
-draft: 0.381
 handicap_data:
+  beam: 2.1397
+  draft: 0.381
   sailarea: 1
   moving_keel: true
   draft_keel_up: 0.381
@@ -59,10 +53,10 @@ handicap_data:
   draft_keel_down: 1.2192
   moving_keel_type: Centreboard
   length_on_waterline: 4.569
-length_on_deck: 5.1786
-beam: 2.1397
-design_class:
-  name: Ridgeway Marine Skipper
-  id: cc0c6ea3-2167-4343-9563-a8aaadfc51ec
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1786
+created_at: '2020-04-25T17:47:01.800309+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Erk
+- Macaroo
+- Waz.

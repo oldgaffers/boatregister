@@ -3,7 +3,6 @@ oga_no: 1489
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Based on Ballyholm YC Insect Class. This YC allowed Strangford Lough
   YC to build a few similar boats as long as they were out of class. Damsel is 3"
   too long.
@@ -19,35 +18,28 @@ place_built: Groomsport Co Down
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker Larch
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: C Rosbotham
-  share: 64
   start: 1992
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a1fbb7d4-e297-4f72-acfd-aa275ae9c425
-previous_names:
-- Moth
-draft: 0.1524
 handicap_data:
-  beam: 1.6002194586686174
+  thcf: 0.772689557
+  beam: 1.6002
+  draft: 0.1524
+  fore_triangle_height: 3.6576444769568397
+  fore_triangle_base: 1.6520360887588392
+  length_over_all: 4.343452816386247
   main:
     foot: 2.7432333577176298
     head: 3.5052426237503047
     luff: 1.6764203852718849
-  thcf: 0.772689557
-  draft: 0.152401853206535
-  length_over_all: 4.343452816386247
-  fore_triangle_base: 1.6520360887588392
   length_on_waterline: 4.191050963179712
-  fore_triangle_height: 3.6576444769568397
-length_on_deck: 4.3434
-beam: 1.6002
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.3434
+created_at: '2020-04-25T17:05:45.032551+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Moth

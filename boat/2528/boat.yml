@@ -3,7 +3,6 @@ oga_no: 2528
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Lost in the Solent, May 2005.  Was one of five remaining. Her owner
   has rebuilt her from a wreck.
 year: 1898
@@ -11,45 +10,40 @@ year_is_approximate: false
 designer:
   name: Charles E. Nicholson
   id: f97b2d74-8535-4ed5-8602-651d2ca2898f
+design_class:
+  name: Bembridge Redwing
+  id: c2682956-21fb-4f51-9227-c36bc9e9f69c
 builder:
   name: Camper and Nicholson Ltd.
   id: 83a839af-b960-4cce-a881-b4401432846c
 place_built: Gosport
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hamble
 hull_form: unknown
 sail_number: '15'
-callsign: ''
 ownerships:
 - name: Nick Buxton
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 3c45e40e-3724-4c15-b1f2-315cb48285cd
-previous_names:
-- Erynx
-- Coot
-draft: 0.89
 handicap_data:
+  thcf: 0.869037314
   beam: 1.6764
+  draft: 0.89
+  fore_triangle_height: 3.048
+  fore_triangle_base: 1.4722
+  length_over_all: 6.7269
   main:
     foot: 4.8768
     head: 4.4958
     luff: 1.9995
-  thcf: 0.869037314
-  length_over_all: 6.7269
-  fore_triangle_base: 1.4722
   length_on_waterline: 4.8768
-  fore_triangle_height: 3.048
-length_on_deck: 6.7269
-beam: 1.6764
-design_class:
-  name: Bembridge Redwing
-  id: c2682956-21fb-4f51-9227-c36bc9e9f69c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7269
+created_at: '2020-04-25T17:22:07.696731+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Erynx
+- Coot

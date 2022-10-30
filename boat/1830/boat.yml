@@ -3,7 +3,6 @@ oga_no: 1830
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 89/3, Au/93. Jun 2010 log for sale p. 49
 year: 1980
 year_is_approximate: false
@@ -17,39 +16,32 @@ place_built: Heybridge
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel on laminated frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 89/3
 - Log Aug 93
 - Log Jun 2010 p. 49
-callsign: ''
 ownerships:
 - name: M C R Emmett
-  share: 64
   start: 1980
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: b9376684-ae34-401b-ab75-feb58da13a2b
-draft: 1.2192
 handicap_data:
-  beam: 3.5052426237503047
+  thcf: 0.979890761
+  beam: 3.5052
+  draft: 1.2192
+  fore_triangle_height: 7.010485247500609
+  fore_triangle_base: 7.467690807120214
+  length_over_all: 9.957937088514996
+  propellor:
+    type: fixed
   main:
     foot: 7.010485247500609
     head: 5.334064862228725
     luff: 5.18166300902219
-  thcf: 0.979890761
-  draft: 1.21921482565228
-  propellor:
-    type: fixed
-  length_over_all: 9.957937088514996
-  fore_triangle_base: 7.467690807120214
   length_on_waterline: 9.44891489880517
-  fore_triangle_height: 7.010485247500609
-length_on_deck: 9.9578
-beam: 3.5052
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.9578
+created_at: '2020-04-25T17:10:52.75853+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

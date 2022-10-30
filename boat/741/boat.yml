@@ -3,13 +3,14 @@ oga_no: 741
 generic_type: Bawley
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1976
 year_is_approximate: false
 designer:
   name: Alan F. Hill
   id: 6541e39a-cf4e-4abf-9c13-0e8750af27d7
+design_class:
+  name: Thames Estuary OD
+  id: 2bba407e-7ddd-42fa-ad7c-b3807aeb5275
 builder:
   name: Ferrocement Services
   id: bdb242d0-d59c-4439-8216-f92469012004
@@ -17,41 +18,29 @@ place_built: Burnham on Crouch
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferrocement
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2016
-  name: J Nicholls
-  share: 64
+- name: J Nicholls
   start: 1988
-- name: Arthur Petrie
+  end: 2016
   share: 64
+- name: Arthur Petrie
   start: 2016
-- share: 64
-  member: 6094
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: d6e6012b-7d84-475d-a8b8-a0947b1ca525
-previous_names:
-- My Pet
 image_key: 5LLRfT
 thumb: https://photos.smugmug.com/photos/i-bJVbXk9/0/Th/i-bJVbXk9-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 3.6576444769568397
-  draft: 1.3716166788588149
+  beam: 3.6576
+  draft: 1.3716
   length_over_all: 10.05852231163131
   length_on_waterline: 9.906120458424773
-length_on_deck: 10.0584
-beam: 3.6576
-design_class:
-  name: Thames Estuary OD
-  id: 2bba407e-7ddd-42fa-ad7c-b3807aeb5275
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.0584
+created_at: '2020-04-25T16:53:35.788221+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- My Pet

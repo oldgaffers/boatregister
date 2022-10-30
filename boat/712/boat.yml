@@ -3,7 +3,6 @@ oga_no: 712
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Developed from Eventide similar to Golden Hynde
 year: 1976
 year_is_approximate: false
@@ -18,38 +17,31 @@ construction_material: wood
 construction_method: double_diagonal
 construction_details: Double chine, double diagonal larch planking on oak frames triple
   keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: D W Murray
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 8e88eb77-e9e4-4a73-ae5e-8f324bbf352c
-previous_names:
-- Cirrus
-draft: 0.9906
 handicap_data:
-  beam: 2.4628139478176054
+  thcf: 0.949708398
+  beam: 2.4628
+  draft: 0.9906
+  fore_triangle_height: 8.610704706169226
+  fore_triangle_base: 4.343452816386247
+  length_over_all: 8.305900999756156
   main:
     foot: 4.754937820043891
     head: 3.8405267008046815
     luff: 4.471470373079736
-  thcf: 0.949708398
-  draft: 0.9906120458424774
   topsail:
     luff: 4.87685930260912
     perpendicular: 2.094001463057791
-  length_over_all: 8.305900999756156
-  fore_triangle_base: 4.343452816386247
   length_on_waterline: 7.010485247500609
-  fore_triangle_height: 8.610704706169226
-length_on_deck: 8.3058
-beam: 2.4628
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.3058
+created_at: '2020-04-25T16:53:08.874552+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Cirrus

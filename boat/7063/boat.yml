@@ -14,6 +14,9 @@ year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+design_class:
+  name: Z4 Tonner
+  id: 78e69081-f976-42ea-ba90-9c2f0e9c116c
 builder:
   name: Lockharts
   id: e69b544c-8cef-45b2-b714-a223cabfe05b
@@ -22,45 +25,53 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel Siberian Larch on Oak galvanised steel floors tabernackle
   and framing
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 5000
+- created_at: '2018-10-31T15:49:07+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: '<p>"Zircon" is a Harrison Butler Z4 tonner, built 1938 by Alfred Lockhart
+    of Brentford, Middlesex, no. 25 of the class. LOA: 22" Beam: 7" Draught: 4" Displacement:
+    4 Tons. Bermudan sloop rig of tan terylene sails, jib with W-M furling, Yanmar
+    1GM10 engine, 2 berths, galley, auto-helm, VHF, Simpson Lawrence power winch,
+    covers, warps and fenders, winter legs etc., all included in sale. Removed galvanised
+    pulpit, pushpit and stantions and running backsays are also included.</p>'
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.848794+00:00'
 home_country: GBR
 home_port: Totnes
 hull_form: long keel sloping forefoot
 sail_number: Z25
-callsign: ''
 ownerships:
-- end: 2007
-  name: John Elphinstone
-  share: 64
+- name: John Elphinstone
   start: 0
-- end: 2018
-  name: Ed Allen
+  end: 2007
   share: 64
+- name: Ed Allen
   start: 2007
-- name: Jeff and Lucy Allan
+  end: 2018
   share: 64
+- name: Jeff and Lucy Allan
   start: 2018
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: cb81b0e5-5b58-46ec-bd7d-f057a35cdaa5
 image_key: 7xHQZS
 thumb: https://photos.smugmug.com/photos/i-5PTcptZ/0/Th/i-5PTcptZ-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.1844306266764204
-  draft: 1.21921482565228
+  beam: 2.1854
+  draft: 1.2192
+  length_over_all: 6.705681541087539
   propellor:
     type: fixed
     blades: 3
-  length_over_all: 6.705681541087539
   length_over_spars: 6.705681541087539
   length_on_waterline: 5.7912704218483295
-length_on_deck: 6.7056
-beam: 2.1854
-design_class:
-  name: Z4 Tonner
-  id: 78e69081-f976-42ea-ba90-9c2f0e9c116c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:43:51.271761+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

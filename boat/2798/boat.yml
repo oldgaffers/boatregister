@@ -3,13 +3,14 @@ oga_no: 2798
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2007
 year_is_approximate: false
 designer:
   name: Hope Linton
   id: f238ed22-175a-4b8c-9337-dc58c6619754
+design_class:
+  name: Broads One Design
+  id: 7820d442-c81d-4047-9058-307aba9d4034
 builder:
   name: Kingsley Farrington
   id: 6a3e9e9c-1eea-419a-9417-47a678d6bf11
@@ -17,37 +18,24 @@ place_built: Norwich
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP hull wood spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Suffolk Yacht Harbour, Levington, River Orwell
 hull_form: cut_away_stem
 sail_number: '84'
-callsign: ''
 ownerships:
-- end: 2019
-  name: Ian Young
-  share: 64
+- name: Ian Young
   start: 2007
-- id: 531
+  end: 2019
   share: 64
-  member: 4850
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: bfdf628f-65e6-4139-93ec-7adf34900fd4
-draft: 0.9144
 handicap_data:
-  beam: 1.549420872957815
-  draft: 0.9144111192392099
+  beam: 1.777
+  draft: 0.9144
   length_over_all: 7.315288953913679
   length_over_spars: 7.543910021945867
   length_on_waterline: 4.87685930260912
-length_on_deck: 7.3152
-beam: 1.777
-design_class:
-  name: Broads One Design
-  id: 7820d442-c81d-4047-9058-307aba9d4034
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:27:51.233365+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -32,6 +32,9 @@ year_is_approximate: false
 designer:
   name: Phil Swift
   id: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
+design_class:
+  name: Shilling
+  id: 4df50993-b7ec-4e77-9148-61f82b8e93ed
 builder:
   name: Willow Bay Boats
   id: b0d65e81-46dd-427f-9c2e-b64845d09f63
@@ -40,44 +43,38 @@ construction_material: wood
 construction_method: unknown
 construction_details: Cedar Strip hull with Glass epoxy covering inside and out. Iroko
   keel.Marine Ply frames, deck and cabin.Utile trim. Douglas fir spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: long keel sloping forefoot
 callsign: 2BZX2
 ownerships:
-- id: 593
-  share: 64
+- member: 5143
+  id: 593
   start: 2008
-  member: 5143
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://sailingmargherita.blogspot.co.uk/
 id: e790430b-46aa-46f9-85dc-ca4bde9b737c
 image_key: kXc5hQ
 thumb: https://photos.smugmug.com/photos/i-THr77wk/0/Th/i-THr77wk-Th.jpg
-draft: 0.381
 handicap_data:
-  beam: 2.1305779078273592
+  thcf: 0.872630435
+  beam: 1.9812
+  draft: 0.381
+  fore_triangle_height: 9.299561082662764
+  fore_triangle_base: 2.801146061936113
+  length_over_all: 5.7912704218483295
   main:
     foot: 4.550719336747134
     head: 2.9992684711046085
     luff: 3.5997317727383566
-  thcf: 0.872630435
-  draft: 0.29870763228480857
   topsail:
     luff: 3.980736405754694
     perpendicular: 1.898927090953426
   draft_keeldown: 0.9113630821750792
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 2.801146061936113
   length_on_waterline: 5.480370641306998
-  fore_triangle_height: 9.299561082662764
-length_on_deck: 5.1816
-beam: 1.9812
-design_class:
-  name: Shilling
-  id: 4df50993-b7ec-4e77-9148-61f82b8e93ed
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1816
+created_at: '2020-04-25T17:33:25.512885+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

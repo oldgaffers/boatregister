@@ -4,7 +4,6 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>The last boat built by Bill Wiggins for his own use.</p>
-full_description: ''
 year: 1947
 year_is_approximate: false
 designer:
@@ -18,29 +17,23 @@ construction_material: wood
 construction_method: carvel
 construction_details: Timber double planked Carvel on 1 x1 &quot;oak timbers with
   three grown frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
 sail_number: '729'
-callsign: ''
 ownerships:
-- id: 168
-  share: 64
+- member: 2596
+  id: 168
   start: 1990
-  member: 2596
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 3848ec95-6cd6-4582-a8d9-f287ecc158e1
-draft: 0.9144
 handicap_data:
-  beam: 1.9812240916849548
-  draft: 0.9144111192392099
+  beam: 1.9812
+  draft: 0.9144
   length_over_all: 5.4864667154352595
   length_on_waterline: 5.18166300902219
-length_on_deck: 5.4864
-beam: 1.9812
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T16:53:24.019075+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

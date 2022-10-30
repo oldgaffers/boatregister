@@ -3,13 +3,15 @@ oga_no: 1855
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: CB Jan/Feb 89
 year: 1990
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Yawl
+  id: 37c8b8fe-c896-4244-9076-6b297798ba2e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,41 +19,31 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: T Rhodes
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 069eea5a-7e1e-4a89-bdac-4003a80a4cd6
-draft: 1.3716
 handicap_data:
-  beam: 2.590831504511095
+  thcf: 0.884891097
+  beam: 2.5908
+  draft: 1.3716
+  fore_triangle_height: 7.010485247500609
+  fore_triangle_base: 3.8100463301633747
+  length_over_all: 7.467690807120214
+  propellor:
+    type: fixed
   main:
     foot: 3.9624481833699097
     head: 3.3528407705437697
     luff: 4.87685930260912
-  thcf: 0.884891097
-  draft: 1.3716166788588149
   mizzen:
     foot: 1.8288222384784198
     luff: 4.26725188978298
-  propellor:
-    type: fixed
-  length_over_all: 7.467690807120214
-  fore_triangle_base: 3.8100463301633747
   length_on_waterline: 6.3246769080712015
-  fore_triangle_height: 7.010485247500609
-length_on_deck: 7.4676
-beam: 2.5908
-design_class:
-  name: Cornish Yawl
-  id: 37c8b8fe-c896-4244-9076-6b297798ba2e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.4676
+created_at: '2020-04-25T17:11:14.597957+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

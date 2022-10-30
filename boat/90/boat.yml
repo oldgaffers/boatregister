@@ -3,7 +3,6 @@ oga_no: 90
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: '<p>Log 77/2, 78/1, Undergoing restoration in 2022</p>
 
   <p><br></p>'
@@ -19,41 +18,34 @@ place_built: Clydeside
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Mahogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 77/2
 - Log 78/1
-callsign: ''
 ownerships:
 - name: Bob Long
   current: true
 - name: R K Long
-  share: 64
   start: 1986
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: bf06cf99-521a-4645-966e-bccf4d2a4d7a
-draft: 1.0668
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.982
+  beam: 2.286
+  draft: 1.0668
+  fore_triangle_height: 4.26725188978298
+  fore_triangle_base: 2.43842965130456
+  length_over_all: 7.924896366739819
+  propellor:
+    type: fixed
+  sailarea: 55.05622269267997
   main:
     foot: 5.4864667154352595
     head: 4.26725188978298
     luff: 9.75371860521824
-  thcf: 0.982
-  draft: 1.066812972445745
-  sailarea: 55.05622269267997
-  propellor:
-    type: fixed
-  length_over_all: 7.924896366739819
-  fore_triangle_base: 2.43842965130456
   length_on_waterline: 7.010485247500609
-  fore_triangle_height: 4.26725188978298
-length_on_deck: 7.9248
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9248
+created_at: '2020-04-25T16:43:48.084274+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

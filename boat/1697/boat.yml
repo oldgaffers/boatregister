@@ -3,7 +3,6 @@ oga_no: 1697
 generic_type: unknown
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Log Jun/97
 year: 1893
 year_is_approximate: false
@@ -17,43 +16,36 @@ place_built: Fredrikhavn
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel planked Oak on oak, doubd diag epoxy & Hardwood in 1989
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel sloping forefoot
 reference:
 - Log Jun 97
 uk_part1: '701526'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ba0eb969-9773-48fe-bd10-fbbfc715c934
-previous_names:
-- Nyholmstrand
-draft: 2.6975
 handicap_data:
-  beam: 5.212143379663497
+  thcf: 1.191618474
+  beam: 5.2121
+  draft: 2.6975
+  fore_triangle_height: 11.582540843696659
+  fore_triangle_base: 10.05852231163131
+  length_over_all: 16.748963667398197
+  propellor:
+    type: folding
   main:
     foot: 6.5532796878810045
     head: 5.9436722750548645
     luff: 15.240185320653499
-  thcf: 1.191618474
-  draft: 2.697512801755669
+  topsail:
+    luff: 6.705681541087539
+    perpendicular: 4.57205559619605
   mizzen:
     foot: 4.419653742989515
     head: 3.3528407705437697
     luff: 12.192148256522799
-  topsail:
-    luff: 6.705681541087539
-    perpendicular: 4.57205559619605
-  propellor:
-    type: folding
-  length_over_all: 16.748963667398197
-  fore_triangle_base: 10.05852231163131
   length_on_waterline: 15.240185320653499
-  fore_triangle_height: 11.582540843696659
-length_on_deck: 16.7488
-beam: 5.2121
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 16.7488
+created_at: '2020-04-25T17:08:51.523783+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Nyholmstrand

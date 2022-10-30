@@ -258,28 +258,21 @@ year_is_approximate: false
 place_built: Cowes
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 1971
-  name: Michael Miller
-  share: 64
+- name: Michael Miller
   start: 1953
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 1971
+  share: 64
 id: 74190cbb-25fa-475f-ac78-5cdac06cef22
 image_key: QRCNqs
 thumb: https://photos.smugmug.com/photos/i-wwH4V4H/0/Th/i-wwH4V4H-Th.jpg
-draft: 0.7864
 handicap_data:
-  beam: 2.5146305779078273
-  draft: 0.7802974884174592
+  beam: 2.5146
+  draft: 0.7864
   length_over_all: 6.5532796878810045
-length_on_deck: 6.5532
-beam: 2.5146
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.5532
+created_at: '2020-04-25T17:38:31.891715+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

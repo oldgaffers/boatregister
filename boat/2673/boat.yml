@@ -3,7 +3,6 @@ oga_no: 2673
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Designers said to be Thomas Gilmoer, John Rock, &Hayden Knibbs
 year: 2003
 year_is_approximate: false
@@ -16,38 +15,32 @@ builder:
 place_built: Walsoorden
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Lelystad, NL
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Carel de Vos & Elspeth de Voss-Helder
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 1b37907a-ef95-4d87-b3c7-0136a76137cd
-draft: 1.2436
 handicap_data:
-  beam: 2.996220434040478
+  thcf: 0.884091359
+  beam: 2.9962
+  draft: 1.2436
+  fore_triangle_height: 6.599000243842965
+  fore_triangle_base: 4.4501341136308215
+  length_over_all: 7.620092660326749
+  propellor:
+    type: fixed
   main:
     foot: 4.2215313338210185
     head: 3.0998536942209216
     luff: 4.779322116556937
-  thcf: 0.884091359
-  draft: 1.2435991221653255
   topsail:
     luff: 4.690929041697147
     perpendicular: 2.5207266520360885
-  propellor:
-    type: fixed
-  length_over_all: 7.620092660326749
-  fore_triangle_base: 4.4501341136308215
   length_on_waterline: 6.653864910997317
-  fore_triangle_height: 6.599000243842965
-length_on_deck: 7.62
-beam: 2.9962
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T17:24:19.634865+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

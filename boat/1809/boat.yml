@@ -23,51 +23,42 @@ place_built: Shoreham
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel, pitch pine, teak and iroko on oak and iroko.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: River Hamble
 hull_form: cut_away_stem
 uk_part1: '102504'
-callsign: ''
 ownerships:
-- note: A.J.Ellis listed as an owner - date unknown. A.R.T Kirby advertising her for
+- start: 1966
+  note: A.J.Ellis listed as an owner - date unknown. A.R.T Kirby advertising her for
     sale in 1966 OGA newsletter.
   text: A.J.Ellis listed as an owner - date unknown. A.R.T Kirby advertising her for
     sale in
-  start: 1966
-  start_is_approximate: false
-- end: 2006
-  name: John Timms
-  share: 64
+- name: John Timms
   start: 1998
-- end: 2017
-  name: Scott Metcalfe
+  end: 2006
   share: 64
+- name: Scott Metcalfe
   start: 2006
-- name: Jono & Lisa Bradfield
+  end: 2017
   share: 64
+- name: Jono & Lisa Bradfield
   start: 2017
-- share: 64
-  member: 6190
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: https://blueboxexperiences.co.uk/valerie/
 id: a5b01ead-d248-4a24-bf0e-619d9c429d44
+image_key: pb6V4M
+thumb: https://photos.smugmug.com/photos/i-nP2Dtrx/0/Th/i-nP2Dtrx-Th.jpg
+handicap_data:
+  beam: 3.0998
+  draft: 1.8288
+  length_over_all: 14.020970495001219
+  length_on_waterline: 10.05852231163131
+  length_on_deck: 14.3256
+created_at: '2020-04-25T17:10:33.291588+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Valerie
 - Tristan and Islode
 - Valerie of Tyne.
-image_key: pb6V4M
-thumb: https://photos.smugmug.com/photos/i-nP2Dtrx/0/Th/i-nP2Dtrx-Th.jpg
-draft: 1.8288
-handicap_data:
-  beam: 3.1089978054133134
-  draft: 1.9507437210436478
-  length_over_all: 14.020970495001219
-  length_on_waterline: 10.05852231163131
-length_on_deck: 14.3256
-beam: 3.0998
-for_sale_state:
-  text: not_for_sale

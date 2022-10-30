@@ -3,7 +3,6 @@ oga_no: 17
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Gadfly II's paper archive suggests that Gadfly was damaged in WWII
   to be rebuilt.  This boat was attributed to T Harrison Butler, but Gadfly II's archive
   suggests that if this is the first gadfly she was designed by her builders.
@@ -18,38 +17,30 @@ builder:
 place_built: Whitstable
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - note: 'Previous owners:'
   text: 'Previous owners:'
-- note: J.Merricks (1937)
+- start: 1937
+  note: J.Merricks (1937)
   text: J.Merricks (
-  start: 1937
-  start_is_approximate: false
-- note: C.A.Garner (1973)
+- start: 1973
+  note: C.A.Garner (1973)
   text: C.A.Garner (
-  start: 1973
-  start_is_approximate: false
 - name: P J Durnford
-  share: 64
   start: 1974
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: c653e0c7-f7aa-45b6-934c-c47df889df0c
-previous_names:
-- Gadfly
-draft: 1.3716
 handicap_data:
-  beam: 2.6213118751524016
-  draft: 1.7678614971958058
+  beam: 2.6213
+  draft: 1.3716
   length_over_all: 8.077298219946353
   length_on_waterline: 6.858083394294074
-length_on_deck: 8.0772
-beam: 2.6213
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.0772
+created_at: '2020-04-25T16:42:32.350186+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Gadfly

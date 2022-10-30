@@ -11,6 +11,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber 22
+  id: f0555610-6fc8-4dce-a587-d90c2a7cbc72
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -18,9 +21,42 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 30000
+- created_at: '2019-01-28T05:55:09+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>\"Katie Morag\" a Cornish Crabber 22, designed by Roger Dongray,\
+    \ no. 32, built 2002. She is offered for sale including trailer and many extras.\
+    \ She is well maintained, in an excellent condition and ready to sail away.</p><p>LOA\
+    \ 8.23m<br />LOD 6.71m<br />Beam 2.51m<br />Draft 0.71m steel centre plate 5\u2019\
+    <br />Displacement 2,023kg<br />Hull GRP displacement</p><h3>Specification</h3><p>Light\
+    \ cream/red two tone GRP hull with cream boottop, coachroof and decks. Teak trim/strakes,\
+    \ red antifouling and off-white boottop.<br />Danforth anchor with chain and warp<br\
+    \ />Fire extinguisher<br />Clock and Barometer<br />4 x fenders<br />Lifebelt\
+    \ and light<br />Mainsail cover<br />Full overall laid-up cover<br />2/3 length\
+    \ tent cover<br />Bilge pump<br />Boarding ladder<br />Plastimo Neptune gas burner\
+    \ and grill stove. Gas bottle in separate deck locker.<br />Stainless steel sink.<br\
+    \ />New 50L plastimo flexi water tank.<br />Chart and dinning tables<br />Cabin\
+    \ lights<br />Jabsco sea toilet<br />Sunto Compass<br />Garmin 129 GPS with remote\
+    \ on-deck readout<br />Icom DSC/VHF radio.<br />Airmar in-hull adjustable angle\
+    \ transducer with on deck readout<br />Digital Yacht AIS AIT2000 Transponder (Class\
+    \ B)<br />Merlin M-Power 20 battery adaptive charger<br />Windex 15 wind indicator<br\
+    \ />Raymarine removable autopilot cockpit tiller<br />Burgundy sail cover<br />White\
+    \ overall lay-up cover<br />Burgundy tent cover (new 2014)<br />Rigging High peaked\
+    \ gaff cutter with Sikkens type coated spruce mast and spars</p><h3>Sails</h3><p>Jib\
+    \ Dark tan on Harken furler.<br />Staysail Dark tan replaced Jan 2015, on Harken\
+    \ furler.<br />Mainsail - white</p><p>Engine 2002 Yanmar 1GM10 inboard diesel\
+    \ engine.&nbsp;&nbsp;</p><p>Last annual full service completed November 2017.</p><p>Trailer\
+    \ 2002 galvanised braked Bramber 4-wheel road trailer with spare tyre.</p>"
+  seller_gold_id: null
+  seller_member: 6024
+  sold: '2019-12-01'
+  summary: null
+  updated_at: '2020-05-03T10:13:13+00:00'
 home_country: GBR
 home_port: Emsworth
 hull_form: long keel deep forefoot
@@ -30,27 +66,21 @@ ownerships:
 - end: 2
   note: 2 previous owners
   text: previous owners
-  end_is_approximate: false
 - name: Frank Davies
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 39f572d1-5078-48a3-9b9e-64f97089ea55
 mssi: '235003979'
 image_key: v32HJG
 thumb: https://photos.smugmug.com/photos/i-NFfB9mL/0/Th/i-NFfB9mL-Th.jpg
-draft: 0.7102
 handicap_data:
+  beam: 2.5207
+  draft: 0.7102
   moving_keel: true
   length_overall: 6.7056
   moving_keel_type: Centreboard
   length_over_spars: 8.2296
   length_on_waterline: 6.2911
-length_on_deck: 6.7056
-beam: 2.5207
-design_class:
-  name: Cornish Crabber 22
-  id: f0555610-6fc8-4dce-a587-d90c2a7cbc72
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:47:48.658127+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

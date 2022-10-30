@@ -78,7 +78,7 @@ construction_details: Carvel - mahogany on canadian rock elm, copper fastened wi
   teak decks and beams, iroko transom and stem, mahogany bilge stringer, bean stringer
   and clamp. Oak keelson and stern post, mahogany cabin trunk and coamings. Iron ballast
   keel, oak floors, sika spruce spars.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Blyth/North Shields.
@@ -87,52 +87,45 @@ sail_number: '1'
 uk_part1: '303601'
 callsign: 2TPQ
 ownerships:
-- end: 1964
-  name: Henery Town
-  share: 64
+- name: Henery Town
   start: 1961
-- end: 1965
-  name: Frank Webster
+  end: 1964
   share: 64
+- name: Frank Webster
   start: 1964
-- end: 1973
-  name: David George Tate
+  end: 1965
   share: 64
+- name: David George Tate
   start: 1965
-- end: 1976
-  name: James Martin Hennessy
+  end: 1973
   share: 64
+- name: James Martin Hennessy
   start: 1973
-- end: 1989
-  name: John Howard Wright
+  end: 1976
   share: 64
+- name: John Howard Wright
   start: 1976
+  end: 1989
+  share: 64
 - name: Peter Wright
-  share: 64
   start: 1989
-- id: 1019
   share: 64
-  member: 6269
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: d70da233-9275-47c1-b6a3-c0c5faf44010
 image_key: TVb8ns
 thumb: https://photos.smugmug.com/photos/i-6BnwzbJ/0/Th/i-6BnwzbJ-Th.jpg
-draft: 1.1582
 handicap_data:
+  beam: 2.8956
+  draft: 1.1582
+  fore_triangle_height: 10.0584
+  fore_triangle_base: 3.4747
+  sailarea: 4
   main:
     foot: 12.5
     luff: 28.5
-  sailarea: 4
   length_overall: 8.7478
   calculated_thcf: 0.906
   length_over_spars: 8.7478
-  fore_triangle_base: 3.4747
   length_on_waterline: 7.62
-  fore_triangle_height: 10.0584
-length_on_deck: 8.7478
-beam: 2.8956
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.7478
+created_at: '2020-04-25T17:52:53.532945+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

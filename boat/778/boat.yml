@@ -3,8 +3,6 @@ oga_no: 778
 generic_type: unknown
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1935
 year_is_approximate: false
 designer:
@@ -17,42 +15,35 @@ place_built: Anstruther Fife
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch Pine on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 uk_part1: '303554'
-callsign: ''
 ownerships:
 - name: A W Cropley
-  share: 64
   start: 1989
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 9e45e8e0-028a-446d-b75b-1c9cae12e1d3
-previous_names:
-- Ate Progress
-draft: 1.524
 handicap_data:
-  beam: 4.319068519873201
+  thcf: 1.022906685
+  beam: 4.319
+  draft: 1.524
+  fore_triangle_height: 7.924896366739819
+  fore_triangle_base: 4.87685930260912
+  length_over_all: 13.563764935381613
+  propellor:
+    type: fixed
   main:
     foot: 6.196659351377712
     head: 4.700073152889539
     luff: 5.18166300902219
-  thcf: 1.022906685
-  draft: 1.5240185320653499
   mizzen:
     foot: 3.5296269202633503
     head: 3.2004389173372347
     luff: 4.419653742989515
-  propellor:
-    type: fixed
-  length_over_all: 13.563764935381613
-  fore_triangle_base: 4.87685930260912
   length_on_waterline: 13.411363082175079
-  fore_triangle_height: 7.924896366739819
-length_on_deck: 13.5636
-beam: 4.319
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.5636
+created_at: '2020-04-25T16:54:08.499008+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Ate Progress

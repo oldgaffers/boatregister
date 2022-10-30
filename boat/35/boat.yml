@@ -3,42 +3,34 @@ oga_no: 35
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1965
 year_is_approximate: false
 designer:
   name: Francis J. Jones
   id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
+design_class:
+  name: Inchcape
+  id: f6fee22b-1363-4e51-b027-0ede69601dd7
 builder:
   name: Eyemouth Boatbuilding Co.
   id: 10245c61-c11c-41ff-8ad8-7fa0b9de0a60
 place_built: Eyemouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Breskens
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Soenen Philippe
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: b4fa7a30-5584-431d-af81-fccc2ed111db
-draft: 2.1031
 handicap_data:
-  beam: 4.785418190685198
-  draft: 2.103145574250183
+  beam: 4.7854
+  draft: 2.1031
   length_over_all: 15.849792733479639
   length_on_waterline: 14.935381614240429
-length_on_deck: 15.8496
-beam: 4.7854
-design_class:
-  name: Inchcape
-  id: f6fee22b-1363-4e51-b027-0ede69601dd7
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 15.8496
+created_at: '2020-04-25T16:42:49.11849+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

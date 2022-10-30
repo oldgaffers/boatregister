@@ -3,13 +3,14 @@ oga_no: 2104
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1987
 year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+design_class:
+  name: Tosher 18
+  id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -17,29 +18,19 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP hull
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: R D Little
-  share: 64
   start: 1988
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 6a1adf68-234d-47b0-8378-bbb63bf399bf
-draft: 0.9449
 handicap_data:
-  beam: 1.9202633504023408
-  draft: 0.944891489880517
+  beam: 1.9202
+  draft: 0.9449
   length_over_all: 5.6388685686417945
   length_on_waterline: 5.410265788831992
-length_on_deck: 5.6388
-beam: 1.9202
-design_class:
-  name: Tosher 18
-  id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.6388
+created_at: '2020-04-25T17:15:05.003281+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

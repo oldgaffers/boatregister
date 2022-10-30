@@ -3,13 +3,14 @@ oga_no: 1933
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1995
 year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+design_class:
+  name: New Blossom Class
+  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
 builder:
   name: A. Grafham/R. Coleman
   id: 59fff090-370e-427c-8b72-d6a65a584f63
@@ -17,46 +18,33 @@ place_built: Whitstable
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker Iroko/Mahogany on Oak Timbers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Gillingham
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: A N Gratham
-  share: 64
   start: 1995
-- id: 229
   share: 64
-  member: 3166
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: d4028dd8-e4d5-4ebf-a22d-3fbdfe6da493
-draft: 0.8626
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.846779655
+  beam: 2.1336
+  draft: 0.8626
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 3.9624481833699097
+  length_over_all: 5.8644233113874655
+  propellor:
+    type: fixed
   main:
     foot: 3.6576444769568397
     head: 3.0480370641306997
     luff: 3.6576444769568397
-  thcf: 0.846779655
-  draft: 0.6339917093391856
   topsail:
     luff: 3.3528407705437697
     perpendicular: 1.3716166788588149
-  propellor:
-    type: fixed
-  length_over_all: 5.8644233113874655
-  fore_triangle_base: 3.9624481833699097
   length_on_waterline: 5.385881492318947
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 5.8674
-beam: 2.1336
-design_class:
-  name: New Blossom Class
-  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.8674
+created_at: '2020-04-25T17:12:28.284526+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

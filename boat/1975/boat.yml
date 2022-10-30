@@ -3,7 +3,6 @@ oga_no: 1975
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Kept at Home.
 year: 1960
 year_is_approximate: false
@@ -14,33 +13,27 @@ place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
 construction_details: Wood carvel chine
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: at home
 hull_form: unknown
 sail_number: '124'
-callsign: ''
 ownerships:
 - name: Andrew Graham
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 39704569-2214-44f3-8e01-fb32f5344f7c
-draft: 0.9144
 handicap_data:
-  beam: 1.4020970495001217
+  thcf: 0.743760664
+  beam: 1.4021
+  draft: 0.9144
+  fore_triangle_height: 4.754937820043891
+  fore_triangle_base: 1.3106559375762008
+  length_over_all: 5.9436722750548645
   main:
     foot: 0
     luff: 4.785418190685198
-  thcf: 0.743760664
-  draft: 0.9144111192392099
-  length_over_all: 5.9436722750548645
-  fore_triangle_base: 1.3106559375762008
   length_on_waterline: 5.334064862228725
-  fore_triangle_height: 4.754937820043891
-length_on_deck: 5.9436
-beam: 1.4021
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.9436
+created_at: '2020-04-25T17:13:08.447734+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

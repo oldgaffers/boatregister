@@ -8,6 +8,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Shrimper
+  id: 7caf07ef-acf3-434b-a639-5c94188071a8
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -15,42 +18,33 @@ place_built: Rock
 construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: United Kingdom
 home_port: Port Solent
 hull_form: centre-boarder
-ownerships:
-- id: 843
-  share: 64
-  member: 5924
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+ownerships: []
 id: 2b832fec-ef46-4678-acdb-b54ee927bbd7
 image_key: G78kn7
 thumb: https://photos.smugmug.com/photos/i-T6CwP2s/0/Th/i-T6CwP2s-Th.jpg
-draft: 0.46
 handicap_data:
+  beam: 2.1854
+  draft: 0.46
+  fore_triangle_height: 4.6482
+  fore_triangle_base: 2.539
+  sailarea: 18
   main:
     foot: 11.5
     head: 10.17
     luff: 11
-  sailarea: 18
   moving_keel: true
   draft_keel_up: 0.4572
   length_overall: 5.8674
   calculated_thcf: 0.824
   draft_keel_down: 1.2192
   moving_keel_type: Centreboard
-  fore_triangle_base: 2.539
   length_on_waterline: 5.3584
-  fore_triangle_height: 4.6482
-length_on_deck: 5.87
-beam: 2.1854
+  length_on_deck: 5.87
+created_at: '2020-08-02T17:57:07.847043+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 air_draft: 8.23
-design_class:
-  name: Cornish Shrimper
-  id: 7caf07ef-acf3-434b-a639-5c94188071a8
-for_sale_state:
-  text: not_for_sale

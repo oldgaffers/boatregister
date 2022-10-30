@@ -30,28 +30,25 @@ construction_material: wood
 construction_method: unknown
 construction_details: Laminated oak ribs, oak frames, keel and hog. Strip plank Thuja
   overlaid with 2 oak veneers.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Wicor, Portsmouth
 hull_form: long keel sloping forefoot
 ssr: '143896'
-callsign: ''
 ownerships:
 - name: Iain Tolhurst
-  share: 64
   start: 2011
-- share: 64
-  member: 6022
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: c3bd90e7-6b8e-48d4-a394-b3afd134f7dc
 image_key: czjwPd
 thumb: https://photos.smugmug.com/photos/i-KXcLgJm/0/Th/i-KXcLgJm-Th.jpg
-draft: 1.6002
 handicap_data:
+  beam: 3.301
+  draft: 1.6002
+  fore_triangle_height: 11.1008
+  fore_triangle_base: 5.3492
+  sailarea: 5
   main:
     foot: 13.71
     head: 12.2
@@ -60,14 +57,10 @@ handicap_data:
     foot: 9.84
     head: 8.14
     luff: 14.11
-  sailarea: 5
   length_overall: 10.7991
   calculated_thcf: 0.974
   length_over_spars: 13.9995
-  fore_triangle_base: 5.3492
   length_on_waterline: 8.7996
-  fore_triangle_height: 11.1008
-length_on_deck: 10.7991
-beam: 3.301
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.7991
+created_at: '2020-04-25T17:47:37.995182+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

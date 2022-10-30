@@ -23,6 +23,9 @@ year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+design_class:
+  name: Hillyard 7 Ton
+  id: 0a212a88-293d-4f4c-9105-39371f93e994
 builder:
   name: David Hillyard
   id: d649c6a5-3acc-4f60-868f-7415641908a4
@@ -30,54 +33,42 @@ place_built: Littlehampton
 construction_material: wood
 construction_method: unknown
 construction_details: Larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Woolverstone
 hull_form: long keel deep forefoot
 sail_number: NB1
 uk_part1: '162814'
-callsign: ''
 ownerships:
-- end: 1938
-  name: Arthur Ransome
-  share: 64
+- name: Arthur Ransome
   start: 1934
+  end: 1938
+  share: 64
 - name: The Nancy Blackett Trust
-  share: 64
   start: 1997
-- id: 352
   share: 64
-  member: 3930
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://nancyblackett.org/
 id: 2a48171e-5648-4f78-81cc-b3afa2de65a9
-previous_names:
-- Electron
-- Spindrift
 image_key: PSsjJ8
 thumb: https://photos.smugmug.com/photos/i-VnCcPBL/0/Th/i-VnCcPBL-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.590831504511095
-  main:
-    foot: 5.385881492318947
-    luff: 8.863691782492074
   thcf: 0.949969412
-  draft: 1.3716166788588149
+  beam: 2.5908
+  draft: 1.3716
+  fore_triangle_height: 10.05852231163131
+  fore_triangle_base: 4.800658376005852
+  length_over_all: 8.686905632772493
   propellor:
     type: fixed
     blades: 3
-  length_over_all: 8.686905632772493
-  fore_triangle_base: 4.800658376005852
+  main:
+    foot: 5.385881492318947
+    luff: 8.863691782492074
   length_on_waterline: 7.772494513533284
-  fore_triangle_height: 10.05852231163131
-length_on_deck: 8.6868
-beam: 2.5908
-design_class:
-  name: Hillyard 7 Ton
-  id: 0a212a88-293d-4f4c-9105-39371f93e994
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.6868
+created_at: '2020-04-25T17:43:44.272265+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Electron
+- Spindrift

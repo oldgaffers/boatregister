@@ -5,7 +5,6 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: Built by John Robert Laband in 1991, Working Yacht I is ferrocement
   with ply and teak deck.
-full_description: ''
 year: 1991
 year_is_approximate: false
 designer:
@@ -18,44 +17,39 @@ place_built: Bristol
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferro cement, ply and teak deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bristol
 hull_form: long keel deep forefoot
 ssr: '45040'
-callsign: ''
 ownerships:
-- id: 188
-  share: 64
+- member: 2782
+  id: 188
   start: 1990
-  member: 2782
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: b084fd15-223c-4755-977d-b37a4538e785
 image_key: KpFMHr
 thumb: https://photos.smugmug.com/photos/i-dQzSjSZ/0/Th/i-dQzSjSZ-Th.jpg
-draft: 1.6764
 handicap_data:
-  beam: 4.114850036576445
+  thcf: 1.052794646
+  beam: 4.1148
+  draft: 1.6764
+  fore_triangle_height: 13.258961228968543
+  fore_triangle_base: 6.705681541087539
+  length_over_all: 13.106559375762009
+  propellor:
+    type: fixed
   main:
     foot: 5.334064862228725
     head: 4.26725188978298
     luff: 8.53450377956596
-  thcf: 1.052794646
-  draft: 1.6764203852718849
   mizzen:
     foot: 3.3528407705437697
     head: 2.2250670568154107
     luff: 5.334064862228725
-  propellor:
-    type: fixed
-  length_over_all: 13.106559375762009
-  fore_triangle_base: 6.705681541087539
   length_on_waterline: 11.887344550109729
-  fore_triangle_height: 13.258961228968543
-length_on_deck: 13.1064
-beam: 4.1148
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.1064
+created_at: '2020-04-25T17:06:47.979763+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

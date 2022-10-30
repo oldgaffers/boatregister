@@ -4,12 +4,14 @@ generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Chunkey Monkey is a Cape Cutter 19</p>
-full_description: ''
 year: 2007
 year_is_approximate: false
 designer:
   name: Dudley Dix
   id: bcdc6c57-fe01-4b12-a4eb-b1cd97148de4
+design_class:
+  name: Cape Cutter 19
+  id: aeb6b869-a715-4296-a506-35ae1bc28e2f
 builder:
   name: Honnor Marine Ltd.
   id: 2e1683ac-2223-480f-9412-be351f564ae9
@@ -17,40 +19,28 @@ place_built: 'Rochdale '
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: River Dart
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: David Lees
-  share: 64
   start: 2012
-- share: 64
-  member: 5113
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 20c62e27-b81f-4b51-848d-4822a05097fb
-draft: 0.4054
 handicap_data:
-  beam: 2.200682760302365
+  thcf: 0.832209156
+  beam: 2.2098
+  draft: 0.4054
+  fore_triangle_height: 5.5992440868080955
+  fore_triangle_base: 3.401609363569861
+  length_over_all: 5.800414533040722
   main:
     foot: 3.301024140453548
     head: 3.301024140453548
     luff: 3.2004389173372347
-  thcf: 0.832209156
-  draft: 0.3992928554011217
-  length_over_all: 5.800414533040722
-  fore_triangle_base: 3.401609363569861
   length_on_waterline: 5.501706900755913
-  fore_triangle_height: 5.5992440868080955
-length_on_deck: 5.7912
-beam: 2.2098
-design_class:
-  name: Cape Cutter 19
-  id: aeb6b869-a715-4296-a506-35ae1bc28e2f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:29:50.091622+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

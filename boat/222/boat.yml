@@ -61,97 +61,93 @@ place_built: Folkestone, Kent
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch pine/Teak on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Woodbridge, Suffolk
 hull_form: long keel deep forefoot
 uk_part1: '120778'
-callsign: ''
 ownerships:
-- end: 1905
-  name: RC Boothby
-  share: 32
+- name: RC Boothby
   start: 1900
-- end: 1905
-  name: W A Fraser, London
+  end: 1905
   share: 32
+- name: W A Fraser, London
   start: 1900
-- end: 1928
-  name: B. E. Dunbar Kilburn
-  share: 64
+  end: 1905
+  share: 32
+- name: B. E. Dunbar Kilburn
   start: 1906
-- end: 1931
-  name: Mrs Florence E Oliver
-  share: 32
+  end: 1928
+  share: 64
+- name: Mrs Florence E Oliver
   start: 1928
-- end: 1931
-  name: Mrs Ellen Margaret Stubbs
+  end: 1931
   share: 32
+- name: Mrs Ellen Margaret Stubbs
   start: 1928
+  end: 1931
+  share: 32
 - name: Hugh Leycester Bedwell
-  share: 32
   start: 1936
+  share: 32
 - name: Herbert Charles Norton
-  share: 32
   start: 1936
+  share: 32
 - name: Sir Lancelot Henry Elphinstone
-  share: 64
   start: 1936
-- end: 1936
-  name: Jesse Frank Collier
   share: 64
+- name: Jesse Frank Collier
   start: 1936
+  end: 1936
+  share: 64
 - name: Neauer Messinger
-  share: 32
   start: 1948
+  share: 32
 - name: Kenneth Albert Harwood
-  share: 32
   start: 1948
-- end: 1957
-  name: Edward Elwym Nott-Bower, OBE, MC, Brigadier
-  share: 64
+  share: 32
+- name: Edward Elwym Nott-Bower, OBE, MC, Brigadier
   start: 1951
-- end: 1990
-  name: Ian Kiloh
+  end: 1957
   share: 64
+- name: Ian Kiloh
   start: 1974
+  end: 1990
+  share: 64
 - name: Julia Webb
-  share: 64
   start: 1991
-- end: 2005
-  name: David Richard John Francis Macaire
   share: 64
+- name: David Richard John Francis Macaire
   start: 1995
-- id: 501
+  end: 2005
   share: 64
+- member: 4741
+  id: 501
   start: 2005
-  member: 4741
+  share: 64
   current: true
-- end: 2009
-  name: Glyn and Chris Holt
-  share: 16
+- name: Glyn and Chris Holt
   start: 2005
+  end: 2009
+  share: 16
 - name: Beverley Daley-Yates
-  share: 64
   start: 2011
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: http://www.cachalot.org.uk
 id: 5469ce0c-6a55-400f-acdb-f3f4481836f6
 image_key: 7w4vX9
 thumb: https://photos.smugmug.com/photos/i-xGWcfVw/0/Th/i-xGWcfVw-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 2.987076322848086
-  draft: 1.5240185320653499
+  beam: 3.9106
+  draft: 1.524
+  length_over_all: 9.1441111923921
   propellor:
     type: fixed
     blades: 3
   boat_depth: 1.0058522311631308
-  length_over_all: 9.1441111923921
   length_over_spars: 9.44891489880517
   length_on_waterline: 7.010485247500609
-length_on_deck: 9.1958
-beam: 3.9106
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.1958
+created_at: '2020-04-25T16:45:41.104729+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

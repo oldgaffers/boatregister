@@ -3,8 +3,6 @@ oga_no: 1121
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1911
 year_is_approximate: false
 designer:
@@ -17,36 +15,30 @@ place_built: King's Lynn
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Red Deal on sawn oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Bremerhaven
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Alexander Nurnberg
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 9a168d4e-9f61-40f4-b3cc-b7bf4ce632ce
-draft: 1.8288
 handicap_data:
-  beam: 4.1453304072177515
+  thcf: 1.254600653
+  beam: 4.1453
+  draft: 1.8288
+  fore_triangle_height: 17.617654230675445
+  fore_triangle_base: 12.344550109729333
+  length_over_all: 16.154596439892707
   main:
     foot: 10.820531577663983
     head: 8.900268227261643
     luff: 6.614240429163618
-  thcf: 1.254600653
-  draft: 1.8288222384784198
   topsail:
     luff: 9.631797122653012
     perpendicular: 5.364545232870032
-  length_over_all: 16.154596439892707
-  fore_triangle_base: 12.344550109729333
   length_on_waterline: 14.020970495001219
-  fore_triangle_height: 17.617654230675445
-length_on_deck: 16.1544
-beam: 4.1453
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 16.1544
+created_at: '2020-04-25T17:00:10.280664+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

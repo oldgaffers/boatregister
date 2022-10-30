@@ -22,31 +22,37 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Larch on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 15000
+- created_at: '2018-11-14T14:08:02+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Fidelity" has been taken out of the water after a sucessful sailing
+    season. She is fully equipped and ready to sail. Happy to help any purchaser with
+    the first set up and sail. Prepared to be a little flexible on price and reduce
+    if all contents are not required.&nbsp;</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.658921+00:00'
 home_country: GBR
 home_port: Royal Quays Marina, North Shields, Newcastle upon Tyne
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Gordon Bell
-  share: 64
   start: 2007
-- id: 34740
   share: 64
-  member: 6396
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 6902fc91-eb99-4bee-b861-4fd86f89d514
-previous_names:
-- Mistral
 image_key: 2KfnfP
 thumb: https://photos.smugmug.com/photos/i-DbcNs5G/0/Th/i-DbcNs5G-Th.jpg
-draft: 1.3716
-length_on_deck: 7.9248
-beam: 0
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:28:08.125081+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Mistral
+handicap_data:
+  draft: 1.3716
+  length_on_deck: 7.9248

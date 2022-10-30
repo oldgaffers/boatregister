@@ -3,10 +3,9 @@ oga_no: 2943
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: "<p>Mischief is a replica Bristol Channel Pilot Cutter. Ed Burnett\
-  \ bassed her design on the Bristol Channel Pilot Cutter Mischief owned by Bill Tillman.\
-  \ Mischief was lost in 1968 off the coast of Jan Mayen Island 300miles off Greenland.<br\
-  \ />\r\n&nbsp;</p>"
+short_description: <p>Morwenna is a replica Bristol Channel Pilot Cutter. Ed Burnett
+  bassed her design on the Bristol Channel Pilot Cutter Mischief owned by Bill Tillman.
+  Mischief was lost in 1968 off the coast of Jan Mayen Island 300miles off Greenland.</p>
 full_description: Morwenna of Bristol's design was based on the famous Bristol Channel
   Pilot Cutter Mischief. Mischief was built at Cardiff in 1906 and worked until 1919,
   when she was sold and became a yacht. Bill Tillman bought her in 1954 who used her
@@ -23,40 +22,34 @@ place_built: Bristol
 construction_material: wood
 construction_method: carvel
 construction_details: Trad Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Bristol
 hull_form: long keel deep forefoot
 sail_number: GBR 1946L
-callsign: ''
 ownerships:
 - name: Stuart Jenkins
-  share: 64
   start: 2009
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 8bffc1d8-1d33-47af-831e-c1fd222730b0
-draft: 2.289
 handicap_data:
-  beam: 4.011216776396001
+  thcf: 1.130692522
+  beam: 4.0112
+  draft: 2.289
+  fore_triangle_height: 13.271153377225065
+  fore_triangle_base: 9.44891489880517
+  length_over_all: 14.020970495001219
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 8.211411850768105
     head: 5.7912704218483295
     luff: 8.699097781029016
-  thcf: 1.130692522
-  draft: 2.2890758351621554
   topsail:
     luff: 6.659960985125579
     perpendicular: 3.380273104120946
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 14.020970495001219
-  fore_triangle_base: 9.44891489880517
   length_on_waterline: 12.070226773957572
-  fore_triangle_height: 13.271153377225065
-length_on_deck: 14.0208
-beam: 4.0112
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 14.0208
+created_at: '2020-04-25T17:32:57.357275+00:00'
+updated_at: '2022-10-21T21:56:38.56747+00:00'

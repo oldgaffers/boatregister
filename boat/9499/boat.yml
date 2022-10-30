@@ -3,8 +3,6 @@ oga_no: 9499
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1983
 year_is_approximate: false
 designer:
@@ -17,42 +15,35 @@ place_built: Hayling Island
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferro cement hull over laminated wood frames, teak decks
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 uk_part1: '701210'
-callsign: ''
 ownerships:
 - name: James Williams
-  share: 64
   start: 1983
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 8311c866-95a8-4944-9acc-7739b06fc678
-draft: 1.6764
 handicap_data:
-  beam: 3.480858327237259
+  thcf: 1.026630744
+  beam: 3.4808
+  draft: 1.6764
+  fore_triangle_height: 11.734942696903193
+  fore_triangle_base: 6.492318946598391
+  length_over_all: 12.192148256522799
+  propellor:
+    type: fixed
   main:
     foot: 4.419653742989515
     head: 3.9624481833699097
     luff: 5.4864667154352595
-  thcf: 1.026630744
-  draft: 1.6764203852718849
-  mizzen:
-    foot: 2.7432333577176298
-    luff: 7.528651548402828
   topsail:
     luff: 4.87685930260912
     perpendicular: 2.590831504511095
-  propellor:
-    type: fixed
-  length_over_all: 12.192148256522799
-  fore_triangle_base: 6.492318946598391
+  mizzen:
+    foot: 2.7432333577176298
+    luff: 7.528651548402828
   length_on_waterline: 10.66812972445745
-  fore_triangle_height: 11.734942696903193
-length_on_deck: 12.192
-beam: 3.4808
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.192
+created_at: '2020-04-25T17:44:50.762538+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 1046
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1892
 year_is_approximate: false
 designer:
@@ -16,46 +14,36 @@ builder:
 place_built: Brightlingsea
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Faversham
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Josh Danziger
-  share: 64
   start: 2012
-- end: 2012
-  name: Robin Page
   share: 64
+- name: Robin Page
   start: 2012
-- share: 64
-  member: 6063
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2012
+  share: 64
 id: a9ae6c1c-9e3a-47e0-a96e-562f2a67e4d8
 image_key: mqs2gb
 thumb: https://photos.smugmug.com/photos/i-XmzDWcB/0/Th/i-XmzDWcB-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.996220434040478
+  thcf: 1.079592931
+  beam: 2.9962
+  draft: 1.3716
+  fore_triangle_height: 9.805535235308461
+  fore_triangle_base: 7.848695440136551
+  length_over_all: 11.329553767373811
   main:
     foot: 7.467690807120214
     head: 5.538283345525482
     luff: 5.891855644964642
-  thcf: 1.079592931
-  draft: 1.3716166788588149
   topsail:
     luff: 6.653864910997317
     perpendicular: 2.7432333577176298
-  length_over_all: 11.329553767373811
-  fore_triangle_base: 7.848695440136551
   length_on_waterline: 9.424530602292124
-  fore_triangle_height: 9.805535235308461
-length_on_deck: 11.3294
-beam: 2.9962
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.3294
+created_at: '2020-04-25T16:59:02.532872+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

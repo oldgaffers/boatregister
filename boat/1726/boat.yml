@@ -3,7 +3,6 @@ oga_no: 1726
 generic_type: unknown
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Log 89/2
 year: 1930
 year_is_approximate: false
@@ -11,46 +10,39 @@ place_built: Holland
 construction_material: steel
 construction_method: unknown
 construction_details: Rivetted Steel hull; decks part steel part timber
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 89/2
-callsign: ''
 ownerships:
 - name: C Kinghorn
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 722ec5bd-54b6-495d-8f9a-5f71ae968fbc
-previous_names:
-- Maartje
-draft: 2.0726
 handicap_data:
-  beam: 5.4864667154352595
+  thcf: 1.263813277
+  beam: 5.4864
+  draft: 2.0726
+  fore_triangle_height: 20.330407217751766
+  fore_triangle_base: 18.684467203121187
+  length_over_all: 21.3362594489149
+  propellor:
+    type: fixed
   main:
     foot: 7.162887100707144
     head: 6.0960741282613995
     luff: 7.101926359424531
-  thcf: 1.263813277
-  draft: 2.0726652036088757
+  topsail:
+    luff: 10.66812972445745
+    perpendicular: 5.4864667154352595
   mizzen:
     foot: 5.090221897098268
     head: 5.090221897098268
     luff: 5.699829309924408
-  topsail:
-    luff: 10.66812972445745
-    perpendicular: 5.4864667154352595
-  propellor:
-    type: fixed
-  length_over_all: 21.3362594489149
-  fore_triangle_base: 18.684467203121187
   length_on_waterline: 15.240185320653499
-  fore_triangle_height: 20.330407217751766
-length_on_deck: 21.336
-beam: 5.4864
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 21.336
+created_at: '2020-04-25T17:09:17.490122+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Maartje

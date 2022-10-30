@@ -22,44 +22,37 @@ place_built: Dartmouth
 construction_material: wood
 construction_method: unknown
 construction_details: Iroko on grown oak frames copper fastened
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Dartmouth
 hull_form: long keel deep forefoot
 sail_number: 5510T
 uk_part1: '700889'
-callsign: ''
 ownerships:
-- note: "For sale in Classic Boat, Sept 2002, no 171, \xA3125,000 from Gosport."
+- start: 2002
+  note: "For sale in Classic Boat, Sept 2002, no 171, \xA3125,000 from Gosport."
   text: For sale in Classic Boat, Sept
-  start: 2002
-  start_is_approximate: false
 - name: Bob Strawson
-  share: 64
   start: 2007
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 35bc028d-3aa7-4729-8bed-b24fee42b8b2
-draft: 2.0422
 handicap_data:
-  beam: 3.886247256766642
+  thcf: 1.121044327
+  beam: 3.8862
+  draft: 2.0422
+  fore_triangle_height: 16.45940014630578
+  fore_triangle_base: 8.83930748597903
+  length_over_all: 12.801755669348939
+  propellor:
+    type: fixed
   main:
     foot: 7.315288953913679
     head: 5.7912704218483295
     luff: 7.2390880273104115
-  thcf: 1.121044327
-  draft: 2.042184832967569
   topsail:
     luff: 8.53450377956596
     perpendicular: 3.9624481833699097
-  propellor:
-    type: fixed
-  length_over_all: 12.801755669348939
-  fore_triangle_base: 8.83930748597903
   length_on_waterline: 11.887344550109729
-  fore_triangle_height: 16.45940014630578
-length_on_deck: 12.8016
-beam: 3.8862
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.8016
+created_at: '2020-04-25T17:11:46.787917+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

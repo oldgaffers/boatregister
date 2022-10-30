@@ -104,6 +104,9 @@ year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+design_class:
+  name: Rivers Class
+  id: 97d3b6f5-24ec-493a-8010-c0a283b96aa6
 builder:
   name: Wiliam Crossfield and Sons
   id: d02ef310-75b8-46ab-8c53-f17b72d64671
@@ -113,72 +116,65 @@ spar_material: wood
 construction_method: carvel
 construction_details: Carvel built with counter stern. Pitch pine planks and steamed
   American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Arnside
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 1972
-  name: A. G. Taylor
-  share: 64
+- name: A. G. Taylor
   start: '?'
-- end: 1914
-  name: Lionel Yates Stott
+  end: 1972
   share: 64
+- name: Lionel Yates Stott
   start: 1912
-- end: 1914
-  name: Harvey Broadbent
+  end: 1914
   share: 64
+- name: Harvey Broadbent
   start: 1914
-- end: 1927
-  name: The Receiver of Wrecks
+  end: 1914
   share: 64
+- name: The Receiver of Wrecks
   start: 1927
-- end: '?'
-  name: Joe Wallace
+  end: 1927
   share: 64
+- name: Joe Wallace
   start: 1927
-- end: 1976
-  name: John Gaynor
+  end: '?'
   share: 64
+- name: John Gaynor
   start: 1972
-- end: 1984
-  name: Ken Tomlinson
+  end: 1976
   share: 64
+- name: Ken Tomlinson
   start: 1976
-- end: '?'
-  name: Lou Perrotta
+  end: 1984
   share: 64
+- name: Lou Perrotta
   start: 1984
-- id: 1000
-  name: Arnside Sailing Club
+  end: '?'
   share: 64
-  start: 2018
+- name: Arnside Sailing Club
   member: 6232
+  id: 1000
+  start: 2018
+  share: 64
   current: true
-updated_at: '2022-04-04T19:25:08.364755+00:00'
 website: https://www.facebook.com/crossfieldyachtsevern
 id: a0706dca-6291-4aff-beb0-0d251771316e
+nsbr: '3176'
+image_key: 57NNsz
+thumb: https://photos.smugmug.com/photos/i-hZbBnpg/0/Th/i-hZbBnpg-Th.jpg
+handicap_data:
+  beam: 2.1336
+  draft: 0.9144
+  length_over_all: 7.162887100707144
+  length_on_waterline: 5.6388685686417945
+  length_on_deck: 7.0104
+created_at: '2020-04-25T16:50:03.365008+00:00'
+updated_at: '2022-04-04T19:25:08.364755+00:00'
 previous_names:
 - Elwy
 - Ribble
 - Severn
 - Rosevern
-nsbr: '3176'
-image_key: 57NNsz
-thumb: https://photos.smugmug.com/photos/i-hZbBnpg/0/Th/i-hZbBnpg-Th.jpg
-draft: 0.9144
-handicap_data:
-  beam: 2.13362594489149
-  draft: 1.21921482565228
-  length_over_all: 7.162887100707144
-  length_on_waterline: 5.6388685686417945
-length_on_deck: 7.0104
-beam: 2.1336
-design_class:
-  name: Rivers Class
-  id: 97d3b6f5-24ec-493a-8010-c0a283b96aa6
-for_sale_state:
-  text: not_for_sale

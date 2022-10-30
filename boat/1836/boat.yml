@@ -5,12 +5,14 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Vagabond was designed by Maxwell Blake and is an early example
   of his thinking on 4 tonners.</p>
-full_description: ''
 year: 1936
 year_is_approximate: false
 designer:
   name: William Maxwell Blake
   id: 7be4728c-aec1-4b98-9245-33fa05964add
+design_class:
+  name: Ranzo
+  id: 37747cca-0937-4fa0-8855-a145dd6ee0d8
 builder:
   name: A.V. Robertson and Sons
   id: 63acce53-2318-43bf-96ce-6e16e07bddc1
@@ -18,37 +20,26 @@ place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel, larch on oak, alternate grown and steamed timbers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
 - note: 'Previous owners: Bunny Hare, Peter Franklin, John Laird.'
   text: 'Previous owners: Bunny Hare, Peter Franklin, John Laird.'
 - name: Andrew Nahum
-  share: 64
   start: 1993
-- end: 2015
-  name: John Robinson
   share: 64
+- name: John Robinson
   start: 1993
-- share: 64
-  member: 5997
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2015
+  share: 64
 id: 054be274-d75c-48aa-b551-714992ab0d24
-draft: 0.9144
 handicap_data:
-  beam: 2.13362594489149
+  beam: 2.1854
+  draft: 0.9144
   length_over_all: 6.705681541087539
-length_on_deck: 6.7056
-beam: 2.1854
-design_class:
-  name: Ranzo
-  id: 37747cca-0937-4fa0-8855-a145dd6ee0d8
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:10:58.193847+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -39,28 +39,21 @@ builder:
 place_built: Newport IOW
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 1994
-  name: Stan Lindsey-Wood
-  share: 64
+- name: Stan Lindsey-Wood
   start: 1947
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 1994
+  share: 64
 id: bc08a675-6789-41a3-974d-6c28151ee1c8
 image_key: xJQPFc
 thumb: https://photos.smugmug.com/photos/i-9G246xp/0/Th/i-9G246xp-Th.jpg
-draft: 0
 handicap_data:
-  beam: 2.43842965130456
+  beam: 2.4384
   length_over_all: 7.315288953913679
   length_on_waterline: 7.315288953913679
-length_on_deck: 7.3152
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T16:49:53.98816+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

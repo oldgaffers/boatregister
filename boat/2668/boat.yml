@@ -25,42 +25,38 @@ builder:
 place_built: Brightlingsea
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Edam Nederland
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Roos Kuiper
-  share: 32
   start: 1987
+  share: 32
 - name: Han Wever
-  share: 32
   start: 1987
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 32
 website: http://www.brandaenforsale.nl/
 id: 15b09882-6e64-42b9-9594-2e9cc09b1a5a
 image_key: tnMzRX
 thumb: https://photos.smugmug.com/photos/i-Jd3vPzg/0/Th/i-Jd3vPzg-Th.jpg
-draft: 0
 handicap_data:
-  beam: 4.578151670324311
+  thcf: 1.178746171
+  beam: 4.572
+  fore_triangle_height: 16.697147037307975
+  fore_triangle_base: 9.698853938063886
+  length_over_all: 15.55108510119483
+  propellor:
+    type: fixed
   main:
     foot: 10.098146793465009
     head: 7.498171177761522
     luff: 8.49792733479639
-  thcf: 1.178746171
   topsail:
     luff: 7.598756400877834
     perpendicular: 5.297488417459156
-  propellor:
-    type: fixed
-  length_over_all: 15.55108510119483
-  fore_triangle_base: 9.698853938063886
   length_on_waterline: 13.45708363813704
-  fore_triangle_height: 16.697147037307975
-length_on_deck: 15.5448
-beam: 4.572
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 15.5448
+created_at: '2020-04-25T17:24:15.445809+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

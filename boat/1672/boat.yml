@@ -3,13 +3,14 @@ oga_no: 1672
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1986
 year_is_approximate: false
 designer:
   name: David Thomas
   id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+design_class:
+  name: Hunter Minstrel
+  id: 55b03d72-c570-40b6-b304-a2bfb71b835c
 builder:
   name: Hunter Boats Ltd.
   id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
@@ -17,35 +18,25 @@ place_built: Rochford Essex
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: '1'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: cfeace2c-3bec-4e83-8a31-c50e839d48b0
-previous_names:
-- Flying Ferret
-draft: 0.3566
 handicap_data:
-  beam: 2.234211168007803
+  thcf: 0.846766739
+  beam: 2.2342
+  draft: 0.3566
+  fore_triangle_height: 4.928675932699342
+  fore_triangle_base: 2.261643501584979
+  length_over_all: 6.909900024384297
   main:
     foot: 3.3528407705437697
     head: 2.6426481346013166
     luff: 3.9014874420872956
-  thcf: 0.846766739
-  draft: 0.35662033650329183
-  length_over_all: 6.909900024384297
-  fore_triangle_base: 2.261643501584979
   length_on_waterline: 5.815654718361374
-  fore_triangle_height: 4.928675932699342
-length_on_deck: 6.9098
-beam: 2.2342
-design_class:
-  name: Hunter Minstrel
-  id: 55b03d72-c570-40b6-b304-a2bfb71b835c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.9098
+created_at: '2020-04-25T17:08:28.539247+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Flying Ferret

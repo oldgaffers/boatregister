@@ -3,8 +3,6 @@ oga_no: 1684
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1949
 year_is_approximate: false
 designer:
@@ -17,36 +15,30 @@ place_built: Royal Dockyard
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker with drop keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Ardrishaig
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Ivan D G Graham
-  share: 64
   start: 1990
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 6bddf690-e627-433a-aaeb-fca03bdd23f8
-previous_names:
-- Cygnus
-- Swan
-draft: 0
 handicap_data:
-  beam: 1.4478176054620824
+  thcf: 0.803012538
+  beam: 1.4478
+  length_over_all: 4.26725188978298
   main:
     foot: 3.2522555474274566
     head: 4.57205559619605
     luff: 1.624603755181663
-  thcf: 0.803012538
   topsail:
     luff: 2.7950499878078516
     perpendicular: 1.8288222384784198
-  length_over_all: 4.26725188978298
   length_on_waterline: 4.26725188978298
-length_on_deck: 4.2672
-beam: 1.4478
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.2672
+created_at: '2020-04-25T17:08:40.617189+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Cygnus
+- Swan

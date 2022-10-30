@@ -3,45 +3,34 @@ oga_no: 2894
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1970
 year_is_approximate: false
 designer:
   name: Norman Howard
   id: d53c529e-c5eb-4184-a82d-a9b6c468b748
+design_class:
+  name: Privateer 20
+  id: 86ea5ab6-b194-437d-aa7f-c11059aa09b9
 builder:
   name: Small Craft
   id: 18583dd4-8ab1-4778-96df-40955b771221
 place_built: Blockley
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Cumbernauld
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2009
-  name: Graham Benson
-  share: 64
+- name: Graham Benson
   start: 2005
-- share: 64
-  member: 5127
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2009
+  share: 64
 id: 0cf81687-4b7a-43ee-9985-31419b581375
-draft: 0
 handicap_data:
-  beam: 2.081809314801268
+  beam: 2.0818
   length_over_all: 5.9436722750548645
-length_on_deck: 5.9436
-beam: 2.0818
-design_class:
-  name: Privateer 20
-  id: 86ea5ab6-b194-437d-aa7f-c11059aa09b9
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.9436
+created_at: '2020-04-25T17:31:04.463353+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

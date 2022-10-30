@@ -3,7 +3,6 @@ oga_no: 1800
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: '<p>Cruised to Norway 1993, Baltic and Russian Lakes 1994, Crossed
   Atlantic to Barbados Jan 1996. Cruised Caribbean and E coast of USA 1996. Jan 1997
   in St Lucia. Returned to UK 1997.</p>
@@ -15,6 +14,9 @@ year_is_approximate: false
 designer:
   name: Nick Skeates
   id: 75b8e267-30d0-4825-90e1-b253d02723a5
+design_class:
+  name: Wylo II
+  id: c841a838-26f9-42e7-bf3c-d3fe724552f3
 builder:
   name: Bayliss/Skeates/Forsyth
   id: dba8cb05-41af-43d9-8eda-30977681fb0a
@@ -23,45 +25,37 @@ construction_material: steel
 spar_material: wood
 construction_method: unknown
 construction_details: Steel hull, wooden deck, traditional wood spars & rigging
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Porchester
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: '2021'
-  name: Sam Bayliss
-  share: 64
+- name: Sam Bayliss
   start: 1988
-- name: Geoffrey Muston
+  end: '2021'
   share: 64
+- name: Geoffrey Muston
   start: '2021'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 64f572e5-ae9d-4f56-83f2-dd442c244a0b
-draft: 0.9906
 handicap_data:
-  beam: 3.0480370641306997
+  thcf: 0.998206478
+  beam: 3.048
+  draft: 0.9906
+  fore_triangle_height: 10.66812972445745
+  fore_triangle_base: 6.0960741282613995
+  length_over_all: 9.75371860521824
+  propellor:
+    type: fixed
   main:
     foot: 5.4864667154352595
     head: 4.114850036576445
     luff: 5.6388685686417945
-  thcf: 0.998206478
-  draft: 0.9906120458424774
   topsail:
     luff: 6.0960741282613995
     perpendicular: 2.43842965130456
-  propellor:
-    type: fixed
-  length_over_all: 9.75371860521824
-  fore_triangle_base: 6.0960741282613995
   length_on_waterline: 8.83930748597903
-  fore_triangle_height: 10.66812972445745
-length_on_deck: 9.7536
-beam: 3.048
-design_class:
-  name: Wylo II
-  id: c841a838-26f9-42e7-bf3c-d3fe724552f3
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T17:10:24.126983+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 69
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: CB Jan/Feb 89 + Mar/Apr 89
 year: 1910
 year_is_approximate: false
@@ -16,26 +15,19 @@ builder:
 place_built: Calenick
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: C M Fishwick
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: d806dbb7-5768-4f0e-9d9b-5992f666bef1
-draft: 1.9202
 handicap_data:
-  beam: 3.2004389173372347
-  draft: 1.9202633504023408
+  beam: 3.2004
+  draft: 1.9202
   length_over_all: 10.36332601804438
   length_on_waterline: 9.601316752011703
-length_on_deck: 10.3632
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.3632
+created_at: '2020-04-25T16:43:28.894035+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

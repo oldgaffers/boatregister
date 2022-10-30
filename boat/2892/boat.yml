@@ -3,8 +3,6 @@ oga_no: 2892
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1914
 year_is_approximate: false
 builder:
@@ -13,39 +11,29 @@ builder:
 place_built: King's Lynn
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Pin Mill
 hull_form: unknown
 sail_number: CM
 uk_part1: '180892'
-callsign: ''
 ownerships:
-- end: 2018
-  name: Jonathan Beacon
-  share: 64
+- name: Jonathan Beacon
   start: 2012
+  end: 2018
+  share: 64
 - name: Joff Hudson
-  share: 64
   start: 2018
-- id: 104
   share: 64
-  member: 1884
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: c56d1efd-7d3c-4eda-83eb-12301f5ea52a
 image_key: Xnvxzq
 thumb: https://photos.smugmug.com/photos/i-rdjTSQm/0/Th/i-rdjTSQm-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.539014874420873
-  draft: 1.3716166788588149
+  beam: 2.539
+  draft: 1.3716
   length_over_all: 9.44891489880517
   length_on_waterline: 8.025481589856131
-length_on_deck: 9.4488
-beam: 2.539
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.4488
+created_at: '2020-04-25T17:30:31.514061+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

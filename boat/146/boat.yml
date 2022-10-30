@@ -3,7 +3,6 @@ oga_no: 146
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: <p>She was bought by Taylor in 1952 from Grimsby, where she had
   sunk. He took her back to Nottingham to re-fit her.</p>
 year: 1893
@@ -18,51 +17,40 @@ place_built: Wivenhoe
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
-home_port: ''
 hull_form: unknown
 uk_part1: '114902'
-callsign: ''
 ownerships:
 - note: Previous owners
   text: Previous owners
-- note: Tewke 1893 - he was a marine artist.
+- start: 1893
+  note: Tewke 1893 - he was a marine artist.
   text: Tewke
-  start: 1893
-  start_is_approximate: false
-- note: Stamp 1922
+- start: 1922
+  note: Stamp 1922
   text: Stamp
-  start: 1922
-  start_is_approximate: false
-- note: Burton 1946
+- start: 1946
+  note: Burton 1946
   text: Burton
-  start: 1946
-  start_is_approximate: false
-- note: Taylor 1952
+- start: 1952
+  note: Taylor 1952
   text: Taylor
-  start: 1952
-  start_is_approximate: false
-- note: W.J. Willey 1958
+- start: 1958
+  note: W.J. Willey 1958
   text: W.J. Willey
-  start: 1958
-  start_is_approximate: false
 - name: Janine Oosterloo
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 19a3111b-be09-4ead-acc1-bfe6a78fcf00
-previous_names:
-- Vera
-draft: 1.4996
 handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.493538161424043
+  beam: 2.8956
+  draft: 1.4996
   length_over_all: 13.106559375762009
   length_on_waterline: 9.906120458424773
-length_on_deck: 13.1064
-beam: 2.8956
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.1064
+created_at: '2020-04-25T16:44:35.858238+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Vera

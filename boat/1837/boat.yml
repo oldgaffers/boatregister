@@ -23,49 +23,49 @@ spar_material: wood
 construction_method: clinker
 construction_details: Clinker, larch on sawn oak frames. Copper fastened, lead keel.
   Douglas fir spars.
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: null
+- created_at: '2021-07-06T21:01:56.61308+00:00'
+  flexibility: null
+  offered: null
+  price_flexibility: null
+  reduced: null
+  sales_text: ''
+  seller_gold_id: 80
+  seller_member: 1611
+  sold: null
+  summary: new member now owns boat
+  updated_at: '2021-07-06T21:01:56.61308+00:00'
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 80
-  end: 2021
-  share: 64
-  start: '?'
-  member: 1611
-- id: 34869
-  share: 64
+- member: 6485
+  id: 34869
   start: 2021
-  member: 6485
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: eb1b53e5-32ae-434b-b512-33caf1ceaa61
 image_key: rkcnwX
 thumb: https://photos.smugmug.com/photos/i-6zFT8dq/0/Th/i-6zFT8dq-Th.jpg
-draft: 0.9449
 handicap_data:
-  beam: 2.590831504511095
+  thcf: 0.862
+  beam: 2.5908
+  draft: 0.9449
+  fore_triangle_height: 5.6388685686417945
+  fore_triangle_base: 4.937820043891733
+  length_over_all: 6.5532796878810045
+  propellor:
+    type: none
+  sailarea: 29.899805425086786
   main:
     foot: 3.0785174347720066
     head: 3.0785174347720066
     luff: 3.581443550353572
-  thcf: 0.862
-  draft: 0.9144111192392099
   topsail:
     luff: 3.9624481833699097
     perpendicular: 2.6670324311143623
-  sailarea: 29.899805425086786
-  propellor:
-    type: none
-  length_over_all: 6.5532796878810045
-  fore_triangle_base: 4.937820043891733
   length_on_waterline: 5.9436722750548645
-  fore_triangle_height: 5.6388685686417945
-length_on_deck: 6.5532
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.5532
+created_at: '2020-04-25T17:10:59.335903+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

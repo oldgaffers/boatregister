@@ -20,6 +20,9 @@ year_is_approximate: false
 designer:
   name: John E. Perryman
   id: 729dd628-f1e4-4278-b407-d33f922d87fb
+design_class:
+  name: Norske 35
+  id: c90af07f-9dbc-40c1-9079-f047999a33fd
 builder:
   name: Windboats Marine Ltd.
   id: a70bd01d-2983-458e-9341-376978ca6f0e
@@ -27,56 +30,48 @@ place_built: Wroxham
 construction_material: ferro
 construction_method: cold_moulded
 construction_details: 'Ferro cement: seacrete/GRP decks and superstructure'
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: FRA
 home_port: La Roche-Bernard
 hull_form: long keel deep forefoot
 ssr: '36796'
-callsign: ''
 ownerships:
-- end: 2005
-  name: Adrian Tilley
-  share: 64
+- name: Adrian Tilley
   start: 2000
-- end: 2014
-  name: Geoff Skinner
+  end: 2005
   share: 64
+- name: Geoff Skinner
   start: 2005
-- id: 420
+  end: 2014
   share: 64
+- member: 4280
+  id: 420
   start: 2014
-  member: 4280
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 5f5d6489-b327-4731-8b35-d2863f91dbdb
-previous_names:
-- Sujo
 image_key: 37DmrB
 thumb: https://photos.smugmug.com/photos/i-J296Zx6/0/Th/i-J296Zx6-Th.jpg
-draft: 1.6002
 handicap_data:
-  beam: 3.5296269202633503
+  thcf: 0.977
+  beam: 3.6576
+  draft: 1.6002
+  fore_triangle_height: 9.171543525969275
+  fore_triangle_base: 6.0960741282613995
+  length_over_all: 10.768714947573761
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 57.16971505794386
   main:
     foot: 6.044257498171177
     head: 5.434650085345037
     luff: 4.35564496464277
-  thcf: 0.977
-  draft: 1.6002194586686174
-  sailarea: 57.16971505794386
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 10.768714947573761
   length_over_spars: 13.054742745671787
-  fore_triangle_base: 6.0960741282613995
   length_on_waterline: 9.44891489880517
-  fore_triangle_height: 9.171543525969275
-length_on_deck: 10.668
-beam: 3.6576
-design_class:
-  name: Norske 35
-  id: c90af07f-9dbc-40c1-9079-f047999a33fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T17:02:47.696762+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Sujo

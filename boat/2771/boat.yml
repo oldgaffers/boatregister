@@ -3,7 +3,6 @@ oga_no: 2771
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: "<p>&#39;Tahilla&#39; built for a member of the Wills tobacco family\
   \ to operate between Bristol and their Scottish estates.</p>\r\n\r\n<p>In 1940 she\
   \ took part in Operation Dynamo to rescue troops from the Dunkirk beaches and remained\
@@ -22,31 +21,26 @@ place_built: Hampton on Thames
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Teak on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: unknown
 uk_part1: '144761'
-callsign: ''
 ownerships:
-- end: 2015
-  name: Jerry Lewis
-  share: 64
+- name: Jerry Lewis
   start: 1969
-- name: Donald Fothergill
+  end: 2015
   share: 64
+- name: Donald Fothergill
   start: 2015
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0d441661-7a1f-493b-8725-111d6cac7f02
+handicap_data:
+  beam: 4.1148
+  length_over_all: 18.2882223847842
+  length_on_deck: 18.288
+created_at: '2020-04-25T17:26:56.42491+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Skylark
-draft: 0
-handicap_data:
-  beam: 4.114850036576445
-  length_over_all: 18.2882223847842
-length_on_deck: 18.288
-beam: 4.1148
-for_sale_state:
-  text: not_for_sale

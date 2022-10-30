@@ -28,65 +28,76 @@ builder:
 place_built: Southampton
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 15995
+- created_at: '2019-12-19T17:18:34+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>25ft LOD, 9ft beam, \"Onward of Ito\" was built in 1923 as an inshore\
+    \ fishing boat on Itchen Ferry lines. Converted to a yacht following her early\
+    \ fishing career, she underwent a big restoration by Traditional Sail in 2000.\
+    \ She is truly immaculate, it is easy to see that she has been extremely well\
+    \ maintained&nbsp;over the years.</p><p>\"Onward of Ito\" is a well-known local\
+    \ gaffer having cruised the Solent and English Channel for 40 years or so. Once\
+    \ owned by Norman Gaches, who spent five years on restoration in the 1980s, many\
+    \ Solent OGA members&nbsp;may remember she remained &ldquo;Norman\u2019s Boat\"\
+    \ even after Martyn Jenkins bought her around 1989/1990.</p><p>Available for inspection\
+    \ in Yarmouth, Isle of Wight.</p><p>For more details see <a href=\"http://www.waypoint-yachtbrokers.co.uk/boat_for_sale/1472696/\"\
+    \ target=\"_PARENT\">Waypoint Yacht Brokers</a>.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.11357+00:00'
 home_country: GBR
 home_port: Yarmouth
 hull_form: long keel deep forefoot
 sail_number: '919'
-callsign: ''
 ownerships:
-- end: 1971
+- start: 1953
+  end: 1971
   note: 1953-1971 owned by Lt.Cdr A.G.Scadding at Wooton Creek
   text: owned by Lt.Cdr A.G.Scadding at Wooton Creek
-  start: 1953
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 2098
+- start: 1972
+  end: 2098
   note: 1972-198? owned by I D Hodgson, at Wooton Creek
   text: owned by I D Hodgson, at Wooton Creek
-  start: 1972
-  end_is_approximate: true
-  start_is_approximate: false
-- note: Martin Jenkins owned 'Onward of Ito' in the 1980s and so too the renowned
+- start: 1980
+  note: Martin Jenkins owned 'Onward of Ito' in the 1980s and so too the renowned
     woodcarver Norman Gaches.
   text: Martin Jenkins owned 'Onward of Ito' in the
-  start: 1980
-  start_is_approximate: false
-- end: 2019
-  name: Don Burns
-  share: 64
+- name: Don Burns
   start: 1997
-- id: 470
+  end: 2019
   share: 64
+- member: 4559
+  id: 470
   start: 2019
-  member: 4559
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 87f7b5e0-6cf2-4ea2-a3b7-c8d78671df89
-previous_names:
-- Onward
 image_key: XH94w5
 thumb: https://photos.smugmug.com/photos/i-xjnTrqB/0/Th/i-xjnTrqB-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.913512643
+  beam: 2.7432
+  draft: 1.2192
+  fore_triangle_height: 7.924896366739819
+  fore_triangle_base: 6.4008778346744695
+  length_over_all: 7.315288953913679
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 4.87685930260912
     head: 3.9624481833699097
     luff: 3.9624481833699097
-  thcf: 0.913512643
-  draft: 1.21921482565228
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 6.4008778346744695
   length_on_waterline: 7.315288953913679
-  fore_triangle_height: 7.924896366739819
-length_on_deck: 7.3152
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T16:57:11.167441+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Onward

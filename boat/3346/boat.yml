@@ -3,13 +3,14 @@ oga_no: 3346
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2012
 year_is_approximate: false
 designer:
   name: Roger Dongray/David Thomas Yachts
   id: 7d1ad008-4263-419d-8843-d466ded0ec2c
+design_class:
+  name: Cornish Crabber 26
+  id: 50503297-7263-4cf4-af74-102bb153bc8e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,7 +18,7 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: West Mersea
@@ -26,36 +27,31 @@ sail_number: '18'
 ssr: '166288'
 callsign: 2FOL2
 ownerships:
-- id: 957
-  share: 64
+- member: 6164
+  id: 957
   start: 2016
-  member: 6164
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: d3778453-336e-4824-95d4-90ffe6266fef
 image_key: r2t6Z8
 thumb: https://photos.smugmug.com/photos/i-cLkW3nv/0/Th/i-cLkW3nv-Th.jpg
-draft: 0.762
 handicap_data:
+  beam: 2.7676
+  draft: 0.762
+  fore_triangle_height: 7.5316
+  fore_triangle_base: 4.2916
+  sailarea: 4
   main:
     foot: 16.63
     head: 14.29
     luff: 15.08
-  sailarea: 4
   moving_keel: true
   length_overall: 8.001
   calculated_thcf: 0.917
   draft_keel_down: 1.9812
   moving_keel_type: Centreboard
   length_over_spars: 9.9822
-  fore_triangle_base: 4.2916
   length_on_waterline: 7.239
-  fore_triangle_height: 7.5316
-length_on_deck: 8.001
-beam: 2.7676
-design_class:
-  name: Cornish Crabber 26
-  id: 50503297-7263-4cf4-af74-102bb153bc8e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.001
+created_at: '2020-04-25T17:50:52.426549+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

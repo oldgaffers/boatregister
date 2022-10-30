@@ -3,7 +3,6 @@ oga_no: 2608
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: See paper Archive,  CB & the Boatman
 year: 1933
 year_is_approximate: false
@@ -18,36 +17,30 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel Wych Elm below & yellow pine above on steamed Rock elm
   timbers on oak  keel.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Falmouth
 hull_form: long keel deep forefoot
 uk_part1: 70928S
-callsign: ''
 ownerships:
 - name: Graham Morris
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e1ffee1a-5408-471b-b2ef-a843fe61c43e
-draft: 1.3716
 handicap_data:
-  beam: 2.2098268714947573
+  thcf: 0.853201753
+  beam: 2.2098
+  draft: 1.3716
+  fore_triangle_height: 6.4008778346744695
+  fore_triangle_base: 3.0480370641306997
+  length_over_all: 6.4770787612777365
+  propellor:
+    type: fixed
   main:
     foot: 3.8618629602535965
     head: 2.8194342843208973
     luff: 4.014264813460131
-  thcf: 0.853201753
-  draft: 1.3716166788588149
-  propellor:
-    type: fixed
-  length_over_all: 6.4770787612777365
-  fore_triangle_base: 3.0480370641306997
   length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 6.4008778346744695
-length_on_deck: 6.477
-beam: 2.2098
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.477
+created_at: '2020-04-25T17:23:20.54912+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

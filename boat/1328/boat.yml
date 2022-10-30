@@ -3,42 +3,34 @@ oga_no: 1328
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1978
 year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+design_class:
+  name: Tosher 18
+  id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
 builder:
   name: Terry Heard
   id: ceeba774-b0f8-48a9-a036-732b70c8a35f
 place_built: Mylor Bridge
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Weston Super Mare
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: John Kilvington
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 59e805d1-9362-4e11-8886-e8aa09df794e
-draft: 0.9144
 handicap_data:
-  beam: 1.9812240916849548
-  draft: 0.9144111192392099
+  beam: 1.9812
+  draft: 0.9144
   length_over_all: 5.6388685686417945
   length_on_waterline: 5.6388685686417945
-length_on_deck: 5.6388
-beam: 1.9812
-design_class:
-  name: Tosher 18
-  id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.6388
+created_at: '2020-04-25T17:03:20.271296+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -25,6 +25,9 @@ year_is_approximate: false
 designer:
   name: A.R. Curjel
   id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
+design_class:
+  name: Deben Cherub
+  id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
 builder:
   name: Everson A. and Sons
   id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
@@ -32,57 +35,59 @@ place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
 construction_details: Larch on Rock Elm Timbers Oak Floors.
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 0
+- created_at: '2018-04-21T11:38:21+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>\"Sea Pig\" is my father\u2019s old Deben Cherub, in a sorry state\
+    \ at Heybridge Basin and free to a good home. There has been an urgent appeal\
+    \ to save her since January 2016. She needs an enthusiastic person to complete\
+    \ the restoration project.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.098038+00:00'
 home_country: GBR
 home_port: Topsham, Devon
 hull_form: long keel sloping forefoot
 sail_number: CC4
 ssr: SSR37300
 uk_part1: SSR37300
-callsign: ''
 ownerships:
-- end: 1984
-  name: Titheridge
-  share: 64
+- name: Titheridge
   start: 1948
-- end: 2017
-  name: Colin Edmond
+  end: 1984
   share: 64
+- name: Colin Edmond
   start: 1984
-- name: Thomas Morley
+  end: 2017
   share: 64
+- name: Thomas Morley
   start: 2017
-- share: 64
-  member: 6175
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 016bb845-c145-422e-b80a-95581e7508d3
 image_key: GMm7sm
 thumb: https://photos.smugmug.com/photos/i-s2mBGjr/0/Th/i-s2mBGjr-Th.jpg
-draft: 0.8534
 handicap_data:
-  beam: 2.0574250182882223
+  thcf: 0.893
+  beam: 2.0726
+  draft: 0.8534
+  fore_triangle_height: 6.224091684954889
+  fore_triangle_base: 2.7676176542306754
+  length_over_all: 6.4770787612777365
+  propellor:
+    type: fixed
+  sailarea: 32.05080639001748
   main:
     foot: 5.303584491587417
     head: 5.510851011948304
     luff: 2.996220434040478
-  thcf: 0.893
-  draft: 0.8382101926359424
-  sailarea: 32.05080639001748
-  propellor:
-    type: fixed
-  length_over_all: 6.4770787612777365
-  fore_triangle_base: 2.7676176542306754
   length_on_waterline: 5.651060716898317
-  fore_triangle_height: 6.224091684954889
-length_on_deck: 6.4922
-beam: 2.0726
-design_class:
-  name: Deben Cherub
-  id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4922
+created_at: '2020-04-25T16:43:25.000584+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

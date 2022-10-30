@@ -15,29 +15,40 @@ year_is_approximate: false
 construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 7250
+- created_at: '2019-11-07T18:39:43+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Alice" is a 25" Itchen Ferry (32" with bowsprit extended), built
+    in 1980. Combining the grace and power of traditional gaff rig with the convenience
+    of a GRP hull, she is a safe and sturdy sea-boat with a deep cockpit and well-maintained
+    Yanmar 2QM15 inboard engine.</p><p>Visit <a href="https://www.apolloduck.com/boat/itchen-ferry-25/612528"
+    target="_PARENT">Apollo Duck</a>&nbsp;for full specification and more photos.</p><p>Call
+    Bob Hoy:&nbsp;+44 (0)771 3596755</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.438521+00:00'
 home_country: GBR
 home_port: Rochford, Essex
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Alan Dreezer
-  share: 64
   start: 1987
-updated_at: '2022-04-13T21:44:49.159476+00:00'
-website: ''
+  share: 64
 id: 22ece1f1-ec8c-4689-9cae-a0799b623b4c
 image_key: WCw9bM
 thumb: https://photos.smugmug.com/photos/i-wnkpT8T/0/Th/i-wnkpT8T-Th.jpg
-draft: 1.067
 handicap_data:
-  beam: 2.926
+  beam: 2.4384
+  draft: 1.067
   length_on_deck: 7.62
   length_overall: 7.62
   length_on_waterline: 7.01
-length_on_deck: 7.62
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:54:58.477425+00:00'
+updated_at: '2022-04-13T21:44:49.159476+00:00'

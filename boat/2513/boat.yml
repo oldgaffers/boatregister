@@ -4,12 +4,14 @@ generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Furstin is a Tamarisk 29</p>
-full_description: ''
 year: 1988
 year_is_approximate: false
 designer:
   name: Percy Dalton/David M. Cannell
   id: 1240b4a7-2890-42ab-873d-17cdfe774e9d
+design_class:
+  name: Tamarisk 29
+  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
 builder:
   name: North Cornwall Marine
   id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
@@ -17,53 +19,40 @@ place_built: Cornwall
 construction_material: grp
 construction_method: unknown
 construction_details: G R P
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Yarmouth I o W
 hull_form: long keel deep forefoot
 sail_number: TK12
-callsign: ''
 ownerships:
 - name: Peter Garratt
-  share: 64
   start: 2012
-- id: 542
   share: 64
-  member: 4913
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: f291ee9f-4c89-4d79-bc09-8993ce7071e7
-previous_names:
-- Turstin
 image_key: jcdTBL
 thumb: https://photos.smugmug.com/photos/i-3FtcSWS/0/Th/i-3FtcSWS-Th.jpg
-draft: 1.4326
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.981
+  beam: 2.7432
+  draft: 1.4326
+  fore_triangle_height: 8.558888076079004
+  fore_triangle_base: 5.18166300902219
+  length_over_all: 8.83930748597903
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 58.12236582665401
   main:
     foot: 5.334064862228725
     head: 4.825042672518897
     luff: 5.6388685686417945
-  thcf: 0.981
-  draft: 1.4234333089490367
   topsail:
     luff: 5.105462082418922
     perpendicular: 2.1580102414045355
-  sailarea: 58.12236582665401
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.83930748597903
-  fore_triangle_base: 5.18166300902219
   length_on_waterline: 8.330285296269201
-  fore_triangle_height: 8.558888076079004
-length_on_deck: 8.8392
-beam: 2.7432
-design_class:
-  name: Tamarisk 29
-  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.8392
+created_at: '2020-04-25T17:21:53.972968+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Turstin

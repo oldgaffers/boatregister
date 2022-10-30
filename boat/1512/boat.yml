@@ -3,7 +3,6 @@ oga_no: 1512
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Log Sep/98, Dec/98 CB Jan '92 For sale Log Dec 2001,  Dec 2003 and
   again August 04 CB 194.
 year: 1952
@@ -18,10 +17,8 @@ place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch pine and mahogany on steamed frames, Oak backbone
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log Sep/98
@@ -33,19 +30,14 @@ reference:
 - CB 194
 ssr: '24162'
 uk_part1: '184911'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 334b3459-4397-4825-b5ea-6d265370c53e
-draft: 0.9906
 handicap_data:
-  beam: 2.13362594489149
-  draft: 0.9906120458424774
+  beam: 2.1336
+  draft: 0.9906
+  length_over_all: 6.833699097781029
   propellor:
     type: fixed
-  length_over_all: 6.833699097781029
   length_on_waterline: 5.7912704218483295
-length_on_deck: 6.8336
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8336
+created_at: '2020-04-25T17:06:06.930141+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

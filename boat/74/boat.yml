@@ -3,13 +3,15 @@ oga_no: 74
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Log 73/1, 89/1, 90/1  see cardex for list od owners.
 year: 1896
 year_is_approximate: false
 designer:
   name: R. McAlister
   id: 777fc78b-8c13-43ab-85c9-a1ddba77225f
+design_class:
+  name: Clyde 18 Rater
+  id: f46c8d7a-f979-4446-b5eb-f627d7852f3f
 builder:
   name: R. McAlister and Son
   id: 2672cda9-f642-42e7-bc28-2ec07d86d165
@@ -17,35 +19,25 @@ place_built: Dumbarton
 construction_material: wood
 construction_method: double_diagonal
 construction_details: Teak double diagonal planking silk interleaving.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 73/1
 - Log 89/1
 - Log 90/1
-callsign: ''
 ownerships:
 - name: G B Ling
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: f63f98c8-b67e-4c45-8938-33b981b9b52e
 image_key: WGk7hZ
 thumb: https://photos.smugmug.com/photos/i-xkN2DQ6/0/Th/i-xkN2DQ6-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.13362594489149
-  draft: 1.21921482565228
+  beam: 2.1336
+  draft: 1.2192
   length_over_all: 6.0960741282613995
   length_on_waterline: 5.4864667154352595
-length_on_deck: 6.096
-beam: 2.1336
-design_class:
-  name: Clyde 18 Rater
-  id: f46c8d7a-f979-4446-b5eb-f627d7852f3f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.096
+created_at: '2020-04-25T16:43:33.125537+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 1266
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 83/1, 91/1
 year: 1977
 year_is_approximate: false
@@ -17,36 +16,29 @@ place_built: Granville
 construction_material: wood
 construction_method: unknown
 construction_details: Oak hull with iroko deck and superstructure
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 83/1
 - Log 91/1
-callsign: ''
 ownerships:
 - name: D de Recy
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 360f4581-fe12-4540-85a1-57417b495aa4
-draft: 2.0726
 handicap_data:
-  beam: 3.9624481833699097
+  thcf: 1.109635267
+  beam: 3.9624
+  draft: 2.0726
+  fore_triangle_height: 13.655206047305533
+  fore_triangle_base: 9.1441111923921
+  length_over_all: 13.258961228968543
   main:
     foot: 7.924896366739819
     head: 7.132406730065837
     luff: 7.254328212631066
-  thcf: 1.109635267
-  draft: 2.0726652036088757
-  length_over_all: 13.258961228968543
-  fore_triangle_base: 9.1441111923921
   length_on_waterline: 11.277737137283589
-  fore_triangle_height: 13.655206047305533
-length_on_deck: 13.2588
-beam: 3.9624
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.2588
+created_at: '2020-04-25T17:02:24.799845+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

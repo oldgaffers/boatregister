@@ -3,7 +3,6 @@ oga_no: 723
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log sp/93
 year: 1950
 year_is_approximate: false
@@ -17,38 +16,31 @@ place_built: Southend on Sea
 construction_material: wood
 construction_method: unknown
 construction_details: Pitch pine on oak, copper fastened with wooden floors
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log sp/93
 sail_number: 723Y
 ssr: '22272'
 uk_part1: '300941'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 9289cf7f-28a7-45fa-9636-5dac96c1ed98
-previous_names:
-- Delphinus
-draft: 1.143
 handicap_data:
-  beam: 2.6426481346013166
+  thcf: 0.896647799
+  beam: 2.6426
+  draft: 1.143
+  fore_triangle_height: 8.077298219946353
+  fore_triangle_base: 3.910631553279688
+  length_over_all: 7.620092660326749
+  propellor:
+    type: fixed
   main:
     foot: 4.44403803950256
     head: 2.9200195074372104
     luff: 4.57205559619605
-  thcf: 0.896647799
-  draft: 1.1430138990490124
-  propellor:
-    type: fixed
-  length_over_all: 7.620092660326749
-  fore_triangle_base: 3.910631553279688
   length_on_waterline: 7.406730065837601
-  fore_triangle_height: 8.077298219946353
-length_on_deck: 7.62
-beam: 2.6426
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T16:53:19.255362+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Delphinus

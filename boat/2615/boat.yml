@@ -3,13 +3,15 @@ oga_no: 2615
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: CB Jul/Aug 88, High peaked gaff cat rig.
 year: 1983
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Cormorant
+  id: d690a3a2-4faa-4d24-bfed-eb8bb7d3abd8
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,35 +19,26 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hamble
 hull_form: unknown
 sail_number: '33'
-callsign: ''
 ownerships:
 - name: Max Taylor
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 12f53a7f-35a2-405c-b76a-9ae0d23971d4
-draft: 0.1768
 handicap_data:
-  beam: 1.7008046817849305
+  thcf: 0.72974644
+  beam: 1.7008
+  draft: 0.1768
+  length_over_all: 3.733845403560107
   main:
     foot: 3.023652767617654
     head: 2.4902462813947817
     luff: 2.334796391124116
-  thcf: 0.72974644
-  draft: 0.17678614971958057
-  length_over_all: 3.733845403560107
   length_on_waterline: 3.633260180443794
-length_on_deck: 3.7338
-beam: 1.7008
-design_class:
-  name: Cornish Crabber Cormorant
-  id: d690a3a2-4faa-4d24-bfed-eb8bb7d3abd8
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.7338
+created_at: '2020-04-25T17:23:26.60824+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

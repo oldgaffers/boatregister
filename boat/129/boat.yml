@@ -3,8 +3,6 @@ oga_no: 129
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1903
 year_is_approximate: false
 designer:
@@ -17,36 +15,29 @@ place_built: Port Bannatyne
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: W J Birchall
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: dc7da24e-0960-4896-9517-9c5be01fd058
-draft: 1.463
 handicap_data:
-  beam: 2.590831504511095
+  thcf: 0.970801867
+  beam: 2.5908
+  draft: 1.463
+  fore_triangle_height: 7.924896366739819
+  fore_triangle_base: 4.87685930260912
+  length_over_all: 9.083150451109486
   main:
     foot: 6.7818824676908065
     head: 4.191050963179712
     luff: 4.57205559619605
-  thcf: 0.970801867
-  draft: 1.4630577907827358
   topsail:
     luff: 4.87685930260912
     perpendicular: 1.127773713728359
-  length_over_all: 9.083150451109486
-  fore_triangle_base: 4.87685930260912
   length_on_waterline: 7.010485247500609
-  fore_triangle_height: 7.924896366739819
-length_on_deck: 9.083
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.083
+created_at: '2020-04-25T16:44:21.11399+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

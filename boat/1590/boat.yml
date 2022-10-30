@@ -3,13 +3,14 @@ oga_no: 1590
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1985
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Shrimper
+  id: 7caf07ef-acf3-434b-a639-5c94188071a8
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -18,36 +19,26 @@ construction_material: grp
 spar_material: wood
 construction_method: unknown
 construction_details: G R P hull
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: centre-boarder
-callsign: ''
 ownerships:
 - name: P Keeling
-  share: 64
   start: 1985
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e755d0b3-4b7e-4b9b-867f-5e393736b250
-draft: 0.4816
 handicap_data:
-  beam: 2.1854425749817117
+  thcf: 0.827448987
+  beam: 2.1854
+  draft: 0.4816
+  fore_triangle_height: 4.648256522799317
+  fore_triangle_base: 2.539014874420873
+  length_over_all: 5.867471348451597
   main:
     foot: 3.5052426237503047
     head: 3.0998536942209216
     luff: 3.3528407705437697
-  thcf: 0.827448987
-  draft: 0.4815898561326506
-  length_over_all: 5.867471348451597
-  fore_triangle_base: 2.539014874420873
   length_on_waterline: 5.334064862228725
-  fore_triangle_height: 4.648256522799317
-length_on_deck: 5.8674
-beam: 2.1854
-design_class:
-  name: Cornish Shrimper
-  id: 7caf07ef-acf3-434b-a639-5c94188071a8
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.8674
+created_at: '2020-04-25T17:07:16.95629+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

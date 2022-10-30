@@ -3,13 +3,15 @@ oga_no: 2499
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: See back of form
 year: 1992
 year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+design_class:
+  name: Oysterman 16
+  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
 builder:
   name: Bryan Gibson
   id: 2f3ba99a-5d49-40a2-b8a1-3e11db713ac3
@@ -17,44 +19,35 @@ place_built: Luxulyan, Cornwall
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Littlehampton
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Hugh Evans
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e61e8b04-64f7-4f8a-97de-3d8ca21cad95
-previous_names:
-- Beaver
-- Victoria
-draft: 0.9144
 handicap_data:
-  beam: 1.929407461594733
+  thcf: 0.838514761
+  beam: 1.9294
+  draft: 0.9144
+  fore_triangle_height: 6.019873201658132
+  fore_triangle_base: 3.2309192879785416
+  length_over_all: 4.87685930260912
+  propellor:
+    type: fixed
   main:
     foot: 3.6820287734698853
     head: 3.2309192879785416
     luff: 3.633260180443794
-  thcf: 0.838514761
-  draft: 0.9144111192392099
   topsail:
     luff: 3.9624481833699097
     perpendicular: 2.386613021214338
-  propellor:
-    type: fixed
-  length_over_all: 4.87685930260912
-  fore_triangle_base: 3.2309192879785416
   length_on_waterline: 4.800658376005852
-  fore_triangle_height: 6.019873201658132
-length_on_deck: 4.8768
-beam: 1.9294
-design_class:
-  name: Oysterman 16
-  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:21:40.291496+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Beaver
+- Victoria

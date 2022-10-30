@@ -22,41 +22,37 @@ builder:
 place_built: Gorinchem Netherlands
 construction_material: steel
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- id: 935
-  share: 64
+- member: 6116
+  id: 935
   start: 2013
-  member: 6116
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 27cfa9b4-53bb-47b0-a692-07acdacd6778
-previous_names:
-- Polster
 image_key: vdFN8h
 thumb: https://photos.smugmug.com/photos/i-28SZLgx/0/Th/i-28SZLgx-Th.jpg
-draft: 1.6002
 handicap_data:
+  beam: 3.7003
+  draft: 1.6002
+  fore_triangle_height: 8.5009
+  fore_triangle_base: 3.8009
+  sailarea: 10
   main:
     foot: 16.08
     luff: 36.91
-  sailarea: 10
   foretopsail:
     luff: 3.74
     perpendicular: 6
   length_overall: 11.1496
   calculated_thcf: 1.005
   length_over_spars: 12.3993
-  fore_triangle_base: 3.8009
   length_on_waterline: 11.0033
-  fore_triangle_height: 8.5009
-length_on_deck: 11.1496
-beam: 3.7003
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.1496
+created_at: '2020-04-25T18:37:17.431134+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Polster

@@ -12,6 +12,9 @@ year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+design_class:
+  name: Drascombe Driver
+  id: a1dff81a-2168-4f16-ae36-1685522e08ae
 builder:
   name: Honnor Marine Ltd.
   id: 2e1683ac-2223-480f-9412-be351f564ae9
@@ -20,34 +23,44 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 3950
+- created_at: '2019-02-28T18:15:25+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"John B" is a lovely Drascombe Driver, built in the late 1970s in
+    GRP, all original. Similar to a Lugger, but with long keel and small bilge plates.
+    She has an inboard and outboard engines. Dipping lug rig. All the usual gear including
+    pumps, oars and sculling oar, sprayhood&nbsp;are included in the sale along with
+    a two wheel solid trailer with docking arms and cockpit cover.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: <p>&quot;John B&quot; is a lovely Drascombe Driver, built in the late 1970s
+    in GRP, all original, sale includes two-wheel trailer.</p>
+  updated_at: '2020-05-03T10:13:13.454312+00:00'
 home_country: GBR
 home_port: Amble, Northumberland
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2019
-  name: John Bird
-  share: 64
+- name: John Bird
   start: 2015
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2019
+  share: 64
 id: 17849e2e-acfb-46f6-a0e8-4e78dcb7b392
-previous_names:
-- Lone Gull
 image_key: FZFPcc
 thumb: https://photos.smugmug.com/photos/i-QCv5wCD/0/Th/i-QCv5wCD-Th.jpg
-draft: 0.4572
 handicap_data:
+  beam: 1.8532
+  draft: 0.4572
   length_overall: 5.4864
   length_over_spars: 5.4864
   length_on_waterline: 5.1816
-length_on_deck: 5.4864
-beam: 1.8532
-design_class:
-  name: Drascombe Driver
-  id: a1dff81a-2168-4f16-ae36-1685522e08ae
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T17:50:59.598102+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Lone Gull

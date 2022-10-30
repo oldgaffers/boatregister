@@ -3,7 +3,6 @@ oga_no: 2603
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: MNK Race 02
 year: 1925
 year_is_approximate: false
@@ -11,35 +10,29 @@ place_built: Holland
 construction_material: steel
 construction_method: unknown
 construction_details: Steel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Conyer
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Pawes, Jack
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e01636fb-72fa-49bb-b8ab-2e63bbc8aa4b
-draft: 0.4999
 handicap_data:
-  beam: 2.9992684711046085
+  thcf: 1.037207175
+  beam: 2.9992
+  draft: 0.4999
+  fore_triangle_height: 8.702145818093149
+  fore_triangle_base: 3.349792733479639
+  length_over_all: 12.009266032674956
+  propellor:
+    type: fixed
   main:
     foot: 7.251280175566935
     head: 2.4993903925871734
     luff: 8.001097293343086
-  thcf: 1.037207175
-  draft: 0.4998780785174347
-  propellor:
-    type: fixed
-  length_over_all: 12.009266032674956
-  fore_triangle_base: 3.349792733479639
   length_on_waterline: 11.302121433796634
-  fore_triangle_height: 8.702145818093149
-length_on_deck: 12.0091
-beam: 2.9992
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.0091
+created_at: '2020-04-25T17:23:15.860716+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

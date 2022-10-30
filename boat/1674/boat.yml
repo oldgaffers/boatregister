@@ -3,13 +3,14 @@ oga_no: 1674
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1949
 year_is_approximate: false
 designer:
   name: Alan Buchanan
   id: c501c48d-9b2b-4b4b-a120-ddbf63ae35b5
+design_class:
+  name: Yachting Monthly 3 Tonner
+  id: 14fad572-b312-4ead-8900-9a8d90d19c2a
 builder:
   name: William Wyatt Ltd.
   id: db113064-8980-479b-8190-764e09007320
@@ -17,25 +18,15 @@ place_built: West Mersea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 1189c48f-c0ff-4760-9a6a-9c267e88c98f
-draft: 1.3716
 handicap_data:
-  beam: 2.194586686174104
-  draft: 1.3716166788588149
+  beam: 2.1946
+  draft: 1.3716
   length_over_all: 6.217995610826627
   length_on_waterline: 5.18166300902219
-length_on_deck: 6.2179
-beam: 2.1946
-design_class:
-  name: Yachting Monthly 3 Tonner
-  id: 14fad572-b312-4ead-8900-9a8d90d19c2a
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.2179
+created_at: '2020-04-25T17:08:31.254519+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

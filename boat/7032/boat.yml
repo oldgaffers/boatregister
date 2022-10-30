@@ -11,6 +11,9 @@ year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+design_class:
+  name: Peter Duck
+  id: 63bb01a3-7495-48a5-9ca8-e90c5d93bc09
 builder:
   name: Porter and Haylett Ltd.
   id: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
@@ -18,37 +21,26 @@ place_built: Wroxham
 construction_material: wood
 construction_method: unknown
 construction_details: Iroko planking on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Cowes
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2013
-  name: Harry Noakes
-  share: 64
+- name: Harry Noakes
   start: 2004
-- name: Caroline Keen
-  share: 32
-  start: 2013
-- id: 807
+  end: 2013
   share: 64
-  member: 5864
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+- name: Caroline Keen
+  start: 2013
+  share: 32
 id: 0cfa528d-b6b4-4773-87b0-cb92c106ac8a
-draft: 1.1186
 handicap_data:
+  beam: 2.6914
+  draft: 1.1186
   sailarea: 7
   length_overall: 8.6868
   length_on_waterline: 7.62
-length_on_deck: 8.6868
-beam: 2.6914
-design_class:
-  name: Peter Duck
-  id: 63bb01a3-7495-48a5-9ca8-e90c5d93bc09
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.6868
+created_at: '2020-04-25T17:42:44.521939+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

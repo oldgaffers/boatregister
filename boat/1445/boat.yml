@@ -3,8 +3,6 @@ oga_no: 1445
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1986
 year_is_approximate: false
 designer:
@@ -17,46 +15,36 @@ place_built: Penryn
 construction_material: wood
 construction_method: carvel
 construction_details: 'Carvel iroko planking on oak '
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Falmouth
 hull_form: long keel deep forefoot
 sail_number: '1445'
 ssr: '462447'
-callsign: ''
 ownerships:
-- end: 2010
-  name: Joff Rorke
-  share: 64
+- name: Joff Rorke
   start: 2004
-- id: 388
+  end: 2010
   share: 64
-  member: 4143
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: e651800d-b4bb-430c-9b1c-b924f7801230
-draft: 1.4722
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 0.984932119
+  beam: 2.8956
+  draft: 1.4722
+  fore_triangle_height: 10.387710314557424
+  fore_triangle_base: 5.992440868080956
+  length_over_all: 8.510119483052915
+  propellor:
+    type: fixed
   main:
     foot: 5.4864667154352595
     head: 4.87685930260912
     luff: 5.4864667154352595
-  thcf: 0.984932119
-  draft: 1.4630577907827358
   topsail:
     luff: 6.5532796878810045
     perpendicular: 2.6670324311143623
-  propellor:
-    type: fixed
-  length_over_all: 8.510119483052915
-  fore_triangle_base: 5.992440868080956
   length_on_waterline: 8.177883443062667
-  fore_triangle_height: 10.387710314557424
-length_on_deck: 8.51
-beam: 2.8956
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.51
+created_at: '2020-04-25T17:05:04.414554+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

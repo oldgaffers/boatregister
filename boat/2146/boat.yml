@@ -3,7 +3,6 @@ oga_no: 2146
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Early History unknown, found on the Fal and owned by 1985-1989.
   They converted her to junk rig. Travelled to France and cruised South Coast. Converted
   to gaff rig 1997
@@ -11,34 +10,27 @@ year: 1964
 year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: '55'
-callsign: ''
 ownerships:
 - name: Barbara Boon
-  share: 64
   start: 1991
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7f30bb6c-7c58-4a7a-974a-212ec235c615
-draft: 0.6096
 handicap_data:
-  beam: 2.109241648378444
+  thcf: 0.798455491
+  beam: 2.1092
+  draft: 0.6096
+  fore_triangle_height: 3.3528407705437697
+  fore_triangle_base: 1.8288222384784198
+  length_over_all: 6.0960741282613995
   main:
     foot: 3.5052426237503047
     head: 2.9718361375274323
     luff: 2.43842965130456
-  thcf: 0.798455491
-  draft: 0.60960741282614
-  length_over_all: 6.0960741282613995
-  fore_triangle_base: 1.8288222384784198
   length_on_waterline: 5.029261155815655
-  fore_triangle_height: 3.3528407705437697
-length_on_deck: 6.096
-beam: 2.1092
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.096
+created_at: '2020-04-25T17:15:42.682892+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

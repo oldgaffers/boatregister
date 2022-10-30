@@ -3,8 +3,6 @@ oga_no: 791
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1960
 year_is_approximate: false
 designer:
@@ -17,40 +15,34 @@ place_built: Leigh on Sea
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker mahogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Galmpton
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: J M Wright
-  share: 64
   start: 1975
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 78d9cffc-4e33-48d2-bc06-29e3108b1bab
-previous_names:
-- Fritillary
-draft: 1.2192
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.880652425
+  beam: 2.4384
+  draft: 1.2192
+  fore_triangle_height: 6.0960741282613995
+  fore_triangle_base: 2.7432333577176298
+  length_over_all: 7.315288953913679
+  propellor:
+    type: fixed
   main:
     foot: 4.114850036576445
     head: 3.8100463301633747
     luff: 3.6576444769568397
-  thcf: 0.880652425
-  draft: 1.21921482565228
   topsail:
     luff: 3.5052426237503047
     perpendicular: 2.0574250182882223
-  propellor:
-    type: fixed
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 2.7432333577176298
   length_on_waterline: 6.705681541087539
-  fore_triangle_height: 6.0960741282613995
-length_on_deck: 7.3152
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T16:54:20.384069+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Fritillary

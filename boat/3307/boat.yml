@@ -5,7 +5,6 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: <p>&#39;Swallow&#39; is a Stornoway 9 built for the children as
   a rowing/sailing dinghy.</p>
-full_description: ''
 year: 2011
 year_is_approximate: false
 designer:
@@ -18,30 +17,28 @@ place_built: Radstock Somerset
 construction_material: plywood
 construction_method: clinker_ply
 construction_details: Clinker plywood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Somerset
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 911
-  share: 64
+- member: 6050
+  id: 911
   start: 2011
-  member: 6050
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ab6d59cc-8cd0-4618-ae74-8fd22bd15d19
 image_key: H9XhKc
 thumb: https://photos.smugmug.com/photos/i-8DM8kfm/0/Th/i-8DM8kfm-Th.jpg
-draft: 0.1585
 handicap_data:
+  beam: 1.3686
+  draft: 0.1585
+  sailarea: 3
   main:
     foot: 7.25
     head: 7.79
     luff: 4.18
-  sailarea: 3
   moving_keel: true
   length_overall: 2.7493
   calculated_thcf: 0.673
@@ -49,7 +46,6 @@ handicap_data:
   moving_keel_type: Centreboard
   length_over_spars: 2.7493
   length_on_waterline: 2.667
-length_on_deck: 2.7493
-beam: 1.3686
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 2.7493
+created_at: '2020-04-25T17:48:52.877834+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

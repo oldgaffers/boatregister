@@ -3,7 +3,6 @@ oga_no: 887
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: log 91/1, A-W/95.  Changed hands 2002
 year: 1928
 year_is_approximate: false
@@ -17,39 +16,33 @@ place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch Pine on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: River Trent
 hull_form: long keel deep forefoot
 uk_part1: '162445'
-callsign: ''
 ownerships:
 - name: John Carson
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 76a8858c-629f-4d27-a6e0-7b4ca293e349
-draft: 1.6002
 handicap_data:
-  beam: 2.682272616435016
+  thcf: 0.954120056
+  beam: 2.6822
+  draft: 1.6002
+  fore_triangle_height: 6.5532796878810045
+  fore_triangle_base: 4.724457449402585
+  length_over_all: 8.686905632772493
+  propellor:
+    type: fixed
   main:
     foot: 4.87685930260912
     head: 4.57205559619605
     luff: 4.114850036576445
-  thcf: 0.954120056
-  draft: 1.6002194586686174
   topsail:
     luff: 5.4864667154352595
     perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 8.686905632772493
-  fore_triangle_base: 4.724457449402585
   length_on_waterline: 8.53450377956596
-  fore_triangle_height: 6.5532796878810045
-length_on_deck: 8.6868
-beam: 2.6822
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.6868
+created_at: '2020-04-25T16:55:46.31483+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

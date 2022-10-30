@@ -23,52 +23,47 @@ year_is_approximate: false
 designer:
   name: Nick Skeates
   id: 75b8e267-30d0-4825-90e1-b253d02723a5
+design_class:
+  name: Wylo II
+  id: c841a838-26f9-42e7-bf3c-d3fe724552f3
 place_built: Thakeham & Shoreham, Sussex
 construction_material: steel
 construction_method: unknown
 construction_details: Welded multi chine
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Paynes, Prinsted, W. Sussex
 hull_form: cut_away_stem
 uk_part1: '921116'
-callsign: ''
 ownerships:
-- id: 562
-  share: 64
+- member: 5021
+  id: 562
   start: 2003
-  member: 5021
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: e95743c2-5846-4e0b-8200-c97bdb545b46
 image_key: GZ7tdk
 thumb: https://photos.smugmug.com/photos/i-v5MwGBB/0/Th/i-v5MwGBB-Th.jpg
-draft: 1.3198
 handicap_data:
-  beam: 3.0480370641306997
+  thcf: 1.031
+  beam: 3.048
+  draft: 1.3198
+  fore_triangle_height: 11.430138990490123
+  fore_triangle_base: 6.806266764203852
+  length_over_all: 10.66812972445745
+  propellor:
+    type: fixed
+    blades: 2
+  sailarea: 68.05351959318908
   main:
     foot: 5.562667642038527
     head: 3.453425993660083
     luff: 5.7912704218483295
-  thcf: 1.031
-  draft: 1.2954157522555474
   topsail:
     luff: 5.4864667154352595
     perpendicular: 1.8288222384784198
-  sailarea: 68.05351959318908
-  propellor:
-    type: fixed
-    blades: 2
-  length_over_all: 10.66812972445745
-  fore_triangle_base: 6.806266764203852
   length_on_waterline: 9.44891489880517
-  fore_triangle_height: 11.430138990490123
-length_on_deck: 10.668
-beam: 3.048
-design_class:
-  name: Wylo II
-  id: c841a838-26f9-42e7-bf3c-d3fe724552f3
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T17:33:04.531213+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -52,47 +52,69 @@ place_built: Fambridge
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferrocement
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 0
+- created_at: '2018-06-30T10:49:24+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: '"Stonechat", privately built by the late Austin Edge, 1976, gaff-rigged
+    ketch with cutter rig. Double ended construction with long moulded keel, ferrocement.
+    LOA 32", LOD 27", Beam 6"5'', Draft 6"6''<br />Sail area: main 240sq.ft., mizzen&nbsp;80sq.ft.,
+    staysail&nbsp;50sq.ft., jib&nbsp;60sq.ft., topsail&nbsp;15sq.ft.<br />12v. wiring
+    circuit, solid fuel stove, new hand pump operated heads.</p><p>Valid insurance
+    until April 2019. Ownership certificate of British Registry valid until November
+    2020. Recent saisfatory survey on behalf of Hamble Sea Scouts who have been the
+    custodians of "Stonechat" for 25 years.</p><p>Lying Mercury Marina, River Hamble,
+    Southampton</p>The sailing yacht "Stonechat" was privately built in Essex by the
+    late Austin Edge. Originally intended to be used for short-handed cruising in
+    the North Sea, she has a small cockpit.The design is loosely based on a Colin
+    Archer design. She was built with much labour and love in ferrocement. Gaff-rigged
+    ketch with cutter rig, she has a double ended construction with long moulded keel.
+    Building commenced in October 1976 and she was launched in June 1978.</p><p>For
+    13 years "Stonechat" was used and maintained by an enthusiast of sailing. In October
+    1993 she was moved from Maldon, Essex to Mercury Marina, Hamble on voluntary loan
+    to the Hamble Sea Scouts enabling them to gain experience and thejoy of sailing
+    a gaffer.</p><p>As the group has expanded, needing a larger vessel, it is time
+    for a new chapter and "Stonechat" is now on the market. The new keeper will have
+    enthusiasm, keen at sailing single-handed if needs be and most importantly will
+    look after and treasure this rather unique, lovingly built boat.</p>'
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.501581+00:00'
 home_country: GBR
 home_port: Hamble
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Jill Gomez
-  share: 64
   start: 2009
-- share: 64
-  member: 6248
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e4a70cd4-7fc8-41a1-8913-e05b9217af9c
 image_key: nqrDqC
 thumb: https://photos.smugmug.com/photos/i-bgLcspZ/0/Th/i-bgLcspZ-Th.jpg
-draft: 1.6246
 handicap_data:
-  beam: 2.590831504511095
+  thcf: 0.946040857
+  beam: 2.5908
+  draft: 1.6246
+  fore_triangle_height: 9.400146305779078
+  fore_triangle_base: 4.5293830772982195
+  length_over_all: 9.601316752011703
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 3.5997317727383566
     head: 3.2095830285296265
     luff: 4.590343818580834
-  thcf: 0.946040857
-  draft: 1.6185076810534014
   mizzen:
     foot: 1.7190929041697145
     head: 1.9995123140697388
     luff: 2.8986832479882954
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 9.601316752011703
-  fore_triangle_base: 4.5293830772982195
   length_on_waterline: 8.080346257010484
-  fore_triangle_height: 9.400146305779078
-length_on_deck: 9.6012
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.6012
+created_at: '2020-04-25T17:01:47.563772+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

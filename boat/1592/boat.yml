@@ -15,6 +15,9 @@ year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+design_class:
+  name: Oysterman 22
+  id: 46f44388-c189-4640-beeb-19ce8aa85e8d
 builder:
   name: Oystersailers Ltd.
   id: 8f423342-b25e-40d9-8725-3d143660e8f5
@@ -23,55 +26,59 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP, balsa core above waterline
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 21000
+- created_at: '2020-06-27T19:37:21.049406+00:00'
+  flexibility: null
+  offered: '2020-06-27'
+  price_flexibility: null
+  reduced: null
+  sales_text: Friendly Spirit is now ashore in Mylor waiting for a new owner. She's
+    an Oysterman 22 and a bit tardis like but very solid and a really lovely small
+    boat..
+  seller_gold_id: 733
+  seller_member: 5705
+  sold: '2021-09-06'
+  summary: null
+  updated_at: '2020-06-27T19:37:21.049406+00:00'
 home_country: GBR
 home_port: Mylor
 hull_form: long keel deep forefoot
 sail_number: '7'
-callsign: ''
 ownerships:
-- end: 2009
-  name: Jeremy Baker
-  share: 64
+- name: Jeremy Baker
   start: 2004
-- end: 2016
-  name: Miles Atherton
+  end: 2009
   share: 64
+- name: Miles Atherton
   start: 2015
-- id: 733
+  end: 2016
   share: 64
+- member: 5705
+  id: 733
   start: 2016
-  member: 5705
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 4ab54c1b-db5b-4da4-87a7-3039b92448be
 image_key: KRkp2x
 thumb: https://photos.smugmug.com/photos/i-KHsxqtZ/0/Th/i-KHsxqtZ-Th.jpg
-draft: 1.3472
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.904629866
+  beam: 2.7432
+  draft: 1.3472
+  fore_triangle_height: 8.052913923433309
+  fore_triangle_base: 5.00487685930261
+  length_over_all: 6.909900024384297
+  propellor:
+    type: fixed
   main:
     foot: 4.090465740063399
     head: 3.8100463301633747
     luff: 4.901243599122164
-  thcf: 0.904629866
-  draft: 1.3472323823457693
   topsail:
     luff: 3.886247256766642
     perpendicular: 1.7526213118751524
-  propellor:
-    type: fixed
-  length_over_all: 6.909900024384297
-  fore_triangle_base: 5.00487685930261
   length_on_waterline: 6.705681541087539
-  fore_triangle_height: 8.052913923433309
-length_on_deck: 6.9098
-beam: 2.7432
-design_class:
-  name: Oysterman 22
-  id: 46f44388-c189-4640-beeb-19ce8aa85e8d
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.9098
+created_at: '2020-04-25T17:07:19.453932+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

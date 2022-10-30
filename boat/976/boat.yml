@@ -3,7 +3,6 @@ oga_no: 976
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Log 82/3  Built for Major Chaworth-Muster.
 year: 1949
 year_is_approximate: false
@@ -17,37 +16,30 @@ place_built: West Mersea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel mahogany on oak/elm
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 82/3
-callsign: ''
 ownerships:
 - name: M Hodd and Ms Mac Millan
-  share: 64
   start: 1995
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 54eefd6e-eca7-4f3c-8d07-ca97b46817bf
-draft: 0.5334
 handicap_data:
-  beam: 2.042184832967569
+  thcf: 0.806504345
+  beam: 2.0422
+  draft: 0.5334
+  fore_triangle_height: 5.273104120946111
+  fore_triangle_base: 2.2250670568154107
+  length_over_all: 5.230431602048281
+  propellor:
+    type: fixed
   main:
     foot: 3.6576444769568397
     head: 2.8956352109241648
     luff: 3.2004389173372347
-  thcf: 0.806504345
-  draft: 0.5334064862228725
-  propellor:
-    type: fixed
-  length_over_all: 5.230431602048281
-  fore_triangle_base: 2.2250670568154107
   length_on_waterline: 4.776274079492806
-  fore_triangle_height: 5.273104120946111
-length_on_deck: 5.2304
-beam: 2.0422
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.2304
+created_at: '2020-04-25T16:58:01.095753+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

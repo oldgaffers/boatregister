@@ -3,7 +3,6 @@ oga_no: 1068
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 84/1
 year: 1979
 year_is_approximate: false
@@ -17,40 +16,33 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: unknown
 construction_details: G R P
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel sloping forefoot
 reference:
 - Log 84/1
-callsign: ''
 ownerships:
 - name: H J K Butterworth
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 15276b9e-d4be-4fe2-92dd-48f9ce0cb17e
-draft: 1.2192
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.922162059
+  beam: 2.4384
+  draft: 1.2192
+  fore_triangle_height: 7.111070470616922
+  fore_triangle_base: 5.029261155815655
+  length_over_all: 7.101926359424531
+  propellor:
+    type: folding
   main:
     foot: 4.87685930260912
     head: 3.6576444769568397
     luff: 4.26725188978298
-  thcf: 0.922162059
-  draft: 1.21921482565228
   topsail:
     luff: 5.4864667154352595
     perpendicular: 1.8288222384784198
-  propellor:
-    type: folding
-  length_over_all: 7.101926359424531
-  fore_triangle_base: 5.029261155815655
   length_on_waterline: 6.858083394294074
-  fore_triangle_height: 7.111070470616922
-length_on_deck: 7.1018
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.1018
+created_at: '2020-04-25T16:59:22.562788+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

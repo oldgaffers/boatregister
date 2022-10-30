@@ -18,6 +18,9 @@ year_is_approximate: false
 designer:
   name: Lew Walker
   id: eb88b861-9e90-4673-9cbc-1227c2df737f
+design_class:
+  name: Tideway 12
+  id: 44264997-3e5a-4718-a1ff-6dbcd135f3ce
 builder:
   name: Tideways Dinghies
   id: 0f2eea77-cd93-433b-94c3-a9c195864bd8
@@ -25,35 +28,27 @@ place_built: Leigh on Sea
 construction_material: grp
 construction_method: clinker
 construction_details: Simulated clinker GRP with mahogany thwarts and gunwhales
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 1011
-  share: 64
+- member: 6250
+  id: 1011
   start: 2005
-  member: 6250
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 45c420a0-6586-4662-ad21-236600817ea9
 image_key: hkhcr4
 thumb: https://photos.smugmug.com/photos/i-cd4Jj3X/0/Th/i-cd4Jj3X-Th.jpg
-draft: 0.1524
 handicap_data:
-  sailarea: 0
+  beam: 1.524
+  draft: 0.1524
   moving_keel: true
   length_overall: 3.6576
   draft_keel_down: 0.9144
   moving_keel_type: Centreboard
   length_on_waterline: 3.4534
-length_on_deck: 3.6576
-beam: 1.524
-design_class:
-  name: Tideway 12
-  id: 44264997-3e5a-4718-a1ff-6dbcd135f3ce
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.6576
+created_at: '2020-04-25T17:52:07.06088+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

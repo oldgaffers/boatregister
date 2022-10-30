@@ -22,7 +22,7 @@ builder:
 construction_material: steel
 construction_method: unknown
 construction_details: Hard Chine Corton Steel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Faversham
@@ -30,28 +30,26 @@ hull_form: long keel sloping forefoot
 ssr: 133537 (expired)
 callsign: 2AMV8
 ownerships:
-- id: 1010
-  share: 64
+- member: 6249
+  id: 1010
   start: 2012
-  member: 6249
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 7247fa18-1716-4a33-8905-ef0b4c07f404
-draft: 1.7496
 handicap_data:
+  beam: 3.8009
+  draft: 1.7496
+  fore_triangle_height: 11.0002
+  fore_triangle_base: 3.8009
+  sailarea: 32
   main:
     foot: 19.68
     head: 16.4
     luff: 36.09
-  sailarea: 32
   length_overall: 13.4996
   calculated_thcf: 1.099
   length_over_spars: 19.0012
-  fore_triangle_base: 3.8009
   length_on_waterline: 11.0002
-  fore_triangle_height: 11.0002
-length_on_deck: 13.4996
-beam: 3.8009
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.4996
+created_at: '2020-04-25T18:37:21.576737+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -23,171 +23,137 @@ place_built: Crabinton, Southampton
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 65000
+- created_at: '2019-11-07T17:18:03+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>Mermaid was originally built for racing and raced again at the Falmouth
+    Classics in 2018 following her rebuild.&nbsp;</p><p>In 1997 we bought Mermaid
+    when she was a near wreck.&nbsp;We brought her to Derby where Chris worked on
+    rebuilding her hull, deck and cabin.&nbsp;Mermaid was then sent to Ocean Yacht
+    Company for completion which included mast, spars, rigging and installing a single
+    engine with hydraulic drive to twin props. Mermaid is now sold.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.682465+00:00'
 home_country: GBR
 home_port: Falmouth
 hull_form: long keel deep forefoot
 uk_part1: '105779'
-callsign: ''
 ownerships:
-- end: 1876
+- start: 1860
+  end: 1876
   note: 'Built for Edward Ricketts, 1860-1876  '
   text: Built for Edward Ricketts,
-  start: 1860
-  end_is_approximate: false
-  start_is_approximate: false
-- note: '1877 George Staunton  '
+- start: 1877
+  note: '1877 George Staunton  '
   text: George Staunton
-  start: 1877
-  start_is_approximate: false
-- end: 1882
+- start: 1877
+  end: 1882
   note: '1877-1882 Frederick George Innes-Lillingston  '
   text: Frederick George Innes-Lillingston
-  start: 1877
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1888
+- start: 1883
+  end: 1888
   note: '1883-1888 John Morant  '
   text: John Morant
-  start: 1883
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1896
+- start: 1888
+  end: 1896
   note: '1888-96 John Weston Foakes (for one year)and Bessie Sarn Foakes  '
   text: John Weston Foakes (for one year)and Bessie Sarn Foakes
-  start: 1888
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1907
+- start: 1896
+  end: 1907
   note: '1896-1907 Charles Smith  '
   text: Charles Smith
-  start: 1896
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1908
+- start: 1907
+  end: 1908
   note: '1907-8 George Pardy  '
   text: George Pardy
-  start: 1907
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1923
+- start: 1922
+  end: 1923
   note: '1922-3 A Boyes  '
   text: A Boyes
-  start: 1922
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1928
+- start: 1924
+  end: 1928
   note: '1924-8 Arthur Leslie Jasper  '
   text: Arthur Leslie Jasper
-  start: 1924
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1930
+- start: 1927
+  end: 1930
   note: '1927-30 Stafford Ives Veale  '
   text: Stafford Ives Veale
-  start: 1927
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1933
+- start: 1931
+  end: 1933
   note: '1931-3 Arthur E Hagg  '
   text: Arthur E Hagg
-  start: 1931
-  end_is_approximate: false
-  start_is_approximate: false
-- note: '1934 Capt. Martin  '
+- start: 1934
+  note: '1934 Capt. Martin  '
   text: Capt. Martin
-  start: 1934
-  start_is_approximate: false
-- end: 1939
+- start: 1936
+  end: 1939
   note: '1936-9 W H Johnson  '
   text: W H Johnson
-  start: 1936
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1950
+- start: 1946
+  end: 1950
   note: '1946-50 Richard Hopkins  '
   text: Richard Hopkins
-  start: 1946
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1956
+- start: 1950
+  end: 1956
   note: '1950-56 Richard James Ross  '
   text: Richard James Ross
-  start: 1950
-  end_is_approximate: false
-  start_is_approximate: false
-- note: '1957 Daphne Bradley (later Goodley)  '
+- start: 1957
+  note: '1957 Daphne Bradley (later Goodley)  '
   text: Daphne Bradley (later Goodley)
-  start: 1957
-  start_is_approximate: false
-- end: 1964
+- start: 1959
+  end: 1964
   note: '1959-64 Cyril E Colbourne  '
   text: Cyril E Colbourne
-  start: 1959
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1969
+- start: 1965
+  end: 1969
   note: '1965-9? R W Taylor  '
   text: R W Taylor
-  start: 1965
-  end_is_approximate: true
-  start_is_approximate: false
-- end: 1983
+- start: 1978
+  end: 1983
   note: '1978?-83 Christopher Rodskjer  '
   text: Christopher Rodskjer
-  start: 1978
-  end_is_approximate: false
-  start_is_approximate: true
-- end: 1988
+- start: 1983
+  end: 1988
   note: '1983-88 Saul Thomas  '
   text: Saul Thomas
-  start: 1983
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1989
+- start: 1988
+  end: 1989
   note: '1988-9 Michael Plumtree  '
   text: Michael Plumtree
-  start: 1988
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1996
+- start: 1989
+  end: 1996
   note: '1989-96 Julian Tregoning  '
   text: Julian Tregoning
-  start: 1989
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1997
+- start: 1996
+  end: 1997
   note: '1996-7 Tim Lawrence  '
   text: Tim Lawrence
-  start: 1996
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 2019
+- start: 1997
+  end: 2019
   note: '1997-2019 Christopher and Victoria Gottschald  '
   text: Christopher and Victoria Gottschald
-  start: 1997
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 2019
-  name: Christopher Gottschald
-  share: 64
+- name: Christopher Gottschald
   start: 2012
-- note: 2019 Steve Yates
+  end: 2019
+  share: 64
+- start: 2019
+  note: 2019 Steve Yates
   text: Steve Yates
-  start: 2019
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 1d1c1c59-95fd-4684-80de-c9da53bdadb7
 image_key: ZkczPX
 thumb: https://photos.smugmug.com/photos/i-GDWr4Wf/0/Th/i-GDWr4Wf-Th.jpg
-draft: 1.9812
 handicap_data:
-  beam: 3.1242379907339672
+  beam: 3.1242
+  draft: 1.9812
   length_over_all: 12.268349183126066
-length_on_deck: 12.2682
-beam: 3.1242
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.2682
+created_at: '2020-04-25T17:18:37.706566+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

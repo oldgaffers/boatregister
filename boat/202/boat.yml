@@ -3,8 +3,6 @@ oga_no: 202
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1914
 year_is_approximate: false
 designer:
@@ -17,42 +15,35 @@ place_built: Falmouth
 construction_material: wood
 construction_method: unknown
 construction_details: Pine on oak ribs
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: E Valent
-  share: 32
   start: 2012
+  share: 32
 - name: H F McCaffrey
-  share: 32
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 32
 id: 2cc7c16a-1a02-420b-9dab-1d95b4c623b2
-previous_names:
-- Catherine Frances
-draft: 1.7526
 handicap_data:
-  beam: 2.692453060229212
+  thcf: 0.98
+  beam: 2.6914
+  draft: 1.7526
+  fore_triangle_height: 8.53450377956596
+  fore_triangle_base: 5.4864667154352595
+  length_over_all: 8.68691782492075
+  sailarea: 51.56758392689088
   main:
     foot: 5.054675688856376
     head: 4.368861253352841
     luff: 4.343458912460375
-  thcf: 0.98
-  draft: 1.7526396000975373
   topsail:
     luff: 4.470470616922701
     perpendicular: 2.7432333577176298
-  sailarea: 51.56758392689088
-  length_over_all: 8.68691782492075
-  fore_triangle_base: 5.4864667154352595
   length_on_waterline: 8.53450377956596
-  fore_triangle_height: 8.53450377956596
-length_on_deck: 8.6868
-beam: 2.6914
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.6868
+created_at: '2020-04-25T16:45:23.550899+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Catherine Frances

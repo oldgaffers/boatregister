@@ -3,7 +3,6 @@ oga_no: 2864
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: RNLI boat no 642 was based at Arclow 1914-38. Her original rig had
   a jib, standing lug main and a leg o mutton mizzen giving  sail area area of 350
   sq. feet.
@@ -16,43 +15,37 @@ place_built: London
 construction_material: wood
 construction_method: double_diagonal
 construction_details: 'Double diagonal '
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Port Penryn
 hull_form: long keel deep forefoot
 ssr: '20648'
-callsign: ''
 ownerships:
-- id: 235
-  share: 64
+- member: 3249
+  id: 235
   start: 2012
-  member: 3249
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: b3d03cd8-5407-4af7-96cd-7507d2532447
-previous_names:
-- John Taylor Cardwel
-draft: 0.9144
 handicap_data:
-  beam: 3.2004389173372347
+  thcf: 1.045899013
+  beam: 3.2004
+  draft: 0.9144
+  fore_triangle_height: 9.1441111923921
+  fore_triangle_base: 4.26725188978298
+  length_over_all: 12.192148256522799
+  propellor:
+    type: fixed
+  main:
+    foot: 4.87685930260912
+    luff: 9.1441111923921
   fore:
     foot: 2.8956352109241648
     head: 2.8956352109241648
     luff: 5.4864667154352595
-  main:
-    foot: 4.87685930260912
-    luff: 9.1441111923921
-  thcf: 1.045899013
-  draft: 0.9144111192392099
-  propellor:
-    type: fixed
-  length_over_all: 12.192148256522799
-  fore_triangle_base: 4.26725188978298
   length_on_waterline: 11.887344550109729
-  fore_triangle_height: 9.1441111923921
-length_on_deck: 12.192
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.192
+created_at: '2020-04-25T17:29:20.115768+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- John Taylor Cardwel

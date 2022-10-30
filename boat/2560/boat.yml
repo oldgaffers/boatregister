@@ -28,19 +28,29 @@ builder:
 place_built: Gluckstadt
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GER
 home_port: Gluckstadt
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Rigmor von Gluckstadt e V
-  share: 64
   start: 1992
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: http://www.rigmor.de/schiff.htm
 id: ef9bd731-85b5-4ea4-a028-fa6304c21039
+image_key: 5rQQZn
+thumb: https://photos.smugmug.com/photos/i-FDfnhjj/0/Th/i-FDfnhjj-Th.jpg
+handicap_data:
+  beam: 3.871
+  draft: 1.463
+  length_over_all: 15.901609363569861
+  propellor:
+    type: fixed
+  length_on_waterline: 12.801755669348939
+  length_on_deck: 15.9106
+created_at: '2020-04-25T17:22:36.807887+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - No. 5
 - Treue
@@ -49,17 +59,3 @@ previous_names:
 - St. Fernande
 - Tvende Broedere
 - Rigmor
-image_key: 5rQQZn
-thumb: https://photos.smugmug.com/photos/i-FDfnhjj/0/Th/i-FDfnhjj-Th.jpg
-draft: 1.463
-handicap_data:
-  beam: 3.858814923189466
-  draft: 1.4478176054620824
-  propellor:
-    type: fixed
-  length_over_all: 15.901609363569861
-  length_on_waterline: 12.801755669348939
-length_on_deck: 15.9106
-beam: 3.871
-for_sale_state:
-  text: not_for_sale

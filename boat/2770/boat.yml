@@ -22,41 +22,50 @@ place_built: Faversham
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker mahogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 500
+- created_at: '2019-09-01T09:46:22+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>16\" dayboat built by Dick Dadson of Faversham, 1968. Mahogony clinker\
+    \ on steamed oak frames, teel centreplate and cast lead ballast, she\u2019s the\
+    \ first afloat in the yard, but sails well with all the family on board. Gunter\
+    \ rigged with tan sails by ADM, Honda outboard, oars, anchors, plenty of stowage\
+    \ and buoyancy bags.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.90126+00:00'
 home_country: GBR
 home_port: Portsmouth
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2019
-  name: Jonathan Howorth
-  share: 64
+- name: Jonathan Howorth
   start: 2006
-- note: Sold in 2019 to a new owner in Portsmouth
+  end: 2019
+  share: 64
+- start: 2019
+  note: Sold in 2019 to a new owner in Portsmouth
   text: Sold in
-  start: 2019
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: e6d4fb22-19c3-4699-9b11-32bd1453abd8
 image_key: Ns5S3J
 thumb: https://photos.smugmug.com/photos/i-RhsGMjX/0/Th/i-RhsGMjX-Th.png
-draft: 0.6096
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.803874504
+  beam: 1.8288
+  draft: 0.6096
+  fore_triangle_height: 3.6576444769568397
+  fore_triangle_base: 2.43842965130456
+  length_over_all: 4.57205559619605
   main:
     foot: 3.0480370641306997
     head: 3.0480370641306997
     luff: 2.43842965130456
-  thcf: 0.803874504
-  draft: 0.60960741282614
-  length_over_all: 4.57205559619605
-  fore_triangle_base: 2.43842965130456
   length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 3.6576444769568397
-length_on_deck: 4.572
-beam: 1.8288
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.572
+created_at: '2020-04-25T17:26:55.664074+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

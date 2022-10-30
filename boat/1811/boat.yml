@@ -54,40 +54,35 @@ place_built: Maguires Bridge
 construction_material: wood
 construction_method: unknown
 construction_details: Plywood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Lough Erne
 hull_form: unknown
 sail_number: '1811'
-callsign: ''
 ownerships:
 - name: Danielle Hicks
-  share: 64
   start: 1994
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e4e86168-41ff-40df-8e60-f1f8417a535d
 image_key: sXpRhf
 thumb: https://photos.smugmug.com/photos/i-ZgdXBcn/0/Th/i-ZgdXBcn-Th.jpg
-draft: 0.6858
 handicap_data:
-  beam: 1.777005608388198
-  fore:
-    foot: 1.8806388685686417
-    head: 1.0911972689587905
-    luff: 2.8194342843208973
+  thcf: 0.79256273
+  beam: 1.777
+  draft: 0.6858
+  fore_triangle_height: 3.8618629602535965
+  fore_triangle_base: 2.261643501584979
+  length_over_all: 5.18166300902219
   main:
     foot: 2.1976347232382345
     head: 1.207022677395757
     luff: 3.2004389173372347
-  thcf: 0.79256273
-  draft: 0.6858083394294074
-  length_over_all: 5.18166300902219
-  fore_triangle_base: 2.261643501584979
+  fore:
+    foot: 1.8806388685686417
+    head: 1.0911972689587905
+    luff: 2.8194342843208973
   length_on_waterline: 4.57205559619605
-  fore_triangle_height: 3.8618629602535965
-length_on_deck: 5.1816
-beam: 1.777
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1816
+created_at: '2020-04-25T18:35:31.512757+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

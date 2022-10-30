@@ -28,49 +28,44 @@ builder:
 place_built: Rowhedge
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Brightlingsea
 hull_form: long keel deep forefoot
-sail_number: ''
 uk_part1: '48991'
-callsign: ''
 ownerships:
 - name: Pioneer Sailing Trust
-  share: 64
   start: 1999
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: http://www.pioneersailingtrust.org.uk
 id: cec8b836-b368-4aeb-a015-ea979d10b5a3
 fishing_number: CK18
 image_key: 8hNMgL
 thumb: https://photos.smugmug.com/photos/i-W6xtSc5/0/Th/i-W6xtSc5-Th.jpg
-draft: 2.3774
 handicap_data:
-  beam: 4.62286027798098
+  thcf: 1.267
+  beam: 4.633
+  draft: 2.3774
+  fore_triangle_height: 12.496951962935869
+  fore_triangle_base: 12.801755669348939
+  length_over_all: 21.031455742501826
+  propellor:
+    type: folding
+    blades: 3
+  sailarea: 181.61875572627758
   main:
     foot: 8.305907095830285
     head: 8.28050475493782
     luff: 6.959704950012192
-  thcf: 1.267
-  draft: 2.3876493538161423
+  topsail:
+    luff: 9.575926603267495
+    perpendicular: 4.62286027798098
   mizzen:
     foot: 4.191069251402097
     head: 3.8608632040965616
     luff: 3.454450134113631
-  topsail:
-    luff: 9.575926603267495
-    perpendicular: 4.62286027798098
-  sailarea: 181.61875572627758
-  propellor:
-    type: folding
-    blades: 3
-  length_over_all: 21.031455742501826
-  fore_triangle_base: 12.801755669348939
   length_on_waterline: 18.13583272372592
-  fore_triangle_height: 12.496951962935869
-length_on_deck: 21.0312
-beam: 4.633
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 21.0312
+created_at: '2020-04-25T17:14:57.180526+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

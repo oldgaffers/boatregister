@@ -22,30 +22,26 @@ builder:
 place_built: Stonehouse, Plymouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Cotehele Quay
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: National Maritime Museum/National Trust
-  share: 64
   start: 1973
-- end: 2011
-  name: Peter Allington
   share: 64
+- name: Peter Allington
   start: 1987
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  end: 2011
+  share: 64
 website: http://shamrock-cotehele.blogspot.co.uk/
 id: 48b6d3f9-89fe-432c-ada9-43bdeeb520a7
 image_key: NzXNMC
 thumb: https://photos.smugmug.com/photos/i-crHTrgS/0/Th/i-crHTrgS-Th.jpg
-draft: 0
 handicap_data:
-  beam: 5.739453791758107
+  beam: 5.7394
   length_over_all: 17.526213118751524
-length_on_deck: 17.526
-beam: 5.7394
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 17.526
+created_at: '2020-04-25T17:18:29.176478+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

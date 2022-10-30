@@ -40,34 +40,28 @@ builder:
 place_built: Maldon
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Mistley
 hull_form: unknown
-callsign: ''
 ownerships:
-- note: In 1955 Wally and Ernie Pitt decided they were getting too old to carry on
+- start: 1955
+  note: In 1955 Wally and Ernie Pitt decided they were getting too old to carry on
     fishing and sold 'Polly' to John Kemp of Heybridge, who, in turn, sold her to
     Ian Edmond in 1960. In 1966, Ian sold 'Polly' to a Mr Williams of Brightllingsea.
   text: In
-  start: 1955
-  start_is_approximate: false
 - name: A Stear and RW Farrow
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 4c66a617-4b82-4cdb-9e16-44444e7915fc
 image_key: vnnQDt
 thumb: https://photos.smugmug.com/photos/i-WpThsP2/0/Th/i-WpThsP2-Th.jpg
-draft: 1.1278
 handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.127773713728359
+  beam: 2.7432
+  draft: 1.1278
   length_over_all: 10.36332601804438
   length_on_waterline: 8.900268227261643
-length_on_deck: 10.3632
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.3632
+created_at: '2020-04-25T16:46:31.401112+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

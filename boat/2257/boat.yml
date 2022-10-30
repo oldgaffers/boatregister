@@ -4,7 +4,6 @@ generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: lug
 short_description: <p>Building Sept 1999 - 2001, home built standing lug una rig.</p>
-full_description: ''
 year: 2000
 year_is_approximate: false
 designer:
@@ -17,32 +16,26 @@ place_built: Bideford
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Glued Clinker Ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Bideford
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2007
-  name: Jane Hidden
-  share: 64
+- name: Jane Hidden
   start: 1999
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2007
+  share: 64
 id: f8d5fd77-ce96-4271-bcb3-249bc2857a7a
-draft: 0.1524
 handicap_data:
-  beam: 1.240551085101195
+  thcf: 0.695251255
+  beam: 1.4722
+  draft: 0.1524
+  length_over_all: 3.1242379907339672
   main:
     foot: 2.1854425749817117
     head: 2.286027798098025
     luff: 1.3960009753718605
-  thcf: 0.695251255
-  draft: 0.152401853206535
-  length_over_all: 3.1242379907339672
   length_on_waterline: 3.023652767617654
-length_on_deck: 3.1242
-beam: 1.4722
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.1242
+created_at: '2020-04-25T17:17:20.269369+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -19,6 +19,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
   name: Cornish Crabbers Ltd./?
   id: 2aa171a0-29cc-41c4-ba91-d8a228e67b81
@@ -26,7 +29,7 @@ place_built: Hampshire
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Dartmouth
@@ -39,42 +42,35 @@ ownerships:
     he sold her to Paul Raine.
   text: P Martinez was the first owner. At some stage William Jewel became owner and
     he sold her to Paul Raine.
-- end: 2014
-  name: Paul Raine
-  share: 64
+- name: Paul Raine
   start: 2006
-- id: 941
+  end: 2014
   share: 64
+- member: 6132
+  id: 941
   start: 2014
-  member: 6132
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 414ba249-2ff9-44d5-9c62-0a522b6f7299
 image_key: KK2gW4
 thumb: https://photos.smugmug.com/photos/i-zXmMPdn/0/Th/i-zXmMPdn-Th.jpg
-draft: 1.0668
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 0.969236092
+  beam: 2.8956
+  draft: 1.0668
+  fore_triangle_height: 8.458302852962692
+  fore_triangle_base: 5.7912704218483295
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
   main:
     foot: 5.6388685686417945
     head: 4.495854669592782
     luff: 4.953060229212387
-  thcf: 0.969236092
-  draft: 1.1430138990490124
   topsail:
     luff: 5.715069495245062
     perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.7912704218483295
   length_on_waterline: 7.848695440136551
-  fore_triangle_height: 8.458302852962692
-length_on_deck: 9.144
-beam: 2.8956
-design_class:
-  name: Cornish Crabber Pilot Cutter 30
-  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:16:51.816403+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

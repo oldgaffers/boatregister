@@ -15,6 +15,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Yawl
+  id: 37c8b8fe-c896-4244-9076-6b297798ba2e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -22,7 +25,7 @@ place_built: Rock, North Cornwall
 construction_material: grp
 construction_method: cold_moulded
 construction_details: "GRP\r\n"
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: 'Titchmarsh Walton on the Naze '
@@ -31,26 +34,24 @@ sail_number: CY29
 ssr: SSR173341
 callsign: MINGS3
 ownerships:
-- note: First owner, Mr J Mabins, 1994, sold to Mr Richard Martin 2006. Sold again
+- start: 1994
+  note: First owner, Mr J Mabins, 1994, sold to Mr Richard Martin 2006. Sold again
     in 2019.
   text: First owner, Mr J Mabins,
-  start: 1994
-  start_is_approximate: false
-- id: 721
-  share: 64
+- member: 5681
+  id: 721
   start: 2019
-  member: 5681
+  share: 64
   current: true
-updated_at: '2022-05-09T11:08:55.244485+00:00'
-website: ''
 id: fe06aa11-ab21-4cf7-9685-b0f4d85af3b7
-previous_names:
-- None
 image_key: Jb7X5w
 thumb: https://photos.smugmug.com/photos/i-zrhbDb4/0/Th/i-zrhbDb4-Th.jpg
-draft: 0.914
 handicap_data:
-  beam: 2.591
+  beam: 2.5908
+  draft: 0.914
+  fore_triangle_height: 7.3152
+  fore_triangle_base: 4.1148
+  sailarea: 4
   main:
     foot: 13
     head: 11.5
@@ -58,18 +59,12 @@ handicap_data:
   mizzen:
     foot: 13
     luff: 14
-  sailarea: 4
-  length_on_deck: 7.4676
+  length_on_deck: 7.471
   length_overall: 7.4676
   calculated_thcf: 0.901
   length_over_spars: 10.415
-  fore_triangle_base: 4.1148
   length_on_waterline: 6.319
-  fore_triangle_height: 7.3152
-length_on_deck: 7.471
-beam: 2.5908
-design_class:
-  name: Cornish Yawl
-  id: 37c8b8fe-c896-4244-9076-6b297798ba2e
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:53:02.672161+00:00'
+updated_at: '2022-05-09T11:08:55.244485+00:00'
+previous_names:
+- None

@@ -26,40 +26,51 @@ place_built: Belvedere Southampton
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch Pine on Oak, in original condition
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 15000
+- created_at: '2016-04-06T23:24:23+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>Itchen Ferry smack designed and built by Dan Hatcher in 1860. Known\
+    \ as King Dan\u2019s masterpiece, `Wonder\u2019 is a joy to sail and is admired\
+    \ wherever she goes. Completely restored, with full set of racing sails. She was\
+    \ winner of the OGA East Coast Race in 2011 and 2013. Fully equipped including\
+    \ Yanmar diesel engine and Garmin chart plotter.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.376007+00:00'
 home_country: GBR
 home_port: ' Faversham'
 hull_form: long keel deep forefoot
 ssr: A23310
-callsign: ''
 ownerships:
-- end: 2015
-  name: Edwin Bracken
-  share: 64
+- name: Edwin Bracken
   start: 2010
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  end: 2015
+  share: 64
 website: http://www.itchenferry.org/Itchen_Ferry_Society/Wonder.html#1
 id: c674769a-e78b-4c6e-9377-9bd10f2192c8
 image_key: PcPRrC
 thumb: https://photos.smugmug.com/photos/i-HfGgP36/0/Th/i-HfGgP36-Th.jpg
-draft: 0.9906
 handicap_data:
-  beam: 2.5146305779078273
+  thcf: 0.845758776
+  beam: 2.5146
+  draft: 0.9906
+  fore_triangle_height: 6.6294806144842715
+  fore_triangle_base: 4.57205559619605
+  length_over_all: 5.7912704218483295
+  propellor:
+    type: folding
   main:
     foot: 4.038649109973177
     head: 3.2766398439405022
     luff: 3.8100463301633747
-  thcf: 0.845758776
-  draft: 1.014996342355523
-  propellor:
-    type: folding
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 4.57205559619605
   length_on_waterline: 5.715069495245062
-  fore_triangle_height: 6.6294806144842715
-length_on_deck: 5.7912
-beam: 2.5146
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T16:44:13.848557+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 1549
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1981
 year_is_approximate: false
 designer:
@@ -17,35 +15,28 @@ place_built: Totnes
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: '535'
 ssr: '38544'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: c173b9bb-c6cc-41be-a630-f98237b3d5df
-previous_names:
-- Poppy
-draft: 0.3048
 handicap_data:
-  beam: 2.0117044623262617
+  thcf: 0.80605118
+  beam: 2.0117
+  draft: 0.3048
+  fore_triangle_height: 3.9624481833699097
+  fore_triangle_base: 1.5240185320653499
+  length_over_all: 6.6294806144842715
   main:
     foot: 2.7432333577176298
     luff: 5.303584491587417
-  thcf: 0.80605118
-  draft: 0.30480370641307
   mizzen:
     foot: 1.4020970495001217
     luff: 2.590831504511095
-  length_over_all: 6.6294806144842715
-  fore_triangle_base: 1.5240185320653499
   length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 3.9624481833699097
-length_on_deck: 6.6294
-beam: 2.0117
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.6294
+created_at: '2020-04-25T17:06:40.002558+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Poppy

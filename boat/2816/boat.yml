@@ -22,36 +22,31 @@ place_built: Mevagissey
 construction_material: wood
 construction_method: carvel
 construction_details: carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Lymington
 hull_form: long keel deep forefoot
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ba5c56bc-ee5f-4aae-bd82-56975f296e46
 image_key: c7gxmJ
 thumb: https://photos.smugmug.com/photos/i-BTMS92h/0/Th/i-BTMS92h-Th.jpg
-draft: 0
 handicap_data:
-  beam: 2.420141428919776
+  thcf: 0.956690946
+  beam: 2.4079
+  fore_triangle_height: 9.650085345037795
+  fore_triangle_base: 5.248719824433064
+  length_over_all: 8.001097293343086
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 4.800658376005852
     head: 4.081321628871007
     luff: 4.581199707388442
-  thcf: 0.956690946
   topsail:
     luff: 4.2215313338210185
     perpendicular: 2.7005608388197997
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.001097293343086
-  fore_triangle_base: 5.248719824433064
   length_on_waterline: 7.001341136308217
-  fore_triangle_height: 9.650085345037795
-length_on_deck: 8.0162
-beam: 2.4079
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.0162
+created_at: '2020-04-25T17:28:07.000085+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

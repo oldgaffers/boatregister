@@ -3,7 +3,6 @@ oga_no: 1062
 generic_type: Bawley
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Full set of lines in National Maritime Museum MNK Race 02
 year: 1887
 year_is_approximate: false
@@ -17,40 +16,34 @@ place_built: Rochester
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch Pine on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hollowshore
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: M A Jones
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 37949649-217a-4fe1-8067-ea03072a84b2
-previous_names:
-- Thistle
-draft: 1.7526
 handicap_data:
-  beam: 4.014264813460131
+  thcf: 1.034923675
+  beam: 4.0142
+  draft: 1.7526
+  fore_triangle_height: 8.305900999756156
+  fore_triangle_base: 8.763106559375762
+  length_over_all: 10.972933430870519
+  propellor:
+    type: fixed
   main:
     foot: 5.843087051938552
     head: 6.986100950987564
     luff: 5.715069495245062
-  thcf: 1.034923675
-  draft: 1.7526213118751524
   topsail:
     luff: 9.272128749085589
     perpendicular: 4.700073152889539
-  propellor:
-    type: fixed
-  length_over_all: 10.972933430870519
-  fore_triangle_base: 8.763106559375762
   length_on_waterline: 10.66812972445745
-  fore_triangle_height: 8.305900999756156
-length_on_deck: 10.9728
-beam: 4.0142
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.9728
+created_at: '2020-04-25T16:59:17.23587+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Thistle

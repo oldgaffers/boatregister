@@ -21,51 +21,45 @@ place_built: Bosham
 construction_material: wood
 construction_method: unknown
 construction_details: Cold Molded
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel sloping forefoot
 sail_number: DO1
-callsign: ''
 ownerships:
-- end: 2007
-  name: David and Jenny Still
-  share: 64
+- name: David and Jenny Still
   start: 2000
-- end: 2013
-  name: Richard Kornicki
+  end: 2007
   share: 64
+- name: Richard Kornicki
   start: 2007
-- name: Kevin McBride
+  end: 2013
   share: 64
+- name: Kevin McBride
   start: 2013
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0f8aac40-c469-4810-8e74-597eb40237e4
 image_key: HmgRFn
 thumb: https://photos.smugmug.com/photos/i-6MLjGMT/0/Th/i-6MLjGMT-Th.jpg
-draft: 1.585
 handicap_data:
-  beam: 3.328456474030724
+  thcf: 1.044925057
+  beam: 3.3223
+  draft: 1.585
+  fore_triangle_height: 9.1441111923921
+  fore_triangle_base: 6.7818824676908065
+  length_over_all: 11.530724213606437
   main:
     foot: 5.334064862228725
     head: 4.87685930260912
     luff: 7.315288953913679
-  thcf: 1.044925057
-  draft: 1.5758351621555717
+  topsail:
+    luff: 4.26725188978298
+    perpendicular: 2.7432333577176298
   mizzen:
     foot: 2.13362594489149
     head: 2.43842965130456
     luff: 2.8956352109241648
-  topsail:
-    luff: 4.26725188978298
-    perpendicular: 2.7432333577176298
-  length_over_all: 11.530724213606437
-  fore_triangle_base: 6.7818824676908065
   length_on_waterline: 9.653133382101926
-  fore_triangle_height: 9.1441111923921
-length_on_deck: 11.5214
-beam: 3.3223
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.5214
+created_at: '2020-04-25T17:20:48.436628+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

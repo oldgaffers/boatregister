@@ -10,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Bryan Gibson
   id: 0a7e6fb2-e0ca-4d35-b34c-367dfb4d9056
+design_class:
+  name: Oystercatcher 16
+  id: 3afef302-57fe-49ab-bfb8-f7d0ea978a37
 builder:
   name: Mayfly Classic Boats
   id: 2a625108-bef9-404e-bf02-4aad488efa47
@@ -18,46 +21,34 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: Grp wood and alloy spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Dell Quay, Chichester
 hull_form: shoal_draft
 sail_number: GBR2001L
-callsign: ''
 ownerships:
 - name: Martin Watson
-  share: 64
   start: 2007
-- share: 64
-  member: 5198
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 56cace2a-4856-48ef-9c80-ed8bac36d421
-draft: 0.6005
 handicap_data:
-  beam: 1.929407461594733
+  thcf: 0.797455749
+  beam: 1.9294
+  draft: 0.6005
+  fore_triangle_height: 3.148622287247013
+  fore_triangle_base: 2.3104120946110704
+  length_over_all: 4.901243599122164
+  propellor:
+    type: fixed
   main:
     foot: 3.5997317727383566
     head: 2.5512070226773953
     luff: 3.0998536942209216
-  thcf: 0.797455749
-  draft: 0.6004633016337478
   topsail:
     luff: 2.740185320653499
     perpendicular: 1.6489880516947086
-  propellor:
-    type: fixed
-  length_over_all: 4.901243599122164
-  fore_triangle_base: 2.3104120946110704
   length_on_waterline: 4.815898561326506
-  fore_triangle_height: 3.148622287247013
-length_on_deck: 4.9012
-beam: 1.9294
-design_class:
-  name: Oystercatcher 16
-  id: 3afef302-57fe-49ab-bfb8-f7d0ea978a37
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.9012
+created_at: '2020-04-25T17:32:34.879248+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

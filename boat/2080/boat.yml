@@ -3,8 +3,6 @@ oga_no: 2080
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1947
 year_is_approximate: false
 designer:
@@ -18,39 +16,33 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel mahogany planking with single diagonal inner skin on
   oak ribs
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Shoreham
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2014
-  name: Chris Ennis
-  share: 64
+- name: Chris Ennis
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2014
+  share: 64
 id: 3ff1840c-ff50-40df-96a6-7afa6e09920f
-draft: 0.9144
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.845244533
+  beam: 2.1336
+  draft: 0.9144
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 2.286027798098025
+  length_over_all: 6.0960741282613995
+  propellor:
+    type: fixed
   main:
     foot: 3.9624481833699097
     head: 3.3528407705437697
     luff: 3.9624481833699097
-  thcf: 0.845244533
-  draft: 0.9144111192392099
   topsail:
     luff: 3.2309192879785416
     perpendicular: 1.8288222384784198
-  propellor:
-    type: fixed
-  length_over_all: 6.0960741282613995
-  fore_triangle_base: 2.286027798098025
   length_on_waterline: 5.18166300902219
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 6.096
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.096
+created_at: '2020-04-25T17:14:43.18665+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

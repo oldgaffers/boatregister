@@ -3,7 +3,6 @@ oga_no: 1797
 generic_type: unknown
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Believed built in East Cornwall Looe or Mevagissey Lugger to fish
   from Mevagissey circa 1900. Now a gaff ketch.
 year: 1900
@@ -11,43 +10,36 @@ year_is_approximate: false
 construction_material: wood
 construction_method: unknown
 construction_details: Pitch Pine on Dawn Oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 ssr: '62431'
-callsign: ''
 ownerships:
 - name: H F Aitken
-  share: 64
   start: 1994
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 6472fd2f-848b-4728-84b6-e40c09bce2ba
-draft: 1.3716
 handicap_data:
-  beam: 3.1242379907339672
+  thcf: 0.973068732
+  beam: 3.1242
+  draft: 1.3716
+  fore_triangle_height: 7.924896366739819
+  fore_triangle_base: 6.705681541087539
+  length_over_all: 9.525115825408436
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 4.26725188978298
     luff: 5.029261155815655
-  thcf: 0.973068732
-  draft: 1.3716166788588149
+  topsail:
+    luff: 4.953060229212387
+    perpendicular: 2.2098268714947573
   mizzen:
     foot: 2.43842965130456
     head: 2.43842965130456
     luff: 3.6576444769568397
-  topsail:
-    luff: 4.953060229212387
-    perpendicular: 2.2098268714947573
-  propellor:
-    type: fixed
-  length_over_all: 9.525115825408436
-  fore_triangle_base: 6.705681541087539
   length_on_waterline: 9.1441111923921
-  fore_triangle_height: 7.924896366739819
-length_on_deck: 9.525
-beam: 3.1242
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.525
+created_at: '2020-04-25T17:10:21.349979+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

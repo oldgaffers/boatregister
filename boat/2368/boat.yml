@@ -18,6 +18,9 @@ year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Eric Bergqvist
   id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
@@ -25,53 +28,54 @@ place_built: Lymm
 construction_material: wood
 spar_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 6000
+- created_at: '2019-02-28T18:13:01+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Letty May" is a 1978 Memory 19 gaff sloop with two&nbsp;berths and
+    a cosy cabin. Mariner 3.3 outboard and good sail wardrobe. She is a regular race
+    winner, twice winning the OGA East Coast Race. Also available, if wanted, four
+    wheel yard trailer, mooring and ground tackle. Lying Essex.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.959792+00:00'
 home_country: GBR
 home_port: Maldon
 hull_form: centre-boarder
 sail_number: LM
-callsign: ''
 ownerships:
-- end: 2018
-  name: Nick Hillman
-  share: 64
+- name: Nick Hillman
   start: 2000
+  end: 2018
+  share: 64
 - name: Adrian Lower
-  share: 64
   start: 2019
-- id: 1044
   share: 64
-  member: 6297
-  current: true
-  start: '?'
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
 id: 00821aac-be02-4962-9492-bd8c5cd822ad
 image_key: XthhCx
 thumb: https://photos.smugmug.com/photos/i-tc6HBrH/0/Th/i-tc6HBrH-Th.jpg
-draft: 0.5486
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.848181605
+  beam: 2.1336
+  draft: 0.5486
+  fore_triangle_height: 5.282248232138502
+  fore_triangle_base: 2.843818580833943
+  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  thcf: 0.848181605
-  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
-  length_over_all: 5.7912704218483295
   length_over_spars: 7.772494513533284
-  fore_triangle_base: 2.843818580833943
   length_on_waterline: 5.690685198732017
-  fore_triangle_height: 5.282248232138502
-length_on_deck: 5.7912
-beam: 2.1336
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:19:01.717309+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'

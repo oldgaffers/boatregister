@@ -9,12 +9,15 @@ year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+design_class:
+  name: Lone Gull
+  id: dd0df801-d86e-481e-83ed-ca5764e87849
 place_built: Leigh on Sea
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Mahogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: UK
 home_port: Helford
@@ -22,27 +25,22 @@ hull_form: long keel deep forefoot
 sail_number: Nil
 uk_part1: '185925'
 ownerships:
-- id: 998
+- member: 6228
+  id: 998
   share: 64
-  member: 6228
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: ebc0e9be-6b38-4e16-b0c9-f5f5aaef5366
 image_key: 4ThSqZ
 thumb: https://photos.smugmug.com/photos/i-Ggr4tvP/0/Th/i-Ggr4tvP-Th.jpg
-draft: 0.9906120458424774
 handicap_data:
-  beam: 3.0480370641306997
   thcf: 0.919
-  sailarea: 37.67309892419528
+  beam: 3.0480370641306997
+  draft: 0.9906120458424774
   propellor:
     type: fixed
-  length_on_deck: 8.83930748597903
+  sailarea: 37.67309892419528
+  length_on_deck: 8.53450377956596
   length_on_waterline: 8.382101926359423
-length_on_deck: 8.53450377956596
+created_at: '2022-01-31T21:28:44.062058+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 air_draft: 35
-design_class:
-  name: Lone Gull
-  id: dd0df801-d86e-481e-83ed-ca5764e87849
-for_sale_state:
-  text: not_for_sale

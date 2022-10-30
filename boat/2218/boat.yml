@@ -3,7 +3,6 @@ oga_no: 2218
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: advertised for sale on web, Nov 04.
 year: 1997
 year_is_approximate: false
@@ -17,36 +16,29 @@ place_built: Wardinglid. Sussex
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Cedar Strip & Epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 ssr: '81498'
-callsign: ''
 ownerships:
 - name: Peter Beer & David Rowland
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: c0cebdae-bbd3-46b8-bd4d-c78a5b1fa067
-draft: 1.524
 handicap_data:
-  beam: 2.996220434040478
+  thcf: 0.941616173
+  beam: 2.9962
+  draft: 1.524
+  fore_triangle_height: 9.44891489880517
+  fore_triangle_base: 4.87685930260912
+  length_over_all: 9.296513045598633
   main:
     foot: 5.587051938551572
     head: 4.602535966837356
-  thcf: 0.941616173
-  draft: 1.5240185320653499
   topsail:
     luff: 5.587051938551572
     perpendicular: 2.286027798098025
-  length_over_all: 9.296513045598633
-  fore_triangle_base: 4.87685930260912
   length_on_waterline: 8.610704706169226
-  fore_triangle_height: 9.44891489880517
-length_on_deck: 9.2964
-beam: 2.9962
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.2964
+created_at: '2020-04-25T17:16:44.807116+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

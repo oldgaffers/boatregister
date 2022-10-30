@@ -11,6 +11,9 @@ year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -18,51 +21,66 @@ place_built: Falmouth
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 29750
+- created_at: '2017-11-21T16:27:51+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>Percy Dalton designed, Heard built, gaff pilot cutter/Falmouth working\
+    \ boat. Built in Mylor 1992. LOA 28\u2019 6\", LWL 26\u2019 5\", Beam 10\u2019\
+    , Depth 5\u2019 1\", Draft 5\u2019</p><p>GRP hull, sheathed ply deck, transom\
+    \ hung rudder, long keel, epoxy treated, tiller steering. Beta DD100S 28HP diesel\
+    \ engine commissioned 2002 and professionally serviced annually. Stainless steel\
+    \ standing rigging and spruce 36\u2019 mast (both replaced 2012), Columbian pine\
+    \ bowsprit. Gaff main, jib, staysail, common tow foresail, topsail, two storm\
+    \ jibs. Four Barient winches, Faversham coal stove, Flavel Vanessa gas cooker\
+    \ ( 2 rings plus oven &amp; grill )&nbsp;ITT Jabasco toilet.</p><p>Sleeps four\
+    \ in two cabins - very well thought out storage etc., &nbsp;good condition below\
+    \ decks. Two anchors plus electronic and general equipment including legs for\
+    \ beaching. Full service history available. Two covers (cockpit and winter).</p><p>May\
+    \ be viewed at Bucklers Hard, Beaulieu River, Hampshire."
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.075815+00:00'
 home_country: GBR
 home_port: Bucklers Hard
 hull_form: long keel deep forefoot
 uk_part1: '721841'
-callsign: ''
 ownerships:
-- end: 2002
-  name: Hornbeam
-  share: 64
+- name: Hornbeam
   start: 1992
-- end: 2017
-  name: Bill Munt
+  end: 2002
   share: 64
+- name: Bill Munt
   start: 2002
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2017
+  share: 64
 id: 7bda2e73-a37a-4178-94cd-00404a800740
 image_key: LkLdZC
 thumb: https://photos.smugmug.com/photos/i-5cc4Vm7/0/Th/i-5cc4Vm7-Th.jpg
-draft: 1.6002
 handicap_data:
-  beam: 3.0480370641306997
+  thcf: 0.983
+  beam: 3.048
+  draft: 1.6002
+  fore_triangle_height: 11.582540843696659
+  fore_triangle_base: 6.4008778346744695
+  length_over_all: 8.717386003413802
+  propellor:
+    type: fixed
+  sailarea: 72.38857937941523
   main:
     foot: 5.334064862228725
     head: 4.57205559619605
     luff: 6.0960741282613995
-  thcf: 0.983
-  draft: 1.6002194586686174
   topsail:
     luff: 5.4864667154352595
     perpendicular: 2.2250670568154107
-  sailarea: 72.38857937941523
-  propellor:
-    type: fixed
-  length_over_all: 8.717386003413802
-  fore_triangle_base: 6.4008778346744695
   length_on_waterline: 8.077298219946353
-  fore_triangle_height: 11.582540843696659
-length_on_deck: 8.7112
-beam: 3.048
-design_class:
-  name: Heard 28
-  id: 47040682-ee05-42de-a493-400ebd5956db
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.7112
+created_at: '2020-04-25T17:11:13.483346+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,10 +3,11 @@ oga_no: 2744
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1997
 year_is_approximate: false
+design_class:
+  name: Clovelly Picarooner
+  id: 11aace65-18e9-4ec8-b204-763199e59f90
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -14,42 +15,30 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Trailer sail
 hull_form: unknown
 sail_number: CP33
-callsign: ''
 ownerships:
-- end: 2012
-  name: Dave Rogers
-  share: 64
+- name: Dave Rogers
   start: 2005
-- share: 64
-  member: 4438
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2012
+  share: 64
 id: 68f248ab-9f01-4440-aff7-1f77116a17c8
-draft: 0.3048
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.777977542
+  beam: 1.8288
+  draft: 0.3048
+  fore_triangle_height: 4.26725188978298
+  fore_triangle_base: 1.882162887100707
+  length_over_all: 4.724457449402585
   main:
     foot: 3.0480370641306997
     head: 2.43842965130456
     luff: 2.0574250182882223
-  thcf: 0.777977542
-  draft: 0.30480370641307
-  length_over_all: 4.724457449402585
-  fore_triangle_base: 1.882162887100707
   length_on_waterline: 4.672640819312362
-  fore_triangle_height: 4.26725188978298
-length_on_deck: 4.7244
-beam: 1.8288
-design_class:
-  name: Clovelly Picarooner
-  id: 11aace65-18e9-4ec8-b204-763199e59f90
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.7244
+created_at: '2020-04-25T17:26:29.322085+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

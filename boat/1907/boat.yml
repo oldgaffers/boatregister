@@ -3,7 +3,6 @@ oga_no: 1907
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: "<h3>Description taken from &#39;For Sale&#39; notice, 2017</h3>\r\
   \n\r\n<h3>Hull</h3>\r\n\r\n<p>GRP hull, &#39;Estren&#39; was&nbsp;professionally\
   \ scraped back in 2017 when two coats of Gel shield were&nbsp;applied and she was\
@@ -60,6 +59,9 @@ year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -67,17 +69,39 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP with ply deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 12950
+- created_at: '2018-06-28T15:30:35+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Estren" is a&nbsp;Heard 23 based in Dartmouth. I have seen most
+    of these boats over the years and in my opinion she is surely one of the best
+    examples.&nbsp;</p><p>Find further details in the "Full description".</p><p>I"ve
+    owned her since 2013 and find her to be an exceptionally stable and fine boat
+    which has&nbsp;taken me safely to France, The Channel Isles&nbsp;and the Scillies.
+    I"m only trying to sell because she"s a little small for my needs. Now retired
+    I"m enjoying venturing further afield.</p><p>As can be seen she"s a very pretty
+    boat, getting admiring glances and comments wherever she goes. I bought "Estren"
+    from a gentleman in his 90"s who had owned her from new. He supplied me with two
+    folders which contain her history including letters between the owner and the
+    builder Martin Heard, regarding her specification. These will of course be passed
+    onto the new owner.</p><p>Included in the sale is a Walker trailing log.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.272815+00:00'
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel deep forefoot
 sail_number: '8'
 uk_part1: '711988'
-callsign: ''
 ownerships:
-- note: Estren was ordered and built for a Devon based gentleman who retained all
+- start: 2006
+  note: Estren was ordered and built for a Devon based gentleman who retained all
     the letters between him and Martin Heard the builder. Estren was kept in the river
     Dart and sailed by this owner until 2006 when he lifted it and had it stored at
     his home. My mechanic/friend had serviced the engine from new and winter used
@@ -88,39 +112,30 @@ ownerships:
   text: Estren was ordered and built for a Devon based gentleman who retained all
     the letters between him and Martin Heard the builder. Estren was kept in the river
     Dart and sailed by this owner until
-  start: 2006
-  start_is_approximate: false
-- end: 2017
-  name: Peter Gerrard
-  share: 64
+- name: Peter Gerrard
   start: 2014
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2017
+  share: 64
 id: 9dfba2ce-8e23-4d67-ba6c-899472feab77
 image_key: ZVfF5M
 thumb: https://photos.smugmug.com/photos/i-Dr7JjQZ/0/Th/i-Dr7JjQZ-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.913100868
+  beam: 2.4384
+  draft: 1.524
+  fore_triangle_height: 6.9342843208973415
+  fore_triangle_base: 4.419653742989515
+  length_over_all: 7.162887100707144
+  propellor:
+    type: fixed
   main:
     foot: 4.87685930260912
     head: 3.6576444769568397
     luff: 4.419653742989515
-  thcf: 0.913100868
-  draft: 1.5240185320653499
   topsail:
     luff: 5.4864667154352595
     perpendicular: 1.9050231650816873
-  propellor:
-    type: fixed
-  length_over_all: 7.162887100707144
-  fore_triangle_base: 4.419653742989515
   length_on_waterline: 6.705681541087539
-  fore_triangle_height: 6.9342843208973415
-length_on_deck: 7.1628
-beam: 2.4384
-design_class:
-  name: Heard 23
-  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.1628
+created_at: '2020-04-25T17:12:03.498639+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 2756
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Ytall Ship 437.  Dirk van der Leek original owner/builder
 year: 1981
 year_is_approximate: false
@@ -16,42 +15,36 @@ builder:
 place_built: Schoorldam
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Leylstad
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Ronald Vaartjes & Bernadette Muller
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fdb154de-8b4f-4ffe-b152-b13d2ac8b41b
-draft: 1.9995
 handicap_data:
-  beam: 4.248963667398195
+  thcf: 1.087558796
+  beam: 4.2489
+  draft: 1.9995
+  fore_triangle_height: 11.000365764447697
+  fore_triangle_base: 7.501219214825651
+  length_over_all: 17.001036332601803
+  propellor:
+    type: fixed
   main:
     foot: 4.998780785174347
     head: 4.629968300414532
     luff: 6.004633016337478
-  thcf: 1.087558796
-  draft: 2.0001219214825654
+  topsail:
+    luff: 5.900999756157034
+    perpendicular: 2.8773469885393803
   mizzen:
     foot: 4.200195074372104
     head: 3.9990246281394777
     luff: 4.498902706656913
-  topsail:
-    luff: 5.900999756157034
-    perpendicular: 2.8773469885393803
-  propellor:
-    type: fixed
-  length_over_all: 17.001036332601803
-  fore_triangle_base: 7.501219214825651
   length_on_waterline: 11.800780297488418
-  fore_triangle_height: 11.000365764447697
-length_on_deck: 17.0017
-beam: 4.2489
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 17.0017
+created_at: '2020-04-25T17:26:42.037749+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -11,6 +11,9 @@ year_is_approximate: false
 designer:
   name: Tyrrell and Young
   id: 3b4ea1ac-5382-41a2-ad55-7c72304f06ae
+design_class:
+  name: Tyrell and Young 28 Smack
+  id: 9dadca9d-8e33-4bcf-a945-38b2debda2ec
 builder:
   name: Tyrell and Young
   id: 94b0313d-39ac-4e36-8e9c-48e1906cab05
@@ -18,7 +21,7 @@ place_built: Faversham
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Maldon, Essex
@@ -27,42 +30,35 @@ callsign: MDGZ7
 ownerships:
 - note: Nick Deacon owned Wisper before Robert Johnson.
   text: Nick Deacon owned Wisper before Robert Johnson.
-- end: 2011
-  name: Nigel Bishop
-  share: 64
+- name: Nigel Bishop
   start: 2004
-- id: 1023
+  end: 2011
   share: 64
+- member: 6275
+  id: 1023
   start: 2016
-  member: 6275
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 852a95b0-af78-4751-ac13-7b23c7080b0a
 image_key: x6svLf
 thumb: https://photos.smugmug.com/photos/i-4cR95N4/0/Th/i-4cR95N4-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.979713368
+  beam: 2.7432
+  draft: 1.2192
+  fore_triangle_height: 7.263472323823457
+  fore_triangle_base: 6.452694464764692
+  length_over_all: 8.915508412582296
+  propellor:
+    type: fixed
   main:
     foot: 5.4864667154352595
     head: 4.114850036576445
     luff: 4.57205559619605
-  thcf: 0.979713368
-  draft: 1.3716166788588149
   topsail:
     luff: 5.029261155815655
     perpendicular: 2.0330407217751767
-  propellor:
-    type: fixed
-  length_over_all: 8.915508412582296
-  fore_triangle_base: 6.452694464764692
   length_on_waterline: 7.620092660326749
-  fore_triangle_height: 7.263472323823457
-length_on_deck: 8.8392
-beam: 2.7432
-design_class:
-  name: Tyrell and Young 28 Smack
-  id: 9dadca9d-8e33-4bcf-a945-38b2debda2ec
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.8392
+created_at: '2020-04-25T17:26:50.772361+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

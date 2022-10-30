@@ -32,6 +32,9 @@ year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+design_class:
+  name: Cayuca
+  id: acdda16b-b69f-47e7-9d40-a8859f102673
 builder:
   name: Anderson Rigden and Perkins
   id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
@@ -40,7 +43,7 @@ construction_material: wood
 construction_method: carvel
 construction_details: Pitch pine below waterline, lighter pine above. Sawn oak frames.
   Carvel construction.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Conwy, North Wales
@@ -48,54 +51,50 @@ hull_form: long keel deep forefoot
 uk_part1: '163480'
 callsign: MBWF
 ownerships:
-- end: 1952
-  name: Comander A.R.J. Southby RN MP
-  share: 64
+- name: Comander A.R.J. Southby RN MP
   start: 1934
-- end: 1954
-  name: H.A.J. Silley
+  end: 1952
   share: 64
+- name: H.A.J. Silley
   start: 1952
-- end: 1956
-  name: Richard S. Wilkins
+  end: 1954
   share: 64
+- name: Richard S. Wilkins
   start: 1954
-- end: 1987
-  name: Norman Alexander
+  end: 1956
   share: 64
+- name: Norman Alexander
   start: 1956
-- end: 2002
-  name: Michael and Jane Wilson
+  end: 1987
   share: 64
+- name: Michael and Jane Wilson
   start: 1987
-- end: 2012
-  name: David and Alison Batstone
+  end: 2002
   share: 64
+- name: David and Alison Batstone
   start: 2002
-- id: 971
+  end: 2012
   share: 64
+- member: 6185
+  id: 971
   start: 2012
-  member: 6185
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.harrisonbutlerassociation.com/PhotoArchive/Tramontana/Article0046.html
 id: 72d30f90-9a80-4582-b3bb-cf9ddd129ba9
-previous_names:
-- Morena
 image_key: krBnwf
 thumb: https://photos.smugmug.com/photos/i-NxbKv4r/0/Th/i-NxbKv4r-Th.png
-draft: 2.2098
 handicap_data:
+  beam: 3.4046
+  draft: 2.2098
+  fore_triangle_height: 15.24
+  fore_triangle_base: 7.0104
   sailarea: 10
   length_overall: 11.1496
   length_over_spars: 12.8016
-  fore_triangle_base: 7.0104
   length_on_waterline: 9.4488
-  fore_triangle_height: 15.24
-length_on_deck: 11.1496
-beam: 3.4046
-design_class:
-  name: Cayuca
-  id: acdda16b-b69f-47e7-9d40-a8859f102673
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.1496
+created_at: '2020-04-25T17:51:02.607825+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Morena

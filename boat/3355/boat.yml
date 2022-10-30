@@ -15,6 +15,9 @@ year_is_approximate: false
 designer:
   name: Uffa Fox
   id: eaf77e9d-2030-46b2-946c-6838f696bd4a
+design_class:
+  name: Atalanta
+  id: ace0c327-6252-4ed9-9fa4-ad3da8481e14
 builder:
   name: Fairey Marine
   id: d695aa0f-63c7-452a-bfb0-eb5ad4a58d2e
@@ -22,67 +25,61 @@ place_built: Hamble
 construction_material: wood
 construction_method: hot_moulded
 construction_details: "Hot moulded AGBA veneers\r\nTwin lifting keels"
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Ipswich
 hull_form: long keel deep forefoot
 sail_number: A1
-callsign: ''
 ownerships:
-- end: 1957
-  name: Fairey Marine demonstration boat
-  share: 64
+- name: Fairey Marine demonstration boat
   start: 1955
-- end: 1961
-  name: Captain S.R. Vray
+  end: 1957
   share: 64
+- name: Captain S.R. Vray
   start: 1957
-- end: 1973
-  name: T.W. Stanier and N. Read.
+  end: 1961
   share: 64
+- name: T.W. Stanier and N. Read.
   start: 1961
-- end: 1980
-  name: R.A. Read
+  end: 1973
   share: 64
+- name: R.A. Read
   start: 1973
-- end: 1988
-  name: V.J. Hammond
+  end: 1980
   share: 64
+- name: V.J. Hammond
   start: 1980
-- end: 2016
-  name: R. Slaughter
+  end: 1988
   share: 64
+- name: R. Slaughter
   start: 1988
-- id: 898
+  end: 2016
   share: 64
+- member: 6029
+  id: 898
   start: 2016
-  member: 6029
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: c41ff7d8-e27d-406a-ac47-0e05a7e52f69
 image_key: vwMB8L
 thumb: https://photos.smugmug.com/photos/i-c8J6BrN/0/Th/i-c8J6BrN-Th.jpg
-draft: 0.381
 handicap_data:
+  beam: 2.3378
+  draft: 0.381
+  fore_triangle_height: 5.206
+  fore_triangle_base: 2.667
+  sailarea: 6
   main:
     foot: 10.5
     luff: 24.33
-  sailarea: 6
   moving_keel: true
   length_overall: 7.3914
   calculated_thcf: 0.858
   draft_keel_down: 1.7526
   moving_keel_type: Centreboard
   length_over_spars: 7.3914
-  fore_triangle_base: 2.667
   length_on_waterline: 7.111
-  fore_triangle_height: 5.206
-length_on_deck: 7.3914
-beam: 2.3378
-design_class:
-  name: Atalanta
-  id: ace0c327-6252-4ed9-9fa4-ad3da8481e14
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3914
+created_at: '2020-04-25T17:51:03.762651+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

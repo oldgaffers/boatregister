@@ -11,6 +11,9 @@ year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Salterns Boatyard Ltd.
   id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
@@ -19,43 +22,50 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP with balsa core deck and teak trim
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 9950
+- created_at: '2016-11-20T19:43:09+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: '<p>"Punka" is one of the last Bursledon built Memorys, a lovely boat
+    with many extras. She"s great for overnight trips and set up for simple single-handed
+    sailing. With two berths below, she is the cabin version with an extensive inventory
+    included in the sale. All at less than 25% of the price of new.</p><p>She is lying
+    at Alex Haig"s yard: Anglia Yacht Brokerage<br />'
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.633275+00:00'
 home_country: GBR
 home_port: Rougham, Bury St Edmunds
 hull_form: centre-boarder
 ssr: GB-SBBMEM32D089
-callsign: ''
 ownerships:
-- end: 2016
-  name: David Shannon
-  share: 64
+- name: David Shannon
   start: 2008
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
+  end: 2016
+  share: 64
 id: fbef84cd-968c-47f6-9803-71abd7c244f9
 image_key: fnk5DS
 thumb: https://photos.smugmug.com/photos/i-jwd5GQB/0/Th/i-jwd5GQB-Th.jpg
-draft: 0.5334
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.85333142
+  beam: 2.1336
+  draft: 0.5334
+  fore_triangle_height: 5.867471348451597
+  fore_triangle_base: 2.6426481346013166
+  length_over_all: 5.7912704218483295
+  propellor:
+    type: fixed
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  thcf: 0.85333142
-  draft: 0.5334064862228725
-  propellor:
-    type: fixed
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 2.6426481346013166
   length_on_waterline: 5.690685198732017
-  fore_triangle_height: 5.867471348451597
-length_on_deck: 5.7912
-beam: 2.1336
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:31:56.028884+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'

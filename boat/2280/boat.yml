@@ -3,7 +3,6 @@ oga_no: 2280
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Classic Boat 1990 Nov   At one time she was entirely black, including
   sails! She is a sister ship to Suhali, the yacht Robin Knox-Johnson sailed around
   the world on his own and non stop - the first time this was achieved.  She has spent
@@ -20,39 +19,33 @@ place_built: Costa Mesa California USA
 construction_material: wood
 construction_method: unknown
 construction_details: Douglas Fir
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Cowes
 hull_form: long keel deep forefoot
 uk_part1: '397933'
-callsign: ''
 ownerships:
 - name: P J Carey
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 017403e9-d478-4d27-8e62-ef0b8e06045c
-draft: 1.6276
 handicap_data:
-  beam: 3.3528407705437697
+  thcf: 0.97016749
+  beam: 3.3528
+  draft: 1.6276
+  fore_triangle_height: 9.296513045598633
+  fore_triangle_base: 5.6388685686417945
+  length_over_all: 10.66812972445745
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 3.581443550353572
     luff: 5.9436722750548645
-  thcf: 0.97016749
-  draft: 1.6276517922457936
   mizzen:
     foot: 3.3528407705437697
     luff: 7.620092660326749
-  propellor:
-    type: fixed
-  length_over_all: 10.66812972445745
-  fore_triangle_base: 5.6388685686417945
   length_on_waterline: 8.93074859790295
-  fore_triangle_height: 9.296513045598633
-length_on_deck: 10.668
-beam: 3.3528
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T17:17:42.745944+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

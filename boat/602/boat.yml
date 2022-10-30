@@ -64,54 +64,51 @@ place_built: Teignmouth
 construction_material: wood
 construction_method: unknown
 construction_details: Pitch pine on elm, with a cast iron keel, iroko transom
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Calstock
 hull_form: long keel deep forefoot
 ssr: '150514'
 uk_part1: '163851'
 callsign: MKET9
 ownerships:
-- end: 2003
-  name: Geoff Green
-  share: 64
+- name: Geoff Green
   start: 1988
-- end: 2007
-  name: Robert Taylor
+  end: 2003
   share: 64
+- name: Robert Taylor
   start: 2003
-- end: 2019
-  name: Leslie Weeks
+  end: 2007
   share: 64
+- name: Leslie Weeks
   start: 2007
-- id: 1090
+  end: 2019
   share: 64
+- member: 6344
+  id: 1090
   start: 2019
-  member: 6344
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: www.barbaraweeks.com/boat.htm
 id: f3497a0e-1cc1-4f91-9341-0e1ddb4c33e8
 image_key: 8Z8gF9
 thumb: https://photos.smugmug.com/photos/i-5FWZg9w/0/Th/i-5FWZg9w-Th.jpg
-draft: 1.3716
 handicap_data:
   beam: 2.4384
+  draft: 1.3716
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 3.6576444769568397
+  length_over_all: 7.620092660326749
   main:
     foot: 4.57205559619605
     head: 3.6576444769568397
     luff: 3.9624481833699097
-  draft: 1.3716288710070714
   mizzen:
     foot: 1.8288222384784198
     luff: 2.7432333577176298
   boat_depth: 1.8288222384784198
-  length_over_all: 7.620092660326749
   length_over_spars: 10.82054376981224
-  fore_triangle_base: 3.6576444769568397
   length_on_waterline: 7.620092660326749
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 7.62
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T16:51:30.14677+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

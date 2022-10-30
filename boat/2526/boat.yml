@@ -3,8 +3,6 @@ oga_no: 2526
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2001
 year_is_approximate: false
 builder:
@@ -13,34 +11,28 @@ builder:
 place_built: Bangor Co Down
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Bangor, Co Down
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2008
-  name: Alex Reid
-  share: 64
+- name: Alex Reid
   start: 2001
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2008
+  share: 64
 id: b8fb1ca9-42f2-4d9c-91b3-33ab24ab1f37
-draft: 0.1768
 handicap_data:
-  beam: 1.645940014630578
+  thcf: 0.771104178
+  beam: 1.652
+  draft: 0.1768
+  fore_triangle_height: 4.014264813460131
+  fore_triangle_base: 1.237503048037064
+  length_over_all: 4.291636186296025
   main:
     foot: 2.8895391367959036
     head: 3.8496708119970737
     luff: 1.664228237015362
-  thcf: 0.771104178
-  draft: 0.18897829797610338
-  length_over_all: 4.291636186296025
-  fore_triangle_base: 1.237503048037064
   length_on_waterline: 4.154474518410144
-  fore_triangle_height: 4.014264813460131
-length_on_deck: 4.5202
-beam: 1.652
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.5202
+created_at: '2020-04-25T17:22:05.353639+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

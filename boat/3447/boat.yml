@@ -18,64 +18,74 @@ year_is_approximate: false
 designer:
   name: Laurent Giles Ltd
   id: 098ad4e9-d178-4c90-bd2e-b6793ffc6fc4
+design_class:
+  name: Vertue
+  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
 place_built: Hornsby, N.S.W. Australia
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: "Hull - carvel. Splined and glued full length Philippine mahogony\r\
   \nDeck- laid beech, resin coated and painted"
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 9000
+- created_at: '2020-04-21T08:15:02+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>This fine sea&nbsp;going yacht has been well built in Australia to
+    Laurent Giles" Vertue&nbsp;design, and fitted out as a well balanced gaff cutter.
+    She has sailed East Coast Australian waters before being shipped to the UK.</p><p>Sails
+    are of good quality tan and white Dacron, with a&nbsp;full suite of 2 mainsails,
+    2 jibs, a staysail, and a topsail, plus an additional Genoa and spinnaker.</p><p>Ground
+    tackle includes a manual gypsy winch, 35lb CQR, and&nbsp;27lb Danforth anchors
+    plus 25 fathoms of 5/16th chain.</p><p>In recent years "Fionn" has been re-splined,
+    and her running and standing rigging renewed. Her bowsprit has been made retractable.</p><p>Professionally
+    fitted electronics include an echo pilot forward looking sonar, marine radio&nbsp;
+    and Weems and Plath instrumentation (inc chonometer and barometer). Electric bilge
+    pump and solar panel.</p><p>A new marine head,&nbsp;paraffin double burner stove
+    and separate protected heater are fitted.</p><p>Both bunks are fitted with lee
+    clothes and there is space for a pipe cot.</p><p>9"6 good quality WalkerBay sailing
+    dinghy, with oars, is included in sale.</p><p>Currently laying at the Marine Store
+    yard, Maldon</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.250418+00:00'
 home_country: GBR
 home_port: Maldon
 hull_form: cut_away_stem
 sail_number: V140
-callsign: ''
 ownerships:
-- end: 1978
+- start: 1974
+  end: 1978
   note: 1974-1978 Chris Larrewyn
   text: Chris Larrewyn
-  start: 1974
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1992
+- start: 1978
+  end: 1992
   note: 1978-1992 Derek Price
   text: Derek Price
-  start: 1978
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1994
+- start: 1992
+  end: 1994
   note: 1992-1994 Craig Dumesay
   text: Craig Dumesay
-  start: 1992
-  end_is_approximate: false
-  start_is_approximate: false
 - name: Steve Wood
-  share: 64
   start: 1994
-- note: 1994 on Steve Wood
+  share: 64
+- start: 1994
+  note: 1994 on Steve Wood
   text: on Steve Wood
-  start: 1994
-  start_is_approximate: false
-- id: 891
-  share: 64
-  member: 6010
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: eb865109-ad01-4f06-9ab5-7ad6d2e1fc39
 image_key: VHJT4z
 thumb: https://photos.smugmug.com/photos/i-fmmQRkQ/0/Th/i-fmmQRkQ-Th.jpg
-draft: 1.3716
 handicap_data:
+  beam: 2.1854
+  draft: 1.3716
   length_overall: 7.6962
   length_on_waterline: 6.5532
-length_on_deck: 7.6962
-beam: 2.1854
-design_class:
-  name: Vertue
-  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
-for_sale_state:
-  text: for_sale
+  length_on_deck: 7.6962
+created_at: '2020-04-25T17:55:09.760939+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

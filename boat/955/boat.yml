@@ -3,8 +3,6 @@ oga_no: 955
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year_is_approximate: false
 builder:
   name: Watercraft
@@ -12,26 +10,19 @@ builder:
 place_built: Hull
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: D G Simpson
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: f3242f70-99ba-48b4-a38c-0a39243b07e2
-draft: 0.762
 handicap_data:
-  beam: 2.834674469641551
-  draft: 0.7620092660326749
+  beam: 2.8346
+  draft: 0.762
   length_over_all: 7.924896366739819
   length_on_waterline: 7.620092660326749
-length_on_deck: 7.9248
-beam: 2.8346
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9248
+created_at: '2020-04-25T16:57:42.729205+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

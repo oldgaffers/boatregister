@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Scandal is a Tamarisk 22 built in 1974.</p>
-full_description: ''
 year: 1974
 year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+design_class:
+  name: Tamarisk 22
+  id: ffd82ea5-0656-4af6-b5b7-55bfb57c26dc
 builder:
   name: North Sea Yachts
   id: 411af781-798f-471e-8e98-6a621bf6ea94
@@ -17,52 +19,44 @@ place_built: Norwich
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP, ply deck on columbian pine beams
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: FRA
 home_port: Portrieux
 hull_form: long keel deep forefoot
 ssr: '169934'
-callsign: ''
 ownerships:
 - note: 'Also owned after Max Manning Dave Jardine-Smith, Tom Coakley. '
   text: Also owned after Max Manning Dave Jardine-Smith, Tom Coakley.
-- end: 2011
-  name: Max Manning
-  share: 64
+- name: Max Manning
   start: 2003
-- id: 975
+  end: 2011
   share: 64
+- member: 6193
+  id: 975
   start: 2017
-  member: 6193
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 003552a1-5aa5-4e05-a5ba-188db4dd427d
 image_key: Z5HCtW
 thumb: https://photos.smugmug.com/photos/i-FQ5nhT8/0/Th/i-FQ5nhT8-Th.jpg
-draft: 0.8382
 handicap_data:
-  beam: 2.386613021214338
+  thcf: 0.866395304
+  beam: 2.3866
+  draft: 0.8382
+  fore_triangle_height: 6.309436722750548
+  fore_triangle_base: 4.166666666666666
+  length_over_all: 6.757498171177762
+  propellor:
+    type: fixed
   main:
     foot: 3.429041697147037
     head: 2.9718361375274323
     luff: 3.886247256766642
-  thcf: 0.866395304
-  draft: 0.8382101926359424
   topsail:
     luff: 2.3774689100219457
     perpendicular: 1.5240185320653499
-  propellor:
-    type: fixed
-  length_over_all: 6.757498171177762
-  fore_triangle_base: 4.166666666666666
   length_on_waterline: 6.4008778346744695
-  fore_triangle_height: 6.309436722750548
-length_on_deck: 6.7574
-beam: 2.3866
-design_class:
-  name: Tamarisk 22
-  id: ffd82ea5-0656-4af6-b5b7-55bfb57c26dc
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7574
+created_at: '2020-04-25T17:12:45.855701+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

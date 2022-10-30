@@ -3,13 +3,15 @@ oga_no: 1444
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: CB Jan/Feb 89
 year: 1989
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Yawl
+  id: 37c8b8fe-c896-4244-9076-6b297798ba2e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,40 +19,30 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: G.R.P. spruce spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: C74
-callsign: ''
 ownerships:
 - name: J Dishington
-  share: 64
   start: 1989
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 8f45f054-61b5-4dab-8b1d-642fe6b8d837
-draft: 0.9144
 handicap_data:
-  beam: 2.590831504511095
+  thcf: 0.895555787
+  beam: 2.5908
+  draft: 0.9144
+  fore_triangle_height: 7.010485247500609
+  fore_triangle_base: 3.8100463301633747
+  length_over_all: 7.467690807120214
   main:
     foot: 3.9624481833699097
     head: 3.5570592538405266
     luff: 4.87685930260912
-  thcf: 0.895555787
-  draft: 0.9144111192392099
   mizzen:
     foot: 1.8288222384784198
     luff: 4.26725188978298
-  length_over_all: 7.467690807120214
-  fore_triangle_base: 3.8100463301633747
   length_on_waterline: 6.4008778346744695
-  fore_triangle_height: 7.010485247500609
-length_on_deck: 7.4676
-beam: 2.5908
-design_class:
-  name: Cornish Yawl
-  id: 37c8b8fe-c896-4244-9076-6b297798ba2e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.4676
+created_at: '2020-04-25T17:05:03.359087+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

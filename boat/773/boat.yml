@@ -3,8 +3,6 @@ oga_no: 773
 generic_type: unknown
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1900
 year_is_approximate: false
 designer:
@@ -17,33 +15,26 @@ place_built: Lymington
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 uk_part1: '120695'
-callsign: ''
 ownerships:
-- end: 1906
-  name: F.A.Richards
-  share: 64
+- name: F.A.Richards
   start: 1901
-- name: M Cartwright
+  end: 1906
   share: 64
+- name: M Cartwright
   start: 1987
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 2b219981-c2a0-4b10-8ae8-78ef02c8a532
-previous_names:
-- Queenie
-draft: 1.8288
 handicap_data:
-  beam: 2.43842965130456
-  draft: 1.8288222384784198
+  beam: 2.4384
+  draft: 1.8288
   length_over_all: 12.192148256522799
   length_on_waterline: 10.210924164837843
-length_on_deck: 12.192
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.192
+created_at: '2020-04-25T16:54:04.56418+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Queenie

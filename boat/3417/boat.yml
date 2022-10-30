@@ -5,36 +5,43 @@ rig_type: single_sail
 mainsail_type: lug
 short_description: Emsworth Lugger. 9ft 6ins lug dinghy on a launching trolley. Tailor
   made boat cover by James Lawrence.
-full_description: ''
 year_is_approximate: false
 place_built: Emsworth
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 900
+- created_at: '2019-07-20T20:24:36+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>Emsworth Lugger "Widget". 9ft 6ins lugsail dinghy with oars and launching
+    trolley. Tailor made cover by James Lawrence. Good dinghy for towing behind for
+    use as a tender.&nbsp;Boat is in Cambridge but could be viewed at Walton on the
+    Naze.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.285805+00:00'
 home_country: GBR
-home_port: ''
 hull_form: centre-board dinghy
-callsign: ''
 ownerships:
-- end: 2019
-  name: Alistair Randall
-  share: 64
+- name: Alistair Randall
   start: 2012
-- name: Clive Marsh
+  end: 2019
   share: 64
+- name: Clive Marsh
   start: 2019
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7dbba02e-be33-4ca7-8b2c-b31d181d14b6
 image_key: qgCPbB
 thumb: https://photos.smugmug.com/photos/i-CgqbnCv/0/Th/i-CgqbnCv-Th.jpg
-draft: 0
 handicap_data:
   length_overall: 2.8956
   length_on_waterline: 2.8956
-length_on_deck: 2.8956
-beam: 0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 2.8956
+created_at: '2020-04-25T17:54:01.872333+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 559
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Log 66/2
 year: 1909
 year_is_approximate: false
@@ -18,32 +17,25 @@ construction_material: wood
 construction_method: carvel
 construction_details: Originally Clinker, Doubled with 3/4 Carvel Pitch Pine over
   pitch pin feathers, on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 66/2
-callsign: ''
 ownerships:
 - name: D & K Moore
-  share: 64
   start: 1974
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: bf8689db-517b-44d1-b6c5-c8414e9b251b
 image_key: knbsnk
 thumb: https://photos.smugmug.com/photos/i-khkdWbQ/0/Th/i-khkdWbQ-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 3.5052426237503047
-  draft: 1.5240185320653499
+  beam: 3.5052
+  draft: 1.524
+  length_over_all: 9.75371860521824
   propellor:
     type: fixed
-  length_over_all: 9.75371860521824
   length_on_waterline: 9.296513045598633
-length_on_deck: 9.7536
-beam: 3.5052
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T16:50:49.956168+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

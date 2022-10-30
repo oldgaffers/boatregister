@@ -3,46 +3,38 @@ oga_no: 497
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year_is_approximate: false
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Rik Homan
-  share: 64
   start: 1972
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a164573c-36aa-4951-9cd1-3797b3278266
 image_key: Bqpdfk
 thumb: https://photos.smugmug.com/photos/i-v4K9xdF/0/Th/i-v4K9xdF-Th.jpg
-draft: 0.7864
 handicap_data:
-  beam: 2.5512070226773953
+  thcf: 0.921626181
+  beam: 2.539
+  draft: 0.7864
+  fore_triangle_height: 6.0991221653255305
+  fore_triangle_base: 3.5509631797122654
+  length_over_all: 8.199219702511582
+  propellor:
+    type: fixed
   main:
     foot: 5.151182638380882
     head: 3.3315045110948547
     luff: 3.8496708119970737
-  thcf: 0.921626181
-  draft: 0.7985857108022434
   topsail:
     luff: 4.498902706656913
     perpendicular: 2.100097537186052
-  propellor:
-    type: fixed
-  length_over_all: 8.199219702511582
-  fore_triangle_base: 3.5509631797122654
   length_on_waterline: 7.924896366739819
-  fore_triangle_height: 6.0991221653255305
-length_on_deck: 8.2052
-beam: 2.539
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.2052
+created_at: '2020-04-25T16:49:51.933421+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 1099
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1920
 year_is_approximate: false
 designer:
@@ -17,33 +15,26 @@ place_built: Whitstable
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker spruce on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: P Brookes
-  share: 64
   start: 1981
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 2615eee5-3265-4f4d-bc7c-95dbfb4ba7c7
-draft: 0.1524
 handicap_data:
-  beam: 1.5240185320653499
+  thcf: 0.772307499
+  beam: 1.524
+  draft: 0.1524
+  fore_triangle_height: 4.26725188978298
+  fore_triangle_base: 1.6764203852718849
+  length_over_all: 4.26725188978298
   main:
     foot: 3.3528407705437697
     head: 2.286027798098025
     luff: 1.6764203852718849
-  thcf: 0.772307499
-  draft: 0.152401853206535
-  length_over_all: 4.26725188978298
-  fore_triangle_base: 1.6764203852718849
   length_on_waterline: 4.114850036576445
-  fore_triangle_height: 4.26725188978298
-length_on_deck: 4.2672
-beam: 1.524
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.2672
+created_at: '2020-04-25T16:59:50.80063+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

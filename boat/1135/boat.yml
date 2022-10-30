@@ -46,9 +46,19 @@ place_built: Poole
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch Pine on Oak Frames and Steamed timbers
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: null
+- created_at: '2020-12-28T21:23:04.143575+00:00'
+  flexibility: null
+  offered: null
+  price_flexibility: null
+  reduced: null
+  sales_text: Owned since 1991.
+  seller_gold_id: 179
+  seller_member: 2699
+  sold: '2020-10-01'
+  summary: sold privately to a non-member Hannah Stowe
+  updated_at: '2020-12-28T21:23:04.143575+00:00'
 home_country: GBR
 home_port: Vilagarcia, Western Spain
 hull_form: long keel deep forefoot
@@ -56,93 +66,89 @@ sail_number: '35'
 uk_part1: '68'
 callsign: MLLS
 ownerships:
-- end: 1910
-  name: Capt RB Foster
-  share: 64
+- name: Capt RB Foster
   start: 1907
-- end: 1912
-  name: Col Sir James D Legard KCB
+  end: 1910
   share: 64
+- name: Col Sir James D Legard KCB
   start: 1911
-- end: 1915
-  name: W S Lister
+  end: 1912
   share: 64
+- name: W S Lister
   start: 1913
-- end: 1933
-  name: Charles Wills JP
+  end: 1915
   share: 64
+- name: Charles Wills JP
   start: 1923
-- end: 1934
-  name: Robert A Newman
+  end: 1933
   share: 64
+- name: Robert A Newman
   start: 1934
-- end: 1938
-  name: William Hugh Watkins
+  end: 1934
   share: 64
+- name: William Hugh Watkins
   start: 1935
-- end: 1947
-  name: RAYC
+  end: 1938
   share: 64
+- name: RAYC
   start: 1944
-- end: 1949
-  name: Lt Cdr Bertie GA Scott
+  end: 1947
   share: 64
+- name: Lt Cdr Bertie GA Scott
   start: 1947
-- end: 1952
-  name: Ivor Creek
+  end: 1949
   share: 64
+- name: Ivor Creek
   start: 1950
-- end: 1958
-  name: Kenneth J Higham
+  end: 1952
   share: 64
+- name: Kenneth J Higham
   start: 1952
-- end: 1962
-  name: Harold J Kimber
+  end: 1958
   share: 64
+- name: Harold J Kimber
   start: 1959
-- end: 1983
-  name: Dick Couture
+  end: 1962
   share: 64
+- name: Dick Couture
   start: 1975
-- end: 1986
-  name: Ashley Devonshire
+  end: 1983
   share: 64
+- name: Ashley Devonshire
   start: 1984
-- end: 1990
-  name: Dick Couture
+  end: 1986
   share: 64
+- name: Dick Couture
   start: 1987
-- end: 2017
-  name: Christopher and Sue Singer
+  end: 1990
   share: 64
+- name: Christopher and Sue Singer
   start: 1991
-- name: Sue Singer
+  end: 2017
   share: 64
+- name: Sue Singer
   start: 2017
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: dd4fb8ab-b544-4d1b-a4d2-574219ada608
 image_key: XPVBVm
 thumb: https://photos.smugmug.com/photos/i-RxbVFx6/0/Th/i-RxbVFx6-Th.jpg
-draft: 2.0818
 handicap_data:
-  beam: 3.429041697147037
+  thcf: 1.062566832
+  beam: 3.4138
+  draft: 2.0818
+  fore_triangle_height: 14.097171421604486
+  fore_triangle_base: 6.833699097781029
+  length_over_all: 11.734942696903193
+  propellor:
+    type: fixed
   main:
     foot: 7.062301877590832
     head: 5.18166300902219
     luff: 5.9436722750548645
-  thcf: 1.062566832
-  draft: 2.081809314801268
   topsail:
     luff: 7.671909290416972
     perpendicular: 2.43842965130456
-  propellor:
-    type: fixed
-  length_over_all: 11.734942696903193
-  fore_triangle_base: 6.833699097781029
   length_on_waterline: 10.05852231163131
-  fore_triangle_height: 14.097171421604486
-length_on_deck: 11.7348
-beam: 3.4138
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.7348
+created_at: '2020-04-25T17:00:22.654969+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -14,38 +14,31 @@ year_is_approximate: false
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch pine on oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Stephen Downey
-  share: 64
   start: 1986
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 815e5e33-b650-4cb9-a4aa-703e6707120d
-draft: 0.9906
 handicap_data:
-  beam: 2.2098268714947573
+  thcf: 0.92789132
+  beam: 2.2098
+  draft: 0.9906
+  fore_triangle_height: 6.858083394294074
+  fore_triangle_base: 4.724457449402585
+  length_over_all: 7.620092660326749
+  propellor:
+    type: fixed
   main:
     foot: 4.57205559619605
     head: 3.0480370641306997
     luff: 3.6576444769568397
-  thcf: 0.92789132
-  draft: 0.9906120458424774
   topsail:
     luff: 4.495854669592782
     perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 7.620092660326749
-  fore_triangle_base: 4.724457449402585
   length_on_waterline: 7.0866861741038765
-  fore_triangle_height: 6.858083394294074
-length_on_deck: 7.62
-beam: 2.2098
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T17:05:37.851254+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

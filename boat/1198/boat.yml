@@ -26,40 +26,35 @@ place_built: Brightlingsea
 construction_material: wood
 construction_method: unknown
 construction_details: Larch on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Cowes
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 103
-  share: 64
+- member: 1860
+  id: 103
   start: 1977
-  member: 1860
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 994ff44a-7104-4eee-a77a-bda1296a5ae9
 fishing_number: CK46/MN4
 image_key: 99ZBqs
 thumb: https://photos.smugmug.com/photos/i-FVsLC2f/0/Th/i-FVsLC2f-Th.jpg
-draft: 1.1948
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 1.020693448
+  beam: 2.7432
+  draft: 1.1948
+  fore_triangle_height: 6.0960741282613995
+  fore_triangle_base: 8.22970007315289
+  length_over_all: 10.66812972445745
+  propellor:
+    type: fixed
   main:
     foot: 7.315288953913679
     head: 5.18166300902219
     luff: 4.87685930260912
-  thcf: 1.020693448
-  draft: 1.1887344550109729
-  propellor:
-    type: fixed
-  length_over_all: 10.66812972445745
-  fore_triangle_base: 8.22970007315289
   length_on_waterline: 8.83930748597903
-  fore_triangle_height: 6.0960741282613995
-length_on_deck: 10.668
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T17:01:19.559758+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

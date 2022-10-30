@@ -3,13 +3,14 @@ oga_no: 2841
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1995
 year_is_approximate: false
 designer:
   name: Barry Pritchard
   id: d0ca6cff-cc25-4036-b67d-a59f55519004
+design_class:
+  name: Salcombe Trader
+  id: 753a2252-bb93-4f6f-9a32-c0c3021d8faf
 builder:
   name: Tideway Boat Construction Ltd
   id: 056fa523-2f8e-44dd-a0cd-0136b231a920
@@ -17,43 +18,34 @@ place_built: Salcombe
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Neyland
 hull_form: long keel deep forefoot
 ssr: '139284'
 uk_part1: '726544'
-callsign: ''
 ownerships:
 - name: John Plumb
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7a45ed62-00a1-4721-8b1d-c7a3def481b6
 image_key: 3xW4Q8
 thumb: https://photos.smugmug.com/photos/i-74J9GS6/0/Th/i-74J9GS6-Th.jpg
-draft: 1.4204
 handicap_data:
-  beam: 2.849914654962204
+  thcf: 0.941138366
+  beam: 2.8499
+  draft: 1.4204
+  fore_triangle_height: 8.699097781029016
+  fore_triangle_base: 5.5992440868080955
+  length_over_all: 7.998049256278955
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 5.300536454523287
     head: 4.550719336747134
     luff: 5.300536454523287
-  thcf: 0.941138366
-  draft: 1.4203852718849062
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.998049256278955
-  fore_triangle_base: 5.5992440868080955
   length_on_waterline: 7.720677883443062
-  fore_triangle_height: 8.699097781029016
-length_on_deck: 7.998
-beam: 2.8499
-design_class:
-  name: Salcombe Trader
-  id: 753a2252-bb93-4f6f-9a32-c0c3021d8faf
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.998
+created_at: '2020-04-25T17:28:29.624521+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

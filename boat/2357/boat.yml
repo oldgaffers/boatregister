@@ -3,8 +3,6 @@ oga_no: 2357
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1945
 year_is_approximate: false
 designer:
@@ -16,35 +14,29 @@ builder:
 place_built: Burnham on Crouch
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Chichester
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: B W Shales
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a888e978-6b8d-4666-b690-67ed2f5b0554
-draft: 1.3716
 handicap_data:
-  beam: 2.1183857595708364
+  thcf: 0.861455865
+  beam: 2.1184
+  draft: 1.3716
+  fore_triangle_height: 6.501463057790782
+  fore_triangle_base: 2.6152158010241404
+  length_over_all: 6.187515240185321
+  propellor:
+    type: fixed
   main:
     foot: 4.367837112899292
     head: 3.3528407705437697
     luff: 3.8100463301633747
-  thcf: 0.861455865
-  draft: 1.3716166788588149
-  propellor:
-    type: fixed
-  length_over_all: 6.187515240185321
-  fore_triangle_base: 2.6152158010241404
   length_on_waterline: 5.6388685686417945
-  fore_triangle_height: 6.501463057790782
-length_on_deck: 6.1874
-beam: 2.1184
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.1874
+created_at: '2020-04-25T17:18:51.649104+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

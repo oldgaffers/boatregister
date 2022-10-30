@@ -16,6 +16,9 @@ year_is_approximate: false
 designer:
   name: E.C. Gale
   id: f88e0d68-d68e-49bd-964d-669a02c7965d
+design_class:
+  name: Ranger Class
+  id: bb04fce4-2ed1-4ec6-8524-c6e99881fabb
 builder:
   name: W. Fisher
   id: a4a1b86d-e71c-4264-addb-f40ccd541652
@@ -24,49 +27,41 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel Huon Pine on Spotted Gum Ribs. Teak and Queensland Maple
   Trim
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: AUS
 home_port: Sydney
 hull_form: long keel deep forefoot
 sail_number: A1
-callsign: ''
 ownerships:
-- end: 1968
-  name: E C Gale
-  share: 64
+- name: E C Gale
   start: 1933
-- end: 2015
-  name: Bill Gale
+  end: 1968
   share: 64
+- name: Bill Gale
   start: 1968
-- name: Shaun McKnight
+  end: 2015
   share: 64
+- name: Shaun McKnight
   start: 2015
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 5f618dd5-eb2e-4024-963c-1e1f4bc774db
 image_key: Z5pkgg
 thumb: https://photos.smugmug.com/photos/i-SKgcFnn/0/Th/i-SKgcFnn-Th.jpg
-draft: 1.4478
 handicap_data:
-  beam: 2.870245062179956
+  thcf: 0.956
+  beam: 2.8712
+  draft: 1.4478
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 4.26725188978298
+  length_over_all: 7.391495976591075
+  sailarea: 59.121149620564815
   main:
     foot: 5.334077054376981
     head: 4.419665935137771
     luff: 8.356711777615216
-  thcf: 0.956
-  draft: 1.4478358936844673
-  sailarea: 59.121149620564815
-  length_over_all: 7.391495976591075
   length_over_spars: 9.1441111923921
-  fore_triangle_base: 4.26725188978298
   length_on_waterline: 7.239106315532797
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 7.3914
-beam: 2.8712
-design_class:
-  name: Ranger Class
-  id: bb04fce4-2ed1-4ec6-8524-c6e99881fabb
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3914
+created_at: '2020-04-25T17:14:32.714278+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

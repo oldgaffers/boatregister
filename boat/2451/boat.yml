@@ -3,8 +3,6 @@ oga_no: 2451
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1895
 year_is_approximate: false
 designer:
@@ -18,44 +16,38 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 94
+- member: 1800
+  id: 94
+  start: 1988
   end: 2021
   share: 64
-  start: 1988
-  member: 1800
-- id: 494
-  share: 64
+- member: 4704
+  id: 494
   start: 2021
-  member: 4704
+  share: 64
   current: true
-updated_at: '2022-05-10T19:25:20.41547+00:00'
-website: ''
 id: dbe81adb-3892-4ea2-b762-b8be939a14d0
 image_key: B4qZdf
 thumb: https://photos.smugmug.com/photos/i-9pD6M4k/0/Th/i-9pD6M4k-Th.jpg
-draft: 1.4478
 handicap_data:
-  beam: 3.0480370641306997
+  thcf: 0.979962339
+  beam: 3.048
+  draft: 1.4478
+  fore_triangle_height: 6.858083394294074
+  fore_triangle_base: 7.315288953913679
+  length_over_all: 9.75371860521824
+  propellor:
+    type: fixed
   main:
     foot: 7.010485247500609
     head: 4.57205559619605
     luff: 5.18166300902219
-  thcf: 0.979962339
-  draft: 1.4478176054620824
-  propellor:
-    type: fixed
-  length_over_all: 9.75371860521824
-  fore_triangle_base: 7.315288953913679
   length_on_waterline: 8.482687149475737
-  fore_triangle_height: 6.858083394294074
-length_on_deck: 9.7536
-beam: 3.048
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T17:20:56.341942+00:00'
+updated_at: '2022-05-10T19:25:20.41547+00:00'

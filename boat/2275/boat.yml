@@ -3,7 +3,6 @@ oga_no: 2275
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: MNK Race 02.  Yard no 1572, Rebuilt 1989 new keel 6full planks,
   2 half planks, new mast & spars 1998
 year: 1962
@@ -18,37 +17,31 @@ place_built: Benfleet
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker mahogany on Oak, Douglass fir spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hoo Medway
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Steve Dalton
-  share: 64
   start: 1996
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: dff99edd-4c83-4cd8-b0ef-c92ada79a14a
-previous_names:
-- not Jane
-draft: 0.4572
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.848308869
+  beam: 2.4384
+  draft: 0.4572
+  fore_triangle_height: 5.6388685686417945
+  fore_triangle_base: 2.7941355766886122
+  length_over_all: 6.705681541087539
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 3.9624481833699097
     luff: 2.8956352109241648
-  thcf: 0.848308869
-  draft: 0.45720555961960496
-  propellor:
-    type: fixed
-  length_over_all: 6.705681541087539
-  fore_triangle_base: 2.7941355766886122
   length_on_waterline: 6.4008778346744695
-  fore_triangle_height: 5.6388685686417945
-length_on_deck: 6.7056
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:17:38.264495+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- not Jane

@@ -26,47 +26,42 @@ place_built: Fraserburgh
 construction_material: wood
 construction_method: unknown
 construction_details: Larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bosham
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- id: 325
-  share: 64
+- member: 3797
+  id: 325
   start: 1997
-  member: 3797
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 75d3cbdd-5dd5-43ea-baed-b2b40d39aca5
 image_key: C4nHJB
 thumb: https://photos.smugmug.com/photos/i-hxH6D5f/0/Th/i-hxH6D5f-Th.jpg
-draft: 1.6764
 handicap_data:
-  beam: 4.26725188978298
+  thcf: 1.056529145
+  beam: 4.2672
+  draft: 1.6764
+  fore_triangle_height: 9.75371860521824
+  fore_triangle_base: 7.924896366739819
+  length_over_all: 12.192148256522799
+  propellor:
+    type: folding
+    blades: 3
   main:
     foot: 6.705681541087539
     head: 8.53450377956596
     luff: 5.4864667154352595
-  thcf: 1.056529145
-  draft: 1.6764203852718849
   mizzen:
     foot: 4.26725188978298
     head: 5.18166300902219
     luff: 3.9624481833699097
-  propellor:
-    type: folding
-    blades: 3
   mizzen_topsail:
     luff: 2.43842965130456
     perpendicular: 4.26725188978298
-  length_over_all: 12.192148256522799
-  fore_triangle_base: 7.924896366739819
   length_on_waterline: 11.277737137283589
-  fore_triangle_height: 9.75371860521824
-length_on_deck: 12.192
-beam: 4.2672
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.192
+created_at: '2020-04-25T17:15:39.919016+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

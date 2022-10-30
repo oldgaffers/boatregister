@@ -3,7 +3,6 @@ oga_no: 1052
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Previous owner 1990-1997, when she was called Speedwell Log Mar/98
   Water Craft Sep/Oct 98.  Sold to non member 11.06
 year: 1974
@@ -11,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+design_class:
+  name: Oysterman 16
+  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
 builder:
   name: Bar Creek Yacht Station
   id: 474ba972-00c3-4a90-82b6-4bc18df0e980
@@ -18,46 +20,37 @@ place_built: Truro
 construction_material: grp
 construction_method: unknown
 construction_details: G R P
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Dartmouth
 hull_form: long keel deep forefoot
 reference:
 - Log Mar 98
 - Water Craft Sep/Oct 98
-callsign: ''
 ownerships:
 - name: Brian Terry
-  share: 64
   start: 2006
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a69901d0-b56b-4528-b5eb-251dfcbd980b
-previous_names:
-- Speedwell
-draft: 0.9144
 handicap_data:
-  beam: 1.9202633504023408
+  thcf: 0.837290264
+  beam: 1.9202
+  draft: 0.9144
+  fore_triangle_height: 6.217995610826627
+  fore_triangle_base: 3.291880029261156
+  length_over_all: 4.87685930260912
+  propellor:
+    type: fixed
   main:
     foot: 3.7094611070470616
     head: 3.0724213606437454
     luff: 3.6576444769568397
-  thcf: 0.837290264
-  draft: 0.9144111192392099
   topsail:
     luff: 3.9624481833699097
     perpendicular: 2.4993903925871734
-  propellor:
-    type: fixed
-  length_over_all: 4.87685930260912
-  fore_triangle_base: 3.291880029261156
   length_on_waterline: 4.633016337478663
-  fore_triangle_height: 6.217995610826627
-length_on_deck: 4.8768
-beam: 1.9202
-design_class:
-  name: Oysterman 16
-  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T16:59:08.440914+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Speedwell

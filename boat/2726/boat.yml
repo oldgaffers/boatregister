@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>&#39;Questina&#39; is a home built boat, between 1999 and 2002.</p>
-full_description: ''
 year: 2002
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Golant Gaffer
+  id: ecdf01fb-dd46-42f7-9232-39880886de2f
 builder:
   name: J.S. Smith
   id: 3041bfea-f5f3-4933-9a96-7ce59aed9352
@@ -18,58 +20,64 @@ construction_material: woodepoxy
 spar_material: wood
 construction_method: carvel
 construction_details: Cedar Strip carvel glass expoy
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 15000
+- created_at: '2018-10-05T13:40:26+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Questina" is a home-built Golant Gaffer, designed by Roger Dongray
+    and launched in 2002.</p><p>Her construction is cedar strip with epoxy hull, teak
+    laid cockpit seats, bridge deck and sole. She has a Yanmar 1GM inboard. Sale includes
+    a road trailer. Lying Chichester.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.148475+00:00'
 home_country: GBR
 home_port: Milford Haven
 hull_form: long keel deep forefoot
 sail_number: G61
-callsign: ''
 ownerships:
-- end: 2010
-  name: John Smith
-  share: 64
+- name: John Smith
   start: 2002
-- end: 2018
-  name: David Bainbridge
+  end: 2010
   share: 64
+- name: David Bainbridge
   start: 2010
-- id: 556
+  end: 2018
   share: 64
+- member: 4978
+  id: 556
   start: 2018
-  member: 4978
+  share: 64
   current: true
 - id: 3
-  share: 64
   start: 2018
-updated_at: '2022-09-01T13:00:31.915532+00:00'
-website: ''
+  share: 64
 id: b63c08da-1cd0-4129-967d-ddb121adadac
 image_key: 7RGwVJ
 thumb: https://photos.smugmug.com/photos/i-52CTqzC/0/Th/i-52CTqzC-Th.jpg
-draft: 0.8382
 handicap_data:
-  beam: 2.1300259043525966
+  thcf: 0.833
+  beam: 2.1092
+  draft: 0.8382
+  fore_triangle_height: 5.500066889173372
+  fore_triangle_base: 3.15003830925384
+  length_over_all: 5.710069443123627
+  propellor:
+    type: fixed
+    blades: 2
+  sailarea: 22.821672184280438
   main:
     foot: 3.600043782004389
     head: 3.080037457937088
     luff: 3.9900485250548647
-  thcf: 0.833
-  draft: 0.8300100941843452
-  sailarea: 22.821672184280438
-  propellor:
-    type: fixed
-    blades: 2
-  length_over_all: 5.710069443123627
   length_over_spars: 7.2500881720921715
-  fore_triangle_base: 3.15003830925384
   length_on_waterline: 5.410065794623263
-  fore_triangle_height: 5.500066889173372
-length_on_deck: 5.715
-beam: 2.1092
-design_class:
-  name: Golant Gaffer
-  id: ecdf01fb-dd46-42f7-9232-39880886de2f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.715
+created_at: '2020-04-25T17:26:07.332553+00:00'
+updated_at: '2022-09-01T13:00:31.915532+00:00'

@@ -3,8 +3,6 @@ oga_no: 199
 generic_type: unknown
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1899
 year_is_approximate: false
 designer:
@@ -17,40 +15,34 @@ place_built: Southwick Sussex
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel teak on teak construction
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 5
-  share: 64
+- member: 74
+  id: 5
   start: 1964
-  member: 74
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 645e60df-3800-4b1a-8885-ee44de0f5a29
-previous_names:
-- Imogen
-draft: 1.3716
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.872047005
+  beam: 2.286
+  draft: 1.3716
+  fore_triangle_height: 5.715069495245062
+  fore_triangle_base: 3.2004389173372347
+  length_over_all: 6.858083394294074
   main:
     foot: 4.114850036576445
     head: 3.2309192879785416
     luff: 3.1242379907339672
-  thcf: 0.872047005
-  draft: 1.3716166788588149
   mizzen:
     foot: 1.9812240916849548
     luff: 3.301024140453548
-  length_over_all: 6.858083394294074
-  fore_triangle_base: 3.2004389173372347
   length_on_waterline: 6.4008778346744695
-  fore_triangle_height: 5.715069495245062
-length_on_deck: 6.858
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.858
+created_at: '2020-04-25T16:45:20.705672+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Imogen

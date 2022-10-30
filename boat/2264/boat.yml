@@ -3,8 +3,6 @@ oga_no: 2264
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1898
 year_is_approximate: false
 designer:
@@ -17,38 +15,32 @@ place_built: Porthleven
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Falmouth
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Pat J Crockford
-  share: 64
   start: 1982
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a88dfccc-4814-471d-bbfd-e339a69ba855
-draft: 1.8288
 handicap_data:
-  beam: 3.1089978054133134
+  thcf: 1.017557983
+  beam: 3.109
+  draft: 1.8288
+  fore_triangle_height: 10.36332601804438
+  fore_triangle_base: 6.705681541087539
+  length_over_all: 9.44891489880517
+  propellor:
+    type: fixed
   main:
     foot: 6.114362350646183
     head: 5.4864667154352595
     luff: 6.4008778346744695
-  thcf: 1.017557983
-  draft: 1.8288222384784198
   topsail:
     luff: 6.705681541087539
     perpendicular: 2.13362594489149
-  propellor:
-    type: fixed
-  length_over_all: 9.44891489880517
-  fore_triangle_base: 6.705681541087539
   length_on_waterline: 9.1441111923921
-  fore_triangle_height: 10.36332601804438
-length_on_deck: 9.4488
-beam: 3.109
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.4488
+created_at: '2020-04-25T17:17:26.978985+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

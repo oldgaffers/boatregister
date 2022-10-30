@@ -19,40 +19,33 @@ builder:
 place_built: Warsash
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Clyde
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - note: 'Previous owners '
   text: Previous owners
 - note: David Hopkins after Bob Brinton and sold the boat to G. Wilson.
   text: David Hopkins after Bob Brinton and sold the boat to G. Wilson.
-- note: W.G. Tucker in the 1960's
+- start: 1960
+  note: W.G. Tucker in the 1960's
   text: W.G. Tucker in the
-  start: 1960
-  start_is_approximate: false
-- note: Bob Brinton in the 1980's
+- start: 1980
+  note: Bob Brinton in the 1980's
   text: Bob Brinton in the
-  start: 1980
-  start_is_approximate: false
 - name: G Wilson
-  share: 64
   start: 1991
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 118da337-9cde-4489-8612-40073a9d7a01
 image_key: SkVNjs
 thumb: https://photos.smugmug.com/photos/i-fMHj9px/0/Th/i-fMHj9px-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.529870763228481
-  draft: 1.3716166788588149
+  beam: 2.5146
+  draft: 1.3716
   length_over_all: 6.461838575957083
   length_on_waterline: 6.4008778346744695
-length_on_deck: 6.4526
-beam: 2.5146
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4526
+created_at: '2020-04-25T16:51:08.810702+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

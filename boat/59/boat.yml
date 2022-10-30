@@ -6,7 +6,6 @@ mainsail_type: gaff
 short_description: <p>&#39;Irene&#39; went to the West Indies for charter and was
   burnt out in 2003 being returned to the River Lynher for rebuild. Following her
   rebuild, she attended the OGA 50 Anniversary party in Cowes, 2013.</p>
-full_description: ''
 year: 1907
 year_is_approximate: false
 designer:
@@ -19,50 +18,41 @@ place_built: Bridgewater
 construction_material: wood
 construction_method: unknown
 construction_details: Wood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
 - name: L Morrish
-  share: 64
   start: 1966
-- id: 35
   share: 64
-  member: 907
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://cinnabarsolutions.co.uk/Irene/
 id: bfcb48c6-e3f4-481d-9748-19a6b89267ba
-draft: 2.7432
 handicap_data:
-  beam: 6.4008778346744695
+  thcf: 1.403971773
+  beam: 6.4008
+  draft: 2.7432
+  fore_triangle_height: 23.043160204828087
+  fore_triangle_base: 14.935381614240429
+  length_over_all: 25.908315045110946
+  propellor:
+    type: folding
   main:
     foot: 9.1441111923921
     head: 9.1441111923921
     luff: 10.05852231163131
-  thcf: 1.403971773
-  draft: 2.7432333577176298
+  topsail:
+    luff: 10.36332601804438
+    perpendicular: 6.705681541087539
   mizzen:
     foot: 7.315288953913679
     head: 7.010485247500609
     luff: 8.53450377956596
-  topsail:
-    luff: 10.36332601804438
-    perpendicular: 6.705681541087539
-  propellor:
-    type: folding
   mizzen_topsail:
     luff: 5.4864667154352595
     perpendicular: 3.9624481833699097
-  length_over_all: 25.908315045110946
-  fore_triangle_base: 14.935381614240429
   length_on_waterline: 24.384296513045598
-  fore_triangle_height: 23.043160204828087
-length_on_deck: 25.908
-beam: 6.4008
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 25.908
+created_at: '2020-04-25T16:43:20.594617+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

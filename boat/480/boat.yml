@@ -75,52 +75,46 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Larch on Oak carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Penrhyn, North Wales
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2012
-  name: Robert Rayner
-  share: 64
+- name: Robert Rayner
   start: 2004
-- end: 2017
-  name: Chris Powter
+  end: 2012
   share: 64
+- name: Chris Powter
   start: 2012
-- end: 2022
-  name: Xander Robertson
+  end: 2017
   share: 64
+- name: Xander Robertson
   start: 2017
-- id: 34999
+  end: 2022
   share: 64
+- member: 6582
+  id: 34999
   start: 2022
-  member: 6582
+  share: 64
   current: true
-updated_at: '2022-08-02T20:50:34.776839+00:00'
-website: ''
 id: 6f9ac63f-e3d2-4634-bedd-f01beed2445c
 image_key: s7wLDf
 thumb: https://photos.smugmug.com/photos/i-4dT2nPr/0/Th/i-4dT2nPr-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 1.00052171
+  beam: 2.4384
+  draft: 1.3716
+  fore_triangle_height: 7.620092660326749
+  fore_triangle_base: 6.2484759814679345
+  length_over_all: 8.83930748597903
   main:
     foot: 5.9436722750548645
     head: 4.57205559619605
     luff: 3.9624481833699097
-  thcf: 1.00052171
-  draft: 1.3716166788588149
   topsail:
     luff: 6.0960741282613995
     perpendicular: 2.13362594489149
-  length_over_all: 8.83930748597903
-  fore_triangle_base: 6.2484759814679345
   length_on_waterline: 8.077298219946353
-  fore_triangle_height: 7.620092660326749
-length_on_deck: 8.8392
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.8392
+created_at: '2020-04-25T16:49:36.63426+00:00'
+updated_at: '2022-08-02T20:50:34.776839+00:00'

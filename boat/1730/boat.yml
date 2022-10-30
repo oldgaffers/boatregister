@@ -3,8 +3,6 @@ oga_no: 1730
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1923
 year_is_approximate: false
 designer:
@@ -17,35 +15,29 @@ place_built: Littlehampton
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Salcombe
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Stephen Taylor
-  share: 64
   start: 2005
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ccc42342-9b48-4dc7-830d-83833855f878
-draft: 1.1887
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.905669673
+  beam: 2.286
+  draft: 1.1887
+  fore_triangle_height: 7.315288953913679
+  fore_triangle_base: 4.014264813460131
+  length_over_all: 7.467690807120214
+  propellor:
+    type: fixed
   main:
     foot: 4.57205559619605
     head: 3.5052426237503047
     luff: 4.038649109973177
-  thcf: 0.905669673
-  draft: 1.1887344550109729
-  propellor:
-    type: fixed
-  length_over_all: 7.467690807120214
-  fore_triangle_base: 4.014264813460131
   length_on_waterline: 6.858083394294074
-  fore_triangle_height: 7.315288953913679
-length_on_deck: 7.4676
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.4676
+created_at: '2020-04-25T17:09:20.913011+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

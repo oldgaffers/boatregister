@@ -31,49 +31,70 @@ place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel - Larch on Elm, Oak and Iron Keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 35000
+- created_at: '2017-12-22T01:38:34+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: '<p>"Avola", the well known and much loved 33" one off Gaff Cutter,
+    designed by J. Francis Jones and built by St Osyth Boatyard, Essex, 1965 is for
+    sale. She was named after the town in Sicily where her original owner had landed
+    with the 8<sup>th</sup> Army in 1943 during the Invasion of Sicily.</p><p>"Avola"
+    is an excellent and very comfortable cruising yacht with accommodation for four
+    adults. She sails well under her easily handled gaff rig and also has the benefit
+    of a 50HP Nanni Diesel engine giving her a cruising speed of 7 knots. The spacious
+    wheelhouse and the Kuranda Diesel heater combine to provide real four season usage.
+    Sails include topsail, genoa and squaresail.</p><p>She is carvel planked in larch
+    on steamed oak ribs fastened with copper nails and roves. Having the familiar
+    Francis Jones flared bow with a slightly raked stem and an almost vertical transom;
+    drawing 5.25" with an external ballast keel she is a remarkably stiff boat with
+    a sea kindly motion both under sail and motor. Keel bolts replaced 2006.</p><p>She
+    is offered complete with all equipment, winter cover, two dinghies, cutlery and
+    crockery, cooking utensils, cooker with oven, hot water system and shower, four
+    berths, chart table and galley, cabin table and wheelhouse table. Navigation equipment
+    included comprising: Chartplotter with Navionics charts, AIS receiver, GPS, 2
+    x Sestrel compasses, echo sounder, trailing electronic log, radar, autohelm, navtex,
+    VHF DSC radio.</p><h4>Dimensions</h4><p>LOA 36ft LOD 32.5", Waterline 26", Beam
+    9.67", Draft 5.25" long keel with deep forefoot.</p><p>Lying Ipswich Haven Marina</p><p>Full
+    specification and description with numerous photographs.</p>'
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.005242+00:00'
 home_country: GBR
 home_port: Ipswich Haven Marina
 hull_form: long keel deep forefoot
 sail_number: '1242'
 uk_part1: '306858'
-callsign: ''
 ownerships:
-- end: 2017
-  name: Brian Hammett
-  share: 64
+- name: Brian Hammett
   start: 1980
-- id: 526
+  end: 2017
   share: 64
-  member: 4832
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fe61cc86-a835-45de-8f80-1edd0cbc9916
 image_key: QbzvFK
 thumb: https://photos.smugmug.com/photos/i-VHFjhsZ/0/Th/i-VHFjhsZ-Th.png
-draft: 1.6002
 handicap_data:
-  beam: 2.9413557668861254
+  thcf: 0.970896655
+  beam: 2.9474
+  draft: 1.6002
+  fore_triangle_height: 8.382101926359423
+  fore_triangle_base: 4.800658376005852
+  length_over_all: 9.906120458424773
+  propellor:
+    type: fixed
   main:
     foot: 5.562667642038527
     head: 4.495854669592782
     luff: 4.648256522799317
-  thcf: 0.970896655
-  draft: 1.6002194586686174
   topsail:
     luff: 6.019873201658132
     perpendicular: 2.7432333577176298
-  propellor:
-    type: fixed
-  length_over_all: 9.906120458424773
-  fore_triangle_base: 4.800658376005852
   length_on_waterline: 7.924896366739819
-  fore_triangle_height: 8.382101926359423
-length_on_deck: 9.906
-beam: 2.9474
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.906
+created_at: '2020-04-25T17:02:02.308518+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

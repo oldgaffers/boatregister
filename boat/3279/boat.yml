@@ -28,30 +28,47 @@ construction_material: wood
 construction_method: clinker
 construction_details: Clinker construction, oak, larch and iroko, copper fastened.
   Galvanised centreboard.
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 0
+- created_at: '2018-04-03T12:05:42+00:00'
+  flexibility: poa
+  offered: null
+  price_flexibility:
+    text: poa
+  reduced: false
+  sales_text: "<p>Don\u2019t miss this rare opportunity to become the owner of a lovely,\
+    \ robust sailing dinghy. This 12\u2019 clinker sailing dinghy, built at Woodbridge\
+    \ by award winning boatbuilder Tim Wallace Smith, is based on the Brightlingsea\
+    \ \"Sea Ranger\".</p><p>Traditionally crafted in oak, larch and iroko with spruce\
+    \ spars, she is the latest boat based on the design by Fred Mitchell. A number\
+    \ of the originals are still being sailed and raced at the Gunfleet Sailing Club,\
+    \ Clacton.</p><p>`Svlvia Ruth\u2019 is gunter rigged, with galvanised pivoted\
+    \ centreplate and folding rudder. She is copper fastened with a blend of bronze\
+    \ and galvanised fittings. Her sail wardrobe is by the Levington trained Sail\
+    \ Medic Tom Brunton and comes complete with full length cover.<br />H Kemp +44\
+    \ (0)1291 689907 | B Chapple +44 (0) 7762326194</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.118428+00:00'
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 881
-  share: 64
+- member: 5992
+  id: 881
   start: 2015
-  member: 5992
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 619788f8-0e7e-4ba2-a13f-9f6fbda2abfb
 image_key: h9W4v5
 thumb: https://photos.smugmug.com/photos/i-V2MSmHV/0/Th/i-V2MSmHV-Th.jpg
-draft: 0
 handicap_data:
+  beam: 1.6154
   moving_keel: true
   length_overall: 3.6576
   moving_keel_type: Centreboard
-length_on_deck: 3.6576
-beam: 1.6154
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.6576
+created_at: '2020-04-25T17:47:40.610227+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

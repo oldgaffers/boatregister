@@ -3,13 +3,14 @@ oga_no: 2007
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1986
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,42 +18,33 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP hull, marine ply deck, spruce spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Chichester
 hull_form: long keel deep forefoot
 sail_number: P 7
-callsign: ''
 ownerships:
 - name: B R Lea
-  share: 64
   start: 1987
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 599a6126-3d8d-48a4-a23f-4e1e6c3dbbff
-draft: 1.143
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 0.967951068
+  beam: 2.8956
+  draft: 1.143
+  fore_triangle_height: 8.382101926359423
+  fore_triangle_base: 5.699829309924408
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
   main:
     foot: 5.6388685686417945
     head: 4.419653742989515
     luff: 5.18166300902219
-  thcf: 0.967951068
-  draft: 1.1430138990490124
   topsail:
     luff: 5.334064862228725
     perpendicular: 2.13362594489149
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.699829309924408
   length_on_waterline: 7.848695440136551
-  fore_triangle_height: 8.382101926359423
-length_on_deck: 9.144
-beam: 2.8956
-design_class:
-  name: Cornish Crabber Pilot Cutter 30
-  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:13:38.87436+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

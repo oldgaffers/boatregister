@@ -3,7 +3,6 @@ oga_no: 1872
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Small Galway Hooker
 year_is_approximate: false
 designer:
@@ -16,33 +15,26 @@ place_built: Ross Muck Eire
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: M McCarney
-  share: 64
   start: 1987
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a164853d-60e1-422d-ae2a-25e8e7875c37
-draft: 0.762
 handicap_data:
-  beam: 1.9812240916849548
+  thcf: 0.879479376
+  beam: 1.9812
+  draft: 0.762
+  length_over_all: 6.705681541087539
+  propellor:
+    type: fixed
   main:
     foot: 5.18166300902219
     head: 4.57205559619605
     luff: 4.724457449402585
-  thcf: 0.879479376
-  draft: 0.7620092660326749
-  propellor:
-    type: fixed
-  length_over_all: 6.705681541087539
   length_on_waterline: 5.4864667154352595
-length_on_deck: 6.7056
-beam: 1.9812
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:11:31.052713+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

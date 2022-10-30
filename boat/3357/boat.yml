@@ -12,6 +12,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Golant Gaffer
+  id: ecdf01fb-dd46-42f7-9232-39880886de2f
 builder:
   name: David Pennison
   id: 60f1279a-1f05-4fd8-a024-800655a28344
@@ -20,7 +23,7 @@ construction_material: wood
 construction_method: unknown
 construction_details: 'Cedar strip wood epoxy with iroko. Spars wood excluding the
   gaff which is carbon fibre/wood '
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Hamble
@@ -29,33 +32,29 @@ sail_number: G134
 ssr: '169950'
 callsign: MBRF2
 ownerships:
-- id: 576
-  share: 64
+- member: 5086
+  id: 576
   start: 2017
-  member: 5086
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://golantgaffer134.blogspot.co.uk/
 id: 2041681b-1faf-4992-a4d9-b50ad30fec50
 image_key: XcC3zZ
 thumb: https://photos.smugmug.com/photos/i-SmtcPWr/0/Th/i-SmtcPWr-Th.jpg
-draft: 0.8382
 handicap_data:
+  beam: 2.1336
+  draft: 0.8382
+  fore_triangle_height: 6.1996
+  fore_triangle_base: 3.301
+  sailarea: 7
   main:
     foot: 11.81
     head: 10.1
     luff: 13.78
-  sailarea: 7
   length_overall: 5.715
   calculated_thcf: 0.844
   length_over_spars: 7.3518
-  fore_triangle_base: 3.301
   length_on_waterline: 5.4102
-  fore_triangle_height: 6.1996
-length_on_deck: 5.715
-beam: 2.1336
-design_class:
-  name: Golant Gaffer
-  id: ecdf01fb-dd46-42f7-9232-39880886de2f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.715
+created_at: '2020-04-25T17:51:06.003056+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

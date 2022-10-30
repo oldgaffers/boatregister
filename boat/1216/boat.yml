@@ -3,8 +3,6 @@ oga_no: 1216
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1909
 year_is_approximate: false
 designer:
@@ -16,46 +14,35 @@ builder:
 place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: 'UK '
 home_port: 'Jersey '
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Justin Findlay
-  share: 64
   start: 2012
-- id: 1043
   share: 64
-  member: 6296
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 79c13b35-969a-47be-979a-c38600a0fa54
 image_key: nr4F9t
 thumb: https://photos.smugmug.com/photos/i-XWWWGhn/0/Th/i-XWWWGhn-Th.jpg
-draft: 1.8288222384784198
 handicap_data:
-  beam: 3.429041697147037
+  thcf: 1.174
+  beam: 3.429
+  draft: 1.8288222384784198
+  fore_triangle_height: 10.500487685930262
+  fore_triangle_base: 10.500487685930262
+  length_over_all: 18.2882223847842
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 103.38353073554062
   main:
     foot: 8.001097293343086
     head: 6.501463057790782
     luff: 6.001584979273348
-  thcf: 1.174
-  draft: 1.8288222384784198
-  topsail: {}
-  sailarea: 103.38353073554062
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 18.2882223847842
-  fore_triangle_base: 10.500487685930262
   length_on_waterline: 11.887344550109729
-  fore_triangle_height: 10.500487685930262
-length_on_deck: 14.325774201414289
-beam: 3.429
+  length_on_deck: 14.325774201414289
+created_at: '2020-04-25T17:01:38.950208+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 air_draft: 17
-for_sale_state:
-  text: not_for_sale

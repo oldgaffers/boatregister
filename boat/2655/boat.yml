@@ -10,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Eric Bergqvist
   id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
@@ -18,50 +21,42 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bembridge
 hull_form: centre-boarder
 sail_number: M3
-callsign: ''
 ownerships:
-- end: 2015
-  name: Miles Atherton
-  share: 64
+- name: Miles Atherton
   start: 2012
-- id: 883
+  end: 2015
   share: 64
+- member: 5996
+  id: 883
   start: 2015
-  member: 5996
+  share: 64
   current: true
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
 id: 865981e8-b660-48e4-aa85-c7fd12220d3d
-previous_names:
-- Sans Souci
-- Hawfinch
-- Tegan
 image_key: LzbmQd
 thumb: https://photos.smugmug.com/photos/i-MRmLhz8/0/Th/i-MRmLhz8-Th.jpg
-draft: 0.5334
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.864822906
+  beam: 2.1336
+  draft: 0.5334
+  fore_triangle_height: 6.349061204584247
+  fore_triangle_base: 2.718849061204584
+  length_over_all: 5.7912704218483295
   main:
     foot: 4.700073152889539
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  thcf: 0.864822906
-  draft: 0.5334064862228725
   draft_keeldown: 1.1430138990490124
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 2.718849061204584
   length_on_waterline: 5.690685198732017
-  fore_triangle_height: 6.349061204584247
-length_on_deck: 5.7912
-beam: 2.1336
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:24:04.009155+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+previous_names:
+- Sans Souci
+- Hawfinch
+- Tegan

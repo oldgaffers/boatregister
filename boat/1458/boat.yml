@@ -23,52 +23,47 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Plank on frame
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Upnor on the Medway
 hull_form: long keel deep forefoot
 sail_number: OS1
-callsign: ''
 ownerships:
-- end: 2013
-  name: Richard Rouse
-  share: 64
+- name: Richard Rouse
   start: 1983
-- id: 760
+  end: 2013
   share: 64
+- member: 5769
+  id: 760
   start: 2013
-  member: 5769
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 6c6fc02b-ec99-464b-aac7-a9185411e615
-previous_names:
-- Charmain
 image_key: qj4LNN
 thumb: https://photos.smugmug.com/photos/i-Kj7xL8p/0/Th/i-Kj7xL8p-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.3988051694708608
+  thcf: 0.947233535
+  beam: 2.3988
+  draft: 1.3716
+  fore_triangle_height: 8.415630334064861
+  fore_triangle_base: 3.5997317727383566
+  length_over_all: 8.53450377956596
+  propellor:
+    type: fixed
   main:
     foot: 4.950012192148256
     head: 3.749085588880761
     luff: 4.739697634723238
-  thcf: 0.947233535
-  draft: 1.3716166788588149
-  mizzen:
-    foot: 1.4996342355523042
-    luff: 4.498902706656913
   topsail:
     luff: 5.090221897098268
     perpendicular: 1.6002194586686174
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 3.5997317727383566
+  mizzen:
+    foot: 1.4996342355523042
+    luff: 4.498902706656913
   length_on_waterline: 7.101926359424531
-  fore_triangle_height: 8.415630334064861
-length_on_deck: 8.5344
-beam: 2.3988
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T17:05:16.091759+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Charmain

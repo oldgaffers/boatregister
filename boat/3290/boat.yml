@@ -18,6 +18,9 @@ full_description: <p>John and Vera Lewis bought 'Dragonfly' in Puerto Rico, 1998
   from the cockpit making for safe handling of all lines.</p>
 year: 1981
 year_is_approximate: false
+design_class:
+  name: Freedom 33
+  id: a1a07730-5772-4b76-bceb-0ed5d0093910
 builder:
   name: Pearson Tillotson
   id: 67668d3e-34ec-4a21-9fb8-908b7405c531
@@ -25,28 +28,23 @@ place_built: Rhode Island, USA
 construction_material: grp
 construction_method: cold_moulded
 construction_details: Built of GRP using a Balsa Core method
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 629
-  share: 64
+- member: 5356
+  id: 629
   start: 1998
-  member: 5356
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 3bc43031-5811-447e-b838-4c099e414a91
 image_key: JxCzHc
 thumb: https://photos.smugmug.com/photos/i-QrWhnqw/0/Th/i-QrWhnqw-Th.jpg
-draft: 1.2192
-length_on_deck: 10.0584
-beam: 3.2004
-design_class:
-  name: Freedom 33
-  id: a1a07730-5772-4b76-bceb-0ed5d0093910
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T18:37:15.276262+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  beam: 3.2004
+  draft: 1.2192
+  length_on_deck: 10.0584

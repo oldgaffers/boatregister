@@ -32,39 +32,33 @@ place_built: Cornwall
 construction_material: wood
 construction_method: carvel
 construction_details: carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Plymouth
 hull_form: long keel deep forefoot
 reference:
 - Log 89/3
-callsign: ''
-updated_at: '2022-06-05T21:05:19.128407+00:00'
-website: ''
 id: 0f49df04-7505-45c2-8bc7-5155a88dcb8e
 image_key: cGTFMj
 thumb: https://photos.smugmug.com/photos/i-4FMQh9K/0/Th/i-4FMQh9K-Th.jpg
-draft: 1.0058
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.863132922
+  beam: 2.4384
+  draft: 1.0058
+  fore_triangle_height: 4.87685930260912
+  fore_triangle_base: 2.7432333577176298
+  length_over_all: 7.162887100707144
+  propellor:
+    type: fixed
   main:
     foot: 3.2309192879785416
     head: 4.236771519141673
     luff: 2.7432333577176298
-  thcf: 0.863132922
-  draft: 1.0058522311631308
   mizzen:
     foot: 2.407949280663253
     head: 3.1089978054133134
     luff: 1.9202633504023408
-  propellor:
-    type: fixed
-  length_over_all: 7.162887100707144
-  fore_triangle_base: 2.7432333577176298
   length_on_waterline: 7.010485247500609
-  fore_triangle_height: 4.87685930260912
-length_on_deck: 7.1628
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.1628
+created_at: '2020-04-25T17:17:49.440721+00:00'
+updated_at: '2022-06-05T21:05:19.128407+00:00'

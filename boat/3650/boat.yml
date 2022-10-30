@@ -9,39 +9,38 @@ year_is_approximate: true
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+design_class:
+  name: Norfolk Gypsy
+  id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
 builder:
   name: North Norfolk Boatbuilding Co./Charlie Ward
   id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
 place_built: Moreston
 construction_material: grp
 spar_material: wood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: South Devon
 home_port: Salcombe
 hull_form: centre-boarder
 sail_number: '38'
 ownerships:
-- id: 34926
+- member: 6525
+  id: 34926
   share: 64
-  member: 6525
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 15d554ff-67a8-4166-b193-471e000e0ef5
 image_key: s8TV7k
-draft: 0.45720555961960496
 handicap_data:
-  beam: 2.286027798098025
   thcf: 0.825
-  sailarea: 19.69592348194673
+  beam: 2.286027798098025
+  draft: 0.45720555961960496
   propellor:
     type: fixed
     blades: 2
+  sailarea: 19.69592348194673
   length_on_deck: 6.044257498171177
   length_on_waterline: 5.410265788831992
-length_on_deck: 6.044257498171177
-design_class:
-  name: Norfolk Gypsy
-  id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
-for_sale_state:
-  text: not_for_sale
+created_at: '2022-02-12T14:46:16.23455+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+hin: '38'

@@ -5,7 +5,6 @@ rig_type: Sloop
 mainsail_type: bermudan
 short_description: <i>Marynka</i> is a traditional wooden Bermudan sailing sloop,
   designed and built by Harry Feltham in 1951 at Portsmouth.
-full_description: ''
 year: 1951
 year_is_approximate: false
 designer:
@@ -19,40 +18,53 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel, Mahogany on Oak timbers
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 7500
+- created_at: '2019-01-28T05:43:16+00:00'
+  flexibility: normal
+  offered: '2019-01-28'
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Marynka" is a traditional wooden Bermudan sailing sloop with two-berth
+    cabin, designed and built by Harry Feltham in 1950 at Portsmouth. Fitted with
+    Yanmar YSE8 diesel engine.<br />LOD 25" Beam 9" Draft 4" Displacement 4.5t<br
+    /><br />Mahogany on oak, the current owner has kept her fully maintained to an
+    exceptionally high standard for the past 25 years. Stored and laid up, mast down,
+    fully covered during winter.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: '2020-08-01'
+  summary: null
+  updated_at: '2020-05-03T10:13:12.98869+00:00'
 home_country: GBR
 home_port: Harwich
 hull_form: long keel sloping forefoot
 uk_part1: '358029'
-callsign: ''
 ownerships:
-- end: '1993'
-  name: Pat Fisher
+- name: Pat Fisher
+  end: '1993'
   note: Previous owner Pat Fisher
   text: Previous owner Pat Fisher
 - name: Benjamin Dale
-  share: 64
   start: 1993
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 8ce3015d-afcd-4540-bbeb-63114750a459
 image_key: GXQxsW
 thumb: https://photos.smugmug.com/photos/i-kCQFd8v/0/Th/i-kCQFd8v-Th.jpg
-draft: 1.1674
 handicap_data:
+  beam: 2.7676
+  draft: 1.1674
+  fore_triangle_height: 7.0104
+  fore_triangle_base: 2.5908
+  sailarea: 7
   main:
     foot: 13.25
     luff: 29
-  sailarea: 7
   length_overall: 7.62
   calculated_thcf: 0.866
   length_over_spars: 8.7386
-  fore_triangle_base: 2.5908
   length_on_waterline: 6.7056
-  fore_triangle_height: 7.0104
-length_on_deck: 7.62
-beam: 2.7676
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T17:49:01.869557+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

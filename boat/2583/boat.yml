@@ -3,13 +3,14 @@ oga_no: 2583
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1976
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,50 +18,42 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Rhosneigr North Wales
 hull_form: long keel deep forefoot
 sail_number: '5'
-callsign: ''
 ownerships:
-- id: 413
-  share: 64
+- member: 4250
+  id: 413
   start: 2003
-  member: 4250
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: dd5bb86a-2684-48f2-afa6-26b769781bd9
-previous_names:
-- Betty May
 image_key: ZRhTkx
 thumb: https://photos.smugmug.com/photos/i-7c2hz9H/0/Th/i-7c2hz9H-Th.jpg
-draft: 0.7376
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.864
+  beam: 2.4384
+  draft: 0.7376
+  fore_triangle_height: 5.498658863691782
+  fore_triangle_base: 3.9014874420872956
+  length_over_all: 7.315288953913679
+  propellor:
+    type: fixed
+  sailarea: 26.057815897531935
   main:
     foot: 3.968544257498171
     head: 2.779809802487198
     luff: 3.1608144355035352
-  thcf: 0.864
-  draft: 0.7376249695196293
   topsail:
     luff: 3.749085588880761
     perpendicular: 1.929407461594733
-  sailarea: 26.057815897531935
-  propellor:
-    type: fixed
   draft_keeldown: 1.4234333089490367
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 3.9014874420872956
   length_on_waterline: 6.1722750548646665
-  fore_triangle_height: 5.498658863691782
-length_on_deck: 7.3152
-beam: 2.4384
-design_class:
-  name: Cornish Crabber Mk 1
-  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:22:58.277339+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Betty May

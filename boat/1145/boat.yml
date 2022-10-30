@@ -2,8 +2,6 @@ name: Pet
 oga_no: 1145
 generic_type: unknown
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1902
 year_is_approximate: false
 builder:
@@ -13,28 +11,21 @@ place_built: Sudbourne
 construction_material: wood
 construction_method: clinker
 construction_details: Larch transom sterned clinker with joggled ribs
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 3
-  share: 64
+- member: 52
+  id: 3
   start: 1981
-  member: 52
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: b1627a42-aeec-45ea-9923-9dea155f5890
-draft: 0.5578
 handicap_data:
-  beam: 4.724457449402585
-  draft: 0.3291880029261156
+  beam: 4.7244
+  draft: 0.5578
   length_over_all: 4.57205559619605
   length_on_waterline: 4.57205559619605
-length_on_deck: 4.572
-beam: 4.7244
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.572
+created_at: '2020-04-25T17:00:32.655012+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

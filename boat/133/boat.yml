@@ -65,39 +65,34 @@ place_built: Gravesend
 construction_material: wood
 construction_method: carvel
 construction_details: Clinker with 2 carvel tops strakes
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Faversham
 hull_form: unknown
-callsign: ''
 ownerships:
 - id: 2
+  start: 1964
   end: 1974
   share: 64
-  start: 1964
-- end: 2012
-  name: John Cann
-  share: 64
+- name: John Cann
   start: 2000
-- id: 792
+  end: 2012
   share: 64
+- member: 5835
+  id: 792
   start: 2012
-  member: 5835
-updated_at: '2022-07-14T15:00:35.220871+00:00'
-website: ''
+  share: 64
 id: 416ac633-ea6a-4c64-96be-1ca60bba69dc
-previous_names:
-- Vivida
 image_key: gq4z6m
 thumb: https://photos.smugmug.com/photos/i-wMsmsGr/0/Th/i-wMsmsGr-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 2.7432333577176298
-  draft: 0.9144111192392099
+  beam: 2.7432
+  draft: 0.9144
   length_over_all: 7.467690807120214
   length_on_waterline: 6.980004876859302
-length_on_deck: 7.4676
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.4676
+created_at: '2020-04-25T16:44:24.736884+00:00'
+updated_at: '2022-07-14T15:00:35.220871+00:00'
+previous_names:
+- Vivida

@@ -26,36 +26,29 @@ place_built: Fowey
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel teak on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: K4208T
 uk_part1: '95731'
-callsign: ''
 ownerships:
 - name: A Tate
-  share: 64
   start: 1981
-- note: '''Airy Mouse'' was sold in 1999 (National Historic Ships records)'
+  share: 64
+- start: 1999
+  note: '''Airy Mouse'' was sold in 1999 (National Historic Ships records)'
   text: '''Airy Mouse'' was sold in'
-  start: 1999
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fd39972c-3caf-45d5-8b3b-a8f347a289bf
 image_key: nWbZQB
 thumb: https://photos.smugmug.com/photos/i-HkgM2Nr/0/Th/i-HkgM2Nr-Th.jpg
-draft: 2.286
 handicap_data:
-  beam: 3.8100463301633747
-  draft: 2.286027798098025
+  beam: 3.81
+  draft: 2.286
+  length_over_all: 17.67861497195806
   propellor:
     type: fixed
-  length_over_all: 17.67861497195806
   length_on_waterline: 12.192148256522799
-length_on_deck: 17.6784
-beam: 3.81
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 17.6784
+created_at: '2020-04-25T17:02:12.666625+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

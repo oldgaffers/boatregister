@@ -20,45 +20,36 @@ place_built: Maldon
 construction_material: wood
 construction_method: carvel
 construction_details: Traditional carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Tollesbury
 hull_form: long keel sloping forefoot
 sail_number: CK 328
-callsign: ''
 ownerships:
 - name: Nigel Butt
-  share: 64
   start: 2012
-- share: 64
-  member: 5343
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 8eed9220-eea1-48bd-977d-da1a1b508d7d
 image_key: vWtRK3
 thumb: https://photos.smugmug.com/photos/i-dhnqg54/0/Th/i-dhnqg54-Th.jpg
-draft: 1.7526
 handicap_data:
-  beam: 3.5052426237503047
+  thcf: 1.207415451
+  beam: 3.5052
+  draft: 1.7526
+  fore_triangle_height: 17.373811265544987
+  fore_triangle_base: 10.36332601804438
+  length_over_all: 15.240185320653499
+  propellor:
+    type: folding
   main:
     foot: 9.296513045598633
     head: 6.2484759814679345
     luff: 6.3246769080712015
-  thcf: 1.207415451
-  draft: 1.7526213118751524
   topsail:
     luff: 8.83930748597903
     perpendicular: 3.2766398439405022
-  propellor:
-    type: folding
-  length_over_all: 15.240185320653499
-  fore_triangle_base: 10.36332601804438
   length_on_waterline: 12.192148256522799
-  fore_triangle_height: 17.373811265544987
-length_on_deck: 15.24
-beam: 3.5052
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 15.24
+created_at: '2020-04-25T17:18:24.704356+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

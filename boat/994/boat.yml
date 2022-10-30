@@ -3,8 +3,6 @@ oga_no: 994
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1895
 year_is_approximate: false
 designer:
@@ -16,28 +14,23 @@ builder:
 place_built: Sandbank
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Truro
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 148
-  share: 64
+- member: 2335
+  id: 148
   start: 1995
-  member: 2335
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 872c3775-ff6c-4253-8b17-e08b91b45773
-draft: 1.6764
 handicap_data:
-  beam: 2.590831504511095
-  draft: 1.6764203852718849
+  beam: 2.5908
+  draft: 1.6764
   length_over_all: 8.382101926359423
   length_on_waterline: 7.620092660326749
-length_on_deck: 8.382
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.382
+created_at: '2020-04-25T16:58:16.912353+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

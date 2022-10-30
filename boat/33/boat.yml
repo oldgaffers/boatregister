@@ -12,50 +12,45 @@ year_is_approximate: false
 designer:
   name: A.R. Curjel
   id: 4efa23c3-e787-4171-a6e4-dafeaa8c2f34
+design_class:
+  name: Deben Cherub
+  id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
 builder:
   name: Everson A. and Sons
   id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
 place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Amsterdam
 hull_form: long keel deep forefoot
 sail_number: CC3
-callsign: ''
 ownerships:
 - name: Mrs Molly Vingerhoets
-  share: 64
   start: 2000
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0542dfe5-971e-4a56-bf84-219b870cf32f
-previous_names:
-- Etonia
 image_key: PSbqFZ
 thumb: https://photos.smugmug.com/photos/i-w9JmWrD/0/Th/i-w9JmWrD-Th.jpg
-draft: 0.8534
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.891
+  beam: 2.1336
+  draft: 0.8534
+  fore_triangle_height: 5.990307242136064
+  fore_triangle_base: 3.0480370641306997
+  length_over_all: 6.4008778346744695
+  propellor:
+    type: fixed
+  sailarea: 32.66311203884568
   main:
     foot: 4.860399902462814
     head: 4.950316995854669
     luff: 3.900268227261643
-  thcf: 0.891
-  draft: 0.8382101926359424
-  sailarea: 32.66311203884568
-  propellor:
-    type: fixed
-  length_over_all: 6.4008778346744695
-  fore_triangle_base: 3.0480370641306997
   length_on_waterline: 5.7912704218483295
-  fore_triangle_height: 5.990307242136064
-length_on_deck: 6.4008
-beam: 2.1336
-design_class:
-  name: Deben Cherub
-  id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4008
+created_at: '2020-04-25T16:42:47.13556+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Etonia

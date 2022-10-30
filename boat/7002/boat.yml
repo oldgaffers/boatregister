@@ -3,37 +3,30 @@ oga_no: 7002
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1994
 year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+design_class:
+  name: Eventide 26
+  id: c462da91-2cda-4c28-9d25-87686c7cc101
 builder:
   name: C.A. Nelson
   id: c168d3cf-b2a0-4027-a08d-46bffb231f85
 place_built: Skegness
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Burnham on Crouch
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Graeme Leaper
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 28ee1b5d-18f6-4349-9627-dd7886b0c61e
-draft: 0
-length_on_deck: 0
-beam: 0
-design_class:
-  name: Eventide 26
-  id: c462da91-2cda-4c28-9d25-87686c7cc101
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:40:53.890375+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  length_on_deck: 0

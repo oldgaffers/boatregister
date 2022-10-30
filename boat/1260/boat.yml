@@ -18,63 +18,74 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Trader
+  id: 34112a28-7463-42b2-9aaf-2106409b1a0a
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 37500
+- created_at: '2020-01-03T18:11:26+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: '<p>Golden Nomad is a very sea kindly stable boat and can be sailed
+    comfortably in cooler weather. A Cornish Crabber Pilot Trader, built 1981 by Cornish
+    Crabbers, Rock, Cornwall. Much loved and updated over the last 25 years by her
+    present owners.</p><p>LOD: 30ft+bowsprit, beam: 9ft 6in, draft: 3ft 6in plate
+    up. New main mast 2014, new mizzen 2010, re-rigged 2013. New jib furling foil
+    2013, new Maxwell electric windlass 2013. New sails 2008, good electronics. Engine:
+    Yanmar 30hp 2008.</p><p>Hot water is supplied to the galley and heads basin and
+    shower by a calorifier when the engine is running and an immersion heater when
+    hooked up. A Sterling battery charger is fitted.</p><p>Several 13amp sockets fitted
+    through. Ample warps, boat hooks and fenders.</p>'
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.60268+00:00'
 home_country: GBR
 home_port: Rye, Sussex
 hull_form: long keel deep forefoot
 sail_number: '6'
-callsign: ''
 ownerships:
-- end: 2017
-  name: Alan Aston
-  share: 64
+- name: Alan Aston
   start: 1997
+  end: 2017
+  share: 64
 - name: Gary Palmer
-  share: 64
   start: 2017
-- id: 1001
   share: 64
-  member: 6233
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 43a96ecb-d64c-4a30-8936-066e53f8e941
 image_key: W8LxxR
 thumb: https://photos.smugmug.com/photos/i-xmNCm7z/0/Th/i-xmNCm7z-Th.jpg
-draft: 0.1006
 handicap_data:
+  thcf: 0.93540642
   beam: 2.8956
+  draft: 0.1006
+  fore_triangle_height: 7.467690807120214
+  fore_triangle_base: 4.87685930260912
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
   main:
     foot: 3.758229700073153
     head: 3.2522555474274566
     luff: 4.620824189222141
-  thcf: 0.93540642
-  draft: 0.0762009266032675
+  topsail:
+    luff: 4.495854669592782
+    perpendicular: 2.0574250182882223
   mizzen:
     foot: 2.6426481346013166
     head: 2.1854425749817117
     luff: 3.7094611070470616
-  topsail:
-    luff: 4.495854669592782
-    perpendicular: 2.0574250182882223
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 4.87685930260912
   length_on_waterline: 7.848695440136551
-  fore_triangle_height: 7.467690807120214
-length_on_deck: 9.144
-design_class:
-  name: Cornish Trader
-  id: 34112a28-7463-42b2-9aaf-2106409b1a0a
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:02:19.092787+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

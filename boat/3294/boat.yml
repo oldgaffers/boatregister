@@ -20,6 +20,9 @@ year_is_approximate: false
 designer:
   name: David Thomas
   id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+design_class:
+  name: Hunter Minstrel
+  id: 55b03d72-c570-40b6-b304-a2bfb71b835c
 builder:
   name: Hunter Boats Ltd.
   id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
@@ -27,35 +30,29 @@ place_built: Southampton
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: unknown
 sail_number: '6'
-callsign: ''
 ownerships:
-- id: 802
+- member: 5858
+  id: 802
+  start: 2014
   share: 64
-  start: 2014
-  member: 5858
   current: true
-- note: Prior to 2014 owned by K.Stagg, P.James
+- start: 2014
+  note: Prior to 2014 owned by K.Stagg, P.James
   text: Prior to
-  start: 2014
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 9abbcf43-f228-4deb-936a-11c3831b038e
-previous_names:
-- Windra
 image_key: SmBzVM
 thumb: https://photos.smugmug.com/photos/i-pPv2TQs/0/Th/i-pPv2TQs-Th.jpg
-draft: 0.4572
-length_on_deck: 6.9098
-beam: 2.2098
-design_class:
-  name: Hunter Minstrel
-  id: 55b03d72-c570-40b6-b304-a2bfb71b835c
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:48:35.329191+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Windra
+handicap_data:
+  beam: 2.2098
+  draft: 0.4572
+  length_on_deck: 6.9098

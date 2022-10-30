@@ -5,7 +5,6 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Manuvera is a great sailor, and&nbsp;had&nbsp;crossed the channel
   over 60 times before her engine was installed in 2013</p>
-full_description: ''
 year: 1948
 year_is_approximate: false
 designer:
@@ -17,22 +16,34 @@ builder:
 place_built: Le Havre
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 26000
+- created_at: '2020-01-02T13:08:37+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Etoile Manureva" is a French cutter, lying in Roscoff, France. She
+    is&nbsp;offered for sale to a new custodian with a passion for beautiful wooden
+    boats.&nbsp;</p><p>Built at le Havre&nbsp;in 1947, she sailed for many years before
+    having a Vetus engine fitted in 2013..</p><p>Contact&nbsp;Jean Yvon Combot, a
+    member of the French OGA for more details.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: <p>Built at le Havre, 1947 and now lying Roscoff, France, &quot;Manureva&quot;
+    seeks a new custodian with a passion for beautiful wooden boats.</p>
+  updated_at: '2020-05-03T10:13:12.986369+00:00'
 home_country: FRA
 home_port: Roscoff
 hull_form: unknown
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 41bc2ad3-bceb-466c-bbb4-8dd75cb1260b
-previous_names:
-- Manureva
 image_key: R2zW6v
 thumb: https://photos.smugmug.com/photos/i-S9DhrPS/0/Th/i-S9DhrPS-Th.jpg
-draft: 0
-length_on_deck: 0
-beam: 0
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:54:56.344545+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Manureva
+handicap_data:
+  length_on_deck: 0

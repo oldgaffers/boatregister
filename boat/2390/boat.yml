@@ -3,7 +3,6 @@ oga_no: 2390
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Gunter rigged John Leather design of 1940/45, as a raceing day boat,
   Surprise built in 1997 from original plans Previous owner Robert Harris
 year: 1997
@@ -17,34 +16,28 @@ builder:
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker mahogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Bradwell on Sea
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: John R Harris
-  share: 64
   start: 1999
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 918e4839-5269-4d49-8539-81f9dbf804c8
-previous_names:
-- Black Betty
-draft: 1.524
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.847509319
+  beam: 1.8288
+  draft: 1.524
+  fore_triangle_height: 4.87685930260912
+  fore_triangle_base: 2.0330407217751767
+  length_over_all: 5.4864667154352595
   main:
     foot: 4.166666666666666
     luff: 7.315288953913679
-  thcf: 0.847509319
-  draft: 1.5240185320653499
-  length_over_all: 5.4864667154352595
-  fore_triangle_base: 2.0330407217751767
   length_on_waterline: 5.334064862228725
-  fore_triangle_height: 4.87685930260912
-length_on_deck: 5.4864
-beam: 1.8288
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T17:19:21.430396+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Black Betty

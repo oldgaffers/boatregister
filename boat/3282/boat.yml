@@ -15,6 +15,9 @@ year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+design_class:
+  name: Ebihen
+  id: 1d24c2a0-0d1c-4b0b-9ebe-d53382d1dc96
 builder:
   name: John Harris
   id: 37f91789-9ef7-4831-b7d6-43c0e081b108
@@ -23,57 +26,50 @@ construction_material: woodepoxy
 construction_method: unknown
 construction_details: "Douglas fir strip planks 15mm thick, sheathed with 400g biaxial\
   \ glass cloth in epoxy inside and out.\r\n"
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 695
-  share: 64
+- member: 5618
+  id: 695
   start: 2012
-  member: 5618
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 81dc6394-6370-48d6-bb56-c9939d615133
 image_key: 4NxxTT
 thumb: https://photos.smugmug.com/photos/i-rvG73Rh/0/Th/i-rvG73Rh-Th.jpg
-draft: 0.8412
 handicap_data:
-  beam: 1.8501584979273349
+  thcf: 0.799
+  beam: 1.8501
+  draft: 0.8412
+  fore_triangle_height: 4.2977322604242865
+  fore_triangle_base: 2.9596439892709094
+  length_over_all: 4.498902706656913
+  propellor:
+    type: fixed
+  sailarea: 20.292561314970605
   main:
     foot: 3.3985613265057304
     head: 3.627164106315533
     luff: 2.7432333577176298
-  thcf: 0.799
-  depth: 1
   topsail:
     luff: 3.291880029261156
     perpendicular: 1.3999634235552303
-  sailarea: 20.292561314970605
-  propellor:
-    type: fixed
+  depth: 1
   biggest_jib:
     foot: 2.16408
     luff: 4.14528
     leech: 3.148584
   moving_keel: true
-  length_over_all: 4.498902706656913
   biggest_staysail:
     foot: 1.76784
     luff: 3.38328
     leech: 3.47472
   moving_keel_type: Centreboard
   length_over_spars: 6.4
-  fore_triangle_base: 2.9596439892709094
   length_on_waterline: 4.239819556205803
-  fore_triangle_height: 4.2977322604242865
-length_on_deck: 4.4988
-beam: 1.8501
-design_class:
-  name: Ebihen
-  id: 1d24c2a0-0d1c-4b0b-9ebe-d53382d1dc96
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.4988
+created_at: '2020-04-25T17:47:43.535356+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

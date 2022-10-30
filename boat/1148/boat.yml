@@ -4,62 +4,49 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Ludwen is a Cornish Crabber Mark 1 built in 1976.</p>
-full_description: ''
 year: 1976
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - note: Previously owned by J D Robinson
   text: Previously owned by J D Robinson
 - name: Steve Jones
-  share: 64
   start: 2015
-- id: 811
   share: 64
-  member: 5873
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 263e753a-c3d4-468d-bf51-7d7fd6b52f3a
 image_key: nbBMGL
 thumb: https://photos.smugmug.com/photos/i-H4pM4HD/0/Th/i-H4pM4HD-Th.jpg
-draft: 0.7376
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.883861792
+  beam: 2.4384
+  draft: 0.7376
+  fore_triangle_height: 5.6388685686417945
+  fore_triangle_base: 4.114850036576445
+  length_over_all: 7.315288953913679
+  propellor:
+    type: fixed
   main:
     foot: 4.166666666666666
     head: 2.8194342843208973
     luff: 3.5052426237503047
-  thcf: 0.883861792
-  draft: 0.7376249695196293
   topsail:
     luff: 4.343452816386247
     perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
-  fore_triangle_height: 5.6388685686417945
-length_on_deck: 7.3152
-beam: 2.4384
-design_class:
-  name: Cornish Crabber Mk 1
-  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:00:35.531929+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

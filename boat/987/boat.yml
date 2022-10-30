@@ -3,8 +3,6 @@ oga_no: 987
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1933
 year_is_approximate: false
 designer:
@@ -17,43 +15,36 @@ place_built: Hamble
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: '987'
-callsign: ''
 ownerships:
-- id: 244
-  share: 64
+- member: 3290
+  id: 244
   start: 1996
-  member: 3290
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ea84744f-962d-4a05-b9fe-88331571d26c
 image_key: dKKNPm
 thumb: https://photos.smugmug.com/photos/i-tFKDQGP/0/Th/i-tFKDQGP-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.954885407
+  beam: 2.7432
+  draft: 1.524
+  fore_triangle_height: 8.787490855888807
+  fore_triangle_base: 5.129846378931967
+  length_over_all: 8.53450377956596
+  propellor:
+    type: fixed
   main:
     foot: 5.029261155815655
     head: 4.038649109973177
     luff: 5.18166300902219
-  thcf: 0.954885407
-  draft: 1.5240185320653499
   topsail:
     luff: 5.840039014874421
     perpendicular: 1.9812240916849548
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 5.129846378931967
   length_on_waterline: 7.620092660326749
-  fore_triangle_height: 8.787490855888807
-length_on_deck: 8.5344
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T16:58:10.931753+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

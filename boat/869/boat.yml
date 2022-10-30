@@ -3,8 +3,6 @@ oga_no: 869
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1928
 year_is_approximate: false
 designer:
@@ -16,21 +14,14 @@ builder:
 place_built: Exmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 00acf340-1083-4a93-8334-e724d749ea6e
-draft: 0
 handicap_data:
-  beam: 2.286027798098025
+  beam: 2.286
   length_over_all: 6.5532796878810045
   length_on_waterline: 5.7912704218483295
-length_on_deck: 6.5532
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.5532
+created_at: '2020-04-25T16:55:30.368079+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

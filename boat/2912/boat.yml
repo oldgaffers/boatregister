@@ -3,8 +3,6 @@ oga_no: 2912
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1946
 year_is_approximate: false
 designer:
@@ -15,33 +13,28 @@ builder:
   id: 8febbbec-1973-4fdc-be3d-c6830d091b29
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Hoorn
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Dirk Dijkstra
-  share: 64
   start: 1970
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 58600921-a024-400f-bedf-e7de8a51db19
-draft: 0.9205
 handicap_data:
-  beam: 2.5999756157034866
+  thcf: 0.913004188
+  beam: 2.5999
+  draft: 0.9205
+  fore_triangle_height: 6.699585466959278
+  fore_triangle_base: 3.249207510363326
+  length_over_all: 8.098634479395269
   main:
     foot: 4.1087539624481835
     head: 3.6210680321872712
     luff: 4.898195562058034
-  thcf: 0.913004188
-  draft: 0.9205071933674713
-  length_over_all: 8.098634479395269
-  fore_triangle_base: 3.249207510363326
   length_on_waterline: 7.79992684711046
-  fore_triangle_height: 6.699585466959278
-length_on_deck: 8.0985
-beam: 2.5999
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.0985
+created_at: '2020-04-25T17:31:54.86423+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

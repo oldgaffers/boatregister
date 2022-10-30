@@ -3,7 +3,6 @@ oga_no: 1332
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Her name at the time of launching is not known.  She was built as
   a smack and was refitted and converted from sail to motor in 1935.  She came into
   the possession of Mr. Charles Chase of Kings Lynn in 1912, and was re-named 'Charles
@@ -29,40 +28,33 @@ place_built: Boston
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: M R Waterhouse
-  share: 64
   start: 1973
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 10e8a112-f06d-4a71-bf3d-e8733661f186
-previous_names:
-- Charles Josephine
-draft: 1.3716
 handicap_data:
-  beam: 3.2004389173372347
+  thcf: 1.025602355
+  beam: 3.2004
+  draft: 1.3716
+  fore_triangle_height: 8.83930748597903
+  fore_triangle_base: 7.315288953913679
+  length_over_all: 10.972933430870519
+  propellor:
+    type: fixed
   main:
     foot: 6.806266764203852
     head: 4.87685930260912
     luff: 5.334064862228725
-  thcf: 1.025602355
-  draft: 1.3716166788588149
   topsail:
     luff: 5.7912704218483295
     perpendicular: 2.43842965130456
-  propellor:
-    type: fixed
-  length_over_all: 10.972933430870519
-  fore_triangle_base: 7.315288953913679
   length_on_waterline: 9.44891489880517
-  fore_triangle_height: 8.83930748597903
-length_on_deck: 10.9728
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.9728
+created_at: '2020-04-25T17:03:23.464167+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Charles Josephine

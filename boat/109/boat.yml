@@ -66,46 +66,41 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel pine on elm frames, elm keel, new strakes of iroko &
   agba
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: ITA
 home_port: Lake Maggiore, Italy
 hull_form: long keel deep forefoot
 ssr: '147719'
-callsign: ''
 ownerships:
-- end: 2012
-  name: 'Dr Michele Ivaldi '
-  share: 64
+- name: 'Dr Michele Ivaldi '
   start: 2007
-- name: Paolo Sivelli
+  end: 2012
   share: 64
+- name: Paolo Sivelli
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 06c09b0e-ca10-4f61-bb40-a0419f1a6af2
 image_key: 84HPKX
 thumb: https://photos.smugmug.com/photos/i-mwQ9WKp/0/Th/i-mwQ9WKp-Th.jpg
-draft: 1.1948
 handicap_data:
-  beam: 2.1305779078273592
+  thcf: 0.949416408
+  beam: 2.1092
+  draft: 1.1948
+  fore_triangle_height: 8.54059985369422
+  fore_triangle_base: 4.559863447939527
+  length_over_all: 7.918800292611558
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 5.5199951231406965
     head: 3.7003169958546698
     luff: 4.998780785174347
-  thcf: 0.949416408
-  draft: 1.210070714459888
   topsail:
     luff: 2.801146061936113
     perpendicular: 1.6093635698610096
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.918800292611558
-  fore_triangle_base: 4.559863447939527
   length_on_waterline: 6.059497683491831
-  fore_triangle_height: 8.54059985369422
-length_on_deck: 7.9004
-beam: 2.1092
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9004
+created_at: '2020-04-25T16:44:04.505132+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

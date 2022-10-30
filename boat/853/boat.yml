@@ -3,7 +3,6 @@ oga_no: 853
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 80/4, 82/2, 84/4, 85/1
 year: 1914
 year_is_approximate: false
@@ -17,34 +16,27 @@ place_built: Risor, Norway
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel oak and pine planking on sawn oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 80/4
 - Log 82/2
 - Log 84/4
 - Log 85/1
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 11c238bb-09a0-411e-9329-d26d8c0d546c
-draft: 2.3774
 handicap_data:
-  beam: 4.87685930260912
+  thcf: 1.087327123
+  beam: 4.8768
+  draft: 2.3774
+  fore_triangle_height: 16.45940014630578
+  fore_triangle_base: 6.0960741282613995
+  length_over_all: 14.325774201414289
   main:
     foot: 7.924896366739819
     head: 6.4008778346744695
     luff: 6.858083394294074
-  thcf: 1.087327123
-  draft: 2.3774689100219457
-  length_over_all: 14.325774201414289
-  fore_triangle_base: 6.0960741282613995
   length_on_waterline: 13.716166788588149
-  fore_triangle_height: 16.45940014630578
-length_on_deck: 14.3256
-beam: 4.8768
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 14.3256
+created_at: '2020-04-25T16:55:15.730853+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 1751
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1991
 year_is_approximate: false
 designer:
@@ -17,34 +15,27 @@ place_built: Lostwithiel
 construction_material: wood
 construction_method: unknown
 construction_details: Wood west epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: '10'
-callsign: ''
 ownerships:
 - name: R Dongray
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 1b5d2f83-1007-4d35-b79c-b750cb4ef33f
-draft: 0.4816
 handicap_data:
-  beam: 2.1854425749817117
+  thcf: 0.827448987
+  beam: 2.1854
+  draft: 0.4816
+  fore_triangle_height: 4.648256522799317
+  fore_triangle_base: 2.539014874420873
+  length_over_all: 5.867471348451597
   main:
     foot: 3.5052426237503047
     head: 3.0998536942209216
     luff: 3.3528407705437697
-  thcf: 0.827448987
-  draft: 0.4815898561326506
-  length_over_all: 5.867471348451597
-  fore_triangle_base: 2.539014874420873
   length_on_waterline: 5.334064862228725
-  fore_triangle_height: 4.648256522799317
-length_on_deck: 5.8674
-beam: 2.1854
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.8674
+created_at: '2020-04-25T17:09:41.791432+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

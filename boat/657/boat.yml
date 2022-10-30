@@ -4,7 +4,6 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Possibly a Daniel Hatcher related design</p>
-full_description: ''
 year: 1976
 year_is_approximate: false
 builder:
@@ -14,34 +13,27 @@ place_built: Southampton
 construction_material: grp
 construction_method: unknown
 construction_details: G R P hull
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: J I Barton
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 037226da-db19-42c4-bd9b-9967a4832933
-draft: 1.0668
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.808692852
+  beam: 2.4384
+  draft: 1.0668
+  fore_triangle_height: 8.53450377956596
+  length_over_all: 6.705681541087539
   main:
     foot: 4.74884174591563
     luff: 3.6576444769568397
-  thcf: 0.808692852
-  draft: 1.066812972445745
   topsail:
     luff: 3.2004389173372347
     perpendicular: 2.2098268714947573
-  length_over_all: 6.705681541087539
   length_on_waterline: 6.5532796878810045
-  fore_triangle_height: 8.53450377956596
-length_on_deck: 6.7056
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T16:52:18.676281+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

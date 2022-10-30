@@ -14,6 +14,9 @@ year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+design_class:
+  name: Norfolk Smuggler
+  id: 1af0cf00-1de2-4a9c-8ce7-79e4afe2cf08
 builder:
   name: Charlie Ward/North Norfolk Boatbuilders
   id: 52871f1e-031e-4638-91c6-c87e27db173a
@@ -21,41 +24,32 @@ place_built: Norfolk
 construction_material: grp
 construction_method: unknown
 construction_details: hand lay up
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Goese Sas
 hull_form: long keel deep forefoot
 callsign: PF2762
 ownerships:
-- end: 2015
+- start: 1995
+  end: 2015
   note: 1995-2015 Mr Erbelich
   text: Mr Erbelich
-  start: 1995
-  end_is_approximate: false
-  start_is_approximate: false
-- id: 34700
-  share: 64
+- member: 6375
+  id: 34700
   start: 2015
-  member: 6375
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ed75f337-ef8f-425f-a4d6-2e109fc493e0
-previous_names:
-- Morning Star
 image_key: 6kjsMF
 thumb: https://photos.smugmug.com/photos/i-NgsH68C/0/Th/i-NgsH68C-Th.jpg
-draft: 0
 handicap_data:
   moving_keel: true
   length_overall: 7.62
   moving_keel_type: Centreboard
   length_over_spars: 9.144
-length_on_deck: 7.62
-beam: 0
-design_class:
-  name: Norfolk Smuggler
-  id: 1af0cf00-1de2-4a9c-8ce7-79e4afe2cf08
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T17:55:07.976797+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Morning Star

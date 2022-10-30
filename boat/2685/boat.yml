@@ -3,7 +3,6 @@ oga_no: 2685
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Used as a pilot cutter, when clinker built, then fishing from Ramsgate
   before being sold as a yacht in 1911, and replanked carvel.
 year: 1848
@@ -18,41 +17,36 @@ place_built: Kent
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel wood epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Heerenveen
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Willem M Nauta
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: c69c0ae4-e996-4206-991d-5a08898751e1
-previous_names:
-- Rose
-draft: 1.6459
 handicap_data:
-  beam: 3.444281882467691
+  thcf: 0.998
+  beam: 3.4442
+  draft: 1.6459
+  fore_triangle_height: 13.19800048768593
+  fore_triangle_base: 7.351865398683248
+  length_over_all: 8.564984150207266
+  propellor:
+    type: fixed
+  sailarea: 93.62164949511953
   main:
     foot: 5.120702267739576
     head: 6.18141916605706
     luff: 5.5992440868080955
-  thcf: 0.998
-  draft: 1.645940014630578
   topsail:
     luff: 7.300048768593025
     perpendicular: 3.9990246281394777
-  sailarea: 93.62164949511953
-  propellor:
-    type: fixed
-  length_over_all: 8.564984150207266
-  fore_triangle_base: 7.351865398683248
   length_on_waterline: 8.564984150207266
-  fore_triangle_height: 13.19800048768593
-length_on_deck: 8.5649
-beam: 3.4442
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5649
+created_at: '2020-04-25T17:24:29.933498+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Rose

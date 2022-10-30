@@ -18,6 +18,9 @@ year_is_approximate: false
 designer:
   name: Eugene Cornu
   id: 7f33ce2f-ecde-4b69-82c4-f2a4b4c4aa3e
+design_class:
+  name: Cornu
+  id: 0fa5b547-7d3c-455d-97f4-3928e8db45bd
 builder:
   name: Labbe
   id: 8198bc95-cebb-4a86-a325-36c893208433
@@ -25,23 +28,36 @@ place_built: St Malo
 construction_material: wood
 construction_method: unknown
 construction_details: Hull mahogany, mast spruce, Deck and cockpit teak
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 14200
+- created_at: '2019-08-08T00:36:36+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>Halewyn is a bermudan rigged&nbsp;centreboarder, her hull mahogany
+    and her deck and cockpit teak. She has 4 berths and comes with VHF and other crusing
+    equipment as well as a suit of sails.</p><p>She has been in the current ownership
+    since 1991. She underwent a 3 year rebuild at that time and was relaunched in
+    1994. She"s been a much-loved family cruising boat since then, participating in
+    gaffer rallies in the north of France,&nbsp;but sadly ill health and now the sad
+    passing of one owner means she must be sold.</p><p>She may be viewed at&nbsp;her
+    home port of Dunkirk.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.18357+00:00'
 home_country: FRA
 home_port: Dunkirk
 hull_form: unknown
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ad061129-217b-4100-9965-21a738316a17
 image_key: CPF8FG
 thumb: https://photos.smugmug.com/photos/i-XCQps6r/0/Th/i-XCQps6r-Th.jpg
-draft: 0.9906
-length_on_deck: 9.2964
-beam: 2.92
-design_class:
-  name: Cornu
-  id: 0fa5b547-7d3c-455d-97f4-3928e8db45bd
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:49:12.159173+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  beam: 2.92
+  draft: 0.9906
+  length_on_deck: 9.2964

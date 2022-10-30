@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Built by her first owner, Teun Post.</p>
-full_description: ''
 year: 2007
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Golant Gaffer
+  id: ecdf01fb-dd46-42f7-9232-39880886de2f
 builder:
   name: T. Post
   id: cb07e3ee-cf15-4eb8-87bc-20e8aaf9788e
@@ -17,38 +19,30 @@ place_built: Home
 construction_material: wood
 construction_method: unknown
 construction_details: Wood epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Zeeland
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Teun Post
-  share: 64
   start: 2007
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 06d53987-a826-4039-b30c-d568ab1d8968
-draft: 0.8382
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.834562094
+  beam: 2.1336
+  draft: 0.8382
+  fore_triangle_height: 5.501706900755913
+  fore_triangle_base: 3.401609363569861
+  length_over_all: 5.715069495245062
+  propellor:
+    type: fixed
   main:
     foot: 3.5997317727383566
     head: 2.996220434040478
     luff: 3.9990246281394777
-  thcf: 0.834562094
-  draft: 0.8382101926359424
-  propellor:
-    type: fixed
-  length_over_all: 5.715069495245062
-  fore_triangle_base: 3.401609363569861
   length_on_waterline: 5.410265788831992
-  fore_triangle_height: 5.501706900755913
-length_on_deck: 5.715
-beam: 2.1336
-design_class:
-  name: Golant Gaffer
-  id: ecdf01fb-dd46-42f7-9232-39880886de2f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.715
+created_at: '2020-04-25T17:27:55.298651+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

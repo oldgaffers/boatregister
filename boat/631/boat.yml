@@ -28,7 +28,7 @@ place_built: Whitstable
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel wood, cast iron ballast internal and on keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Ipswich
@@ -36,69 +36,61 @@ hull_form: long keel deep forefoot
 sail_number: '631'
 callsign: 2CLD9
 ownerships:
-- end: 1953
-  name: Lt. Cmdr. Bawtree
-  share: 64
+- name: Lt. Cmdr. Bawtree
   start: 1948
-- end: 1955
-  name: R M Parker
+  end: 1953
   share: 64
+- name: R M Parker
   start: 1953
-- end: 1959
-  name: W D Auston
+  end: 1955
   share: 64
+- name: W D Auston
   start: 1955
-- end: 1961
-  name: J L Watson
+  end: 1959
   share: 64
+- name: J L Watson
   start: 1959
-- end: 1962
-  name: R J Watts
+  end: 1961
   share: 64
+- name: R J Watts
   start: 1961
-- end: 1968
-  name: E J Little
+  end: 1962
   share: 64
+- name: E J Little
   start: 1962
-- end: 1973
-  name: F G Menden
+  end: 1968
   share: 64
+- name: F G Menden
   start: 1968
+  end: 1973
+  share: 64
 - name: Simon Papendick
-  share: 64
   start: 2008
-- id: 34738
   share: 64
-  member: 5261
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.j-starboatservices.co.uk/Welcome-to-J-Star-Boat-Services
 id: 85670a55-aa29-4ee1-8af7-51cc6a88a8dc
-previous_names:
-- Gadfly II
-- The Fly
-- Sylvia
 image_key: 2s9GkJ
 thumb: https://photos.smugmug.com/photos/i-C3V5RNk/0/Th/i-C3V5RNk-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.888999756
+  beam: 2.286
+  draft: 1.2192
+  fore_triangle_height: 7.315288953913679
+  fore_triangle_base: 4.26725188978298
+  length_over_all: 6.858083394294074
   main:
     foot: 4.084369665935138
     head: 3.139478176054621
     luff: 2.8956352109241648
-  thcf: 0.888999756
-  draft: 1.280175566934894
   topsail:
     luff: 1.8288222384784198
     perpendicular: 1.3716166788588149
   boat_depth: 1.280175566934894
-  length_over_all: 6.858083394294074
-  fore_triangle_base: 4.26725188978298
   length_on_waterline: 6.705681541087539
-  fore_triangle_height: 7.315288953913679
-length_on_deck: 6.858
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.858
+created_at: '2020-04-25T16:51:55.918893+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Gadfly II
+- The Fly
+- Sylvia

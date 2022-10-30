@@ -13,33 +13,33 @@ builder:
 construction_material: grp
 spar_material: aluminium
 construction_method: cold_moulded
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: Ireland
 home_port: Dublin
 hull_form: long keel sloping forefoot
 ownerships:
-- end: 2021
-  name: Derek Woods
+- member: 4412
+  id: 444
+  start: 2021
   share: 22
+  current: true
+- member: 3496
+  id: 281
   start: 2021
-- id: 444
+  share: 21
+  current: true
+- member: 4109
+  id: 378
+  start: 2021
+  share: 21
+  current: true
+- name: Derek Woods
+  start: 2021
+  end: 2021
   share: 22
-  start: 2021
-  member: 4412
-  current: true
-- id: 281
-  share: 21
-  start: 2021
-  member: 3496
-  current: true
-- id: 378
-  share: 21
-  start: 2021
-  member: 4109
-  current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 38f59e9d-211a-486d-bb04-dc39e3e22b3f
 image_key: fTFjLj
-for_sale_state:
-  text: not_for_sale
+created_at: '2021-02-22T17:24:35.613833+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data: {}

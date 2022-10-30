@@ -3,13 +3,15 @@ oga_no: 183
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 81/4 CB Mar/Apr 88
 year: 1967
 year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+design_class:
+  name: New Blossom Class
+  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
 builder:
   name: TC. White
   id: 54ec968c-e7e9-46c9-80d1-337242fc77bc
@@ -18,34 +20,24 @@ construction_material: wood
 spar_material: wood
 construction_method: clinker
 construction_details: Clinker planking on bent frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 81/4
 - CB Mar/Apr 88
-callsign: ''
 ownerships:
 - name: J Welch
-  share: 64
   start: 1967
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 932e2ce0-4465-458b-bc9f-0a7bbf0a278d
 image_key: 8kXjrD
 thumb: https://photos.smugmug.com/photos/i-FWdRHgm/0/Th/i-FWdRHgm-Th.jpg
-draft: 0.634
 handicap_data:
-  beam: 2.13362594489149
-  draft: 0.6339917093391856
+  beam: 2.1336
+  draft: 0.634
   length_over_all: 5.843087051938552
   length_on_waterline: 5.257863935625457
-length_on_deck: 5.843
-beam: 2.1336
-design_class:
-  name: New Blossom Class
-  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.843
+created_at: '2020-04-25T16:45:08.580778+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 7034
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1929
 year_is_approximate: false
 designer:
@@ -16,29 +14,19 @@ builder:
 place_built: Leigh on Sea
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Port Penrhyn
 hull_form: unknown
-callsign: ''
 ownerships:
 - note: List of owners held in OGA archive
   text: List of owners held in OGA archive
-- end: 2016
-  name: Gordon Bourne and Lil Jackson
-  share: 64
+- name: Gordon Bourne and Lil Jackson
   start: 2012
-- id: 358
+  end: 2016
   share: 64
-  member: 3976
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 85511e45-8587-4110-9f82-5ea1a120da98
-draft: 0
-length_on_deck: 0
-beam: 0
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:42:46.019854+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  length_on_deck: 0

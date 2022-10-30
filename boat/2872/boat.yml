@@ -25,44 +25,39 @@ year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+design_class:
+  name: Tamarisk 24
+  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
 place_built: Fowey
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel deep forefoot
 sail_number: 6557 Y
 ssr: '06503'
-callsign: ''
 ownerships:
-- note: Periwinkle was purchased from Simon Dutton, a former OGA member, in February
+- start: 2008
+  note: Periwinkle was purchased from Simon Dutton, a former OGA member, in February
     2008.  Simon owned her for about five years.  She had only one previous owner
     who was the original purchaser.  Unfortunately there is no record of his name
     or of her sailing history with him.
   text: Periwinkle was purchased from Simon Dutton, a former OGA member, in February
-  start: 2008
-  start_is_approximate: false
-- id: 577
-  share: 64
+- member: 5093
+  id: 577
   start: 2010
-  member: 5093
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ccb47028-1c68-46f6-9271-4ca5025c7978
 image_key: LJRWjZ
 thumb: https://photos.smugmug.com/photos/i-vwHBCWW/0/Th/i-vwHBCWW-Th.jpg
-draft: 0.9144111192392099
 handicap_data:
-  beam: 2.43842965130456
+  beam: 2.4384
+  draft: 0.9144111192392099
   length_over_all: 9.44891489880517
   length_on_waterline: 6.452694464764692
-length_on_deck: 7.315288953913679
-beam: 2.4384
-design_class:
-  name: Tamarisk 24
-  id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.315288953913679
+created_at: '2020-04-25T17:29:43.153438+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

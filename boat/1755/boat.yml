@@ -9,6 +9,9 @@ year_is_approximate: false
 designer:
   name: Eric Bergqvist
   id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
+design_class:
+  name: Winkle Brig
+  id: 4989b986-84a5-42ea-81c9-72a59714c258
 builder:
   name: Eric Bergqvist
   id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
@@ -16,35 +19,26 @@ place_built: Fiddlers Ferry
 construction_material: grp
 spar_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2019
-  name: Mike Miller
-- id: 34956
-  share: 32
+- name: Mike Miller
+  end: 2019
+- member: 6550
+  id: 34956
   start: 2019
-  member: 6550
-  current: true
-- id: 34957
   share: 32
-  start: 2019
-  member: 6550
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+- member: 6550
+  id: 34957
+  start: 2019
+  share: 32
+  current: true
 id: 90a96136-465a-4fa3-91bc-3740e789624e
 image_key: 36GB9F
 thumb: https://photos.smugmug.com/photos/i-QkR6Fnf/0/Th/i-QkR6Fnf-Th.jpg
-draft: 0
-length_on_deck: 0
-beam: 0
-design_class:
-  name: Winkle Brig
-  id: 4989b986-84a5-42ea-81c9-72a59714c258
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:09:45.255691+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  length_on_deck: 0

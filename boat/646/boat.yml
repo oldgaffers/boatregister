@@ -43,51 +43,39 @@ place_built: Hythe
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel mahogany planking on oak bent frames, copper fastened
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: '646'
 uk_part1: '135646'
-callsign: ''
 ownerships:
 - name: Edward Stevens
-  share: 32
   start: 1991
+  share: 32
 - name: Simon Rowden
-  share: 32
   start: 1991
-- id: 175
-  share: 64
-  member: 2685
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 32
 id: 3e7a3580-babe-4d5c-9547-2a4d9a29d73f
-draft: 1.143
 handicap_data:
-  beam: 2.3876493538161423
+  thcf: 0.924
+  beam: 2.3866
+  draft: 1.143
+  fore_triangle_height: 7.315288953913679
+  fore_triangle_base: 3.6972689587905387
+  length_over_all: 7.772506705681541
+  propellor:
+    type: fixed
+    blades: 2
+  sailarea: 43.39872248869914
   main:
     foot: 4.163618629602536
     head: 3.706413069982931
     luff: 4.672640819312362
-  thcf: 0.924
-  draft: 1.143032187271397
   mizzen:
     foot: 2.9992684711046085
     head: 2.749329431845891
     luff: 3.0998536942209216
-  sailarea: 43.39872248869914
-  propellor:
-    type: fixed
-    blades: 2
-  length_over_all: 7.772506705681541
-  fore_triangle_base: 3.6972689587905387
   length_on_waterline: 7.11209461107047
-  fore_triangle_height: 7.315288953913679
-length_on_deck: 7.7724
-beam: 2.3866
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.7724
+created_at: '2020-04-25T16:52:08.745995+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

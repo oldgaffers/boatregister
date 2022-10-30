@@ -3,8 +3,6 @@ oga_no: 2663
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
-full_description: ''
 year: 2004
 year_is_approximate: false
 designer:
@@ -16,25 +14,19 @@ builder:
 place_built: Brosley
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Trailer sail
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2012
-  name: Nick Coppin
-  share: 64
+- name: Nick Coppin
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2012
+  share: 64
 id: f1b57275-76e9-4db5-9434-f58f6d491c2a
-draft: 0
 handicap_data:
-  beam: 1.21921482565228
+  beam: 1.2192
   length_over_all: 2.3622287247012923
-length_on_deck: 2.3622
-beam: 1.2192
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 2.3622
+created_at: '2020-04-25T17:24:10.9438+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

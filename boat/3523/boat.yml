@@ -10,19 +10,30 @@ builder:
   id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
 construction_material: wood
 spar_material: aluminium
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 15000
+- created_at: '2022-02-14T12:06:14.309986+00:00'
+  flexibility: normal
+  offered: '2021-09-01'
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: ''
+  seller_gold_id: 591
+  seller_member: 5139
+  sold: '2022-02-01'
+  summary: null
+  updated_at: '2022-02-14T12:06:14.309986+00:00'
 home_country: United Kingdom
 home_port: Walton on the Naze
 ownerships:
-- id: 591
+- member: 5139
+  id: 591
   end: 2022
   share: 64
-  member: 5139
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: bc44f6e3-34a8-4e1d-ad7e-3e3c5dd6f48e
 image_key: VFvrKX
 thumb: https://photos.smugmug.com/photos/i-krcDVLR/0/Th/i-krcDVLR-Th.jpg
-for_sale_state:
-  text: not_for_sale
+created_at: '2021-02-26T17:02:19.974655+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data: {}

@@ -10,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+design_class:
+  name: Cornish Crabber 24
+  id: ff83f69b-9762-4ae5-9681-950b5658ad97
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,7 +20,7 @@ place_built: Wadebridge
 construction_material: grp
 spar_material: carbon_composite
 construction_method: clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: United Kingdom
 home_port: Emsworth
@@ -25,27 +28,23 @@ hull_form: centre-boarder
 sail_number: '21'
 callsign: MJEO5
 ownerships:
-- id: 34935
+- member: 6532
+  id: 34935
   share: 64
-  member: 6532
   current: true
-updated_at: '2022-08-21T09:41:38.783377+00:00'
 id: 75f8c99b-68de-499f-ad30-3be9c8ba87cb
 image_key: 2CNkmM
 thumb: https://photos.smugmug.com/photos/i-PBS5HtZ/0/Th/i-PBS5HtZ-Th.jpg
-draft: 1.402
 handicap_data:
-  beam: 2.667
   thcf: 0.883
-  sailarea: 33.780366877527506
+  beam: 2.667
+  draft: 1.402
+  length_over_all: 7.315
   propellor:
     type: fixed
-  length_on_deck: 7.315288953913679
-  length_over_all: 7.315
+  sailarea: 33.780366877527506
+  length_on_deck: 7.315
   length_on_waterline: 6.675
-length_on_deck: 7.315
-design_class:
-  name: Cornish Crabber 24
-  id: ff83f69b-9762-4ae5-9681-950b5658ad97
-for_sale_state:
-  text: not_for_sale
+created_at: '2021-12-30T12:22:19.421344+00:00'
+updated_at: '2022-08-21T09:41:38.783377+00:00'
+hin: GB-BIH2402IE021

@@ -3,13 +3,14 @@ oga_no: 1482
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1979
 year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+design_class:
+  name: Oysterman 16
+  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
 builder:
   name: Bar Creek Yacht Station
   id: 474ba972-00c3-4a90-82b6-4bc18df0e980
@@ -17,32 +18,22 @@ place_built: Truro
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP hull/resin bonded ballast
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2008
-  name: Jeremy Woods
-  share: 64
+- name: Jeremy Woods
   start: 1987
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2008
+  share: 64
 id: 90e7ae05-8569-4b2c-beb1-15a824cf3ff3
-previous_names:
-- Stymie
-draft: 0.9144
 handicap_data:
-  beam: 1.929407461594733
-  draft: 0.9144111192392099
+  beam: 1.9294
+  draft: 0.9144
   length_over_all: 4.87685930260912
   length_on_waterline: 4.800658376005852
-length_on_deck: 4.8768
-beam: 1.9294
-design_class:
-  name: Oysterman 16
-  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:05:39.442521+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Stymie

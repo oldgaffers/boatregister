@@ -27,42 +27,31 @@ builder:
 place_built: Conyer
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Burnham Overy Staithe
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2017
-  name: C W Rose
-  share: 64
+- name: C W Rose
   start: 2012
-- name: Ashmole Faire-Ring
+  end: 2017
   share: 64
+- name: Ashmole Faire-Ring
   start: 2019
-- note: Owned by Gus Curtis prior to 2019 for an unknown length of time, he did not
+  share: 64
+- start: 2019
+  note: Owned by Gus Curtis prior to 2019 for an unknown length of time, he did not
     sail her, but stored in her in a barn at Dedham.
   text: Owned by Gus Curtis prior to
-  start: 2019
-  start_is_approximate: false
-- id: 913
-  share: 64
-  member: 6059
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fb2bab49-4c50-44f9-9510-227d95549308
 image_key: G6RJV6
 thumb: https://photos.smugmug.com/photos/i-khR4mRS/0/Th/i-khR4mRS-Th.jpg
-draft: 1.0668
 handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.066812972445745
+  beam: 2.8956
+  draft: 1.0668
   length_over_all: 9.75371860521824
   length_on_waterline: 9.1441111923921
-length_on_deck: 9.7536
-beam: 2.8956
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T16:43:55.657047+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

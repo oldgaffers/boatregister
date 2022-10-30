@@ -54,7 +54,7 @@ spar_material: wood
 construction_method: carvel
 construction_details: Carvel pine on oak, elm keel, external lead keel, no internal
   ballast, teak brightwork.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Yarmouth Isle of Wight
@@ -63,94 +63,85 @@ sail_number: '1289'
 uk_part1: '128988'
 callsign: MFBQ
 ownerships:
-- end: 1911
-  name: Frank Johnson
-  share: 64
+- name: Frank Johnson
   start: 1905
-- end: 1922
-  name: Henry R Carson
+  end: 1911
   share: 64
+- name: Henry R Carson
   start: 1911
-- end: 1929
-  name: H B Bingham
+  end: 1922
   share: 64
+- name: H B Bingham
   start: 1922
-- end: 1931
-  name: F J Porter
+  end: 1929
   share: 64
+- name: F J Porter
   start: 1929
-- end: 1932
-  name: T C S Morrison-Scott
+  end: 1931
   share: 64
+- name: T C S Morrison-Scott
   start: 1931
-- end: 1938
-  name: Joe Mew
+  end: 1932
   share: 64
+- name: Joe Mew
   start: 1932
-- end: 1939
-  name: R J Dunsmuir
+  end: 1938
   share: 64
+- name: R J Dunsmuir
   start: 1938
-- end: 1945
-  name: A J Hempstead
+  end: 1939
   share: 64
+- name: A J Hempstead
   start: 1939
-- end: 1961
-  name: Dr A J Fraser-Smith
+  end: 1945
   share: 64
+- name: Dr A J Fraser-Smith
   start: 1948
-- end: 1981
-  name: Edgar Traylen
+  end: 1961
   share: 64
+- name: Edgar Traylen
   start: 1961
-- end: 1983
-  name: Richard Barnard
+  end: 1981
   share: 64
+- name: Richard Barnard
   start: 1981
-- end: 1986
-  name: Dick and Pat Dawson
+  end: 1983
   share: 64
-  start: 1983
-- end: 2014
-  name: Pat Dawson
-  share: 64
-  start: 1986
 - name: Dick and Pat Dawson
+  start: 1983
+  end: 1986
   share: 64
+- name: Pat Dawson
+  start: 1986
+  end: 2014
+  share: 64
+- name: Dick and Pat Dawson
   start: 2014
-- id: 34691
-  share: 32
-  member: 1439
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: b9758995-6678-4beb-a17e-bf6ef4dfa628
 nsbr: '2093'
 image_key: nNtLcZ
 thumb: https://photos.smugmug.com/photos/i-fx9pX99/0/Th/i-fx9pX99-Th.jpg
-draft: 1.6764
 handicap_data:
-  beam: 2.743257742014143
+  thcf: 0.953
+  beam: 2.7432
+  draft: 1.6764
+  fore_triangle_height: 9.753742989514752
+  fore_triangle_base: 4.775274323335771
+  length_over_all: 8.051908071202146
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 54.809497755984346
   main:
     foot: 5.054675688856376
     head: 4.191069251402097
     luff: 5.359479395269446
-  thcf: 0.953
-  draft: 1.6764325774201414
   topsail:
     luff: 5.791294806144842
     perpendicular: 2.0828456474030723
-  sailarea: 54.809497755984346
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.051908071202146
   length_over_spars: 10.363350402340892
-  fore_triangle_base: 4.775274323335771
   length_on_waterline: 7.620092660326749
-  fore_triangle_height: 9.753742989514752
-length_on_deck: 8.0528
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.0528
+created_at: '2020-04-25T17:02:45.856493+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

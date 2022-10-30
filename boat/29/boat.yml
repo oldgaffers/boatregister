@@ -23,40 +23,34 @@ place_built: Maldon
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - note: 'Previous owner '
   text: Previous owner
-- note: A.J.Pratt in the 1960's
+- start: 1960
+  note: A.J.Pratt in the 1960's
   text: A.J.Pratt in the
-  start: 1960
-  start_is_approximate: false
-- end: 2013
-  name: Douglas Scurrey
-  share: 64
+- name: Douglas Scurrey
   start: 1980
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2013
+  share: 64
 id: 7870c4ae-a90c-4d7a-9730-4c2c38326b9d
+image_key: xRVFzw
+thumb: https://photos.smugmug.com/photos/i-4GbgX54/0/Th/i-4GbgX54-Th.jpg
+handicap_data:
+  beam: 3.2004
+  draft: 1.143
+  length_over_all: 9.296513045598633
+  propellor:
+    type: fixed
+  length_on_waterline: 8.991709339185563
+  length_on_deck: 9.2964
+created_at: '2020-04-25T16:42:43.566065+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Frederick George
 - Joseph T
-image_key: xRVFzw
-thumb: https://photos.smugmug.com/photos/i-4GbgX54/0/Th/i-4GbgX54-Th.jpg
-draft: 1.143
-handicap_data:
-  beam: 3.2004389173372347
-  draft: 1.097293343087052
-  propellor:
-    type: fixed
-  length_over_all: 9.296513045598633
-  length_on_waterline: 8.991709339185563
-length_on_deck: 9.2964
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale

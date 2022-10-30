@@ -3,7 +3,6 @@ oga_no: 756
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: "<h4>Louise Heyworth wrote to the Gaffers Log Editor, December 2007</h4>\r\
   \n\r\n<p>I believe my father, William Humphries, is a member of your Association.\
   \ Unfortunately due to a deterioration in his health he is now in residential care\
@@ -27,38 +26,33 @@ builder:
 place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: London
 hull_form: long keel deep forefoot
 uk_part1: '147568'
-callsign: ''
 ownerships:
 - name: W Humphries
-  share: 64
   start: 1976
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a4e8edd1-ba13-4af7-b64e-682c5ee5b3f0
-draft: 1.777
 handicap_data:
-  beam: 3.9624481833699097
+  thcf: 1.016110709
+  beam: 3.9624
+  draft: 1.777
+  fore_triangle_height: 14.73116313094367
+  fore_triangle_base: 7.772494513533284
+  length_over_all: 11.430138990490123
+  propellor:
+    type: fixed
   main:
     foot: 6.5532796878810045
     luff: 6.705681541087539
-  thcf: 1.016110709
-  draft: 1.7678614971958058
   topsail:
     luff: 6.4008778346744695
     perpendicular: 3.2766398439405022
-  propellor:
-    type: fixed
-  length_over_all: 11.430138990490123
-  fore_triangle_base: 7.772494513533284
   length_on_waterline: 10.36332601804438
-  fore_triangle_height: 14.73116313094367
-length_on_deck: 11.43
-beam: 3.9624
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.43
+created_at: '2020-04-25T16:53:50.066852+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

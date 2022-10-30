@@ -3,7 +3,6 @@ oga_no: 1923
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: no longer a member.
 year: 1995
 year_is_approximate: false
@@ -17,38 +16,31 @@ place_built: Southampton
 construction_material: steel
 construction_method: unknown
 construction_details: Steel Multi-Chine
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Jim Chapman
-  share: 64
   start: 1995
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 1c6730f6-89be-40c3-86f2-37ebf209b4b2
-draft: 1.2192
 handicap_data:
-  beam: 3.0480370641306997
+  thcf: 0.931614763
+  beam: 3.048
+  draft: 1.2192
+  fore_triangle_height: 6.583760058522312
+  fore_triangle_base: 4.968300414533041
+  length_over_all: 8.686905632772493
+  propellor:
+    type: fixed
   main:
     foot: 4.968300414533041
     head: 3.9929285540112165
     luff: 4.968300414533041
-  thcf: 0.931614763
-  draft: 1.21921482565228
   topsail:
     luff: 5.090221897098268
     perpendicular: 2.3774689100219457
-  propellor:
-    type: fixed
-  length_over_all: 8.686905632772493
-  fore_triangle_base: 4.968300414533041
   length_on_waterline: 7.924896366739819
-  fore_triangle_height: 6.583760058522312
-length_on_deck: 8.6868
-beam: 3.048
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.6868
+created_at: '2020-04-25T17:12:18.457393+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

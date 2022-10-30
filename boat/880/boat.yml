@@ -3,7 +3,6 @@ oga_no: 880
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 78/4
 year: 1910
 year_is_approximate: false
@@ -16,31 +15,24 @@ builder:
 place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 78/4
 uk_part1: '128429'
-callsign: ''
 ownerships:
 - name: B A Allen
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7025f0f5-7520-4f4f-8aa1-a324c43f7cc1
-previous_names:
-- Zitella
-draft: 1.3716
 handicap_data:
-  beam: 2.13362594489149
-  draft: 1.3716166788588149
+  beam: 2.1336
+  draft: 1.3716
   length_over_all: 7.010485247500609
   length_on_waterline: 6.0960741282613995
-length_on_deck: 7.0104
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.0104
+created_at: '2020-04-25T16:55:40.74892+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Zitella

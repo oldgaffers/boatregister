@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Tamara is a Cornish Shrimper 21.</p>
-full_description: ''
 year: 2015
 year_is_approximate: false
 designer:
   name: Roger Dongray/David Thomas Yachts
   id: 7d1ad008-4263-419d-8843-d466ded0ec2c
+design_class:
+  name: Cornish Shrimper 21
+  id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,46 +19,35 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Chichester
 hull_form: long keel deep forefoot
 sail_number: '5'
 ssr: '161581'
-callsign: ''
 ownerships:
-- end: 2019
-  name: Rhoda and Peter Sheppard
-  share: 64
+- name: Rhoda and Peter Sheppard
   start: 2015
-- id: 894
+  end: 2019
   share: 64
-  member: 6018
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ff07ee99-4504-4433-a9e2-47062b436703
-draft: 0.57
 handicap_data:
+  beam: 2.3988
+  draft: 0.57
+  fore_triangle_height: 5.6601
+  fore_triangle_base: 3.0297
+  sailarea: 6
   main:
     foot: 12.7
     head: 10.89
     luff: 13.68
-  sailarea: 6
   moving_keel: true
   length_overall: 6.4008
   calculated_thcf: 0.854
   draft_keel_down: 1.3503
   moving_keel_type: Centreboard
-  fore_triangle_base: 3.0297
   length_on_waterline: 6.099
-  fore_triangle_height: 5.6601
-length_on_deck: 6.4008
-beam: 2.3988
-design_class:
-  name: Cornish Shrimper 21
-  id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4008
+created_at: '2020-04-25T17:47:34.18269+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

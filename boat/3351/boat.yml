@@ -21,6 +21,9 @@ year_is_approximate: false
 designer:
   name: Barry Prichard/J. Marsh
   id: ad99c928-7375-4b20-8063-ef77c079da00
+design_class:
+  name: Salcombe Trader
+  id: 753a2252-bb93-4f6f-9a32-c0c3021d8faf
 builder:
   name: Bucaneer Boats/J Marsh
   id: 20b33d70-b132-4f11-80d8-940ee7892ff2
@@ -29,59 +32,74 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: Hull GRP, otherwise wood.
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 43500
+- created_at: '2019-04-04T22:29:10+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: "<p>A Salcombe Trader, 27ft Gaff cutter with auxiliary, Beta Marine\
+    \ 29hp, diesel engine. A top quality traditional cruising vessel with character,&nbsp;\
+    \ a very capable passage maker. She has a `Classic/ Traditional\u2019 look with\
+    \ the advantage of a GRP hull and stainless steel fittings. Long keel encapsulated\
+    \ internal ballast. Professionally built hull, totally fitted out and finished\
+    \ by her professional cabinet maker owner. Using top grade materials, fixtures\
+    \ and fittings. 5 berths. Navigation paper charts, Yeoman Plotter. Electonic charts,\
+    \ USB connection to laptop included in sale. Launched in 2010.&nbsp;</p><p>Survey\
+    \ and 3 Boat magazine article reprints available on request.</p><p><u><strong>Now\
+    \ laid up for the winter but available for viewing by appointment</strong></u></p><p>More\
+    \ details: <a href=\"http://www.classicyachtbrokerage.co.uk/index.php?page=mareea\"\
+    \ target=\"_PARENT\">Classic Yacht Brokerage</a>&nbsp;and <a href=\"http://www.mjlewisboatsales.com/boats/27ft-grp-gaff-cutter-salcombe-trader/\"\
+    \ target=\"_PARENT\">MJ&nbsp;Lewis &amp; Son</a></p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.249406+00:00'
 home_country: GBR
 home_port: Fowey
 hull_form: long keel deep forefoot
-ssr: ''
 uk_part1: '180775'
 callsign: MQRP4
 ownerships:
-- end: 2019
-  name: Jonathan March
-  share: 64
+- name: Jonathan March
   start: 2010
-- id: 88
+  end: 2019
   share: 64
+- member: 1709
+  id: 88
   start: 2019
-  member: 1709
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 6a3fadc7-4aff-4b30-befb-88d3099a85ec
-previous_names:
-- Mareea
-- "Mar\xE9e"
 image_key: ZTqcc3
 thumb: https://photos.smugmug.com/photos/i-jHZrspG/0/Th/i-jHZrspG-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 2.896
+  thcf: 0.911
+  beam: 2.8956
+  draft: 1.524
+  fore_triangle_height: 2.554
+  fore_triangle_base: 1.829
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 37.813
   main:
     foot: 4.877
     head: 4.42
     luff: 5.578
-  thcf: 0.911
   topsail:
     luff: 5.486
     perpendicular: 2.134
-  sailarea: 37.813
-  propellor:
-    type: fixed
-    blades: 3
-  length_on_deck: 8.23
+  length_on_deck: 8.2296
   length_overall: 8.2296
   calculated_thcf: 0.954
   length_over_spars: 11.5824
-  fore_triangle_base: 1.829
   length_on_waterline: 7.772
-  fore_triangle_height: 2.554
-length_on_deck: 8.2296
-beam: 2.8956
-design_class:
-  name: Salcombe Trader
-  id: 753a2252-bb93-4f6f-9a32-c0c3021d8faf
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:50:58.480402+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Mareea
+- "Mar\xE9e"

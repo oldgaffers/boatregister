@@ -3,7 +3,6 @@ oga_no: 7013
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
 full_description: See letter for list of owners
 year: 1936
 year_is_approximate: false
@@ -17,38 +16,32 @@ place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on rock elm
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Faversham
 hull_form: long keel deep forefoot
 sail_number: 3648Y
 ssr: '2184'
-callsign: ''
 ownerships:
 - name: Chris Chipchase
-  share: 64
   start: 2002
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fb645c83-4373-4f78-b12c-ddd7cee72e66
-previous_names:
-- Margaret
-draft: 0.6858
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.8832675
+  beam: 2.4384
+  draft: 0.6858
+  fore_triangle_height: 6.4008778346744695
+  fore_triangle_base: 2.590831504511095
+  length_over_all: 7.467690807120214
+  propellor:
+    type: fixed
   main:
     foot: 4.776274079492806
     luff: 7.924896366739819
-  thcf: 0.8832675
-  draft: 0.6858083394294074
-  propellor:
-    type: fixed
-  length_over_all: 7.467690807120214
-  fore_triangle_base: 2.590831504511095
   length_on_waterline: 6.858083394294074
-  fore_triangle_height: 6.4008778346744695
-length_on_deck: 7.4676
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.4676
+created_at: '2020-04-25T17:41:43.294171+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Margaret

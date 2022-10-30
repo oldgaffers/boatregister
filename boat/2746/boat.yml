@@ -3,13 +3,15 @@ oga_no: 2746
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Home Built
 year: 1995
 year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+design_class:
+  name: Stornoway 12
+  id: 5a2eeedb-385e-4db3-ae31-e264d962f7c4
 builder:
   name: Peter Arrowsmith
   id: a6d08a34-7773-4b45-86d3-895b68afb49d
@@ -17,27 +19,18 @@ place_built: Pershore
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Epoxy ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Trailer sail
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Peter Arrowsmith
-  share: 64
   start: 1995
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7c1f64f9-cd63-42f2-b98f-a69f0fd4fceb
-draft: 0
 handicap_data:
-  beam: 1.5240185320653499
+  beam: 1.524
   length_over_all: 3.6820287734698853
-length_on_deck: 3.682
-beam: 1.524
-design_class:
-  name: Stornoway 12
-  id: 5a2eeedb-385e-4db3-ae31-e264d962f7c4
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.682
+created_at: '2020-04-25T17:26:31.793408+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

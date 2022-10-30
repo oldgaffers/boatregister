@@ -3,7 +3,6 @@ oga_no: 2804
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: <p>Built in Salterns Boatyard in 1998, Dram is a Memory Class yacht.
   She suffered a knockdown and ballast shifted on her way to the Yarmouth Old Gaffers
   Festival. She was recovered and refitted.</p>
@@ -12,6 +11,9 @@ year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Salterns Boatyard Ltd.
   id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
@@ -20,41 +22,32 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: grp
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Wooton Creek
 hull_form: centre-boarder
-callsign: ''
 ownerships:
-- id: 513
-  share: 64
+- member: 4785
+  id: 513
   start: 2007
-  member: 4785
+  share: 64
   current: true
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
 id: 25dc0e6f-4625-41f1-8bdb-558593043f92
-draft: 0.5334
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.872419155
+  beam: 2.1336
+  draft: 0.5334
+  fore_triangle_height: 5.867471348451597
+  fore_triangle_base: 2.6426481346013166
+  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  thcf: 0.872419155
-  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 2.6426481346013166
   length_on_waterline: 5.690685198732017
-  fore_triangle_height: 5.867471348451597
-length_on_deck: 5.7912
-beam: 2.1336
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:27:56.076752+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'

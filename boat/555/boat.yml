@@ -3,7 +3,6 @@ oga_no: 555
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 80/1, 80/2, 88/3 CB Oct 91
 year: 1905
 year_is_approximate: false
@@ -17,43 +16,36 @@ place_built: Hamble
 construction_material: wood
 construction_method: unknown
 construction_details: Trad wood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 80/1
 - Log 80/2
 - Log 88/3
 - CB Oct 91
-callsign: ''
 ownerships:
 - name: Chris Olden
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 098643ca-3001-48c9-904d-4c45a6610f66
-draft: 0.9144
 handicap_data:
-  beam: 2.346988539380639
+  thcf: 0.916650282
+  beam: 2.347
+  draft: 0.9144
+  fore_triangle_height: 5.590099975615703
+  fore_triangle_base: 4.40136552060473
+  length_over_all: 7.751158254084369
+  propellor:
+    type: fixed
   main:
     foot: 3.947207998049256
     head: 3.663740551085101
     luff: 4.322116556937332
-  thcf: 0.916650282
-  draft: 0.9144111192392099
   topsail:
     luff: 3.2888319921970246
     perpendicular: 1.3167520117044624
-  propellor:
-    type: fixed
-  length_over_all: 7.751158254084369
-  fore_triangle_base: 4.40136552060473
   length_on_waterline: 7.7054376981224095
-  fore_triangle_height: 5.590099975615703
-length_on_deck: 7.7511
-beam: 2.347
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.7511
+created_at: '2020-04-25T16:50:46.183058+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

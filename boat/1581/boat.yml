@@ -11,6 +11,9 @@ full_description: "<p>&#39;Queequeg&#39; is a safe boat for two adults, two chil
   \ and has sailed from Falmouth to St Mawes with two adults crew.</p>\r\n\r\n<p>&nbsp;</p>"
 year: 1975
 year_is_approximate: false
+design_class:
+  name: Smallcraft Family 14
+  id: b6d6e184-b226-43ee-9376-6cc041d27cb3
 builder:
   name: Small Craft
   id: 18583dd4-8ab1-4778-96df-40955b771221
@@ -18,41 +21,33 @@ place_built: Blockley
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP Hull
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Cemaes Bay
 hull_form: long keel sloping forefoot
 sail_number: '81'
-callsign: ''
 ownerships:
-- id: 621
-  share: 64
+- member: 5259
+  id: 621
   start: 1982
-  member: 5259
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: debd9ef5-79aa-4f26-b86c-036d276441d1
 image_key: GgM5w2
 thumb: https://photos.smugmug.com/photos/i-mjDSvCS/0/Th/i-mjDSvCS-Th.jpg
-draft: 0.1768
 handicap_data:
-  beam: 1.493538161424043
+  thcf: 0.746070537
+  beam: 1.4996
+  draft: 0.1768
+  fore_triangle_height: 2.996220434040478
+  fore_triangle_base: 1.472201901975128
+  length_over_all: 4.26725188978298
   main:
     foot: 2.069617166544745
     head: 3.2400633991709338
     luff: 1.359424530602292
-  thcf: 0.746070537
-  draft: 0.18288222384784197
-  length_over_all: 4.26725188978298
-  fore_triangle_base: 1.472201901975128
   length_on_waterline: 3.8100463301633747
-  fore_triangle_height: 2.996220434040478
-length_on_deck: 4.2672
-beam: 1.4996
-design_class:
-  name: Smallcraft Family 14
-  id: b6d6e184-b226-43ee-9376-6cc041d27cb3
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.2672
+created_at: '2020-04-25T17:07:09.723918+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

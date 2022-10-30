@@ -15,6 +15,9 @@ year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Salterns Boatyard Ltd.
   id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
@@ -23,52 +26,62 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 0
+- created_at: '2019-06-15T13:58:51+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Gimli", a well cared for Memory 19, overall winner of the OGA Helford
+    Regatta in 2017, is for sale. She is a fast boat with a distinguished racing history
+    in the Solent before she came to Devon.</p><p>She is just launched onto her mooring
+    on the Dart with a new coat of antifoul, having spent the winter in her barn under
+    cover for the winter in Devon&nbsp;as she has been these last three years.&nbsp;</p><p>She
+    has a two year old SBS galvanised&nbsp;trailer that has never been in salt water.
+    She has always been launched by crane. Full set of sails including topsail, plus
+    inboard outboard.&nbsp;More details to follow on request.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.311563+00:00'
 home_country: GBR
 home_port: Dittisham, Devon
 hull_form: centre-boarder
-callsign: ''
 ownerships:
-- end: 2013
-  name: Garry and Vicki Flashman
-  share: 64
+- name: Garry and Vicki Flashman
   start: 2009
-- end: 2018
-  name: Mark Darley
+  end: 2013
   share: 64
+- name: Mark Darley
   start: 2013
-- id: 1077
+  end: 2018
   share: 64
+- member: 6330
+  id: 1077
   start: 2018
-  member: 6330
+  share: 64
   current: true
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
 id: c7d3a3db-7fd3-4c52-a833-71e0879b54bb
 image_key: gRFpVN
 thumb: https://photos.smugmug.com/photos/i-GBq4C9p/0/Th/i-GBq4C9p-Th.jpg
-draft: 0.5578
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.85333142
+  beam: 2.1336
+  draft: 0.5578
+  fore_triangle_height: 5.867471348451597
+  fore_triangle_base: 2.6426481346013166
+  length_over_all: 5.7912704218483295
+  propellor:
+    type: fixed
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  thcf: 0.85333142
-  draft: 0.5334064862228725
-  propellor:
-    type: fixed
   draft_keeldown: 1.1430138990490124
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 2.6426481346013166
   length_on_waterline: 5.690685198732017
-  fore_triangle_height: 5.867471348451597
-length_on_deck: 5.7912
-beam: 2.1336
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:32:46.263981+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'

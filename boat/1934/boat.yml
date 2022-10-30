@@ -3,7 +3,6 @@ oga_no: 1934
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Water Craft Sep/Oct 98 CB Mar/Apr 89
 year: 1994
 year_is_approximate: false
@@ -17,34 +16,27 @@ place_built: Penketh
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 ssr: '65150'
-callsign: ''
 ownerships:
 - name: David Cooper
-  share: 64
   start: 1994
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 3a680282-7c5c-44ec-96a8-fa29b9a6c064
-draft: 0.3566
 handicap_data:
-  beam: 2.0330407217751767
+  thcf: 0.826044271
+  beam: 2.033
+  draft: 0.3566
+  fore_triangle_height: 4.825042672518897
+  fore_triangle_base: 2.7432333577176298
+  length_over_all: 4.87685930260912
   main:
     foot: 3.6576444769568397
     head: 3.2004389173372347
     luff: 5.206047305535234
-  thcf: 0.826044271
-  draft: 0.35662033650329183
-  length_over_all: 4.87685930260912
-  fore_triangle_base: 2.7432333577176298
   length_on_waterline: 4.57205559619605
-  fore_triangle_height: 4.825042672518897
-length_on_deck: 4.8768
-beam: 2.033
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:12:29.237908+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

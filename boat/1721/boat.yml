@@ -3,8 +3,6 @@ oga_no: 1721
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1959
 year_is_approximate: false
 builder:
@@ -14,38 +12,32 @@ place_built: Faro Sweden
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker swedish fir on
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Bursledon
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Peter Thorpe
-  share: 64
   start: 1994
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ec71a533-7e2b-44fe-9652-b899926c366e
-draft: 1.4478
 handicap_data:
-  beam: 3.2522555474274566
+  thcf: 0.958615268
+  beam: 3.2522
+  draft: 1.4478
+  fore_triangle_height: 7.2390880273104115
+  fore_triangle_base: 7.010485247500609
+  length_over_all: 8.53450377956596
+  propellor:
+    type: fixed
   main:
     foot: 6.4008778346744695
     head: 5.029261155815655
     luff: 5.4864667154352595
-  thcf: 0.958615268
-  draft: 1.4478176054620824
   topsail:
     luff: 4.87685930260912
     perpendicular: 2.6152158010241404
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 7.010485247500609
   length_on_waterline: 7.924896366739819
-  fore_triangle_height: 7.2390880273104115
-length_on_deck: 8.5344
-beam: 3.2522
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T17:09:13.375656+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

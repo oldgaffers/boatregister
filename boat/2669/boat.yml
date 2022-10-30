@@ -3,8 +3,6 @@ oga_no: 2669
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1980
 year_is_approximate: false
 designer:
@@ -17,7 +15,7 @@ place_built: Risor, Norway
 construction_material: wood
 construction_method: unknown
 construction_details: Pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Enkhuizen, Netherlands
@@ -29,28 +27,20 @@ ownerships:
 - note: Previous owner G Foss of Norway
   text: Previous owner G Foss of Norway
 - name: Cees van Spierenberg
-  share: 64
   start: 2002
-- id: 854
   share: 64
-  member: 5946
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: afb4625e-33c3-462c-b6c3-1fe5b9b66381
-previous_names:
-- Argo
 image_key: qBBhcn
 thumb: https://photos.smugmug.com/photos/i-cSVHg4B/0/Th/i-cSVHg4B-Th.jpg
-draft: 1.8989
 handicap_data:
-  beam: 3.5997317727383566
+  beam: 3.5997
+  draft: 1.8989
+  length_over_all: 11.71360643745428
   propellor:
     type: fixed
-  length_over_all: 11.71360643745428
   length_on_waterline: 9.601316752011703
-length_on_deck: 10.7991
-beam: 3.5997
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.7991
+created_at: '2020-04-25T17:24:16.560149+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Argo

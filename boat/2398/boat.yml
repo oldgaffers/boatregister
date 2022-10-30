@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Charlotte Jane is a Mark 2 Cornish Crabber built in 1982.</p>
-full_description: ''
 year: 1982
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Mk 2
+  id: 32e50b84-c68f-4036-bf50-397a432d113f
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,46 +19,37 @@ place_built: Rock
 construction_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Chichester
 hull_form: unknown
-callsign: ''
 ownerships:
 - end: 1
   note: 1st Owner Robert Austin  2nd Owner J M Crawford  3rd Owner Chas Henwood. Charles
     sold the boat in 2015. She went to West Coast of Scotland to someone who is not
     an OGA member.
   text: st Owner Robert Austin
-  end_is_approximate: false
-- end: 2015
-  name: Charles Henwood
-  share: 64
+- name: Charles Henwood
   start: 2000
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2015
+  share: 64
 id: e5b62c01-642a-4914-97be-33a06a16de2e
-draft: 0.7376
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.883956246
+  beam: 2.4384
+  draft: 0.7376
+  fore_triangle_height: 5.6388685686417945
+  fore_triangle_base: 4.114850036576445
+  length_over_all: 7.315288953913679
   main:
     foot: 4.166666666666666
     head: 2.8194342843208973
     luff: 3.5052426237503047
-  thcf: 0.883956246
-  draft: 0.7376249695196293
   topsail:
     luff: 4.343452816386247
     perpendicular: 2.286027798098025
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
-  fore_triangle_height: 5.6388685686417945
-length_on_deck: 7.3152
-beam: 2.4384
-design_class:
-  name: Cornish Crabber Mk 2
-  id: 32e50b84-c68f-4036-bf50-397a432d113f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:19:28.976721+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

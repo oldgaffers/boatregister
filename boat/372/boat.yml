@@ -44,45 +44,40 @@ place_built: Lewisham
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Pin Mill
 hull_form: unknown
-callsign: ''
 ownerships:
 - note: Dave Kennard was Herbert Kennard's son and was owner between his father and
     Barry Page
   text: Dave Kennard was Herbert Kennard's son and was owner between his father and
     Barry Page
-- end: 1950
-  name: Herbert Kennard
-  share: 64
+- name: Herbert Kennard
   start: 1902
-- end: 1988
-  name: Dave Kennard
+  end: 1950
   share: 64
+- name: Dave Kennard
   start: 1950
-- end: 2003
-  name: Barry Page
+  end: 1988
   share: 64
+- name: Barry Page
   start: 1989
-- id: 319
+  end: 2003
   share: 64
+- member: 3777
+  id: 319
   start: 2003
-  member: 3777
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: bead2d38-ff98-4527-b80c-38097f43d158
 image_key: 5GVdRS
 thumb: https://photos.smugmug.com/photos/i-HFnhFT4/0/Th/i-HFnhFT4-Th.jpg
-draft: 1.143
 handicap_data:
-  beam: 1.9812240916849548
-  draft: 1.1430138990490124
+  beam: 1.9812
+  draft: 1.143
   length_over_all: 7.924896366739819
-length_on_deck: 7.9248
-beam: 1.9812
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9248
+created_at: '2020-04-25T16:47:58.957578+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

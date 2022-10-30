@@ -21,50 +21,46 @@ place_built: Simrishamn, southern Sweden
 construction_material: steel
 construction_method: unknown
 construction_details: Welded steel hull on steel frames with Oregon pine decks
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: BEL
 home_port: Ostend
 hull_form: unknown
 uk_part1: '386329'
-callsign: ''
 ownerships:
-- end: 1972
-  name: Knut Aspegren
-  share: 64
+- name: Knut Aspegren
   start: 1964
-- end: 1996
-  name: Rick Ganly
+  end: 1972
   share: 64
+- name: Rick Ganly
   start: 1993
-- id: 602
+  end: 1996
   share: 64
+- member: 5179
+  id: 602
   start: 1996
-  member: 5179
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.nelly-mathilde.fr/
 id: 298a3a90-dfa8-47aa-8ccc-bcbb0fab26fa
 image_key: pXzVn7
 thumb: https://photos.smugmug.com/photos/i-hkvQTw6/0/Th/i-hkvQTw6-Th.jpg
-draft: 2.3104
 handicap_data:
-  beam: 4.191050963179712
+  thcf: 1.090565573
+  beam: 4.191
+  draft: 2.3104
+  fore_triangle_height: 10.500487685930262
+  fore_triangle_base: 6.199707388441843
+  length_over_all: 14.301389904901244
   main:
     foot: 4.998780785174347
     head: 4.498902706656913
     luff: 13.999634235552303
-  thcf: 1.090565573
-  draft: 2.3104120946110704
   mizzen:
     foot: 3.4991465496220435
     head: 2.3988051694708608
     luff: 8.549743964886613
-  length_over_all: 14.301389904901244
-  fore_triangle_base: 6.199707388441843
   length_on_waterline: 10.896732504267252
-  fore_triangle_height: 10.500487685930262
-length_on_deck: 14.3012
-beam: 4.191
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 14.3012
+created_at: '2020-04-25T17:06:14.641206+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,13 +3,15 @@ oga_no: 353
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: CB Mar/Apr 88 for sale ec web 2006
 year: 1961
 year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+design_class:
+  name: New Blossom Class
+  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
 builder:
   name: Emeny E.J./Cock
   id: 97b5ebe6-ab0d-4eb9-8981-8841344d136b
@@ -17,29 +19,19 @@ place_built: West Mersea
 construction_material: wood
 construction_method: clinker
 construction_details: Larch on oak clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: J S Cowan
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a9507f3c-7e11-4f76-ae74-f9e4879e2bc5
-draft: 0.634
 handicap_data:
-  beam: 2.13362594489149
-  draft: 0.6339917093391856
+  beam: 2.1336
+  draft: 0.634
   length_over_all: 5.843087051938552
   length_on_waterline: 5.257863935625457
-length_on_deck: 5.843
-beam: 2.1336
-design_class:
-  name: New Blossom Class
-  id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.843
+created_at: '2020-04-25T16:47:41.909663+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

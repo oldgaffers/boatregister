@@ -3,13 +3,14 @@ oga_no: 2233
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1998
 year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+design_class:
+  name: Heard 35
+  id: 57d13261-3402-4c7d-b2c8-45c2224149d3
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -17,35 +18,26 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Falmouth
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2005
-  name: Mike and Sara Collins
-  share: 64
+- name: Mike and Sara Collins
   start: 1998
-- id: 846
+  end: 2005
   share: 64
+- member: 5935
+  id: 846
   start: 2005
-  member: 5935
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 73cadc88-9220-4423-a79a-a7aad1fbda56
-draft: 1.905
 handicap_data:
-  beam: 3.5052426237503047
-  draft: 1.9050231650816873
+  beam: 3.5052
+  draft: 1.905
   length_over_all: 10.66812972445745
   length_on_waterline: 9.75371860521824
-length_on_deck: 10.668
-beam: 3.5052
-design_class:
-  name: Heard 35
-  id: 57d13261-3402-4c7d-b2c8-45c2224149d3
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T17:16:58.962948+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

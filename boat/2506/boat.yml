@@ -25,43 +25,37 @@ place_built: Rotterdam
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker Teak on Oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 178
-  share: 64
+- member: 2696
+  id: 178
   start: 1973
-  member: 2696
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 82326709-4ec5-427b-b12d-0074b1650819
 image_key: XPQM4L
 thumb: https://photos.smugmug.com/photos/i-mhmf4GR/0/Th/i-mhmf4GR-Th.jpg
-draft: 1.0912
 handicap_data:
-  beam: 1.9812240916849548
+  thcf: 0.826621985
+  beam: 1.9812
+  draft: 1.0912
+  fore_triangle_height: 4.998780785174347
+  fore_triangle_base: 2.4993903925871734
+  length_over_all: 5.998536942209217
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 3.9014874420872956
     head: 1.8013899049012436
     luff: 3.5997317727383566
-  thcf: 0.826621985
-  draft: 1.097293343087052
   topsail:
     luff: 1.097293343087052
     perpendicular: 0.9997561570348694
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 5.998536942209217
-  fore_triangle_base: 2.4993903925871734
   length_on_waterline: 5.498658863691782
-  fore_triangle_height: 4.998780785174347
-length_on_deck: 5.9954
-beam: 1.9812
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.9954
+created_at: '2020-04-25T17:21:47.288305+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

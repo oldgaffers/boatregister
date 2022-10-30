@@ -37,46 +37,42 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: 'Trad '
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Pin Mill
 hull_form: long keel deep forefoot
 sail_number: CK365
-callsign: ''
 ownerships:
 - name: Frank Mulville
 - name: Peter Maynard
 - name: Rober Bettle
-- share: 64
-  start: 1998
-  current: true
+- member: 954
   id: 38
-  member: 954
-updated_at: '2022-10-30T06:56:03.964565+00:00'
-website: ''
+  start: 1998
+  share: 64
+  current: true
 id: 656e0e94-c298-408e-90e2-1bafd5bdd824
 image_key: grRdbV
 thumb: https://photos.smugmug.com/photos/i-kmtkTqf/0/Th/i-kmtkTqf-Th.jpg
-draft: 1.396
 handicap_data:
+  thcf: 1.025
+  beam: 3.279648
+  draft: 1.396
   fore_triangle_height: 10.05852231163131
   fore_triangle_base: 7.315288953913679
+  length_over_all: 10.790051207022676
   propellor:
     type: folding
   sailarea: 81.0645980727051
-  length_over_all: 10.790051207022676
   main:
     foot: 7.010485247500609
     head: 5.029261155815655
     luff: 5.4864667154352595
-  thcf: 1.025
   topsail:
-    perpendicular: 2.43842965130456
     luff: 6.705681541087539
-  draft: 1.4020970495001217
-  beam: 3.279648
+    perpendicular: 2.43842965130456
   length_on_waterline: 8.686905632772493
-selling_status: not_for_sale
-length_on_deck: 10.796
+  length_on_deck: 10.796
 created_at: '2020-04-25T17:32:47.429243+00:00'
-beam: 3.279648
+updated_at: '2022-10-30T06:56:03.964565+00:00'

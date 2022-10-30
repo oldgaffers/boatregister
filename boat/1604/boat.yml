@@ -2,7 +2,6 @@ name: Anthea
 oga_no: 1604
 generic_type: Yacht
 mainsail_type: gaff
-short_description: ''
 full_description: Was OGA No 1603 Log 78/4
 year: 1929
 year_is_approximate: false
@@ -15,28 +14,21 @@ builder:
 place_built: Gosport
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 78/4
-callsign: ''
 ownerships:
 - name: R Banks
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ff557d21-0dc0-4dd4-b30b-1ec0c95d9beb
-draft: 1.966
 handicap_data:
-  beam: 2.6060716898317486
-  draft: 1.9659839063643014
+  beam: 2.606
+  draft: 1.966
   length_over_all: 13.015118263838088
   length_on_waterline: 9.174591563033406
-length_on_deck: 13.015
-beam: 2.606
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.015
+created_at: '2020-04-25T17:07:30.895163+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

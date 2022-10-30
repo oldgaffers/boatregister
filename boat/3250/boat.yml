@@ -20,6 +20,9 @@ year_is_approximate: false
 designer:
   name: Knud Reimers
   id: e90fa3e6-7a57-44ea-9377-419ef9fd1197
+design_class:
+  name: Tumlare
+  id: 2d2beb92-1df0-4a27-8bf7-27adc1f6e049
 builder:
   name: Knud Reimers
   id: c89ec86a-f833-4cf0-81db-2da01d3ef74a
@@ -27,47 +30,35 @@ place_built: Stockholm
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel lead keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Fowey
 hull_form: cut_away_stem
 sail_number: K30
-callsign: ''
 ownerships:
 - note: First owner Sir Ernest Roney.
   text: First owner Sir Ernest Roney.
-- note: Owned 1966/7 to 1974 by David McLean.
+- start: 1966
+  note: Owned 1966/7 to 1974 by David McLean.
   text: Owned
-  start: 1966
-  start_is_approximate: false
-- end: 2012
-  name: John Mann
-  share: 64
+- name: John Mann
   start: 1996
+  end: 2012
+  share: 64
 - name: Rees Martin
-  share: 64
   start: 2013
-- id: 639
   share: 64
-  member: 5397
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 656d527b-b4c9-4165-8096-a272439d26e1
 image_key: 7T7qFb
 thumb: https://photos.smugmug.com/photos/i-tTt9McZ/0/Th/i-tTt9McZ-Th.jpg
-draft: 1.271
 handicap_data:
+  beam: 1.905
+  draft: 1.271
   sailarea: 6
   length_overall: 8.4338
   length_over_spars: 8.4338
   length_on_waterline: 6.858
-length_on_deck: 8.4338
-beam: 1.905
-design_class:
-  name: Tumlare
-  id: 2d2beb92-1df0-4a27-8bf7-27adc1f6e049
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.4338
+created_at: '2020-04-25T17:47:06.735454+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

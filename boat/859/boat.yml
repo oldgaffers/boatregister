@@ -3,8 +3,6 @@ oga_no: 859
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1913
 year_is_approximate: false
 designer:
@@ -17,39 +15,34 @@ place_built: Exmouth
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Schellingwoude
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Paul Plaatsman
-  share: 64
   start: 1991
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 11dc732d-163d-402d-9a0c-73231bdebfa6
-previous_names:
-- Sombria Violetta
 image_key: 52NzNx
 thumb: https://photos.smugmug.com/photos/i-QZjbTQ7/0/Th/i-QZjbTQ7-Th.jpg
-draft: 1.4021
 handicap_data:
-  beam: 3.148622287247013
+  thcf: 0.974929474
+  beam: 3.1486
+  draft: 1.4021
+  fore_triangle_height: 9.168495488905144
+  fore_triangle_base: 5.748597902950499
+  length_over_all: 9.357473786881247
+  propellor:
+    type: fixed
   main:
     foot: 5.334064862228725
     head: 4.498902706656913
     luff: 6.300292611558157
-  thcf: 0.974929474
-  draft: 1.4020970495001217
-  propellor:
-    type: fixed
-  length_over_all: 9.357473786881247
-  fore_triangle_base: 5.748597902950499
   length_on_waterline: 9.1441111923921
-  fore_triangle_height: 9.168495488905144
-length_on_deck: 9.3574
-beam: 3.1486
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.3574
+created_at: '2020-04-25T16:55:21.33183+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Sombria Violetta

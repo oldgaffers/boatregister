@@ -20,45 +20,40 @@ designer:
 place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bursledon
 hull_form: long keel deep forefoot
 sail_number: 689Y
-callsign: ''
 ownerships:
 - id: 1
   share: 64
-- id: 102
-  share: 64
+- member: 1858
+  id: 102
   start: 2012
-  member: 1858
-updated_at: '2022-07-14T15:01:16.351857+00:00'
-website: ''
+  share: 64
 id: 5470b2da-86c5-4c74-b0e0-00d1315eb2cb
-previous_names:
-- Alert
 image_key: LS4mxP
 thumb: https://photos.smugmug.com/photos/i-D39gcfD/0/Th/i-D39gcfD-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.895647403072421
+  thcf: 0.932
+  beam: 2.8956
+  draft: 1.3716
+  fore_triangle_height: 7.924896366739819
+  fore_triangle_base: 6.14687881004633
+  length_over_all: 8.07731041209461
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 46.76623781817816
   main:
     foot: 5.18166300902219
     head: 4.114862228724701
     luff: 4.57205559619605
-  thcf: 0.932
-  draft: 1.3716288710070714
-  sailarea: 46.76623781817816
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.07731041209461
-  fore_triangle_base: 6.14687881004633
   length_on_waterline: 7.924896366739819
-  fore_triangle_height: 7.924896366739819
-length_on_deck: 8.0772
-beam: 2.8956
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.0772
+created_at: '2020-04-25T16:52:48.475864+00:00'
+updated_at: '2022-07-14T15:01:16.351857+00:00'
+previous_names:
+- Alert

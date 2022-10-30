@@ -3,7 +3,6 @@ oga_no: 2338
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: CB Jun 90, Jan 91
 year: 1990
 year_is_approximate: false
@@ -16,22 +15,15 @@ builder:
 place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 05ff59d1-e72c-4aed-aa05-0f37437c724f
-draft: 0.762
 handicap_data:
-  beam: 2.286027798098025
-  draft: 0.7620092660326749
+  beam: 2.286
+  draft: 0.762
   length_over_all: 6.0960741282613995
   length_on_waterline: 5.7912704218483295
-length_on_deck: 6.096
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.096
+created_at: '2020-04-25T17:18:34.745107+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

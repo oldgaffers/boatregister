@@ -53,70 +53,90 @@ place_built: Boston
 construction_material: wood
 spar_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 37000
-- asking_price: 35000
+- created_at: '2019-08-05T21:30:20+00:00'
+  flexibility: normal
+  offered: '2019-08-05'
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>Built as second of three sister ships in 1932, Boston (Lincs.) by
+    AM Gostelow for WH Johnston, she has had six owners to date, including a period
+    in the Netherlands.</p><p>Making several North Sea passages, and being well maintained
+    she is a solid and trustworthy gaffer with very interesting history and archive
+    available from current owner and by browsing the rest of the record here.</p>
+  seller_gold_id: 192
+  seller_member: 2791
+  sold: null
+  summary: withdrawn
+  updated_at: '2020-05-03T10:13:13.048603+00:00'
+- created_at: '2021-10-02T07:53:02.061398+00:00'
+  flexibility: fair
+  offered: '2021-10-02'
+  price_flexibility:
+    text: fair
+  reduced: null
+  sales_text: <p>Built as second of three sister ships in 1932, Boston (Lincs.) by
+    AM Gostelow for WH Johnston, she has had six owners to date, including a period
+    in the Netherlands.</p><p>Making several North Sea passages, and being well maintained
+    she is a solid and trustworthy gaffer with very interesting history and archive
+    available from current owner and by browsing the rest of the record here.</p>
+  seller_gold_id: 192
+  seller_member: 2791
+  sold: null
+  summary: null
+  updated_at: '2021-10-02T07:53:02.061398+00:00'
 home_country: GBR
 home_port: Holbrook
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 1947
-  name: W.H.Johnston
-  share: 64
+- name: W.H.Johnston
   start: 1932
-- end: 1956
-  name: Charles Dearlove
-  share: 32
+  end: 1947
+  share: 64
+- name: Charles Dearlove
   start: 1947
-- end: 1977
-  name: Archie Campbell
+  end: 1956
   share: 32
+- name: Archie Campbell
   start: 1956
-- end: 1977
-  name: Archie Campbell
+  end: 1977
   share: 32
+- name: Archie Campbell
   start: 1956
-- end: 1989
-  name: Ab Venstra
-  share: 64
+  end: 1977
+  share: 32
+- name: Ab Venstra
   start: 1977
-- end: 2010
-  name: Gosine Borersen
-  share: 32
-  start: 1989
-- end: 2010
-  name: Peter Kruitwagen
-  share: 32
-  start: 1989
-- end: 2011
-  name: Fiona Mary Lucas
+  end: 1989
   share: 64
+- name: Gosine Borersen
+  start: 1989
+  end: 2010
+  share: 32
+- name: Peter Kruitwagen
+  start: 1989
+  end: 2010
+  share: 32
+- name: Fiona Mary Lucas
   start: 2010
-- name: Michael Robertson
-  share: 32
-  start: 2011
-- id: 192
+  end: 2011
   share: 64
-  member: 2791
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+- name: Michael Robertson
+  start: 2011
+  share: 32
 id: 66da7f6b-2fc5-4bea-bf33-34578dc75fbb
 image_key: R9hDWX
 thumb: https://photos.smugmug.com/photos/i-D8DtBsF/0/Th/i-D8DtBsF-Th.jpg
-draft: 1.4326
 handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.432577420141429
+  beam: 2.8956
+  draft: 1.4326
+  length_over_all: 9.75371860521824
   propellor:
     type: fixed
     blades: 3
-  length_over_all: 9.75371860521824
   length_on_waterline: 8.83930748597903
-length_on_deck: 9.7536
-beam: 2.8956
-for_sale_state:
-  text: for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T16:46:21.66439+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

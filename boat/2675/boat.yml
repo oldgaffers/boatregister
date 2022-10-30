@@ -14,6 +14,9 @@ year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+design_class:
+  name: Swallow
+  id: af580637-632f-4205-994e-9772307fe28d
 builder:
   name: Nick Hanbury
   id: 8c5ce537-2bda-4dd9-af08-b5dabaac3732
@@ -21,40 +24,28 @@ place_built: Modbury, Devon
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Glued clinker ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Modbury, Devon
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Nick Hanbury
-  share: 64
   start: 2004
-- share: 64
-  member: 4543
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 13868ac8-41e2-445c-bd29-54491a524922
-draft: 0.2042
 handicap_data:
-  beam: 1.6764203852718849
+  thcf: 0.774158318
+  beam: 1.6764
+  draft: 0.2042
+  fore_triangle_height: 3.9624481833699097
+  fore_triangle_base: 1.097293343087052
+  length_over_all: 4.419653742989515
   main:
     foot: 3.1242379907339672
     head: 3.0480370641306997
     luff: 2.2098268714947573
-  thcf: 0.774158318
-  draft: 0.19050231650816873
-  length_over_all: 4.419653742989515
-  fore_triangle_base: 1.097293343087052
   length_on_waterline: 4.22457937088515
-  fore_triangle_height: 3.9624481833699097
-length_on_deck: 4.4196
-beam: 1.6764
-design_class:
-  name: Swallow
-  id: af580637-632f-4205-994e-9772307fe28d
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.4196
+created_at: '2020-04-25T17:24:21.491161+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

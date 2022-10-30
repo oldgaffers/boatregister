@@ -3,7 +3,6 @@ oga_no: 399
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 82/1, 82/3, 83/1, 83/4
 year: 1972
 year_is_approximate: false
@@ -17,38 +16,31 @@ place_built: Dover
 construction_material: grp
 construction_method: unknown
 construction_details: G R P foam sandwich hull
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 82/1
 - Log 82/3
 - Log 83/1
 - Log 83/4
-callsign: ''
 ownerships:
 - name: D A Ashton
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ecc71b8f-1011-409c-93f5-bd428cc114fa
-draft: 1.0668
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.878485034
+  beam: 2.4384
+  draft: 1.0668
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 3.5052426237503047
+  length_over_all: 7.315288953913679
   main:
     foot: 4.114850036576445
     head: 3.0480370641306997
     luff: 3.6576444769568397
-  thcf: 0.878485034
-  draft: 1.066812972445745
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 3.5052426237503047
   length_on_waterline: 7.132406730065837
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 7.3152
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T16:48:22.659219+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

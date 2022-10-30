@@ -4,12 +4,14 @@ generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Swamped off Christchurch, 31 July 1993, and lost.</p>
-full_description: ''
 year: 1989
 year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+design_class:
+  name: Clovelly Picarooner
+  id: 11aace65-18e9-4ec8-b204-763199e59f90
 builder:
   name: Martin Heard
   id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
@@ -17,29 +19,19 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: unknown
 construction_details: Fibre glass hull marine ply decking
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: P Thelwall
-  share: 64
   start: 1990
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e09acb13-5e41-4652-ba90-c63d41ebfe89
-draft: 0.9144
 handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.9144111192392099
+  beam: 1.8288
+  draft: 0.9144
   length_over_all: 4.724457449402585
   length_on_waterline: 4.648256522799317
-length_on_deck: 4.7244
-beam: 1.8288
-design_class:
-  name: Clovelly Picarooner
-  id: 11aace65-18e9-4ec8-b204-763199e59f90
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.7244
+created_at: '2020-04-25T17:06:41.682209+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

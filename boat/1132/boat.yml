@@ -20,41 +20,36 @@ place_built: Southend on Sea
 construction_material: wood
 construction_method: carvel
 construction_details: Larch and Pitch Pine on oak Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2001
-  name: Colin Fox
-  share: 64
+- name: Colin Fox
   start: 1981
-- name: Jonathan Simper
+  end: 2001
   share: 64
+- name: Jonathan Simper
   start: 2001
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fb8143bc-39ea-4db3-a9a4-c4f5dd908618
 image_key: HP6VkC
 thumb: https://photos.smugmug.com/photos/i-rLKcJ4n/0/Th/i-rLKcJ4n-Th.jpg
-draft: 0.8626
 handicap_data:
-  beam: 3.3528407705437697
+  beam: 3.3528
+  draft: 0.8626
+  length_over_all: 10.36332601804438
+  propellor:
+    type: fixed
   main:
     foot: 5.18166300902219
     head: 6.705681541087539
     luff: 6.705681541087539
-  draft: 0.8636308217507925
   topsail:
     luff: 6.0960741282613995
-  propellor:
-    type: fixed
-  length_over_all: 10.36332601804438
   length_over_spars: 15.849792733479639
   length_on_waterline: 10.2109363569861
-length_on_deck: 10.3632
-beam: 3.3528
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.3632
+created_at: '2020-04-25T17:00:19.887946+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

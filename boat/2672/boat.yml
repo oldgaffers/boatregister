@@ -3,8 +3,6 @@ oga_no: 2672
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1915
 year_is_approximate: false
 builder:
@@ -14,45 +12,40 @@ place_built: Oldenburg
 construction_material: iron
 construction_method: unknown
 construction_details: Rivetted Iron
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Rheden, Nl
 hull_form: long keel deep forefoot
 uk_part1: 7883 B
-callsign: ''
 ownerships:
 - name: B J A M de Ruiter
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 08ae0800-e602-4437-bc2b-e799fa00b6da
+handicap_data:
+  thcf: 1.045918269
+  beam: 4.4501
+  draft: 1.2009
+  fore_triangle_height: 12.000121921482563
+  fore_triangle_base: 9.400146305779078
+  length_over_all: 12.801755669348939
+  propellor:
+    type: fixed
+  main:
+    foot: 7.6993416239941475
+    head: 4.998780785174347
+    luff: 4.779322116556937
+  topsail:
+    luff: 6.498415020726652
+    perpendicular: 3.000182882223848
+  length_on_waterline: 11.302121433796634
+  length_on_deck: 12.8016
+created_at: '2020-04-25T17:24:18.865188+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Henny
 - Gerihal
 - Arjen
 - Breehorn
 - Ribbemoos II
-draft: 1.2009
-handicap_data:
-  beam: 4.4501341136308215
-  main:
-    foot: 7.6993416239941475
-    head: 4.998780785174347
-    luff: 4.779322116556937
-  thcf: 1.045918269
-  draft: 1.2009266032674957
-  topsail:
-    luff: 6.498415020726652
-    perpendicular: 3.000182882223848
-  propellor:
-    type: fixed
-  length_over_all: 12.801755669348939
-  fore_triangle_base: 9.400146305779078
-  length_on_waterline: 11.302121433796634
-  fore_triangle_height: 12.000121921482563
-length_on_deck: 12.8016
-beam: 4.4501
-for_sale_state:
-  text: not_for_sale

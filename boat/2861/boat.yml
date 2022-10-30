@@ -3,8 +3,6 @@ oga_no: 2861
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1991
 year_is_approximate: false
 designer:
@@ -18,36 +16,28 @@ construction_material: plywood
 construction_method: unknown
 construction_details: "Double skinned, epoxied, marine plywood.\r\nMain keel with\
   \ mini keels with internal drop plates."
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Buckie
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- end: 2011
-  name: Dr Chris Clarke
-  share: 64
+- name: Dr Chris Clarke
   start: 2008
-- end: 2015
-  name: Nigel Gillett
+  end: 2011
   share: 64
+- name: Nigel Gillett
   start: 2011
-- name: George Smith
+  end: 2015
   share: 64
+- name: George Smith
   start: 2015
-- share: 64
-  member: 6000
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: d69d950c-54ef-47a7-a3b9-e06f1bb5dbc8
-draft: 0.6096
 handicap_data:
-  beam: 2.081809314801268
+  beam: 2.0818
+  draft: 0.6096
   length_over_all: 5.6388685686417945
-length_on_deck: 5.6388
-beam: 2.0818
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.6388
+created_at: '2020-04-25T17:29:17.497755+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

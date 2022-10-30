@@ -3,13 +3,14 @@ oga_no: 7059
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1963
 year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+design_class:
+  name: Vertue
+  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
 builder:
   name: Cheoy Lee Shipyards Ltd.
   id: 57fc3053-4c34-45ae-ab20-adebf6ca3808
@@ -17,25 +18,17 @@ place_built: Hong Kong
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel teak on Ipol frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Woodbridge
 hull_form: unknown
 sail_number: V 125
-callsign: ''
 ownerships:
 - name: David Dow
-  share: 64
   start: 1996
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e781f5f5-4236-42a6-a6fe-592dd63df286
-draft: 0
-length_on_deck: 0
-beam: 0
-design_class:
-  name: Vertue
-  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:43:46.894881+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  length_on_deck: 0

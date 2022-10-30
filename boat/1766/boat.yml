@@ -3,7 +3,6 @@ oga_no: 1766
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 91/2, 92/1
 year: 1937
 year_is_approximate: false
@@ -14,26 +13,19 @@ place_built: King's Lynn
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker Larch on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 91/2
 - Log 92/1
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 97f74c25-eeeb-4dc0-9cc0-11fcc8322b45
-draft: 0.6096
 handicap_data:
-  beam: 2.590831504511095
-  draft: 0.60960741282614
+  beam: 2.5908
+  draft: 0.6096
+  length_over_all: 6.858083394294074
   propellor:
     type: fixed
-  length_over_all: 6.858083394294074
-length_on_deck: 6.858
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.858
+created_at: '2020-04-25T17:09:54.612058+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

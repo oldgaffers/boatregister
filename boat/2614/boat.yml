@@ -22,39 +22,30 @@ place_built: Barrow in Furness
 construction_material: wood
 construction_method: carvel
 construction_details: Larch plank on sawn oak frames, carvel construction.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Conwy
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
 - name: Andy Williams
-  share: 64
   start: 1996
-- share: 64
-  member: 5669
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fee6df53-59b6-4662-b9d7-99b3f6e3ae57
-draft: 1.0973
 handicap_data:
-  beam: 3.2309192879785416
+  thcf: 1.000212097
+  beam: 3.2309
+  draft: 1.0973
+  fore_triangle_height: 9.195927822482322
+  fore_triangle_base: 6.224091684954889
+  length_over_all: 10.515727871250913
+  propellor:
+    type: folding
   main:
     foot: 6.6294806144842715
     head: 5.4864667154352595
     luff: 4.87685930260912
-  thcf: 1.000212097
-  draft: 1.097293343087052
-  propellor:
-    type: folding
-  length_over_all: 10.515727871250913
-  fore_triangle_base: 6.224091684954889
   length_on_waterline: 9.1441111923921
-  fore_triangle_height: 9.195927822482322
-length_on_deck: 10.5156
-beam: 3.2309
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.5156
+created_at: '2020-04-25T17:23:25.844049+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -18,6 +18,9 @@ year_is_approximate: false
 designer:
   name: Ed Burnett/Nigel Irens
   id: 8f64ae6c-9f1b-46cc-b03d-d1f269ced762
+design_class:
+  name: Nomad 43
+  id: 20a53543-6336-4132-9514-68b622baef33
 builder:
   name: Fairlie Restorations - Duncan Walker
   id: 23ed6471-afc6-443d-a141-1fb563770b55
@@ -25,33 +28,30 @@ place_built: Hamble
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Woodepoxy construction, wood mast, carbon gaff and boom
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: long keel sloping forefoot
 sail_number: N 1
 uk_part1: '900740'
-callsign: ''
 ownerships:
-- id: 565
-  share: 64
+- member: 5031
+  id: 565
   start: 2017
-  member: 5031
+  share: 64
   current: true
 - name: Michael Shaw
-  share: 64
   start: 2017
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 3192fc96-555b-4020-94f6-22e4e7bb7458
-previous_names:
-- Kilrush
-- Nomad ll
 image_key: nmJsXR
 thumb: https://photos.smugmug.com/photos/i-5Wdd68Q/0/Th/i-5Wdd68Q-Th.jpg
-draft: 1.8593
 handicap_data:
+  beam: 3.938
+  draft: 1.8593
+  fore_triangle_height: 13.21
+  fore_triangle_base: 5.7577
   main:
     foot: 22.74
     head: 19.85
@@ -62,13 +62,10 @@ handicap_data:
   length_overall: 13.1064
   calculated_thcf: 1.073
   length_over_spars: 16.0203
-  fore_triangle_base: 5.7577
   length_on_waterline: 11.1892
-  fore_triangle_height: 13.21
-length_on_deck: 13.1064
-beam: 3.938
-design_class:
-  name: Nomad 43
-  id: 20a53543-6336-4132-9514-68b622baef33
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.1064
+created_at: '2020-04-25T17:50:44.484659+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Kilrush
+- Nomad ll

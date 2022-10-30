@@ -3,13 +3,15 @@ oga_no: 2948
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Forward facing rowing system by Gig Harbor Boat Works
 year: 2008
 year_is_approximate: false
 designer:
   name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+design_class:
+  name: Whitehall
+  id: e59abbc8-06a2-42c3-a87e-88f908b4e896
 builder:
   name: Roy Morford
   id: fecb5d8a-f40f-46a0-99d8-b660cc4e212e
@@ -17,27 +19,18 @@ place_built: West Vancouver
 construction_material: wood
 construction_method: clinker
 construction_details: Lapstrake ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: West Vancouver
 hull_form: centre-board dinghy
-callsign: ''
 ownerships:
 - name: Roy Morford
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: f65ada09-693d-4221-b6bd-2ec59fb5bcd6
-draft: 0
 handicap_data:
-  beam: 1.21921482565228
+  beam: 1.2192
   length_over_all: 4.57205559619605
-length_on_deck: 4.572
-beam: 1.2192
-design_class:
-  name: Whitehall
-  id: e59abbc8-06a2-42c3-a87e-88f908b4e896
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.572
+created_at: '2020-04-25T17:33:01.675593+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

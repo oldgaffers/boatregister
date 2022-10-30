@@ -14,6 +14,9 @@ year_is_approximate: false
 designer:
   name: Ed Burnett
   id: ec954b97-b4e7-4203-a28c-7d85278bf748
+design_class:
+  name: Ivy
+  id: 7611b5db-837e-4e02-9a9f-50c29602a24f
 builder:
   name: Elephant Boatyard Ltd.
   id: 1108b354-a34d-4097-b09a-8910c74bc841
@@ -22,7 +25,7 @@ construction_material: woodepoxy
 spar_material: wood
 construction_method: unknown
 construction_details: Wood epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bursledon, River Hamble
@@ -31,44 +34,38 @@ sail_number: EB6
 uk_part1: '404790'
 callsign: VSLR8
 ownerships:
-- end: 2014
-  name: Jeremy Dumas
-  share: 64
+- name: Jeremy Dumas
   start: 2003
-- id: 827
+  end: 2014
   share: 64
+- member: 5899
+  id: 827
   start: 2014
-  member: 5899
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ivygreen.me.uk
 id: 42143b20-fd07-4571-ac38-e842ebd31899
 image_key: NrR7R5
 thumb: https://photos.smugmug.com/photos/i-M3xf5Jt/0/Th/i-M3xf5Jt-Th.jpg
-draft: 1.7282
 handicap_data:
-  beam: 3.2600396470373076
+  thcf: 1.025
+  beam: 3.2522
+  draft: 1.7282
+  fore_triangle_height: 12.60015323701536
+  fore_triangle_base: 6.450078442757864
+  length_over_all: 10.590128792062911
+  propellor:
+    type: fixed
+  sailarea: 78.2196481457178
   main:
     foot: 6.0800739429407455
     head: 4.370053146488661
     luff: 5.730069686356986
-  thcf: 1.025
-  draft: 1.7300210396854423
   topsail:
     luff: 6.6700811183247986
     perpendicular: 2.400029188002926
-  sailarea: 78.2196481457178
-  propellor:
-    type: fixed
-  length_over_all: 10.590128792062911
   length_over_spars: 10.590128792062911
-  fore_triangle_base: 6.450078442757864
   length_on_waterline: 9.450114927761522
-  fore_triangle_height: 12.60015323701536
-length_on_deck: 10.5918
-beam: 3.2522
-design_class:
-  name: Ivy
-  id: 7611b5db-837e-4e02-9a9f-50c29602a24f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.5918
+created_at: '2020-04-25T17:23:09.269019+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

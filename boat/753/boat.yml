@@ -3,8 +3,6 @@ oga_no: 753
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1934
 year_is_approximate: false
 designer:
@@ -17,34 +15,28 @@ place_built: Maldon
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker spruce on elm
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Maldon
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2005
-  name: Jon Howorth
-  share: 64
+- name: Jon Howorth
   start: 1977
-- name: John Kinston
+  end: 2005
   share: 64
+- name: John Kinston
   start: 2006
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: bb75c764-0e7b-4d97-b986-6eb5a8c395b5
-previous_names:
-- Mewgull    Wren
 image_key: J6x8rH
 thumb: https://photos.smugmug.com/photos/i-2HFhfc4/0/Th/i-2HFhfc4-Th.png
-draft: 0.1524
 handicap_data:
-  beam: 1.5240185320653499
-  draft: 0.152401853206535
+  beam: 1.524
+  draft: 0.1524
   length_over_all: 4.26725188978298
   length_on_waterline: 4.114850036576445
-length_on_deck: 4.2672
-beam: 1.524
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.2672
+created_at: '2020-04-25T16:53:47.214245+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Mewgull    Wren

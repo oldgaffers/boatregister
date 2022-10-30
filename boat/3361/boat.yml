@@ -10,6 +10,9 @@ full_description: <p>No longer classified as a Royal Dart One Design as she has 
   iroko keel has been fitted. She is now watertight (2017)</p>
 year: 1946
 year_is_approximate: false
+design_class:
+  name: Royal Dart One Design
+  id: 4fd6c515-942f-4479-969a-54ae8ea0c866
 builder:
   name: Morgan Giles Ltd.
   id: 2e21306b-23dc-407a-ae70-31f933bdcc9c
@@ -17,34 +20,23 @@ place_built: Teignmouth
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker mahogany on oak. Pine spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Nick Murphy
-  share: 64
   start: 1990
-- share: 64
-  member: 6163
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 62c9c345-2790-4b42-9d85-2fad7022dc43
-draft: 0.2042
 handicap_data:
+  beam: 1.8288
+  draft: 0.2042
   moving_keel: true
   length_overall: 5.0292
   draft_keel_down: 0.762
   moving_keel_type: Centreboard
   length_on_waterline: 4.8768
-length_on_deck: 5.0292
-beam: 1.8288
-design_class:
-  name: Royal Dart One Design
-  id: 4fd6c515-942f-4479-969a-54ae8ea0c866
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.0292
+created_at: '2020-04-25T17:51:10.010613+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 2662
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
 full_description: Design based on Falmouth Oyster Punt, for sale on web site, Sept
   04 and Dec Log.
 year: 2001
@@ -17,25 +16,19 @@ builder:
 place_built: Redruth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Trailer sail
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2012
-  name: Nick Coppin
-  share: 64
+- name: Nick Coppin
   start: 2001
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2012
+  share: 64
 id: efb32dcd-35a7-475a-ae17-b9a38a1205a0
-draft: 0
 handicap_data:
-  beam: 1.3472323823457693
+  beam: 1.3472
   length_over_all: 3.9624481833699097
-length_on_deck: 3.9624
-beam: 1.3472
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.9624
+created_at: '2020-04-25T17:24:10.026779+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -21,40 +21,34 @@ construction_material: plywood
 construction_method: unknown
 construction_details: Double ended hard chine ply slab sided on one and a half inch
   pine bottom
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Highbridge Port of Bridgwater
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2003
-  name: Gil Mayes
-  share: 64
+- name: Gil Mayes
   start: 2002
-- name: Bruce Scott
+  end: 2003
   share: 64
+- name: Bruce Scott
   start: 2003
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 2c506e89-5fa0-42cd-8ec9-3e77e2366b46
-draft: 0.1524
 handicap_data:
-  beam: 1.5240185320653499
+  thcf: 0.612
+  beam: 1.524
+  draft: 0.1524
+  fore_triangle_height: 2.9718544257498167
+  fore_triangle_base: 1.8288222384784198
+  length_over_all: 5.943684467203121
+  sailarea: 12.311622784494197
   main:
     foot: 1.9812362838332114
     head: 2.7432333577176298
     luff: 3.9624481833699097
-  thcf: 0.612
-  draft: 0.15241404535479153
-  sailarea: 12.311622784494197
   draft_keeldown: 0.7620214581809314
-  length_over_all: 5.943684467203121
   length_over_spars: 6.553291880029261
-  fore_triangle_base: 1.8288222384784198
   length_on_waterline: 5.029273347963911
-  fore_triangle_height: 2.9718544257498167
-length_on_deck: 5.9436
-beam: 1.524
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.9436
+created_at: '2020-04-25T17:21:58.684988+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

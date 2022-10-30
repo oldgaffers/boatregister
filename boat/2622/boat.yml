@@ -22,49 +22,39 @@ place_built: Falmouth
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Dover
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2018
-  name: Clive Thompson
-  share: 64
+- name: Clive Thompson
   start: 2012
+  end: 2018
+  share: 64
 - name: Dominic Lucas
-  share: 64
   start: 2019
-- id: 1039
   share: 64
-  member: 6292
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 63d92674-43be-4a9a-b66f-554c782445c1
 image_key: GMxqmB
 thumb: https://photos.smugmug.com/photos/i-bLjPm3b/0/Th/i-bLjPm3b-Th.jpg
-draft: 1.4234
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.970119023
+  beam: 2.7432
+  draft: 1.4234
+  fore_triangle_height: 8.967325042672519
+  fore_triangle_base: 4.87685930260912
+  length_over_all: 8.83930748597903
+  propellor:
+    type: fixed
   main:
     foot: 5.105462082418922
     head: 4.367837112899292
     luff: 4.977444525725432
-  thcf: 0.970119023
-  draft: 1.4234333089490367
   topsail:
     luff: 5.029261155815655
     perpendicular: 2.43842965130456
-  propellor:
-    type: fixed
-  length_over_all: 8.83930748597903
-  fore_triangle_base: 4.87685930260912
   length_on_waterline: 8.330285296269201
-  fore_triangle_height: 8.967325042672519
-length_on_deck: 8.8392
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.8392
+created_at: '2020-04-25T17:23:33.694083+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

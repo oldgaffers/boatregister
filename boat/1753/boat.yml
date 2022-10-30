@@ -3,7 +3,6 @@ oga_no: 1753
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log Jun/97
 year: 1968
 year_is_approximate: false
@@ -17,36 +16,29 @@ place_built: Benfleet
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker Mahogany on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log Jun 97
-callsign: ''
 ownerships:
 - name: R A Doe
-  share: 64
   start: 1990
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 8cb14850-8d3b-4868-936c-94930a7016a8
-draft: 0.6096
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.791904322
+  beam: 2.286
+  draft: 0.6096
+  fore_triangle_height: 5.562667642038527
+  fore_triangle_base: 2.7432333577176298
+  length_over_all: 6.4008778346744695
+  propellor:
+    type: fixed
   main:
     foot: 3.7094611070470616
     luff: 3.2004389173372347
-  thcf: 0.791904322
-  draft: 0.60960741282614
-  propellor:
-    type: fixed
-  length_over_all: 6.4008778346744695
-  fore_triangle_base: 2.7432333577176298
   length_on_waterline: 5.562667642038527
-  fore_triangle_height: 5.562667642038527
-length_on_deck: 6.4008
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4008
+created_at: '2020-04-25T17:09:43.809792+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

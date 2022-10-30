@@ -10,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Terry Heard
   id: c7a4b5d4-0751-4858-8054-b0e0636bb711
+design_class:
+  name: Tosher 18
+  id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -17,31 +20,23 @@ place_built: Mylor
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Cowes
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 437
-  share: 64
+- member: 4388
+  id: 437
   start: 2002
-  member: 4388
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 92f1f3cb-4385-45cb-a614-b22ea0173d54
+handicap_data:
+  beam: 1.8288
+  length_over_all: 5.6388685686417945
+  length_on_deck: 5.6388
+created_at: '2020-04-25T17:23:42.619185+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - The Winkle
-draft: 0
-handicap_data:
-  beam: 1.8288222384784198
-  length_over_all: 5.6388685686417945
-length_on_deck: 5.6388
-beam: 1.8288
-design_class:
-  name: Tosher 18
-  id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
-for_sale_state:
-  text: not_for_sale

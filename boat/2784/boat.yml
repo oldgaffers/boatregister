@@ -3,7 +3,6 @@ oga_no: 2784
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
 full_description: Replica of Pharoah era nile crafr, with lateen and jib in stead
   of square sail.
 year: 2005
@@ -18,31 +17,25 @@ place_built: Edam
 construction_material: wood
 construction_method: unknown
 construction_details: Cedar mahogany oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Edam Nederlands
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Floris barends
-  share: 64
   start: 2005
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7429c7d3-0815-4845-b734-7ec6c24f26ed
-draft: 0
 handicap_data:
+  thcf: 0.886095004
   beam: 2.0513
+  fore_triangle_height: 3.999
+  fore_triangle_base: 2.9992
+  length_over_all: 8.19
   main:
     foot: 3.999
     luff: 7.0013
-  thcf: 0.886095004
-  length_over_all: 8.19
-  fore_triangle_base: 2.9992
   length_on_waterline: 6.1112
-  fore_triangle_height: 3.999
-length_on_deck: 8.19
-beam: 2.0513
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.19
+created_at: '2020-04-25T17:27:08.234138+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -32,59 +32,54 @@ builder:
 place_built: Galmpton
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Brixham
 hull_form: long keel deep forefoot
 sail_number: BM28
-callsign: ''
 ownerships:
-- end: 1971
-  name: Island Cruising Club
-  share: 64
+- name: Island Cruising Club
   start: 1951
-- note: Bought in 1951 John Bayley who founded the Island Cruising Club she continued
+  end: 1971
+  share: 64
+- start: 1951
+  note: Bought in 1951 John Bayley who founded the Island Cruising Club she continued
     under Club ownership until 1971 when she was bought by the Maritime Trust and
     subsequently the Island Trust. She was bought by the Trinity Sailing Foundation
     in 2002.
   text: Bought in
-  start: 1951
-  start_is_approximate: false
 - name: Trinity Sailing
-  share: 64
   start: 2002
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: http://www.trinitysailing.org/vessels/provident/
 id: 9895bb27-7350-47f4-9cbe-4a2f48beb9e9
 image_key: 4rRbxZ
 thumb: https://photos.smugmug.com/photos/i-DMCmg72/0/Th/i-DMCmg72-Th.jpg
-draft: 2.6914
 handicap_data:
-  beam: 5.4864667154352595
+  thcf: 1.235437796
+  beam: 5.4864
+  draft: 2.6914
+  fore_triangle_height: 10.66812972445745
+  fore_triangle_base: 12.192148256522799
+  length_over_all: 21.3362594489149
+  propellor:
+    type: fixed
   main:
     foot: 9.1441111923921
     head: 8.53450377956596
     luff: 9.1441111923921
-  thcf: 1.235437796
-  draft: 2.691416727627408
+  topsail:
+    luff: 9.1441111923921
+    perpendicular: 3.0480370641306997
   mizzen:
     foot: 6.0960741282613995
     head: 4.57205559619605
     luff: 3.6576444769568397
-  topsail:
-    luff: 9.1441111923921
-    perpendicular: 3.0480370641306997
-  propellor:
-    type: fixed
   mizzen_topsail:
     luff: 4.57205559619605
     perpendicular: 2.13362594489149
-  length_over_all: 21.3362594489149
-  fore_triangle_base: 12.192148256522799
   length_on_waterline: 18.2882223847842
-  fore_triangle_height: 10.66812972445745
-length_on_deck: 21.336
-beam: 5.4864
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 21.336
+created_at: '2020-04-25T16:48:54.566527+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

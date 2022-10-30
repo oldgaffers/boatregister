@@ -3,13 +3,15 @@ oga_no: 2927
 generic_type: unknown
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: Home Built
 year: 2000
 year_is_approximate: false
 designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
+design_class:
+  name: Petit Brize
+  id: 1c09c2d0-3968-4ad9-85d2-8602584f434f
 builder:
   name: Denis Campbell
   id: a4c27bff-bf22-4f29-8518-7bfba8a65bf2
@@ -17,37 +19,28 @@ place_built: Gloustershire
 construction_material: wood
 construction_method: unknown
 construction_details: Ply stitch and tape
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Kerry
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Denis Campbell
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0fdfd5af-4024-4ece-b5a4-517e1f45f524
-draft: 0
 handicap_data:
-  beam: 1.7282370153621067
+  thcf: 0.764427922
+  beam: 1.7282
+  fore_triangle_height: 3.9014874420872956
+  fore_triangle_base: 1.5240185320653499
+  length_over_all: 4.87685930260912
   main:
     foot: 2.386613021214338
     luff: 5.282248232138502
-  thcf: 0.764427922
   mizzen:
     foot: 1.1948305291392343
     luff: 3.453425993660083
-  length_over_all: 4.87685930260912
-  fore_triangle_base: 1.5240185320653499
   length_on_waterline: 3.9624481833699097
-  fore_triangle_height: 3.9014874420872956
-length_on_deck: 4.8768
-beam: 1.7282
-design_class:
-  name: Petit Brize
-  id: 1c09c2d0-3968-4ad9-85d2-8602584f434f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:32:42.167564+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

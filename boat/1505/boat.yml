@@ -3,7 +3,6 @@ oga_no: 1505
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: <p>Built with wide flat keel to suit being dragged over mud. Re-built
   1993-4 by Nigel Bishop and his brother Paul.</p>
 year: 1957
@@ -15,30 +14,23 @@ place_built: Paglesham
 construction_material: wood
 construction_method: unknown
 construction_details: Clench built on a 9 in wide keel, CB open punt
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- note: Owned in the 1980's by A.E. Hudson
+- start: 1980
+  note: Owned in the 1980's by A.E. Hudson
   text: Owned in the
-  start: 1980
-  start_is_approximate: false
-- id: 108
-  share: 64
+- member: 1918
+  id: 108
   start: 1993
-  member: 1918
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: f8106f57-c9f7-445a-9326-cff9797c4ed0
-draft: 0
 handicap_data:
-  beam: 1.9050231650816873
+  beam: 1.905
   length_over_all: 4.953060229212387
-length_on_deck: 4.953
-beam: 1.905
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.953
+created_at: '2020-04-25T17:06:00.297136+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

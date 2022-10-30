@@ -19,6 +19,9 @@ year_is_approximate: false
 designer:
   name: Ed Burnett/Nigel Irens
   id: 8f64ae6c-9f1b-46cc-b03d-d1f269ced762
+design_class:
+  name: Zinnia Class
+  id: 09bbc37c-fcba-42d8-89a5-c797c2cf23cc
 builder:
   name: Elephant Boatyard Ltd./Fred Kemp
   id: 258645b3-24e2-4aa3-bcac-6fbaf8e4343a
@@ -26,55 +29,43 @@ place_built: Bursledon
 construction_material: wood
 construction_method: unknown
 construction_details: Wood epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Keyhaven
 hull_form: long keel deep forefoot
 sail_number: '171'
 uk_part1: '901171'
-callsign: ''
 ownerships:
 - name: Sue Pople
-  share: 32
   start: 1998
+  share: 32
 - name: Ian Pople
-  share: 32
   start: 1998
-- id: 187
-  share: 64
-  member: 2779
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 32
 website: http://www.burnettyachtdesign.co.uk/010zinnia.html
 id: 6389f54d-c282-4b92-b153-448d713d40c1
 image_key: L25hx5
 thumb: https://photos.smugmug.com/photos/i-2JhbdG5/0/Th/i-2JhbdG5-Th.jpg
-draft: 1.6764
 handicap_data:
-  beam: 2.9687881004633017
+  thcf: 0.976
+  beam: 2.987
+  draft: 1.6764
+  fore_triangle_height: 10.14996342355523
+  fore_triangle_base: 5.800414533040722
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
+    blades: 2
+  sailarea: 61.748535335540545
   main:
     foot: 5.169470860765667
     head: 4.3404047793221165
     luff: 5.27005608388198
-  thcf: 0.976
-  draft: 1.6703243111436235
   topsail:
     luff: 6.528895391367959
     perpendicular: 2.1702023896610583
-  sailarea: 61.748535335540545
-  propellor:
-    type: fixed
-    blades: 2
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.800414533040722
   length_on_waterline: 8.180931480126798
-  fore_triangle_height: 10.14996342355523
-length_on_deck: 9.144
-beam: 2.987
-design_class:
-  name: Zinnia Class
-  id: 09bbc37c-fcba-42d8-89a5-c797c2cf23cc
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T18:37:35.191874+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

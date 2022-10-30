@@ -85,7 +85,7 @@ place_built: Horning
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel  Pensacola pitch pine on steamed oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Woodbridge
@@ -93,72 +93,67 @@ hull_form: long keel sloping forefoot
 sail_number: '894'
 ssr: '116810'
 uk_part1: '185678'
-callsign: ''
 ownerships:
-- end: 1947
-  name: H.J.Suffling
-  share: 64
+- name: H.J.Suffling
   start: 1930
-- end: 1967
-  name: W.H. Taylor
+  end: 1947
   share: 64
+- name: W.H. Taylor
   start: 1947
-- end: 1979
-  name: T Ward
+  end: 1967
   share: 64
+- name: T Ward
   start: 1967
-- end: 1985
-  name: J.D. Parfitt
+  end: 1979
   share: 64
+- name: J.D. Parfitt
   start: 1979
-- end: 1984
-  name: H Waklin
+  end: 1985
   share: 64
+- name: H Waklin
   start: 1983
-- end: 2014
-  name: Richard Gavin
+  end: 1984
   share: 64
+- name: Richard Gavin
   start: 1984
-- end: 2018
-  name: Nicholas Howells
+  end: 2014
   share: 64
+- name: Nicholas Howells
   start: 2014
-- id: 423
-  share: 32
+  end: 2018
+  share: 64
+- member: 4118
+  id: 1177
   start: 2018
-  member: 4292
-  current: true
-- id: 1177
   share: 32
-  start: 2018
-  member: 4118
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+- member: 4292
+  id: 423
+  start: 2018
+  share: 32
+  current: true
 id: 69d3c9eb-14f3-49d3-9329-eac1ce5a89a3
-previous_names:
-- Quest
-- Melody
 image_key: SKNVbt
 thumb: https://photos.smugmug.com/photos/i-ctwP6WZ/0/Th/i-ctwP6WZ-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.346988539380639
+  thcf: 0.903
+  beam: 2.3378
+  draft: 1.2192
+  fore_triangle_height: 6.583760058522312
+  fore_triangle_base: 3.9624481833699097
+  length_over_all: 7.010485247500609
+  sailarea: 34.65054505515055
   main:
     foot: 4.724457449402585
     head: 3.3528407705437697
     luff: 4.26725188978298
-  thcf: 0.903
-  draft: 1.21921482565228
   topsail:
     luff: 3.3528407705437697
     perpendicular: 1.6764203852718849
-  sailarea: 34.65054505515055
-  length_over_all: 7.010485247500609
-  fore_triangle_base: 3.9624481833699097
   length_on_waterline: 6.4008778346744695
-  fore_triangle_height: 6.583760058522312
-length_on_deck: 7.0104
-beam: 2.3378
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.0104
+created_at: '2020-04-25T16:55:52.708121+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Quest
+- Melody

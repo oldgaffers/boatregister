@@ -19,45 +19,37 @@ place_built: Littlehampton
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel. Pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
 uk_part1: '164876'
-callsign: ''
 ownerships:
-- note: Registered to Norman Aish in 1936 and he sold her in 1947 to Alfred Burt.
+- start: 1936
+  note: Registered to Norman Aish in 1936 and he sold her in 1947 to Alfred Burt.
   text: Registered to Norman Aish in
-  start: 1936
-  start_is_approximate: false
-- note: Unfortunately the register lapsed after she was sold in 1966.
+- start: 1966
+  note: Unfortunately the register lapsed after she was sold in 1966.
   text: Unfortunately the register lapsed after she was sold in
-  start: 1966
-  start_is_approximate: false
-- end: 2016
-  name: Ken Hogg
-  share: 64
+- name: Ken Hogg
   start: 1980
-- id: 926
+  end: 2016
   share: 64
+- member: 6097
+  id: 926
   start: 2016
-  member: 6097
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 769ea236-d3a4-498a-83e8-e4e146e4b6ca
-previous_names:
-- Big Fizzer
 image_key: mXxXTR
 thumb: https://photos.smugmug.com/photos/i-4GwC252/0/Th/i-4GwC252-Th.jpg
-draft: 0.6096
 handicap_data:
-  beam: 2.2098268714947573
-  draft: 0.60960741282614
+  beam: 2.2098
+  draft: 0.6096
   length_over_all: 7.162887100707144
   length_on_waterline: 6.653864910997317
-length_on_deck: 7.1628
-beam: 2.2098
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.1628
+created_at: '2020-04-25T16:58:15.422968+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Big Fizzer

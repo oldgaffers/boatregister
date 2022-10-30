@@ -43,78 +43,73 @@ place_built: Arnside
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel larch planking on sawn oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Conway
 hull_form: long keel sloping forefoot
 ssr: '141690'
-callsign: ''
 ownerships:
-- end: 1960
-  name: Baxter Family
-  share: 64
+- name: Baxter Family
   start: 1908
-- end: 1970
-  name: Clarkson Family
+  end: 1960
   share: 64
+- name: Clarkson Family
   start: 1960
-- end: 1973
-  name: Fred Crow
+  end: 1970
   share: 64
+- name: Fred Crow
   start: 1970
-- end: 1982
-  name: Joe Pendleton
+  end: 1973
   share: 64
+- name: Joe Pendleton
   start: 1973
-- end: 1994
-  name: Harry Bloomfield
+  end: 1982
   share: 64
+- name: Harry Bloomfield
   start: 1982
-- end: 2000
-  name: Mike Griffiths
+  end: 1994
   share: 64
+- name: Mike Griffiths
   start: 1994
-- end: 1994
-  name: Gwendoline Hall
+  end: 2000
   share: 64
+- name: Gwendoline Hall
   start: 1994
-- end: 2008
-  name: Dr Peter Favershame
+  end: 1994
   share: 64
+- name: Dr Peter Favershame
   start: 2000
-- id: 232
+  end: 2008
   share: 64
+- member: 3217
+  id: 232
   start: 2008
-  member: 3217
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: b2010b77-87ac-45c9-9ec6-7d58b9016431
-previous_names:
-- Natashquant
-- Ena-Jane
-- Thira lll.
 image_key: PjDC9r
 thumb: https://photos.smugmug.com/photos/i-CMwfHkn/0/Th/i-CMwfHkn-Th.jpg
-draft: 1.143
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.944
+  beam: 2.5908
+  draft: 1.143
+  fore_triangle_height: 7.924896366739819
+  fore_triangle_base: 5.18166300902219
+  length_over_all: 8.53450377956596
+  propellor:
+    type: fixed
+  sailarea: 38.203060225832395
   main:
     foot: 4.724469641550841
     head: 3.9624481833699097
     luff: 3.7338514996342353
-  thcf: 0.944
-  draft: 1.143032187271397
-  sailarea: 38.203060225832395
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
   length_over_spars: 10.972933430870519
-  fore_triangle_base: 5.18166300902219
   length_on_waterline: 7.924896366739819
-  fore_triangle_height: 7.924896366739819
-length_on_deck: 8.4826
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.4826
+created_at: '2020-04-25T17:00:06.452083+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Natashquant
+- Ena-Jane
+- Thira lll.

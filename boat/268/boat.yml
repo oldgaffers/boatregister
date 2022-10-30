@@ -44,6 +44,9 @@ year_is_approximate: false
 designer:
   name: Crossfield
   id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+design_class:
+  name: Rivers Class
+  id: 97d3b6f5-24ec-493a-8010-c0a283b96aa6
 builder:
   name: Wiliam Crossfield and Sons
   id: d02ef310-75b8-46ab-8c53-f17b72d64671
@@ -53,50 +56,42 @@ spar_material: wood
 construction_method: carvel
 construction_details: Carvel built with counter stern. Pitch pine planks and steamed
   American elm on English oak frame, larch keelson. Deck spruce on larch decking beams.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: '268'
-callsign: ''
 ownerships:
-- end: 2008
-  name: Jon Wainwright
-  share: 64
+- name: Jon Wainwright
   start: 1960
-- id: 1078
+  end: 2008
   share: 64
+- member: 6331
+  id: 1078
   start: 2019
-  member: 6331
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: https://tomcurtisboatbuilding.com/repair-and-restoration
 id: 911f6d16-68af-43c2-a765-ee6136f0ec3a
 image_key: 2gfds4
 thumb: https://photos.smugmug.com/photos/i-6GnKZTx/0/Th/i-6GnKZTx-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 2.2098268714947573
+  thcf: 0.876117272
+  beam: 2.2342
+  draft: 0.9144
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 4.57205559619605
+  length_over_all: 7.010485247500609
+  propellor:
+    type: fixed
   main:
     foot: 3.6576444769568397
     head: 3.6576444769568397
     luff: 3.6576444769568397
-  thcf: 0.876117272
-  draft: 0.9144111192392099
   topsail:
     luff: 3.3528407705437697
     perpendicular: 2.13362594489149
-  propellor:
-    type: fixed
-  length_over_all: 7.010485247500609
-  fore_triangle_base: 4.57205559619605
   length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 7.0104
-beam: 2.2342
-design_class:
-  name: Rivers Class
-  id: 97d3b6f5-24ec-493a-8010-c0a283b96aa6
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.0104
+created_at: '2020-04-25T16:46:20.659911+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

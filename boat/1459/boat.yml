@@ -35,72 +35,65 @@ place_built: Arnside
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel larch planking on sawn oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Barrow in Furness
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- end: 1951
-  name: John (Shiney) Mount
-  share: 64
+- name: John (Shiney) Mount
   start: 1935
-- note: '''Nora'' was in the ownership of D Edwards and A Richardson in the year 1952.'
+  end: 1951
+  share: 64
+- start: 1952
+  note: '''Nora'' was in the ownership of D Edwards and A Richardson in the year 1952.'
   text: '''Nora'' was in the ownership of D Edwards and A Richardson in the year'
-  start: 1952
-  start_is_approximate: false
-- end: 1964
-  name: R Palmer
-  share: 64
+- name: R Palmer
   start: 1962
-- note: Mr Brooks owned her until 1962.
+  end: 1964
+  share: 64
+- start: 1962
+  note: Mr Brooks owned her until 1962.
   text: Mr Brooks owned her until
-  start: 1962
-  start_is_approximate: false
-- end: 1966
-  name: R Birkitt
-  share: 64
+- name: R Birkitt
   start: 1964
-- end: 1976
-  name: D Braid
+  end: 1966
   share: 64
+- name: D Braid
   start: 1966
-- end: 1978
-  name: B Pearson
+  end: 1976
   share: 64
+- name: B Pearson
   start: 1976
-- id: 127
+  end: 1978
   share: 64
+- member: 2165
+  id: 127
   start: 1978
-  member: 2165
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 605324da-3111-4296-9474-772b4385701e
 nsbr: '660'
 image_key: 5hbvhQ
 thumb: https://photos.smugmug.com/photos/i-KxDhJdv/0/Th/i-KxDhJdv-Th.jpg
-draft: 1.143
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 1.006
+  beam: 2.7432
+  draft: 1.143
+  fore_triangle_height: 7.315288953913679
+  fore_triangle_base: 6.2484759814679345
+  length_over_all: 9.44891489880517
+  propellor:
+    type: fixed
+  sailarea: 62.85972560323188
   main:
     foot: 6.0960741282613995
     head: 5.18166300902219
     luff: 4.57205559619605
-  thcf: 1.006
-  draft: 1.1430138990490124
   topsail:
     luff: 6.4008778346744695
     perpendicular: 3.0480370641306997
-  sailarea: 62.85972560323188
-  propellor:
-    type: fixed
-  length_over_all: 9.44891489880517
-  fore_triangle_base: 6.2484759814679345
   length_on_waterline: 8.83930748597903
-  fore_triangle_height: 7.315288953913679
-length_on_deck: 9.4488
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.4488
+created_at: '2020-04-25T17:05:17.095486+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

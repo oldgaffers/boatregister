@@ -3,8 +3,6 @@ oga_no: 1526
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1905
 year_is_approximate: false
 designer:
@@ -17,28 +15,22 @@ place_built: London
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel N Zealand Kauri pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 145
-  share: 64
+- member: 2311
+  id: 145
   start: 2012
-  member: 2311
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 2e3dbdcf-4c5c-4d61-ad08-18db86122984
-draft: 1.2802
 handicap_data:
-  beam: 2.194586686174104
-  draft: 1.280175566934894
+  beam: 2.1946
+  draft: 1.2802
   length_over_all: 8.900268227261643
   length_on_waterline: 6.2484759814679345
-length_on_deck: 8.9002
-beam: 2.1946
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.9002
+created_at: '2020-04-25T17:06:19.497409+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

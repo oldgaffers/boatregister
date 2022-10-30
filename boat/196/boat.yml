@@ -36,44 +36,34 @@ construction_material: wood
 spar_material: wood
 construction_method: unknown
 construction_details: Pitch pine on oak, iron fastened. oregon pine deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bangor
 hull_form: long keel sloping forefoot
 uk_part1: '144196'
-callsign: ''
 ownerships:
-- end: 1950
-  name: Major Robert Workman
-  share: 64
+- name: Major Robert Workman
   start: 1931
-- note: From 1950 to 1967 she changed hands 3 times. She was bought by Stanley Reeves
+  end: 1950
+  share: 64
+- start: 1950
+  note: From 1950 to 1967 she changed hands 3 times. She was bought by Stanley Reeves
     in 1967 and he owned her until his death. John Pinkerton found her in Croatia
     and transported her back to the UK in !998.
   text: From
-  start: 1950
-  start_is_approximate: false
 - name: Stephen Clarkson
-  share: 64
   start: 2002
-- id: 34767
   share: 64
-  member: 6416
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: https://www.youtube.com/channel/UCZONPWPjwfo92wuz7eCERVA
 id: af8e516f-b4d3-4a80-b924-93990ad3fb30
 image_key: DRT6kS
 thumb: https://photos.smugmug.com/photos/i-x7WJRCb/0/Th/i-x7WJRCb-Th.jpg
-draft: 2.3165
 handicap_data:
-  beam: 3.5052426237503047
-  draft: 2.3165081687393316
+  beam: 3.5052
+  draft: 2.3165
   length_over_all: 14.782979761033893
   length_on_waterline: 11.582540843696659
-length_on_deck: 14.7828
-beam: 3.5052
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 14.7828
+created_at: '2020-04-25T16:45:18.170212+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 860
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Restored by previous owner  Owned in 1930 and 40's by T H Erskine
   of Whitehouse Belfast Log 72/1 - advert lying Alicante Spain - Known as Minnie then
   CB Oct 91 Sailed to USA 1960's when owned by Americans, Brought back by Reginald
@@ -21,41 +20,35 @@ place_built: Hamble
 construction_material: wood
 construction_method: double_diagonal
 construction_details: Original matrial sheathed in double diagonal cold moulded.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Poole
 hull_form: long keel deep forefoot
 reference:
 - Log 72/1
 - CB Oct 91
 - Log Mar 2002
-callsign: ''
 ownerships:
 - name: Roger Harris
-  share: 64
   start: 1995
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 6707c2bc-2ce2-4920-93b2-cd0d37753323
-previous_names:
-- Minnie
-draft: 1.524
 handicap_data:
-  beam: 3.0998536942209216
+  thcf: 0.966700313
+  beam: 3.0998
+  draft: 1.524
+  fore_triangle_height: 7.620092660326749
+  fore_triangle_base: 5.059741526456962
+  length_over_all: 9.500731528895392
+  propellor:
+    type: fixed
   main:
     foot: 6.6294806144842715
     head: 4.672640819312362
     luff: 4.825042672518897
-  thcf: 0.966700313
-  draft: 1.5240185320653499
-  propellor:
-    type: fixed
-  length_over_all: 9.500731528895392
-  fore_triangle_base: 5.059741526456962
   length_on_waterline: 9.1441111923921
-  fore_triangle_height: 7.620092660326749
-length_on_deck: 9.5006
-beam: 3.0998
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.5006
+created_at: '2020-04-25T16:55:22.179023+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Minnie

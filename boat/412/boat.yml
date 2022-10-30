@@ -18,52 +18,45 @@ place_built: Bamber Bridge
 construction_material: wood
 construction_method: unknown
 construction_details: Burma Teak on oak, Teak deck and deck works, long lead keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel sloping forefoot
 uk_part1: '166265'
-callsign: ''
 ownerships:
-- note: D. Grohmann owned her in the 1960's up to 1984 and kept her in Chichester.
+- start: 1960
+  note: D. Grohmann owned her in the 1960's up to 1984 and kept her in Chichester.
   text: D. Grohmann owned her in the
-  start: 1960
-  start_is_approximate: false
-- end: 2004
-  name: Pete Hatchett
-  share: 64
+- name: Pete Hatchett
   start: 1984
-- end: 2017
-  name: Dave Rendle
+  end: 2004
   share: 64
+- name: Dave Rendle
   start: 2004
-- id: 58
+  end: 2017
   share: 64
+- member: 1336
+  id: 58
   start: 2017
-  member: 1336
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 99d949ec-854e-4d7a-9837-fcb406b6708a
 image_key: RvXCbd
 thumb: https://photos.smugmug.com/photos/i-VqhD6HM/0/Th/i-VqhD6HM-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.869141143
+  beam: 2.1336
+  draft: 1.3716
+  fore_triangle_height: 6.4008778346744695
+  fore_triangle_base: 2.590831504511095
+  length_over_all: 6.5532796878810045
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 3.0480370641306997
     luff: 4.26725188978298
-  thcf: 0.869141143
-  draft: 1.3716166788588149
-  propellor:
-    type: fixed
-  length_over_all: 6.5532796878810045
-  fore_triangle_base: 2.590831504511095
   length_on_waterline: 5.7912704218483295
-  fore_triangle_height: 6.4008778346744695
-length_on_deck: 6.5532
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.5532
+created_at: '2020-04-25T16:48:35.366952+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -16,31 +16,24 @@ builder:
 place_built: Porthleven
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 uk_part1: '149260'
-callsign: ''
 ownerships:
-- note: Miss E.M. Weeding 1930's
+- start: 1930
+  note: Miss E.M. Weeding 1930's
   text: Miss E.M. Weeding
-  start: 1930
-  start_is_approximate: false
 - name: G P Naish
-  share: 64
   start: 1966
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ad19ab2c-0cda-4fff-9faf-a08ccfbfcc2f
-draft: 2.1946
 handicap_data:
-  beam: 3.5052426237503047
-  draft: 2.255547427456718
+  beam: 3.5052
+  draft: 2.1946
   length_over_all: 11.826383808827114
   length_on_waterline: 11.582540843696659
-length_on_deck: 11.8262
-beam: 3.5052
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.8262
+created_at: '2020-04-25T16:42:42.333501+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

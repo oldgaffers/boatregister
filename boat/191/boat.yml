@@ -5,7 +5,6 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Originally built in 1921 with 9&#39; overhanging bowsprit and
   boom 4&#39; beyond her stern, in 1923 the boom overhang was reduced to 2&#39;.&nbsp;</p>
-full_description: ''
 year: 1921
 year_is_approximate: false
 designer:
@@ -18,48 +17,39 @@ place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
 construction_details: ' Carvel, Pitch pine on oak'
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Keyhaven
 hull_form: unknown
 sail_number: B2
-callsign: ''
 ownerships:
-- end: 2017
-  name: Ben Collins
-  share: 64
+- name: Ben Collins
   start: 2006
-- name: Dick Durham
+  end: 2017
   share: 64
+- name: Dick Durham
   start: 2017
-- share: 64
-  member: 5847
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 9d13cf36-48bf-47d8-8326-fc3bbba68448
 image_key: M5Zj7f
 thumb: https://photos.smugmug.com/photos/i-LL7NVzV/0/Th/i-LL7NVzV-Th.jpg
-draft: 0.7864
 handicap_data:
-  beam: 2.560351133869788
+  thcf: 0.951198297
+  beam: 2.5664
+  draft: 0.7864
+  fore_triangle_height: 8.260180443794196
+  fore_triangle_base: 4.724457449402585
+  length_over_all: 7.681053401609363
   main:
     foot: 4.846378931967813
     head: 4.541575225554743
     luff: 4.998780785174347
-  thcf: 0.951198297
-  draft: 0.792489636673982
   topsail:
     luff: 4.57205559619605
     perpendicular: 2.194586686174104
   draft_keeldown: 1.4020970495001217
-  length_over_all: 7.681053401609363
-  fore_triangle_base: 4.724457449402585
   length_on_waterline: 7.315288953913679
-  fore_triangle_height: 8.260180443794196
-length_on_deck: 7.6718
-beam: 2.5664
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.6718
+created_at: '2020-04-25T17:47:32.43275+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

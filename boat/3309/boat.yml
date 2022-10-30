@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: Jezebel is a Crabber 17 built in 1998.
-full_description: ''
 year: 1998
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber 17
+  id: e39082bf-7bcc-411e-9a85-11229cd83151
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -18,51 +20,60 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 7500
+- created_at: '2020-02-04T13:09:22+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>After 12 active seasons in Cardiff Bay (2005 through 2017), we have
+    upsized to a Crabber 24 Mk1, thus "Jezebel", a Crabber 17, built 1998 is sadly
+    now surplus to requirements.</p><p>She is currently in a storage facility in East
+    Cardiff on her own road trailer.&nbsp;She has the original Mariner 5HP 2 stroke
+    outboard which has served me well.</p><p>Spars and sails all in good condition.&nbsp;Hull
+    would benefit from a polish!</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.951606+00:00'
 home_country: GBR
 home_port: Cardiff Bay
 hull_form: long keel deep forefoot
 sail_number: '65'
-callsign: ''
 ownerships:
-- end: 2005
-  name: Michael Keen
-  share: 64
+- name: Michael Keen
   start: 1998
-- end: 2018
-  name: Andrew Kelland
+  end: 2005
   share: 64
+- name: Andrew Kelland
   start: 2005
-- note: Sold August 2018 to Colin MacCorkell
+  end: 2018
+  share: 64
+- start: 2018
+  note: Sold August 2018 to Colin MacCorkell
   text: Sold August
-  start: 2018
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: a3c734c2-991e-473b-8709-e4a5cb402034
 image_key: jP8K9P
 thumb: https://photos.smugmug.com/photos/i-765hfmZ/0/Th/i-765hfmZ-Th.jpg
-draft: 0.4816
 handicap_data:
+  beam: 2.0574
+  draft: 0.4816
+  fore_triangle_height: 4.3038
+  fore_triangle_base: 1.3472
+  sailarea: 6
   main:
     foot: 11.21
     head: 9.67
     luff: 10.08
-  sailarea: 6
   moving_keel: true
   length_overall: 5.1816
   calculated_thcf: 0.797
   moving_keel_type: Centreboard
   length_over_spars: 6.096
-  fore_triangle_base: 1.3472
   length_on_waterline: 4.8768
-  fore_triangle_height: 4.3038
-length_on_deck: 5.1816
-beam: 2.0574
-design_class:
-  name: Cornish Crabber 17
-  id: e39082bf-7bcc-411e-9a85-11229cd83151
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1816
+created_at: '2020-04-25T17:48:55.151552+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

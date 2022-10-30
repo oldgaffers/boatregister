@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Sea Filly is a Norfolk Smuggler built in 1999</p>
-full_description: ''
 year: 1999
 year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+design_class:
+  name: Norfolk Smuggler
+  id: 1af0cf00-1de2-4a9c-8ce7-79e4afe2cf08
 builder:
   name: North Norfolk Boatbuilding Co./Charlie Ward
   id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
@@ -17,28 +19,22 @@ place_built: Norfolk
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Birdham Pool
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 960
-  share: 64
+- member: 6168
+  id: 960
   start: 2017
-  member: 6168
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 7e147d82-4bcd-48cb-ba2b-51eedea4c617
+created_at: '2020-04-25T17:51:25.54436+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Duty Free
-draft: 0
-length_on_deck: 7.62
-beam: 2.6914
-design_class:
-  name: Norfolk Smuggler
-  id: 1af0cf00-1de2-4a9c-8ce7-79e4afe2cf08
-for_sale_state:
-  text: not_for_sale
+handicap_data:
+  beam: 2.6914
+  length_on_deck: 7.62

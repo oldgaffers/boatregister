@@ -3,7 +3,6 @@ oga_no: 1248
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 89/4 as a schooner
 year: 1896
 year_is_approximate: false
@@ -17,34 +16,24 @@ place_built: Wivenhoe
 construction_material: steel
 construction_method: unknown
 construction_details: Riveted galvanised steel hull
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Poole
 hull_form: long keel deep forefoot
 reference:
 - Log 89/4
-callsign: ''
 ownerships:
 - name: Peter Wilkinson
-  share: 64
   start: 2012
-- share: 64
-  member: 3941
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 264bd401-90a6-4a02-aa08-1121025ef97c
-draft: 1.6764
 handicap_data:
-  beam: 3.0785174347720066
-  draft: 1.6764203852718849
+  beam: 3.0785
+  draft: 1.6764
+  length_over_all: 14.935381614240429
   propellor:
     type: fixed
-  length_over_all: 14.935381614240429
   length_on_waterline: 12.801755669348939
-length_on_deck: 14.9352
-beam: 3.0785
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 14.9352
+created_at: '2020-04-25T17:02:07.948125+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

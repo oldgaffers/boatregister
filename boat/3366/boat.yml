@@ -17,6 +17,9 @@ year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+design_class:
+  name: Morbic 12
+  id: 6aec3558-8f5a-47c2-8dd1-e7c63333aa55
 builder:
   name: Adrian Donovan
   id: 7b3ce111-52de-480e-89f9-c71ea9c9db23
@@ -25,35 +28,45 @@ construction_material: plywood
 construction_method: clinker_ply
 construction_details: glued clinker, ply with mahogany sheerstrake and fit out. Spruce
   spars.
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 5000
+- created_at: '2019-01-28T07:18:14+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>A lovely and much admired Morbic 12, built by Adrian Donovan to\
+    \ a Francois Vivier design. \"Cadfael\"&nbsp;is rigged with a single lug sail\
+    \ by James Lawrence, has a bespoke combi trailer, a cover and is in near perfect\
+    \ condition.</p><p>She was featured in WaterCraft No 104, as well as both Adrian\
+    \ and Francois\u2019 own sites.</p><p>She is only for sale because the blasted\
+    \ arthritis means I need a lighter boat.</p><p>Lying near Framlingham, Suffolk.\
+    \ &nbsp;</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.188153+00:00'
 home_country: GBR
 home_port: Framlingham
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2018
-  name: Marc Fovague-Davies
-  share: 64
+- name: Marc Fovague-Davies
   start: 2013
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2018
+  share: 64
 id: 9cb06e39-b6fe-493d-9810-03ede68c6fac
 image_key: fxr4gR
 thumb: https://photos.smugmug.com/photos/i-gpZDrr3/0/Th/i-gpZDrr3-Th.jpg
-draft: 0.1676
 handicap_data:
-  sailarea: 0
+  beam: 1.5484
+  draft: 0.1676
   moving_keel: true
   length_overall: 3.6698
   draft_keel_down: 0.7803
   moving_keel_type: Centreboard
   length_on_waterline: 3.3498
-length_on_deck: 3.6698
-beam: 1.5484
-design_class:
-  name: Morbic 12
-  id: 6aec3558-8f5a-47c2-8dd1-e7c63333aa55
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.6698
+created_at: '2020-04-25T17:51:15.232876+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 388
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 80/1, 82/1, 82/3 known as Wendy Previous owner 1989 -1996
 year: 1912
 year_is_approximate: false
@@ -18,44 +17,37 @@ construction_material: wood
 construction_method: carvel
 construction_details: Pitch pine carvel planking on oak bent frames, copper fastened,
   teak coamings and superstructure
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 80/1
 - Log 82/1
 - Log 82/3
-callsign: ''
 ownerships:
 - name: Forrest & Close
-  share: 64
   start: 1996
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ddadd73f-e8ce-4731-97c7-8336a2b32e80
-previous_names:
-- Wendy
-draft: 1.2192
 handicap_data:
-  beam: 2.3774689100219457
+  thcf: 0.939507347
+  beam: 2.3774
+  draft: 1.2192
+  fore_triangle_height: 6.705681541087539
+  fore_triangle_base: 4.26725188978298
+  length_over_all: 8.53450377956596
+  propellor:
+    type: fixed
   main:
     foot: 5.18166300902219
     head: 3.6576444769568397
     luff: 4.1453304072177515
-  thcf: 0.939507347
-  draft: 1.21921482565228
   topsail:
     luff: 4.26725188978298
     perpendicular: 2.7432333577176298
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 4.26725188978298
   length_on_waterline: 6.858083394294074
-  fore_triangle_height: 6.705681541087539
-length_on_deck: 8.5344
-beam: 2.3774
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T16:48:13.665605+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Wendy

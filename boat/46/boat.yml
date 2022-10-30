@@ -30,42 +30,37 @@ place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: West Mersea
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2012
-  name: David Green
-  share: 64
+- name: David Green
   start: 1966
-- name: Pinky Hughes
+  end: 2012
   share: 64
+- name: Pinky Hughes
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: f890c0ad-b637-493f-afc7-49dd686df92e
 image_key: 5pKzpc
 thumb: https://photos.smugmug.com/photos/i-9J9Khhz/0/Th/i-9J9Khhz-Th.jpg
-draft: 1.2954
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 1.041
+  beam: 2.8956
+  draft: 1.2954
+  fore_triangle_height: 8.83930748597903
+  fore_triangle_base: 7.620092660326749
+  length_over_all: 10.972933430870519
+  propellor:
+    type: fixed
+  sailarea: 73.85735982299205
   main:
     foot: 7.620092660326749
     head: 5.18166300902219
     luff: 5.4864667154352595
-  thcf: 1.041
-  draft: 1.2954157522555474
-  sailarea: 73.85735982299205
-  propellor:
-    type: fixed
-  length_over_all: 10.972933430870519
-  fore_triangle_base: 7.620092660326749
   length_on_waterline: 9.1441111923921
-  fore_triangle_height: 8.83930748597903
-length_on_deck: 10.9728
-beam: 2.8956
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.9728
+created_at: '2020-04-25T16:42:58.781487+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

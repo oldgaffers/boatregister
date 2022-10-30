@@ -14,36 +14,38 @@ year_is_approximate: false
 designer:
   name: Hope Linton
   id: f238ed22-175a-4b8c-9337-dc58c6619754
+design_class:
+  name: Broads One Design
+  id: 7820d442-c81d-4047-9058-307aba9d4034
 builder:
   name: Kingsley Farrington
   id: 6a3e9e9c-1eea-419a-9417-47a678d6bf11
 place_built: Norwich
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: cut_away_stem
 sail_number: '78'
-callsign: ''
 ownerships:
-- end: 2016
-  name: Mr M Carrington
-  share: 64
+- name: Mr M Carrington
   start: 2004
-- id: 504
+  end: 2016
   share: 64
+- member: 4754
+  id: 504
   start: 2016
-  member: 4754
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 70cbe1f9-6597-455e-b8a6-00921cd3878b
 image_key: 524FGh
 thumb: https://photos.smugmug.com/photos/i-8QLKxKG/0/Th/i-8QLKxKG-Th.jpg
-draft: 0.9144
 handicap_data:
+  beam: 1.524
+  draft: 0.9144
+  fore_triangle_height: 5.4346
+  fore_triangle_base: 2.1336
   main:
     foot: 17
     head: 10.92
@@ -51,13 +53,7 @@ handicap_data:
   length_overall: 7.3152
   calculated_thcf: 0.923
   length_over_spars: 7.3152
-  fore_triangle_base: 2.1336
   length_on_waterline: 4.8768
-  fore_triangle_height: 5.4346
-length_on_deck: 7.3152
-beam: 1.524
-design_class:
-  name: Broads One Design
-  id: 7820d442-c81d-4047-9058-307aba9d4034
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:49:59.044606+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

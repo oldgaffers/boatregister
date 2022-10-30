@@ -10,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Kenneth Gibbs
   id: 5b243224-d929-47d0-b39c-38eac950c2b3
+design_class:
+  name: YM Senior
+  id: e0d400bc-8ef0-45b9-a40b-c84d52d88608
 builder:
   name: Keith McIlwain
   id: 4238eca7-8214-4477-829e-09b788dbec9d
@@ -17,29 +20,29 @@ place_built: Backwell
 construction_material: plywood
 spar_material: wood
 construction_method: stitch_and_glue
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 hull_form: centre-boarder
 sail_number: '1801'
-ownerships: []
-updated_at: '2022-06-11T12:38:28.534389+00:00'
+ownerships:
+- member: 5893
+  id: 823
+  start: 2022
+  share: 64
+  current: true
 website: http://www.eventides.org.uk/senior.htm
 id: 9a99059d-667e-4b9b-9e04-da136f8b2070
 image_key: P9LMF3
 thumb: https://photos.smugmug.com/photos/i-GntRFD3/0/Th/i-GntRFD3-Th.jpg
-draft: 0.274
 handicap_data:
-  beam: 1.829
   thcf: 0.784
-  sailarea: 11.753
+  beam: 1.829
+  draft: 0.274
   propellor:
     type: none
+  sailarea: 11.753
   length_on_deck: 4.877
   length_on_waterline: 4.603
-length_on_deck: 4.877
-design_class:
-  name: YM Senior
-  id: e0d400bc-8ef0-45b9-a40b-c84d52d88608
-for_sale_state:
-  text: not_for_sale
+created_at: '2022-04-25T09:22:29.90229+00:00'
+updated_at: '2022-06-11T12:38:28.534389+00:00'

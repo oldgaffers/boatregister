@@ -38,71 +38,70 @@ place_built: Looe
 construction_material: wood
 construction_method: carvel
 construction_details: "Carvel, wood\r\n"
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Cowes
 hull_form: long keel deep forefoot
 uk_part1: '167782'
-callsign: ''
 ownerships:
-- end: 1915
-  name: Davenport
-  share: 64
+- name: Davenport
   start: 1905
-- end: 1919
-  name: George Fox
+  end: 1915
   share: 64
+- name: George Fox
   start: 1915
-- end: 1949
-  name: RC Taylor
+  end: 1919
   share: 64
+- name: RC Taylor
   start: 1919
-- end: 1958
-  name: Dr John Carlton Heal
+  end: 1949
   share: 64
+- name: Dr John Carlton Heal
   start: 1949
-- end: 1971
-  name: William Henry Arthur Weston
+  end: 1958
   share: 64
+- name: William Henry Arthur Weston
   start: 1958
-- end: 1973
-  name: Jack Hockaday
+  end: 1971
   share: 64
+- name: Jack Hockaday
   start: 1971
-- note: Jack Hockaday sold her to Dave Bryant of Falmouth in 1973. In the mid 1970's
+  end: 1973
+  share: 64
+- start: 1973
+  note: Jack Hockaday sold her to Dave Bryant of Falmouth in 1973. In the mid 1970's
     she was owned by the Galpin family.
   text: Jack Hockaday sold her to Dave Bryant of Falmouth in
-  start: 1973
-  start_is_approximate: false
-- end: 1986
-  name: Jim Curry
-  share: 64
+- name: Jim Curry
   start: 1979
-- note: Jim Curry sold her to an unknown buyer in 1986
+  end: 1986
+  share: 64
+- start: 1986
+  note: Jim Curry sold her to an unknown buyer in 1986
   text: Jim Curry sold her to an unknown buyer in
-  start: 1986
-  start_is_approximate: false
-- end: 2003
-  name: Dave and Anna Blinkhorn
-  share: 64
+- name: Dave and Anna Blinkhorn
   start: 1991
-- end: 2015
-  name: Graham and Sally Butler
+  end: 2003
   share: 64
+- name: Graham and Sally Butler
   start: 2003
-- id: 893
+  end: 2015
   share: 64
+- member: 6017
+  id: 893
   start: 2015
-  member: 6017
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 2c4ba110-12ce-47bd-b23e-94d4875e336c
 image_key: Q837Kj
 thumb: https://photos.smugmug.com/photos/i-pXzRTVx/0/Th/i-pXzRTVx-Th.jpg
-draft: 1.4508
 handicap_data:
+  beam: 2.7493
+  draft: 1.4508
+  fore_triangle_height: 8.0985
+  fore_triangle_base: 7.0013
+  sailarea: 4
   main:
     foot: 14.44
     head: 11.48
@@ -110,14 +109,10 @@ handicap_data:
   topsail:
     luff: 18.04
     perpendicular: 8.86
-  sailarea: 4
   length_overall: 8.699
   calculated_thcf: 0.969
   length_over_spars: 12.6004
-  fore_triangle_base: 7.0013
   length_on_waterline: 8.2997
-  fore_triangle_height: 8.0985
-length_on_deck: 8.699
-beam: 2.7493
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.699
+created_at: '2020-04-25T17:48:38.560234+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

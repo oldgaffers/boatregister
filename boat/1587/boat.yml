@@ -3,8 +3,6 @@ oga_no: 1587
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1913
 year_is_approximate: false
 builder:
@@ -14,38 +12,32 @@ place_built: Annan
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Haverigg
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: J R Turner
-  share: 64
   start: 1984
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: bc5c657e-4838-4cee-96b7-fb52ddb86a40
-draft: 1.2192
 handicap_data:
-  beam: 2.590831504511095
+  thcf: 0.921731598
+  beam: 2.5908
+  draft: 1.2192
+  fore_triangle_height: 4.623872226286271
+  fore_triangle_base: 4.319068519873201
+  length_over_all: 8.686905632772493
+  propellor:
+    type: fixed
   main:
     foot: 4.953060229212387
     head: 3.453425993660083
     luff: 3.5052426237503047
-  thcf: 0.921731598
-  draft: 1.21921482565228
   topsail:
     luff: 4.114850036576445
     perpendicular: 2.0574250182882223
-  propellor:
-    type: fixed
-  length_over_all: 8.686905632772493
-  fore_triangle_base: 4.319068519873201
   length_on_waterline: 8.205315776639845
-  fore_triangle_height: 4.623872226286271
-length_on_deck: 8.6868
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.6868
+created_at: '2020-04-25T17:07:14.718669+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

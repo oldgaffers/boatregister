@@ -34,44 +34,39 @@ place_built: Birkenhead
 construction_material: wood
 construction_method: unknown
 construction_details: Pitch pine on oak, Teak upper, long fin keel lead ballast keel.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Exeter
 hull_form: long keel deep forefoot
 sail_number: 357C
 uk_part1: Y124099
-callsign: ''
 ownerships:
-- id: 561
-  share: 64
+- member: 5018
+  id: 561
   start: 1971
-  member: 5018
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 2fba4b04-810a-4cb6-a392-5e21610609cc
 image_key: JM3Rft
 thumb: https://photos.smugmug.com/photos/i-w6dMmTR/0/Th/i-w6dMmTR-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.5146305779078273
+  thcf: 0.950685504
+  beam: 2.5146
+  draft: 1.2192
+  fore_triangle_height: 7.976712996830042
+  fore_triangle_base: 5.233479639112412
+  length_over_all: 9.119726895879054
+  propellor:
+    type: fixed
   main:
     foot: 5.081077785905877
     head: 3.7094611070470616
     luff: 3.6576444769568397
-  thcf: 0.950685504
-  draft: 1.21921482565228
   topsail:
     luff: 3.9624481833699097
     perpendicular: 2.13362594489149
-  propellor:
-    type: fixed
-  length_over_all: 9.119726895879054
-  fore_triangle_base: 5.233479639112412
   length_on_waterline: 7.315288953913679
-  fore_triangle_height: 7.976712996830042
-length_on_deck: 9.1196
-beam: 2.5146
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.1196
+created_at: '2020-04-25T16:47:45.460448+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 2829
 generic_type: unknown
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1980
 year_is_approximate: false
 designer:
@@ -16,45 +14,38 @@ builder:
 construction_material: wood
 construction_method: unknown
 construction_details: Cavel, Larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Tim Wilson
-  share: 64
   start: 2006
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 26a1e7ab-b9f3-4036-bf30-828be901a198
-draft: 1.8989
 handicap_data:
-  beam: 3.800902218970983
+  thcf: 0.947611806
+  beam: 3.8009
+  draft: 1.8989
+  fore_triangle_height: 10.899780541331381
+  fore_triangle_base: 5.800414533040722
+  length_over_all: 11.801999512314069
+  propellor:
+    type: fixed
   main:
     foot: 5.001828822238478
     head: 4.700073152889539
     luff: 5.900999756157034
-  thcf: 0.947611806
-  draft: 1.898927090953426
+  topsail:
+    luff: 3.401609363569861
+    perpendicular: 2.9992684711046085
   mizzen:
     foot: 3.5997317727383566
     head: 3.3528407705437697
     luff: 4.700073152889539
-  topsail:
-    luff: 3.401609363569861
-    perpendicular: 2.9992684711046085
-  propellor:
-    type: fixed
   mizzen_topsail:
     luff: 2.648744208729578
     perpendicular: 2.200682760302365
-  length_over_all: 11.801999512314069
-  fore_triangle_base: 5.800414533040722
   length_on_waterline: 10.500487685930262
-  fore_triangle_height: 10.899780541331381
-length_on_deck: 11.8019
-beam: 3.8009
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.8019
+created_at: '2020-04-25T17:28:17.425127+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -19,51 +19,39 @@ place_built: Warsash
 construction_material: wood
 construction_method: unknown
 construction_details: Larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Lochranza, Isle of Arran
 hull_form: long keel deep forefoot
 uk_part1: '183573'
-callsign: ''
 ownerships:
 - note: 'Previous owners:'
   text: 'Previous owners:'
-- note: M Challis 1971
+- start: 1971
+  note: M Challis 1971
   text: M Challis
-  start: 1971
-  start_is_approximate: false
-- note: H Wilson 1972
+- start: 1972
+  note: H Wilson 1972
   text: H Wilson
-  start: 1972
-  start_is_approximate: false
-- note: J F Shaw 1978
+- start: 1978
+  note: J F Shaw 1978
   text: J F Shaw
-  start: 1978
-  start_is_approximate: false
-- end: 2017
-  name: Douglas Barker
-  share: 64
+- name: Douglas Barker
   start: 1985
+  end: 2017
+  share: 64
 - name: Douglas Cook
-  share: 64
   start: 2017
-- id: 968
   share: 64
-  member: 6182
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 7ca4ed3a-91bb-4b22-afa3-025b79ab2722
 image_key: dX2Brs
 thumb: https://photos.smugmug.com/photos/i-PbmHjBg/0/Th/i-PbmHjBg-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.43842965130456
+  beam: 2.5146
+  draft: 1.3716
   length_over_all: 6.4008778346744695
   length_on_waterline: 6.4008778346744695
-length_on_deck: 6.4008
-beam: 2.5146
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4008
+created_at: '2020-04-25T16:46:44.747035+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

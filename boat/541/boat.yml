@@ -3,7 +3,6 @@ oga_no: 541
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 80/3, 84/2, 85/4, 88/2, 89/3, A-W/95
 year: 1912
 year_is_approximate: false
@@ -18,10 +17,8 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak frames with teak cockpit and skylight
   - laid up in the creek at the Elephant Boatyard for many years (2010)
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 80/3
@@ -31,23 +28,18 @@ reference:
 - Log 89/3
 - Log A-W/95
 uk_part1: '389720'
-callsign: ''
 ownerships:
 - name: J Gulliver
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 72309a2d-03ff-4288-be9a-966913f2122c
-previous_names:
-- Laura II
-draft: 1.4326
 handicap_data:
-  beam: 2.682272616435016
-  draft: 1.432577420141429
+  beam: 2.6822
+  draft: 1.4326
   length_over_all: 7.681053401609363
   length_on_waterline: 7.315288953913679
-length_on_deck: 7.681
-beam: 2.6822
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.681
+created_at: '2020-04-25T16:50:32.393454+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Laura II

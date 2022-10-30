@@ -26,45 +26,59 @@ place_built: Rowhedge
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Glued clinker ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 12500
+- created_at: '2018-01-08T12:22:30+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: "<p>Designed and built by Fabian Bush, 2002, `Poppy\u2019 is a unique\
+    \ modern wooden classic. The details of her design, construction and finish emulate\
+    \ the Victorian sailing canoes popular over 100 years ago. At the same time she\
+    \ gains the advantages of modern plywood construction to give a wooden boat suitable\
+    \ for trailer sailing. She was built with especial care for robustness and durability\
+    \ and she can be maintained with comparative ease. In good condition, lightly\
+    \ used, with trailer, o/board, new cover, fenders, etc. Location: Queen Anne\u2019\
+    s Battery Marina, Plymouth.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: "<p>Designed and built by Fabian Bush, 2002, `Poppy\u2019 is a unique modern\
+    \ wooden classic.</p>"
+  updated_at: '2020-05-03T10:13:13.477457+00:00'
 home_country: GBR
 home_port: Queen Anne's Battery Marina, Plymouth
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2016
-  name: Francis Frost
-  share: 64
+- name: Francis Frost
   start: 2002
-- id: 332
+  end: 2016
   share: 64
+- member: 3831
+  id: 332
   start: 2016
-  member: 3831
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 14696da8-69bc-4b4b-869d-84527d03cb97
 image_key: kQHmVR
 thumb: https://photos.smugmug.com/photos/i-S4pTxqF/0/Th/i-S4pTxqF-Th.jpg
-draft: 0.2286
 handicap_data:
-  beam: 1.9812240916849548
+  thcf: 0.805652071
+  beam: 1.9812
+  draft: 0.2286
+  fore_triangle_height: 3.6576444769568397
+  fore_triangle_base: 1.21921482565228
+  length_over_all: 6.4008778346744695
   main:
     foot: 2.43842965130456
     head: 2.43842965130456
     luff: 2.286027798098025
-  thcf: 0.805652071
-  draft: 0.22860277980980248
   mizzen:
     foot: 1.6764203852718849
     luff: 3.2004389173372347
-  length_over_all: 6.4008778346744695
-  fore_triangle_base: 1.21921482565228
   length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 3.6576444769568397
-length_on_deck: 6.4008
-beam: 1.9812
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4008
+created_at: '2020-04-25T17:22:35.729076+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

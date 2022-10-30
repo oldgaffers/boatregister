@@ -31,10 +31,8 @@ builder:
 place_built: Southampton
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - CB Aug 90
@@ -45,38 +43,34 @@ uk_part1: '109275'
 callsign: ' MRXF, ZNKG5'
 ownerships:
 - name: D Cook
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 006b3466-c4c7-4351-99fe-ba5b98e5234c
-previous_names:
-- Samphire
-- Wayward
 mssi: '235021661'
-draft: 2.5908
 handicap_data:
-  beam: 3.3528407705437697
+  thcf: 1.182300846
+  beam: 3.3528
+  draft: 2.5908
+  fore_triangle_height: 16.45940014630578
+  fore_triangle_base: 8.153499146549622
+  length_over_all: 15.240185320653499
+  propellor:
+    type: fixed
   main:
     foot: 7.315288953913679
     head: 5.7912704218483295
     luff: 6.705681541087539
-  thcf: 1.182300846
-  draft: 2.590831504511095
-  mizzen:
-    foot: 2.43842965130456
-    luff: 6.0960741282613995
   topsail:
     luff: 7.315288953913679
     perpendicular: 3.8100463301633747
-  propellor:
-    type: fixed
-  length_over_all: 15.240185320653499
-  fore_triangle_base: 8.153499146549622
+  mizzen:
+    foot: 2.43842965130456
+    luff: 6.0960741282613995
   length_on_waterline: 12.496951962935869
-  fore_triangle_height: 16.45940014630578
+  length_on_deck: 15.24
+created_at: '2020-04-25T17:38:30.363179+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 launched: '1998-04-01'
-length_on_deck: 15.24
-beam: 3.3528
-for_sale_state:
-  text: not_for_sale
+previous_names:
+- Samphire
+- Wayward

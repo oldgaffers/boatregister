@@ -3,8 +3,6 @@ oga_no: 1565
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
-full_description: ''
 year: 1953
 year_is_approximate: false
 builder:
@@ -14,35 +12,29 @@ place_built: Salcombe
 construction_material: wood
 construction_method: clinker
 construction_details: Mahogany clinker on oak ribs
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Gibralter
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: C Heath
-  share: 64
   start: 1977
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a5830cd2-0e59-458f-9c86-891530f7fbde
-draft: 0.6096
 handicap_data:
-  beam: 1.9812240916849548
+  thcf: 0.788047855
+  beam: 1.9812
+  draft: 0.6096
+  fore_triangle_height: 4.724457449402585
+  fore_triangle_base: 1.8593026091197267
+  length_over_all: 4.968300414533041
+  propellor:
+    type: fixed
   main:
     foot: 3.6576444769568397
     head: 3.6881248475981465
     luff: 1.493538161424043
-  thcf: 0.788047855
-  draft: 0.60960741282614
-  propellor:
-    type: fixed
-  length_over_all: 4.968300414533041
-  fore_triangle_base: 1.8593026091197267
   length_on_waterline: 4.937820043891733
-  fore_triangle_height: 4.724457449402585
-length_on_deck: 4.9682
-beam: 1.9812
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.9682
+created_at: '2020-04-25T17:06:54.157873+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

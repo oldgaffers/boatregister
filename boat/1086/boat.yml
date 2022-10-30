@@ -3,7 +3,6 @@ oga_no: 1086
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Log 87/2, 91/2, 92/1, 92/3, S-A/94
 year: 1971
 year_is_approximate: false
@@ -14,10 +13,8 @@ place_built: Maldon
 construction_material: wood
 construction_method: clinker
 construction_details: Mahogany on oak clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 87/2
@@ -25,28 +22,23 @@ reference:
 - Log 92/1
 - Log 92/3
 - Log S-A/94
-callsign: ''
 ownerships:
 - name: Simper.
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: dd7ea107-1711-4f36-8b69-f1647a095d28
-draft: 0.2743
 handicap_data:
-  beam: 1.8806388685686417
+  thcf: 0.788232511
+  beam: 1.8806
+  draft: 0.2743
+  fore_triangle_height: 4.57205559619605
+  fore_triangle_base: 1.8288222384784198
+  length_over_all: 4.57205559619605
   main:
     foot: 3.453425993660083
     head: 2.9474518410143866
     luff: 2.843818580833943
-  thcf: 0.788232511
-  draft: 0.274323335771763
-  length_over_all: 4.57205559619605
-  fore_triangle_base: 1.8288222384784198
   length_on_waterline: 4.26725188978298
-  fore_triangle_height: 4.57205559619605
-length_on_deck: 4.572
-beam: 1.8806
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.572
+created_at: '2020-04-25T16:59:39.147493+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 2696
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: See website traditionalcharter.co.uk.  Hull based on Naval Cutter
   C 1790.  She is used for film and TV, cruising and chartering. She also sails with
   a cutter rig. She is based in Maldon and usually sails the East Coast from Southwold
@@ -21,43 +20,37 @@ place_built: Maylandsea/Maldon
 construction_material: wood
 construction_method: double_diagonal
 construction_details: Larch and mahogany double diagonal
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Maldon
 hull_form: long keel deep forefoot
 sail_number: '13'
 ssr: '97759'
-callsign: ''
 ownerships:
 - name: Michael R C Emmett
-  share: 64
   start: 1999
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 8352fb60-3892-4881-aaa3-2913df3bc0c8
-draft: 1.905
 handicap_data:
-  beam: 4.57205559619605
+  thcf: 1.102095419
+  beam: 4.572
+  draft: 1.905
+  fore_triangle_height: 12.192148256522799
+  fore_triangle_base: 10.36332601804438
+  length_over_all: 14.72201901975128
+  propellor:
+    type: fixed
   main:
     foot: 4.87685930260912
     head: 6.0960741282613995
     luff: 7.010485247500609
-  thcf: 1.102095419
-  draft: 1.9050231650816873
-  mizzen:
-    foot: 2.590831504511095
-    luff: 8.83930748597903
   topsail:
     luff: 7.924896366739819
     perpendicular: 3.8100463301633747
-  propellor:
-    type: fixed
-  length_over_all: 14.72201901975128
-  fore_triangle_base: 10.36332601804438
+  mizzen:
+    foot: 2.590831504511095
+    luff: 8.83930748597903
   length_on_waterline: 14.020970495001219
-  fore_triangle_height: 12.192148256522799
-length_on_deck: 14.7218
-beam: 4.572
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 14.7218
+created_at: '2020-04-25T17:25:10.524676+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

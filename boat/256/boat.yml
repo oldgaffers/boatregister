@@ -28,33 +28,28 @@ builder:
 place_built: Brightlingsea
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Maldon
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: W Shawcross
-  share: 64
   start: 1985
-- id: 343
   share: 64
+- member: 3874
+  id: 343
   start: 2000
-  member: 3874
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fade3fcc-994b-4db2-9df4-cdb28fa49692
 image_key: TfhxbS
 thumb: https://photos.smugmug.com/photos/i-zwLKtMK/0/Th/i-zwLKtMK-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.5240185320653499
+  beam: 2.7432
+  draft: 1.524
   length_over_all: 10.05852231163131
   length_on_waterline: 8.22970007315289
-length_on_deck: 10.0584
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.0584
+created_at: '2020-04-25T16:46:11.024195+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

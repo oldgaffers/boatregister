@@ -3,7 +3,6 @@ oga_no: 2356
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Sold Jan 2008
 year: 1975
 year_is_approximate: false
@@ -17,33 +16,27 @@ place_built: Liverpool
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP, timber spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hamble
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Geoff Booth
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: b9467c20-e9da-45d4-aac0-b9a1e02eef04
-draft: 0.5334
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.861283286
+  beam: 2.1336
+  draft: 0.5334
+  fore_triangle_height: 5.6388685686417945
+  fore_triangle_base: 2.8194342843208973
+  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  thcf: 0.861283286
-  draft: 0.5334064862228725
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 2.8194342843208973
   length_on_waterline: 5.690685198732017
-  fore_triangle_height: 5.6388685686417945
-length_on_deck: 5.7912
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:18:50.881812+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

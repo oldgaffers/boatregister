@@ -13,6 +13,9 @@ year_is_approximate: false
 designer:
   name: Nathaniel Herreshoff
   id: 8123cc79-2c83-4a39-8f6c-a249fbe4658c
+design_class:
+  name: 1/2 rater
+  id: 81a22c1f-762e-4acd-8fe8-b87be71c8c39
 builder:
   name: Tino Rawnsley
   id: 530ff9c2-051f-4d7d-b9e9-df54e2bccc98
@@ -21,45 +24,37 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel, Strip planking in oak and yellow cedar - painted with
   yellow cedar deck over ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: 'Rochester '
 hull_form: unknown
 sail_number: H4
 ssr: '86998'
-callsign: ''
 ownerships:
-- id: 700
-  share: 64
+- member: 5634
+  id: 700
   start: 2000
-  member: 5634
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 15a855cf-fa7a-4459-bd4b-eeb3c55a6ba3
-previous_names:
-- Miss Winifred
 image_key: k6GQnj
 thumb: https://photos.smugmug.com/photos/i-b6ccXVN/0/Th/i-b6ccXVN-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 1.3716166788588149
+  thcf: 0.904
+  beam: 1.3716
+  draft: 0.9144
+  fore_triangle_height: 4.724457449402585
+  fore_triangle_base: 1.8288222384784198
+  length_over_all: 7.263472323823457
+  sailarea: 17.624178279589955
   main:
     foot: 4.57205559619605
     head: 2.7950499878078516
     luff: 2.8194342843208973
-  thcf: 0.904
-  draft: 0.9144111192392099
-  sailarea: 17.624178279589955
-  length_over_all: 7.263472323823457
-  fore_triangle_base: 1.8288222384784198
   length_on_waterline: 4.87685930260912
-  fore_triangle_height: 4.724457449402585
-length_on_deck: 7.2542
-beam: 1.3716
-design_class:
-  name: 1/2 rater
-  id: 81a22c1f-762e-4acd-8fe8-b87be71c8c39
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.2542
+created_at: '2020-04-25T17:33:21.186896+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Miss Winifred

@@ -19,6 +19,9 @@ year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+design_class:
+  name: Clovelly Picarooner
+  id: 11aace65-18e9-4ec8-b204-763199e59f90
 builder:
   name: Martin Heard
   id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
@@ -26,35 +29,27 @@ place_built: Mylor
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: CP 6
-callsign: ''
 ownerships:
-- end: 2014
+- start: 2013
+  end: 2014
   note: First owner David Sexton 2013-4
   text: First owner David Sexton
-  start: 2013
-  end_is_approximate: false
-  start_is_approximate: false
 - name: Malcom Goram
-  share: 64
   start: 2014
-- id: 574
   share: 64
-  member: 5074
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 504243bd-e0ce-462e-ad55-0eac5c1aba67
 image_key: kwqT5T
 thumb: https://photos.smugmug.com/photos/i-KQN8vr5/0/Th/i-KQN8vr5-Th.jpg
-draft: 0.3048
 handicap_data:
+  beam: 1.8288
+  draft: 0.3048
+  fore_triangle_height: 4.0386
+  fore_triangle_base: 2.2342
   main:
     foot: 10.33
     head: 8.42
@@ -65,13 +60,7 @@ handicap_data:
   draft_keel_down: 0.9144
   moving_keel_type: Centreboard
   length_over_spars: 5.4864
-  fore_triangle_base: 2.2342
   length_on_waterline: 4.4714
-  fore_triangle_height: 4.0386
-length_on_deck: 4.7244
-beam: 1.8288
-design_class:
-  name: Clovelly Picarooner
-  id: 11aace65-18e9-4ec8-b204-763199e59f90
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.7244
+created_at: '2020-04-25T17:47:23.133152+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

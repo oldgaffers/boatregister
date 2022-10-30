@@ -20,32 +20,29 @@ construction_material: steel
 spar_material: wood
 construction_method: unknown
 construction_details: Steel, round bottomed.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Chelsea Harbour
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - note: 'Original owners G and V Bakker '
   text: Original owners G and V Bakker
-- id: 34810
-  share: 64
+- member: 6111
+  id: 34810
   start: 2013
-  member: 6111
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 1840b63b-7ab0-4b61-92f8-0193dee0080d
 image_key: mtXhFt
 thumb: https://photos.smugmug.com/photos/i-snJwXk6/0/Th/i-snJwXk6-Th.jpg
-draft: 1.8014
 handicap_data:
+  beam: 5.4986
+  draft: 1.8014
   moving_keel: true
   length_overall: 18.0015
   moving_keel_type: Leeboard
   length_on_waterline: 17.6083
-length_on_deck: 18.0015
-beam: 5.4986
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 18.0015
+created_at: '2020-04-25T17:51:12.859429+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,38 +3,30 @@ oga_no: 1154
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Owns Hapara
 year: 1983
 year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: N S C Broggio
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fe485495-de57-4d2f-9945-9793b02ea108
-draft: 0
 handicap_data:
-  beam: 2.0117044623262617
+  thcf: 0.723139591
+  beam: 2.0117
+  fore_triangle_height: 2.43842965130456
+  fore_triangle_base: 1.3960009753718605
+  length_over_all: 4.57205559619605
   main:
     foot: 2.2098268714947573
     head: 1.5240185320653499
     luff: 1.8288222384784198
-  thcf: 0.723139591
-  length_over_all: 4.57205559619605
-  fore_triangle_base: 1.3960009753718605
   length_on_waterline: 4.495854669592782
-  fore_triangle_height: 2.43842965130456
-length_on_deck: 4.572
-beam: 2.0117
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.572
+created_at: '2020-04-25T17:00:40.889874+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -5,42 +5,36 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Built in 1946, &#39;Mignonette&#39; is a Maurice Griffiths Lone
   Gull design and has been restored by Professor Mark Horton.</p>
-full_description: ''
 year: 1948
 year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+design_class:
+  name: Lone Gull
+  id: dd0df801-d86e-481e-83ed-ca5764e87849
 place_built: Leigh on Sea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Honduras mahogany on grown oak, pitch pine decks
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Lydney
 hull_form: unknown
 ssr: '5572'
-callsign: ''
 ownerships:
 - name: Mark Horton
-  share: 64
   start: 1985
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fd333172-fc62-4fa2-9c36-6b6a541432ab
 image_key: PZBfTt
 thumb: https://photos.smugmug.com/photos/i-KzXjnXc/0/Th/i-KzXjnXc-Th.jpg
-draft: 1.8288
 handicap_data:
-  beam: 3.0480370641306997
-  draft: 1.8288222384784198
+  beam: 3.048
+  draft: 1.8288
   length_over_all: 8.53450377956596
   length_on_waterline: 7.772494513533284
-length_on_deck: 8.5344
-beam: 3.048
-design_class:
-  name: Lone Gull
-  id: dd0df801-d86e-481e-83ed-ca5764e87849
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T16:54:42.968505+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

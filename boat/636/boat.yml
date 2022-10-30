@@ -16,46 +16,39 @@ place_built: Looe
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch Pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hamble
 hull_form: long keel sloping forefoot
 ssr: '60537'
 uk_part1: '185909'
-callsign: ''
 ownerships:
-- note: '1989: listed for sale by French OGA member C. Ladcuese, lying Binic, Brittany.'
+- start: 1989
+  note: '1989: listed for sale by French OGA member C. Ladcuese, lying Binic, Brittany.'
   text: ': listed for sale by French OGA member C. Ladcuese, lying Binic, Brittany.'
-  start: 1989
-  start_is_approximate: false
 - name: Tim Cropley
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 2f51e50a-d83a-4fee-80c2-2c2ac5ad4b4c
-previous_names:
-- Mariner-A
-- Marie-Julie
 image_key: CLLr8P
 thumb: https://photos.smugmug.com/photos/i-7NTGs32/0/Th/i-7NTGs32-Th.jpg
-draft: 1.6764
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 1.020166532
+  beam: 2.8956
+  draft: 1.6764
+  fore_triangle_height: 9.997561570348694
+  fore_triangle_base: 7.498171177761522
+  length_over_all: 9.692757863935626
+  propellor:
+    type: folding
   main:
     foot: 5.998536942209217
     head: 4.498902706656913
     luff: 5.4864667154352595
-  thcf: 1.020166532
-  draft: 1.6764203852718849
-  propellor:
-    type: folding
-  length_over_all: 9.692757863935626
-  fore_triangle_base: 7.498171177761522
   length_on_waterline: 9.49768349183126
-  fore_triangle_height: 9.997561570348694
-length_on_deck: 9.6926
-beam: 2.8956
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.6926
+created_at: '2020-04-25T16:52:00.114532+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Mariner-A
+- Marie-Julie

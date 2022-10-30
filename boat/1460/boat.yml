@@ -14,46 +14,41 @@ full_description: "<p>&#39;Peerie Maa&#39; had a sliding gunter with boom using 
   \ Shetland practice. Also uses shorter mast and standing lug, boomless main.</p>"
 year: 1930
 year_is_approximate: false
+design_class:
+  name: Whilly Boat
+  id: 4dc91198-fe94-478e-83b6-3c5e6121fbd5
 place_built: Shetland
 construction_material: wood
 construction_method: unknown
 construction_details: Clench (probably larch) on sawn frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Barrow in Furness
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 127
-  share: 64
+- member: 2165
+  id: 127
   start: 1985
-  member: 2165
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: bd41bd87-2873-458a-87a2-ffb0e9164172
 nsbr: '662'
 image_key: wbx2rf
 thumb: https://photos.smugmug.com/photos/i-QhK4TvZ/0/Th/i-QhK4TvZ-Th.jpg
-draft: 0.3566
 handicap_data:
-  beam: 1.624603755181663
+  thcf: 0.827
+  beam: 1.6246
+  draft: 0.3566
+  fore_triangle_height: 4.596439892709095
+  fore_triangle_base: 1.777005608388198
+  length_over_all: 5.562667642038527
+  sailarea: 14.509288172631953
   main:
     foot: 3.1242379907339672
     head: 3.3772250670568154
     luff: 2.6426481346013166
-  thcf: 0.827
-  draft: 0.35662033650329183
-  sailarea: 14.509288172631953
-  length_over_all: 5.562667642038527
-  fore_triangle_base: 1.777005608388198
   length_on_waterline: 4.672640819312362
-  fore_triangle_height: 4.596439892709095
-length_on_deck: 5.5626
-beam: 1.6246
-design_class:
-  name: Whilly Boat
-  id: 4dc91198-fe94-478e-83b6-3c5e6121fbd5
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.5626
+created_at: '2020-04-25T17:05:18.465462+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

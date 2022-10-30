@@ -19,39 +19,29 @@ place_built: Leigh on Sea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Martlesham, River Deben
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Nigel Foden
-  share: 64
   start: 2001
-- id: 363
   share: 64
-  member: 4000
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 6089841e-28b0-4e2c-90e6-f3ba6cdc21a6
-draft: 0.7376
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.868896119
+  beam: 2.4384
+  draft: 0.7376
+  fore_triangle_height: 10.05852231163131
+  fore_triangle_base: 1.21921482565228
+  length_over_all: 7.443306510607169
+  propellor:
+    type: fixed
   main:
     foot: 4.1453304072177515
     luff: 9.601316752011703
-  thcf: 0.868896119
-  draft: 0.7376249695196293
-  propellor:
-    type: fixed
-  length_over_all: 7.443306510607169
-  fore_triangle_base: 1.21921482565228
   length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 10.05852231163131
-length_on_deck: 7.4432
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.4432
+created_at: '2020-04-25T17:41:51.719478+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

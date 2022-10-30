@@ -25,12 +25,13 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP, Mahogany fit out
+selling_status: for_sale
 for_sales:
-- asking_price: 3950
-  created_at: '2016-04-18T01:54:43+00:00'
+- created_at: '2016-04-18T01:54:43+00:00'
   flexibility: normal
-  id: e85eacab-5b8e-4acc-b30f-a3eb59dbfa5a
   offered: null
+  price_flexibility:
+    text: normal
   reduced: false
   sales_text: "<p>Padstow lugger, 14\u20198\" black GRP hull, beam 5\u20194\". Mahogany\
     \ fit-out. Douglas fir masts/spars. Full inventory included in sale.</p>"
@@ -41,13 +42,11 @@ for_sales:
     \ Mahogany fit-out. Douglas fir masts/spars. Full inventory included in sale.\
     \ Stored East Suffolk, will deliver at cost if required.</p>"
   updated_at: '2020-05-03T10:13:13.291769+00:00'
+- created_at: '2022-10-24T06:58:29.875351+00:00'
+  flexibility: normal
+  offered: '2022-10-24'
   price_flexibility:
     text: normal
-- asking_price: 3500
-  created_at: '2022-10-24T06:58:29.875351+00:00'
-  flexibility: normal
-  id: 0c30ed0c-a7c5-426b-837b-ae4afcc75b16
-  offered: '2022-10-24'
   reduced: false
   sales_text: <p><span style="font-family:sans-serif; font-size:14pt">Padstow Lugger
     Day boat. 15&rsquo; on deck 22&rsquo; over spars. GRP hull with teak gunwhales.
@@ -64,56 +63,46 @@ for_sales:
   sold: null
   summary: null
   updated_at: '2022-10-24T06:58:29.875351+00:00'
-  price_flexibility:
-    text: normal
 home_country: GBR
-home_port: ''
 hull_form: centre-boarder
-callsign: ''
 ownerships:
-- share: 64
+- name: Rob Rose
   start: 2012
-  name: Rob Rose
   end: 2016
-- share: 32
-  start: 2016
-  current: true
+  share: 64
+- member: 5004
   id: 1219
-  member: 5004
-- share: 32
   start: 2016
+  share: 32
   current: true
+- member: 5004
   id: 559
-  member: 5004
-updated_at: '2022-10-29T18:53:35.257505+00:00'
-website: ''
+  start: 2016
+  share: 32
+  current: true
 id: 4ddf5021-2268-4729-8ccd-8d22d1084bc4
 image_key: pPjc3c
 thumb: https://photos.smugmug.com/photos/i-kRcwNKB/0/Th/i-kRcwNKB-Th.jpg
-draft: 0.61
 handicap_data:
-  mizzen_topsail: {}
+  thcf: 0.766
+  beam: 1.6246
+  draft: 0.61
   fore_triangle_height: 2.438
   fore_triangle_base: 1.524
+  length_over_all: 4.572
   propellor:
     type: none
   sailarea: 9.458
-  length_over_all: 4.572
   main:
     foot: 1.92
     head: 2.24
     luff: 2.347
-  thcf: 0.766
-  length_on_deck: 4.572
-  topsail: {}
   mizzen:
     foot: 1.119
     head: 1.201
     luff: 1.753
-  beam: 1.625
+  length_on_deck: 4.4714
+  mizzen_topsail: {}
   length_on_waterline: 4.563
-selling_status: for_sale
-length_on_deck: 4.4714
 created_at: '2020-04-25T17:48:33.284923+00:00'
-price: 3500
-beam: 1.6246
+updated_at: '2022-10-29T18:53:35.257505+00:00'

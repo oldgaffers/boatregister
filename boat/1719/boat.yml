@@ -3,45 +3,36 @@ oga_no: 1719
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1935
 year_is_approximate: false
 place_built: Isle of Wight
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel double planked mahogany/larch - maybe elm on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel sloping forefoot
 ssr: '31897'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: f4471dd9-0567-42f9-8794-56f910cad7c5
-previous_names:
-- Penguin
-draft: 0.89
 handicap_data:
-  beam: 1.929407461594733
+  thcf: 0.880057188
+  beam: 1.9294
+  draft: 0.89
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 3.6576444769568397
+  length_over_all: 7.193367471348452
+  propellor:
+    type: folding
   main:
     foot: 3.6576444769568397
     head: 2.7432333577176298
     luff: 3.0480370641306997
-  thcf: 0.880057188
-  draft: 0.8900268227261643
   topsail:
     luff: 2.7950499878078516
     perpendicular: 1.21921482565228
-  propellor:
-    type: folding
-  length_over_all: 7.193367471348452
-  fore_triangle_base: 3.6576444769568397
   length_on_waterline: 5.9436722750548645
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 7.1933
-beam: 1.9294
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.1933
+created_at: '2020-04-25T17:09:11.526157+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Penguin

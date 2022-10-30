@@ -40,52 +40,45 @@ place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Elm doubled and deck doubled 1945
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- note: Bought by EC Langford in 1947. Acquired by B. Groves, 1952, who sold her to
+- start: 1947
+  note: Bought by EC Langford in 1947. Acquired by B. Groves, 1952, who sold her to
     EN Baxter and KR Pallard in 1963. Bought by TN Balfour in 1966 who sold her to
     Mr J. Fidoe of Witham in 1973.
   text: Bought by EC Langford in
-  start: 1947
-  start_is_approximate: false
-- end: 2014
-  name: A Cox
-  share: 64
+- name: A Cox
   start: 2012
-- id: 277
+  end: 2014
   share: 64
+- member: 3471
+  id: 277
   start: 2014
-  member: 3471
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 1de399ae-4ff8-47df-ac72-e4120c2692ce
 image_key: Xh3ZmS
 thumb: https://photos.smugmug.com/photos/i-LC34vC3/0/Th/i-LC34vC3-Th.jpg
-draft: 1.015
 handicap_data:
-  beam: 2.834674469641551
+  thcf: 0.977666592
+  beam: 2.8438
+  draft: 1.015
+  fore_triangle_height: 7.772494513533284
+  fore_triangle_base: 6.6294806144842715
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
   main:
     foot: 6.6294806144842715
     head: 4.648256522799317
     luff: 4.57205559619605
-  thcf: 0.977666592
-  draft: 1.0058522311631308
   topsail:
     luff: 4.114850036576445
     perpendicular: 2.13362594489149
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 6.6294806144842715
   length_on_waterline: 7.924896366739819
-  fore_triangle_height: 7.772494513533284
-length_on_deck: 9.144
-beam: 2.8438
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T16:43:40.927045+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

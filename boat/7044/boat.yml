@@ -3,13 +3,14 @@ oga_no: 7044
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1960
 year_is_approximate: false
 designer:
   name: Kim Holman
   id: 8833d78f-9c94-4d4e-bde5-71fa74207177
+design_class:
+  name: Rummer
+  id: 773e794c-c800-4193-98aa-722c93cff005
 builder:
   name: Staniland and Co.
   id: 7c463d12-ab4d-4cae-8384-3f59cd6cd386
@@ -17,42 +18,33 @@ place_built: Thorn, Yorks
 construction_material: wood
 construction_method: unknown
 construction_details: Mahogany and teak on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Southwold
 hull_form: long keel deep forefoot
 sail_number: '1161'
-callsign: ''
 ownerships:
-- end: 2014
-  name: Andrew Osborn
-  share: 64
+- name: Andrew Osborn
   start: 2005
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2014
+  share: 64
 id: 4bdde4de-1004-4e71-81ba-5fe5a4063484
-draft: 1.4478
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 0.959969404
+  beam: 2.8956
+  draft: 1.4478
+  fore_triangle_height: 12.573152889539136
+  fore_triangle_base: 3.7094611070470616
+  length_over_all: 10.716898317483539
+  propellor:
+    type: fixed
   main:
     foot: 4.495854669592782
     luff: 10.820531577663983
-  thcf: 0.959969404
-  draft: 1.4478176054620824
   mizzen:
     foot: 1.9050231650816873
     luff: 4.953060229212387
-  propellor:
-    type: fixed
-  length_over_all: 10.716898317483539
-  fore_triangle_base: 3.7094611070470616
   length_on_waterline: 7.364057546939771
-  fore_triangle_height: 12.573152889539136
-length_on_deck: 10.7198
-beam: 2.8956
-design_class:
-  name: Rummer
-  id: 773e794c-c800-4193-98aa-722c93cff005
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.7198
+created_at: '2020-04-25T17:43:30.859439+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

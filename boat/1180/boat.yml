@@ -3,13 +3,14 @@ oga_no: 1180
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1979
 year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+design_class:
+  name: Tamarisk 29
+  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
 builder:
   name: Cygnus Marine/?
   id: 4d0e3938-7139-4398-bba7-61bd3e53ff6f
@@ -17,45 +18,33 @@ place_built: Penryn
 construction_material: grp
 construction_method: unknown
 construction_details: Fibre Glass
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Alderney
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Royston Raymond
-  share: 64
   start: 1984
-- share: 64
-  member: 1834
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: d9dd3e5e-4de5-4169-9ae5-a713dca8461d
-draft: 1.4234
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.970494946
+  beam: 2.7432
+  draft: 1.4234
+  fore_triangle_height: 8.967325042672519
+  fore_triangle_base: 4.87685930260912
+  length_over_all: 8.83930748597903
+  propellor:
+    type: fixed
   main:
     foot: 5.105462082418922
     head: 4.367837112899292
     luff: 5.029261155815655
-  thcf: 0.970494946
-  draft: 1.4234333089490367
   topsail:
     luff: 5.334064862228725
     perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 8.83930748597903
-  fore_triangle_base: 4.87685930260912
   length_on_waterline: 8.330285296269201
-  fore_triangle_height: 8.967325042672519
-length_on_deck: 8.8392
-beam: 2.7432
-design_class:
-  name: Tamarisk 29
-  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.8392
+created_at: '2020-04-25T17:01:04.437007+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

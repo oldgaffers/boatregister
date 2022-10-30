@@ -3,8 +3,6 @@ oga_no: 1416
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1897
 year_is_approximate: false
 designer:
@@ -17,41 +15,33 @@ place_built: Hamble
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel teak on oak and iron frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 uk_part1: '120416'
-callsign: ''
 ownerships:
-- end: 2005
-  name: John Bignell
-  share: 64
+- name: John Bignell
   start: 1990
-- note: For Sale in Classic Boat October 2004. Now sold
+  end: 2005
+  share: 64
+- start: 2004
+  note: For Sale in Classic Boat October 2004. Now sold
   text: For Sale in Classic Boat October
-  start: 2004
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 63bcea91-ff66-41ef-966f-3c68bef5253c
-draft: 1.6002
 handicap_data:
-  beam: 2.834674469641551
+  thcf: 1.001046511
+  beam: 2.8438
+  draft: 1.6002
+  fore_triangle_height: 9.75371860521824
+  fore_triangle_base: 5.273104120946111
+  length_over_all: 8.991709339185563
+  propellor:
+    type: fixed
   main:
     foot: 6.4008778346744695
     head: 5.7912704218483295
     luff: 6.0960741282613995
-  thcf: 1.001046511
-  draft: 1.6002194586686174
-  propellor:
-    type: fixed
-  length_over_all: 8.991709339185563
-  fore_triangle_base: 5.273104120946111
   length_on_waterline: 8.83930748597903
-  fore_triangle_height: 9.75371860521824
-length_on_deck: 8.9916
-beam: 2.8438
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.9916
+created_at: '2020-04-25T17:04:39.236797+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

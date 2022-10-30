@@ -55,39 +55,35 @@ place_built: Gloucester
 construction_material: wood
 construction_method: unknown
 construction_details: English elm, oak and pitch pine
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Southampton
 hull_form: unknown
 uk_part1: '102469'
-callsign: ''
 ownerships:
-- end: 2004
-  name: Peter Heiberg
-  share: 64
+- name: Peter Heiberg
   start: 1980
-- end: 2015
-  name: Stephen Mohan
+  end: 2004
   share: 64
+- name: Stephen Mohan
   start: 2004
-- name: Michael Wright
+  end: 2015
   share: 64
+- name: Michael Wright
   start: 2015
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: https://carlottapilotcutter.com/
 id: 3332ce93-73e6-43de-80a1-2d7367228784
-previous_names:
-- The Solway
 image_key: 3JqDjV
 thumb: https://photos.smugmug.com/photos/i-H5T6M8S/0/Th/i-H5T6M8S-Th.jpg
-draft: 2.347
 handicap_data:
-  beam: 3.9624481833699097
-  draft: 2.346988539380639
+  beam: 3.9624
+  draft: 2.347
   length_over_all: 15.240185320653499
   length_on_waterline: 12.801755669348939
-length_on_deck: 15.24
-beam: 3.9624
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 15.24
+created_at: '2020-04-25T16:49:25.13576+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- The Solway

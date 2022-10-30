@@ -3,7 +3,6 @@ oga_no: 328
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Yachting Monthly Article in 1933 Log 69/3, Sp/94
 year: 1933
 year_is_approximate: false
@@ -17,42 +16,35 @@ place_built: Burnham on Crouch
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch Pine on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - YM 1933
 - Log 69/3
 - Log Sp/94
 uk_part1: '163361'
-callsign: ''
 ownerships:
 - name: C Heaviside
-  share: 64
   start: 1991
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 3c9415ac-876c-493b-8a3a-5aac4b885aa6
-previous_names:
-- Gold Crest
-draft: 1.2192
 handicap_data:
-  beam: 2.2707876127773714
+  thcf: 0.88883626
+  beam: 2.2708
+  draft: 1.2192
+  fore_triangle_height: 6.0564496464277005
+  fore_triangle_base: 4.011216776396001
+  length_over_all: 7.269568397951719
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 3.453425993660083
     luff: 3.931967812728603
-  thcf: 0.88883626
-  draft: 1.21921482565228
-  propellor:
-    type: fixed
-  length_over_all: 7.269568397951719
-  fore_triangle_base: 4.011216776396001
   length_on_waterline: 6.644720799804926
-  fore_triangle_height: 6.0564496464277005
-length_on_deck: 7.2695
-beam: 2.2708
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.2695
+created_at: '2020-04-25T16:47:12.513352+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Gold Crest

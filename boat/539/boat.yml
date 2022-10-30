@@ -21,29 +21,25 @@ builder:
 place_built: Pleshey
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Maldon
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2012
-  name: Charles Stock
-  share: 64
+- name: Charles Stock
   start: 1963
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  end: 2012
+  share: 64
 website: shoal-waters.moonfruit.com/
 id: 24a933a5-4c80-482e-a84e-70b23aadfd9e
 image_key: hWgPKr
 thumb: https://photos.smugmug.com/photos/i-DwkXR6H/0/Th/i-DwkXR6H-Th.jpg
-draft: 0.823
 handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.822970007315289
+  beam: 1.8288
+  draft: 0.823
   length_over_all: 5.029261155815655
   length_on_waterline: 4.724457449402585
-length_on_deck: 5.0292
-beam: 1.8288
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.0292
+created_at: '2020-04-25T16:50:30.293378+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

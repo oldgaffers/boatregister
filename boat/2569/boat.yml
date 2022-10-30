@@ -4,7 +4,6 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>&#39;Jabiru&#39; is a Yarmouth 23 built in 2002.</p>
-full_description: ''
 year: 2002
 year_is_approximate: false
 designer:
@@ -16,48 +15,43 @@ builder:
 place_built: Yarmouth IOW
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: long keel sloping forefoot
 sail_number: '19'
 ssr: '104592'
-callsign: ''
 ownerships:
-- end: 2012
-  name: Peter Brannen
-  share: 64
+- name: Peter Brannen
   start: 2002
-- id: 993
+  end: 2012
   share: 64
+- member: 6222
+  id: 993
   start: 2016
-  member: 6222
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 89b697e9-6985-448b-adc0-4a81335171f2
 image_key: BPK68p
 thumb: https://photos.smugmug.com/photos/i-BcSn4k5/0/Th/i-BcSn4k5-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 2.2799317239697636
+  thcf: 0.852867785
+  beam: 2.2799
+  draft: 0.9144
+  fore_triangle_height: 5.7912704218483295
+  fore_triangle_base: 3.038892952938308
+  length_over_all: 6.882467690807119
+  propellor:
+    type: fixed
   main:
     foot: 3.880151182638381
     head: 2.8102901731285055
     luff: 3.648500365764448
-  thcf: 0.852867785
-  draft: 0.9144111192392099
   topsail:
     luff: 3.648500365764448
     perpendicular: 1.6703243111436235
-  propellor:
-    type: fixed
-  length_over_all: 6.882467690807119
-  fore_triangle_base: 3.038892952938308
   length_on_waterline: 5.498658863691782
-  fore_triangle_height: 5.7912704218483295
-length_on_deck: 6.8824
-beam: 2.2799
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8824
+created_at: '2020-04-25T17:22:45.256319+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

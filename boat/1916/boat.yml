@@ -31,6 +31,9 @@ year_is_approximate: false
 designer:
   name: Norman Dallimore
   id: d620b2b5-76e8-4d57-87b8-7beadfc28743
+design_class:
+  name: Westcliff OD
+  id: 5449ad08-2a6a-4933-878b-a21b7cfe24e9
 builder:
   name: Cole and Wiggins
   id: ef72fbc2-c153-4229-aa98-3b6d1af50ab8
@@ -38,51 +41,41 @@ place_built: Leigh on Sea
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker - Mahogany on Oak. Spruce mast & spars.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: FRA
 home_port: la Rance, Dinan
 hull_form: unknown
 sail_number: WOD 5
-callsign: ''
 ownerships:
-- note: 'Between 1930 and 1931 she was owned by Harold Warwick Smith and then Messrs.
+- start: 1930
+  note: 'Between 1930 and 1931 she was owned by Harold Warwick Smith and then Messrs.
     Tucker and Cranfield at Burnham on Crouch. In 1939, she''s recorded for the first
     time in the Royal Northumberland Yacht Club yearbook, owned by E.S Anderson of
     Jesmond, passing to E.B ''Nic'' Nicholson at RNYC who owned her from 1940 - 1956.
     RNYC owners in the early 1960s are listed as: 1960 Captain Arthur Johnson, 1962
     Hurst Hailes, 1964 Rodney Mitchell and used by him and his brother Quentin.'
   text: Between
-  start: 1930
-  start_is_approximate: false
-- end: 2008
-  name: James Bell
-  share: 64
+- name: James Bell
   start: 2000
-- note: Sold to Queyrens family, based in Britanny, France, 2008.
+  end: 2008
+  share: 64
+- start: 2008
+  note: Sold to Queyrens family, based in Britanny, France, 2008.
   text: Sold to Queyrens family, based in Britanny, France,
-  start: 2008
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 67de3361-7742-4e2d-bc67-a21c8abb324e
-draft: 0.253
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.844973721
+  beam: 1.8288
+  draft: 0.253
+  fore_triangle_height: 5.273104120946111
+  fore_triangle_base: 2.0574250182882223
+  length_over_all: 5.4864667154352595
   main:
     foot: 3.5052426237503047
     head: 5.334064862228725
     luff: 2.286027798098025
-  thcf: 0.844973721
-  draft: 0.24384296513045597
-  length_over_all: 5.4864667154352595
-  fore_triangle_base: 2.0574250182882223
   length_on_waterline: 5.105462082418922
-  fore_triangle_height: 5.273104120946111
-length_on_deck: 5.4864
-beam: 1.8288
-design_class:
-  name: Westcliff OD
-  id: 5449ad08-2a6a-4933-878b-a21b7cfe24e9
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T17:12:11.789938+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

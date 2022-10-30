@@ -3,41 +3,32 @@ oga_no: 1078
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1947
 year_is_approximate: false
 place_built: Boston
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: D Maltby
-  share: 64
   start: 1981
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0d2c57d6-0344-43f0-b933-910841dea2e5
-draft: 0.6096
 handicap_data:
-  beam: 2.346988539380639
+  thcf: 0.952000363
+  beam: 2.347
+  draft: 0.6096
+  fore_triangle_height: 6.0960741282613995
+  fore_triangle_base: 3.9624481833699097
+  length_over_all: 10.66812972445745
   main:
     foot: 5.18166300902219
     head: 3.0480370641306997
     luff: 3.6576444769568397
-  thcf: 0.952000363
-  draft: 0.60960741282614
-  length_over_all: 10.66812972445745
-  fore_triangle_base: 3.9624481833699097
   length_on_waterline: 7.315288953913679
-  fore_triangle_height: 6.0960741282613995
-length_on_deck: 10.668
-beam: 2.347
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T16:59:31.575469+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

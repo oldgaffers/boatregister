@@ -3,7 +3,6 @@ oga_no: 1845
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Modified Oysterman design with reduced draft and sailplan to make
   her easier to trail. Bilges were made firmer to enable her to take the ground.
 year: 1993
@@ -11,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Stanley Goldman
   id: b73cc020-dae7-4e31-a517-60f7d8731aaa
+design_class:
+  name: Oystercatcher 16
+  id: 3afef302-57fe-49ab-bfb8-f7d0ea978a37
 builder:
   name: Mayfly Classic Boats
   id: 2a625108-bef9-404e-bf02-4aad488efa47
@@ -18,41 +20,31 @@ place_built: Gweek
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: shoal_draft
-callsign: ''
 ownerships:
 - name: D P Miller
-  share: 64
   start: 1993
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a291ead0-4b06-40d9-a75f-ae53db079311
-draft: 0.6096
 handicap_data:
-  beam: 2.029992684711046
+  thcf: 0.79483832
+  beam: 2.03
+  draft: 0.6096
+  fore_triangle_height: 3.9624481833699097
+  fore_triangle_base: 2.3165081687393316
+  length_over_all: 4.87685930260912
+  propellor:
+    type: fixed
   main:
     foot: 3.627164106315533
     head: 2.539014874420873
     luff: 3.148622287247013
-  thcf: 0.79483832
-  draft: 0.60960741282614
   topsail:
     luff: 2.8956352109241648
     perpendicular: 1.4234333089490367
-  propellor:
-    type: fixed
-  length_over_all: 4.87685930260912
-  fore_triangle_base: 2.3165081687393316
   length_on_waterline: 4.800658376005852
-  fore_triangle_height: 3.9624481833699097
-length_on_deck: 4.8768
-beam: 2.03
-design_class:
-  name: Oystercatcher 16
-  id: 3afef302-57fe-49ab-bfb8-f7d0ea978a37
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:11:05.935055+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

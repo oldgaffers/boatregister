@@ -15,44 +15,36 @@ year_is_approximate: false
 designer:
   name: Eric Bergqvist
   id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
+design_class:
+  name: Winkle Brig
+  id: 4989b986-84a5-42ea-81c9-72a59714c258
 builder:
   name: Fiddler's Ferry Boatyard
   id: d38d3959-b44f-4514-bd3a-16cf1ebe806c
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: London
 hull_form: long keel deep forefoot
 sail_number: WB 31
-callsign: ''
 ownerships:
 - name: Gum and Eva Newnham
-  share: 64
   start: 2010
-- id: 861
   share: 64
-  member: 5957
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ba99f1c2-462f-4955-bbc4-b11371699972
-previous_names:
-- Molly B
-draft: 0.3566
 handicap_data:
+  beam: 2.033
+  draft: 0.3566
   moving_keel: true
   length_overall: 4.8768
   moving_keel_type: Centreboard
   length_over_spars: 6.096
   length_on_waterline: 4.572
-length_on_deck: 4.8768
-beam: 2.033
-design_class:
-  name: Winkle Brig
-  id: 4989b986-84a5-42ea-81c9-72a59714c258
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:47:36.996559+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Molly B

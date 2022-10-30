@@ -5,7 +5,6 @@ rig_type: Cutter
 mainsail_type: bermudan
 short_description: <p>Designed by Francis Jones, &#39;Hazelisle&#39; is a classic
   &#39;one-off&#39; built to 100 A1 at Lloyds in 1952</p>
-full_description: ''
 year: 1952
 year_is_approximate: false
 designer:
@@ -18,20 +17,33 @@ place_built: Maylandsea
 construction_material: wood
 construction_method: unknown
 construction_details: 'Hull: mahoghany and iroko on oak'
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 8900
+- created_at: '2019-10-30T01:43:18+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: "<p>One-off classic yacht. 35\u2019 LOD, 10\u2019 beam, 5.6\u2019 draft.\
+    \ Designed, Francis Jones, built 1952, mahogany and iroko on oak. In hands of\
+    \ current owner since 1975. Age (of owner) now forces sale. Well maintained, afloat\
+    \ and in commission lying River Wyre, NW England.</p><p>Full details and inventory\
+    \ available on request.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.515989+00:00'
 home_country: GBR
 home_port: River Wyre
 hull_form: unknown
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 57640649-8584-404e-8355-416a4b22ef40
 image_key: mHzvHb
 thumb: https://photos.smugmug.com/photos/i-ft5t8sr/0/Th/i-ft5t8sr-Th.jpg
-draft: 1.7069
-length_on_deck: 10.668
-beam: 3.048
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:54:51.066078+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  beam: 3.048
+  draft: 1.7069
+  length_on_deck: 10.668

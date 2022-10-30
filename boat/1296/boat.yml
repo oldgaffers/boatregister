@@ -3,7 +3,6 @@ oga_no: 1296
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: "'Nyala' was commissioned by F.P.Culbert for use in a film, and\
   \ designed by Maurice Griffiths as one of the first shallow draft pleasure vessels.\
   \ She was built by Eversons of Woodbridge out of Oregon pine on oak frames, with\
@@ -31,37 +30,30 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on American Elm
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: FRA
 home_port: Paimpol, Brittany
 hull_form: long keel deep forefoot
 uk_part1: '165445'
-callsign: ''
 ownerships:
-- end: 2015
-  name: D & S Greenland
-  share: 64
+- name: D & S Greenland
   start: 1989
-  end_is_approximate: true
-- id: 989
+  end: 2015
   share: 64
+- member: 6218
+  id: 989
   start: 2015
-  member: 6218
-  start_is_approximate: true
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: cd231e9d-c73b-47b2-adad-6b8677ac6dfd
 image_key: bGVQLZ
 thumb: https://photos.smugmug.com/photos/i-jk8zwD6/0/Th/i-jk8zwD6-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 3.2004389173372347
-  draft: 1.3716166788588149
+  beam: 3.2004
+  draft: 1.3716
   length_over_all: 10.515727871250913
   length_on_waterline: 8.83930748597903
-length_on_deck: 10.5156
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.5156
+created_at: '2020-04-25T17:02:52.185284+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

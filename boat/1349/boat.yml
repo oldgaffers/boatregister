@@ -2,8 +2,6 @@ name: Snowgoose
 oga_no: 1349
 generic_type: Yacht
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1983
 year_is_approximate: false
 designer:
@@ -15,25 +13,20 @@ builder:
 place_built: Potter Heigham
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Morston Norfolk
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 138
-  share: 64
+- member: 2267
+  id: 138
   start: 2012
-  member: 2267
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 43535e2b-e1e4-4412-a438-9389561fe58d
-draft: 0
 handicap_data:
   length_over_all: 5.18166300902219
-length_on_deck: 5.1816
-beam: 0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1816
+created_at: '2020-04-25T17:03:38.902118+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

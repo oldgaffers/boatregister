@@ -4,7 +4,6 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Heron' is a Memory 19, built in 2006.</p>
-full_description: ''
 year: 2006
 year_is_approximate: false
 designer:
@@ -20,12 +19,13 @@ place_built: Burlesdon
 construction_material: grp
 spar_material: wood
 construction_method: unknown
+selling_status: not_for_sale
 for_sales:
-- asking_price: 12000
-  created_at: '2022-07-01T06:41:50.458966+00:00'
+- created_at: '2022-07-01T06:41:50.458966+00:00'
   flexibility: normal
-  id: b9c4cb35-3fe1-49e1-bac1-06153a327aa7
   offered: '2022-07-01'
+  price_flexibility:
+    text: normal
   reduced: false
   sales_text: '<p><strong>In commission in Forder Creek, Saltash, Cornwall </strong></p>
     <p>Heron is a 2006 Memory 19 by Salterns of Poole. Substantially built in grp
@@ -56,36 +56,34 @@ for_sales:
   seller_gold_id: 992
   seller_member: 6221
   sold: '2022-08-02'
+  summary: null
   updated_at: '2022-07-01T06:41:50.458966+00:00'
-  price_flexibility:
-    text: normal
 home_country: GBR
 home_port: '[MDL Torquay'
 hull_form: centre-boarder
 ssr: '180369'
-callsign: ''
 ownerships:
-- share: 64
+- name: John Hancock
   start: 2012
-  name: John Hancock
   end: 2018
-- share: 64
+  share: 64
+- member: 6221
+  id: 992
   start: 2018
   end: 2022
-  id: 992
-  member: 6221
-- share: 64
-  start: 2022
-  current: true
+  share: 64
+- member: 4179
   id: 35020
-  member: 4179
-updated_at: '2022-10-29T19:08:23.06271+00:00'
-website: ''
+  start: 2022
+  share: 64
+  current: true
 id: 2a2827d0-3c1c-44f4-a3c5-321936f32874
 image_key: QFtpvQ
 thumb: https://photos.smugmug.com/photos/i-WKrm4C9/0/Th/i-WKrm4C9-Th.jpg
-draft: 0.5334
 handicap_data:
+  thcf: 0.872419155
+  beam: 2.1336
+  draft: 0.5334
   fore_triangle_height: 5.867471348451597
   fore_triangle_base: 2.6426481346013166
   length_over_all: 5.7912704218483295
@@ -93,15 +91,10 @@ handicap_data:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  thcf: 0.872419155
   topsail:
-    perpendicular: 1.8288222384784198
     luff: 3.6576444769568397
-  draft: 0.5334064862228725
-  beam: 2.13362594489149
+    perpendicular: 1.8288222384784198
   length_on_waterline: 5.690685198732017
-selling_status: not_for_sale
-length_on_deck: 5.7912
+  length_on_deck: 5.7912
 created_at: '2020-04-25T17:26:59.049455+00:00'
-price: 12000
-beam: 2.1336
+updated_at: '2022-10-29T19:08:23.06271+00:00'

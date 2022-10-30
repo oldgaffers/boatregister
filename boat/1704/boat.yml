@@ -35,45 +35,58 @@ builder:
 place_built: Walton on the Naze
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 17000
+- created_at: '2016-05-09T10:04:06+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>A very special boat, she must go to a \"good home\" and no sensible\
+    \ offer will be refused at the reduced price.</p><p>`Chough\u2019 was designed\
+    \ by A R Luke of Hamble, built by Brook &amp; Hall, Walton on the Naze in 1927.\
+    \ She is a gaff rigged sloop, teak on oak, lead keel, marine ply decks sheathed\
+    \ with epoxy. Her spars are pine and spruce, with reefing furling headsail gear,\
+    \ roller reefing boom, sails by Elvstrom, mainsail, two furling headsails, one\
+    \ Genoa and one jib. She has an asymmetric with a `Chough\u2019 bird on it, new\
+    \ 2015.</p><p>She is in excellent condition, race/cruise ready. She has two anchors,\
+    \ chain and warp, compass, fire extinguisher, bilge pumps electric and hand operated,\
+    \ warps, fenders, powered by an outboard Mariner 5ph long shaft, big foot prop.</p><p>`Chough\u2019\
+    \ has a good racing record having won many Solent OGA races including Cowes Classic\
+    \ Class Winner 2014 and 2015. Sleeping is for two in one cabin. An inflatable\
+    \ dinghy is included.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.898614+00:00'
 home_country: GBR
 home_port: Hamble
 hull_form: unknown
 sail_number: '1704'
-callsign: ''
 ownerships:
-- end: 2015
-  name: David and Christine Hopkins
-  share: 64
+- name: David and Christine Hopkins
   start: 2008
-- id: 889
+  end: 2015
   share: 64
-  member: 6007
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ca3ee406-39c1-49ee-8437-d00d5c8ee1d9
 image_key: SQ8sgP
 thumb: https://photos.smugmug.com/photos/i-kmGhHdb/0/Th/i-kmGhHdb-Th.jpg
-draft: 1.1674
 handicap_data:
-  beam: 1.9568397951719092
+  thcf: 0.86
+  beam: 1.9568
+  draft: 1.1674
+  fore_triangle_height: 6.336869056327725
+  fore_triangle_base: 2.6426481346013166
+  length_over_all: 5.562667642038527
+  sailarea: 24.812265040978797
   main:
     foot: 3.6576444769568397
     head: 3.938063886856864
     luff: 3.910631553279688
-  thcf: 0.86
-  draft: 1.1430138990490124
-  sailarea: 24.812265040978797
-  length_over_all: 5.562667642038527
   length_over_spars: 7.924896366739819
-  fore_triangle_base: 2.6426481346013166
   length_on_waterline: 5.245671787368934
-  fore_triangle_height: 6.336869056327725
-length_on_deck: 5.587
-beam: 1.9568
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.587
+created_at: '2020-04-25T17:08:58.084901+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

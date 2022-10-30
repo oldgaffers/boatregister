@@ -20,29 +20,42 @@ construction_material: ferro
 construction_method: unknown
 construction_details: Hull and deck is ferrocement, coachroof, cockpit coaming and
   rubbing strake are wood.
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 2000
+- created_at: '2018-06-29T11:18:01+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: "<p>Lily Lodestone was designed by Percy Dalton on the lines of the\
+    \ Falmouth Oyster Dredger. Hull and Deck are ferrocement. She has a Bukh diesel\
+    \ engine 20hp, which is in running order. Her sails were made by JR Williams of\
+    \ Hamble. Lily Lodestone is lying ashore on the River Dart and needs a new home\
+    \ and TLC.</p><p>Her asking price has been reduced from \xA34,500 to \xA32,000.</p><p>Contact\
+    \ John Smith +44(0)1803 832294</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.192494+00:00'
 home_country: GBR
 home_port: River Dart
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2017
-  name: John Smith
-  share: 64
+- name: John Smith
   start: 1997
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2017
+  share: 64
 id: 48cf5671-97a7-4e2c-ab32-2458d5600e48
 image_key: R63nfN
 thumb: https://photos.smugmug.com/photos/i-jLq48Kr/0/Th/i-jLq48Kr-Th.jpg
-draft: 0.9144
 handicap_data:
+  beam: 2.7432
+  draft: 0.9144
   length_overall: 7.3152
   length_over_spars: 9.144
   length_on_waterline: 7.3152
-length_on_deck: 7.3152
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:49:18.883728+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

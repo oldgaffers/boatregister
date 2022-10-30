@@ -3,55 +3,48 @@ oga_no: 2491
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: See boat no 2480
 year: 2001
 year_is_approximate: false
 designer:
   name: David Freeman
   id: 5af3289c-8c25-4030-a68d-cce002ae7b43
+design_class:
+  name: Yarmouth 23
+  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
 builder:
   name: Yarmouth Boat Co.
   id: 609d8a8b-c14c-402c-b727-519e519d6f6f
 place_built: Yarmouth IOW
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Beaulieu
 hull_form: long keel deep forefoot
 sail_number: '012'
-callsign: ''
 ownerships:
 - name: G A Hubbard
-  share: 64
   start: 2001
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7915c30c-8811-4816-bd06-0d0ceeaa5264
-draft: 0.9144
 handicap_data:
-  beam: 2.2799317239697636
+  thcf: 0.852821279
+  beam: 2.2799
+  draft: 0.9144
+  fore_triangle_height: 5.7912704218483295
+  fore_triangle_base: 3.038892952938308
+  length_over_all: 6.879419653742989
+  propellor:
+    type: fixed
   main:
     foot: 3.880151182638381
     head: 2.8102901731285055
     luff: 3.648500365764448
-  thcf: 0.852821279
-  draft: 0.9144111192392099
   topsail:
     luff: 3.648500365764448
     perpendicular: 1.6703243111436235
-  propellor:
-    type: fixed
-  length_over_all: 6.879419653742989
-  fore_triangle_base: 3.038892952938308
   length_on_waterline: 5.498658863691782
-  fore_triangle_height: 5.7912704218483295
-length_on_deck: 6.8793
-beam: 2.2799
-design_class:
-  name: Yarmouth 23
-  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8793
+created_at: '2020-04-25T17:21:32.605163+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

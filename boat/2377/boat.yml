@@ -3,7 +3,6 @@ oga_no: 2377
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Next in class built 1945/6 (no W16) Yachting Monthly article on
   file
 year: 1927
@@ -11,6 +10,9 @@ year_is_approximate: false
 designer:
   name: John Wylie
   id: 26b60724-5ef5-4bfa-9e44-6f76a656ca48
+design_class:
+  name: Waverley OD
+  id: 791fd698-7c6e-4aae-a24c-bad9fbd8d3c3
 builder:
   name: John Fulton
   id: 4465dd39-52b9-46f3-901f-4d687260b9c5
@@ -18,40 +20,27 @@ place_built: Bangor
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak and elm
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Bangor, Co Down
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: John McCrea
-  share: 64
   start: 1999
-- share: 64
-  member: 3850
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 9e396bc9-de03-444c-bc96-7749db366eab
-draft: 0.8382
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.825009401
+  beam: 1.8288
+  draft: 0.8382
+  fore_triangle_height: 4.57205559619605
+  fore_triangle_base: 1.6764203852718849
+  length_over_all: 5.516947086076567
   main:
     foot: 4.57205559619605
     head: 3.429041697147037
     luff: 2.5146305779078273
-  thcf: 0.825009401
-  draft: 0.8382101926359424
-  length_over_all: 5.516947086076567
-  fore_triangle_base: 1.6764203852718849
   length_on_waterline: 4.419653742989515
-  fore_triangle_height: 4.57205559619605
-length_on_deck: 5.5169
-beam: 1.8288
-design_class:
-  name: Waverley OD
-  id: 791fd698-7c6e-4aae-a24c-bad9fbd8d3c3
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.5169
+created_at: '2020-04-25T17:19:09.65834+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -56,76 +56,58 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel planked in teak on steamed and grown frames of oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bembridge IOW
 hull_form: long keel sloping forefoot
 sail_number: CL2
-callsign: ''
 ownerships:
-- end: 1933
+- start: 1927
+  end: 1933
   note: 1927-1933 David Anderson, based at Rochester
   text: David Anderson, based at Rochester
-  start: 1927
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1954
+- start: 1934
+  end: 1954
   note: 1934-1954 T.H.Seaton, based at Burnham on Crouch
   text: T.H.Seaton, based at Burnham on Crouch
-  start: 1934
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1981
+- start: 1954
+  end: 1981
   note: '1954-1981 Edwin Kerr, '
   text: Edwin Kerr,
-  start: 1954
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1996
+- start: 1981
+  end: 1996
   note: 1981-1996? John Perry and Roger Thwaites
   text: John Perry and Roger Thwaites
-  start: 1981
-  end_is_approximate: true
-  start_is_approximate: false
-- end: 2002
+- start: 1996
+  end: 2002
   note: 1996?-2002 Martin and Julia Davy
   text: Martin and Julia Davy
-  start: 1996
-  end_is_approximate: false
-  start_is_approximate: true
-- end: 2009
+- start: 2003
+  end: 2009
   note: 2003-2009? Kris Hansen
   text: Kris Hansen
-  start: 2003
-  end_is_approximate: true
-  start_is_approximate: false
-- end: 2018
+- start: 2009
+  end: 2018
   note: 2009?-2018 Ivan Maskell
   text: Ivan Maskell
-  start: 2009
-  end_is_approximate: false
-  start_is_approximate: true
-- id: 1092
-  share: 64
+- member: 6346
+  id: 1092
   start: 2017
-  member: 6346
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 18fee80e-da6e-41f8-95c3-0f45cbcd6a3f
 image_key: 382NCP
 thumb: https://photos.smugmug.com/photos/i-Lt45Hsg/0/Th/i-Lt45Hsg-Th.jpg
-draft: 1.2954157522555474
 handicap_data:
-  beam: 2.590831504511095
   thcf: 1.004
-  sailarea: 40.71296032197498
+  beam: 2.5908
+  draft: 1.2954157522555474
+  length_over_all: 9.296513045598633
   propellor:
     type: feathering
-  length_over_all: 9.296513045598633
+  sailarea: 40.71296032197498
   length_on_waterline: 10.820531577663983
-length_on_deck: 9.296513045598633
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.296513045598633
+created_at: '2020-04-25T17:54:55.399276+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

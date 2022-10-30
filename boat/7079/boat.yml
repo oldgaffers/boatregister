@@ -3,8 +3,6 @@ oga_no: 7079
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1939
 year_is_approximate: false
 designer:
@@ -17,41 +15,35 @@ place_built: Portsmouth
 construction_material: wood
 construction_method: unknown
 construction_details: Wood Teak on Oak and Ash
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Bursledon
 hull_form: long keel deep forefoot
 sail_number: '355'
 uk_part1: '166093'
-callsign: ''
 ownerships:
-- end: 2012
-  name: John and Elizabeth Ungley
-  share: 64
+- name: John and Elizabeth Ungley
   start: 1986
-- id: 398
+  end: 2012
   share: 64
+- member: 4178
+  id: 398
   start: 2012
-  member: 4178
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 4c867bea-b0b7-4ac2-b781-6c19b59d4c7c
+handicap_data:
+  beam: 2.8956
+  draft: 1.6764
+  length_over_all: 10.66812972445745
+  propellor:
+    type: fixed
+    blades: 3
+  length_on_waterline: 8.382101926359423
+  length_on_deck: 10.668
+created_at: '2020-04-25T17:44:06.973932+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Cinder
 - Sheba
 - Tar Baby
-draft: 1.6764
-handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.6764203852718849
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 10.66812972445745
-  length_on_waterline: 8.382101926359423
-length_on_deck: 10.668
-beam: 2.8956
-for_sale_state:
-  text: not_for_sale

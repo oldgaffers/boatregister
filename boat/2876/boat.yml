@@ -3,8 +3,6 @@ oga_no: 2876
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2000
 year_is_approximate: false
 designer:
@@ -15,38 +13,32 @@ builder:
   id: ca224058-ba89-46e2-81cc-14cd668872e0
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Durgerdam
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Jochem van Roon
-  share: 64
   start: 2000
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a6f082fc-9977-40b4-93db-aca006fb1f16
-draft: 1.3503
 handicap_data:
-  beam: 2.1488661302121432
+  thcf: 0.946497563
+  beam: 2.1488
+  draft: 1.3503
+  fore_triangle_height: 6.888563764935382
+  fore_triangle_base: 5.120702267739576
+  length_over_all: 8.001097293343086
+  propellor:
+    type: fixed
   main:
     foot: 4.581199707388442
     head: 3.691172884662277
     luff: 4.380029261155816
-  thcf: 0.946497563
-  draft: 1.3502804194098998
   topsail:
     luff: 4.858571080224335
     perpendicular: 2.13362594489149
-  propellor:
-    type: fixed
-  length_over_all: 8.001097293343086
-  fore_triangle_base: 5.120702267739576
   length_on_waterline: 6.589856132650573
-  fore_triangle_height: 6.888563764935382
-length_on_deck: 8.001
-beam: 2.1488
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.001
+created_at: '2020-04-25T17:29:46.185283+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 1709
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1980
 year_is_approximate: false
 builder:
@@ -14,38 +12,31 @@ place_built: Penryn
 construction_material: grp
 construction_method: cold_moulded
 construction_details: Grp with teak fittings
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: J Burnett-Hitchcock
-  share: 64
   start: 1986
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 19f4d3a2-25c8-44b7-9825-920c3fb47a19
-previous_names:
-- Janie
-draft: 0.2438
 handicap_data:
-  beam: 1.5240185320653499
+  thcf: 0.79933257
+  beam: 1.524
+  draft: 0.2438
+  fore_triangle_height: 3.3528407705437697
+  fore_triangle_base: 2.0117044623262617
+  length_over_all: 4.663496708119971
   main:
     foot: 3.1242379907339672
     head: 3.2309192879785416
     luff: 1.6764203852718849
-  thcf: 0.79933257
-  draft: 0.24384296513045597
   topsail:
     luff: 1.737381126554499
     perpendicular: 0.9144111192392099
-  length_over_all: 4.663496708119971
-  fore_triangle_base: 2.0117044623262617
   length_on_waterline: 4.480614484272128
-  fore_triangle_height: 3.3528407705437697
-length_on_deck: 4.6634
-beam: 1.524
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.6634
+created_at: '2020-04-25T17:09:02.838975+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Janie

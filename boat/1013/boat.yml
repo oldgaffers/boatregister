@@ -3,7 +3,6 @@ oga_no: 1013
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Log 83/4  21 ft. centreboard three-quarter decked sloop. Believed
   to have been built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington.  The
   boat has wintered in the same shed, which was built for her (and her sisters) since
@@ -20,40 +19,33 @@ builder:
 place_built: Lymington
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 83/4
-callsign: ''
 ownerships:
 - name: J Newbury
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: de5d5a39-50bb-420c-8cb1-2b609269b60a
-draft: 0.6096
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.906
+  beam: 2.1336
+  draft: 0.6096
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 3.0480370641306997
+  length_over_all: 7.31528896549622
+  sailarea: 28.742329211129746
   main:
     foot: 4.87685930260912
     head: 3.3528407705437697
     luff: 3.5052426237503047
-  thcf: 0.906
-  draft: 0.60960741282614
   topsail:
     luff: 3.0480370641306997
     perpendicular: 1.9812240916849548
-  sailarea: 28.742329211129746
   draft_keeldown: 1.6764203852718849
-  length_over_all: 7.31528896549622
-  fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 7.3152
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T16:58:33.502408+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

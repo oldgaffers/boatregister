@@ -3,13 +3,15 @@ oga_no: 92
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Log 70/5, 85/1  Gunter  sloop 3/4 deck
 year: 1910
 year_is_approximate: false
 designer:
   name: Morgan Giles
   id: f1bc585c-9638-4fd8-8fc7-f382b028513c
+design_class:
+  name: Thames Estuary OD
+  id: 2bba407e-7ddd-42fa-ad7c-b3807aeb5275
 builder:
   name: Drake Bros.
   id: 024e9e01-88d2-47bd-83ed-0c3cd77c3108
@@ -17,33 +19,23 @@ place_built: Tollesbury
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 70/5
 - Log 85/1
-callsign: ''
 ownerships:
 - name: R V Crick
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ecef7d78-64d3-455f-8a39-7137257b511a
-draft: 0.9144
 handicap_data:
-  beam: 1.8288222384784198
   thcf: 0.97
-  draft: 0.9144111192392099
+  beam: 1.8288
+  draft: 0.9144
   length_over_all: 5.4864667154352595
   length_on_waterline: 5.120702267739576
-length_on_deck: 5.4864
-beam: 1.8288
-design_class:
-  name: Thames Estuary OD
-  id: 2bba407e-7ddd-42fa-ad7c-b3807aeb5275
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T16:43:49.57216+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

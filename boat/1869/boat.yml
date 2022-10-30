@@ -3,7 +3,6 @@ oga_no: 1869
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Registration lapsed when sold to Americans early '70s.  They sailed
   her to Greece and kept her in the Med for some time.  Sold to R J Stokes in 1993
   in a poor condition.  18 months major restoration inc re decking and change of rig
@@ -20,38 +19,32 @@ place_built: Littlehampton
 construction_material: wood
 construction_method: unknown
 construction_details: Pine on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Birdham Pool
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Vincent Walt
-  share: 64
   start: 1999
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 11692343-84b8-4e5f-8e37-b7c337ee9929
-draft: 1.4021
 handicap_data:
-  beam: 2.4628139478176054
+  thcf: 0.924922376
+  beam: 2.4628
+  draft: 1.4021
+  fore_triangle_height: 8.53450377956596
+  fore_triangle_base: 4.26725188978298
+  length_over_all: 7.772494513533284
+  propellor:
+    type: fixed
   main:
     foot: 4.724457449402585
     head: 3.5052426237503047
     luff: 4.57205559619605
-  thcf: 0.924922376
-  draft: 1.4020970495001217
   topsail:
     luff: 2.43842965130456
     perpendicular: 1.5240185320653499
-  propellor:
-    type: fixed
-  length_over_all: 7.772494513533284
-  fore_triangle_base: 4.26725188978298
   length_on_waterline: 7.223847841989758
-  fore_triangle_height: 8.53450377956596
-length_on_deck: 7.7724
-beam: 2.4628
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.7724
+created_at: '2020-04-25T17:11:27.621135+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

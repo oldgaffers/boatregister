@@ -21,6 +21,9 @@ year_is_approximate: false
 designer:
   name: Albert Strange
   id: bb41d838-779a-40e4-8330-00460deb203f
+design_class:
+  name: 'Wender (AS #45)'
+  id: f9b97608-0dbe-4c2c-9867-13d0db690f0b
 builder:
   name: Fabian Bush
   id: ae48cdcc-b7ab-41a9-ad74-c8a8e1ad745d
@@ -29,32 +32,24 @@ construction_material: wood
 spar_material: wood
 construction_method: clinker
 construction_details: Larch clinker on wych elm and oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2011
-  name: Dick Wynne
-  share: 64
+- name: Dick Wynne
   start: 2006
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  end: 2011
+  share: 64
 website: http://www.albertstrange.org/?p=122
 id: 4e027a7b-32f2-48c6-af65-15d85fd9493f
 image_key: dNrGsq
 thumb: https://photos.smugmug.com/photos/i-PLzCmZm/0/Th/i-PLzCmZm-Th.jpg
-draft: 0.762
 handicap_data:
-  beam: 1.9812240916849548
-  draft: 0.7620092660326749
+  beam: 1.9812
+  draft: 0.762
   length_over_all: 7.772494513533284
   length_on_waterline: 6.0960741282613995
-length_on_deck: 7.7724
-beam: 1.9812
-design_class:
-  name: 'Wender (AS #45)'
-  id: f9b97608-0dbe-4c2c-9867-13d0db690f0b
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.7724
+created_at: '2020-04-25T17:32:43.168834+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

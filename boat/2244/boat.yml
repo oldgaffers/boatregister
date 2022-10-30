@@ -23,32 +23,30 @@ builder:
 place_built: Rowhedge
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bradwell on Sea
 hull_form: unknown
 ownerships:
-- end: 2013
-  name: Bernard Patrick
-  share: 64
+- name: Bernard Patrick
   start: 1999
-- id: 776
+  end: 2013
   share: 64
+- member: 5793
+  id: 776
   start: 2014
-  member: 5793
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 0b79dbab-9dd2-49ff-80e2-8f90483b87e5
 image_key: spxNNq
 thumb: https://photos.smugmug.com/photos/i-rPtGH8T/0/Th/i-rPtGH8T-Th.jpg
-draft: 0.60960741282614
 handicap_data:
   beam: 2.13362594489149
   draft: 0.60960741282614
   length_over_all: 5.7912704218483295
   length_over_spars: 7.010485247500609
   length_on_waterline: 5.4864667154352595
-length_on_deck: 5.7912704218483295
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912704218483295
+created_at: '2020-04-25T17:17:08.353596+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

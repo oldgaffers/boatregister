@@ -3,13 +3,15 @@ oga_no: 7031
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: bermudan
-short_description: ''
 full_description: Also owns Tosh, 2615
 year: 1978
 year_is_approximate: false
 designer:
   name: Peter Ibold
   id: 5f6f5bc1-e682-402a-b832-fe4a8464a1ff
+design_class:
+  name: Endurance 35
+  id: 3c72e95a-9e53-4243-9a00-f3466351277b
 builder:
   name: Stratimar Marine
   id: fc05bd92-76be-48f1-a4b1-b92f6a80ccc4
@@ -17,26 +19,18 @@ place_built: Bezier, France
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hamble
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Max Taylor
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 1822cf02-607e-4215-8e73-114d2b7f98ec
+created_at: '2020-04-25T17:42:43.627454+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Auzil
-draft: 0
-length_on_deck: 0
-beam: 0
-design_class:
-  name: Endurance 35
-  id: 3c72e95a-9e53-4243-9a00-f3466351277b
-for_sale_state:
-  text: not_for_sale
+handicap_data:
+  length_on_deck: 0

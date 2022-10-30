@@ -3,8 +3,6 @@ oga_no: 1687
 generic_type: unknown
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1986
 year_is_approximate: false
 designer:
@@ -17,33 +15,26 @@ place_built: Falmouth
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 8e8c4373-a178-4051-9c47-b0ede1ed5da3
-draft: 0.253
 handicap_data:
-  beam: 1.777005608388198
+  thcf: 0.760832118
+  beam: 1.777
+  draft: 0.253
+  fore_triangle_height: 3.0480370641306997
+  fore_triangle_base: 2.3378444281882467
+  length_over_all: 4.87685930260912
   main:
     foot: 2.1580102414045355
     head: 2.43842965130456
     luff: 1.9812240916849548
-  thcf: 0.760832118
-  draft: 0.25298707632284806
   mizzen:
     foot: 1.066812972445745
     head: 1.167398195562058
     luff: 1.624603755181663
-  length_over_all: 4.87685930260912
-  fore_triangle_base: 2.3378444281882467
   length_on_waterline: 3.9624481833699097
-  fore_triangle_height: 3.0480370641306997
-length_on_deck: 4.8768
-beam: 1.777
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:08:43.097544+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

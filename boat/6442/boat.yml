@@ -3,8 +3,6 @@ oga_no: 6442
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1996
 year_is_approximate: false
 designer:
@@ -17,39 +15,33 @@ place_built: Isle of Wight
 construction_material: steel
 construction_method: unknown
 construction_details: Steel, Hard Chine, Double ender.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Cowes
 hull_form: long keel deep forefoot
 ssr: '70760'
-callsign: ''
 ownerships:
 - name: Mike Ash
-  share: 64
   start: 1996
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 2bf7c7d6-c98e-4271-ae8c-a2db2ccff748
-draft: 1.6459
 handicap_data:
-  beam: 3.2004389173372347
+  thcf: 0.974447165
+  beam: 3.2004
+  draft: 1.6459
+  fore_triangle_height: 8.610704706169226
+  fore_triangle_base: 6.157034869544013
+  length_over_all: 9.75371860521824
+  propellor:
+    type: fixed
   main:
     foot: 5.242623750304803
     head: 3.8100463301633747
     luff: 6.2484759814679345
-  thcf: 0.974447165
-  draft: 1.645940014630578
   topsail:
     luff: 5.471226530114606
     perpendicular: 2.8041940990002434
-  propellor:
-    type: fixed
-  length_over_all: 9.75371860521824
-  fore_triangle_base: 6.157034869544013
   length_on_waterline: 8.290660814435503
-  fore_triangle_height: 8.610704706169226
-length_on_deck: 9.7536
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T17:40:50.09268+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

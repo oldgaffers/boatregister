@@ -23,40 +23,36 @@ builder:
 place_built: Le Havre
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
 - name: Toby Marris
-  share: 64
   start: 1977
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: http://www.joliebrise.com/
 id: 9c1485d4-d93c-4edf-b4b8-9ae293e3295c
 image_key: XKMkwD
 thumb: https://photos.smugmug.com/photos/i-75KQNRg/0/Th/i-75KQNRg-Th.jpg
-draft: 3.109
 handicap_data:
-  beam: 4.623872226286271
+  thcf: 1.204491092
+  beam: 4.633
+  draft: 3.109
+  fore_triangle_height: 10.36332601804438
+  fore_triangle_base: 10.66812972445745
+  length_over_all: 17.06900755913192
+  propellor:
+    type: folding
   main:
     foot: 11.125335284077053
     head: 7.824311143623507
     luff: 7.824311143623507
-  thcf: 1.204491092
-  draft: 3.0998536942209216
   topsail:
     luff: 10.66812972445745
     perpendicular: 5.4864667154352595
-  propellor:
-    type: folding
-  length_over_all: 17.06900755913192
-  fore_triangle_base: 10.66812972445745
   length_on_waterline: 14.630577907827359
-  fore_triangle_height: 10.36332601804438
-length_on_deck: 17.0688
-beam: 4.633
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 17.0688
+created_at: '2020-04-25T16:57:13.22654+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

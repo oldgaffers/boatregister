@@ -3,7 +3,6 @@ oga_no: 2150
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: CB Jul/Aug 88
 year: 1990
 year_is_approximate: false
@@ -17,31 +16,25 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Pagham
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Mike and Lina Cole
-  share: 64
   start: 1990
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 4a77d0ba-6c06-4bed-959c-acddb21281ba
-draft: 0.1768
 handicap_data:
-  beam: 1.7008046817849305
+  thcf: 0.733319529
+  beam: 1.7008
+  draft: 0.1768
+  length_over_all: 3.733845403560107
   main:
     foot: 3.0480370641306997
     head: 2.590831504511095
     luff: 2.43842965130456
-  thcf: 0.733319529
-  draft: 0.17678614971958057
-  length_over_all: 3.733845403560107
   length_on_waterline: 3.633260180443794
-length_on_deck: 3.7338
-beam: 1.7008
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.7338
+created_at: '2020-04-25T17:15:44.865058+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -24,44 +24,56 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch Pine on Oak
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 26000
+- created_at: '2022-07-05T20:33:16.015237+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>gaff cutter, built in 1906. 26ft, Shoal Draft with centre board.
+    (2&rsquo;6&rdquo; draught with plate up). Pitch pine on oak, extremely good condition.
+    Full suit of James Lawrence sails (only used for 1 season). 6HP 2018 outboard
+    drops into cleverly engineered well in cockpit. New bunk cushions. Force 10 gas
+    cooker. Immaculate survey 2018. Very fast! Winner of 2021 Swale Match, 1<sup>st</sup>
+    visiting yacht and Concours d&rsquo;Elegance. Reluctant sale as bought a bigger
+    boat for increasing family!</p>
+  seller_gold_id: 539
+  seller_member: 4910
+  sold: null
+  summary: null
+  updated_at: '2022-07-05T20:33:16.015237+00:00'
 home_country: GBR
 home_port: Maylandsea
 hull_form: unknown
 sail_number: '1906'
 ssr: '3319'
-callsign: ''
 ownerships:
-- end: 2006
-  name: D Morgan
-  share: 64
+- name: D Morgan
   start: 1992
-- id: 539
+  end: 2006
   share: 64
+- member: 4910
+  id: 539
   start: 2006
-  member: 4910
+  share: 64
   current: true
-updated_at: '2022-07-05T20:33:22.84532+00:00'
-website: ''
 id: a85705b1-79a6-4168-a33c-b05d3041427f
 image_key: DW2Q2v
 thumb: https://photos.smugmug.com/photos/i-qhztwsf/0/Th/i-qhztwsf-Th.jpg
-draft: 0.7102
 handicap_data:
-  beam: 2.267739575713241
+  thcf: 0.925055261
+  beam: 2.2616
+  draft: 0.7102
+  fore_triangle_height: 6.2484759814679345
+  fore_triangle_base: 4.724457449402585
+  length_over_all: 7.882223847841989
   main:
     foot: 5.18166300902219
     head: 3.9624481833699097
     luff: 3.8100463301633747
-  thcf: 0.925055261
-  draft: 0.7010485247500609
-  length_over_all: 7.882223847841989
-  fore_triangle_base: 4.724457449402585
   length_on_waterline: 6.5532796878810045
-  fore_triangle_height: 6.2484759814679345
-length_on_deck: 7.873
-beam: 2.2616
-for_sale_state:
-  text: for_sale
+  length_on_deck: 7.873
+created_at: '2020-04-25T17:12:01.887449+00:00'
+updated_at: '2022-07-05T20:33:22.84532+00:00'

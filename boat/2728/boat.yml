@@ -3,7 +3,6 @@ oga_no: 2728
 generic_type: unknown
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Hull no 4
 year: 1972
 year_is_approximate: false
@@ -14,30 +13,25 @@ place_built: London
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP, teak deck, alloy spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: ESP
 home_port: Fuengirola, Spain
 hull_form: long keel deep forefoot
 ssr: '377411'
-callsign: ''
 ownerships:
-- end: 2014
-  name: Chris Ennis
-  share: 64
+- name: Chris Ennis
   start: 2004
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2014
+  share: 64
 id: 995e217a-55b4-4a06-bdc8-58b9204be30d
-previous_names:
-- Poppy
-draft: 0
 handicap_data:
-  beam: 3.9624481833699097
+  beam: 3.9624
+  length_over_all: 10.66812972445745
   propellor:
     type: fixed
-  length_over_all: 10.66812972445745
-length_on_deck: 10.668
-beam: 3.9624
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T17:26:10.05054+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Poppy

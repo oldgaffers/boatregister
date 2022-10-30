@@ -24,6 +24,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber 24
+  id: ff83f69b-9762-4ae5-9681-950b5658ad97
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -31,7 +34,7 @@ place_built: Rock
 construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Chichester
@@ -41,35 +44,29 @@ ssr: SSR 142226
 uk_part1: GBB1H24037G999
 callsign: MZWS5
 ownerships:
-- end: 2015
-  name: Simon D Arcy
-  share: 64
+- name: Simon D Arcy
   start: 2003
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  end: 2015
+  share: 64
 website: http://sailingchallenge.blogspot.co.uk/
 id: 7fb4cda1-f551-4a42-8028-dbcec8c1e107
 image_key: WfBtT9
 thumb: https://photos.smugmug.com/photos/i-c7v6544/0/Th/i-c7v6544-Th.jpg
-draft: 1.0668
 handicap_data:
-  beam: 2.5908436966593515
+  thcf: 0.879
+  beam: 2.5908
+  draft: 1.0668
+  fore_triangle_height: 7.543910021945867
+  fore_triangle_base: 4.191069251402097
+  length_over_all: 7.467702999268471
+  propellor:
+    type: fixed
+  sailarea: 33.21608466966262
   main:
     foot: 4.31805657156791
     head: 3.1242440868080954
     luff: 4.597457937088515
-  thcf: 0.879
-  draft: 1.0668251645940015
-  sailarea: 33.21608466966262
-  propellor:
-    type: fixed
-  length_over_all: 7.467702999268471
-  fore_triangle_base: 4.191069251402097
   length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 7.543910021945867
-length_on_deck: 7.4676
-beam: 2.5908
-design_class:
-  name: Cornish Crabber 24
-  id: ff83f69b-9762-4ae5-9681-950b5658ad97
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.4676
+created_at: '2020-04-25T17:20:34.783695+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

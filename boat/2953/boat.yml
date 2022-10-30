@@ -27,56 +27,67 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel round bilge Mahogany on oak Lead Keel Canvas covered
   decks.
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 8000
+- created_at: '2016-01-05T16:24:57+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>Gaff cutter built by Elkins in 1938. 20\u2019 LOD, 7\u2019 beam,\
+    \ 3\u2019 draft. Carvel mahogany on oak, lead keel, Yanmar engine, refitted to\
+    \ survey. British Registry Part 1. Lying Isle of Wight. Winner of YOGAFF Concours\
+    \ d\u2019Elegance, 2010.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: "<p>Gaff cutter built by Elkins in 1938. 20\u2019 LOD, 7\u2019 beam, 3\u2019\
+    \ draft. Carvel mahogany on oak, lead keel, Yanmar engine, refitted to survey.\
+    \ British Registry Part 1.</p>"
+  updated_at: '2020-05-03T10:13:13.280467+00:00'
 home_country: GBR
 home_port: Hayling Island
 hull_form: long keel deep forefoot
 uk_part1: '917620'
-callsign: ''
 ownerships:
-- end: 2010
-  name: Nick and Jill Bredon
-  share: 64
+- name: Nick and Jill Bredon
   start: 2008
-- end: 2015
-  name: Keith Hudson
+  end: 2010
   share: 64
+- name: Keith Hudson
   start: 2010
-- id: 900
+  end: 2015
   share: 64
+- member: 6031
+  id: 900
   start: 2015
-  member: 6031
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 89785200-6dfc-461d-bc50-9cb44e816dfa
-previous_names:
-- Diric
-- Diane
 image_key: gQNGDF
 thumb: https://photos.smugmug.com/photos/i-Ckp8dFZ/0/Th/i-Ckp8dFZ-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 2.081809314801268
+  thcf: 0.827951906
+  beam: 2.0818
+  draft: 0.9144
+  fore_triangle_height: 5.587051938551572
+  fore_triangle_base: 2.871250914411119
+  length_over_all: 6.0960741282613995
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 3.453425993660083
     head: 2.386613021214338
     luff: 2.8194342843208973
-  thcf: 0.827951906
-  draft: 0.9144111192392099
   topsail:
     luff: 2.590831504511095
     perpendicular: 1.3716166788588149
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 6.0960741282613995
-  fore_triangle_base: 2.871250914411119
   length_on_waterline: 5.538283345525482
-  fore_triangle_height: 5.587051938551572
-length_on_deck: 6.096
-beam: 2.0818
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.096
+created_at: '2020-04-25T17:33:06.775636+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Diric
+- Diane

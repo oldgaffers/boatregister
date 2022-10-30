@@ -23,57 +23,50 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: FRA
 home_port: La Rochelle France
 hull_form: long keel deep forefoot
 sail_number: '381'
 uk_part1: '79381'
-callsign: ''
 ownerships:
-- note: Owned by Commander John Burfield, Birdham Pool, for many years in 1970s and
+- start: 1970
+  note: Owned by Commander John Burfield, Birdham Pool, for many years in 1970s and
     1980s, he sold the boat when he was in his 80s to Stuart Spence, 1993, who took
     her to Ireland.
   text: Owned by Commander John Burfield, Birdham Pool, for many years in
-  start: 1970
-  start_is_approximate: false
-- end: 2014
-  name: Stuart Spence
-  share: 64
+- name: Stuart Spence
   start: 1993
-- name: Olivier Guillemin
+  end: 2014
   share: 64
+- name: Olivier Guillemin
   start: 2014
-- note: Sold to a the Maritime Musuem, la Rochelle, France, 2014.
+  share: 64
+- start: 2014
+  note: Sold to a the Maritime Musuem, la Rochelle, France, 2014.
   text: Sold to a the Maritime Musuem, la Rochelle, France,
-  start: 2014
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 17064a1a-8ec4-4c46-a892-d4a99fe4f8d6
 image_key: J56Sv5
 thumb: https://photos.smugmug.com/photos/i-DbmPThw/0/Th/i-DbmPThw-Th.jpg
-draft: 1.8288
 handicap_data:
-  beam: 3.733845403560107
+  thcf: 1.113
+  beam: 3.7582
+  draft: 1.8288
+  fore_triangle_height: 15.087783467446963
+  fore_triangle_base: 6.528895391367959
+  length_over_all: 13.158376005852231
+  propellor:
+    type: fixed
+  sailarea: 118.29414771258735
   main:
     foot: 7.2390880273104115
     head: 6.4770787612777365
     luff: 7.010485247500609
-  thcf: 1.113
-  draft: 1.8288222384784198
   topsail:
     luff: 7.924896366739819
     perpendicular: 4.648256522799317
-  sailarea: 118.29414771258735
-  propellor:
-    type: fixed
-  length_over_all: 13.158376005852231
-  fore_triangle_base: 6.528895391367959
   length_on_waterline: 11.710558400390148
-  fore_triangle_height: 15.087783467446963
-length_on_deck: 13.1582
-beam: 3.7582
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.1582
+created_at: '2020-04-25T16:48:07.833319+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

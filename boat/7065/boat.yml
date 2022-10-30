@@ -3,42 +3,34 @@ oga_no: 7065
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1963
 year_is_approximate: false
 designer:
   name: Peter Brett
   id: 0ac38b88-67d3-4057-bdf1-1e5152a30c2b
+design_class:
+  name: Dee 27
+  id: c57b0b5d-fd39-4ac0-be7d-e9598d65ae16
 builder:
   name: John Tyrell and Sons
   id: 4be67a9f-dcba-45c6-92fd-0d1908dea03b
 place_built: Arklow
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Dublin
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 352
-  share: 64
+- member: 3930
+  id: 352
   start: 2012
-  member: 3930
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: dca0289f-5588-419f-ac43-b07e03b5cdca
-draft: 0
 handicap_data:
-  beam: 3.0480370641306997
+  beam: 3.048
   length_over_all: 11.734942696903193
-length_on_deck: 11.7348
-beam: 3.048
-design_class:
-  name: Dee 27
-  id: c57b0b5d-fd39-4ac0-be7d-e9598d65ae16
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.7348
+created_at: '2020-04-25T17:43:53.361314+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

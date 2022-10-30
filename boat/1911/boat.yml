@@ -3,7 +3,6 @@ oga_no: 1911
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: lug
-short_description: ''
 full_description: David took a "Roxane" hull and fitted her out to his own design,esp.
   the rig.  Log Jun/97
 year: 1996
@@ -18,37 +17,30 @@ place_built: Plymouth
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel sloping forefoot
 reference:
 - Log Jun 97
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 347695ee-c434-4ab4-9a89-c352f9aa7ec8
-draft: 0.7102
 handicap_data:
-  beam: 2.691416727627408
+  thcf: 0.985344847
+  beam: 2.6914
+  draft: 0.7102
+  fore_triangle_height: 8.205315776639845
+  fore_triangle_base: 4.700073152889539
+  length_over_all: 9.1441111923921
+  propellor:
+    type: folding
   main:
     foot: 4.901243599122164
     head: 4.953060229212387
     luff: 6.452694464764692
-  thcf: 0.985344847
-  draft: 0.7101926359424531
   mizzen:
     foot: 2.13362594489149
     head: 2.13362594489149
     luff: 2.4628139478176054
-  propellor:
-    type: folding
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 4.700073152889539
   length_on_waterline: 8.1016825164594
-  fore_triangle_height: 8.205315776639845
-length_on_deck: 9.144
-beam: 2.6914
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:12:07.232987+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

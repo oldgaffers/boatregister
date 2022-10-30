@@ -23,40 +23,32 @@ builder:
 place_built: Hamble
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Cowes
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- end: 2009
-  name: D Phillips
-  share: 64
+- name: D Phillips
   start: 0
-- name: Steve Meakin
+  end: 2009
   share: 64
+- name: Steve Meakin
   start: 2009
-- share: 64
-  member: 5111
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: www.cormorantsails.co.uk
 id: 22735e25-e4fa-42b8-a731-7437083b4e27
 image_key: wF3WSN
 thumb: https://photos.smugmug.com/photos/i-qkrD9Fp/0/Th/i-qkrD9Fp-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.286027798098025
+  beam: 2.286
+  draft: 1.2192
+  length_over_all: 9.1441111923921
   main:
     foot: 4.87685930260912
     head: 3.291880029261156
     luff: 3.6576444769568397
-  draft: 1.5240185320653499
-  length_over_all: 9.1441111923921
   length_on_waterline: 7.543891733723481
-length_on_deck: 9.144
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T16:54:05.50672+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

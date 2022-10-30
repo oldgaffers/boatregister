@@ -3,13 +3,14 @@ oga_no: 2878
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1978
 year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+design_class:
+  name: Drascombe Drifter
+  id: f87e1824-67f1-4d99-a8d1-4e3ed6d5650c
 builder:
   name: Honnor Marine Ltd.
   id: 2e1683ac-2223-480f-9412-be351f564ae9
@@ -17,35 +18,23 @@ place_built: Totness
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Newport IoW
 hull_form: long keel deep forefoot
 sail_number: '66'
 ssr: '82993'
-callsign: ''
 ownerships:
 - name: David Codd
-  share: 64
   start: 2008
-- share: 64
-  member: 4063
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 904aba58-fc85-4abc-9cdf-c20b9399f0bc
-draft: 0.6096
 handicap_data:
-  beam: 2.2098268714947573
-  draft: 0.60960741282614
+  beam: 2.2098
+  draft: 0.6096
   length_over_all: 6.5532796878810045
   length_on_waterline: 5.577907827359181
-length_on_deck: 6.5532
-beam: 2.2098
-design_class:
-  name: Drascombe Drifter
-  id: f87e1824-67f1-4d99-a8d1-4e3ed6d5650c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.5532
+created_at: '2020-04-25T17:29:47.819867+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

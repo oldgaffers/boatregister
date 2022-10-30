@@ -3,7 +3,6 @@ oga_no: 815
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: 1988 owned  till 21/05/00.  Incomplete Handicap details? Log 90/3(mis-spelt
   Swish). 90/4, Jun/98
 year: 1895
@@ -18,36 +17,30 @@ place_built: Rowhedge
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel teak on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Slaughden
 hull_form: unknown
 reference:
 - Log 90/3
 - Log 90/4
 - Log Jun 98
-callsign: ''
 ownerships:
 - name: David Gifford
-  share: 64
   start: 2000
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: d11befe0-fa19-418b-a268-3352777a7616
-draft: 1.1278
 handicap_data:
-  beam: 2.0726652036088757
+  thcf: 0.820683357
+  beam: 2.0726
+  draft: 1.1278
+  fore_triangle_height: 5.6388685686417945
+  length_over_all: 6.019873201658132
   main:
     foot: 4.343452816386247
     head: 4.343452816386247
     luff: 2.103145574250183
-  thcf: 0.820683357
-  draft: 1.127773713728359
-  length_over_all: 6.019873201658132
   length_on_waterline: 5.395025603511338
-  fore_triangle_height: 5.6388685686417945
-length_on_deck: 6.0198
-beam: 2.0726
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.0198
+created_at: '2020-04-25T16:54:41.869012+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 1278
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log Au/93
 year: 1978
 year_is_approximate: false
@@ -17,30 +16,24 @@ place_built: Maldon
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferro-cement hull, plywood deck, timber spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: London
 hull_form: long keel deep forefoot
 reference:
 - Log Aug 93
-callsign: ''
 ownerships:
 - name: A Ratcliffe
-  share: 64
   start: 1976
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: af1b2fbf-c4cd-4a2e-b05e-69867ba76e32
-draft: 0.9144
 handicap_data:
-  beam: 2.5146305779078273
-  draft: 0.9144111192392099
+  beam: 2.5146
+  draft: 0.9144
+  length_over_all: 8.22970007315289
   propellor:
     type: fixed
-  length_over_all: 8.22970007315289
   length_on_waterline: 7.010485247500609
-length_on_deck: 8.2296
-beam: 2.5146
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.2296
+created_at: '2020-04-25T17:02:35.722545+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

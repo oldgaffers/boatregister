@@ -3,7 +3,6 @@ oga_no: 522
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 82/1 Yacht on thonier lines, kept in Jersey untill outbreak
   of Secong War.
 year: 1933
@@ -18,34 +17,27 @@ place_built: Trentemoult
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel, oak on oak sawn frames and Canadien rock elm timbers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 82/1
 uk_part1: '165748'
-callsign: ''
 ownerships:
 - name: G Breen-Turner
-  share: 64
   start: 1981
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 67a374ae-10cf-4205-83a3-c7e64adc9362
+handicap_data:
+  beam: 3.109
+  draft: 1.585
+  length_over_all: 11.338697878566204
+  propellor:
+    type: fixed
+  length_on_waterline: 8.53450377956596
+  length_on_deck: 11.3386
+created_at: '2020-04-25T16:50:14.529098+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Lorient
 - Niort
-draft: 1.585
-handicap_data:
-  beam: 3.1089978054133134
-  draft: 1.584979273347964
-  propellor:
-    type: fixed
-  length_over_all: 11.338697878566204
-  length_on_waterline: 8.53450377956596
-length_on_deck: 11.3386
-beam: 3.109
-for_sale_state:
-  text: not_for_sale

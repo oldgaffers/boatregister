@@ -3,39 +3,32 @@ oga_no: 2936
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1996
 year_is_approximate: false
 designer:
   name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
+design_class:
+  name: Norfolk Oyster
+  id: e2a40245-e1b5-4ecc-b5f9-0586f83eff5f
 builder:
   name: Norfolk Boatyard Ltd.
   id: 896f8250-7d4d-4662-b66e-a66ee78f1fd1
 place_built: Holt
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_port: Ferryside
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Liam Cassidy
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ce3acf87-7385-4cfb-9910-7f6082545792
-draft: 0
 handicap_data:
-  beam: 1.8806388685686417
+  beam: 1.8806
   length_over_all: 5.129846378931967
-length_on_deck: 5.1298
-beam: 1.8806
-design_class:
-  name: Norfolk Oyster
-  id: e2a40245-e1b5-4ecc-b5f9-0586f83eff5f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1298
+created_at: '2020-04-25T17:32:51.123278+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

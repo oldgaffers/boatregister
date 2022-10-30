@@ -19,26 +19,30 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: carvel mahogany on oak
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 0
+- created_at: '2020-10-31T15:53:35.202013+00:00'
+  flexibility: any
+  offered: null
+  price_flexibility:
+    text: any
+  reduced: false
+  sales_text: Truant is lying on an Orwell Yacht Club mooring which must be vacated
+    by the end of 2020. Her owner has been unable to visit and so cannot confirm her
+    condition. She is free to a good home, complete with winter cradle and hope is
+    offered towards moving her..
+  seller_gold_id: 701
+  seller_member: 5637
+  sold: null
+  summary: null
+  updated_at: '2020-10-31T15:53:35.202013+00:00'
 home_country: GBR
-home_port: ''
 hull_form: long keel sloping forefoot
-callsign: ''
-ownerships:
-- id: 701
-  share: 64
-  member: 5637
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+ownerships: []
 id: 2d143cd8-a91a-4da5-9a36-690e7707948f
 image_key: 5jtgxC
 thumb: https://photos.smugmug.com/photos/i-RHQGBhq/0/Th/i-RHQGBhq-Th.jpg
-draft: 0
-length_on_deck: 0
-beam: 0
-for_sale_state:
-  text: for_sale
+created_at: '2020-04-25T18:37:23.484582+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  length_on_deck: 0

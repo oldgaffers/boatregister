@@ -4,59 +4,50 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gunter
 short_description: <p>Mincarlo is Gypsy no 19</p>
-full_description: ''
 year: 1992
 year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+design_class:
+  name: Norfolk Gypsy
+  id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
 builder:
   name: North Norfolk Boatbuilding Co./Charlie Ward
   id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
 place_built: Moreston
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Seaview
 hull_form: long keel deep forefoot
 sail_number: '19'
-callsign: ''
 ownerships:
 - name: Hew Hallybone
-  share: 64
   start: 2010
-- id: 1065
   share: 64
-  member: 6318
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 81ee9d2e-6392-40a8-a866-775b944141f0
 image_key: VCjcKr
 thumb: https://photos.smugmug.com/photos/i-CDDVSnH/0/Th/i-CDDVSnH-Th.jpg
-draft: 0.5182
 handicap_data:
+  beam: 2.286
+  draft: 0.5182
+  fore_triangle_height: 4.8768
+  fore_triangle_base: 2.4384
+  sailarea: 6
   main:
     foot: 13.75
     head: 10.17
     luff: 10
-  sailarea: 6
   moving_keel: true
   length_overall: 6.0442
   calculated_thcf: 0.824
   draft_keel_down: 1.1887
   moving_keel_type: Centreboard
   length_over_spars: 7.2238
-  fore_triangle_base: 2.4384
   length_on_waterline: 5.4102
-  fore_triangle_height: 4.8768
-length_on_deck: 6.0442
-beam: 2.286
-design_class:
-  name: Norfolk Gypsy
-  id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.0442
+created_at: '2020-04-25T17:53:58.64642+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

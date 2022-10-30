@@ -3,38 +3,30 @@ oga_no: 2747
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1982
 year_is_approximate: false
 designer:
   name: Laurie Harbottell
   id: 429d5fa7-e592-464a-9e6e-611903d6fe0e
+design_class:
+  name: Finesse 21
+  id: d119bfdd-3b06-4b8a-9675-384a025c62e4
 builder:
   name: Alan F. Platt  Ltd
   id: 954dc050-837f-454f-be87-830d8cf00c2b
 place_built: Thundersley
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2014
-  name: Julia Raper
-  share: 64
+- name: Julia Raper
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2014
+  share: 64
 id: 7630de99-8fc1-4a48-a689-483def200376
-draft: 0
-length_on_deck: 0
-beam: 0
-design_class:
-  name: Finesse 21
-  id: d119bfdd-3b06-4b8a-9675-384a025c62e4
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:26:32.957728+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  length_on_deck: 0

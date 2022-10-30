@@ -17,29 +17,21 @@ builder:
 place_built: Brightlingsea
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- note: Listed as for sale, June 2007
+- start: 2007
+  note: Listed as for sale, June 2007
   text: Listed as for sale, June
-  start: 2007
-  start_is_approximate: false
 - name: D Crisp
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e59701ed-f29a-4ccd-8046-480e5e895e90
-draft: 0
 handicap_data:
-  beam: 2.590831504511095
+  beam: 2.5908
   length_over_all: 8.53450377956596
   length_on_waterline: 8.168739331870276
-length_on_deck: 8.5344
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T16:54:22.855288+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

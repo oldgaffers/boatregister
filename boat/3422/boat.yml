@@ -3,7 +3,6 @@ oga_no: 3422
 generic_type: Dinghy
 rig_type: single_sail
 mainsail_type: lug
-short_description: ''
 full_description: "<p>First produced in the early 1970&#39;s from one of the last\
   \ wooden dinghies built by master craftsman Alf Last of Cooks Barge Yard, Maldon,\
   \ it has been evolving ever since. Early versions were sold to yacht and smack owners\
@@ -18,6 +17,9 @@ year_is_approximate: false
 designer:
   name: Alf Last
   id: f6e9f88a-6f88-40f7-82d2-e700bf57d1c5
+design_class:
+  name: Brian Kennel Smacks Boat
+  id: 99ce7ec6-76a6-4944-9bd9-113a47a51ac2
 builder:
   name: Brian Kennell
   id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
@@ -25,35 +27,28 @@ place_built: Layer Breton
 construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Salisbury
 hull_form: centre-board dinghy
-callsign: ''
 ownerships:
-- id: 394
-  share: 64
+- member: 4164
+  id: 394
   start: 2019
-  member: 4164
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 3dab62e0-22cb-48fb-af73-2aa63d7faceb
 image_key: dRLhhz
 thumb: https://photos.smugmug.com/photos/i-vQ9SQrM/0/Th/i-vQ9SQrM-Th.jpg
-draft: 0.1524
 handicap_data:
-  sailarea: 0
+  beam: 1.524
+  draft: 0.1524
   moving_keel: true
   length_overall: 3.7338
   draft_keel_down: 0.8382
   moving_keel_type: Centreboard
   length_over_spars: 3.7338
-length_on_deck: 3.7338
-beam: 1.524
-design_class:
-  name: Brian Kennel Smacks Boat
-  id: 99ce7ec6-76a6-4944-9bd9-113a47a51ac2
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.7338
+created_at: '2020-04-25T17:54:07.635993+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -31,7 +31,7 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Chichester
@@ -39,36 +39,31 @@ hull_form: long keel sloping forefoot
 sail_number: GBR4573L
 callsign: MFMA7
 ownerships:
-- end: 1940
+- start: 1935
+  end: 1940
   text: Capt. W. Ivan Nicholson
-  start: 1935
-  end_is_approximate: true
-- end: 1954
+- start: 1940
+  end: 1954
   text: EJA Freeman
-  start: 1940
-  start_is_approximate: true
-- end: 1973
+- start: 1955
+  end: 1973
   text: F. Whitacker
-  start: 1955
-  end_is_approximate: true
-- end: 2019
+- start: 1993
+  end: 2019
   text: Alan West
-  start: 1993
-- id: 34609
+- member: 6369
+  id: 34609
+  start: 2019
   end: 2022
   share: 64
-  start: 2019
-  member: 6369
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 46b92ea5-ced8-4a4b-8314-0927c4f4574e
 image_key: PCTQ7M
 thumb: https://photos.smugmug.com/photos/i-kMLWjs6/0/Th/i-kMLWjs6-Th.jpg
-draft: 1.2192
 handicap_data:
+  beam: 2.4079
+  draft: 1.2192
   length_overall: 6.858
   length_on_waterline: 5.334
-length_on_deck: 6.858
-beam: 2.4079
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.858
+created_at: '2020-04-25T17:55:03.12352+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

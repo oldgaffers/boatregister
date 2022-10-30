@@ -25,75 +25,72 @@ place_built: Looe
 construction_material: wood
 construction_method: unknown
 construction_details: Mahogany on oak (7 inch centres)
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Woodbridge
 hull_form: long keel sloping forefoot
 sail_number: '1020'
 uk_part1: '184112'
-callsign: ''
 ownerships:
-- end: 1953
-  name: Lt. Col. F.P. Marshall
-  share: 64
+- name: Lt. Col. F.P. Marshall
   start: 1949
-- end: 1954
-  name: J Jervis
+  end: 1953
   share: 64
+- name: J Jervis
   start: 1953
-- end: 1975
-  name: A Stock
+  end: 1954
   share: 64
+- name: A Stock
   start: 1954
-- end: 1979
-  name: Air Vice Marshall J Downey
+  end: 1975
   share: 64
+- name: Air Vice Marshall J Downey
   start: 1975
-- end: 1990
-  name: J Pickup
+  end: 1979
   share: 64
+- name: J Pickup
   start: 1979
-- end: 1993
-  name: A Cowell
+  end: 1990
   share: 64
+- name: A Cowell
   start: 1990
-- end: 2000
-  name: D Barnett
+  end: 1993
   share: 64
+- name: D Barnett
   start: 1993
-- end: 2010
-  name: C Nodder
+  end: 2000
   share: 64
+- name: C Nodder
   start: 2000
-- id: 937
+  end: 2010
   share: 64
+- member: 6122
+  id: 937
   start: 2010
-  member: 6122
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fb41b82d-f535-4f27-9c3d-7a5d52c7b49f
-previous_names:
-- Framar ll
 image_key: PDrFVV
 thumb: https://photos.smugmug.com/photos/i-9XvV6mS/0/Th/i-9XvV6mS-Th.jpg
-draft: 1.3106
 handicap_data:
+  beam: 2.9566
+  draft: 1.3106
+  fore_triangle_height: 9.7536
+  fore_triangle_base: 4.2672
+  sailarea: 5
   main:
     foot: 17
     luff: 38.5
-  sailarea: 5
   moving_keel: true
   length_overall: 11.4605
   calculated_thcf: 0.992
   draft_keel_down: 1.9812
   moving_keel_type: Centreboard
   length_over_spars: 11.4605
-  fore_triangle_base: 4.2672
   length_on_waterline: 8.4125
-  fore_triangle_height: 9.7536
-length_on_deck: 11.4605
-beam: 2.9566
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.4605
+created_at: '2020-04-25T17:51:21.687566+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Framar ll

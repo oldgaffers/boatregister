@@ -14,6 +14,9 @@ year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+design_class:
+  name: Morbic 12
+  id: 6aec3558-8f5a-47c2-8dd1-e7c63333aa55
 builder:
   name: Adrian Donovan
   id: 7b3ce111-52de-480e-89f9-c71ea9c9db23
@@ -22,44 +25,39 @@ construction_material: woodepoxy
 construction_method: clinker_ply
 construction_details: "Epoxy Ply Clinker - Iroko top strake, gunwhales, thwart, trim,\
   \ side benches.\r\nSpars spruce except the bowsprit which is oak."
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Southampton
 hull_form: long keel deep forefoot
 sail_number: None.
-callsign: ''
 ownerships:
-- id: 532
-  share: 64
+- member: 4853
+  id: 532
   start: 2016
-  member: 4853
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 557a15cb-3efd-40fb-9489-150b9c031961
 image_key: kBP9T9
 thumb: https://photos.smugmug.com/photos/i-w9mLjL7/0/Th/i-w9mLjL7-Th.jpg
-draft: 1.8288
 handicap_data:
+  beam: 1.5514
+  draft: 1.8288
+  fore_triangle_height: 3.6576
+  fore_triangle_base: 1.524
+  sailarea: 1
   main:
     foot: 9.35
     head: 8.69
     luff: 7.05
-  sailarea: 1
   moving_keel: true
   length_overall: 3.6576
   calculated_thcf: 0.744
   draft_keel_down: 0.7315
   moving_keel_type: Centreboard
   length_over_spars: 4.3891
-  fore_triangle_base: 1.524
   length_on_waterline: 3.3528
-  fore_triangle_height: 3.6576
-length_on_deck: 3.6576
-beam: 1.5514
-design_class:
-  name: Morbic 12
-  id: 6aec3558-8f5a-47c2-8dd1-e7c63333aa55
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.6576
+created_at: '2020-04-25T17:51:17.489945+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+hin: GB ADB M1202 F 16 11

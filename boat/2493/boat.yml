@@ -28,50 +28,45 @@ place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on double sawn oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Southampton
 hull_form: long keel deep forefoot
 sail_number: '1000'
 uk_part1: '166191'
-callsign: ''
 ownerships:
-- end: 2014
-  name: Roger Taylor
-  share: 64
+- name: Roger Taylor
   start: 2000
-- id: 50
+  end: 2014
   share: 64
+- member: 1206
+  id: 50
   start: 2014
-  member: 1206
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 40c65ed9-1662-44ae-ad1e-7f3f6f4659ea
 image_key: qNcDgS
 thumb: https://photos.smugmug.com/photos/i-3qFpQHB/0/Th/i-3qFpQHB-Th.jpg
-draft: 1.396
 handicap_data:
-  beam: 2.9992684711046085
+  thcf: 0.967
+  beam: 2.9962
+  draft: 1.396
+  fore_triangle_height: 9.299561082662764
+  fore_triangle_base: 5.199951231406973
+  length_over_all: 9.19897585954645
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 56.56279034053261
   main:
     foot: 6.599000243842965
     head: 5.300536454523287
     luff: 4.498902706656913
-  thcf: 0.967
-  draft: 1.3990490124359911
   topsail:
     luff: 5.4864667154352595
     perpendicular: 2.43842965130456
-  sailarea: 56.56279034053261
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 9.19897585954645
-  fore_triangle_base: 5.199951231406973
   length_on_waterline: 8.299804925627896
-  fore_triangle_height: 9.299561082662764
-length_on_deck: 9.1958
-beam: 2.9962
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.1958
+created_at: '2020-04-25T17:21:34.575183+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

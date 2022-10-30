@@ -28,43 +28,38 @@ place_built: Arnside
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Larch on sawn oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Wirral
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2016
-  name: A Martyn
-  share: 64
+- name: A Martyn
   start: 1979
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2016
+  share: 64
 id: 49673429-8fa4-4805-9629-f8653f9780ba
-previous_names:
-- Olive
 image_key: kFGBsg
 thumb: https://photos.smugmug.com/photos/i-xxFWf8P/0/Th/i-xxFWf8P-Th.jpg
-draft: 1.0668
 handicap_data:
-  beam: 2.8041940990002434
+  thcf: 0.997073793
+  beam: 2.8042
+  draft: 1.0668
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 6.705681541087539
+  length_over_all: 9.75371860521824
+  propellor:
+    type: fixed
   main:
     foot: 6.2484759814679345
     head: 5.4864667154352595
     luff: 4.87685930260912
-  thcf: 0.997073793
-  draft: 1.066812972445745
   topsail:
     luff: 2.43842965130456
     perpendicular: 4.724457449402585
-  propellor:
-    type: fixed
-  length_over_all: 9.75371860521824
-  fore_triangle_base: 6.705681541087539
   length_on_waterline: 8.83930748597903
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 9.7536
-beam: 2.8042
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T16:59:36.359465+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Olive

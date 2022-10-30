@@ -3,7 +3,6 @@ oga_no: 2158
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: This open boat is a Clovelly Picarooner, built by Gaffers and Luggers
   of Mylor in 1998
 year: 1998
@@ -11,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+design_class:
+  name: Clovelly Picarooner
+  id: 11aace65-18e9-4ec8-b204-763199e59f90
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -18,40 +20,28 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP Hull
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: ''
 home_port: Deben/Trailable
 hull_form: unknown
 sail_number: CP42
-ssr: ''
-uk_part1: ''
-callsign: ''
 ownerships:
 - name: Clive Ffitch
-  share: 64
   start: 1998
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 3f33c94d-3f71-46e0-8d55-135834025ec1
-nsbr: ''
-draft: 0.3048
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.774744212
+  beam: 1.8288
+  draft: 0.3048
+  fore_triangle_height: 3.749085588880761
+  fore_triangle_base: 1.9507437210436478
+  length_over_all: 4.724457449402585
   main:
     foot: 3.0480370641306997
     head: 2.5146305779078273
     luff: 2.13362594489149
-  thcf: 0.774744212
-  draft: 0.30480370641307
-  length_over_all: 4.724457449402585
-  fore_triangle_base: 1.9507437210436478
   length_on_waterline: 4.480614484272128
-  fore_triangle_height: 3.749085588880761
-length_on_deck: 4.7244
-beam: 1.8288
-design_class:
-  name: Clovelly Picarooner
-  id: 11aace65-18e9-4ec8-b204-763199e59f90
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.7244
+created_at: '2020-04-25T17:15:51.206077+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

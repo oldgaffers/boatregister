@@ -3,13 +3,14 @@ oga_no: 1955
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1993
 year_is_approximate: false
 designer:
   name: Alan Pape
   id: 7ba2e3ee-165d-4af8-ab62-3741e9fc24d2
+design_class:
+  name: Saga 31
+  id: 22345373-7941-43de-9fa3-4bb2bbb0f135
 builder:
   name: Caton Classic Yachts
   id: 06f874d1-cfa8-4ed9-a531-afebc630a9b0
@@ -17,36 +18,28 @@ place_built: Caernarfon
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP sheathed timber
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Holyhead
 hull_form: long keel sloping forefoot
 uk_part1: '712815'
-callsign: ''
 ownerships:
-- end: 2014
-  name: Colin Goddard
-  share: 64
+- name: Colin Goddard
   start: 2012
-- id: 773
+  end: 2014
   share: 64
+- member: 5790
+  id: 773
   start: 2014
-  member: 5790
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fc82f5fb-b124-4977-966e-2df581b62b95
-draft: 1.4722
 handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.4996342355523042
+  beam: 2.8956
+  draft: 1.4722
   length_over_all: 9.296513045598633
   length_on_waterline: 7.620092660326749
-length_on_deck: 9.2964
-beam: 2.8956
-design_class:
-  name: Saga 31
-  id: 22345373-7941-43de-9fa3-4bb2bbb0f135
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.2964
+created_at: '2020-04-25T17:12:50.079194+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

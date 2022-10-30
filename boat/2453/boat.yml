@@ -4,7 +4,6 @@ generic_type: Morecambe Bay Prawner
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Thistle is a Morecambe Bay Prawner</p>
-full_description: ''
 year_is_approximate: false
 designer:
   name: Crossfield
@@ -15,31 +14,19 @@ builder:
 place_built: Arnside
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2002
-  name: R Angell
-  share: 64
+- name: R Angell
   start: 1996
-- id: 232
+  end: 2002
   share: 64
-  member: 3217
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 87f1cebf-c705-4d9d-b772-17674fdf9cfa
-draft: 0.9144
 handicap_data:
-  beam: 2.234211168007803
-  draft: 0.9144111192392099
+  beam: 2.2342
+  draft: 0.9144
   length_over_all: 7.924896366739819
-length_on_deck: 7.9248
-beam: 2.2342
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9248
+created_at: '2020-04-25T17:20:58.26964+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -13,6 +13,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -20,29 +23,24 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: P46
-callsign: ''
 ownerships:
 - name: James and Liz Goodwin
-  share: 64
   start: 2015
-- id: 876
   share: 64
-  member: 5985
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 2abc8d0c-3f18-444e-acc2-c5eb95f919d4
 image_key: FQQ92Z
 thumb: https://photos.smugmug.com/photos/i-Zmr79NV/0/Th/i-Zmr79NV-Th.jpg
-draft: 1.0668
 handicap_data:
+  beam: 2.8956
+  draft: 1.0668
+  fore_triangle_height: 8.382
+  fore_triangle_base: 5.9131
+  sailarea: 5
   main:
     foot: 17.9
     head: 14.3
@@ -50,17 +48,10 @@ handicap_data:
   topsail:
     luff: 14.3
     perpendicular: 6
-  sailarea: 5
   length_overall: 9.144
   calculated_thcf: 0.972
   length_over_spars: 11.8872
-  fore_triangle_base: 5.9131
   length_on_waterline: 7.8638
-  fore_triangle_height: 8.382
-length_on_deck: 9.144
-beam: 2.8956
-design_class:
-  name: Cornish Crabber Pilot Cutter 30
-  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:47:29.509092+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -10,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Morgan Giles
   id: f1bc585c-9638-4fd8-8fc7-f382b028513c
+design_class:
+  name: Thames Estuary OD
+  id: 2bba407e-7ddd-42fa-ad7c-b3807aeb5275
 builder:
   name: H.E. Cole
   id: a0fb014b-5bc9-4db7-b639-37dbecd7cde8
@@ -18,7 +21,7 @@ construction_material: wood
 spar_material: wood
 construction_method: clinker
 construction_details: clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: ''
@@ -28,22 +31,16 @@ reference:
 callsign: ''
 ownerships:
 - name: P J T Millen
-  share: 64
   start: 1974
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: ''
 id: b27646c6-cde6-42d4-82b4-4935fbf11ec7
 image_key: XDJdMs
-draft: 0.4054
 handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.396244818336991
+  beam: 1.8288
+  draft: 0.4054
   length_over_all: 5.4864667154352595
   length_on_waterline: 5.120702267739576
-length_on_deck: 5.4864
-beam: 1.8288
-design_class:
-  name: Thames Estuary OD
-  id: 2bba407e-7ddd-42fa-ad7c-b3807aeb5275
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T16:42:45.189157+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

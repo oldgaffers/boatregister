@@ -3,7 +3,6 @@ oga_no: 683
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: 1997 Owned by Bob's father until his death in 1995. In Island Harbour
   Marina Newport IoW in a very sorry state - for sale or more likely scrapped. Log
   73/2, 80/1
@@ -19,41 +18,34 @@ place_built: Littlehampton
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on American elm bent frames, copper fastened
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 73/2
 - Log 80/1
-callsign: ''
 ownerships:
 - name: Bob Hathaway
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 68a0315b-ed6b-4acb-accc-10d320dcaa61
-draft: 1.3716
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.887766671
+  beam: 2.1336
+  draft: 1.3716
+  fore_triangle_height: 8.53450377956596
+  fore_triangle_base: 3.6576444769568397
+  length_over_all: 6.2484759814679345
+  propellor:
+    type: fixed
   main:
     foot: 3.9624481833699097
     head: 3.581443550353572
     luff: 4.26725188978298
-  thcf: 0.887766671
-  draft: 1.3716166788588149
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.3716166788588149
-  propellor:
-    type: fixed
-  length_over_all: 6.2484759814679345
-  fore_triangle_base: 3.6576444769568397
   length_on_waterline: 5.882711533772251
-  fore_triangle_height: 8.53450377956596
-length_on_deck: 6.2484
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.2484
+created_at: '2020-04-25T16:52:42.774211+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 1921
 generic_type: Dinghy
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Reputed to have been built at Ipswich in 1960.
 year: 1972
 year_is_approximate: false
@@ -11,41 +10,35 @@ place_built: Welshpool
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Clinker Ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Richard Negus
-  share: 64
   start: 2000
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 75c01107-89d0-4167-9b2d-759b161faae1
-previous_names:
-- Sheona
-draft: 0.3048
 handicap_data:
-  beam: 1.8806388685686417
+  thcf: 0.79237279
+  beam: 1.8806
+  draft: 0.3048
+  fore_triangle_height: 4.023408924652523
+  fore_triangle_base: 2.6426481346013166
+  length_over_all: 5.358449158741769
   main:
     foot: 2.3774689100219457
     head: 2.042184832967569
     luff: 2.2250670568154107
-  thcf: 0.79237279
-  draft: 0.30480370641307
-  mizzen:
-    foot: 1.6154596439892708
-    luff: 3.0480370641306997
   topsail:
     luff: 1.8288222384784198
     perpendicular: 1.6154596439892708
-  length_over_all: 5.358449158741769
-  fore_triangle_base: 2.6426481346013166
+  mizzen:
+    foot: 1.6154596439892708
+    luff: 3.0480370641306997
   length_on_waterline: 4.825042672518897
-  fore_triangle_height: 4.023408924652523
-length_on_deck: 5.3584
-beam: 1.8806
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.3584
+created_at: '2020-04-25T17:12:16.292695+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Sheona

@@ -5,7 +5,6 @@ rig_type: Yawl
 mainsail_type: gaff
 short_description: <p>&#39;Leona&#39; is a canoe yawl built 1906, Leigh on Sea. She
   has a single gaff headsail and lug mizzen.</p>
-full_description: ''
 year: 1906
 year_is_approximate: false
 designer:
@@ -19,44 +18,34 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel, yellow pine planks on oak frames with a pitch pine keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Woodbridge, Suffolk
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 1992
-  name: Jamie Clay
-  share: 64
+- name: Jamie Clay
   start: 1990
-- end: 2015
-  name: John May
+  end: 1992
   share: 64
+- name: John May
   start: 1992
+  end: 2015
+  share: 64
 - name: Dick Wynne
-  share: 64
   start: 2015
-- id: 354
   share: 64
-  member: 3950
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: bdacb7c6-8d76-4a5c-add7-0ff1c7a7d966
+image_key: VFtNmK
+thumb: https://photos.smugmug.com/photos/i-hV6Q885/0/Th/i-hV6Q885-Th.jpg
+handicap_data:
+  beam: 2.286
+  draft: 1.6002
+  length_over_all: 7.315288953913679
+  length_on_waterline: 5.9436722750548645
+  length_on_deck: 7.3152
+created_at: '2020-04-25T16:54:22.163091+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Blue Jay
 - Leona
-image_key: VFtNmK
-thumb: https://photos.smugmug.com/photos/i-hV6Q885/0/Th/i-hV6Q885-Th.jpg
-draft: 1.6002
-handicap_data:
-  beam: 2.286027798098025
-  draft: 1.6002194586686174
-  length_over_all: 7.315288953913679
-  length_on_waterline: 5.9436722750548645
-length_on_deck: 7.3152
-beam: 2.286
-for_sale_state:
-  text: not_for_sale

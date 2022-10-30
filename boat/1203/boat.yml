@@ -3,8 +3,6 @@ oga_no: 1203
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1981
 year_is_approximate: false
 designer:
@@ -17,37 +15,30 @@ place_built: Maldon
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferro Cement
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 uk_part1: '388732'
-callsign: ''
 ownerships:
 - name: B & J F Fryatt
-  share: 64
   start: 1985
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fcbdc305-3484-4b82-91bd-86d29b720d4a
-draft: 1.8288
 handicap_data:
-  beam: 3.581443550353572
+  thcf: 1.006401627
+  beam: 3.5814
+  draft: 1.8288
+  fore_triangle_height: 10.36332601804438
+  fore_triangle_base: 8.53450377956596
+  length_over_all: 10.271884906120459
   main:
     foot: 6.5532796878810045
     head: 4.87685930260912
     luff: 4.419653742989515
-  thcf: 1.006401627
-  draft: 1.8288222384784198
   topsail:
     luff: 4.800658376005852
     perpendicular: 3.0480370641306997
-  length_over_all: 10.271884906120459
-  fore_triangle_base: 8.53450377956596
   length_on_waterline: 8.83930748597903
-  fore_triangle_height: 10.36332601804438
-length_on_deck: 10.2718
-beam: 3.5814
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.2718
+created_at: '2020-04-25T17:01:25.120902+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

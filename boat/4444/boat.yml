@@ -3,7 +3,6 @@ oga_no: 4444
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Ref. Yachting Monthly January 1973
 year: 1974
 year_is_approximate: false
@@ -17,27 +16,20 @@ place_built: Wallsend/Rosneath
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Build  Coaten Steel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 uk_part1: '364962'
-callsign: ''
 ownerships:
 - name: Brendan Daly  Bruckless
-  share: 64
   start: 1988
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: abe37ffd-1f0d-4b2e-acdc-0b0e778efb55
-draft: 1.2192
 handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.21921482565228
+  beam: 2.7432
+  draft: 1.2192
   length_over_all: 23.774689100219458
   length_on_waterline: 6.0960741282613995
-length_on_deck: 23.7744
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 23.7744
+created_at: '2020-04-25T17:38:42.448616+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

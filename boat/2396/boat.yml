@@ -28,7 +28,7 @@ place_built: Yarmouth IOW
 construction_material: grp
 construction_method: cold_moulded
 construction_details: Wooden spars, GRP hull
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Portscatho, Cornwall
@@ -36,30 +36,27 @@ hull_form: long keel sloping forefoot
 sail_number: '10'
 ssr: '94180'
 callsign: ZQYQ3
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: https://y23freya.wordpress.com
 id: 2e9ece19-bde5-465c-a8ae-d340e5e3327c
 image_key: bQr7SL
 thumb: https://photos.smugmug.com/photos/i-65jsVdR/0/Th/i-65jsVdR-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.856078527
+  beam: 2.286
+  draft: 0.9144
+  fore_triangle_height: 5.9436722750548645
+  fore_triangle_base: 3.3528407705437697
+  length_over_all: 6.882467690807119
+  propellor:
+    type: fixed
   main:
     foot: 3.9624481833699097
     head: 2.7432333577176298
     luff: 3.6576444769568397
-  thcf: 0.856078527
-  draft: 0.9144111192392099
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.6764203852718849
-  propellor:
-    type: fixed
-  length_over_all: 6.882467690807119
-  fore_triangle_base: 3.3528407705437697
   length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 5.9436722750548645
-length_on_deck: 6.8824
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8824
+created_at: '2020-04-25T17:19:27.072666+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

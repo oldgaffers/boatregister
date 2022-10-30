@@ -3,52 +3,43 @@ oga_no: 1828
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1951
 year_is_approximate: false
+design_class:
+  name: Guernsey Junior Offshore
+  id: 5cd1b3c4-5d1a-4729-80d8-85b8c20f467f
 builder:
   name: Guernsey Yacht Yard
   id: 43227e1d-2049-4300-a8c6-bbb48f3af56f
 construction_material: wood
 construction_method: carvel
 construction_details: Oak on Oak Frames  Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 uk_part1: '182818'
-callsign: ''
 ownerships:
 - name: D V Seddon
-  share: 64
   start: 1989
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 1456bc6e-b0e7-494e-9736-d653c7a36f74
-draft: 1.0668
 handicap_data:
-  beam: 2.386613021214338
+  thcf: 0.821627269
+  beam: 2.3866
+  draft: 1.0668
+  fore_triangle_height: 5.18166300902219
+  fore_triangle_base: 2.691416727627408
+  length_over_all: 6.705681541087539
+  propellor:
+    type: fixed
   main:
     foot: 3.301024140453548
     head: 2.7950499878078516
     luff: 2.286027798098025
-  thcf: 0.821627269
-  draft: 1.066812972445745
   topsail:
     luff: 1.5240185320653499
     perpendicular: 0.9144111192392099
-  propellor:
-    type: fixed
-  length_over_all: 6.705681541087539
-  fore_triangle_base: 2.691416727627408
   length_on_waterline: 6.4008778346744695
-  fore_triangle_height: 5.18166300902219
-length_on_deck: 6.7056
-beam: 2.3866
-design_class:
-  name: Guernsey Junior Offshore
-  id: 5cd1b3c4-5d1a-4729-80d8-85b8c20f467f
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:10:51.013531+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

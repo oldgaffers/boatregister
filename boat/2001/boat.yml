@@ -24,6 +24,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -32,50 +35,56 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 36500
-home_country: 'null'
-home_port: ''
+- created_at: '2021-02-28T15:23:10.814886+00:00'
+  flexibility: null
+  offered: null
+  price_flexibility: null
+  reduced: null
+  sales_text: "Converted to junk rig 2018. More sailing, less sweat, big dinghy, great\
+    \ fun!  Gaff rig, +new mainsail, may be reinstated for a purchaser. 29'6\" on\
+    \ deck, 9'6\u201D beam, draws about 3\u20196\u201D plate up. 6 tons. Heavy GRP.\
+    \ Full keel with centreboard. Tiller steering. Plywood deck. \u2018Cosy double\u2019\
+    \ quarter-berths. Large chart table. 2018 Blakes Lavac in forepeak, paraffin cabin\
+    \ stove, lamps. No electronics. Ashore under cover - as for 30 winters - west\
+    \ of Scotland."
+  seller_gold_id: 220
+  seller_member: 3086
+  sold: null
+  summary: null
+  updated_at: '2021-02-28T15:23:10.814886+00:00'
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 1986
-  name: R Dongray
-  share: 64
+- name: R Dongray
   start: 1985
-- id: 220
+  end: 1986
   share: 64
+- member: 3086
+  id: 220
   start: 1986
-  member: 3086
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ce63b03d-9618-4201-bb19-8dbc2509aea4
 image_key: GVHt7w
 thumb: https://photos.smugmug.com/photos/i-6PG4Z2n/0/Th/i-6PG4Z2n-Th.jpg
-draft: 1.143
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 0.969236092
+  beam: 2.8956
+  draft: 1.143
+  fore_triangle_height: 8.458302852962692
+  fore_triangle_base: 5.7912704218483295
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
   main:
     foot: 5.6388685686417945
     head: 4.495854669592782
     luff: 4.953060229212387
-  thcf: 0.969236092
-  draft: 1.1430138990490124
   topsail:
     luff: 5.715069495245062
     perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.7912704218483295
   length_on_waterline: 7.848695440136551
-  fore_triangle_height: 8.458302852962692
-length_on_deck: 9.144
-beam: 2.8956
-design_class:
-  name: Cornish Crabber Pilot Cutter 30
-  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
-for_sale_state:
-  text: for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:13:33.661933+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 2641
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2004
 year_is_approximate: false
 designer:
@@ -17,35 +15,30 @@ place_built: Tewin
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Stitch and tape epoxy ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Trailer sail
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 440
-  share: 64
+- member: 4397
+  id: 440
   start: 2004
-  member: 4397
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fd124b5b-e639-4e36-abcf-064c3c7d7ce9
-draft: 0.1524
 handicap_data:
-  beam: 1.4996342355523042
+  thcf: 0.740095651
+  beam: 1.4996
+  draft: 0.1524
+  fore_triangle_height: 2.691416727627408
+  fore_triangle_base: 1.3258961228968542
+  length_over_all: 3.8100463301633747
   main:
     foot: 2.5512070226773953
     head: 3.465618141916605
     luff: 1.3990490124359911
-  thcf: 0.740095651
-  draft: 0.152401853206535
-  length_over_all: 3.8100463301633747
-  fore_triangle_base: 1.3258961228968542
   length_on_waterline: 3.5052426237503047
-  fore_triangle_height: 2.691416727627408
-length_on_deck: 3.81
-beam: 1.4996
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.81
+created_at: '2020-04-25T17:23:50.707265+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

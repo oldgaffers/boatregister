@@ -64,53 +64,103 @@ place_built: Heybridge
 construction_material: wood
 construction_method: unknown
 construction_details: Iroko on laminated Iroko frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 34500
+- created_at: '2019-01-28T05:56:50+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: "<p>`Martha Kathleen\u2019 is a massively strong gaff ketch designed\
+    \ by Arthur Holt and built for my parents by Holt and James, Heybridge, in 1977.\
+    \ She was the third hull to that design, a beamy tradition boat with plenty of\
+    \ internal volume and excellent seagoing qualities. Being intended for short-handed\
+    \ cruising of the Western Isles she has a gaff ketch rig, breaking the sail area\
+    \ down into easily managed sails, a powerful Thorneycroft 50 engine and lots of\
+    \ space for children and grandchildren. Wide open laid iroko decks with a simple\
+    \ coach-roof for\u2019rard of the mizzen and a deep and secure self-draining cockpit\
+    \ aft of it. By their mid-eighties my parents were unable to use her much and\
+    \ we brought her south in 2005. Since then she has had considerable work cleaning\
+    \ out her bilges and re-ballasting, re-caulking, running rigging replaced and\
+    \ standing rigging enhanced, new working sails and light air jib from James Lawrence\
+    \ and an asymmetric reacher from Jeckells. At present fitting out under cover\
+    \ in St Osyth, her home port is Brightlingsea.</p><p><strong>Designed by:</strong>\
+    \ Arthur Holt<br /><strong>Built by:</strong> Holt and James, Heybridge, 1977<br\
+    \ /><strong>Construction:</strong> Carvel iroko planking on laminated iroko frames<br\
+    \ /><strong>Length on deck: </strong>37\u2019 (11.25m)<br /><strong>Length over\
+    \ spars: </strong>33\u2019 (10m)<br /><strong>Beam:</strong> 12\u20194\" (3.75m)<br\
+    \ /><strong>Rig:</strong> Gaff ketch with Bermudian mizzen, galvanised iron standing\
+    \ rigging and running backstays, bottle-screws. Bowsprit can be run in for mooring\
+    \ in marinas.<br /><strong>Sails:</strong> No1 jib on Wykeham-Martin roller, No2\
+    \ and No3 jibs&nbsp; set flying (older sails), Staysail with one set of reef points,\
+    \ Mainsail with two deep reefs, Mizzen with one deep reef, jackyard topsail, mizzen\
+    \ staysail (older sail), light air jib that fills the fore triangle and asymmetric\
+    \ reaching sail with snuffer.<br /><strong>Engine:</strong> Thorneycroft 50, maintained\
+    \ by French Marine Motors. Exceptional access for maintenance. Galvanised tank.<br\
+    \ /><strong>Accommodation:</strong> Galley with two burner gas stove, rack for\
+    \ two `in-use\u2019 five gallon water cans and small basin to port and chart table\
+    \ to starboard. Two settee berths with lockers under and behind and pilot berths\
+    \ behind. Large table solidly bolted down with one side folding down to give access\
+    \ forward to heads to port, with Jabsco pump out heads and rack of two gallon\
+    \ water cans, and hanging locker to starboard and foc\u2019sl. In focs\u2019l\
+    \ there are four berths, one wide enough for two people and a fore hatch. The\
+    \ forepeak for chain, fenders and warps is open to the focs\u2019l.<br /><strong>Cockpit:</strong>\
+    \ Deep cockpit with seat lockers including vented gas bottle locker and lockers\
+    \ behind. Gimballed compass mount and Raymarine display. Aft locker for sails\
+    \ and five gallon water cans. Hydraulic wheel steering and Morse controls for\
+    \ engine.<br /><strong>Electrics</strong>: Raymarine chart plotter, depth and\
+    \ log, anemometer, hydraulic autopilot, Garmin GPS at chart table, AIS receiver\
+    \ and VHF. Solar panel supplies two 12v batteries (one 2015, other 2016, maintained\
+    \ over winter with regular charging at home).<br /><strong>Ground tackle</strong>:\
+    \ Plough anchor on bow roller, Fisherman (useful in thick kelp) and Blake lashed\
+    \ to mountings on foredeck.<br />Warps, fenders, boat hook etc.</p><p>Time has\
+    \ come for me to \"down-size\" and I now own a winkle-brig, \"Faith\". I do want\
+    \ to sell \"Martha Kathleen\" soon so have reduced the asking price by \xA35,500.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.457159+00:00'
 home_country: GBR
 home_port: Brightlingsea
 hull_form: long keel deep forefoot
 uk_part1: '376388'
-callsign: ''
 ownerships:
 - name: Jean Mackenzie
-  share: 32
   start: 1977
-- end: 2007
-  name: Sandy Mackenzie
   share: 32
+- name: Sandy Mackenzie
   start: 1977
-- end: 2018
-  name: Alasdair Mackenzie
-  share: 64
+  end: 2007
+  share: 32
+- name: Alasdair Mackenzie
   start: 2007
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2018
+  share: 64
 id: 3ed3778e-67aa-4a19-99aa-6c53c888cb6e
 image_key: JGsdNJ
 thumb: https://photos.smugmug.com/photos/i-TBfSDwm/0/Th/i-TBfSDwm-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 3.749085588880761
+  thcf: 0.991222934
+  beam: 3.749
+  draft: 1.524
+  fore_triangle_height: 11.582540843696659
+  fore_triangle_base: 5.9436722750548645
+  length_over_all: 11.277737137283589
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 3.9624481833699097
     luff: 5.4864667154352595
-  thcf: 0.991222934
-  draft: 1.5240185320653499
-  mizzen:
-    foot: 2.8956352109241648
-    luff: 4.87685930260912
   topsail:
     luff: 5.4864667154352595
     perpendicular: 3.6576444769568397
-  propellor:
-    type: fixed
-  length_over_all: 11.277737137283589
-  fore_triangle_base: 5.9436722750548645
+  mizzen:
+    foot: 2.8956352109241648
+    luff: 4.87685930260912
   length_on_waterline: 10.05852231163131
-  fore_triangle_height: 11.582540843696659
-length_on_deck: 11.2776
-beam: 3.749
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.2776
+created_at: '2020-04-25T16:54:57.844515+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

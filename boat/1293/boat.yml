@@ -3,8 +3,6 @@ oga_no: 1293
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1985
 year_is_approximate: false
 designer:
@@ -17,33 +15,26 @@ place_built: Armagh
 construction_material: wood
 construction_method: unknown
 construction_details: '''Wilson  Weld'' Marine ply'
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: B B Williams
-  share: 64
   start: 1989
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ba14ac12-1d65-4abb-87b9-aed33d93674d
-draft: 0.9906
 handicap_data:
-  beam: 2.0574250182882223
+  thcf: 0.783528345
+  beam: 2.0574
+  draft: 0.9906
+  fore_triangle_height: 4.700073152889539
+  fore_triangle_base: 1.8288222384784198
+  length_over_all: 5.385881492318947
   main:
     foot: 2.7950499878078516
     head: 3.581443550353572
     luff: 1.8288222384784198
-  thcf: 0.783528345
-  draft: 0.9906120458424774
-  length_over_all: 5.385881492318947
-  fore_triangle_base: 1.8288222384784198
   length_on_waterline: 4.623872226286271
-  fore_triangle_height: 4.700073152889539
-length_on_deck: 5.3858
-beam: 2.0574
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.3858
+created_at: '2020-04-25T17:02:49.554303+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

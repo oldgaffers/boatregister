@@ -3,8 +3,6 @@ oga_no: 2905
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1927
 year_is_approximate: false
 designer:
@@ -16,42 +14,37 @@ builder:
 construction_material: wood
 construction_method: carvel
 construction_details: 'Carvel traditional '
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Niew en St Josland
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Nick van Raaij
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 1805544e-1d03-43e7-b917-56a58ae5bb29
-previous_names:
-- Stormvogel
 image_key: MTQpG6
 thumb: https://photos.smugmug.com/photos/i-vvd8Bdk/0/Th/i-vvd8Bdk-Th.jpg
-draft: 1.3015
 handicap_data:
-  beam: 1.9995123140697388
+  thcf: 0.912274475
+  beam: 1.9995
+  draft: 1.3015
+  fore_triangle_height: 7.001341136308217
+  fore_triangle_base: 3.950256035113387
+  length_over_all: 7.001341136308217
+  propellor:
+    type: fixed
   main:
     foot: 3.3985613265057304
     head: 3.249207510363326
     luff: 4.349548890514508
-  thcf: 0.912274475
-  draft: 1.3015118263838086
   topsail:
     luff: 3.6515484028285785
     perpendicular: 1.6489880516947086
-  propellor:
-    type: fixed
-  length_over_all: 7.001341136308217
-  fore_triangle_base: 3.950256035113387
   length_on_waterline: 6.199707388441843
-  fore_triangle_height: 7.001341136308217
-length_on_deck: 7.0013
-beam: 1.9995
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.0013
+created_at: '2020-04-25T17:31:48.76656+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Stormvogel

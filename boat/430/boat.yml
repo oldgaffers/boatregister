@@ -3,42 +3,34 @@ oga_no: 430
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: See CB Sept 04.
 year: 1933
 year_is_approximate: false
 designer:
   name: Dan Webb
   id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
+design_class:
+  name: Blackwater Sloop
+  id: 5eedf365-1b2c-4c7b-b11c-0dce4f9e1f5c
 builder:
   name: Dan Webb/Feesey Webb
   id: 57c4e472-875f-4e6b-aae8-4f198579d842
 place_built: Maldon
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: J Fletcher
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 14344aa6-ab36-43a8-9be4-5d6dfe236fba
-draft: 1.0058
 handicap_data:
-  beam: 1.9812240916849548
-  draft: 1.0058522311631308
+  beam: 1.9812
+  draft: 1.0058
   length_over_all: 5.4864667154352595
   length_on_waterline: 5.029261155815655
-length_on_deck: 5.4864
-beam: 1.9812
-design_class:
-  name: Blackwater Sloop
-  id: 5eedf365-1b2c-4c7b-b11c-0dce4f9e1f5c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T16:48:51.358944+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

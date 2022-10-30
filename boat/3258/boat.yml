@@ -13,6 +13,9 @@ year_is_approximate: false
 designer:
   name: Lew Walker
   id: eb88b861-9e90-4673-9cbc-1227c2df737f
+design_class:
+  name: Tideway 12
+  id: 44264997-3e5a-4718-a1ff-6dbcd135f3ce
 builder:
   name: L.H. Walker
   id: 1f2a16b2-6602-44b8-8f5f-a0a89f3db4f0
@@ -20,32 +23,27 @@ place_built: Leigh on Sea
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker mahogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Burnham Overy
 hull_form: long keel deep forefoot
 sail_number: '73'
-callsign: ''
 ownerships:
 - name: Christopher Stanley
+  start: 2013
   share: 64
-  start: 2013
-- note: Owned before 2013 by BarryWheelock
+- start: 2013
+  note: Owned before 2013 by BarryWheelock
   text: Owned before
-  start: 2013
-  start_is_approximate: false
-- share: 64
-  member: 5969
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 8058d20c-f91d-4915-a4d1-34c0cb758a11
 image_key: HdL2xN
 thumb: https://photos.smugmug.com/photos/i-KwvbhRq/0/Th/i-KwvbhRq-Th.jpg
-draft: 0.2042
 handicap_data:
+  beam: 1.652
+  draft: 0.2042
+  fore_triangle_height: 3.6576
+  fore_triangle_base: 1.1674
   main:
     foot: 9.25
     head: 11.58
@@ -55,13 +53,7 @@ handicap_data:
   calculated_thcf: 0.757
   draft_keel_down: 1.0668
   moving_keel_type: Centreboard
-  fore_triangle_base: 1.1674
   length_on_waterline: 3.9624
-  fore_triangle_height: 3.6576
-length_on_deck: 4.2672
-beam: 1.652
-design_class:
-  name: Tideway 12
-  id: 44264997-3e5a-4718-a1ff-6dbcd135f3ce
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.2672
+created_at: '2020-04-25T17:47:16.219408+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

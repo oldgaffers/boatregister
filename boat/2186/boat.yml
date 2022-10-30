@@ -3,13 +3,14 @@ oga_no: 2186
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1939
 year_is_approximate: false
 designer:
   name: Dan Webb
   id: ad1aed98-6b4c-4634-a7b4-efe49c8fb829
+design_class:
+  name: Blackwater Sloop
+  id: 5eedf365-1b2c-4c7b-b11c-0dce4f9e1f5c
 builder:
   name: Dan Webb
   id: 10519115-4641-4b89-8e3a-47b27aae16e6
@@ -17,57 +18,44 @@ place_built: Maldon
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Columbian Pine on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: ' '
 hull_form: long keel deep forefoot
 sail_number: '89'
-callsign: ''
 ownerships:
-- end: 2000
-  name: Robert Hughes
-  share: 32
+- name: Robert Hughes
   start: 1993
-- end: 2005
-  name: John Yardley
-  share: 64
-  start: 2000
-- name: David Tucker
+  end: 2000
   share: 32
+- name: John Yardley
+  start: 2000
+  end: 2005
+  share: 64
+- name: David Tucker
   start: 2005
-- note: In 2010 she was bought from the stepson of the shipwright who built her at
+  share: 32
+- start: 2010
+  note: In 2010 she was bought from the stepson of the shipwright who built her at
     Dan Webb's yard.
   text: In
-  start: 2010
-  start_is_approximate: false
-- share: 64
-  member: 2648
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fd50dc3a-9d42-43a7-bbac-550d0f2d2cd3
-draft: 0.9144
 handicap_data:
-  beam: 1.9812240916849548
+  thcf: 0.828756362
+  beam: 1.9812
+  draft: 0.9144
+  fore_triangle_height: 5.282248232138502
+  fore_triangle_base: 3.2004389173372347
+  length_over_all: 5.4864667154352595
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 3.5052426237503047
     head: 3.453425993660083
     luff: 2.9474518410143866
-  thcf: 0.828756362
-  draft: 0.9144111192392099
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 5.4864667154352595
-  fore_triangle_base: 3.2004389173372347
   length_on_waterline: 5.029261155815655
-  fore_triangle_height: 5.282248232138502
-length_on_deck: 5.4864
-beam: 1.9812
-design_class:
-  name: Blackwater Sloop
-  id: 5eedf365-1b2c-4c7b-b11c-0dce4f9e1f5c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T17:16:17.080102+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 2566
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: She was once owned by Laurie Martin who founded the Westcoaster
   Owners Association. She was rescued from dereliction 7 years ago and is probably
   one of only a few of these boats left.
@@ -12,30 +11,25 @@ year_is_approximate: false
 designer:
   name: D.A. Rayner
   id: afc68d59-e7ba-466e-861f-741e2eeae526
+design_class:
+  name: Westcoaster
+  id: 025e32e7-5261-4651-99b0-3f1403c4ab17
 builder:
   name: Beacon Boat Co Ltd.
   id: e149285f-9506-4347-8fed-b650701f6391
 construction_material: wood
 construction_method: unknown
 construction_details: Mahogany Ply on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hayling Island
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Mr Simon Brown
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fa8fbc87-8343-44d5-b60d-bbfa5284eab9
-draft: 0
-length_on_deck: 0
-beam: 0
-design_class:
-  name: Westcoaster
-  id: 025e32e7-5261-4651-99b0-3f1403c4ab17
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:22:42.250479+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  length_on_deck: 0

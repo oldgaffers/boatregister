@@ -24,55 +24,51 @@ place_built: Kingston on Thames
 construction_material: wood
 construction_method: unknown
 construction_details: Burma Teak on oak, with drop keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Fambridge
 hull_form: long keel sloping forefoot
 sail_number: '2743'
 uk_part1: '123659'
-callsign: ''
 ownerships:
-- end: 2011
-  name: Kim Hartley
-  share: 64
+- name: Kim Hartley
   start: 2005
-- id: 284
+  end: 2011
   share: 64
+- member: 3502
+  id: 284
   start: 2011
-  member: 3502
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://oga50cygnetroundbritainchallenge.blogspot.co.uk/
 id: 8177ae91-e92d-47b1-b0e1-93397cc52411
-previous_names:
-- Cygnet
-- Morning Mist
 image_key: kJ3BNR
 thumb: https://photos.smugmug.com/photos/i-h3JX2Tz/0/Th/i-h3JX2Tz-Th.jpg
-draft: 1.1674
 handicap_data:
-  beam: 2.996220434040478
+  thcf: 1.058
+  beam: 2.9962
+  draft: 1.1674
+  fore_triangle_height: 12.496951962935869
+  fore_triangle_base: 5.334064862228725
+  length_over_all: 12.140331626432577
+  propellor:
+    type: folding
+  sailarea: 79.04843324086477
   main:
     foot: 5.9436722750548645
     head: 5.18166300902219
     luff: 5.6388685686417945
-  thcf: 1.058
-  draft: 1.1430138990490124
-  mizzen:
-    foot: 2.13362594489149
-    luff: 4.57205559619605
   topsail:
     luff: 6.2484759814679345
     perpendicular: 2.5146305779078273
-  sailarea: 79.04843324086477
-  propellor:
-    type: folding
-  length_over_all: 12.140331626432577
-  fore_triangle_base: 5.334064862228725
+  mizzen:
+    foot: 2.13362594489149
+    luff: 4.57205559619605
   length_on_waterline: 9.1441111923921
-  fore_triangle_height: 12.496951962935869
-length_on_deck: 12.1402
-beam: 2.9962
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.1402
+created_at: '2020-04-25T17:26:28.43535+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Cygnet
+- Morning Mist

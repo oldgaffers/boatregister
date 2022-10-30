@@ -3,8 +3,6 @@ oga_no: 1829
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1980
 year_is_approximate: false
 designer:
@@ -17,33 +15,26 @@ place_built: Tregatreath
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: F Piesse
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e8cc97cb-5fc0-4b3a-beba-b97473e4431c
-draft: 1.3716
 handicap_data:
-  beam: 2.6426481346013166
+  thcf: 0.942056656
+  beam: 2.6426
+  draft: 1.3716
+  fore_triangle_height: 7.315288953913679
+  fore_triangle_base: 5.18166300902219
+  length_over_all: 8.22970007315289
   main:
     foot: 5.334064862228725
     head: 4.977444525725432
     luff: 4.648256522799317
-  thcf: 0.942056656
-  draft: 1.3716166788588149
-  length_over_all: 8.22970007315289
-  fore_triangle_base: 5.18166300902219
   length_on_waterline: 7.010485247500609
-  fore_triangle_height: 7.315288953913679
-length_on_deck: 8.2296
-beam: 2.6426
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.2296
+created_at: '2020-04-25T17:10:51.849652+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -2,8 +2,6 @@ name: Aileen
 oga_no: 1999
 generic_type: Dayboat
 mainsail_type: lug
-short_description: ''
-full_description: ''
 year: 1989
 year_is_approximate: false
 designer:
@@ -12,30 +10,21 @@ designer:
 place_built: Portsmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Wargrave
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Robin Ford
-  share: 64
   start: 2000
-- share: 64
-  member: 2302
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: c7228824-6533-4ad6-a5d9-58752b9229dc
+handicap_data:
+  beam: 1.3716
+  length_over_all: 4.419653742989515
+  length_on_deck: 4.4196
+created_at: '2020-04-25T17:13:31.584113+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Eusa
-draft: 0
-handicap_data:
-  beam: 1.3716166788588149
-  length_over_all: 4.419653742989515
-length_on_deck: 4.4196
-beam: 1.3716
-for_sale_state:
-  text: not_for_sale

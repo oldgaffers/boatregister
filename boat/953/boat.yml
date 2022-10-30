@@ -3,7 +3,6 @@ oga_no: 953
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 81/4
 year: 1979
 year_is_approximate: false
@@ -17,35 +16,28 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 81/4
-callsign: ''
 ownerships:
 - name: A J Cobley
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 6a633f09-af45-4a39-b534-5c2f9b0ac6a0
-draft: 1.524
 handicap_data:
-  beam: 3.0480370641306997
+  thcf: 0.965185109
+  beam: 3.048
+  draft: 1.524
+  fore_triangle_height: 8.83930748597903
+  fore_triangle_base: 6.858083394294074
+  length_over_all: 8.53450377956596
   main:
     foot: 5.334064862228725
     head: 4.26725188978298
     luff: 5.6388685686417945
-  thcf: 0.965185109
-  draft: 1.5240185320653499
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 6.858083394294074
   length_on_waterline: 8.22970007315289
-  fore_triangle_height: 8.83930748597903
-length_on_deck: 8.5344
-beam: 3.048
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T16:57:41.036199+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -25,56 +25,49 @@ place_built: Fecamp
 construction_material: wood
 construction_method: unknown
 construction_details: Oak on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: TSK59
 uk_part1: '398992'
-callsign: ''
 ownerships:
-- note: 'Previous owners: Binne and Dagmasr Groenier (purchased 1963) Gareth Wright
+- start: 1963
+  note: 'Previous owners: Binne and Dagmasr Groenier (purchased 1963) Gareth Wright
     (sold 1984)'
   text: 'Previous owners: Binne and Dagmasr Groenier (purchased'
-  start: 1963
-  start_is_approximate: false
-- end: 1990
-  name: George and Meriel Thurston
-  share: 64
+- name: George and Meriel Thurston
   start: 1984
-- end: 2007
-  name: Neil and Jenny Attenborough
+  end: 1990
   share: 64
+- name: Neil and Jenny Attenborough
   start: 1990
-- name: Ray Dunstone
+  end: 2007
   share: 64
+- name: Ray Dunstone
   start: 2007
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: dfe2d954-393e-4bd0-af57-cac0d1254ccb
 image_key: qb6wQN
 thumb: https://photos.smugmug.com/photos/i-pW5PXn7/0/Th/i-pW5PXn7-Th.jpg
-draft: 2.286
 handicap_data:
-  beam: 5.18166300902219
+  thcf: 1.090044868
+  beam: 5.1816
+  draft: 2.286
+  fore_triangle_height: 9.75371860521824
+  fore_triangle_base: 8.53450377956596
+  length_over_all: 16.154596439892707
+  propellor:
+    type: fixed
   main:
     foot: 7.620092660326749
     head: 7.010485247500609
     luff: 7.620092660326749
-  thcf: 1.090044868
-  draft: 2.286027798098025
   mizzen:
     foot: 4.26725188978298
     head: 3.6576444769568397
     luff: 4.724457449402585
-  propellor:
-    type: fixed
-  length_over_all: 16.154596439892707
-  fore_triangle_base: 8.53450377956596
   length_on_waterline: 13.716166788588149
-  fore_triangle_height: 9.75371860521824
-length_on_deck: 16.1544
-beam: 5.1816
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 16.1544
+created_at: '2020-04-25T17:06:03.431542+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

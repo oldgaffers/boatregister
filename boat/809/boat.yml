@@ -3,7 +3,6 @@ oga_no: 809
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: CB Oct 91
 year: 1938
 year_is_approximate: false
@@ -13,25 +12,18 @@ builder:
 place_built: Hamble
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: D J Kent
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: db5217f3-a7ce-4e3d-8028-dd4a056bc192
-draft: 0
 handicap_data:
-  beam: 1.8288222384784198
+  beam: 1.8288
   length_over_all: 5.4864667154352595
   length_on_waterline: 4.87685930260912
-length_on_deck: 5.4864
-beam: 1.8288
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T16:54:37.008748+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

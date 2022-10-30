@@ -3,8 +3,6 @@ oga_no: 742
 generic_type: Dinghy
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1960
 year_is_approximate: false
 builder:
@@ -14,28 +12,22 @@ place_built: Maldon
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker - mahogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 555
-  share: 64
+- member: 4973
+  id: 555
   start: 2010
-  member: 4973
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: b41a09e8-5813-4fcb-a5e3-3e3305089ade
-draft: 0.4572
 handicap_data:
-  beam: 1.4996342355523042
-  draft: 0.45720555961960496
+  beam: 1.4996
+  draft: 0.4572
   length_over_all: 3.733845403560107
   length_on_waterline: 3.5052426237503047
-length_on_deck: 3.7338
-beam: 1.4996
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.7338
+created_at: '2020-04-25T16:53:36.540864+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -27,33 +27,26 @@ builder:
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- note: Advertised for sale by CR Williamson, 1983 and Tony Bailey in 1990.
+- start: 1983
+  note: Advertised for sale by CR Williamson, 1983 and Tony Bailey in 1990.
   text: Advertised for sale by CR Williamson,
-  start: 1983
-  start_is_approximate: false
 - name: L Meadows
-  share: 64
   start: 1990
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 3deab863-8701-4a21-a126-b18cbc41299c
-previous_names:
-- Ailie
 image_key: qfxkq6
 thumb: https://photos.smugmug.com/photos/i-NwKxHCP/0/Th/i-NwKxHCP-Th.jpg
-draft: 0
 handicap_data:
-  beam: 2.2250670568154107
+  beam: 2.225
   length_over_all: 6.492318946598391
   length_on_waterline: 5.6388685686417945
-length_on_deck: 6.4922
-beam: 2.225
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.4922
+created_at: '2020-04-25T16:44:15.515842+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Ailie

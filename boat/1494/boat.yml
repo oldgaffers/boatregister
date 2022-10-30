@@ -42,6 +42,9 @@ year_is_approximate: false
 designer:
   name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
+design_class:
+  name: Catboat 16
+  id: 7f25ca5d-8be8-41ca-98fe-484c35b41548
 builder:
   name: David Moss Boatbuilders
   id: 57e22238-cdd2-4556-a3f3-ef834d765e07
@@ -50,65 +53,51 @@ construction_material: wood
 spar_material: wood
 construction_method: cold_moulded
 construction_details: cold moulded mahogany
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 1989
-  name: Paul Gelder
-  share: 64
+- name: Paul Gelder
   start: 1982
-- end: 1993
-  name: Robin Ford
+  end: 1989
   share: 64
+- name: Robin Ford
   start: 1989
-- end: 2002
-  name: Richard Songer
+  end: 1993
   share: 64
+- name: Richard Songer
   start: 1993
-- end: 2006
-  name: Andrew Noquet
+  end: 2002
   share: 64
+- name: Andrew Noquet
   start: 2002
-- end: 2012
-  name: Mike Bell
+  end: 2006
   share: 64
+- name: Mike Bell
   start: 2006
-- end: 2015
-  name: Ray Smith
+  end: 2012
   share: 64
+- name: Ray Smith
   start: 2012
+  end: 2015
+  share: 64
 - name: John Smith
-  share: 64
   start: 2019
-- id: 1037
   share: 64
-  member: 6290
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ff99b4ab-1678-4b81-9657-a00bfc0e73b9
 image_key: X9bkr7
 thumb: https://photos.smugmug.com/photos/i-bqxdxZ5/0/Th/i-bqxdxZ5-Th.jpg
-draft: 0.4054
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.797467466
+  beam: 2.286
+  draft: 0.4054
+  length_over_all: 4.87685930260912
   main:
     foot: 4.87685930260912
     head: 4.13923433308949
     luff: 2.8956352109241648
-  thcf: 0.797467466
-  draft: 0.396244818336991
-  length_over_all: 4.87685930260912
   length_on_waterline: 4.672640819312362
-length_on_deck: 4.8768
-beam: 2.286
-design_class:
-  name: Catboat 16
-  id: 7f25ca5d-8be8-41ca-98fe-484c35b41548
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:05:50.325638+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

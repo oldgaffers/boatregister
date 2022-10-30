@@ -3,13 +3,15 @@ oga_no: 1243
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 83/4
 year: 1978
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,41 +19,31 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 83/4
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 15b11145-9a09-486e-8430-c423f6a2f57b
-previous_names:
-- Cornish Crabber
-draft: 0.7376
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.876263769
+  beam: 2.4384
+  draft: 0.7376
+  fore_triangle_height: 5.6388685686417945
+  fore_triangle_base: 4.114850036576445
+  length_over_all: 7.315288953913679
+  propellor:
+    type: fixed
   main:
     foot: 4.166666666666666
     head: 2.8194342843208973
     luff: 3.5052426237503047
-  thcf: 0.876263769
-  draft: 0.7376249695196293
   topsail:
     luff: 4.343452816386247
     perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
-  fore_triangle_height: 5.6388685686417945
-length_on_deck: 7.3152
-beam: 2.4384
-design_class:
-  name: Cornish Crabber Mk 1
-  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:02:03.18533+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Cornish Crabber

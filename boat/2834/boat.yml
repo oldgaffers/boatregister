@@ -17,6 +17,9 @@ year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -24,47 +27,60 @@ place_built: Mylor
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP wood deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 16500
+- created_at: '2018-06-28T15:25:42+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: '<p>The builder, of this beautifully maintained yacht, is Gaffers &amp;
+    Luggers, Tregatreath Boatyard in Cornwall. Her builders plate number is 2834.
+    Having been sailed, extensively, around the West Coast of Scotland, she is looking
+    for a good home and an owner who would appreciate her distinctive lines.</p><p>She
+    was surveyed in March 2012 and the summary statement is, quote: ''A traditional,
+    heavy displacement vessel based on the Falmouth working vessels and is understood
+    to be still in production. This example has been with the present owner since
+    2007 and has thereafter been completely fitted out to his liking. The work has
+    been carried out to a high standard resulting in an attractive, quality traditional
+    cruiser''.</p><p>She has many traditional features including oil navigation lights
+    which are fully functional. Viewing is highly recommended.</p>'
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.897459+00:00'
 home_country: GBR
 home_port: Holy Loch
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2015
-  name: Denys Mitchell
-  share: 64
+- name: Denys Mitchell
   start: 2007
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2015
+  share: 64
 id: 3689566e-e77d-49af-ab85-d0ce3cabd7a5
-previous_names:
-- Lazy Daisy
 image_key: gkvrBc
 thumb: https://photos.smugmug.com/photos/i-fMLc73G/0/Th/i-fMLc73G-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.919090179
+  beam: 2.4384
+  draft: 1.2192
+  fore_triangle_height: 7.873079736649597
+  fore_triangle_base: 5.434650085345037
+  length_over_all: 7.010485247500609
+  propellor:
+    type: fixed
   main:
     foot: 4.953060229212387
     head: 3.706413069982931
     luff: 4.316020482809071
-  thcf: 0.919090179
-  draft: 1.21921482565228
   topsail:
     luff: 4.700073152889539
     perpendicular: 1.472201901975128
-  propellor:
-    type: fixed
-  length_over_all: 7.010485247500609
-  fore_triangle_base: 5.434650085345037
   length_on_waterline: 6.705681541087539
-  fore_triangle_height: 7.873079736649597
-length_on_deck: 7.0104
-beam: 2.4384
-design_class:
-  name: Heard 23
-  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.0104
+created_at: '2020-04-25T17:28:23.348744+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Lazy Daisy

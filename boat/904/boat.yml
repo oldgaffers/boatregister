@@ -3,7 +3,6 @@ oga_no: 904
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Log 74/2  Ex Auxiliary lugger
 year: 1896
 year_is_approximate: false
@@ -16,27 +15,21 @@ builder:
 place_built: Poole
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Medway
 hull_form: unknown
 reference:
 - Log 74/?
-callsign: ''
 ownerships:
 - name: Steven Truss
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 6cb93e5b-014b-4a70-9778-b5b34821ab41
-draft: 1.8806
 handicap_data:
-  beam: 2.7432333577176298
-  draft: 1.8806388685686417
+  beam: 2.7432
+  draft: 1.8806
   length_over_all: 9.653133382101926
-length_on_deck: 9.653
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.653
+created_at: '2020-04-25T16:56:58.364096+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

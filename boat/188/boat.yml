@@ -29,42 +29,35 @@ place_built: Greenock
 construction_material: wood
 construction_method: unknown
 construction_details: '1 1/2" Pitch pine on oak frames, copper sheathed. '
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Dover
 hull_form: long keel deep forefoot
 uk_part1: '93188'
-callsign: ''
 ownerships:
 - note: Previous owners
   text: Previous owners
-- note: C Stevens1973
+- start: 1973
+  note: C Stevens1973
   text: C Stevens
-  start: 1973
-  start_is_approximate: false
-- note: D Erasmus 1979
+- start: 1979
+  note: D Erasmus 1979
   text: D Erasmus
-  start: 1979
-  start_is_approximate: false
-- end: 2005
-  name: David F Stabb
-  share: 64
+- name: David F Stabb
   start: 1986
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2005
+  share: 64
 id: 58f12eb4-a251-4eeb-8334-be0e54e88cba
 image_key: ZLsm7G
 thumb: https://photos.smugmug.com/photos/i-Px6S4hj/0/Th/i-Px6S4hj-Th.jpg
-draft: 2.286
 handicap_data:
-  beam: 3.6576444769568397
-  draft: 2.3165081687393316
+  beam: 3.6576
+  draft: 2.286
+  length_over_all: 13.960009753718603
   propellor:
     type: fixed
-  length_over_all: 13.960009753718603
   length_on_waterline: 13.106559375762009
-length_on_deck: 13.9446
-beam: 3.6576
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 13.9446
+created_at: '2020-04-25T18:30:03.326894+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

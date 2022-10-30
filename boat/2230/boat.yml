@@ -4,77 +4,82 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Annie- Kay is a Heard 23 built in 1995.</p>
-full_description: ''
 year: 1995
 year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
 place_built: Mylor Bridge
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 19950
+- created_at: '2017-09-06T10:17:50+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: undefined
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.249514+00:00'
 home_country: GBR
 home_port: Dittisham
 hull_form: long keel deep forefoot
 sail_number: '2230'
-callsign: ''
 ownerships:
-- end: 2012
-  name: John Symes
-  share: 64
+- name: John Symes
   start: 1989
-- end: 2012
-  name: Gil and Carolyn Hayward
+  end: 2012
   share: 64
+- name: Gil and Carolyn Hayward
   start: 1995
-- end: 2017
-  name: Chris Cooper
+  end: 2012
   share: 64
+- name: Chris Cooper
   start: 2012
-- end: 2017
-  name: Jonathan Heighway
+  end: 2017
   share: 64
+- name: Jonathan Heighway
   start: 2012
+  end: 2017
+  share: 64
 - name: Will Rahder
-  share: 64
   start: 2017
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 130f3c0a-166d-4672-916f-b6fd4eb29c1d
-previous_names:
-- Mary Hay
 image_key: 34mzqF
 thumb: https://photos.smugmug.com/photos/i-QfSCh63/0/Th/i-QfSCh63-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.902
+  beam: 2.4384
+  draft: 1.2192
+  fore_triangle_height: 6.53803950256035
+  fore_triangle_base: 5.562667642038527
+  length_over_all: 7.0866861741038765
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 37.273343875333055
   main:
     foot: 4.367837112899292
     head: 3.301024140453548
     luff: 3.910631553279688
-  thcf: 0.902
-  draft: 1.21921482565228
   topsail:
     luff: 4.800658376005852
     perpendicular: 1.4996342355523042
-  sailarea: 37.273343875333055
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.0866861741038765
-  fore_triangle_base: 5.562667642038527
   length_on_waterline: 6.705681541087539
-  fore_triangle_height: 6.53803950256035
-length_on_deck: 7.0866
-beam: 2.4384
-design_class:
-  name: Heard 23
-  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.0866
+created_at: '2020-04-25T17:16:56.195159+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Mary Hay

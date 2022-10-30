@@ -37,6 +37,9 @@ year_is_approximate: false
 designer:
   name: Ted Spears
   id: 14976d7d-34fa-4ed1-8843-602dc834bde8
+design_class:
+  name: North Quay 30
+  id: 9a014e68-6300-406f-a4bc-fa8d745a4999
 builder:
   name: North Quay Marine Services
   id: c740b35f-7148-4ee2-8ae2-19fb312bc860
@@ -45,9 +48,37 @@ construction_material: woodepoxy
 construction_method: unknown
 construction_details: 3/4" Western Red Cedar T&G strip, epoxy glass sheathed, iroko
   stem & hog, mahogany transom, 5/8" ply deck and cabin
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 47500
+- created_at: '2019-09-12T21:45:33+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>Lazy Wind, a 30" gaff cutter, was built for me in 2002 by North Quay
+    Marine, owned by Ted Spears, who also designed her to my specifications.<span
+    style="font-size:11pt"><span style="line-height:normal"><span style="font-family:'Calibri',sans-serif"><span
+    style="font-size:10.0pt"><span style="font-family:'Arial',sans-serif"><span style="color:#333333">&nbsp;
+    She is wood/epoxy, with wooden spars and a full complement of navigation and safety
+    equipment.&nbsp; In addition, there is a yacht cradle, dinghy with launching trolley
+    and 2.3hp outboard available for purchase.&nbsp; </span></span></span></span></span></span></p><p><span
+    style="font-size:11pt"><span style="line-height:normal"><span style="font-family:'Calibri',sans-serif"><span
+    style="font-size:10.0pt"><span style="font-family:'Arial',sans-serif"><span style="color:#333333">My
+    wife and I have enjoyed many long-term cruises, covering the Channel coasts and
+    further afield to places like the Frisian Islands, Milford Haven and Whitby.&nbsp;
+    Lazy Wind will be moving to Chatham Maritime Marina, CHATHAM, ME4 4LP from 15<sup>th</sup>
+    October 2019 until her sale, which is due to advancing years - ours not hers!
+    </span></span></span></span></span></span></p><p><span style="font-size:11pt"><span
+    style="line-height:normal"><span style="font-family:'Calibri',sans-serif"><span
+    style="font-size:10.0pt"><span style="font-family:'Arial',sans-serif"><span style="color:#333333">The
+    sale is being handled for us by M J Lewis &amp; Son (Boat Sales) Ltd of Maldon
+    - their email address is given below.</span></span></span></span></span></span></p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.470641+00:00'
 home_country: GBR
 home_port: River Medway
 hull_form: long keel deep forefoot
@@ -56,43 +87,31 @@ ssr: '100298'
 callsign: VSQU8
 ownerships:
 - name: Ian Baron
-  share: 64
   start: 2002
-- id: 1260
-  share: 32
-  member: 5680
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: b5398ec8-5dd9-4c80-93f6-6705b5b936ff
 image_key: pQ64Vn
 thumb: https://photos.smugmug.com/photos/i-zwKTxvb/0/Th/i-zwKTxvb-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 3.0480370641306997
+  thcf: 0.964
+  beam: 3.048
+  draft: 0.9144
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 4.87685930260912
+  length_over_all: 9.1441111923921
+  propellor:
+    type: folding
+    blades: 3
+  sailarea: 50.49805027083854
   main:
     foot: 5.359479395269446
     head: 3.9624481833699097
     luff: 5.18166300902219
-  thcf: 0.964
-  draft: 0.9144111192392099
   topsail:
     luff: 5.233479639112412
     perpendicular: 1.8288222384784198
-  sailarea: 50.49805027083854
-  propellor:
-    type: folding
-    blades: 3
-  length_over_all: 9.1441111923921
   length_over_spars: 11.582540843696659
-  fore_triangle_base: 4.87685930260912
   length_on_waterline: 8.89011216776396
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 9.144
-beam: 3.048
-design_class:
-  name: North Quay 30
-  id: 9a014e68-6300-406f-a4bc-fa8d745a4999
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T18:36:21.83798+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

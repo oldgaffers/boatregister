@@ -19,32 +19,27 @@ builder:
 place_built: Brightlingsea
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Hollowshore
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2016
-  name: Marion Tester
-  share: 64
+- name: Marion Tester
   start: 2012
-- name: Maria Dadd
+  end: 2016
   share: 64
+- name: Maria Dadd
   start: 2016
-- share: 64
-  member: 6087
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: f6980a0a-4f4e-4d5d-abc7-49187b95a020
 image_key: xhQpqZ
 thumb: https://photos.smugmug.com/photos/i-VXCVrGL/0/Th/i-VXCVrGL-Th.jpg
-draft: 0
 handicap_data:
-  beam: 3.2004389173372347
+  beam: 3.2004
+  fore_triangle_height: 10.66812972445745
+  fore_triangle_base: 8.53450377956596
+  length_over_all: 12.192148256522799
   main:
     foot: 7.863935625457206
     head: 5.974152645696172
@@ -52,10 +47,6 @@ handicap_data:
   topsail:
     luff: 7.162887100707144
     perpendicular: 2.712752987076323
-  length_over_all: 12.192148256522799
-  fore_triangle_base: 8.53450377956596
-  fore_triangle_height: 10.66812972445745
-length_on_deck: 12.192
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.192
+created_at: '2020-04-25T17:21:18.590848+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

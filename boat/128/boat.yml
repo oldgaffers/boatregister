@@ -5,7 +5,6 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: Originally built in 1903, Kelpie was converted back to cutter from
   yawl in 1993.
-full_description: ''
 year: 1903
 year_is_approximate: false
 designer:
@@ -18,45 +17,39 @@ place_built: Southampton
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel sloping forefoot
 sail_number: '2'
 uk_part1: '128184'
-callsign: ''
 ownerships:
-- id: 658
-  share: 64
+- member: 5475
+  id: 658
   start: 2009
-  member: 5475
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: b4e78b29-a6fb-4abc-b510-49f9ae653b55
 image_key: kPCnS3
 thumb: https://photos.smugmug.com/photos/i-6bDKnmL/0/Th/i-6bDKnmL-Th.jpg
-draft: 2.1031
 handicap_data:
-  beam: 3.301024140453548
+  thcf: 1.266549421
+  beam: 3.2918
+  draft: 2.1031
+  fore_triangle_height: 17.099487929773225
+  fore_triangle_base: 8.488783223603999
+  length_over_all: 17.373811265544987
+  propellor:
+    type: folding
+    blades: 3
   main:
     foot: 10.399902462813946
     head: 8.001097293343086
     luff: 6.888563764935382
-  thcf: 1.266549421
-  draft: 2.100097537186052
   topsail:
     luff: 11.79895147524994
     perpendicular: 5.0993660082906604
-  propellor:
-    type: folding
-    blades: 3
-  length_over_all: 17.373811265544987
-  fore_triangle_base: 8.488783223603999
   length_on_waterline: 11.600829066081443
-  fore_triangle_height: 17.099487929773225
-length_on_deck: 17.3736
-beam: 3.2918
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 17.3736
+created_at: '2020-04-25T16:44:20.400908+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

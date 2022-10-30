@@ -36,6 +36,9 @@ year_is_approximate: false
 designer:
   name: Judd Varley
   id: 18067660-4c29-42b2-9894-e32cd213a3f7
+design_class:
+  name: Falmouth Oyster Boat
+  id: d5fbb324-f485-4bf8-87c6-c25df0929fe5
 builder:
   name: Buccaneer Boats
   id: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
@@ -43,41 +46,35 @@ place_built: ' Buccaneer Boats, Cambourne, Cornwall'
 construction_material: grp
 construction_method: unknown
 construction_details: Home completion of a yard produced decked hull
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Liverpool
 hull_form: long keel deep forefoot
 ssr: SSR 150226
-callsign: ''
 ownerships:
-- id: 706
-  share: 64
+- member: 5650
+  id: 706
   start: 2017
-  member: 5650
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 9eb1445c-6249-4e1a-a960-378eb717102d
 image_key: gcKGgW
 thumb: https://photos.smugmug.com/photos/i-WnxZs6m/0/Th/i-WnxZs6m-Th.jpg
-draft: 0.7102
 handicap_data:
+  beam: 2.5664
+  draft: 0.7102
+  fore_triangle_height: 6.096
+  fore_triangle_base: 3.176
+  sailarea: 7
   main:
     foot: 12.58
     head: 13.58
     luff: 12.08
-  sailarea: 7
   length_overall: 5.7912
   calculated_thcf: 0.83
   length_over_spars: 7.4676
-  fore_triangle_base: 3.176
   length_on_waterline: 5.715
-  fore_triangle_height: 6.096
-length_on_deck: 5.7912
-beam: 2.5664
-design_class:
-  name: Falmouth Oyster Boat
-  id: d5fbb324-f485-4bf8-87c6-c25df0929fe5
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:51:07.137114+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,41 +3,34 @@ oga_no: 2354
 generic_type: Dayboat
 rig_type: Ketch
 mainsail_type: spritsail
-short_description: ''
 full_description: Sprit rigged ketch, based on Capelle Hampton Boat.
 year_is_approximate: false
 designer:
   name: Robert Brasted
   id: e79d17d8-37bd-4684-ad21-0b8e4216b54d
+design_class:
+  name: Concept 17 Sharpshooter
+  id: da34dc61-0777-4dbc-931e-8dbb1922e09d
 builder:
   name: Concept Dinghies
   id: cd671754-c2c6-490d-89e7-5bc22ee64a27
 place_built: Highcliffe Dorset
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Manningtree
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: William Hudson
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 19664161-f7c3-4630-bd9c-4842cc89237c
-draft: 0.5334
 handicap_data:
-  beam: 1.9568397951719092
-  draft: 0.5334064862228725
+  beam: 1.9568
+  draft: 0.5334
   length_over_all: 5.18166300902219
   length_on_waterline: 4.57205559619605
-length_on_deck: 5.1816
-beam: 1.9568
-design_class:
-  name: Concept 17 Sharpshooter
-  id: da34dc61-0777-4dbc-931e-8dbb1922e09d
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1816
+created_at: '2020-04-25T17:18:49.110965+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

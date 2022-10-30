@@ -13,6 +13,9 @@ year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+design_class:
+  name: Tamarisk 29
+  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
 builder:
   name: North Cornwall Marine
   id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
@@ -20,49 +23,60 @@ place_built: Falmouth
 construction_material: grp
 construction_method: unknown
 construction_details: G R P hull,spars of Colombian pine with mahogany deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 24000
+- created_at: '2017-02-21T23:41:28+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: <p>"Arriana" is a Tamarisk 29 based on the Falmouth Quay Punt. Three
+    owners since she was built in 1981. Currently based at Swale Marina.</p><p>She
+    has four berths plus a day berth for lounging. Engine Bukh 36 hp three cylinders.<br
+    />New prop and shaft 2008. New mast 2014. Lifting bowsprit. New sails by Mark
+    Butler 2009. Spare main, storm jib, storm main, genoa staysail. Headsails on Wykeham
+    Martin gear. Hot water. Enclosed heads and shower just inside companionway. Gas
+    two ring hob and grill. 240 volt cooker for alongside. 4 anchors. Dinghy. Auto
+    pilot.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: <p>&quot;Arriana&quot; is a Tamarisk 29 based on the Falmouth Quay Punt.
+    Three owners since she was built in 1981. Currently based at Swale Marina.</p>
+  updated_at: '2020-05-03T10:13:12.748748+00:00'
 home_country: GBR
 home_port: Swale Marina
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 291
-  share: 64
+- member: 3555
+  id: 291
   start: 2005
-  member: 3555
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 7aaafb36-a977-4c60-a821-7a471a7de58d
-previous_names:
-- Ariana
-- Relics Amok
 image_key: DmdLPJ
 thumb: https://photos.smugmug.com/photos/i-f32mKrD/0/Th/i-f32mKrD-Th.jpg
-draft: 1.4234
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.967468964
+  beam: 2.7432
+  draft: 1.4234
+  fore_triangle_height: 8.83930748597903
+  fore_triangle_base: 4.57205559619605
+  length_over_all: 8.83930748597903
+  propellor:
+    type: fixed
   main:
     foot: 5.105462082418922
     head: 4.367837112899292
     luff: 5.029261155815655
-  thcf: 0.967468964
-  draft: 1.4234333089490367
   topsail:
     luff: 5.334064862228725
     perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 8.83930748597903
-  fore_triangle_base: 4.57205559619605
   length_on_waterline: 8.330285296269201
-  fore_triangle_height: 8.83930748597903
-length_on_deck: 8.8392
-beam: 2.7432
-design_class:
-  name: Tamarisk 29
-  id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.8392
+created_at: '2020-04-25T17:14:33.770192+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Ariana
+- Relics Amok

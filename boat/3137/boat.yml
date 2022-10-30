@@ -42,38 +42,51 @@ place_built: Osborne's, Littlehampton
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pine on oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 7500
+- created_at: '2018-06-11T11:16:50+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>Built Osborne"s Littlehampton 1937&nbsp;for leisure, "Valiant", P189,
+    was sunk whilst fishing in the Solent, 1998. Reconstruction took place with some
+    professional help between 1999 and 2006.</p><p>Re-engined with a Beta 37hp and
+    PRM gearbox driving a 3 bladed 19' prop. Gaff mainsail of approx 200sqft with
+    2 sizes of jib and a foresail to be set at bowsprit end. WG Lucas made the canvas
+    "hold" cover and boom tent for the greater comfort of the crew when in harbour
+    overnight.</p><p>Presently ashore Camaret sur Mer. Launching planned mid-May.
+    See her at Brest 2016 and Douarnenez thereafter.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.04572+00:00'
 home_country: GBR
 home_port: Solent
 hull_form: long keel deep forefoot
 ssr: '121485'
 uk_part1: SSR 121485
-callsign: ''
 ownerships:
-- end: 1998
-  name: Freemantel Family
-  share: 64
+- name: Freemantel Family
   start: 1939
-- id: 536
+  end: 1998
   share: 64
+- member: 4882
+  id: 536
   start: 1999
-  member: 4882
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 967dad55-5e05-4479-8fb7-20ff8b87a90a
 image_key: xNbt6s
 thumb: https://photos.smugmug.com/photos/i-scgRJCg/0/Th/i-scgRJCg-Th.jpg
-draft: 1.1003
 handicap_data:
-  beam: 2.80003405267008
-  draft: 1.1000133778346743
+  beam: 2.8011
+  draft: 1.1003
   length_over_all: 8.400102158010242
   length_over_spars: 10.00012161667886
   length_on_waterline: 8.000097293343087
-length_on_deck: 8.4003
-beam: 2.8011
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.4003
+created_at: '2020-04-25T17:38:11.786429+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,13 +3,14 @@ oga_no: 2821
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1986
 year_is_approximate: false
 designer:
   name: Michael R. Hawes
   id: 1d14143b-8f55-4b26-94a4-95e4058cc952
+design_class:
+  name: Skanner 24
+  id: 79755ab3-aa50-4c98-95e0-a20ebf6cb481
 builder:
   name: Mike Hawes
   id: e5fba2ea-634d-4e9f-b715-a77e5b65164c
@@ -18,7 +19,7 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP, wood spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: Ireland
 home_port: Dunmore East
@@ -27,40 +28,31 @@ reference:
 - CB Mar 1987
 sail_number: '24'
 ssr: '128539'
-callsign: ''
 ownerships:
-- end: 2021
-  name: Jim Izzard
-  share: 64
+- name: Jim Izzard
   start: 2006
-  end_is_approximate: true
-- id: 34909
-  share: 32
+  end: 2021
+  share: 64
+- member: 6512
+  id: 34909
   start: 2021
-  member: 6512
-  current: true
-- id: 34910
   share: 32
-  start: 2021
-  member: 6512
   current: true
-updated_at: '2022-05-08T21:49:54.316866+00:00'
-website: ''
+- member: 6512
+  id: 34910
+  start: 2021
+  share: 32
+  current: true
 id: db75740d-64ee-488b-84aa-7cc0f6a068e9
-previous_names:
-- "M\xF4r Awel"
 image_key: jfbmSc
 thumb: https://photos.smugmug.com/photos/i-C5rJ6s7/0/Th/i-C5rJ6s7-Th.jpg
-draft: 0.5578
 handicap_data:
-  beam: 2.539014874420873
-  draft: 0.5577907827359181
+  beam: 2.539
+  draft: 0.5578
   length_over_all: 7.2390880273104115
   length_on_waterline: 5.9436722750548645
-length_on_deck: 7.239
-beam: 2.539
-design_class:
-  name: Skanner 24
-  id: 79755ab3-aa50-4c98-95e0-a20ebf6cb481
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.239
+created_at: '2020-04-25T17:28:11.153079+00:00'
+updated_at: '2022-05-08T21:49:54.316866+00:00'
+previous_names:
+- "M\xF4r Awel"

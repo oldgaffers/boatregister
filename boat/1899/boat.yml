@@ -3,7 +3,6 @@ oga_no: 1899
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: Log Sep/98
 year: 1904
 year_is_approximate: false
@@ -17,39 +16,32 @@ place_built: Rowhedge
 construction_material: wood
 construction_method: unknown
 construction_details: Teak on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log Sep/98
 sail_number: '3088'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 96af3734-09a3-4281-892f-c48bc6bfed6c
-draft: 2.4384
 handicap_data:
-  beam: 3.6576444769568397
+  thcf: 1.112946679
+  beam: 3.6576
+  draft: 2.4384
+  length_over_all: 17.06900755913192
+  propellor:
+    type: fixed
   main:
     foot: 7.010485247500609
     head: 6.2484759814679345
     luff: 9.601316752011703
-  thcf: 1.112946679
-  draft: 2.43842965130456
+  topsail:
+    luff: 11.887344550109729
+    perpendicular: 2.8956352109241648
   mizzen:
     foot: 3.0480370641306997
     head: 2.286027798098025
     luff: 2.7432333577176298
-  topsail:
-    luff: 11.887344550109729
-    perpendicular: 2.8956352109241648
-  propellor:
-    type: fixed
-  length_over_all: 17.06900755913192
   length_on_waterline: 10.36332601804438
-length_on_deck: 17.0688
-beam: 3.6576
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 17.0688
+created_at: '2020-04-25T17:11:55.916925+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

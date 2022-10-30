@@ -16,6 +16,9 @@ year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+design_class:
+  name: Beg Meil
+  id: e5f7ab10-4f1a-4042-91c6-52823c175c90
 builder:
   name: Stuart McGowan
   id: 67c88a64-e303-434a-a8bb-4c18c609d94d
@@ -23,44 +26,38 @@ place_built: Lyme Regis
 construction_material: woodepoxy
 construction_method: clinker_ply
 construction_details: Glued clinker marine ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Port Solent, Portsmouth.
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 843
-  share: 64
+- member: 5924
+  id: 843
   start: 2014
-  member: 5924
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 2ecb183a-cf8b-420f-9c2a-96cb8c60afd8
 image_key: J7jrvC
 thumb: https://photos.smugmug.com/photos/i-TrNR6NV/0/Th/i-TrNR6NV-Th.png
-draft: 0.6797
 handicap_data:
+  beam: 1.8014
+  draft: 0.6797
+  fore_triangle_height: 3.999
+  fore_triangle_base: 1.649
+  sailarea: 1
   main:
     foot: 10.71
     head: 9.91
     luff: 8.96
   topsail:
     luff: 4.76
-  sailarea: 1
   moving_keel: true
   length_overall: 4.5507
   calculated_thcf: 0.784
   moving_keel_type: Centreboard
   length_over_spars: 5.2487
-  fore_triangle_base: 1.649
   length_on_waterline: 4.2001
-  fore_triangle_height: 3.999
-length_on_deck: 4.5507
-beam: 1.8014
-design_class:
-  name: Beg Meil
-  id: e5f7ab10-4f1a-4042-91c6-52823c175c90
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.5507
+created_at: '2020-04-25T17:47:50.254802+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 7060
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1939
 year_is_approximate: false
 builder:
@@ -14,32 +12,26 @@ place_built: Exmouth
 construction_material: wood
 construction_method: unknown
 construction_details: Pitch pine on oak, lead ballast keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Pagelsham
 hull_form: unknown
 uk_part1: '162945'
-callsign: ''
 ownerships:
-- id: 25
+- member: 724
+  id: 25
+  start: 1953
   share: 64
-  start: 1953
-  member: 724
   current: true
-- note: In same family since 1953. Owners listed from new in paper archive.
+- start: 1953
+  note: In same family since 1953. Owners listed from new in paper archive.
   text: In same family since
-  start: 1953
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: ab951b4d-a524-4115-9e54-1fc927b41d94
-draft: 1.2192
 handicap_data:
-  beam: 2.3622287247012923
-  draft: 1.21921482565228
+  beam: 2.3622
+  draft: 1.2192
   length_over_all: 7.315288953913679
-length_on_deck: 7.3152
-beam: 2.3622
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:43:47.636818+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

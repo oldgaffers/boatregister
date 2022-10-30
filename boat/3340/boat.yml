@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: Lucy Louise is a Memory 19 built in 2006.
-full_description: ''
 year: 2006
 year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Salterns Boatyard Ltd.
   id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
@@ -18,53 +20,43 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Tollesbury
 hull_form: centre-boarder
-callsign: ''
 ownerships:
-- end: 2012
-  name: Philip Felbusch
-  share: 64
+- name: Philip Felbusch
   start: 2006
-- end: 2016
-  name: Maurice and Carol Balfe
+  end: 2012
   share: 64
+- name: Maurice and Carol Balfe
   start: 2012
-- end: 2019
-  name: Rik Alewijnse
+  end: 2016
   share: 64
+- name: Rik Alewijnse
   start: 2016
-- name: Andrey Rykovsky
+  end: 2019
   share: 64
+- name: Andrey Rykovsky
   start: 2019
-- id: 34872
-  share: 32
-  member: 6487
-  current: true
-  start: '?'
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
+  share: 64
 id: a63eb13d-8651-43f1-bf20-ffd326d8d081
 image_key: Gv7jKq
 thumb: https://photos.smugmug.com/photos/i-mk44Tc9/0/Th/i-mk44Tc9-Th.jpg
-draft: 0.5334
 handicap_data:
+  beam: 2.1336
+  draft: 0.5334
+  sailarea: 7
   main:
     foot: 15.5
     head: 10.5
-  sailarea: 7
   moving_keel: true
   length_overall: 5.7912
   moving_keel_type: Centreboard
   length_over_spars: 7.5682
   length_on_waterline: 5.6906
-length_on_deck: 5.7912
-beam: 2.1336
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:50:43.327542+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+hin: GB SSN MEM 27 F 6 99

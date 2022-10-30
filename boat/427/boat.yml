@@ -3,7 +3,6 @@ oga_no: 427
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Mentioned in Yachting Monthly 1937 and The Motor Boat Aug 1937 Previous
   owner 1963-96. Log W-S 94
 year: 1935
@@ -18,9 +17,8 @@ place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitchpine on Oak, iron keel, copper fastened
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Pont Aven (S Brittany)
 hull_form: long keel deep forefoot
 reference:
@@ -28,30 +26,25 @@ reference:
 - The Motor Boat Aug 1937
 - Log W-S 94
 uk_part1: '166109'
-callsign: ''
 ownerships:
 - name: Thierry d'Herbecourt
-  share: 64
   start: 1996
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: e0c52bab-ab40-4bc5-baa6-8db8a96eedb4
-draft: 1.524
 handicap_data:
-  beam: 3.017556693489393
+  thcf: 1.014714136
+  beam: 3.0175
+  draft: 1.524
+  fore_triangle_height: 9.119726895879054
+  fore_triangle_base: 5.358449158741769
+  length_over_all: 11.186296025359669
+  propellor:
+    type: fixed
   main:
     foot: 6.4770787612777365
     head: 4.26725188978298
     luff: 6.705681541087539
-  thcf: 1.014714136
-  draft: 1.5240185320653499
-  propellor:
-    type: fixed
-  length_over_all: 11.186296025359669
-  fore_triangle_base: 5.358449158741769
   length_on_waterline: 9.1441111923921
-  fore_triangle_height: 9.119726895879054
-length_on_deck: 11.1862
-beam: 3.0175
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.1862
+created_at: '2020-04-25T16:48:48.912556+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

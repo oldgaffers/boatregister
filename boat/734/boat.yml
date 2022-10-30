@@ -3,7 +3,6 @@ oga_no: 734
 generic_type: Bawley
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 80/1, 83/4, Sep/97 MNK Race 02.  Registration in "Blue Book"
   cancelled '88.  Sold by memb no 1119 17.03.04
 year: 1939
@@ -18,9 +17,8 @@ place_built: Tollesbury
 construction_material: wood
 construction_method: carvel
 construction_details: Pitchpine on oak, carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hoo St.Werburgh Medway
 hull_form: long keel deep forefoot
 reference:
@@ -30,33 +28,28 @@ reference:
 - MNK Race 02
 ssr: '26255'
 uk_part1: '184326'
-callsign: ''
 ownerships:
 - name: David Dullage
-  share: 64
   start: 2004
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 98744e64-9f36-49a4-bf1b-b6456b1845f5
-draft: 1.1674
 handicap_data:
-  beam: 3.627164106315533
+  thcf: 1.01258648
+  beam: 3.6271
+  draft: 1.1674
+  fore_triangle_height: 7.620092660326749
+  fore_triangle_base: 6.5532796878810045
+  length_over_all: 10.485247500609606
+  propellor:
+    type: fixed
   main:
     foot: 5.9436722750548645
     head: 6.858083394294074
     luff: 4.57205559619605
-  thcf: 1.01258648
-  draft: 1.167398195562058
   topsail:
     luff: 7.924896366739819
     perpendicular: 3.9624481833699097
-  propellor:
-    type: fixed
-  length_over_all: 10.485247500609606
-  fore_triangle_base: 6.5532796878810045
   length_on_waterline: 10.36332601804438
-  fore_triangle_height: 7.620092660326749
-length_on_deck: 10.4851
-beam: 3.6271
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.4851
+created_at: '2020-04-25T16:53:29.566236+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

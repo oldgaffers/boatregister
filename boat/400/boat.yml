@@ -46,54 +46,49 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NOR
 home_port: "Moen Tryb\xE5tbyggeri"
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 1971
-  name: Gordon Emmerson
-  share: 64
+- name: Gordon Emmerson
   start: 1957
-- end: 1994
-  name: Mr White
+  end: 1971
   share: 64
+- name: Mr White
   start: 1976
-- end: 2006
-  name: J G Bibra
+  end: 1994
   share: 64
+- name: J G Bibra
   start: 1994
-- end: 2015
-  name: Hans Jolivet
+  end: 2006
   share: 64
+- name: Hans Jolivet
   start: 2006
-- name: Jeremy Clinton
+  end: 2015
   share: 64
+- name: Jeremy Clinton
   start: 2015
+  share: 64
   current: true
-updated_at: '2022-04-10T21:36:43.81064+00:00'
-website: ''
 id: 3ba010af-0c0e-4d8c-ab2a-e8121eb75a63
 image_key: PM5tqX
 thumb: https://photos.smugmug.com/photos/i-p9j9M64/0/Th/i-p9j9M64-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 3.0480370641306997
+  thcf: 0.993146243
+  beam: 3.048
+  draft: 1.524
+  fore_triangle_height: 8.662521336259449
+  fore_triangle_base: 5.840039014874421
+  length_over_all: 10.439526944647646
+  propellor:
+    type: fixed
   main:
     foot: 5.919287978541819
     head: 3.605827846866618
     luff: 5.766886125335284
-  thcf: 0.993146243
-  draft: 1.5240185320653499
-  propellor:
-    type: fixed
-  length_over_all: 10.439526944647646
-  fore_triangle_base: 5.840039014874421
   length_on_waterline: 9.75371860521824
-  fore_triangle_height: 8.662521336259449
-length_on_deck: 10.4394
-beam: 3.048
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.4394
+created_at: '2020-04-25T16:48:24.10501+00:00'
+updated_at: '2022-04-10T21:36:43.81064+00:00'

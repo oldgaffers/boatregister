@@ -3,8 +3,6 @@ oga_no: 846
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1913
 year_is_approximate: false
 designer:
@@ -17,35 +15,28 @@ place_built: Lemmer
 construction_material: ferro
 construction_method: unknown
 construction_details: Steel planking sheathed with ferro-cement on bent steel frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: R M Lane
-  share: 64
   start: 1966
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 2c44a93d-ff0a-458c-8f37-ec8eb4cd699c
-previous_names:
-- Speriamo
-draft: 2.0117
 handicap_data:
-  beam: 4.87685930260912
+  thcf: 1.225253962
+  beam: 4.8768
+  draft: 2.0117
+  fore_triangle_height: 15.849792733479639
+  fore_triangle_base: 12.039746403316263
+  length_over_all: 17.465252377468907
   main:
     foot: 10.896732504267252
     head: 3.9624481833699097
     luff: 12.192148256522799
-  thcf: 1.225253962
-  draft: 2.0117044623262617
-  length_over_all: 17.465252377468907
-  fore_triangle_base: 12.039746403316263
   length_on_waterline: 16.246037551816627
-  fore_triangle_height: 15.849792733479639
-length_on_deck: 17.465
-beam: 4.8768
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 17.465
+created_at: '2020-04-25T16:55:09.674052+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Speriamo

@@ -3,41 +3,34 @@ oga_no: 1294
 generic_type: Dayboat
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Water Craft Sep/Oct 98 CB Spring 87, Oct 91
 year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+design_class:
+  name: Drascombe Lugger
+  id: e382b7b9-1e83-4b73-8815-3ba721e32001
 builder:
   name: Honnor Marine Ltd.
   id: 2e1683ac-2223-480f-9412-be351f564ae9
 place_built: Totnes
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Killyleach
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Fergus Killen
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0a91caa2-72df-4851-8fc9-3442d7a55c3f
-draft: 0.253
 handicap_data:
-  beam: 1.9050231650816873
-  draft: 0.25298707632284806
+  beam: 1.905
+  draft: 0.253
   length_over_all: 5.715069495245062
   length_on_waterline: 4.57205559619605
-length_on_deck: 5.715
-beam: 1.905
-design_class:
-  name: Drascombe Lugger
-  id: e382b7b9-1e83-4b73-8815-3ba721e32001
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.715
+created_at: '2020-04-25T17:02:50.351881+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

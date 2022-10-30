@@ -5,7 +5,6 @@ rig_type: None
 mainsail_type: none
 short_description: <p>&#39;Boy Frank&#39; is a Great Yarmouth shrimper, built in 1957
   by Gus, Leigh &amp; Boswell. She is sister ship to &#39;Horace &amp; Hannah&#39;.</p>
-full_description: ''
 year: 1957
 year_is_approximate: false
 builder:
@@ -16,26 +15,43 @@ construction_material: wood
 spar_material: wood
 construction_method: clinker
 construction_details: clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 10
+- created_at: '2019-09-29T11:48:04+00:00'
+  flexibility: any
+  offered: null
+  price_flexibility:
+    text: any
+  reduced: false
+  sales_text: <p>Three years ago Robert Simper (one of the founder&nbsp;members of
+    the OGA) persuaded me to take on, as a retirement job, the restoration of "Boy
+    Frank" a 1957 Yarmouth shrimper.&nbsp;</p><p>A subsequent stroke, other problems
+    and four grandchildren has made me realise I could not find the time to restore
+    the boat. I am looking to give it away as a restoration project. The .oat is presently
+    covered on a trailer in a boat park opposite&nbsp;Felixstowe Ferry. The trailer
+    is included but needs new tyres and some work to make it road legal.&nbsp;The
+    boat"s engine was working prior to flooding, when the starter was damaged. Lots
+    of spars, mast and various parts included.</p><p>She needs lots of TLC to bring
+    her back to life.&nbsp;</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: '2020-08-01'
+  summary: "Sold for \xA35 summer 2020 and taken to a boat builder for restoration"
+  updated_at: '2020-05-03T10:13:13.47016+00:00'
 home_country: GBR
 home_port: Bawdsey Ferry, Suffolk
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Barry Paul
-  share: 64
   start: 2014
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a6ac8328-3897-406d-bc79-f3af7073f01d
 image_key: c7ZxDr
 thumb: https://photos.smugmug.com/photos/i-tc7LzzL/0/Th/i-tc7LzzL-Th.jpg
-draft: 1.0973
 handicap_data:
+  beam: 2.7432
+  draft: 1.0973
   length_overall: 6.7056
-length_on_deck: 6.7056
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:54:53.871833+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

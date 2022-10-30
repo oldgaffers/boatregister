@@ -3,41 +3,32 @@ oga_no: 2585
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year_is_approximate: false
 construction_material: wood
 construction_method: double_diagonal
 construction_details: Double Diagonal
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 235
-  share: 64
+- member: 3249
+  id: 235
   start: 2012
-  member: 3249
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 7d539912-89d9-4bc7-8fe8-1a3f3992fe73
-draft: 0.2286
 handicap_data:
-  beam: 1.4234333089490367
+  thcf: 0.729872184
+  beam: 1.4234
+  draft: 0.2286
+  fore_triangle_height: 2.234211168007803
+  fore_triangle_base: 0.8382101926359424
+  length_over_all: 3.3528407705437697
   main:
     foot: 3.3528407705437697
     head: 3.0480370641306997
     luff: 1.2710314557425018
-  thcf: 0.729872184
-  draft: 0.22860277980980248
-  length_over_all: 3.3528407705437697
-  fore_triangle_base: 0.8382101926359424
   length_on_waterline: 3.2004389173372347
-  fore_triangle_height: 2.234211168007803
-length_on_deck: 3.3528
-beam: 1.4234
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.3528
+created_at: '2020-04-25T17:22:59.858579+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

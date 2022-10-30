@@ -3,8 +3,6 @@ oga_no: 1738
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1964
 year_is_approximate: false
 designer:
@@ -17,35 +15,28 @@ place_built: Belgium
 construction_material: steel
 construction_method: unknown
 construction_details: Steel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: P Guilor
-  share: 64
   start: 1965
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: f7aed7f0-248d-4471-9845-a4480829aa12
-draft: 1.015
 handicap_data:
-  beam: 3.3528407705437697
+  thcf: 0.914489978
+  beam: 3.3528
+  draft: 1.015
+  fore_triangle_height: 9.906120458424773
+  fore_triangle_base: 4.953060229212387
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
   main:
     foot: 4.556815410875396
     head: 1.9812240916849548
     luff: 7.132406730065837
-  thcf: 0.914489978
-  draft: 1.014996342355523
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 4.953060229212387
   length_on_waterline: 7.315288953913679
-  fore_triangle_height: 9.906120458424773
-length_on_deck: 9.144
-beam: 3.3528
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:09:27.498891+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

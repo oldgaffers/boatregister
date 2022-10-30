@@ -28,48 +28,43 @@ place_built: Falmouth
 construction_material: steel
 construction_method: unknown
 construction_details: Steel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2014
-  name: Philip Cogdell
-  share: 64
+- name: Philip Cogdell
   start: 1996
-- id: 929
+  end: 2014
   share: 64
+- member: 6101
+  id: 929
   start: 2014
-  member: 6101
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: c21d92cc-38c9-45ad-b7f9-0bb6ef174f8f
 image_key: 2qK5pC
 thumb: https://photos.smugmug.com/photos/i-G58Sk84/0/Th/i-G58Sk84-Th.jpg
-draft: 2.5908
 handicap_data:
-  beam: 4.26725188978298
+  thcf: 1.168
+  beam: 4.2672
+  draft: 2.5908
+  fore_triangle_height: 11.277737137283589
+  fore_triangle_base: 8.89011216776396
+  length_over_all: 16.45940014630578
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 139.71232508528539
   main:
     foot: 9.372732260424288
     head: 7.569312362838332
     luff: 7.3406912948061445
-  thcf: 1.168
-  draft: 2.5908436966593515
   topsail:
     luff: 7.848713728358937
     perpendicular: 4.495872957815167
-  sailarea: 139.71232508528539
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 16.45940014630578
-  fore_triangle_base: 8.89011216776396
   length_on_waterline: 13.716166788588149
-  fore_triangle_height: 11.277737137283589
-length_on_deck: 16.4592
-beam: 4.2672
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 16.4592
+created_at: '2020-04-25T17:16:33.377154+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

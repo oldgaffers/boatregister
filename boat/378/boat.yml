@@ -3,7 +3,6 @@ oga_no: 378
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: Designed and built by Harley Mead in 1909 'Lady Belle' is a gaff
   yawl design built as a yacht on Falmouth Quay punt lines. She was rebuilt 2004 -
   2006 by Alistair Garland.
@@ -19,49 +18,44 @@ place_built: Cowes IoW
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel teak on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: long keel sloping forefoot
 sail_number: '1909'
 uk_part1: '128428'
-callsign: ''
 ownerships:
-- end: 2017
-  name: David Reynolds
-  share: 64
+- name: David Reynolds
   start: 2007
-- id: 24
+  end: 2017
   share: 64
+- member: 722
+  id: 24
   start: 2017
-  member: 722
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 2074e65a-0c5f-4fe2-8c9f-cc4e4455dbcb
 image_key: TGrfvD
 thumb: https://photos.smugmug.com/photos/i-gj2QSfh/0/Th/i-gj2QSfh-Th.jpg
-draft: 1.7983
 handicap_data:
-  beam: 2.7676176542306754
+  thcf: 0.944345235
+  beam: 2.7737
+  draft: 1.7983
+  fore_triangle_height: 8.025481589856131
+  fore_triangle_base: 4.648256522799317
+  length_over_all: 8.53450377956596
+  propellor:
+    type: folding
+    blades: 3
   main:
     foot: 4.770178005364545
     head: 4.4501341136308215
     luff: 4.349548890514508
-  thcf: 0.944345235
-  draft: 1.8044379419653742
   mizzen:
     foot: 2.261643501584979
     luff: 4.395269446476469
-  propellor:
-    type: folding
-    blades: 3
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 4.648256522799317
   length_on_waterline: 8.077298219946353
-  fore_triangle_height: 8.025481589856131
-length_on_deck: 8.5344
-beam: 2.7737
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T16:48:04.753582+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

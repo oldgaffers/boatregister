@@ -3,8 +3,6 @@ oga_no: 1737
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1930
 year_is_approximate: false
 designer:
@@ -17,33 +15,26 @@ place_built: Woodbridge
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: D C R Windley
-  share: 64
   start: 1989
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0f55ef83-7bdb-4db4-9493-1affd63e4fa2
-draft: 0.1524
 handicap_data:
-  beam: 1.6002194586686174
+  thcf: 0.83725933
+  beam: 1.6002
+  draft: 0.1524
+  fore_triangle_height: 6.0960741282613995
+  fore_triangle_base: 1.5240185320653499
+  length_over_all: 4.26725188978298
   main:
     foot: 4.26725188978298
     head: 3.3528407705437697
     luff: 4.26725188978298
-  thcf: 0.83725933
-  draft: 0.152401853206535
-  length_over_all: 4.26725188978298
-  fore_triangle_base: 1.5240185320653499
   length_on_waterline: 4.26725188978298
-  fore_triangle_height: 6.0960741282613995
-length_on_deck: 4.2672
-beam: 1.6002
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.2672
+created_at: '2020-04-25T17:09:26.697349+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

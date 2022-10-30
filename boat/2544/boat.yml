@@ -32,44 +32,68 @@ place_built: Arnside
 construction_material: wood
 spar_material: wood
 construction_method: carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 11000
+- created_at: '2020-01-02T13:05:08+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: "<p>At 36\u2019 on deck, 11\u2019 beam and about 5\u2019 max. draft,\
+    \ \"Peggy\" is one of the larger prawners, sleeping five in two cabins plus WC/washroom.\
+    \ Believed to be built around 1910 by Crossfields, Arnside, she worked out of\
+    \ Mayport with fishing no. MT13.</p><p>Her fit has been maintained by current\
+    \ owners for extended cruising. All her sails, standing rigging, and running rigging\
+    \ have been renewed. Apart from her cruising rig other sails include lightweight\
+    \ racing jib and staysail, topsail and various reaching foresails. All the sails\
+    \ and rigging are in good or excellent condition. Her spars and hull are in very\
+    \ good condition, her bowsprit was replaced with one in laminated spruce in about\
+    \ 2005. Her engine is really excellent: a Nanni 4-43HD; 4 cylinder 2.2 litre engine\
+    \ with water cooled gearbox, and Brunton 18\" self-adjusting three bladed propeller;\
+    \ all new and installed in 2013, and has had little use. 120 litres capacity of\
+    \ diesel. 60 litres of fresh water. Jabsco toilet about 5years old. Nelson cooker,\
+    \ gimbled with two burners plus grill and oven, VHF radio and Garmin plotter were\
+    \ new for the 2013 trip. She has a Reflexs diesel cabin heater. Lewmar winches,\
+    \ fenders and two bilge pumps.</p><p>For the 2013 Round Britain Challenge, we\
+    \ fitted a cockpit cuddy and stern railing but this is easily removed if so desired.\
+    \ Peggy is a powerful and fast passage maker, yet&nbsp;&nbsp;can be sailed quite\
+    \ easily by two people. We are open to fair offers</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.127106+00:00'
 home_country: GBR
 home_port: Woodbridge
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2018
-  name: Philip Newman
-  share: 64
+- name: Philip Newman
   start: 1999
-- id: 808
+  end: 2018
   share: 64
+- member: 5868
+  id: 808
   start: 2019
-  member: 5868
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 8353e9c9-7ec8-4645-9b83-b4a4edcdf435
 image_key: 5fwC3H
 thumb: https://photos.smugmug.com/photos/i-TnJfvMr/0/Th/i-TnJfvMr-Th.jpg
-draft: 1.4722
 handicap_data:
-  beam: 3.3528407705437697
+  beam: 3.3528
+  draft: 1.4722
+  fore_triangle_height: 10.028041940990002
+  fore_triangle_base: 6.739209948792976
+  length_over_all: 10.972933430870519
   main:
     foot: 5.9436722750548645
     head: 4.511094854913436
     luff: 5.425505974152646
-  draft: 1.2527432333577178
   topsail:
     luff: 6.431358205315777
     perpendicular: 3.0480370641306997
-  length_over_all: 10.972933430870519
-  fore_triangle_base: 6.739209948792976
   length_on_waterline: 9.692757863935626
-  fore_triangle_height: 10.028041940990002
-length_on_deck: 10.9728
-beam: 3.3528
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.9728
+created_at: '2020-04-25T17:22:21.765176+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

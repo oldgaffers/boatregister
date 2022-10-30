@@ -3,7 +3,6 @@ oga_no: 349
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Bought Owners mother in 1949. 1997 owned by family and their son
   Richard. Richard lives in France and has Sybil ashore at family farmhouse Maizey
   nr Caen. He has nearly finished a rebuild and will relaunch when accomodation is
@@ -20,42 +19,36 @@ place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch Pine/Carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: 'St Vaast la Hougue '
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Richard Judd
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7b8b067d-acae-4705-977b-1a420abf5d90
-previous_names:
-- Sybil
 image_key: V4733W
 thumb: https://photos.smugmug.com/photos/i-NZWtF4Q/0/Th/i-NZWtF4Q-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.682272616435016
+  thcf: 1.065403728
+  beam: 2.6822
+  draft: 1.2192
+  fore_triangle_height: 10.820531577663983
+  fore_triangle_base: 6.705681541087539
+  length_over_all: 10.881492318946599
+  propellor:
+    type: fixed
   main:
     foot: 7.315288953913679
     head: 4.87685930260912
     luff: 4.26725188978298
-  thcf: 1.065403728
-  draft: 1.21921482565228
   topsail:
     luff: 4.26725188978298
     perpendicular: 3.0480370641306997
-  propellor:
-    type: fixed
-  length_over_all: 10.881492318946599
-  fore_triangle_base: 6.705681541087539
   length_on_waterline: 9.936600829066082
-  fore_triangle_height: 10.820531577663983
-length_on_deck: 10.8814
-beam: 2.6822
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.8814
+created_at: '2020-04-25T16:47:38.488591+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Sybil

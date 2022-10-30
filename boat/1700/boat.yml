@@ -3,7 +3,6 @@ oga_no: 1700
 generic_type: Barge
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Totally rebuilt 1991/1992 in marine plywood and planked with larch
   Log 87/4, Sp/94 CB Jul/Aug 88 + Sep/Oct 88    Passed to new owner, see Log Dec 2001
 year: 1898
@@ -18,10 +17,8 @@ place_built: Paglesham
 construction_material: wood
 construction_method: unknown
 construction_details: Diagonal/horiz. Planked Oregon Pine Tarred felt interleaving
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel sloping forefoot
 reference:
 - Log 87/4
@@ -29,32 +26,27 @@ reference:
 - CB Jul/Aug 88
 - CB Sep/Oct 88
 - Log Dec 2001
-callsign: ''
 ownerships:
 - name: J I Burn
-  share: 64
   start: 1988
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: f052e7bd-0993-4906-9237-0be06d6beaa8
-previous_names:
-- Susti
-draft: 0.2743
 handicap_data:
-  beam: 2.529870763228481
+  thcf: 0.904989312
+  beam: 2.5298
+  draft: 0.2743
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 2.43842965130456
+  length_over_all: 7.772494513533284
+  propellor:
+    type: folding
   main:
     foot: 4.87685930260912
     head: 4.114850036576445
     luff: 4.114850036576445
-  thcf: 0.904989312
-  draft: 0.274323335771763
-  propellor:
-    type: folding
-  length_over_all: 7.772494513533284
-  fore_triangle_base: 2.43842965130456
   length_on_waterline: 7.467690807120214
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 7.7724
-beam: 2.5298
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.7724
+created_at: '2020-04-25T17:08:54.185411+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Susti

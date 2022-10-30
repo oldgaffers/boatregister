@@ -15,6 +15,9 @@ year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+design_class:
+  name: Vertue
+  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
 builder:
   name: International Boat Building Traning Centre
   id: 3836458d-0450-4ee1-bc73-1e73b2bfd0fa
@@ -23,11 +26,42 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel iroko on oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 24500
+- created_at: '2020-01-09T17:58:25+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "Natural Selection is a unique ocean-going gaff-rigged yacht based on\
+    \ a 1930s design by Laurent Giles and built to the highest standards at the International\
+    \ Boat Building College, Lowestoft.</p><p>Her hull is iroko on oak frames with\
+    \ a solid mahogany deck, bronze fittings, mahogany interior.</p><p>She has two\
+    \ full-length berths and standing headroom. Comfortably fitted with a paraffin\
+    \ Taylor stove and Ebersbacher diesel heater.</p><p data-adtags-visited=\"true\"\
+    >Her 14hp engine is in excellent condition and well-maintained.</p><p data-adtags-visited=\"\
+    true\">In 2014, her previous owner spent \xA327 000 refurbishing her professionally\
+    \ to a high standard, using bronze fittings and master-crafted woodwork.</p><p\
+    \ data-adtags-visited=\"true\">She is ideal for single-handed sailing, with automated\
+    \ steering by the tiller.</p><p data-adtags-visited=\"true\">Due to failing health,\
+    \ I am reluctantly offering Natural Selection for sale.</p><p data-adtags-visited=\"\
+    true\">She will be available until 30th March 2020, after which I will renew her\
+    \ mooring on the River Frome, Wareham, Dorset and continue sailing for another\
+    \ season.</p><p data-adtags-visited=\"true\">I shall maintain her until I can\
+    \ find a suitable buyer (see 2020 planned maintenance schedule).</p><p data-adtags-visited=\"\
+    true\">She is in good condition and is being sailed regularly.</p><p data-adtags-visited=\"\
+    true\">I invite anyone interested to spend a few days sailing with me.</p><p data-adtags-visited=\"\
+    true\">After the sale, I will continue to offer advice and help out where I can,\
+    \ if desired.</p><p data-adtags-visited=\"true\">I have included a selection of\
+    \ photos, videos and documents on the website:</p><p data-adtags-visited=\"true\"\
+    ><a href=\"https://naturalselectionvertue.home.blog/\">https://naturalselectionvertue.home.blog/</a></p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: Sold sometime in summer 2020 to Howard Clark of Hayling Island.
+  updated_at: '2020-05-03T10:13:13.543086+00:00'
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: V203
 ssr: '38357'
@@ -35,39 +69,32 @@ uk_part1: '917114'
 callsign: MMNV8
 ownerships:
 - name: Ian McLellan
-  share: 64
   start: 2009
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 3782d1d8-dd5a-462c-ab65-3e35f3859d05
-previous_names:
-- Vector
-- Patience. Ellenor Josephine
 image_key: gFqh82
 thumb: https://photos.smugmug.com/photos/i-PwCJxnB/0/Th/i-PwCJxnB-Th.jpg
-draft: 1.4478
 handicap_data:
-  beam: 2.1854425749817117
+  thcf: 0.911992314
+  beam: 2.1854
+  draft: 1.4478
+  fore_triangle_height: 7.315288953913679
+  fore_triangle_base: 4.419653742989515
+  length_over_all: 7.696293586930016
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 4.26725188978298
     head: 3.0480370641306997
     luff: 3.3528407705437697
-  thcf: 0.911992314
-  draft: 1.4478176054620824
   topsail:
     luff: 4.57205559619605
     perpendicular: 1.5240185320653499
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.696293586930016
-  fore_triangle_base: 4.419653742989515
   length_on_waterline: 6.5532796878810045
-  fore_triangle_height: 7.315288953913679
-length_on_deck: 7.6962
-beam: 2.1854
-design_class:
-  name: Vertue
-  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.6962
+created_at: '2020-04-25T17:16:32.43932+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Vector
+- Patience. Ellenor Josephine

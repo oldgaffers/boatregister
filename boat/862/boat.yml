@@ -37,49 +37,40 @@ place_built: Oulton Broad
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak, copper fastened with long iron keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Yarmouth Isle of Wight
 hull_form: long keel deep forefoot
 uk_part1: '302862'
-callsign: ''
 ownerships:
 - name: Martyn Mackrill
-  share: 64
   start: 1984
-- id: 486
   share: 64
-  member: 4652
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://martynmackrill.co.uk/marine-artists-boat.htm
 id: 585eaaaa-a777-47df-b360-5e27894ad3dd
-previous_names:
-- Nautilus
 image_key: pvq8Mh
 thumb: https://photos.smugmug.com/photos/i-3j3bFPr/0/Th/i-3j3bFPr-Th.jpg
-draft: 1.0668
 handicap_data:
-  beam: 2.7676176542306754
+  thcf: 0.987256398
+  beam: 2.7676
+  draft: 1.0668
+  fore_triangle_height: 7.924896366739819
+  fore_triangle_base: 5.690685198732017
+  length_over_all: 9.44891489880517
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 6.5532796878810045
     head: 4.218483296756888
     luff: 5.18166300902219
-  thcf: 0.987256398
-  draft: 1.066812972445745
   topsail:
     luff: 4.87685930260912
     perpendicular: 1.9812240916849548
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 9.44891489880517
-  fore_triangle_base: 5.690685198732017
   length_on_waterline: 8.22970007315289
-  fore_triangle_height: 7.924896366739819
-length_on_deck: 9.4488
-beam: 2.7676
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.4488
+created_at: '2020-04-25T16:55:24.066835+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Nautilus

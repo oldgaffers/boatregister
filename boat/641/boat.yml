@@ -31,116 +31,88 @@ place_built: Cantley, Norfolk
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch Pine on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Heritage Marine boat yard, Essex
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 1924
+- start: 1913
+  end: 1924
   note: NR Suffling 1913-1924
   text: NR Suffling
-  start: 1913
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1934
+- start: 1924
+  end: 1934
   note: AT Springall 1924-1934
   text: AT Springall
-  start: 1924
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1949
+- start: 1936
+  end: 1949
   note: Surgeon Comdr AC. Rusack RN 1936-1949
   text: Surgeon Comdr AC. Rusack RN
-  start: 1936
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1951
+- start: 1950
+  end: 1951
   note: RR Alison 1950-1951
   text: RR Alison
-  start: 1950
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1958
+- start: 1952
+  end: 1958
   note: AH Dean 1952-1958
   text: AH Dean
-  start: 1952
-  end_is_approximate: false
-  start_is_approximate: false
-- note: Executors of AH Dean 1959
+- start: 1959
+  note: Executors of AH Dean 1959
   text: Executors of AH Dean
-  start: 1959
-  start_is_approximate: false
-- note: JF Brown & G Fish 1960
+- start: 1960
+  note: JF Brown & G Fish 1960
   text: JF Brown & G Fish
-  start: 1960
-  start_is_approximate: false
-- end: 1969
+- start: 1961
+  end: 1969
   note: JF Brown & S Dyer 1961-1969
   text: JF Brown & S Dyer
-  start: 1961
-  end_is_approximate: false
-  start_is_approximate: false
-- note: Dr PH Garrard 1970
+- start: 1970
+  note: Dr PH Garrard 1970
   text: Dr PH Garrard
-  start: 1970
-  start_is_approximate: false
-- end: 1974
+- start: 1971
+  end: 1974
   note: JF Brown 1971-1974
   text: JF Brown
-  start: 1971
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 2000
-  name: J Frost
+- name: J Frost
+  start: 1989
+  end: 2000
   share: 64
-  start: 1989
-- note: J Frost/M McCarthy 1989-?
+- start: 1989
+  note: J Frost/M McCarthy 1989-?
   text: J Frost/M McCarthy
-  start: 1989
-  start_is_approximate: false
-- note: Dominic Stevens ??-2014
+- start: 2014
+  note: Dominic Stevens ??-2014
   text: Dominic Stevens ??-
-  start: 2014
-  start_is_approximate: false
-- note: Hugh Barrett  ??-2014
+- start: 2014
+  note: Hugh Barrett  ??-2014
   text: Hugh Barrett  ??-
-  start: 2014
-  start_is_approximate: false
-- end: 2020
+- start: 2015
+  end: 2020
   note: Paul Goold  2015-2020
   text: Paul Goold
-  start: 2015
-  end_is_approximate: false
-  start_is_approximate: false
-- note: Samuel Hicks 2020
+- start: 2020
+  note: Samuel Hicks 2020
   text: Samuel Hicks
-  start: 2020
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://www.harrisonbutlerassociation.com/Pages/HBAMag72.html#MadCapVoyage
 id: 76a68de8-4c0a-432e-8470-7a68b881be18
-previous_names:
-- Seagull
 image_key: 9CvCQD
 thumb: https://photos.smugmug.com/photos/i-RNdrRCp/0/Th/i-RNdrRCp-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.867700176
+  beam: 2.1336
+  draft: 1.3716
+  fore_triangle_height: 4.87685930260912
+  fore_triangle_base: 3.3528407705437697
+  length_over_all: 6.0960741282613995
+  propellor:
+    type: fixed
   main:
     foot: 4.87685930260912
     head: 4.191050963179712
     luff: 4.26725188978298
-  thcf: 0.867700176
-  draft: 1.3716166788588149
-  propellor:
-    type: fixed
-  length_over_all: 6.0960741282613995
-  fore_triangle_base: 3.3528407705437697
   length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 4.87685930260912
-length_on_deck: 6.096
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.096
+created_at: '2020-04-25T16:52:04.233182+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Seagull

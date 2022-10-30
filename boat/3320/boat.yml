@@ -15,34 +15,32 @@ year_is_approximate: false
 designer:
   name: Hope Linton
   id: f238ed22-175a-4b8c-9337-dc58c6619754
+design_class:
+  name: Broads One Design
+  id: 7820d442-c81d-4047-9058-307aba9d4034
 construction_material: grp
 construction_method: cold_moulded
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Waterbeach
 hull_form: cut_away_stem
 sail_number: '35'
-callsign: ''
 ownerships:
 - name: Mark Chandler
-  share: 32
   start: 2012
+  share: 32
 - name: Henry Bird
-  share: 32
   start: 2012
-- id: 450
-  share: 64
-  member: 4434
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 32
 id: 7226bb0d-91de-47e8-8ba4-8919af57ec31
 image_key: PFnGqd
 thumb: https://photos.smugmug.com/photos/i-MhMQM6G/0/Th/i-MhMQM6G-Th.jpg
-draft: 0.9144
 handicap_data:
+  beam: 1.524
+  draft: 0.9144
+  fore_triangle_height: 5.4346
+  fore_triangle_base: 2.1336
   main:
     foot: 17
     head: 10.92
@@ -50,13 +48,7 @@ handicap_data:
   length_overall: 7.3152
   calculated_thcf: 0.926
   length_over_spars: 7.3152
-  fore_triangle_base: 2.1336
   length_on_waterline: 5.0292
-  fore_triangle_height: 5.4346
-length_on_deck: 7.3152
-beam: 1.524
-design_class:
-  name: Broads One Design
-  id: 7820d442-c81d-4047-9058-307aba9d4034
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:49:06.614288+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

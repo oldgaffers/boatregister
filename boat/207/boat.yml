@@ -30,50 +30,45 @@ place_built: Whitstable
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Shotley Marina
 hull_form: long keel deep forefoot
 ssr: '132068'
-callsign: ''
 ownerships:
-- end: 2014
-  name: Neil Mordey
-  share: 64
+- name: Neil Mordey
   start: 2007
-- id: 966
+  end: 2014
   share: 64
+- member: 6180
+  id: 966
   start: 2014
-  member: 6180
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 94df70a8-2198-4cc3-83f5-fd6040018c71
 image_key: hZf6VZ
 thumb: https://photos.smugmug.com/photos/i-spdz8f5/0/Th/i-spdz8f5-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.5146305779078273
+  thcf: 0.94074543
+  beam: 2.5146
+  draft: 1.3716
+  fore_triangle_height: 7.467690807120214
+  fore_triangle_base: 5.7912704218483295
+  length_over_all: 7.848695440136551
+  propellor:
+    type: fixed
   main:
     foot: 5.6388685686417945
     head: 3.9624481833699097
     luff: 4.166666666666666
-  thcf: 0.94074543
-  draft: 1.3716166788588149
   topsail:
     luff: 4.57205559619605
     perpendicular: 2.13362594489149
-  propellor:
-    type: fixed
   mizen_topsail:
     luff: 202.99926847110459
     perpendicular: 202.99926847110459
-  length_over_all: 7.848695440136551
-  fore_triangle_base: 5.7912704218483295
   length_on_waterline: 6.9342843208973415
-  fore_triangle_height: 7.467690807120214
-length_on_deck: 7.8486
-beam: 2.5146
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.8486
+created_at: '2020-04-25T16:45:28.122587+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

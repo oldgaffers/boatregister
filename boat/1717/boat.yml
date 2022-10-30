@@ -3,7 +3,6 @@ oga_no: 1717
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
 full_description: CB Jul/Aug 88
 year: 1989
 year_is_approximate: false
@@ -17,34 +16,27 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: '248'
-callsign: ''
 ownerships:
 - name: S N Lapping
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: c61a7c49-7454-4d87-b630-4d1a70a0e729
-draft: 0.1768
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.786471302
+  beam: 1.8288
+  draft: 0.1768
+  fore_triangle_height: 3.7307973664959766
+  fore_triangle_base: 2.4993903925871734
+  length_over_all: 5.053645452328699
   main:
     foot: 2.5999756157034866
     head: 3.5509631797122654
     luff: 2.386613021214338
-  thcf: 0.786471302
-  draft: 0.17678614971958057
-  length_over_all: 5.053645452328699
-  fore_triangle_base: 2.4993903925871734
   length_on_waterline: 4.038649109973177
-  fore_triangle_height: 3.7307973664959766
-length_on_deck: 5.0536
-beam: 1.8288
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.0536
+created_at: '2020-04-25T17:09:09.665197+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

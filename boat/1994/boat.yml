@@ -3,43 +3,34 @@ oga_no: 1994
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year_is_approximate: false
 designer:
   name: Matt Newland
   id: 30fcf69f-e274-4284-9cb8-8327a7f730f5
+design_class:
+  name: Bay Raider 20
+  id: 83e6945b-dba5-422d-9623-4732574c36c0
 builder:
   name: Gerwyn Lewis
   id: ff3a4bd4-dc90-464d-a50b-31c279c9f034
 construction_material: wood
 construction_method: unknown
 construction_details: Epoxy sheathed ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 663
-  share: 64
+- member: 5505
+  id: 663
   start: 2010
-  member: 5505
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 6f5b7f11-172f-4c1d-a2d0-ef18e17e254f
-draft: 0.4054
 handicap_data:
-  beam: 2.0320409656181417
-  draft: 0.40641306998293103
+  beam: 2.033
+  draft: 0.4054
   length_over_all: 5.994489148988052
   length_over_spars: 6.299292855401122
-length_on_deck: 5.9954
-beam: 2.033
-design_class:
-  name: Bay Raider 20
-  id: 83e6945b-dba5-422d-9623-4732574c36c0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.9954
+created_at: '2020-04-25T17:13:26.81805+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

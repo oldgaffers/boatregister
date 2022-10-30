@@ -3,8 +3,6 @@ oga_no: 1991
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1969
 year_is_approximate: false
 designer:
@@ -17,50 +15,45 @@ place_built: Canvey Island
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker magogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Paglesham
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Ted Smith
-  share: 64
   start: 1969
-- end: 2014
-  name: John Langrick
   share: 64
+- name: John Langrick
   start: 1992
-- end: 2017
-  name: Andy Stephens
+  end: 2014
   share: 64
+- name: Andy Stephens
   start: 2014
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2017
+  share: 64
 id: e0c87f1a-e38e-448f-9e06-fe53e58f5087
-previous_names:
-- Impudence
 image_key: jVSJS5
 thumb: https://photos.smugmug.com/photos/i-WRQ4cBN/0/Th/i-WRQ4cBN-Th.jpg
-draft: 0.4572
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.860411052
+  beam: 2.7432
+  draft: 0.4572
+  fore_triangle_height: 6.4008778346744695
+  fore_triangle_base: 3.0480370641306997
+  length_over_all: 6.858083394294074
+  propellor:
+    type: fixed
   main:
     foot: 4.800658376005852
     head: 3.5357229943916115
     luff: 3.6576444769568397
-  thcf: 0.860411052
-  draft: 0.45720555961960496
   topsail:
     luff: 2.7432333577176298
     perpendicular: 1.5240185320653499
-  propellor:
-    type: fixed
-  length_over_all: 6.858083394294074
-  fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.5532796878810045
-  fore_triangle_height: 6.4008778346744695
-length_on_deck: 6.858
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.858
+created_at: '2020-04-25T17:13:24.223458+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Impudence

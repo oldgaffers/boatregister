@@ -25,47 +25,44 @@ place_built: Laboe, Kiel.
 construction_material: wood
 construction_method: unknown
 construction_details: Oak on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bursledon
 hull_form: long keel deep forefoot
 callsign: ''
 ownerships:
-- id: 62
-  share: 64
+- member: 1434
+  id: 62
   start: 1994
-  member: 1434
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: ''
 id: cebf73a0-930d-465b-a571-301b2bf59786
 image_key: mtDPG9
 thumb: https://photos.smugmug.com/photos/i-KLrnC26/0/Th/i-KLrnC26-Th.jpg
-draft: 1.9202
 handicap_data:
-  beam: 3.5052426237503047
+  thcf: 1.084
+  beam: 3.5052
+  draft: 1.9202
+  fore_triangle_height: 14.813460131675201
+  fore_triangle_base: 6.5532796878810045
+  length_over_all: 12.496951962935869
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 110.57695011966312
   main:
     foot: 6.653864910997317
     head: 5.4864667154352595
     luff: 6.501463057790782
-  thcf: 1.084
-  draft: 1.929407461594733
-  mizzen:
-    foot: 3.0480370641306997
-    luff: 7.010485247500609
   topsail:
     luff: 6.5532796878810045
     perpendicular: 3.5052426237503047
-  sailarea: 110.57695011966312
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 12.496951962935869
-  fore_triangle_base: 6.5532796878810045
+  mizzen:
+    foot: 3.0480370641306997
+    luff: 7.010485247500609
   length_on_waterline: 10.159107534747621
-  fore_triangle_height: 14.813460131675201
-length_on_deck: 12.4968
-beam: 3.5052
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.4968
+created_at: '2020-04-25T17:16:29.014172+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

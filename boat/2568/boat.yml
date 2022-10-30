@@ -3,7 +3,6 @@ oga_no: 2568
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
 full_description: Balance lug, no headsail.  See sketch
 year: 2000
 year_is_approximate: false
@@ -17,34 +16,28 @@ place_built: Petersfield, Hants
 construction_material: wood
 construction_method: clinker_ply
 construction_details: clincher ply epoxy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Chichester Harbour
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2016
-  name: Nicholas Bell
-  share: 64
+- name: Nicholas Bell
   start: 2002
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2016
+  share: 64
 id: 1dae343e-c28b-4449-b4b6-5c809fe4a70a
-previous_names:
-- Joanie
-draft: 0.2042
 handicap_data:
-  beam: 1.3960009753718605
+  thcf: 0.736428615
+  beam: 1.396
+  draft: 0.2042
+  length_over_all: 4.114850036576445
   main:
     foot: 2.3104120946110704
     head: 2.843818580833943
     luff: 1.929407461594733
-  thcf: 0.736428615
-  draft: 0.2042184832967569
-  length_over_all: 4.114850036576445
   length_on_waterline: 3.5052426237503047
-length_on_deck: 4.1148
-beam: 1.396
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.1148
+created_at: '2020-04-25T17:22:44.005605+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Joanie

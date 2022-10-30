@@ -3,8 +3,6 @@ oga_no: 2170
 generic_type: unknown
 rig_type: Schooner
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1996
 year_is_approximate: false
 designer:
@@ -13,45 +11,39 @@ designer:
 place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Weymouth
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: E C North
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 971d8e17-cc57-459b-a23d-9f08773d6771
-draft: 0.6096
 handicap_data:
-  beam: 3.3528407705437697
+  thcf: 0.966962162
+  beam: 3.3528
+  draft: 0.6096
+  fore_triangle_height: 7.220799804925628
+  fore_triangle_base: 5.300536454523287
+  length_over_all: 8.915508412582296
+  propellor:
+    type: fixed
   main:
     foot: 3.1516703243111435
-    head: 3.2004389173372347
-    luff: 7.498171177761522
-  thcf: 0.966962162
-  draft: 0.60960741282614
-  mizen:
-    foot: 3.154718361375274
     head: 3.2004389173372347
     luff: 7.498171177761522
   topsail:
     luff: 0.9753718605218239
     perpendicular: 2.7432333577176298
-  propellor:
-    type: fixed
+  mizen:
+    foot: 3.154718361375274
+    head: 3.2004389173372347
+    luff: 7.498171177761522
   mizen_topsail:
     luff: 0.9753718605218239
     perpendicular: 2.7432333577176298
-  length_over_all: 8.915508412582296
-  fore_triangle_base: 5.300536454523287
   length_on_waterline: 9.000853450377956
-  fore_triangle_height: 7.220799804925628
-length_on_deck: 8.9154
-beam: 3.3528
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.9154
+created_at: '2020-04-25T18:36:09.47399+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

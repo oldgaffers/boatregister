@@ -3,7 +3,6 @@ oga_no: 1537
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: CB Jul/Aug 88
 year: 1988
 year_is_approximate: false
@@ -17,31 +16,24 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP with teak fittings
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: I C D Nichols
-  share: 64
   start: 1991
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ffd4cbec-69fe-4e5a-8de3-e7e21d4a1bf8
-draft: 0.1829
 handicap_data:
-  beam: 1.7008046817849305
+  thcf: 0.740483666
+  beam: 1.7008
+  draft: 0.1829
+  length_over_all: 3.733845403560107
   main:
     foot: 3.0480370641306997
     head: 2.7432333577176298
     luff: 2.7432333577176298
-  thcf: 0.740483666
-  draft: 0.18288222384784197
-  length_over_all: 3.733845403560107
   length_on_waterline: 3.633260180443794
-length_on_deck: 3.7338
-beam: 1.7008
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.7338
+created_at: '2020-04-25T17:06:29.032932+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

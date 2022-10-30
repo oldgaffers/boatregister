@@ -3,7 +3,6 @@ oga_no: 2860
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Home built by registering owner, Swallow boats do not market this
   design (2008). Self tacking club foresail, wishbone boom gunter main.
 year: 2004
@@ -11,6 +10,9 @@ year_is_approximate: false
 designer:
   name: Swallow Boats Ltd.
   id: 1ac33a62-3da4-4f66-9a7e-fe0234fd8884
+design_class:
+  name: Storm Petrel
+  id: 6becf444-1985-4b81-830b-d1e566714c11
 builder:
   name: built Home
   id: 149ca895-58ff-4037-8fae-42fefff7e74e
@@ -18,36 +20,27 @@ place_built: Hale
 construction_material: wood
 construction_method: unknown
 construction_details: Half Deck double ender, wishbone sprit boom gunter rig.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hale, Altringham
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Michael Rogers
-  share: 64
   start: 2004
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 71a87efd-8b54-41fc-bba2-2c84b81e2a25
-draft: 0.1524
 handicap_data:
-  beam: 1.472201901975128
+  thcf: 0.747547508
+  beam: 1.4722
+  draft: 0.1524
+  fore_triangle_height: 3.148622287247013
+  fore_triangle_base: 1.1430138990490124
+  length_over_all: 4.26725188978298
   main:
     foot: 2.590831504511095
     head: 3.2522555474274566
     luff: 1.066812972445745
-  thcf: 0.747547508
-  draft: 0.152401853206535
-  length_over_all: 4.26725188978298
-  fore_triangle_base: 1.1430138990490124
   length_on_waterline: 3.733845403560107
-  fore_triangle_height: 3.148622287247013
-length_on_deck: 4.2672
-beam: 1.4722
-design_class:
-  name: Storm Petrel
-  id: 6becf444-1985-4b81-830b-d1e566714c11
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.2672
+created_at: '2020-04-25T17:29:16.779444+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

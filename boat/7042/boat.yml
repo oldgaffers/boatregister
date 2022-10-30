@@ -21,39 +21,34 @@ place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
 construction_details: Pitchpine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Woolverstone
 hull_form: long keel deep forefoot
 uk_part1: '182288'
-callsign: ''
 ownerships:
-- id: 156
-  share: 64
+- member: 2430
+  id: 156
   start: 2001
-  member: 2430
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fcbcca42-5129-4fbc-8586-d8f728a99825
 image_key: HTJnBs
 thumb: https://photos.smugmug.com/photos/i-r2ZT6Vk/0/Th/i-r2ZT6Vk-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 2.6670324311143623
+  thcf: 0.917455684
+  beam: 2.6914
+  draft: 1.524
+  fore_triangle_height: 9.44891489880517
+  fore_triangle_base: 3.0480370641306997
+  length_over_all: 9.1441111923921
+  propellor:
+    type: fixed
   main:
     foot: 4.57205559619605
     luff: 10.05852231163131
-  thcf: 0.917455684
-  draft: 1.5240185320653499
-  propellor:
-    type: fixed
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 3.0480370641306997
   length_on_waterline: 7.010485247500609
-  fore_triangle_height: 9.44891489880517
-length_on_deck: 9.144
-beam: 2.6914
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:43:28.937241+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

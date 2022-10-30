@@ -3,47 +3,34 @@ oga_no: 1922
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1921
 year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: cut_away_stem
-callsign: ''
 ownerships:
 - name: Daniel Tester
-  share: 64
   start: 2012
-- share: 64
-  member: 5971
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 30f41b43-d476-428e-b2da-f9865ccb3357
-draft: 1.6764
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.983
+  beam: 2.1336
+  draft: 1.6764
+  fore_triangle_height: 8.53450377956596
+  fore_triangle_base: 2.6670507193367468
+  length_over_all: 8.38211411850768
+  propellor:
+    type: folding
+    blades: 2
+  sailarea: 44.300519673206736
   main:
     foot: 5.943684467203121
     head: 4.87685930260912
     luff: 5.18166300902219
-  thcf: 0.983
-  draft: 1.6764325774201414
-  sailarea: 44.300519673206736
-  propellor:
-    type: folding
-    blades: 2
-  length_over_all: 8.38211411850768
-  fore_triangle_base: 2.6670507193367468
   length_on_waterline: 7.137496951962935
-  fore_triangle_height: 8.53450377956596
-length_on_deck: 8.382
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.382
+created_at: '2020-04-25T17:12:17.689088+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

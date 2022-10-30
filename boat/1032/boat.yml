@@ -6,7 +6,6 @@ mainsail_type: gaff
 short_description: <p>&#39;Eagle&#39; is a classic 30&#39; gaff cutter, pitch pine
   on oak. She was built in 1915 at Pin Mill, Suffolk for the express purpose of wiping
   out all the opposition in local regattas.</p>
-full_description: ''
 year: 1915
 year_is_approximate: false
 builder:
@@ -15,37 +14,26 @@ builder:
 place_built: Pin Mill
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Walton Backwaters
 hull_form: unknown
-callsign: ''
 ownerships:
-- note: for sale, Gaffers Log 1991/4 by John Mellor of Manningtree, Essex
+- start: 1991
+  note: for sale, Gaffers Log 1991/4 by John Mellor of Manningtree, Essex
   text: for sale, Gaffers Log
-  start: 1991
-  start_is_approximate: false
-- end: 2017
-  name: John Fleming
-  share: 64
+- name: John Fleming
   start: 1995
-- share: 64
-  member: 3194
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2017
+  share: 64
 id: 333f3329-c37f-4bfa-b26b-ead6eaa5e597
 image_key: 3z4mGT
 thumb: https://photos.smugmug.com/photos/i-V97zMp6/0/Th/i-V97zMp6-Th.png
-draft: 1.524
 handicap_data:
-  beam: 2.3104120946110704
-  draft: 1.5240185320653499
+  beam: 2.3104
+  draft: 1.524
   length_over_all: 9.1441111923921
   length_on_waterline: 7.620092660326749
-length_on_deck: 9.144
-beam: 2.3104
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T16:58:49.773611+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

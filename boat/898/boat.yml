@@ -3,7 +3,6 @@ oga_no: 898
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Built by Aldous of Brightlingsea as a Whitstable smack. After working
   for nearly 20 years, she was bought and converted to a yacht in 1931.<p>Stolen from
   moorings at Portsmouth in 1945, and found 5 weeks later at Fecamp in France as a
@@ -22,39 +21,32 @@ builder:
 place_built: Brightlingsea
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 67/1
-callsign: ''
 ownerships:
 - name: G Brewster
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 80a18c44-40b1-483b-8726-52cc2a5f9a51
-previous_names:
-- The Clyde
 image_key: CPLdqr
 thumb: https://photos.smugmug.com/photos/i-TjhWgXD/0/Th/i-TjhWgXD-Th.jpg
-draft: 1.6154
 handicap_data:
-  beam: 4.206291148500366
+  thcf: 1.090802982
+  beam: 4.2062
+  draft: 1.6154
+  fore_triangle_height: 9.296513045598633
+  fore_triangle_base: 8.83930748597903
+  length_over_all: 14.325774201414289
   main:
     foot: 9.44891489880517
     head: 6.705681541087539
     luff: 5.18166300902219
-  thcf: 1.090802982
-  draft: 1.6154596439892708
-  length_over_all: 14.325774201414289
-  fore_triangle_base: 8.83930748597903
   length_on_waterline: 12.344550109729333
-  fore_triangle_height: 9.296513045598633
-length_on_deck: 14.3256
-beam: 4.2062
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 14.3256
+created_at: '2020-04-25T16:56:52.306735+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- The Clyde

@@ -5,7 +5,6 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Second of an Ed Burnett designed new class.&nbsp;No 1 was named
   &#39;Zinnia&#39;, &#39;Meagan&#39; was built 1998 to 2000.</p>
-full_description: ''
 year: 2000
 year_is_approximate: false
 designer:
@@ -17,33 +16,29 @@ builder:
 place_built: Weymouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Weymouth
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2005
-  name: Andrew Goss
-  share: 64
+- name: Andrew Goss
   start: 2000
-- end: 2019
-  name: Jonathan Hardwick
+  end: 2005
   share: 64
+- name: Jonathan Hardwick
   start: 2005
-- id: 1058
+  end: 2019
   share: 64
+- member: 6311
+  id: 1058
   start: 2019
-  member: 6311
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: d39645e0-7ef8-4834-973f-9d5d9c8cd003
 image_key: XkGxfN
 thumb: https://photos.smugmug.com/photos/i-JLHtwLQ/0/Th/i-JLHtwLQ-Th.jpg
-draft: 0
-length_on_deck: 0
-beam: 0
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:19:19.900057+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  length_on_deck: 0

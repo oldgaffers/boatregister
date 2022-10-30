@@ -3,7 +3,6 @@ oga_no: 1890
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log Mar/98
 year: 1924
 year_is_approximate: false
@@ -17,30 +16,23 @@ place_built: Ringsend, Dublin
 construction_material: wood
 construction_method: clinker
 construction_details: Wood Clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log Mar 98
-callsign: ''
 ownerships:
 - name: Kieran Cruise
-  share: 64
   start: 1944
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 98853fd0-1131-4c29-b865-29b86036dcb3
-draft: 1.2192
 handicap_data:
-  beam: 2.590831504511095
-  draft: 1.21921482565228
+  beam: 2.5908
+  draft: 1.2192
+  length_over_all: 8.22970007315289
   propellor:
     type: fixed
-  length_over_all: 8.22970007315289
   length_on_waterline: 7.467690807120214
-length_on_deck: 8.2296
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.2296
+created_at: '2020-04-25T17:11:47.58061+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 1918
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1982
 year_is_approximate: false
 designer:
@@ -17,38 +15,32 @@ place_built: Kirkcudbright
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker - Larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Blyth
 hull_form: long keel deep forefoot
 uk_part1: '727692'
-callsign: ''
 ownerships:
 - name: John McDonagh
-  share: 64
   start: 1995
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 130cd895-69b2-4a1d-989d-461d1e23a2f1
-previous_names:
-- Wood Rose
-draft: 0.762
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.861108871
+  beam: 2.4384
+  draft: 0.762
+  fore_triangle_height: 6.0960741282613995
+  fore_triangle_base: 2.6517922457937084
+  length_over_all: 6.705681541087539
+  propellor:
+    type: fixed
   main:
     foot: 4.87685930260912
     head: 5.029261155815655
     luff: 2.5146305779078273
-  thcf: 0.861108871
-  draft: 0.7620092660326749
-  propellor:
-    type: fixed
-  length_over_all: 6.705681541087539
-  fore_triangle_base: 2.6517922457937084
   length_on_waterline: 6.4008778346744695
-  fore_triangle_height: 6.0960741282613995
-length_on_deck: 6.7056
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:12:13.308174+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Wood Rose

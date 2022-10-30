@@ -3,42 +3,34 @@ oga_no: 1280
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: CB Mar/Apr 89
 year: 1988
 year_is_approximate: false
 designer:
   name: Sean McMillan
   id: 19229bd6-6237-4e80-a224-de6bfb83a00b
+design_class:
+  name: McMillan 10 Ton
+  id: 21b26075-0bad-446e-8a63-fcc10b10c549
 builder:
   name: Sean McMillan Yachts
   id: a1bf5257-f8b8-4220-962a-65578b89aec7
 place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: S McMillan
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 707ce403-2da9-461a-96fd-32aaaff9133d
-draft: 1.3716
 handicap_data:
-  beam: 2.8956352109241648
-  draft: 1.3716166788588149
+  beam: 2.8956
+  draft: 1.3716
   length_over_all: 9.75371860521824
   length_on_waterline: 8.22970007315289
-length_on_deck: 9.7536
-beam: 2.8956
-design_class:
-  name: McMillan 10 Ton
-  id: 21b26075-0bad-446e-8a63-fcc10b10c549
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T17:02:37.15244+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

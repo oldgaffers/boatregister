@@ -3,7 +3,6 @@ oga_no: 2941
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: "Register Official No: MCZ603870499  Port: Sandusky Yacht Club,\
   \ Sandusky, Ohio, United States of America.  Previous owner: Jeff Menzel.  History:\
   \ The Delphine is a reproduction of a sharpie called the Egret that was designed\
@@ -32,39 +31,33 @@ place_built: Marquette, Michigan
 construction_material: wood
 construction_method: unknown
 construction_details: Wood  flatbottom sharpy, glass sheathed.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Sandusky Ohio
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: William Kohler
-  share: 64
   start: 2007
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 0eb19b5d-1ed5-49c8-979e-89bef887c7a2
-previous_names:
-- Sleeping Lady
-draft: 0.3048
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.879731935
+  beam: 2.286
+  draft: 0.3048
+  length_over_all: 8.586320409656182
+  propellor:
+    type: fixed
   main:
     foot: 3.1242379907339672
     head: 1.8532065349914655
     luff: 4.648256522799317
-  thcf: 0.879731935
-  draft: 0.30480370641307
   mizzen:
     foot: 2.9474518410143866
     head: 1.5240185320653499
     luff: 4.596439892709095
-  propellor:
-    type: fixed
-  length_over_all: 8.586320409656182
   length_on_waterline: 6.909900024384297
-length_on_deck: 8.5862
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5862
+created_at: '2020-04-25T17:32:55.498041+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Sleeping Lady

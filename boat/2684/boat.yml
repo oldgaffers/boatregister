@@ -3,8 +3,6 @@ oga_no: 2684
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1920
 year_is_approximate: false
 builder:
@@ -14,36 +12,31 @@ place_built: Porthleven
 construction_material: wood
 construction_method: unknown
 construction_details: Carnel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Waarland
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Teun Pilon
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 6d445aee-033c-493e-8f2d-4cbf31e3d73a
-draft: 1.7008
 handicap_data:
-  beam: 3.880151182638381
+  thcf: 1.076831538
+  beam: 3.8801
+  draft: 1.7008
+  fore_triangle_height: 12.210436478907583
+  fore_triangle_base: 7.78011460619361
+  length_over_all: 12.48018775908315
   main:
     foot: 6.300292611558157
     head: 4.099609851255791
     luff: 8.000182882223847
-  thcf: 1.076831538
-  draft: 1.7008046817849305
   topsail:
     luff: 6.170141428919775
     perpendicular: 2.300048768593026
-  length_over_all: 12.48018775908315
-  fore_triangle_base: 7.78011460619361
   length_on_waterline: 11.800170690075591
-  fore_triangle_height: 12.210436478907583
-length_on_deck: 12.4816
-beam: 3.8801
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 12.4816
+created_at: '2020-04-25T17:24:29.114554+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

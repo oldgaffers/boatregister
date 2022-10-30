@@ -3,7 +3,6 @@ oga_no: 325
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 65/3, 76/4, 77/1, 77/2
 year: 1961
 year_is_approximate: false
@@ -17,38 +16,31 @@ place_built: West Mersea
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker Mahogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 65/3
 - Log 76/4
 - Log 77/1
 - Log 77/2
-callsign: ''
 ownerships:
 - name: T L Cheesewright
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 881badfd-cc30-45a8-888e-e175520ca861
-draft: 1.3106
 handicap_data:
-  beam: 2.529870763228481
+  thcf: 0.893773821
+  beam: 2.5298
+  draft: 1.3106
+  fore_triangle_height: 6.4008778346744695
+  fore_triangle_base: 4.57205559619605
+  length_over_all: 7.132406730065837
   main:
     foot: 4.57205559619605
     head: 3.3528407705437697
     luff: 4.26725188978298
-  thcf: 0.893773821
-  draft: 1.3106559375762008
-  length_over_all: 7.132406730065837
-  fore_triangle_base: 4.57205559619605
   length_on_waterline: 6.766642282370153
-  fore_triangle_height: 6.4008778346744695
-length_on_deck: 7.1323
-beam: 2.5298
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.1323
+created_at: '2020-04-25T16:47:10.07457+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

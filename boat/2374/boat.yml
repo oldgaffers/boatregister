@@ -3,13 +3,14 @@ oga_no: 2374
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1998
 year_is_approximate: false
 designer:
   name: Ted Spears
   id: 14976d7d-34fa-4ed1-8843-602dc834bde8
+design_class:
+  name: North Quay 19
+  id: 649221c7-178a-4992-9c77-80a341606e30
 builder:
   name: Ted Spears
   id: 3e03e622-e0ba-4ad0-ae05-991fb1e182b8
@@ -17,46 +18,34 @@ place_built: Conyer
 construction_material: wood
 construction_method: unknown
 construction_details: Strip Plank
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bosham
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2015
-  name: Barnaby Wiener
-  share: 64
+- name: Barnaby Wiener
   start: 1998
-- name: Peter Firstbrook
+  end: 2015
   share: 64
+- name: Peter Firstbrook
   start: 2015
-- share: 64
-  member: 6033
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: fea13b94-5366-4bd1-be41-ed766660f41a
-draft: 0.4816
 handicap_data:
-  beam: 2.1580102414045355
+  thcf: 0.833748727
+  beam: 2.158
+  draft: 0.4816
+  fore_triangle_height: 5.9436722750548645
+  fore_triangle_base: 2.792001950743721
+  length_over_all: 5.867471348451597
+  propellor:
+    type: fixed
   main:
     foot: 3.6820287734698853
     head: 3.2004389173372347
     luff: 3.6820287734698853
-  thcf: 0.833748727
-  draft: 0.4815898561326506
-  propellor:
-    type: fixed
-  length_over_all: 5.867471348451597
-  fore_triangle_base: 2.792001950743721
   length_on_waterline: 5.535235308461351
-  fore_triangle_height: 5.9436722750548645
-length_on_deck: 5.8674
-beam: 2.158
-design_class:
-  name: North Quay 19
-  id: 649221c7-178a-4992-9c77-80a341606e30
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.8674
+created_at: '2020-04-25T17:19:07.065648+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

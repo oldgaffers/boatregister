@@ -3,41 +3,33 @@ oga_no: 436
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1922
 year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
+design_class:
+  name: Hillyard 3 Ton
+  id: e10a3a27-910f-43bc-93ec-9600e0ab910c
 builder:
   name: David Hillyard
   id: d649c6a5-3acc-4f60-868f-7415641908a4
 place_built: Littlehampton
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Barry
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
 - name: Malcolm Brown
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 6eac43d4-1ea5-48b9-9599-7f7e3bec8269
-draft: 0
 handicap_data:
-  beam: 2.13362594489149
+  beam: 2.3774
   length_over_all: 6.0960741282613995
   length_on_waterline: 5.7912704218483295
-length_on_deck: 6.096
-beam: 2.3774
-design_class:
-  name: Hillyard 3 Ton
-  id: e10a3a27-910f-43bc-93ec-9600e0ab910c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.096
+created_at: '2020-04-25T16:48:57.121408+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

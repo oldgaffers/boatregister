@@ -3,8 +3,6 @@ oga_no: 1041
 generic_type: unknown
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1927
 year_is_approximate: false
 designer:
@@ -16,34 +14,27 @@ builder:
 place_built: St Peter Port
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: D Fury
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 9e009ab1-486f-462d-8bd8-939cba9557b5
-draft: 0.823
 handicap_data:
-  beam: 1.9202633504023408
+  thcf: 0.750264379
+  beam: 1.9202
+  draft: 0.823
+  length_over_all: 4.968300414533041
   main:
     foot: 3.0480370641306997
     head: 2.43842965130456
     luff: 2.43842965130456
-  thcf: 0.750264379
-  draft: 0.822970007315289
   mizzen:
     foot: 0
     luff: 0.9144111192392099
-  length_over_all: 4.968300414533041
   length_on_waterline: 4.57205559619605
-length_on_deck: 4.9682
-beam: 1.9202
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.9682
+created_at: '2020-04-25T16:58:57.257068+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -5,7 +5,6 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: Mary was a yacht untill 1909, then used for fishing by Cecil French
   until 1964.
-full_description: ''
 year: 1899
 year_is_approximate: false
 designer:
@@ -17,43 +16,34 @@ builder:
 place_built: Brightlingsea
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: West Mersea
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 2016
-  name: Anthony Atkinson
-  share: 64
+- name: Anthony Atkinson
   start: 2009
-- share: 64
-  member: 2105
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2016
+  share: 64
 id: ed913bad-64cf-471f-8bf4-231b9bf27702
 image_key: mqN8qB
 thumb: https://photos.smugmug.com/photos/i-vhmVJ4x/0/Th/i-vhmVJ4x-Th.jpg
-draft: 1.2192
 handicap_data:
-  beam: 2.590831504511095
+  thcf: 1.021359722
+  beam: 2.5908
+  draft: 1.2192
+  fore_triangle_height: 7.955376737381126
+  fore_triangle_base: 6.919044135576688
+  length_over_all: 9.906120458424773
   main:
     foot: 6.126554498902707
     head: 4.754937820043891
     luff: 5.6388685686417945
-  thcf: 1.021359722
-  draft: 1.21921482565228
   topsail:
     luff: 4.87685930260912
     perpendicular: 2.43842965130456
-  length_over_all: 9.906120458424773
-  fore_triangle_base: 6.919044135576688
   length_on_waterline: 8.382101926359423
-  fore_triangle_height: 7.955376737381126
-length_on_deck: 9.906
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.906
+created_at: '2020-04-25T16:46:07.355273+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

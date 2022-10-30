@@ -16,6 +16,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -23,33 +26,27 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: NLD
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: P 17
 ssr: SSR  21088
 callsign: MLCP9
 ownerships:
-- end: 2019
-  name: David Lewis
-  share: 64
+- name: David Lewis
   start: 2006
-- note: '''Persis'' was sold in Spring 2019 and moved to the Netherlands.'
+  end: 2019
+  share: 64
+- start: 2019
+  note: '''Persis'' was sold in Spring 2019 and moved to the Netherlands.'
   text: '''Persis'' was sold in Spring'
-  start: 2019
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 0c88b7b2-2489-47cf-b00a-431c901c6947
 image_key: kxxkPG
 thumb: https://photos.smugmug.com/photos/i-TMWjfSh/0/Th/i-TMWjfSh-Th.jpg
-draft: 1.0668
-length_on_deck: 9.144
-beam: 2.8956
-design_class:
-  name: Cornish Crabber Pilot Cutter 30
-  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:47:02.96487+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  beam: 2.8956
+  draft: 1.0668
+  length_on_deck: 9.144

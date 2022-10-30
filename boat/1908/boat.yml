@@ -3,7 +3,6 @@ oga_no: 1908
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Log Dec/98
 year: 1995
 year_is_approximate: false
@@ -17,35 +16,29 @@ place_built: Lynn
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Clinker Ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Kings Lynn
 hull_form: unknown
 reference:
 - Log Dec/98
-callsign: ''
 ownerships:
 - name: David Cooper
-  share: 64
   start: 1995
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 794aef89-0cd7-4a04-a258-135f2865e71a
-draft: 0.9144
 handicap_data:
-  beam: 1.4234333089490367
+  thcf: 0.738479752
+  beam: 1.4234
+  draft: 0.9144
+  fore_triangle_height: 3.8496708119970737
+  fore_triangle_base: 1.1826383808827114
+  length_over_all: 3.6576444769568397
   main:
     foot: 2.2098268714947573
     head: 1.5758351621555717
     luff: 2.6426481346013166
-  thcf: 0.738479752
-  draft: 0.9144111192392099
-  length_over_all: 3.6576444769568397
-  fore_triangle_base: 1.1826383808827114
   length_on_waterline: 3.6576444769568397
-  fore_triangle_height: 3.8496708119970737
-length_on_deck: 3.6576
-beam: 1.4234
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.6576
+created_at: '2020-04-25T17:12:04.214309+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

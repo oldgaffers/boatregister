@@ -3,41 +3,34 @@ oga_no: 7045
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
 full_description: Complete rebuild 1995-2004 by Roving commissions (Southwold)
 year: 1973
 year_is_approximate: false
 construction_material: wood
 construction_method: clinker
 construction_details: Lapstrake plywood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Southwold
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: John Owles
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: dd6f0b77-9c7b-48f3-9470-0870a3a3c364
-draft: 1.268
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.847634895
+  beam: 2.4384
+  draft: 1.268
+  fore_triangle_height: 7.924896366739819
+  fore_triangle_base: 3.169958546695928
+  length_over_all: 7.315288953913679
+  propellor:
+    type: fixed
   main:
     foot: 2.9261155815654716
     luff: 7.071445988783223
-  thcf: 0.847634895
-  draft: 1.2679834186783712
-  propellor:
-    type: fixed
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 3.169958546695928
   length_on_waterline: 5.815654718361374
-  fore_triangle_height: 7.924896366739819
-length_on_deck: 7.3152
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:43:31.573152+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

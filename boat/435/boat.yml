@@ -3,7 +3,6 @@ oga_no: 435
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: W B I Small Log 90/2 known then as Myrrhine For sale, Log March
   2002
 year: 1970
@@ -15,42 +14,36 @@ place_built: Great Wakering
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker - Mahogany on Oak and Rock Elm
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Chichester
 hull_form: long keel deep forefoot
 reference:
 - Log 90/2
 - Log Mar 2002
 uk_part1: '338679'
-callsign: ''
 ownerships:
 - name: P Linsell
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: dd2d0c36-b7f1-476d-b6bb-454d6b2d829b
-previous_names:
-- Myrrhine
-- Samantha Small
-draft: 0.762
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.901334335
+  beam: 2.286
+  draft: 0.762
+  fore_triangle_height: 7.010485247500609
+  fore_triangle_base: 3.6576444769568397
+  length_over_all: 6.980004876859302
+  propellor:
+    type: fixed
   main:
     foot: 4.672640819312362
     head: 3.3528407705437697
     luff: 6.0960741282613995
-  thcf: 0.901334335
-  draft: 0.7620092660326749
-  propellor:
-    type: fixed
-  length_over_all: 6.980004876859302
-  fore_triangle_base: 3.6576444769568397
   length_on_waterline: 5.516947086076567
-  fore_triangle_height: 7.010485247500609
-length_on_deck: 6.9799
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.9799
+created_at: '2020-04-25T16:48:56.319836+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Myrrhine
+- Samantha Small

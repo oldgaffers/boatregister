@@ -3,8 +3,6 @@ oga_no: 1815
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1991
 year_is_approximate: false
 designer:
@@ -17,35 +15,29 @@ place_built: Reeuwijk
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Reeuwijk
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: H A (Rik) Homan
-  share: 64
   start: 1991
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 496ff7bc-119d-44b4-96da-4186a7d1a392
-draft: 0.4572
 handicap_data:
-  beam: 1.777005608388198
+  thcf: 0.833430905
+  beam: 1.777
+  draft: 0.4572
+  fore_triangle_height: 5.206047305535234
+  fore_triangle_base: 2.9474518410143866
+  length_over_all: 5.471226530114606
+  propellor:
+    type: fixed
   main:
     foot: 3.453425993660083
     head: 3.453425993660083
     luff: 2.590831504511095
-  thcf: 0.833430905
-  draft: 0.45720555961960496
-  propellor:
-    type: fixed
-  length_over_all: 5.471226530114606
-  fore_triangle_base: 2.9474518410143866
   length_on_waterline: 5.410265788831992
-  fore_triangle_height: 5.206047305535234
-length_on_deck: 5.4712
-beam: 1.777
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4712
+created_at: '2020-04-25T17:10:39.70775+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -15,45 +15,37 @@ place_built: Larvik, Norway
 construction_material: wood
 construction_method: carvel
 construction_details: Oak, carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 68/5
 - Log 89/3
-callsign: ''
 ownerships:
-- note: Owned by Mike Peyton in the 1960s.
+- start: 1960
+  note: Owned by Mike Peyton in the 1960s.
   text: Owned by Mike Peyton in the
-  start: 1960
-  start_is_approximate: false
 - name: C K Doyle
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 468d4b1e-68a4-408b-95ca-9692997308cd
 image_key: bmJvX6
 thumb: https://photos.smugmug.com/photos/i-VGBLW4D/0/Th/i-VGBLW4D-Th.jpg
-draft: 1.585
 handicap_data:
-  beam: 3.2004389173372347
+  thcf: 0.9780445
+  beam: 3.2004
+  draft: 1.585
+  fore_triangle_height: 10.36332601804438
+  fore_triangle_base: 5.4864667154352595
+  length_over_all: 9.1441111923921
   main:
     foot: 5.18166300902219
     head: 4.87685930260912
     luff: 4.57205559619605
-  thcf: 0.9780445
-  draft: 1.584979273347964
   topsail:
     luff: 5.4864667154352595
     perpendicular: 2.43842965130456
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 5.4864667154352595
   length_on_waterline: 8.83930748597903
-  fore_triangle_height: 10.36332601804438
-length_on_deck: 9.144
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T16:50:47.362289+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

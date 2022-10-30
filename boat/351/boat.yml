@@ -3,7 +3,6 @@ oga_no: 351
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: <p>Built on lines similar to a Falmouth Quay Punt, an OGA member
   owned her 1959 to 1966 and in 1968 refitted her in Rye for Swiss owners. She moved
   to the Elephant Boatyard Hamble, then was sold to a West Country owner.</p>
@@ -20,33 +19,21 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 uk_part1: '149936'
-callsign: ''
 ownerships:
-- end: 1966
-  name: C Green
-  share: 64
+- name: C Green
   start: 1959
-- id: 1049
+  end: 1966
   share: 64
-  member: 6302
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 63c51200-c5f0-46ec-a9eb-5e90e4db1634
-draft: 1.8288
 handicap_data:
-  beam: 3.2004389173372347
-  draft: 1.8288222384784198
+  beam: 3.2004
+  draft: 1.8288
   length_over_all: 9.662277493294317
   length_on_waterline: 9.23555230431602
-length_on_deck: 9.6622
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.6622
+created_at: '2020-04-25T16:47:39.996959+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

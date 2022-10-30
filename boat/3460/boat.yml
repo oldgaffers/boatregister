@@ -9,29 +9,30 @@ year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+design_class:
+  name: Drascombe Coaster
+  id: 7d848e38-3746-4d1c-831e-7d083409cf7d
 builder:
   name: Honnor Marine Ltd.
   id: 2e1683ac-2223-480f-9412-be351f564ae9
 place_built: Swanage
 spar_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_port: Lechlade
 hull_form: centre-boarder
 sail_number: '225'
-ownerships:
-- id: 1050
-  share: 64
-  member: 6303
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+ownerships: []
 id: 7d84c736-1cf0-4af5-8e85-2c0902ddc2fd
 image_key: gxVjpD
 thumb: https://photos.smugmug.com/photos/i-XwwDrb2/0/Th/i-XwwDrb2-Th.jpg
-draft: 0.2987
 handicap_data:
+  beam: 1.9995
+  draft: 0.2987
+  fore_triangle_height: 4.0996
+  fore_triangle_base: 1.8014
+  sailarea: 1
   main:
     foot: 9.84
     head: 9.84
@@ -39,17 +40,10 @@ handicap_data:
   mizzen:
     foot: 4.92
     luff: 9.19
-  sailarea: 1
   length_overall: 6.6294
   moving_keel_type: Centreboard
   length_over_spars: 7.8699
-  fore_triangle_base: 1.8014
   length_on_waterline: 5.4986
-  fore_triangle_height: 4.0996
-length_on_deck: 6.6294
-beam: 1.9995
-design_class:
-  name: Drascombe Coaster
-  id: 7d848e38-3746-4d1c-831e-7d083409cf7d
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.6294
+created_at: '2020-06-21T07:14:43.278019+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

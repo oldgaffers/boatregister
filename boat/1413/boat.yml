@@ -3,7 +3,6 @@ oga_no: 1413
 generic_type: unknown
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Log A-W/95, Nov/97 Built in Denmark as a fishing boat. Hull featured
   a wet well amidships built with an engine. Bought in Copenhagen in decommisioned
   state and imported to England as a deck cargo. Converted for use as a pleasure craft
@@ -21,51 +20,44 @@ place_built: Denmark
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Baltic pine and  Larch on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log A-W/95
 - 'Log Nov 97 '
 ssr: '41461'
-callsign: ''
 ownerships:
 - name: C D Cole
-  share: 64
   start: 1990
-- name: Mark Jardine
   share: 64
+- name: Mark Jardine
   start: 2005
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: c113eb76-b45d-4969-a740-bcecb73e669a
-draft: 1.6002
 handicap_data:
-  beam: 3.6576444769568397
+  thcf: 1.009
+  beam: 3.6576
+  draft: 1.6002
+  fore_triangle_height: 12.649353816142403
+  fore_triangle_base: 5.18166300902219
+  length_over_all: 10.972933430870519
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 89.02705474259757
   main:
     foot: 4.26725188978298
     head: 4.26725188978298
     luff: 8.991709339185563
-  thcf: 1.009
-  draft: 1.6002255547427455
+  topsail:
+    luff: 3.6576444769568397
   mizzen:
     foot: 2.7432333577176298
     head: 2.7432333577176298
     luff: 7.315288953913679
-  topsail:
-    luff: 3.6576444769568397
-  sailarea: 89.02705474259757
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 10.972933430870519
   length_over_spars: 14.630577907827359
-  fore_triangle_base: 5.18166300902219
   length_on_waterline: 9.44891489880517
-  fore_triangle_height: 12.649353816142403
-length_on_deck: 10.9728
-beam: 3.6576
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.9728
+created_at: '2020-04-25T17:04:36.562134+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

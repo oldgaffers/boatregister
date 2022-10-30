@@ -42,7 +42,7 @@ place_built: Odense, Demark
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: FRA
 home_port: Saint Tropez, France
@@ -52,36 +52,35 @@ ssr: '165877'
 uk_part1: '937425'
 callsign: WDC7466; MMSI 367077790
 ownerships:
-- end: 1911
-  name: L. Hansen
-  share: 64
+- name: L. Hansen
   start: 1894
-- end: 1954
-  name: WJW Modley
+  end: 1911
   share: 64
+- name: WJW Modley
   start: 1934
-- end: 1985
-  name: Anthony Williams
+  end: 1954
   share: 64
+- name: Anthony Williams
   start: 1954
-- id: 516
+  end: 1985
   share: 64
+- member: 4794
+  id: 516
   start: 1985
-  member: 4794
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://sif1894.wordpress.com/
 id: 69e1ecd9-064a-4548-9476-2f126d6406ad
-previous_names:
-- Icicle IV
 image_key: NRzwgx
 thumb: https://photos.smugmug.com/photos/i-hzPwm7c/0/Th/i-hzPwm7c-Th.jpg
-draft: 6.2
 handicap_data:
   beam: 9.7
-  length_overall: 54.9
+  draft: 6.2
   length_over_all: 44.8
+  length_overall: 54.9
   length_on_waterline: 34.5
-length_on_deck: 44.8
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 44.8
+created_at: '2020-04-25T18:36:27.648332+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Icicle IV

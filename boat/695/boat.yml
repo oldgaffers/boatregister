@@ -3,7 +3,6 @@ oga_no: 695
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: "<p>For a report from her single-handed passage to join the Netherland\
   \ Cross Country Tour, 2014, <a href=\"http://www.sailing-by.org.uk/content/bembridge-belgium-single-handed-july-2014\"\
   >visit 'Sailing by'</a>.</p>\n<p>Copy of notes received from previous owners in\
@@ -161,6 +160,9 @@ year_is_approximate: false
 designer:
   name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+design_class:
+  name: Tamarisk 22
+  id: ffd82ea5-0656-4af6-b5b7-55bfb57c26dc
 builder:
   name: North Sea Craft
   id: a6482c01-706a-469d-93db-2ccab9020581
@@ -168,55 +170,47 @@ place_built: Brundall
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP hull, ply deck & cabin
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Southampton
 hull_form: long keel deep forefoot
 callsign: MFHH
 ownerships:
-- note: 'Purchased around 1993 by David and Helen Barr. Bought 2002 by John Hilsden.
+- start: 1993
+  note: 'Purchased around 1993 by David and Helen Barr. Bought 2002 by John Hilsden.
     John Hall bought East Breeze in 2005. '
   text: Purchased around
-  start: 1993
-  start_is_approximate: false
-- end: 2005
-  name: John Hilsden
-  share: 64
+- name: John Hilsden
   start: 2000
-- id: 439
+  end: 2005
   share: 64
+- member: 4396
+  id: 439
   start: 2005
-  member: 4396
+  share: 64
   current: true
 - name: John Hall
-  share: 64
   start: 2011
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: debfe1e8-5ac3-4153-bd4b-d6f8117923d8
 image_key: WP6FjB
 thumb: https://photos.smugmug.com/photos/i-GjdTJnW/0/Th/i-GjdTJnW-Th.jpg
-draft: 0.9144
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.86522172
+  beam: 2.4384
+  draft: 0.9144
+  fore_triangle_height: 6.5532796878810045
+  fore_triangle_base: 3.6576444769568397
+  length_over_all: 6.705681541087539
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 3.9624481833699097
     head: 3.581443550353572
     luff: 3.9624481833699097
-  thcf: 0.86522172
-  draft: 0.9144111192392099
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 6.705681541087539
-  fore_triangle_base: 3.6576444769568397
   length_on_waterline: 6.4008778346744695
-  fore_triangle_height: 6.5532796878810045
-length_on_deck: 6.7056
-beam: 2.4384
-design_class:
-  name: Tamarisk 22
-  id: ffd82ea5-0656-4af6-b5b7-55bfb57c26dc
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T16:52:54.217345+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

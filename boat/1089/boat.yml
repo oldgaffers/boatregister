@@ -3,8 +3,6 @@ oga_no: 1089
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1957
 year_is_approximate: false
 builder:
@@ -14,37 +12,31 @@ place_built: Paglesham
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel mahogany on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Paglesham
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 32
-  share: 64
+- member: 862
+  id: 32
   start: 1969
-  member: 862
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: a1e30aa5-a106-4d5f-a8b1-89c66bbd0e1a
-draft: 0.8626
 handicap_data:
-  beam: 2.590831504511095
+  thcf: 0.857171752
+  beam: 2.5908
+  draft: 0.8626
+  fore_triangle_height: 6.5532796878810045
+  fore_triangle_base: 4.26725188978298
+  length_over_all: 6.705681541087539
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 3.3528407705437697
     luff: 3.5052426237503047
-  thcf: 0.857171752
-  draft: 0.8534503779565958
-  propellor:
-    type: fixed
-  length_over_all: 6.705681541087539
-  fore_triangle_base: 4.26725188978298
   length_on_waterline: 6.2484759814679345
-  fore_triangle_height: 6.5532796878810045
-length_on_deck: 6.7056
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T16:59:41.89444+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,7 +3,6 @@ oga_no: 2140
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Water Craft Nov/Dec 97
 year: 1997
 year_is_approximate: false
@@ -16,38 +15,32 @@ builder:
 place_built: Exeter
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: St Mawes
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Debbie Monk & Luke Purser
-  share: 64
   start: 1997
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 97241de0-5fdc-4442-a8d9-a5f0edd5a546
-draft: 1.8806
 handicap_data:
-  beam: 3.581443550353572
+  thcf: 1.03475481
+  beam: 3.5814
+  draft: 1.8806
+  fore_triangle_height: 13.411363082175079
+  fore_triangle_base: 7.315288953913679
+  length_over_all: 11.45452328700317
+  propellor:
+    type: fixed
   main:
     foot: 7.010485247500609
     head: 4.57205559619605
     luff: 5.6388685686417945
-  thcf: 1.03475481
-  draft: 1.8806388685686417
   topsail:
     luff: 6.705681541087539
     perpendicular: 2.9718361375274323
-  propellor:
-    type: fixed
-  length_over_all: 11.45452328700317
-  fore_triangle_base: 7.315288953913679
   length_on_waterline: 9.1441111923921
-  fore_triangle_height: 13.411363082175079
-length_on_deck: 11.4544
-beam: 3.5814
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.4544
+created_at: '2020-04-25T17:15:37.105291+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

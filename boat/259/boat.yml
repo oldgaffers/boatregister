@@ -3,7 +3,6 @@ oga_no: 259
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Log Jun/98  CB Oct 91
 year: 1936
 year_is_approximate: false
@@ -17,36 +16,30 @@ place_built: Hamble
 construction_material: wood
 construction_method: clinker
 construction_details: Half decked ballasted clinker with centreboard
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Cowes
 hull_form: unknown
 reference:
 - Log Jun 98
 - CB Oct 91
-callsign: ''
 ownerships:
 - name: Paul Wood
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a76893c2-5cca-463c-a742-5c7eb7399806
-draft: 0.6492
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.880280126
+  beam: 1.8288
+  draft: 0.6492
+  fore_triangle_height: 4.57205559619605
+  fore_triangle_base: 1.5240185320653499
+  length_over_all: 5.6388685686417945
   main:
     foot: 3.6576444769568397
     head: 3.6576444769568397
     luff: 5.7912704218483295
-  thcf: 0.880280126
-  draft: 0.649231894659839
-  length_over_all: 5.6388685686417945
-  fore_triangle_base: 1.5240185320653499
   length_on_waterline: 5.4864667154352595
-  fore_triangle_height: 4.57205559619605
-length_on_deck: 5.6388
-beam: 1.8288
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.6388
+created_at: '2020-04-25T16:46:13.252725+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -3,8 +3,6 @@ oga_no: 2470
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1986
 year_is_approximate: false
 designer:
@@ -17,43 +15,33 @@ place_built: Skipool Creek
 construction_material: wood
 construction_method: unknown
 construction_details: Strip plank columbian pine veneered in mahogany
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Wargrave on Thames
 hull_form: unknown
-callsign: ''
 ownerships:
-- note: 'Bought by David Moss, 1991 Sold to Robin Ford by Gerry Ward, April 2001 '
+- start: 1991
+  note: 'Bought by David Moss, 1991 Sold to Robin Ford by Gerry Ward, April 2001 '
   text: Bought by David Moss,
-  start: 1991
-  start_is_approximate: false
 - name: Robin Ford
-  share: 64
   start: 2001
-- share: 64
-  member: 2302
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: da31bfdc-4283-47f6-afac-e94cc21973b8
-previous_names:
-- Pearl
-draft: 0.253
 handicap_data:
-  beam: 1.9050231650816873
+  thcf: 0.81053181
+  beam: 1.905
+  draft: 0.253
+  fore_triangle_height: 5.587051938551572
+  fore_triangle_base: 1.5758351621555717
+  length_over_all: 5.18166300902219
   main:
     foot: 3.212631065593757
     head: 3.6576444769568397
     luff: 2.5268227261643497
-  thcf: 0.81053181
-  draft: 0.25298707632284806
-  length_over_all: 5.18166300902219
-  fore_triangle_base: 1.5758351621555717
   length_on_waterline: 4.953060229212387
-  fore_triangle_height: 5.587051938551572
-length_on_deck: 5.1816
-beam: 1.905
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1816
+created_at: '2020-04-25T17:21:13.320319+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Pearl

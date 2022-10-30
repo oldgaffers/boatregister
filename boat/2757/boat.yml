@@ -6,7 +6,6 @@ mainsail_type: gaff
 short_description: <p>Moorhen is a replica Galway Hooker &#39;a piece of Irish tradition
   with a Dutch touch&#39;, launched in 1996 by her builder, Rik Janssen and built
   in wood epoxy.</p>
-full_description: ''
 year: 1996
 year_is_approximate: false
 designer:
@@ -20,33 +19,40 @@ construction_material: woodepoxy
 spar_material: wood
 construction_method: carvel
 construction_details: Larch on oak, epoxy sheathed
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 0
+- created_at: '2019-08-08T00:38:40+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>A piece of Irish tradition with a Dutch touch. Sailing her successor\
+    \ for three years means I have to sell my dear Moorhen. A traditional Galway Hooker\
+    \ I\u2019ve built in wood epoxy, launched 1996. Fully equipped, 4 berths, cooker\
+    \ inside and outside, ready to sail, with a marinised VW Golf 40 Hp diesel engine.\
+    \ As a working boat, with weather helm typical for this craft, she is easy to\
+    \ handle. I sailed her single-handed on inland waters. A sound ship, she needs\
+    \ some attention as she has not sailed since 2012.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.258898+00:00'
 home_country: NLD
 home_port: Ursem
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2018
-  name: Rik Janssen
-  share: 64
+- name: Rik Janssen
   start: 2006
-- id: 34813
+  end: 2018
   share: 64
-  member: 5945
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 40232f93-94a8-439b-8756-0081038f4811
 image_key: JWSSx6
 thumb: https://photos.smugmug.com/photos/i-ZWpwrBJ/0/Th/i-ZWpwrBJ-Th.jpg
-draft: 0
 handicap_data:
-  beam: 3.2004389173372347
+  beam: 3.2004
   length_over_all: 10.66812972445745
-length_on_deck: 10.668
-beam: 3.2004
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.668
+created_at: '2020-04-25T17:26:43.250632+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

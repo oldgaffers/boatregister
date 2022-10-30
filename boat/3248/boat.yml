@@ -4,33 +4,29 @@ generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
 short_description: <p>Rosie is a Cornish Yawl built in 1990.</p>
-full_description: ''
 year: 1990
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Yawl
+  id: 37c8b8fe-c896-4244-9076-6b297798ba2e
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: CY 26
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: e725e318-9c57-4b8f-a2b7-36144e5e5632
-draft: 0.9144
-length_on_deck: 7.4676
-beam: 2.5908
-design_class:
-  name: Cornish Yawl
-  id: 37c8b8fe-c896-4244-9076-6b297798ba2e
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:47:05.767913+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  beam: 2.5908
+  draft: 0.9144
+  length_on_deck: 7.4676

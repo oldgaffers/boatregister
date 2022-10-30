@@ -3,7 +3,6 @@ oga_no: 460
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 67/4, A-W/94
 year: 1901
 year_is_approximate: false
@@ -16,27 +15,20 @@ builder:
 place_built: Teignmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 reference:
 - Log 67/4
 - Log A-W/94
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 5d6e0af0-b7af-40df-bb97-29d6db99dcfc
-previous_names:
-- Careless
-draft: 1.6764
 handicap_data:
-  beam: 2.43842965130456
-  draft: 1.6764203852718849
+  beam: 2.4384
+  draft: 1.6764
   length_over_all: 10.36332601804438
   length_on_waterline: 8.83930748597903
-length_on_deck: 10.3632
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.3632
+created_at: '2020-04-25T16:49:17.898137+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Careless

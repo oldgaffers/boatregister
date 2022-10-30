@@ -28,6 +28,9 @@ year_is_approximate: false
 designer:
   name: Jack Laurent Giles
   id: d9095f68-405d-4f76-8364-e267a3d8507f
+design_class:
+  name: Vertue
+  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
 builder:
   name: Harry Feltham
   id: 4fb74132-3ca7-4f28-8b2d-52d96db774f7
@@ -35,66 +38,47 @@ place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel, teak on CRE streamed timbers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Brightlingsea
 hull_form: long keel sloping forefoot
 sail_number: 78Y
 uk_part1: '185386'
-callsign: ''
 ownerships:
-- end: 1956
+- start: 1952
+  end: 1956
   note: 1952 - 1956 Eng Cdr R A C Michel
   text: Eng Cdr R A C Michel
-  start: 1952
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1964
+- start: 1956
+  end: 1964
   note: 1956 - 1964 Roger Stanley
   text: Roger Stanley
-  start: 1956
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 1979
+- start: 1964
+  end: 1979
   note: 1964 - 1979 W R  A Breare
   text: W R  A Breare
-  start: 1964
-  end_is_approximate: false
-  start_is_approximate: false
-- end: 2015
+- start: 1979
+  end: 2015
   note: 1979 - 2015 Eric T Morris
   text: Eric T Morris
-  start: 1979
-  end_is_approximate: false
-  start_is_approximate: false
 - name: Alan Williams
-  share: 64
   start: 2015
-- id: 1051
   share: 64
-  member: 6304
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 306c65da-eb73-4b8e-8725-fa41aa4c9219
 image_key: PHDs6v
 thumb: https://photos.smugmug.com/photos/i-nRRPPgK/0/Th/i-nRRPPgK-Th.jpg
-draft: 1.3716
 handicap_data:
+  beam: 2.1854
+  draft: 1.3716
+  fore_triangle_height: 9.7536
+  fore_triangle_base: 3.048
   main:
     foot: 12
     luff: 31
   length_overall: 7.6962
   calculated_thcf: 0.903
-  fore_triangle_base: 3.048
   length_on_waterline: 6.5532
-  fore_triangle_height: 9.7536
-length_on_deck: 7.6962
-beam: 2.1854
-design_class:
-  name: Vertue
-  id: f5af74a9-711e-4b33-bba6-4918ba3e725a
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.6962
+created_at: '2020-04-25T17:54:00.950104+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

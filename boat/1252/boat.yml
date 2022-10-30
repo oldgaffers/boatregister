@@ -12,6 +12,9 @@ year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Eric Bergqvist
   id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
@@ -20,50 +23,57 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 8500
+- created_at: '2020-01-11T14:49:19+00:00'
+  flexibility: normal
+  offered: '2020-01-11'
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: <p>Memory 19, built by Bergvist in 1977. GRP hull. Draft 1" 9' plate
+    up,&nbsp; 3" 9' plate down. Optional , Tohatsu 5 HP&nbsp;outboard in well, 12
+    ltr fuel tank. Tan sails, main, Genoa, small jib, top sail, staysail. Cutter&nbsp;rigged.
+    Wykeham Martin furler. Plough anchor, chain and warp. Steering compass. Boom cover/tent.
+    Two large berths.</p>
+  seller_gold_id: 857
+  seller_member: 5951
+  sold: '2021-05-09'
+  summary: null
+  updated_at: '2020-05-03T10:13:13.442365+00:00'
 home_country: GBR
 home_port: Portsmouth
 hull_form: centre-boarder
-callsign: ''
 ownerships:
-- end: 2014
-  name: Richard Boyles
-  share: 64
+- name: Richard Boyles
   start: 2012
-- name: Christopher Hoare
+  end: 2014
   share: 64
+- name: Christopher Hoare
   start: 2014
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
+  share: 64
 id: f83d63ac-931d-4e44-8f38-a58f497ba751
-previous_names:
-- Lady Rose II
 image_key: MK4hbz
 thumb: https://photos.smugmug.com/photos/i-wHwvrm4/0/Th/i-wHwvrm4-Th.jpg
-draft: 0.5334
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.86545363
+  beam: 2.1336
+  draft: 0.5334
+  fore_triangle_height: 5.434650085345037
+  fore_triangle_base: 2.8194342843208973
+  length_over_all: 5.7912704218483295
+  propellor:
+    type: fixed
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  thcf: 0.86545363
-  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
-  propellor:
-    type: fixed
-  length_over_all: 5.7912704218483295
-  fore_triangle_base: 2.8194342843208973
   length_on_waterline: 5.739453791758107
-  fore_triangle_height: 5.434650085345037
-length_on_deck: 5.7912
-beam: 2.1336
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T17:02:11.380161+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+previous_names:
+- Lady Rose II

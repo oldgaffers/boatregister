@@ -3,13 +3,14 @@ oga_no: 7037
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1965
 year_is_approximate: false
 designer:
   name: Maurice Griffiths/Frank W. Shuttlewood
   id: dc5c0a43-eefe-41f3-a2cd-23b511c7c3e2
+design_class:
+  name: Roach Class
+  id: 23729d46-d784-462e-91d2-36a7cc63c4dc
 builder:
   name: J.W. Shuttlewood and Sons
   id: f7e10100-9016-4757-874b-b5ca9742ef7e
@@ -17,37 +18,28 @@ place_built: Paglesham
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel iroko on C anadian rock elm
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hamble
 hull_form: unknown
 ssr: '103679'
 uk_part1: '335836'
-callsign: ''
 ownerships:
 - note: W J Christie of London; Philip & Barbara Lebbon of Malvern Wells; George Ventris
     of Essex.
   text: W J Christie of London; Philip & Barbara Lebbon of Malvern Wells; George Ventris
     of Essex.
-- id: 442
-  share: 64
+- member: 4402
+  id: 442
   start: 2012
-  member: 4402
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: a4b9aa22-d188-4eb1-b2f2-e6919bd940f0
+handicap_data:
+  beam: 2.6426
+  length_over_all: 8.53450377956596
+  length_on_deck: 8.5344
+created_at: '2020-04-25T17:42:49.550537+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Seahorse of Paglesham
-draft: 0
-handicap_data:
-  beam: 2.6426481346013166
-  length_over_all: 8.53450377956596
-length_on_deck: 8.5344
-beam: 2.6426
-design_class:
-  name: Roach Class
-  id: 23729d46-d784-462e-91d2-36a7cc63c4dc
-for_sale_state:
-  text: not_for_sale

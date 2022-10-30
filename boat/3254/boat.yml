@@ -4,33 +4,29 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Anne E is a Cornish Crabber 24</p>
-full_description: ''
 year: 1997
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber 24
+  id: ff83f69b-9762-4ae5-9681-950b5658ad97
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: IRL
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: '46'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 0d5eec55-5433-4a5f-ad0c-ae3b1752a42c
-draft: 1.0668
-length_on_deck: 7.4676
-beam: 2.5908
-design_class:
-  name: Cornish Crabber 24
-  id: ff83f69b-9762-4ae5-9681-950b5658ad97
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:47:12.078427+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  beam: 2.5908
+  draft: 1.0668
+  length_on_deck: 7.4676

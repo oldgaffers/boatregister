@@ -3,7 +3,6 @@ oga_no: 2835
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Believed to be the only Lone Gull II built with a counter stern,
   found as a wreck and rebuilt over  eight years.  Converted from a sloop to cutter
   with self tacking Jib.
@@ -12,6 +11,9 @@ year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+design_class:
+  name: Lone Gull II
+  id: ee60be28-a961-41ab-9ccb-9fdde1ae0109
 builder:
   name: Armstrong Marine
   id: 23f54e5c-f403-45d8-b86e-7fbe3552192d
@@ -19,33 +21,24 @@ place_built: Scarborough
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Larch on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Poole
 hull_form: unknown
 ssr: '42822'
-callsign: ''
 ownerships:
-- end: 2011
-  name: Derek Biddle
-  share: 64
+- name: Derek Biddle
   start: 1993
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2011
+  share: 64
 id: a4100c8a-a28f-44dd-b637-f72dbc7dbd4d
-previous_names:
-- Gay Gull
 image_key: mvMHsX
 thumb: https://photos.smugmug.com/photos/i-Sq28w4q/0/Th/i-Sq28w4q-Th.jpg
-draft: 0
 handicap_data:
-  beam: 2.7432333577176298
+  beam: 2.7432
   length_over_all: 9.44891489880517
-length_on_deck: 9.4488
-beam: 2.7432
-design_class:
-  name: Lone Gull II
-  id: ee60be28-a961-41ab-9ccb-9fdde1ae0109
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.4488
+created_at: '2020-04-25T17:28:24.943785+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Gay Gull

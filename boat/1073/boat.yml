@@ -3,7 +3,6 @@ oga_no: 1073
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
 full_description: Hull design based on Laurent Giles' Dyararchy, rig based on Conor
   O'Brien's Saoirse
 year: 1979
@@ -18,38 +17,32 @@ place_built: Southend on Sea
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferro cement hull
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Portsmouth
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: M A Betts
-  share: 64
   start: 1979
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 48888144-ace4-408c-95d2-6d8487142d0f
-draft: 1.9202
 handicap_data:
-  beam: 3.291880029261156
+  thcf: 1.007999651
+  beam: 3.2918
+  draft: 1.9202
+  fore_triangle_height: 12.314069739088026
+  fore_triangle_base: 6.0960741282613995
+  length_over_all: 11.734942696903193
+  propellor:
+    type: fixed
   main:
     foot: 4.724457449402585
     head: 4.648256522799317
     luff: 5.410265788831992
-  thcf: 1.007999651
-  draft: 1.9202633504023408
   topsail:
     luff: 5.562667642038527
     perpendicular: 3.0480370641306997
-  propellor:
-    type: fixed
-  length_over_all: 11.734942696903193
-  fore_triangle_base: 6.0960741282613995
   length_on_waterline: 9.44891489880517
-  fore_triangle_height: 12.314069739088026
-length_on_deck: 11.7348
-beam: 3.2918
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.7348
+created_at: '2020-04-25T16:59:27.325053+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

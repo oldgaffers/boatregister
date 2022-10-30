@@ -3,7 +3,6 @@ oga_no: 2465
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Sailed on South Coast - Christchurch to Dartmouth and to Channel
   islands from Poole.
 year: 2000
@@ -11,6 +10,9 @@ year_is_approximate: false
 designer:
   name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+design_class:
+  name: Yarmouth 23
+  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
 builder:
   name: Yarmouth Boat Co.
   id: 609d8a8b-c14c-402c-b727-519e519d6f6f
@@ -18,44 +20,35 @@ place_built: Yarmouth IOW
 construction_material: grp
 construction_method: cold_moulded
 construction_details: grp, wooden spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Poole
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 355
-  share: 64
+- member: 3960
+  id: 355
   start: 2000
-  member: 3960
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: a9f69163-2a4c-471f-8d19-ff64d9be17a7
-draft: 0.9144
 handicap_data:
-  beam: 2.2799317239697636
+  thcf: 0.853
+  beam: 2.2799
+  draft: 0.9144
+  fore_triangle_height: 5.7912704218483295
+  fore_triangle_base: 3.038892952938308
+  length_over_all: 6.882467690807119
+  propellor:
+    type: fixed
+  sailarea: 25.088967692269446
   main:
     foot: 3.880151182638381
     head: 2.8102901731285055
     luff: 3.648500365764448
-  thcf: 0.853
-  draft: 0.9144111192392099
   topsail:
     luff: 3.648500365764448
     perpendicular: 1.6703243111436235
-  sailarea: 25.088967692269446
-  propellor:
-    type: fixed
-  length_over_all: 6.882467690807119
-  fore_triangle_base: 3.038892952938308
   length_on_waterline: 5.498658863691782
-  fore_triangle_height: 5.7912704218483295
-length_on_deck: 6.8824
-beam: 2.2799
-design_class:
-  name: Yarmouth 23
-  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.8824
+created_at: '2020-04-25T17:21:09.375354+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

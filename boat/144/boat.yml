@@ -4,7 +4,6 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Margery ll was built by David Hillyard in 1924</p>
-full_description: ''
 year: 1924
 year_is_approximate: false
 designer:
@@ -16,37 +15,29 @@ builder:
 place_built: Littlehampton
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 uk_part1: '144499'
-callsign: ''
 ownerships:
 - note: Previous owners
   text: Previous owners
-- note: David Hillyard1932
+- start: 1932
+  note: David Hillyard1932
   text: David Hillyard
-  start: 1932
-  start_is_approximate: false
-- note: Mrs.J Godsmark 1968
+- start: 1968
+  note: Mrs.J Godsmark 1968
   text: Mrs.J Godsmark
-  start: 1968
-  start_is_approximate: false
 - name: E R White
-  share: 64
   start: 1974
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 9daa4758-7eec-4a5a-8241-5599e18f5905
-draft: 0.7315
 handicap_data:
-  beam: 2.590831504511095
-  draft: 1.21921482565228
+  beam: 2.5908
+  draft: 0.7315
   length_over_all: 9.205071933674713
   length_on_waterline: 9.1441111923921
-length_on_deck: 9.205
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.205
+created_at: '2020-04-25T16:44:34.279153+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

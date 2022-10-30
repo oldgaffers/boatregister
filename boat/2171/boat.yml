@@ -15,6 +15,9 @@ full_description: '<p><em>Chickpea</em> is one of two yachts built in GRP from a
   with a cabin.</p>'
 year: 1990
 year_is_approximate: false
+design_class:
+  name: Baltic one design
+  id: c611ec8a-8bfa-4d07-bf6d-9005e0025878
 builder:
   name: Hoo Marine
   id: f2f263a6-aa14-4b1f-9a4a-909b3fe2efa9
@@ -22,39 +25,50 @@ place_built: Hoo, Medway
 construction_material: grp
 construction_method: unknown
 construction_details: Mould taken from a Victorian Gentleman's yacht
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 13500
+- created_at: '2017-08-31T19:58:35+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p>Beautiful fast gaff cutter, one of only two built in GRP from a\
+    \ mould taken from a Victorian gentleman\"s yacht. 30\" on deck plus 6\" bowsprit.\
+    \ Beam 8\u20192\". Draft 4\u20197\". Deep keel. Solid spruce mast, boom and gaff.\
+    \ Stainless steel standing rigging. Cabin fitted out for cruising, with standing\
+    \ room, one double and two single berths, two-ring cooker, sink, heads etc. Yanmar\
+    \ 1GM10 engine. Two 12V batteries. Stainless steel tanks. Two independent Garmin\
+    \ GPS systems, depth sounder, log, electronic masthead anemometer/wind angle indicator,\
+    \ DSC VHF. Autohelm. Plastimo inflatable dinghy. Recent survey available.</p>"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.55741+00:00'
 home_country: IRL
 home_port: Howth
 hull_form: long keel sloping forefoot
 sail_number: BOD2
-callsign: ''
 ownerships:
-- end: 2009
-  name: Paul Griffin
-  share: 64
+- name: Paul Griffin
   start: 1998
-- end: 2017
-  name: Paul Holden
+  end: 2009
   share: 64
+- name: Paul Holden
   start: 2009
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2017
+  share: 64
 id: ca8212c5-2c9c-4758-b55b-65faaae20dc1
+image_key: KG2XLk
+thumb: https://photos.smugmug.com/photos/i-t6W2dJW/0/Th/i-t6W2dJW-Th.jpg
+handicap_data:
+  beam: 2.4902
+  draft: 1.396
+  length_over_all: 9.1441111923921
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:16:02.965966+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Charmian
 - Just Jo
-image_key: KG2XLk
-thumb: https://photos.smugmug.com/photos/i-t6W2dJW/0/Th/i-t6W2dJW-Th.jpg
-draft: 1.396
-handicap_data:
-  beam: 2.43842965130456
-  length_over_all: 9.1441111923921
-length_on_deck: 9.144
-beam: 2.4902
-design_class:
-  name: Baltic one design
-  id: c611ec8a-8bfa-4d07-bf6d-9005e0025878
-for_sale_state:
-  text: not_for_sale

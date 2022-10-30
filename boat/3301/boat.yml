@@ -5,7 +5,6 @@ rig_type: Sloop
 mainsail_type: spritsail
 short_description: <p>Elfor is an Iain Oughtred Elf design. She was built between
   2008 to 2016.</p>
-full_description: ''
 year: 2016
 year_is_approximate: false
 designer:
@@ -18,30 +17,25 @@ place_built: Dunsford, Devon
 construction_material: plywood
 construction_method: clinker_ply
 construction_details: Glued clinker marine ply 6mm.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: L 4
-callsign: ''
 ownerships:
-- id: 914
-  share: 64
+- member: 6060
+  id: 914
   start: 2016
-  member: 6060
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 403cf10b-e476-4079-9bc0-94bd86f799fa
-draft: 0.1768
 handicap_data:
-  sailarea: 0
+  beam: 1.3716
+  draft: 0.1768
   moving_keel: true
   length_overall: 4.572
   moving_keel_type: Leeboard
   length_on_waterline: 3.7551
-length_on_deck: 4.572
-beam: 1.3716
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.572
+created_at: '2020-04-25T17:48:45.204146+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -6,7 +6,6 @@ mainsail_type: gaff
 short_description: <p>'Merlin' was a Falmouth Quay Punt, converted to a yacht. After
   Chris Beane sold her the new owner embarked on a major refit but never completed
   it.</p><p>Broken up in 2019.</p>
-full_description: ''
 year: 1914
 year_is_approximate: false
 designer:
@@ -18,33 +17,27 @@ builder:
 place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2014
-  name: John Brown
-  share: 32
+- name: John Brown
   start: 2007
-- end: 2014
-  name: Chris Beane
+  end: 2014
   share: 32
+- name: Chris Beane
   start: 2007
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2014
+  share: 32
 id: e1898912-e985-4ee0-9f1a-c12c32995074
 image_key: zjDqtf
 thumb: https://photos.smugmug.com/photos/i-cw4jMVB/0/Th/i-cw4jMVB-Th.jpg
-draft: 2.0818
 handicap_data:
-  beam: 3.169958546695928
-  draft: 2.0726652036088757
+  beam: 3.176
+  draft: 2.0818
   length_over_all: 9.692757863935626
   length_on_waterline: 9.509875640087783
-length_on_deck: 9.7018
-beam: 3.176
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7018
+created_at: '2020-04-25T18:37:28.549656+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

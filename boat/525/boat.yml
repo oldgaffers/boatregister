@@ -3,7 +3,6 @@ oga_no: 525
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Following a dismasting near Le Havre in 1997, a new mast was made
   as a demonstration during the Fete du Chant de Marin at Paimol, Brittany.
 year: 1948
@@ -19,44 +18,35 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch Pine on Oak, mahogany above wl, Lead keel,GRP sheathed
   ply deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Fareham
 hull_form: long keel deep forefoot
 uk_part1: '182525'
-callsign: ''
 ownerships:
 - name: Andrew Clague
-  share: 64
   start: 2003
-- share: 64
-  member: 4215
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 618404fb-7ea2-45ed-b9ef-6dce806474c4
 image_key: P9342V
 thumb: https://photos.smugmug.com/photos/i-WrPPS9K/0/Th/i-WrPPS9K-Th.jpg
-draft: 1.4021
 handicap_data:
-  beam: 2.4902462813947817
+  thcf: 0.947
+  beam: 2.4994
+  draft: 1.4021
+  fore_triangle_height: 6.199707388441843
+  fore_triangle_base: 5.300536454523287
+  length_over_all: 7.924896366739819
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 47.01732762578944
   main:
     foot: 6.699585466959278
     head: 3.9014874420872956
     luff: 4.998780785174347
-  thcf: 0.947
-  draft: 1.3990490124359911
-  sailarea: 47.01732762578944
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.924896366739819
-  fore_triangle_base: 5.300536454523287
   length_on_waterline: 7.443306510607169
-  fore_triangle_height: 6.199707388441843
-length_on_deck: 7.9248
-beam: 2.4994
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9248
+created_at: '2020-04-25T16:50:17.081872+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

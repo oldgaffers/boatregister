@@ -3,8 +3,6 @@ oga_no: 1473
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1928
 year_is_approximate: false
 builder:
@@ -14,42 +12,37 @@ place_built: Arnside
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch pine on oak frames
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
 sail_number: MT73
-callsign: ''
 ownerships:
-- end: 2011
-  name: Tim Johnson
-  share: 64
+- name: Tim Johnson
   start: 2007
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2011
+  share: 64
 id: 2533ec25-bff7-43e9-9318-8beb66eeae5a
 image_key: JhckKX
 thumb: https://photos.smugmug.com/photos/i-fBkZZJH/0/Th/i-fBkZZJH-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 3.0998536942209216
+  thcf: 0.9970286
+  beam: 3.109
+  draft: 1.3716
+  fore_triangle_height: 7.467690807120214
+  fore_triangle_base: 7.010485247500609
+  length_over_all: 10.515727871250913
+  propellor:
+    type: fixed
   main:
     foot: 6.0960741282613995
     head: 5.18166300902219
     luff: 4.57205559619605
-  thcf: 0.9970286
-  draft: 1.3716166788588149
   topsail:
     luff: 5.4864667154352595
     perpendicular: 2.286027798098025
-  propellor:
-    type: fixed
-  length_over_all: 10.515727871250913
-  fore_triangle_base: 7.010485247500609
   length_on_waterline: 8.83930748597903
-  fore_triangle_height: 7.467690807120214
-length_on_deck: 10.5156
-beam: 3.109
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.5156
+created_at: '2020-04-25T17:05:31.695865+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

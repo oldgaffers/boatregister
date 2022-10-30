@@ -3,13 +3,14 @@ oga_no: 1646
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1975
 year_is_approximate: false
 designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+design_class:
+  name: D17
+  id: d71071dd-2376-40e5-9aa5-8204780fbddc
 builder:
   name: Dockrell Yachts
   id: afed9d1b-22cf-4371-8322-8b34e5b0efdd
@@ -17,29 +18,19 @@ place_built: Tavistock
 construction_material: grp
 construction_method: unknown
 construction_details: G R P open boat with self draining deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: G Dunn
-  share: 64
   start: 1988
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 09fa1cd0-6563-4f8b-8e7d-3942fa8ea7b6
-draft: 0.9144
 handicap_data:
-  beam: 2.234211168007803
-  draft: 0.9144111192392099
+  beam: 2.2342
+  draft: 0.9144
   length_over_all: 5.00487685930261
   length_on_waterline: 4.87685930260912
-length_on_deck: 5.0048
-beam: 2.2342
-design_class:
-  name: D17
-  id: d71071dd-2376-40e5-9aa5-8204780fbddc
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.0048
+created_at: '2020-04-25T17:08:06.308968+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

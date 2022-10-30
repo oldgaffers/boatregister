@@ -3,13 +3,14 @@ oga_no: 2237
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1979
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -18,52 +19,50 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 26750
+- created_at: '2021-08-23T07:42:16.601004+00:00'
+  flexibility: normal
+  offered: '2021-08-20'
+  price_flexibility:
+    text: normal
+  reduced: true
+  sales_text: Full details at https://waypoint-yachtbrokers.co.uk/boat_for_sale/2089483/
+  seller_gold_id: 34895
+  seller_member: 6501
+  sold: null
+  summary: null
+  updated_at: '2021-08-23T07:42:16.601004+00:00'
 home_country: GBR
 home_port: Cowes
 hull_form: long keel deep forefoot
 sail_number: '237'
-callsign: ''
 ownerships:
 - name: M G Streeter
-  share: 64
   start: 1984
-- id: 34895
   share: 64
-  member: 6501
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 4f99b990-43cd-476f-87c3-2bd19b416f99
-previous_names:
-- Gannet
 image_key: Wzcn7D
 thumb: https://photos.smugmug.com/photos/i-Dg2sjpf/0/Th/i-Dg2sjpf-Th.jpg
-draft: 0.7376
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.871583105
+  beam: 2.4384
+  draft: 0.7376
+  fore_triangle_height: 5.6388685686417945
+  fore_triangle_base: 4.114850036576445
+  length_over_all: 7.315288953913679
+  propellor:
+    type: fixed
   main:
     foot: 4.166666666666666
     head: 2.8194342843208973
     luff: 3.5052426237503047
-  thcf: 0.871583105
-  draft: 0.7376249695196293
   topsail:
     luff: 3.5052426237503047
     perpendicular: 1.9812240916849548
-  propellor:
-    type: fixed
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 4.114850036576445
   length_on_waterline: 6.1722750548646665
-  fore_triangle_height: 5.6388685686417945
-length_on_deck: 7.3152
-beam: 2.4384
-design_class:
-  name: Cornish Crabber Mk 1
-  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
-for_sale_state:
-  text: for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:17:02.343892+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Gannet

@@ -14,6 +14,9 @@ year_is_approximate: false
 designer:
   name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+design_class:
+  name: Oysterman 16
+  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
 builder:
   name: Oystersailers Ltd.
   id: 8f423342-b25e-40d9-8725-3d143660e8f5
@@ -21,27 +24,26 @@ place_built: Penryn, Fal Estuary
 construction_material: grp
 construction_method: unknown
 construction_details: Has encapsulated lead ballast
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- id: 546
-  share: 64
+- member: 4929
+  id: 546
   start: 2018
-  member: 4929
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 312562fc-ecb3-4728-bac9-84cf02dcf8df
-previous_names:
-- Zelah
 image_key: kwb8xk
 thumb: https://photos.smugmug.com/photos/i-ZT5ngSh/0/Th/i-ZT5ngSh-Th.jpg
-draft: 0.8687
 handicap_data:
+  beam: 1.9294
+  draft: 0.8687
+  fore_triangle_height: 6.096
+  fore_triangle_base: 3.048
+  sailarea: 7
   main:
     foot: 12.42
     head: 10
@@ -49,17 +51,12 @@ handicap_data:
   topsail:
     luff: 13.16
     perpendicular: 8
-  sailarea: 7
   length_overall: 4.8768
   calculated_thcf: 0.853
   length_over_spars: 6.7056
-  fore_triangle_base: 3.048
   length_on_waterline: 4.8006
-  fore_triangle_height: 6.096
-length_on_deck: 4.8768
-beam: 1.9294
-design_class:
-  name: Oysterman 16
-  id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:53:54.796048+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Zelah

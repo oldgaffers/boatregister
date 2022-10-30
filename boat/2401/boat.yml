@@ -3,7 +3,6 @@ oga_no: 2401
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: CB Jun 91
 year: 1898
 year_is_approximate: false
@@ -17,33 +16,26 @@ place_built: Carrickfergus
 construction_material: wood
 construction_method: carvel
 construction_details: carvel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: '1'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 8a23135d-79f0-4e1a-afa7-823db3544550
-draft: 1.0668
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.906832885
+  beam: 1.8288
+  draft: 1.0668
+  fore_triangle_height: 5.233479639112412
+  fore_triangle_base: 2.4902462813947817
+  length_over_all: 6.858083394294074
   main:
     foot: 5.334064862228725
     head: 3.0480370641306997
     luff: 3.5052426237503047
-  thcf: 0.906832885
-  draft: 1.066812972445745
   topsail:
     luff: 4.26725188978298
     perpendicular: 1.9812240916849548
-  length_over_all: 6.858083394294074
-  fore_triangle_base: 2.4902462813947817
   length_on_waterline: 5.18166300902219
-  fore_triangle_height: 5.233479639112412
-length_on_deck: 6.858
-beam: 1.8288
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.858
+created_at: '2020-04-25T17:20:11.44082+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

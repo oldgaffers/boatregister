@@ -23,54 +23,51 @@ construction_material: steel
 spar_material: wood
 construction_method: unknown
 construction_details: Riveted steel, mahogany superstructure, teak decks.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Twickenham, River Thames
 hull_form: long keel deep forefoot
 uk_part1: '164525'
-callsign: ''
 ownerships:
-- end: 1931
-  name: Herbert Huntly-Gordon
-  share: 64
+- name: Herbert Huntly-Gordon
   start: 1923
-- end: 1935
-  name: Rene Bollore
+  end: 1931
   share: 64
+- name: Rene Bollore
   start: 1931
-- end: 1968
-  name: Ferguson Roydhouse
+  end: 1935
   share: 64
+- name: Ferguson Roydhouse
   start: 1935
-- end: 1978
-  name: Windsor Sea Cadets
+  end: 1968
   share: 64
+- name: Windsor Sea Cadets
   start: 1968
-- end: 1980
-  name: Frank Lord
+  end: 1978
   share: 64
+- name: Frank Lord
   start: 1978
-- id: 298
+  end: 1980
   share: 64
+- member: 3614
+  id: 298
   start: 1980
-  member: 3614
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: http://lilianboat.co.uk/
 id: 596db085-8a8d-4fc3-a0a3-37a3a905709c
+image_key: 8XKCJW
+thumb: https://photos.smugmug.com/photos/i-fKJcGCv/0/Th/i-fKJcGCv-Th.jpg
+handicap_data:
+  beam: 5.0048
+  draft: 1.8044
+  length_over_all: 30.480370641306997
+  length_on_deck: 29.9984
+created_at: '2020-04-25T18:36:10.225844+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+nhsr: '2758'
 previous_names:
 - Lilian of Stockholm
 - Dahu
 - TS Windsor Castle
-nhsr: '2758'
-image_key: 8XKCJW
-thumb: https://photos.smugmug.com/photos/i-fKJcGCv/0/Th/i-fKJcGCv-Th.jpg
-draft: 1.8044
-handicap_data:
-  beam: 4.87685930260912
-  length_over_all: 30.480370641306997
-length_on_deck: 29.9984
-beam: 5.0048
-for_sale_state:
-  text: not_for_sale

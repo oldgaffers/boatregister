@@ -3,8 +3,6 @@ oga_no: 2802
 generic_type: unknown
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1929
 year_is_approximate: false
 designer:
@@ -16,43 +14,37 @@ builder:
 construction_material: wood
 construction_method: unknown
 construction_details: Pitch Pine
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Ymuiden
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Franz W B Moerbeek
-  share: 64
   start: 1983
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: cfa67b52-c9c9-4e7a-867d-801bde4b862d
-previous_names:
-- Jannick
-draft: 2.4994
 handicap_data:
-  beam: 4.081321628871007
+  thcf: 1.240551528
+  beam: 4.0813
+  draft: 2.4994
+  fore_triangle_height: 17.50182882223848
+  fore_triangle_base: 7.4006339917093396
+  length_over_all: 21.900146305779074
+  propellor:
+    type: fixed
   main:
     foot: 8.500975371860521
     head: 7.001341136308217
     luff: 7.501219214825651
-  thcf: 1.240551528
-  draft: 2.4993903925871734
-  mizzen:
-    foot: 3.800902218970983
-    luff: 9.601316752011703
   topsail:
     luff: 8.199219702511582
     perpendicular: 3.886247256766642
-  propellor:
-    type: fixed
-  length_over_all: 21.900146305779074
-  fore_triangle_base: 7.4006339917093396
+  mizzen:
+    foot: 3.800902218970983
+    luff: 9.601316752011703
   length_on_waterline: 12.600585223116314
-  fore_triangle_height: 17.50182882223848
-length_on_deck: 21.8999
-beam: 4.0813
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 21.8999
+created_at: '2020-04-25T17:27:54.404078+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Jannick

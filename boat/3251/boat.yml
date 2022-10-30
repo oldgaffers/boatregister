@@ -5,12 +5,14 @@ rig_type: Sloop
 mainsail_type: lug
 short_description: <p>&#39;Madeline&#39; is a Drascombe Peterboat that has cruised
   the South Coast extensively from Poole.</p>
-full_description: ''
 year: 1997
 year_is_approximate: false
 designer:
   name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
+design_class:
+  name: Drascombe Peterboat
+  id: 1e649000-5165-4508-8ea0-171c80903329
 builder:
   name: John Kerr
   id: 58cb5d74-c8b1-49d0-a8a8-8fe1c190b524
@@ -19,32 +21,44 @@ construction_material: wood
 construction_method: unknown
 construction_details: Double ended, cap-strake wood construction. All varnished with
   mahogany gunwales and coamings.
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 2450
+- created_at: '2019-02-28T18:13:39+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>Five metre Drascombe Peterboat. Double-ended wooden classic lugsail
+    open dayboat. John Watkinson designer, John Kerr builder, 1992. Professional glued
+    lapstrake construction, all varnished with mahogany gunwales and coamings. 16"6',
+    waterline length 13", Beam 5"9', draft 9', 150 kg displacement.</p><p>Combo road
+    trailer, 3.5 HP 2 stroke Johnson outboard (service), 4 new buoyancy bags and bow
+    bag, anchor, warps, fenders, compass, bilge pump, oars, boat hook and paddle.
+    One petrol outboard.</p><p>Launching trolley and trailer winch makes day sailing
+    and recovery very practicable&nbsp;with one or two people. Tabernacle mast enables
+    easy rigging onshore by one person and stowing for trailing.</p><p>Beautiful boat,
+    very good condition. Lying Surbiton.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:12.831769+00:00'
 home_country: GBR
 home_port: Surbiton
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2018
-  name: Philip Treloar
-  share: 64
+- name: Philip Treloar
   start: 2014
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  end: 2018
+  share: 64
 id: 7772251e-381c-471c-a068-cdec017b7b95
 image_key: sgC5Sm
 thumb: https://photos.smugmug.com/photos/i-7XSNq3n/0/Th/i-7XSNq3n-Th.jpg
-draft: 0
 handicap_data:
   moving_keel: true
   length_overall: 4.9987
   moving_keel_type: Centreboard
-length_on_deck: 4.9987
-beam: 0
-design_class:
-  name: Drascombe Peterboat
-  id: 1e649000-5165-4508-8ea0-171c80903329
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.9987
+created_at: '2020-04-25T17:47:08.114137+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

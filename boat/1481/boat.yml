@@ -3,42 +3,33 @@ oga_no: 1481
 generic_type: Dayboat
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1986
 year_is_approximate: false
 designer:
   name: Bill Bailiff
   id: 40fab132-73c1-48a6-8aa5-9c471b1543a8
+design_class:
+  name: Lune Longboat
+  id: 0d1b9b71-afd5-4436-bd64-b42d753dac04
 builder:
   name: Character Boats
   id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
 place_built: Overton
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Allan Elliot Smith
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: a68a2eec-e8d9-4c75-82a8-971214f667a6
-draft: 0.381
 handicap_data:
-  beam: 1.6154596439892708
-  draft: 0.38100463301633747
+  beam: 1.6154
+  draft: 0.381
   length_over_all: 5.18166300902219
   length_on_waterline: 4.419653742989515
-length_on_deck: 5.1816
-beam: 1.6154
-design_class:
-  name: Lune Longboat
-  id: 0d1b9b71-afd5-4436-bd64-b42d753dac04
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1816
+created_at: '2020-04-25T17:05:38.700095+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

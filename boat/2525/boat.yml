@@ -3,8 +3,6 @@ oga_no: 2525
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1989
 year_is_approximate: false
 designer:
@@ -17,33 +15,27 @@ place_built: Teddington
 construction_material: wood
 construction_method: unknown
 construction_details: Hard Chine Ply on Iroko
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Twickenham
 hull_form: long keel deep forefoot
 sail_number: '1967'
 ssr: '15250'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 79cb5eb2-ec88-4ff4-84d3-026c935bb259
-draft: 0.762
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.839643403
+  beam: 2.4384
+  draft: 0.762
+  fore_triangle_height: 3.9624481833699097
+  fore_triangle_base: 3.6576444769568397
+  length_over_all: 7.315288953913679
+  propellor:
+    type: fixed
   main:
     foot: 3.6576444769568397
     head: 2.13362594489149
     luff: 3.9624481833699097
-  thcf: 0.839643403
-  draft: 0.7620092660326749
-  propellor:
-    type: fixed
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 3.6576444769568397
   length_on_waterline: 5.7912704218483295
-  fore_triangle_height: 3.9624481833699097
-length_on_deck: 7.3152
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:22:04.568458+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

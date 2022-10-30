@@ -3,43 +3,36 @@ oga_no: 2925
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Modern bermudian rig
 year: 1972
 year_is_approximate: false
 designer:
   name: Jack Holt
   id: 6f4beede-1d23-4769-b07f-1721c2f9f9f9
+design_class:
+  name: Mirror Dinghy
+  id: e6a2f346-6819-48a2-84d3-69005e2316f4
 builder:
   name: built Home
   id: 149ca895-58ff-4037-8fae-42fefff7e74e
 construction_material: wood
 construction_method: unknown
 construction_details: Taped seams single chine ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Kendal
 hull_form: unknown
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: d59003d3-206c-4be3-bf93-f68d12a3d24d
-draft: 0
 handicap_data:
-  beam: 1.3960009753718605
+  thcf: 0.700220479
+  beam: 1.396
+  fore_triangle_height: 3.301024140453548
+  fore_triangle_base: 1.21921482565228
+  length_over_all: 3.291880029261156
   main:
     foot: 2.0970495001219214
     luff: 3.886247256766642
-  thcf: 0.700220479
-  length_over_all: 3.291880029261156
-  fore_triangle_base: 1.21921482565228
   length_on_waterline: 2.843818580833943
-  fore_triangle_height: 3.301024140453548
-length_on_deck: 3.2918
-beam: 1.396
-design_class:
-  name: Mirror Dinghy
-  id: e6a2f346-6819-48a2-84d3-69005e2316f4
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.2918
+created_at: '2020-04-25T17:32:40.387451+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

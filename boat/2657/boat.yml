@@ -3,7 +3,6 @@ oga_no: 2657
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
 full_description: Sold July '08
 year: 2003
 year_is_approximate: false
@@ -17,30 +16,24 @@ place_built: Windermere
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Ply 4 strake clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Grafham Water
 hull_form: unknown
 sail_number: '8'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 7a916086-440b-4a4b-9722-08dd5f371f5c
-draft: 0.1768
 handicap_data:
-  beam: 1.5240185320653499
+  thcf: 0.722988463
+  beam: 1.524
+  draft: 0.1768
+  fore_triangle_height: 2.843818580833943
+  fore_triangle_base: 1.5240185320653499
+  length_over_all: 3.5296269202633503
   main:
     foot: 2.43842965130456
     head: 2.718849061204584
     luff: 1.624603755181663
-  thcf: 0.722988463
-  draft: 0.17678614971958057
-  length_over_all: 3.5296269202633503
-  fore_triangle_base: 1.5240185320653499
   length_on_waterline: 3.2004389173372347
-  fore_triangle_height: 2.843818580833943
-length_on_deck: 3.5296
-beam: 1.524
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.5296
+created_at: '2020-04-25T17:24:05.742888+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

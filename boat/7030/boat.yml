@@ -6,12 +6,14 @@ mainsail_type: bermudan
 short_description: Naiad, designed by Harrison Butler and built in 1936, was kept
   on the Solent by Vice Admiral J.W.S Dorling until 1961, when G.A Percival moved
   her to Northumberland.
-full_description: ''
 year: 1936
 year_is_approximate: false
 designer:
   name: T. Harrison Butler
   id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
+design_class:
+  name: Englyn design by Harrison Butler
+  id: e275a9e0-c14f-4954-9b6c-fa2f6c053d06
 builder:
   name: ErnestgF. Elkins
   id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
@@ -19,64 +21,46 @@ place_built: Christchurch
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel wood
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Amble, Northumberland
 hull_form: long keel sloping forefoot
 sail_number: 688Y
 uk_part1: '165044'
-callsign: ''
 ownerships:
-- note: A S Page 1936
+- start: 1936
+  note: A S Page 1936
   text: A S Page
-  start: 1936
-  start_is_approximate: false
-- end: 1961
-  name: Vice Admiral J.W.S Dorling
-  share: 64
+- name: Vice Admiral J.W.S Dorling
   start: 1946
-- note: Vice Admiral J W Dorling 1947
+  end: 1961
+  share: 64
+- start: 1947
+  note: Vice Admiral J W Dorling 1947
   text: Vice Admiral J W Dorling
-  start: 1947
-  start_is_approximate: false
-- end: 2009
-  name: G.A Percival
-  share: 64
+- name: G.A Percival
   start: 1961
-- note: G A Percival 1961
+  end: 2009
+  share: 64
+- start: 1961
+  note: G A Percival 1961
   text: G A Percival
-  start: 1961
-  start_is_approximate: false
-- note: Mr and Mr J N Hill 1976
+- start: 1976
+  note: Mr and Mr J N Hill 1976
   text: Mr and Mr J N Hill
-  start: 1976
-  start_is_approximate: false
-- note: Neal Hill and Morag Chisholm 2002
+- start: 2002
+  note: Neal Hill and Morag Chisholm 2002
   text: Neal Hill and Morag Chisholm
-  start: 2002
-  start_is_approximate: false
-- end: 2019
-  name: Neal Hill
-  share: 64
+- name: Neal Hill
   start: 2009
-- id: 424
+  end: 2019
   share: 64
-  member: 4311
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: fc5dc7d8-67b4-4b9f-b248-cd76c4eda0fa
 image_key: 6WGphQ
 thumb: https://photos.smugmug.com/photos/i-9BSzqFn/0/Th/i-9BSzqFn-Th.jpg
-draft: 0
 handicap_data:
   length_over_all: 8.83930748597903
-length_on_deck: 8.8392
-beam: 0
-design_class:
-  name: Englyn design by Harrison Butler
-  id: e275a9e0-c14f-4954-9b6c-fa2f6c053d06
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.8392
+created_at: '2020-04-25T17:42:42.878788+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

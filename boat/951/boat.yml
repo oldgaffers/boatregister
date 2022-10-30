@@ -3,7 +3,6 @@ oga_no: 951
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: Seen in Yarmouth IoW 23.10.11 Kept up the ItchenBuilt as a yacht
   on Falmouth Quay Punt Lines with 2 extra planks. Now a gaff cutter crossing a yard.
 year: 1927
@@ -17,39 +16,32 @@ builder:
 place_built: Falmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Mrs H Newman
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: df403ba8-f958-4c2f-a4cf-527ebec6e610
-draft: 0
 handicap_data:
-  beam: 3.2309192879785416
+  thcf: 1.015529634
+  beam: 3.2309
+  fore_triangle_height: 10.210924164837843
+  fore_triangle_base: 6.071689831748354
+  length_over_all: 9.75371860521824
   main:
     foot: 5.334064862228725
     head: 4.596439892709095
     luff: 6.681297244574494
-  thcf: 1.015529634
+  topsail:
+    luff: 4.724457449402585
+    perpendicular: 2.539014874420873
   mizzen:
     foot: 0
     head: 3.1242379907339672
     luff: 2.871250914411119
-  topsail:
-    luff: 4.724457449402585
-    perpendicular: 2.539014874420873
-  length_over_all: 9.75371860521824
-  fore_triangle_base: 6.071689831748354
   length_on_waterline: 9.601316752011703
-  fore_triangle_height: 10.210924164837843
-length_on_deck: 9.7536
-beam: 3.2309
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.7536
+created_at: '2020-04-25T16:57:38.732126+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

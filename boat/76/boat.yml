@@ -28,56 +28,46 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel planking on oak sawn frames with elm keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Brixham
 hull_form: unknown
 uk_part1: '148999'
-callsign: ''
 ownerships:
-- end: 1997
-  name: Ken L Harris
-  share: 64
+- name: Ken L Harris
   start: 1955
+  end: 1997
+  share: 64
 - name: Vigilance Preservation Society, Brixham
-  share: 64
   start: 1997
-- id: 757
   share: 64
-  member: 5762
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: bcf0c456-d2ef-478d-b3c0-f8d9fb55bef9
 image_key: mF4bjT
 thumb: https://photos.smugmug.com/photos/i-2BLMmNN/0/Th/i-2BLMmNN-Th.jpg
-draft: 2.5908
 handicap_data:
-  beam: 6.035113386978786
+  thcf: 1.324
+  beam: 6.035
+  draft: 2.5908
+  fore_triangle_height: 23.165081687393318
+  fore_triangle_base: 12.801755669348939
+  length_over_all: 20.421848329675687
+  sailarea: 328.48834037965213
   main:
     foot: 9.75371860521824
     head: 9.44891489880517
     luff: 9.1441111923921
-  thcf: 1.324
-  draft: 2.590831504511095
+  topsail:
+    luff: 11.887344550109729
+    perpendicular: 6.705681541087539
   mizzen:
     foot: 6.705681541087539
     head: 6.4008778346744695
     luff: 5.029261155815655
-  topsail:
-    luff: 11.887344550109729
-    perpendicular: 6.705681541087539
-  sailarea: 328.48834037965213
   mizzen_topsail:
     luff: 6.0960741282613995
     perpendicular: 3.6576444769568397
-  length_over_all: 20.421848329675687
-  fore_triangle_base: 12.801755669348939
   length_on_waterline: 20.72665203608876
-  fore_triangle_height: 23.165081687393318
-length_on_deck: 20.4216
-beam: 6.035
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 20.4216
+created_at: '2020-04-25T16:43:35.392929+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

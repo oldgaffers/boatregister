@@ -3,8 +3,6 @@ oga_no: 2514
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1989
 year_is_approximate: false
 designer:
@@ -16,35 +14,29 @@ builder:
 place_built: Penryn
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Numansgoes
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Gerard K Wind
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 18021c02-f693-48b8-b4e0-78b89ffca100
-draft: 1.3472
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.884124239
+  beam: 2.7432
+  draft: 1.3472
+  fore_triangle_height: 7.6993416239941475
+  fore_triangle_base: 5.050597415264569
+  length_over_all: 6.909900024384297
+  propellor:
+    type: fixed
   main:
     foot: 3.950256035113387
     head: 3.7094611070470616
     luff: 4.800658376005852
-  thcf: 0.884124239
-  draft: 1.3472323823457693
-  propellor:
-    type: fixed
-  length_over_all: 6.909900024384297
-  fore_triangle_base: 5.050597415264569
   length_on_waterline: 6.705681541087539
-  fore_triangle_height: 7.6993416239941475
-length_on_deck: 6.9098
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.9098
+created_at: '2020-04-25T17:21:54.788923+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

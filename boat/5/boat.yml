@@ -3,8 +3,6 @@ oga_no: 5
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1916
 year_is_approximate: false
 builder:
@@ -13,28 +11,22 @@ builder:
 place_built: Tarbert
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: unknown
 sail_number: '5'
 uk_part1: '166981'
-callsign: ''
 ownerships:
 - name: J M Snelgar
-  share: 64
   start: 1966
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: bfca122e-802c-4140-a3d3-de4dee09db81
-draft: 2.0117
 handicap_data:
-  beam: 3.3833211411850765
-  draft: 1.8593026091197267
+  beam: 3.3833
+  draft: 2.0117
   length_over_all: 11.155815654718362
   length_on_waterline: 10.05852231163131
-length_on_deck: 11.1557
-beam: 3.3833
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.1557
+created_at: '2020-04-25T16:42:20.851725+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

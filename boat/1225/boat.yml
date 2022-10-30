@@ -5,7 +5,6 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>&#39;Chal&#39; is sister ship to &#39;Stormalong&#39;. Built
   1939 she is canoe sterned with a two ton iron keel and one ton internal ballast.</p>
-full_description: ''
 year: 1939
 year_is_approximate: false
 designer:
@@ -18,44 +17,35 @@ place_built: Boston
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel - Norwegian pine
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel deep forefoot
 uk_part1: '147973'
-callsign: ''
 ownerships:
-- end: 2012
-  name: G Lister
-  share: 64
+- name: G Lister
   start: 1983
-- name: Paul Douglas
+  end: 2012
   share: 64
+- name: Paul Douglas
   start: 2012
-- share: 64
-  member: 5602
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: b4af7034-a7b4-445d-a237-da3889b8de82
-draft: 1.6764
 handicap_data:
-  beam: 2.8194342843208973
+  thcf: 0.968279415
+  beam: 2.8194
+  draft: 1.6764
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 6.2484759814679345
+  length_over_all: 9.44891489880517
+  propellor:
+    type: fixed
   main:
     foot: 5.690685198732017
     head: 4.419653742989515
     luff: 5.029261155815655
-  thcf: 0.968279415
-  draft: 1.6764203852718849
-  propellor:
-    type: fixed
-  length_over_all: 9.44891489880517
-  fore_triangle_base: 6.2484759814679345
   length_on_waterline: 7.924896366739819
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 9.4488
-beam: 2.8194
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.4488
+created_at: '2020-04-25T17:01:46.402413+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

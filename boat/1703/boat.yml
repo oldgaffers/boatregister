@@ -3,8 +3,6 @@ oga_no: 1703
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1934
 year_is_approximate: false
 builder:
@@ -14,40 +12,34 @@ place_built: Singapore
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker teak on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Cowes
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: T Frankl-Bertram
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 3279694f-2207-4dbb-b3c8-5a8d2fc33752
-previous_names:
-- Duet
-draft: 0.2042
 handicap_data:
-  beam: 1.9050231650816873
+  thcf: 0.785478183
+  beam: 1.905
+  draft: 0.2042
+  fore_triangle_height: 4.26725188978298
+  fore_triangle_base: 2.590831504511095
+  length_over_all: 5.309680565715679
+  propellor:
+    type: fixed
   main:
     foot: 3.0480370641306997
     head: 0.45720555961960496
     luff: 3.0480370641306997
-  thcf: 0.785478183
-  draft: 0.2042184832967569
   topsail:
     luff: 2.43842965130456
     perpendicular: 1.6764203852718849
-  propellor:
-    type: fixed
-  length_over_all: 5.309680565715679
-  fore_triangle_base: 2.590831504511095
   length_on_waterline: 5.029261155815655
-  fore_triangle_height: 4.26725188978298
-length_on_deck: 5.3096
-beam: 1.905
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.3096
+created_at: '2020-04-25T17:08:56.968331+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Duet

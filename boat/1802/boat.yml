@@ -28,6 +28,9 @@ year_is_approximate: false
 designer:
   name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+design_class:
+  name: Maurice Griffiths Wind Song
+  id: 888a6c2a-a539-4463-a6a8-78944b9d302c
 builder:
   name: Geo. A. Feltham Ltd.
   id: 0a458ae5-5649-4233-a1c0-81f96361a627
@@ -35,48 +38,40 @@ place_built: Portsmouth
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel teak on Canadian rock elm
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Chichester
 hull_form: long keel sloping forefoot
 uk_part1: '160910'
-callsign: ''
 ownerships:
-- id: 274
-  share: 64
+- member: 3456
+  id: 274
   start: 2007
-  member: 3456
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 621796be-c24f-4541-8fca-9102f683510e
 image_key: 4FLcV4
 thumb: https://photos.smugmug.com/photos/i-SBcN9Kt/0/Th/i-SBcN9Kt-Th.jpg
-draft: 0.762
 handicap_data:
-  beam: 2.560351133869788
+  thcf: 0.944805758
+  beam: 2.5664
+  draft: 0.762
+  fore_triangle_height: 7.659717142160448
+  fore_triangle_base: 5.120702267739576
+  length_over_all: 8.379053889295292
+  propellor:
+    type: folding
+    blades: 3
   main:
     foot: 4.66044867105584
     head: 3.8100463301633747
     luff: 4.599487929773225
-  thcf: 0.944805758
-  draft: 0.7589612289685442
   topsail:
     luff: 4.471470373079736
     perpendicular: 1.9202633504023408
-  propellor:
-    type: folding
-    blades: 3
   draft_keeldown: 1.6794684223360155
-  length_over_all: 8.379053889295292
-  fore_triangle_base: 5.120702267739576
   length_on_waterline: 7.321385028041941
-  fore_triangle_height: 7.659717142160448
-length_on_deck: 8.382
-beam: 2.5664
-design_class:
-  name: Maurice Griffiths Wind Song
-  id: 888a6c2a-a539-4463-a6a8-78944b9d302c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.382
+created_at: '2020-04-25T17:10:26.182834+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

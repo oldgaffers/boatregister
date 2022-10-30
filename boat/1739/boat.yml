@@ -3,13 +3,15 @@ oga_no: 1739
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Boatman Oct 94 CB Feb 90
 year: 1993
 year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -17,37 +19,28 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Mylor
 hull_form: long keel deep forefoot
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 1a9c1fb1-35ce-455e-9015-4f4f002d103f
-draft: 1.524
 handicap_data:
-  beam: 3.0480370641306997
+  thcf: 0.998963595
+  beam: 3.048
+  draft: 1.524
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 6.5532796878810045
+  length_over_all: 8.53450377956596
+  propellor:
+    type: fixed
   main:
     foot: 6.0960741282613995
     head: 4.87685930260912
     luff: 9.75371860521824
-  thcf: 0.998963595
-  draft: 1.5240185320653499
   topsail:
     luff: 3.0480370641306997
     perpendicular: 2.43842965130456
-  propellor:
-    type: fixed
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 6.5532796878810045
   length_on_waterline: 8.077298219946353
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 8.5344
-beam: 3.048
-design_class:
-  name: Heard 28
-  id: 47040682-ee05-42de-a493-400ebd5956db
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T17:09:28.441376+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

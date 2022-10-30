@@ -28,6 +28,9 @@ year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -36,52 +39,44 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP hull with wooden decks and cabin.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: IRL
 home_port: Kinsale
 hull_form: long keel sloping forefoot
 sail_number: IRL 1055
-callsign: ''
 ownerships:
-- end: 2007
-  name: Gerry McEvoy
-  share: 64
+- name: Gerry McEvoy
   start: 1992
-- id: 446
+  end: 2007
   share: 64
+- member: 4415
+  id: 446
   start: 2007
-  member: 4415
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: cc42e38d-59fd-46eb-bf4a-7555a05e4f37
 image_key: pkRH8x
 thumb: https://photos.smugmug.com/photos/i-CB5G88W/0/Th/i-CB5G88W-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.977
+  beam: 2.7432
+  draft: 1.524
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 6.5532796878810045
+  length_over_all: 8.53450377956596
+  propellor:
+    type: feathering
+    blades: 3
+  sailarea: 57.746682448378394
   main:
     foot: 5.309680565715679
     head: 4.547671299683004
     luff: 5.00487685930261
-  thcf: 0.977
-  draft: 1.5240185320653499
   topsail:
     luff: 5.410265788831992
     perpendicular: 1.8288222384784198
-  sailarea: 57.746682448378394
-  propellor:
-    type: feathering
-    blades: 3
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 6.5532796878810045
   length_on_waterline: 8.077298219946353
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 8.5344
-beam: 2.7432
-design_class:
-  name: Heard 28
-  id: 47040682-ee05-42de-a493-400ebd5956db
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T17:22:48.455655+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

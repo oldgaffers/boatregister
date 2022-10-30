@@ -3,11 +3,13 @@ oga_no: 7049
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: ''
 full_description: Built for boat show, first one of ten with standing headroom, twin
   drop keels and whipstaff steering.  2/3 sloop rig.
 year: 1962
 year_is_approximate: false
+design_class:
+  name: Atalanta Titania
+  id: bb9cfbdb-139d-45f1-b0ed-8fe27a75d6d0
 builder:
   name: Fairey Marine Ltd.
   id: 97373e89-d53d-428d-a9b4-bf6c68aebd94
@@ -15,28 +17,18 @@ place_built: Hamble
 construction_material: wood
 construction_method: unknown
 construction_details: Hor molded
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: '100'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: a2a12f48-1a4e-4a3d-b574-3bec7896e130
-previous_names:
-- Nuru Albahar
-draft: 0.5334
 handicap_data:
-  beam: 2.3622287247012923
-  draft: 0.5334064862228725
+  beam: 2.3622
+  draft: 0.5334
   length_over_all: 7.924896366739819
   length_on_waterline: 7.620092660326749
-length_on_deck: 7.9248
-beam: 2.3622
-design_class:
-  name: Atalanta Titania
-  id: bb9cfbdb-139d-45f1-b0ed-8fe27a75d6d0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9248
+created_at: '2020-04-25T17:43:36.558912+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Nuru Albahar

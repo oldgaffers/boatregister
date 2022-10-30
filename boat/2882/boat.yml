@@ -3,13 +3,14 @@ oga_no: 2882
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 2002
 year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -17,43 +18,34 @@ place_built: Mylor
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GrP Timber deck, cabin & spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Southampton
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 243
+- member: 3286
+  id: 243
+  start: 2002
   end: '2020'
   share: 64
-  start: 2002
-  member: 3286
-- share: 64
-  start: '2020'
-updated_at: '2022-04-05T20:51:42.787543+00:00'
-website: ''
+- start: '2020'
+  share: 64
 id: 3aa0c244-0103-46be-9caa-18047559c745
-draft: 1.524
 handicap_data:
-  beam: 2.8956352109241648
+  thcf: 0.962705591
+  beam: 2.8956
+  draft: 1.524
+  fore_triangle_height: 9.525115825408436
+  fore_triangle_base: 6.4008778346744695
+  length_over_all: 8.53450377956596
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 5.206047305535234
     head: 4.547671299683004
     luff: 4.852475006096074
-  thcf: 0.962705591
-  draft: 1.5240185320653499
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.53450377956596
-  fore_triangle_base: 6.4008778346744695
   length_on_waterline: 8.482687149475737
-  fore_triangle_height: 9.525115825408436
-length_on_deck: 8.5344
-beam: 2.8956
-design_class:
-  name: Heard 28
-  id: 47040682-ee05-42de-a493-400ebd5956db
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5344
+created_at: '2020-04-25T17:30:22.275437+00:00'
+updated_at: '2022-04-05T20:51:42.787543+00:00'

@@ -3,7 +3,6 @@ oga_no: 1683
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Remeasure - LOA quoted as 33.0 Log S-S/95, J/96, S/96, N/96 For
   sale
 year: 1991
@@ -15,10 +14,8 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: unknown
 construction_details: G R P hull with wooden spars and trim
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log S-S/95
@@ -26,32 +23,27 @@ reference:
 - Log S/96
 - Log N/96 For sale
 ssr: '41390'
-callsign: ''
 ownerships:
 - name: D G Peace
-  share: 64
   start: 1991
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 489ff7bd-22a4-484c-961b-4f9e1464db22
-draft: 1.2192
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.793514357
+  beam: 2.4384
+  draft: 1.2192
+  fore_triangle_height: 4.87685930260912
+  fore_triangle_base: 4.87685930260912
+  propellor:
+    type: fixed
   main:
     foot: 5.18166300902219
     head: 4.419653742989515
     luff: 4.57205559619605
-  thcf: 0.793514357
-  draft: 1.21921482565228
   topsail:
     luff: 5.00487685930261
     perpendicular: 0.9144111192392099
-  propellor:
-    type: fixed
-  fore_triangle_base: 4.87685930260912
   length_on_waterline: 7.0866861741038765
-  fore_triangle_height: 4.87685930260912
-length_on_deck: 0
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 0
+created_at: '2020-04-25T17:08:39.70127+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

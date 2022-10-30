@@ -3,8 +3,6 @@ oga_no: 1385
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1951
 year_is_approximate: false
 builder:
@@ -14,41 +12,34 @@ place_built: Brightlingsea
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker Mahogany on Oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: T3
-callsign: ''
 ownerships:
 - name: R Mansfield
-  share: 64
   start: 1994
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: dfbd5ff8-8dbc-4716-98ba-311764f37b79
-previous_names:
-- Dooly
-- Chick
-- Babuschka
-draft: 1.0668
 handicap_data:
-  beam: 1.6002194586686174
+  thcf: 0.791517759
+  beam: 1.6002
+  draft: 1.0668
+  fore_triangle_height: 3.6576444769568397
+  fore_triangle_base: 2.2098268714947573
+  length_over_all: 4.26725188978298
   main:
     foot: 3.1242379907339672
     head: 2.8194342843208973
     luff: 2.43842965130456
-  thcf: 0.791517759
-  draft: 1.066812972445745
   topsail:
     luff: 0.7620092660326749
     perpendicular: 2.43842965130456
-  length_over_all: 4.26725188978298
-  fore_triangle_base: 2.2098268714947573
   length_on_waterline: 4.191050963179712
-  fore_triangle_height: 3.6576444769568397
-length_on_deck: 4.2672
-beam: 1.6002
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.2672
+created_at: '2020-04-25T17:04:11.32026+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Dooly
+- Chick
+- Babuschka

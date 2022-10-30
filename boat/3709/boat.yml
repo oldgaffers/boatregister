@@ -9,6 +9,9 @@ year_is_approximate: true
 designer:
   name: Unknown
   id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
+design_class:
+  name: Falmouth Bass Boat
+  id: c05a2174-4b46-410f-829f-894193f020c3
 builder:
   name: Unknown
   id: b3841693-d336-4132-8e60-8933dfd41cf6
@@ -17,27 +20,24 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: Built in bouyancy
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: UK
 home_port: Bristol
 hull_form: centre-board dinghy
 ownerships:
-- id: 35000
+- member: 6583
+  id: 35000
   share: 64
-  member: 6583
   current: true
-updated_at: '2022-08-17T21:10:13.318708+00:00'
 id: 5598c94d-4720-4423-a575-44b0845a308b
 image_key: ddgWxx
 thumb: https://photos.smugmug.com/photos/i-PMXcfnp/0/Th/i-PMXcfnp-Th.jpg
-draft: 1.219
 handicap_data:
   beam: 1.829
-length_on_deck: 4.877
+  draft: 1.219
+  length_on_deck: 4.877
+created_at: '2022-08-17T09:37:58.317086+00:00'
+updated_at: '2022-08-17T21:10:13.318708+00:00'
 air_draft: 21
-design_class:
-  name: Falmouth Bass Boat
-  id: c05a2174-4b46-410f-829f-894193f020c3
-for_sale_state:
-  text: not_for_sale
+hin: '370'

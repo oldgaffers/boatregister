@@ -14,6 +14,9 @@ year_is_approximate: false
 designer:
   name: Daniel G. Hatcher
   id: 14683616-0fe8-4912-8de4-12c0337b20e6
+design_class:
+  name: Itchen Ferry
+  id: e3a3936c-04f7-46b1-b3f8-cfcaab4ce7cf
 builder:
   name: Fays of Northam
   id: 9dfa6917-1e4f-4352-813c-a5620d8823c4
@@ -22,45 +25,60 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on steamed oak, copper fastened
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 10500
+- created_at: '2022-04-21T16:26:27.501984+00:00'
+  flexibility: normal
+  offered: '2022-04-21'
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: '<div>Freda was designed by the Itchen Ferry maestro Dan Hatcher, using
+    almost identical lines to his masterpiece Wonder. She was built in 1890 by Fay
+    of Northam. It is believed that not only is she probably the most original Itchen
+    Ferry working boat in existence but possibly the fastest on handicap as well.
+    Hardly suprising when we discover her owner was Captain Sam Randall, a famous
+    big boat racing skipper of the day.</div> <div>Details:</div> <div>Construction-
+    Pitch pine on oak</div> <div>Dimensions- Length 18-6 Waterline 18'' Draft 3''-4"
+    Footprint33"</div> <div>Electrical two batteries, isolation switch</div> <div>New
+    electric bilge pump</div> <div>Engine-Yanmar IG10</div> <div>Spars- Columbian
+    pine mast,boom, bowsprit</div> <div>Sails- main, jib, foresail, topsail, <wbr
+    />genoa</div> <div>Wykeham Martin furling gear</div> <div>Raytheon depth sounder</div>
+    <div>Anchor and various warps fenders etc</div> <div>Cockpit cover</div> <div>Manual
+    Patay bilge pump</div><div>Lying Woodbridge Suffolk</div> '
+  seller_gold_id: 383
+  seller_member: 4122
+  sold: null
+  summary: null
+  updated_at: '2022-04-21T16:26:27.501984+00:00'
 home_country: GBR
 home_port: Orford
 hull_form: long keel sloping forefoot
-callsign: ''
 ownerships:
-- id: 383
-  share: 64
+- member: 4122
+  id: 383
   start: 2002
-  member: 4122
+  share: 64
   current: true
-updated_at: '2022-04-22T09:37:33.007578+00:00'
-website: ''
 id: 68fa9047-2fbe-4aed-80f9-f43f5c9e9ed1
-previous_names:
-- Viking
 image_key: Xz9fQd
 thumb: https://photos.smugmug.com/photos/i-GD89Ckk/0/Th/i-GD89Ckk-Th.jpg
-draft: 1.0668
 handicap_data:
-  beam: 2.1580102414045355
+  thcf: 0.856487379
+  beam: 2.3866
+  draft: 1.0668
+  fore_triangle_height: 5.891855644964642
+  fore_triangle_base: 3.858814923189466
+  length_over_all: 5.663252865154839
+  propellor:
+    type: folding
   main:
     foot: 4.215435259692757
     head: 3.4046574006339916
     luff: 4.242867593269934
-  thcf: 0.856487379
-  draft: 1.066812972445745
-  propellor:
-    type: folding
-  length_over_all: 5.663252865154839
-  fore_triangle_base: 3.858814923189466
   length_on_waterline: 5.510851011948304
-  fore_triangle_height: 5.891855644964642
-length_on_deck: 5.6632
-beam: 2.3866
-design_class:
-  name: Itchen Ferry
-  id: e3a3936c-04f7-46b1-b3f8-cfcaab4ce7cf
-for_sale_state:
-  text: for_sale
+  length_on_deck: 5.6632
+created_at: '2020-04-25T16:43:21.396272+00:00'
+updated_at: '2022-04-22T09:37:33.007578+00:00'
+previous_names:
+- Viking

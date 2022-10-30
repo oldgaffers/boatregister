@@ -4,7 +4,6 @@ generic_type: Yacht
 mainsail_type: gaff
 short_description: <p>Apple was built 2001 - 2003 by M Morris and R Griffin. A Wylo
   design, she is built in steel and has been long distance cruising.</p>
-full_description: ''
 year: 2003
 year_is_approximate: false
 designer:
@@ -15,23 +14,19 @@ builder:
   id: 333e7e4e-5749-4f4f-a5e8-69d30bcad92e
 place_built: Newbridge Isle of Wight
 construction_details: Steel, wood deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Yarmouth I o W
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 310
-  share: 64
+- member: 3721
+  id: 310
   start: 2003
-  member: 3721
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 19563c79-f52b-4d7e-a659-cc5e45d213e1
-draft: 0
-length_on_deck: 0
-beam: 0
-for_sale_state:
-  text: not_for_sale
+created_at: '2020-04-25T17:23:31.74108+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+handicap_data:
+  length_on_deck: 0

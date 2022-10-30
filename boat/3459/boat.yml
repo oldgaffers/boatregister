@@ -9,23 +9,40 @@ year_is_approximate: false
 designer:
   name: Martin Heard
   id: b1525089-031a-47bc-b7d8-7236987096a7
+design_class:
+  name: Tosher 20
+  id: be1964ca-eb7d-410e-b30b-db18e9b72387
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
 place_built: Mylor Bridge
 spar_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 8000
+- created_at: '2020-06-21T06:56:46.332819+00:00'
+  flexibility: null
+  offered: '2020-06-18'
+  price_flexibility: null
+  reduced: null
+  sales_text: 'Comes on new trailer. Ready to sail. New rudder, sails, mast step and
+    professionally maintained but original Yanmar 2GM. Open cockpit, easy to sail
+    solo or with a large crew. Much loved and admired. Ashore at Emsworth. '
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-06-21T06:56:46.332819+00:00'
 home_port: Emsworth
 hull_form: centre-boarder
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 4287b379-edd0-4473-a607-43a7b084a897
 image_key: PsX65d
 thumb: https://photos.smugmug.com/photos/i-kFFHkHr/0/Th/i-kFFHkHr-Th.png
-draft: 1.0668
 handicap_data:
+  beam: 1.9812
+  draft: 1.0668
+  fore_triangle_height: 4.825
+  fore_triangle_base: 3.6576
   main:
     foot: 12.67
     head: 10.83
@@ -36,13 +53,7 @@ handicap_data:
   length_overall: 6.096
   calculated_thcf: 0.869
   length_over_spars: 7.9248
-  fore_triangle_base: 3.6576
   length_on_waterline: 6.0198
-  fore_triangle_height: 4.825
-length_on_deck: 6.096
-beam: 1.9812
-design_class:
-  name: Tosher 20
-  id: be1964ca-eb7d-410e-b30b-db18e9b72387
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.096
+created_at: '2020-06-17T18:09:34.297902+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

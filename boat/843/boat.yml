@@ -24,55 +24,60 @@ spar_material: wood
 construction_method: cold_moulded
 construction_details: ' GRP hull over inside mould with ply deck over beams with lead
   keel'
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 0
+- created_at: '2020-01-03T18:32:39+00:00'
+  flexibility: normal
+  offered: '2019-06-01'
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>Ro-An-Mor is for sale with David Morris Yacht Brokerage in Tollesbury
+    can be viewed at <a href="https://www.davidmorrisboats.co.uk/">www.davidmorrisboats.co.uk</a></p>
+  seller_gold_id: null
+  seller_member: null
+  sold: '2020-10-11'
+  summary: null
+  updated_at: '2020-05-03T10:13:13.363665+00:00'
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 ssr: 06786
-callsign: ''
 ownerships:
 - end: 1
   note: 1st owner Frank Argall, 2nd owner Peter Clay. Russell Read sold her to Nigel
     Waller.
   text: st owner Frank Argall,
-  end_is_approximate: false
-- end: 2014
-  name: Michael Feather
-  share: 64
+- name: Michael Feather
   start: 2007
-- end: 2018
-  name: Sam Friend
+  end: 2014
   share: 64
+- name: Sam Friend
   start: 2014
-- name: Paul Blyth
+  end: 2018
   share: 64
+- name: Paul Blyth
   start: 2018
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 4477c31a-e812-461c-955c-029165c94009
 image_key: LnsDPq
 thumb: https://photos.smugmug.com/photos/i-mKk8Fhr/0/Th/i-mKk8Fhr-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.972411278
+  beam: 2.4384
+  draft: 1.3716
+  fore_triangle_height: 8.382101926359423
+  fore_triangle_base: 6.4008778346744695
+  length_over_all: 7.620092660326749
+  propellor:
+    type: fixed
   main:
     foot: 5.059741526456962
     head: 4.419653742989515
     luff: 5.6388685686417945
-  thcf: 0.972411278
-  draft: 1.3716166788588149
   topsail:
     luff: 5.4864667154352595
     perpendicular: 2.43842965130456
-  propellor:
-    type: fixed
-  length_over_all: 7.620092660326749
-  fore_triangle_base: 6.4008778346744695
   length_on_waterline: 7.315288953913679
-  fore_triangle_height: 8.382101926359423
-length_on_deck: 7.62
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.62
+created_at: '2020-04-25T16:55:07.056636+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

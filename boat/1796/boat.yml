@@ -3,13 +3,14 @@ oga_no: 1796
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1978
 year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -17,7 +18,7 @@ place_built: Rock
 construction_material: grp
 spar_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Titchmarsh Walton on the Naze
@@ -26,43 +27,35 @@ sail_number: '151'
 ssr: '71156'
 callsign: MING3
 ownerships:
-- id: 721
-  share: 64
+- member: 5681
+  id: 721
   start: 2012
-  member: 5681
+  share: 64
   current: true
-- note: Purchased Somanara from Woodbridge sailed her over in January 2019 to Walton
+- start: 2019
+  note: Purchased Somanara from Woodbridge sailed her over in January 2019 to Walton
     on the Naze
   text: Purchased Somanara from Woodbridge sailed her over in January
-  start: 2019
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: f3ef77c7-ca9f-4ba9-bc3c-6bed8d99e6ba
-draft: 0.9144
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.876
+  beam: 2.6213
+  draft: 0.9144
+  fore_triangle_height: 5.638880760790051
+  fore_triangle_base: 4.114862228724701
+  length_over_all: 7.315288953913679
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 29.801724518941747
   main:
     foot: 4.165666910509631
     head: 2.8194403803950254
     luff: 3.505254815898561
-  thcf: 0.876
-  draft: 0.7366191172884662
   topsail:
     luff: 4.343458912460375
     perpendicular: 2.2860399902462816
-  sailarea: 29.801724518941747
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 4.114862228724701
   length_on_waterline: 6.172281150938795
-  fore_triangle_height: 5.638880760790051
-length_on_deck: 7.4981
-beam: 2.6213
-design_class:
-  name: Cornish Crabber Mk 1
-  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.4981
+created_at: '2020-04-25T17:10:20.664134+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

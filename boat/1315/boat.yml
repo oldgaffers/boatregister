@@ -3,7 +3,6 @@ oga_no: 1315
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
 full_description: Burnt 5.11.89 as beyond repair.
 year: 1935
 year_is_approximate: false
@@ -16,26 +15,19 @@ builder:
 place_built: Leigh on Sea
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: B W Higgs
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 92bf219b-24e3-4cf3-a07c-ba1e3ccf62c8
-draft: 0.8382
 handicap_data:
-  beam: 2.590831504511095
-  draft: 0.8382101926359424
+  beam: 2.5908
+  draft: 0.8382
   length_over_all: 7.010485247500609
   length_on_waterline: 6.0960741282613995
-length_on_deck: 7.0104
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.0104
+created_at: '2020-04-25T17:03:09.076423+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

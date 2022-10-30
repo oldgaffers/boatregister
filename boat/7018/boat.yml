@@ -3,47 +3,39 @@ oga_no: 7018
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: bermudan
-short_description: ''
-full_description: ''
 year: 1966
 year_is_approximate: false
 designer:
   name: Latimer
   id: 6fdcf8f9-a1db-43f3-808d-fc243570b567
+design_class:
+  name: Dauntless 22
+  id: 03063fc2-0ceb-4d98-83ed-49a81ffd5be2
 builder:
   name: Dauntless Boat Co.
   id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
 place_built: Benfleet
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Maningtree
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: Robert Coles
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 84438488-2909-4416-9e31-ca668662510d
-draft: 0.4877
 handicap_data:
-  beam: 2.43842965130456
+  beam: 2.4384
+  draft: 0.4877
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 3.0480370641306997
+  length_over_all: 6.705681541087539
   main:
     foot: 4.206291148500366
     luff: 7.254328212631066
-  draft: 0.48768593026091195
-  length_over_all: 6.705681541087539
-  fore_triangle_base: 3.0480370641306997
   length_on_waterline: 6.0960741282613995
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 6.7056
-beam: 2.4384
-design_class:
-  name: Dauntless 22
-  id: 03063fc2-0ceb-4d98-83ed-49a81ffd5be2
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:41:49.026749+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

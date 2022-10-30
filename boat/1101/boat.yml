@@ -21,49 +21,59 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on American rock elm w/ Teak superstructure
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 32500
-home_country: 'null'
+- created_at: '2020-07-28T19:23:13.221794+00:00'
+  flexibility: normal
+  offered: '2020-07-28'
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: Windflower has been sailed successfully in local club regattas with
+    several class wins in the annual Yarmouth Taittinger Regatta including winning
+    the regatta overall in 2013. Windflower has also won Yogaf on two occasions and
+    won a number of races at the RLYC including the coveted Potters Ship Trophy.<p>
+    She had a major refit in 2005 which included a new engine, spars, rigging and
+    sails. The current owner purchased her in 2008 and has maintained her regularly
+    to keep her in excellent overall condition. Windflower has been kept ashore undercover
+    in the winter months and comes with her own cradle and full winter cover. Her
+    sail inventory has been continually upgraded along with her running and standing
+    rigging.<p>More details at the <a href="http://www.sandemanyachtcompany.co.uk/yacht/575/WINDFLOWER">Sandeman
+    Yacht Company</a>.
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-07-28T19:23:13.221794+00:00'
 home_port: Lymington
 hull_form: long keel sloping forefoot
 sail_number: OS4
 ssr: '80306'
-callsign: ''
 ownerships:
 - name: Malcolm McKeown
-  share: 64
   start: 2012
-- id: 604
   share: 64
-  member: 5185
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 5f912205-08b7-44d9-9af2-6d93567a09b2
-previous_names:
-- Wee Mac
 image_key: KMCMBg
 thumb: https://photos.smugmug.com/photos/i-CttLQnV/0/Th/i-CttLQnV-Th.jpg
-draft: 1.0912
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.936
+  beam: 2.286
+  draft: 1.0912
+  fore_triangle_height: 9.601316752011703
+  fore_triangle_base: 3.633260180443794
+  length_over_all: 7.976712996830042
+  propellor:
+    type: folding
+    blades: 3
+  sailarea: 38.79591194108803
   main:
     foot: 4.672640819312362
     head: 4.242867593269934
     luff: 4.419653742989515
-  thcf: 0.936
-  draft: 1.0911972689587905
-  sailarea: 38.79591194108803
-  propellor:
-    type: folding
-    blades: 3
-  length_over_all: 7.976712996830042
-  fore_triangle_base: 3.633260180443794
   length_on_waterline: 6.272860277980979
-  fore_triangle_height: 9.601316752011703
-length_on_deck: 7.9766
-beam: 2.286
-for_sale_state:
-  text: for_sale
+  length_on_deck: 7.9766
+created_at: '2020-04-25T16:59:52.651775+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Wee Mac

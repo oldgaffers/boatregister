@@ -13,6 +13,9 @@ year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Mk 1
+  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
@@ -20,53 +23,45 @@ place_built: Rock
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP, with iroko and ply, pitch pine spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Ipswich
 hull_form: long keel deep forefoot
 sail_number: '19'
 ssr: '2263'
-callsign: ''
 ownerships:
-- end: 1980
-  name: B Buckle
-  share: 64
+- name: B Buckle
   start: 1975
-- id: 506
+  end: 1980
   share: 64
+- member: 4760
+  id: 506
   start: 1980
-  member: 4760
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 9b262f5b-8c14-40c3-8988-87e580af0285
-previous_names:
-- Martha
-draft: 0.7376
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.876
+  beam: 2.4384
+  draft: 0.7376
+  fore_triangle_height: 5.638880760790051
+  fore_triangle_base: 4.114862228724701
+  length_over_all: 7.315288953913679
+  propellor:
+    type: fixed
+  sailarea: 29.801724518941747
   main:
     foot: 4.165666910509631
     head: 2.8194403803950254
     luff: 3.505254815898561
-  thcf: 0.876
-  draft: 0.7366191172884662
   topsail:
     luff: 4.343458912460375
     perpendicular: 2.2860399902462816
-  sailarea: 29.801724518941747
-  propellor:
-    type: fixed
-  length_over_all: 7.315288953913679
   length_over_spars: 8.915514508656425
-  fore_triangle_base: 4.114862228724701
   length_on_waterline: 6.172281150938795
-  fore_triangle_height: 5.638880760790051
-length_on_deck: 7.3152
-beam: 2.4384
-design_class:
-  name: Cornish Crabber Mk 1
-  id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T16:52:40.140176+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Martha

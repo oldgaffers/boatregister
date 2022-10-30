@@ -3,13 +3,15 @@ oga_no: 1005
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: for sale on web, Nov 06, New owner notified May 07
 year: 1977
 year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
 builder:
   name: Terry Heard
   id: ceeba774-b0f8-48a9-a036-732b70c8a35f
@@ -17,42 +19,33 @@ place_built: Mylor Bridge
 construction_material: grp
 spar_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: ' '
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
 - name: Homme Zwaagstra
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: c4887208-3eb7-4e6a-bcd9-7aaa24bd2bd3
-draft: 1.4996
 handicap_data:
-  beam: 2.950499878078517
+  thcf: 0.972291036
+  beam: 2.9505
+  draft: 1.4996
+  fore_triangle_height: 9.32089734211168
+  fore_triangle_base: 5.8705193855157285
+  length_over_all: 8.494879297732261
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 5.651060716898317
     head: 4.849426969031943
     luff: 5.248719824433064
-  thcf: 0.972291036
-  draft: 1.4996342355523042
   topsail:
     luff: 5.721165569373323
     perpendicular: 2.1488661302121432
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 8.494879297732261
-  fore_triangle_base: 5.8705193855157285
   length_on_waterline: 8.299804925627896
-  fore_triangle_height: 9.32089734211168
-length_on_deck: 8.4948
-beam: 2.9505
-design_class:
-  name: Heard 28
-  id: 47040682-ee05-42de-a493-400ebd5956db
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.4948
+created_at: '2020-04-25T16:58:26.129377+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

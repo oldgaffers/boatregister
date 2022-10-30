@@ -24,50 +24,45 @@ place_built: Burnham on Crouch
 construction_material: ferro
 construction_method: unknown
 construction_details: Ferrocement
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bursledon
 hull_form: long keel sloping forefoot
 sail_number: 5901T
-callsign: ''
 ownerships:
-- end: 2010
-  name: Jeremy Gully
-  share: 64
+- name: Jeremy Gully
   start: 2002
-- id: 479
+  end: 2010
   share: 64
+- member: 4616
+  id: 479
   start: 2010
-  member: 4616
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 17d92148-53bd-4dd4-b65d-b0e5659ec60e
-previous_names:
-- Grace
 image_key: zzzCvC
 thumb: https://photos.smugmug.com/photos/i-Ldx3NTC/0/Th/i-Ldx3NTC-Th.jpg
-draft: 1.463
 handicap_data:
-  beam: 2.9840282857839546
+  thcf: 0.97610646
+  beam: 2.987
+  draft: 1.463
+  fore_triangle_height: 8.01633747866374
+  fore_triangle_base: 7.162887100707144
+  length_over_all: 9.1441111923921
+  propellor:
+    type: folding
+    blades: 3
   main:
     foot: 5.715069495245062
     head: 4.724457449402585
     luff: 4.114850036576445
-  thcf: 0.97610646
-  draft: 1.4478176054620824
   topsail:
     luff: 5.9436722750548645
     perpendicular: 2.590831504511095
-  propellor:
-    type: folding
-    blades: 3
-  length_over_all: 9.1441111923921
-  fore_triangle_base: 7.162887100707144
   length_on_waterline: 8.052913923433309
-  fore_triangle_height: 8.01633747866374
-length_on_deck: 9.144
-beam: 2.987
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.144
+created_at: '2020-04-25T17:22:46.222773+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Grace

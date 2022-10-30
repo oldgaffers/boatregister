@@ -3,7 +3,6 @@ oga_no: 1227
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: <p>Hull believed to be a Canadian design with 3 keels and a Bermudan
   rig. The Builder of the hull is unknown. Frank Graves fitted out the cabin and gave
   her a gaff rig and engine in early 1970's at Paglesham. Twin keels were removed
@@ -23,42 +22,36 @@ place_built: Hull unknown fitted out Paglesham
 construction_material: wood
 construction_method: unknown
 construction_details: Mahogany Hard Chine Double skin
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: F C
 ssr: '42633'
-callsign: ''
 ownerships:
-- id: 108
-  share: 64
+- member: 1918
+  id: 108
   start: 1978
-  member: 1918
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: a986eec8-5e01-4f06-99fd-66aa1da7987e
-draft: 1.1582
 handicap_data:
-  beam: 2.987076322848086
+  thcf: 0.884447998
+  beam: 2.987
+  draft: 1.1582
+  fore_triangle_height: 6.339917093391856
+  fore_triangle_base: 5.18166300902219
+  length_over_all: 7.924896366739819
+  propellor:
+    type: fixed
   main:
     foot: 4.61777615215801
     head: 3.2461594732991954
     luff: 2.8194342843208973
-  thcf: 0.884447998
-  draft: 1.1582540843696658
   topsail:
     luff: 4.57205559619605
     perpendicular: 2.13362594489149
-  propellor:
-    type: fixed
-  length_over_all: 7.924896366739819
-  fore_triangle_base: 5.18166300902219
   length_on_waterline: 7.138502804194099
-  fore_triangle_height: 6.339917093391856
-length_on_deck: 7.9248
-beam: 2.987
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9248
+created_at: '2020-04-25T17:01:48.621562+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

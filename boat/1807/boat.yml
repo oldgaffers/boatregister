@@ -3,7 +3,6 @@ oga_no: 1807
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Design said to have some involvement with Harrison Butler Used for
   fishing for a short period.  For sale on web March 06.
 year: 1936
@@ -18,36 +17,30 @@ place_built: Boston
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel larch on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Lymington
 hull_form: long keel deep forefoot
 uk_part1: '147970'
-callsign: ''
 ownerships:
 - name: Clive Tizzard
-  share: 64
   start: 2009
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7a69cc9b-cfdc-4631-9713-45a2b434d73b
-draft: 1.7526
 handicap_data:
-  beam: 3.0480370641306997
+  thcf: 1.033429504
+  beam: 3.048
+  draft: 1.7526
+  fore_triangle_height: 8.53450377956596
+  fore_triangle_base: 6.4008778346744695
+  length_over_all: 11.277737137283589
+  propellor:
+    type: fixed
   main:
     foot: 7.010485247500609
     head: 5.334064862228725
     luff: 5.9436722750548645
-  thcf: 1.033429504
-  draft: 1.7526213118751524
-  propellor:
-    type: fixed
-  length_over_all: 11.277737137283589
-  fore_triangle_base: 6.4008778346744695
   length_on_waterline: 9.75371860521824
-  fore_triangle_height: 8.53450377956596
-length_on_deck: 11.2776
-beam: 3.048
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.2776
+created_at: '2020-04-25T17:10:31.216995+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

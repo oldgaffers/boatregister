@@ -3,8 +3,6 @@ oga_no: 1399
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1973
 year_is_approximate: false
 builder:
@@ -14,36 +12,29 @@ place_built: Maldon
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker Mahogany on Oak timbers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: long keel deep forefoot
 ssr: '29645'
-callsign: ''
 ownerships:
 - name: J Roddam
-  share: 64
   start: 1991
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ae5bc674-486b-44e4-bfa0-7e58472ecd24
-draft: 0.762
 handicap_data:
-  beam: 2.7432333577176298
+  thcf: 0.863804134
+  beam: 2.7432
+  draft: 0.762
+  fore_triangle_height: 6.224091684954889
+  fore_triangle_base: 3.301024140453548
+  length_over_all: 7.010485247500609
+  propellor:
+    type: fixed
   main:
     foot: 4.26725188978298
     head: 4.471470373079736
     luff: 2.7432333577176298
-  thcf: 0.863804134
-  draft: 0.7620092660326749
-  propellor:
-    type: fixed
-  length_over_all: 7.010485247500609
-  fore_triangle_base: 3.301024140453548
   length_on_waterline: 7.010485247500609
-  fore_triangle_height: 6.224091684954889
-length_on_deck: 7.0104
-beam: 2.7432
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.0104
+created_at: '2020-04-25T17:04:23.503996+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

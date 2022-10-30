@@ -4,7 +4,6 @@ generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
 short_description: <p>Ibis was converted from a fishing smack to a yacht in the 1930&#39;s</p>
-full_description: ''
 year: 1888
 year_is_approximate: false
 builder:
@@ -13,32 +12,26 @@ builder:
 place_built: Faversham
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 1972
-  name: G.W. Jago
-  share: 64
+- name: G.W. Jago
   start: 1968
-- name: Helen Davies
+  end: 1972
   share: 64
+- name: Helen Davies
   start: 1979
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: ca0283fb-f6ad-4d73-98f8-5958d773f2d6
 image_key: gBqKMr
 thumb: https://photos.smugmug.com/photos/i-2Gdb4Wz/0/Th/i-2Gdb4Wz-Th.jpg
-draft: 1.3716
 handicap_data:
-  beam: 3.5052426237503047
-  draft: 1.3716166788588149
+  beam: 3.5052
+  draft: 1.3716
   length_over_all: 11.277737137283589
   length_on_waterline: 9.1441111923921
-length_on_deck: 11.2776
-beam: 3.5052
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.2776
+created_at: '2020-04-25T16:44:47.186258+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

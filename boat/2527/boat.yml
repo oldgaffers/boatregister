@@ -22,38 +22,32 @@ place_built: Heswall
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Glued Clinker ply on oak and utele backbone
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Heswall
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 336
-  share: 64
+- member: 3842
+  id: 336
   start: 2002
-  member: 3842
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 60c14556-6f19-40eb-8afd-c02def59b4a1
 image_key: Wsk6mk
 thumb: https://photos.smugmug.com/photos/i-ZkTD5nf/0/Th/i-ZkTD5nf-Th.jpg
-draft: 0.3566
 handicap_data:
-  beam: 1.5484028285783955
+  thcf: 0.739389665
+  beam: 1.5484
+  draft: 0.3566
+  length_over_all: 4.075225554742746
   main:
     foot: 2.566447207998049
     head: 1.7861497195805902
     luff: 2.801146061936113
-  thcf: 0.739389665
-  draft: 0.35662033650329183
   mizen:
     foot: 1.1613021214337966
     luff: 2.203730797366496
-  length_over_all: 4.075225554742746
   length_on_waterline: 3.8100463301633747
-length_on_deck: 4.0752
-beam: 1.5484
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.0752
+created_at: '2020-04-25T17:22:06.761837+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

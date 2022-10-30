@@ -19,6 +19,9 @@ year_is_approximate: false
 designer:
   name: Ken Davies
   id: 895a46b4-0b73-46c7-95e6-c2cb35cb0210
+design_class:
+  name: C-Mist
+  id: db40b64d-9edc-4a70-beb9-aadfeff93c2c
 builder:
   name: Potter and Bishop
   id: a2d163cc-d9ca-4c8d-9639-5699544c48a4
@@ -27,9 +30,33 @@ construction_material: ferro
 spar_material: wood
 construction_method: other
 construction_details: Ferro hull and deck
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 28000
+- created_at: '2020-06-10T19:44:15.695055+00:00'
+  flexibility: null
+  offered: '2020-06-10'
+  price_flexibility: null
+  reduced: null
+  sales_text: "<p>33\u201D, 4 berth Gaff Cutter.<p>For the last 20 years <i>Nightingale</i>\
+    \ has visited most of the Traditional Boat Festivals throughout northern Europe.\
+    \ This magnificent sea boat has looked after her present owners for over 20 years,\
+    \ providing a fulfilling and enjoyable retirement. Unfortunately, it is now time\
+    \ to ask someone else to plan her summer cruising programme and look after her.\
+    \ Professionally-built in 1980, Nightingale\u2019s mono-coque, ferro-cement hull\
+    \ and decks have been uniquely sheathed and encapsulated in epoxy resin in order\
+    \ to provide the driest and most comfortable traditionally rigged boat imaginable.\
+    \ The four large berths, plus a pilot berth, enable four adults to make distance\
+    \ passages in comfort. Fitted with a 25 hp, 3 cylinder Vetus/Mitsubishi engine\
+    \ and 250 litre fuel tank for long-distance cruising. All electronic equipment\
+    \ is in full working order, including the fully-integrated trim-tab steering system\
+    \ with numerous spares. Comprehensive sail wardrobe for both cruising and racing,\
+    \ plus many extras including life raft, rigid and inflatable dinghy if required.\
+    \ <p> Lying Cowes, Isle of Wight. <p> Ron Hanson: 07780 616747 | hansonr.rh@gmail.com"
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-06-10T19:44:15.695055+00:00'
 home_country: GBR
 home_port: Cowes
 hull_form: long keel sloping forefoot
@@ -38,37 +65,30 @@ ssr: '89898'
 callsign: MWKH5
 ownerships:
 - name: Ron Hanson
-  share: 64
   start: 1999
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: c2aa3ceb-7c39-455d-9db2-5dbef2224b51
-previous_names: []
 image_key: VZL4rm
 thumb: https://photos.smugmug.com/photos/i-xx97vMM/0/Th/i-xx97vMM-Th.jpg
-draft: 1.8288
 handicap_data:
-  beam: 3.4046574006339916
+  thcf: 0.991493393
+  beam: 3.4138
+  draft: 1.8288
+  fore_triangle_height: 9.982321385028042
+  fore_triangle_base: 6.858083394294074
+  length_over_all: 9.906120458424773
+  propellor:
+    type: fixed
+    blades: 3
   main:
     foot: 5.309680565715679
     head: 3.9624481833699097
     luff: 5.257863935625457
-  thcf: 0.991493393
-  draft: 1.8288222384784198
   topsail:
     luff: 7.111070470616922
     perpendicular: 4.191050963179712
-  propellor:
-    type: fixed
-    blades: 3
-  length_over_all: 9.906120458424773
-  fore_triangle_base: 6.858083394294074
   length_on_waterline: 8.83930748597903
-  fore_triangle_height: 9.982321385028042
-length_on_deck: 9.906
-beam: 3.4138
-design_class:
-  name: C-Mist
-  id: db40b64d-9edc-4a70-beb9-aadfeff93c2c
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 9.906
+created_at: '2020-04-25T17:18:35.874005+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names: []

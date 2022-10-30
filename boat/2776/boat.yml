@@ -45,6 +45,9 @@ year_is_approximate: false
 designer:
   name: Paul Fisher
   id: de6ce395-680c-46f9-a90f-180310b55e8a
+design_class:
+  name: Highlander 18
+  id: df233c68-2959-4b82-aee9-cd3421af749c
 builder:
   name: Mark Hampton/Phil Hampton
   id: 9df0ef19-2255-497e-b6d6-8e8918a14d44
@@ -52,32 +55,45 @@ place_built: Walsall
 construction_material: woodepoxy
 construction_method: unknown
 construction_details: Ply epoxy
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 0
+- created_at: '2019-01-28T06:14:17+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Egret" is a Highlander 18 design by Selway Fisher Design, built
+    2000-2005. Her owner/builders put her on the market&nbsp;for personal reasons
+    just before launch.</p><p>She"s beautifully built to a very high standard in ply+epoxy,
+    to a slightly modified design, under Paul Fisher"s guidance, with a conventional
+    stem, rather than the standard "blunt" stem, and with the cuddy lowered and shortened
+    for appearance and a raisable cover with sitting headroom. 'Very high standard'
+    includes a barley-twist mast support and a marquetry inlay in the thwart.</p><p>She
+    sails really well. For sale mostly because we have "Galatea" and don"t need a
+    second boat.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.388057+00:00'
 home_country: GBR
 home_port: Basingstoke
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- id: 512
-  share: 64
+- member: 4784
+  id: 512
   start: 2004
-  member: 4784
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 website: https://www.gscott.me.uk/Egret/
 id: 3af61fe9-aa9d-443e-9482-0d6e4ec8a0a8
 image_key: pnpZLT
 thumb: https://photos.smugmug.com/photos/i-GrbSxg9/1/Th/i-GrbSxg9-Th.jpg
-draft: 0.7315
 handicap_data:
-  beam: 1.9050231650816873
+  beam: 1.905
+  draft: 0.7315
   length_over_all: 5.4864667154352595
-length_on_deck: 5.4864
-beam: 1.905
-design_class:
-  name: Highlander 18
-  id: df233c68-2959-4b82-aee9-cd3421af749c
-for_sale_state:
-  text: for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T17:27:01.26091+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

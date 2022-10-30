@@ -10,6 +10,9 @@ year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+design_class:
+  name: Ebihen
+  id: 1d24c2a0-0d1c-4b0b-9ebe-d53382d1dc96
 builder:
   name: Nick Fox
   id: 0e2955b4-42a1-41f0-9e6a-42610ab13874
@@ -17,32 +20,28 @@ place_built: Lydford
 construction_material: plywood
 spar_material: wood
 construction_method: clinker_ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: United Kingdom
 home_port: Plymouth
 hull_form: centre-boarder
 ownerships:
-- id: 34823
-  share: 64
+- member: 6450
+  id: 34823
   start: Nov 19
-  member: 6450
+  share: 64
   current: true
-updated_at: '2022-04-07T20:58:20.42942+00:00'
 id: 28d9e0b9-828d-4cec-9989-f7b8b144906d
 image_key: XC9n8W
 thumb: https://photos.smugmug.com/photos/i-MJvXX4T/0/Th/i-MJvXX4T-Th.jpg
 handicap_data:
-  beam: 1.85
   thcf: 0.803
-  sailarea: 17.652
+  beam: 1.85
   propellor:
     type: none
+  sailarea: 17.652
   length_on_deck: 4.828
   length_on_waterline: 4.398
+created_at: '2021-03-05T13:41:59.613387+00:00'
+updated_at: '2022-04-07T20:58:20.42942+00:00'
 air_draft: 23.33
-design_class:
-  name: Ebihen
-  id: 1d24c2a0-0d1c-4b0b-9ebe-d53382d1dc96
-for_sale_state:
-  text: not_for_sale

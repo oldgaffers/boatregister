@@ -3,7 +3,6 @@ oga_no: 1172
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log 83/2
 year: 1908
 year_is_approximate: false
@@ -17,36 +16,30 @@ place_built: Cowes IoW
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch pine carvel on oak with a lead keel & copper fastenings
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Newport IoW
 hull_form: unknown
 reference:
 - Log 83/2
 sail_number: '1172'
-callsign: ''
 ownerships:
 - name: John Fagan
-  share: 64
   start: 2003
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 039f1acd-718f-4c33-b939-97772162f9ce
-draft: 0.8534
 handicap_data:
-  beam: 2.286027798098025
+  thcf: 0.828480178
+  beam: 2.286
+  draft: 0.8534
+  fore_triangle_height: 5.4864667154352595
+  fore_triangle_base: 3.6576444769568397
+  length_over_all: 5.4864667154352595
   main:
     foot: 3.6576444769568397
     head: 3.3528407705437697
     luff: 3.6576444769568397
-  thcf: 0.828480178
-  draft: 0.8534503779565958
-  length_over_all: 5.4864667154352595
-  fore_triangle_base: 3.6576444769568397
   length_on_waterline: 5.18166300902219
-  fore_triangle_height: 5.4864667154352595
-length_on_deck: 5.4864
-beam: 2.286
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.4864
+created_at: '2020-04-25T17:00:56.922238+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

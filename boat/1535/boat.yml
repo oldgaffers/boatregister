@@ -3,7 +3,6 @@ oga_no: 1535
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Y M Feb 1964  Thames Bawley 6 Tonners
 year: 1968
 year_is_approximate: false
@@ -17,36 +16,30 @@ place_built: Leigh on Sea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Mahogany on Canadian Rock Elm. Iroko Backbone.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Hullbridge R Crouch
 hull_form: long keel deep forefoot
 uk_part1: '341624'
-callsign: ''
 ownerships:
 - name: J R H Bullock
-  share: 64
   start: 1971
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7c2da325-4093-4e50-80c9-f134b96abdbb
-draft: 1.1156
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.896498582
+  beam: 2.4384
+  draft: 1.1156
+  fore_triangle_height: 7.2390880273104115
+  fore_triangle_base: 4.26725188978298
+  length_over_all: 7.924896366739819
+  propellor:
+    type: fixed
   main:
     foot: 3.3528407705437697
     head: 2.590831504511095
     luff: 5.105462082418922
-  thcf: 0.896498582
-  draft: 1.1155815654718362
-  propellor:
-    type: fixed
-  length_over_all: 7.924896366739819
-  fore_triangle_base: 4.26725188978298
   length_on_waterline: 7.010485247500609
-  fore_triangle_height: 7.2390880273104115
-length_on_deck: 7.9248
-beam: 2.4384
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.9248
+created_at: '2020-04-25T17:06:27.290503+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

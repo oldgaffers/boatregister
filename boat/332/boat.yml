@@ -89,63 +89,87 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel pine on oak. Acacia timbers, elm garboard, iron ballast
   keel.
-engine_installations: []
+selling_status: not_for_sale
 for_sales:
-- asking_price: 35000
+- created_at: '2019-12-30T11:35:29+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Gwenili" is a beautiful classic gaff rigged yawl, very much admired.
+    Built in France, 1910, by A la Gorce Fils at Bordeaux Bastide. LOD 38ft 2ins draft
+    5ft, beam 9ft 10ins waterline 32ft 6ins Displacement 11.8 tons.</p><p>She was
+    well built, constructed in pitch pine on steamed oak frames and oak floors,&nbsp;copper
+    fastened with cast iron long keel. Well maintained over the years, repairs and
+    alterations&nbsp;have been introduced in keeping with her original design. She
+    has fine sailing qualities and is competitive in Classic races with ten sail combinations.&nbsp;</p><p><a
+    href="https://youtu.be/mOslBY3H49k" target="_PARENT">Visit MyClassicBoat on YouTube</a>
+    to see an interview with the current owner, sailing on the Thames.</p><p>In my
+    ownership she has sailed for over six months of each season for 13 years on the
+    English East Coast, Dutch waters and west coast of France as far as Bordeaux.
+    She participated in many of the classic sailing festivals including Brest, Douarnenez,
+    Falmouth, Paimpol, Branlesbas, St Malo, Dartmouth Classics and OGA sailing events.
+    Her&nbsp;2017 season involved a&nbsp;2218 nm trip&nbsp;to the Isles of Scilly,
+    Golfe de Morbihan and Channel Isles.</p><p>"Gwenili" is the winner of many awards
+    and prizes for sailing and elegance.&nbsp;Listed in the UK National Historic Vessels
+    no. 2323.</p><p>Standing room in saloon with Taylors stove and heater, 5/6 comfortable
+    berths. New engine 2011, new auto prop., new rudder and stem 2010, new sails 2007.
+    A fine ship ready to sail and moored on the Thames at Greenwich Yacht Club close
+    to transport links.</p><p>Viewing by arrangement at any time.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.206496+00:00'
 home_country: GRE
 home_port: Thessaloniki, Greece
 hull_form: long keel deep forefoot
 sail_number: 394Y
 ssr: '1353'
-callsign: ''
 ownerships:
-- end: 2002
-  name: Brian Humby
-  share: 64
+- name: Brian Humby
   start: 1955
-- end: 2004
-  name: Graham Bushell
+  end: 2002
   share: 64
+- name: Graham Bushell
   start: 2002
-- end: 2019
-  name: Martin Goodrich
+  end: 2004
   share: 64
+- name: Martin Goodrich
   start: 2004
-- note: 'In 2019, ''Gwenili'' was sold and taken to Thessaloniki  Greece by her new
+  end: 2019
+  share: 64
+- start: 2019
+  note: 'In 2019, ''Gwenili'' was sold and taken to Thessaloniki  Greece by her new
     owner George Kanakis '
   text: In
-  start: 2019
-  start_is_approximate: false
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 99bdaf09-7cbc-480a-ab8a-b28ee5f19e03
-previous_names:
-- Piros
 image_key: Zvb8vP
 thumb: https://photos.smugmug.com/photos/i-NSrt5Lj/0/Th/i-NSrt5Lj-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 2.980980248719824
+  thcf: 1.069
+  beam: 2.9718
+  draft: 1.524
+  fore_triangle_height: 9.906120458424773
+  fore_triangle_base: 6.4008778346744695
+  length_over_all: 11.63740551085101
+  propellor:
+    type: fixed
+  sailarea: 83.94465652793865
   main:
     foot: 6.059497683491831
     head: 5.730309680565716
     luff: 5.992440868080956
-  thcf: 1.069
-  draft: 1.5240185320653499
-  mizzen:
-    foot: 2.7980980248719822
-    luff: 6.059497683491831
   topsail:
     luff: 4.87685930260912
     perpendicular: 2.43842965130456
-  sailarea: 83.94465652793865
-  propellor:
-    type: fixed
-  length_over_all: 11.63740551085101
-  fore_triangle_base: 6.4008778346744695
+  mizzen:
+    foot: 2.7980980248719822
+    luff: 6.059497683491831
   length_on_waterline: 10.210924164837843
-  fore_triangle_height: 9.906120458424773
-length_on_deck: 11.6342
-beam: 2.9718
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 11.6342
+created_at: '2020-04-25T16:47:16.465393+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Piros

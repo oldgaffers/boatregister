@@ -16,26 +16,48 @@ year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Liverpool Boat Co. Ltd.
   id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
 place_built: Liverpool
 construction_material: grp
 spar_material: wood
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 7000
+- created_at: '2022-06-21T09:04:15.238986+00:00'
+  flexibility: normal
+  offered: '2022-06-21'
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: "<p><em>Gretel</em> has a cabin with bunk cushions, a porta-pottie and\
+    \ a spirit  stove.  She has a battery with a solar panel and nav ,lights,depth\
+    \  sounder and log.</p><p>The fittings have all been replaced  with stainless\
+    \ and she has  Anderson winches.  The epoxied plate is a replacement, and  she\
+    \ has lead ballast, and new plate bolt and  winch. Apart from the standard sails\
+    \ she has a storm jib and a  spinnaker..She has a 3/4 cover and little used mercury\
+    \ 3.5 outboard.  She has a trolley by Tyrone Snell with winch and tow-hitch for\
+    \ an extra \xA3500.</p>"
+  seller_gold_id: 34953
+  seller_member: 4386
+  sold: null
+  summary: null
+  updated_at: '2022-06-21T09:04:15.238986+00:00'
 hull_form: centre-boarder
-ownerships: []
-updated_at: '2022-07-01T06:35:00.31811+00:00'
+ownerships:
+- member: 4386
+  id: 34953
+  start: 2002
+  share: 64
+  current: true
 id: 022127e8-cae8-49b1-8aa1-629d0a5ce4df
 image_key: nD9bDH
 thumb: https://photos.smugmug.com/photos/i-7hDfBhs/0/Th/i-7hDfBhs-Th.jpg
 handicap_data:
   beam: 1.524
-length_on_deck: 5.791
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: for_sale
+  length_on_deck: 5.791
+created_at: '2022-06-13T16:41:22.404556+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'

@@ -3,8 +3,6 @@ oga_no: 1561
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1991
 year_is_approximate: false
 designer:
@@ -17,32 +15,26 @@ place_built: West Mersea
 construction_material: wood
 construction_method: clinker
 construction_details: Glued Clinker
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: West Mersea
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: J W Payne
-  share: 64
   start: 1991
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 036323b7-a043-4ff6-8816-8870c94e7023
-draft: 0.2286
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.732461674
+  beam: 1.8288
+  draft: 0.2286
+  fore_triangle_height: 4.57205559619605
+  fore_triangle_base: 2.286027798098025
+  length_over_all: 5.105462082418922
   main:
     foot: 0
     luff: 5.18166300902219
-  thcf: 0.732461674
-  draft: 0.22860277980980248
-  length_over_all: 5.105462082418922
-  fore_triangle_base: 2.286027798098025
   length_on_waterline: 4.968300414533041
-  fore_triangle_height: 4.57205559619605
-length_on_deck: 5.1054
-beam: 1.8288
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.1054
+created_at: '2020-04-25T17:06:50.545128+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

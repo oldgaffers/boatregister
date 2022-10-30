@@ -3,42 +3,35 @@ oga_no: 2748
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1990
 year_is_approximate: false
 designer:
   name: Thomas B. Middleton
   id: c367883a-9a33-4bec-a5a7-d40f291504ac
+design_class:
+  name: Water Wag
+  id: 02e03ede-6448-493a-976a-9798c56ff1db
 builder:
   name: Arthur Marshal
   id: 160b7d9b-730e-4a91-bbb2-1a0295ea2a1a
 place_built: Herne Bay
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Herne Bay
 hull_form: unknown
-callsign: ''
 ownerships:
-- id: 495
-  share: 64
+- member: 4706
+  id: 495
   start: 2012
-  member: 4706
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 38c660a4-cdc8-423b-80b3-a401afb7793a
-draft: 0
 handicap_data:
-  beam: 1.472201901975128
+  beam: 1.4722
   length_over_all: 3.9624481833699097
-length_on_deck: 3.9624
-beam: 1.4722
-design_class:
-  name: Water Wag
-  id: 02e03ede-6448-493a-976a-9798c56ff1db
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.9624
+created_at: '2020-04-25T17:26:33.804187+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

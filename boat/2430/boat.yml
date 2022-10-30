@@ -98,37 +98,29 @@ place_built: Cantley
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Walton Backwaters
 hull_form: unknown
 uk_part1: '144126'
-callsign: ''
 ownerships:
-- end: 2013
-  name: Russell Read
-  share: 64
+- name: Russell Read
   start: 2000
-- name: Robert Westling
+  end: 2013
   share: 64
+- name: Robert Westling
   start: 2013
-- share: 64
-  member: 5830
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  share: 64
 website: http://www.albertstrange.org/?cat=9
 id: 580f3164-fafb-4972-9f61-f224f3d25001
 image_key: 44NMJ4
 thumb: https://photos.smugmug.com/photos/i-bVSMdZZ/0/Th/i-bVSMdZZ-Th.jpg
-draft: 1.524
 handicap_data:
-  beam: 2.3104120946110704
-  draft: 1.5240185320653499
+  beam: 2.3104
+  draft: 1.524
   length_over_all: 10.05852231163131
   length_on_waterline: 7.620092660326749
-length_on_deck: 10.0584
-beam: 2.3104
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.0584
+created_at: '2020-04-25T17:20:37.270856+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

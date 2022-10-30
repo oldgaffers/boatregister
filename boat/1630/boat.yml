@@ -3,42 +3,33 @@ oga_no: 1630
 generic_type: unknown
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1899
 year_is_approximate: false
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
 - name: J A Watson
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 7d9e39eb-27be-46e9-818f-9f7b2f5c7f02
-draft: 1.3716
 handicap_data:
-  beam: 2.590831504511095
+  thcf: 0.986449554
+  beam: 2.5908
+  draft: 1.3716
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 2.590831504511095
+  length_over_all: 10.05852231163131
   main:
     foot: 6.2484759814679345
     head: 4.419653742989515
     luff: 4.114850036576445
-  thcf: 0.986449554
-  draft: 1.3716166788588149
   topsail:
     luff: 4.419653742989515
     perpendicular: 3.0480370641306997
-  length_over_all: 10.05852231163131
-  fore_triangle_base: 2.590831504511095
   length_on_waterline: 8.22970007315289
-  fore_triangle_height: 8.22970007315289
-length_on_deck: 10.0584
-beam: 2.5908
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 10.0584
+created_at: '2020-04-25T17:07:52.382233+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

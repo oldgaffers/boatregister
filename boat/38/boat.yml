@@ -4,7 +4,6 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Firefly was raced in the Solent between 1968 and 1975.</p>
-full_description: ''
 year: 1913
 year_is_approximate: false
 designer:
@@ -16,31 +15,24 @@ builder:
 place_built: Portsmouth
 construction_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
-callsign: ''
 ownerships:
-- end: 1974
-  name: H.R. Poulton
-  share: 64
+- name: H.R. Poulton
   start: 1968
-- name: R S Neal
+  end: 1974
   share: 64
+- name: R S Neal
   start: 1974
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: 6789cb51-28b2-4a19-8092-0258efb95309
 image_key: b7v9Xv
 thumb: https://photos.smugmug.com/photos/i-ZZp6gcz/0/Th/i-ZZp6gcz-Th.jpg
-draft: 0
 handicap_data:
-  beam: 2.13362594489149
+  beam: 2.1336
   length_over_all: 7.315288953913679
   length_on_waterline: 6.0960741282613995
-length_on_deck: 7.3152
-beam: 2.1336
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T16:42:51.747056+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -15,6 +15,9 @@ full_description: '<p>A good example of the Memory 19 Class sailing &nbsp;yacht.
   <p>Including new laminated tiller and new spars from Collars to original specification.&nbsp;</p>'
 year: 1999
 year_is_approximate: false
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Salterns Boatyard Ltd.
   id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
@@ -22,16 +25,18 @@ place_built: Hamble
 construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: United Kingdom
 home_port: Gillingham. Kent
 hull_form: centre-boarder
-updated_at: '2022-07-01T06:35:00.31811+00:00'
 id: ef137569-11b7-4f63-b689-152660c481d2
 image_key: BjDK5x
 thumb: https://photos.smugmug.com/photos/i-hTLCdT4/0/Th/i-hTLCdT4-Th.jpg
 handicap_data:
+  beam: 2.1336
+  fore_triangle_height: 6.2728
+  fore_triangle_base: 2.6914
   main:
     foot: 15.58
     head: 10.58
@@ -43,13 +48,7 @@ handicap_data:
   calculated_thcf: 0.877
   draft_keel_down: 1.1186
   moving_keel_type: Centreboard
-  fore_triangle_base: 2.6914
   length_on_waterline: 5.6906
-  fore_triangle_height: 6.2728
-length_on_deck: 5.7912
-beam: 2.1336
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2021-01-16T17:07:00.572161+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'

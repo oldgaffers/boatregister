@@ -14,6 +14,9 @@ year_is_approximate: false
 designer:
   name: Per Brohall
   id: be7b1db2-0a3f-4191-afe4-7f9dbb60e5bf
+design_class:
+  name: Y W Peoples Boat
+  id: fc577785-95b9-4f97-9752-bbaaf6c4ae8f
 builder:
   name: J.D. Sant
   id: 73a20456-cddf-4b59-838c-a8054861e67d
@@ -21,54 +24,57 @@ place_built: Carshalton Beeches
 construction_material: wood
 construction_method: unknown
 construction_details: Thames Makore Marine Ply on Oak Frames
-engine_installations: []
+selling_status: for_sale
 for_sales:
-- asking_price: 6995
+- created_at: '2018-06-06T12:42:59+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: <p>"Swn y Don" is a Yachting World People"s Boat,&nbsp;winner of the
+    1950 YW Magazine design competition and built to a very high standard by John
+    Sant, launched in 1964.</p><p>Her construction is Thames Marine ply on oak, laminated
+    stem &amp; beams, epoxied below the waterline she has proved over many years to
+    be a tough and reliable boat. LOA 24" with Yanmar 1GM 10 inboard, new boom stacker
+    system, beaching legs, lifting centreplate in balast keel pllus lots of gear.</p>
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
+  updated_at: '2020-05-03T10:13:13.391928+00:00'
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
 sail_number: 658Y
 uk_part1: '305147'
-callsign: ''
 ownerships:
-- end: 1998
-  name: John Sant
-  share: 64
+- name: John Sant
   start: 1964
+  end: 1998
+  share: 64
 - name: David Tallant
-  share: 64
   start: 1998
-- id: 487
   share: 64
-  member: 4667
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 0a29eca8-c34b-4dc3-8fdf-d0f96c91162a
 image_key: x28N96
 thumb: https://photos.smugmug.com/photos/i-mxDJjqL/0/Th/i-mxDJjqL-Th.jpg
-draft: 0.7102
 handicap_data:
-  beam: 2.1854425749817117
-  main:
-    foot: 3.2004389173372347
-    luff: 9.067910265788832
   thcf: 0.86
-  draft: 0.7101926359424531
-  sailarea: 20.82820681891006
+  beam: 2.1854
+  draft: 0.7102
+  fore_triangle_height: 6.0960741282613995
+  fore_triangle_base: 2.43842965130456
+  length_over_all: 7.315288953913679
   propellor:
     type: fixed
     blades: 3
+  sailarea: 20.82820681891006
+  main:
+    foot: 3.2004389173372347
+    luff: 9.067910265788832
   draft_keeldown: 1.21921482565228
-  length_over_all: 7.315288953913679
-  fore_triangle_base: 2.43842965130456
   length_on_waterline: 5.7912704218483295
-  fore_triangle_height: 6.0960741282613995
-length_on_deck: 7.3152
-beam: 2.1854
-design_class:
-  name: Y W Peoples Boat
-  id: fc577785-95b9-4f97-9752-bbaaf6c4ae8f
-for_sale_state:
-  text: for_sale
+  length_on_deck: 7.3152
+created_at: '2020-04-25T17:43:34.184012+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

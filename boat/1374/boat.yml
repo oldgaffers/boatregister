@@ -3,7 +3,6 @@ oga_no: 1374
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: lug
-short_description: ''
 full_description: Converted to a 2 Masted Lugger in 1996 from Bawley cutter rig Water
   Craft Nov/Dec 97 Log A-W/94, S-S/95, A-S/95 Water Craft Nov/Dec 97
 year: 1988
@@ -18,9 +17,8 @@ place_built: Ipswich/Brightlingsea
 construction_material: grp
 construction_method: unknown
 construction_details: Foam sandwich with longitudinal fibreglass stringers
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Brightlingsea
 hull_form: long keel deep forefoot
 reference:
@@ -28,28 +26,23 @@ reference:
 - Log S-S/95
 - Log A-S/95 Water Craft Nov/Dec 97
 ssr: '24835'
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 26cb99b9-d84f-4c0f-b0d7-409e6e792962
-draft: 0.9144
 handicap_data:
-  beam: 2.3104120946110704
+  thcf: 0.841478845
+  beam: 2.3104
+  draft: 0.9144
+  length_over_all: 6.705681541087539
+  propellor:
+    type: fixed
   main:
     foot: 3.5052426237503047
     head: 3.5052426237503047
     luff: 4.114850036576445
-  thcf: 0.841478845
-  draft: 0.9144111192392099
   mizzen:
     foot: 1.9050231650816873
     head: 1.8288222384784198
     luff: 2.3622287247012923
-  propellor:
-    type: fixed
-  length_over_all: 6.705681541087539
   length_on_waterline: 6.577663984394049
-length_on_deck: 6.7056
-beam: 2.3104
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 6.7056
+created_at: '2020-04-25T17:04:01.373479+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

@@ -4,9 +4,11 @@ generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gunter
 short_description: <p>Pipit is a Wagtail sailing dinghy built in 2010</p>
-full_description: ''
 year: 2010
 year_is_approximate: false
+design_class:
+  name: Wagtail
+  id: fbacd8ea-b4ac-4058-aa06-0f463cf6fdbb
 builder:
   name: Salterns Boatyard Ltd.
   id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
@@ -15,49 +17,42 @@ construction_material: grp
 construction_method: clinker
 construction_details: GRP simulated clinker hull, teak gunwhale, thwarts and mast
   partners. Pine floorboards and bronze fittings, spruce spars.
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Bursledon
 hull_form: long keel deep forefoot
-callsign: ''
 ownerships:
-- end: 2013
-  name: Ken Shaw
-  share: 64
+- name: Ken Shaw
   start: 2010
-- end: 2016
-  name: Paul Marfleet
+  end: 2013
   share: 64
+- name: Paul Marfleet
   start: 2013
-- id: 391
+  end: 2016
   share: 64
+- member: 4150
+  id: 391
   start: 2016
-  member: 4150
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: e08db62e-4a54-4be8-b79b-14e9611e6476
-draft: 0.1463
 handicap_data:
+  beam: 1.463
+  draft: 0.1463
+  fore_triangle_height: 3.3528
+  fore_triangle_base: 0.9388
   main:
     foot: 8.88
     head: 8.48
     luff: 6.24
-  sailarea: 0
   moving_keel: true
   length_overall: 3.8527
   calculated_thcf: 0.742
   draft_keel_down: 1.0607
   moving_keel_type: Centreboard
   length_over_spars: 3.8527
-  fore_triangle_base: 0.9388
   length_on_waterline: 3.4991
-  fore_triangle_height: 3.3528
-length_on_deck: 3.8527
-beam: 1.463
-design_class:
-  name: Wagtail
-  id: fbacd8ea-b4ac-4058-aa06-0f463cf6fdbb
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.8527
+created_at: '2020-04-25T17:50:40.068822+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

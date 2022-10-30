@@ -3,7 +3,6 @@ oga_no: 53
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Lloyds Yacht Register from 1886 to 1965. Mentioned in Wherries &
   Waterways by R Maltster. Log 70/1
 year: 1886
@@ -19,37 +18,26 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: pitch pine on oak
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 reference:
 - Log 70/1
-callsign: ''
 ownerships:
 - name: J J Clay
-  share: 64
   start: 1992
-- id: 99
   share: 64
-  member: 1819
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 9a64ba10-1d01-4204-ba10-0c03b3fc4fcc
 image_key: DDbLh2
 thumb: https://photos.smugmug.com/photos/i-s4cShn8/0/Th/i-s4cShn8-Th.jpg
-draft: 1.4935
 handicap_data:
-  beam: 2.1641063155327966
-  draft: 1.493538161424043
+  beam: 2.1641
+  draft: 1.4935
+  length_over_all: 7.863935625457206
   propellor:
     type: fixed
-  length_over_all: 7.863935625457206
   length_on_waterline: 6.919044135576688
-length_on_deck: 7.8638
-beam: 2.1641
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.8638
+created_at: '2020-04-25T16:43:15.867224+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

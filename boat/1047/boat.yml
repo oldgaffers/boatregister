@@ -23,6 +23,9 @@ year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
   name: Liverpool Boat Co. Ltd.
   id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
@@ -31,48 +34,36 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: grp
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Maylandsea
 hull_form: centre-boarder
-callsign: ''
 ownerships:
 - name: Keith Davidson
-  share: 64
   start: 1999
-- share: 64
-  member: 4022
-  current: true
-  start: '?'
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-website: ''
+  share: 64
 id: a607e04f-2e92-45be-9dc3-c0082a9bce29
-previous_names:
-- Boy Matthew
 image_key: gKjp2d
 thumb: https://photos.smugmug.com/photos/i-wvZVLZs/0/Th/i-wvZVLZs-Th.jpg
-draft: 0.5334
 handicap_data:
-  beam: 2.13362594489149
+  thcf: 0.873392463
+  beam: 2.1336
+  draft: 0.5334
+  fore_triangle_height: 5.18166300902219
+  fore_triangle_base: 3.1242379907339672
+  length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  thcf: 0.873392463
-  draft: 0.5334064862228725
   topsail:
     luff: 3.6576444769568397
     perpendicular: 1.8288222384784198
-  length_over_all: 5.7912704218483295
   length_over_spars: 7.620092660326749
-  fore_triangle_base: 3.1242379907339672
   length_on_waterline: 5.690685198732017
-  fore_triangle_height: 5.18166300902219
-length_on_deck: 5.7912
-beam: 2.1336
-design_class:
-  name: Memory 19
-  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 5.7912
+created_at: '2020-04-25T16:59:03.526738+00:00'
+updated_at: '2022-07-01T06:35:00.31811+00:00'
+previous_names:
+- Boy Matthew

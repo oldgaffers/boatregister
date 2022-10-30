@@ -3,7 +3,6 @@ oga_no: 1920
 generic_type: unknown
 rig_type: Yawl
 mainsail_type: gaff
-short_description: ''
 full_description: Rebuilt 1996
 year: 1906
 year_is_approximate: false
@@ -17,53 +16,42 @@ place_built: Falmouth
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel - Pitch Pine on Oak, Iron Keel
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Salcombe
 hull_form: long keel deep forefoot
 uk_part1: '119750'
-callsign: ''
 ownerships:
 - name: Marcus Wright
-  share: 32
   start: 1988
+  share: 32
 - name: Mike Wrigley
-  share: 32
   start: 1988
-- id: 387
-  share: 64
-  member: 4141
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 32
 id: 8b7133c5-60ca-4fee-ab9a-a926d9f9aa5f
-previous_names:
-- Terrapin
-- Sesame
-draft: 1.7983
 handicap_data:
-  beam: 2.834674469641551
+  thcf: 1.003704016
+  beam: 2.8346
+  draft: 1.7983
+  fore_triangle_height: 7.010485247500609
+  fore_triangle_base: 6.4008778346744695
+  length_over_all: 8.564984150207266
+  propellor:
+    type: fixed
   main:
     foot: 5.059741526456962
     head: 5.059741526456962
     luff: 8.382101926359423
-  thcf: 1.003704016
-  draft: 1.798341867837113
-  mizzen:
-    foot: 3.0480370641306997
-    luff: 6.0960741282613995
   topsail:
     luff: 6.827603023652767
     perpendicular: 2.8041940990002434
-  propellor:
-    type: fixed
-  length_over_all: 8.564984150207266
-  fore_triangle_base: 6.4008778346744695
+  mizzen:
+    foot: 3.0480370641306997
+    luff: 6.0960741282613995
   length_on_waterline: 7.894415996098512
-  fore_triangle_height: 7.010485247500609
-length_on_deck: 8.5649
-beam: 2.8346
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 8.5649
+created_at: '2020-04-25T17:12:15.413665+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Terrapin
+- Sesame

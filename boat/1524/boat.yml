@@ -3,13 +3,15 @@ oga_no: 1524
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: ''
 full_description: Log Mar/98
 year: 1992
 year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+design_class:
+  name: Heard 23
+  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -17,46 +19,37 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP Timber deck and spars
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
 home_port: Woolverstone
 hull_form: long keel deep forefoot
 reference:
 - Log Mar/98
-callsign: ''
 ownerships:
 - name: Gerald Allan Hales
-  share: 64
   start: 2012
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
+  share: 64
 id: cc118a64-3105-456e-b6db-da95b2009061
-previous_names:
-- Four Janes
-- Justine
-draft: 1.2192
 handicap_data:
-  beam: 2.43842965130456
+  thcf: 0.916824772
+  beam: 2.4384
+  draft: 1.2192
+  fore_triangle_height: 7.315288953913679
+  fore_triangle_base: 5.7912704218483295
+  length_over_all: 7.010485247500609
+  propellor:
+    type: fixed
   main:
     foot: 4.57205559619605
     head: 3.5052426237503047
     luff: 4.26725188978298
-  thcf: 0.916824772
-  draft: 1.21921482565228
   topsail:
     luff: 4.87685930260912
     perpendicular: 1.9812240916849548
-  propellor:
-    type: fixed
-  length_over_all: 7.010485247500609
-  fore_triangle_base: 5.7912704218483295
   length_on_waterline: 6.705681541087539
-  fore_triangle_height: 7.315288953913679
-length_on_deck: 7.0104
-beam: 2.4384
-design_class:
-  name: Heard 23
-  id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 7.0104
+created_at: '2020-04-25T17:06:17.653698+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Four Janes
+- Justine

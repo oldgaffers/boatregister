@@ -3,10 +3,11 @@ oga_no: 1712
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: ''
-full_description: ''
 year: 1991
 year_is_approximate: false
+design_class:
+  name: Clovelly Picarooner
+  id: 11aace65-18e9-4ec8-b204-763199e59f90
 builder:
   name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
@@ -14,36 +15,26 @@ place_built: Mylor Bridge
 construction_material: grp
 construction_method: cold_moulded
 construction_details: grp
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
-home_country: 'null'
-home_port: ''
 hull_form: unknown
 sail_number: CP24
-callsign: ''
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: c04b5fef-13f1-45ab-9991-19d320f34bf1
-previous_names:
-- Selkie
-- Bosun's Call V
-draft: 0.3048
 handicap_data:
-  beam: 1.8288222384784198
+  thcf: 0.772679416
+  beam: 1.8288
+  draft: 0.3048
+  fore_triangle_height: 3.581443550353572
+  fore_triangle_base: 1.6764203852718849
+  length_over_all: 4.724457449402585
   main:
     foot: 3.0480370641306997
     head: 2.5146305779078273
     luff: 2.13362594489149
-  thcf: 0.772679416
-  draft: 0.30480370641307
-  length_over_all: 4.724457449402585
-  fore_triangle_base: 1.6764203852718849
   length_on_waterline: 4.57205559619605
-  fore_triangle_height: 3.581443550353572
-length_on_deck: 4.7244
-beam: 1.8288
-design_class:
-  name: Clovelly Picarooner
-  id: 11aace65-18e9-4ec8-b204-763199e59f90
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 4.7244
+created_at: '2020-04-25T17:09:05.20224+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Selkie
+- Bosun's Call V

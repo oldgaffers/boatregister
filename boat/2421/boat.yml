@@ -3,8 +3,6 @@ oga_no: 2421
 generic_type: unknown
 rig_type: Sloop
 mainsail_type: lug
-short_description: ''
-full_description: ''
 year: 2004
 year_is_approximate: false
 designer:
@@ -17,37 +15,27 @@ place_built: Tobermory, Ontario
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Glued clinker marine ply
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Mersea Island
 hull_form: unknown
 sail_number: '38'
-callsign: ''
 ownerships:
 - note: Original owners, Howard & Sally Williams, Tobermory, Ontario.
   text: Original owners, Howard & Sally Williams, Tobermory, Ontario.
 - name: Anthony Bailey
-  share: 64
   start: 2008
-- id: 105
   share: 64
-  member: 1899
-  current: true
-  start: '?'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: 38713ed9-9a56-4782-a5df-50289517a0d0
-draft: 0
 handicap_data:
-  beam: 1.5240185320653499
+  thcf: 0.645550189
+  beam: 1.524
+  length_over_all: 3.581443550353572
   main:
     foot: 2.8194342843208973
     head: 3.2004389173372347
     luff: 1.21921482565228
-  thcf: 0.645550189
-  length_over_all: 3.581443550353572
-length_on_deck: 3.5814
-beam: 1.524
-for_sale_state:
-  text: not_for_sale
+  length_on_deck: 3.5814
+created_at: '2020-04-25T17:20:28.548552+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'

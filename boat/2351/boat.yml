@@ -4,12 +4,14 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Doreen C is a fibreglass Winkle Brig</p>
-full_description: ''
 year: 1991
 year_is_approximate: false
 designer:
   name: Eric Bergqvist
   id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
+design_class:
+  name: Winkle Brig
+  id: 4989b986-84a5-42ea-81c9-72a59714c258
 builder:
   name: Eric Bergqvist
   id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
@@ -17,32 +19,25 @@ place_built: Fiddlers Ferry
 construction_material: grp
 spar_material: wood
 construction_method: unknown
-engine_installations: []
+selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: ''
 hull_form: long keel deep forefoot
 sail_number: WB52
 callsign: MRAA4
 ownerships:
-- id: 317
-  share: 64
+- member: 3767
+  id: 317
   start: 2012
-  member: 3767
+  share: 64
   current: true
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-website: ''
 id: b0308a75-a34e-40da-90ee-604743a24d5f
+handicap_data:
+  beam: 2.033
+  draft: 0.3536
+  length_over_all: 4.87685930260912
+  length_on_deck: 4.8768
+created_at: '2020-04-25T17:18:46.334579+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Whimbrel
-draft: 0.3536
-handicap_data:
-  beam: 2.0330407217751767
-  length_over_all: 4.87685930260912
-length_on_deck: 4.8768
-beam: 2.033
-design_class:
-  name: Winkle Brig
-  id: 4989b986-84a5-42ea-81c9-72a59714c258
-for_sale_state:
-  text: not_for_sale
