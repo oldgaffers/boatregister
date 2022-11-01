@@ -62,20 +62,29 @@ def get_boat(path):
   if boat is None:
     return None
   else:
-    return wanted(boat)
+    return boat
 
 if __name__ == '__main__':
-  f = open('editors_choice.json')
-  data = json.load(f)['data']['sort_orders'][0]['values']
+  f = open('fleets/editors choice')
+  data = json.load(f)
   f.close()
-  editors_choice = {i['oga_no']:i['rank'] for i in data}
+  editors_choice = {o:i for i,o in enumerate(data['filters']['oga_nos'])}
   mypath='boat/'
   boats = listdir(mypath)
   data = []
   for b in boats:
-    boat = get_boat(f"{mypath}/{b}/boat.yml")
-    if boat is not None:
-      boat['rank'] = editors_choice[boat['oga_no']]
+    fullboat = get_boat(f"{mypath}/{b}/boat.yml")
+    if fullboat is not None:
+      boat = wanted(fullboat)
+      oga_no = int(b)
+      if oga_no in editors_choice:
+        boat['rank'] = editors_choice[oga_no]
+      else:
+        if 'thumb' in fullboat:
+          boat['rank'] = 0
+        else:
+          boat['rank'] = len(boats)
+        print(f"initialising rank for {oga_no} to {boat['rank']}")
       if 'ownerships' in boat:
         boat['owners'] = owners(boat)
         del boat['ownerships']
