@@ -1,0 +1,4 @@
+      - name: get editors choice json
+        run: |
+          curl 'https://api-oga.herokuapp.com/v1/graphql' -X POST --data-raw '{"query":"query MyQuery {sort_orders(where: {name: {_eq: \"editors_choice\"}}) {values}}"}' -o editors_choice.json
+          echo ok
