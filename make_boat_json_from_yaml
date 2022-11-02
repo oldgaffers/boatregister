@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-import yaml
-import json
 import sys
 from os import listdir
 from pathlib import Path
+import yaml
+import json
+import markdown
+import re
 
 def nullif(o, k):
   if k in o:
@@ -17,6 +19,46 @@ def emptyif(o, k):
     return o[k]
   return {}
 
+def isHtml(s):
+  if '<a href' in s:
+    return True
+  if '<div>' in s:
+    return True
+  if '<blockquote>' in s:
+    return True
+  if '<p>' in s:
+    return True
+  if '<span style' in s:
+    return True
+  if '<p style' in s:
+    return True
+  if '<br' in s:
+    return True
+  if '<li>' in s:
+    return True
+  return False
+
+def md2html(s):
+  t = re.sub(r"&#39;([^&]+)&#39;", r"*\1*", s)
+  return markdown.markdown(t)
+
+def process_html(boat):
+  if 'full_description' in boat and not isHtml(boat['full_description']):
+    boat['full_description'] = md2html(boat['full_description'])
+    print(boat['oga_no'], boat['full_description'])
+  if 'for_sales' in boat:
+    p = []
+    conversions = 0
+    for fs in boat['for_sales']:
+      if not isHtml(fs['sales_text']):
+        fs['sales_text'] = md2html(fs['sales_text'])
+        print(boat['oga_no'], 'ST', fs['sales_text'])
+        conversions = conversions + 1
+      p.append(fs)
+    if conversions > 0:
+      boat['for_sales'] = p
+  return boat
+
 def jsonFromYaml(b):
   boat = None
   try:
@@ -25,6 +67,7 @@ def jsonFromYaml(b):
   except:
     print(b)
   if boat is not None:
+    boat = process_html(boat)
     data = {
       "staticQueryHashes": [],
       "componentChunkName": "component---src-templates-boattemplate-jsx",
