@@ -45,14 +45,12 @@ def md2html(s):
 def process_html(boat):
   if 'full_description' in boat and not isHtml(boat['full_description']):
     boat['full_description'] = md2html(boat['full_description'])
-    print(boat['oga_no'], boat['full_description'])
   if 'for_sales' in boat:
     p = []
     conversions = 0
     for fs in boat['for_sales']:
       if not isHtml(fs['sales_text']):
         fs['sales_text'] = md2html(fs['sales_text'])
-        print(boat['oga_no'], 'ST', fs['sales_text'])
         conversions = conversions + 1
       p.append(fs)
     if conversions > 0:
