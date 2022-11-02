@@ -60,7 +60,7 @@ def process_html(boat):
 def jsonFromYaml(b):
   boat = None
   try:
-    with open(f"boat/{b}/boat.yml", "r") as stream:
+    with open(f"boat/{b}/boat.yml", "r", encoding='utf-8') as stream:
       boat = yaml.safe_load(stream)
   except:
     print(b)
