@@ -25,7 +25,7 @@ builder:
 place_built: Liverpool
 construction_material: grp
 spar_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - asking_price: 7000
   created_at: '2022-06-21T09:04:15.238986+00:00'
@@ -34,26 +34,26 @@ for_sales:
   price_flexibility:
     text: normal
   reduced: false
-  sales_text: "<p><em>Gretel</em> has a cabin with bunk cushions, a porta-pottie and\
-    \ a spirit  stove.  She has a battery with a solar panel and nav ,lights,depth\
-    \  sounder and log.</p><p>The fittings have all been replaced  with stainless\
-    \ and she has  Anderson winches.  The epoxied plate is a replacement, and  she\
-    \ has lead ballast, and new plate bolt and  winch. Apart from the standard sails\
-    \ she has a storm jib and a  spinnaker..She has a 3/4 cover and little used mercury\
-    \ 3.5 outboard.  She has a trolley by Tyrone Snell with winch and tow-hitch for\
-    \ an extra \xA3500.</p>"
+  sales_text: *Gretel* has a cabin with bunk cushions, a porta-pottie and
+    a spirit  stove.  She has a battery with a solar panel and nav, lights, depth
+    sounder and log.
+
+    The fittings have all been replaced with stainless
+    and she has  Anderson winches.  The epoxied plate is a replacement, and  she
+    has lead ballast, and new plate bolt and  winch. Apart from the standard sails
+    she has a storm jib and a  spinnaker..She has a 3/4 cover and little used Mercury
+    3.5 outboard.  She has a trolley by Tyrone Snell with winch and tow-hitch for
+    an extra £3500
   seller_gold_id: 34953
   seller_member: 4386
-  sold: null
-  summary: null
-  updated_at: '2022-06-21T09:04:15.238986+00:00'
+  sold: 2022-11-10
 hull_form: centre-boarder
 ownerships:
 - member: 4386
   id: 34953
   start: 2002
   share: 64
-  current: true
+  end: 2022
 id: 022127e8-cae8-49b1-8aa1-629d0a5ce4df
 image_key: nD9bDH
 thumb: https://photos.smugmug.com/photos/i-7hDfBhs/0/Th/i-7hDfBhs-Th.jpg
