@@ -14,9 +14,17 @@ on:
 jobs:
   boat_job:
     runs-on: ubuntu-latest
-    name: A job to propose and update to a boat
+    name: A job to propose an update to a boat
     steps:
     - uses: actions/checkout@v3
+    - name: new boat test
+      run: |
+        if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
+        then
+            echo "change=proposed updates to" >> $GITHUB_ENV
+        else
+            echo "change=create" >> $GITHUB_ENV
+        fi
     - name: boat
       run: |
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
@@ -24,5 +32,5 @@ jobs:
       uses: peter-evans/create-pull-request@v4
       with:
         branch: up${{ github.event.inputs.oga_no }}
-        title: proposed updates to boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}
+        title: ${{ env.action_state }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}
         assignees: AlisonCable
