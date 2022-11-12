@@ -43,8 +43,9 @@ def md2html(s):
   return markdown.markdown(t)
 
 def process_html(boat):
-  if 'full_description' in boat and not isHtml(boat['full_description']):
-    boat['full_description'] = md2html(boat['full_description'])
+  for html_field in ['short_description', 'full_description']:
+    if html_field in boat and not isHtml(boat[html_field]):
+      boat[html_field] = md2html(boat[html_field])
   if 'for_sales' in boat:
     p = []
     conversions = 0
