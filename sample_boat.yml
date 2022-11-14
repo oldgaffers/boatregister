@@ -1,0 +1,77 @@
+name: The Good Ship Sample
+oga_no: 001
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: A non-existent boat as a sample
+full_description: |
+  A long description of the boat on multiple
+  lines
+year: 1898
+year_is_approximate: false
+designer:
+  name: A.M. Dickie
+  id: e03f87f0-9a2d-4cfc-a685-814bc4757242
+builder:
+  name: A.M. Dickie and Sons
+  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
+place_built: Tarbert
+construction_material: wood
+spar_material: wood
+construction_method: carvel
+selling_status: for_sale
+for_sales:
+- asking_price: 100
+  created_at: '2022-02-18T16:46:21.359401+00:00'
+  flexibility: normal
+  offered: null
+  price_flexibility:
+    text: normal
+  reduced: false
+  sales_text: |
+    more long text intended to 
+  seller_gold_id: 001
+  seller_member: 0001
+  sold: '2022-11-14'
+  summary: some text mostly added after sale to indicate what happened to the boat
+  updated_at: '2022-02-18T16:46:21.359401+00:00'
+home_country: GBR
+home_port: Some place boats live
+hull_form: long keel sloping forefoot
+ssr: 12334
+ownerships:
+- name: Billy the Kid
+  start: 1898
+  end: 1918
+  share: 64
+- member: 0001
+  id: 001
+  start: 2006
+  share: 64
+  current: true
+website: http://www.witch1898.co.uk
+image_key: 4wzPvd
+thumb: https://photos.smugmug.com/photos/i-QMWtFvp/0/Th/i-QMWtFvp-Th.jpg
+handicap_data:
+  thcf: 1.003
+  beam: 2.8956
+  draft: 1.8806
+  fore_triangle_height: 7.848713728358937
+  fore_triangle_base: 5.105480370641307
+  length_over_all: 9.60132894415996
+  propellor:
+    type: folding
+    blades: 2
+  sailarea: 65.03559695698047
+  main:
+    foot: 6.248488173616191
+    head: 5.105480370641307
+    luff: 6.019891489880517
+  topsail:
+    luff: 5.84207510363326
+    perpendicular: 2.4130516947086074
+  length_on_waterline: 8.53450377956596
+  length_on_deck: 9.6012
+previous_names:
+- Boat McBoatFace
+- Noah's Ark
