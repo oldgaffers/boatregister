@@ -22,7 +22,7 @@ def wanted(boat):
     'mainsail_type',
     'generic_type',
     'design_class',
-    'construction_method',
+    'construction_material',
     'year',
     'updated_at',
     'length_on_deck',
