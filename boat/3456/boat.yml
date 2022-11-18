@@ -1,10 +1,46 @@
 name: Aletheia
 oga_no: 3456
+generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-year_is_approximate: false
-hull_form: centre-boarder
+short_description: <p>Cornish Crabber Pilot Cutter 30</p>
+designer:
+  name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+design_class:
+  name: Cornish Crabber Pilot Cutter 30
+  id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
+builder:
+  name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock
+construction_material: grp
+construction_method: cold_moulded
+construction_details: GRP
+selling_status: not_for_sale
+for_sales: []
+home_country: GBR
+hull_form: long keel deep forefoot
 handicap_data:
-  beam: 0.305
-  length_on_deck: -0.305
-albumKey: bLMT4V
+  thcf: 0.968
+  beam: 2.8956
+  draft: 1.0668
+  fore_triangle_height: 8.0773
+  fore_triangle_base: 5.974
+  length_over_all: 9.144
+  propellor:
+    type: folding
+    blades: 3
+  sailarea: 55.0842
+  main:
+    foot: 5.5779
+    head: 4.358693
+    luff: 5.05974
+  topsail:
+    luff: 4.358693
+    perpendicular: 1.8593
+  draft_keeldown: 1.905
+  length_over_spars: 11.88734455
+  length_on_waterline: 7.8639356254572
+  length_on_deck: 9.144
+image_key: bLMT4V
