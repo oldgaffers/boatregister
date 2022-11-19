@@ -103,14 +103,19 @@ def ownerships(os):
 
 handicapFields = [
   'thcf',
+  'calculated_thcf',
   'beam',
   'draft',
   'fore_triangle_height',
-  'fore_triangle_base',
-  'length_over_all',
+  'fore_triangle_base',  
+  'length_overall',
+  'length_on_deck',
+  'length_on_waterline',
+  'length_over_spars',
   'propellor',
   'sailarea',
-  'main',
+  'main'
+  'mizzen',
   'topsail',  
 ]
 
