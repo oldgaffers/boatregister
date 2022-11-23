@@ -6,6 +6,7 @@ import yaml
 import json
 import markdown
 import re
+from datetime import date, datetime
 
 def nullif(o, k):
   if k in o:
@@ -58,6 +59,13 @@ def process_html(boat):
       boat['for_sales'] = p
   return boat
 
+def json_serial(obj):
+  if isinstance(obj, date):
+    return obj.isoformat()
+  if isinstance(obj, datetime):
+    return obj.isoformat(timespec='seconds')[:-6]+'Z'
+  raise TypeError ("Type %s not serializable" % type(obj))
+
 def jsonFromYaml(b):
   boat = None
   try:
@@ -83,7 +91,7 @@ def jsonFromYaml(b):
     outdir = f"page-data/boat/{b}"
     Path(outdir).mkdir(parents=True, exist_ok=True)
     with open(f'{outdir}/page-data.json', 'w') as outfile:
-      json.dump(data, outfile, sort_keys=True)
+      json.dump(data, outfile, sort_keys=True, default=json_serial)
 
 if __name__ == '__main__':
   if len(sys.argv) == 2:
