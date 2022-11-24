@@ -25,9 +25,10 @@ jobs:
         else
             echo "change=create" >> $GITHUB_ENV
         fi
+    - name: set branch name
+      run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
     - name: create or switch to branch
       run: |
-        echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
         if [[ $(git branch --list ${{ env.branch }}) ]]
         then
           git checkout ${{ env.branch }}
