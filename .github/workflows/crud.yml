@@ -25,12 +25,23 @@ jobs:
         else
             echo "change=create" >> $GITHUB_ENV
         fi
+    - name: create or switch to branch
+      run: |
+        echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
+        if [[ $(git branch --list ${{ env.branch }}) ]]; then
+          git checkout ${{ env.branch }}
+        else
+          git checkout -b ${{ env.branch }}
+        fi
     - name: boat
       run: |
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
+        git commit . -m "proposed change by ${{ github.event.inputs.email }}"
+        git push origin ${{ env.branch }}
     - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v4
-      with:
-        branch: up${{ github.event.inputs.oga_no }}
-        title: ${{ env.action_state }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}
-        assignees: AlisonCable
+      run: |
+        gh pr create \
+          --assignee AlisonCable \
+          --base main \
+          --head ${{ env.branch }} \
+          --title: ${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}
