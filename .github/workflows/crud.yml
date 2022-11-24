@@ -29,10 +29,12 @@ jobs:
       run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
     - name: create or switch to branch
       run: |
-        if [[ $(git fetch origin ${{ env.branch }}) ]]
+        if [[ $(git ls-remote --exit-code --heads origin ${{ env.branch }}) ]]
         then
           echo got existing ${{ env.branch }}
+          git pull --rebase origin ${{ env.branch }}
         else
+          echo new branch
           git branch ${{ env.branch }}
           git push -u origin ${{ env.branch }}
         fi
