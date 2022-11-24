@@ -17,6 +17,8 @@ jobs:
     name: A job to propose an update to a boat
     steps:
     - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
     - name: new boat test
       run: |
         if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
@@ -32,7 +34,6 @@ jobs:
         if [[ $(git branch --list ${{ env.branch }}) ]]
         then
           git checkout ${{ env.branch }}
-          git pull --rebase
         else
           git checkout -b ${{ env.branch }}
         fi
