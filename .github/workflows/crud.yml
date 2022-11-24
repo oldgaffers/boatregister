@@ -17,8 +17,6 @@ jobs:
     name: A job to propose an update to a boat
     steps:
     - uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
     - name: new boat test
       run: |
         if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
@@ -31,13 +29,14 @@ jobs:
       run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
     - name: create or switch to branch
       run: |
-        if [[ $(git branch --list ${{ env.branch }}) ]]
+        if [[ $(git fetch origin ${{ env.branch }}) ]]
         then
-          git checkout ${{ env.branch }}
-          git pull --rebase
+          echo got existing ${{ env.branch }})
         else
-          git checkout -b ${{ env.branch }}
+          git branch ${{ env.branch }})
+          git push -u origin ${{ env.branch }}
         fi
+        git checkout ${{ env.branch }}
     - name: boat
       run: |
         git config --global user.name ogauk  
@@ -45,7 +44,7 @@ jobs:
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
         git add .
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
-        git push -u origin ${{ env.branch }}
+        git push origin ${{ env.branch }}
     - name: Create Pull Request if none
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
