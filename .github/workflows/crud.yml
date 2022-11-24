@@ -16,6 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     name: A job to propose an update to a boat
     steps:
+    - uses: actions/checkout@v3
     - name: set branch name
       run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
     - name: chose branch to checkout
