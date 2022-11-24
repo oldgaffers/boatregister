@@ -18,7 +18,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
       with:
-        fetch-depth: 0
+        fetch-depth: 99
     - name: new boat test
       run: |
         if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
