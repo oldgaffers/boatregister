@@ -39,16 +39,15 @@ jobs:
         else
             echo "change=create" >> $GITHUB_ENV
         fi
-    - name: create or switch to branch
+    - name: create branch if not existing
       run: |
-        if [ "${{ env.branch }}" -eq "${{ env.checkout }}" ]
-        then
-          echo existing branch ${{ env.branch }}
-        else
+        if [ "${{ env.checkout }}" = main ]
           echo new branch
           git branch ${{ env.branch }}
           git push -u origin ${{ env.branch }}
           git checkout ${{ env.branch }}
+        else
+          echo checked out pr branch
         fi
     - name: boat
       run: |
