@@ -41,7 +41,8 @@ jobs:
         fi
     - name: create branch if not existing
       run: |
-        if [ "${{ env.checkout }}" = main ]
+        if [ "${{ env.checkout }}" = "main" ]
+        then
           echo new branch
           git branch ${{ env.branch }}
           git push -u origin ${{ env.branch }}
