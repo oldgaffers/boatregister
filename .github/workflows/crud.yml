@@ -30,7 +30,10 @@ jobs:
     - name: set branch name
       run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
     - name: check if branch exists in checkout
-      run: echo exists=$(git branch --list ${{ env.branch }}) >> $GITHUB_ENV
+      run: |
+        git branch --list
+        git branch --list ${{ env.branch }})
+        echo exists=$(git branch --list ${{ env.branch }}) >> $GITHUB_ENV
     - name: create or switch to branch
       run: |
         if [ "${{ env.branch }}" -eq "${{ env.exists }}" ]
