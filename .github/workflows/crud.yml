@@ -44,6 +44,8 @@ jobs:
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
         git push -u origin ${{ env.branch }}
     - name: Create Pull Request if none
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         if [[ 0 -eq $(gh pr list --head ${{ env.branch }} -s open --json title --jq '. | length') ]]
         then
@@ -51,5 +53,5 @@ jobs:
             --assignee AlisonCable \
             --base main \
             --head ${{ env.branch }} \
-            --title: ${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}
+            --title ${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}
         fi
