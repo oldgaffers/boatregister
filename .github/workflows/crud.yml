@@ -30,15 +30,12 @@ jobs:
     - name: set branch name
       run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
     - name: check if branch exists in checkout
-      run: git branch --list ${{ env.branch }}
-    - name: check if branch exists remotely
-      run: git ls-remote --heads origin ${{ env.branch }}
+      run: echo exists=$(git branch --list ${{ env.branch }}) >> $GITHUB_ENV
     - name: create or switch to branch
       run: |
-        if [[ $(git ls-remote --exit-code --heads origin ${{ env.branch }}) ]]
+        if [ "${{ env.branch }}" -eq "${{ env.exists }}" ]
         then
-          echo get existing ${{ env.branch }}
-          git pull --rebase
+          echo existing branch ${{ env.branch }}
         else
           echo new branch
           git branch ${{ env.branch }}
@@ -63,5 +60,5 @@ jobs:
             --assignee AlisonCable \
             --base main \
             --head ${{ env.branch }} \
-            --title ${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}
+            --title "${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}"
         fi
