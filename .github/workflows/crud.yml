@@ -41,7 +41,7 @@ jobs:
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
         git add .
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
-        git push origin ${{ env.branch }}
+        git push -u origin ${{ env.branch }}
     - name: Create Pull Request if none
       run: |
         if [[ 0 -eq $(gh pr list --head ${{ env.branch }} -s open --json title --jq '. | length') ]]
