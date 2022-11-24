@@ -17,6 +17,8 @@ jobs:
     name: A job to propose an update to a boat
     steps:
     - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
     - name: new boat test
       run: |
         if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
@@ -27,12 +29,16 @@ jobs:
         fi
     - name: set branch name
       run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
+    - name: check if branch exists in checkout
+      run: git branch --list ${{ env.branch }}
+    - name: check if branch exists remotely
+      run: git ls-remote --heads origin ${{ env.branch }}
     - name: create or switch to branch
       run: |
         if [[ $(git ls-remote --exit-code --heads origin ${{ env.branch }}) ]]
         then
-          echo got existing ${{ env.branch }}
-          git pull --rebase origin ${{ env.branch }}
+          echo get existing ${{ env.branch }}
+          git pull --rebase
         else
           echo new branch
           git branch ${{ env.branch }}
