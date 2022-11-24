@@ -31,9 +31,9 @@ jobs:
       run: |
         if [[ $(git fetch origin ${{ env.branch }}) ]]
         then
-          echo got existing ${{ env.branch }})
+          echo got existing ${{ env.branch }}
         else
-          git branch ${{ env.branch }})
+          git branch ${{ env.branch }}
           git push -u origin ${{ env.branch }}
         fi
         git checkout ${{ env.branch }}
