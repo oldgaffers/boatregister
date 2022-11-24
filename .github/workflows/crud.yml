@@ -34,6 +34,7 @@ jobs:
         if [[ $(git branch --list ${{ env.branch }}) ]]
         then
           git checkout ${{ env.branch }}
+          git pull
         else
           git checkout -b ${{ env.branch }}
         fi
