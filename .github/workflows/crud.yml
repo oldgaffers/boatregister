@@ -17,6 +17,20 @@ jobs:
     name: A job to propose an update to a boat
     steps:
     - uses: actions/checkout@v3
+    - name: set branch name
+      run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
+    - name: chose branch to checkout
+      run: |
+        if [[ $(git ls-remote --exit-code --heads origin ${{ env.branch }}) ]]
+        then
+          echo checkout=${{ env.branch }} >> $GITHUB_ENV
+        else
+          echo checkout=main >> $GITHUB_ENV
+        fi
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        ref: ${{ env.checkout }}
     - name: new boat test
       run: |
         if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
@@ -25,15 +39,16 @@ jobs:
         else
             echo "change=create" >> $GITHUB_ENV
         fi
-    - name: set branch name
-      run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
-    - name: create or switch to branch
+    - name: create branch if not existing
       run: |
-        if [[ $(git branch --list ${{ env.branch }}) ]]
+        if [ "${{ env.checkout }}" = "main" ]
         then
+          echo new branch
+          git branch ${{ env.branch }}
+          git push -u origin ${{ env.branch }}
           git checkout ${{ env.branch }}
         else
-          git checkout -b ${{ env.branch }}
+          echo checked out pr branch
         fi
     - name: boat
       run: |
@@ -42,8 +57,10 @@ jobs:
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
         git add .
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
-        git push -u origin ${{ env.branch }}
+        git push origin ${{ env.branch }}
     - name: Create Pull Request if none
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         if [[ 0 -eq $(gh pr list --head ${{ env.branch }} -s open --json title --jq '. | length') ]]
         then
@@ -51,5 +68,6 @@ jobs:
             --assignee AlisonCable \
             --base main \
             --head ${{ env.branch }} \
-            --title: ${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}
+            --title "${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}" \
+            --body "additional changes can be accumulated before merging"
         fi
