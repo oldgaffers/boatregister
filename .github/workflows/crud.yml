@@ -36,6 +36,8 @@ jobs:
         fi
     - name: boat
       run: |
+        git config --global user.name ogauk  
+        git config --global user.email boatregister@oga.org.uk
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
         git push origin ${{ env.branch }}
