@@ -68,5 +68,6 @@ jobs:
             --assignee AlisonCable \
             --base main \
             --head ${{ env.branch }} \
-            --title "${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}"
+            --title "${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}" \
+            --body "additional changes can be accumulated before merging"
         fi
