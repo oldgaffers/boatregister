@@ -32,7 +32,7 @@ jobs:
     - name: check if branch exists in checkout
       run: |
         git branch --list
-        git branch --list ${{ env.branch }})
+        git branch --list ${{ env.branch }}
         echo exists=$(git branch --list ${{ env.branch }}) >> $GITHUB_ENV
     - name: create or switch to branch
       run: |
