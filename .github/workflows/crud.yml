@@ -23,7 +23,7 @@ jobs:
       run: |
         if [[ $(git ls-remote --exit-code --heads origin ${{ env.branch }}) ]]
         then
-          echo checkout=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
+          echo checkout=${{ env.branch }} >> $GITHUB_ENV
         else
           echo checkout=main >> $GITHUB_ENV
         fi
@@ -39,14 +39,9 @@ jobs:
         else
             echo "change=create" >> $GITHUB_ENV
         fi
-    - name: check if branch exists in checkout
-      run: |
-        git branch --list
-        git branch --list ${{ env.branch }}
-        echo exists=$(git branch --list ${{ env.branch }}) >> $GITHUB_ENV
     - name: create or switch to branch
       run: |
-        if [ "${{ env.branch }}" -eq "${{ env.exists }}" ]
+        if [ "${{ env.branch }}" -eq "${{ env.checkout }}" ]
         then
           echo existing branch ${{ env.branch }}
         else
