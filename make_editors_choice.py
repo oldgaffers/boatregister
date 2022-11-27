@@ -1,57 +1,8 @@
-import re
 import yaml
 import json
 from os import listdir
 from datetime import date, datetime
 import requests
-
-def transform(o):
-  if type(o) is dict and 'name' in o:
-    return o['name']
-  if type(o) is str:
-    m = re.match(r'(\d{4}-\d{2}-\d{2})T\d{2}:\d{2}:\d{2}.*', o)
-    if m is not None:
-      return m.groups()[0]
-  return o
-
-def wanted(boat):
-    wanted_keys = [
-    'name',
-    'oga_no',
-    'designer',
-    'builder',
-    'rig_type',
-    'mainsail_type',
-    'generic_type',
-    'design_class',
-    'construction_material',
-    'year',
-    'updated_at',
-    'length_on_deck',
-    'price',
-    'sale',
-    'ownerships',
-    ]
-    if 'selling_status' in boat and boat['selling_status'] == 'for_sale':
-      boat['price'] = boat['for_sales'][0]['asking_price']
-      boat['sale'] = True
-    else:
-      boat['sale'] = False
-    b = { key: transform(boat[key]) for key in wanted_keys if key in boat }
-    if 'length_on_deck' not in b:
-      if 'handicap_data' in boat:
-        h = boat['handicap_data']
-        if 'length_on_deck' in h:
-          b['length_on_deck'] = h['length_on_deck']
-    return b
-
-def owners(boat):
-  if 'ownerships' in boat:
-    current = [o['id'] for o in boat['ownerships'] if 'id' in o and 'current' in o and o['current']]
-    if len(current) == 0:
-      current = [f"M{o['member']}" for o in boat['ownerships'] if 'member' in o and 'current' in o and o['current']]
-    return current
-  return []
 
 def get_boat(path):
   with open(path, "r") as stream:
