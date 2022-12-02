@@ -18,6 +18,12 @@ construction_details: GRP
 home_country: United Kingdom
 home_port: 'Woodbridge '
 hull_form: centre-boarder
+ownerships:
+- member: 2862
+  id: 196
+  start: '2017'
+  share: '64'
+  current: true
 image_key: 86S8z9
 handicap_data:
   thcf: 0.863
@@ -29,9 +35,9 @@ handicap_data:
     blades: 3
     type: none
   sailarea: 25.456
-  biggest_staysail: {}
-  biggest_jib:
-    luff: 4.999
-    leech: 5.599
-    foot: 3.798
   biggest_downwind_sail: {}
+  biggest_jib:
+    foot: 3.798
+    leech: 5.599
+    luff: 4.999
+  biggest_staysail: {}
