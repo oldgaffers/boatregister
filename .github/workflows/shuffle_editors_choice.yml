@@ -1,7 +1,5 @@
 name: Shuffle Editors Choice
 on:
-  push:
-    branches: [ "main" ]
   workflow_dispatch:
 jobs:
   build:
