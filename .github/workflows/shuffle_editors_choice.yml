@@ -1,6 +1,10 @@
 name: Shuffle Editors Choice
 on:
   workflow_dispatch:
+    inputs:
+      oga_no:
+        description: 'Boat OGA No'
+        required: false
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,7 +16,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: shuffle editors_choice
         run: |
-          python3 shuffle_editors_choice.py
+          python3 shuffle_editors_choice.py ${{ github.event.inputs.oga_no }}
           echo ok
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.0
