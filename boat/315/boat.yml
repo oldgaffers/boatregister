@@ -91,7 +91,16 @@ spar_material: wood
 construction_method: carvel
 construction_details: pitch pine on oak and elm
 selling_status: not_for_sale
-for_sales: []
+for_sales:
+- asking_price: 1
+  created_at: '2022-12-04T22:58:49.588Z'
+  flexibility: normal
+  offered: '2022-12-04'
+  sales_text: 'not for sale
+
+    '
+  seller_gold_id: 559
+  seller_member: 5004
 home_country: GBR
 home_port: Rosneath
 hull_form: long keel deep forefoot
@@ -163,6 +172,3 @@ handicap_data:
     luff: 4.319068519873201
 created_at: '2020-04-25T16:47:00.543376+00:00'
 updated_at: '2022-10-30T08:21:32.430046+00:00'
-sales_text: 'She''s not really for sale
-
-  '
