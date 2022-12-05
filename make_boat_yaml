@@ -157,14 +157,6 @@ def map_boat(item):
   if 'full_description' in boat:
     boat['full_description'] = markdownify(boat['full_description'])
     pass
-  boat.pop('genericTypeByGenericType', None)
-  boat.pop('rigTypeByRigType', None)
-  if 'constructionMaterialByConstructionMaterial' in boat:
-    boat['construction_material'] = boat['constructionMaterialByConstructionMaterial']['name']
-    del boat['constructionMaterialByConstructionMaterial']
-  if 'constructionMethodByConstructionMethod' in boat:
-    boat['construction_method'] = boat['constructionMethodByConstructionMethod']['name']
-    del boat['constructionMethodByConstructionMethod']
   return map_handicap_data(boat)
 
 def get_boat(data):
