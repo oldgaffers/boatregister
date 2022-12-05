@@ -148,15 +148,22 @@ def falsy(v):
     return True
   return False
 
+def map_for_sale(fs):
+  r = {k: v for k, v in fs.items() if not falsy(v)}
+  if 'sales_text' in r:
+    r['sales_text'] = markdownify(r['sales_text'], wrap=True)
+  return r
+
 def map_boat(item):
   boat = {k: v for k, v in item.items() if not falsy(v) and k not in omitFields}
   if 'ownerships' in boat:
     boat['ownerships'] = ownerships(boat['ownerships'])
   if 'short_description' in boat:
-    boat['short_description'] = markdownify(boat['short_description'])
+    boat['short_description'] = markdownify(boat['short_description'], wrap=True)
   if 'full_description' in boat:
-    boat['full_description'] = markdownify(boat['full_description'])
-    pass
+    boat['full_description'] = markdownify(boat['full_description'], wrap=True)
+  if 'for_sales' in boat:
+    boat['for_sales'] = [map_for_sale(fs) for fs in boat['for_sales']]
   return map_handicap_data(boat)
 
 def get_boat(data):
