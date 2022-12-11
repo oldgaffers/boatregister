@@ -3,7 +3,7 @@ oga_no: 2148
 generic_type: Dayboat
 rig_type: Yawl
 mainsail_type: lug
-short_description: Tiki is a Padstow Lugger.
+short_description: <p>Tiki is a Padstow Lugger.</p>
 full_description: '<p>Made by the company Padstow Sea Boats in 1992. The design is
   based on the Cornish pilchard fishing boats. It is made from GRP and requires minimum
   maintenance. She has wooden spars and teak and mahogany trim. It is the perfect
@@ -25,20 +25,15 @@ construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP, Mahogany fit out
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - asking_price: 3950
   created_at: '2016-04-18T01:54:43+00:00'
   flexibility: normal
-  offered: null
   price_flexibility:
     text: normal
-  reduced: false
   sales_text: "<p>Padstow lugger, 14\u20198\" black GRP hull, beam 5\u20194\". Mahogany\
     \ fit-out. Douglas fir masts/spars. Full inventory included in sale.</p>"
-  seller_gold_id: null
-  seller_member: null
-  sold: null
   summary: "<p>Padstow lugger, 14\u20198&quot; black GRP hull, beam 5\u20194&quot;.\
     \ Mahogany fit-out. Douglas fir masts/spars. Full inventory included in sale.\
     \ Stored East Suffolk, will deliver at cost if required.</p>"
@@ -49,7 +44,6 @@ for_sales:
   offered: '2022-10-24'
   price_flexibility:
     text: normal
-  reduced: false
   sales_text: <p><span style="font-family:sans-serif; font-size:14pt">Padstow Lugger
     Day boat. 15&rsquo; on deck 22&rsquo; over spars. GRP hull with teak gunwhales.
     solid wood spars. Steel centre plate. </span></p>  <p><span style="font-family:sans-serif;
@@ -62,8 +56,6 @@ for_sales:
     leisure battery for use with electric trolling motor.</span></p>
   seller_gold_id: 1219
   seller_member: 5004
-  sold: null
-  summary: null
   updated_at: '2022-10-24T06:58:29.875351+00:00'
 home_country: GBR
 hull_form: centre-boarder
@@ -91,10 +83,12 @@ handicap_data:
   draft: 0.61
   fore_triangle_height: 2.438
   fore_triangle_base: 1.524
-  length_over_all: 4.572
+  length_on_deck: 4.4714
+  length_on_waterline: 4.563
   propellor:
     type: none
   sailarea: 9.458
+  length_over_all: 4.572
   main:
     foot: 1.92
     head: 2.24
@@ -103,8 +97,6 @@ handicap_data:
     foot: 1.119
     head: 1.201
     luff: 1.753
-  length_on_deck: 4.4714
   mizzen_topsail: {}
-  length_on_waterline: 4.563
 created_at: '2020-04-25T17:48:33.284923+00:00'
 updated_at: '2022-10-29T18:53:35.257505+00:00'
