@@ -3,13 +3,15 @@ oga_no: 297
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Ferryman was built at Warsash on the Humber in 1949. Her designer
-  is listed as Tormentor Yacht Station.</p>
-full_description: <p>&#39;Ferryman&#39; is a Tormentor 5 tonner. Her design is based
-  on that of The Itchen ferries and she maintains some characteristics of them. The
-  Tormentors were built post World War 2 as an attempt at reducing the cost of yachts.
-  The cost would have been &pound;960, similar yachts would then have ranged in price
-  between &pound;1250 and &pound;1950.</p>
+short_description: |+
+  Ferryman was built at Warsash on the Humber in 1949. Her designer is listed as
+  Tormentor Yacht Station.
+
+full_description: "'Ferryman' is a Tormentor 5 tonner. Her design is based on that\
+  \ of The Itchen\nferries and she maintains some characteristics of them. The Tormentors\
+  \ were\nbuilt post World War 2 as an attempt at reducing the cost of yachts. The\
+  \ cost\nwould have been \xA3960, similar yachts would then have ranged in price\
+  \ between\n\xA31250 and \xA31950.\n\n"
 year: 1949
 year_is_approximate: false
 builder:
@@ -22,7 +24,7 @@ construction_details: Larch on oak
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: Lochranza, Isle of Arran
+home_port: Glencoe
 hull_form: long keel deep forefoot
 uk_part1: '183573'
 ownerships:
@@ -43,15 +45,17 @@ ownerships:
   share: 64
 - name: Douglas Cook
   start: 2017
-  share: 64
-id: 7ca4ed3a-91bb-4b22-afa3-025b79ab2722
+  share: '[remove]'
+  current: true
+website: ferryman902184987.wordpress.com
 image_key: dX2Brs
 thumb: https://photos.smugmug.com/photos/i-PbmHjBg/0/Th/i-PbmHjBg-Th.jpg
 handicap_data:
   beam: 2.5146
   draft: 1.3716
-  length_over_all: 6.4008778346744695
-  length_on_waterline: 6.4008778346744695
   length_on_deck: 6.4008
+  length_on_waterline: 6.4008778346744695
+  length_over_all: 6.4008778346744695
 created_at: '2020-04-25T16:46:44.747035+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 7ca4ed3a-91bb-4b22-afa3-025b79ab2722
