@@ -76,8 +76,7 @@ def show_owners(b):
   if boat is not None:
     if 'ownerships' in boat:
       for ownership in boat['ownerships']:
-        if 'current' in ownership and ownership['current']:
-          if 'member' in ownership and 'id' not in ownership:
+        if 'end' not in ownership and 'member' in ownership and 'current' not in ownership:
             print(boat['name'], boat['oga_no'], ownership)
 
 

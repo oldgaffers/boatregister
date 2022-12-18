@@ -4,16 +4,15 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |+
-  Ferryman was built at Warsash on the Humber in 1949. Her designer is listed as
+  *Ferryman* was built at Warsash on the Humber in 1949. Her designer is listed as
   Tormentor Yacht Station.
-
-full_description: "'Ferryman' is a Tormentor 5 tonner. Her design is based on that\
-  \ of The Itchen\nferries and she maintains some characteristics of them. The Tormentors\
-  \ were\nbuilt post World War 2 as an attempt at reducing the cost of yachts. The\
-  \ cost\nwould have been \xA3960, similar yachts would then have ranged in price\
-  \ between\n\xA31250 and \xA31950.\n\n"
+full_description: |+
+  *Ferryman* is a Tormentor 5 tonner. Her design is based on that
+  of The Itchen ferries and she maintains some characteristics of them. The Tormentors
+  were built post World War 2 as an attempt at reducing the cost of yachts. The
+  cost would have been £3960, similar yachts would then have ranged in price
+  between £1250 and £1950.
 year: 1949
-year_is_approximate: false
 builder:
   name: Tormentor Yacht Station
   id: aba1cbad-f9f4-4c5a-a1c2-8d34c0df528c
@@ -22,26 +21,28 @@ construction_material: wood
 construction_method: unknown
 construction_details: Larch on oak
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Glencoe
 hull_form: long keel deep forefoot
 uk_part1: '183573'
 ownerships:
-- note: 'Previous owners:'
-  text: 'Previous owners:'
 - member: 6182
   id: 35036
-  share: '64'
+  share: 64
+  start: 1985
+  current: true
 - start: 1971
-  note: M Challis 1971
-  text: M Challis
+  name: M Challis
+  end: 1972
+  share: 64
 - start: 1972
-  note: H Wilson 1972
-  text: H Wilson
+  name: H Wilson
+  end: 1978
+  share: 64
 - start: 1978
-  note: J F Shaw 1978
-  text: J F Shaw
+  end: 1985
+  name: J F Shaw
+  share: 64
 - name: Douglas Barker
   start: 1985
   end: 2017

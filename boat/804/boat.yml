@@ -3,14 +3,15 @@ oga_no: 804
 generic_type: Dayboat
 rig_type: Cutter
 mainsail_type: gunter
-short_description: <p>Originally built in 1957 as an RNLI boarding boat, &#39;Willow&#39;
-  has been converted to sailing rig.</p>
-full_description: "<p>Originally built as a RNLI boarding boat, &#39;Willow&#39; was\
-  \ number 237&nbsp;of 300 built in the mid 1950s. She was used as a rowing boat to\
-  \ take the crew to and from the offshore lifeboat.</p>\r\n\r\n<p>She was restored\
-  \ and changed to a sailing rig over six years, completed in 2017.</p>"
+short_description: Originally built in 1957 as an RNLI boarding boat, *Willow*
+  has been converted to sailing rig.
+full_description: |+
+  Originally built as a RNLI boarding boat, *Willow* was
+  number 237 of 300 built in the mid 1950s. She was used as a rowing boat to
+  take the crew to and from the offshore lifeboat.
+
+  She was restored and changed to a sailing rig over six years, completed in 2017.
 year: 1957
-year_is_approximate: false
 designer:
   name: RNLI
   id: abc1d6d9-7bed-4405-a804-aff0df037e36
@@ -22,7 +23,6 @@ construction_material: wood
 construction_method: clinker
 construction_details: Pitch pine clinker planks on oak frames
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 hull_form: long keel deep forefoot
 ownerships:
@@ -30,6 +30,7 @@ ownerships:
   id: 447
   start: 2012
   share: 64
+  current: true
 id: 1209001e-9b4c-4095-9ce6-b402ec690b7c
 image_key: 3pP7Pg
 thumb: https://photos.smugmug.com/photos/i-nddCjfN/0/Th/i-nddCjfN-Th.jpg
