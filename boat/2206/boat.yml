@@ -3,10 +3,13 @@ oga_no: 2206
 generic_type: Galway Hooker
 rig_type: Cutter
 mainsail_type: gaff
-short_description: '''Naomh Cronan'' is built from the lines of Galway Hooker, ''Morning
-  Star''.'
-full_description: Built in 1997, the 'Naomh Cronan' is maintained and sailed by a
-  group of men of Clondalkin.
+short_description: |+
+  *Naomh Cronan* is built from the lines of Galway Hooker *Morning Star.*
+
+full_description: |+
+  Built in 1997, the *Naomh Cronan* was maintained and sailed by a group of men of
+  Clondalkin for many years and was then gifted to the Cladagh Boatmen.
+
 year: 1997
 year_is_approximate: false
 designer:
@@ -27,13 +30,8 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2020-12-16T07:49:17.069873+00:00'
   flexibility: normal
-  offered: null
   price_flexibility:
     text: normal
-  reduced: false
-  sales_text: ''
-  seller_gold_id: null
-  seller_member: null
   sold: '2020-12-16'
   summary: "Sold for \u20AC 1000 in 2020 to the Claddagh Boatmen of Galway to be used\
     \ for youth sail training"
@@ -74,15 +72,15 @@ ownerships:
 - name: The Claddagh Boatmen
   start: 2021
   share: 64
-id: af099e33-0848-4312-ae12-4b4098eebc71
 image_key: 3BmmFR
 thumb: https://photos.smugmug.com/photos/i-XVLB9HZ/0/Th/i-XVLB9HZ-Th.jpg
 handicap_data:
   beam: 3.5052
   draft: 1.9202
-  length_over_all: 12.192148256522799
+  length_on_deck: 12.192
   propellor:
     type: fixed
-  length_on_deck: 12.192
+  length_over_all: 12.192148256522799
 created_at: '2020-04-25T17:16:35.327539+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: af099e33-0848-4312-ae12-4b4098eebc71
