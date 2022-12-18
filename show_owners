@@ -1,0 +1,89 @@
+#!/usr/bin/env python3
+import sys
+from os import listdir
+from pathlib import Path
+import yaml
+import json
+import markdown
+import re
+from datetime import date, datetime
+
+def nullif(o, k):
+  if k in o:
+    return o[k]
+  return None
+
+def emptyif(o, k):
+  if o is None:
+    return {}
+  if k in o:
+    return o[k]
+  return {}
+
+def isHtml(s):
+  if '<a href' in s:
+    return True
+  if '<div>' in s:
+    return True
+  if '<blockquote>' in s:
+    return True
+  if '<p>' in s:
+    return True
+  if '<span style' in s:
+    return True
+  if '<p style' in s:
+    return True
+  if '<br' in s:
+    return True
+  if '<li>' in s:
+    return True
+  return False
+
+def md2html(s):
+  t = re.sub(r"&#39;([^&]+)&#39;", r"*\1*", s)
+  return markdown.markdown(t)
+
+def process_html(boat):
+  for html_field in ['short_description', 'full_description']:
+    if html_field in boat and not isHtml(boat[html_field]):
+      boat[html_field] = md2html(boat[html_field])
+  if 'for_sales' in boat:
+    p = []
+    conversions = 0
+    for fs in boat['for_sales']:
+      if not isHtml(fs['sales_text']):
+        fs['sales_text'] = md2html(fs['sales_text'])
+        conversions = conversions + 1
+      p.append(fs)
+    if conversions > 0:
+      boat['for_sales'] = p
+  return boat
+
+def json_serial(obj):
+  if isinstance(obj, date):
+    return obj.isoformat()
+  if isinstance(obj, datetime):
+    return obj.isoformat(timespec='seconds')[:-6]+'Z'
+  raise TypeError ("Type %s not serializable" % type(obj))
+
+def show_owners(b):
+  boat = None
+  try:
+    with open(f"boat/{b}/boat.yml", "r", encoding='utf-8') as stream:
+      boat = yaml.safe_load(stream)
+  except:
+    print(b)
+  if boat is not None:
+    if 'ownerships' in boat:
+      for ownership in boat['ownerships']:
+        if 'end' not in ownership and 'member' in ownership and 'current' not in ownership:
+            print(boat['name'], boat['oga_no'], ownership)
+
+
+if __name__ == '__main__':
+  if len(sys.argv) == 2:
+    show_owners(sys.argv[1])
+  else:
+    boats = listdir('boat')
+    for b in boats:
+      show_owners(b)

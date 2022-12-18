@@ -3,17 +3,19 @@ oga_no: 689
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: The Solent Smack, Alert, was designed and built by Daniel G Hatcher
-  in the 1860's. In 1946 she was completely rebuilt by Whisstocks and renamed Young
-  Alert. Immediately after the war it was possible to get timber to rebuild yachts
+short_description: |+
+  The Solent Smack, *Alert*, was designed and built by Daniel G Hatcher
+  in the 1860's. In 1946 she was completely rebuilt by Whisstocks and renamed *Young
+  Alert*. Immediately after the war it was possible to get timber to rebuild yachts
   but not to build new.
-full_description: "<p>Daniel G Hatcher was famous for building Solent fishing boats\
-  \ in the 1860s.</p>\r\n\r\n<p>Just after the Second World War, 1946, she was completely\
-  \ rebuilt by Whisstocks at Maldon, Essex, and re-named the &#39;Young Alert&#39;.\
-  \ At this time, it was possible to get timber to repair old yachts, but not to build\
-  \ new ones.</p>"
+full_description: |+
+  Daniel G Hatcher was famous for building Solent fishing boats
+  in the 1860s.
+  
+  Just after the Second World War, 1946, she was completely rebuilt by Whisstocks
+  at Maldon, Essex, and re-named the *Young Alert*. At this time, it was possible
+  to get timber to repair old yachts, but not to build new ones.
 year: 1946
-year_is_approximate: false
 designer:
   name: Daniel G. Hatcher
   id: 14683616-0fe8-4912-8de4-12c0337b20e6
@@ -21,18 +23,16 @@ place_built: Woodbridge
 construction_material: wood
 construction_method: unknown
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Bursledon
 hull_form: long keel deep forefoot
 sail_number: 689Y
 ownerships:
-- id: 1
-  share: 64
 - member: 1858
   id: 102
   start: 2012
   share: 64
+  current: true
 id: 5470b2da-86c5-4c74-b0e0-00d1315eb2cb
 image_key: LS4mxP
 thumb: https://photos.smugmug.com/photos/i-D39gcfD/0/Th/i-D39gcfD-Th.jpg
