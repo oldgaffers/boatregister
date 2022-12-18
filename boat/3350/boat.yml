@@ -56,7 +56,6 @@ for_sales:
   offered: '2020-01-29'
   price_flexibility:
     text: normal
-  reduced: false
   sales_text: '<strong>FLYCATCHER</strong> is a unique <strong>day boat </strong>design
     closely based on the Cape Cod <strong>Catboat </strong>of America. <strong>LOA
     14.75ft </strong>and <strong>6.9ft beam,</strong> giving great stability and carrying
@@ -95,25 +94,26 @@ sail_number: FC 1
 ownerships:
 - name: James Stock
   start: 2017
+  end: '2019'
   share: 64
 id: d71cf515-83ec-4d91-bb7a-9afa3739532f
 image_key: D6hDz4
 thumb: https://photos.smugmug.com/photos/i-6LDwDts/0/Th/i-6LDwDts-Th.jpg
 handicap_data:
+  calculated_thcf: 0.76
   beam: 2.1031
   draft: 0.1829
+  length_overall: 4.4958
+  length_on_deck: 4.4958
+  length_on_waterline: 3.9624
+  length_over_spars: 4.953
   sailarea: 1
+  draft_keel_down: 1.143
   main:
     foot: 13.71
     head: 10.56
     luff: 9.42
   moving_keel: true
-  length_overall: 4.4958
-  calculated_thcf: 0.76
-  draft_keel_down: 1.143
   moving_keel_type: Centreboard
-  length_over_spars: 4.953
-  length_on_waterline: 3.9624
-  length_on_deck: 4.4958
 created_at: '2020-04-25T17:50:57.109628+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'

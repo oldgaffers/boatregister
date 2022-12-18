@@ -3,7 +3,9 @@ oga_no: 2076
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: CB Sep 89
+full_description: |+
+  CB Sep 89
+
 year: 1990
 year_is_approximate: false
 designer:
@@ -19,12 +21,16 @@ construction_details: GRP
 selling_status: not_for_sale
 for_sales: []
 hull_form: unknown
-id: ec92a89e-f369-4f5c-8261-881cc400e66d
+ownerships:
+- member: 6598
+  id: 35018
+  share: 64
 handicap_data:
   beam: 2.7432
   draft: 1.3472
-  length_over_all: 6.909900024384297
-  length_on_waterline: 6.705681541087539
   length_on_deck: 6.9098
+  length_on_waterline: 6.705681541087539
+  length_over_all: 6.909900024384297
 created_at: '2020-04-25T17:14:38.524005+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: ec92a89e-f369-4f5c-8261-881cc400e66d
