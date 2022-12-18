@@ -3,16 +3,18 @@ oga_no: 3378
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <i>Hope</i> is a one-off clinker dinghy designed and built by Jonny
-  Burke at Govan, Glasgow
-full_description: <i>Hope</i> was designed and built in Govan on the Clyde by <a href="http://www.theboatwright.co.uk/"
-  target="_blank">Jonny Burke</a> in 2016. Jonny has a background in racing, and so
-  good sailing performance is central in all his designs.</p><p>Since her launch in
-  2016, &#39;Hope&#39; has&nbsp;cruised on Loch Tay, Derwentwater, Loch Morlich and
-  Sound of Iona.</p><p>&#39;Hope&#39; has quite a wide beam and pretty lines&nbsp;so
-  that alongside sailing capability she has space for all the family in a boat that
-  catches the eye.&nbsp;</p><p>LOA 16&rsquo;9&rsquo;&nbsp;Beam 6&rsquo; 3&rdquo; Draft
-  10&rdquo; plate up 3&rsquo; plate down.</p>
+short_description: |+
+  *Hope* is a one-off clinker dinghy designed and built by Jonny Burke at Govan,
+  Glasgow
+
+full_description: "*Hope* was designed and built in Govan on the Clyde by [Jonny\n\
+  Burke](http://www.theboatwright.co.uk/) in 2016. Jonny has a background in\nracing,\
+  \ and so good sailing performance is central in all his designs.Since her\nlaunch\
+  \ in 2016, 'Hope' has\_cruised on Loch Tay, Derwentwater, Loch Morlich and\nSound\
+  \ of Iona.\n\n\n'Hope' has quite a wide beam and pretty lines\_so that alongside\
+  \ sailing\ncapability she has space for all the family in a boat that catches the\
+  \ eye.\_\n\n\nLOA 16\u20199\u2019\_Beam 6\u2019 3\u201D Draft 10\u201D plate up\
+  \ 3\u2019 plate down.\n\n"
 year: 2016
 year_is_approximate: false
 designer:
@@ -31,39 +33,36 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2018-09-14T10:40:14+00:00'
   flexibility: normal
-  offered: null
   price_flexibility:
     text: normal
-  reduced: false
-  sales_text: "<p>\"Hope\" has quite a wide beam and pretty lines&nbsp;so that alongside\
-    \ sailing capability you will find space for all the family in a boat that catches\
-    \ the eye. Designed and built by Jonny Burke at Govan on the Clyde in 2016. Sails\
-    \ by North Sea sails.</p><p>LOA 16\u20199\u2019&nbsp;Beam 6\u2019 3\" Draft 10\"\
-    \ plate up 3\u2019 plate down.</p>"
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  sales_text: "\"Hope\" has quite a wide beam and pretty lines\_so that alongside\
+    \ sailing\ncapability you will find space for all the family in a boat that catches\
+    \ the\neye. Designed and built by Jonny Burke at Govan on the Clyde in 2016. Sails\
+    \ by\nNorth Sea sails.\n\n\nLOA 16\u20199\u2019\_Beam 6\u2019 3\" Draft 10\" plate\
+    \ up 3\u2019 plate down.\n\n"
   updated_at: '2020-05-03T10:13:13.17965+00:00'
 home_country: GBR
-home_port: Aberfeldy
+home_port: Teignmouth
 hull_form: centre-board dinghy
 ownerships:
 - name: Paul Parmenter
   start: 2016
   end: 2018
   share: 64
-id: fb0b9427-a390-4969-814c-ba130042c5b5
+- name: Bernard Howard
+  start: '2018'
+  current: true
 image_key: 23WmSw
 thumb: https://photos.smugmug.com/photos/i-rj6whjq/0/Th/i-rj6whjq-Th.jpg
 handicap_data:
   beam: 1.8288
   draft: 0.2743
-  moving_keel: true
-  draft_keel_down: 0.9144
-  moving_keel_type: Centreboard
-  length_over_spars: 5.1054
-  length_on_waterline: 4.8768
   length_on_deck: 5.1
+  length_on_waterline: 4.8768
+  length_over_spars: 5.1054
+  draft_keel_down: 0.9144
+  moving_keel: true
+  moving_keel_type: Centreboard
 created_at: '2020-04-25T17:51:27.454065+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: fb0b9427-a390-4969-814c-ba130042c5b5

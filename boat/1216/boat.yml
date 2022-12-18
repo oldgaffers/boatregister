@@ -22,7 +22,18 @@ hull_form: long keel deep forefoot
 ownerships:
 - name: Justin Findlay
   start: 2012
+  end: '2019'
   share: 64
+- member: 6296
+  id: 34847
+  start: '2019'
+  share: '32'
+  current: true
+- member: 6296
+  id: 34846
+  start: '2019'
+  share: '32'
+  current: true
 id: 79c13b35-969a-47be-979a-c38600a0fa54
 image_key: nr4F9t
 thumb: https://photos.smugmug.com/photos/i-XWWWGhn/0/Th/i-XWWWGhn-Th.jpg
@@ -32,17 +43,17 @@ handicap_data:
   draft: 1.8288222384784198
   fore_triangle_height: 10.500487685930262
   fore_triangle_base: 10.500487685930262
-  length_over_all: 18.2882223847842
+  length_on_deck: 14.325774201414289
+  length_on_waterline: 11.887344550109729
   propellor:
-    type: fixed
     blades: 3
+    type: fixed
   sailarea: 103.38353073554062
+  length_over_all: 18.2882223847842
   main:
     foot: 8.001097293343086
     head: 6.501463057790782
     luff: 6.001584979273348
-  length_on_waterline: 11.887344550109729
-  length_on_deck: 14.325774201414289
 created_at: '2020-04-25T17:01:38.950208+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
 air_draft: 17

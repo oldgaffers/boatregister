@@ -3,13 +3,17 @@ oga_no: 843
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Ro-an-mor is built with traditional layout and GRP hull. Her
-  designer Frank Argall based the design the Falmouth Workboats and a design of Warrington
-  Smyth.&nbsp;She&#39;s well ballasted with lead keel making her very stable and comfortable
-  for passage making.</p>
-full_description: <p>New 28hp Beta engine in 2011. The cabin is deep and has two good
-  berths and a galley, folding table and small multi-fuel stove. The fore-cabin has
-  a double bunk with a sea toilet under.</p>
+short_description: |+
+  *Ro-an-mor* is built with traditional layout and GRP hull. Her designer
+  Frank Argall based the design the Falmouth Workboats and a design of Warrington
+  Smyth.
+full_description: |+
+  New 28hp Beta engine in 2011. The cabin is deep and has two good berths and a
+  galley, folding table and small multi-fuel stove. The fore-cabin has a double
+  bunk with a sea toilet under.
+
+  She is well ballasted with lead keel making her very stable and comfortable
+  for passage making.
 year: 1978
 year_is_approximate: false
 designer:
@@ -31,22 +35,20 @@ for_sales:
   offered: '2019-06-01'
   price_flexibility:
     text: normal
-  reduced: false
-  sales_text: <p>Ro-An-Mor is for sale with David Morris Yacht Brokerage in Tollesbury
-    can be viewed at <a href="https://www.davidmorrisboats.co.uk/">www.davidmorrisboats.co.uk</a></p>
-  seller_gold_id: null
-  seller_member: null
+  sales_text: |+
+    Ro-An-Mor is for sale with David Morris Yacht Brokerage in Tollesbury can be
+    viewed at [www.davidmorrisboats.co.uk](https://www.davidmorrisboats.co.uk/)
   sold: '2020-10-11'
-  summary: null
   updated_at: '2020-05-03T10:13:13.363665+00:00'
 home_country: GBR
 hull_form: long keel deep forefoot
 ssr: 06786
 ownerships:
-- end: 1
-  note: 1st owner Frank Argall, 2nd owner Peter Clay. Russell Read sold her to Nigel
-    Waller.
-  text: st owner Frank Argall,
+- member: 6610
+  start: 2014
+  id: 35034
+  share: 64
+  current: true
 - name: Michael Feather
   start: 2007
   end: 2014
@@ -57,8 +59,8 @@ ownerships:
   share: 64
 - name: Paul Blyth
   start: 2018
+  end: 2022
   share: 64
-id: 4477c31a-e812-461c-955c-029165c94009
 image_key: LnsDPq
 thumb: https://photos.smugmug.com/photos/i-mKk8Fhr/0/Th/i-mKk8Fhr-Th.jpg
 handicap_data:
@@ -67,17 +69,17 @@ handicap_data:
   draft: 1.3716
   fore_triangle_height: 8.382101926359423
   fore_triangle_base: 6.4008778346744695
-  length_over_all: 7.620092660326749
+  length_on_deck: 7.62
+  length_on_waterline: 7.315288953913679
   propellor:
     type: fixed
+  topsail:
+    luff: 5.4864667154352595
+    perpendicular: 2.43842965130456
+  length_over_all: 7.620092660326749
   main:
     foot: 5.059741526456962
     head: 4.419653742989515
     luff: 5.6388685686417945
-  topsail:
-    luff: 5.4864667154352595
-    perpendicular: 2.43842965130456
-  length_on_waterline: 7.315288953913679
-  length_on_deck: 7.62
 created_at: '2020-04-25T16:55:07.056636+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'

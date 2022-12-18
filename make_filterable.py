@@ -2,6 +2,7 @@ import re
 import yaml
 import json
 from os import listdir
+from datetime import date, datetime
 
 def transform(o):
   if type(o) is dict and 'name' in o:
@@ -64,6 +65,13 @@ def get_boat(path):
   else:
     return boat
 
+def json_serial(obj):
+  if isinstance(obj, date):
+    return obj.isoformat()
+  if isinstance(obj, datetime):
+    return obj.isoformat(timespec='seconds')[:-6]+'Z'
+  raise TypeError ("Type %s not serializable" % type(obj))
+
 if __name__ == '__main__':
   f = open('fleets/editors choice')
   data = json.load(f)
@@ -90,4 +98,4 @@ if __name__ == '__main__':
         del boat['ownerships']
       data.append(boat)
   with open("filterable.json", "w") as stream:
-      json.dump(data, stream, ensure_ascii=False)
+      json.dump(data, stream, ensure_ascii=False, default=json_serial)

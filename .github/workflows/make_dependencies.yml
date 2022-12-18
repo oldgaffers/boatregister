@@ -20,6 +20,10 @@ jobs:
         run: |
           python3 make_picklists.py
           echo ok
+      - name: update editors_choice
+        run: |
+          python3 make_editors_choice.py
+          echo ok
       - name: create filter list json
         run: |
           python3 make_filterable.py

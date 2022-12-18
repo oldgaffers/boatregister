@@ -3,7 +3,8 @@ oga_no: 3231
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Kitty is a Yarmouth 23</p>
+short_description: |+
+  *Kitty* is a Yarmouth 23
 year: 2004
 year_is_approximate: false
 designer:
@@ -20,7 +21,13 @@ construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
 selling_status: not_for_sale
-for_sales: []
+for_sales:
+- created_at: 2022-12-11T09:25:00Z
+  sales_text: Owned since 2012.
+  seller_gold_id: 714
+  seller_member: 5668
+  sold: 2022-11-15
+  summary: sold privately to a non-member Richard Smith
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel sloping forefoot
@@ -29,8 +36,12 @@ ownerships:
 - member: 5668
   id: 714
   start: 2012
+  end: 2022
   share: 64
+- name: Richard Smith
+  start: 2022
   current: true
+  share: 64
 id: 44462bfc-0a31-4f49-8107-eef831be4029
 handicap_data:
   beam: 2.2799
@@ -41,10 +52,10 @@ handicap_data:
     foot: 12.73
     head: 9.22
     luff: 11.97
-  length_overall: 6.8793
   calculated_thcf: 0.849
-  length_over_spars: 7.9766
-  length_on_waterline: 5.4986
   length_on_deck: 6.8793
+  length_on_waterline: 5.4986
+  length_over_spars: 7.9766
+  length_overall: 6.8793
 created_at: '2020-04-25T17:46:48.63155+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
