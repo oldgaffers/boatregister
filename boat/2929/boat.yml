@@ -1,15 +1,26 @@
 name: Catsnip
 oga_no: 2929
-generic_type: unknown
+generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>Rob Cawley of Banbury imported the boat from Clearwater, Florida,
-  2006 and named her &#39;Catsnip&#39;.</p>
-full_description: "<p>Rob Cawley of Banbury imported the boat in 2006 and named her\
-  \ &#39;Catsnip&#39;.</p>\r\n\r\n<p>Gerrard Fraser-Williams purchased her in 2009\
-  \ to sail out of Holyhead with the intention of leaving her in Cemaes Bay, which\
-  \ dries out from approx. half tide, for some periods. She has a centreboard with\
-  \ draft of 14&quot; - 54&quot;.</p>"
+short_description: "The 17' Sun Cat was designed by Clark Mills as \u201Ca new breed\
+  \ of catboat\u201D - a\nshoal-draft daysailer and overnighter that would rig quickly,\
+  \ sail easily, and\ncomfortably accommodate family and friends with plenty of space\
+  \ for gear and\nstores.\n\n"
+full_description: |+
+  Rob Cawley of Banbury ordered and imported the boat from Com-Pac Yachts in
+  Clearwater, Florida, 2006 and named her 'Catsnip'.
+
+  Gerrard Fraser-Williams purchased her in 2009 to sail out of Holyhead and Cemaes
+  Bay, Anglesey.
+
+  Father and son Graham and Daniel Stoker purchased her in 2021 with the goal of
+  trailer-sailing her from their home waters of SW Wales and NE Essex, as well as
+  participating in OGA events.
+
+  Catsnip spent 2022 sailing on the Cleddau and has now relocated to the River
+  Colne for 2023.
+
 year: 2006
 year_is_approximate: false
 designer:
@@ -19,12 +30,13 @@ builder:
   name: Hutchins Co.
   id: b6e979af-6060-428b-9da6-f328feef204d
 place_built: Clearwater, Florida USA
-construction_material: wood
+construction_material: grp
+spar_material: aluminium
 construction_method: unknown
 selling_status: not_for_sale
 for_sales: []
 home_port: Holyhead
-hull_form: unknown
+hull_form: centre-boarder
 ownerships:
 - name: Rob Cawley
   start: 2006
@@ -33,10 +45,19 @@ ownerships:
 - name: Gerrard Fraser-Williams
   start: 2009
   share: 64
-id: bad7f7fa-37ca-42d2-bf1a-db664422b6f6
+image_key: cmzTqP
 handicap_data:
-  beam: 2.2098
-  length_over_all: 5.282248232138502
-  length_on_deck: 5.2822
+  thcf: 0.78
+  beam: 2.21
+  draft: 1.372
+  length_on_deck: 5.08
+  length_on_waterline: 4.572
+  propellor:
+    type: none
+  sailarea: 13.936
+  length_over_all: 5.282
 created_at: '2020-04-25T17:32:43.929888+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: bad7f7fa-37ca-42d2-bf1a-db664422b6f6
+new_design_class: Sun Cat 17
+air_draft: 26
