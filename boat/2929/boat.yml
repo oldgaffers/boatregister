@@ -1,7 +1,7 @@
 name: Catsnip
 oga_no: 2929
 generic_type: unknown
-rig_type: Sloop
+rig_type: Cat Boat
 mainsail_type: gaff
 short_description: |+
   Rob Cawley of Banbury imported the boat from Clearwater, Florida, 2006 and named
@@ -40,9 +40,15 @@ ownerships:
   share: 64
 image_key: cmzTqP
 handicap_data:
-  beam: 2.2098
-  length_on_deck: 5.2822
+  thcf: 0.78
+  beam: 2.21
+  length_on_deck: 5.08
+  length_on_waterline: 4.572
+  propellor:
+    type: none
+  sailarea: 13.936
   length_over_all: 5.282248232138502
 created_at: '2020-04-25T17:32:43.929888+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: bad7f7fa-37ca-42d2-bf1a-db664422b6f6
+air_draft: 26
