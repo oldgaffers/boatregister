@@ -59,7 +59,7 @@ jobs:
         fi
     - name: new designer, builder or design class
       run: |
-        echo '${{ github.event.inputs.new }}' | add_designer_items
+        echo '${{ github.event.inputs.new }}' | ./add_designer_items
     - name: boat
       run: |
         git config --global user.name ogauk  
