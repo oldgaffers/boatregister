@@ -27,10 +27,10 @@ builder:
 place_built: Clearwater, Florida USA
 construction_material: grp
 spar_material: aluminium
-construction_method: ' '
+construction_method: unknown
 selling_status: not_for_sale
 for_sales: []
-home_port: Brightlingsea
+home_port: Holyhead
 hull_form: centre-boarder
 ownerships:
 - name: Rob Cawley
@@ -43,6 +43,10 @@ ownerships:
   share: 64
 - member: 6603
   id: 35025
+  start: 2021
+  share: 32
+  current: true
+- name: Graham Stoker
   start: 2021
   share: 32
   current: true
