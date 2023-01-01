@@ -65,6 +65,11 @@ jobs:
         git add .
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
         git push origin ${{ env.branch }}
+    - name: new designer, builder or design class
+      run: |
+        echo ${{ github.event.inputs.new }} | ./make_builder
+        echo ${{ github.event.inputs.new }} | ./make_designer
+        echo ${{ github.event.inputs.new }} | ./make_design_class
     - name: Create Pull Request if none
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
