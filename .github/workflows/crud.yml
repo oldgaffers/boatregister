@@ -3,14 +3,17 @@ on:
   workflow_dispatch:
     inputs:
       oga_no:
-        description: 'Boat OGA No'
+        description: Boat OGA No
         required: true
       data:
-        description: 'new values as base 64 encoded JSON'
+        description: new values as base 64 encoded JSON
         required: true
       email:
-        description: 'email of person proposing the changes'
+        description: email of person proposing the changes
         required: true
+      new:
+        description: possible new designer, builder or design class
+        required: false
 jobs:
   boat_job:
     runs-on: ubuntu-latest
