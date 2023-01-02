@@ -3,39 +3,33 @@ oga_no: 3295
 generic_type: Plymouth Hooker
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Spinaway X&#39; is an early Plymouth Hooker built in Looe
-  in 1889.</p>
-full_description: "<p>&#39;Spinaway X&#39; was built in Looe in the 1880s. She was\
-  \ first registered in Plymouth in 1891 as PH 302. She is an early example of a Plymouth\
-  \ Hooker. She fished out of Polperro and other West Country ports until 1949 when\
-  \ she was sold as a yacht for the sum of &pound;185, a Willy&#39;s jeep (Teg. FDv\
-  \ 64) and a book of petrol coupons.</p>\r\n\r\n<p>In 1951 a survey shows she was\
-  \ partly decked with an open cockpit and a 1925 1 cylinder Bergius Co. engine. By\
-  \ 1958 she had a 19472 cylinder Thornecroft engine. In the mid 1970s she had a 20hp\
-  \ air cooled Lister engine.</p>\r\n\r\n<p>In 1979 Jim Curry refitted her including\
-  \ full decking, replacing parts of the keel, the stem and some replanking, tripling\
-  \ some frames and building a coachroof. Research at that time included a conversation\
-  \ with a 92 year old gent who remembered fishing on Spinaway in his youth. He had\
-  \ a fragile photograph of her and he quoted her as being the fastest piece of wood\
-  \ out of Polperro.</p>\r\n\r\n<p>In 1996 Dave Blinkhorn interviewed JC Heal&#39;s\
-  \ son Philip and got some of the above information. He described her as a Looe Lugger.\
-  \ As a yacht she has spent time in the Irish Sea, and in Dave and Anna Blinkhorn&#39;s\
-  \ ownership sailed via Scotland, East Coast and the French Canals to the Mediterranean,\
-  \ ending up in Spain. She sailed back to the West Country in 2004.</p>\r\n\r\n<p>In\
-  \ 2016, Bob Aylott went sailing with her owners Andrew and Angela Hitt and crew\
-  \ Mike and Brian on the River Medina. Take a look at the My Classic Boat video here.</p>\r\
-  \n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"360\" src=\"https://www.youtube.com/embed/Qxj-reShv3o\"\
-  \ width=\"640\"></iframe></p>"
+short_description: |+
+  'Spinaway X' is an early Plymouth Hooker built in Looe in 1889.
+
+full_description: "'Spinaway X' was built in Looe in the 1880s. She was first registered\
+  \ in\nPlymouth in 1891 as PH 302. She is an early example of a Plymouth Hooker.\
+  \ She\nfished out of Polperro and other West Country ports until 1949 when she was\
+  \ sold\nas a yacht for the sum of \xA3185, a Willy's jeep (Teg. FDv 64) and a book\
+  \ of\npetrol coupons.\n\n\nIn 1951 a survey shows she was partly decked with an\
+  \ open cockpit and a 1925 1\ncylinder Bergius Co. engine. By 1958 she had a 19472\
+  \ cylinder Thornecroft\nengine. In the mid 1970s she had a 20hp air cooled Lister\
+  \ engine.\n\n\nIn 1979 Jim Curry refitted her including full decking, replacing\
+  \ parts of the\nkeel, the stem and some replanking, tripling some frames and building\
+  \ a\ncoachroof. Research at that time included a conversation with a 92 year old\
+  \ gent\nwho remembered fishing on Spinaway in his youth. He had a fragile photograph\
+  \ of\nher and he quoted her as being the fastest piece of wood out of Polperro.\n\
+  \n\nIn 1996 Dave Blinkhorn interviewed JC Heal's son Philip and got some of the\n\
+  above information. He described her as a Looe Lugger. As a yacht she has spent\n\
+  time in the Irish Sea, and in Dave and Anna Blinkhorn's ownership sailed via\nScotland,\
+  \ East Coast and the French Canals to the Mediterranean, ending up in\nSpain. She\
+  \ sailed back to the West Country in 2004.\n\n\nIn 2016, Bob Aylott went sailing\
+  \ with her owners Andrew and Angela Hitt and crew\nMike and Brian on the River Medina.\
+  \ Take a look at the My Classic Boat video\nhere.\n\n\n"
 year: 1889
 year_is_approximate: false
-designer:
-  name: Unknown
-  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
-builder:
-  name: Unknown
-  id: b3841693-d336-4132-8e60-8933dfd41cf6
 place_built: Looe
 construction_material: wood
+spar_material: wood
 construction_method: carvel
 construction_details: "Carvel, wood\r\n"
 selling_status: not_for_sale
@@ -45,6 +39,9 @@ home_port: Cowes
 hull_form: long keel deep forefoot
 uk_part1: '167782'
 ownerships:
+- member: 6017
+  id: 893
+  share: 64
 - name: Davenport
   start: 1905
   end: 1915
@@ -88,31 +85,26 @@ ownerships:
   start: 2003
   end: 2015
   share: 64
-- member: 6017
-  id: 893
-  start: 2015
-  share: 64
-  current: true
-id: 2c4ba110-12ce-47bd-b23e-94d4875e336c
 image_key: Q837Kj
 thumb: https://photos.smugmug.com/photos/i-pXzRTVx/0/Th/i-pXzRTVx-Th.jpg
 handicap_data:
+  calculated_thcf: 0.969
   beam: 2.7493
   draft: 1.4508
   fore_triangle_height: 8.0985
   fore_triangle_base: 7.0013
+  length_overall: 8.699
+  length_on_deck: 8.699
+  length_on_waterline: 8.2997
+  length_over_spars: 12.6004
   sailarea: 4
+  topsail:
+    luff: 18.04
+    perpendicular: 8.86
   main:
     foot: 14.44
     head: 11.48
     luff: 16.01
-  topsail:
-    luff: 18.04
-    perpendicular: 8.86
-  length_overall: 8.699
-  calculated_thcf: 0.969
-  length_over_spars: 12.6004
-  length_on_waterline: 8.2997
-  length_on_deck: 8.699
 created_at: '2020-04-25T17:48:38.560234+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 2c4ba110-12ce-47bd-b23e-94d4875e336c
