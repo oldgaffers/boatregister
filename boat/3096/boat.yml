@@ -3,25 +3,24 @@ oga_no: 3096
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>Restored 1983 - 1993.</p>
-full_description: <p>Discovered by Iain Chambers at Jim Benney's yard at St Just 1983,
-  on legs with the tide running through her. Trailed her home to Hertfordshire and
-  restored her over 10 years. Re-launched March 1993.Won 1st prize in restoration
-  class at Wooden Boat Show 1993. The boat was bought in 2020 from the owner after
-  Ian Chambers by Simon Bell. Nick Harvey has since then restored and improved the
+short_description: |+
+  Restored 1983 - 1993.
+
+full_description: |+
+  Discovered by Iain Chambers at Jim Benney's yard at St Just 1983, on legs with
+  the tide running through her. Trailed her home to Hertfordshire and restored her
+  over 10 years. Re-launched March 1993.Won 1st prize in restoration class at
+  Wooden Boat Show 1993. The boat was bought in 2020 from the owner after Ian
+  Chambers by Simon Bell. Nick Harvey has since then restored and improved the
   boat in the two subsequent years to a state of near perfection. She is now ready
   to race as well as enjoy in the usual run of things. This Megavissey Tosher from
-  the Falmouth working boat stable is set to last another generation.</p>
+  the Falmouth working boat stable is set to last another generation.
+
 year: 1950
 year_is_approximate: false
-designer:
-  name: Unknown
-  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
-builder:
-  name: Unknown
-  id: b3841693-d336-4132-8e60-8933dfd41cf6
 place_built: Falmouth
 construction_material: wood
+spar_material: wood
 construction_method: carvel
 construction_details: Carvel, Pine on oak ribs. Iroko decking
 selling_status: not_for_sale
@@ -30,23 +29,22 @@ home_country: GBR
 hull_form: long keel sloping forefoot
 ownerships:
 - name: Iain Chambers
-  start: 0
   share: 64
 - name: Chris Mann
   start: 2012
   share: 64
-id: 9e2923bb-bf73-4030-a081-518960dae398
 handicap_data:
   beam: 1.524
   draft: 0.762
   fore_triangle_height: 6.4008778346744695
   fore_triangle_base: 4.26725188978298
+  length_on_deck: 6.096
+  length_on_waterline: 5.7912704218483295
+  length_over_spars: 9.1441111923921
   length_over_all: 6.0960741282613995
   main:
     foot: 3.6576444769568397
     head: 3.200451109485491
-  length_over_spars: 9.1441111923921
-  length_on_waterline: 5.7912704218483295
-  length_on_deck: 6.096
 created_at: '2020-04-25T17:36:27.908563+00:00'
 updated_at: '2022-04-05T11:04:42.640227+00:00'
+id: 9e2923bb-bf73-4030-a081-518960dae398
