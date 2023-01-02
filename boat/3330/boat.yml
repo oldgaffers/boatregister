@@ -3,10 +3,14 @@ oga_no: 3330
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>Built to order Summer 1997 and shown on the maker&#39;s stand
-  at the Southampton Boat Show. Lamorna is a Devon Potter, a 14ft. day boat.</p>
-full_description: <p>Lamorna&#39;s first owner sailed her from Penarth Sailing Club.
-  Since 2015 sailed mainly on Ullswater.</p>
+short_description: |+
+  Built to order Summer 1997 and shown on the maker's stand at the Southampton
+  Boat Show. Lamorna is a Devon Potter, a 14ft. day boat.
+
+full_description: |+
+  Lamorna's first owner sailed her from Penarth Sailing Club. Since 2015 sailed
+  mainly on Ullswater.
+
 year: 1997
 year_is_approximate: false
 designer:
@@ -16,30 +20,32 @@ design_class:
   name: Devon Potter
   id: f7324de1-31cf-4ce5-9401-27b03c797980
 builder:
-  name: Wootton Bridge Ind.Ltd.
-  id: 81f83091-a77e-46de-ad12-ab5b82d6ac17
+  name: Wootton Bridge Industries Ltd.
+  id: 8c67b213-4883-478d-a8e4-fc6d920ebc68
 place_built: Wootton Bridge Isle of Wight
 construction_material: wood
+spar_material: wood
 construction_method: clinker
 construction_details: Traditional clinker, mahogany on oak.
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: At home
+hull_form: unknown
 ownerships:
-- note: First owner Mr Johansen,
-  text: First owner Mr Johansen,
-- note: Second owner John Harrison
-  text: Second owner John Harrison
+- name: Mr Johansen,
+  note: First owner
+- name: John Harrison
+  note: Second owner
 - name: Mark Tudor
   start: 2015
   share: 64
-id: 5f02e218-cd06-4bb5-920e-2d378843f977
 handicap_data:
   beam: 1.8776
-  sailarea: 1
   length_overall: 4.444
-  length_over_spars: 5.2304
   length_on_deck: 4.444
+  length_over_spars: 5.2304
+  sailarea: 1
 created_at: '2020-04-25T17:49:16.490818+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 5f02e218-cd06-4bb5-920e-2d378843f977
