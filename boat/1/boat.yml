@@ -3,13 +3,12 @@ oga_no: 1
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Fairy&#39; is a 32&#39; smack, designed and built in 1879
-  by John Howard in Maldon, Essex.</p>
-full_description: "In 1966 she was in poor condition. She had 'Fairy of Colchester\
-  \ 1891' carved under the counter then.\r\n\r\nIn December 2004, her owner reported\
-  \ new spars, sails and engine are being fitted."
+short_description: |+
+  *Fairy* is a 32' smack, designed and built in 1879 by John Howard in Maldon, Essex.
+full_description: In 1966 she was in poor condition. She had 'Fairy of Colchester
+  1891' carved under the counter then.
+  In December 2004, her owner reported new spars, sails and engine are being fitted.
 year: 1879
-year_is_approximate: false
 designer:
   name: John Howard
   id: 95a99de1-d22c-4845-8d7a-a650a5dcf34c
@@ -18,19 +17,19 @@ builder:
   id: 98b37407-3881-4aba-892d-b8f6b35b8dc0
 place_built: Maldon
 construction_material: wood
-construction_method: unknown
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Falmouth
 hull_form: long keel deep forefoot
 ownerships:
 - start: 1966
-  note: Owned by Terence Davey 1966.
-  text: Owned by Terence Davey
+  end: 1971
+  share: 64
+  name: Owned by Terence Davey
 - start: 1971
-  note: Owned by D.T.Austin 1971
-  text: Owned by D.T.Austin
+  end: 1977
+  share: 64
+  name: D.T.Austin
 - name: Amanda Closs
   start: 1977
   share: 64
