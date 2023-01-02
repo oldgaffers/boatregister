@@ -3,44 +3,41 @@ oga_no: 3266
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>Built as one of six yachts in Ipswich, 1936, 'Coral' was taken
-  to Ireland after the 2nd World War where she remains.</p>
-full_description: <p>'Coral' was one of six yachts built in Ipswich, 1936. She was
-  taken to Ireland after the 2nd World War by a retired major who sold her on to Mark
-  Sheehan and was kept in Westport until 2003.</p><p>She had a new engine fitted proir
-  to 2003. Her mast is hinged on a tabernacle and her mainsail is roller reefed. She
-  has a large pig iron keel weighing approximately 3/4 of a tonne.</p><p>No major
-  cruises are known before 2003.</p>
+short_description: |+
+  Built as one of six yachts in Ipswich, 1936, 'Coral' was taken to Ireland after
+  the 2nd World War where she remains.
+
+full_description: |+
+  'Coral' was one of six yachts built in Ipswich, 1936. She was taken to Ireland
+  after the 2nd World War by a retired major who sold her on to Mark Sheehan and
+  was kept in Westport until 2003.
+
+  She had a new engine fitted proir to 2003. Her mast is hinged on a tabernacle
+  and her mainsail is roller reefed. She has a large pig iron keel weighing
+  approximately 3/4 of a tonne.
+
+  No major cruises are known before 2003.
+
 year: 1936
 year_is_approximate: false
-designer:
-  name: Unknown
-  id: 421b7a88-14f7-4f23-ae34-116d6bcfd814
-builder:
-  name: Unknown
-  id: b3841693-d336-4132-8e60-8933dfd41cf6
 place_built: Ipswich
 construction_material: wood
-construction_method: unknown
+spar_material: wood
+construction_method: carvel
 construction_details: 1" oak planking on 1" and 3/4" oak ribs.
 selling_status: not_for_sale
 for_sales:
 - created_at: '2019-01-28T05:40:35+00:00'
   flexibility: normal
-  offered: null
   price_flexibility:
     text: normal
-  reduced: false
-  sales_text: <p>A gaff rig sloop, built 1936 in Ipswich, "Coral" was brought to Ireland
-    after World War II by a retired Major. She is currently lying in Leitrim, Ireland.&nbsp;</p><p>27"
-    oak on oak, with a large pig iron keel, her mast is on a tabernacle and her mainsail
-    is roller reefed. She has two mainsails, four large anchors, 100" of chain, a
-    Yanmar 20hp diesel engine with very low hour and her own launching trailer.</p><p>She
-    is recently painted and in excellent condition and may be viewed out of the water.</p>
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  sales_text: "A gaff rig sloop, built 1936 in Ipswich, \"Coral\" was brought to Ireland\
+    \ after\nWorld War II by a retired Major. She is currently lying in Leitrim, Ireland.\_\
+    \n\n27\" oak on oak, with a large pig iron keel, her mast is on a tabernacle and\
+    \ her\nmainsail is roller reefed. She has two mainsails, four large anchors, 100\"\
+    \ of\nchain, a Yanmar 20hp diesel engine with very low hour and her own launching\n\
+    trailer.\n\nShe is recently painted and in excellent condition and may be viewed\
+    \ out of the\nwater.\n\n"
   updated_at: '2020-05-03T10:13:12.824503+00:00'
 home_country: IRL
 home_port: Port Carrick on Shannon, Leitrim.
@@ -50,18 +47,18 @@ ownerships:
   start: 2003
   end: 2017
   share: 64
-id: 28227540-bf10-4764-8987-8ce00da62086
 image_key: Ksv7Fk
 thumb: https://photos.smugmug.com/photos/i-9XLxJmK/0/Th/i-9XLxJmK-Th.jpg
 handicap_data:
   beam: 2.8194
   draft: 1.2192
+  length_overall: 8.1778
+  length_on_deck: 8.1778
+  length_on_waterline: 7.1628
+  length_over_spars: 8.5344
   main:
     foot: 18
     head: 13.5
-  length_overall: 8.1778
-  length_over_spars: 8.5344
-  length_on_waterline: 7.1628
-  length_on_deck: 8.1778
 created_at: '2020-04-25T18:37:14.333494+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 28227540-bf10-4764-8987-8ce00da62086
