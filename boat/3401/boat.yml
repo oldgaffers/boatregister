@@ -3,26 +3,38 @@ oga_no: 3401
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gunter
-short_description: <p>A 13&#39; dinghy, one of only six made, moulded by Hunter Boats,
-  finished by Brian Mott, Cabin Boatyard, Bursledon and Andy Cunningham.</p>
-full_description: "<p>Commissioned on the birth of his first child, and named after\
-  \ grandfather Jack Holt, Cunard&#39;s choice Southampton Trinity House pilot and\
-  \ member of the Master Mariners club. The Club is called &#39;The Cachalots&#39;\
-  \ after the whale as they had the thickest skins and spouted a lot!</p>\r\n\r\n\
-  <p>&#39;Cachalot Jack&#39;, the family boat, was intended to be the tender when\
-  \ times were flush and primary craft when things were tough or events dictated,\
-  \ but always loved.</p>\r\n\r\n<p>Great fun in a small package which introduced\
-  \ the children to boating.</p>"
+short_description: |+
+  A 13' dinghy, one of only six made, moulded by Hunter Boats, finished by Brian
+  Mott, Cabin Boatyard, Bursledon and Andy Cunningham.
+
+full_description: |+
+  Commissioned on the birth of his first child, and named after grandfather Jack
+  Holt, Cunard's choice Southampton Trinity House pilot and member of the Master
+  Mariners club. The Club is called 'The Cachalots' after the whale as they had
+  the thickest skins and spouted a lot!
+
+
+  'Cachalot Jack', the family boat, was intended to be the tender when times were
+  flush and primary craft when things were tough or events dictated, but always
+  loved.
+
+
+  Great fun in a small package which introduced the children to boating.
+
 year: 1992
 year_is_approximate: false
+designer:
+  name: David Thomas
+  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 design_class:
   name: Hunter Scout
   id: 7140d324-ad5f-4f82-975b-e5be4712921e
 builder:
-  name: Hunter Boats
-  id: 5f1a3b47-dc5a-41e0-8a83-14e12949abbb
+  name: Hunter Boats Ltd.
+  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
 place_built: Tavistock
 construction_material: grp
+spar_material: aluminium
 construction_method: cold_moulded
 construction_details: GRP
 selling_status: not_for_sale
@@ -30,8 +42,9 @@ for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: unknown
-id: 850f88c1-7074-4057-afdc-671e8813fb7f
-created_at: '2020-04-25T17:53:06.616565+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+ownerships: []
 handicap_data:
   length_on_deck: 3.9624
+created_at: '2020-04-25T17:53:06.616565+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 850f88c1-7074-4057-afdc-671e8813fb7f
