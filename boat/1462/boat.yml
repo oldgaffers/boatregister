@@ -5,7 +5,6 @@ rig_type: Sloop
 mainsail_type: gaff
 full_description: CB May 89
 year: 1987
-year_is_approximate: false
 designer:
   name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
@@ -29,18 +28,18 @@ reference:
 sail_number: '246'
 callsign: MFJN9
 ownerships:
-- name: Hew Naylor
-  start: 1980
-  end: 2015
-  share: 32
-- name: Robin Gibben
-  start: 1980
-  end: 2015
-  share: 32
 - name: Gary Pearlman
   start: 1987
   end: 1989
   share: 64
+- name: Hew Naylor
+  start: 1989
+  end: 2015
+  share: 32
+- name: Robin Gibben
+  start: 1989
+  end: 2015
+  share: 32
 - name: Nigel Emmett
   start: 2015
   end: 2017
