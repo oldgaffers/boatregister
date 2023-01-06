@@ -3,12 +3,16 @@ oga_no: 2442
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: Psyche's hull was built in 2000 by Spirit Yachts on the River Orwell,
-  Suffolk, England and fitted out at Dolphin Quay in Chichester.
-full_description: <p>She was designed by Ed Burnett in the character of the Albert
-  Strange designs of the early 1900s. Her first owners, David and Jenny Still, cruised
-  extensively in South Brittany, the West Country and Southern Ireland, regularly
-  racing in the Solent and West Country.</p>
+short_description: |+
+  Psyche's hull was built in 2000 by Spirit Yachts on the River Orwell, Suffolk,
+  England and fitted out at Dolphin Quay in Chichester.
+
+full_description: |+
+  She was designed by Ed Burnett in the character of the Albert Strange designs of
+  the early 1900s. Her first owners, David and Jenny Still, cruised extensively in
+  South Brittany, the West Country and Southern Ireland, regularly racing in the
+  Solent and West Country.
+
 year: 2000
 year_is_approximate: false
 designer:
@@ -24,7 +28,7 @@ selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 hull_form: long keel sloping forefoot
-sail_number: DO1
+sail_number: DQ1
 ownerships:
 - name: David and Jenny Still
   start: 2000
@@ -37,7 +41,6 @@ ownerships:
 - name: Kevin McBride
   start: 2013
   share: 64
-id: 0f8aac40-c469-4810-8e74-597eb40237e4
 image_key: HmgRFn
 thumb: https://photos.smugmug.com/photos/i-6MLjGMT/0/Th/i-6MLjGMT-Th.jpg
 handicap_data:
@@ -46,19 +49,20 @@ handicap_data:
   draft: 1.585
   fore_triangle_height: 9.1441111923921
   fore_triangle_base: 6.7818824676908065
+  length_on_deck: 11.5214
+  length_on_waterline: 9.653133382101926
+  topsail:
+    luff: 4.26725188978298
+    perpendicular: 2.7432333577176298
   length_over_all: 11.530724213606437
   main:
     foot: 5.334064862228725
     head: 4.87685930260912
     luff: 7.315288953913679
-  topsail:
-    luff: 4.26725188978298
-    perpendicular: 2.7432333577176298
   mizzen:
     foot: 2.13362594489149
     head: 2.43842965130456
     luff: 2.8956352109241648
-  length_on_waterline: 9.653133382101926
-  length_on_deck: 11.5214
 created_at: '2020-04-25T17:20:48.436628+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 0f8aac40-c469-4810-8e74-597eb40237e4
