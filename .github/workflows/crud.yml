@@ -66,18 +66,22 @@ jobs:
         git config --global user.email boatregister@oga.org.uk
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
         git add .
+        git diff --exit-code
+    - name: commit if differences
+      if: ${{ failure() }}
+      run: |
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
         git push origin ${{ env.branch }}
+    - name: detect if pr exists
+      run: gh pr list --head ${{ env.branch }} -s open --json title --jq '. | length'| sed -e 's/^/PR=/' >> $GITHUB_ENV
     - name: Create Pull Request if none
+      if: ${{ env.PR == 0 }}
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        if [[ 0 -eq $(gh pr list --head ${{ env.branch }} -s open --json title --jq '. | length') ]]
-        then
-          gh pr create \
-            --assignee AlisonCable \
-            --base main \
-            --head ${{ env.branch }} \
-            --title "${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}" \
-            --body "additional changes can be accumulated before merging"
-        fi
+        gh pr create \
+          --assignee AlisonCable \
+          --base main \
+          --head ${{ env.branch }} \
+          --title "${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}" \
+          --body "additional changes can be accumulated before merging"
