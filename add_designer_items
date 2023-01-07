@@ -21,10 +21,13 @@ def update(key, item):
 
 if __name__ == '__main__':
   data = sys.stdin.buffer.read()
-  print('stdin', data)
+  if data.strip() == b'':
+    print('no new items')
+    exit()
   try:
     input = json.loads(data)
   except:
+    print("can't parse stdin", data)
     input = {}
   for key in input.keys():
     print(key)
