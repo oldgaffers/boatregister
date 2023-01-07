@@ -20,7 +20,10 @@ def update(key, item):
       yo.dump(o, f)
 
 if __name__ == '__main__':
-  input = json.loads(sys.stdin.buffer.read())
+  try:
+    input = json.loads(sys.stdin.buffer.read())
+  except:
+    input = []
   for key in input.keys():
     print(key)
     update(key, input[key])
