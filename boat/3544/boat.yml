@@ -1,33 +1,30 @@
-name: Lookfar
+name: lookfar
 oga_no: 3544
-short_description: The Sharpshooter 17 is understood to be a GRP version of the Hampton 17.
-full_description: |+
-  The Sharpshooter 17 is understood to be a UK built GRP version of the 17' Hampton boat described
-  in Howard Chapelle's 1941 book "Boatbuilding."
-design_class:
-  name: Sharpshooter 17
-  id: da34dc61-0777-4dbc-931e-8dbb1922e09d
-designer:
-  name: Robert Brasted
-  id: e79d17d8-37bd-4684-ad21-0b8e4216b54d
-website: http://forum.woodenboat.com/showthread.php?11245-Chapelle-s-17-foot-Hampton-boat
-generic_type: dayboat
+generic_type: Yacht
 rig_type: Ketch
 mainsail_type: spritsail
+full_description: |+
+  Little known about this vessel, any information greatly appreciated
+
 year: 1995
 year_is_approximate: true
-place_built: Highcliffe
 builder:
   name: Concept Dinghies
   id: cd671754-c2c6-490d-89e7-5bc22ee64a27
-home_country: Isle of Wight
-home_port: Wootton Creek
+place_built: Highcliffe
 construction_material: grp
-construction_method: cold moulded
 spar_material: wood
+construction_method: carvel
+home_country: isle of wight
+home_port: wootton creek
 hull_form: long keel sloping forefoot
 image_key: Q5BHdN
 handicap_data:
   beam: 1.981
   draft: 0.61
   length_on_deck: 5.182
+air_draft: 19
+newItems:
+  design_class:
+    name: Sharpshooter
+    id: 2fe5c70c-6739-4d6f-a4ec-0b8446597df0
