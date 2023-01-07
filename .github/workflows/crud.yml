@@ -66,6 +66,10 @@ jobs:
         git config --global user.email boatregister@oga.org.uk
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
         git add .
+        git diff --exit-code
+    - name: commit if differences
+      if: ${{ failure() }}
+      run: |
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
         git push origin ${{ env.branch }}
     - name: Create Pull Request if none
