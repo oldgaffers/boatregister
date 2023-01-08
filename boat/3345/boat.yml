@@ -81,11 +81,19 @@ hull_form: long keel deep forefoot
 ssr: '167009'
 callsign: T121621
 ownerships:
-- note: Previous owner Andrew Crawford.
-  text: Previous owner Andrew Crawford.
-- name: Kevin Gorringe
-  start: 2017
+- name: Andrew Crawford
+  end: 2017
   share: 64
+- start: 2017
+  end: 2021
+  id: 406
+  member: 4213
+  share: 64
+- start: 2021
+  id: 406
+  member: 4213
+  share: 64
+  current: true
 id: 5ed47587-b95f-4519-ae5d-7aebce798083
 image_key: GqMt4W
 thumb: https://photos.smugmug.com/photos/i-JQRZ5Vg/0/Th/i-JQRZ5Vg-Th.jpg
@@ -98,6 +106,5 @@ handicap_data:
   length_on_waterline: 4.9682
   length_on_deck: 5.3645
 created_at: '2020-04-25T17:50:51.391399+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Womble
