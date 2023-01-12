@@ -62,15 +62,18 @@ jobs:
         echo '${{ github.event.inputs.new }}' | ./add_designer_items
     - name: boat
       run: |
-        git config --global user.name ogauk  
-        git config --global user.email boatregister@oga.org.uk
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
-        git add .
-        git diff --cached --exit-code
-        echo CHANGES=$? >> $GITHUB_ENV
+        if git diff --exit-code; then
+          echo CHANGES=0 >> $GITHUB_ENV
+        else
+          echo CHANGES=1 >> $GITHUB_ENV
+        fi
     - name: commit if differences
       if: ${{ env.CHANGES == 1 }}
       run: |
+        git config --global user.name ogauk  
+        git config --global user.email boatregister@oga.org.uk
+        git add .
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
         git push origin ${{ env.branch }}
     - name: detect if pr exists
