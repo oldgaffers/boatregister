@@ -32,8 +32,8 @@ jobs:
         uses: EndBug/add-and-commit@v9.1.0
         with:
           add: '.'
-      - name: create release
+      - name: publish pages
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh release create v`date +%Y%m%d%H%M` --notes "automated release"
+        run: gh workflow run static.yml
 
