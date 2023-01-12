@@ -33,5 +33,7 @@ jobs:
         with:
           add: '.'
       - name: create release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh release create v`date -Iminutes` --notes "automated release"
 
