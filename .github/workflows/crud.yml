@@ -77,10 +77,14 @@ jobs:
         git add .
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
         git push origin ${{ env.branch }}
+    - name: set PR if no changes
+      if: ${{ env.CHANGES == 0 }}
+      run: echo PR=1 >> $GITHUB_ENV
     - name: detect if pr exists
+      if: ${{ env.CHANGES == 1 }}
       run: gh pr list --head ${{ env.branch }} -s open --json title --jq '. | length'| sed -e 's/^/PR=/' >> $GITHUB_ENV
     - name: Create Pull Request if none
-      if: ${{ env.PR == 0 && env.CHANGES == 1 }}
+      if: ${{ env.PR == 0 }}
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
