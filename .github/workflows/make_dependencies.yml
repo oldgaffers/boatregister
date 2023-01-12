@@ -32,4 +32,6 @@ jobs:
         uses: EndBug/add-and-commit@v9.1.0
         with:
           add: '.'
+      - name: create release
+        run: gh release create v`date -Iminutes` --notes "automated release"
 
