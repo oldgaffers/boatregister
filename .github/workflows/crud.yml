@@ -68,28 +68,27 @@ jobs:
         else
           echo CHANGES=1 >> $GITHUB_ENV
         fi
+        echo changes ${{ env.CHANGES == 1 }}
         true
-    - name: commit if differences
+    - name: run echo if changes
+      if: ${{ env.CHANGES == 1 }}
+      run: echo there are changes
+    - name: run echo if no changes
+      if: ${{ env.CHANGES == 0 }}
+      run: echo there are no changes
+    - name: commit and push if differences
       if: ${{ env.CHANGES == 1 }}
       run: |
+        git add .
         git config --global user.name ogauk  
         git config --global user.email boatregister@oga.org.uk
-        git add .
-        git diff --exit-code
-        echo CHANGES=$? >> $GITHUB_ENV
-    - name: commit if differences
-      if: ${{ env.CHANGES == 1 }}
-      run: |
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
         git push origin ${{ env.branch }}
-    - name: set PR if no changes
-      if: ${{ env.CHANGES == 0 }}
-      run: echo PR=1 >> $GITHUB_ENV
     - name: detect if pr exists
       if: ${{ env.CHANGES == 1 }}
       run: gh pr list --head ${{ env.branch }} -s open --json title --jq '. | length'| sed -e 's/^/PR=/' >> $GITHUB_ENV
     - name: Create Pull Request if none
-      if: ${{ env.PR == 0 }}
+      if: ${{ env.CHANGES == 1 && env.PR == 0 }}
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
