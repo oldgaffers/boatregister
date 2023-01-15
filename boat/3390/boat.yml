@@ -1,10 +1,12 @@
 name: Chiggo
 oga_no: 3390
+generic_type: Canoe Yawl
 rig_type: Yawl
 mainsail_type: gaff
 short_description: |+
   Chiggo is a Sea Otter 18.
 
+year: 2000
 year_is_approximate: false
 designer:
   name: David Moss
@@ -15,7 +17,9 @@ design_class:
 builder:
   name: David Moss Boatbuilders
   id: 57e22238-cdd2-4556-a3f3-ef834d765e07
+place_built: Skippool Creek, Lancs.
 construction_material: woodepoxy
+spar_material: wood
 construction_details: Epoxyed strip planked douglas fir with a Kyaya veneer
 selling_status: not_for_sale
 for_sales: []
@@ -27,7 +31,7 @@ ownerships:
   share: 64
 image_key: 6B4MWw
 handicap_data:
-  beam: 1.8806
+  beam: 1.881
   draft: 0.4328
   length_overall: 5.4864
   length_on_deck: 5.4864
@@ -35,6 +39,7 @@ handicap_data:
   draft_keel_down: 1.3198
   moving_keel: true
   moving_keel_type: Centreboard
+  length_over_all: 5.486
 created_at: '2020-04-25T17:52:55.474242+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 7fbdb1fc-48f3-414d-934b-d8c6309b5506
