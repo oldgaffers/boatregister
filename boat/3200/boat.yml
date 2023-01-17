@@ -3,7 +3,9 @@ oga_no: 3200
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Cornish Crabbers Pilot Cutter 30. Boat Show model in 2001.</p>
+short_description: |+
+  Cornish Crabbers Pilot Cutter 30. Boat Show model in 2001.
+
 year: 2001
 year_is_approximate: false
 designer:
@@ -28,38 +30,39 @@ hull_form: long keel deep forefoot
 sail_number: P48
 ssr: '126575'
 ownerships:
-- member: 5878
+- name: Tim Chittenden
+  member: 5878
   id: 816
   start: 2010
   end: 2022
   share: 64
-id: cf3849eb-72cc-4b6f-ade1-45772e6fe42e
 image_key: rv2tzQ
 thumb: https://photos.smugmug.com/photos/i-wGHPtDb/0/Th/i-wGHPtDb-Th.jpg
 handicap_data:
+  calculated_thcf: 0.963
   beam: 2.8956
   draft: 1.0668
   fore_triangle_height: 8.382
   fore_triangle_base: 5.9192
+  length_overall: 9.144
+  length_on_deck: 9.144
+  length_on_waterline: 7.873
+  length_over_spars: 11.8872
   sailarea: 5
+  topsail:
+    luff: 14.33
+    perpendicular: 6
+  draft_keel_down: 1.6246
+  draft_keel_up: 1.0668
   main:
     foot: 17.92
     head: 14.33
     luff: 16.33
-  topsail:
-    luff: 14.33
-    perpendicular: 6
   moving_keel: true
-  draft_keel_up: 1.0668
-  length_overall: 9.144
-  calculated_thcf: 0.963
-  draft_keel_down: 1.6246
   moving_keel_type: Centreboard
-  length_over_spars: 11.8872
-  length_on_waterline: 7.873
-  length_on_deck: 9.144
 created_at: '2020-04-25T17:46:14.972864+00:00'
 updated_at: '2022-07-10T20:25:26.749669+00:00'
+id: cf3849eb-72cc-4b6f-ade1-45772e6fe42e
 previous_names:
 - Son of a Sailor
 - Spot the Dog
