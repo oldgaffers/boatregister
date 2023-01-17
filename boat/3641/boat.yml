@@ -3,12 +3,13 @@ oga_no: 3641
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p><em>Lena</em> is a Heard 23, bought as a bare hull and fitted
-  out by her first owner.</p>
-full_description: <p>Tony Arthur purchased the hull in 1978 for self fit out - David
-  &nbsp;Spargo sold her in 1995. In Dec 2009 &nbsp;Soren Poulsen bouight her and took
-  her to Denmark. Her current owner brought her from Sweden down to St Malo by road
-  transport, and then by water across to Jersey</p>
+short_description: |+
+  *Lena* is a Heard 23, bought as a bare hull and fitted out by her first owner.
+
+full_description: "Tony Arthur purchased the hull in 1978 for self fit out - David\
+  \ \_Spargo sold her\nin 1995. In Dec 2009 \_Soren Poulsen bouight her and took her\
+  \ to Denmark. Her\ncurrent owner brought her from Sweden down to St Malo by road\
+  \ transport, and\nthen by water across to Jersey\n\n"
 year: 1978
 year_is_approximate: false
 designer:
@@ -26,9 +27,10 @@ spar_material: wood
 construction_method: cold_moulded
 for_sales: []
 home_country: Jersey
+home_port: g
 hull_form: long keel deep forefoot
 sail_number: '13'
-id: 0b9e16c4-ee46-4543-9436-9bef0e5702ca
+ownerships: []
 image_key: FNPBLx
 thumb: https://photos.smugmug.com/photos/i-Vbkn5Fn/0/Th/i-Vbkn5Fn-Th.jpg
 handicap_data:
@@ -37,3 +39,4 @@ handicap_data:
   length_on_deck: 7.010485247500609
 created_at: '2022-01-17T16:07:01.583554+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 0b9e16c4-ee46-4543-9436-9bef0e5702ca
