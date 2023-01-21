@@ -63,7 +63,8 @@ jobs:
     - name: boat
       run: |
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
-        if git diff --exit-code; then
+        git add .
+        if git diff --cached --exit-code; then
           echo CHANGES=0 >> $GITHUB_ENV
         else
           echo CHANGES=1 >> $GITHUB_ENV
@@ -79,7 +80,6 @@ jobs:
     - name: commit and push if differences
       if: ${{ env.CHANGES == 1 }}
       run: |
-        git add .
         git config --global user.name ogauk  
         git config --global user.email boatregister@oga.org.uk
         git commit . -m "proposed change by ${{ github.event.inputs.email }}"
