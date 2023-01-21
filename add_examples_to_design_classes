@@ -1,0 +1,42 @@
+#!/usr/bin/env python3
+import sys
+import ruamel.yaml
+from os import listdir
+
+yaml = ruamel.yaml.YAML(typ='safe')
+yo = ruamel.yaml.YAML()
+yo.default_flow_style = False
+
+def seq(l):
+    s = ruamel.yaml.comments.CommentedSeq(l)
+    s.fa.set_flow_style()
+    return s
+
+def handle(dcs, boat):
+  bdc = boat['design_class']
+  for dc in dcs:
+    if dc['name'] == bdc['name']:
+      if 'examples' in dc:
+        s = set(dc['examples'])
+        s.add(boat['oga_no'])
+        ex = list(s)
+      else:
+        ex = [boat['oga_no']]
+      dc['examples'] = seq(sorted(ex))
+      print(dc)
+
+if __name__ == '__main__':
+  if len(sys.argv) == 1:
+    l = listdir('boat/')
+  else:
+    l = [sys.argv[1]]
+  fn = 'picklists/design_class.yaml'
+  with open(fn) as stream:
+    dcs = yaml.load(stream)
+  for n in l:
+    with open(f'boat/{n}/boat.yml') as stream:
+      b = yaml.load(stream)
+    if b is not None and 'design_class' in b:
+      handle(dcs, b)
+  with open(fn, 'w') as f:
+    yo.dump(dcs, f)
