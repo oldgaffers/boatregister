@@ -24,6 +24,8 @@ def handle(dcs, boat):
         ex = [boat['oga_no']]
       dc['examples'] = seq(sorted(ex))
       print(dc)
+    else:
+      dc['examples'] = seq(sorted(dc['examples']))
 
 if __name__ == '__main__':
   if len(sys.argv) == 1:

@@ -4,14 +4,15 @@ generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
 short_description: |+
-  Alouette is a small gaffer based on the Breton tradition but built using modern
+  *Alouette* is a small gaffer based on the Breton tradition but built using modern
   materials and techniques.
-
 year: 2022
-year_is_approximate: false
 designer:
   name: "Fran\xE7ois Vivier"
   id: f8f01050-235c-4793-b62b-8d3d953d173e
+design_class:
+  name: Ebihen 16
+  id: 1d24c2a0-0d1c-4b0b-9ebe-d53382d1dc96
 builder:
   name: John Harris
   id: 37f91789-9ef7-4831-b7d6-43c0e081b108
@@ -31,7 +32,3 @@ handicap_data:
 air_draft: 23.33
 previous_names:
 - Alizon
-newItems:
-  design_class:
-    name: Ebihen 16
-    id: d1ff8662-e254-46b8-b741-bc9a2bd5bf9e

@@ -3,11 +3,15 @@ oga_no: 3544
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: spritsail
-full_description: |+
-  Little known about this vessel, any information greatly appreciated
-
+full_description: Little known about this vessel, any information greatly appreciated
 year: 1995
 year_is_approximate: true
+designer:
+  name: Robert Brasted
+  id: e79d17d8-37bd-4684-ad21-0b8e4216b54d
+design_class:
+  name: Sharpshooter 17
+  id: da34dc61-0777-4dbc-931e-8dbb1922e09d
 builder:
   name: Concept Dinghies
   id: cd671754-c2c6-490d-89e7-5bc22ee64a27
@@ -24,7 +28,4 @@ handicap_data:
   draft: 0.61
   length_on_deck: 5.182
 air_draft: 19
-newItems:
-  design_class:
-    name: Sharpshooter
-    id: 2fe5c70c-6739-4d6f-a4ec-0b8446597df0
+
