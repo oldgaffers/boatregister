@@ -28,10 +28,10 @@ spar_material: wood
 selling_status: not_for_sale
 for_sales:
 - created_at: '2020-06-27T19:20:39.93904+00:00'
-  flexibility: null
+  flexibility:
   offered: '2020-06-27'
-  price_flexibility: null
-  reduced: null
+  price_flexibility:
+  reduced:
   sales_text: She is currently lying in Santa Cruz de Teneriffe having been sailed
     from Cowes to Lanzarotte in 2017 by her current owner, who also owns Voyaging
     Yachts.  She is fitted out for blue water cruising and is an excellent passage
@@ -71,3 +71,4 @@ handicap_data:
   length_on_deck: 10.8204
 created_at: '2020-04-25T17:46:56.147323+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+construction_method: cold_moulded

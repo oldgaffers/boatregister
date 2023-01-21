@@ -23,9 +23,9 @@ full_description: "<p><em>Margaret Ann</em> (sometimes in the past referred to a
   \ and deck, stripped and repainted the &nbsp;inside, repaired several timbers by\
   \ scarfing in new pieces, fitted two new deck beams, new half beams and carlins,\
   \ new hanging and quarter &nbsp;knees and laid a new tongue-and-groove pitch pine\
-  \ deck, to be covered in &nbsp;canvas.We\u2019ve also replaced the top of the transom\
-  \ and the top edge of the sheer strake and fitted a new samson post. We haven\u2019\
-  t used any laminated timber, epoxy or plywood.All the pieces have been well painted\
+  \ deck, to be covered in &nbsp;canvas.We’ve also replaced the top of the transom\
+  \ and the top edge of the sheer strake and fitted a new samson post. We haven’t\
+  \ used any laminated timber, epoxy or plywood.All the pieces have been well painted\
   \ and luted with white lead paste before assembly, so other than having silicon\
   \ bronze screws where Hillyard's had used galvanised nails she's been redone in\
   \ the way she was built.</p>\n<p>Most if not all of the cockpit and cabin wood work\
@@ -57,7 +57,7 @@ for_sales:
 - asking_price: 0
   created_at: '2019-09-22T11:38:01+00:00'
   flexibility: normal
-  offered: null
+  offered:
   price_flexibility:
     text: normal
   reduced: false
@@ -68,10 +68,10 @@ for_sales:
     is available with all the timber and fittings needed to complete her restoration
     as well as a road trailer.&nbsp; She is currently in our drive in Kingsbridge,
     South Devon.</p>
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  seller_gold_id:
+  seller_member:
+  sold:
+  summary:
   updated_at: '2020-05-03T10:13:13.520482+00:00'
 home_country: GBR
 home_port: Kingsbridge
@@ -100,5 +100,8 @@ handicap_data:
     luff: 2.590831504511095
   length_on_waterline: 5.334064862228725
   length_on_deck: 5.6388
+  length_overall: 5.4864
+  calculated_thcf: 0.81
+  length_over_spars: 6.096
 created_at: '2020-04-25T17:00:57.901932+00:00'
 updated_at: '2022-10-29T19:14:02.698608+00:00'

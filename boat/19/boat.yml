@@ -35,7 +35,7 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2018-07-01T20:58:43+00:00'
   flexibility: normal
-  offered: null
+  offered:
   price_flexibility:
     text: normal
   reduced: false
@@ -45,10 +45,10 @@ for_sales:
     cover. Sails virtually unused, furler on genoa. 19ft w/line 24ft overall. 2017
     survey available.</p><p>In commission, Scotland. May consider exchange for classic
     car.</p>
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  seller_gold_id:
+  seller_member:
+  sold:
+  summary:
   updated_at: '2020-05-03T10:13:12.374066+00:00'
 home_country: GBR
 home_port: Holy Loch, Scotland
@@ -84,5 +84,12 @@ handicap_data:
     type: folding
   length_on_waterline: 5.7912704218483295
   length_on_deck: 7.3152
+  thcf: 0.946208202
+  fore_triangle_height: 7.924896366739819
+  fore_triangle_base: 3.0480370641306997
+  main:
+    foot: 6.0960741282613995
+    head: 4.57205559619605
+    luff: 6.0960741282613995
 created_at: '2020-04-25T16:42:34.210815+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'

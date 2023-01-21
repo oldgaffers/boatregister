@@ -3,18 +3,16 @@ oga_no: 3282
 generic_type: Dayboat
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  *Mary Louise* is an Ebihen design, built in 2011. Designed by
-  Francois Vivier, she is based on the traditional fishing boats of North Brittany
-  and Normandy with the rig from the Morlaix/Roscoff area.
-full_description: |+
-  *Mary Louise* is an open day boat with short fore deck. Her hull
-  is based on a traditional small fishing craft of Northern Brittany and Normandy.
-  She is rigged as a gaff cutter in the style of the traditional small inshore fishing
-  craft of Carantec in the Morlaix estuary, Brittany.
+short_description: "*Mary Louise* is an Ebihen design, built in 2011. Designed by\n\
+  Francois Vivier, she is based on the traditional fishing boats of North Brittany\n\
+  and Normandy with the rig from the Morlaix/Roscoff area.\n"
+full_description: "*Mary Louise* is an open day boat with short fore deck. Her hull\n\
+  is based on a traditional small fishing craft of Northern Brittany and Normandy.\n\
+  She is rigged as a gaff cutter in the style of the traditional small inshore fishing\n\
+  craft of Carantec in the Morlaix estuary, Brittany.\n"
 year: 2011
 designer:
-  name: "Fran\xE7ois Vivier"
+  name: François Vivier
   id: f8f01050-235c-4793-b62b-8d3d953d173e
 design_class:
   name: Ebihen 16
@@ -24,8 +22,8 @@ builder:
   id: 37f91789-9ef7-4831-b7d6-43c0e081b108
 place_built: Tavistock
 construction_material: woodepoxy
-construction_details: "Douglas fir strip planks 15mm thick, sheathed with 400g biaxial\
-  \ glass cloth in epoxy inside and out."
+construction_details: Douglas fir strip planks 15mm thick, sheathed with 400g biaxial
+  glass cloth in epoxy inside and out.
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
@@ -72,3 +70,5 @@ handicap_data:
   length_on_deck: 4.4988
 created_at: '2020-04-25T17:47:43.535356+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+construction_method: clinker_ply
+spar_material: wood

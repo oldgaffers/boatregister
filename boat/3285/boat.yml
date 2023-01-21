@@ -22,20 +22,20 @@ for_sales:
 - asking_price: 11500
   created_at: '2019-05-17T14:29:04+00:00'
   flexibility: normal
-  offered: null
+  offered:
   price_flexibility:
     text: normal
   reduced: false
-  sales_text: "<p>Lovely condition, stored indoors every winter. Rigged length 21\u2019\
-    , seats six. Gaff rigged with tan sails and wooden spars, cream hull. Holt roller\
-    \ reeling for foresail. Nav. lights and marine battery. 3.5 Garmin GPS map555\
-    \ and switch panel. 3.5 Mariner outboard serviced and winterised every year. Cushions,\
-    \ covers and spray hood. Anchor, chain, warp, fenders and manual bilge pump. Braked\
-    \ road trailer with spare wheel. Currently ashore in Cheshire."
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  sales_text: <p>Lovely condition, stored indoors every winter. Rigged length 21’,
+    seats six. Gaff rigged with tan sails and wooden spars, cream hull. Holt roller
+    reeling for foresail. Nav. lights and marine battery. 3.5 Garmin GPS map555 and
+    switch panel. 3.5 Mariner outboard serviced and winterised every year. Cushions,
+    covers and spray hood. Anchor, chain, warp, fenders and manual bilge pump. Braked
+    road trailer with spare wheel. Currently ashore in Cheshire.
+  seller_gold_id:
+  seller_member:
+  sold:
+  summary:
   updated_at: '2020-05-03T10:13:13.639501+00:00'
 home_country: GBR
 home_port: Cheshire
@@ -57,6 +57,8 @@ handicap_data:
   length_over_spars: 6.4008
   length_on_waterline: 4.7244
   length_on_deck: 5.334
+  draft: 0.48768593026091195
 created_at: '2020-04-25T17:47:46.528778+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
 hin: GB ACC 1713 3 K 9 10
+spar_material: wood

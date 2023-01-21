@@ -6,7 +6,7 @@ mainsail_type: lug
 year: 1990
 year_is_approximate: false
 designer:
-  name: "Fran\xE7ois Vivier"
+  name: François Vivier
   id: f8f01050-235c-4793-b62b-8d3d953d173e
 design_class:
   name: Aber
@@ -36,5 +36,17 @@ handicap_data:
     luff: 1.929407461594733
   length_on_waterline: 4.114850036576445
   length_on_deck: 4.3952
+  fore_triangle_height: 4.239819556205803
+  fore_triangle_base: 1.8288222384784198
+  propellor:
+    type: none
+  sailarea: 11.685814374557658
+  draft_keeldown: 0.8991709339185565
+  length_overall: 4.5202
+  moving_keel: true
+  draft_keel_down: 0.8534
+  moving_keel_type: Centreboard
 created_at: '2020-04-25T17:05:12.934409+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+hull_form: centre-board dinghy
+construction_method: clinker_ply

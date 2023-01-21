@@ -35,5 +35,24 @@ handicap_data:
   draft: 0.8626
   length_over_all: 9.1441111923921
   length_on_deck: 7.62
+  propellor:
+    type: fixed
+    blades: 3
+  length_over_spars: 9.100110671177761
+  length_on_waterline: 6.780082456108266
+  thcf: 0.796
+  fore_triangle_height: 8.22970007315289
+  fore_triangle_base: 4.57205559619605
+  sailarea: 39.89750404997166
+  main:
+    foot: 4.724469641550841
+    head: 4.343458912460375
+    luff: 4.26725188978298
+  draft_keeldown: 1.4986405754693977
+  moving_keel: true
+  length_overall: 7.62
+  draft_keel_down: 1.4996
+  moving_keel_type: Centreboard
 created_at: '2020-04-25T17:32:31.982943+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+spar_material: wood
