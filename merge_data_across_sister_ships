@@ -1,0 +1,56 @@
+#!/usr/bin/env python3
+import ruamel.yaml
+
+wanted = [
+'generic_type', 'rig_type', 'mainsail_type', 'designer', 'design_class', 'builder',
+'construction_material', 'hull_form', 'construction_method',
+'spar_material', 
+]
+
+yaml = ruamel.yaml.YAML(typ='safe')
+yo = ruamel.yaml.YAML()
+yo.default_flow_style = False
+
+def merge(b, x):
+  for k in wanted:
+    if k in b:
+      pass
+    elif k not in x:
+      pass
+    elif x[k] is dict:
+      pass
+    elif x[k] is list:
+      pass
+    else:
+      b[k] = x[k]
+  if 'handicap_data' in x:
+    hcd = x['handicap_data']
+    bhcd = b['handicap_data']
+    for k in hcd.keys():
+      if k not in bhcd:
+        bhcd[k] = hcd[k]
+    b['handicap_data'] = bhcd
+
+if __name__ == '__main__':
+  fn = 'picklists/design_class.yaml'
+  with open(fn) as stream:
+    dcs = yaml.load(stream)
+  for dc in dcs:
+    examples = dc['examples']
+    if len(examples) > 1:
+      b = { 'handicap_data': {} }
+      for o in examples:
+        with open(f'boat/{o}/boat.yml') as stream:
+          x = yaml.load(stream)
+          merge(b, x)
+      fn = f'boat/{examples[0]}/boat.yml'
+      print(fn)
+      with open(fn) as stream:
+        x = yaml.load(stream)
+        if 'handicap_data' not in x:
+          x['handicap_data'] = {}
+        merge(x, b)
+      with open(fn, 'w') as f:
+        yo.dump(x, f)
+      
+
