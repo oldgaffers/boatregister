@@ -3,12 +3,14 @@ oga_no: 7063
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: "<p>&#39;Zircon&#39; is a 4-tonner, based on a Harrison Butler\
-  \ Zyclon design.<br />\r\n&nbsp;</p>"
-full_description: "<p>Originally priced at &pound;297 when built in 1938, with a Watermote\
-  \ 6 hp engine and prop on the port quarter, &#39;Zircon&#39; is derived from Harrison\
-  \ Butler&#39;s Zyclon design, adapted for class production.</p>\r\n\r\n<p>About\
-  \ 50 were built, of which about 25 remained in 2013.</p>"
+short_description: |+
+  *Zircon* is a 4-tonner, based on a Harrison Butler Zyclon design.
+full_description: |+
+  Originally priced at £297 when built in 1938, with a Watermota
+  6 hp engine and prop on the port quarter, *Zircon* is derived from Harrison
+  Butler's Zyclon design, adapted for class production.
+  
+  About 50 were built, of which about 25 remained in 2013.
 year: 1938
 year_is_approximate: false
 designer:
@@ -18,9 +20,9 @@ design_class:
   name: Z4 Tonner
   id: 78e69081-f976-42ea-ba90-9c2f0e9c116c
 builder:
-  name: Lockharts
+  name: Alfred Lockhart (Marine) Ltd
   id: e69b544c-8cef-45b2-b714-a223cabfe05b
-place_built: Brentford
+place_built: Brentford 
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Siberian Larch on Oak galvanised steel floors tabernackle
@@ -62,7 +64,6 @@ ownerships:
   share: 64
 id: cb81b0e5-5b58-46ec-bd7d-f057a35cdaa5
 image_key: 7xHQZS
-thumb: https://photos.smugmug.com/photos/i-5PTcptZ/0/Th/i-5PTcptZ-Th.jpg
 handicap_data:
   beam: 2.1854
   draft: 1.2192
@@ -74,4 +75,3 @@ handicap_data:
   length_on_waterline: 5.7912704218483295
   length_on_deck: 6.7056
 created_at: '2020-04-25T17:43:51.271761+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
