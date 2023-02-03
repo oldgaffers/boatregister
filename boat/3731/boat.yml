@@ -12,6 +12,11 @@ hull_form: long keel sloping forefoot
 sail_number: K2203
 callsign: MKFR
 uk_part1: '307242'
+ownerships:
+- name: ' Robert Hill'
+  start: 1964
+  share: 64
+  current: true
 image_key: w2vWr4
 handicap_data:
   beam: 2.896
@@ -19,8 +24,8 @@ handicap_data:
   length_on_deck: 9.754
 newItems:
   design_class:
-    name: Nicholson 32
     id: e8512cea-b72f-46a5-b950-c4319a60c15e
+    name: Nicholson 32
   designer:
-    name: 'Peter & Charles Nicholson '
     id: c21a087b-b7f5-4d8c-8780-2d536fe0f22c
+    name: 'Peter & Charles Nicholson '
