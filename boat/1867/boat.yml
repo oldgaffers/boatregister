@@ -3,11 +3,17 @@ oga_no: 1867
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Corncockle&#39; is a Heard 28 built 1993.</p>
-full_description: "<p>&#39;Corncockle&#39; has cruised the Morbihan. In 1995 there\
-  \ was an unofficial wedding on board and two years later she was dismasted in the\
-  \ Edinburgh Channel, Thames Estuary.</p>\r\n\r\n<p>In 2017, &#39;Corncockle&#39;\
-  \ joined the OGA Sou&#39; by Sou&#39;West Cruise in Company.</p>"
+short_description: |+
+  'Corncockle' is a Heard 28 built 1993.
+
+full_description: |+
+  'Corncockle' has cruised the Morbihan. In 1995 there was an unofficial wedding
+  on board and two years later she was dismasted in the Edinburgh Channel, Thames
+  Estuary.
+
+
+  In 2017, 'Corncockle' joined the OGA Sou' by Sou'West Cruise in Company.
+
 year: 1993
 year_is_approximate: false
 designer:
@@ -16,6 +22,45 @@ designer:
 design_class:
   name: Heard 28
   id: 47040682-ee05-42de-a493-400ebd5956db
+  examples:
+  - 1005
+  - 1054
+  - 1224
+  - 1440
+  - 1443
+  - 1468
+  - 1568
+  - 1570
+  - 1736
+  - 1739
+  - 1767
+  - 1835
+  - 1846
+  - 1854
+  - 1867
+  - 1996
+  - 2057
+  - 2195
+  - 2363
+  - 2459
+  - 2502
+  - 2530
+  - 2572
+  - 2683
+  - 2707
+  - 2709
+  - 2783
+  - 2830
+  - 2851
+  - 2882
+  - 2955
+  - 2989
+  - 3143
+  - 3576
+  - 3713
+  - 3717
+  - 3719
+  - 4552
 builder:
   name: Martin Heard
   id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
@@ -30,38 +75,34 @@ for_sales:
   offered: '2019-01-01'
   price_flexibility:
     text: normal
-  reduced: false
-  sales_text: "<p>\"Corncockle\" is a Heard 28, 8.53 m LOD, 3.0 m beam, 1.5 m draught,\
-    \ 12.5 m LOA, 9 tonnes displacement. GRP hull and encapsulated internal ballast,\
-    \ GRP encapsulated wooden deck and superstructure. Built by Gaffers and Luggers,\
-    \ Mylor Bridge, 1993.</p><p>Five permanent berths (of which two form a double)\
-    \ and one temporary stretcher bunk.</p><p>Perkins Perama 30 diesel engine, Hurth\
-    \ gearbox, 15\" X 8.5\" pitch propeller. 100 litre diesel tank. 100 litre fresh\
-    \ water tank with in-line filter. Two 100 Ah batteries.</p><p>Oregon pine spars\
-    \ except topsail yard which is a GRP tube. Mast deck stepped in a tabernacle.\
-    \ Houseable bowsprit. Mainsail with 3 slab reefs, Nos 1, 2 and 3 jibs with Wykeham\
-    \ Martin furling gear, 3 staysails, topsail, trysail. Gallows aft for boom support.</p><p>35\
-    \ lb CQR, 120\u2019 3/8 calibrated chain, Simpson Lawrence manual windlass. 6\
-    \ man Plastimo Liferaft. Four size 8 single speed sheet winches. Two drained/vented\
-    \ Gaz bottle lockers &ndash; remote from accommodation. Tonneau cockpit cover\
-    \ + spare. Boom sail cover + spare. Boom tent. Two part over-boom bimini, covering\
-    \ from mast to gallows.</p><h3>Below decks</h3><p>Galley with Gaz fuelled Nelson\
-    \ double burner and oven cooker. Sink with 1 fresh water pump. All just forward\
-    \ of companion way. Crockery, cutlery, pots and pans included in sale. Saloon\
-    \ horseshoe seating and table to starboard &ndash; converts to double berth with\
-    \ single berth to port. Taylors paraffin heater with flue to coach roof.</p><p>Chart\
-    \ table forward of saloon single berth with Stowe depth sounder and log, Garmin\
-    \ GPS, fixed and hand held VHF radios. Heads to starboard opposite chart table\
-    \ with Par/Jabsco manual toilet and 75 litreTek-Tanks holding tank (gravity drain)\
-    \ with on-deck pump out connection. In the forecastle, two full length split level\
-    \ berths with a region of standing headroom aft, provided by the forward end of\
-    \ the coachroof which extends ahead of the mast.</p><h3>Miscellaneous</h3><p>Little\
-    \ used laying up cover. Shoring timbers and blocks. Mast support for canal transits.</p><p>Afloat\
-    \ and in commission for the winter 2018/2019 in Gosport, Hants, UK.</p>"
-  seller_gold_id: null
-  seller_member: null
+  sales_text: "\"Corncockle\" is a Heard 28, 8.53 m LOD, 3.0 m beam, 1.5 m draught,\
+    \ 12.5 m LOA, 9\ntonnes displacement. GRP hull and encapsulated internal ballast,\
+    \ GRP\nencapsulated wooden deck and superstructure. Built by Gaffers and Luggers,\
+    \ Mylor\nBridge, 1993.\n\nFive permanent berths (of which two form a double) and\
+    \ one temporary stretcher\nbunk.\n\nPerkins Perama 30 diesel engine, Hurth gearbox,\
+    \ 15\" X 8.5\" pitch propeller. 100\nlitre diesel tank. 100 litre fresh water\
+    \ tank with in-line filter. Two 100 Ah\nbatteries.\n\nOregon pine spars except\
+    \ topsail yard which is a GRP tube. Mast deck stepped in\na tabernacle. Houseable\
+    \ bowsprit. Mainsail with 3 slab reefs, Nos 1, 2 and 3\njibs with Wykeham Martin\
+    \ furling gear, 3 staysails, topsail, trysail. Gallows\naft for boom support.\n\
+    \n35 lb CQR, 120\u2019 3/8 calibrated chain, Simpson Lawrence manual windlass.\
+    \ 6 man\nPlastimo Liferaft. Four size 8 single speed sheet winches. Two drained/vented\n\
+    Gaz bottle lockers \u2013 remote from accommodation. Tonneau cockpit cover + spare.\n\
+    Boom sail cover + spare. Boom tent. Two part over-boom bimini, covering from\n\
+    mast to gallows.\n\n### Below decks\n\nGalley with Gaz fuelled Nelson double burner\
+    \ and oven cooker. Sink with 1 fresh\nwater pump. All just forward of companion\
+    \ way. Crockery, cutlery, pots and pans\nincluded in sale. Saloon horseshoe seating\
+    \ and table to starboard \u2013 converts to\ndouble berth with single berth to\
+    \ port. Taylors paraffin heater with flue to\ncoach roof.\n\nChart table forward\
+    \ of saloon single berth with Stowe depth sounder and log,\nGarmin GPS, fixed\
+    \ and hand held VHF radios. Heads to starboard opposite chart\ntable with Par/Jabsco\
+    \ manual toilet and 75 litreTek-Tanks holding tank (gravity\ndrain) with on-deck\
+    \ pump out connection. In the forecastle, two full length\nsplit level berths\
+    \ with a region of standing headroom aft, provided by the\nforward end of the\
+    \ coachroof which extends ahead of the mast.\n\n### Miscellaneous\n\nLittle used\
+    \ laying up cover. Shoring timbers and blocks. Mast support for canal\ntransits.\n\
+    \nAfloat and in commission for the winter 2018/2019 in Gosport, Hants, UK.\n\n"
   sold: '2020-06-24'
-  summary: null
   updated_at: '2020-05-03T10:13:13.45081+00:00'
 home_country: GBR
 home_port: Portsmouth
@@ -71,8 +112,12 @@ ssr: '60618'
 ownerships:
 - name: Graham Dadd
   start: 2012
+  end: 2020
   share: 64
-id: a02fb00e-54d7-4d32-a9e6-a301a7c41065
+- name: ' Alex Potts'
+  start: 2020
+  share: 64
+  current: true
 image_key: p62bfR
 thumb: https://photos.smugmug.com/photos/i-C4VQpf4/0/Th/i-C4VQpf4-Th.jpg
 handicap_data:
@@ -81,18 +126,19 @@ handicap_data:
   draft: 1.524
   fore_triangle_height: 9.44891489880517
   fore_triangle_base: 6.452694464764692
-  length_over_all: 8.53450377956596
+  length_on_deck: 8.5344
+  length_on_waterline: 8.22970007315289
   propellor:
-    type: fixed
     blades: 3
+    type: fixed
+  topsail:
+    luff: 5.410265788831992
+    perpendicular: 1.9568397951719092
+  length_over_all: 8.53450377956596
   main:
     foot: 5.206047305535234
     head: 4.495854669592782
     luff: 5.129846378931967
-  topsail:
-    luff: 5.410265788831992
-    perpendicular: 1.9568397951719092
-  length_on_waterline: 8.22970007315289
-  length_on_deck: 8.5344
 created_at: '2020-04-25T17:11:25.976325+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: a02fb00e-54d7-4d32-a9e6-a301a7c41065
