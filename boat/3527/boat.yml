@@ -2,10 +2,10 @@ name: Redwing
 oga_no: 3527
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  The Ebihen 16 is a gaff cutter, clinker ply construction. *Redwing* was built
-  during the Covid pandemic and kept the builder/owner sane! The boat was designed
-  by Fran\xE7ois Vivier and is a stable heavy day-sailor.
+short_description: "The Ebihen 16 is a gaff cutter, clinker ply construction.\_\n\n"
+full_description: |+
+  *Redwing* was built during the Covid pandemic and kept the builder sane! The
+  boat was designed by Francois Vivier and is a stable heavy day-sailor.
 
 year: 2021
 year_is_approximate: false
@@ -27,10 +27,10 @@ construction_material: plywood
 spar_material: wood
 construction_method: clinker_ply
 selling_status: not_for_sale
-for_sales:
-- flexibility: normal
+not_for_sales:
+- asking_price: 10500
   created_at: '2023-01-03T18:10:26.128Z'
-  updated_at: '2023-02-04T16:19:21.014Z'
+  flexibility: normal
   sales_text: "Redwing is a Lapstrake Gaff Cutter, an Ebihen 16, designed by Francois\
     \ Vivier\nwho has designed many smaller boats and is well recognised as an excellent\n\
     designer. This boat is seaworthy and stable, especially with 160 litres of water\n\
@@ -60,8 +60,8 @@ for_sales:
     \ and\nperhaps an element of my skilled labour and other expenses.\n\n"
   seller_gold_id: 34823
   seller_member: 6450
-  asking_price: 10500
   sold: '2023-02-04T16:18:54.991Z'
+  updated_at: '2023-02-04T16:19:21.014Z'
 home_country: United Kingdom
 home_port: Plymouth
 hull_form: centre-boarder
