@@ -18,7 +18,7 @@ def shuffle(boats):
     r=requests.get('https://api.smugmug.com/api/v2/folder/user/oga/Boats!albums',
         headers={'accept':'application/json'},
         params={
-            'APIKey': environ['api_key'],
+            'APIKey': environ['API_KEY'],
             '_filter': 'NiceName,AlbumKey,ImageCount',
             '_filteruri': ''
         }
