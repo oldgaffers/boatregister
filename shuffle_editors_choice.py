@@ -1,6 +1,6 @@
 import json
 import sys
-from os import listdir
+from os import listdir, environ
 from datetime import date, datetime
 import requests
 import random
@@ -15,15 +15,25 @@ def json_serial(obj):
 def shuffle(boats):
     with_pictures = []
     without_pictures = []
+    r=requests.get('https://api.smugmug.com/api/v2/folder/user/oga/Boats!albums',
+        headers={'accept':'application/json'},
+        params={
+            'APIKey': environ['api_key'],
+            '_filter': 'NiceName,AlbumKey,ImageCount',
+            '_filteruri': ''
+        }
+    )
+    if not r.ok:
+        print('bad response from smugmug')
+        return
+    albums = r.json()['Response']['Album']
+    print('got', len(albums), 'album records from smugmug')
     for b in boats:
         oga_no = int(b)
-        try:
-            r = requests.head(f'https://oga.smugmug.com/Boats/OGA-{oga_no}/')
-            if r.ok:
-                with_pictures.append(oga_no)
-            else:
-                without_pictures.append(oga_no)
-        except:
+        count = [a['ImageCount'] for a in albums if a['NiceName']==f'OGA-{oga_no}']
+        if len(count) > 0 and count[0] > 0:
+            with_pictures.append(oga_no)
+        else:
             without_pictures.append(oga_no)
     random.shuffle(with_pictures)
     random.shuffle(without_pictures)
