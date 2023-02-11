@@ -25,32 +25,41 @@ def merge(b, x):
       b[k] = x[k]
   if 'handicap_data' in x:
     hcd = x['handicap_data']
-    bhcd = b['handicap_data']
+    bhcd = b.get('handicap_data', {})
     for k in hcd.keys():
       if k not in bhcd:
         bhcd[k] = hcd[k]
     b['handicap_data'] = bhcd
 
-if __name__ == '__main__':
+def merged(oga_nos):
+  aggregate = { 'handicap_data': {} }
+  for oga_no in oga_nos:
+    with open(f'boat/{oga_no}/boat.yml') as stream:
+      boat = yaml.load(stream)
+      merge(aggregate, boat)
+  return aggregate
+
+def augment(oga_no, data):
+  fn = f'boat/{oga_no}/boat.yml'
+  with open(fn) as stream:
+    boat = yaml.load(stream)
+    merge(boat, data)
+  with open(fn, 'w') as f:
+    yo.dump(boat, f)
+
+def update_all():
   fn = 'picklists/design_class.yaml'
   with open(fn) as stream:
     dcs = yaml.load(stream)
   for dc in dcs:
-    examples = dc['examples']
-    if len(examples) > 1:
-      b = { 'handicap_data': {} }
-      for o in examples:
-        with open(f'boat/{o}/boat.yml') as stream:
-          x = yaml.load(stream)
-          merge(b, x)
-      fn = f'boat/{examples[0]}/boat.yml'
-      print(fn)
-      with open(fn) as stream:
-        x = yaml.load(stream)
-        if 'handicap_data' not in x:
-          x['handicap_data'] = {}
-        merge(x, b)
-      with open(fn, 'w') as f:
-        yo.dump(x, f)
+    examples = dc.get('examples', [])
+    if len(examples) > 0:
+      aggregate = merged(examples)
+      archetype = examples[0]
+      augment(archetype, aggregate)
+
+if __name__ == '__main__':
+  update_all()
+
       
 
