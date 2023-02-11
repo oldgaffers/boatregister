@@ -12,33 +12,29 @@ def seq(l):
     s.fa.set_flow_style()
     return s
 
-def handle(dcs, boat):
-  bdc = boat['design_class']
+def handle(dcs, name, oga_no):
   for dc in dcs:
-    if dc['name'] == bdc['name']:
-      if 'examples' in dc:
-        s = set(dc['examples'])
-        s.add(boat['oga_no'])
-        ex = list(s)
-      else:
-        ex = [boat['oga_no']]
-      dc['examples'] = seq(sorted(ex))
-      print(dc)
-    else:
-      dc['examples'] = seq(sorted(dc['examples']))
+    if dc['name'] == name:
+      s = set(dc.get('examples', []))
+      s.add(oga_no)
+      dc['examples'] = seq(sorted(s))
+
+def add_example_to_design_class(design_class_list, oga_no):
+    with open(f'boat/{oga_no}/boat.yml') as stream:
+      boat = yaml.load(stream)
+      dc = boat.get('design_class', None)
+      if dc is not None:
+        handle(design_class_list, dc['name'], oga_no)
 
 if __name__ == '__main__':
   if len(sys.argv) == 1:
-    l = listdir('boat/')
+    oga_nos = listdir('boat/')
   else:
-    l = [sys.argv[1]]
+    oga_nos = [sys.argv[1]]
   fn = 'picklists/design_class.yaml'
   with open(fn) as stream:
-    dcs = yaml.load(stream)
-  for n in l:
-    with open(f'boat/{n}/boat.yml') as stream:
-      b = yaml.load(stream)
-    if b is not None and 'design_class' in b:
-      handle(dcs, b)
+    design_class_list = yaml.load(stream)
+  for oga_no in oga_nos:
+    add_example_to_design_class(design_class_list, oga_no)
   with open(fn, 'w') as f:
-    yo.dump(dcs, f)
+    yo.dump(design_class_list, f)
