@@ -1,11 +1,12 @@
 name: Marigold
 oga_no: 1351
-generic_type: Yacht
+generic_type: Yacht 
 rig_type: Cutter
 mainsail_type: gaff
-full_description: "Rescued from Wootton Creek LogS-A/94 Sold by Greg Powlesland at\
-  \ Southerby's for \xA334K. Greg then restored her for the owner. Restoration included\
-  \ cotton sails hemp rope and horse hair filled bunk cushions."
+full_description: |+
+  Rescued from Wootton Creek. Sold by Greg Powlesland at
+  Southerby's for £334K. Greg then restored her for the owner.
+  Restoration included cotton sails hemp rope and horse hair filled bunk cushions.
 year: 1892
 year_is_approximate: false
 designer:
@@ -21,12 +22,13 @@ place_built: Gosport
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Padouk on oak frames
+reference:
+ - Log S-A/94
 selling_status: not_for_sale
-for_sales: []
 home_port: Beaulieu
 hull_form: long keel sloping forefoot
 sail_number: 5199T
-uk_part1: '984458'
+uk_part1: 984458
 ownerships:
 - name: R G Allen
   start: 1987
@@ -51,4 +53,3 @@ handicap_data:
   length_on_waterline: 14.630577907827359
   length_on_deck: 17.6784
 created_at: '2020-04-25T17:03:41.193382+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
