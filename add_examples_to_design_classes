@@ -35,6 +35,6 @@ if __name__ == '__main__':
   with open(fn) as stream:
     design_class_list = yaml.load(stream)
   for oga_no in oga_nos:
-    add_example_to_design_class(design_class_list, oga_no)
+    add_example_to_design_class(design_class_list, int(oga_no))
   with open(fn, 'w') as f:
     yo.dump(design_class_list, f)
