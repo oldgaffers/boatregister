@@ -3,17 +3,22 @@ oga_no: 2225
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Lucinda&#39; is a Cornish Crabber Pilot Cutter 30 built
-  in 1986 by Peter Martinez, her first owner.</p>
-full_description: "<p>Built by her first owner, Peter Martinez, in his Hampshire garden,\
-  \ and named 'Lucinda' after his wife, the first home built Cornish Crabber Pilot\
-  \ Cutter was launched at Deacons Boatyard, Bursledon in 1986. She was then taken\
-  \ to the Mayflower Marina, Plymouth. Designer, Roger Dongrey came to visit and inspect\
-  \ the work during the build.</p>\n<p>An advert for her sale was placed in the OGA\
-  \ Newsletter, Gaffers Log, 1989/2: \"Cornish Pilot Cuter P5 (Cornish Crabbers Ltd.)\
-  \ 30' LOA with six berths, pressurised water system, echosounder, log etc., dinghy\
-  \ with outboard. Decca Navigator and other extras if required. Lying Plymouth \xA3\
-  36,000.\"</p>"
+short_description: |+
+  *Lucinda* is a Cornish Crabber Pilot Cutter 30 built
+  in 1986 by Peter Martinez, her first owner.
+full_description: |+
+  Built by her first owner, Peter Martinez, in his Hampshire garden,
+  and named 'Lucinda' after his wife, the first home built Cornish Crabber Pilot
+  Cutter was launched at Deacons Boatyard, Bursledon in 1986. She was then taken
+  to the Mayflower Marina, Plymouth. Designer, Roger Dongrey came to visit and inspect
+  the work during the build.
+  
+  An advert for her sale was placed in the OGA Newsletter, Gaffers Log, 1989/2:
+  
+  Cornish Pilot Cutter P5 (Cornish Crabbers Ltd.)
+  30' LOA with six berths, pressurised water system, echosounder, log etc., dinghy
+  with outboard. Decca Navigator and other extras if required.
+  Lying Plymouth £36,000.
 year: 1986
 year_is_approximate: false
 designer:
@@ -23,8 +28,10 @@ design_class:
   name: Cornish Crabber Pilot Cutter 30
   id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
-  name: Cornish Crabbers Ltd./?
-  id: 2aa171a0-29cc-41c4-ba91-d8a228e67b81
+  - name: Cornish Crabbers Ltd.
+    id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+  - name: Peter Martinez
+  - id: 18b84ca6-3471-45e0-b88f-ef7638864230
 place_built: Hampshire
 construction_material: grp
 construction_method: cold_moulded

@@ -15,8 +15,10 @@ design_class:
   name: Cornish Crabber Pilot Cutter 30
   id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
-  name: Robertsons/Cornish Crabbers
-  id: ba1f486d-386b-40f9-9b49-cfd1fa1f3f86
+  - name: Cornish Crabbers Ltd.
+    id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+  - name: Robertsons
+    id: 6cd1bf47-97b9-4f1b-8402-c27b59e901d9
 place_built: Rock/Woodbridge
 construction_material: grp
 construction_method: cold_moulded

@@ -3,7 +3,7 @@ oga_no: 127
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Log 80/3, 83/4, 91/3 Fishing Smack converted to a yacht by Priors
+full_description: Fishing Smack converted to a yacht by Priors
   in 1936 for then owner Mr G Sartoris. Previous owner 1987 - 99 Previous engine Thornycroft
   HB petrol - 9 hp. Last owner from 1987 to 2001
 year: 1897
@@ -12,8 +12,10 @@ designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 builder:
-  name: Kitto and Sons
+- name: Kitto and Sons
   id: 17765d18-db09-4fea-866f-44e41a2c8948
+- name: R. and J. Prior and Son Ltd.
+  id: 03029fc6-73e6-423c-8c49-b39e1d053f3e  
 place_built: Porthleven
 construction_material: wood
 construction_method: carvel

@@ -19,8 +19,10 @@ design_class:
   name: Cornish Crabber Mk 1
   id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
 builder:
-  name: D. Bedford/Cornish Crabbers
-  id: 1581e3df-9b8e-46ba-8176-6e109df76bf7
+  - name: Cornish Crabbers Ltd.
+    id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+  - name: D. Bedford
+    id: 1581e3df-9b8e-46ba-8176-6e109df76bf7
 place_built: Rock/Ely
 construction_material: grp
 construction_method: cold_moulded
