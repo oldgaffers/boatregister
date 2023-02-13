@@ -164,6 +164,9 @@ def map_boat(item):
     boat['full_description'] = markdownify(boat['full_description'], wrap=True)
   if 'for_sales' in boat:
     boat['for_sales'] = [map_for_sale(fs) for fs in boat['for_sales']]
+  if 'design_class' in boat:
+    if 'examples' in boat['design_class']:
+      del boat['design_class']['examples']
   return map_handicap_data(boat)
 
 def get_boat(data):
