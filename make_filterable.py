@@ -7,6 +7,8 @@ from datetime import date, datetime
 def transform(o):
   if type(o) is dict and 'name' in o:
     return o['name']
+  if type(o) is list:
+    return '/'.join([f['name'] for f in o])
   if type(o) is str:
     m = re.match(r'(\d{4}-\d{2}-\d{2})T\d{2}:\d{2}:\d{2}.*', o)
     if m is not None:
@@ -29,7 +31,6 @@ def wanted(boat):
     'length_on_deck',
     'price',
     'sale',
-    'ownerships',
     ]
     if 'selling_status' in boat and boat['selling_status'] == 'for_sale':
       boat['price'] = boat['for_sales'][0]['asking_price']
@@ -88,14 +89,9 @@ if __name__ == '__main__':
       if oga_no in editors_choice:
         boat['rank'] = editors_choice[oga_no]
       else:
-        if 'thumb' in fullboat:
-          boat['rank'] = 0
-        else:
-          boat['rank'] = len(boats)
-        print(f"initialising rank for {oga_no} to {boat['rank']}")
-      if 'ownerships' in boat:
-        boat['owners'] = owners(boat)
-        del boat['ownerships']
+        boat['rank'] = len(boats)
+      if 'ownerships' in fullboat:
+        boat['owners'] = owners(fullboat)
       data.append(boat)
   with open("filterable.json", "w") as stream:
       json.dump(data, stream, ensure_ascii=False, default=json_serial)
