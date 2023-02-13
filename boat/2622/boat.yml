@@ -3,21 +3,23 @@ oga_no: 2622
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Anny Ann&#39; is a 1989 Tamarisk 29, a traditional long
-  keeled yacht with gaff rig.</p>
+short_description: |+
+  *Anny Ann* is a 1989 Tamarisk 29
 full_description: <p>The design is said to have been taken from a Falmouth workboat,
-  Carrick Roads Oyster Dredger. Sturdy GRP long keel&nbsp;hull construction by Cygnus&nbsp;Marine
-  in Penryn. Built and fitted out locally and launched 1989,&nbsp;she has wooden mast
-  and spars.&nbsp; She was re-engined with a Yanmar 30hp&nbsp;around 2000. She has
-  very&nbsp;traditional&nbsp;wineglass lines and&nbsp;a sea-friendly ride.&nbsp;&nbsp;</p>
+  Carrick Roads Oyster Dredger. Sturdy GRP long keel hull construction by Cygnus Marine
+  in Penryn. Built and fitted out locally and launched 1989, she has wooden mast
+  and spars. She was re-engined with a Yanmar 30hp around 2000. She has
+  very traditional wineglass lines and a sea-friendly ride.
 year: 1989
 year_is_approximate: false
 designer:
-  name: Percy Dalton
-  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 builder:
-  name: Cygnus Marine/N Cornwall Marine
-  id: dc7942f9-4548-42e4-8546-e557f57d165d
+- name: Cygnus Marine
+  id: 4defc904-dd2c-47e9-baf3-3a691a841c97
+- name: North Cornwall Marine
+  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
 place_built: Falmouth
 construction_material: grp
 construction_method: cold_moulded
@@ -37,7 +39,6 @@ ownerships:
   share: 64
 id: 63d92674-43be-4a9a-b66f-554c782445c1
 image_key: GMxqmB
-thumb: https://photos.smugmug.com/photos/i-bLjPm3b/0/Th/i-bLjPm3b-Th.jpg
 handicap_data:
   thcf: 0.970119023
   beam: 2.7432
@@ -57,4 +58,3 @@ handicap_data:
   length_on_waterline: 8.330285296269201
   length_on_deck: 8.8392
 created_at: '2020-04-25T17:23:33.694083+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
