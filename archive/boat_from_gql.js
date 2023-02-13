@@ -24,7 +24,7 @@ async function fetchGraphQL(operationsDoc, operationName, variables) {
 const operationsDoc = `
   query MyQuery($oga_no: Int!) {
     boat(where: {oga_no: {_eq: $oga_no}}) {
-      id name previous_names year year_is_approximate place_built home_port home_country ssr
+      id name previous_names year year_is_approximate place_home built_port home_country ssr
       sail_number nhsr nsbr oga_no fishing_number callsign mssi full_description image_key uk_part1
       spar_material
       rig_type construction_material construction_method construction_details
