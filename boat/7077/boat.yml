@@ -3,12 +3,13 @@ oga_no: 7077
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: <p>Amphora is a Bermudan rigged Holman 26, built at Whisstocks
-  in 1963.</p>
-full_description: "<p>&#39;Amphora&#39; is a Holman 26, built at Whisstocks in 1963\
-  \ and sailing with the East Coast Gaffers, winning the East Coast Race (Bermudans)\
-  \ in 2013.</p>\r\n\r\n<p>In 2015 she underwent a major refit with new keelbolts,\
-  \ windows and hatches.</p>"
+short_description: |+
+  *Amphora* is a Bermudan rigged Holman 26
+full_description: |+
+  *Amphora* is a Holman 26, built at Whisstocks in 1963 and sailing with the East Coast Gaffers,
+  winning the East Coast Race (Bermudans) in 2013.
+
+  In 2015 she underwent a major refit with new keelbolts, windows and hatches
 year: 1963
 year_is_approximate: false
 designer:
@@ -18,8 +19,8 @@ design_class:
   name: Holman 26
   id: 27109a9f-3a8f-4c6c-b4e5-9215697bbf68
 builder:
-  name: Whissocks
-  id: 961f77be-b808-44a6-bfa3-db40be881501
+  name: Whisstocks Boatyard Ltd
+  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
 place_built: Woodbridge
 construction_material: wood
 construction_method: carvel
@@ -51,7 +52,6 @@ ownerships:
   share: 64
 id: 7d51370d-09c6-484a-a0be-2cb64cab24d3
 image_key: sgXKjv
-thumb: https://photos.smugmug.com/photos/i-TrsHSsB/0/Th/i-TrsHSsB-Th.jpg
 handicap_data:
   thcf: 0.892678466
   beam: 2.286
@@ -68,4 +68,3 @@ handicap_data:
   length_on_waterline: 6.0960741282613995
   length_on_deck: 7.9248
 created_at: '2020-04-25T17:44:05.228557+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'

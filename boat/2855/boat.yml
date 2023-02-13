@@ -15,24 +15,26 @@ designer:
   name: Philip Bolger/Robert Berk
   id: 69bc05bd-bd27-4724-a198-622caa637288
 builder:
-  name: Spirit Yachts/Robert Berk
-  id: f07d0f4e-4366-4bc1-9f31-25ec36440e03
+  - name: Spirit Yachts
+    id: 5a661932-6031-45fb-b51f-cf17a80562ab
+  - name: Robert Berk
+    id: 09d1cc2e-23df-4d6b-ab26-a1f7de2f9388
 place_built: Essex & Suffolk
 construction_material: grp
 construction_details: Strip plank cedar with glass/epoxy
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Faversham
 hull_form: long keel sloping forefoot
 ssr: '118688'
 ownerships:
-- name: Robert Berk
+- id: 149
+  member: 2336
   start: 2000
   share: 64
+  current: true
 id: 28d9af22-e159-45cb-bd28-184d2cdcad98
 image_key: wwNZLg
-thumb: https://photos.smugmug.com/photos/i-LGCLS8q/0/Th/i-LGCLS8q-Th.jpg
 handicap_data:
   thcf: 1.038
   beam: 2.987
@@ -55,4 +57,3 @@ handicap_data:
   length_on_waterline: 10.338941721531334
   length_on_deck: 11.5824
 created_at: '2020-04-25T17:29:12.050852+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
