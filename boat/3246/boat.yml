@@ -3,29 +3,32 @@ oga_no: 3246
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Odd Times&#39; comes from West Mersea where there has been
-  a fishing boat of that name since the early 19th century. In 2019, she&#39;s moored
-  on the Hamble River, in Hampshire.</p>
-full_description: "<p>&#39;Odd Times III&#39; is a Tamarisk 24, a design evolved from\
-  \ a lengthened Tamarisk 22. In turn, this was the gaff rigged version of the Bermudan\
-  \ &#39;Itchen Ferry&#39;, the mould for which was the Itchen Ferry &#39;Nellie&#39;,\
-  \ built in Southampton, an 1865 Daniel G Hatcher boat.</p>\r\n\r\n<p>The name &#39;Odd\
-  \ Times&#39; comes from the West Mersea area where one vessel or another has fished\
-  \ under that name since the early 19<sup>th</sup> century.</p>\r\n\r\n<p>The early\
-  \ Tamarisk 22s and 24s were built by North Sea Craft in Norfolk until the moulds\
-  \ were sold to North Cornwall Marine where later boats were built. It is thought\
-  \ that some 34 boats were built, with &#39;Odd Times III&#39; being the sixth. Her\
-  \ OGA registration no. is 3246, 3 for &#39;Odd Times&#39;, 24 for the Tamarisk and\
-  \ 6 for the sixth built!</p>\r\n\r\n<p>In 1958 a 23.5&#39; gaff cutter designed\
-  \ by John Leather was given the name &#39;Odd Times&#39;. This boat was bought by\
-  \ Peter Rose in 1961 who, after crossing the Atlantic, eventually commissioned &#39;Odd\
-  \ Times II&#39; in 1968, a 37&#39; gaff cutter, also by John Leather, for further\
-  \ Atlantic crossings. &#39;Odd Times III&#39; was commissioned by Rev. Peter Rose\
-  \ in 1974 from North Sea Craft of Norfolk. Launched in 1975 she was initially based\
-  \ in Yarmouth, cruising the Channel, north French coast and Scilly Isles before\
-  \ moving to the Helford River and later Falmouth.</p>\r\n\r\n<p>After several more\
-  \ owners &#39;Odd Times III&#39; returned to cruising the Solent and racing/rallying\
-  \ with the OGA.</p>"
+short_description: The sixth Tamarisk 24
+full_description: |+
+  *Odd Times III* is a Tamarisk 24, a design evolved from
+  a lengthened Tamarisk 22. In turn, this was the gaff rigged version of the Bermudan
+  Itchen Ferry, the mould for which was the Itchen Ferry *Nellie*,
+  built in Southampton, an 1865 Daniel G Hatcher boat.
+  
+  The name *Odd Times* comes from the West Mersea area where one vessel or another has fished
+  under that name since the early 19<sup>th</sup> century.
+  
+  The early Tamarisk 22s and 24s were built by North Sea Craft in Norfolk until the moulds
+  were sold to North Cornwall Marine where later boats were built. It is thought
+  that some 34 boats were built, with *Odd Times III* being the sixth. Her
+  OGA registration no. is 3246, 3 for *Odd Times*, 24 for the Tamarisk and
+  6 for the sixth built!
+  
+  In 1958 a 23.5' gaff cutter designed by John Leather was given the name *Odd Times*.
+  This boat was bought by Peter Rose in 1961 who, after crossing the Atlantic, 
+  eventually commissioned *Odd Times II* in 1968, a 37' gaff cutter, also by John Leather, 
+  for further Atlantic crossings. *Odd Times III* was commissioned by Rev. Peter Rose
+  in 1974 from North Sea Craft of Norfolk. Launched in 1975 she was initially based
+  in Yarmouth, cruising the Channel, north French coast and Scilly Isles before
+  moving to the Helford River and later Falmouth.
+  
+  After several more owners *Odd Times III* returned to cruising the Solent and 
+  racing/rallying with the OGA.
 year: 1975
 year_is_approximate: false
 designer:
@@ -35,8 +38,10 @@ design_class:
   name: Tamarisk 24
   id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
 builder:
-  name: North Sea Craft/C.F. Gill
-  id: 65b3484b-536d-4494-98cf-76349fd1b647
+  - name: North Sea Craft
+    id: a6482c01-706a-469d-93db-2ccab9020581
+  - name: C.F. Gill
+    id: 65b3484b-536d-4494-98cf-76349fd1b647
 place_built: Brundall
 construction_material: grp
 construction_method: cold_moulded
@@ -67,10 +72,8 @@ hull_form: long keel deep forefoot
 sail_number: '3246'
 ssr: '39535'
 ownerships:
-- note: '''Odd Times III'' has been owned by Erik Johnson, David J Moore, Colin Hiscock
-    and her current owner is Chris O''Connor.'
-  text: '''Odd Times III'' has been owned by Erik Johnson, David J Moore, Colin Hiscock
-    and her current owner is Chris O''Connor.'
+- name: Erik Johnson
+  end: 1992
 - name: Dave J Moore
   start: 1992
   end: 2010
