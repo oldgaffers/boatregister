@@ -3,18 +3,23 @@ oga_no: 2502
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: "<p>Heard 28 completed 2002. Built to the owner&#39;s specification.\
-  \ GRP hull with teak superstructure.</p>\r\n\r\n<p>Featured in July 2004 Classic\
-  \ Boat with picture on front cover.</p>"
-full_description: "<p>Here&#39;s some old footage from 2007 tacking &#39;Aeolus&#39;\
-  \ in the Carrick Roads</p>\r\n\r\n<p><iframe allow=\"autoplay; encrypted-media\"\
-  \ allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/r692iN6-AEM\"\
-  \ width=\"560\"></iframe></p>"
+short_description: Built to the owner's specification.
+full_description: |+
+  GRP hull with teak superstructure.
+  
+  Featured in July 2004 Classic Boat with picture on front cover.
+
+  Here's some old footage from 2007 tacking *Aeolus* in the Carrick Roads
+  <iframe allow="autoplay; encrypted-media" allowfullscreen frameborder="0" height="315"
+    src="https://www.youtube.com/embed/r692iN6-AE" width="560">
+  </iframe>
 year: 2002
 year_is_approximate: false
 designer:
-  name: Percy Dalton/Martin Heard
-  id: f19c441f-b6a2-4f96-95b9-d25a6e3e36a5
+  - name: Percy Dalton
+    id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+  - name: Martin Heard
+    id: b1525089-031a-47bc-b7d8-7236987096a7
 design_class:
   name: Heard 28
   id: 47040682-ee05-42de-a493-400ebd5956db
@@ -37,7 +42,6 @@ ownerships:
   current: true
 id: 7138091b-f3fe-4c86-8a0b-4e4fde9ea13c
 image_key: MT9ckD
-thumb: https://photos.smugmug.com/photos/i-LMBdbTf/0/Th/i-LMBdbTf-Th.jpg
 handicap_data:
   thcf: 0.984185488
   beam: 3.048
@@ -46,4 +50,3 @@ handicap_data:
   length_on_waterline: 8.077298219946353
   length_on_deck: 8.5344
 created_at: '2020-04-25T17:21:43.43633+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
