@@ -3,22 +3,22 @@ oga_no: 2175
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: '<p><span style="display: inline !important; float: none; background-color:
-  transparent; color: rgb(51, 51, 51); cursor: text; font-family: sans-serif,Arial,Verdana,&quot;Trebuchet
-  MS&quot;; font-size: 13px; font-style: normal; font-variant: normal; font-weight:
-  400; letter-spacing: normal; line-height: 20.8px; orphans: 2; text-align: left;
-  text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width:
-  0px; white-space: normal; word-spacing: 0px; word-wrap: break-word;">&#39;Saorsa&#39;
-  is a Memory 19, cabin version, built in 1995. She has spent most of her days sailing
-  in Scottish waters from the Isle of Arran and the Clyde to the Solway Coast.</span></p>'
-full_description: <p>&#39;Saorsa&#39; is a Memory 19, the first of the modern Memory
-  19&#39;s to be built with a cabin. Most earlier versions of the Memory with cabins
-  have been modified at a later stage.</p>
+short_description: |+
+  *Saorsa* is a Memory 19, built from new with a cabin
+full_description: |+
+  *Saorsa* is a Memory 19, the first of the modern Memory
+  19's to be built with a cabin. Most earlier versions of the Memory with cabins
+  have been modified at a later stage.
+
+  She has spent most of her days sailing
+  in Scottish waters from the Isle of Arran and the Clyde to the Solway Coast.
 year: 1995
 year_is_approximate: false
 designer:
-  name: Anthony Robinson/G. Dalrymple
-  id: 7c2d6783-950b-4395-b228-a985a7122898
+  - name: Anthony Robinson
+    id: aaec4851-401d-4719-bd23-e80eb778816b
+  - name: Greg Dalrymple
+    id: 44caaf02-656f-41f2-bcce-5abea44511ed
 design_class:
   name: Memory 19
   id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
