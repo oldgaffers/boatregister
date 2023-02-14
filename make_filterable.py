@@ -8,7 +8,7 @@ def transform(o):
   if type(o) is dict and 'name' in o:
     return o['name']
   if type(o) is list:
-    return '/'.join([f['name'] for f in o])
+    return [f['name'] for f in o]
   if type(o) is str:
     m = re.match(r'(\d{4}-\d{2}-\d{2})T\d{2}:\d{2}:\d{2}.*', o)
     if m is not None:
