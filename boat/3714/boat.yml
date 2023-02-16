@@ -7,7 +7,7 @@ short_description: "Indian Runner was built in 2012, was owned from new by Fiona
   \ and sailed\nout of Poole for the first 10 years of her life. She undertook a number\
   \ of\nChannel crossings. \_In 2022 she was purchased by Roger and Chris Hardman,\
   \ and is\ncurrently based at Port Hamble Marina, in the Solent. \_She is entered\
-  \ for the\nOGA 60 Round Britain cruise. \n\nShe has a lifting centreboard so is\
+  \ for the\nOGA 60 Round Britain cruise.\n\n\nShe has a lifting centreboard so is\
   \ capable of entering shallow creeks and\nharbours, plus good lead ballast for stability.\
   \ She has a distinctive hinged\nlifting bowsprit, and for the 2023 season is being\
   \ fitted with a maroon\nsprayhood.\_\n\n"
@@ -26,7 +26,15 @@ construction_material: grp
 spar_material: wood
 selling_status: not_for_sale
 hull_form: long keel deep forefoot
-ownerships: []
+ownerships:
+- name: ' Roger Hardman'
+  start: 2022
+  share: 32
+  current: true
+- name: ' Chris Hardman'
+  start: 2022
+  share: 32
+  current: true
 image_key: J77B9T
 handicap_data:
   beam: 2.9962
