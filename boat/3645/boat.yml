@@ -3,10 +3,11 @@ oga_no: 3645
 generic_type: Morecambe Bay Prawner
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>Ferro sheathing has prolonged her active life</p>
-full_description: <p>Although now in need of some TLC <em>Lady Anne</em> has been
-  sailed regularly in the Clyde up to 2021, having been in the same ownership for
-  30 years.</p>
+short_description: |+
+  Ferro sheathing has prolonged her active life
+
+full_description: "Although now in need of some TLC *Lady Anne* has been sailed regularly\
+  \ in the\nClyde up to 2021, having been in the same ownership for 30 years.\_\n\n"
 year: 1912
 year_is_approximate: false
 construction_material: wood
@@ -20,12 +21,6 @@ for_sales:
   offered: '2022-02-08'
   price_flexibility:
     text: normal
-  reduced: false
-  sales_text: ''
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
   updated_at: '2022-02-08T21:55:20.960395+00:00'
 - asking_price: 500
   created_at: '2022-02-08T21:57:46.649117+00:00'
@@ -34,17 +29,16 @@ for_sales:
   price_flexibility:
     text: normal
   reduced: true
-  sales_text: For sale due to owner's old age and ill health. Requires some TLC.
+  sales_text: |+
+    For sale due to owner's old age and ill health. Requires some TLC.
+
   seller_gold_id: 34731
   seller_member: 1731
-  sold: null
-  summary: null
   updated_at: '2022-02-08T21:57:46.649117+00:00'
 home_country: Scotland
 home_port: Rhu Marina
 hull_form: long keel deep forefoot
 ownerships: []
-id: 8e66729e-0dc2-4e98-a3ae-997477965cbe
 image_key: mg6b6p
 thumb: https://photos.smugmug.com/photos/i-Lt8Pzww/0/Th/i-Lt8Pzww-Th.jpg
 handicap_data:
@@ -52,3 +46,4 @@ handicap_data:
   length_on_deck: 9.1441111923921
 created_at: '2022-02-08T13:25:46.135079+00:00'
 updated_at: '2022-09-01T20:13:41.117798+00:00'
+id: 8e66729e-0dc2-4e98-a3ae-997477965cbe
