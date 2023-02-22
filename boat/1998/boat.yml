@@ -3,9 +3,13 @@ oga_no: 1998
 generic_type: Canoe Yawl
 rig_type: Yawl
 mainsail_type: gaff
-short_description: <p>Charm sails regularly in events on the East Coast of England.</p>
-full_description: Originally built in Dublin, possibly by EL Woods, 1927, to a modified
-  Albert Strange design, Charm was rebuilt in 1996-1997.
+short_description: |+
+  Charm sails regularly in events on the East Coast of England.
+
+full_description: |+
+  Originally built in Dublin, possibly by EL Woods, 1927, to a modified Albert
+  Strange design, Charm was rebuilt in 1996-1997.
+
 year: 1921
 year_is_approximate: false
 designer:
@@ -21,37 +25,40 @@ selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Suffolk Yacht Harbour, Levington
-hull_form: long keel deep forefoot
+hull_form: long keel sloping forefoot
 ownerships:
 - member: 4795
   id: 517
   start: 2005
   share: 64
   current: true
-id: dc19323c-9c9b-4049-befd-2472e82412b7
 image_key: SLpjzk
 thumb: https://photos.smugmug.com/photos/i-rZ5XSgH/0/Th/i-rZ5XSgH-Th.jpg
 handicap_data:
-  thcf: 0.97621024
-  beam: 2.5908
-  draft: 1.6002
-  fore_triangle_height: 7.467690807120214
-  fore_triangle_base: 4.038649109973177
-  length_over_all: 9.1441111923921
-  propellor:
-    type: fixed
-  main:
-    foot: 4.953060229212387
-    head: 4.419653742989515
-    luff: 5.334064862228725
-  topsail:
-    luff: 3.9624481833699097
-    perpendicular: 2.286027798098025
-  mizzen:
-    foot: 2.386613021214338
-    head: 1.9050231650816873
-    luff: 2.9474518410143866
-  length_on_waterline: 7.263472323823457
+  thcf: 0.958
+  beam: 2.591
+  draft: 1.524
+  fore_triangle_height: 7.468
+  fore_triangle_base: 4.039
   length_on_deck: 9.144
+  length_on_waterline: 6.706
+  propellor:
+    blades: 3
+    type: fixed
+  sailarea: 53.772
+  topsail:
+    luff: 3.962
+    perpendicular: 2.286
+  length_over_all: 9.1441111923921
+  main:
+    luff: 5.334
+    foot: 4.953
+    head: 4.42
+  mizzen:
+    luff: 2.947
+    foot: 2.387
+    head: 1.905
+  mizzen_topsail: {}
 created_at: '2020-04-25T17:13:30.351972+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: dc19323c-9c9b-4049-befd-2472e82412b7
