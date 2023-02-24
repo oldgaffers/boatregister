@@ -3,38 +3,51 @@ oga_no: 1895
 generic_type: Dayboat
 rig_type: Schooner
 mainsail_type: gaff
-short_description: <p>Ferryman III is a 'one off' topsail schooner built in 1950.</p>
-full_description: '<p>Ferryman III is a 20&rsquo; topsail schooner, 26'' with bowsprit,
-  built as a ''one off'' in 1950. She is an Old Gaffers Dayboat eligible for The Dinghy
-  Cruising Association and had a complete refurbishment between 1996 and 1999. Based
-  in Scotland, she has a GRP hull, with nearly everything else spruce, teak, iroko,
-  mahogany, bronze, aluminium and a bit of galvanised iron, mainly the lifting centreplate.</p><p>She
-  won the OGA Pitchfork for the longest voyage to Solent Gaffers Race: Blackchub to
-  Bursledon, 400 miles under full sail down the motorway on the back of a trailer!</p>'
+short_description: |+
+  Ferryman III is a 'one off' topsail schooner built in 1950.
+
+full_description: "Ferryman III is a 20\u2019 topsail schooner, 26' with bowsprit,\
+  \ built as a 'one off'\nin 1950. She is an Old Gaffers Dayboat eligible for The\
+  \ Dinghy Cruising\nAssociation and had a complete refurbishment between 1996 and\
+  \ 1999. Based in\nScotland, she has a GRP hull, with nearly everything else spruce,\
+  \ teak, iroko,\nmahogany, bronze, aluminium and a bit of galvanised iron, mainly\
+  \ the lifting\ncentreplate.\n\nShe won the OGA Pitchfork for the longest voyage\
+  \ to Solent Gaffers Race:\nBlackchub to Bursledon, 400 miles under full sail down\
+  \ the motorway on the back\nof a trailer!\n\n"
 year: 1950
 year_is_approximate: false
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
-selling_status: not_for_sale
+selling_status: for_sale
 for_sales:
+- flexibility: normal
+  created_at: '2023-02-24T17:44:04.281Z'
+  updated_at: '2023-02-24T17:44:04.281Z'
+  offered: '2023-02-24'
+  sales_text: "One off topsail Schooner. Full camping inventory including 2 part camping\
+    \ cover.\nGRP hull. Galvanised centreplate. Yanmar YSE8 inboard diesel. 2.5hp\
+    \ Suzuki\noutboard. Bowsprit and boom douglas fir, other spars aluminium. Fitted\
+    \ out in\nteak, iroko, mahogany e.t.c. All foresails on Wykham-Martin furling\
+    \ gear. 2\ntopsails. Reefing squaresail on foremast. Optional roller reefing on\
+    \ main.\nGarmin Oregon GPS chart plotter. Bespoke braked road trailer (all up\
+    \ weight\n1,400kg) and 6\u2019 Barrowboat tender included.\n\n"
+  seller_gold_id: 30
+  seller_member: 819
+  asking_price: 4950
 - created_at: '2018-07-02T09:10:21+00:00'
   flexibility: normal
-  offered: null
   price_flexibility:
     text: normal
   reduced: false
-  sales_text: "<p>OGA1895 (sail number NOT age!)&nbsp;20\u2019 topsail schooner, 26\u2019\
-    \ with bowsprit. Old Gaffers Dayboat eligible for The Dinghy Cruising Association,\
-    \ full camping inventory including camping cover.&nbsp;Complete refurb. 1996-1999.&nbsp;GRP\
-    \ hull, nearly everything else spruce, teak, iroko, mahogany, bronze, aluminium\
-    \ and a bit of galvanised iron, mainly the lifting centreplate. Yanmar YSE8 7hp\
-    \ inboard diesel.&nbsp;Seven sails including reefing squaresail on foremast.&nbsp;Road\
-    \ trailer to keep after free delivery UK mainland. Lying undercover SW Scotland.&nbsp;FY3\
-    \ is a one-off, difficult to value. Seller is now a genuine old gaffer.</p>"
-  seller_gold_id: null
-  seller_member: null
-  sold: null
+  sales_text: "OGA1895 (sail number NOT age!)\_20\u2019 topsail schooner, 26\u2019\
+    \ with bowsprit. Old\nGaffers Dayboat eligible for The Dinghy Cruising Association,\
+    \ full camping\ninventory including camping cover.\_Complete refurb. 1996-1999.\_\
+    GRP hull, nearly\neverything else spruce, teak, iroko, mahogany, bronze, aluminium\
+    \ and a bit of\ngalvanised iron, mainly the lifting centreplate. Yanmar YSE8 7hp\
+    \ inboard\ndiesel.\_Seven sails including reefing squaresail on foremast.\_Road\
+    \ trailer to\nkeep after free delivery UK mainland. Lying undercover SW Scotland.\_\
+    FY3 is a\none-off, difficult to value. Seller is now a genuine old gaffer.\n\n"
   summary: <p>Lying undercover SW Scotland.&nbsp;FY3 is a one-off, SSR No 93916. She&quot;s
     am Old Gaffers Dayboat eligible for The Dinghy Cruising Association, full camping
     inventory including camping cover and road trailer.</p>
@@ -44,10 +57,7 @@ hull_form: long keel deep forefoot
 ownerships:
 - member: 819
   id: 30
-  start: 2012
   share: 64
-  current: true
-id: fc82702d-5384-46cb-a056-42517c9002fe
 image_key: dZRzRK
 thumb: https://photos.smugmug.com/photos/i-Z7xp5X6/0/Th/i-Z7xp5X6-Th.jpg
 handicap_data:
@@ -56,13 +66,10 @@ handicap_data:
   draft: 0.5852
   fore_triangle_height: 5.148134601316752
   fore_triangle_base: 3.148622287247013
-  length_over_all: 5.888807607900512
+  length_on_deck: 5.8918
+  length_on_waterline: 5.18166300902219
   propellor:
     type: fixed
-  main:
-    foot: 1.9507437210436478
-    head: 1.7008046817849305
-    luff: 2.450621799561082
   topsail:
     luff: 2.2494513533284564
     perpendicular: 1.2283589368446721
@@ -73,9 +80,13 @@ handicap_data:
   fore_topsail:
     luff: 2.100097537186052
     perpendicular: 1.6398439405023164
-  length_on_waterline: 5.18166300902219
-  length_on_deck: 5.8918
+  length_over_all: 5.888807607900512
+  main:
+    foot: 1.9507437210436478
+    head: 1.7008046817849305
+    luff: 2.450621799561082
 created_at: '2020-04-25T18:36:06.191878+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: fc82702d-5384-46cb-a056-42517c9002fe
 previous_names:
 - Antimony lll
