@@ -8,9 +8,6 @@ year_is_approximate: false
 designer:
   name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
-design_class:
-  name: Hillyard 12 Ton
-  id: 57eecf46-8ac4-440a-9e91-8d7a11cf13de
 builder:
   name: David Hillyard
   id: d649c6a5-3acc-4f60-868f-7415641908a4
@@ -22,30 +19,32 @@ construction_details: Hard chine transom stern
 selling_status: not_for_sale
 home_port: Exmouth
 hull_form: long keel sloping forefoot
+sail_number: 1969Y
+ssr: SSR183944
+callsign: MKG06
 ownerships:
+- member: 6595
+  id: 35014
+  share: 64
 - name: Ken Pausey
   start: 2012
   share: 64
-- member: 6595
-  id: 35014
-  start: 2022
-  share: 64
-  end: 2022
 - name: Dave Ashman
   start: 2022
   share: 64
-- member: 6595
+- name: Dave Ashman
+  member: 6595
   id: 35014
   start: 2022
+  end: 2022
   share: 64
-  current: true
-id: cca6f0b4-2770-4842-9335-21a94102a1f7
 image_key: kqdnzv
 thumb: https://photos.smugmug.com/photos/i-5mPbJhc/0/Th/i-5mPbJhc-Th.jpg
-created_at: '2020-04-25T17:23:00.607803+00:00'
 handicap_data:
   beam: 3.2004
   draft: 1.7282
-  length_over_all: 11.582540843696659
-  length_on_waterline: 10.66812972445745
   length_on_deck: 11.5824
+  length_on_waterline: 10.66812972445745
+  length_over_all: 11.582540843696659
+created_at: '2020-04-25T17:23:00.607803+00:00'
+id: cca6f0b4-2770-4842-9335-21a94102a1f7
