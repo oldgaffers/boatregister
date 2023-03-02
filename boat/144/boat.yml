@@ -1,9 +1,9 @@
-name: Margery ll
+name: Margery II
 oga_no: 144
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Margery ll was built by David Hillyard in 1924</p>
+short_description: Margery II was built by David Hillyard in 1924
 year: 1924
 year_is_approximate: false
 designer:
@@ -15,19 +15,17 @@ builder:
 place_built: Littlehampton
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 hull_form: long keel deep forefoot
 uk_part1: '144499'
 ownerships:
-- note: Previous owners
-  text: Previous owners
-- start: 1932
-  note: David Hillyard1932
-  text: David Hillyard
-- start: 1968
-  note: Mrs.J Godsmark 1968
-  text: Mrs.J Godsmark
+- name: David Hillyard
+  start: 1932
+  share: 64
+- name: Mrs J Godsmark
+  start: 1968
+  end: 1974
+  share: 64
 - name: E R White
   start: 1974
   share: 64
