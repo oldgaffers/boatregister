@@ -3,8 +3,9 @@ oga_no: 146
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: <p>She was bought by Taylor in 1952 from Grimsby, where she had
-  sunk. He took her back to Nottingham to re-fit her.</p>
+full_description: Owned in the 1890s by Arthur Briscoe, a renowned marine artist.
+  She was bought by Taylor in 1952 from Grimsby, where she had sunk.
+  He took her back to Nottingham to re-fit her.
 year: 1893
 year_is_approximate: false
 designer:
@@ -18,27 +19,28 @@ construction_material: wood
 construction_method: carvel
 construction_details: Pitch pine on oak
 selling_status: not_for_sale
-for_sales: []
+website: https://www.wivenhoehistory.org.uk/content/topics/maritime/mike-boats/about-the-smack-yacht-vera
 home_country: NLD
 uk_part1: '114902'
 ownerships:
-- note: Previous owners
-  text: Previous owners
-- start: 1893
-  note: Tewke 1893 - he was a marine artist.
-  text: Tewke
-- start: 1922
-  note: Stamp 1922
-  text: Stamp
-- start: 1946
-  note: Burton 1946
-  text: Burton
-- start: 1952
-  note: Taylor 1952
-  text: Taylor
-- start: 1958
-  note: W.J. Willey 1958
-  text: W.J. Willey
+- name: Arthur Briscoe
+  start: 1893
+  share: 64
+- name: Stamp
+  start: 1922
+  share: 64
+- name: Burton
+  start: 1946
+  share: 64
+- name: Taylor
+  start: 1952
+  share: 64
+- name: W.J. Willey
+  start: 1958
+  share: 64
+- name: Mr Henk Duister
+  end: 2012
+  share: 64
 - name: Janine Oosterloo
   start: 2012
   share: 64
@@ -50,6 +52,6 @@ handicap_data:
   length_on_waterline: 9.906120458424773
   length_on_deck: 13.1064
 created_at: '2020-04-25T16:44:35.858238+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
+- Tewke
 - Vera
