@@ -3,36 +3,42 @@ oga_no: 1070
 generic_type: Bristol Channel Pilot Cutter
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Originally called &#39;The Wave&#39;, Peggy is a Bristol Channel
+short_description: |+
+  Originally called *The Wave*, Peggy is a Bristol Channel
   Pilot Cutter, built for pilot Arthur Case at Pill in 1903 by Edwin Rowles. Convered
   to a yacht by Moodys at Swanwick in the 1920s, she underwent a major restoration
-  in the 1970s and 1980s by the Pridie family.</p>
-full_description: "<p>&#39;Peggy&#39; was built for the Bristol Channel pilot Arthur\
-  \ Case in 1903 at Pill. Tragically, he was drowned several years later when boarding\
-  \ a ship off Nash Point. &#39;Peggy&#39; then became a Cardiff boat, later moving\
-  \ to Newport.</p>\r\n\r\n<p>She was converted to a yacht at Moodys at Swanwick in\
-  \ the 1920s. By the 1960s she was in poor condition and Alan Savage carried out\
-  \ extensive work, including replanking the topsides. When the Pridie family bought\
-  \ her the bottom leaked like a sieve, the decks were in a poor state and the mast\
-  \ needed serious attention. The Pridie family enjoyed several years of sailing,\
-  \ patching the bottom as necessary. Originally the hull had been bronze fastened\
-  \ but a previous owner had replaced some planks with ungalvanised nails which caused\
-  \ a reaction with the bronze.</p>\r\n\r\n<p>On a return trip from the Scilly Islands\
-  \ a friend mistook a Channel buoy for something else and the subsequent collision\
-  \ broke the bowsprit, split the stem and the topmast came down. They kept the boat\
-  \ afloat for six hours before being towed into Padstow by the lifeboat. Here they\
-  \ met a shipwright, Nimrod Bawden, who fitted a new stem and replaced the planking\
-  \ surrounding it.</p>\r\n\r\n<p>The Pridies decided to replank the bottom and by\
-  \ 1981 a fair bit had been replaced. &#39;Peggy&#39; competed in the OGA Race at\
-  \ Dartmouth but on the return to Bristol disaster hit again when they sat on a pile\
-  \ and punched a hole in the hull. She was salvaged and it was realised that &#39;Peggy&#39;\
-  \ needed a major refit.</p>\r\n\r\n<p>The boat was replanked and the deck beams\
-  \ replaced. In 1985 she was refloated and the following winter the deck was replanked.\
-  \ Much of the deck furniture had been salvaged and reused. A new hollow Noble mast\
-  \ and spars were added with new sails.</p>\r\n\r\n<p>Originally &#39;Peggy&#39;\
-  \ would not have had an engine, however she had acquired one of of dubious age and\
-  \ this was replaced with a similar one that had been a stand by generator. It was\
-  \ marinised together with a second hand gearbox. She was back sailing in 1986.</p>"
+  in the 1970s and 1980s by the Pridie family.
+full_description: |+
+  *Peggy* was built for the Bristol Channel pilot Arthur Case in 1903 at Pill.
+  Tragically, he was drowned several years later when boarding a ship off Nash
+  Point. *Peggy* then became a Cardiff boat, later moving to Newport.
+  
+  She was converted to a yacht at Moodys at Swanwick in the 1920s. By the 1960s
+  she was in poor condition and Alan Savage carried out extensive work, including
+  replanking the topsides. When the Pridie family bought her the bottom leaked
+  like a sieve, the decks were in a poor state and the mast needed serious attention.
+  The Pridie family enjoyed several years of sailing, patching the bottom as necessary.
+  Originally the hull had been bronze fastened but a previous owner had replaced
+  some planks with ungalvanised nails which caused a reaction with the bronze.
+  
+  On a return trip from the Scilly Islands a friend mistook a Channel buoy for something
+  else and the subsequent collision broke the bowsprit, split the stem and the topmast
+  came down. They kept the boat afloat for six hours before being towed into Padstow by
+  the lifeboat. Here they met a shipwright, Nimrod Bawden, who fitted a new stem and replaced
+  the planking surrounding it.
+  
+  The Pridies decided to replank the bottom and by 1981 a fair bit had been replaced.
+  *Peggy* competed in the OGA Race at Dartmouth but on the return to Bristol disaster hit
+  again when they sat on a pile and punched a hole in the hull. She was salvaged and it was
+  realised that *Peggy* needed a major refit.
+  
+  The boat was replanked and the deck beams replaced. In 1985 she was refloated and the
+  following winter the deck was replanked. Much of the deck furniture had been salvaged
+  and reused. A new hollow Noble mast and spars were added with new sails.
+  
+  Originally *Peggy* would not have had an engine, however she had acquired one of of
+  dubious age and this was replaced with a similar one that had been a stand by generator.
+  It was marinised together with a second hand gearbox. She was back sailing in 1986.
 year: 1903
 year_is_approximate: false
 designer:
@@ -52,20 +58,25 @@ home_country: GBR
 home_port: Bristol
 hull_form: long keel deep forefoot
 ownerships:
-- note: John Potter and Rachel Haynes bought Peggy from Diccon Pridie
-  text: John Potter and Rachel Haynes bought Peggy from Diccon Pridie
-- note: Diccon and Mark Pridie bought Peggy from Alan Savage
-  text: Diccon and Mark Pridie bought Peggy from Alan Savage
-- name: Dicon and Mark Pridie
+- name: Alan Savage
+  end: 1973
+  share: 64
+- name: Diccon Pridie
   start: 1973
   end: 2018
-  share: 64
-- name: John Potter and Rachel Haynes
+  share: 32
+- name: Mark Pridie
+  start: 1973
+  end: 2018
+  share: 32
+- name: John Potter
   start: 2018
-  share: 64
+  share: 32
+- name: Rachel Haynes
+  start: 2018
+  share: 32
 id: c9c2f2cb-cb12-47f5-8bb6-71849a17babe
 image_key: WmB85k
-thumb: https://photos.smugmug.com/photos/i-GknDrGg/0/Th/i-GknDrGg-Th.jpg
 handicap_data:
   thcf: 1.131
   beam: 3.871
@@ -86,7 +97,6 @@ handicap_data:
   length_on_waterline: 12.344550109729333
   length_on_deck: 13.8379
 created_at: '2020-04-25T16:59:24.714634+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - The Wave
 construction_method: carvel
