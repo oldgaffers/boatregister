@@ -5,17 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: |+
   Ferro sheathing has prolonged her active life
-full_description: |+
-  Build as a nobby yacht in Overton on the river Lune, *Lady Anne* came second in the midnight race to
-  the Isle of Man in 1928.
-  
-  In 1931 she sailed herself onto the beach by Fleetwood pier after her crew were lost at sea. She
-  continued to sail in Morecambe Bay until 1939.
 
-  In 1947 she was recorded as being at Clynder in the Gareloch by which time she had an engine.
-  
-  She has been sailed regularly in the Clyde up until 2021, having been in the same
-  ownership for over 30 years.
+full_description: |+
+  Build as a nobby yacht in Overton on the river Lune, *Lady Anne* came second in
+  the midnight race to the Isle of Man in 1928.
+
+
+  In 1931 she sailed herself onto the beach by Fleetwood pier after her crew were
+  lost at sea. She continued to sail in Morecambe Bay until 1939.
+
+
+  In 1947 she was recorded as being at Clynder in the Gareloch by which time she
+  had an engine.
+
+
+  She has been sailed regularly in the Clyde up until 2021, having been in the
+  same ownership for over 30 years.
+
 year: 1912
 builder:
   name: Woodhouse Bros.
@@ -42,6 +48,7 @@ for_sales:
   reduced: true
   sales_text: |+
     For sale due to owner's old age and ill health. Requires some TLC.
+
   seller_gold_id: 34731
   seller_member: 1731
   sold: '2022-12-01T00:00:00Z'
@@ -50,16 +57,42 @@ home_country: Scotland
 home_port: Rhu Marina
 hull_form: long keel deep forefoot
 ownerships:
-  - start: 1985
-    end: 2022
-    share: 64
-    member: 1731
-    id: 34731
-  - start: 2022
-    current: true
-    share: 64
-    member: 6582
-    id: 34999
+- member: 6582
+  id: 34999
+  share: 64
+- name: ' C E Tatham'
+  start: 1927
+  end: 1931
+  share: 64
+- name: ' Paul Drummond'
+  start: 1931
+  end: 1931
+  share: 64
+- name: ' John Ingram'
+  start: 1931
+  end: 1933
+  share: 64
+- name: ' Rev. Henry Gordon'
+  start: 1933
+  end: 1938
+  share: 64
+- name: ' H D Brown Kelly'
+  start: 1946
+  end: 1953
+  share: 64
+- name: ' Sea Cadet Corp'
+  start: 1954
+  end: 1957
+  share: 64
+- name: 'G McFadyen '
+  start: 1958
+  end: 1961
+  share: 64
+- member: 1731
+  id: 34731
+  start: 1985
+  end: 2022
+  share: 64
 image_key: mg6b6p
 handicap_data:
   beam: 2.743
