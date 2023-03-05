@@ -4,7 +4,7 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |+
-  *Ferryman* was built at Warsash on the Humber in 1949. Her designer is listed as
+  *Ferryman* was built at Warsash on the Hamble in 1949. Her designer is listed as
   Tormentor Yacht Station.
 full_description: |+
   *Ferryman* is a Tormentor 5 tonner. Her design is based on that
@@ -13,6 +13,12 @@ full_description: |+
   cost would have been £3960, similar yachts would then have ranged in price
   between £1250 and £1950.
 year: 1949
+design_class:
+  name: Tormentor 5 tonner
+  id: 3153b4c9-9baf-458e-86be-45f37cf1af8e
+designer:
+  name: Tormentor Yacht Station
+  id: 2981a102-704a-4d92-bc95-287acee10f5f
 builder:
   name: Tormentor Yacht Station
   id: aba1cbad-f9f4-4c5a-a1c2-8d34c0df528c
@@ -21,14 +27,14 @@ construction_material: wood
 construction_details: Larch on oak
 selling_status: not_for_sale
 home_country: GBR
-home_port: Glencoe
+home_port: Ballachulish
 hull_form: long keel deep forefoot
 uk_part1: '183573'
 ownerships:
 - member: 6182
   id: 35036
   share: 64
-  start: 1985
+  start: 2017
   current: true
 - start: 1971
   name: M Challis
