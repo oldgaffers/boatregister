@@ -4,34 +4,34 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |+
-  Susan J is a Heard 28, built in 1991 by Gaffers and Luggers and has cruised
+  *Susan J* is a Heard 28, built in 1991 by Gaffers and Luggers and has cruised
   extensively.
+full_description: |+
+  *Susan J's* first owners took her through the French canals and cruised
+  the Mediterranean. She had a complete refit during 2001 - 2002 at Sandbanks Yacht
+  Company, Poole, including a new bowsprit, rigging, teak work and electrics.
 
+  With her second owners, the Shaws, she sailed to the Channel Islands, Normandy
+  and Brittany coasts, west coast of England and the Scilly Islands from her base
+  in the Solent. In 2003 she sailed around Britain and in 2013 took part in the
+  OGA Jubilee celebrations in Cowes. She attended the 10th Anniversary Tour with
+  the Dutch OGA in 2014.
+  
+  Changing hands in 2017, as her new owners, we took her
+  on the OGA Sou' by Sou' West Cruise when she reached the Scilly Islands. She attended
+  the OGA 55 celebrations in Cowes and in 2019 cruised to North Brittany.
 
-  susanjcutter@blogspot.com
-
-
-full_description: "Susan J's first owners took her through the French canals and cruised\
-  \ the\nMediterranean. She had a complete refit during 2001 - 2002 at Sandbanks Yacht\n\
-  Company, Poole, including a new bowsprit, rigging, teak work and electrics.\n\n\
-  With her second owners, the Shaws, she sailed to the Channel Islands, Normandy\n\
-  and Brittany coasts, west coast of England and the Scilly Islands from her base\n\
-  in the Solent. In 2003 she sailed around Britain and in 2013 took part in the\n\
-  OGA Jubilee celebrations in Cowes. She attended the 10th Anniversary Tour with\n\
-  the Dutch OGA in 2014.\n\nChanging hands in 2017, as her new owners, we took her\
-  \ on the OGA Sou' by\nSou'West Cruise when she reached the Scilly Islands. She attended\
-  \ the\_OGA 55\ncelebrations in Cowes and in 2019 cruised to\_North Brittany.\n\n\
-  Her 27 year old Perkins engine was replaced with a Beta 28 in 2018, by David\nLlewellin\
-  \ of DL Marine, St Just in Roseland. \_We have upgraded her 12 V charging\nsystems\
-  \ and overhauled the Taylor parafin stove. \_Her Simpson Lawrence manual\nwindlass,\
-  \ Taylor gas cooker (and supply) were overhauled, during the lockdown.\n\_Her spars\
-  \ were removed, overhauled and rigging simplified in 2020/21 by David\nCarne and\
-  \ team at Riggers UK in Penryn\n\nSince Covid, as well as the south coast of Devon\
-  \ and Cornwall and the Isles of\nScilly most years, she has cruised to Guernsey\
-  \ in 2021 and Milford Haven in May\n2022.\n\nWe are hoping that \u201CSusan J\u201D\
-  \ will join the \_OGA60 Round Britain Cruise from\nPlymouth in May 2023.\n\n"
+  Her 27 year old Perkins engine was replaced with a Beta 28 in 2018, by David Llewellin
+  of DL Marine, St Just in Roseland. We have upgraded her 12 V charging systems
+  and overhauled the Taylor parafin stove. Her Simpson Lawrence manual windlass,
+  Taylor gas cooker (and supply) were overhauled, during the lockdown. Her spars
+  were removed, overhauled and rigging simplified in 2020/21 by David Carne and
+  team at Riggers UK in Penryn Since Covid, as well as the south coast of Devon
+  and Cornwall and the Isles of Scilly most years, she has cruised to Guernsey
+  in 2021 and Milford Haven in May 2022.
+  
+  We are hoping that *Susan J* will join the OGA60 Round Britain Cruise from Plymouth in May 2023.
 year: 1992
-year_is_approximate: false
 designer:
   name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
@@ -84,24 +84,41 @@ sail_number: '111'
 ssr: '48052'
 callsign: 'MQEN4  MMSI:  235010947'
 ownerships:
-- member: 5870
-  id: 809
-  share: 64
-- name: Les and Susan Goodfellow
+- name: Les Goodfellow
   start: 1992
   end: 1999
-  share: 64
-- name: Michael and Marion Shaw
+  share: 32
+- name: Susan Goodfellow
+  start: 1992
+  end: 1999
+  share: 32
+- member: 2686
+  id: 176
+  start: 1999
+  end: 2017
+  share: 16
+- member: 2686
+  id: 1130
+  start: 1999
+  end: 2017
+  share: 16
+- member: 5031
+  id: 565
   start: 1999
   end: 2017
   share: 32
-- name: Dan Shaw
-  start: 1999
-  end: 2017
+- member: 5870
+  id: 809
   share: 32
+  start: 2017
+  current: true  
+- member: 5870
+  id: 1284
+  share: 32
+  start: 2017
+  current: true  
 website: https://susanjcutter.blogspot.com
 image_key: 57pCQd
-thumb: https://photos.smugmug.com/photos/i-X2n5jc9/0/Th/i-X2n5jc9-Th.jpg
 handicap_data:
   thcf: 0.968
   beam: 2.947
@@ -121,6 +138,5 @@ handicap_data:
     head: 3.77004584948793
     luff: 6.360077348207755
 created_at: '2020-04-25T17:18:57.159513+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 93c15ebe-50d5-4d62-b6e1-4728fc8937c9
 air_draft: 30
