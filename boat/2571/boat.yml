@@ -1,6 +1,6 @@
 name: Quest
 oga_no: 2571
-rig_type: Sloop
+rig_type: Cutter
 mainsail_type: gaff
 full_description: Imports boats from South Africa, uses as own boat/demonstrator,
   then sells on.  Has web site with list of UK owners.  See CB Sept '03.
@@ -12,7 +12,7 @@ designer:
 design_class:
   name: Cape Cutter 19
   id: aeb6b869-a715-4296-a506-35ae1bc28e2f
-place_built: South africa
+place_built: South Africa
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
@@ -39,5 +39,11 @@ handicap_data:
     luff: 3.2004389173372347
   length_on_waterline: 5.501706900755913
   length_on_deck: 5.8003
+  hull_shape: Long keel - Standard
+  displacement: 1150
+  calculated_shape_factor: 0.20559578081702
+  reference_shape_factor: 0.2
+  rated_shape_factor: 0.20559578081702
+  rated_displacement: 1150
+  corrected_thcf: 0.899997237821853
 created_at: '2020-04-25T17:22:46.989543+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'

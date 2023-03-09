@@ -3,12 +3,13 @@ oga_no: 3143
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Capraia is a Heard 28 Falmouth work boat built in 2000 in GRP by
+short_description: |+
+  *Capraia* is a Heard 28 Falmouth work boat built in 2000 in GRP by
   Gaffers and Luggers.
-full_description: Moored in the River Cleddau, Pembrokeshire. Capraia took part in
+full_description: |+
+  Moored in the River Cleddau, Pembrokeshire. *Capraia* took part in
   the OGA Round Britain Challenge, 2013.
 year: 2000
-year_is_approximate: false
 designer:
   - name: Percy Dalton
     id: 7ac480da-7d09-4dd7-9c89-61199ff30913
@@ -30,13 +31,14 @@ for_sales: []
 hull_form: long keel sloping forefoot
 ssr: '116113'
 ownerships:
-- name: P J Vyvyan-Robinson
+- member: 5608
+  id: 692
   start: 2009
+  current: true
   share: 64
 website: http://onboardcapraia.blogspot.co.uk
 id: 9963d6f5-3d2d-4431-8a9b-8426a9ac489b
 image_key: kBDhTt
-thumb: https://photos.smugmug.com/photos/i-F9CtCPM/0/Th/i-F9CtCPM-Th.jpg
 handicap_data:
   thcf: 0.955
   beam: 3.048
@@ -57,5 +59,9 @@ handicap_data:
   length_over_spars: 12.496951962935869
   length_on_waterline: 8.077298219946353
   length_on_deck: 8.6868
+  hull_shape: Long keel - Standard
+  reference_shape_factor: 0.2
+  rated_shape_factor: 0.2
+  rated_displacement: 7716.34069632
+  corrected_thcf: 0.9642948897776 
 created_at: '2020-04-25T17:38:18.07452+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
