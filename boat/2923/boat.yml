@@ -3,20 +3,29 @@ oga_no: 2923
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: Codling is an unstayed catboat, fitted with bowsprit. Her design
+short_description: |+
+  *Codling* is an unstayed catboat with a bowsprit. Her design
   is after the racing catboats of the 1840s.
-full_description: <em>Codling</em>, built as a Freedom 21 in 1987, is derived from
+full_description: |+
+  *Codling*, built as a Freedom 21 in 1987, is derived from
   the catboats originally built to fish the shallow waters off Cape Cod from about
   1840. The cat rig has a single unstayed mast stepped well forward, and is sailed
   upwind with mainsail only. In 1853 one of the early racing boats with the cat rig
-  was shipped to Cowes from the USA, and raced very successfully. Her name was <em>Una</em>
-  and she gave her name to this rig in English waters - the Una-rig<p>A retractable
-  bowsprit was fitted in 2009 to enable downwind sails to be carried - an asymmetric
-  spinnaker or a roller-furling code zero.<p>In the OGA 55 race on 18 August 2018
-  she finished Class 3 under 23' waterline - First on elapsed time, and First corrected
-  time.<p>Overall - Fifth boat on the water, and second overall on corrected time.<p>For
-  2019 the gaff and topmast, previously made from aluminium alloy have been replaced
-  by new spars of carbon fibre.<p>Solent Gaffers race 2019, Cowes to Lymington - second
+  was shipped to Cowes from the USA, and raced very successfully. Her name was *Una*
+  and she gave her name to this rig in English waters - the Una-rig.
+  
+  A retractable bowsprit was fitted in 2009 to enable downwind sails to be carried
+   - an asymmetric spinnaker or a roller-furling code zero.
+
+  In the OGA 55 race on 18 August 2018 she finished Class 3 under 23' waterline - first on elapsed
+  time, and first on corrected time.
+  
+  Overall - fifth boat on the water, and second overall on corrected time.
+  
+  For 2019 the gaff and topmast, previously made from aluminium alloy have been replaced
+  by new spars of carbon fibre.
+  
+  Solent Gaffers race 2019, Cowes to Lymington - second
   on the water to Rosenn, but first overall on corrected time.
 year: 1987
 year_is_approximate: false
@@ -37,8 +46,8 @@ home_port: Cowes
 hull_form: fin keel
 sail_number: Cod-1
 ownerships:
-- note: 'previous owner :  M le Marquand'
-  text: 'previous owner :  M le Marquand'
+- name: M le Marquand
+  end: 2017
 - name: Don Wood
   start: 2009
   end: 2017
@@ -50,7 +59,6 @@ ownerships:
   current: true
 id: 6bb551e1-d493-45f2-99b2-7ebbead2d64e
 image_key: b9wwWS
-thumb: https://photos.smugmug.com/photos/i-tLpfrJc/0/Th/i-tLpfrJc-Th.jpg
 handicap_data:
   thcf: 0.864758378
   beam: 2.4384
@@ -70,5 +78,12 @@ handicap_data:
     perpendicular: 1.6002194586686174
   length_on_waterline: 5.385881492318947
   length_on_deck: 6.605
+  hull_shape: Fin straight
+  displacement: 906.999999999999
+  calculated_shape_factor: 0.0991396670416997
+  reference_shape_factor: 
+  rated_shape_factor: 0.0991396670416997
+  rated_displacement: 906.999999999999
+  performance_factor: 0.03
+  corrected_thcf: 1.01786159004774
 created_at: '2020-04-25T17:32:38.783536+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
