@@ -13,12 +13,25 @@ builder:
   id: 7b8f27ae-1f33-44e0-8cb8-9ca7bedc640f
 place_built: Sandbank
 construction_material: wood
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- flexibility: normal
+  created_at: '2023-03-09T17:40:57.997Z'
+  updated_at: '2023-03-09T17:40:57.997Z'
+  offered: '2023-03-09'
+  sales_text: "Marishka was built in 1895 by Morris and Lorrimer for Noel Guinness\
+    \ (a member of\nthe famous Irish beverage family).\n\nShe is fully restored, having\
+    \ been re-built from the keel up and re-launched in\nJune 2022. She has an in-board\
+    \ Yanmar 16HP engine.\_\n\nHer journey was captured in the March 2023 issue of\
+    \ Classic Boat magazine with\nher image gracing the front cover. She is a wonderful\
+    \ boat to sail and her\nperformance has been improved as part of her restoration.\_\
+    \n\n"
+  asking_price: 125000
 home_country: GBR
 home_port: Truro
 ownerships:
-- member: 2335
+- name: David Reay
+  member: 2335
   id: 148
   share: 64
 image_key: b9Qz44
