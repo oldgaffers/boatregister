@@ -7,45 +7,64 @@ short_description: |+
   Built in 2003 at the Elephant Boatyard, *Ivy Green* spent ten years on the East
   Coast before returning to Solent waters in 2014.
 full_description: |+
-  *Ivy Green* is a 35ft gaff cutter, designed by [Ed
-  Burnett](http://www.burnettyachtdesign.co.uk/), built by the [Elephant
-  Boatyard](http://www.elephantboatyard.co.uk/index.html) and launched in 2003.
-  She spent 10 years on the East Coast, before returning to the Solent in late
-  2014.
+  *Ivy Green* is a 35ft gaff cutter,
+  designed by [Ed Burnett](http://www.burnettyachtdesign.co.uk/),
+  built by the [Elephant Boatyard](http://www.elephantboatyard.co.uk/index.html) and launched in 2003.
+  She spent 10 years on the East Coast, before returning to the Solent in late 2014.
 year: 2003
 year_is_approximate: false
 designer:
   name: Ed Burnett
   id: ec954b97-b4e7-4203-a28c-7d85278bf748
+design_class:
+  name: Ivy
+  id: 7611b5db-837e-4e02-9a9f-50c29602a24f
 builder:
   name: Elephant Boatyard Ltd.
   id: 1108b354-a34d-4097-b09a-8910c74bc841
 place_built: Bursledon
 construction_material: woodepoxy
 spar_material: wood
-construction_method: strip_planking_epoxy_sheathed
 construction_details: Wood epoxy
+selling_status: not_for_sale
+for_sales: []
 home_country: GBR
 home_port: Bursledon, River Hamble
 hull_form: long keel sloping forefoot
 sail_number: EB6
-callsign: VSLR8
 uk_part1: '404790'
+callsign: VSLR8
+ownerships:
+- name: Jeremy Dumas
+  start: 2003
+  end: 2014
+  share: 64
+- member: 5899
+  id: 827
+  start: 2014
+  share: 64
+  current: true
+website: https://ivygreen.me.uk
+id: 42143b20-fd07-4571-ac38-e842ebd31899
+image_key: NrR7R5
 handicap_data:
-  thcf: 1.021
-  beam: 10.67
-  draft: 5.67
-  fore_triangle_height: '33.5'
-  fore_triangle_base: 22.5
-  length_on_deck: 34.75
-  length_on_waterline: 31.004
+  thcf: 1.025
+  beam: 3.2522
+  draft: 1.7282
+  fore_triangle_height: 10.21
+  fore_triangle_base: 6.858
+  length_over_all: 10.59
   propellor:
     type: feathering
-  sailarea: 783.307
-  topsail:
-    luff: 20.17
-    perpendicular: 7.83
+  sailarea: 78.2196481457178
   main:
-    luff: 18.8333
-    foot: 19.92
-    head: 14.33
+    foot: 6.071616
+    head: 4.367784
+    luff: 5.74
+  topsail:
+    luff: 6.147816
+    perpendicular: 2.386584
+  length_over_spars: 10.59
+  length_on_waterline: 9.4488
+  length_on_deck: 10.5918
+created_at: '2020-04-25T17:23:09.269019+00:00'
