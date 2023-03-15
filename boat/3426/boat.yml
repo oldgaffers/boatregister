@@ -43,6 +43,7 @@ construction_details: Moulded GRP hull, cabin, and forehatch plinth. Wooden deck
   rudder, dog house
 selling_status: not_for_sale
 home_country: GBR
+home_port: Penzance
 hull_form: long keel deep forefoot
 ownerships:
 - name: Nick Henshall
@@ -91,17 +92,18 @@ for_sales:
 id: 6afb5acf-bd0e-4cf8-9292-12907889ef97
 image_key: wZgnC9
 handicap_data:
-  beam: 2.4902
-  draft: 1.3198
-  sailarea: 7
+  propellor:
+    type: fixed
+  beam: 2.5
+  draft: 1.32
   main:
-    foot: 14
-    head: 11
-    luff: 18
-  length_overall: 6.0442
-  length_over_spars: 8.4064
+    foot: 4.2672
+    head: 3.3528
+    luff: 5.4864
+  length_overall: 6
+  length_over_spars: 8.4
   length_on_waterline: 5.715
-  length_on_deck: 6.0442
+  length_on_deck: 6
 created_at: '2020-04-25T17:54:10.906184+00:00'
 previous_names:
 - Jessie & Zac
