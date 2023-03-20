@@ -3,10 +3,10 @@ oga_no: 3357
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Satellite is a Golant Gaffer built by her first owner and launched
-  in 2017.</p>
-full_description: <p>Satellite was built by her first owner in Liphook, Hampshire
-  2015 to 2017.</p>
+short_description: |+
+  *Satellite* is a Golant Gaffer built by her first owner.
+full_description: |+
+  *Satellite* was built by her first owner in Liphook, Hampshire 2015 to 2017.
 year: 2017
 year_is_approximate: false
 designer:
@@ -20,10 +20,9 @@ builder:
   id: 60f1279a-1f05-4fd8-a024-800655a28344
 place_built: Liphook
 construction_material: wood
-construction_details: 'Cedar strip wood epoxy with iroko. Spars wood excluding the
-  gaff which is carbon fibre/wood '
+construction_details: Cedar strip wood epoxy with iroko. Spars wood excluding the
+  gaff which is carbon fibre/wood
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: long keel sloping forefoot
@@ -39,21 +38,20 @@ ownerships:
 website: http://golantgaffer134.blogspot.co.uk/
 id: 2041681b-1faf-4992-a4d9-b50ad30fec50
 image_key: XcC3zZ
-thumb: https://photos.smugmug.com/photos/i-SmtcPWr/0/Th/i-SmtcPWr-Th.jpg
 handicap_data:
+  propellor:
+    type: feathering
   beam: 2.1336
   draft: 0.8382
   fore_triangle_height: 6.1996
   fore_triangle_base: 3.301
-  sailarea: 7
   main:
-    foot: 11.81
-    head: 10.1
-    luff: 13.78
+    foot: 3.6
+    head: 3.0785
+    luff: 4.2
   length_overall: 5.715
   calculated_thcf: 0.844
   length_over_spars: 7.3518
   length_on_waterline: 5.4102
   length_on_deck: 5.715
 created_at: '2020-04-25T17:51:06.003056+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
