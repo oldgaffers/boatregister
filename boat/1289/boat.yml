@@ -61,7 +61,7 @@ construction_details: Carvel pine on oak, elm keel, external lead keel, no inter
   ballast, teak brightwork.
 selling_status: for_sale
 for_sales:
-- asking_price: 20000
+- asking_price: 22500
   created_at: '2022-11-14T10:23:56+00:00'
   flexibility: normal
   price_flexibility:
@@ -138,19 +138,32 @@ ownerships:
   start: 1981
   end: 1983
   share: 64
-- name: Dick and Pat Dawson
+- member: 1439
+  id: 63
   start: 1983
   end: 1986
-  share: 64
-- name: Pat Dawson
+  share: 32
+- member: 1439
+  id: 63
+  start: 1983
+  end: 1986
+  share: 32
+- member: 1439
+  id: 34691
   start: 1986
   end: 2014
   share: 64
-- name: Dick and Pat Dawson
+- member: 1439
+  id: 63
   start: 2014
-  share: 64
+  share: 32
+  current: true
+- member: 1439
+  id: 34691
+  start: 2014
+  share: 32
+  current: true
 image_key: nNtLcZ
-thumb: https://photos.smugmug.com/photos/i-fx9pX99/0/Th/i-fx9pX99-Th.jpg
 handicap_data:
   thcf: 0.953
   beam: 2.7432
@@ -173,5 +186,4 @@ handicap_data:
     head: 4.191069251402097
     luff: 5.359479395269446
 created_at: '2020-04-25T17:02:45.856493+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: b9758995-6678-4beb-a17e-bf6ef4dfa628
