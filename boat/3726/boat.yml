@@ -3,9 +3,7 @@ oga_no: 3726
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  Last Heard 28 built
-
+short_description: Last Heard 28 built
 year: 2009
 designer:
   name: Percy Dalton
@@ -21,7 +19,12 @@ construction_details: Glassfibre hull, wooden decks
 home_country: GBR
 home_port: Upnor
 hull_form: long keel deep forefoot
-ownerships: []
+ownerships:
+  - start: 2009
+    share: 64
+    current: true
+    id: 839
+    member: 5917
 image_key: bRcNXM
 handicap_data:
   beam: 2.896

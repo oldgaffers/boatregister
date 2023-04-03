@@ -133,7 +133,11 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 hull_form: long keel sloping forefoot
-ownerships: []
+ownerships:
+  - name: Fred Schotman
+    start: 2019
+    share: 64
+    current: true
 image_key: WhWPhf
 handicap_data:
   beam: 2.185
