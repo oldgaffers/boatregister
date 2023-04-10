@@ -2,13 +2,15 @@ name: Recipe
 oga_no: 3445
 generic_type: Yacht
 rig_type: Cutter
-mainsail_type: gaff
-short_description: <p>Recipe&nbsp;is&nbsp; Norfolk Smuggler, now being sailed in Zeeland</p>
-full_description: "<p>&#39;Recipe&#39;s&#39; current owner bought her in 2015 and\
-  \ need to repair and renewed everything except the engine and centre plate to&nbsp;bring\
-  \ her into good condition.&nbsp;</p>\r\n\r\n<p>Since then he has sailed her single\
-  \ handed in great comfort through the Netherlands, Belgium and England, including\
-  \ visits to Pin Mill, Cowes, London and Dieppe.</p>"
+mainsail_type: gunter
+short_description: |+
+  *Recipe*, Norfolk Smuggler, now being sailed in Zeeland</p>
+full_description: |+
+  *Recipe* current owner bought her in 2015 and need to repair and renewed everything
+  except the engine and centre plate to bring her into good condition.
+  
+  Since then he has sailed her single handed in great comfort through the Netherlands,
+  Belgium and England, including visits to Pin Mill, Cowes, London and Dieppe.
 year: 1995
 year_is_approximate: false
 designer:
@@ -32,8 +34,7 @@ callsign: PF2762
 ownerships:
 - start: 1995
   end: 2015
-  note: 1995-2015 Mr Erbelich
-  text: Mr Erbelich
+  name: Mr Erbelich
 - member: 6375
   id: 34700
   start: 2015
@@ -41,14 +42,16 @@ ownerships:
   current: true
 id: ed75f337-ef8f-425f-a4d6-2e109fc493e0
 image_key: 6kjsMF
-thumb: https://photos.smugmug.com/photos/i-NgsH68C/0/Th/i-NgsH68C-Th.jpg
 handicap_data:
+  beam: 2.67
+  draft: 0.84
+  draft_keeldown: 1.50
   moving_keel: true
   length_overall: 7.62
   moving_keel_type: Centreboard
   length_over_spars: 9.144
   length_on_deck: 7.62
+  length_over_all: 7.62
 created_at: '2020-04-25T17:55:07.976797+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Morning Star
