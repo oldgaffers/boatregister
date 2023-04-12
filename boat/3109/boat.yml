@@ -46,18 +46,30 @@ ownerships:
   current: true
 id: c5b5f580-8294-4c3c-a7dc-04a826ceb7c1
 image_key: JRvTvt
-thumb: https://photos.smugmug.com/photos/i-gT6Tp5n/0/Th/i-gT6Tp5n-Th.jpg
 handicap_data:
+  beam: 2.6914
   beam: 2.6609
+  draft: 0.8626
   draft: 0.8412
-  length_over_all: 7.62009267190929
+  draft_keel_down: 1.5
   propellor:
     type: fixed
     blades: 3
-  length_over_spars: 9.100110671177761
-  length_on_waterline: 6.780082456108266
-  length_on_deck: 7.62
+  length_overall: 7.62
+  length_over_spars: 9.1
+  length_on_waterline: 6.78
+  length_on_deck: 7.62    
+  thcf: 0.796
+  fore_triangle_height: 8.2297
+  fore_triangle_base: 4.572
+  sailarea: 39.8975
+  main:
+    foot: 4.724469641550841
+    head: 4.343458912460375
+    luff: 4.26725188978298
+  draft_keeldown: 1.49864
+  moving_keel: true
+  moving_keel_type: Centreboard
 created_at: '2020-04-25T18:37:08.907891+00:00'
-updated_at: '2022-08-17T09:34:48.114143+00:00'
 previous_names:
 - Water Witch
