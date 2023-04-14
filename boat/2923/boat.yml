@@ -78,12 +78,9 @@ handicap_data:
     perpendicular: 1.6002194586686174
   length_on_waterline: 5.385881492318947
   length_on_deck: 6.605
-  hull_shape: Fin keel
   displacement: 906.999999999999
-  calculated_shape_factor: 0.0991396670416997
-  reference_shape_factor: 
-  rated_shape_factor: 0.0991396670416997
-  rated_displacement: 906.999999999999
-  performance_factor: 0.03
-  corrected_thcf: 1.01786159004774
+  solent:
+    hull_shape: Fin keel
+    performance_factor: 0.03
+    thcf: 1.01786159004774
 created_at: '2020-04-25T17:32:38.783536+00:00'
