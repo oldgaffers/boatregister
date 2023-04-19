@@ -15,14 +15,14 @@ home_port: Guernsey
 hull_form: long keel sloping forefoot
 ssr: '50997'
 ownerships:
-  - member: 6630
-    start: 2021
-    share: 64
-    id: 35069
-    current: true
+- member: 6630
+  id: 35069
+  start: 2021
+  share: 64
+  current: true
 image_key: HQjqdS
 handicap_data:
-  thcf: 0.937
+  thcf: 0.942
   beam: 2.53
   draft: 1.859
   length_on_deck: 8.992
@@ -30,6 +30,11 @@ handicap_data:
   propellor:
     blades: 3
     type: feathering
-  sailarea: 37.255
+  sailarea: 38.833
+  displacement: 5850
+  solent:
+    hull_shape: Long keel - Standard
+    performance_factor: ' '
+    measured_rating: 20.76612479564233
+    thcf: 0.94
 air_draft: 10.059
-newItems: {}
