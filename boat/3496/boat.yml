@@ -2,8 +2,19 @@ name: Happy Days
 oga_no: 3496
 rig_type: Single Sail
 mainsail_type: lug
-short_description: Bought as a home completion. Built in 1999.
+short_description: Completed by the owner
 year: 1999
+designer:
+  name: Alf Last
+  id: f6e9f88a-6f88-40f7-82d2-e700bf57d1c5
+design_class:
+  name: Brian Kennel Smacks Boat
+  id: 99ce7ec6-76a6-4944-9bd9-113a47a51ac2
+builder:
+  - name: Brian Kennell
+    id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
+  - name: Pete Thomas
+    id: 7f42b338-7ccf-4a6b-bdf6-9e95bb5a03f3
 year_is_approximate: false
 construction_material: grp
 spar_material: wood
@@ -12,10 +23,12 @@ selling_status: not_for_sale
 for_sales: []
 home_country: United Kingdom
 home_port: Pin Mill
-ownerships: []
+ownerships: [] 
 id: fc1e2979-0d5e-4a59-bf46-cf20eafb65c2
 image_key: 3S9d8x
-thumb: https://photos.smugmug.com/photos/i-BJZTRCJ/0/Th/i-BJZTRCJ-Th.jpg
 created_at: '2021-02-08T19:24:03.37526+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-handicap_data: {}
+place_built: Layer Marney / Ipswich
+hull_form: centre-board dinghy
+handicap_data:
+  beam: 1.524
+  length_on_deck: 3.7338
