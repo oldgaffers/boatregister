@@ -3,8 +3,9 @@ oga_no: 3301
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: spritsail
-short_description: <p>Elfor is an Iain Oughtred Elf design. She was built between
-  2008 to 2016.</p>
+short_description: |+
+  Elfor is an Iain Oughtred Elf design. She was built between 2008 to 2016.
+
 year: 2016
 year_is_approximate: false
 designer:
@@ -28,14 +29,15 @@ ownerships:
   start: 2016
   share: 64
   current: true
-id: 403cf10b-e476-4079-9bc0-94bd86f799fa
+image_key: kvJxrF
 handicap_data:
   beam: 1.3716
   draft: 0.1768
-  moving_keel: true
   length_overall: 4.572
-  moving_keel_type: Leeboard
-  length_on_waterline: 3.7551
   length_on_deck: 4.572
+  length_on_waterline: 3.7551
+  moving_keel: true
+  moving_keel_type: Leeboard
 created_at: '2020-04-25T17:48:45.204146+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 403cf10b-e476-4079-9bc0-94bd86f799fa
