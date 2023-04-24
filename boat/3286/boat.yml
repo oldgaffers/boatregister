@@ -3,7 +3,9 @@ oga_no: 3286
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: lug
-short_description: <p>Teal is a Drascombe Peterboat built in 2011</p>
+short_description: |+
+  Teal is a Drascombe Peterboat built in 2011
+
 year: 2011
 year_is_approximate: false
 designer:
@@ -28,21 +30,22 @@ ownerships:
   start: 2011
   share: 64
   current: true
-id: ce3e784e-34ac-48a3-870e-def5b9be2be9
+image_key: CDdHTV
 handicap_data:
+  calculated_thcf: 0.749
   beam: 1.8044
   draft: 0.253
+  length_overall: 4.572
+  length_on_deck: 4.572
+  length_on_waterline: 3.7582
   sailarea: 1
+  draft_keel_down: 0.7864
   main:
     foot: 9.58
     head: 9.58
     luff: 8.25
   moving_keel: true
-  length_overall: 4.572
-  calculated_thcf: 0.749
-  draft_keel_down: 0.7864
   moving_keel_type: Centreboard
-  length_on_waterline: 3.7582
-  length_on_deck: 4.572
 created_at: '2020-04-25T17:47:47.60237+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: ce3e784e-34ac-48a3-870e-def5b9be2be9
