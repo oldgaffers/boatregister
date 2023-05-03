@@ -15,6 +15,9 @@ year_is_approximate: false
 designer:
   name: Chesapeake Light Craft
   id: ad506e2e-f56e-4142-9461-0b90640a1cc5
+builder:
+  name: First Owner
+  id: ae38282d-1e2d-43d9-a123-4c8ee205637f
 place_built: 'Fyne Boat Kits, Gatebeck, Cumbria '
 construction_material: plywood
 spar_material: wood
@@ -23,12 +26,14 @@ construction_details: 'Lapstrake, Stitch and Glue. '
 home_country: UK
 home_port: 'Arnside, Cumbria '
 hull_form: centre-board dinghy
+ownerships:
+- member: 6527
+  id: 34928
+  start: 2023
+  share: 64
+  current: true
 image_key: h4mp37
 handicap_data:
   beam: 1.295
   draft: 0.305
   length_on_deck: 3.048
-newItems:
-  builder:
-    name: 'John Stride '
-    id: ede2e6c3-8939-4c4d-9276-97b17dcea5f0
