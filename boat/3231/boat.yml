@@ -5,6 +5,7 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: |+
   *Kitty* is a Yarmouth 23
+
 year: 2004
 year_is_approximate: false
 designer:
@@ -18,44 +19,53 @@ builder:
   id: 609d8a8b-c14c-402c-b727-519e519d6f6f
 place_built: Yarmouth Isle of Wight
 construction_material: grp
+spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
 selling_status: not_for_sale
 for_sales:
-- created_at: 2022-12-11T09:25:00Z
-  sales_text: Owned since 2012.
+- created_at: '2022-12-11T09:25:00+00:00'
+  sales_text: |+
+    Owned since 2012.
+
   seller_gold_id: 714
   seller_member: 5668
-  sold: 2022-11-15
+  sold: '2022-11-15'
   summary: sold privately to a non-member Richard Smith
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel sloping forefoot
 sail_number: '27'
+ssr: '111959'
+callsign: MFXQ7
 ownerships:
 - member: 5668
   id: 714
   start: 2012
   end: 2022
   share: 64
-- name: Richard Smith
+- member: 4333
+  id: 427
   start: 2022
-  current: true
   share: 64
-id: 44462bfc-0a31-4f49-8107-eef831be4029
+  current: true
 handicap_data:
-  beam: 2.2799
-  draft: 0.9144
-  fore_triangle_height: 5.7912
-  fore_triangle_base: 3.0389
+  thcf: 1.074
+  calculated_thcf: 0.849
+  beam: 2.28
+  draft: 0.914
+  fore_triangle_height: 5.791
+  fore_triangle_base: 3.039
+  length_overall: 6.8793
+  length_on_deck: 6.879
+  length_on_waterline: 5.499
+  length_over_spars: 7.9766
+  propellor:
+    type: fixed
   main:
+    luff: 11.97
     foot: 12.73
     head: 9.22
-    luff: 11.97
-  calculated_thcf: 0.849
-  length_on_deck: 6.8793
-  length_on_waterline: 5.4986
-  length_over_spars: 7.9766
-  length_overall: 6.8793
 created_at: '2020-04-25T17:46:48.63155+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 44462bfc-0a31-4f49-8107-eef831be4029
