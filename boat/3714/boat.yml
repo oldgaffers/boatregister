@@ -27,16 +27,19 @@ construction_material: grp
 spar_material: wood
 selling_status: not_for_sale
 hull_form: long keel deep forefoot
+mmsi: '235091519'
 ownerships:
 - name: ' Fiona Carter'
   start: 2012
   end: 2022
   share: 64
-- name: ' Roger Hardman'
+- id: 666
+  member: 5510
   start: 2022
   share: 32
   current: true
-- name: ' Chistine Hardman'
+- id: 35055
+  member: 5510
   start: 2022
   share: 32
   current: true
