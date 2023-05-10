@@ -27,14 +27,14 @@ builder:
 place_built: Rock Ferry, Wirral
 construction_material: wood
 spar_material: wood
-selling_status: not_for_sale
+selling_status: for_sale
 for_sales:
 - created_at: '2019-07-21T07:28:15+00:00'
   flexibility: normal
-  offered: null
+  asking_price: 10000
   price_flexibility:
     text: normal
-  reduced: false
+  reduced: true
   sales_text: <p>The only Royal Mersey Restricted Class yacht afloat, Phyllis, is
     a 27ft gaff cutter rig (34ft overall). &nbsp;Completely rebuilt in 2010 professionally
     by David Moss Boatbuilders to a specification stating to last another 100 years.
@@ -47,21 +47,19 @@ for_sales:
     her fine qualities.</p>
   seller_gold_id: 831
   seller_member: 5906
-  sold: '2021-09-01'
-  summary: null
-  updated_at: '2020-05-03T10:13:13.533419+00:00'
+  updated_at: 2023-05-10T22:00:00Z
 home_country: GBR
 home_port: Deganwy
 hull_form: long keel sloping forefoot
 ssr: R1387
 ownerships:
-- name: Kevin Goulding
+- id: 831
+  member: 5906
   start: 2001
   share: 64
 website: www.theyachtphyllis.co.uk
 id: 5319ebc6-3afe-409a-b0a7-0d111f8b8e1f
 image_key: wsNjN5
-thumb: https://photos.smugmug.com/photos/i-n3BPrLQ/0/Th/i-n3BPrLQ-Th.jpg
 handicap_data:
   beam: 2.6914
   draft: 1.2192
