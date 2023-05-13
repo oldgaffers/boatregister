@@ -3,6 +3,10 @@ oga_no: 3717
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
+full_description: |+
+  Built by Martin Heard in the early eighties, she had a major refit 2013/14
+  including a new coach roof, cabin interior and seperate heads.
+
 year: 1982
 year_is_approximate: true
 designer:
@@ -19,37 +23,37 @@ construction_material: grp
 spar_material: wood
 selling_status: for_sale
 for_sales:
-- asking_price: 31950
-  created_at: '2022-09-27T20:58:37.117346+00:00'
-  flexibility: normal
-  offered: null
-  price_flexibility:
-    text: normal
-  reduced: false
-  sales_text: '<p>Built by Martin Heard in the early eighties, she had a major refit
-    2013/14 including a new coach roof, cabin interior and seperate heads.</p> <ul>
-    <li>New mast and standing rigging in 2018 ( Mast by Collers)</li> <li>SKB sails</li>
-    <li>Darglow feathering prop</li> <li>Hot and cold pressurised water system</li>
-    <li>Compressor cold box</li> <li>Cooker with oven and grill</li> <li>Split charge
-    relay for batterys</li> <li>Engine : Beta 38 with hydraulic gearbox</li> <li>Electric
-    Anchor winch</li> <li>Standard Horizon VHF Clipper Echo and log</li> <li>Clipper
-    wind speed and direction indicator</li> <li>3 anchors</li> <li>Warps Fenders</li>
-    <li>Mooring strops</li> </ul> <p>Curently hauled out at Calstock Boat yard on
-    the River Tamar.</p>'
-  seller_gold_id: 625
-  seller_member: 5344
-  sold: null
-  summary: null
-  updated_at: '2022-09-27T20:58:37.117346+00:00'
+- asking_price: 28000
+  sales_text: |+
+    Built by Martin Heard in the early eighties, she had a major refit 2013/14
+    including a new coach roof, cabin interior and seperate heads.
+
+     * New mast and standing rigging in 2018 ( Mast by Collers)
+    * SKB sails
+    * Darglow feathering prop
+    * Hot and cold pressurised water system
+    * Compressor cold box
+    * Cooker with oven and grill
+    * Split charge relay for batterys
+    * Engine : Beta 38 with hydraulic gearbox
+    * Electric Anchor winch
+    * Standard Horizon VHF Clipper Echo and log
+    * Clipper wind speed and direction indicator
+    * 3 anchors
+    * Warps Fenders
+    * Mooring strops
+
+     Curently hauled out at Calstock Boat yard on the River Tamar.
+
 home_country: England
 home_port: Plymouth
 hull_form: long keel sloping forefoot
 ownerships:
 - member: 5344
   id: 625
+  start: 2018
   share: 64
   current: true
-id: 49b3d564-9140-4acc-9f66-e5b6be8183d2
 image_key: d6t7tT
 thumb: https://photos.smugmug.com/photos/i-mF6S2pL/0/Th/i-mF6S2pL-Th.jpg
 handicap_data:
@@ -59,3 +63,4 @@ handicap_data:
 created_at: '2022-09-22T21:10:14.153147+00:00'
 updated_at: '2022-09-27T20:59:27.589604+00:00'
 air_draft: 36
+id: 49b3d564-9140-4acc-9f66-e5b6be8183d2
