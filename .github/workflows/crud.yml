@@ -86,7 +86,10 @@ jobs:
         git push origin ${{ env.branch }}
     - name: detect if pr exists
       if: ${{ env.CHANGES == 1 }}
-      run: gh pr list --head ${{ env.branch }} -s open --json title --jq '. | length'| sed -e 's/^/PR=/' >> $GITHUB_ENV
+      run: |
+        gh pr list --head ${{ env.branch }} -s open --json title --jq '.
+        gh pr list --head ${{ env.branch }} -s open --json title --jq '. | length'| sed -e 's/^/PR=/' >> $GITHUB_ENV
+        cat $GITHUB_ENV
     - name: Create Pull Request if none
       if: ${{ env.CHANGES == 1 && env.PR == 0 }}
       env:
