@@ -194,9 +194,7 @@ def merge_object(existing, changes):
     merged = OrderedDict()
   else:
     merged = OrderedDict(**existing)
-  print('changes', changes)
   for key in changes.keys():
-    print(key, changes[key])
     t = type(changes[key])
     if t == dict:
       merged[key] = merge_object(existing[key], changes[key])
@@ -219,10 +217,8 @@ if __name__ == '__main__':
     pickers = json.load(stream)
   oga_no = sys.argv[1]
   b64 = sys.argv[2]
-  print(oga_no)
   decoded = base64.b64decode(b64)
   data = json.loads(decoded)
-  print(data)
   canonical_changes = get_boat(data)
   try:
     with open(f"boat/{oga_no}/boat.yml", "r", encoding='utf-8') as stream:
@@ -230,8 +226,6 @@ if __name__ == '__main__':
   except:
     print(f"can't load boat {oga_no} existing yaml")
     boat = {}
-  print(boat['short_description'])
-  print(boat['short_description'][0])
   boat = merge_object(boat, canonical_changes)
   outdir = f"boat/{boat['oga_no']}"
   Path(outdir).mkdir(parents=True, exist_ok=True)

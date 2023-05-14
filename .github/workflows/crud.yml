@@ -73,13 +73,14 @@ jobs:
       if: "${{ github.event.inputs.changed_fields == '' }}"
       run: |
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
+    - name: stage and commit
+      run: |
         git add .
         if git diff --cached --exit-code; then
           echo CHANGES=0 >> $GITHUB_ENV
         else
           echo CHANGES=1 >> $GITHUB_ENV
         fi
-        echo changes ${{ env.CHANGES == 1 }}
         true
     - name: run echo if changes
       if: ${{ env.CHANGES == 1 }}
