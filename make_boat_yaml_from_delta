@@ -236,5 +236,5 @@ if __name__ == '__main__':
   outdir = f"boat/{boat['oga_no']}"
   Path(outdir).mkdir(parents=True, exist_ok=True)
   with open(f'{outdir}/boat.yml', 'w') as outfile:
-    yaml.dump(map_boat(boat), outfile, default_flow_style=False, sort_keys=False)
+    yaml.dump(map_boat(boat), outfile, default_flow_style=False, sort_keys=False, allow_unicode=True)
 
