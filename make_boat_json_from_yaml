@@ -41,6 +41,7 @@ def isHtml(s):
 
 def md2html(s):
   t = re.sub(r"&#39;([^&]+)&#39;", r"*\1*", s)
+  t = .replace('\\*','*')
   return markdown.markdown(t)
 
 def process_html(boat):
