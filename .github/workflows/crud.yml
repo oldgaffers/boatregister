@@ -5,8 +5,8 @@ on:
       oga_no:
         description: Boat OGA No
         required: true
-      changes:
-        description: just the changed fields.
+      changed_fields:
+        description: just the changed fields
         required: false
       data:
         description: new values as base 64 encoded JSON
