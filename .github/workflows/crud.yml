@@ -63,7 +63,14 @@ jobs:
     - name: new designer, builder or design class
       run: |
         echo '${{ github.event.inputs.new }}' | ./add_designer_items
-    - name: boat
+    - name: changed fields present
+      if: "${{ github.event.inputs.changed_fields != '' }}"
+      run: |
+        echo changed_fields value is ${{ github.event.inputs.changed_fields }}
+        ./make_boat_yaml_from_delta ${{ github.event.inputs.oga_no }} ${{ github.event.inputs.changed_fields }}
+        true
+    - name: changed fields not present - use data field
+      if: "${{ github.event.inputs.changed_fields == '' }}"
       run: |
         echo ${{ github.event.inputs.data }} | ./make_boat_yaml
         git add .
