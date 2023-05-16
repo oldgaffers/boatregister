@@ -197,9 +197,15 @@ def merge_object(existing, changes):
   for key in changes.keys():
     t = type(changes[key])
     if t == dict:
-      merged[key] = merge_object(existing[key], changes[key])
+      if key in existing:
+        merged[key] = merge_object(existing[key], changes[key])
+      else:
+        merged[key] = changes[key]
     elif t == list:
-      merged[key] = merged[key] + changes[key] # TODO remove duplicates   
+      if key in existing:
+        merged[key] = list(dict.fromkeys(merged[key] + changes[key]))
+      else:
+        merged[key] = changes[key]
     else:
       merged[key] = changes[key]
     return merged
