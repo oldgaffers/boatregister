@@ -5,6 +5,9 @@ rig_type: Cutter
 mainsail_type: gaff
 year: 2006
 year_is_approximate: false
+design_class:
+  name: Cornish Crabber 22
+  id: f0555610-6fc8-4dce-a587-d90c2a7cbc72
 designer:
   name: David Thomas
   id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
@@ -22,7 +25,15 @@ hull_form: centre-boarder
 sail_number: '50'
 callsign: MNMR8
 image_key: rm69tL
-handicap_data:
+handicap_data: 
   beam: 2.515
   draft: 0.71
   length_on_deck: 6.706
+ownerships:
+  - id: 35106
+    member: 6655
+    share: 64
+    start: 2014
+    current: true
+
+
