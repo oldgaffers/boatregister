@@ -203,7 +203,8 @@ def merge_object(existing, changes):
         merged[key] = changes[key]
     elif t == list:
       if key in existing:
-        merged[key] = list(dict.fromkeys(merged[key] + changes[key]))
+        a = [json.dumps(dict(sorted(v.items()))) for v in merged[key] + changes[key]]
+        merged[key] = [json.loads(c) for c in list(dict.fromkeys(a))]
       else:
         merged[key] = changes[key]
     else:

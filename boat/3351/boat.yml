@@ -5,7 +5,7 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: The first owner bought the hull of a Salcombe Trader from Buccaneer
   Boats, and fitted her out himself.
-full_description: |+
+full_description: |
   The owner and builder of this Salcombe Trader purchased the
   GRP hull, moulded by Buccaneer Boats, and then designed and fitted her out to a
   high specification. This cabinet maker builder completed the craft aongside his
@@ -20,18 +20,18 @@ full_description: |+
 year: 2010
 year_is_approximate: false
 designer:
-  - name: Barry Pritchard
-    id: d0ca6cff-cc25-4036-b67d-a59f55519004
-  - name: J. Marsh
-    id: ad99c928-7375-4b20-8063-ef77c079da00
+- name: Barry Pritchard
+  id: d0ca6cff-cc25-4036-b67d-a59f55519004
+- name: J. Marsh
+  id: ad99c928-7375-4b20-8063-ef77c079da00
 design_class:
   name: Salcombe Trader
   id: 753a2252-bb93-4f6f-9a32-c0c3021d8faf
 builder:
-  - name: Bucaneer Boats
-    id: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
-  - name: J Marsh
-    id: 20b33d70-b132-4f11-80d8-940ee7892ff2
+- name: Bucaneer Boats
+  id: 9317d7ee-8fda-46b2-8a8f-9af1c4640acc
+- name: J Marsh
+  id: 20b33d70-b132-4f11-80d8-940ee7892ff2
 place_built: Camborne/St Tudy Cornwall
 construction_material: grp
 spar_material: wood
@@ -41,27 +41,28 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2019-04-04T22:29:10+00:00'
   flexibility: normal
-  offered: null
   price_flexibility:
     text: normal
   reduced: true
-  sales_text: "<p>A Salcombe Trader, 27ft Gaff cutter with auxiliary, Beta Marine\
-    \ 29hp, diesel engine. A top quality traditional cruising vessel with character,&nbsp;\
-    \ a very capable passage maker. She has a `Classic/ Traditional\u2019 look with\
-    \ the advantage of a GRP hull and stainless steel fittings. Long keel encapsulated\
-    \ internal ballast. Professionally built hull, totally fitted out and finished\
-    \ by her professional cabinet maker owner. Using top grade materials, fixtures\
-    \ and fittings. 5 berths. Navigation paper charts, Yeoman Plotter. Electonic charts,\
-    \ USB connection to laptop included in sale. Launched in 2010.&nbsp;</p><p>Survey\
-    \ and 3 Boat magazine article reprints available on request.</p><p><u><strong>Now\
-    \ laid up for the winter but available for viewing by appointment</strong></u></p><p>More\
-    \ details: <a href=\"http://www.classicyachtbrokerage.co.uk/index.php?page=mareea\"\
-    \ target=\"_PARENT\">Classic Yacht Brokerage</a>&nbsp;and <a href=\"http://www.mjlewisboatsales.com/boats/27ft-grp-gaff-cutter-salcombe-trader/\"\
-    \ target=\"_PARENT\">MJ&nbsp;Lewis &amp; Son</a></p>"
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  sales_text: |+
+    A Salcombe Trader, 27ft Gaff cutter with auxiliary, Beta Marine 29hp, diesel
+    engine. A top quality traditional cruising vessel with character,  a very
+    capable passage maker. She has a `Classic/ Traditional’ look with the advantage
+    of a GRP hull and stainless steel fittings. Long keel encapsulated internal
+    ballast. Professionally built hull, totally fitted out and finished by her
+    professional cabinet maker owner. Using top grade materials, fixtures and
+    fittings. 5 berths. Navigation paper charts, Yeoman Plotter. Electonic charts,
+    USB connection to laptop included in sale. Launched in 2010. 
+
+    Survey and 3 Boat magazine article reprints available on request.
+
+    \\*\\*Now laid up for the winter but available for viewing by appointment\\*\\*
+
+    More details: [Classic Yacht
+    Brokerage](http://www.classicyachtbrokerage.co.uk/index.php?page=mareea) and
+    [MJ Lewis &
+    Son](http://www.mjlewisboatsales.com/boats/27ft-grp-gaff-cutter-salcombe-trader/)
+
   updated_at: '2020-05-03T10:13:13.249406+00:00'
 home_country: GBR
 home_port: Guernsey
@@ -78,31 +79,35 @@ ownerships:
   start: 2019
   share: 64
   current: true
+- name: Dick Couture
+  start: 2019
+  share: 64
+  current: true
 id: 6a3fadc7-4aff-4b30-befb-88d3099a85ec
 image_key: ZTqcc3
 handicap_data:
   thcf: 0.911
+  calculated_thcf: 0.954
   beam: 2.8956
   draft: 1.524
   fore_triangle_height: 2.554
   fore_triangle_base: 1.829
+  length_overall: 8.2296
+  length_on_deck: 8.2296
+  length_on_waterline: 7.772
+  length_over_spars: 11.5824
   propellor:
     type: fixed
     blades: 3
   sailarea: 37.813
+  topsail:
+    luff: 5.486
+    perpendicular: 2.134
   main:
     foot: 4.877
     head: 4.42
     luff: 5.578
-  topsail:
-    luff: 5.486
-    perpendicular: 2.134
-  length_on_deck: 8.2296
-  length_overall: 8.2296
-  calculated_thcf: 0.954
-  length_over_spars: 11.5824
-  length_on_waterline: 7.772
 created_at: '2020-04-25T17:50:58.480402+00:00'
 previous_names:
 - Mareea
-- "Mar\xE9e"
+- Marée
