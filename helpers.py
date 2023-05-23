@@ -2,7 +2,7 @@ from typing import OrderedDict
 import json
 from markdownify import markdownify
 
-omitFields = ['price','update_id']
+omitFields = ['price','update_id', 'thumb', 'updated_at']
 
 topLevelFields = [
   'name',
@@ -22,6 +22,7 @@ topLevelFields = [
   'spar_material',
   'construction_method',
   'construction_details',
+  'previous_names',
   'engine_installations',
   'selling_status',
   'for_sales',
@@ -45,16 +46,6 @@ topLevelFields = [
   'handicap_data',
   'created_at',
 ]
-
-def simplify(field, new_field, boat):
-  long_field = f"{field}By{field[0].capitalize()}{field[1:]}"
-  if long_field in boat:
-    print(boat[long_field])
-    if field in boat:
-      boat[field] = { 'name': boat[long_field]['name'], 'id': boat[field] }
-    elif new_field in boat:
-      boat[new_field] = { 'name': boat[long_field]['name'], 'id': boat[new_field] }
-    del boat[long_field]
 
 def ownerSortOrder(o):
   if 'start' in o:
@@ -149,7 +140,21 @@ def map_for_sale(fs):
     r['sales_text'] = markdownify(r['sales_text'], wrap=True)
   return r
 
-def map_boat(item):
+def augment_from_pickers(boat, pickers):
+  n = {}
+  for field in ['builder','designer','design_class']:
+    if field in boat:
+      value = boat[field]
+      if type(value) is dict:
+        id = value['id']
+      else:
+        id = value
+      values = [p for p in pickers[field] if p['id'] == id]
+      if (len(values) > 0):
+        n[field] = values[0]
+  return {**boat, **n}
+
+def map_boat(item, pickers):
   boat = {k: v for k, v in item.items() if not falsy(v) and k not in omitFields}
   if 'ownerships' in boat:
     boat['ownerships'] = ownerships(boat['ownerships'])
@@ -162,46 +167,39 @@ def map_boat(item):
   if 'design_class' in boat:
     if 'examples' in boat['design_class']:
       del boat['design_class']['examples']
+  boat = augment_from_pickers(boat, pickers)
   return map_handicap_data(boat)
 
-def get_boat(indata):
-  boat = OrderedDict()
-  data = json.loads(json.dumps(indata))
+def known_fields_first(data):
+  boat = {}
   for field in topLevelFields:
     if field in data and data[field] is not None:
       f = data[field]
-      if field in ['builder','designer','design_class']:
-        if type(f) is dict:
-          id = f['id']
-        else:
-          id = f
-        values = [p for p in pickers[field] if p['id'] == id]
-        if (len(values) > 0):
-          boat[field] = values[0]
-      else:
-        boat[field] = f
+      boat[field] = f
       del data[field]
-  return OrderedDict(**boat, **OrderedDict(data)) # any fields not in topLevelFields
+  for field in data.keys():
+    if field not in boat:
+      boat[field] = data[field]
+  return boat
 
 def merge_object(existing, changes):
   if existing is None:
     merged = OrderedDict()
   else:
     merged = OrderedDict(**existing)
-  print(changes)
   for key in changes.keys():
     t = type(changes[key])
     if t == dict:
-      if key in existing:
+      if key in merged:
         merged[key] = merge_object(existing[key], changes[key])
       else:
         merged[key] = changes[key]
     elif t == list:
-      if key in existing:
+      if key in merged:
         a = [json.dumps(dict(sorted(v.items()))) for v in merged[key] + changes[key]]
         merged[key] = [json.loads(c) for c in list(dict.fromkeys(a))]
       else:
         merged[key] = changes[key]
     else:
       merged[key] = changes[key]
-  return merged
+  return known_fields_first(merged)

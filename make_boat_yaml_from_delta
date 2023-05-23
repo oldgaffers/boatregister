@@ -4,7 +4,7 @@ import json
 import base64
 import sys
 from pathlib import Path
-from helpers import get_boat, merge_object
+from helpers import merge_object, map_boat
 
 def str_presenter(dumper, data):
   if len(data.splitlines()) > 1:  # check for multiline string
@@ -14,23 +14,21 @@ def str_presenter(dumper, data):
 yaml.add_representer(str, str_presenter)
 
 if __name__ == '__main__':
-  global pickers
   with open("pickers.json", "r") as stream:
     pickers = json.load(stream)
   oga_no = sys.argv[1]
   b64 = sys.argv[2]
   decoded = base64.b64decode(b64)
-  data = json.loads(decoded)
-  canonical_changes = get_boat(data)
+  changes = json.loads(decoded)
   try:
     with open(f"boat/{oga_no}/boat.yml", "r", encoding='utf-8') as stream:
       boat = yaml.safe_load(stream)
   except:
     print(f"can't load boat {oga_no} existing yaml")
     boat = {}
-  boat = merge_object(boat, canonical_changes)
+  boat = map_boat(merge_object(boat, changes), pickers)
   outdir = f"boat/{boat['oga_no']}"
   Path(outdir).mkdir(parents=True, exist_ok=True)
   with open(f'{outdir}/boat.yml', 'w') as outfile:
-    yaml.dump(map_boat(boat), outfile, default_flow_style=False, sort_keys=False, allow_unicode=True)
+    yaml.dump(boat, outfile, default_flow_style=False, sort_keys=False, allow_unicode=True)
 
