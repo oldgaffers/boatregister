@@ -2,7 +2,7 @@ name: Maid of Shannon
 oga_no: 2586
 generic_type: Yacht
 rig_type: Ketch
-mainsail_type: gaff
+mainsail_type: bermudan
 year: 1968
 year_is_approximate: false
 designer:
@@ -30,20 +30,25 @@ ownerships:
   start: 2012
   share: 64
 - name: Dave Ashman
-  start: 2022
+  member: 6595
+  id: 35014
+  start: 2021
   share: 64
+  current: true
 - name: Dave Ashman
   member: 6595
   id: 35014
   start: 2022
   end: 2022
   share: 64
+- name: Dave Ashman
+  start: 2022
+  share: 64
 image_key: kqdnzv
-thumb: https://photos.smugmug.com/photos/i-5mPbJhc/0/Th/i-5mPbJhc-Th.jpg
 handicap_data:
-  beam: 3.2004
-  draft: 1.7282
-  length_on_deck: 11.5824
+  beam: 3.2
+  draft: 1.728
+  length_on_deck: 10.058
   length_on_waterline: 10.66812972445745
   length_over_all: 11.582540843696659
 created_at: '2020-04-25T17:23:00.607803+00:00'
