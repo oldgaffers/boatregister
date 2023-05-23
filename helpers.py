@@ -182,6 +182,14 @@ def known_fields_first(data):
       boat[field] = data[field]
   return boat
 
+def unique(l):
+  # assume all items similar
+  if type(l[0]) == str:
+    return list(set(l))
+  else:
+    return [json.loads(x) for x in list(set([json.dumps(x) for x in l]))]
+
+
 def merge_object(existing, changes):
   if existing is None:
     merged = OrderedDict()
@@ -196,8 +204,7 @@ def merge_object(existing, changes):
         merged[key] = changes[key]
     elif t == list:
       if key in merged:
-        a = [json.dumps(dict(sorted(v.items()))) for v in merged[key] + changes[key]]
-        merged[key] = [json.loads(c) for c in list(dict.fromkeys(a))]
+        merged[key] = unique(existing[key] + changes[key])
       else:
         merged[key] = changes[key]
     else:
