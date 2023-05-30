@@ -3,16 +3,20 @@ oga_no: 381
 generic_type: Bristol Channel Pilot Cutter
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Reputed to be the only remaining, original Bristol Pilot Cutter
+short_description: For a long time, the only remaining, original Bristol Pilot Cutter
   still in commission, originally built in 1875, Madcap has a remarkable history.
-full_description: "<p>Built in Cardif, 1875, Madcap worked as a Bristol Channel Pilot\
-  \ Cutter until after World War I when she was sold and converted for leisure use.</p>\r\
-  \n\r\n<p><a href=\"http://www.sailing-by.org.uk/content/early-sailing-experiences-madcap-1967\"\
-  \ target=\"_blank\">Read an account of a passage</a> to the Channel Islands and\
-  \ North Brittany in 1967 on &#39;Sailing by&#39;.</p>\r\n\r\n<p>Madcap has cruised\
-  \ extensively since 1998, including the west coast of Greenland, via Iceland, from\
-  \ Ireland south to Cornwall, Brittany, the Mediterreran, Almerimar, Morocco, Palma\
-  \ and Alicante, down to the Azores and Lorient and north to the west coast of Scotland.</p>"
+full_description: |
+  Built in Cardif, 1875, Madcap worked as a Bristol Channel Pilot
+  Cutter until after World War I when she was sold and converted for leisure use.
+
+  Owned by Commander John Burfield, Birdham Pool, for many years in 1970s and
+  1980s, he sold the boat when he was in his 80s.
+
+  Madcap cruised extensively since 1998, including the west coast of Greenland, via Iceland, from
+  Ireland south to Cornwall, Brittany, the Mediterreran, Almerimar, Morocco, Palma
+  and Alicante, down to the Azores and Lorient and north to the west coast of Scotland.
+
+  Sold to the Maritime Musuem, la Rochelle, France,
 year: 1875
 year_is_approximate: false
 builder:
@@ -31,24 +35,20 @@ hull_form: long keel deep forefoot
 sail_number: '381'
 uk_part1: '79381'
 ownerships:
-- start: 1970
-  note: Owned by Commander John Burfield, Birdham Pool, for many years in 1970s and
-    1980s, he sold the boat when he was in his 80s to Stuart Spence, 1993, who took
-    her to Ireland.
-  text: Owned by Commander John Burfield, Birdham Pool, for many years in
-- name: Stuart Spence
+- name: Commander John Burfield
+  start: 1970
+  end: 1993
+  share: 1964
+- id: 159
+  member: 2449
   start: 1993
   end: 2014
   share: 64
 - name: Olivier Guillemin
   start: 2014
   share: 64
-- start: 2014
-  note: Sold to a the Maritime Musuem, la Rochelle, France, 2014.
-  text: Sold to a the Maritime Musuem, la Rochelle, France,
 id: 17064a1a-8ec4-4c46-a892-d4a99fe4f8d6
 image_key: J56Sv5
-thumb: https://photos.smugmug.com/photos/i-DbmPThw/0/Th/i-DbmPThw-Th.jpg
 handicap_data:
   thcf: 1.113
   beam: 3.7582
@@ -69,4 +69,3 @@ handicap_data:
   length_on_waterline: 11.710558400390148
   length_on_deck: 13.1582
 created_at: '2020-04-25T16:48:07.833319+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
