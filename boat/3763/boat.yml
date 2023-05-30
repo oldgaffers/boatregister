@@ -10,21 +10,28 @@ designer:
 builder:
   name: Honnor Marine Ltd.
   id: 2e1683ac-2223-480f-9412-be351f564ae9
+design_class:
+  name: Drascombe Longboat Cruiser
+  id: 9fa8fa80-ae73-413e-b4be-4e7f5d37e613
 place_built: Totnes
 construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
 construction_details: GRP
 home_country: Northern Ireland
-home_port: Strangford Lough
+home_port: Strangford
 hull_form: centre-boarder
 ownerships:
 - member: 6439
   id: 34803
   share: 32
+  start: 2023
+  current: true
 - member: 2449
   id: 159
   share: 32
+  start: 2023
+  current: true
 image_key: jGNcDB
 handicap_data:
   thcf: 0.813
@@ -35,4 +42,3 @@ handicap_data:
   propellor:
     type: folding
   sailarea: 15.143
-newItems: {}
