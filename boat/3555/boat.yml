@@ -2,7 +2,7 @@ name: Lady Sheila
 oga_no: 3555
 generic_type: Yacht
 rig_type: Yawl
-mainsail_type: gaff
+mainsail_type: gunter
 year_is_approximate: false
 designer:
   name: John Watkinson
@@ -13,10 +13,15 @@ builder:
 place_built: Totnes
 construction_material: grp
 spar_material: wood
-construction_method: clinker
+construction_method: cold_moulded
 home_country: Ireland
 home_port: Carlingford
 hull_form: centre-boarder
+ownerships:
+- name: ' John White'
+  start: 2020
+  share: 64
+  current: true
 image_key: WrFvnd
 handicap_data:
   beam: 2.012
