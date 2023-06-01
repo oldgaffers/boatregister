@@ -18,22 +18,15 @@ full_description: |+
   much of the hull has been repaired or replaced, including the deck. She was
   relaunched in summer 2017.
 
-
   For details about the launch, restoration and history of Cachalot, who was a
   Dunkirk Little Ship, [visit her website](http://www.cachalot.org.uk).
-
 
   The OGA Newsletter Editor, 1977, muses on the yacht ‘Cachalot’ as a preface to
   publishing a letter about her from new owner, Ian Kiloh.
 
-
-
   > In the earlier 1960s a good looking 30' cutter’s hull sat up at the top of Dixon Kerly's yard at Maldon, quietly drying out and deteriorating. Occasionally there was evidence that some work had been done on her, and in 1965 her then owner, David Garber was persuaded to join the OGA, and we looked forward to seeing her sailing. But it was not to be. In 1969 she was bought by David Robertson Hiner of Maldon, and things happened. David got her into sailing trim, and in 1970 he entered her for our East Coast Race, but she did not start. On the 16th September that year, David sold her to Thomas Alexander Corbett, who owned her until the 9th February 1975, when she was sold to Andrew Ross Wheatley. On November 25th 1975, Ian Ferderick Kiloh bought her from Wheatley.
 
-
-
   > Yes, my ‘Cachalot’, is indeed the same as owned by David and yes, we’ve had a major task involving new carlins, doubling up the main beam (which was broken), new covering boards, several new half beams, new bulwarks, hatches, cabin trunking, interior, the list goes on, and on . . .
-
 
 
   > However, the end is at least in sight and although we do not expect her to be really A1 until next year we anticipate having our first sail in her in May this year, all going to plan. She is a really lovely little yacht and has been well worth all the effort. My wife and I purchased her in November 1975 in Wivenhoe after her having been sunk - and run over by a coaster!
@@ -104,9 +97,11 @@ ownerships:
   share: 64
 - name: Neauer Messinger
   start: 1948
+  end: 1951
   share: 32
 - name: Kenneth Albert Harwood
   start: 1948
+  end: 1951
   share: 32
 - name: Edward Elwym Nott-Bower, OBE, MC, Brigadier
   start: 1951
@@ -132,16 +127,18 @@ ownerships:
   start: 2005
   end: 2009
   share: 16
-- name:known but not shown
+- id: 501
+  member: 4741
   start: 2011
   share: 64
+  current: true
 website: http://www.cachalot.org.uk
 image_key: 7w4vX9
 handicap_data:
   beam: 3.911
   draft: 1.524
   length_on_deck: 9.196
-  length_on_waterline: 7.010485247500609
+  length_on_waterline: 7.01
   length_over_spars: 9.44891489880517
   propellor:
     blades: 3
