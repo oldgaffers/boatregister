@@ -4,61 +4,8 @@ from os import listdir
 from pathlib import Path
 import yaml
 import json
-import markdown
-import re
 from datetime import date, datetime
-
-def nullif(o, k):
-  if k in o:
-    return o[k]
-  return None
-
-def emptyif(o, k):
-  if o is None:
-    return {}
-  if k in o:
-    return o[k]
-  return {}
-
-def isHtml(s):
-  if '<a href' in s:
-    return True
-  if '<div>' in s:
-    return True
-  if '<blockquote>' in s:
-    return True
-  if '<p>' in s:
-    return True
-  if '<span style' in s:
-    return True
-  if '<p style' in s:
-    return True
-  if '<br' in s:
-    return True
-  if '<li>' in s:
-    return True
-  return False
-
-def md2html(s):
-  t = re.sub(r"&#39;([^&]+)&#39;", r"*\1*", s)
-  t = t.replace('\\*','*')
-  return markdown.markdown(t)
-
-def process_html(boat):
-  for html_field in ['short_description', 'full_description']:
-    if html_field in boat and not isHtml(boat[html_field]):
-      boat[html_field] = md2html(boat[html_field])
-  if 'for_sales' in boat:
-    p = []
-    conversions = 0
-    for fs in boat['for_sales']:
-      if 'sales_text' in fs and not isHtml(fs['sales_text']):
-        fs['sales_text'] = md2html(fs['sales_text'])
-        conversions = conversions + 1
-      p.append(fs)
-    if conversions > 0:
-      boat['for_sales'] = p
-  return boat
+from helpers import process_html
 
 def json_serial(obj):
   if isinstance(obj, date):
@@ -76,6 +23,7 @@ def jsonFromYaml(b):
     print(b)
   if boat is not None:
     boat = process_html(boat)
+    print(json.dumps(boat['for_sales'][0]))
     data = {
       "staticQueryHashes": [],
       "componentChunkName": "component---src-templates-boattemplate-jsx",

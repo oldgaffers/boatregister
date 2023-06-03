@@ -232,6 +232,20 @@ files = [
 testing = ["coverage", "pyyaml"]
 
 [[package]]
+name = "markdown-text-decorator"
+version = "3.2.0"
+description = "Text Decorator Extension for Python-Markdown."
+category = "main"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "markdown_text_decorator-3.2.0-py3-none-any.whl", hash = "sha256:0f5ae326b2c743fefbf768758a7a3a1a08d97b6254c70a10f42c1d47ef876c4a"},
+]
+
+[package.dependencies]
+markdown = ">=3"
+
+[[package]]
 name = "markdownify"
 version = "0.11.6"
 description = "Convert HTML to markdown."
@@ -478,4 +492,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11,^3.10,^3.9"
-content-hash = "83a757c0a867ededabcfce7a62059f23bde7a12d47ce7d75f172a0ca72d9b108"
+content-hash = "9a4c7d05672bf5d2b9e4413f01340de81a7600b28c08917eaef08e97c8f804f6"

@@ -2,8 +2,22 @@ from typing import OrderedDict
 import json
 import yaml
 from markdownify import markdownify
+from markdown import Markdown
+
+MARKDOWN_EXTENSIONS = [
+    "markdown_text_decorator"
+]
+
+MARKDOWN_EXTENSION_CONFS={
+    "markdown_text_decorator": { "priority": 90 }
+}
+
+md2html = Markdown(extensions=MARKDOWN_EXTENSIONS,
+                   extension_configs=MARKDOWN_EXTENSION_CONFS)
 
 omitFields = ['price','update_id', 'thumb', 'updated_at']
+
+htmlFields = ['short_description', 'full_description', 'sales_text']
 
 topLevelFields = [
   'name',
@@ -136,8 +150,7 @@ def falsy(v):
   return False
 
 def toMarkdown(s):
-  # add sup_symbol='^' if learn to round trip
-  return markdownify(s, wrap=True, escape_asterisks=False).strip()
+  return markdownify(s, wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^').strip()
 
 def map_for_sale(fs):
   r = {k: v for k, v in fs.items() if not falsy(v)}
@@ -224,3 +237,48 @@ yaml.add_representer(str, str_presenter)
 
 def dump(dict, outfile):
   yaml.dump(dict, outfile, default_flow_style=False, sort_keys=False, allow_unicode=True)
+
+def nullif(o, k):
+  if k in o:
+    return o[k]
+  return None
+
+def emptyif(o, k):
+  if o is None:
+    return {}
+  if k in o:
+    return o[k]
+  return {}
+
+def isHtml(s):
+  if '<a href' in s:
+    return True
+  if '<div>' in s:
+    return True
+  if '<blockquote>' in s:
+    return True
+  if '<p>' in s:
+    return True
+  if '<span style' in s:
+    return True
+  if '<p style' in s:
+    return True
+  if '<br' in s:
+    return True
+  if '<li>' in s:
+    return True
+  return False
+
+def mapHtmlField(k, v):
+  if k in htmlFields and not isHtml(v):
+    return md2html.convert(v)
+  return v
+
+def mapHtmlFields(d):
+  return {k:mapHtmlField(k,v) for (k,v) in d.items()}
+
+def process_html(boat):
+  r = mapHtmlFields(boat)
+  if 'for_sales' in boat:
+    r['for_sales'] = [mapHtmlFields(fs) for fs in boat['for_sales']]
+  return r

@@ -4,7 +4,7 @@ import json
 import base64
 import sys
 from pathlib import Path
-from helpers import merge_object, map_boat, dump
+from helpers import merge_object, map_boat, dump, process_html
 
 if __name__ == '__main__':
   with open("pickers.json", "r") as stream:
@@ -22,6 +22,7 @@ if __name__ == '__main__':
   except:
     print(f"can't load boat {oga_no} existing yaml")
     boat = {}
+  boat = process_html(boat)
   boat = map_boat(merge_object(boat, changes), pickers)
   outdir = f"boat/{boat['oga_no']}"
   Path(outdir).mkdir(parents=True, exist_ok=True)
