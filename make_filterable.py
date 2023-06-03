@@ -78,7 +78,7 @@ if __name__ == '__main__':
   data = json.load(f)
   f.close()
   editors_choice = {o:i for i,o in enumerate(data['filters']['oga_nos'])}
-  mypath='boat/'
+  mypath='boat'
   boats = listdir(mypath)
   data = []
   for b in boats:
