@@ -1,5 +1,6 @@
 from typing import OrderedDict
 import json
+import yaml
 from markdownify import markdownify
 
 omitFields = ['price','update_id', 'thumb', 'updated_at']
@@ -134,10 +135,14 @@ def falsy(v):
     return True
   return False
 
+def toMarkdown(s):
+  # add sup_symbol='^' if learn to round trip
+  return markdownify(s, wrap=True, escape_asterisks=False).strip()
+
 def map_for_sale(fs):
   r = {k: v for k, v in fs.items() if not falsy(v)}
   if 'sales_text' in r:
-    r['sales_text'] = markdownify(r['sales_text'], wrap=True)
+    r['sales_text'] = toMarkdown(r['sales_text'])
   return r
 
 def augment_from_pickers(boat, pickers):
@@ -159,9 +164,9 @@ def map_boat(item, pickers):
   if 'ownerships' in boat:
     boat['ownerships'] = ownerships(boat['ownerships'])
   if 'short_description' in boat:
-    boat['short_description'] = markdownify(boat['short_description'], wrap=True)
+    boat['short_description'] = toMarkdown(boat['short_description'])
   if 'full_description' in boat:
-    boat['full_description'] = markdownify(boat['full_description'], wrap=True)
+    boat['full_description'] = toMarkdown(boat['full_description'])
   if 'for_sales' in boat:
     boat['for_sales'] = [map_for_sale(fs) for fs in boat['for_sales']]
   if 'design_class' in boat:
@@ -189,7 +194,6 @@ def unique(l):
   else:
     return [json.loads(x) for x in list(set([json.dumps(x) for x in l]))]
 
-
 def merge_object(existing, changes):
   if existing is None:
     merged = OrderedDict()
@@ -210,3 +214,13 @@ def merge_object(existing, changes):
     else:
       merged[key] = changes[key]
   return known_fields_first(merged)
+
+def str_presenter(dumper, data):
+  if len(data.splitlines()) > 1:  # check for multiline string
+    return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
+  return dumper.represent_scalar('tag:yaml.org,2002:str', data)
+
+yaml.add_representer(str, str_presenter)
+
+def dump(dict, outfile):
+  yaml.dump(dict, outfile, default_flow_style=False, sort_keys=False, allow_unicode=True)
