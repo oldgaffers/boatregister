@@ -3,14 +3,15 @@ oga_no: 3445
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gunter
-short_description: |+
-  *Recipe*, Norfolk Smuggler, now being sailed in Zeeland</p>
-full_description: |+
-  *Recipe* current owner bought her in 2015 and need to repair and renewed everything
-  except the engine and centre plate to bring her into good condition.
-  
-  Since then he has sailed her single handed in great comfort through the Netherlands,
-  Belgium and England, including visits to Pin Mill, Cowes, London and Dieppe.
+short_description: '*Recipe*, Norfolk Smuggler, now being sailed in Zeeland'
+full_description: |-
+  *Recipe* current owner bought her in 2015 and need to repair and renewed
+  everything except the engine and centre plate to bring her into good condition.
+
+
+  Since then he has sailed her single handed in great comfort through the
+  Netherlands, Belgium and England, including visits to Pin Mill, Cowes, London
+  and Dieppe.
 year: 1995
 year_is_approximate: false
 designer:
@@ -25,48 +26,54 @@ builder:
 place_built: Norfolk
 construction_material: grp
 construction_details: hand lay up
+previous_names:
+- Morning Star
 selling_status: not_for_sale
 for_sales: []
 home_country: NLD
 home_port: Goese Sas
 hull_form: long keel deep forefoot
 callsign: PF2762
-mmsi: '244870855'
 ownerships:
-- start: 1995
+- name: Mr Erbelich
+  start: 1995
   end: 2015
-  name: Mr Erbelich
+  share: 64
+- name: Mr Erbelich
+  start: 1995
+  end: 2015
 - member: 6375
   id: 34700
   start: 2015
   share: 64
   current: true
-id: ed75f337-ef8f-425f-a4d6-2e109fc493e0
 image_key: 6kjsMF
 handicap_data:
-  beam: 2.6914
-  draft: 0.8626
+  thcf: 0.905
+  beam: 2.67
+  draft: 0.863
+  fore_triangle_height: 8.23
+  fore_triangle_base: 4.572
+  length_on_deck: 7.62
+  length_on_waterline: 6.78
+  length_over_spars: 9.144
   propellor:
     type: fixed
     blades: 3
-  thcf: 0.796
-  fore_triangle_height: 8.2297
-  fore_triangle_base: 4.5720
-  sailarea: 39.89750
+  sailarea: 39.897
   main:
-    foot: 4.724469641550841
+    foot: 4.724
     head: 4.343458912460375
-    luff: 4.26725188978298
+    luff: 4.267
   moving_keel: true
-  beam: 2.67
-  draft: 0.8626
-  draft_keel_down: 1.50
-  moving_keel: true
+  draft_keel_down: 1.5
   moving_keel_type: Centreboard
-  length_on_waterline: 6.78
-  length_over_spars: 9.144
-  length_on_deck: 7.62
   length_over_all: 7.62
+  displacement: 2041
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 25.287732792569287
+    thcf: 0.994
 created_at: '2020-04-25T17:55:07.976797+00:00'
-previous_names:
-- Morning Star
+mmsi: '244870855'
+id: ed75f337-ef8f-425f-a4d6-2e109fc493e0
