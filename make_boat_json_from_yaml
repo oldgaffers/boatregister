@@ -15,7 +15,6 @@ def jsonFromYaml(b):
     print(b)
   if boat is not None:
     boat = process_html(boat)
-    print(json.dumps(boat['for_sales'][0]))
     data = {
       "staticQueryHashes": [],
       "componentChunkName": "component---src-templates-boattemplate-jsx",
