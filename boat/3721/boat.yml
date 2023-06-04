@@ -22,25 +22,38 @@ selling_status: not_for_sale
 for_sales: []
 hull_form: centre-boarder
 sail_number: '1037'
-mmsi: '232020039'
 ownerships:
 - member: 2317
   id: 146
   share: 64
+- name: Martin Pound
+  member: 2317
+  id: 146
+  start: 2020
+  share: 64
+  current: true
 image_key: 9zztJh
 handicap_data:
-  thcf: 0.82707181
-  beam: 2.1854
-  draft: 0.4816
-  fore_triangle_height: 4.114850036576445
-  fore_triangle_base: 2.8194342843208973
-  length_on_deck: 5.8674
-  length_on_waterline: 5.334064862228725
+  thcf: 0.82
+  beam: 2.185
+  draft: 0.482
+  fore_triangle_height: 4.115
+  fore_triangle_base: 2.819
+  length_on_deck: 5.867
+  length_on_waterline: 5.334
+  propellor:
+    type: fixed
   draft_keeldown: 1.21921482565228
   length_over_all: 5.867471348451597
   main:
-    foot: 3.5052426237503047
-    head: 3.0998536942209216
-    luff: 3.3528407705437697
+    foot: 3.505
+    head: 3.1
+    luff: 3.353
+  displacement: 1065
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 17.618561751234083
+    thcf: 0.892
 created_at: '2022-10-06T22:09:53.313704+00:00'
+mmsi: '232020039'
 id: bd862c19-8681-474c-ba76-c2fc51b304c9
