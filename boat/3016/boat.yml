@@ -3,8 +3,9 @@ oga_no: 3016
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Step back in Time is a Golant Gaffer launched at the Yarmouth
-  Old Gaffers Festival in 2011.</p>
+short_description: |-
+  Step back in Time is a Golant Gaffer launched at the Yarmouth Old Gaffers
+  Festival in 2011.
 year: 2011
 year_is_approximate: false
 designer:
@@ -24,31 +25,35 @@ for_sales: []
 home_country: GBR
 home_port: Cowes
 hull_form: long keel sloping forefoot
-mmsi: '235086768'
 ownerships:
 - member: 5241
   id: 615
   start: 2011
   share: 64
   current: true
-id: 2e2cdd1c-25b7-4249-8e97-45c2ad9816ed
 image_key: tVfL8q
 handicap_data:
   thcf: 0.842
-  beam: 2.1336
-  draft: 0.8382
-  fore_triangle_height: 5.998536942209217
-  fore_triangle_base: 3.401609363569861
+  beam: 2.134
+  draft: 0.838
+  fore_triangle_height: 5.998
+  fore_triangle_base: 3.402
   length_on_deck: 5.715
-  length_on_waterline: 5.410265788831992
+  length_on_waterline: 5.41
   propellor:
     blades: 3
     type: folding
-  sailarea: 24.18826633122056
+  sailarea: 24.188
   length_over_all: 5.715069495245062
   main:
-    foot: 3.4991465496220435
-    head: 2.9687881004633017
-    luff: 4.218483296756888
+    foot: 3.499
+    head: 2.969
+    luff: 4.218
+  displacement: 1497
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 17.01578484567737
+    thcf: 0.887
 created_at: '2020-04-25T17:34:07.500789+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+mmsi: '235086768'
+id: 2e2cdd1c-25b7-4249-8e97-45c2ad9816ed
