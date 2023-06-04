@@ -11,12 +11,15 @@ designer:
 builder:
   name: Eric Bergqvist
   id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
+design_class:
+  name: Memory 19
+  id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 place_built: Lymm
 construction_material: grp
 spar_material: wood
 construction_details: GRP
 home_country: United Kingdom
-home_port: 'Woodbridge '
+home_port: Woodbridge
 hull_form: centre-boarder
 ownerships:
 - member: 2862
@@ -26,18 +29,23 @@ ownerships:
   current: true
 image_key: 86S8z9
 handicap_data:
-  thcf: 0.863
-  beam: 2.134
-  draft: 1.143
-  length_on_deck: 5.791
-  length_on_waterline: 5.691
-  propellor:
-    blades: 3
-    type: none
-  sailarea: 25.456
-  biggest_downwind_sail: {}
+  beam: 2.1336
+  fore_triangle_height: 6.2728
+  fore_triangle_base: 2.6914
+  main:
+    foot: 15.58
+    head: 10.58
+    luff: 12.08
+  topsail:
+    luff: 13.25
+    perpendicular: 6.25
+  length_overall: 5.7912
+  calculated_thcf: 0.877
+  draft_keel_down: 1.1186
+  moving_keel_type: Centreboard
+  length_on_waterline: 5.6906
+  length_on_deck: 5.7912
   biggest_jib:
     foot: 3.798
     leech: 5.599
     luff: 4.999
-  biggest_staysail: {}
