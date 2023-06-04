@@ -26,7 +26,8 @@ jobs:
     - uses: actions/setup-python@v4
       with:
         python-version: '3.11'
-    - run: pip install -r requirements.txt
+    - run: python -m pip install poetry==1.4.2
+    - run: python -m poetry install
     - name: set branch name
       run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
     - name: chose branch to checkout
@@ -62,17 +63,17 @@ jobs:
         fi
     - name: new designer, builder or design class
       run: |
-        echo '${{ github.event.inputs.new }}' | ./add_designer_items
+        echo '${{ github.event.inputs.new }}' | python -m poetry run python add_designer_items
     - name: changed fields present
       if: "${{ github.event.inputs.changed_fields != '' }}"
       run: |
         echo changed_fields value is ${{ github.event.inputs.changed_fields }}
-        ./make_boat_yaml_from_delta ${{ github.event.inputs.oga_no }} ${{ github.event.inputs.changed_fields }}
+        python -m poetry run python make_boat_yaml_from_delta ${{ github.event.inputs.oga_no }} ${{ github.event.inputs.changed_fields }}
         true
     - name: changed fields not present - use data field
       if: "${{ github.event.inputs.changed_fields == '' }}"
       run: |
-        echo ${{ github.event.inputs.data }} | ./make_boat_yaml
+        echo ${{ github.event.inputs.data }} | python -m poetry run python make_boat_yaml
     - name: stage and commit
       run: |
         git add .

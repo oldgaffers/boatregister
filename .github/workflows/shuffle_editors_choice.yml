@@ -13,12 +13,13 @@ jobs:
       - uses: actions/setup-python@v4
         with:
             python-version: '3.11'
-      - run: pip install -r requirements.txt
+      - run: python -m pip install poetry==1.4.2
+      - run: python -m poetry install
       - name: shuffle editors_choice
         env:
           API_KEY: ${{ secrets.SMUGMUG_API_KEY }}
         run: |
-          python3 shuffle_editors_choice.py ${{ github.event.inputs.oga_no }}
+          python -m poetry run python shuffle_editors_choice.py ${{ github.event.inputs.oga_no }}
           echo ok
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.0
