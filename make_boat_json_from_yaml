@@ -4,15 +4,7 @@ from os import listdir
 from pathlib import Path
 import yaml
 import json
-from datetime import date, datetime
-from helpers import process_html
-
-def json_serial(obj):
-  if isinstance(obj, date):
-    return obj.isoformat()
-  if isinstance(obj, datetime):
-    return obj.isoformat(timespec='seconds')[:-6]+'Z'
-  raise TypeError ("Type %s not serializable" % type(obj))
+from helpers import process_html, json_serialise
 
 def jsonFromYaml(b):
   boat = None
@@ -40,7 +32,7 @@ def jsonFromYaml(b):
     outdir = f"page-data/boat/{b}"
     Path(outdir).mkdir(parents=True, exist_ok=True)
     with open(f'{outdir}/page-data.json', 'w') as outfile:
-      json.dump(data, outfile, sort_keys=True, default=json_serial)
+      json.dump(data, outfile, sort_keys=True, default=json_serialise)
 
 if __name__ == '__main__':
   if len(sys.argv) == 2:

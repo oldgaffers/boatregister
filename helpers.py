@@ -1,6 +1,7 @@
 from typing import OrderedDict
 import json
 import yaml
+from datetime import date, datetime
 from markdownify import markdownify
 from markdown import Markdown
 
@@ -61,6 +62,14 @@ topLevelFields = [
   'handicap_data',
   'created_at',
 ]
+
+
+def json_serialise(obj):
+  if isinstance(obj, date):
+    return obj.isoformat()
+  if isinstance(obj, datetime):
+    return obj.isoformat(timespec='seconds')[:-6]+'Z'
+  raise TypeError ("Type %s not serializable" % type(obj))
 
 def ownerSortOrder(o):
   if 'start' in o:
@@ -205,7 +214,7 @@ def unique(l):
   if type(l[0]) == str:
     return list(set(l))
   else:
-    return [json.loads(x) for x in list(set([json.dumps(x) for x in l]))]
+    return [json.loads(x) for x in list(set([json.dumps(x, default=json_serialise) for x in l]))]
 
 def merge_object(existing, changes):
   if existing is None:
