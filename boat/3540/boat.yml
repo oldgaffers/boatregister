@@ -8,12 +8,12 @@ year_is_approximate: false
 designer:
   name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
-builder:
-  name: Eric Bergqvist
-  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
 design_class:
   name: Memory 19
   id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+builder:
+  name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
 place_built: Lymm
 construction_material: grp
 spar_material: wood
@@ -29,23 +29,32 @@ ownerships:
   current: true
 image_key: 86S8z9
 handicap_data:
-  beam: 2.1336
-  fore_triangle_height: 6.2728
-  fore_triangle_base: 2.6914
+  thcf: 1.161
+  calculated_thcf: 0.877
+  beam: 2.134
+  draft: 0.533
+  fore_triangle_height: 6.273
+  fore_triangle_base: 2.691
+  length_overall: 5.7912
+  length_on_deck: 5.791
+  length_on_waterline: 5.69
+  propellor:
+    type: none
+  topsail:
+    luff: 13.25
+    perpendicular: 6.25
   main:
     foot: 15.58
     head: 10.58
     luff: 12.08
-  topsail:
-    luff: 13.25
-    perpendicular: 6.25
-  length_overall: 5.7912
-  calculated_thcf: 0.877
   draft_keel_down: 1.1186
   moving_keel_type: Centreboard
-  length_on_waterline: 5.69
-  length_on_deck: 5.7912
   biggest_jib:
     foot: 3.798
     leech: 5.599
     luff: 4.999
+  displacement: 1000
+  solent:
+    hull_shape: Long keel - Low volume
+    measured_rating: 57.60954818243014
+    thcf: 1.324
