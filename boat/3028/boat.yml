@@ -3,9 +3,10 @@ oga_no: 3028
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Moon River is a Yarmouth 23 gaff rigged cutter built in 2001. Based
-  on the Solent, she took part in the OGA Round Britain Challenge, 2013, sailed single-handed
-  by skipper Barbara Runnalls.
+short_description: |-
+  Moon River is a Yarmouth 23 gaff rigged cutter built in 2001. Based on the
+  Solent, she took part in the OGA Round Britain Challenge, 2013, sailed
+  single-handed by skipper Barbara Runnalls.
 year: 2001
 year_is_approximate: false
 design_class:
@@ -25,7 +26,6 @@ home_port: Shoreham
 hull_form: long keel deep forefoot
 sail_number: '1'
 uk_part1: '98230'
-mmsi: '235115915'
 ownerships:
 - member: 5487
   id: 659
@@ -33,28 +33,32 @@ ownerships:
   share: 64
   current: true
 website: https://moonrivery23.wordpress.com/about/
-id: 93b4da4c-9c45-4e87-8d56-ea5c1d34dcc6
 image_key: BnvGsZ
-thumb: https://photos.smugmug.com/photos/i-gHnGmXj/0/Th/i-gHnGmXj-Th.jpg
 handicap_data:
   thcf: 0.853
   beam: 2.286
-  draft: 0.9144
-  fore_triangle_height: 5.7912704218483295
-  fore_triangle_base: 3.038892952938308
-  length_over_all: 6.879419653742989
+  draft: 0.914
+  fore_triangle_height: 5.791
+  fore_triangle_base: 3.039
+  length_on_deck: 6.888
+  length_on_waterline: 5.499
   propellor:
     type: fixed
     blades: 3
-  sailarea: 25.07228654575443
-  main:
-    foot: 3.880151182638381
-    head: 2.8102901731285055
-    luff: 3.648500365764448
+  sailarea: 25.072
   topsail:
-    luff: 3.648500365764448
-    perpendicular: 1.6611801999512315
-  length_on_waterline: 5.498658863691782
-  length_on_deck: 6.8885
+    luff: 3.648
+    perpendicular: 1.661
+  length_over_all: 6.879419653742989
+  main:
+    foot: 3.88
+    head: 2.81
+    luff: 3.648
+  displacement: 2800
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 16.22757331207946
+    thcf: 0.871
 created_at: '2020-04-25T17:34:19.009869+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+mmsi: '235115915'
+id: 93b4da4c-9c45-4e87-8d56-ea5c1d34dcc6
