@@ -27,27 +27,34 @@ for_sales:
   sold: 2023-02-10
   price_flexibility:
     text: normal
-  sales_text: |+
-    *White Nancy* is the cruising version of the Falmouth Working boat,
-    a powerful traditional rig and capable hull form which makes for a superb
-    sea boat.
-    
+  sales_text: |-
+    *White Nancy* is the cruising version of the Falmouth Working boat, a powerful
+    traditional rig and capable hull form which makes for a superb sea boat.
+
+
     This one was built by Martin Heard himself, lovingly maintained, her third owner
-    regretfully offers for sale after extensive voyaging. This
-    boat has crossed the Atlantic and equator twice solo.
-    
+    regretfully offers for sale after extensive voyaging. This boat has crossed the
+    Atlantic and equator twice solo.
+
+
     She would suit those that appreciate the timeless solid build with none of the
     concessions to cost sadly apparent in more modern boats.
-    
+
+
     Lying in Falmouth
   seller_gold_id: 35007
   seller_member: 6589
 home_country: UK
-home_port: Falmouth
+home_port: Plymouth
 hull_form: long keel deep forefoot
 ownerships:
 - member: 6589
   id: 35007
+  share: 64
+- name: Lance Shirley
+  member: 6589
+  id: 35007
+  start: 2023
   share: 64
 image_key: 547CPk
 handicap_data:
