@@ -3,20 +3,25 @@ oga_no: 3511
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: <p><em>Young Larry</em> is named after <em>Larry</em>, a boat previously
-  owned by her designer Dick Couture. Built of steel, she has sailed in the Mediterranean
-  and also done the Northwest Passage.</p>
-full_description: '<p>''Young Larry'' is named after one of her designer, Dick Couture''s,
-  earlier boats named ''Larry'', and <a href="https://www.oga.org.uk/boat/larry">also
-  in the OGA Boat Register,</a></p>
+short_description: |-
+  *Young Larry* is named after *Larry*, a boat previously owned by her designer
+  Dick Couture. Built of steel, she has sailed in the Mediterranean and also done
+  the Northwest Passage.
+full_description: |-
+  'Young Larry' is named after one of her designer, Dick Couture's, earlier boats
+  named 'Larry', and [also in the OGA Boat
+  Register,](https://www.oga.org.uk/boat/larry)
 
-  <p>''Young Larry'' has a steel hull built by Terry Erskine in Gozo, Malta, with
-  fit-out completed by designer and first owner Dick Couture. Completed 1995 she has
-  cruised in the Eastern Mediterranean and Turkish waters.</p>
 
-  <p>Kept in Palma for a number of years ''Young Larry'' was sold 2009 to new owners
-  who took her through the Northwest Passage in 2010 and completed the circumnavigation
-  of North America in 2011. &nbsp;She is now based in Western Scotland.</p>'
+  'Young Larry' has a steel hull built by Terry Erskine in Gozo, Malta, with
+  fit-out completed by designer and first owner Dick Couture. Completed 1995 she
+  has cruised in the Eastern Mediterranean and Turkish waters.
+
+
+  Kept in Palma for a number of years 'Young Larry' was sold 2009 to new owners
+  who took her through the Northwest Passage in 2010 and completed the
+  circumnavigation of North America in 2011.  She is now based in Western
+  Scotland.
 year: 1995
 year_is_approximate: false
 designer:
@@ -32,44 +37,47 @@ selling_status: not_for_sale
 for_sales: []
 hull_form: long keel deep forefoot
 ownerships:
-- id: 88
-  member: 1709
+- member: 1709
+  id: 88
   start: 1995
   end: 2009
   share: 64
-- id: 1049
-  member: 6302
+- member: 6302
+  id: 1049
   start: 2019
   share: 32
   current: true
-- id: 34584
-  member: 6302
+- member: 6302
+  id: 34584
   start: 2019
   share: 32
   current: true
-id: 2e22b085-37f8-4816-8875-dc88d8bb9604
 image_key: fFhnxr
 handicap_data:
-  thcf: 1.051391198
-  beam: 3.9624
-  draft: 2.1336
-  fore_triangle_height: 11.277737137283589
-  fore_triangle_base: 6.5532796878810045
-  length_over_all: 13.411363082175079
+  thcf: 1.051
+  beam: 3.962
+  draft: 2.134
+  fore_triangle_height: 11.278
+  fore_triangle_base: 6.553
+  length_on_deck: 13.411
+  length_on_waterline: 10.668
   propellor:
     type: fixed
-  main:
-    foot: 6.4008778346744695
-    head: 5.18166300902219
-    luff: 5.7912704218483295
   topsail:
-    luff: 8.22970007315289
-    perpendicular: 2.8194342843208973
+    luff: 8.23
+    perpendicular: 2.819
+  length_over_all: 13.411363082175079
+  main:
+    foot: 6.401
+    head: 5.182
+    luff: 5.791
   mizzen:
-    foot: 2.5146305779078273
-    head: 2.13362594489149
-    luff: 2.6670324311143623
-  length_on_waterline: 10.66812972445745
-  length_on_deck: 13.4112
+    foot: 2.515
+    head: 2.134
+    luff: 2.667
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 30.69968566089709
+    thcf: 1.057
 created_at: '2020-04-25T17:38:29.292603+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 2e22b085-37f8-4816-8875-dc88d8bb9604
