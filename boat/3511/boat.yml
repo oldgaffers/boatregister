@@ -32,16 +32,23 @@ selling_status: not_for_sale
 for_sales: []
 hull_form: long keel deep forefoot
 ownerships:
-- name: Dick Couture
+- id: 88
+  member: 1709
   start: 1995
   end: 2009
   share: 64
-- name: Murray Buttner and Jennifer Heller
+- id: 1049
+  member: 6302
   start: 2019
-  share: 64
+  share: 32
+  current: true
+- id: 34584
+  member: 6302
+  start: 2019
+  share: 32
+  current: true
 id: 2e22b085-37f8-4816-8875-dc88d8bb9604
 image_key: fFhnxr
-thumb: https://photos.smugmug.com/photos/i-VCW8Dng/0/Th/i-VCW8Dng-Th.jpg
 handicap_data:
   thcf: 1.051391198
   beam: 3.9624
