@@ -3,18 +3,25 @@ oga_no: 2494
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: "<p>Built at Totnes, Devon, to a commissioned design in 1991, Minstrel\
-  \ has cruised extensively in the Carribean, Maine, Southern Ireland and undertaken\
-  \ two circumnavigations of Britain.<br />\r\n&nbsp;</p>"
-full_description: "<p>Owned from new by Anthony John (Gubby) Williams and Christine\
-  \ Alma (nee Thery) Williams, Minstrel was built to a commissioned design by A J\
-  \ Williams &amp; R Feloy at Totnes.</p>\r\n\r\n<p>She cruised to the Carribean 1991-2\
-  \ then to Maine for three years returning to Southern Ireland in 1995 and was moored\
-  \ at Hare Island, Skibbern for several years.</p>\r\n\r\n<p>Following a refit in\
-  \ 2008 she carries a Cornish Yard topsail, bigger in the hoist than the mainsail\
-  \ luff. Yard is aluminium but will be replaced by wood. She has cruised the western\
-  \ English Channel and circumnavigated Britian via Caledonian Canal, taking part\
-  \ in the OGA Round Britain Challenge in 2013.</p>"
+short_description: |-
+  Built at Totnes, Devon, to a commissioned design in 1991, Minstrel has cruised
+  extensively in the Carribean, Maine, Southern Ireland and undertaken two
+  circumnavigations of Britain.
+full_description: |-
+  Owned from new by Anthony John (Gubby) Williams and Christine Alma (nee Thery)
+  Williams, Minstrel was built to a commissioned design by A J Williams & R Feloy
+  at Totnes.
+
+
+  She cruised to the Carribean 1991-2 then to Maine for three years returning to
+  Southern Ireland in 1995 and was moored at Hare Island, Skibbern for several
+  years.
+
+
+  Following a refit in 2008 she carries a Cornish Yard topsail, bigger in the
+  hoist than the mainsail luff. Yard is aluminium but will be replaced by wood.
+  She has cruised the western English Channel and circumnavigated Britian via
+  Caledonian Canal, taking part in the OGA Round Britain Challenge in 2013.
 year: 1991
 year_is_approximate: false
 designer:
@@ -44,29 +51,32 @@ ownerships:
   start: 1999
   share: 64
   current: true
-id: 960512a9-2e6f-45a1-a7c8-f2366a1d611f
 image_key: vjPbZX
-mmsi: '235078636'
 handicap_data:
   thcf: 1.009
-  beam: 3.2004
-  draft: 1.7374
-  fore_triangle_height: 10.66812972445745
-  fore_triangle_base: 6.0960741282613995
-  length_over_all: 10.287143379663496
+  beam: 3.2
+  draft: 1.737
+  fore_triangle_height: 10.668
+  fore_triangle_base: 6.096
+  length_on_deck: 10.302
+  length_on_waterline: 8.839
+  length_over_spars: 13.106559375762009
   propellor:
     type: folding
     blades: 3
-  sailarea: 71.18423141605206
-  main:
-    foot: 6.350097537186052
-    head: 4.419665935137771
-    luff: 5.53727139722019
+  sailarea: 71.184
   topsail:
-    luff: 6.4262801755669345
-    perpendicular: 2.2860399902462816
-  length_over_spars: 13.106559375762009
-  length_on_waterline: 8.83930748597903
-  length_on_deck: 10.3022
+    luff: 6.426
+    perpendicular: 2.286
+  length_over_all: 10.287143379663496
+  main:
+    foot: 6.35
+    head: 4.42
+    luff: 5.537
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 26.545159360812242
+    thcf: 1.014
 created_at: '2020-04-25T17:21:35.946732+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 960512a9-2e6f-45a1-a7c8-f2366a1d611f
+mmsi: '235078636'
