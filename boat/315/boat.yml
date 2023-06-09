@@ -3,11 +3,10 @@ oga_no: 315
 generic_type: Pocket Cruiser
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
+short_description: |-
   *Robinetta* is a 22' 6" tabloid cruiser, designed by Denys Rayner and built for
   him by the Enterprise Small Craft Company, Rock Ferry, Birkenhead.
-
-full_description: |+
+full_description: |-
   "When his last boat, the 42' Tredwin barge *Pearl*, was burnt out on moorings,
   Mr. Denys Rayner decided to try his hand at designing a boat, after studying the
   "How To" articles in the Y.M. Economy limited the size to less than 23''
@@ -30,7 +29,7 @@ full_description: |+
   crabbers."
 
 
-  \*Robinetta\* is mostly original, but her iron keel was replaced by lead in the
+  *Robinetta* is mostly original, but her iron keel was replaced by lead in the
   1950 or 60s when small changes were also made to her foredeck, both to the
   designs of Alan Buchanan.
 
@@ -54,10 +53,9 @@ full_description: |+
   Deck beam replaced and other repairs winter 2017/18. New Yanmar 1GM10 2022.
 
 
-  Read articles about *Robinetta* from the Royal Cruising Club Journal, 1938
-  and explore her [blog](https://robinetta-log.blogspot.co.uk/) with a detailed
+  Read articles about *Robinetta* from the Royal Cruising Club Journal, 1938 and
+  explore her [blog](https://robinetta-log.blogspot.co.uk/) with a detailed
   history of ownership and other exploits.
-
 year: 1937
 year_is_approximate: false
 designer:
@@ -123,19 +121,24 @@ ownerships:
 website: https://robinetta-log.blogspot.com/p/robinetta.html
 image_key: 9NV8KW
 handicap_data:
-  beam: 2.441
-  main:
-    foot: 4
-    head: 4.26725188978298
-    luff: 4.319068519873201
   thcf: 0.85
-  sailarea: 24.156
+  beam: 2.441
+  draft: 1.372
+  fore_triangle_height: 4.572
+  fore_triangle_base: 1.524
+  length_on_deck: 6.858
+  length_on_waterline: 6.096
   propellor:
     type: fixed
-  length_on_deck: 6.858
+  sailarea: 24.156
+  main:
+    foot: 4
+    head: 4.267
+    luff: 4.319
   length_over_all: 6.858083394294074
-  fore_triangle_base: 1.5240185320653499
-  length_on_waterline: 6.096
-  fore_triangle_height: 4.57205559619605
-  draft: 1.372
+  displacement: 4800
+  solent:
+    hull_shape: Long keel - High volume
+    measured_rating: 14.182034618964467
+    thcf: 0.839
 mmsi: '235109366'
