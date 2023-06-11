@@ -25,17 +25,28 @@ reference:
 - Log Jun/97
 uk_part1: '146299'
 ownerships:
+- name: ' A Murdoch'
+  start: 2011
+  share: 64
+  current: true
 - name: G Findlay
   start: 2012
   share: 64
-id: b453a512-331b-44f9-9e05-b360e81c39fc
 image_key: Vw72cB
-thumb: https://photos.smugmug.com/photos/i-tbDKQrt/0/Th/i-tbDKQrt-Th.jpg
 handicap_data:
-  beam: 2.7127
-  draft: 1.6764
+  thcf: 0.993
+  beam: 2.713
+  draft: 1.676
+  length_on_deck: 10.363
+  length_on_waterline: 7.62
+  propellor:
+    type: folding
+  sailarea: 57.879
   length_over_all: 10.36332601804438
-  length_on_waterline: 8.01633747866374
-  length_on_deck: 10.3632
+  displacement: 9000
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 23.670451414431874
+    thcf: 0.979
 created_at: '2020-04-25T16:43:32.353716+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: b453a512-331b-44f9-9e05-b360e81c39fc
