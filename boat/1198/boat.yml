@@ -3,17 +3,28 @@ oga_no: 1198
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Built as a pleasure boat for Clacton Pier, she was registered for
-  fishing in 1905 and fished up until the 1950's.
-full_description: <p>Her first owner was Whilloughby John Bean, an East Coast landowner
-  who also owned Clacton Pier and used her as a pleasure boat for the pier. She was
-  registered for fishing in 1905. Frederick Westhorpe Mole fished her as CK46. Frederick
-  was killed when the naval stores ship <i>Industry</i> was torpedoed in the Irish
-  Sea 18 October 1918. After the war she was bought but the Pitt family and fished
-  out of Maldon as MN4.</p><p>She won the West Mersea Town Cup in 1938. She fished
-  until the 1950's when she was taken out of fishing and used as a floating pontoon.
-  David Wager purchased her as a wreck dug from the mud in Essex and re-built her
-  1997-2003. He has cruised her to Amsterdam and to Brest.</p>
+short_description: |-
+  Built as a pleasure boat for Clacton Pier, she was registered for fishing in
+  1905 and fished up until the 1950's.
+full_description: |-
+  Her first owner was Whilloughby John Bean, an East Coast landowner who also
+  owned Clacton Pier and used her as a pleasure boat for the pier. She was
+  registered for fishing in 1905. Frederick Westhorpe Mole (born 1882) of West
+  Mersea fished her as CK46. Frederick was killed when the naval stores ship
+  *Industry* was torpedoed in the Irish Sea 18 October 1918. After the war she was
+  bought by the Pitt family and fished out of Maldon as MN4 by Alfred and Roy
+  Pitt.
+
+  She won the West Mersea Town Cup in 1938. She fished until the 1950s as MN4 when
+  she was taken out of fishing and used as a floating pontoon. David Wager
+  purchased her as a wreck dug from the mud in Essex and re-built her in
+  Tollesbury 1977-1983. He moved her to the Isle of Wight in 1985 and cruised her
+  to Amsterdam and to Brest.
+
+  In November 2022 she was purchased by new owners, brought back to West Mersea by
+  lorry and relaunched June 2023.
+
+  She now resides in Tollesbury.
 year: 1877
 year_is_approximate: false
 designer:
@@ -24,36 +35,38 @@ builder:
   id: 78bc9e97-d57d-481e-b855-b10261a92e4d
 place_built: Brightlingsea
 construction_material: wood
+spar_material: wood
+construction_method: carvel
 construction_details: Larch on Oak
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: Cowes
+home_port: Tollesbury
 hull_form: long keel deep forefoot
+sail_number: MN52
+fishing_number: CK46/MN4/MN52
+ssr: SSR191443
 ownerships:
 - member: 1860
   id: 103
   start: 1977
   share: 64
   current: true
-id: 994ff44a-7104-4eee-a77a-bda1296a5ae9
-fishing_number: CK46/MN4
 image_key: 99ZBqs
-thumb: https://photos.smugmug.com/photos/i-FVsLC2f/0/Th/i-FVsLC2f-Th.jpg
 handicap_data:
   thcf: 1.020693448
-  beam: 2.7432
-  draft: 1.1948
+  beam: 2.743
+  draft: 1.195
   fore_triangle_height: 6.0960741282613995
   fore_triangle_base: 8.22970007315289
-  length_over_all: 10.66812972445745
+  length_on_deck: 10.668
+  length_on_waterline: 8.83930748597903
   propellor:
     type: fixed
+  length_over_all: 10.66812972445745
   main:
     foot: 7.315288953913679
     head: 5.18166300902219
     luff: 4.87685930260912
-  length_on_waterline: 8.83930748597903
-  length_on_deck: 10.668
 created_at: '2020-04-25T17:01:19.559758+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 994ff44a-7104-4eee-a77a-bda1296a5ae9
