@@ -3,10 +3,7 @@ oga_no: 3606
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  She is a Cornish Crabber 24 MkV.
-
-full_description: ''
+short_description: She is a Cornish Crabber 24 MkV.
 year: 2021
 year_is_approximate: false
 designer:
@@ -28,13 +25,23 @@ home_country: United Kingdom
 home_port: Emsworth
 hull_form: centre-boarder
 sail_number: '21'
+ssr: '184535'
 callsign: MJEO5
 ownerships:
 - member: 6532
   id: 34935
   share: 64
+- name: Catherine Mant
+  start: 2021
+  share: 35
+  current: true
+- name: Neil Mant
+  member: 6532
+  id: 34935
+  start: 2021
+  share: 32
+  current: true
 image_key: 2CNkmM
-thumb: https://photos.smugmug.com/photos/i-PBS5HtZ/0/Th/i-PBS5HtZ-Th.jpg
 handicap_data:
   thcf: 0.883
   beam: 2.667
@@ -46,6 +53,5 @@ handicap_data:
   sailarea: 33.780366877527506
   length_over_all: 7.315
 created_at: '2021-12-30T12:22:19.421344+00:00'
-updated_at: '2022-08-21T09:41:38.783377+00:00'
 hin: GB-BIH2402IE021
 id: 75f8c99b-68de-499f-ad30-3be9c8ba87cb
