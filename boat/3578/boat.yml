@@ -3,7 +3,7 @@ oga_no: 3578
 generic_type: Bristol Channel Pilot Cutter
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>She is a fine example of her type.</p>
+short_description: She is a fine example of her type.
 year_is_approximate: false
 designer:
   name: E. Rowles
@@ -22,30 +22,33 @@ home_port: Bristol
 hull_form: long keel sloping forefoot
 sail_number: '22'
 uk_part1: '140782'
-mmsi: '232035578'
+nhsr: '2492'
 ownerships:
-  - id: 34868
-    member: 6484
-    share: 64
-    current: true
-    start: 2021 
+- member: 6484
+  id: 34868
+  start: 2021
+  share: 64
+  current: true
 website: https://www.facebook.com/skipper.letty
-id: d926c287-5372-46fa-93d1-830f82443a5a
 image_key: LFcXtz
-thumb: https://photos.smugmug.com/photos/i-csQMrTh/0/Th/i-csQMrTh-Th.jpg
 handicap_data:
   thcf: 1.099
-  beam: 4.114850036576445
-  draft: 2.7432333577176298
-  length_over_all: 15.544989027066569
+  beam: 4.115
+  draft: 2.743
+  length_on_deck: 15.545
+  length_on_waterline: 12.192
   propellor:
     type: feathering
     blades: 3
-  sailarea: 94.11306833590584
-  length_on_waterline: 12.192148256522799
-  length_on_deck: 15.544989027066569
+  sailarea: 94.113
+  length_over_all: 15.544989027066569
+  displacement: 35000
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 31.79316648524747
+    thcf: 1.075
 created_at: '2021-06-24T11:46:52.873247+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+mmsi: '232035578'
+id: d926c287-5372-46fa-93d1-830f82443a5a
 air_draft: 50
 hin: '140782'
-nhsr: '2492'
