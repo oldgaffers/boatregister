@@ -105,7 +105,7 @@ jobs:
       run: |
         gh pr list --head ${{ env.branch }} -s open --json title --jq '. | length'| sed -e 's/^/PR=/' >> $GITHUB_ENV
     - name: Create Pull Request if none
-      if: ${{ env.PR == 0 }}
+      if: ${{ env.CHANGES == 1 && env.PR == 0 }}
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
