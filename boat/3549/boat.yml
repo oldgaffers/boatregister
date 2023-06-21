@@ -4,6 +4,7 @@ generic_type: Yacht
 rig_type: Yawl
 mainsail_type: lug
 year: 2000
+year_is_approximate: false
 designer:
   name: Nigel Irens
   id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
@@ -18,20 +19,31 @@ construction_material: grp
 spar_material: carbon_composite
 construction_method: cold_moulded
 construction_details: GRP with Carbon fibre foresail spars and grp mizzen spars.
-home_country: UK
-home_port: Southampton
-hull_form: long keel deep forefoot
-sail_number: '23'
-handicap_data:
-  thcf: 0.641
-  beam: 0.64
-  draft: 0.152
-  length_on_deck: 2.042
-  length_on_waterline: 1.884
-  propellor:
-    type: fixed
-  sailarea: 2.083
-hin: '23'
-air_draft: 10.5
 previous_names:
 - Speedwell
+home_country: UK
+home_port: Southampton
+hull_form: centre-boarder
+sail_number: '23'
+ownerships:
+- name: ' Ken Hickling'
+  start: 2022
+  share: 64
+  current: true
+handicap_data:
+  thcf: 0.858
+  beam: 2.082
+  draft: 0.533
+  length_on_deck: 6.706
+  length_on_waterline: 6.172
+  propellor:
+    type: fixed
+    blades: 2
+  sailarea: 22.411
+  displacement: 2100
+  solent:
+    hull_shape: Long keel - Low volume
+    measured_rating: 17.33041326606058
+    thcf: 0.888
+hin: '23'
+air_draft: 10.195
