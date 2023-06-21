@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 from helpers import map_boat, topLevelFields, dump
 
-def get_boat(data):
+def get_boat(data, pickers):
   boat = OrderedDict()
   for field in topLevelFields:
     if field in data and data[field] is not None:
@@ -24,10 +24,7 @@ def get_boat(data):
       del data[field]
   return OrderedDict(**boat, **OrderedDict(data)) # any fields not in topLevelFields
 
-
-
 if __name__ == '__main__':
-  global pickers
   with open("pickers.json", "r") as stream:
     pickers = json.load(stream)
   if len(sys.argv) == 2:
@@ -36,9 +33,9 @@ if __name__ == '__main__':
     b64 = sys.stdin.buffer.read()
   decoded = base64.b64decode(b64)
   data = json.loads(decoded)
-  boat = get_boat(data)
+  boat = get_boat(data, pickers)
   outdir = f"boat/{boat['oga_no']}"
   Path(outdir).mkdir(parents=True, exist_ok=True)
   with open(f'{outdir}/boat.yml', 'w') as outfile:
-    dump(map_boat(boat), outfile)
+    dump(map_boat(boat, pickers), outfile)
 
