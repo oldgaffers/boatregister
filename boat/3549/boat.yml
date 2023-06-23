@@ -26,10 +26,12 @@ home_port: Southampton
 hull_form: centre-boarder
 sail_number: '23'
 ownerships:
-- name: ' Ken Hickling'
+- member: 6619
+  id: 35049
   start: 2022
   share: 64
   current: true
+image_key: fPqD5q
 handicap_data:
   thcf: 0.858
   beam: 2.082
@@ -37,13 +39,13 @@ handicap_data:
   length_on_deck: 6.706
   length_on_waterline: 6.172
   propellor:
-    type: fixed
     blades: 2
+    type: fixed
   sailarea: 22.411
   displacement: 2100
   solent:
     hull_shape: Long keel - Low volume
     measured_rating: 17.33041326606058
     thcf: 0.888
-hin: '23'
 air_draft: 10.195
+hin: '23'
