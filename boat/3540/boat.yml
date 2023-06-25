@@ -17,6 +17,7 @@ builder:
 place_built: Lymm
 construction_material: grp
 spar_material: wood
+construction_method: cold_moulded
 construction_details: GRP
 home_country: United Kingdom
 home_port: Woodbridge
@@ -29,7 +30,7 @@ ownerships:
   current: true
 image_key: 86S8z9
 handicap_data:
-  thcf: 1.161
+  thcf: 0.877
   calculated_thcf: 0.877
   beam: 2.134
   draft: 0.533
@@ -41,12 +42,12 @@ handicap_data:
   propellor:
     type: none
   topsail:
-    luff: 13.25
-    perpendicular: 6.25
+    luff: 4.039
+    perpendicular: 1.905
   main:
-    foot: 15.58
-    head: 10.58
-    luff: 12.08
+    foot: 4.749
+    head: 3.225
+    luff: 3.682
   draft_keel_down: 1.1186
   moving_keel_type: Centreboard
   biggest_jib:
@@ -56,5 +57,5 @@ handicap_data:
   displacement: 1000
   solent:
     hull_shape: Long keel - Low volume
-    measured_rating: 57.60954818243014
-    thcf: 1.324
+    measured_rating: 22.408378676809022
+    thcf: 0.967
