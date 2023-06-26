@@ -3,17 +3,20 @@ oga_no: 2039
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |-
-  *Juanita* is a flush-decked cruiser / racer
+short_description: '*Juanita* is a flush-decked cruiser / racer'
 full_description: |-
   *Juanita* was owned for many years by Dulcie Kennard, first wife of Maurice
   Griffiths. In the late 1950s, the boat was damaged and sold.
 
-  In 1998 she was ashore at Shotley, undergoing restoration. She was then
-  acquired by the school at Bawdsey.
 
-  In 2016 she was found by Will Thomas at Bawdsey who restored her to sail and race again.
-  
+  In 1998 she was ashore at Shotley, undergoing restoration. She was then acquired
+  by the school at Bawdsey.
+
+
+  In 2016 she was found by Will Thomas at Bawdsey who restored her to sail and
+  race again.
+
+
   She took part in the East Coast August cruise, 2017.
 year: 1896
 year_is_approximate: false
@@ -25,8 +28,9 @@ builder:
   id: b37f906b-b441-42cb-8d9b-2cc368933de5
 place_built: Falmouth
 construction_material: wood
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- asking_price: 8000
 home_country: GBR
 home_port: Ipswich
 uk_part1: '105863'
