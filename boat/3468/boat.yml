@@ -22,31 +22,29 @@ selling_status: not_for_sale
 for_sales: []
 home_country: United Kingdom
 home_port: Woodbridge Suffolk
-hull_form: shoal_draft
+hull_form: centre-boarder
 sail_number: '1845'
 callsign: M1106
-id: 78afeea3-bd58-46ca-8950-07b07ee740ae
-mmsi: '232031288'
 image_key: PRTFwk
-thumb: https://photos.smugmug.com/photos/i-VrNKsrJ/0/Th/i-VrNKsrJ-Th.jpg
 handicap_data:
-  thcf: 1.037
-  beam: 1.929407461594733
-  draft: 0.6005
-  fore_triangle_height: 3.1486
-  fore_triangle_base: 2.3104
-  length_over_all: 4.901243599122164
+  thcf: 0.797
+  beam: 1.929
+  draft: 0.6
+  fore_triangle_height: 3.149
+  fore_triangle_base: 2.31
+  length_on_deck: 4.901
+  length_on_waterline: 4.816
   propellor:
     type: fixed
-  sailarea: 152.68837315001764
-  main:
-    foot: 11.81
-    head: 8.37
-    luff: 10.17
+  sailarea: 152.688
   topsail:
-    luff: 8.99
-    perpendicular: 5.41
-  length_on_waterline: 4.815898561326506
-  length_on_deck: 4.9012
+    luff: 2.74
+    perpendicular: 1.649
+  length_over_all: 4.901243599122164
+  main:
+    foot: 3.6
+    head: 2.551
+    luff: 3.1
 created_at: '2020-10-07T08:17:30.810845+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 78afeea3-bd58-46ca-8950-07b07ee740ae
+mmsi: '232031288'
