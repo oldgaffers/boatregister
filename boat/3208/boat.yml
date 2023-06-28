@@ -31,7 +31,7 @@ place_built: Rock Ferry, Wirral
 construction_material: wood
 spar_material: wood
 construction_method: carvel
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - asking_price: 10000
   sales_text: |-
@@ -74,16 +74,11 @@ home_port: Deganwy
 hull_form: long keel sloping forefoot
 ssr: R1387
 ownerships:
-- name: Kevin Goulding
-  member: 5906
-  id: 831
-  start: 2001
-  share: 64
-  current: true
-- member: 5906
-  id: 831
-  start: 2001
-  share: 64
+  - member: 5906
+    id: 831
+    start: 2001
+    end: 2021
+    share: 64
 website: https://www.theyachtphyllis.co.uk
 image_key: wsNjN5
 handicap_data:
