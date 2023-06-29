@@ -54,17 +54,13 @@ def owners(boat):
   return []
 
 def get_boat(path):
-  with open(path, "r") as stream:
-    try: 
-      boat = yaml.safe_load(stream)
-    except Exception as e:
-      print(e)
-      print('OGA', path)
-      boat = None
-  if boat is None:
-    return None
-  else:
-    return boat
+  try:
+    with open(path, "r") as stream:
+      return yaml.safe_load(stream)
+  except Exception as e:
+    print(e)
+    print('OGA', path)
+  return None
 
 def json_serial(obj):
   if isinstance(obj, date):
