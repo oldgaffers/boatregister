@@ -3,7 +3,12 @@ oga_no: 3709
 generic_type: Dinghy
 rig_type: Yawl
 mainsail_type: gunter
-short_description: <p>Open sailing dinghy.</p>
+short_description: Open sailing dinghy.
+full_description: |-
+  I have added built in electrics with battery and 100w solar panel on a small,
+  (easily removed) splash deck and lights.  Recently spent 6 days on board in the
+  Helston estuary, sailing and fishing.  One day spent on a 7 hour round trip to
+  the Falmouth Classic Regatta.
 year: 1985
 year_is_approximate: true
 design_class:
@@ -19,19 +24,30 @@ for_sales: []
 home_country: UK
 home_port: Bristol
 hull_form: centre-board dinghy
+ssr: LULU - SSR190748
 ownerships:
 - member: 6583
   id: 35000
   share: 64
   current: true
-id: 5598c94d-4720-4423-a575-44b0845a308b
+- name: Julian Eley
+  member: 6583
+  id: 35000
+  start: 2021
+  share: 64
+  current: true
+- name: Julian Eley
+  member: 6583
+  id: 35000
+  start: 2021
+  share: 64
+  current: true
 image_key: ddgWxx
-thumb: https://photos.smugmug.com/photos/i-PMXcfnp/0/Th/i-PMXcfnp-Th.jpg
 handicap_data:
   beam: 1.829
-  draft: 1.219
+  draft: 0.274
   length_on_deck: 4.877
 created_at: '2022-08-17T09:37:58.317086+00:00'
-updated_at: '2022-08-17T21:10:13.318708+00:00'
-air_draft: 21
+id: 5598c94d-4720-4423-a575-44b0845a308b
+air_draft: 3.048
 hin: '370'
