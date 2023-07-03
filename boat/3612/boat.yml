@@ -3,6 +3,8 @@ oga_no: 3612
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
+short_description: Cirrus is an East Anglian Mk1.
+year: 1959
 year_is_approximate: false
 designer:
   name: Alan Buchanan
@@ -10,10 +12,18 @@ designer:
 design_class:
   name: East Anglian Mk I
   id: b2e08979-afda-4600-b2cd-a6fe51f0f19d
+builder:
+  name: TC. White
+  id: 54ec968c-e7e9-46c9-80d1-337242fc77bc
+place_built: Brightlinsea
 construction_material: wood
 spar_material: wood
 construction_method: carvel
+construction_details: Mahogany on oak frames. Teak superstructure.
+home_country: UK
+home_port: Maldon
 hull_form: long keel sloping forefoot
+sail_number: 140Y
 image_key: J8447z
 handicap_data:
   beam: 2.438
