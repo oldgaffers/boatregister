@@ -1,9 +1,9 @@
-name: Oystermaid
+name: Sulis
 oga_no: 1970
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Oystermaid is an Oysterman 16</p>
+short_description: Oystermaid is an Oysterman 16
 year: 1990
 year_is_approximate: false
 designer:
@@ -19,6 +19,9 @@ place_built: Penryn
 construction_material: grp
 construction_method: cold_moulded
 construction_details: GRP
+previous_names:
+- Solent Oysterman
+- Oystermaid
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
@@ -27,22 +30,24 @@ sail_number: OY16 19
 ownerships:
 - name: Keith Filbey
   start: 2012
+  end: 2022
   share: 64
-id: 54dbb584-91de-41fd-80fb-468f6b556c7b
+- name: Keith Filbey
+  start: 2012
+  share: 64
+website: https://scotland.boatshed.com/oysterman_16-boat-270077.html
 handicap_data:
   thcf: 0.828772704
-  beam: 1.9294
-  draft: 0.9144
+  beam: 1.929
+  draft: 0.914
   fore_triangle_height: 6.217995610826627
   fore_triangle_base: 3.291880029261156
+  length_on_deck: 4.877
+  length_on_waterline: 4.633016337478663
   length_over_all: 4.87685930260912
   main:
     foot: 3.7094611070470616
     head: 3.0785174347720066
     luff: 3.779565959522068
-  length_on_waterline: 4.633016337478663
-  length_on_deck: 4.8768
 created_at: '2020-04-25T17:13:03.48657+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Solent Oysterman
+id: 54dbb584-91de-41fd-80fb-468f6b556c7b
