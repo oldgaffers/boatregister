@@ -3,7 +3,9 @@ oga_no: 1970
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Oystermaid is an Oysterman 16
+short_description: |-
+  SULIS is an Oysterman 16, elegant classic design based on Falmouth working boat,
+  sturdy and seaworthy
 year: 1990
 year_is_approximate: false
 designer:
@@ -25,9 +27,23 @@ previous_names:
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: Dartmouth
+home_port: Plymouth
+hull_form: long keel deep forefoot
 sail_number: OY16 19
+callsign: SULIS
 ownerships:
+- name: ' Keith Filbey'
+  start: 2003
+  end: 2007
+  share: 64
+- name: ' John Clarke'
+  start: 2007
+  end: 2009
+  share: 64
+- name: ' Michael Green'
+  start: 2009
+  end: 2021
+  share: 64
 - name: Keith Filbey
   start: 2012
   end: 2022
@@ -35,6 +51,10 @@ ownerships:
 - name: Keith Filbey
   start: 2012
   share: 64
+- name: ' Andrew MCHARG'
+  start: 2021
+  share: 64
+  current: true
 website: https://scotland.boatshed.com/oysterman_16-boat-270077.html
 image_key: jgcKHd
 handicap_data:
