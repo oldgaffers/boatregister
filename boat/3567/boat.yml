@@ -13,6 +13,7 @@ full_description: |-
   these old lug-rigged sailing boats, and the rig converted to the more popular
   gaff rig and steel centreplate, for this GRP version. 
 
+
   She was brought from the West Country to Waldringfield on the River Deben and
   lives off the Maybush Pub. Her range is normally to one of the four other pubs
   on the River Deben for which there is convenient landing. I am grateful to the
@@ -40,6 +41,17 @@ hull_form: centre-board dinghy
 sail_number: CP 26
 image_key: jBRVVQ
 handicap_data:
+  thcf: 0.767
   beam: 1.829
   draft: 0.914
+  fore_triangle_height: 3.719
+  fore_triangle_base: 1.6
   length_on_deck: 4.724
+  length_on_waterline: 4.724
+  propellor:
+    blades: 2
+    type: fixed
+  main:
+    luff: 2.073
+    foot: 3.021
+    head: 2.438
