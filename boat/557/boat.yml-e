@@ -1,0 +1,51 @@
+name: Mersula
+oga_no: 557
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+year: 1974
+year_is_approximate: false
+designer:
+  name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+design_class:
+  name: Tamarisk 22
+  id: ffd82ea5-0656-4af6-b5b7-55bfb57c26dc
+builder:
+  name: North Sea Craft
+  id: a6482c01-706a-469d-93db-2ccab9020581
+place_built: Brundall
+construction_material: grp
+construction_method: cold_moulded
+construction_details: GRP
+selling_status: not_for_sale
+for_sales: []
+ownerships:
+- name: J H Mottershaw
+  start: 2012
+  share: 64
+id: 72d7d18b-20e5-4e2f-8686-9db73e2f0697
+handicap_data:
+  beam: 2.3774
+  draft: 1.1582
+  length_over_all: 6.766642282370153
+  length_on_waterline: 6.339917093391856
+  length_on_deck: 6.7666
+  thcf: 0.86522172
+  fore_triangle_height: 6.5532796878810045
+  fore_triangle_base: 3.6576444769568397
+  propellor:
+    type: fixed
+    blades: 3
+  main:
+    foot: 3.9624481833699097
+    head: 3.581443550353572
+    luff: 3.9624481833699097
+  topsail:
+    luff: 2.3774689100219457
+    perpendicular: 1.5240185320653499
+created_at: '2020-04-25T16:50:48.364007+00:00'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
+previous_names:
+- Sula
+hull_form: long keel deep forefoot

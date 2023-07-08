@@ -1,0 +1,66 @@
+name: Kitty
+oga_no: 3231
+generic_type: Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: |+
+  *Kitty* is a Yarmouth 23
+year: 2004
+year_is_approximate: false
+designer:
+  name: D Freeman/G. Wyatt
+  id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
+design_class:
+  name: Yarmouth 23
+  id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
+builder:
+  name: Yarmouth Boat Co.
+  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
+place_built: Yarmouth Isle of Wight
+construction_material: grp
+spar_material: wood
+construction_method: cold_moulded
+construction_details: GRP
+selling_status: not_for_sale
+for_sales:
+- created_at: '2022-12-11T09:25:00+00:00'
+  sales_text: Owned since 2012.
+  seller_gold_id: 714
+  seller_member: 5668
+  sold: '2022-11-15'
+  summary: sold privately to a non-member Richard Smith who has now joined
+home_country: GBR
+home_port: Maldon
+hull_form: long keel sloping forefoot
+sail_number: '27'
+ssr: '111959'
+callsign: MFXQ7
+ownerships:
+- member: 5668
+  id: 714
+  start: 2012
+  end: 2022
+  share: 64
+- member: 4333
+  id: 427
+  start: 2022
+  share: 64
+  current: true
+handicap_data:
+  calculated_thcf: 0.849
+  beam: 2.28
+  draft: 0.914
+  fore_triangle_height: 5.791
+  fore_triangle_base: 3.039
+  length_overall: 6.8793
+  length_on_deck: 6.879
+  length_on_waterline: 5.499
+  length_over_spars: 7.9766
+  propellor:
+    type: fixed
+  main:
+    foot: 3.88
+    head: 2.81
+    luff: 3.65
+created_at: '2020-04-25T17:46:48.63155+00:00'
+id: 44462bfc-0a31-4f49-8107-eef831be4029
