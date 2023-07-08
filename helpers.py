@@ -217,10 +217,10 @@ def unique(l):
     return [json.loads(x) for x in list(set([json.dumps(x, default=json_serialise) for x in l]))]
 
 def merge_object(existing, changes):
-  if existing is None:
-    merged = OrderedDict()
-  else:
+  if isinstance(existing, dict):
     merged = OrderedDict(**existing)
+  else:
+    merged = OrderedDict()
   for key in changes.keys():
     t = type(changes[key])
     if t == dict:
