@@ -12,17 +12,26 @@ designer:
 design_class:
   name: Golant Gaffer
   id: ecdf01fb-dd46-42f7-9232-39880886de2f
-builder: 6aeadc75-b1ef-402c-837e-633dbdefa948
+builder:
+  name: Martin Peart
+  id: 6aeadc75-b1ef-402c-837e-633dbdefa948
 construction_material: woodepoxy
 construction_details: Strip plank epoxy
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 hull_form: long keel deep forefoot
+sail_number: 5
 ownerships:
 - name: Spence Mooney
   start: 2009
+  end: 2012
   share: 64
+- member: 6623
+  id: 35059
+  start: 2012
+  share: 64
+  current: true
 image_key: xkPsPF
 handicap_data:
   thcf: 0.831
