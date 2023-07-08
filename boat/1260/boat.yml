@@ -63,14 +63,14 @@ ownerships:
   share: 64
 id: 43a96ecb-d64c-4a30-8936-066e53f8e941
 image_key: W8LxxR
-thumb: https://photos.smugmug.com/photos/i-xmNCm7z/0/Th/i-xmNCm7z-Th.jpg
 handicap_data:
-  thcf: 0.93540642
   beam: 2.8956
-  draft: 0.1006
+  draft: 1.0668
+  length_over_all: 9.1441111923921
+  length_on_waterline: 7.863935625457206
+  length_on_deck: 9.144
   fore_triangle_height: 7.467690807120214
   fore_triangle_base: 4.87685930260912
-  length_over_all: 9.1441111923921
   propellor:
     type: fixed
   main:
@@ -84,7 +84,11 @@ handicap_data:
     foot: 2.6426481346013166
     head: 2.1854425749817117
     luff: 3.7094611070470616
-  length_on_waterline: 7.848695440136551
-  length_on_deck: 9.144
+  sailarea: 55.34007524879723
+  draft_keeldown: 1.6002194586686174
+  length_over_spars: 12.192148256522799
+  moving_keel: true
+  draft: 1.0668
+  length_overall: 9.144
+  moving_keel_type: Centreboard
 created_at: '2020-04-25T17:02:19.092787+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
