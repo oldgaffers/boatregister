@@ -3,8 +3,7 @@ oga_no: 3286
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: lug
-short_description: |+
-  Teal is a Drascombe Peterboat built in 2011
+short_description: Teal is a Drascombe Peterboat built in 2011
 year: 2011
 year_is_approximate: false
 designer:
@@ -18,11 +17,12 @@ builder:
   id: 8a91362b-b565-4ad8-b73f-2622fc8c4b65
 place_built: Edinburgh
 construction_material: plywood
+spar_material: wood
 construction_details: Plywood construction
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-hull_form: long keel deep forefoot
+hull_form: centre-board dinghy
 ownerships:
 - member: 6029
   id: 898
@@ -31,18 +31,21 @@ ownerships:
   current: true
 image_key: CDdHTV
 handicap_data:
+  thcf: 0.749
   calculated_thcf: 0.749
-  beam: 1.8044
+  beam: 1.804
   draft: 0.253
   length_overall: 4.572
   length_on_deck: 4.572
-  length_on_waterline: 3.7582
+  length_on_waterline: 3.758
+  propellor:
+    type: none
   sailarea: 1
   draft_keel_down: 0.7864
   main:
-    foot: 2.919984
-    head: 2.919984
-    luff: 2.5146
+    foot: 2.92
+    head: 2.92
+    luff: 2.515
   moving_keel: true
   moving_keel_type: Centreboard
 created_at: '2020-04-25T17:47:47.60237+00:00'
