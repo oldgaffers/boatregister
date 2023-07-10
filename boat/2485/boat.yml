@@ -18,11 +18,21 @@ builder:
 place_built: Wadebridge
 construction_material: grp
 construction_details: GRP
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- asking_price: 22500
+  sales_text: |-
+    *Alice Elizabeth J*. is a Cornish Crabber mk.1 build 1979  Sail number CC 236. 
+
+    Gaff rig top sail cutter. GRP hull , teak decks. New winter and summer covers
+    2021. Yanmar 10 diesel engine. New engine mounts 2016.
+
+    Lying ashore Fareham.
+
+    Last survey 2019.
 home_country: GBR
 home_port: Bosham
-hull_form: long keel deep forefoot
+hull_form: centre-boarder
 sail_number: '236'
 ownerships:
 - member: 4010
@@ -33,11 +43,11 @@ ownerships:
 image_key: qPFF49
 handicap_data:
   thcf: 0.876
-  beam: 2.4384
-  draft: 0.7376
+  beam: 2.438
+  draft: 0.738
   fore_triangle_height: 5.6388685686417945
   fore_triangle_base: 4.114850036576445
-  length_on_deck: 7.3152
+  length_on_deck: 7.315
   length_on_waterline: 6.1722750548646665
   propellor:
     blades: 3
