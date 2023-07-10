@@ -3,12 +3,12 @@ oga_no: 3239
 generic_type: Dinghy
 rig_type: Single Sail
 mainsail_type: lug
-short_description: <p>Le Rosbif is a Ilur design built over 5 years by her first owner
-  Chris Allender.</p>
+short_description: Le Rosbif is a Ilur design built over 5 years by her first owner
+  Chris Allender.
 year: 2015
 year_is_approximate: false
 designer:
-  name: "Fran\xE7ois Vivier"
+  name: François Vivier
   id: f8f01050-235c-4793-b62b-8d3d953d173e
 design_class:
   name: Ilur
@@ -24,28 +24,30 @@ selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Weymouth
-hull_form: long keel deep forefoot
+hull_form: centre-board dinghy
 ownerships:
 - member: 4762
   id: 507
   start: 2010
   share: 64
   current: true
-id: 55ff309d-73ec-4e94-9a4d-58408a50fe93
 image_key: 5gXQbv
 handicap_data:
-  beam: 1.7008
-  draft: 0.6797
+  thcf: 0.78
+  beam: 1.701
+  draft: 0.68
+  length_overall: 4.4409
+  length_on_deck: 4.441
+  length_on_waterline: 4.1
+  length_over_spars: 4.4409
+  propellor:
+    type: none
   sailarea: 1
   main:
-    foot: 3.630168
-    head: 3.450336
-    luff: 2.700528
+    foot: 3.63
+    head: 3.45
+    luff: 2.701
   moving_keel: true
-  draft: 0.6797
-  length_overall: 4.4409
   moving_keel_type: Centreboard
-  length_over_spars: 4.4409
-  length_on_waterline: 4.0996
-  length_on_deck: 4.4409
 created_at: '2020-04-25T17:46:57.097419+00:00'
+id: 55ff309d-73ec-4e94-9a4d-58408a50fe93
