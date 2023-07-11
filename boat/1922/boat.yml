@@ -4,31 +4,55 @@ rig_type: Sloop
 mainsail_type: gaff
 year: 1921
 year_is_approximate: false
+designer: 8a9c1577-78e7-4b61-8fbf-a50da02efe0a
+design_class:
+  name: 6 Metre
+  id: 70d8ab47-0b98-4c96-a4b9-1fd715c0d3fb
+builder:
+  name: Herreshoff
+  id: 417cff4f-e242-4cf3-a94c-436fa819dac6
 construction_material: wood
+spar_material: wood
+construction_method: carvel
 selling_status: not_for_sale
 for_sales: []
-hull_form: cut_away_stem
+home_country: UK
+home_port: Hamble Point
+hull_form: long keel sloping forefoot
+sail_number: US 4
 ownerships:
 - name: Daniel Tester
   start: 2012
   share: 64
+- name: ' Simon Williams'
+  start: 2022
+  share: 64
+  current: true
 image_key: fxdkM2
 handicap_data:
-  thcf: 0.983
-  beam: 2.1336
-  draft: 1.6764
-  fore_triangle_height: 8.53450377956596
-  fore_triangle_base: 2.6670507193367468
-  length_on_deck: 8.382
-  length_on_waterline: 7.137496951962935
+  thcf: 1.007
+  beam: 2.164
+  draft: -8.839
+  fore_triangle_height: 9.174
+  fore_triangle_base: 2.438
+  length_on_deck: 8.367
+  length_on_waterline: 7.138
   propellor:
-    blades: 2
-    type: folding
-  sailarea: 44.300519673206736
+    blades: 0
+    type: none
+  sailarea: 44.301
+  topsail:
+    luff: 5.273
+    perpendicular: 2.743
   length_over_all: 8.38211411850768
   main:
-    foot: 5.943684467203121
-    head: 4.87685930260912
-    luff: 5.18166300902219
+    foot: 6.096
+    head: 5.182
+    luff: 5.182
+  displacement: 4570
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 24.82006963841127
+    thcf: 0.998
 created_at: '2020-04-25T17:12:17.689088+00:00'
 id: 30f41b43-d476-428e-b2da-f9865ccb3357
