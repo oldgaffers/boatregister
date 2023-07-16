@@ -15,11 +15,6 @@ def jsonFromYaml(b):
     print(b)
   if boat is not None:
     boat = process_html(boat)
-    hd = boat.get('handicap_data', {})
-    if 'main' in hd and 'fore_triangle_height' in hd and hd['main']['luff'] > hd['fore_triangle_height']:
-      print(boat['oga_no'], hd['main'])
-      for k in ['luff', 'foot', 'head']:
-        boat['handicap_data']['main'][k] = 0.3048*hd['main'][k]
     data = {
       "staticQueryHashes": [],
       "componentChunkName": "component---src-templates-boattemplate-jsx",
