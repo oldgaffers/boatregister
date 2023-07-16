@@ -3,10 +3,13 @@ oga_no: 3437
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  *bluejay* is a Cornish Shrimper 19, sail number 1152
-full_description: |+
-  *bluejay's* longest solo passage to date was from Plymouth to Hamble in 2019
+short_description: '*bluejay* is a Cornish Shrimper 19, sail number 1152
+
+  '
+full_description: '*bluejay''s* longest solo passage to date was from Plymouth to
+  Hamble in 2019
+
+  '
 year: 2018
 year_is_approximate: false
 design_class:
@@ -27,18 +30,15 @@ ownerships: []
 id: 3e20783a-075c-422e-a7b5-dc4b0a9d65e9
 handicap_data:
   beam: 2.1854
-  draft: 0.4815898561326506
+  draft: 0.4572
   fore_triangle_height: 4.6482
   fore_triangle_base: 2.539
-  sailarea: 18
   main:
-    foot: 11.5
-    head: 10.17
-    luff: 11
+    foot: 3.5052000000000003
+    head: 3.099816
+    luff: 3.3528000000000002
   moving_keel: true
-  draft: 0.4572
   length_overall: 5.8674
-  calculated_thcf: 0.824
   draft_keel_down: 1.2192
   moving_keel_type: Centreboard
   length_over_spars: 6.858

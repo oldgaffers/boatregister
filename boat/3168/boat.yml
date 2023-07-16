@@ -3,7 +3,7 @@ oga_no: 3168
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: "<p>2\xBD ton Hillyard</p>"
+short_description: <p>2½ ton Hillyard</p>
 full_description: <p>Full restoration started December 2013.</p>
 year: 1935
 year_is_approximate: false
@@ -36,11 +36,10 @@ handicap_data:
   fore_triangle_height: 3.9624
   fore_triangle_base: 1.8288
   main:
-    foot: 12.5
-    head: 8
-    luff: 11
+    foot: 3.81
+    head: 2.4384
+    luff: 3.3528000000000002
   length_overall: 5.4864
-  calculated_thcf: 0.81
   length_over_spars: 6.096
   length_on_waterline: 5.1816
   length_on_deck: 5.4864

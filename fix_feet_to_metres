@@ -7,7 +7,7 @@ from helpers import dump
 def fix_feet_to_metres(boat):
   hd = boat.get('handicap_data', {})
   m = hd.get('main', {})
-  if 'fore_triangle_height' in hd and 'luff' in m and 'head' in m and m['luff'] > 3*hd['fore_triangle_height']:
+  if 'fore_triangle_height' in hd and 'luff' in m and 'head' in m and m['luff'] > 2*hd['fore_triangle_height']:
     print(boat['oga_no'], hd['fore_triangle_height'], m)
     for k in ['luff', 'foot', 'head']:
         m[k] = 0.3048*m[k]
