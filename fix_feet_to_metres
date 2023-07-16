@@ -1,0 +1,38 @@
+#!/usr/bin/env python3
+import sys
+from os import listdir
+import yaml
+from helpers import dump
+
+def fix_feet_to_metres(boat):
+  hd = boat.get('handicap_data', {})
+  m = hd.get('main', {})
+  if 'fore_triangle_height' in hd and 'luff' in m and 'head' in m and m['luff'] > hd['fore_triangle_height']:
+    print(boat['oga_no'], m)
+    for k in ['luff', 'foot', 'head']:
+        m[k] = 0.3048*m[k]
+    boat['handicap_data']['main'] = m
+    return boat
+  return None
+
+def process(b):
+  boat = None
+  path = f"boat/{b}/boat.yml"
+  try:
+    with open(path, "r", encoding='utf-8') as stream:
+      boat = yaml.safe_load(stream)
+  except:
+    print(b)
+  if boat is not None:
+    boat = fix_feet_to_metres(boat)
+    if boat is not None:
+        with open(path, 'w') as outfile:
+            dump(boat, outfile)
+
+if __name__ == '__main__':
+  if len(sys.argv) == 2:
+    process(sys.argv[1])
+  else:
+    boats = listdir('boat')
+    for b in boats:
+      process(b)
