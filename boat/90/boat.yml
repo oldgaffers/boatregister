@@ -3,9 +3,11 @@ oga_no: 90
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-full_description: '<p>Log 77/2, 78/1, Undergoing restoration in 2022</p>
+full_description: |-
+  Log 77/2, 78/1, 
 
-  <p><br></p>'
+  Undergoing restoration in 2022. Transom replaced by 2023, with with work ongoing
+  on the side decks and planking near the stern.
 year: 1923
 year_is_approximate: false
 designer:
@@ -30,22 +32,27 @@ ownerships:
 - name: R K Long
   start: 1986
   share: 64
-id: bf06cf99-521a-4645-966e-bccf4d2a4d7a
+- start: 1986
+  share: 1
+- name: R K Long
+  start: 1986
+  share: 64
+  current: true
 handicap_data:
   thcf: 0.982
   beam: 2.286
-  draft: 1.0668
+  draft: 1.067
   fore_triangle_height: 4.26725188978298
   fore_triangle_base: 2.43842965130456
-  length_over_all: 7.924896366739819
+  length_on_deck: 7.925
+  length_on_waterline: 7.010485247500609
   propellor:
     type: fixed
   sailarea: 55.05622269267997
+  length_over_all: 7.924896366739819
   main:
     foot: 5.4864667154352595
     head: 4.26725188978298
     luff: 9.75371860521824
-  length_on_waterline: 7.010485247500609
-  length_on_deck: 7.9248
 created_at: '2020-04-25T16:43:48.084274+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: bf06cf99-521a-4645-966e-bccf4d2a4d7a
