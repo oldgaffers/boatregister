@@ -3,13 +3,14 @@ oga_no: 90
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: A one off, designed by Alfred Mylne
-full_description: 
-  Took part in the NW area race in 1976. Sometimes spelled Gighia. Described in
-  the 1976/3 log as a "Mylne designed Scottish Island's class 26 footer", the
-  class information indicates different dimensions and dates the class from 1929.
-  When originally placed on the OGA boat register she was described as a one off
-  design.
+short_description: Clyde Day Sailer
+full_description: |-
+  Sometimes spelled *Gighia*,
+  *Gigha* is a one-off Alfred Mylne designed centre-board sloop, design number 294.
+  Owned first in the Clyde and then from 1956 in Northumberland, home port in the 1970's was Amble.
+  Took part in the NW area race in 1976. 
+  Described in the 1976/3 log as a "Myne designed Scottish Island's class 26 footer",
+  but this was a mistake as the Scottish Island class is larger and dates from 1929.
 
   Undergoing restoration in 2022. Transom replaced by 2023, with with work ongoing
   on the side decks and planking near the stern.
@@ -19,9 +20,9 @@ designer:
   name: Alfred Mylne
   id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
 builder:
-  name: Slipway Bute
+  name: Bute Slip Dock Co.
   id: 0e95d174-49f9-4481-9b8d-bd7dff1d3171
-place_built: Clydeside
+place_built: Clydeside (Ardmaleish Boat Yard)
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Mahogany on oak
@@ -29,6 +30,7 @@ selling_status: not_for_sale
 for_sales: []
 hull_form: long keel deep forefoot
 reference:
+- Log 76/3
 - Log 77/2
 - Log 78/1
 ownerships:
@@ -38,13 +40,12 @@ ownerships:
   share: 64
 - name: John Bird
   start: 1973
-  end:
+  end: 1986
   share: 64
 - name: R K Long
   start: 1986
   share: 64
   current: true
-- start: 1986
 handicap_data:
   thcf: 0.982
   beam: 2.286
