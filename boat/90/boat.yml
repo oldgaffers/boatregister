@@ -3,12 +3,13 @@ oga_no: 90
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-full_description: |-
-  full_description: |-
-  Took part in the NW area race in 1976. 
-  Sometimes spelled Gighia.
-  Described in the 1976/3 log as a "Myne designed Scottish Island's class 26 footer",
-  the class information indicates different dimensions and dates the class from 1929.
+short_description: A one off, designed by Alfred Mylne
+full_description: 
+  Took part in the NW area race in 1976. Sometimes spelled Gighia. Described in
+  the 1976/3 log as a "Mylne designed Scottish Island's class 26 footer", the
+  class information indicates different dimensions and dates the class from 1929.
+  When originally placed on the OGA boat register she was described as a one off
+  design.
 
   Undergoing restoration in 2022. Transom replaced by 2023, with with work ongoing
   on the side decks and planking near the stern.
@@ -31,17 +32,19 @@ reference:
 - Log 77/2
 - Log 78/1
 ownerships:
-- name: Bob Long
-  current: true
+- name: John Johnson
+  start: 1956
+  end: 1973
+  share: 64
+- name: John Bird
+  start: 1973
+  end:
+  share: 64
 - name: R K Long
   start: 1986
   share: 64
+  current: true
 - start: 1986
-  share: 1
-- name: R K Long
-  start: 1986
-  share: 64
-  current: true
 handicap_data:
   thcf: 0.982
   beam: 2.286
