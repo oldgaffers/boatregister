@@ -20,8 +20,12 @@ builder:
 place_built: falmouth
 construction_material: grp
 spar_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
+- date_sold: '2023-07-09T23:00:00.000Z'
+  sale_price: 28000
+- date_sold: '2023-07-17T09:23:20.592Z'
+  sale_price: 28000
 - asking_price: 28000
   sales_text: |-
     Built by Martin Heard in the early eighties, she had a major refit 2013/14
@@ -45,8 +49,6 @@ for_sales:
 
 
     Curently hauled out at Calstock Boat yard on the River Tamar.
-- date_sold: '2023-07-17T09:23:20.592Z'
-  sale_price: 28000
 home_country: England
 home_port: Plymouth
 hull_form: long keel sloping forefoot
@@ -61,6 +63,11 @@ ownerships:
   id: 625
   start: 2013
   end: 2023
+  share: 64
+- name: Pete Sharp
+  member: 5344
+  id: 625
+  start: 2013
   share: 64
 - name: ' Colin Appleby'
   start: 2018
