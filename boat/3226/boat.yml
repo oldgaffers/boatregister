@@ -6,7 +6,8 @@ mainsail_type: gaff
 short_description: Black Goose is a Cornish Trader built in 1979.
 full_description: |-
   In 2014 she had new masts, engine and rigging, and her lifting keel was
-  overhauled.
+  overhauled. Prior to this Peter Eccleston owned 'Black Goose' for 30 years. Gordon Fraser was her third
+    owner.
 year: 1979
 year_is_approximate: false
 designer:
@@ -28,24 +29,22 @@ home_port: Birdham, Chichester
 hull_form: long keel deep forefoot
 uk_part1: '701104'
 ownerships:
-- end: 30
-  note: Peter Eccleston owned 'Black Goose' for 30 years. Gordon Fraser is her third
-    owner.
-  text: Peter Eccleston owned 'Black Goose' for
 - name: Gordon Fraser
   start: 2014
+  end: 2019
   share: 64
-- name: Gordon Fraser
-  start: 2014
+- name: Bryn Davies
+  start: 2019
   end: 2023
   share: 64
-- name: ' Estelle Budden'
+- name: Brian Budden
   start: 2023
-  share: 64
+  share: 32
   current: true
-  note: Peter Eccleston owned 'Black Goose' for 30 years. Gordon Fraser is her third
-    owner.
-  text: Peter Eccleston owned 'Black Goose' for
+  - name: ' Estelle Budden'
+  start: 2023
+  share: 32
+  current: true
 handicap_data:
   thcf: 0.936
   beam: 2.896
