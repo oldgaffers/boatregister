@@ -12,7 +12,7 @@ def jsonFromYaml(b):
     with open(f"boat/{b}/boat.yml", "r", encoding='utf-8') as stream:
       boat = yaml.safe_load(stream)
   except:
-    print(b)
+    print(f'boat with OGA number {b} has invalid YAML.')
   if boat is not None:
     boat = process_html(boat)
     data = {
