@@ -3,19 +3,28 @@ oga_no: 2929
 generic_type: Yacht
 rig_type: Cat Boat
 mainsail_type: gaff
-short_description: |+
-  A modern catboat originally imported from Florida.
+short_description: A modern catboat originally imported from Florida.
+full_description: |-
+  The Sun Cat was designed as a “new breed of catboat”. A shoal-draft daysailer
+  and overnighter that would rig quickly, sail easily, and comfortably accommodate
+  family and friends with plenty of space for gear and stores.
 
-full_description: "The Sun Cat was designed as a \u201Cnew breed of catboat\u201D\
-  . A shoal-draft daysailer\nand overnighter that would rig quickly, sail easily,\
-  \ and comfortably accommodate\nfamily and friends with plenty of space for gear\
-  \ and stores.\n\n\nRob Cawley of Banbury ordered and imported the boat from Com-Pac\
-  \ Yachts in\nClearwater, Florida, 2006 and named her *Catsnip*.\n\n\nGerrard Fraser-Williams\
-  \ purchased her in 2009 to sail out of Holyhead and Cemaes\nBay, Anglesey.\n\n\n\
-  Father and son Graham and Daniel Stoker purchased her in 2021 with the goal of\n\
-  trailer-sailing her from their home waters of SW Wales and NE Essex, as well as\n\
-  participating in OGA events.\n\n\n*Catsnip* spent 2022 sailing on the Cleddau and\
-  \ has now relocated to the River\nColne for 2023.\n\n"
+
+  Rob Cawley of Banbury ordered and imported the boat from Com-Pac Yachts in
+  Clearwater, Florida, 2006 and named her *Catsnip*.
+
+
+  Gerrard Fraser-Williams purchased her in 2009 to sail out of Holyhead and Cemaes
+  Bay, Anglesey.
+
+
+  Father and son Graham and Daniel Stoker purchased her in 2021 with the goal of
+  trailer-sailing her from their home waters of SW Wales and NE Essex, as well as
+  participating in OGA events.
+
+
+  *Catsnip* spent 2022 sailing on the Cleddau and has now relocated to the River
+  Colne for 2023.
 year: 2006
 year_is_approximate: false
 designer:
@@ -32,8 +41,10 @@ construction_material: grp
 spar_material: aluminium
 selling_status: not_for_sale
 for_sales: []
-home_port: Holyhead
+home_country: UK
+home_port: Brightlingsea
 hull_form: centre-boarder
+sail_number: 5845L
 ownerships:
 - name: Rob Cawley
   start: 2006
@@ -44,6 +55,16 @@ ownerships:
   end: 2021
   share: 64
 - member: 6603
+  id: 35025
+  start: 2021
+  share: 32
+  current: true
+- name: Daniel Stoker
+  start: 2021
+  share: 32
+  current: true
+- name: Graham Stoker
+  member: 6603
   id: 35025
   start: 2021
   share: 32
@@ -64,7 +85,6 @@ handicap_data:
   sailarea: 13.936
   length_over_all: 5.282
 created_at: '2020-04-25T17:32:43.929888+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 air_draft: 26
 id: bad7f7fa-37ca-42d2-bf1a-db664422b6f6
 new_design_class: Sun Cat 17
