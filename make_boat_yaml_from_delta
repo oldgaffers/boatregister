@@ -5,6 +5,7 @@ import base64
 import sys
 from pathlib import Path
 from helpers import merge_object, map_boat, dump, process_html
+import jsonpatch
 
 if __name__ == '__main__':
   with open("pickers.json", "r") as stream:
@@ -23,7 +24,10 @@ if __name__ == '__main__':
     print(f"can't load boat {oga_no} existing yaml")
     boat = {}
   boat = process_html(boat)
-  boat = map_boat(merge_object(boat, changes), pickers)
+  if type(changes) == list:
+    boat = map_boat(jsonpatch.apply_patch(boat, changes), pickers)
+  else:
+    boat = map_boat(merge_object(boat, changes), pickers)
   outdir = f"boat/{boat['oga_no']}"
   Path(outdir).mkdir(parents=True, exist_ok=True)
   with open(f'{outdir}/boat.yml', 'w') as outfile:
