@@ -32,8 +32,7 @@ def wanted(boat):
     'length_on_deck',
     'price',
     'sale',
-    'for_hire',
-    'crewing_opportunities'
+    'sail',
     ]
     if 'selling_status' in boat and boat['selling_status'] == 'for_sale':
       boat['price'] = boat['for_sales'][0]['asking_price']
