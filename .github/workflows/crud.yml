@@ -63,7 +63,7 @@ jobs:
         fi
     - name: new designer, builder or design class
       run: |
-        echo '${{ github.event.inputs.new }}' | python -m poetry run python add_designer_items
+        python -m poetry run python add_designer_items '${{ github.event.inputs.new }}'
     - name: changed fields present
       if: "${{ github.event.inputs.changed_fields != '' }}"
       run: |
