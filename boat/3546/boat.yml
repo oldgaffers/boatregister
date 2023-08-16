@@ -3,13 +3,12 @@ oga_no: 3546
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: |+
+short_description: |-
   *Alouette* is a small gaffer based on the Breton tradition but built using
   modern materials and techniques.
-
 year: 2022
 designer:
-  name: "Fran\xE7ois Vivier"
+  name: François Vivier
   id: f8f01050-235c-4793-b62b-8d3d953d173e
 design_class:
   name: Ebihen 16
@@ -18,7 +17,7 @@ builder:
   name: Chris Harnan
   id: 81751524-a974-45ee-9d04-ca5a9f37fb19
 place_built: Nr. Petworth
-construction_material: woodepoxy
+construction_material: plywood
 spar_material: wood
 construction_method: clinker_ply
 home_country: UK
@@ -26,16 +25,24 @@ home_port: Newton Ferrers
 hull_form: centre-board dinghy
 ssr: '18668'
 ownerships:
-- id: 677
-  member: 5558
+- member: 5558
+  id: 677
   start: 2022
   share: 64
   current: true
 image_key: 5KPHc8
 handicap_data:
+  thcf: 0.79
   beam: 1.832
-  draft: 44.501
+  draft: 0.366
   length_on_deck: 4.755
-air_draft: 23.33
+  length_on_waterline: 3.688
+  propellor:
+    type: fixed
+  sailarea: 17.791
+air_draft: 7.315
 previous_names:
 - Alizon
+for_sales: []
+selling_status: not_for_sale
+year_is_approximate: false
