@@ -21,17 +21,17 @@ def update(key, item):
 
 if __name__ == '__main__':
   if len(sys.argv) == 2:
-    input = json.loads(sys.argv[1])
+    data = sys.argv[1]
   else:
     data = sys.stdin.buffer.read()
-    if data.strip() == b'':
-      print('no new items')
-      exit()
-    try:
-      input = json.loads(data)
-    except:
-      print("can't parse stdin", data)
-      input = {}
+  if data.strip() == b'':
+    print('no new items')
+    exit()
+  try:
+    input = json.loads(data)
+  except:
+    print("can't parse stdin", data)
+    input = {}
   for key in input.keys():
     print(key)
     update(key, input[key])
