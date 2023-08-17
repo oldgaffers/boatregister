@@ -1,8 +1,9 @@
 name: Ruby
 oga_no: 3534
-generic_type: Yacht
+generic_type: Pocket Cruiser
 rig_type: Sloop
 mainsail_type: gaff
+short_description: Fast, lightweight trailer sailer
 year: 2016
 year_is_approximate: false
 designer:
@@ -14,32 +15,28 @@ design_class:
 builder:
   name: Demon Yachts
   id: eb91a8b3-3bd3-436e-97cf-b238c6a09833
-place_built: Aldburgh
+place_built: Aldeburgh
 construction_material: grp
 spar_material: carbon_composite
+construction_details: Gelcoat finish, with vacuum infused vinyl ester resin, multi
+  axial glass fibre with a closed cell foam core
+previous_names: []
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: Ullswater
+home_port: 'Glasson Dock '
 hull_form: centre-boarder
 sail_number: '4'
-id: b6512b06-4d68-462b-8ab1-77c7cd229fe7
+ownerships:
+- member: 6683
+  id: 35142
+  start: 2023
+  share: 64
+  current: true
 image_key: rMg3PG
-thumb: https://photos.smugmug.com/photos/i-MQxwVqS/0/Th/i-MQxwVqS-Th.jpg
 handicap_data:
-  thcf: 0.772
-  beam: 2.0574250182882223
-  draft: 0.3048
-  length_over_all: 6.4008778346744695
-  propellor:
-    type: fixed
-  sailarea: 6.000010048637187
-  moving_keel: true
-  length_overall: 6.4008
-  draft_keel_down: 1.1948
-  moving_keel_type: Centreboard
-  length_over_spars: 7.1872
-  length_on_waterline: 6.4008778346744695
-  length_on_deck: 6.4008
-created_at: '2021-04-10T13:01:16.239947+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  beam: 2.057
+  draft: 0.253
+  length_on_deck: 6.401
+hin: GB-DEMDKT02J514
+id: b6512b06-4d68-462b-8ab1-77c7cd229fe7
