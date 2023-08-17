@@ -24,7 +24,7 @@ if __name__ == '__main__':
     data = sys.argv[1]
   else:
     data = sys.stdin.buffer.read()
-  if data.strip() == b'':
+  if data.strip() == b'' or data.strip() == '':
     print('no new items')
     exit()
   try:
