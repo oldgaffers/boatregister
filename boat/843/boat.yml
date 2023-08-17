@@ -27,9 +27,11 @@ construction_material: grp
 spar_material: wood
 construction_details: ' GRP hull over inside mould with ply deck over beams with lead
   keel'
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
-- flexibility: normal
+- date_sold: '2023-08-14T23:00:00.000Z'
+  sale_price: 15000
+  flexibility: normal
   created_at: '2023-01-14T14:48:14.177Z'
   updated_at: '2023-01-14T14:48:14.177Z'
   offered: '2023-01-14'
@@ -69,6 +71,10 @@ ownerships:
   member: 6610
   id: 35034
   start: 2020
+  end: 2023
+  share: 64
+- name: ' Sean Collins'
+  start: 2023
   share: 64
   current: true
 image_key: LnsDPq
@@ -91,3 +97,4 @@ handicap_data:
     head: 4.42
     luff: 5.639
 created_at: '2020-04-25T16:55:07.056636+00:00'
+
