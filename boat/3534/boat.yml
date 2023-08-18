@@ -36,18 +36,26 @@ ownerships:
   share: 64
   current: true
 image_key: rMg3PG
+created_at: '2021-04-10T13:01:16.239947+00:00'
 handicap_data:
-  beam: 2.057
-  draft: 0.253
-  length_on_deck: 6.4
-  thcf: 0.772
+  thcf: 0.848
+  beam: 2.1092
+  draft: 0.2804
+  fore_triangle_height: 5.4
+  fore_triangle_base: 2.16
   length_over_all: 6.4
-  propellor:
-    type: fixed
-  sailarea: 6
+  sailarea: 19.43932985730041
+  main:
+    foot: 3.97
+    head: 3.8
+    luff: 2.7
+  draft_keeldown: 1.17
+  length_on_waterline: 5.65
+  length_on_deck: 6.4
   moving_keel: true
+  length_overall: 6.4
   draft_keel_down: 1.1948
   moving_keel_type: Centreboard
   length_over_spars: 7.1872
-  length_on_waterline: 6.4
-created_at: '2021-04-10T13:01:16.239947+00:00'
+  propellor:
+    type: fixed
