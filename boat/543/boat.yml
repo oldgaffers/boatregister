@@ -3,7 +3,11 @@ oga_no: 543
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-year: 1912
+short_description: Humber Canoe Yawl
+full_description: |-
+  A small, shallow draft cruising yawl designed by George Holmes for his own use,
+  originally on the Humber and North Sea Coast. Now kept on the South Coast.
+year: 1913
 year_is_approximate: false
 designer:
   name: George F. Holmes
@@ -13,42 +17,44 @@ builder:
   id: 94919ef1-95e3-4861-aa55-c98016ebe67e
 place_built: Goole
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-construction_details: Carvel Pine on Oak Timbers
+construction_details: Carvel Larch on Oak Timbers
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
-home_port: Fareham
+home_port: Hamble
 hull_form: long keel deep forefoot
+sail_number: '543'
 ownerships:
 - member: 4752
   id: 503
   start: 2012
   share: 64
   current: true
-id: 5a874dbd-7db1-4b99-a354-b9988d177c3b
 image_key: tPhHfS
-thumb: https://photos.smugmug.com/photos/i-mZsSRZn/0/Th/i-mZsSRZn-Th.jpg
 handicap_data:
-  thcf: 0.921818783
-  beam: 2.5908
-  draft: 0.8534
-  fore_triangle_height: 7.467690807120214
-  fore_triangle_base: 2.8956352109241648
-  length_over_all: 8.53450377956596
+  thcf: 0.926
+  beam: 2.591
+  draft: 0.853
+  fore_triangle_height: 7.468
+  fore_triangle_base: 3.2
+  length_on_deck: 8.534
+  length_on_waterline: 7.224
   propellor:
-    type: fixed
     blades: 3
+    type: fixed
   main:
-    foot: 4.57205559619605
-    head: 4.114850036576445
-    luff: 4.724457449402585
+    luff: 4.633
+    foot: 4.663
+    head: 4.084
   mizzen:
-    foot: 2.7432333577176298
-    head: 2.6670324311143623
-    luff: 1.472201901975128
-  draft_keeldown: 1.6764203852718849
-  length_on_waterline: 7.071445988783223
-  length_on_deck: 8.5344
-created_at: '2020-04-25T16:50:35.427624+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+    luff: 1.472
+    foot: 2.743
+    head: 2.667
+  mizzen_topsail: {}
+  displacement: 4600
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 21.63464519077403
+    thcf: 0.948
+id: 5a874dbd-7db1-4b99-a354-b9988d177c3b
