@@ -3,7 +3,7 @@ oga_no: 4114
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Wylo Class built in 1995</p>
+short_description: Wylo Class built in 1995
 year: 1995
 year_is_approximate: false
 designer:
@@ -18,8 +18,11 @@ builder:
 place_built: Hayling Island
 construction_material: steel
 construction_details: Steel, Wood spars
+previous_names:
+- Freya
+- Black Friar
+- Black Friday
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Chichester
 sail_number: '4114'
@@ -30,31 +33,23 @@ ownerships:
   start: 2005
   share: 64
   current: true
-id: bf9cbb01-c3d0-496d-92dc-d7ec250a3003
 image_key: Sh4hSb
-thumb: https://photos.smugmug.com/photos/i-NLFwJf4/0/Th/i-NLFwJf4-Th.jpg
 handicap_data:
-  thcf: 0.96
+  thcf: 0.949
   beam: 3.301
-  draft: 1.2954
-  fore_triangle_height: 8.153517434772008
-  fore_triangle_base: 5.664283101682516
-  length_over_all: 9.75371860521824
+  draft: 1.295
+  fore_triangle_height: 8.153
+  fore_triangle_base: 5.664
+  length_on_deck: 9.754
+  length_on_waterline: 8.534
   propellor:
     type: fixed
-  sailarea: 49.75849361693953
-  main:
-    foot: 5.029273347963911
-    head: 3.1242440868080954
-    luff: 5.816672762740795
+  sailarea: 49.758
   topsail:
-    luff: 3.3528407705437697
-    perpendicular: 2.0828456474030723
-  length_on_waterline: 8.53450377956596
-  length_on_deck: 9.7536
-created_at: '2020-04-25T17:38:40.779187+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Freya
-- Black Friar
-- Black Friday
+    luff: 3.353
+    perpendicular: 2.083
+  main:
+    luff: 5.817
+    foot: 5.029
+    head: 3.124
+id: bf9cbb01-c3d0-496d-92dc-d7ec250a3003
