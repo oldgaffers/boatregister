@@ -19,34 +19,18 @@ place_built: Lymington
 construction_material: wood
 spar_material: wood
 construction_method: clinker
+selling_status: not_for_sale
 home_country: uk
 home_port: Keyhaven
 hull_form: centre-boarder
+ownerships:
+- member: 4933
+  id: 548
+  start: 2022
+  share: 64
+  current: true
 image_key: LfgVK9
 handicap_data:
-  thcf: 0.725
   beam: 1.402
   draft: 0.305
   length_on_deck: 3.399
-  length_on_waterline: 3.399
-  propellor:
-    type: none
-  sailarea: 7
-  biggest_staysail: {}
-  biggest_jib: {}
-  biggest_downwind_sail: {}
-  displacement: 100
-  solent:
-    hull_shape: Long keel - Standard
-    measured_rating: 14.537036856098752
-    thcf: 0.852
-  peformance_details: "        o Main 7.0 sq m\n        o Jib 1.0 sq m\n        o\
-    \ Spinnaker6.5 sq m\n    Weight: 100 kgs \n\nTraditionally a Scow has had only\
-    \ a mainsail and this is a requirement when racing single-handed. The Lymington\
-    \ River Scow Class Rules, allow a jib (1 sq m) to be used when racing with a crew\
-    \ and, if the combined weight of the helm and crew exceeds 22 stone (140 kgs),\
-    \ a spinnaker (6.5 sq m) is also allowed."
-newItems:
-  design_class:
-    name: Lymington River Scow
-    id: 0c6ef118-6040-4647-9736-f06d536e19b6
