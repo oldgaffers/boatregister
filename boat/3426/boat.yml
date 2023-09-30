@@ -64,12 +64,13 @@ ownerships:
   share: 64
 selling_status: for_sale
 for_sales:
-- asking_price: 25250
+- asking_price: 23000
+  original_asking_price: 25250
   created_at: 2023-03-15T22:00:00Z
   flexibility: normal
   price_flexibility:
     text: normal
-  reduced: false
+  reduced: true
   sales_text: |+
     Here we have my Sea Scamp Gaff Rig, *Oran Na Mara*.
     I'm reluctantly selling her due to a change in my health.

@@ -24,11 +24,12 @@ designer:
   id: de6ce395-680c-46f9-a90f-180310b55e8a
 place_built: Rowhedge
 construction_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - flexibility: normal
   created_at: '2023-02-17T16:57:55.858Z'
   updated_at: '2023-02-17T16:57:55.858Z'
+  sold: '2023-09-22'
   offered: '2023-02-17'
   sales_text: "All good things come to an end, and it is evident to me that my single-handed\n\
     sailing days are now limited. *Molly Cobbler* has carried me (almost) the length\n\
@@ -59,16 +60,20 @@ for_sales:
 home_country: GBR
 home_port:
 ownerships:
+- member: 6684
+  id: 35144
+  start: 2023
+  current: true
 - member: 5793
   id: 776
   share: 64
-  current: true
+  start: 2013
+  end: 2023
 - name: Bernard Patrick
   start: 1999
   end: 2013
   share: 64
 image_key: spxNNq
-thumb: https://photos.smugmug.com/photos/i-rPtGH8T/0/Th/i-rPtGH8T-Th.jpg
 handicap_data:
   beam: 2.13362594489149
   draft: 0.60960741282614
@@ -77,5 +82,4 @@ handicap_data:
   length_over_spars: 7.010485247500609
   length_over_all: 5.7912704218483295
 created_at: '2020-04-25T17:17:08.353596+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 0b79dbab-9dd2-49ff-80e2-8f90483b87e5
