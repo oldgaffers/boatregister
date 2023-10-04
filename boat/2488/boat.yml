@@ -7,24 +7,35 @@ year_is_approximate: false
 designer:
   name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
+design_class:
+  name: RNLI Watson Class
+  id: 535f81c1-763e-4948-b113-289dcafba569
 builder:
   name: Groves and Gutteridge Ltd.
   id: b93dee5a-b357-4e31-ab95-e8d3faeb1537
 place_built: Cowes IoW
 construction_material: wood
+construction_method: double_diagonal
+previous_names:
+- Civil Service No. 6
 selling_status: not_for_sale
-for_sales: []
-home_port: Glasson Dock
+home_country: UK
+hull_form: long keel deep forefoot
+nhsr: '1624'
 ownerships:
 - name: Warren Scott
   start: 1995
   end: 2020
   share: 64
-id: 0c3e3bf4-b3c6-499e-9a34-25055e992567
+- member: 6681
+  id: 35140
+  start: 2022
+  share: 64
+  current: true
+website: https://www.sandemanyachtcompany.co.uk/yacht/314/GL-Watson-46-ft-Gaff-Ketch-Motor-Sailer-1936
 image_key: MSR392
-created_at: '2020-04-25T17:21:29.34381+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Civil Service No. 6
 handicap_data:
-  length_on_deck: 0
+  beam: 3.81
+  draft: 1.295
+  length_on_deck: 14.021
+id: 0c3e3bf4-b3c6-499e-9a34-25055e992567
