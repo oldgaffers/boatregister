@@ -3,46 +3,28 @@ oga_no: 7047
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: '''Swn y Don'' is a Yachting World People''s Boat, winner of the
-  1950 YW Magazine design competition.'
-full_description: "<p>Built to a very high standard by John Sant and launched in 1964,\
-  \ &#39;Swyn y Don&#39; is a YW People&#39;s Boat.</p>\r\n\r\n<p>Her owner, David\
-  \ Tallant, cruises the coast from his home port of Poole and finds her to be a tough\
-  \ and reliable boat.</p>"
+short_description: |-
+  'Swn y Don' is a Yachting World People's Boat, winner of the 1950 YW Magazine
+  design competition.
+full_description: |-
+  Built to a very high standard by John Sant and launched in 1964, 'Swyn y Don' is
+  a YW People's Boat.
+
+
+  Her owner, David Tallant, cruises the coast from his home port of Poole and
+  finds her to be a tough and reliable boat.
 year: 1964
 year_is_approximate: false
 designer:
   name: Per Brohall
   id: be7b1db2-0a3f-4191-afe4-7f9dbb60e5bf
-design_class:
-  name: Yachting World Peoples Boatt
-  id: fc577785-95b9-4f97-9752-bbaaf6c4ae8f
 builder:
   name: J.D. Sant
   id: 73a20456-cddf-4b59-838c-a8054861e67d
 place_built: Carshalton Beeches
 construction_material: wood
 construction_details: Thames Makore Marine Ply on Oak Frames
-selling_status: for_sale
-for_sales:
-- asking_price: 6995
-  created_at: '2018-06-06T12:42:59+00:00'
-  flexibility: normal
-  offered: null
-  price_flexibility:
-    text: normal
-  reduced: false
-  sales_text: <p>"Swn y Don" is a Yachting World People"s Boat,&nbsp;winner of the
-    1950 YW Magazine design competition and built to a very high standard by John
-    Sant, launched in 1964.</p><p>Her construction is Thames Marine ply on oak, laminated
-    stem &amp; beams, epoxied below the waterline she has proved over many years to
-    be a tough and reliable boat. LOA 24" with Yanmar 1GM 10 inboard, new boom stacker
-    system, beaching legs, lifting centreplate in balast keel pllus lots of gear.</p>
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
-  updated_at: '2020-05-03T10:13:13.391928+00:00'
+selling_status: not_for_sale
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
@@ -56,25 +38,9 @@ ownerships:
 - name: David Tallant
   start: 1998
   share: 64
-id: 0a29eca8-c34b-4dc3-8fdf-d0f96c91162a
 image_key: x28N96
-thumb: https://photos.smugmug.com/photos/i-mxDJjqL/0/Th/i-mxDJjqL-Th.jpg
 handicap_data:
-  thcf: 0.86
-  beam: 2.1854
-  draft: 0.7102
-  fore_triangle_height: 6.0960741282613995
-  fore_triangle_base: 2.43842965130456
-  length_over_all: 7.315288953913679
-  propellor:
-    type: fixed
-    blades: 3
-  sailarea: 20.82820681891006
-  main:
-    foot: 3.2004389173372347
-    luff: 9.067910265788832
-  draft_keeldown: 1.21921482565228
-  length_on_waterline: 5.7912704218483295
-  length_on_deck: 7.3152
-created_at: '2020-04-25T17:43:34.184012+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+  beam: 2.185
+  draft: 0.71
+  length_on_deck: 7.315
+id: 0a29eca8-c34b-4dc3-8fdf-d0f96c91162a
