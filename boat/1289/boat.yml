@@ -62,74 +62,11 @@ spar_material: wood
 construction_method: carvel
 construction_details: Carvel pine on oak, elm keel, external lead keel, no internal
   ballast, teak brightwork.
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
-- asking_price: 22500
-  created_at: '2022-11-14T10:23:56+00:00'
-  flexibility: normal
-  price_flexibility:
-    text: normal
-  sales_text: |-
-    The 1905 gaff cutter *Lone Wolf* is in search of pastures new. It’s time for her
-    to move on, in company with enthusiastic new owners who can give her the love
-    and care she deserves. Dick & Pat Dawson found her in Rowhedge in 1983, just
-    returned to gaff rig after a Bermudian interlude. After a refit she has given
-    nearly 40 years of cruising joy in return for Dick & Pat’s support. *Lone Wolf*
-    was built by Ashton & Kilner in Poole, 26.4 ft on deck, pine on oak, bronze
-    fastened with lead keel.
-
-
-    A Yanmar 3GM diesel is fitted.
-
-
-    In 1912/13 she cruised the Baltic, and just after the First World War the
-    Mediterranean via the French canals. More recently she has remained in English
-    and French waters, cruising the English Channel from her home for the last few
-    decades in Bursledon’s Elephant Boatyard and latterly in Yarmouth, Isle of
-    Wight. Since the early 1980s she has been a regular participant in Solent Gaffer
-    events, with a sprinkling of race trophies but, more importantly, a serious
-    reputation as a party boat at gaffer and historic boat events on both sides of
-    the Channel.
-
-
-    She has a wealth of historical information and some early owners’ writings are
-    classics of the genre.
-
-
-    She is a comfortable and biddable boat; spacious for 2 and comfortable for 4,
-    always a joy to sail. Lying Yarmouth IOW
-  seller_gold_id: 34691
-  seller_member: 1439
-- asking_price: 19500
-  sales_text: |-
-    The 1905 gaff cutter *Lone Wolf* is in search of pastures new. It’s time for her
-    to move on, in company with enthusiastic new owners who can give her the love
-    and care she deserves. Dick & Pat Dawson found her in Rowhedge in 1983, just
-    returned to gaff rig after a Bermudian interlude. After a refit she has given
-    nearly 40 years of cruising joy in return for Dick & Pat’s support. *Lone Wolf*
-    was built by Ashton & Kilner in Poole, 26.4 ft on deck, pine on oak, bronze
-    fastened with lead keel.
-
-
-    A Yanmar 3GM diesel is fitted.
-
-
-    In 1912/13 she cruised the Baltic, and just after the First World War the
-    Mediterranean via the French canals. More recently she has remained in English
-    and French waters, cruising the English Channel from her home for the last few
-    decades in Bursledon’s Elephant Boatyard and latterly in Yarmouth, Isle of
-    Wight. Since the early 1980s she has been a regular participant in Solent Gaffer
-    events, with a sprinkling of race trophies but, more importantly, a serious
-    reputation as a party boat at gaffer and historic boat events on both sides of
-    the Channel.
-
-
-    She has a wealth of historical information and some early owners’ writings are
-    classics of the genre.
-
-
-    She is a comfortable and biddable boat; spacious for 2 and comfortable for 4,
-    always a joy to sail. Lying Yarmouth IOW
+- date_sold: {}
+  sale_price: 19500
+  summary: <p>final price is a guess</p>
 home_country: GBR
 home_port: Yarmouth Isle of Wight
 hull_form: long keel sloping forefoot
@@ -200,34 +137,16 @@ ownerships:
 - member: 1439
   id: 63
   start: 2014
+  end: 2023
   share: 32
-  current: true
 - member: 1439
   id: 34691
   start: 2014
+  end: 2023
   share: 32
-  current: true
 image_key: nNtLcZ
 handicap_data:
-  thcf: 0.953
   beam: 2.743
   draft: 1.676
-  fore_triangle_height: 9.753742989514752
-  fore_triangle_base: 4.775274323335771
   length_on_deck: 8.053
-  length_on_waterline: 7.620092660326749
-  length_over_spars: 10.363350402340892
-  propellor:
-    blades: 3
-    type: fixed
-  sailarea: 54.809497755984346
-  topsail:
-    luff: 5.791294806144842
-    perpendicular: 2.0828456474030723
-  length_over_all: 8.051908071202146
-  main:
-    foot: 5.054675688856376
-    head: 4.191069251402097
-    luff: 5.359479395269446
-created_at: '2020-04-25T17:02:45.856493+00:00'
 id: b9758995-6678-4beb-a17e-bf6ef4dfa628
