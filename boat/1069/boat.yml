@@ -11,54 +11,6 @@ short_description: |-
   adventures include North Wales, Ireland, Scotland, the Cumbrian Coast and not
   forgetting her years present at the Peel Traditional Boat Festival at Peel on
   the Isle of Man.
-year: 1896
-year_is_approximate: false
-designer:
-  name: Crossfield
-  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
-builder:
-  name: Crossfield
-  id: ff7b1629-680c-4aec-8744-70c7fea1a636
-place_built: Arnside
-construction_material: wood
-spar_material: wood
-construction_method: carvel
-construction_details: Pitch Pine on Oak
-selling_status: for_sale
-for_sales:
-- asking_price: 10000
-  reduced: true
-  sales_text: |-
-    A 125-Year-Old Classic  Spray is a Classic Morecambe Bay Prawner with
-    an exceptional pedigree.  Regrettably due to bereavement she is looking for
-    a new and caring custodian. No compromises have been made in her restoration
-    and her continued professional maintenance and maritime upgrades are to the
-    highest level of any Morecambe Bay Prawner.  Widely cruised and raced, she has
-    lots of trophies to her credit.  Built in 1896 by Crossfield's of Arnside, she
-    is 32\u2019 3\u201D x 9'6\u201D X 4', registered as 7.36 tons. She has accommodation
-    for four persons, two single bunks and one large (bow) double / two singles.
-    This turnkey boat comes with a large suite of sails, a self-folding propeller,
-    Garmin GPS, Maritime DSC Radio and a 4 person life-raft.    Her rigging comprises
-    two Wykeham-Martin Furling Gears along with sheets set up for one person management
-    of the mainsail. She can reach 9 knots under sail.  She runs at a reliable 7
-    knots under the power of a reliable 40 hp inboard diesel engine fitted to a
-    hydraulic gearbox with a 40 gallon fuel tank.  She has a two-burner stove below.
-home_country: GBR
-home_port: Liverpool
-hull_form: long keel sloping forefoot
-ownerships:
-- name: John T Middlebrook
-  start: 1989
-  end: 2021
-  share: 64
-website: https://www.nobbyownersassociation.co.uk/members-boats/spray-for-sale-1896-pedigree/
-id: e2f4192b-3bdf-49e5-9155-949e8d80db02
-image_key: Rf4gkr
-handicap_data:
-  beam: 2.743
-  draft: 1.219
-  length_on_deck: 9.754
-fishing_number: LR102
 full_description: |-
   SPRAY (1896) is one of the oldest Morecambe Bay Prawners still in existence..
   She was built by Crossfields of Arnside, in 1896.Crossfields were leading
@@ -140,5 +92,43 @@ full_description: |-
   a fuel tank for 40 gallons.  A reliable 40-hp inboard diesel engine fitted to a
   hydraulic gearbox. She runs at a reliable 7kts under power and can reach 9 knots
   under sail.
-previous_names: []
+year: 1896
+year_is_approximate: false
+designer:
+  name: Crossfield
+  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
+builder:
+  name: Crossfield
+  id: ff7b1629-680c-4aec-8744-70c7fea1a636
+place_built: Arnside
+construction_material: wood
+spar_material: wood
+construction_method: carvel
+construction_details: Pitch Pine on Oak
+selling_status: not_for_sale
+for_sales:
+- date_sold: {}
+  sale_price: 1
+  summary: <p>Ownership transferred to Morecambe Bay Prawner charity from the previous
+    owners estate. Price unknown</p>
+home_country: GBR
+home_port: Liverpool
+hull_form: long keel sloping forefoot
+fishing_number: LR102
 ssr: 'Yes'
+ownerships:
+- name: John T Middlebrook
+  start: 1989
+  end: 2021
+  share: 64
+- name: Morecambe Bay Prawner Charity
+  start: 2023
+  share: 64
+  current: true
+website: https://www.nobbyownersassociation.co.uk/members-boats/spray-for-sale-1896-pedigree/
+image_key: Rf4gkr
+handicap_data:
+  beam: 2.743
+  draft: 1.219
+  length_on_deck: 9.754
+id: e2f4192b-3bdf-49e5-9155-949e8d80db02
