@@ -11,6 +11,7 @@ full_description: |-
   owner Charles Stock's own design using gear from an old half-decker bought in
   1948. She took part in the 1st and 50th East Coast races.
 
+
   Over 70,000 nautical miles have been made good from Maldon between Whitby,
   Ostend and the Solent. Charles Stock wrote many books about his sailing
   activities and there are references to these on the boat's website.
@@ -19,29 +20,21 @@ year_is_approximate: false
 designer:
   name: A.C. Stock
   id: 6e4d1bc7-167b-4980-916a-654483a0aa77
-builder:
-  - name: Fairey Marine Ltd.
-    id: 97373e89-d53d-428d-a9b4-bf6c68aebd94
-  - name: A. C. Stock
-    id: 101fb6b7-4262-4e67-b6e9-8dda73683dac
 place_built: Pleshey
 construction_material: wood
+spar_material: wood
+construction_method: cold_moulded
 selling_status: for_sale
 for_sales:
 - asking_price: 5750
-  flexibility: normal
-  offered: 2023-10-13
-  price_flexibility:
-    text: normal
-  reduced: false
-  sales_text: |
-    Rare opportunity to own wooden gaff cutter Shoal Waters. Owner retiring.
-    New sails. Yard trailer. Spare original sails. 
-    Ghoster sail. Topsail. Canvas sail cover. Cockpit cover. Boat cover. Cockpit tent. 
-    Anchor, 90' chain. Binnacle Compass. Nav lights. Etc.
-    Viewed Essex. Serious enquiries only please
+  sales_text: |-
+    Rare opportunity to own wooden gaff cutter Shoal Waters. Owner retiring. New
+    sails. Yard trailer. Spare original sails.  Ghoster sail. Topsail. Canvas sail
+    cover. Cockpit cover. Boat cover. Cockpit tent.  Anchor, 90' chain. Binnacle
+    Compass. Nav lights. Etc. Viewed Essex. Serious enquiries only please
 home_country: GBR
 home_port: Maldon
+hull_form: long keel sloping forefoot
 ownerships:
 - name: Charles Stock
   start: 1963
@@ -49,8 +42,8 @@ ownerships:
   share: 64
 - name: Tony Smith
   start: 2012
-  current: true
   share: 64
+  current: true
 website: http://creeksailor.blogspot.com/
 image_key: hWgPKr
 handicap_data:
