@@ -28,8 +28,6 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2020-01-06T22:15:11+00:00'
   flexibility: normal
-  price_flexibility:
-    text: normal
   sales_text: |+
     "Anita" was built in 1972 on the River Crouch as an oyster dredger. Built of
     iroko on oak and designed by Watson. Bought by the current owners in 2005 out of
@@ -51,13 +49,12 @@ for_sales:
 home_country: GBR
 hull_form: long keel deep forefoot
 ownerships:
-- note: Mr Deval, Chris Scott
-  text: Mr Deval, Chris Scott
+- name: Mr Deval
+- name: Chris Scott
 - name: Brian and Sally Kennell
   start: 2005
   share: 64
 image_key: kB89z8
-thumb: https://photos.smugmug.com/photos/i-9WMXGt9/0/Th/i-9WMXGt9-Th.jpg
 handicap_data:
   beam: 3.2004
   draft: 0.9144

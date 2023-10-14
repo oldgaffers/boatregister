@@ -25,10 +25,9 @@ for_sales:
 - created_at: '2020-06-07T17:01:48.598429+00:00'
   flexibility: normal
   offered: '2020-06-07'
-  price_flexibility:
-    text: normal
-  reduced: null
-  sales_text: 'Built in Mylor by Martin Heard.<br/>LOD: 8.5m<br/>Draft 1.5m<br/>Beam
+  reduced: false
+  sales_text: |
+    Built in Mylor by Martin Heard.<br/>LOD: 8.5m<br/>Draft 1.5m<br/>Beam
     3.0m.<br/>Launched in 1993. The GRP hull is based on the Falmouth working boats.<br/>Decks:
     wood sheathed in epoxy.<br/>Coach roof mast and spars are all wooden. <br/>Deck
     stepped mast in tabernacle. Roller reefed main sail, staysail new 2018, jib, topsail
@@ -36,7 +35,7 @@ for_sales:
     3HM35, 30hp. New chart plotter with AIS receiver installed on cockpit bulkhead
     in 2015.<br/>Standing room from galley and chart table through to the forepeak
     and heads. 5 berths in two cabins. <br/>Plastimo Neptune 5000 two burner cooker
-    and oven, fridge and Eberspacher heater.<br/>Lying Chichester.'
+    and oven, fridge and Eberspacher heater.<br/>Lying Chichester.
   seller_gold_id: 833
   seller_member: 5908
   sold: '2020-12-01'
@@ -58,7 +57,6 @@ ownerships:
   share: 64
 id: dcc43037-3d74-4ac4-89a9-05abcfc34c50
 image_key: TG7fC9
-thumb: https://photos.smugmug.com/photos/i-69tSm2M/0/Th/i-69tSm2M-Th.jpg
 handicap_data:
   beam: 3.048
   draft: 1.6764
