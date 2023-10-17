@@ -25,11 +25,17 @@ place_built: Wadebridge
 construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
+selling_status: not_for_sale
 home_country: UK
 home_port: Helford
 hull_form: centre-boarder
 sail_number: '272'
 uk_part1: '390250'
+ownerships:
+- name: A Thompson
+  start: 2023
+  share: 64
+  current: true
 image_key: 8r5DDg
 handicap_data:
   beam: 10.058
