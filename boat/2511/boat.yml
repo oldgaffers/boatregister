@@ -1,22 +1,23 @@
 name: Grosso
 oga_no: 2511
+generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 1988
 year_is_approximate: false
-designer:
-  name: Percy Dalton
-  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
-builder:
-  name: Martin Heard
-  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
+design_class:
+  name: Heard 28
+  id: 47040682-ee05-42de-a493-400ebd5956db
 place_built: Mylor Bridge
 construction_material: grp
+spar_material: wood
 construction_details: G R P
 selling_status: for_sale
 for_sales:
-- sales_text: |-
-    Settling import tax and delivery to the UK are negotiable.
+- asking_price: 24500
+  reduced: true
+  sales_text: |-
+    price is in Euros
 
 
     Engine: Yanmar diesel 3GM30 27 pk Engine number 05696 Sleeps 4 The dinette is a
@@ -47,21 +48,12 @@ for_sales:
     Autopilot ( old ) GPS with speed, course and verity. Voltmeter, telephone
     chargers. ( 2 ) Victron 15 ah accucharger Shore connection with cable, ground
     fault and 2 x 16 ah automatic fuses. 3 Varta batter 70 ah No VHF, Depth sounder
-    and speed log. We can install modern navigational instruments. Cabin cushions
-    will be renewed to the new owners colour choice.
-  asking_price: 29500
+    and speed log. We can install modern navigational instruments.
+hull_form: long keel sloping forefoot
 uk_part1: '28255'
-ownerships: []
 image_key: 2JTzFg
 handicap_data:
   beam: 3.048
   draft: 1.524
   length_on_deck: 8.534
 id: 1dab7650-151e-44a6-b6d1-b7928ed732fe
-generic_type: Yacht
-hull_form: long keel sloping forefoot
-previous_names: []
-spar_material: wood
-design_class:
-  name: Heard 28
-  id: 47040682-ee05-42de-a493-400ebd5956db
