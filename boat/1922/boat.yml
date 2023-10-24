@@ -23,8 +23,9 @@ sail_number: US 4
 ownerships:
 - name: Daniel Tester
   start: 2012
+  end: 2022
   share: 64
-- name: ' Simon Williams'
+- name: Simon Williams
   start: 2022
   share: 64
   current: true
@@ -32,7 +33,7 @@ image_key: fxdkM2
 handicap_data:
   thcf: 1.007
   beam: 2.164
-  draft: -8.839
+  draft: 2.56
   fore_triangle_height: 9.174
   fore_triangle_base: 2.438
   length_on_deck: 8.367
