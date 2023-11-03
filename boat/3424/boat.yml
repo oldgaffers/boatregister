@@ -4,46 +4,29 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
 short_description: Truant is a Mark 1 Cheverton
-full_description: Kept at the Orwell Yacht Club and sailed by the current owner when
-  visiting the East Coast from his home in Ireland. The owner is happy to discuss
-  handing the boat on.
+full_description: |-
+  Kept at the Orwell Yacht Club and sailed by the current owner when visiting the
+  East Coast from his home in Ireland. The owner is happy to discuss handing the
+  boat on.
 year: 1965
 year_is_approximate: false
-designer:
-  name: Cheverton
-  id: b8f45269-5036-4d64-8479-93e4c2b21d12
-builder:
-  name: Cheverton
-  id: 483b31fa-c244-4202-87d5-cd08643f3e09
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: carvel mahogany on oak
 selling_status: for_sale
-for_sales:
-- asking_price: 0
-  created_at: '2020-10-31T15:53:35.202013+00:00'
-  flexibility: any
-  offered: null
-  price_flexibility:
-    text: any
-  reduced: false
-  sales_text: Truant is lying on an Orwell Yacht Club mooring which must be vacated
-    by the end of 2020. Her owner has been unable to visit and so cannot confirm her
-    condition. She is free to a good home, complete with winter cradle and hope is
-    offered towards moving her..
-  seller_gold_id: 701
-  seller_member: 5637
-  sold: null
-  summary: null
-  updated_at: '2020-10-31T15:53:35.202013+00:00'
 home_country: GBR
+home_port: Orwell
 hull_form: long keel sloping forefoot
-ownerships: []
-id: 2d143cd8-a91a-4da5-9a36-690e7707948f
+ownerships:
+- name: Christopher McNally
+  start: 1999
+  share: 64
+  current: true
 image_key: 5jtgxC
-thumb: https://photos.smugmug.com/photos/i-RHQGBhq/0/Th/i-RHQGBhq-Th.jpg
-created_at: '2020-04-25T18:37:23.484582+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 handicap_data:
-  length_on_deck: 0
+  beam: 2.286
+  draft: 0.914
+  length_on_deck: 7.01
+  length_on_waterline: 5.486
+id: 2d143cd8-a91a-4da5-9a36-690e7707948f
