@@ -1,4 +1,4 @@
-name: 'Samphire '
+name: Samphire
 oga_no: 3604
 generic_type: Dinghy
 rig_type: Ketch
@@ -10,6 +10,8 @@ place_built: 'Wirral '
 construction_material: plywood
 spar_material: wood
 construction_method: clinker_ply
+previous_names:
+- 'Samphire '
 selling_status: not_for_sale
 home_country: UK
 home_port: 'Nottingham '
@@ -21,7 +23,8 @@ ownerships:
   start: 2023
   share: 32
   current: true
-- name: Sarah Baynes
+- member: 6702
+  id: 35166
   start: 2023
   share: 32
   current: true
