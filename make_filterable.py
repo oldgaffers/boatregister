@@ -35,7 +35,8 @@ def wanted(boat):
     'sail',
     ]
     if 'selling_status' in boat and boat['selling_status'] == 'for_sale':
-      boat['price'] = boat['for_sales'][0]['asking_price']
+      for_sales = boat.get('for_sales', [{'asking_price': 0}])
+      boat['price'] = for_sales[0]['asking_price']
       boat['sale'] = True
     else:
       boat['sale'] = False
