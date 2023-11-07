@@ -22,10 +22,11 @@ year: 1896
 year_is_approximate: false
 place_built: Falmouth
 construction_material: wood
-selling_status: not_for_sale
+selling_status: for_sale
+for_sales:
+- asking_price: 8000
 home_country: GBR
 home_port: Falmouth
-hull_form: long keel sloping forefoot
 uk_part1: '105863'
 ownerships:
 - name: Peter Wynn
@@ -35,8 +36,8 @@ ownerships:
 - member: 6076
   id: 919
   start: 2017
-  end: 2023
   share: 64
+  current: true
 image_key: XZL5Sc
 handicap_data:
   beam: 2.49
