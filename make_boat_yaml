@@ -11,7 +11,7 @@ def get_boat(data, pickers):
   for field in topLevelFields:
     if field in data and data[field] is not None:
       f = data[field]
-      if field in ['builder','designer','design_class']:
+      if field in ['design_class']:
         if type(f) is dict:
           id = f['id']
         else:
