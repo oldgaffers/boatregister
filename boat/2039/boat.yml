@@ -21,18 +21,17 @@ full_description: |-
 year: 1896
 year_is_approximate: false
 designer:
-  name: T. Jacketts
+- name: T. Jacketts
   id: 05affcc2-01db-420b-94c5-54b054b1ac21
 builder:
-  name: T. Jacketts
+- name: T. Jacketts
   id: b37f906b-b441-42cb-8d9b-2cc368933de5
 place_built: Falmouth
 construction_material: wood
-selling_status: for_sale
-for_sales:
-- asking_price: 8000
+selling_status: not_for_sale
 home_country: GBR
-home_port: Ipswich
+home_port: Falmouth
+hull_form: long keel sloping forefoot
 uk_part1: '105863'
 ownerships:
 - name: Peter Wynn
@@ -42,14 +41,12 @@ ownerships:
 - member: 6076
   id: 919
   start: 2017
+  end: 2023
   share: 64
-  current: true
 image_key: XZL5Sc
 handicap_data:
   beam: 2.49
   draft: 1.753
   length_on_deck: 7.772
-  length_on_waterline: 7.010485247500609
-  length_over_all: 7.772494513533284
-created_at: '2020-04-25T17:14:04.92697+00:00'
+  length_on_waterline: 7.01
 id: bf0b0d8b-1c18-47c0-8ee3-07b3d0f63224
