@@ -6,6 +6,13 @@ import yaml
 import json
 from helpers import process_html, json_serialise
 
+def upgrade(boat):
+  if type(boat['builder']) is dict:
+    boat['builder'] = [boat['builder']]
+  if type(boat['designer']) is dict:
+    boat['designer'] = [boat['designer']]
+  return boat
+
 def jsonFromYaml(b):
   boat = None
   try:
@@ -14,6 +21,7 @@ def jsonFromYaml(b):
   except:
     print(f'boat with OGA number {b} has invalid YAML.')
   if boat is not None:
+    boat = upgrade(boat)
     boat = process_html(boat)
     data = {
       "staticQueryHashes": [],
