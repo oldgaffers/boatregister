@@ -7,9 +7,9 @@ import json
 from helpers import process_html, json_serialise
 
 def upgrade(boat):
-  if type(boat['builder']) is dict:
+  if 'builder' in boat and type(boat['builder']) is dict:
     boat['builder'] = [boat['builder']]
-  if type(boat['designer']) is dict:
+  if 'designer' in boat and  type(boat['designer']) is dict:
     boat['designer'] = [boat['designer']]
   return boat
 
