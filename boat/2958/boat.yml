@@ -11,13 +11,14 @@ designer:
   name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 builder:
-  name: Gully/Attrill and Sons
+- name: Jeremy Gully
+  id: af8b0ab6-75fd-4a82-97a5-0977968a5351
+- name: H. Attrill and Sons
   id: eb3b25e4-d8d6-4de4-bd95-89e226976c79
 place_built: Bembridge
 construction_material: wood
-construction_details: Strip plannk in Brazilian cedar Epoxied inside and out
+construction_details: Strip plank in Brazilian cedar, epoxied inside and out
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 hull_form: long keel sloping forefoot
 sail_number: S1
@@ -26,7 +27,7 @@ ownerships:
 - name: Jeremy Gully
   start: 2010
   share: 64
-id: dfff6866-9302-4795-b742-419a60217bf5
+  current: true
 handicap_data:
   thcf: 0.959776055
   beam: 2.4384
@@ -45,5 +46,4 @@ handicap_data:
     perpendicular: 2.2098268714947573
   length_on_waterline: 6.349061204584247
   length_on_deck: 8.4338
-created_at: '2020-04-25T17:33:11.256806+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
