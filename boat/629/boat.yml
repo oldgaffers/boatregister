@@ -3,29 +3,33 @@ oga_no: 629
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p><em>Cautious Clara</em> was built as a yacht in 1910.</p>
+short_description: '*Cautious Clara* was built as a yacht in 1910.'
 year: 1910
 year_is_approximate: false
 designer:
-  name: H. Gale
+- name: H. Gale
   id: 315c3cc9-dec3-4599-84d6-6ae051d19f2a
 builder:
-  name: H. Gale Co. Ltd.
+- name: H. Gale Co. Ltd.
   id: ea4fadbd-aa76-4971-9a5c-72a860b3beba
 place_built: Cowes IoW
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel
+previous_names:
+- Cautious Clara
+- Itchen
+- Cautious Clara
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Salcombe
-hull_form: long keel deep forefoot
+hull_form: long keel sloping forefoot
 uk_part1: '149309'
 ownerships:
 - member: 1377
   id: 59
+  start: 2003
   share: 32
   current: true
 - member: 1377
@@ -33,17 +37,14 @@ ownerships:
   start: 2003
   share: 32
   current: true
-id: 00a2b9ee-b607-4ed5-bee6-eb08119dc43b
+website: https://www.facebook.com/CautiousClara
 image_key: nXc9mX
-thumb: https://photos.smugmug.com/photos/i-BRJwFkZ/0/Th/i-BRJwFkZ-Th.jpg
 handicap_data:
   beam: 3.048
-  draft: 1.9812
-  length_over_all: 9.23555230431602
-  length_on_waterline: 9.052670080468177
-  length_on_deck: 9.2446
+  draft: 1.981
+  length_on_deck: 9.245
+  length_on_waterline: 9.053
+  length_over_all: 9.235
+  checked: true
 created_at: '2020-04-25T16:51:53.819901+00:00'
-updated_at: '2022-10-29T18:48:12.600646+00:00'
-previous_names:
-- Itchen
-- Cautious Clara
+id: 00a2b9ee-b607-4ed5-bee6-eb08119dc43b
