@@ -3,44 +3,68 @@ oga_no: 1591
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Believed to be a White Bros. of Itchen build, <em>Eilun</em>
-  is the last known survivor of her class.</p>
-full_description: <p>An 1896 Solent One-Design, believed to be a White Bros. of Itchen
-  build, <em>Eilun</em> is the last known survivor of her class. She has been completely
-  professionally re-built and restored 2009-2010 to the highest specification, coated
-  with epoxy inside and out and finished with epoxy paint and varnish.</p><p>She has
-  an excellent racing record with successes too many to list.</p>
+short_description: |-
+  Eilin is the last existing Solent One Design, one of the first One Design
+  classes created. Twenty-two were built between 1896 & 1904 for members of the
+  Royal Yacht Squadron and the Island Sailing Club. Eilun, is still racing and
+  winning in the Solent.
+full_description: |-
+  Eilun went to France in 1908, where Lloyds Register records she was re-named
+  Rosenn and remained on the Atlantic coast in various harbours until after the
+  Great War. She returned to England in the Twenties and spent many years on or
+  around the River Crouch.  At times she has chartered one notable charterer was
+  John Profumo but used as a cruising boat. During her time on the Crouch, she
+  underwent a major restoration her owner was a shipwright and was based up the
+  river at Fambridge until she went on the market to allow her owner to purchase a
+  boat more suited to long-distance cruising.
+
+
+  In May 2007, Rosenn was purchased by Barry Dunning and Bob Fisher, who, as part
+  of the purchasing deal, arranged for her to be brought from the Crouch to
+  Lymington. It was at this point that Rosenn reverted from cruising boat to
+  racing boat her new owners were more interested in that aspect of the sport and
+  a gradual metamorphosis began.
+
+
+  More recently she has been bought by Peter & Victoria Bonham Chritie and is
+  currently racing succesfully in the Solent.
 year: 1896
 year_is_approximate: false
 designer:
-  name: Herbert W. White
+- name: Herbert W. White
   id: 01881ae5-f96d-46c0-a0d8-f300213453b4
 design_class:
   name: Solent OD
   id: ab6c6f5f-1c02-4d00-b851-574be5388028
 builder:
-  name: White Bros.
+- name: White Bros.
   id: 67ee9852-ec68-4e03-9b49-5c459cb934bf
 place_built: Itchen, Southampton
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel Pitch Pine on sawn and bent oak frames
+previous_names:
+- Eilun
+- Rosenn
 selling_status: not_for_sale
 for_sales:
 - created_at: '2019-04-07T20:43:34+00:00'
   flexibility: normal
-  offered: null
   reduced: false
-  sales_text: <p>1896 Solent One-Design, completely professionally re-built and restored
-    2009-2010 to the highest specification and similarly maintained by two very careful
-    owners.&nbsp;Coated with epoxy inside and out and finished with epoxy paint and
-    varnish. Mainsail and topsail by Lawrence, headsails by Sanders, spinnakers by
-    Elvstrom and Hyde.</p><p>Navigational equipment includes compass, log, depth sounder
-    and chart table. The fully upholstered interior and cockpit cushions were replaced
-    in 2010.</p><p>Regularly serviced inboard Yanmar 1GM diesel with new bronze propeller
-    2010.</p><p>Excellent racing record (successes too many to list), a snip at this
-    price.</p>
+  sales_text: |-
+    1896 Solent One-Design, completely professionally re-built and restored
+    2009-2010 to the highest specification and similarly maintained by two very
+    careful owners. Coated with epoxy inside and out and finished with epoxy paint
+    and varnish. Mainsail and topsail by Lawrence, headsails by Sanders, spinnakers
+    by Elvstrom and Hyde.
+
+    Navigational equipment includes compass, log, depth sounder and chart table. The
+    fully upholstered interior and cockpit cushions were replaced in 2010.
+
+    Regularly serviced inboard Yanmar 1GM diesel with new bronze propeller 2010.
+
+    Excellent racing record (successes too many to list), a snip at this price.
   seller_gold_id: 580
   seller_member: 5101
   sold: '2020-12-30'
@@ -50,44 +74,40 @@ home_country: GBR
 home_port: Lymington
 hull_form: long keel deep forefoot
 sail_number: OS7
+ssr: SSR187965
 ownerships:
-- member: 5101
-  id: 580
-  end: 2020
-- name: Bob Fisher
-  start: 2007
-  share: 32
-- name: Barry Dunning
-  start: 2007
-  share: 32
 - name: Peter Bonham-Christie
-  start: 2022
+  start: 1963
   share: 64
   current: true
-id: 75e97795-8569-45ea-ae62-9d1ccf50eeb4
+- name: Barry Dunning
+  start: 2007
+  end: 2020
+  share: 32
+- member: 6173
+  id: 34705
+  start: 2007
+  end: 1953
+  share: 32
 image_key: 4pPBpj
-thumb: https://photos.smugmug.com/photos/i-wXd62sf/0/Th/i-wXd62sf-Th.jpg
 handicap_data:
-  beam: 2.3622
+  beam: 2.4
   draft: 1.6
   fore_triangle_height: 7.391
   fore_triangle_base: 5.72
-  length_over_all: 9.882
+  length_on_deck: 9.8
+  length_on_waterline: 8.71
   propellor:
-    type: fixed
     blades: 3
+    type: fixed
   sailarea: 56.586
+  topsail:
+    luff: 5.182
+    perpendicular: 1.829
+  length_over_all: 9.882
   main:
     foot: 5.995
     head: 4.776
     luff: 5.054
-  topsail:
-    luff: 5.182
-    perpendicular: 1.829
-  length_on_deck: 9.799
-  length_on_waterline: 8.01
 created_at: '2020-04-25T17:07:18.118374+00:00'
-updated_at: '2022-08-16T20:41:31.61681+00:00'
-previous_names:
-- Eilun
-- Rosenn
+id: 75e97795-8569-45ea-ae62-9d1ccf50eeb4
