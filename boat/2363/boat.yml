@@ -7,7 +7,7 @@ short_description: |-
   *Susan J* is a Heard 28, built in 1991 by Gaffers and Luggers and has cruised
   extensively.
 full_description: |-
-  *Susan J's* first owners took her through the French canals and cruised the
+  *usan J's* first owners took her through the French canals and cruised the
   Mediterranean. She had a complete refit during 2001 - 2002 at Sandbanks Yacht
   Company, Poole, including a new bowsprit, rigging, teak work and electrics.
 
@@ -34,19 +34,21 @@ full_description: |-
   Guernsey in 2021 and Milford Haven in May 2022.
 
 
-  We are hoping that *Susan J* will join the OGA60 Round Britain Cruise from
-  Plymouth in May 2023.
+  In 2023 Susan completed the OGA60 Round Britain Cruise from Plymouth, clockwise
+  via Stromness, in May 2023.
 year: 1992
 year_is_approximate: false
 designer:
-  name: Percy Dalton
+- name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 design_class:
   name: Heard 28
   id: 47040682-ee05-42de-a493-400ebd5956db
 builder:
-  name: Gaffers and Luggers
+- name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+- name: Martin Heard
+  id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
 place_built: Mylor Bridge
 construction_material: grp
 spar_material: wood
@@ -85,7 +87,7 @@ for_sales:
 home_country: GBR
 home_port: Falmouth - Helford Passage
 hull_form: long keel sloping forefoot
-sail_number: '111'
+sail_number: S j
 ssr: '48052'
 callsign: MQEN4
 ownerships:
@@ -101,24 +103,19 @@ ownerships:
   id: 176
   start: 1999
   end: 2017
-  share: 16
+  share: 30
 - member: 2686
   id: 1130
   start: 1999
   end: 2017
-  share: 16
+  share: 30
 - member: 5031
   id: 565
-  start: 1999
-  end: 2017
-  share: 32
-- member: 5870
-  id: 809
   start: 2017
   share: 32
   current: true
 - member: 5870
-  id: 1284
+  id: 809
   start: 2017
   share: 32
   current: true
@@ -132,7 +129,7 @@ handicap_data:
   fore_triangle_base: 5.87
   length_on_deck: 8.711
   length_on_waterline: 8.5
-  length_over_spars: 12.500152020848573
+  length_over_spars: 12.5
   propellor:
     blades: 3
     type: feathering
@@ -147,6 +144,6 @@ handicap_data:
     measured_rating: 23.217401043722287
     thcf: 0.973
 created_at: '2020-04-25T17:18:57.159513+00:00'
+air_draft: 30
 mmsi: '235010947'
 id: 93c15ebe-50d5-4d62-b6e1-4728fc8937c9
-air_draft: 30
