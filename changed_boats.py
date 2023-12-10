@@ -11,4 +11,4 @@ for file in files.split(' '):
     boats.append(oga_no)
   else:
     print(f'CHANGED_BOATS_FILE_{file}=not wanted')
-print(f'CHANGED_BOATS={json.dumps(boats)}')
+print(f'BOATS={json.dumps(boats)}')
