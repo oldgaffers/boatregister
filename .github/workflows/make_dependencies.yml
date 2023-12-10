@@ -31,9 +31,13 @@ jobs:
           echo ok
       - name: changed_files
         run: |
-          echo FILES=`git diff-tree --no-commit-id --name-only -r $GITHUB_SHA` >> $GITHUB_OUTPUT
+          X=`git diff-tree --no-commit-id --name-only -r $GITHUB_SHA`
+          echo $X
+          echo "FILES=$X" >> $GITHUB_OUTPUT
       - name: trigger AWS updates
         run: |
+          echo ${{ steps.changed_files }}
+          echo ${{ steps.changed_files.outputs }}
           echo ${{ steps.changed_files.outputs.FILES }}
           curl -H 'content-type: application/json' -X POST https://5li1jytxma.execute-api.eu-west-1.amazonaws.com/default/public/update -d '{}'
           echo ok
