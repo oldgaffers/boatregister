@@ -31,9 +31,11 @@ jobs:
           echo ok
       - name: changed_files
         run: |
+          git diff-tree --no-commit-id --name-only -r $GITHUB_SHA
           X=`git diff-tree --no-commit-id --name-only -r $GITHUB_SHA`
-          echo $X
-          echo "FILES=$X" >> $GITHUB_OUTPUT
+          echo "FILES=${X}"
+          echo "FILES=`git diff-tree --no-commit-id --name-only -r $GITHUB_SHA`"
+          echo "FILES=${X}" >> $GITHUB_OUTPUT
       - name: trigger AWS updates
         run: |
           echo ${{ steps.changed_files }}
