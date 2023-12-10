@@ -29,13 +29,12 @@ jobs:
         run: |
           python -m poetry run python make_filterable.py
           echo ok
-      - name: changed_files
+      - name: changed files
+        id: changed_files
         run: |
+          echo $GITHUB_SHA
           git diff-tree --no-commit-id --name-only -r $GITHUB_SHA
-          X=`git diff-tree --no-commit-id --name-only -r $GITHUB_SHA`
-          echo "FILES=${X}"
-          echo "FILES=`git diff-tree --no-commit-id --name-only -r $GITHUB_SHA`"
-          echo "FILES=${X}" >> $GITHUB_OUTPUT
+          echo "FILES=`git diff-tree --no-commit-id --name-only -r $GITHUB_SHA`" >> "$GITHUB_OUTPUT"
       - name: trigger AWS updates
         run: |
           echo ${{ steps.changed_files }}
