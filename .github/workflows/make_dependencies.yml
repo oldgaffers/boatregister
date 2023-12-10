@@ -40,14 +40,14 @@ jobs:
         env:
           CHANGED_FILES: ${{ steps.changed-files.outputs.FILES }}
         run: |
-          for i in `echo $CHANGED_FILES`; do; echo $i|grep boat|awk -F / '{ print $2 }'; done|xargs echo BOATS= >> "$GITHUB_OUTPUT"
+          python -m poetry run python changed_boats.py >> "$GITHUB_OUTPUT"
       - name: trigger AWS updates
         env:
           CHANGED_FILES: ${{ steps.changed-files.outputs.FILES }}
           CHANGED_BOATS: ${{ steps.changed-boats.outputs.BOATS }}
         run: |
           echo $CHANGED_BOATS
-          curl -H 'content-type: application/json' -X POST https://5li1jytxma.execute-api.eu-west-1.amazonaws.com/default/public/update -d "[$CHANGED_BOATS]"
+          curl -H 'content-type: application/json' -X POST https://5li1jytxma.execute-api.eu-west-1.amazonaws.com/default/public/update -d "$CHANGED_BOATS"
           echo ok
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.0
