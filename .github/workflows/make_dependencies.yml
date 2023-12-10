@@ -29,6 +29,10 @@ jobs:
         run: |
           python -m poetry run python make_filterable.py
           echo ok
+      - name: trigger AWS updates
+        run: |
+          curl -H 'content-type: application/json' -X POST https://5li1jytxma.execute-api.eu-west-1.amazonaws.com/default/public/update -d '{}'
+          echo ok
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.0
         with:
