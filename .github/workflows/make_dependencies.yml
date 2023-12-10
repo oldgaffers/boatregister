@@ -40,7 +40,7 @@ jobs:
         env:
           CHANGED_FILES: ${{ steps.changed-files.outputs.FILES }}
         run: |
-          for i in `echo $CHANGED_FILES`; do; echo $i|grep boat|awk -F / '{ print $2 }|xargs echo BOATS='; done >> "$GITHUB_OUTPUT"
+          for i in `echo $CHANGED_FILES`; do; echo $i|grep boat|awk -F / '{ print $2 }'; done|xargs echo BOATS= >> "$GITHUB_OUTPUT"
       - name: trigger AWS updates
         env:
           CHANGED_FILES: ${{ steps.changed-files.outputs.FILES }}
