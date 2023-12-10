@@ -34,7 +34,8 @@ jobs:
       - name: changed files
         id: changed-files
         run: |
-          git diff-tree --no-commit-id --name-only -r ${{ github.sha }}
+          echo `git diff-tree --no-commit-id --name-only -r $GITHUB_SHA`
+          echo `git diff-tree --no-commit-id --name-only -r ${{ github.sha }}`
           echo "FILES=`git diff-tree --no-commit-id --name-only -r ${{ github.sha }}`" >> "$GITHUB_OUTPUT"
       - name: trigger AWS updates
         env:
