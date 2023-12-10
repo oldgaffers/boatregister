@@ -3,13 +3,20 @@ oga_no: 1931
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: <p>Nutmeg was built in 1996 as Rebecca. She is a Sea Otter design
-  and a winner at the Wooden Boat Show at Greenwich 1996.</p>
-full_description: "<p>Nutmeg was built in 1996 and originally called Rebecca. Her\
-  \ name was changed in 2008. She won at the Wooden Boat Show at Greenwich, 1996.\
-  \ She is a Sea Otter design.</p>\r\n\r\n<p>Watch the My Classic Boat video here.</p>\r\
-  \n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/jsCOoKpdYiY\"\
-  \ width=\"560\"></iframe></p>"
+short_description: |
+  Nutmeg was built in 1996 as Rebecca. She is a Sea Otter design
+  and a winner at the Wooden Boat Show at Greenwich 1996.
+full_description: |
+  *Nutmeg* was built in 1996 and originally called Rebecca. Her
+  name was changed in 2008. She won at the Wooden Boat Show at Greenwich, 1996.
+  She is a Sea Otter design.
+  
+  Watch the My Classic Boat video here.
+  <iframe allowfullscreen
+    frameborder="0" height="315" width="560"
+    src="https://www.youtube.com/embed/jsCOoKpdYiY"
+  >
+  </iframe>
 year: 1996
 year_is_approximate: false
 designer:
@@ -28,7 +35,7 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2018-12-08T15:17:09+00:00'
   flexibility: normal
-  offered:
+  offered: 2008-12-08
   reduced: false
   sales_text: <p>"Nutmeg" is a Sea Otter 18, beautifully designed and built by David
     Moss. This outstanding gaff rigged yawl is in excellent condition and has been
@@ -44,13 +51,29 @@ for_sales:
   summary:
   updated_at: '2020-05-03T10:13:12.965566+00:00'
 home_country: GBR
-home_port: '[remo     Windermere'
+home_port: Windermere
 hull_form: centre-boarder
 ownerships:
-- end: 2013
-  note: 'Previous owners: 1st Mr J.Jackson, 2nd Mr R Silman, 3rd Mr D Horwer 4th Mr
-    D Hogge, 5th Mr V Powell.'
-  text: 'Previous owners:'
+- name: Mr J.Jackson
+  start: 1996
+  end: 2000
+  share: 64
+- name: Mr R Silman
+  start: 1996
+  end: 2000
+  share: 64
+- name: Mr D Horwer
+  start: 2000
+  end: 2005
+  share: 64
+- name: Mr D Hogge
+  start: 2005
+  end: 2008
+  share: 64
+- name: Mr V Powell
+  start: 2010
+  end: 2013
+  share: 64
 - name: David Maunder
   start: 2013
   end: 2021
@@ -62,7 +85,6 @@ ownerships:
   current: true
 id: ab4b1767-a337-4039-b169-3cfd3054303d
 image_key: xv5h9q
-thumb: https://photos.smugmug.com/photos/i-wXZsHDk/0/Th/i-wXZsHDk-Th.jpg
 handicap_data:
   thcf: 0.832786869
   beam: 1.8288
@@ -87,7 +109,6 @@ handicap_data:
   moving_keel: true
   moving_keel_type: Centreboard
 created_at: '2020-04-25T17:12:26.68283+00:00'
-updated_at: '2022-06-11T11:36:47.298414+00:00'
 previous_names:
 - Rebecca
 spar_material: wood
