@@ -3,53 +3,54 @@ oga_no: 3083
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: lug
-short_description: Aberrare is an Aber dinghy designed by Francois Vivier in the spirit
-  of the traditional Breton craft.
+short_description: |-
+  Aberrare is an Aber dinghy designed by Francois Vivier in the spirit of the
+  traditional Breton craft.
 year: 2012
 year_is_approximate: false
 designer:
-  name: "Fran\xE7ois Vivier"
+- name: François Vivier
   id: f8f01050-235c-4793-b62b-8d3d953d173e
 design_class:
   name: Aber
   id: c01425bf-c94f-40c1-b3e1-51f0bd2c7bce
 builder:
-  name: David Bewick
+- name: David Bewick
   id: f9d99b3a-da00-4026-94f0-afab51a59c33
 place_built: Kingsbridge
 construction_material: plywood
 spar_material: wood
 construction_method: clinker_ply
-construction_details: Clinker/wood/glued clinker ply
+construction_details: Glued clinker ply
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
+home_port: Newton Ferrers
 hull_form: centre-board dinghy
+ssr: '157013'
 ownerships:
 - member: 5558
   id: 677
   start: 2012
   share: 64
   current: true
-id: c123225c-5640-41d0-87d9-e5d9acf91ea5
 image_key: Lg3csV
-thumb: https://photos.smugmug.com/photos/i-FbG9SgV/0/Th/i-FbG9SgV-Th.jpg
 handicap_data:
   thcf: 0.782
-  beam: 1.5240185320653499
-  draft: 0.2042
-  fore_triangle_height: 4.239819556205803
-  fore_triangle_base: 1.8288222384784198
-  length_over_all: 4.331260668129724
+  beam: 1.524
+  draft: 0.204
+  fore_triangle_height: 4.24
+  fore_triangle_base: 1.829
+  length_on_deck: 4.343
+  length_on_waterline: 3.999
   propellor:
     type: none
-  sailarea: 11.685814374557658
-  main:
-    foot: 2.8986832479882954
-    head: 2.9992684711046085
-    luff: 2.09095342599366
+  sailarea: 11.686
   draft_keeldown: 0.8991709339185565
-  length_on_waterline: 3.9990246281394777
-  length_on_deck: 4.3434
+  length_over_all: 4.331
+  main:
+    foot: 2.899
+    head: 2.999
+    luff: 2.091
+  checked: true
 created_at: '2020-04-25T17:35:43.982032+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: c123225c-5640-41d0-87d9-e5d9acf91ea5
