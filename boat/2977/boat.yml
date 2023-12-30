@@ -3,33 +3,54 @@ oga_no: 2977
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
+short_description: |-
+  Quemoy is believed to have been built on the Isle of Wight around 1910 and sent
+  by rail to the Medway in the 20s with the Sea View Mermaid fleet. Her survival
+  is undoubtedly due to sturdy construction (a double skin of pitch pine on oak
+  frames) and owners who fell in love with her sweet lines.
+full_description: |-
+  Quemoy was found abandoned on a mud-berth in the Medway in the 1960s. At this
+  stage she had a small cabin and and an old Stuart Turner. She was extensively
+  restored with a new cabin and a ketch rig by a Royal Engineer. She remained in
+  Kent until she was found in a sorry state in the 1990s. Restoration was started
+  but was discontinued.
+
+
+  In 2000 she was bought by the present owner who returned her to the Isle of
+  Wight. Between 2000 and 2010 she was substantially re-built as a day boat by
+  Eddie Wade of Bembridge with a new keel and deck. Although the planking was in
+  reasonable condition it was decided to spline her and add a double-skin of
+  mahogany veneer. All oak frames and floors were replaced. Quemoy was fitted out
+  by Bill Mitchell at AA Coombes. Sails were cut by Paul Newell with a new gaff
+  rig being made in Yarmouth.
 year: 1910
-year_is_approximate: false
+year_is_approximate: true
+designer: []
+builder: []
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel plank on frame
 selling_status: not_for_sale
-for_sales: []
 home_port: Bembrigde
+hull_form: long keel sloping forefoot
 ownerships:
 - member: 4052
   id: 373
   start: 2012
   share: 64
   current: true
-id: 52f0f2a0-4cd6-4db3-b617-7bcc4c0ca9d3
 handicap_data:
   thcf: 0.867865076
-  beam: 1.8288
-  draft: 0.9662
-  fore_triangle_height: 6.147890758351622
-  fore_triangle_base: 2.5146305779078273
-  length_over_all: 6.605096317971227
-  main:
-    foot: 4.114850036576445
-    head: 3.8100463301633747
-    luff: 3.0480370641306997
-  length_on_waterline: 4.596439892709095
+  beam: 1.829
+  draft: 0.966
+  fore_triangle_height: 6.148
+  fore_triangle_base: 2.515
   length_on_deck: 6.605
+  length_on_waterline: 4.596
+  length_over_all: 6.605
+  main:
+    foot: 4.115
+    head: 3.81
+    luff: 3.048
 created_at: '2020-04-25T17:33:29.136584+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 52f0f2a0-4cd6-4db3-b617-7bcc4c0ca9d3
