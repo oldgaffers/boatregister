@@ -27,7 +27,7 @@ jobs:
       with:
         python-version: '3.11'
     - run: python -m pip install poetry==1.4.2
-    - run: python -m poetry install
+    - run: python -m poetry install    
     - name: set branch name
       run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
     - name: chose branch to checkout
@@ -42,6 +42,8 @@ jobs:
       with:
         fetch-depth: 0
         ref: ${{ env.checkout }}
+    - name: set boat name
+      run:  python -m poetry run python boat_field.py ${{ github.event.inputs.oga_no }} name >> $GITHUB_ENV
     - name: new boat test
       run: |
         if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
@@ -113,5 +115,5 @@ jobs:
           --assignee AlisonCable \
           --base main \
           --head ${{ env.branch }} \
-          --title "${{ env.change }} boat ${{ github.event.inputs.oga_no }} by ${{ github.event.inputs.email }}" \
+          --title "${{ env.change }} boat ${{ env.change }} (${{ github.event.inputs.oga_no }}) by ${{ github.event.inputs.email }}" \
           --body "additional changes can be accumulated before merging"
