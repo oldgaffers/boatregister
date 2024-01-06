@@ -7,20 +7,19 @@ short_description: She is a Cornish Crabber 24 MkV.
 year: 2021
 year_is_approximate: false
 designer:
-  name: Andrew Wolstenholme
+- name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 design_class:
   name: Cornish Crabber 24
   id: ff83f69b-9762-4ae5-9681-950b5658ad97
 builder:
-  name: Cornish Crabbers Ltd.
+- name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Wadebridge
 construction_material: grp
 spar_material: carbon_composite
 construction_method: clinker
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Emsworth
 hull_form: centre-boarder
@@ -35,8 +34,7 @@ ownerships:
   start: 2021
   share: 35
   current: true
-- name: Neil Mant
-  member: 6532
+- member: 6532
   id: 34935
   start: 2021
   share: 32
@@ -45,13 +43,22 @@ image_key: 2CNkmM
 handicap_data:
   thcf: 0.883
   beam: 2.667
-  draft: 1.402
+  draft: 0.71
   length_on_deck: 7.315
-  length_on_waterline: 6.675
+  length_on_waterline: 6.654
   propellor:
     type: fixed
-  sailarea: 33.780366877527506
+  sailarea: 33.78
   length_over_all: 7.315
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 22.149737298641455
+    thcf: 0.954
+  displacement: 2250
+  peformance_details: Our boat has a carbon fibre mast which is fitted as standard
+    on Crabber 24 mk5's
+  checked: true
 created_at: '2021-12-30T12:22:19.421344+00:00'
 hin: GB-BIH2402IE021
+mmsi: '232035903'
 id: 75f8c99b-68de-499f-ad30-3be9c8ba87cb
