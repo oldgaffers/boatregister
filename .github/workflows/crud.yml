@@ -42,8 +42,6 @@ jobs:
       with:
         fetch-depth: 0
         ref: ${{ env.checkout }}
-    - name: set boat name
-      run:  python -m poetry run python boat_field.py ${{ github.event.inputs.oga_no }} name >> $GITHUB_ENV
     - name: new boat test
       run: |
         if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
@@ -76,6 +74,8 @@ jobs:
       if: "${{ github.event.inputs.changed_fields == '' }}"
       run: |
         echo ${{ github.event.inputs.data }} | python -m poetry run python make_boat_yaml
+    - name: set boat name
+      run:  python -m poetry run python boat_field.py ${{ github.event.inputs.oga_no }} name >> $GITHUB_ENV  
     - name: stage and commit
       run: |
         git add .

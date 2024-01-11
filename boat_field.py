@@ -17,5 +17,8 @@ def get_boat(path):
 if __name__ == '__main__':
   oga_no = sys.argv[1]
   field = sys.argv[2]
-  boat = get_boat(f"boat/{oga_no}/boat.yml")
-  print(f'{field}={boat[field]}')
+  try:
+    boat = get_boat(f"boat/{oga_no}/boat.yml")
+    print(f'{field}={boat[field]}')
+  except:
+    print(f'{field}=?')
