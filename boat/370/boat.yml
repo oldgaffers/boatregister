@@ -4,7 +4,7 @@ generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
 short_description: |+
-  'Mist' was designed by Albert Strange in 1906 and built in 1907 for cruising the
+  *Mist* was designed by Albert Strange in 1906 and built in 1907 for cruising the
   western isles of Scotland.
 
 full_description: |+
@@ -50,12 +50,17 @@ for_sales:
   updated_at: '2020-05-03T10:13:13.528729+00:00'
 home_country: GBR
 ownerships:
-- start: 2021
+- name: John Krejsa
+  start: 2006
+  end: 2021
+  share: 64
+- id: 5093
+  member: 6648
+  start: 2021
   share: 64
   current: true
 website: http://www.albertstrange.org/mist/
 image_key: 8s9jXD
-thumb: https://photos.smugmug.com/photos/i-9q4PzHt/0/Th/i-9q4PzHt-Th.jpg
 handicap_data:
   beam: 2.164
   draft: 1.219
