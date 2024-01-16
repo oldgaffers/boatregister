@@ -69,7 +69,7 @@ ownerships:
   current: true
 image_key: grRdbV
 handicap_data:
-  thcf: 1.026
+  thcf: 1.024
   beam: 3.28
   draft: 1.396
   fore_triangle_height: 10.058
@@ -78,17 +78,19 @@ handicap_data:
   length_on_waterline: 8.687
   propellor:
     type: folding
+    blades: 2
   sailarea: 81.065
   topsail:
     luff: 6.706
     perpendicular: 2.438
   displacement: 12200
   main:
-    foot: 7.01
-    head: 5.029
-    luff: 5.486
+    foot: 7.163
+    head: 5.105
+    luff: 5.078
   solent:
     hull_shape: Long keel - High volume
     measured_rating: 27.366227149763233
     thcf: 1.024
+  checked: true
 id: 656e0e94-c298-408e-90e2-1bafd5bdd824
