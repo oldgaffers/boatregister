@@ -3,16 +3,7 @@ oga_no: 1462
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: Cornish Shrimper 19
-full_description: |-
-  CB May 89
-
-
-  Engine Rebiuld 2017 
-
-
-  2021 Major Internal refurb, replace standing and running rigging, Replace
-  antifoul, strip and refinish spars
+full_description: CB May 89
 year: 1987
 designer:
 - name: Roger Dongray
@@ -26,7 +17,6 @@ builder:
 place_built: Rock
 construction_material: grp
 spar_material: wood
-construction_method: cold_moulded
 previous_names:
 - Emily Ann
 - Garatania
@@ -37,8 +27,8 @@ hull_form: centre-boarder
 reference:
 - CB May 89
 sail_number: '246'
-ssr: '169435'
 callsign: MFJN9
+nsbr: '169435'
 ownerships:
 - name: Gary Pearlman
   start: 1987
@@ -63,7 +53,7 @@ ownerships:
   current: true
 image_key: R7MWpV
 handicap_data:
-  thcf: 0.821
+  thcf: 0.820610574
   beam: 2.185
   draft: 0.482
   fore_triangle_height: 4.648
@@ -72,18 +62,11 @@ handicap_data:
   length_on_waterline: 5.334
   propellor:
     type: fixed
-    blades: 2
-  sailarea: 18.023
   length_over_all: 5.867
   main:
     foot: 3.505
     head: 3.1
     luff: 3.353
-  solent:
-    hull_shape: Long keel - Low volume
-    measured_rating: 17.62516556854841
-    thcf: 0.892
-  displacement: 1070
 created_at: '2020-04-25T17:05:20.211859+00:00'
 mmsi: '232022430'
 id: 26dd90ae-4c24-4087-927c-e53673eae3bb
