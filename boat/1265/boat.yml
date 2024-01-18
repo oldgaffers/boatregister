@@ -3,42 +3,51 @@ oga_no: 1265
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Previously known as &#39;Lucy&#39;, and built by Martin Heard
-  in 1985 she has sailed extensively, visiting Brest in 1992, 1996 and 2004, Holland
-  in 1997 and 2005 and several Falmouth Festivals.</p>
-full_description: "<h3>Martin Pound, skipper of &#39;Lucy&#39;, thanks the East Coast\
-  \ Area for their hospitality</h3>\r\n\r\n<p>First published, Gaffers Log, September\
-  \ 2006</p>\r\n\r\n<blockquote>Firstly thanks to all concerned on the East Coast,\
-  \ in particular the President and Secretary, for the hospitality and all the special\
-  \ efforts that were made on behalf of OGA yachts &#39;High Barbaree&#39; and &#39;Lucy&#39;\
-  \ visiting from the Solent Area. The East Coast is a wonderful cruising area and\
-  \ I wonder now why it took so long before I made the effort to visit. The people\
-  \ are kindness itself, the scenery is beautiful, the waterways exciting to navigate,\
-  \ and the pubs fun. Every waterway has somewhere to anchor, and always seems to\
-  \ have two rivers conveniently attached and at different angles so there is always\
-  \ a sheltered anchorage.</blockquote>\r\n\r\n<blockquote>I would like to thank the\
-  \ person who so kindly ran down the banks of the Crouch trying to get my attention\
-  \ to say that a free berth had been arranged up river; sadly I was looking the other\
-  \ way. It would have saved me from the interesting experience of a full ebb and\
-  \ a strong contrary sea breeze leading down to the Spitway!</blockquote>\r\n\r\n\
-  <blockquote>I was amazed by how many Thames Barges are still plying these waters.\
-  \ I think I counted 16. Seeing them sailing is the most wonderful sight. I witnessed\
-  \ some marvellous seamanship and my congratulations to all those skippers. We had\
-  \ a great lunchtime &lsquo;lock- in&rsquo; at the Manningtree Yacht Club (Constable\
-  \ country); thank you Steve and John. I have to admit to anchoring &#39;Lucy&#39;\
-  \ at Orford and catching a lift with those wiley &lsquo;grand parents&rsquo; Tim\
-  \ and Liz Dodwell up to Snape. They were to continue on through the Netherlands\
-  \ and up the Baltic to winter the boat in Marienhamm in Finland; a great adventure\
-  \ and good example of adventure to us all.</blockquote>\r\n\r\n<blockquote>We were\
-  \ blessed with offshore winds for most of the time which allowed easy access to\
-  \ the Rivers Ore and Deben. Southwold Regatta was a memorable weekend with great\
-  \ weather and entertainment. The local brewery was extremely generous in its prizes\
-  \ and I am not quite sure what race it was that Lucy won, but 35 pints of Adnams\
-  \ best bitter was dutifully carried onboard and shipped across the North Sea for\
-  \ dispensing at the Hellevoetsluis Regatta (probably wangled by Jon so that he would\
-  \ not run dry of his best tipple!!).</blockquote>\r\n\r\n<blockquote>Thank you again\
-  \ East Coast; it was a great example of how to host a visiting Gaffer. Memorable\
-  \ days.</blockquote>"
+short_description: |-
+  Previously known as *Lucy*, and built by Martin Heard in 1985.
+  She has sailed extensively, visiting Brest in 1992, 1996 and 2004, Holland
+  in 1997 and 2005 and several Falmouth Festivals.
+full_description: |-
+   Martin Pound, skipper of *Lucy*, thanks the East Coast Area for their hospitality
+   
+   First published, Gaffers Log, September 2006
+   
+   Firstly thanks to all concerned on the East Coast,
+   in particular the President and Secretary, for the hospitality and all the special
+   efforts that were made on behalf of OGA yachts *High Barbaree* and *Lucy*
+   visiting from the Solent Area. The East Coast is a wonderful cruising area and
+   I wonder now why it took so long before I made the effort to visit. The people
+   are kindness itself, the scenery is beautiful, the waterways exciting to navigate,
+   and the pubs fun. Every waterway has somewhere to anchor, and always seems to
+   have two rivers conveniently attached and at different angles so there is always
+   a sheltered anchorage.
+   
+   I would like to thank the
+   person who so kindly ran down the banks of the Crouch trying to get my attention
+   to say that a free berth had been arranged up river; sadly I was looking the other
+   way. It would have saved me from the interesting experience of a full ebb and
+   a strong contrary sea breeze leading down to the Spitway!
+   
+   I was amazed by how many Thames Barges are still plying these waters.
+   I think I counted 16. Seeing them sailing is the most wonderful sight. I witnessed
+   some marvellous seamanship and my congratulations to all those skippers. We had
+   a great lunchtime `lock-in’ at the Manningtree Yacht Club (Constable
+   country); thank you Steve and John. I have to admit to anchoring *Lucy*
+   at Orford and catching a lift with those wiley `grand parents’ Tim
+   and Liz Dodwell up to Snape. They were to continue on through the Netherlands
+   and up the Baltic to winter the boat in Marienhamm in Finland; a great adventure
+   and good example of adventure to us all.
+   
+   We were blessed with offshore winds for most of the time which allowed easy access to
+   the Rivers Ore and Deben. Southwold Regatta was a memorable weekend with great
+   weather and entertainment. The local brewery was extremely generous in its prizes
+   and I am not quite sure what race it was that Lucy won, but 35 pints of Adnams
+   best bitter was dutifully carried onboard and shipped across the North Sea for
+   dispensing at the Hellevoetsluis Regatta (probably wangled by Jon so that he would
+   not run dry of his best tipple!!).
+   
+   Thank you again East Coast; it was a great example of how to host a visiting Gaffer. Memorable
+   days.
 year: 1985
 year_is_approximate: false
 designer:
@@ -60,11 +69,15 @@ home_port: Gosport
 hull_form: long keel deep forefoot
 sail_number: '1265'
 ownerships:
-- start: 1986
-  note: Jack Stevens owned her in 1986 and then sold her to A.J.Cox in 1987. When
-    Martin Pound bought her she had been laid up ashore for at least 2 years.
-  text: Jack Stevens owned her in
-- name: Martin Pound
+- name: Jack Stevens
+  start: 1986
+  end: 1987
+  share: 64
+- name: A J Cox
+  start: 1987
+  end: 1993
+- id: 146
+  member: 2317
   start: 1993
   end: 2009
   share: 64
@@ -79,7 +92,6 @@ ownerships:
   current: true
 id: e7d30d25-addd-4673-88f1-449c2332bb62
 image_key: GgdcHM
-thumb: https://photos.smugmug.com/photos/i-6fDFLPm/0/Th/i-6fDFLPm-Th.jpg
 handicap_data:
   thcf: 0.912
   beam: 2.4384
