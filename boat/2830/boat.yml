@@ -3,15 +3,15 @@ oga_no: 2830
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: "'Ragamuffin' is a Heard 28, built by Terry Heard in 1977, Mylor,\
-  \ Cornwall. She\nwas kept in the Netherlands from the late 1970s until recently.\_\
-  \n\n"
-full_description: "Shortly after her build 'Ragamuffin' was sold to The Netherlands,\
-  \ where she\nremained for many years. The boat and her owner played an important\
-  \ role in\nthe\_OGA-NL history. '\n\nIn 2016, she changed hands and 'Ragamuffin'\
-  \ was commissioned\_by Whaleboat for an\noverhaul with new paint finish, antifouling\
-  \ etc, completed in late 2018. She was\nsold and brought back to the UK in 2020.\_\
-  \n\n"
+short_description: |
+  *Ragamuffin* is a Heard 28, built by Terry Heard in 1977, Mylor,
+  Cornwall. She was kept in the Netherlands from the late 1970s until recently.
+full_description: |-
+  Shortly after her build *Ragamuffin* was sold to The Netherlands,
+  where she remained for many years. The boat and her owner played an important
+  role in the OGA-NL history. In 2016, she changed hands and *Ragamuffin*
+  was commissioned by Whaleboat for an overhaul with new paint finish, antifouling
+  etc, completed in late 2018. She was sold and brought back to the UK in 2020.
 year: 1977
 year_is_approximate: false
 designer:
@@ -61,13 +61,7 @@ ownerships:
   start: 2016
   end: 2019
   share: 64
-- start: 2019
-  share: 64
-  current: true
-  note: '''Ragamuffin'' was sold to Karel de Leeuw, September 2016'
-  text: '''Ragamuffin'' was sold to Karel de Leeuw, September'
 image_key: nVz44g
-thumb: https://photos.smugmug.com/photos/i-mdkBqZn/0/Th/i-mdkBqZn-Th.jpg
 handicap_data:
   thcf: 1.002962185
   beam: 2.743
@@ -89,5 +83,4 @@ handicap_data:
 created_at: '2020-04-25T17:28:19.918383+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 4e128cd8-9d21-487c-a64e-abdcc23770c4
-previous_names:
-- null
+

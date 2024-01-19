@@ -1,0 +1,49 @@
+#!/usr/bin/env python3
+import re
+import yaml
+import json
+from os import listdir
+from datetime import date, datetime
+
+def owners(boat):
+  if 'ownerships' in boat:
+    current = [o['id'] for o in boat['ownerships'] if 'id' in o and 'current' in o and o['current']]
+    if len(current) == 0:
+      current = [f"M{o['member']}" for o in boat['ownerships'] if 'member' in o and 'current' in o and o['current']]
+    return current
+  return []
+
+def get_boat(path):
+  try:
+    with open(path, "r") as stream:
+      return yaml.safe_load(stream)
+  except Exception as e:
+    print(e)
+    print('OGA', path)
+  return None
+
+def json_serial(obj):
+  if isinstance(obj, date):
+    return obj.isoformat()
+  if isinstance(obj, datetime):
+    return obj.isoformat(timespec='seconds')[:-6]+'Z'
+  raise TypeError ("Type %s not serializable" % type(obj))
+
+if __name__ == '__main__':
+  mypath='boat'
+  boats = listdir(mypath)
+  data = []
+  for b in boats:
+    boat = get_boat(f"{mypath}/{b}/boat.yml")
+    if boat is not None:
+      oga_no = int(b)
+      if 'ownerships' in boat:
+        c = [r for r in boat['ownerships'] if 'current' in r and 'id' not in r]
+        if len(c) == 1:
+          r = c[0]
+          if 'name' in r:
+            print(boat['name'], oga_no, r['name'])
+          else:
+            print(boat['name'], oga_no, r)
+        if len(c) > 1:
+          print(boat['name'], oga_no, c)

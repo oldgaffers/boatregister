@@ -4,7 +4,7 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
-  SULIS is an Oysterman 16, elegant classic design based on Falmouth working boat,
+  *Sulis* is an Oysterman 16, elegant classic design based on Falmouth working boat,
   sturdy and seaworthy
 year: 1990
 year_is_approximate: false
@@ -39,7 +39,7 @@ ownerships:
   start: 2007
   end: 2009
   share: 64
-- name: ' Michael Green'
+- name: Michael Green
   start: 2009
   end: 2021
   share: 64
@@ -47,10 +47,8 @@ ownerships:
   start: 2012
   end: 2022
   share: 64
-- name: Keith Filbey
-  start: 2012
-  share: 64
-- name: ' Andrew MCHARG'
+- id: 35151
+  member: 6691
   start: 2021
   share: 64
   current: true
