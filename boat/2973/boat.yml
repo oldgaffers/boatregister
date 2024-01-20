@@ -41,13 +41,13 @@ full_description: |-
 year: 2008
 year_is_approximate: false
 designer:
-  name: Phil Swift
+- name: Phil Swift
   id: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
 design_class:
   name: Shilling
   id: 4df50993-b7ec-4e77-9148-61f82b8e93ed
 builder:
-  name: Willow Bay Boats
+- name: Willow Bay Boats
   id: b0d65e81-46dd-427f-9c2e-b64845d09f63
 place_built: Bowness on Windermere
 construction_material: wood
@@ -56,10 +56,9 @@ construction_method: strip_planking_epoxy_sheathed
 construction_details: Cedar Strip hull with Glass epoxy covering inside and out. Iroko
   keel.Marine Ply frames, deck and cabin.Utile trim. Douglas fir spars
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Poole
-hull_form: long keel sloping forefoot
+hull_form: centre-boarder
 callsign: 2BZX2
 ownerships:
 - member: 5143
@@ -70,7 +69,7 @@ ownerships:
 website: https://sailingmargherita.blogspot.co.uk/
 image_key: kXc5hQ
 handicap_data:
-  thcf: 0.816
+  thcf: 0.795
   beam: 1.981
   draft: 0.305
   fore_triangle_height: 2.835
@@ -78,15 +77,17 @@ handicap_data:
   length_on_deck: 5.182
   length_on_waterline: 4.877
   propellor:
-    type: none
-  topsail:
-    luff: 3.981
-    perpendicular: 1.899
-  length_over_all: 5.7912704218483295
+    type: folding
+  draft_keeldown: 0.9113630821750792
+  length_over_all: 5.791
   main:
     foot: 4.551
     head: 2.999
     luff: 2.743
-  draft_keeldown: 0.9113630821750792
+  solent:
+    hull_shape: Long keel - Low volume
+    measured_rating: 15.64250528871732
+    thcf: 0.866
+  displacement: 750
 created_at: '2020-04-25T17:33:25.512885+00:00'
 id: e790430b-46aa-46f9-85dc-ca4bde9b737c
