@@ -3,56 +3,72 @@ oga_no: 1459
 generic_type: Morecambe Bay Prawner
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Nora&#39;, LR 59, was built for Robert (Rodding) Wilson
-  by William Crossfield in 1912.</p>
-full_description: "<p>&#39;Nora&#39;, a Morecambe Bay Prawner, was built by the Crossfields\
-  \ in 1912.</p>\r\n\r\n<p>The first owner, Robert (Rodding) Wilson, insured the 31&#39;\
-  \ shrimper for &pound;65 in 1926. He also insured his punt for &pound;10 paying\
-  \ a premium of 19s. 7d. John &#39;Shiney&#39; Mount insured her for &pound;60 in\
-  \ 1935, keeping her with the Mutual until 1943, when she was insured for &pound;265\
-  \ at a premium of &pound;13 0s. 5d.</p>\r\n\r\n<p>Harry Allan remembered &#39;Shiney&#39;\
-  \ Mount heading out to go prawning off Blackpool at 1 to 2 am on a foggy night in\
-  \ 1937. The Allan&rsquo;s were in &#39;Alice Allan&#39; LR 170 and &#39;Shiney&#39;\
-  \ in &#39;Nora&#39; got in amongst the Fleetwood midwater fleet. &#39;Shiney&#39;\
-  \ decided against motoring through the press of bigger boats, and put Nora&rsquo;s\
-  \ helm up to go back. Unfortunately &#39;Nora&#39; rammed &#39;Alice Allan&#39;\
-  \ broadside, cutting her down to the water and smashing the pump.</p>\r\n\r\n<p>The\
-  \ production of courlene netting caused the Morecambe Trawlers Co-operative Society\
-  \ Ltd. to close its net loft in 1953. The goodwill was sold to one of the lofts&#39;\
-  \ last apprentices, Mr E Nicholson, who holds the records of the lofts. The final\
-  \ year trading included a net made for &#39;Nora&#39; LR 59 in 1952, a 17&#39; shrimp\
-  \ trawl costing &pound;17 10s 0d.</p>\r\n\r\n<p>&#39;Nora&#39; was refitted in 1952\
-  \ for Frank Brooks, a Morecambe Chemist.</p>"
+short_description: |-
+  'Nora', LR 59, was built for Robert (Rodding) Wilson by William Crossfield in
+  1912.
+full_description: |-
+  'Nora', a Morecambe Bay Prawner, was built by the Crossfields in 1912.
+
+
+  The first owner, Robert (Rodding) Wilson, insured the 31' shrimper for £65 in
+  1926. He also insured his punt for £10 paying a premium of 19s. 7d. John
+  'Shiney' Mount insured her for £60 in 1935, keeping her with the Mutual until
+  1943, when she was insured for £265 at a premium of £13 0s. 5d.
+
+
+  Harry Allan remembered 'Shiney' Mount heading out to go prawning off Blackpool
+  at 1 to 2 am on a foggy night in 1937. The Allan’s were in 'Alice Allan' LR 170
+  and 'Shiney' in 'Nora' got in amongst the Fleetwood midwater fleet. 'Shiney'
+  decided against motoring through the press of bigger boats, and put Nora’s helm
+  up to go back. Unfortunately 'Nora' rammed 'Alice Allan' broadside, cutting her
+  down to the water and smashing the pump.
+
+
+  The production of courlene netting caused the Morecambe Trawlers Co-operative
+  Society Ltd. to close its net loft in 1953. The goodwill was sold to one of the
+  lofts' last apprentices, Mr E Nicholson, who holds the records of the lofts. The
+  final year trading included a net made for 'Nora' LR 59 in 1952, a 17' shrimp
+  trawl costing £17 10s 0d.
+
+
+  'Nora' was refitted in 1952 for Frank Brooks, a Morecambe Chemist.
 year: 1912
 year_is_approximate: false
 designer:
-  name: William Crossfield
+- name: William Crossfield
   id: da4baa22-674e-4ea8-b2c5-14aee7286837
 builder:
-  name: Wiliam Crossfield and Sons
+- name: Wiliam Crossfield and Sons
   id: d02ef310-75b8-46ab-8c53-f17b72d64671
 place_built: Arnside
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel larch planking on sawn oak frames
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Barrow in Furness
 hull_form: long keel sloping forefoot
+reference:
+- The Lancashire Nobby, Nick Miller 2009 Amberley Publishing ISBN 978 1 84868 490
+  4
+fishing_number: LR 59
+ssr: '060412'
+nsbr: '660'
 ownerships:
 - name: John (Shiney) Mount
   start: 1935
   end: 1951
   share: 64
-- start: 1952
+- name: ''
+  start: 1952
   note: '''Nora'' was in the ownership of D Edwards and A Richardson in the year 1952.'
   text: '''Nora'' was in the ownership of D Edwards and A Richardson in the year'
 - name: R Palmer
   start: 1962
   end: 1964
   share: 64
-- start: 1962
+- name: ''
+  start: 1962
   note: Mr Brooks owned her until 1962.
   text: Mr Brooks owned her until
 - name: R Birkitt
@@ -72,28 +88,25 @@ ownerships:
   start: 1978
   share: 64
   current: true
-id: 605324da-3111-4296-9474-772b4385701e
-nsbr: '660'
 image_key: 5hbvhQ
-thumb: https://photos.smugmug.com/photos/i-KxDhJdv/0/Th/i-KxDhJdv-Th.jpg
 handicap_data:
   thcf: 1.006
-  beam: 2.7432
+  beam: 2.743
   draft: 1.143
-  fore_triangle_height: 7.315288953913679
-  fore_triangle_base: 6.2484759814679345
-  length_over_all: 9.44891489880517
+  fore_triangle_height: 7.315
+  fore_triangle_base: 6.248
+  length_on_deck: 9.449
+  length_on_waterline: 8.839
   propellor:
     type: fixed
-  sailarea: 62.85972560323188
-  main:
-    foot: 6.0960741282613995
-    head: 5.18166300902219
-    luff: 4.57205559619605
+  sailarea: 62.86
   topsail:
-    luff: 6.4008778346744695
-    perpendicular: 3.0480370641306997
-  length_on_waterline: 8.83930748597903
-  length_on_deck: 9.4488
+    luff: 6.401
+    perpendicular: 3.048
+  length_over_all: 9.449
+  main:
+    foot: 6.096
+    head: 5.182
+    luff: 4.572
 created_at: '2020-04-25T17:05:17.095486+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 605324da-3111-4296-9474-772b4385701e
