@@ -1,24 +1,31 @@
 name: Saorsa
 oga_no: 3505
 rig_type: Yawl
-mainsail_type: gaff
+mainsail_type: gunter
 short_description: Original design Drascombe Drifter - bilge keel trailable cabin
   cruiser
 full_description: Gunter lug small cruiser
 year: 1980
 year_is_approximate: true
-designer: []
+designer:
+- name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 design_class:
   name: Drascombe Drifter
   id: f87e1824-67f1-4d99-a8d1-4e3ed6d5650c
 builder:
 - name: Honnor Marine Ltd.
   id: 2e1683ac-2223-480f-9412-be351f564ae9
+place_built: Totnes, Devon
 construction_material: grp
 spar_material: wood
 home_country: GBR
 home_port: Polvarth Boatyard, Percuil River, Cornwall
 sail_number: '70'
+ownerships:
+- name: An Owner
+  start: null
+  share: 64
 image_key: DpzMgR
 handicap_data:
   thcf: 0.822893903
@@ -26,8 +33,8 @@ handicap_data:
   draft: 0.61
   fore_triangle_height: 5.258
   fore_triangle_base: 2.057
-  length_on_deck: 9.144
-  length_on_waterline: 5.587
+  length_on_deck: 6.55
+  length_on_waterline: 5.59
   length_over_all: 6.553
   main:
     foot: 2.871
