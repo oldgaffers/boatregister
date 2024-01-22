@@ -4,36 +4,37 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
-  *Indian Runner*  sailed out of Poole for the first 10 years of her life. During
-  this time she undertook a number of Channel crossings.
-full_description: |-
-  *Indian Runner'*s first owner sailed her out of Poole and undertook a number of
-  Channel crossings in the first ten years of her life.  In 2022 she moved to Port
-  Hamble Marina, in the Solent.  She is entered for the OGA 60 Round Britain
-  cruise.
-
-
-  She has a lifting centreboard so is capable of entering shallow creeks and
-  harbours, plus good lead ballast for stability. She has a distinctive hinged
-  lifting bowsprit, and for the 2023 season is being fitted with a maroon
-  sprayhood.
+  *OGAIndian Runner*  is a Cornish Crabber 26, sail No. 14. She is gaff rigged
+  with a fibreglass hull, built in 2011, and took part in the 2023 Round Britain.
+full_description: "*Indian Runner is a Cornish Crabber 26. Her* first owner sailed\
+  \ her out of Poole\nand undertook a number of Channel crossings in the first ten\
+  \ years of her life.\n In 2022 she was purchased by Christine and Roger Hardman\
+  \ and moved to Hamble in\nthe Solent. She completed the OGA 60 Round Britain event\
+  \ in 2023, and is entered\nfor the Netherlands event in August 2023. \n\n\nShe has\
+  \ a lifting centreboard so is capable of entering shallow creeks and\nharbours,\
+  \ plus good lead ballast for stability, which was well tested in the\nRound Britain.\
+  \ Her sail number is 14. She has a distinctive hinged lifting\nbowsprit, and a maroon\
+  \ sprayhood."
 year_is_approximate: false
 designer:
-  name: David Thomas
+- name: David Thomas
   id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 design_class:
   name: Cornish Crabber 26
   id: 50503297-7263-4cf4-af74-102bb153bc8e
 builder:
-  name: Cornish Crabbers Ltd.
+- name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
 spar_material: wood
 selling_status: not_for_sale
-hull_form: long keel deep forefoot
+home_country: Britain
+home_port: Port Hamble
+hull_form: centre-boarder
+sail_number: '14'
 ownerships:
-- name: ' Fiona Carter'
+- name: Fiona Carter
   start: 2012
   end: 2022
   share: 64
@@ -58,12 +59,12 @@ handicap_data:
   length_on_waterline: 7.239
   propellor:
     type: fixed
-  length_over_all: 8.001097293343086
+  displacement: 4000
+  length_over_all: 8.001
   main:
-    luff: 4.596
     foot: 5.069
     head: 4.356
-  displacement: 4000
+    luff: 4.596
   solent:
     hull_shape: Long keel - Standard
     measured_rating: 21.987397930748905
