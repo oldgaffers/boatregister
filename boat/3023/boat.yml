@@ -3,8 +3,9 @@ oga_no: 3023
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>&#39;Fritha, a Norfolk Gypsy, has been sailed in the Netherlands
-  and East and South Coasts of England.</p>
+short_description: |-
+  *Fritha*, a Norfolk Gypsy, has been sailed in the Netherlands
+  and East and South Coasts of England.
 year: 1994
 year_is_approximate: false
 designer:
@@ -44,9 +45,16 @@ ownerships:
   start: 2011
   end: 2018
   share: 64
-- name: Dave and Margaret Moore
+- id: 81
+  member: 1619
   start: 2018
-  share: 64
+  share: 32
+  current: true
+- id: 1114
+  member: 1619
+  start: 2018
+  share: 32
+  current: true
 id: b5656c36-c7c0-4417-a838-bc32c9be674d
 image_key: WN7gc4
 handicap_data:
@@ -67,7 +75,6 @@ handicap_data:
   length_on_waterline: 5.410265788831992
   length_on_deck: 6.0442
 created_at: '2020-04-25T17:34:13.519722+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Senta
 - Marolle
