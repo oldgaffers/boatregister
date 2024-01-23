@@ -3,21 +3,24 @@ oga_no: 690
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: <p>Not to be confused with <em>Gweneth</em> of 1901, a cutter which
-  had been owned by the same person who commissioned this <em>Gweneth</em> of 1911.</p>
-full_description: '<p><em>Gweneth</em> was built in 1911 at Woolston and is believed
-  to be the only yacht credited solely to Robert Balderston jr. as her designer when
-  aged 25. He added Fife to his name in 1914, becoming referred to as R.B. Fife.</p>
+short_description: |-
+  Not to be confused with *Gweneth* of 1901, a cutter which had been owned by the
+  same person who commissioned this *Gweneth* of 1911.
+full_description: |-
+  *Gweneth* was built in 1911 at Woolston and is believed to be the only yacht
+  credited solely to Robert Balderston jr. as her designer when aged 25. He added
+  Fife to his name in 1914, becoming referred to as R.B. Fife.
 
-  <p>Re-located to the East Coast in 1991 and undergoing a slow restoration, which
-  has been speeded up in 2019 with her 110th anniversary approaching..</p>'
+
+  Re-located to the East Coast in 1991 and undergoing a slow restoration, which
+  has been speeded up in 2019 with her 110th anniversary approaching..
 year: 1911
 year_is_approximate: false
 designer:
-  name: R.B. Fife
+- name: R.B. Fife
   id: bdcfff6e-230b-48f0-a0fd-a2db4cb78579
 builder:
-  name: Dixon Bros and Hutchinson
+- name: Dixon Bros and Hutchinson
   id: c43fe220-ef0c-48f5-8ca1-0f1b8e7dda1c
 place_built: Woolston
 construction_material: wood
@@ -25,22 +28,26 @@ spar_material: wood
 construction_method: carvel
 construction_details: Pitch Pine & Mahogany on oak
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Pin Mill
 hull_form: long keel sloping forefoot
+reference:
+- The Yachtsman 5th January 1911 p.155
+- The Field 11th March 1911 p.461
+- OGA Newsletter 1974-1 p.24
+- OGA Newsletter 1975-3 p.7 & 8
 sail_number: '690'
 uk_part1: 131787 (cancelled in 1950s)
 ownerships:
-- name: Lt. Col. Edward Grant Wilkinson RMLI
+- name: Lt. Col. Edward Grant Wilkinson Rmli
   start: 1911
   end: 1928
   share: 64
-- name: F.B. McCrea & J. St. Clair Upton
+- name: F.B. Mccrea & J. St. Clair Upton
   start: 1929
   end: 1931
   share: '64'
-- name: Brig. R.D. Ormesby & Col. J.W. Huddlestone on behalf of Officers of the Royal
+- name: Brig. R.D. Ormesby & Col. J.W. Huddlestone On Behalf Of Officers Of The Royal
     Marines Plymouth
   start: 1931
   end: 1931
@@ -61,7 +68,7 @@ ownerships:
   start: 1946
   end: 1951
   share: 64
-- name: Mr Malcolm McKenzie
+- name: Mr Malcolm Mckenzie
   start: 1951
   end: 1952
   share: 64
@@ -69,7 +76,7 @@ ownerships:
   start: 1952
   end: 1959
   share: 64
-- name: Lt. C.P. Bodsworth R.N. (ret.)
+- name: Lt. C.P. Bodsworth R.N. (Ret.)
   start: 1959
   end: 1964
   share: 64
@@ -94,14 +101,13 @@ ownerships:
   start: 1991
   share: 64
   current: true
-id: da850719-5c1d-4f17-8d51-fcb7fe8bb76e
+website: https://flic.kr/s/aHskHU3gv5
 image_key: 2Kn4Ts
-thumb: https://photos.smugmug.com/photos/i-nJZrkV4/0/Th/i-nJZrkV4-Th.png
 handicap_data:
-  beam: 2.3378
-  draft: 1.2954
-  length_over_all: 9.698853938063886
-  length_on_waterline: 7.620092660326749
-  length_on_deck: 9.7018
+  beam: 2.338
+  draft: 1.295
+  length_on_deck: 9.702
+  length_on_waterline: 7.62
+  length_over_all: 9.699
 created_at: '2020-04-25T16:52:49.564879+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: da850719-5c1d-4f17-8d51-fcb7fe8bb76e
