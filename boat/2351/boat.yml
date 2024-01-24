@@ -7,23 +7,23 @@ short_description: Doreen C is a fibreglass Winkle Brig
 year: 1991
 year_is_approximate: false
 designer:
-- id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
-  name: Eric Bergqvist
+- name: Eric Bergqvist
+  id: 8c124eb2-33fe-43c6-804d-4a6e5ec6e799
 design_class:
   name: Winkle Brig
   id: 4989b986-84a5-42ea-81c9-72a59714c258
 builder:
-- id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
-  name: Eric Bergqvist
+- name: Eric Bergqvist
+  id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
 place_built: Fiddlers Ferry
 construction_material: grp
 spar_material: wood
 previous_names:
 - Whimbrel
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
-hull_form: long keel deep forefoot
+home_port: On trailer at home
+hull_form: centre-boarder
 sail_number: WB52
 callsign: MRAA4
 ownerships:
@@ -35,8 +35,9 @@ ownerships:
 image_key: ddKRkW
 handicap_data:
   beam: 2.033
-  draft: 0.3536
-  length_on_deck: 4.8768
-  length_over_all: 4.87685930260912
+  draft: 0.354
+  length_on_deck: 4.877
+  length_on_waterline: 4.572
+  length_over_all: 4.877
 created_at: '2020-04-25T17:18:46.334579+00:00'
 id: b0308a75-a34e-40da-90ee-604743a24d5f
