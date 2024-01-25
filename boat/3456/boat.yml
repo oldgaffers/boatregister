@@ -3,53 +3,67 @@ oga_no: 3456
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Cornish Crabber Pilot Cutter 30</p>
-full_description: "<p>The first owner made a transat from spain to Guadeloupe in 2011with\
-  \ solo return.</p>\n<p>Boat totally refitted in 2015-2016 (osmose treatment, new\
-  \ engine, new epoxy paint hull &amp; deck\u2026)</p>\n<p>Taylor diesel heater and\
-  \ Baby Blake installed 2017</p>\n<p>New sails (Jewell\u2019s) in 2020.</p>"
+short_description: Cornish Crabber Pilot Cutter 30
+full_description: |-
+  The first owner made a transat from spain to Guadeloupe in 2011with solo return.
+
+
+  Boat totally refitted in 2015-2016 (osmose treatment, new engine, new epoxy
+  paint hull & deck…)
+
+
+  Taylor diesel heater and Baby Blake installed 2017
+
+
+  New sails (Jewell’s) in 2020.
+year: 2004
 year_is_approximate: false
 designer:
-  name: Roger Dongray
+- name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Cornish Crabber Pilot Cutter 30
   id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
-  name: Cornish Crabbers Ltd.
+- name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
 construction_details: GRP
+previous_names:
+- Romain II
 selling_status: not_for_sale
-for_sales: []
 home_country: FRA
 home_port: La Rochelle
 hull_form: long keel deep forefoot
 sail_number: P54
-uk_part1: (French inscription maritime) LR C60106
 callsign: FGE4495
-mmsi: '227641710'
+uk_part1: (French inscription maritime) LR C60106
+ownerships:
+- name: An Owner
+  start: null
+  share: 64
 image_key: bLMT4V
 handicap_data:
   thcf: 0.968
-  beam: 2.8956
-  draft: 1.0668
-  fore_triangle_height: 8.0773
+  beam: 2.896
+  draft: 1.067
+  fore_triangle_height: 8.077
   fore_triangle_base: 5.974
-  length_over_all: 9.144
+  length_on_deck: 9.144
+  length_on_waterline: 7.864
+  length_over_spars: 11.887
   propellor:
     blades: 3
     type: folding
-  sailarea: 55.0842
-  main:
-    foot: 5.5779
-    head: 4.358693
-    luff: 5.05974
+  sailarea: 55.084
   topsail:
-    luff: 4.358693
-    perpendicular: 1.8593
+    luff: 4.359
+    perpendicular: 1.859
   draft_keeldown: 1.905
-  length_on_deck: 9.144
-  length_on_waterline: 7.8639356254572
-  length_over_spars: 11.88734455
+  length_over_all: 9.144
+  main:
+    foot: 5.578
+    head: 4.359
+    luff: 5.06
+mmsi: '227641710'
