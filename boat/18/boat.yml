@@ -3,9 +3,10 @@ oga_no: 18
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: bermudan
-short_description: <p>Built by Ashton and Kilner, Poole, designed by LH Ashton.&nbsp;Canoe
-  stern cutter,&nbsp;30 ft on deck, currently Bermudan, possibly to become gaff cutter,
-  watch this space!</p>
+short_description: |-
+  Built by Ashton and Kilner, Poole, designed by LH Ashton. Canoe
+  stern cutter, 30 ft on deck, currently Bermudan, possibly to become gaff cutter,
+  watch this space!
 year: 1912
 year_is_approximate: false
 designer:
@@ -18,14 +19,17 @@ place_built: Poole
 construction_material: wood
 spar_material: wood
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Walton-on-the-Naze and Pin Mill
 hull_form: long keel sloping forefoot
-ownerships: []
+ownerships:
+- id: 184
+  member: 2731
+  start: 2006
+  share: 64
+  current: true
 id: e25c23de-f060-4167-99fb-8d56249f7781
 image_key: 6FRBMM
-thumb: https://photos.smugmug.com/photos/i-7J9kWbL/0/Th/i-7J9kWbL-Th.jpg
 handicap_data:
   thcf: 0.873
   fore_triangle_height: 5.852231163130943
