@@ -40,9 +40,19 @@ sail_number: P54
 callsign: FGE4495
 uk_part1: (French inscription maritime) LR C60106
 ownerships:
-- name: An Owner
-  start: null
+- name: Bruno Carton
+  start: 2004
+  end: 2014
   share: 64
+- name: Eric Petitjean
+  start: 2014
+  end: 2017
+  share: 64
+- member: 6602
+  id: 35024
+  start: '2017'
+  share: 64
+  current: true
 image_key: bLMT4V
 handicap_data:
   thcf: 0.968
