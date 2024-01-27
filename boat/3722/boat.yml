@@ -6,46 +6,48 @@ mainsail_type: gaff
 year: 2022
 year_is_approximate: false
 designer:
-  name: Roger Dongray/David Thomas Yachts
+- name: Roger Dongray/David Thomas Yachts
   id: 7d1ad008-4263-419d-8843-d466ded0ec2c
 design_class:
   name: Cornish Shrimper 21
   id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4
 builder:
-  name: Cornish Crabbers Ltd.
+- name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Wadebridge
 construction_material: grp
 spar_material: wood
 home_country: GBR
-home_port: Dittisham
+home_port: Trailered from home
 hull_form: centre-boarder
 sail_number: '102'
+ssr: '190732'
 ownerships:
-- start: 2022
-  share: 64
+- member: 6598
   id: 35018
-  member: 6598
+  start: 2022
+  share: 64
   current: true
 image_key: HFxqmb
 handicap_data:
   thcf: 0.83
-  sailarea: 17.513
-  beam: 2.3988
+  beam: 2.399
   draft: 0.57
-  fore_triangle_height: 5.6601
-  fore_triangle_base: 3.0297
+  fore_triangle_height: 5.66
+  fore_triangle_base: 3.03
+  length_overall: 6.401
+  length_on_deck: 6.401
+  length_on_waterline: 6.099
+  length_over_spars: 7.571
+  sailarea: 17.513
+  draft_keel_down: 1.35
   main:
-    luff: 4.17
     foot: 3.871
     head: 3.319
+    luff: 4.17
   moving_keel: true
-  length_overall: 6.4008
-  draft_keel_down: 1.3503
   moving_keel_type: Centreboard
-  length_over_spars: 7.5712
-  length_on_waterline: 6.099
-  length_on_deck: 6.4008
 air_draft: 3.048
+hin: GB-BIH21102K021
+mmsi: '235929010'
 id: 9656ef09-32bb-4abd-886f-f75b7ac6d414
-
