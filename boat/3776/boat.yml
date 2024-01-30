@@ -3,8 +3,11 @@ oga_no: 3776
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: bermudan
+short_description: '*Asile* is a Westerly Pentland Ketch'
 year: 1973
 year_is_approximate: false
+designer: []
+builder: []
 place_built: Waterlooville
 construction_material: grp
 spar_material: aluminium
@@ -16,6 +19,12 @@ home_port: Arklow
 hull_form: bilge keel
 sail_number: PD20
 callsign: EIKS5
+ownerships:
+- member: 6629
+  id: 35068
+  start: 2024
+  share: 64
+  current: true
 image_key: cp8zMF
 handicap_data:
   beam: 2.438
