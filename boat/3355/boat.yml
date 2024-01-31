@@ -3,36 +3,40 @@ oga_no: 3355
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: <p>&#39;Atalanta &#39;was designed by Uffa Fox and is the first
-  prototype of the Atalanta design.</p>
-full_description: <p>&#39;Atalanta&#39; was designed by Uffa Fox in conjunction with
-  Alan Vines, and built as an experimental prototype based on experiences gained by
-  the airborne lifeboat in World War II and the building of the dinghies &#39;Firefly&#39;
-  and &#39;Albacore&#39;&nbsp;after the War. Subsequent production boats, A2 onwards,
-  were 2 feet longer and had more headroom.</p>
+short_description: |-
+  'Atalanta 'was designed by Uffa Fox and is the first prototype of the Atalanta
+  design.
+full_description: |-
+  *Atalanta* was designed by Uffa Fox in conjunction with Alan Vines, and built as
+  an experimental prototype based on experiences gained by the airborne lifeboat
+  in World War II and the building of the dinghies *Firefly* and *Albacore* after
+  the War. Subsequent production boats, A2 onwards, were 2 feet longer and had
+  more headroom.
+
+
+  She was donated to the Classic Boat Museum in Cowes in February 2024.
 year: 1955
 year_is_approximate: false
 designer:
-  name: Uffa Fox
+- name: Uffa Fox
   id: eaf77e9d-2030-46b2-946c-6838f696bd4a
 design_class:
   name: Atalanta
   id: ace0c327-6252-4ed9-9fa4-ad3da8481e14
 builder:
-  name: Fairey Marine Ltd.
+- name: Fairey Marine Ltd.
   id: 97373e89-d53d-428d-a9b4-bf6c68aebd94
 place_built: Hamble
 construction_material: wood
 construction_method: hot_moulded
 construction_details: "Hot moulded AGBA veneers\r\nTwin lifting keels"
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
-home_port: Ipswich
+home_port: Cowes
 hull_form: long keel deep forefoot
 sail_number: A1
 ownerships:
-- name: Fairey Marine demonstration boat
+- name: Fairey Marine Demonstration Boat
   start: 1955
   end: 1957
   share: 64
@@ -40,7 +44,7 @@ ownerships:
   start: 1957
   end: 1961
   share: 64
-- name: T.W. Stanier and N. Read.
+- name: T.W. Stanier And N. Read.
   start: 1961
   end: 1973
   share: 64
@@ -59,27 +63,29 @@ ownerships:
 - member: 6029
   id: 898
   start: 2016
+  end: 2024
+  share: 64
+- name: Classic Boat Museum, Cowes
+  start: 2024
   share: 64
   current: true
-id: c41ff7d8-e27d-406a-ac47-0e05a7e52f69
 image_key: vwMB8L
-thumb: https://photos.smugmug.com/photos/i-c8J6BrN/0/Th/i-c8J6BrN-Th.jpg
 handicap_data:
-  beam: 2.3378
+  calculated_thcf: 0.858
+  beam: 2.338
   draft: 0.381
   fore_triangle_height: 5.206
   fore_triangle_base: 2.667
+  length_overall: 7.391
+  length_on_deck: 7.391
+  length_on_waterline: 7.111
+  length_over_spars: 7.391
   sailarea: 6
+  draft_keel_down: 1.753
   main:
     foot: 10.5
     luff: 24.33
   moving_keel: true
-  length_overall: 7.3914
-  calculated_thcf: 0.858
-  draft_keel_down: 1.7526
   moving_keel_type: Centreboard
-  length_over_spars: 7.3914
-  length_on_waterline: 7.111
-  length_on_deck: 7.3914
 created_at: '2020-04-25T17:51:03.762651+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: c41ff7d8-e27d-406a-ac47-0e05a7e52f69
