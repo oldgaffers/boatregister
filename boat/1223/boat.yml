@@ -3,26 +3,42 @@ oga_no: 1223
 generic_type: Barge
 rig_type: Sloop
 mainsail_type: gaff
-full_description: CB Jul/Aug 88
+short_description: Barge Yacht designed by Frank Shuttlewood
+full_description: |-
+  The 35ft barge yacht *Tiny Mite* was built and designed by Frank, son of JW
+  Shuttlewood, in 1956. She was one of the only smaller barge yachts to be
+  spritsail-rigged. She was built for the Whittingham family of Rochford but by
+  the 1960s/70s she was owned by the McDowell family of East End Paglesham who
+  cruised her for many years on the East Coast.
+
+
+  *Tiny mite* was recently (2023) sold for £1 to a member of Leigh motor boat
+  club. She had been lying in their compound for many years & is by all accounts
+  in need of a considerable amount of work.
 year: 1956
 year_is_approximate: false
+designer:
+- name: Frank W. Shuttlewood
+  id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
 builder:
-  name: J.W. Shuttlewood and Sons
+- name: J.W. Shuttlewood and Sons
   id: f7e10100-9016-4757-874b-b5ca9742ef7e
 place_built: Paglesham
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
+home_port: Leigh
+hull_form: leeboarder
+reference:
+- Classic Boat Jul/Aug 1988
 ownerships:
 - name: F A Cozens & S J Shalder
   start: 2012
   share: 64
-id: 0d9052d6-38df-446a-a85a-5c0c0633cfe0
 handicap_data:
-  beam: 3.3528
+  beam: 3.353
   draft: 0.762
-  length_over_all: 10.66812972445745
-  length_on_waterline: 10.66812972445745
   length_on_deck: 10.668
+  length_on_waterline: 10.668
+  length_over_all: 10.668
 created_at: '2020-04-25T17:01:44.726627+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 0d9052d6-38df-446a-a85a-5c0c0633cfe0
