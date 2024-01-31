@@ -4,11 +4,31 @@ generic_type: Mevagissy Tosher
 rig_type: Ketch
 mainsail_type: standing lug
 short_description: Originally a registered fishing boat BR14.
+full_description: |-
+  *Chough* was purchased by Graham Coggins as a bare hull from Gaffers and Luggers
+  in 1976. He is a very skilled carpenter and finished her off beautifully with
+  teak laid side decks etc. including making all the masts and rigging. Sails were
+  made by SKB and on the main was Tosher 14. Graham then registered her as a
+  fishing boat and obtained the number BR14 which is a Bridgwater Somerset
+  registration. *Chough* changed hands in 1980 and kept the fishing registration
+  going until 2003 when she was sold. Under this ownership she cruised to Brittany
+  before being brought back to the UK.
+
+
+  After a period of neglect in Surrey *Chough* was offered back to the second
+  owner gratis at Christmas 2022. Her engine had seized solid, and there are plans
+  to replace it in the Autumn of 2024, while the rest of her is being restored to
+  her former glory by her second owner with help from Graham Coggins, her original
+  owner.
 year: 1976
 year_is_approximate: true
+designer: []
 design_class:
   name: Tosher 18
   id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
+builder:
+- name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
 place_built: Mylor Bridge
 construction_material: grp
 spar_material: wood
@@ -17,9 +37,22 @@ home_country: UK
 home_port: 'Watchet '
 hull_form: long keel deep forefoot
 ownerships:
+- name: Graham Coggins
+  start: 1976
+  end: 1980
+  share: 64
 - member: 4227
   id: 409
-  start: '1980'
+  start: 1980
+  end: 2003
+  share: 64
+- name: An Owner
+  start: 2003
+  end: 2022
+  share: 64
+- member: 4227
+  id: 409
+  start: '2022'
   share: 64
   current: true
 image_key: LRnHKK
@@ -28,5 +61,5 @@ handicap_data:
   draft: 0.814
   length_on_deck: 5.639
   length_on_waterline: 5.639
-hin: No. 14
 air_draft: 5.639
+hin: No. 14
