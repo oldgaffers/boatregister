@@ -3,8 +3,8 @@ oga_no: 755
 generic_type: Itchen Ferry
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Reverie&#39; was based on a Dan Hatcher design of 1890
-  and she has the same rig as &#39;Blue Jacket&#39;.</p>
+short_description: *Reverie* was based on a Dan Hatcher design of 1890
+  and she has the same rig as *Blue Jacket*
 year: 1974
 year_is_approximate: false
 designer:
@@ -26,12 +26,13 @@ ownerships:
   start: 1997
   end: 2000
   share: 64
-- name: Pete Elliston
+- id: 305
+  member: 3662
   start: 2000
   share: 64
+  current: true
 id: 2a9baf90-6314-4e0a-9c0e-b7ed76fb7d14
 image_key: jNjPQ3
-thumb: https://photos.smugmug.com/photos/i-3JsTcsm/0/Th/i-3JsTcsm-Th.jpg
 handicap_data:
   beam: 2.4384
   draft: 0.9144
@@ -41,5 +42,5 @@ handicap_data:
 created_at: '2020-04-25T16:53:49.294207+00:00'
 updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
-- Merlyn lll
+- Merlyn III
 - Reverie

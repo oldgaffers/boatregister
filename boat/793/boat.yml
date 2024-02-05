@@ -3,8 +3,9 @@ oga_no: 793
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: <p>&#39;Leona&#39; is a canoe yawl built 1906, Leigh on Sea. She
-  has a single gaff headsail and lug mizzen.</p>
+short_description: |-
+  *Leona* is a canoe yawl built 1906, Leigh on Sea. She
+  has a single gaff headsail and lug mizzen.
 year: 1906
 year_is_approximate: false
 designer:
@@ -31,12 +32,13 @@ ownerships:
   start: 1992
   end: 2015
   share: 64
-- name: Dick Wynne
+- id: 454
+  member: 4446
   start: 2015
   share: 64
+  current: true
 id: bdacb7c6-8d76-4a5c-add7-0ff1c7a7d966
 image_key: VFtNmK
-thumb: https://photos.smugmug.com/photos/i-hV6Q885/0/Th/i-hV6Q885-Th.jpg
 handicap_data:
   beam: 2.286
   draft: 1.6002
@@ -44,7 +46,6 @@ handicap_data:
   length_on_waterline: 5.9436722750548645
   length_on_deck: 7.3152
 created_at: '2020-04-25T16:54:22.163091+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - Blue Jay
 - Leona

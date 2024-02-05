@@ -40,17 +40,23 @@ ownerships:
   start: 1984
   end: 1989
   share: 64
-- name: Mr Atkins and Mr Davenport
+- name: Mr Atkins
   start: 1989
   end: 1992
-  share: 64
+  share: 32
+- name: Mr Davenport
+  start: 1989
+  end: 1992
+  share: 32
 - name: Mr Smith
   start: 1992
   end: 1996
   share: 64
-- name: Graham Mackenzie
+- id: 763
+  member: 5774
   start: 1996
   share: 64
+  current: true
 id: ff3df5ce-793e-41aa-a484-c7d1aa9ffe80
 handicap_data:
   thcf: 0.876263769
