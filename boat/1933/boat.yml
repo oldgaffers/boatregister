@@ -18,13 +18,14 @@ construction_material: wood
 construction_method: clinker
 construction_details: Clinker Iroko/Mahogany on Oak Timbers
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Gillingham
 hull_form: long keel deep forefoot
 ownerships:
-- name: A N Gratham
+- id: 229
+  member: 3166
   start: 1995
+  current: true
   share: 64
 id: d4028dd8-e4d5-4ebf-a22d-3fbdfe6da493
 handicap_data:
@@ -46,4 +47,3 @@ handicap_data:
   length_on_waterline: 5.385881492318947
   length_on_deck: 5.8674
 created_at: '2020-04-25T17:12:28.284526+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'

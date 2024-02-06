@@ -19,12 +19,13 @@ construction_material: grp
 spar_material: wood
 construction_details: GRP
 selling_status: not_for_sale
-for_sales: []
 hull_form: centre-boarder
 sail_number: '466'
 ownerships:
-- name: Peter Brannen
+- id: 404
+  member: 4209
   start: 2012
+  current: true
   share: 64
 id: 50dfa0df-da6a-4bcb-8f5e-38e771fffd75
 handicap_data:
@@ -46,4 +47,3 @@ handicap_data:
   length_on_waterline: 5.334077054376981
   length_on_deck: 5.8826
 created_at: '2020-04-25T17:12:38.588761+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
