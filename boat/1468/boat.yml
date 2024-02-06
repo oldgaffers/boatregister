@@ -3,7 +3,7 @@ oga_no: 1468
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Sally-J&#39; is a Heard 28, built in 1981.</p>
+short_description: *Sally-J* is a Heard 28, built in 1981.
 year: 1981
 year_is_approximate: false
 designer:
@@ -46,13 +46,14 @@ ownerships:
   start: 1992
   end: 2014
   share: 64
-- name: Dick Boele
+- id: 727
+  member: 5688
   start: 2014
   end: 2019
   share: 64
+  current: true
 id: 00d4a10b-f9a1-4ebd-b8c2-3ed6aa720623
 image_key: bQTgVv
-thumb: https://photos.smugmug.com/photos/i-F7sfjGT/0/Th/i-F7sfjGT-Th.jpg
 handicap_data:
   thcf: 0.956019822
   beam: 3.048
@@ -72,4 +73,3 @@ handicap_data:
   length_on_waterline: 8.077298219946353
   length_on_deck: 8.5344
 created_at: '2020-04-25T17:05:25.928887+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
