@@ -3,9 +3,11 @@ oga_no: 3281
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: bermudan
-short_description: <p>&#39;Parrot&#39; is a Murray Peterson design, slightly modified
-  so she is a one off. Her builder had planned to do a world cruise in her, but having
-  reached Jersey, after being seasick, he went no further and sold the boat.</p>
+short_description: |-
+  *Parrot* is a Murray Peterson design, slightly modified so she is a one off
+full_description: |-
+  Her builder had planned to do a world cruise in her, but having
+  reached Jersey, after being seasick, he went no further and sold the boat.
 year: 1989
 year_is_approximate: false
 designer:
@@ -22,6 +24,10 @@ home_country: GBR
 home_port: Christchurch
 hull_form: long keel sloping forefoot
 ownerships:
+- name: Martyn Wynness
+  start: 1989
+  end: 1989
+  share: 64
 - name: Roy and Terri Fox
   start: 2009
   end: 2015
@@ -35,4 +41,3 @@ handicap_data:
   length_overall: 9.144
   length_on_deck: 9.144
 created_at: '2020-04-25T17:47:42.452614+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'

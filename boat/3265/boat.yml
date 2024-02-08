@@ -3,17 +3,21 @@ oga_no: 3265
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>Mallard is a Clovelly Picarooner.</p>
-full_description: "<p>Terry and Martin Heard based the design of their Clovelly Picarooner\
-  \ on the small herring boats of Clovelly. They were built to be fast and with shallow\
-  \ draft so they could net the catch and return quickly over the bar to gain the\
-  \ best prices for their fish. Skippers of the bigger vessels nicknamed them &#39;picarooners&#39;\
-  \ (derived from the Spanish/Portugese for pirates) as they were able to steal a\
-  \ precious part of the trade!<br />\r\nThe Picarooner is the smallest of the Heard\
-  \ boats but sails like a much bigger vessel than here 15&#39;6&quot;!<br />\r\n\
-  Mallard was fitted out by David Sexton between 2011 &amp; 2013. Malcom Goram increased\
-  \ the rudder area, lengthened the bowsprit, adapted a 5hp outboard into a well and\
-  \ provided a new suit of sails in 2016. In 2017 she visited the Morbihan in Brittany.</p>"
+short_description: |-
+  *Mallard* is a Clovelly Picarooner.
+full_description: |-
+  Terry and Martin Heard based the design of their Clovelly Picarooner
+  on the small herring boats of Clovelly. They were built to be fast and with shallow
+  draft so they could net the catch and return quickly over the bar to gain the
+  best prices for their fish. Skippers of the bigger vessels nicknamed them 'picarooners'
+  (derived from the Spanish/Portugese for pirates) as they were able to steal a
+  precious part of the trade!
+  
+  The Picarooner is the smallest of the Heard
+  boats but sails like a much bigger vessel than her 15'6".
+  Mallard was fitted out by David Sexton between 2011 and 2013. Malcom Goram increased
+  the rudder area, lengthened the bowsprit, adapted a 5hp outboard into a well and
+  provided a new suit of sails in 2016. In 2017 she visited the Morbihan in Brittany.
 year: 1984
 year_is_approximate: false
 designer:
@@ -34,16 +38,17 @@ home_country: GBR
 hull_form: long keel deep forefoot
 sail_number: CP 6
 ownerships:
-- start: 2013
+- name: David Sexton
+  start: 2013
   end: 2014
-  note: First owner David Sexton 2013-4
-  text: First owner David Sexton
-- name: Malcom Goram
+  share: 64
+- id: 574
+  member: 5074
   start: 2014
   share: 64
+  current: true
 id: 504243bd-e0ce-462e-ad55-0eac5c1aba67
 image_key: kwqT5T
-thumb: https://photos.smugmug.com/photos/i-KQN8vr5/0/Th/i-KQN8vr5-Th.jpg
 handicap_data:
   beam: 1.8288
   draft: 0.3048
@@ -62,4 +67,3 @@ handicap_data:
   length_on_waterline: 4.4714
   length_on_deck: 4.7244
 created_at: '2020-04-25T17:47:23.133152+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
