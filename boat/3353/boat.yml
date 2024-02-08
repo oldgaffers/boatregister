@@ -54,18 +54,27 @@ full_description: |-
   Isle of Man Pleasure Craft Registry no. 1688
 year: 1975
 year_is_approximate: false
-designer: []
 design_class:
   name: Memory 19
   id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-builder: []
 place_built: Liverpool
 construction_material: grp
 spar_material: carbon_composite
 construction_details: Hull GRP with wood trim, wood bowsprit,  alloy yard.
 previous_names:
 - Drean
-selling_status: not_for_sale
+selling_status: for_sale
+for_sales:
+- created_at: '2024-02-08T09:58:26.604Z'
+  asking_price: 7000
+  sales_text: |-
+    See full description for history and details
+
+
+     Built 1975, re-built 2017   Built: Liverpool   Type Sloop (Memory 19)   Home:
+    Port St Mary   Rig: Standing Lug   LOA 19’   Designer: Tony Robinson   Built:
+    Liverpool Boat Co.   Re-built: Mick Kneale
+  flexibility: normal
 home_country: GBR
 home_port: Port St. Mary, Isle of Man
 hull_form: centre-boarder
