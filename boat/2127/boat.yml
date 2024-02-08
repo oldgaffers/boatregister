@@ -3,7 +3,8 @@ oga_no: 2127
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: <p>Annie is a Cornish Crabber Yawl built in 1990</p>
+short_description: |-
+  *Annie* is a Cornish Crabber Yawl built in 1990
 full_description: Annie's first owner kept her on the Suffolk Coast. He converted
   her to a cutter Sept 1996. When he sold her in 1998 she moved to the Solent. In
   2000 she was sold again, moved to Fowey and re-named Annie of Fowey. In late 2009
@@ -38,10 +39,14 @@ ownerships:
   start: 1992
   end: 1998
   share: 64
-- name: John and Margaret Mitchell
+- name: John Mitchell
   start: 1998
   end: 2000
-  share: 64
+  share: 32
+- name: Margaret Mitchell
+  start: 1998
+  end: 2000
+  share: 32
 - name: Pauline Hurley
   start: 2000
   end: 2009
@@ -50,8 +55,7 @@ ownerships:
   start: 2009
   end: 2016
   share: 64
-- member: 5875
-  id: 813
+- name: Mr Stephen Rear
   start: 2016
   end: 2022
   share: 64
