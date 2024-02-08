@@ -3,13 +3,15 @@ oga_no: 3249
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>Constance is a Winkle Brig built in 1990.</p>
-full_description: <p>Constance had a major regit in 2012. This included fibreglass
+short_description: |-
+  *Constance* is a Winkle Brig built in 1990.
+full_description: |-
+  *Constance* had a major refit in 2012. This included fibreglass
   repairs to the cockpit. Accommodation was stripped out and anti mould treatment
   applied to the interior. it was repainted and oiled. All spars and woodwork were
   stripped and revarnished. All the running rigging was replaced. The mast step was
-  replaced in bronze. She won the &quot;furthest trailed&quot; at the 2014 Maldon
-  regatta.</p>
+  replaced in bronze. She won the 'furthest trailed' at the 2014 Maldon
+  regatta.
 year: 1990
 year_is_approximate: false
 designer:
@@ -24,15 +26,20 @@ builder:
 construction_material: grp
 construction_details: GRP
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: London
 hull_form: long keel deep forefoot
 sail_number: WB 31
 ownerships:
-- name: Gum and Eva Newnham
+- id: 861
+  member: 5957
   start: 2010
-  share: 64
+  share: 32
+  current: true
+name: Eva Newnham
+  start: 2010
+  share: 32
+  current: true
 id: ba99f1c2-462f-4955-bbc4-b11371699972
 handicap_data:
   beam: 2.033

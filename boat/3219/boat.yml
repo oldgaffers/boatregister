@@ -3,7 +3,8 @@ oga_no: 3219
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>Morwenna is a Cornish Shrimper built in 2003.</p>
+short_description: |-
+  *Morwenna* is a Cornish Shrimper built in 2003.
 year: 2003
 year_is_approximate: false
 designer:
@@ -31,27 +32,33 @@ for_sales:
   seller_member: 5663
   sold: null
   summary: not owned by Mike post 2020
-  updated_at: '2021-02-22T21:22:57.624317+00:00'
+  updated_at: '2021-02-22T21:22:57Z'
 home_country: GBR
 home_port: Dartmouth
 hull_form: centre-boarder
 sail_number: 897 or 829 ?
 ownerships:
-- name: Michael and Penny Olliff-Lee
+- member: 5663
+  id: 712
   start: 2011
-  share: 64
+  end: 2020
+  share: 32
+- member: 5663
+  id: 1259
+  start: 2011
+  end: 2020
+  share: 32
 id: 733a5e67-4395-4250-93dd-cb2fa3a7ecd2
 image_key: KZDGVm
-thumb: https://photos.smugmug.com/photos/i-NzrCQtK/0/Th/i-NzrCQtK-Th.jpg
 handicap_data:
   beam: 2.1854
   draft: 0.4572
   fore_triangle_height: 4.6482
   fore_triangle_base: 2.539
   main:
-    foot: 3.5052000000000003
+    foot: 3.5052
     head: 3.099816
-    luff: 3.3528000000000002
+    luff: 3.3528
   moving_keel: true
   length_overall: 5.8674
   draft_keel_down: 1.2192
@@ -60,4 +67,3 @@ handicap_data:
   length_on_waterline: 5.3584
   length_on_deck: 5.8674
 created_at: '2020-04-25T17:46:34.532226+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
