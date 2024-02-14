@@ -2,8 +2,40 @@ name: May Fly
 oga_no: 3679
 rig_type: Cutter
 mainsail_type: gaff
+short_description: |-
+  Gaff cutter, built at Uphams, Brixham
+year: 1935
 year_is_approximate: false
-selling_status: not_for_sale
+designer: []
+builder:
+- name: J.W. and A. Upham Ltd.
+  id: 9ed74098-1a67-4d73-a378-5b36b155fa1b
+place_built: Brixham
+construction_material: wood
+construction_method: carvel
+construction_details: Pitch Pine on oak
+selling_status: for_sale
+for_sales:
+- created_at: '2024-02-14T09:11:39.869Z'
+  asking_price: 9000
+  sales_text: Gaff cutter, built at Uphams, Brixham, 1935. Pitch pine on oak.
+  refurbished 2008-2019. Bukh DV20[diesel] PRM gear box, both reconditioned
+     Main, staysail and jib [2 sets]
+     LOA 28ft[8.5 m] Beam 8ft 8in[2.64m] Draft 5ft [1.5 m] Bowsprit 12ft [3.6m].
+    Keel bolts replaced 2008.
+    Copper fastened. Rudder re built with 18mm ply x3 sheathed in fibreglass.
+    Rigging: 8 & 10 galvanized wire, 12 mm 3 strand polyester lines. 
+    Prop 3 bladed [R\H] 17 x 15 bronze. Shaft 1.125 in dia, bronze.
+    Electrics re wired 2019. Control and solar panels, depth sounder, batteries[2]
+    VHF radio [Shipmate RS8300]
+    Navigation: tricolour mast head, stern[white], lanterns port/starboard[paraffin]
+    Steering and handheld compasses, GPS Garmin 76, wind vane [hand held], 
+    radar reflector, trailing log [Walkers Knot master mk 111. 
+    Film extra in "Vindication Swim" film in Newhaven harbour, May 2021.
+  flexibility: normal
+home_country: uk
+home_port: Newhaven
+hull_form: long keel deep forefoot
 ownerships:
 - member: 6686
   id: 35146
@@ -15,3 +47,5 @@ handicap_data:
   beam: 2.438
   draft: 1.372
   length_on_deck: 8.534
+  length_on_waterline: 8.534
+hire: true
