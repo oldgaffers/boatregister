@@ -3,21 +3,23 @@ oga_no: 1889
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Chloe May&#39; was built by Pete Nash, 1982, more or less
-  single handed and named after his daughter.</p>
-full_description: "In 1999 her owner, Simon, sailed her to the Canaries. Leaving just\
-  \ after the ARC 'Chloe' beat many of the modern boats across to the Caribbean. She\
-  \ was very successful in the Antigua Classics winning every race in her class and\
-  \ a second in the Concours d\u2019Elegance competition for owner maintained boat.\
-  \ After this she returned to England."
+short_description: |-
+  'Chloe May' was built by Pete Nash, 1982, more or less single handed and named
+  after his daughter.
+full_description: |-
+  In 1999 her owner, Simon, sailed her to the Canaries. Leaving just after the ARC
+  'Chloe' beat many of the modern boats across to the Caribbean. She was very
+  successful in the Antigua Classics winning every race in her class and a second
+  in the Concours d’Elegance competition for owner maintained boat. After this she
+  returned to England.
 year: 1982
 year_is_approximate: false
 designer:
+- id: 7ac480da-7d09-4dd7-9c89-61199ff30913
   name: Percy Dalton
-  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 builder:
+- id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
   name: Peter Nash
-  id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
 place_built: Dartmouth
 construction_material: wood
 construction_details: Iroko on grown oak frames copper fastened
@@ -28,30 +30,31 @@ hull_form: long keel deep forefoot
 sail_number: 5510T
 uk_part1: '700889'
 ownerships:
-- start: 2002
-  note: "For sale in Classic Boat, Sept 2002, no 171, \xA3125,000 from Gosport."
+- name: ''
+  start: 2002
+  note: For sale in Classic Boat, Sept 2002, no 171, £125,000 from Gosport.
   text: For sale in Classic Boat, Sept
 - name: Bob Strawson
   start: 2007
   share: 64
-id: 35bc028d-3aa7-4729-8bed-b24fee42b8b2
+image_key: 3rtJrZ
 handicap_data:
   thcf: 1.121044327
   beam: 3.8862
   draft: 2.0422
   fore_triangle_height: 16.45940014630578
   fore_triangle_base: 8.83930748597903
-  length_over_all: 12.801755669348939
+  length_on_deck: 12.8016
+  length_on_waterline: 11.887344550109729
   propellor:
     type: fixed
+  topsail:
+    luff: 8.53450377956596
+    perpendicular: 3.9624481833699097
+  length_over_all: 12.801755669348939
   main:
     foot: 7.315288953913679
     head: 5.7912704218483295
     luff: 7.2390880273104115
-  topsail:
-    luff: 8.53450377956596
-    perpendicular: 3.9624481833699097
-  length_on_waterline: 11.887344550109729
-  length_on_deck: 12.8016
 created_at: '2020-04-25T17:11:46.787917+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 35bc028d-3aa7-4729-8bed-b24fee42b8b2
