@@ -33,5 +33,5 @@ if __name__ == '__main__':
     print("can't parse stdin", data)
     input = {}
   for key in input.keys():
-    print(key)
-    update(key, input[key])
+    k = key.replace('new_', '') # support both 'builder' and 'new_builder'
+    update(k, input[key])
