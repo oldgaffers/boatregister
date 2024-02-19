@@ -6,14 +6,19 @@ mainsail_type: bermudan
 short_description: 3 Ton  20.25 on deck
 year: 1937
 year_is_approximate: false
+designer:
+- name: Dan Webb
+  id: 4e8fe108-d6d5-4500-a034-b436f6e67f91
 design_class:
   name: Blackwater Sloop
   id: 5eedf365-1b2c-4c7b-b11c-0dce4f9e1f5c
+builder: []
 place_built: Maldon
 construction_material: wood
 spar_material: wood
 construction_method: carvel
-hull_form: long keel deep forefoot
+construction_details: pitchpine planking on oak timbers
+hull_form: long keel sloping forefoot
 ownerships:
 - member: 2280
   id: 139
@@ -22,7 +27,7 @@ ownerships:
   current: true
 image_key: x9vZsX
 handicap_data:
-  beam: 1.981
-  draft: 1.219
-  length_on_deck: 5.639
-  length_on_waterline: 5.029
+  beam: 2.057
+  draft: 1.158
+  length_on_deck: 6.172
+  length_on_waterline: 5.517
