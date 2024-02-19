@@ -3,26 +3,31 @@ oga_no: 1479
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: <p><I>Pica</I> has been mainly day sailed with the family from the
-  Helford River, but she has also competed in several Fowey Classics.</p><p>Over the
-  years she has recieved a new mail and staysail, as well as requiring a new rudder
-  and stemhead.</p>
+short_description: Heard 23 gaff cutter
+full_description: |-
+  *Pica* has been mainly day sailed with the family from the Helford River, but
+  she has also competed in several Fowey Classics.
+
+  Over the years she has recieved a new mail and staysail, as well as requiring a
+  new rudder and stemhead.
 year: 1987
 year_is_approximate: false
 designer:
-  name: Percy Dalton
+- name: Percy Dalton
   id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 design_class:
   name: Heard 23
   id: 6f0aa06a-98b0-4764-8e61-d789bcfb63f0
 builder:
-  name: Gaffers and Luggers
+- name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
 place_built: Mylor Bridge
 construction_material: grp
+spar_material: wood
+construction_method: other
 selling_status: not_for_sale
-for_sales: []
-home_port: Mylor
+home_country: GBR
+home_port: Helford River
 hull_form: long keel deep forefoot
 ssr: '29862'
 callsign: MLTC9
@@ -31,26 +36,26 @@ ownerships:
   start: 1993
   end: 2005
   share: 64
-- name: Jeremy and Helen McCabe
+- name: Jeremy And Helen Mccabe
   start: 2005
   share: 64
-id: 2eb4aa05-8a30-4076-8d39-2b723741aed6
 image_key: pN8ZTt
-thumb: https://photos.smugmug.com/photos/i-tSbM2g6/0/Th/i-tSbM2g6-Th.jpg
 handicap_data:
-  thcf: 0.899591539
-  beam: 2.4384
-  draft: 1.3106
-  fore_triangle_height: 7.924896366739819
-  fore_triangle_base: 4.26725188978298
-  length_over_all: 7.0866861741038765
+  thcf: 0.9
+  beam: 2.438
+  draft: 1.311
+  fore_triangle_height: 7.925
+  fore_triangle_base: 4.267
+  length_on_deck: 7.087
+  length_on_waterline: 6.858
   propellor:
     type: fixed
+    blades: 3
+  length_over_all: 7.087
   main:
-    foot: 4.724457449402585
-    head: 3.8100463301633747
-    luff: 3.9624481833699097
-  length_on_waterline: 6.858083394294074
-  length_on_deck: 7.0866
+    foot: 4.724
+    head: 3.81
+    luff: 3.962
 created_at: '2020-04-25T17:05:37.070277+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+mmsi: '235025665'
+id: 2eb4aa05-8a30-4076-8d39-2b723741aed6
