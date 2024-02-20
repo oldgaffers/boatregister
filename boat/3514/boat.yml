@@ -4,30 +4,45 @@ generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
 short_description: OGA designed dinghy. This is the prototype dinghy.
-full_description: Introducing a new dinghy from Andrew Wolstenholme, especially designed
-  for Young (and Old) Gaffers.  Key Points  Overall length of 13'6" and beam of 5'3"
-  (4.1 x 1.6m) – a comfortable size for building at home in the garage. Easy to tow
-  behind a small car and yet large enough for family sailing.  The single chine hull
-  form follows on from the popular dinghies of the 50s and 60s – Hornet, Graduate,
-  Scorpion, GP14, etc. – but with a more classic appearance and a sweeping sheer and
-  raked transom.  Construction is a variation of stitch-and-tape, using CNC-cut components.  With
-  simplicity of build in mind, and also functionality, she has a lowered deck in the
-  same style as the Mirror Dinghy, which is useful for lessening the risk of lines
-  going overboard and providing more sprawling space for children.  The versatile
-  design allows for sailing, rowing, sculling or outboard motor.
+full_description: |-
+  Introducing a new dinghy from Andrew Wolstenholme, especially designed for Young
+  (and Old) Gaffers. Key Points Overall length of 13'6" and beam of 5'3" (4.1 x
+  1.6m) – a comfortable size for building at home in the garage. Easy to tow
+  behind a small car and yet large enough for family sailing. The single chine
+  hull form follows on from the popular dinghies of the 50s and 60s – Hornet,
+  Graduate, Scorpion, GP14, etc. – but with a more classic appearance and a
+  sweeping sheer and raked transom. Construction is a variation of
+  stitch-and-tape, using CNC-cut components. With simplicity of build in mind, and
+  also functionality, she has a lowered deck in the same style as the Mirror
+  Dinghy, which is useful for lessening the risk of lines going overboard and
+  providing more sprawling space for children. The versatile design allows for
+  sailing, rowing, sculling or outboard motor.
 year: 2019
 year_is_approximate: false
 designer:
-  name: Andrew Wolstenholme
+- name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 design_class:
   name: Gaffling 4.1
   id: f2dba77b-2c17-4a6c-956a-0c0f791bf7aa
+builder: []
 construction_material: plywood
 spar_material: wood
 construction_method: stitch_and_glue
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- created_at: '2024-02-20T16:32:28.571Z'
+  sales_text: |-
+    This is the Gaffling prototype and comes with 2 jibs and mainsail by McNamara
+    sails
+
+
+    Jib Furler and quality fittings throughout.
+
+
+    It includes a combination of Launch/road trailer and cover.
+  flexibility: normal
+  asking_price: 3300
 home_country: GBR
 home_port: Grimsby
 hull_form: centre-board dinghy
@@ -38,11 +53,11 @@ ownerships:
   share: 64
   current: true
 website: https://gaffling.org.uk
-id: f05ba35f-5236-4b91-82f3-5b7b90f5aa78
 image_key: cQ86JG
-created_at: '2021-02-23T19:58:27.899191+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 handicap_data:
   beam: 1.6
-  length_on_deck: 4.1
   draft: 0.994
+  length_on_deck: 4.1
+  length_on_waterline: 8.534
+created_at: '2021-02-23T19:58:27.899191+00:00'
+id: f05ba35f-5236-4b91-82f3-5b7b90f5aa78
