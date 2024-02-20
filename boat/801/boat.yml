@@ -3,31 +3,44 @@ oga_no: 801
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Log 81/1
+short_description: Sunk in Portsmouth harrbour 1981
+full_description: |-
+  Badly damaged and sunk in Portsmouth Harbour in force 10 gale December 1981 when
+  the tow rope slipped as she was being towed without the owners knowledge or
+  consent across the Wicormarine yard.
+
+
+  Log 81/1
 year: 1894
 year_is_approximate: false
 designer:
-  name: James
+- name: James
   id: c1f4362f-a88b-468f-a115-0f806062fa9d
 builder:
-  name: James
+- name: James
   id: eb9a77f0-bcdf-48f0-b6b9-6bb73fb2b3b8
 place_built: Brightlingsea
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
 reference:
 - Log 81/1
 ownerships:
-- name: D Handley
-  start: 2012
+- name: D V Brand
+  start: 1962
   share: 64
-id: 0d634cca-7399-4849-bb97-4b0c0028df52
+- name: C Thornhill
+  start: 1969
+  end: 1980
+  share: 64
+- name: D Handley
+  start: 1981
+  end: 1981
+  share: 64
 handicap_data:
-  beam: 3.0175
-  draft: 1.7069
-  length_over_all: 10.66812972445745
-  length_on_waterline: 8.717386003413802
+  beam: 3.018
+  draft: 1.707
   length_on_deck: 10.668
+  length_on_waterline: 8.717
+  length_over_all: 10.668
 created_at: '2020-04-25T16:54:29.630445+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 0d634cca-7399-4849-bb97-4b0c0028df52
