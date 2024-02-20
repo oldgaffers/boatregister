@@ -3,31 +3,32 @@ oga_no: 3439
 generic_type: Dinghy
 rig_type: Single Sail
 mainsail_type: lug
-short_description: |-
-  *Gelvynek* is a dipping lug day boat by a Francois Vivier
+short_description: '*Gelvynek* is a dipping lug day boat designed by Francois Vivier'
 full_description: |-
-  *Gelvynek* is sailed and rowed in winter as well as summer on
-  the Helford River as a family day boat.
-  
-  She has taken part in several Dowel Classics, and many Falmouth Classics!
+  *Gelvynek* is sailed and rowed in winter as well as summer on the Helford River
+  as a family day boat.
+
+
+  She has taken part in several Fowey Classics, and many Falmouth Classics!
 year: 1996
 year_is_approximate: false
 designer:
-  name: François Vivier
+- name: François Vivier
   id: f8f01050-235c-4793-b62b-8d3d953d173e
 design_class:
   name: Aber
   id: c01425bf-c94f-40c1-b3e1-51f0bd2c7bce
 builder:
-  name: John Moody
+- name: John Moody
   id: b516bb55-36c7-4e4f-9740-01f15df596eb
 place_built: Salcombe
 construction_material: wood
 spar_material: wood
+construction_method: strip_planking
 construction_details: Cedar strip
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
+home_port: Helford River
 hull_form: centre-board dinghy
 ownerships:
 - member: 6319
@@ -35,19 +36,20 @@ ownerships:
   start: 1996
   share: 64
   current: true
-id: fee8ee6f-2d9d-4833-b797-9efd67be0b8f
 image_key: frZw2s
 handicap_data:
   beam: 1.463
-  draft: 0.2743
+  draft: 0.274
+  length_overall: 4.298
+  length_on_deck: 4.298
+  length_on_waterline: 3.993
+  draft_keel_down: 0.853
   main:
-    foot: 3.59664
-    head: 2.52984
-    luff: 1.92024
+    foot: 3.597
+    head: 2.53
+    luff: 1.92
   moving_keel: true
-  length_overall: 4.2977
-  draft_keel_down: 0.8534
   moving_keel_type: Centreboard
-  length_on_waterline: 3.9929
-  length_on_deck: 4.2977
+  checked: true
 created_at: '2020-04-25T17:55:01.799858+00:00'
+id: fee8ee6f-2d9d-4833-b797-9efd67be0b8f
