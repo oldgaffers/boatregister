@@ -3,36 +3,47 @@ oga_no: 1530
 generic_type: Smack
 rig_type: Ketch
 mainsail_type: gaff
-full_description: Log 88/1, 92/2
+short_description: Reputedly the fastest smack to sail out of Boston
+full_description: |-
+  *Pam* sank while under tow from Harwich to the Swale Match during the 1980s, but
+  was recovered by 1988 and offered for sale in 1992 having been refastened,
+  recaulked, refurbished and rerigged, but in need of finishing. She was then sold
+  to an owner in Dover, with nothing further known.
+
+
+  Log 88/1, 92/2
 year: 1915
 year_is_approximate: false
+designer: []
 builder:
-  name: Thompsons
+- name: Thompsons
   id: 3f47c698-19e3-454a-8dea-6e9c7efe6189
 place_built: Boston
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch pine on Oak Carvel
+previous_names:
+- Jamel
 selling_status: not_for_sale
-for_sales: []
 hull_form: long keel deep forefoot
 reference:
 - Log 88/1
 - Log 92/2
 ownerships:
-- name: N O'Brien
-  start: 2012
+- name: John Mellor
+  start: 1988
+  end: 1993
   share: 64
-id: 6e108fe3-907f-4c3b-b86a-11688ad4009b
+- name: N O'Brien
+  start: 1993
+  share: 64
 handicap_data:
-  beam: 4.0538
-  draft: 1.9507
-  length_over_all: 15.849792733479639
+  beam: 4.054
+  draft: 1.951
+  length_on_deck: 15.85
+  length_on_waterline: 13.412
   propellor:
     type: fixed
-  length_on_waterline: 13.411363082175079
-  length_on_deck: 15.8496
+  length_over_all: 15.85
 created_at: '2020-04-25T17:06:22.818399+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Jamel
+id: 6e108fe3-907f-4c3b-b86a-11688ad4009b
