@@ -99,7 +99,7 @@ construction_method: carvel
 construction_details: Carvel pine on oak
 selling_status: not_for_sale
 home_country: GBR
-home_port: Beaulieu River
+home_port: Walton Backwaters
 hull_form: long keel deep forefoot
 uk_part1: '144126'
 ownerships:
@@ -110,7 +110,13 @@ ownerships:
   share: 64
 - name: Robert Westling
   start: 2013
+  end: 2019
   share: 64
+- member: 6556
+  id: 34965
+  start: 2024
+  share: 64
+  current: true
 website: http://www.albertstrange.org/?cat=9
 image_key: 44NMJ4
 handicap_data:
@@ -129,8 +135,8 @@ handicap_data:
   length_over_all: 10.058
   main:
     foot: 4.56
-    luff: 4.7
     head: 4.572
+    luff: 4.7
   mizzen:
     foot: 2.527
     luff: 4.889
