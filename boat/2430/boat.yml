@@ -1,6 +1,6 @@
 name: Charm
 oga_no: 2430
-generic_type: Yacht
+generic_type: Canoe Yawl
 rig_type: Yawl
 mainsail_type: gaff
 short_description: |-
@@ -93,8 +93,6 @@ designer:
 builder:
 - name: Woods
   id: 4dad4b68-a367-41df-a4db-81940c97bb0c
-- name: ' EW Woods'
-  id: a9545ec5-7404-4b17-917e-e3c28c110a6d
 place_built: Cantley
 construction_material: wood
 construction_method: carvel
@@ -116,11 +114,11 @@ ownerships:
 website: http://www.albertstrange.org/?cat=9
 image_key: 44NMJ4
 handicap_data:
-  thcf: 1.011
+  thcf: 1.009
   beam: 2.31
   draft: 1.524
   fore_triangle_height: 8.099
-  fore_triangle_base: 4.429
+  fore_triangle_base: 4.389
   length_on_deck: 10.058
   length_on_waterline: 7.62
   propellor:
@@ -131,8 +129,8 @@ handicap_data:
   length_over_all: 10.058
   main:
     foot: 4.56
-    head: 4.877
     luff: 4.7
+    head: 4.572
   mizzen:
     foot: 2.527
     luff: 4.889
