@@ -24,9 +24,15 @@ sail_number: '52'
 ssr: SSR168941
 callsign: MBSO6
 ownerships:
-- name: An Owner
-  start: 1800
+- name: Tony Burn
+  start: 2017
+  end: 2020
   share: 64
+- member: 6606
+  id: 35028
+  start: 2024
+  share: 64
+  current: true
 image_key: ghRmQr
 handicap_data:
   thcf: 0.83
