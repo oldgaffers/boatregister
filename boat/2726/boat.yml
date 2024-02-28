@@ -3,17 +3,21 @@ oga_no: 2726
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Questina&#39; is a home built boat, between 1999 and 2002.</p>
+short_description: '''Questina'' is a home built boat, between 1999 and 2002.'
+full_description: |-
+  A Golant Gaffer designed by Roger Dongray, sail number G61, with white sails,
+  royal blue topsides, and cream deck She is moored at Neyland on the Milford
+  Haven waterway.
 year: 2002
 year_is_approximate: false
 designer:
-  name: Roger Dongray
+- name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Golant Gaffer
   id: ecdf01fb-dd46-42f7-9232-39880886de2f
 builder:
-  name: J.S. Smith
+- name: J.S. Smith
   id: 3041bfea-f5f3-4933-9a96-7ce59aed9352
 place_built: Woodbridge
 construction_material: woodepoxy
@@ -24,23 +28,22 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2018-10-05T13:40:26+00:00'
   flexibility: normal
-  offered: null
   reduced: false
-  sales_text: <p>"Questina" is a home-built Golant Gaffer, designed by Roger Dongray
-    and launched in 2002.</p><p>Her construction is cedar strip with epoxy hull, teak
-    laid cockpit seats, bridge deck and sole. She has a Yanmar 1GM inboard. Sale includes
-    a road trailer. Lying Chichester.</p>
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  sales_text: |-
+    "Questina" is a home-built Golant Gaffer, designed by Roger Dongray and launched
+    in 2002.
+
+    Her construction is cedar strip with epoxy hull, teak laid cockpit seats, bridge
+    deck and sole. She has a Yanmar 1GM inboard. Sale includes a road trailer. Lying
+    Chichester.
   updated_at: '2020-05-03T10:13:13.148475+00:00'
 home_country: GBR
 home_port: Milford Haven
 hull_form: long keel deep forefoot
 sail_number: G61
 ownerships:
-- name: John Smith
+- member: 6290
+  id: 35022
   start: 2002
   end: 2010
   share: 64
@@ -56,26 +59,25 @@ ownerships:
 - id: 3
   start: 2018
   share: 64
-id: b63c08da-1cd0-4129-967d-ddb121adadac
 image_key: 7RGwVJ
-thumb: https://photos.smugmug.com/photos/i-52CTqzC/0/Th/i-52CTqzC-Th.jpg
 handicap_data:
-  thcf: 0.833
-  beam: 2.1092
-  draft: 0.8382
-  fore_triangle_height: 5.500066889173372
-  fore_triangle_base: 3.15003830925384
-  length_over_all: 5.710069443123627
-  propellor:
-    type: fixed
-    blades: 2
-  sailarea: 22.821672184280438
-  main:
-    foot: 3.600043782004389
-    head: 3.080037457937088
-    luff: 3.9900485250548647
-  length_over_spars: 7.2500881720921715
-  length_on_waterline: 5.410065794623263
+  thcf: 0.834
+  beam: 2.134
+  draft: 0.838
+  fore_triangle_height: 5.486
+  fore_triangle_base: 3.301
   length_on_deck: 5.715
+  length_on_waterline: 5.41
+  length_over_spars: 7.25
+  propellor:
+    blades: 2
+    type: fixed
+  sailarea: 24.805
+  length_over_all: 5.71
+  main:
+    foot: 3.6
+    head: 3.072
+    luff: 3.99
 created_at: '2020-04-25T17:26:07.332553+00:00'
-updated_at: '2022-09-01T13:00:31.915532+00:00'
+air_draft: 7.468
+id: b63c08da-1cd0-4129-967d-ddb121adadac
