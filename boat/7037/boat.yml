@@ -3,27 +3,194 @@ oga_no: 7037
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: bermudan
+short_description: '*Saoirse of Hamble* is  Roach Class cutter'
+full_description: Cast iron long keel and internal lead trimming ballast
 year: 1965
 year_is_approximate: false
 designer:
-- id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
-  name: Maurice Griffiths
-- id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
-  name: Frank W. Shuttlewood
+- name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+- name: Frank W. Shuttlewood
+  id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
 design_class:
   name: Roach Class
   id: 23729d46-d784-462e-91d2-36a7cc63c4dc
 builder:
-- id: f7e10100-9016-4757-874b-b5ca9742ef7e
-  name: J.W. Shuttlewood and Sons
+- name: J.W. Shuttlewood and Sons
+  id: f7e10100-9016-4757-874b-b5ca9742ef7e
 place_built: Paglesham
 construction_material: wood
 construction_method: carvel
-construction_details: Carvel iroko on C anadian rock elm
+construction_details: Carvel iroko on Canadian rock elm
 previous_names:
 - Seahorse of Paglesham
-selling_status: not_for_sale
+selling_status: for_sale
+for_sales:
+- created_at: '2024-03-07T19:47:15.332Z'
+  sales_text: |-
+    Roach Class Cutter
+
+
+    Design: Maurice Griffiths and F W Shuttlewood
+
+
+    Builder: J W Shuttlewood &amp; Sons, Paglesham 1965
+
+
+    LOA 27’ 7’’
+
+
+    Beam 8’ 8’’
+
+
+    Draught 3’9’’
+
+
+    L. over spars 34’
+
+
+    Tonnage registered 6, 7TM
+
+
+    Purchased 2002, major profession refit by Dolphin Quay Boatyard 2002/2003
+
+
+    Iroko on CR Elm, in excess of Lloyds scantlings
+
+
+    Laid Teak foredeck, doghouse, side and poop decks, Coelan varnished,
+
+
+    Coach roof flush deck resheathed with glass/epoxy 2003.
+
+
+    New gunwhale cappings and cockpit locker fronts 2002/3.
+
+
+    Cast iron long keel and internal lead trimming ballast
+
+
+    Transom-hung rudder, new bronze gudgeons and pintles 2007.
+
+
+    Varnished spruce Mast and Boom
+
+
+    Varnished Pine Bowsprit and wishbone Bumpkin
+
+
+    2 berths via optional boards or V double infill in forecabin.
+
+
+    One full length and one child’s berth in saloon.
+
+
+    All new upholstery and foam 2005.
+
+
+    Pine sole with mahogany forepeak sole.
+
+
+    Solid fuel stove with demountable chimney and deck fitting.
+
+
+    Primus 2 burner paraffin stove with brass heatshield over and pan clamps.
+
+
+    SS sink and Brass water pump.
+
+
+    Sony radio and CD with speakers in mahogany boxes.
+
+
+    All new upholstery and foam 2005.
+
+
+    3 oil lamps with heat shields, and brass halogen saloon lamps plus electric
+    chart table
+
+
+    lamp and bunk lamps in forecabin.
+
+
+    Large circular heatshield to doghouse for Tilley lamp etc.
+
+
+
+    Heads open to either saloon or forecabin.
+
+
+    Factory reconditioned Baby Blake sea toilet.
+
+
+    Engine, Yanmar 2GM20F installed 2003, 200 hours.
+
+
+    Aquadrive, shaft, shaft knife and two-bladed propeller, all new 2003
+
+
+    New 110 litre diesel and water tanks with electronic gauges by Tek Tanks
+
+
+    Two 105 A/H batteries, 2003 plus 30 watt solar panel via regulator.
+
+
+    All new tinned wiring, including mast, circuit breaker panel, voltmeter.
+
+
+
+    Garmin GPS, DSC VHF, AIS receiver, RayMarine Log and Sounder with Bronze
+
+
+    transducer.
+
+
+    Simrad autopilot and Bronze custom pedestal 2004
+
+
+    New standing 6mm stainless rigging, all new bronze bottle screws and stainless
+    bobstay
+
+
+    and bumpkins stays, new bronze bobstay bolt, custom new bronze chainplates 2005.
+
+
+    All new running rigging 2005, new bronze Harken mast and boom winches 2005.
+
+
+    New ash blocks.
+
+
+
+    Cutter rigged with furling gear to jib by SailSpar, cream sails, new staysail
+    and storm jib
+
+
+    (orange) by Ratsey and Lapthorn 2004, new yankee jib and flying light airs genoa
+    2005
+
+
+    by Ratsey and Lapthorn, mainsail serviced by Ratsey and Lapthorn 2005.
+
+
+    Slab reefing to main, 3 reefs with new beeblocks, winch and clutches 2005.
+
+
+    2 Lewmar primary winches, new bronze main sheet horse 2005.
+
+
+    25 lbs CQR anchor to 50m 8mm chain, spliced to 12 mm Octoplait
+
+
+    Kedge to chain and Octoplait warp
+
+
+    Simpson and Lawrence manual anchor windlass
+  flexibility: normal
+  asking_price: 1
+home_country: UK
 home_port: Hamble
+hull_form: long keel sloping forefoot
 ssr: '103679'
 uk_part1: '335836'
 ownerships:
@@ -34,8 +201,11 @@ ownerships:
     of Essex.
 - member: 4402
   id: 442
-  start: 2012
-  end: 2024
+  start: 2002
+  end: 2011
+  share: 64
+- name: Christophe Rynikiewicz
+  start: 2011
   share: 64
 image_key: LK5vBn
 handicap_data:
