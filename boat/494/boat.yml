@@ -2,35 +2,41 @@ name: Red Red Rose
 oga_no: 494
 rig_type: Yawl
 mainsail_type: gaff
+full_description: |-
+  Sailed in the East Coast Old Gaffers races on the 1970 and early 1980s, when she
+  was moored at Arthur holts yard at Heybridge basin.
+
+
+  Receiving some much needed TLC in 2024
 year: 1965
 year_is_approximate: false
 designer:
-  name: Traditional
+- name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 builder:
-  name: A. Sandison and Sons
+- name: A. Sandison and Sons
   id: 378fb5ef-8740-44e2-83d3-e684d8a3acad
 place_built: Balta Sound
 construction_material: wood
 construction_method: clinker
 construction_details: Larch clinker planking on sawn larch frames
 selling_status: not_for_sale
-for_sales: []
+home_country: UK
 ownerships:
 - name: I Logan
   start: 1965
   share: 64
-id: 74af826e-fbeb-48dd-b96f-adf072076a3a
+image_key: GsFnb4
 handicap_data:
   thcf: 0.776139573
-  beam: 1.6154
-  draft: 0.5791
-  length_over_all: 4.937820043891733
+  beam: 1.615
+  draft: 0.579
+  length_on_deck: 4.938
+  length_on_waterline: 4.663
+  length_over_all: 4.938
   main:
-    foot: 2.7737137283589366
-    head: 2.6517922457937084
-    luff: 3.0480370641306997
-  length_on_waterline: 4.663496708119971
-  length_on_deck: 4.9378
+    foot: 2.774
+    head: 2.652
+    luff: 3.048
 created_at: '2020-04-25T16:49:49.297169+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 74af826e-fbeb-48dd-b96f-adf072076a3a
