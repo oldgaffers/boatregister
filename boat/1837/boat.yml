@@ -3,19 +3,23 @@ oga_no: 1837
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Kamala&#39; was designed by Barry Pope after the local
-  Danish fishing craft. The rig is taken from a Helsignor Pilot Boat</p>
-full_description: "<p>Orginally a 3/4 deck dayboat, &#39;Kamala&#39; later had a small\
-  \ cabin top added. She came to England probably in the late 1990s, Purchased from\
-  \ her second owner&nbsp; who had laid her up ashore for eight years in 2016.</p>\r\
-  \n\r\n<p>She was found by new owners in 2016 on a farmyard in Hampshire.</p>"
+short_description: |-
+  'Kamala' was designed by Barry Pope on the local Danish fishing craft. The rig
+  is taken from a Helsignor Pilot Boat
+full_description: |-
+  Orginally a 3/4 deck dayboat, 'Kamala' later had a small cabin top added. She
+  came to England probably in the late 1990s, Purchased from her second owner  who
+  had laid her up ashore for eight years in 2016.
+
+
+  She was found by new owners in 2016 on a farmyard in Hampshire.
 year: 1987
 year_is_approximate: false
 designer:
-  name: Barry Pope
+- name: Barry Pope
   id: c4ad4f39-8269-4332-bd13-42d70bc64997
 builder:
-  name: Bonnezand Steffen
+- name: Bonnezand Steffen
   id: c7ec9bef-5541-4979-a4c8-009fd41c214b
 place_built: Horne, Faaborg, Denmark
 construction_material: wood
@@ -23,17 +27,31 @@ spar_material: wood
 construction_method: clinker
 construction_details: Clinker, larch on sawn oak frames. Copper fastened, lead keel.
   Douglas fir spars.
-selling_status: not_for_sale
+selling_status: for_sale
 for_sales:
+- created_at: '2024-03-12T16:18:01.465Z'
+  sales_text: |-
+    **Kamala -** a relatively young and delightful Gaffer with a difference !  
+    Built in Denmark 1986 of Scandinavian Larch on heavy Oak framing. Colin Archer
+    /Pilot boat style.  High quality build with Lead ballast.  About 2 tons total. 
+    She’s 21ft-6ins  on deck, 7 ft bowsprit; 3 ft draft with generous beam of
+    8ft-6ins giving a wonderfully clear and easy to work fore’deck with space below
+    for 2 berths.  See C.B. Sept 1989.
+
+
+    People who have sailed remark on her feel of a larger boat; she’s steady, well
+    balanced, picks up her skirt in a freshening breeze and her shoulders give great
+    stability in a heavier wind. Mariner outboard, 4 wheel road trailer, anchors,
+    overall covers, flares, tender and outboard and lots more “stuff” !  Retirement
+    sale inviting offers around £10,000 for the lot.  Lying Hamble.  
+    [martinbandey@aol.com](mailto:martinbandey@aol.com)    07768 074796
+  flexibility: normal
+  asking_price: 10000
 - created_at: '2021-07-06T21:01:56.61308+00:00'
   flexibility: normal
-  offered: null
-  price_flexibility: null
   reduced: false
-  sales_text: ''
   seller_gold_id: 80
   seller_member: 1611
-  sold: null
   summary: new member now owns boat
   updated_at: '2021-07-06T21:01:56.61308+00:00'
 home_country: GBR
@@ -45,27 +63,25 @@ ownerships:
   start: 2021
   share: 64
   current: true
-id: eb1b53e5-32ae-434b-b512-33caf1ceaa61
 image_key: rkcnwX
-thumb: https://photos.smugmug.com/photos/i-6zFT8dq/0/Th/i-6zFT8dq-Th.jpg
 handicap_data:
   thcf: 0.862
-  beam: 2.5908
-  draft: 0.9449
-  fore_triangle_height: 5.6388685686417945
-  fore_triangle_base: 4.937820043891733
-  length_over_all: 6.5532796878810045
+  beam: 2.591
+  draft: 0.945
+  fore_triangle_height: 5.639
+  fore_triangle_base: 4.938
+  length_on_deck: 6.553
+  length_on_waterline: 5.944
   propellor:
     type: none
-  sailarea: 29.899805425086786
-  main:
-    foot: 3.0785174347720066
-    head: 3.0785174347720066
-    luff: 3.581443550353572
+  sailarea: 29.9
   topsail:
-    luff: 3.9624481833699097
-    perpendicular: 2.6670324311143623
-  length_on_waterline: 5.9436722750548645
-  length_on_deck: 6.5532
+    luff: 3.962
+    perpendicular: 2.667
+  length_over_all: 6.553
+  main:
+    foot: 3.078
+    head: 3.078
+    luff: 3.581
 created_at: '2020-04-25T17:10:59.335903+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: eb1b53e5-32ae-434b-b512-33caf1ceaa61
