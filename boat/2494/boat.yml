@@ -5,7 +5,7 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
   Built at Totnes, Devon, to a commissioned design in 1991, Minstrel has cruised
-  extensively in the Carribean, Maine, Southern Ireland and undertaken two
+  extensively in the Carribean, Maine, Southern Ireland and undertaken three
   circumnavigations of Britain.
 full_description: |-
   Owned from new by Anthony John (Gubby) Williams and Christine Alma (nee Thery)
@@ -14,30 +14,34 @@ full_description: |-
 
 
   She cruised to the Carribean 1991-2 then to Maine for three years returning to
-  Southern Ireland in 1995 and was moored at Hare Island, Skibbern for several
+  Southern Ireland in 1995 and was moored at Hare Island, Skibbereen for several
   years.
 
 
-  Following a refit in 2008 she carries a Cornish Yard topsail, bigger in the
-  hoist than the mainsail luff. Yard is aluminium but will be replaced by wood.
-  She has cruised the western English Channel and circumnavigated Britian via
-  Caledonian Canal, taking part in the OGA Round Britain Challenge in 2013.
+  Following a refit in 2008 she carries a  Yard topsail, longer in the hoist than
+  the mainsail luff.  She has cruised the western English Channel and
+  circumnavigated Britian via Caledonian Canal, taking part in the OGA Round
+  Britain Challenge in 2013 and again in 2023.
 year: 1991
 year_is_approximate: false
 designer:
-  name: Alan Pape
+- name: Alan Pape
   id: 7ba2e3ee-165d-4af8-ab62-3741e9fc24d2
 builder:
-  name: R. Feley/Gubby Williams
+- name: R. Feley/Gubby Williams
   id: a2ae92b5-a247-4e53-adb6-83b33d7b11e8
 place_built: Totnes
-construction_material: wood
-construction_method: double_diagonal
-construction_details: Strip plank douglas fir on laminated iroko ring frames double
-  diagonal marine ply planked and glassed
-selling_status: not_for_sale
-for_sales: []
-home_port: Gosport
+construction_material: woodepoxy
+spar_material: wood
+construction_method: strip_planking_epoxy_sheathed
+construction_details: Strip planked  over iroko laminated ring frames, covered with
+  double diagonal marine ply and epoxied glass mat.
+selling_status: for_sale
+for_sales:
+- created_at: '2024-03-13T16:34:45.961Z'
+  flexibility: normal
+  asking_price: 95000
+home_port: Chichester
 hull_form: long keel sloping forefoot
 sail_number: F W 1
 ssr: '46529'
@@ -60,15 +64,15 @@ handicap_data:
   fore_triangle_base: 6.096
   length_on_deck: 10.302
   length_on_waterline: 8.839
-  length_over_spars: 13.106559375762009
+  length_over_spars: 13.107
   propellor:
-    type: folding
     blades: 3
+    type: folding
   sailarea: 71.184
   topsail:
     luff: 6.426
     perpendicular: 2.286
-  length_over_all: 10.287143379663496
+  length_over_all: 10.287
   main:
     foot: 6.35
     head: 4.42
@@ -77,6 +81,7 @@ handicap_data:
     hull_shape: Long keel - Standard
     measured_rating: 26.545159360812242
     thcf: 1.014
+  checked: true
 created_at: '2020-04-25T17:21:35.946732+00:00'
-id: 960512a9-2e6f-45a1-a7c8-f2366a1d611f
 mmsi: '235078636'
+id: 960512a9-2e6f-45a1-a7c8-f2366a1d611f
