@@ -3,49 +3,60 @@ oga_no: 3194
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Alice&#39;, a Heard 35, was built in 2000 at Mylor, Falmouth.
-  In 2016 she was exported to Antigua.</p>
-full_description: <p>&#39;Alice&#39; is a Heard 35, built at Mylor in 2000 and sold
-  in June 2016 for export&nbsp;to Antigua. She&nbsp;has competed in the Antigua Classics.</p>
+short_description: |-
+  'Alice', a Heard 35, was built in 2000 at Mylor, Falmouth. In 2016 she was
+  exported to Antigua but is now back in UK
+full_description: |-
+  a  'Alice' is a Heard 35, built at Mylor in 2000 and sold in June 2016 for
+  export to Antigua. She has competed in the Antigua Classics. Now back in
+  Plymouth after being purchased by her present owners in 2023 and sailed back
+  home
 year: 2000
 year_is_approximate: false
+designer: []
 design_class:
   name: Heard 35
   id: 57d13261-3402-4c7d-b2c8-45c2224149d3
 builder:
-  name: Martin Heard
+- name: Martin Heard
   id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
 place_built: Mylor
 construction_material: grp
+spar_material: wood
+construction_method: cold_moulded
 construction_details: GRP
 selling_status: not_for_sale
-for_sales: []
-home_port: Antigua
+home_country: Uk
+home_port: Weir Quay
 hull_form: long keel deep forefoot
-callsign: ZQIT7
+ssr: SSR189128
+callsign: MNEF9
 ownerships:
-- name: Richard and Jenny Willmott
+- name: Richard And Jenny Willmott
   start: 2000
   end: 2013
   share: 64
-id: bd5bbbac-8d5c-459e-a9e1-5761f5edef48
 image_key: dhLsf6
-thumb: https://photos.smugmug.com/photos/i-7Hz7N67/0/Th/i-7Hz7N67-Th.jpg
 handicap_data:
-  beam: 3.3802
-  draft: 2.161
-  fore_triangle_height: 13.3198
-  fore_triangle_base: 7.62
-  main:
-    foot: 20.01
-    head: 18.24
-    luff: 19.42
-  topsail:
-    luff: 19.5
-    perpendicular: 9.42
-  length_overall: 10.668
+  thcf: 1.029
   calculated_thcf: 1.052
-  length_on_waterline: 10.2992
+  beam: 3.38
+  draft: 2.161
+  fore_triangle_height: 10.287
+  fore_triangle_base: 7.62
+  length_overall: 10.668
   length_on_deck: 10.668
+  length_on_waterline: 9.754
+  propellor:
+    type: fixed
+    blades: 3
+  topsail:
+    luff: 5.669
+    perpendicular: 2.591
+  main:
+    luff: 6.279
+    foot: 5.944
+    head: 5.334
 created_at: '2020-04-25T17:46:09.395024+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+mmsi: '232046206'
+id: bd5bbbac-8d5c-459e-a9e1-5761f5edef48
