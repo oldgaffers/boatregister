@@ -3,12 +3,15 @@ oga_no: 3153
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>The First Shrimper 21, launched May 2015</p>
+short_description: |-
+  The First Shrimper 21, launched May 2015
 year: 2015
 year_is_approximate: false
 designer:
-  name: Roger Dongray/David Thomas Yachts
-  id: 7d1ad008-4263-419d-8843-d466ded0ec2c
+  - name: Roger Dongray
+    id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+  - name: David Thomas Yachts
+    id: 7d1ad008-4263-419d-8843-d466ded0ec2c
 design_class:
   name: Cornish Shrimper 21
   id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4
@@ -19,7 +22,6 @@ place_built: Rock
 construction_material: grp
 construction_details: GRP solid laminate hull, GRP deck with balsa core
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Bosham
 hull_form: centre-boarder

@@ -6,11 +6,16 @@ mainsail_type: gaff
 year: 2016
 year_is_approximate: false
 designer:
-  name: Roger Dongray/David Thomas Yachts
-  id: 7d1ad008-4263-419d-8843-d466ded0ec2c
-builder:
+  - name: Roger Dongray
+    id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+  - name: David Thomas Yachts
+    id: 7d1ad008-4263-419d-8843-d466ded0ec2c
+builder: 
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+design_class:
+  name: Cornish Shrimper 21
+  id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4  
 place_built: Rock
 construction_material: grp
 spar_material: wood

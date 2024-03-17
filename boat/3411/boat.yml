@@ -5,18 +5,36 @@ mainsail_type: gaff
 year: 2017
 year_is_approximate: false
 designer:
-  name: Roger Dongray/David Thomas Yachts
-  id: 7d1ad008-4263-419d-8843-d466ded0ec2c
+  - name: Roger Dongray
+    id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+  - name: David Thomas Yachts
+    id: 7d1ad008-4263-419d-8843-d466ded0ec2c
 builder:
   name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-construction_material: wood
+design_class:
+  name: Cornish Shrimper 21
+  id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4  
+construction_material: grp
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 sail_number: '59'
 id: ae610254-ad1b-4fea-9d7c-28dd09120c10
 created_at: '2020-04-25T17:53:55.787968+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 handicap_data:
-  length_on_deck: 0
+  thcf: 0.83
+  beam: 2.38
+  draft: 0.57
+  fore_triangle_height: 5.66
+  fore_triangle_base: 3.03
+  length_on_deck: 6.401
+  length_on_waterline: 6.099
+  propellor:
+    blades: 3
+    type: folding
+  sailarea: 17.513
+  main:
+    luff: 4.17
+    foot: 3.871
+    head: 3.319
+spar_material: wood
