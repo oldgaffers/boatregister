@@ -3,12 +3,15 @@ oga_no: 156
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>One off cruiser Roy Loram modified a John Leather design. Built
-  to be a live aboard with increased feeboard, raised cabin and flush cockpit</p>
+short_description: |-
+  One off cruiser Roy Loram modified a John Leather design. Built
+  to be a live aboard with increased feeboard, raised cabin and flush cockpit
 year: 1966
 year_is_approximate: false
 designer:
-  name: John Leather/Roy Loram
+- name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
+- Roy Loram
   id: 33ba2762-d3e7-455d-bd30-1a268f64c99e
 builder:
   name: Smith and Tucker
