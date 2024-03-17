@@ -3,22 +3,27 @@ oga_no: 9011
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Zinnia is the first of the Zinnia Class. She sailed to the Caribbean
+short_description: |-
+  *Zinnia* is the first of the Zinnia Class. She sailed to the Caribbean
   and back without an engine in 1999 - 2000, Zinnia was fitted with an inboard engine
-  in 2003.</p>
-full_description: <p>Zinnia is the first of the Zinnia Class designed by Ed Burnett
+  in 2003.
+full_description: |-
+  *Zinnia* is the first of the Zinnia Class designed by Ed Burnett
   in conjunction with Nigel Irens. Her hull was built by the Elephant Boatyard and
   then fitted out by Fred Kemp with help from her owner Ian. She was launched in 1998,
   without an engine. Her owners Ian and Sue Pople then sailed her to the Caribbean
   via the Cape Verde Islands in 1999. She entered the 2000 Antigua Classic regatta
-  with great success and sailed back home that year.</p><p>She finally succumbed to
-  the allure of an inboard engine in 2003. She has regularly raced in the Solent with
-  great success.</p>
+  with great success and sailed back home that year.
+  
+  She finally succumbed to the allure of an inboard engine in 2003. She has regularly 
+  raced in the Solent with great success.
 year: 1998
 year_is_approximate: false
 designer:
-  name: Ed Burnett/Nigel Irens
-  id: 8f64ae6c-9f1b-46cc-b03d-d1f269ced762
+- name: Ed Burnett
+  id: ec954b97-b4e7-4203-a28c-7d85278bf748
+- name: Nigel Irens
+  id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
 design_class:
   name: Zinnia Class
   id: 09bbc37c-fcba-42d8-89a5-c797c2cf23cc

@@ -3,21 +3,27 @@ oga_no: 3341
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Designed by Ed Burnet and Nigel Irens and built by Fairlie Restorations
-  on the Hamble in 1997, &#39;Nomad&#39; was transported to New Zealand and then sailed
-  to Australia.</p>
-full_description: "<p>Designed by Ed Burnet and Nigel Irens and built by Fairlie Restorations\
-  \ on the Hamble in 1997, &#39;Nomad&#39; spent her early years in New Zealand and\
-  \ Australia before being transported back to the UK.</p>\r\n\r\n<p>Her second owner,\
-  \ Dutch Olympic sailor Boudewijin Binkhorst, moved her to Holland and cared for\
-  \ her over 19 years, increasing the sail area and installing a larger engine.</p>\r\
-  \n\r\n<p>She was purchased by new owners in 2017, who brought her back to the UK\
-  \ where she will join the Solent Gaffers, based in Poole.</p>"
+short_description: |-
+  Designed by Ed Burnett and Nigel Irens and built by Fairlie Restorations
+  on the Hamble in 1997, *Nomad* was transported to New Zealand and then sailed
+  to Australia.
+full_description: |-
+  Designed by Ed Burnett and Nigel Irens and built by Fairlie Restorations
+  on the Hamble in 1997, *Nomad* spent her early years in New Zealand and
+  Australia before being transported back to the UK.
+  
+  Her second owner, Dutch Olympic sailor Boudewijin Binkhorst, moved her to Holland and cared for
+  her for over 19 years, increasing the sail area and installing a larger engine.
+
+  She was purchased by new owners in 2017, who brought her back to the UK
+  where she will join the Solent Gaffers, based in Poole.
 year: 1997
 year_is_approximate: false
 designer:
-  name: Ed Burnett/Nigel Irens
-  id: 8f64ae6c-9f1b-46cc-b03d-d1f269ced762
+- name: Ed Burnett
+  id: ec954b97-b4e7-4203-a28c-7d85278bf748
+- name: Nigel Irens
+  id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
 design_class:
   name: Nomad 43
   id: 20a53543-6336-4132-9514-68b622baef33
