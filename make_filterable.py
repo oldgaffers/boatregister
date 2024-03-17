@@ -5,11 +5,17 @@ import json
 from os import listdir
 from datetime import date, datetime
 
+def fn(f):
+  if 'name' in f:
+    return f['name']
+  print(f)
+  return ''
+
 def transform(o):
   if type(o) is dict and 'name' in o:
     return o['name']
   if type(o) is list:
-    return [f['name'] for f in o]
+    return [fn(f) for f in o]
   if type(o) is str:
     m = re.match(r'(\d{4}-\d{2}-\d{2})T\d{2}:\d{2}:\d{2}.*', o)
     if m is not None:
