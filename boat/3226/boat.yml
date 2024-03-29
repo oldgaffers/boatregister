@@ -6,27 +6,27 @@ mainsail_type: gaff
 short_description: Black Goose is a Cornish Trader built in 1979.
 full_description: |-
   In 2014 she had new masts, engine and rigging, and her lifting keel was
-  overhauled. Prior to this Peter Eccleston owned 'Black Goose' for 30 years. Gordon Fraser was her third
-    owner.
+  overhauled. Prior to this Peter Eccleston owned 'Black Goose' for 30 years.
+  Gordon Fraser was her third  owner.
 year: 1979
 year_is_approximate: false
 designer:
-  name: Roger Dongray
+- name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Cornish Trader
   id: 34112a28-7463-42b2-9aaf-2106409b1a0a
 builder:
-  name: Cornish Crabbers Ltd.
+- name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
+spar_material: wood
 construction_details: GRP, Spruce spars
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Birdham, Chichester
-hull_form: long keel deep forefoot
+hull_form: centre-boarder
 uk_part1: '701104'
 ownerships:
 - name: Gordon Fraser
@@ -37,47 +37,48 @@ ownerships:
   start: 2019
   end: 2023
   share: 64
-- id: 543
-  member: 4923
+- member: 4923
+  id: 543
   start: 2023
   share: 32
   current: true
-- id: 1215
-  member: 4923
+- member: 4923
+  id: 1215
   start: 2023
   share: 32
   current: true
 handicap_data:
-  thcf: 0.936
+  thcf: 0.935
   beam: 2.896
   draft: 1.067
-  fore_triangle_height: 7.468
-  fore_triangle_base: 4.877
+  fore_triangle_height: 7.315
+  fore_triangle_base: 4.602
   length_overall: 9.144
   length_on_deck: 9.144
   length_on_waterline: 7.864
-  length_over_spars: 12.192148256522799
+  length_over_spars: 12.192
   propellor:
     type: fixed
-  sailarea: 55.34007524879723
+  sailarea: 55.34
   topsail:
-    luff: 4.496
-    perpendicular: 2.057
-  length_over_all: 9.1441111923921
-  main:
-    foot: 3.758
-    head: 3.252
-    luff: 4.621
-  mizzen:
-    foot: 2.643
-    head: 2.185
-    luff: 3.709
+    luff: 4.267
+    perpendicular: 2.012
   draft_keeldown: 1.6002194586686174
+  length_over_all: 9.144
+  main:
+    foot: 3.81
+    head: 3.353
+    luff: 4.572
+  mizzen:
+    foot: 2.743
+    head: 2.438
+    luff: 3.658
   moving_keel: true
   moving_keel_type: Centreboard
   solent:
     hull_shape: Long keel - Standard
-    measured_rating: 23.429718677186663
-    thcf: 0.971
+    measured_rating: 21.983755802474626
+    thcf: 0.952
+  displacement: 6500
 created_at: '2020-04-25T17:46:43.244469+00:00'
 id: 5c4487b2-0955-4901-a402-5362ac0cce08
