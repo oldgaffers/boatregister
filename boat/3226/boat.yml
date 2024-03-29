@@ -21,12 +21,12 @@ builder:
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
-spar_material: wood
 construction_details: GRP, Spruce spars
 selling_status: not_for_sale
 home_country: GBR
 home_port: Birdham, Chichester
-hull_form: centre-boarder
+hull_form: long keel deep forefoot
+sail_number: '4'
 uk_part1: '701104'
 ownerships:
 - name: Gordon Fraser
@@ -48,11 +48,11 @@ ownerships:
   share: 32
   current: true
 handicap_data:
-  thcf: 0.935
+  thcf: 0.936
   beam: 2.896
   draft: 1.067
-  fore_triangle_height: 7.315
-  fore_triangle_base: 4.602
+  fore_triangle_height: 7.468
+  fore_triangle_base: 4.877
   length_overall: 9.144
   length_on_deck: 9.144
   length_on_waterline: 7.864
@@ -61,24 +61,23 @@ handicap_data:
     type: fixed
   sailarea: 55.34
   topsail:
-    luff: 4.267
-    perpendicular: 2.012
+    luff: 4.496
+    perpendicular: 2.057
   draft_keeldown: 1.6002194586686174
   length_over_all: 9.144
   main:
-    foot: 3.81
-    head: 3.353
-    luff: 4.572
+    foot: 3.758
+    head: 3.252
+    luff: 4.621
   mizzen:
-    foot: 2.743
-    head: 2.438
-    luff: 3.658
+    foot: 2.643
+    head: 2.185
+    luff: 3.709
   moving_keel: true
   moving_keel_type: Centreboard
   solent:
     hull_shape: Long keel - Standard
-    measured_rating: 21.983755802474626
-    thcf: 0.952
-  displacement: 6500
+    measured_rating: 23.429718677186663
+    thcf: 0.971
 created_at: '2020-04-25T17:46:43.244469+00:00'
 id: 5c4487b2-0955-4901-a402-5362ac0cce08
