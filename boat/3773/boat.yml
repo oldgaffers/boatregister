@@ -6,11 +6,9 @@ mainsail_type: gaff
 short_description: Dark blue hull, tan sails (tops'l cream & tan).
 year: 2023
 year_is_approximate: false
-designer: []
 design_class:
   name: Cornish Crabber Pilot Cutter 30
   id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
-builder: []
 place_built: Rock/Wadebridge
 construction_material: grp
 spar_material: wood
@@ -29,9 +27,20 @@ ownerships:
   current: true
 image_key: pkxTJ6
 handicap_data:
+  thcf: 0.969
   beam: 2.896
   draft: 1.067
   length_on_deck: 9.144
   length_on_waterline: 7.849
+  propellor:
+    type: feathering
+    blades: 3
+  sailarea: 55.742
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 24.580683840606575
+    thcf: 0.99
+  displacement: 6350
+  checked: true
 hin: GB-BIH-30067H022
 mmsi: '232046401'
