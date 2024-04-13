@@ -59,17 +59,22 @@ full_description: |-
 year: 1937
 year_is_approximate: false
 designer:
-  name: D.A. Rayner
+- name: D.A. Rayner
   id: afc68d59-e7ba-466e-861f-741e2eeae526
 builder:
-  name: Enterprise Small Craft
+- name: Enterprise Small Craft
   id: a27bca50-d155-428a-be49-a542d64ba316
 place_built: Rock Ferry, Birkenhead
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: pitch pine on oak and elm
-selling_status: not_for_sale
+selling_status: for_sale
+for_sales:
+- created_at: '2024-04-13T17:53:09.276Z'
+  asking_price: 1
+  sales_text: boo
+  flexibility: normal
 home_country: GBR
 home_port: Rosneath
 hull_form: long keel deep forefoot
@@ -131,14 +136,16 @@ handicap_data:
   propellor:
     type: fixed
   sailarea: 24.156
+  displacement: 5000
+  length_over_all: 6.858
   main:
     foot: 4
     head: 4.267
     luff: 4.319
-  length_over_all: 6.858083394294
-  displacement: 5000
   solent:
     hull_shape: Long keel - High volume
-    measured_rating: 15.0592846609983810
+    measured_rating: 15.059284660998381
     thcf: 0.853
+  checked: true
 mmsi: '235109366'
+show_handicap: true
