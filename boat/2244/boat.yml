@@ -3,83 +3,90 @@ oga_no: 2244
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  A modern interpretation of a 1920s Mevagissy Tosher.
-
-full_description: |+
+short_description: A modern interpretation of a 1920s Mevagissy Tosher.
+full_description: |-
   Molly Cobbler's lines were drawn by naval architecht Paul Fisher as a result of
   a commission to produce an open gaff cutter based on a traditional Mevagissey
   Tosher fishing boat, but with a lifting keel and modern construction. The lines
   are very similar to those of a 1926 Tosher in the National maritime museum
   archive.
 
+
   Paul Fisher's plans were modified by the owner to include a cabin and cruising
   accommodation for two. Building commenced in 1997 at Fabian Bush's yard in
   Rowhedge and Molly was launched at Downs Road, Maldon in April 2000.
-
 year: 1999
 year_is_approximate: false
 designer:
-  name: Paul Fisher
+- name: Paul Fisher
   id: de6ce395-680c-46f9-a90f-180310b55e8a
+builder: []
 place_built: Rowhedge
 construction_material: wood
+spar_material: wood
+construction_method: clinker
 selling_status: not_for_sale
 for_sales:
-- flexibility: normal
+- asking_price: 10000
   created_at: '2023-02-17T16:57:55.858Z'
-  updated_at: '2023-02-17T16:57:55.858Z'
-  sold: '2023-09-22'
+  flexibility: normal
   offered: '2023-02-17'
-  sales_text: "All good things come to an end, and it is evident to me that my single-handed\n\
-    sailing days are now limited. *Molly Cobbler* has carried me (almost) the length\n\
-    and breadth of the British Isles (from the Netherlands to Bantry Bay, from Mull\n\
-    to the Isle of Wight) and given me so much joy, but the time has come to look\n\
-    for her new custodian.\_\n\n*Molly Cobbler* is a 19 foot gaff cutter, launched\
-    \ in 2000. Her hull was built\nby Fabian Bush according to a design by Paul Fisher,\
-    \ based on a Mevagissey\nTosher, and everything else was fitted out by her first\
-    \ owner, Bernard Patrick.\nSo *Molly* is unique! Her hull is epoxy-glued clinker\
-    \ plywood over laminated ash\nframes. There are two full-length bunks (a spare\
-    \ for a temporary crew, or to\nkeep a folding bike on!) as well as a 5hp Mercury\
-    \ outboard and a two burner and\ngrill gas cooker. She has mainsail, staysail,\
-    \ jib and asymmetric sails plus\ncockpit cover, sail cover, boom tent and all-over\
-    \ cover (for use ashore), also\nboatyard trailer. She has been very well maintained.\
-    \ She is a brilliant boat for\nsingle-handed sailing, very comfortable and great\
-    \ fun. She slips along in\nimperceptibly light airs on flat water, but keeps me\
-    \ well protected if we find\nourselves out in a Force 6. I hope her next custodian\
-    \ is reading this! I am\nplanning to sail at Milford Haven with the Round Britain\
-    \ boats in May, then to\ntake her up the Bristol Channel, motor across country\
-    \ along the Kennet and Avon\ncanal and down the Thames, then come round the coast\
-    \ to Ipswich for the\ncelebrations at the end of the RBC60 in August. Anyone who\
-    \ thinks *Molly* might\nbe the boat they are looking for is welcome to arrange\
-    \ to come to see and sail\non her during this season, and I will be ready to bid\
-    \ her a fond farewell come\nautumn.\n\n"
+  sales_text: |-
+    All good things come to an end, and it is evident to me that my single-handed
+    sailing days are now limited. *Molly Cobbler* has carried me (almost) the length
+    and breadth of the British Isles (from the Netherlands to Bantry Bay, from Mull
+    to the Isle of Wight) and given me so much joy, but the time has come to look
+    for her new custodian. 
+
+
+    *Molly Cobbler* is a 19 foot gaff cutter, launched in 2000. Her hull was built
+    by Fabian Bush according to a design by Paul Fisher, based on a Mevagissey
+    Tosher, and everything else was fitted out by her first owner, Bernard Patrick.
+    So *Molly* is unique! Her hull is epoxy-glued clinker plywood over laminated ash
+    frames. There are two full-length bunks (a spare for a temporary crew, or to
+    keep a folding bike on!) as well as a 5hp Mercury outboard and a two burner and
+    grill gas cooker. She has mainsail, staysail, jib and asymmetric sails plus
+    cockpit cover, sail cover, boom tent and all-over cover (for use ashore), also
+    boatyard trailer. She has been very well maintained. She is a brilliant boat for
+    single-handed sailing, very comfortable and great fun. She slips along in
+    imperceptibly light airs on flat water, but keeps me well protected if we find
+    ourselves out in a Force 6. I hope her next custodian is reading this! I am
+    planning to sail at Milford Haven with the Round Britain boats in May, then to
+    take her up the Bristol Channel, motor across country along the Kennet and Avon
+    canal and down the Thames, then come round the coast to Ipswich for the
+    celebrations at the end of the RBC60 in August. Anyone who thinks *Molly* might
+    be the boat they are looking for is welcome to arrange to come to see and sail
+    on her during this season, and I will be ready to bid her a fond farewell come
+    autumn.
   seller_gold_id: 776
   seller_member: 5793
-  asking_price: 10000
+  sold: '2023-09-22'
+  updated_at: '2023-02-17T16:57:55.858Z'
 home_country: GBR
-home_port:
+home_port: Chichester
+sail_number: '2244'
 ownerships:
+- member: 2888
+  id: 197
+  start: 1999
+  end: 2013
+  share: 64
+- member: 5793
+  id: 776
+  start: 2013
+  end: 2023
+  share: 64
 - member: 6684
   id: 35144
   start: 2023
   current: true
-- member: 5793
-  id: 776
-  share: 64
-  start: 2013
-  end: 2023
-- name: Bernard Patrick
-  start: 1999
-  end: 2013
-  share: 64
 image_key: spxNNq
 handicap_data:
-  beam: 2.13362594489149
-  draft: 0.60960741282614
-  length_on_deck: 5.7912704218483295
-  length_on_waterline: 5.4864667154352595
-  length_over_spars: 7.010485247500609
-  length_over_all: 5.7912704218483295
+  beam: 2.134
+  draft: 0.61
+  length_on_deck: 5.791
+  length_on_waterline: 5.486
+  length_over_spars: 7.01
+  length_over_all: 5.791
 created_at: '2020-04-25T17:17:08.353596+00:00'
 id: 0b79dbab-9dd2-49ff-80e2-8f90483b87e5
