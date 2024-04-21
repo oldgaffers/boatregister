@@ -2,9 +2,6 @@ name: Deben Lugger
 oga_no: 3631
 generic_type: Dayboat
 rig_type: Yawl
-design_class:
-  name: Deben Lugger
-  id: 82bf5ebb-5109-43a0-b85d-ff53ae0d1602
 mainsail_type: lug
 short_description: A traditionally styled dayboat built in GRP
 full_description: |-
@@ -15,16 +12,20 @@ full_description: |-
   assured offering space for onboard  picnicking and overnight camping with
   purpose built storage areas.
 
+
   The cockpit has ample room for six adults and kit and is CE rated for category C
   waters
+
 
   The rig is light and easily handled with a balanced lug mainsail and mizzen .
   This proven rig keeps the center of effort low making a powerful stable boat.
   Being un-stayed the carbon fibre rig is quick and easy to raise and  lower and
   allows the boat to be de-powered off the wind.
 
+
   Conventional slab reefing is used for reducing sail. The whole rigs stows within
   the length of the boat for easy, safe trailing and storage.
+
 
   She has a shallow long keel with centre plate that gives her great stability and
   enables her to sail in the shallows in as little as 16”. Coupled with excellent
@@ -34,17 +35,20 @@ full_description: |-
   mechanism is easy to operate with its 10:1 gearing and is housed neatly out of
   harms way at the forward end of the locker.
 
+
   The forward spray rail has been designed to accommodate a spray hood that covers
   the flat area above the storage lockers making a great lounging area or with the
   optional camping tent, extension slats and an air mattress produces a very
   comfortable 6ft wide sleeping platform. She can also be sailed with the hood up
   unlike a lot of her competition.
 
+
   Her small aft locker is vented and is designed to take either a single burner
   camping stove or a 12L remote fuel tank whose fuel line passes into the outboard
   well, The outboard well is off-set to port and allows for a modern 4 stroke
   outboard engine of up to 6hp to be mounted and tilted clear of the water when
   sailing or left moored afloat
+
 
   Down either side of the cockpit she has two substantial iroko rails for securing
   safety harnesses, fenders and warps. The helm seats are removable allowing for
@@ -53,21 +57,28 @@ full_description: |-
   bins, for sail ties, warps etc. Alternatively, they can be ordered as additional
   sealed storage lockers .
 
+
   A CQR or Danforth anchor can be stored on chocks on the foredeck with its warp
   being stowed in its own well behind the main mast, the 2-part oars slide forward
   up tubes on the starboard side of the centre plate casing while the blades stow
   in the locker against the casing.
 
+
   Her substantial New England stlye ‘Barn Door’ type rudder gives a light balanced
   feel with minimal weather helm, it is the same depth as the keel allowing it to
   be left mounted while beaching, sailing in the shallows or leaving on a mooring.
+
 
   Launching and recovery could not be easier on her A frame multi roller swing
   beam trailer.
 year_is_approximate: false
 designer:
-  name: Traditional
+- name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
+design_class:
+  name: Deben Lugger
+  id: 82bf5ebb-5109-43a0-b85d-ff53ae0d1602
+builder: []
 place_built: Waldringfield
 construction_material: grp
 spar_material: carbon_composite
@@ -75,13 +86,20 @@ construction_method: cold_moulded
 construction_details: oiled Iroko hardwood trim
 home_country: GBR
 hull_form: centre-board dinghy
+ownerships:
+- member: 6749
+  id: 35228
+  start: '2022'
+  share: 64
+  current: true
 website: https://thedebenlugger.co.uk
 image_key: XLbZPX
 handicap_data:
   beam: 1.899
   draft: 0.61
   length_on_deck: 5.486
+  length_on_waterline: 8.534
 newItems:
   design_class:
-    name: Deben Lugger
     id: 9141bb2d-92f9-4786-abc9-52f9e4a2360b
+    name: Deben Lugger
