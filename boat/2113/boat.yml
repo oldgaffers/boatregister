@@ -3,32 +3,33 @@ oga_no: 2113
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>&#39;Ianthe&#39; has spent all her life at Christchurch Sailing
-  Club.</p>
-full_description: <p>&#39;Ianthe&#39; has spent all her life at Chrishtchurch Sailing
-  Club. Her original mast was replaced in 1993, made by her owner, Steve Renvoize,
-  and her keel and centreboard were renewed in 2003 by Rossiters. She has never had
-  an engine.</p>
+short_description: '''Ianthe'' has spent all her life at Christchurch Sailing Club.'
+full_description: |-
+  'Ianthe' has spent all her life at Christchurch Sailing Club. Her original mast
+  was replaced in 1993, made by her owner, Steve Renvoize, and her keel and
+  centreboard were renewed in 2003 by Rossiters. She has never had an engine. She
+  is owned by a syndicate of 8, all of whom must be members of Christchurch
+  Sailing Club.
 year: 1890
 year_is_approximate: false
 designer:
-  name: Percival Hunt
+- name: Percival Hunt
   id: 6fbb10ee-a9c9-44f3-a641-c290692576ea
 builder:
-  name: Berthon Boat Co. Ltd.
+- name: Berthon Boat Co. Ltd.
   id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
 place_built: Lymington
 construction_material: wood
 construction_method: carvel
 construction_details: carvel wood
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Christchurch
 hull_form: cut_away_stem
 sail_number: '3'
 ownerships:
-- end: 33
+- name: ''
+  end: 33
   note: '''Ianthe'' was owned for 33 years, 1916 - 1949, by Melville Druit, Commodore
     of the Christchurch Sailing Club.'
   text: '''Ianthe'' was owned for'
@@ -39,29 +40,56 @@ ownerships:
 - member: 1950
   id: 113
   start: 1987
-  share: 64
+  share: 8
   current: true
-id: 4cd239ff-2317-47e5-b293-ef60d85d1706
+- name: John Roantree
+  start: 2024
+  share: 8
+  current: true
+- name: Lawrence Crapper
+  start: 2024
+  share: 8
+  current: true
+- name: Simon Sullivan
+  start: 2024
+  share: 8
+  current: true
+- member: 4786
+  id: 514
+  start: 2024
+  share: 8
+  current: true
+- name: Keith Barkway
+  start: 2024
+  share: 8
+  current: true
+- name: Luke Ridout
+  start: 2024
+  share: 8
+  current: true
+- name: Paul De Le Feuillade
+  start: 2024
+  share: 8
+  current: true
 image_key: m9CWHR
-thumb: https://photos.smugmug.com/photos/i-TmhBjbt/0/Th/i-TmhBjbt-Th.jpg
 handicap_data:
   thcf: 0.906
-  beam: 2.1336
-  draft: 0.6096
-  fore_triangle_height: 5.4864667154352595
-  fore_triangle_base: 3.0480370641306997
-  length_over_all: 7.315288953913679
-  sailarea: 28.74238945093315
-  main:
-    foot: 4.87685930260912
-    head: 3.3528407705437697
-    luff: 3.505254815898561
+  beam: 2.134
+  draft: 0.61
+  fore_triangle_height: 5.486
+  fore_triangle_base: 3.048
+  length_on_deck: 7.315
+  length_on_waterline: 6.096
+  length_over_spars: 8.382
+  sailarea: 28.742
   topsail:
-    luff: 3.0480370641306997
-    perpendicular: 1.9812362838332114
+    luff: 3.048
+    perpendicular: 1.981
   draft_keeldown: 1.6764325774201414
-  length_over_spars: 8.38211411850768
-  length_on_waterline: 6.0960741282613995
-  length_on_deck: 7.3152
+  length_over_all: 7.315
+  main:
+    foot: 4.877
+    head: 3.353
+    luff: 3.505
 created_at: '2020-04-25T17:15:13.300123+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 4cd239ff-2317-47e5-b293-ef60d85d1706
