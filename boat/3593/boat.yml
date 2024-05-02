@@ -3,23 +3,29 @@ oga_no: 3593
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p><em>Isadora </em>is a lovely open day boat.</p>
-full_description: <p>After being laid up by previous owners <em>Isadora </em>sat with
-  water in her, and required a degree of tlc when bought in 2001. She has 2 suits
-  of sails. One set tan, and newer set white.</p>
+short_description: '*Isadora* is a lovely open day boat.'
+full_description: |-
+  After being laid up by previous owners *Isadora* sat with water in her, and
+  required a degree of tlc when bought in 2001. She has 2 suits of sails. One set
+  tan, and newer set white.
 year: 1992
 year_is_approximate: false
 designer:
-  name: Terry Heard
+- name: Terry Heard
   id: c7a4b5d4-0751-4858-8054-b0e0636bb711
+design_class:
+  name: Clovelly Picarooner
+  id: 11aace65-18e9-4ec8-b204-763199e59f90
 builder:
-  name: Gaffers and Luggers
+- name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
 place_built: Mylor Cornwall
+construction_material: grp
 spar_material: wood
 construction_details: Wood interior
+previous_names:
+- Puffin
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Penryn
 hull_form: centre-board dinghy
@@ -30,16 +36,12 @@ ownerships:
   start: 2021
   share: 64
   current: true
-id: f8ad5987-33a8-4f43-b7cf-83b2ad2b3e8d
 image_key: nkLKL3
-thumb: https://photos.smugmug.com/photos/i-PDnDNPQ/0/Th/i-PDnDNPQ-Th.png
 handicap_data:
-  beam: 1.8288222384784198
-  draft: 0.9144111192392099
-  length_on_deck: 47.549378200438916
+  beam: 1.829
+  draft: 0.914
+  length_on_deck: 4.724
+  length_on_waterline: 8.534
 created_at: '2021-10-25T13:51:40.836306+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-air_draft: 16
 hin: CP 9
-previous_names:
-- Puffin
+id: f8ad5987-33a8-4f43-b7cf-83b2ad2b3e8d
