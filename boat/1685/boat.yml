@@ -2,49 +2,55 @@ name: Thistle
 oga_no: 1685
 rig_type: Cutter
 mainsail_type: gaff
+short_description: |-
+  *Thistle* was commissioned by the Royal Clyde Yacht Club and launched on 8th May
+  1890.
 full_description: |-
   Dixon Kemps Manual Of Yacht and Boat sailing. Y.M. July & August 1937 Log 91/3
   Owns Hirta, Alert
+
+
+  *Thistle* was commissioned by the Royal Clyde Yacht Club, together with an
+  identical sister *Mayflower*, and launched on 8th May 1890.
 year: 1890
 year_is_approximate: false
 designer:
-- id: 3199db8d-e122-4423-b3b8-038e30c077dd
-  name: G.L. Watson
+- name: G.L. Watson
+  id: 3199db8d-e122-4423-b3b8-038e30c077dd
 design_class:
   name: Clyde OD
   id: 6a4ad2f7-cbed-4444-8127-7646ff4992b9
 builder:
-- id: 2672cda9-f642-42e7-bc28-2ec07d86d165
-  name: R. McAlister and Son
+- name: R. McAlister and Son
+  id: 2672cda9-f642-42e7-bc28-2ec07d86d165
 place_built: Dumbarton
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel
 selling_status: not_for_sale
-for_sales: []
 reference:
-- Dixon Kemps Manual Of Yacht and Boat sailing.  YM July & August 1937
+- Dixon Kemps Manual Of Yacht and Boat sailing.  YM July & August 1937. GL Watson.
+  the art and science of yacht design, page 169
 - Log 91/3
 ownerships:
 - name: M Jones
   start: 2012
   share: 64
-image_key: JNstrz
 handicap_data:
   thcf: 0.963248873
-  beam: 2.1336
-  draft: 1.3716
-  fore_triangle_height: 7.315288953913679
-  fore_triangle_base: 4.724457449402585
-  length_on_deck: 7.0104
-  length_on_waterline: 6.705681541087539
+  beam: 2.134
+  draft: 1.372
+  fore_triangle_height: 7.315
+  fore_triangle_base: 4.724
+  length_on_deck: 7.01
+  length_on_waterline: 6.706
   topsail:
-    luff: 4.57205559619605
-    perpendicular: 2.43842965130456
-  length_over_all: 7.010485247500609
+    luff: 4.572
+    perpendicular: 2.438
+  length_over_all: 7.01
   main:
-    foot: 5.4864667154352595
-    head: 4.57205559619605
-    luff: 4.87685930260912
+    foot: 5.486
+    head: 4.572
+    luff: 4.877
 created_at: '2020-04-25T17:08:41.523803+00:00'
 id: 0baafc7c-0ee5-4cf1-9433-400456df44a9
