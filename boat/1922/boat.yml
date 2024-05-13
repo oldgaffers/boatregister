@@ -1,23 +1,26 @@
 name: Sheila
 oga_no: 1922
+generic_type: Racing Yacht
 rig_type: Sloop
 mainsail_type: gaff
 year: 1921
 year_is_approximate: false
-designer: 8a9c1577-78e7-4b61-8fbf-a50da02efe0a
+designer:
+- name: Starling Burgess
+  id: 8a9c1577-78e7-4b61-8fbf-a50da02efe0a
 design_class:
   name: 6 Metre
   id: 70d8ab47-0b98-4c96-a4b9-1fd715c0d3fb
 builder:
-  name: Herreshoff
-  id: 417cff4f-e242-4cf3-a94c-436fa819dac6
+- name: Herreshoff Manufacturing Co.
+  id: 56dde7ef-29a3-4294-9a45-8ad7f9eb8da4
+place_built: USA
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
-home_port: Hamble Point
+home_port: Helford
 hull_form: long keel sloping forefoot
 sail_number: US 4
 ownerships:
@@ -33,27 +36,27 @@ image_key: fxdkM2
 handicap_data:
   thcf: 1.007
   beam: 2.164
-  draft: 2.56
+  draft: 1.829
   fore_triangle_height: 9.174
   fore_triangle_base: 2.438
   length_on_deck: 8.367
   length_on_waterline: 7.138
   propellor:
-    blades: 0
     type: none
-  sailarea: 44.301
   topsail:
     luff: 5.273
     perpendicular: 2.743
-  length_over_all: 8.38211411850768
+  displacement: 4570
+  length_over_all: 8.382
   main:
     foot: 6.096
     head: 5.182
     luff: 5.182
-  displacement: 4570
   solent:
     hull_shape: Long keel - Standard
-    measured_rating: 24.82006963841127
+    measured_rating: 24.82359123378255
     thcf: 0.998
+  peformance_details: 'Adjustable outhaul, Main sheet traveller, '
+  checked: true
 created_at: '2020-04-25T17:12:17.689088+00:00'
 id: 30f41b43-d476-428e-b2da-f9865ccb3357
