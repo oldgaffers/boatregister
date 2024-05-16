@@ -2,47 +2,48 @@ name: Ianthe
 oga_no: 1013
 rig_type: Sloop
 mainsail_type: gaff
-full_description: Log 83/4  21 ft. centreboard three-quarter decked sloop. Believed
-  to have been built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington.  The
-  boat has wintered in the same shed, which was built for her (and her sisters) since
-  1913 at Christchurch till for sale in '83. Professionally maintained all her life.  Performance
-  remarkable.  In 3 OGA' races she has 2 firsts & a second.
+short_description: duplicate entry for *Ianthe* OGA 2113
+full_description: |-
+  Log 83/4 21 ft. centreboard three-quarter decked sloop. Believed to have been
+  built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington. The boat
+  has wintered in the same shed, which was built for her (and her sisters) since
+  1913 at Christchurch till for sale in '83. Professionally maintained all her
+  life. Performance remarkable. In 3 OGA' races she has 2 firsts & a second.
 year: 1895
 year_is_approximate: false
 designer:
-  name: E. Inman
+- name: E. Inman
   id: c726ec44-2c43-4620-90e3-6631a912c6b6
 builder:
-  name: Inman and Co Ltd
+- name: Inman and Co Ltd
   id: a90b6e84-74a4-40dc-9b32-fc4c6c7dab5b
 place_built: Lymington
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
 reference:
 - Log 83/4
+sail_number: '3'
 ownerships:
 - name: J Newbury
   start: 2012
   share: 64
-id: de5d5a39-50bb-420c-8cb1-2b609269b60a
 handicap_data:
   thcf: 0.906
-  beam: 2.1336
-  draft: 0.6096
-  fore_triangle_height: 5.4864667154352595
-  fore_triangle_base: 3.0480370641306997
-  length_over_all: 7.31528896549622
-  sailarea: 28.742329211129746
-  main:
-    foot: 4.87685930260912
-    head: 3.3528407705437697
-    luff: 3.5052426237503047
+  beam: 2.134
+  draft: 0.61
+  fore_triangle_height: 5.486
+  fore_triangle_base: 3.048
+  length_on_deck: 7.315
+  length_on_waterline: 6.096
+  sailarea: 28.742
   topsail:
-    luff: 3.0480370641306997
-    perpendicular: 1.9812240916849548
+    luff: 3.048
+    perpendicular: 1.981
   draft_keeldown: 1.6764203852718849
-  length_on_waterline: 6.0960741282613995
-  length_on_deck: 7.3152
+  length_over_all: 7.315
+  main:
+    foot: 4.877
+    head: 3.353
+    luff: 3.505
 created_at: '2020-04-25T16:58:33.502408+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: de5d5a39-50bb-420c-8cb1-2b609269b60a
