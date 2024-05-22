@@ -2,39 +2,53 @@ name: Merlin of Falmouth
 oga_no: 3009
 rig_type: Cutter
 mainsail_type: gaff
+short_description: |-
+  A replica of Peggy, a 1902 Bristol Pilot Cutter built a Pill.  In private 
+  ownership but chartered occasionally, particulatly with charitable
+  organisations  such as SetSail Trust in Guernsey
 year: 2010
 year_is_approximate: false
+designer: []
 builder:
-  name: Cockwells
+- name: Cockwells
   id: ba7746ff-a625-4270-a6b8-b90e06678211
 place_built: Falmouth
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
+home_country: UK
+home_port: Plymouth
 hull_form: long keel sloping forefoot
+sail_number: F14
 ownerships:
-- name: Lance Whitehead
+- member: 5470
+  id: 35143
   start: 2012
   share: 64
+- member: 5470
+  id: 35143
+  start: '2012'
+  share: 64
+  current: true
+website: https://www.classic-charters.co.uk/
 image_key: cX7DMj
 handicap_data:
   thcf: 1.161667065
-  beam: 4.0996
-  draft: 2.2007
-  fore_triangle_height: 11.171055840039013
-  fore_triangle_base: 9.141063155327968
-  length_on_deck: 14.6304
-  length_on_waterline: 13.039502560351133
+  beam: 4.1
+  draft: 2.201
+  fore_triangle_height: 11.171
+  fore_triangle_base: 9.141
+  length_on_deck: 14.63
+  length_on_waterline: 13.04
   propellor:
     blades: 3
     type: folding
   topsail:
-    luff: 9.500731528895392
-    perpendicular: 4.40136552060473
-  length_over_all: 14.630577907827359
+    luff: 9.501
+    perpendicular: 4.401
+  length_over_all: 14.631
   main:
-    foot: 8.83930748597903
-    head: 7.059253840526701
-    luff: 8.601560594976835
+    foot: 8.839
+    head: 7.059
+    luff: 8.601
 created_at: '2020-04-25T17:33:59.69671+00:00'
 id: 34d2b03a-2dac-4274-aaac-e0d3390bc907
