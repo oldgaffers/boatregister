@@ -3,18 +3,18 @@ oga_no: 2113
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: '''Ianthe'' has spent all her life at Christchurch Sailing Club.'
+short_description: Ianthe has spent all her life at Christchurch Sailing Club.
 full_description: |-
-  'Ianthe' has spent all her life at Christchurch Sailing Club. Her original mast
+  *Ianthe* has spent all her life at Christchurch Sailing Club. Her original mast
   was replaced in 1993, made by her owner, Steve Renvoize, and her keel and
   centreboard were renewed in 2003 by Rossiters. She has never had an engine. She
   is owned by a syndicate of 8, all of whom must be members of Christchurch
   Sailing Club.
-year: 1890
-year_is_approximate: false
+year: 1898
+year_is_approximate: true
 designer:
-- name: Percival Hunt
-  id: 6fbb10ee-a9c9-44f3-a641-c290692576ea
+- name: Percival Hart
+  id: c48d0149-ce11-48d7-ab44-dfa975acd4e9
 builder:
 - name: Berthon Boat Co. Ltd.
   id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
@@ -25,7 +25,7 @@ construction_details: carvel wood
 selling_status: not_for_sale
 home_country: GBR
 home_port: Christchurch
-hull_form: cut_away_stem
+hull_form: centre-boarder
 sail_number: '3'
 ownerships:
 - name: ''
@@ -76,12 +76,12 @@ image_key: m9CWHR
 handicap_data:
   thcf: 0.906
   beam: 2.134
-  draft: 0.61
+  draft: 0.512
   fore_triangle_height: 5.486
   fore_triangle_base: 3.048
-  length_on_deck: 7.315
+  length_on_deck: 7.443
   length_on_waterline: 6.096
-  length_over_spars: 8.382
+  length_over_spars: 8.306
   sailarea: 28.742
   topsail:
     luff: 3.048
