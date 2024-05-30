@@ -3,6 +3,7 @@ oga_no: 3623
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
+short_description: Cornish Shrimper 19 Mk 2
 year: 1996
 year_is_approximate: false
 designer:
@@ -11,6 +12,9 @@ designer:
 design_class:
   name: Cornish Shrimper
   id: 7caf07ef-acf3-434b-a639-5c94188071a8
+builder:
+- name: Roger Dongray
+  id: 8c8f4bfb-f723-4dba-99de-5bddb3e8a575
 place_built: Rock
 construction_material: grp
 spar_material: wood
@@ -20,12 +24,12 @@ home_port: Waldringfield
 hull_form: centre-boarder
 sail_number: '756'
 ownerships:
-- member: 6761
-  id: 35241
+- name: Catherine Hughes
   start: '2022'
   share: 32
   current: true
-- name: Catherine Hughes
+- member: 6761
+  id: 35241
   start: '2022'
   share: 32
   current: true
