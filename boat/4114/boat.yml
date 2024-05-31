@@ -7,13 +7,13 @@ short_description: Wylo Class built in 1995
 year: 1995
 year_is_approximate: false
 designer:
-  name: Nick Skeates
+- name: Nick Skeates
   id: 75b8e267-30d0-4825-90e1-b253d02723a5
 design_class:
   name: Wylo II
   id: c841a838-26f9-42e7-bf3c-d3fe724552f3
 builder:
-  name: Chris Garner
+- name: Chris Garner
   id: 2f68039f-3a14-45b5-a3fd-6e5873beb4b0
 place_built: Hayling Island
 construction_material: steel
@@ -31,8 +31,8 @@ ownerships:
 - member: 4473
   id: 461
   start: 2005
+  end: 2024
   share: 64
-  current: true
 image_key: Sh4hSb
 handicap_data:
   thcf: 0.949
@@ -49,7 +49,7 @@ handicap_data:
     luff: 3.353
     perpendicular: 2.083
   main:
-    luff: 5.817
     foot: 5.029
     head: 3.124
+    luff: 5.817
 id: bf9cbb01-c3d0-496d-92dc-d7ec250a3003
