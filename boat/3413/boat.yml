@@ -6,53 +6,48 @@ mainsail_type: gaff
 year: 1998
 year_is_approximate: false
 designer:
-  name: Roger Dongray
+- name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Cornish Shrimper
   id: 7caf07ef-acf3-434b-a639-5c94188071a8
 builder:
-  name: Cornish Crabbers Ltd.
+- name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
 spar_material: wood
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Waldringfield
 hull_form: centre-boarder
 sail_number: '756'
-hin: GBBIHI9756A898
-image_key: L6Q4D6
-handicap_data:
-  thcf: 0.826
-  length_on_deck: 5.8674
-  length_on_waterline: 5.334
-  propellor:
-    type: none
-  sailarea: 18.023
-  checked: true
-  beam: 2.1854
-  draft: 0.4572
-  fore_triangle_height: 4.6482
-  fore_triangle_base: 2.539
-  main:
-    foot: 3.5052
-    head: 3.099816
-    luff: 3.3528
-  moving_keel: true
-  length_overall: 5.8674
-  draft_keel_down: 1.2192
-  moving_keel_type: Centreboard
-  length_over_spars: 6.858
 ownerships:
 - member: 6761
   id: 35241
   start: '2022'
   share: 32
   current: true
-- name: Catherine Hughes
-  start: '2022'
-  share: 32
-  current: true
+image_key: L6Q4D6
+handicap_data:
+  thcf: 0.826
+  beam: 2.185
+  draft: 0.457
+  fore_triangle_height: 4.648
+  fore_triangle_base: 2.539
+  length_overall: 5.867
+  length_on_deck: 5.867
+  length_on_waterline: 5.334
+  length_over_spars: 6.858
+  propellor:
+    type: none
+  sailarea: 18.023
+  checked: true
+  draft_keel_down: 1.219
+  main:
+    foot: 3.505
+    head: 3.1
+    luff: 3.353
+  moving_keel: true
+  moving_keel_type: Centreboard
+hin: GBBIHI9756A898
