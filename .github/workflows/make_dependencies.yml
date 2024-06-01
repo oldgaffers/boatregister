@@ -50,7 +50,7 @@ jobs:
           curl -H 'content-type: application/json' -X POST https://5li1jytxma.execute-api.eu-west-1.amazonaws.com/default/public/update -d "$CHANGED_BOATS"
           echo ok
       - name: Add & Commit
-        uses: EndBug/add-and-commit@v9.1.0
+        uses: EndBug/add-and-commit@v9
         with:
           add: '.'
       - name: publish pages
