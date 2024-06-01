@@ -4,7 +4,6 @@ generic_type: Mevagissy Tosher
 rig_type: Cutter
 mainsail_type: gaff
 year_is_approximate: false
-designer: []
 design_class:
   name: Tosher 18
   id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
@@ -14,7 +13,7 @@ builder:
 place_built: Mylor
 construction_material: grp
 spar_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2022-10-02T19:56:17.560231+00:00'
   asking_price: 6500
@@ -65,6 +64,9 @@ for_sales:
   seller_gold_id: 35006
   seller_member: 6588
   updated_at: '2022-10-02T19:56:17.560231+00:00'
+  date_sold: '2024-05-22T23:00:00.000Z'
+  sale_price: 6500
+  summary: <p>final price not known</p>
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel deep forefoot
