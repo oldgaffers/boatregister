@@ -16,7 +16,7 @@ builder:
 place_built: Lostwithiel
 construction_material: grp
 spar_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-05-29T15:44:00.013Z'
   asking_price: 750
@@ -28,6 +28,9 @@ for_sales:
 
     https://dinghymart.co.uk/classifieds/6681/limpet-11/
   flexibility: normal
+  date_sold: '2024-06-10T08:33:51.426Z'
+  sale_price: 750
+  summary: <p>final price not known</p>
 home_country: GBR
 home_port: Altrincham
 hull_form: centre-board dinghy
@@ -36,8 +39,8 @@ ownerships:
 - member: 6390
   id: 34724
   start: '2022'
+  end: 2024
   share: 64
-  current: true
 image_key: htx8Kj
 handicap_data:
   thcf: 0.688
