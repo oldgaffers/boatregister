@@ -3,27 +3,20 @@ oga_no: 2755
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |-
-  Grace is quite unusual for a Tamarisk 24, she has a large open cockpit and small
-  bow cuddy. She styled to resemble an Itchen Ferry.
 full_description: |-
-  Grace was previously called 'Small Hopes', she was moored in Mount Lake,
-  Keyhaven. Some years ago, she was purchased, transported to Kemps Quay in
-  Southampton and underwent a very extensive refit. At the end of the refit, she
-  was named 'Grace'. Grace changed hands, and went to Wooten Creek on the Isle of
-  Wight for a few years. We purchased Grace in June '23, and moved her back to
-  Keyhaven where she is currently moored.
+  Converted into an open fishing boat, with cuddy under fordeck. For sale on web,
+  Nov 06
 year: 1988
 year_is_approximate: false
 designer:
-- name: David M. Cannell
-  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+- id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+  name: David M. Cannell
 design_class:
   name: Tamarisk 24
   id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
 builder:
-- name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+- id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+  name: North Cornwall Marine
 place_built: Fowey
 construction_material: grp
 spar_material: wood
@@ -31,15 +24,15 @@ construction_details: GRP
 previous_names:
 - Small Hopes
 selling_status: not_for_sale
-home_country: United Kingdom
 home_port: Keyhaven
 hull_form: long keel deep forefoot
 ownerships:
 - name: Robert Millar
   start: 2004
   share: 64
+image_key: vRW87M
 handicap_data:
-  thcf: 0.921
+  thcf: 0.913
   beam: 2.438
   draft: 0.991
   fore_triangle_height: 7.8
@@ -49,9 +42,6 @@ handicap_data:
   propellor:
     blades: 3
     type: fixed
-  topsail:
-    luff: 4.051
-    perpendicular: 1.75
   displacement: 2500
   length_over_all: 7.315
   main:
