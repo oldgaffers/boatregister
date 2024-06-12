@@ -3,9 +3,16 @@ oga_no: 2755
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
+short_description: |-
+  Grace is quite unusual for a Tamarisk 24, she has a large open cockpit and small
+  bow cuddy. She styled to resemble an Itchen Ferry.
 full_description: |-
-  Converted into an open fishing boat, with cuddy under fordeck. For sale on web,
-  Nov 06
+  Grace was previously called 'Small Hopes', she was moored in Mount Lake,
+  Keyhaven. Some years ago, she was purchased, transported to Kemps Quay in
+  Southampton and underwent a very extensive refit. At the end of the refit, she
+  was named 'Grace'. Grace changed hands, and went to Wooten Creek on the Isle of
+  Wight for a few years. We purchased Grace in June '23, and moved her back to
+  Keyhaven where she is currently moored.
 year: 1988
 year_is_approximate: false
 designer:
@@ -24,6 +31,7 @@ construction_details: GRP
 previous_names:
 - Small Hopes
 selling_status: not_for_sale
+home_country: United Kingdom
 home_port: Keyhaven
 hull_form: long keel deep forefoot
 ownerships:
@@ -31,7 +39,7 @@ ownerships:
   start: 2004
   share: 64
 handicap_data:
-  thcf: 0.913
+  thcf: 0.921
   beam: 2.438
   draft: 0.991
   fore_triangle_height: 7.8
@@ -39,8 +47,12 @@ handicap_data:
   length_on_deck: 7.315
   length_on_waterline: 6.453
   propellor:
-    type: fixed
     blades: 3
+    type: fixed
+  topsail:
+    luff: 4.051
+    perpendicular: 1.75
+  displacement: 2500
   length_over_all: 7.315
   main:
     foot: 4.798
@@ -50,6 +62,5 @@ handicap_data:
     hull_shape: Long keel - Standard
     measured_rating: 22.913434450832593
     thcf: 0.964
-  displacement: 2500
 created_at: '2020-04-25T17:26:41.298244+00:00'
 id: 5f64d8eb-242e-47a3-9ae6-509adeccbe5e
