@@ -5,33 +5,41 @@ rig_type: Sloop
 mainsail_type: lug
 year: 2010
 year_is_approximate: false
+designer: []
 builder:
-  name: Iain McBride
+- name: Iain McBride
   id: e32a3d0d-c35d-453e-8c96-e80004d5c0fc
 place_built: Heswall Wirral
 construction_material: woodepoxy
 construction_method: clinker_ply
 construction_details: Glued ply clinker
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- created_at: '2024-06-16T10:40:14.126Z'
+  asking_price: 4000
+  sales_text: |-
+    11 ft. Scow, glue ply clinker, Robins best quality mahogony ply.  West epoxy and
+    varnished throughout.   Built in buoyancy.   Blue lugsail by Jeckels and white
+    main and Jib by Sanders which have hardly been used.   Fittings by Classic
+    Marine.  Oars,   Combi trailer, and cover.   Immaculate condition, all as new.
+  flexibility: normal
 ownerships:
 - member: 3842
   id: 336
   start: 2010
   share: 64
   current: true
-id: 84b21deb-b2d8-47da-86f8-5823470f058e
 image_key: G5KjSX
-thumb: https://photos.smugmug.com/photos/i-hkvsnGG/0/Th/i-hkvsnGG-Th.gif
 handicap_data:
   thcf: 0.705969093
-  beam: 1.4478
-  length_over_all: 3.5296269202633503
+  beam: 1.448
+  draft: 1.372
+  length_on_deck: 3.53
+  length_on_waterline: 3.2
+  length_over_all: 3.53
   main:
-    foot: 2.7676176542306754
-    head: 2.8194342843208973
-    luff: 0.9662277493294318
-  length_on_waterline: 3.2004389173372347
-  length_on_deck: 3.5296
+    foot: 2.768
+    head: 2.819
+    luff: 0.966
 created_at: '2020-04-25T17:33:22.842518+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 84b21deb-b2d8-47da-86f8-5823470f058e
