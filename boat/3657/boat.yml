@@ -5,9 +5,15 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
   Naiad is a Fairey Falcon hull built around 1963 and rebuilt in 2015 after the
-  desogn of Shoal Waters by A.C.Stock.
+  design of Shoal Waters by A.C.Stock.
 year: 1963
 year_is_approximate: true
+designer:
+- name: A.C. Stock / M Austen
+  id: 420ea2a9-ca4c-44eb-a97e-40dbf3289746
+builder:
+- name: Fairey Marine Ltd. / M Austen
+  id: 48976ac0-3477-4d55-a422-da0e4fb095c8
 place_built: Southery, Norfolk
 construction_material: wood
 spar_material: wood
@@ -16,14 +22,16 @@ home_country: Essex
 home_port: West Mersea
 hull_form: centre-boarder
 ownerships:
-- name: Mark Austen
+- member: 6766
+  id: 35246
   start: '2024'
   share: 64
   current: true
 website: https://svnaiad.uk
 image_key: Mp98Ff
 handicap_data:
-  beam: 1.804
+  beam: 1.829
   draft: 0.305
   length_on_deck: 5.029
-  length_on_waterline: 4.877
+  length_on_waterline: 4.724
+  checked: true
