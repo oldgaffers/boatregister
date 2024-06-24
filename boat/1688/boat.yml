@@ -16,7 +16,7 @@ construction_material: woodepoxy
 spar_material: wood
 construction_method: clinker
 construction_details: Multi-chine plywood, lapstrake, epoxy encapsulated timbers
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2023-12-23T08:26:10.820Z'
   asking_price: 3500
@@ -47,7 +47,9 @@ for_sales:
     Included is a road trailer with ball hitch, winch, spare wheel and jack.
   flexibility: normal
   reduced: false
-  asking_price: 3500
+  date_sold: '2024-06-24T19:07:12.975Z'
+  sale_price: 3500
+  summary: <p>final price not known</p>
 home_country: GBR
 home_port: South Woodham Ferrers
 hull_form: centre-boarder
@@ -57,8 +59,8 @@ ownerships:
   share: 64
 - name: Mike Sanders Hewitt
   start: 2015
+  end: 2024
   share: 64
-  current: true
 image_key: 4W4xq4
 handicap_data:
   thcf: 0.756930273
