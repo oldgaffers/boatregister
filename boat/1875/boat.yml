@@ -6,41 +6,44 @@ mainsail_type: gaff
 year: 1972
 year_is_approximate: false
 designer:
-  name: L.H. Walker
+- name: L.H. Walker
   id: 0eadeae8-3aed-497d-8d5e-1caca3fc3215
 design_class:
   name: Tideway 12
   id: 44264997-3e5a-4718-a1ff-6dbcd135f3ce
 builder:
-  name: L.H. Walker
+- name: L.H. Walker
   id: 1f2a16b2-6602-44b8-8f5f-a0a89f3db4f0
 place_built: Leigh on Sea
 construction_material: wood
+spar_material: wood
 construction_method: clinker
 construction_details: Clinker Mahogany on Oak
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
-home_port: Kingsbridge
+home_port: Kingsbridge, Devon
+hull_form: centre-board dinghy
+sail_number: '281'
 ownerships:
 - member: 1377
   id: 59
   start: 1990
   share: 64
   current: true
-id: d776b893-574e-4173-847a-409b6410517d
+image_key: zx4G7S
 handicap_data:
   thcf: 0.731961707
-  beam: 1.4722
-  draft: 0.1524
-  fore_triangle_height: 3.0998536942209216
-  fore_triangle_base: 1.097293343087052
-  length_over_all: 3.6576444769568397
+  beam: 1.472
+  draft: 0.152
+  fore_triangle_height: 3.1
+  fore_triangle_base: 1.097
+  length_on_deck: 3.658
+  length_on_waterline: 3.505
+  length_over_all: 3.658
   main:
-    foot: 2.3622287247012923
-    head: 3.176054620824189
-    luff: 1.4234333089490367
-  length_on_waterline: 3.5052426237503047
-  length_on_deck: 3.6576
+    foot: 2.362
+    head: 3.176
+    luff: 1.423
+  checked: true
 created_at: '2020-04-25T17:11:34.132845+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: d776b893-574e-4173-847a-409b6410517d
