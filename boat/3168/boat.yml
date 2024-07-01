@@ -3,45 +3,58 @@ oga_no: 3168
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>2½ ton Hillyard</p>
-full_description: <p>Full restoration started December 2013.</p>
+short_description: 2½ ton Hillyard
+full_description: Full restoration started December 2013.
 year: 1935
 year_is_approximate: false
 designer:
-  name: David Hillyard
+- name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 design_class:
   name: 2 1/2 Tonner
   id: 5be1e6db-e482-4704-a65e-8d2e7e8d3772
 builder:
-  name: David Hillyard
+- name: David Hillyard
   id: d649c6a5-3acc-4f60-868f-7415641908a4
 place_built: Littlehampton
 construction_material: wood
 spar_material: wood
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Hull
+hull_form: long keel sloping forefoot
+ssr: SSR160013
 ownerships:
 - member: 5832
   id: 35002
   start: 2012
   share: 64
   current: true
-id: 2199e74e-3837-437a-ad3c-1c20fa0e5674
 handicap_data:
-  beam: 1.9812
-  draft: 1.0668
-  fore_triangle_height: 3.9624
-  fore_triangle_base: 1.8288
+  thcf: 0.818
+  beam: 1.981
+  draft: 0.914
+  fore_triangle_height: 3.962
+  fore_triangle_base: 1.829
+  length_overall: 5.486
+  length_on_deck: 5.486
+  length_on_waterline: 5.182
+  length_over_spars: 6.096
+  propellor:
+    blades: 3
+    type: fixed
+  sailarea: 17.326
   main:
     foot: 3.81
-    head: 2.4384
-    luff: 3.3528000000000002
-  length_overall: 5.4864
-  length_over_spars: 6.096
-  length_on_waterline: 5.1816
-  length_on_deck: 5.4864
+    head: 2.438
+    luff: 3.353
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 12.798738516753165
+    thcf: 0.815
+  displacement: 2540
+  peformance_details: "No high performance features.  Sails home made, re tailored\
+    \ from discarded worn sails.\nBoat is a DIY project with no professional restoration\
+    \ input at all "
 created_at: '2020-04-25T17:45:07.361285+00:00'
-updated_at: '2022-08-17T21:16:05.191112+00:00'
+id: 2199e74e-3837-437a-ad3c-1c20fa0e5674
