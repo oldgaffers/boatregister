@@ -27,13 +27,23 @@ ownerships:
   current: true
 image_key: WzBGrN
 handicap_data:
-  thcf: 0.827
   beam: 2.38
   draft: 0.57
-  length_on_deck: 6.401
-  length_on_waterline: 6.099
+  length_overall: 6.4
+  length_on_deck: 6.4
+  length_on_waterline: 6.1
+  length_over_spars: 7.5712
   propellor:
     blades: 3
     type: fixed
-  sailarea: 17.513
+  thcf: 0.83
+  fore_triangle_height: 5.66
+  fore_triangle_base: 3.03
+  main:
+    luff: 4.17
+    foot: 3.871
+    head: 3.319
+  moving_keel: true
+  draft_keel_down: 1.35
+  moving_keel_type: Centreboard
 mmsi: '235913224'
