@@ -9,9 +9,13 @@ full_description: |-
   September 2022 and June 2023. Spars, oars, foils and sail also made by owner.
 year: 2023
 year_is_approximate: false
+designer:
+- name: Paul Gartside
+  id: 0557a793-41ba-4182-8138-206701b31451
 design_class:
   name: One-off
   id: 12321668-b184-4156-8f26-c55957d4d183
+builder: []
 place_built: Boatbuilding Academy Lyme Regis
 construction_material: woodepoxy
 spar_material: wood
@@ -21,13 +25,14 @@ home_country: England
 home_port: Cargreen Yacht Club
 hull_form: centre-board dinghy
 ownerships:
-- name: Jonathon Tully
+- member: 6770
+  id: 35250
   start: '2023'
   share: 64
   current: true
 image_key: cbqPtX
 handicap_data:
-  beam: 1.737
+  beam: 1.829
   draft: 0.229
   length_on_deck: 3.719
   length_on_waterline: 3.658
