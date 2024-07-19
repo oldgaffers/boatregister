@@ -7,11 +7,14 @@ short_description: 'Cornish Coble #344'
 year: 1987
 year_is_approximate: false
 designer:
-  name: Roger Dongray
+- name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Cornish Crabber Coble
   id: 34d82e7b-ea12-4c40-939e-379b9c400f0b
+builder:
+- name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
 spar_material: wood
@@ -41,4 +44,5 @@ handicap_data:
     hull_shape: Long keel - Low volume
     measured_rating: 11.24652844041492
     thcf: 0.794
+  checked: true
 hin: HOB344F395
