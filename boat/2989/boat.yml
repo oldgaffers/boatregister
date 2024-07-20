@@ -3,37 +3,51 @@ oga_no: 2989
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p><em>Roxanne </em>was built for his own use by Vivian Richards
-  a shipwright working for Martin heard during 1992/1993.</p>
-full_description: '<p><em>Roxanne</em>''s hull was sold to Vivian Richards in 1992.
-  He was a shipwright working for Martin Heard at the Tregatreath yacht yard. Spars
-  and rigging were supplied in lieu of labour and the actual completion date is hazy,
-  but she was sailing sometime around 1996.</p>
+short_description: |-
+  *Roxanne* was built for his own use by Vivian Richards a shipwright working for
+  Martin heard during 1992/1993.
+full_description: |-
+  *Roxanne*'s hull was sold to Vivian Richards in 1992. He was a shipwright
+  working for Martin Heard at the Tregatreath yacht yard. Spars and rigging were
+  supplied in lieu of labour and the actual completion date is hazy, but she was
+  sailing sometime around 1996.
 
-  <p>She was sold in 2001, and sailed in Holland as well as the UK, being registered
-  in London in 2006. By 2018 she had a berth at Burnham-on-Crouch before being taken
-  to Plymouth by new owners.</p>'
-year: 1996
+
+  She was sold in 2001, and sailed in Holland as well as the UK, being registered
+  in London in 2006. By 2018 she had a berth at Burnham-on-Crouch before being
+  taken to Plymouth by new owners.
+year: 1992
 year_is_approximate: false
+designer: []
 design_class:
   name: Heard 28
   id: 47040682-ee05-42de-a493-400ebd5956db
 builder:
-  name: Martin Heard
+- name: Martin Heard
   id: ee814a69-d5ad-46d9-88a9-a0598ae6d33b
-place_built: Mylor
+place_built: Tregatreath
 construction_material: grp
 construction_details: GRP
 selling_status: not_for_sale
-for_sales: []
-ownerships: []
-id: 41b8073a-db05-4c54-b3c9-109a3fcdc2c8
 image_key: 3g5fSJ
-thumb: https://photos.smugmug.com/photos/i-pXxgkz7/0/Th/i-pXxgkz7-Th.jpg
 handicap_data:
+  thcf: 0.972
   beam: 3.048
   draft: 1.524
-  length_over_all: 8.699097781029016
-  length_on_deck: 8.699
+  fore_triangle_height: 8.839
+  fore_triangle_base: 5.992
+  length_on_deck: 8.565
+  length_on_waterline: 8.077
+  propellor:
+    type: feathering
+    blades: 3
+  topsail:
+    luff: 5.273
+    perpendicular: 1.92
+  length_over_all: 8.699
+  main:
+    luff: 5.258
+    foot: 5.614
+    head: 5.739
 created_at: '2020-04-25T17:33:40.644322+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 41b8073a-db05-4c54-b3c9-109a3fcdc2c8
