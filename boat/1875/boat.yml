@@ -19,9 +19,10 @@ construction_material: wood
 spar_material: wood
 construction_method: clinker
 construction_details: Clinker Mahogany on Oak
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-07-13T16:33:26.616Z'
+  asking_price: 1
   sales_text: |-
     Badger is looking for an enthusiastic new owner to bring him back into full
     sailing condition.  One of his planks is split along the nail line and he has
@@ -31,7 +32,8 @@ for_sales:
     He comes with all sailing gear (spars, rigging, sails, oars) and road trailer
     with spare wheel.  He has a trailing cover.
   flexibility: normal
-  asking_price: 1
+  date_sold: '2024-07-25T18:03:25.135Z'
+  sale_price: 500
 home_country: GBR
 home_port: Kingsbridge, Devon
 hull_form: centre-board dinghy
@@ -39,7 +41,16 @@ sail_number: '281'
 ownerships:
 - member: 1377
   id: 59
-  start: 1990
+  start: 1989
+  end: 2024
+  share: 64
+- name: Richard Whitfield
+  start: 2024
+  share: 64
+  current: true
+- member: 1377
+  id: 59
+  start: 2024
   share: 64
   current: true
 website: https://www.tidewaydinghy.org/
