@@ -30,8 +30,6 @@ hull_form: long keel deep forefoot
 sail_number: OY16 19
 callsign: SULIS
 ownerships:
-- name: An Owner
-  share: 64
 - name: Keith Filbey
   start: 2003
   end: 2007
@@ -53,21 +51,16 @@ ownerships:
   start: 2021
   share: 64
   current: true
-- name: An Owner
-  start: 2022
-  share: 64
 website: https://scotland.boatshed.com/oysterman_16-boat-270077.html
 image_key: jgcKHd
 handicap_data:
-  thcf: 0.821
+  thcf: 0.828772704
   beam: 1.929
   draft: 0.914
   fore_triangle_height: 6.218
   fore_triangle_base: 3.292
   length_on_deck: 4.877
   length_on_waterline: 4.633
-  propellor:
-    type: fixed
   length_over_all: 4.877
   main:
     foot: 3.709
