@@ -3,14 +3,29 @@ oga_no: 3665
 generic_type: Morecambe Bay Prawner
 rig_type: Cutter
 mainsail_type: gaff
+short_description: |-
+  A  GRP hulled Morecambe Bay Prawner, hull by Eric Berqvist (1983), fitted out by
+  Pete Tomlinson and launched at Bristol 1993
+full_description: |-
+  The plug for the GRP hull was The William Priestley which was The Morcambe Bay
+  Fishermen's Association private lifeboat and is now in the care of Lancaster
+  Museum. Sailed for many years with the Bristol Channel OGA and after a few yers
+  in Poole Harbour rejoined the OGA and has sailed extensively with South West
+  Gaffers. Her recent cruising areas have ranged from Bembridge in the East and to
+  the Isles of Scilly in the West.
 year: 1983
 year_is_approximate: false
+designer: []
+builder:
+- name: Eric Berqvist/Pete Tomlinson
+  id: b2a35b1f-a655-450e-be3b-6ce80a153a63
 place_built: Fiddlers Ferry/Bristol
 construction_material: grp
 spar_material: wood
 construction_method: unknown
+construction_details: GRP Hull, wood/grp topsides
 home_country: United Kingdom
-home_port: Galmpton, River Dart
+home_port: Dolphin Boatyard, Galmpton, River Dart
 hull_form: cut away stern
 reference:
 - Sou' by Sou' West Nov 2017. Sir William Priestly & Replicas November 2018.
@@ -23,7 +38,9 @@ ownerships:
   current: true
 image_key: PTXqG7
 handicap_data:
+  thcf: '0.901'
   beam: 2.896
   draft: 0.457
   length_on_deck: 8.382
   length_on_waterline: 6.096
+mmsi: '235114533'
