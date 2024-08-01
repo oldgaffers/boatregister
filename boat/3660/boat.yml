@@ -12,10 +12,11 @@ year_is_approximate: false
 designer:
 - name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
+- name: Paul Gartside
+  id: 922d452a-82c0-4f29-8a7d-462457c2c25f
 design_class:
   name: One-off
   id: 12321668-b184-4156-8f26-c55957d4d183
-builder: []
 place_built: Boatbuilding Academy Lyme Regis
 construction_material: woodepoxy
 spar_material: wood
@@ -32,7 +33,12 @@ ownerships:
   current: true
 image_key: cbqPtX
 handicap_data:
+  thcf: 0.722
   beam: 1.737
   draft: 0.229
   length_on_deck: 3.719
   length_on_waterline: 3.658
+  propellor:
+    type: none
+  sailarea: 7.432
+  checked: true
