@@ -4,18 +4,18 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
-  *Sulis* is an Oysterman 16, elegant classic design based on Falmouth working boat,
-  sturdy and seaworthy
+  *Sulis* is an Oysterman 16, elegant classic design based on Falmouth working
+  boat, sturdy and seaworthy
 year: 1990
 year_is_approximate: false
 designer:
-  name: Paul Gartside
+- name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
 design_class:
   name: Oysterman 16
   id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
 builder:
-  name: Oystersailers Ltd.
+- name: Oystersailers Ltd.
   id: 8f423342-b25e-40d9-8725-3d143660e8f5
 place_built: Penryn
 construction_material: grp
@@ -24,18 +24,17 @@ previous_names:
 - Solent Oysterman
 - Oystermaid
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel deep forefoot
 sail_number: OY16 19
 callsign: SULIS
 ownerships:
-- name: ' Keith Filbey'
+- name: Keith Filbey
   start: 2003
   end: 2007
   share: 64
-- name: ' John Clarke'
+- name: John Clarke
   start: 2007
   end: 2009
   share: 64
@@ -47,8 +46,8 @@ ownerships:
   start: 2012
   end: 2022
   share: 64
-- id: 35151
-  member: 6691
+- member: 6691
+  id: 35151
   start: 2021
   share: 64
   current: true
@@ -58,14 +57,14 @@ handicap_data:
   thcf: 0.828772704
   beam: 1.929
   draft: 0.914
-  fore_triangle_height: 6.217995610826627
-  fore_triangle_base: 3.291880029261156
+  fore_triangle_height: 6.218
+  fore_triangle_base: 3.292
   length_on_deck: 4.877
-  length_on_waterline: 4.633016337478663
-  length_over_all: 4.87685930260912
+  length_on_waterline: 4.633
+  length_over_all: 4.877
   main:
-    foot: 3.7094611070470616
-    head: 3.0785174347720066
-    luff: 3.779565959522068
+    foot: 3.709
+    head: 3.078
+    luff: 3.78
 created_at: '2020-04-25T17:13:03.48657+00:00'
 id: 54dbb584-91de-41fd-80fb-468f6b556c7b
