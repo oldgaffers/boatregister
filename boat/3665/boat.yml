@@ -5,15 +5,19 @@ rig_type: Sloop
 mainsail_type: standing lug
 year: 2002
 year_is_approximate: true
+designer:
+- name: Ian Oughtred
+  id: 96109ad7-10fa-444d-ab6d-ba9e0e8de01d
 design_class:
   name: Whilly Boat
   id: 4dc91198-fe94-478e-83b6-3c5e6121fbd5
+builder: []
 construction_material: wood
 spar_material: wood
 construction_method: clinker_ply
 construction_details: Glued clinker ply
 home_country: UK
-home_port: Frodsham
+home_port: Frodsham, River Weaver
 hull_form: centre-board dinghy
 ownerships:
 - name: Nick Costen
@@ -33,6 +37,6 @@ handicap_data:
     type: none
   sailarea: 14.509
   main:
-    luff: 1.524
     foot: 1.701
     head: 2.871
+    luff: 1.524
