@@ -13,10 +13,10 @@ full_description: |-
 year: 1892
 year_is_approximate: false
 designer:
-  name: Harris Brothers
+- name: Harris Brothers
   id: 009e934b-3e6d-4651-b895-a4b712da3886
 builder:
-  name: Harris Brothers
+- name: Harris Brothers
   id: 3ec78f7a-e558-43bb-9145-1368ce3f949e
 place_built: Rowhedge
 construction_material: wood
@@ -27,18 +27,24 @@ previous_names:
 - Albion
 - Lively Lady
 - Albion
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
-- asking_price: 1000
+- created_at: '2024-08-13T17:51:34.105Z'
+  asking_price: 1000
   sales_text: |-
     *Albion* is a project for someone.  The boat has been out of the water for the
     last 40 years, but work is ongoing with a fair portion of replacement planking
     (larch on an oak frame),  larch planking on deck and counterstern.   More
     recently the coach roof was added.
 
+
     *Albion* has a full set of sails, a 20 HP Buck engine (working condition
     unknown), original winches and other items shown in the photographs.  The name
     was changed from *Albion* to *Lively Lady* which was changed back to *Albion*.
+  flexibility: normal
+  date_sold: '2024-07-30T23:00:00.000Z'
+  sale_price: 10
+  summary: <p>Sold for nominal amount to enable continued restoration</p>
 home_country: GBR
 home_port: West Mersea
 hull_form: long keel deep forefoot
@@ -46,6 +52,10 @@ ownerships:
 - member: 3846
   id: 337
   start: 1982
+  end: 2024
+  share: 64
+- name: Jamie Bellamy-Booth
+  start: 2024
   share: 64
   current: true
 image_key: Wbzcwr
@@ -53,4 +63,5 @@ handicap_data:
   beam: 3.048
   draft: 1.219
   length_on_deck: 10.668
+  length_on_waterline: 8.534
 id: 48e74afe-63e2-4e4d-ad29-4b234e7961d3
