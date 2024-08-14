@@ -76,8 +76,7 @@ jobs:
         echo ${{ github.event.inputs.data }} | python -m poetry run python make_boat_yaml
     - name: set boat name
       run: |
-        echo PWD $PWD
-        python -m poetry run python boat_field.py ${{ github.event.inputs.oga_no }} name >> $GITHUB_ENV  
+        python -m poetry run python boat_field ${{ github.event.inputs.oga_no }} name >> $GITHUB_ENV  
     - name: stage and commit
       run: |
         git add .
