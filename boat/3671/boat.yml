@@ -6,9 +6,11 @@ mainsail_type: gaff
 short_description: Modified Mk1 Shrimper 19 with carbon Selden spars and cutter rig.
 year: 1994
 year_is_approximate: true
+designer: []
 design_class:
   name: Cornish Shrimper
   id: 7caf07ef-acf3-434b-a639-5c94188071a8
+builder: []
 place_built: Rock
 construction_material: grp
 spar_material: carbon_composite
@@ -26,12 +28,13 @@ ownerships:
   current: true
 image_key: 6PDgf2
 handicap_data:
-  thcf: 0.836
+  thcf: 0.834
   beam: 2.185
   draft: 0.488
   length_on_deck: 5.867
   length_on_waterline: 5.334
   propellor:
     type: feathering
-  sailarea: 21.15
+  sailarea: 20.764
+  checked: true
 hin: '554'
