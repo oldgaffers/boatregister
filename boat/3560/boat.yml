@@ -15,9 +15,7 @@ full_description: |-
   She has a galvanised custom trailer/trolly.
 year: 2016
 year_is_approximate: true
-designer:
-- name: Iain Oughtred
-  id: 529aebd8-7601-4ed4-997a-123975fdf8f4
+designer: []
 design_class:
   name: Acorn rowing skiff
   id: 81393984-7416-4d68-a4bb-ad447baac6d2
@@ -26,13 +24,25 @@ construction_material: woodepoxy
 spar_material: other
 construction_method: clinker_ply
 selling_status: for_sale
+for_sales:
+- created_at: '2021-05-08T15:34:46.282712+00:00'
+  asking_price: 2950
+  sales_text: |-
+    Complete with trailer/trolley. The current owner has only had her out on the
+    water 6 times in 6 years and she deserves to have more use.
+  flexibility: normal
+  offered: '2021-05-08'
+  reduced: false
+  seller_gold_id: 819
+  seller_member: 5883
+  updated_at: '2021-05-08T15:34:46.282712+00:00'
 home_country: GBR
 home_port: Totnes
 hull_form: dinghy
 ownerships:
 - member: 5883
   id: 819
-  start: 2024
+  start: '2016'
   share: 64
   current: true
 image_key: 7xFDM4
