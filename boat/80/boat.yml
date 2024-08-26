@@ -3,46 +3,62 @@ oga_no: 80
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Maid Marian&#39; was built in 1908 by Crossfields at Arnside
-  as a yacht for Joe Twynould, proprietor of the Star Restaurant, Morecambe.</p>
-full_description: "<p>&#39;Maid Marian&#39; was built in 1908 by William Crossfield\
-  \ &amp; Sons, Beach Walk, for Joe Twynould, the proprietor of the Star Restaurant\
-  \ in Morecambe, a keen amateur yachtsman. &#39;Maid Marian&#39; is slightly larger\
-  \ than one of her sister ships, &#39;Severn&#39;. Whilst in the ownership of Joe\
-  \ Twynould, she was oftern sailed in Scottish waters. In 1917, whe was registered\
-  \ as a fishing boat, LR177, common practice at the end of the&nbsp;First World War.</p>\r\
-  \n\r\n<p>In 1921, she was dereigstered as a fishing boat and moved to Windermere\
-  \ where she was&nbsp;photographed by Arthur Ransome during the 1929 Windermere Freeze\
-  \ with his wife by the bowspirt.</p>\r\n\r\n<p>She was sold on the death of Joe\
-  \ Twynould, 1937 and is reputed to be the first yacht to visit Dunkirk after D-Day.</p>\r\
-  \n\r\n<p>&#39;Maid Marian&#39; was sailed in the Baltic in the 1960s, which must\
-  \ have been exciting given her low freeboard, and featured on a Yachting Monthly\
-  \ Cover in 1970.</p>\r\n\r\n<p>In 1974 she was kept at Emsworth, Chichester Harbour\
-  \ and sold to a new owner in 1980 who undertook a total rebuild in his back garden,\
-  \ including fitting a bigger mast. She was sold again in 2003 and 2011.</p>"
+short_description: |-
+  *Maid Marian* was built in 1908 by Crossfields at Arnside as a yacht for Joe
+  Twyerould, proprietor of the Star Restaurant, Morecambe.
+full_description: |-
+  *Maid Marian* was built in 1908 by William Crossfield & Sons, Beach Walk, for
+  Joe Twyerould, the proprietor of the Star Restaurant in Morecambe, a keen
+  amateur yachtsman. 'Maid Marian' is slightly larger than one of her sister
+  ships, 'Severn'. Whilst in the ownership of Joe Twyerould, she was oftern sailed
+  in Scottish waters. In 1917, whe was registered as a fishing boat, LR177, common
+  practice at the end of the First World War.
+
+
+  In 1921, she was dereigstered as a fishing boat and moved to Windermere where
+  she was photographed by Arthur Ransome during the 1929 Windermere Freeze with
+  his wife by the bowspirt.
+
+
+  She was sold on the death of Joe Twyerould in 1937 and is reputed to be the
+  first yacht to visit Dunkirk after D-Day.
+
+
+  *Maid Marian* was sailed in the Baltic in the 1960s, which must have been
+  exciting given her low freeboard, and featured on a Yachting Monthly Cover in
+  1970.
+
+
+  In 1974 she was kept at Emsworth, Chichester Harbour and sold to a new owner in
+  1980 who undertook a total rebuild in his back garden, including fitting a
+  bigger mast. She was sold again in 2003 and 2011.
 year: 1908
 year_is_approximate: false
 designer:
-  name: William Crossfield
+- name: William Crossfield
   id: da4baa22-674e-4ea8-b2c5-14aee7286837
 builder:
-  name: Wiliam Crossfield and Sons
+- name: Wiliam Crossfield and Sons
   id: d02ef310-75b8-46ab-8c53-f17b72d64671
 place_built: Arnside
 construction_material: wood
 construction_details: Pitch pine on oak, pine deck
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Gosport
 hull_form: long keel deep forefoot
 ssr: '63173'
 ownerships:
+- name: Joe Twyerould
+  start: 1908
+  end: 1937
+  share: 64
 - name: Nigel Woollett
   start: 1980
   end: 2003
   share: 64
-- name: Julian Eckersley
+- member: 4178
+  id: 398
   start: 2003
   end: 2011
   share: 64
@@ -51,28 +67,26 @@ ownerships:
   start: 2011
   share: 64
   current: true
-id: 935b65d1-7217-4abb-8eec-656b01e5e9fb
 image_key: 7987Db
-thumb: https://photos.smugmug.com/photos/i-vJGnd5q/0/Th/i-vJGnd5q-Th.jpg
 handicap_data:
   thcf: 0.933
-  beam: 2.4384
-  draft: 1.3716
-  fore_triangle_height: 9.75371860521824
-  fore_triangle_base: 4.57205559619605
-  length_over_all: 7.620092660326749
-  propellor:
-    type: fixed
-    blades: 3
-  sailarea: 46.55966947862105
-  main:
-    foot: 4.419653742989515
-    head: 4.26725188978298
-    luff: 3.3528407705437697
-  topsail:
-    luff: 5.4864667154352595
-    perpendicular: 3.0480370641306997
-  length_on_waterline: 6.705681541087539
+  beam: 2.438
+  draft: 1.372
+  fore_triangle_height: 9.754
+  fore_triangle_base: 4.572
   length_on_deck: 7.62
+  length_on_waterline: 6.706
+  propellor:
+    blades: 3
+    type: fixed
+  sailarea: 46.56
+  topsail:
+    luff: 5.486
+    perpendicular: 3.048
+  length_over_all: 7.62
+  main:
+    foot: 4.42
+    head: 4.267
+    luff: 3.353
 created_at: '2020-04-25T16:43:38.852548+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 935b65d1-7217-4abb-8eec-656b01e5e9fb
