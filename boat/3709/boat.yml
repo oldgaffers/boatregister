@@ -11,16 +11,19 @@ full_description: |-
   the Falmouth Classic Regatta.
 year: 1985
 year_is_approximate: true
+designer: []
 design_class:
   name: Falmouth Bass Boat
   id: c05a2174-4b46-410f-829f-894193f020c3
+builder: []
 place_built: Falmouth
 construction_material: grp
 spar_material: wood
 construction_details: Built in bouyancy
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
-- asking_price: 4000
+- created_at: '2024-09-01T19:12:06.870Z'
+  asking_price: 4000
   sales_text: |-
     I have upgraded from my Falmouth Bass Boat 16 (FBB16) to a Hunter Liberty 23 and
     though it saddens me, I am selling my Gunter rigged FBB16. Hull no 370. An
@@ -29,7 +32,9 @@ for_sales:
     all-rounder. Very easy to tow, with a displacement of about 300kg. For a
     detailed report on the boat, PM me.
 
+
     Besides the standard setup:
+
 
     1. SSR registered
     2. Built-in buoyancy, so the boat is unsinkable.
@@ -69,22 +74,31 @@ for_sales:
     33. Wheel clamp
     34. Set up for single or two-handed sailing, fishing and usable for cruising
     35. Ready to hitch up, drive away, launch and sail.
+  flexibility: normal
+  date_sold: '2024-08-28T23:00:00.000Z'
+  sale_price: 4000
+  summary: <p>Actual price not known</p>
 home_country: GBR
 home_port: Bristol
 hull_form: centre-board dinghy
 ssr: SSR190748
 ownerships:
-  - member: 6583
-    id: 35000
-    start: 2021
-    share: 64
-    current: true
+- member: 6583
+  id: 35000
+  start: 2021
+  end: 2024
+  share: 64
+- name: Richard Whitelock
+  start: 2024
+  share: 64
+  current: true
 image_key: ddgWxx
 handicap_data:
   beam: 1.829
   draft: 0.274
   length_on_deck: 4.877
+  length_on_waterline: 8.534
 created_at: '2022-08-17T09:37:58.317086+00:00'
-id: 5598c94d-4720-4423-a575-44b0845a308b
 air_draft: 3.048
 hin: '370'
+id: 5598c94d-4720-4423-a575-44b0845a308b
