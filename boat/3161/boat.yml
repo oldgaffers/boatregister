@@ -5,32 +5,34 @@ mainsail_type: gaff
 year: 1983
 year_is_approximate: false
 designer:
-  name: Lentsch de Vries
+- name: Lentsch de Vries
   id: d08ca6dc-cee1-4293-9432-8d91b6fe28d9
 builder:
-  name: Diemerzeedijk Bakker
+- name: Diemerzeedijk Bakker
   id: 006f68af-70b8-4789-92b1-8fbaa0a663a9
 place_built: Amsterdam
 construction_material: steel
 construction_details: steel welded
 selling_status: not_for_sale
-for_sales: []
 home_country: NLD
 home_port: Hellevoetsluis
 hull_form: long keel sloping forefoot
 sail_number: W (birds)
 ownerships:
-- name: Else Wakemakers
-  start: 1998
-  share: 32
 - name: Edgar Wakemakers
   start: 1998
   share: 32
+  current: true
+- name: Else Wakemakers
+  start: 1998
+  share: 32
+  current: true
 website: http://www.windbrekersailing.nl/
-id: f84eb0d5-6977-44ff-a0d0-6ed6518911ee
 image_key: rb6cq7
-thumb: https://photos.smugmug.com/photos/i-jLGzwFM/0/Th/i-jLGzwFM-Th.jpg
-created_at: '2020-04-25T17:44:59.885377+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 handicap_data:
-  length_on_deck: 0
+  beam: 2.438
+  draft: 1.372
+  length_on_deck: 9.144
+  length_on_waterline: 8.534
+created_at: '2020-04-25T17:44:59.885377+00:00'
+id: f84eb0d5-6977-44ff-a0d0-6ed6518911ee
