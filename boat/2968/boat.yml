@@ -3,29 +3,41 @@ oga_no: 2968
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>Winifred is a replica of 1/2 rater Wee Winn, commissioned in
-  1892 by Blair Cochrane of Bembridge, Isle of Wight for Winifred Sutton.</p>
-full_description: <p>The original was built by Herreshoff in Bristol Rhode Island,
-  Winifred has raced in Classic Regattas at Oban, on The Clyde, on Ullswater, at Holyhead,
-  Medway, Cardiff Bay, Burseldon, Cowes, Yarmouth, Salcome, Plymouth, Fowey and Falmouth.</p>
+short_description: |-
+  Winifred is a replica of 1/2 rater Wee Winn, commissioned in 1892 by Blair
+  Cochrane of Bembridge, Isle of Wight for Winifred Sutton.
+full_description: |-
+  The original was built by Herreshoff in Bristol Rhode Island, Winifred has raced
+  in Classic Regattas at Oban, on The Clyde, on Ullswater, at Holyhead, Medway,
+  Cardiff Bay, Burseldon, Cowes, Yarmouth, Salcome, Plymouth, Fowey and Falmouth.
 year: 1999
 year_is_approximate: false
 designer:
-  name: Nathaniel Herreshoff
+- name: Nathaniel Herreshoff
   id: 8123cc79-2c83-4a39-8f6c-a249fbe4658c
 design_class:
   name: 1/2 rater
   id: 81a22c1f-762e-4acd-8fe8-b87be71c8c39
 builder:
-  name: Tino Rawnsley
+- name: Tino Rawnsley
   id: 530ff9c2-051f-4d7d-b9e9-df54e2bccc98
 place_built: Wadebridge Devon
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel, Strip planking in oak and yellow cedar - painted with
   yellow cedar deck over ply
-selling_status: not_for_sale
-for_sales: []
+previous_names:
+- Miss Winifred
+selling_status: for_sale
+for_sales:
+- created_at: '2024-09-16T10:58:55.567Z'
+  sales_text: |-
+    1999 Epoxy coated cedar strip plank construction. Bronze fittings. All sails in
+    good condition 1999. Gaff rigged with Colombian pine mast and spars. Stainless
+    rigging. On road trailer. Open to offers. Check out Winifred sailing.
+    <https://youtu.be/1Fr_pi8p_2E?si=PLerm4ZAkEl5DOag>
+  flexibility: normal
+  asking_price: 5000
 home_country: GBR
 home_port: Rochester
 sail_number: H4
@@ -36,23 +48,20 @@ ownerships:
   start: 2000
   share: 64
   current: true
-id: 15a855cf-fa7a-4459-bd4b-eeb3c55a6ba3
 image_key: k6GQnj
 handicap_data:
   thcf: 0.904
-  beam: 1.3716
-  draft: 0.9144
-  fore_triangle_height: 4.724457449402585
-  fore_triangle_base: 1.8288222384784198
-  length_over_all: 7.263472323823457
-  sailarea: 17.624178279589955
+  beam: 1.372
+  draft: 0.914
+  fore_triangle_height: 4.724
+  fore_triangle_base: 1.829
+  length_on_deck: 7.254
+  length_on_waterline: 4.877
+  sailarea: 17.624
+  length_over_all: 7.263
   main:
-    foot: 4.57205559619605
-    head: 2.7950499878078516
-    luff: 2.8194342843208973
-  length_on_waterline: 4.87685930260912
-  length_on_deck: 7.2542
+    foot: 4.572
+    head: 2.795
+    luff: 2.819
 created_at: '2020-04-25T17:33:21.186896+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Miss Winifred
+id: 15a855cf-fa7a-4459-bd4b-eeb3c55a6ba3
