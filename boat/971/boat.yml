@@ -40,9 +40,10 @@ place_built: Boston
 construction_material: wood
 spar_material: wood
 construction_method: carvel
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-03-27T15:57:28.594Z'
+  asking_price: 1000
   sales_text: |-
     Designed by William Kelly *Stormalong* is built of pitch pine on oak, Bill Kelly
     made the mast himself in his front garden from a pine tree he had selected. In
@@ -64,27 +65,39 @@ for_sales:
     Aquadrive. Some work on the starboard side hull was carried out by a wooden boat
     yard in Douarnenez in 2013
 
+
     Taylor’s paraffin stove
+
 
     Garmin GPS
 
+
     CQR anchor
+
 
     Fisherman’s anchor
 
+
     Chain
+
 
     Mainsail, jib, staysail, storm jib
 
+
     Echo sounder
+
 
     Mast head tricolour light
 
+
     Traditional port and starboard paraffin lights and paraffin anchor light
+
 
     The engine is a Perkins Perama 21.6kW installed in 1990
   flexibility: normal
-  asking_price: 1000
+  date_sold: '2024-09-19T14:34:46.714Z'
+  summary: <p>taken on by french shipwright</p>
+  sale_price: 1000
 home_country: UK
 home_port: The Rance
 hull_form: long keel deep forefoot
@@ -96,8 +109,8 @@ ownerships:
 - member: 6739
   id: 35217
   start: '2012'
+  end: 2024
   share: 64
-  current: true
 image_key: rdN6ch
 handicap_data:
   beam: 2.652
