@@ -5,7 +5,6 @@ rig_type: Sloop
 mainsail_type: lug
 year: 2010
 year_is_approximate: false
-designer: []
 builder:
 - name: Iain McBride
   id: e32a3d0d-c35d-453e-8c96-e80004d5c0fc
@@ -13,7 +12,7 @@ place_built: Heswall Wirral
 construction_material: woodepoxy
 construction_method: clinker_ply
 construction_details: Glued ply clinker
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-06-16T10:40:14.126Z'
   asking_price: 4000
@@ -21,14 +20,18 @@ for_sales:
     11 ft. Scow, glue ply clinker, Robins best quality mahogony ply.  West epoxy and
     varnished throughout.   Built in buoyancy.   Blue lugsail by Jeckels and white
     main and Jib by Sanders which have hardly been used.   Fittings by Classic
-    Marine.  Oars,   Combi trailer, and cover.   Immaculate condition, all as new.
+    Marine.  Oars,   Combi trailer, and cover. Immaculate condition, all as new.
   flexibility: normal
+  date_sold: '2024-09-24T14:24:58.491Z'
+  sale_price: 4000
+  summary: <p>sold to an OGA member in the small boat section. Not stated who.</p>
+hull_form: centre-board dinghy
 ownerships:
 - member: 3842
   id: 336
   start: 2010
+  end: 2024
   share: 64
-  current: true
 image_key: G5KjSX
 handicap_data:
   thcf: 0.705969093
