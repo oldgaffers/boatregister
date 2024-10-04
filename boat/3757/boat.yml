@@ -9,19 +9,20 @@ full_description: |-
   Based in Hollowshore, this is a super fast gaffer which has so much pocket sized
   fun.
 year_is_approximate: false
-designer: []
-builder: []
 construction_material: grp
 spar_material: wood
 construction_details: Spruce
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2023-12-27T12:05:08.659Z'
+  asking_price: 5000
   sales_text: |-
     GRP gaffer for sale, based in Hollowshore. With a very good race record, she is
     an extremely quick and fun sloop to sail. 5k offers considered
   flexibility: normal
-  asking_price: 5000
+  date_sold: '2024-10-04T09:57:58.968Z'
+  sale_price: 5000
+  summary: <p>final price not known</p>
 home_country: GBR
 home_port: 'Hollowshore '
 hull_form: fin keel
@@ -29,8 +30,13 @@ sail_number: '1'
 ownerships:
 - name: Freddie Tester
   start: '1968'
+  end: 2022
   share: 64
-  current: true
+- member: 5725
+  id: 740
+  start: 2022
+  end: 2024
+  share: 64
 image_key: jpPbT3
 handicap_data:
   beam: 1.707
