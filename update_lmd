@@ -14,3 +14,5 @@ if __name__ == '__main__':
   last_modified = get_json('lmd.json')
   d=[r for r in last_modified if r['oga_no'] != oga_no]
   d.append({ 'oga_no': oga_no, 'lmd': date.today().strftime('%Y-%m-%d')})
+  with open('lmd.json', 'w') as f:
+    json.dump(d, f)
