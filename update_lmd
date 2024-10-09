@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+import sys
+import json
+from datetime import date
+
+def get_json(fn):
+  a = open(fn)
+  d=json.load(a)
+  a.close()
+  return d
+
+if __name__ == '__main__':
+  oga_no = int(sys.argv[1])
+  last_modified = get_json('lmd.json')
+  d=[r for r in last_modified if r['oga_no'] != oga_no]
+  d.append({ 'oga_no': oga_no, 'lmd': date.today().strftime('%Y-%m-%d')})

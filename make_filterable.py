@@ -34,7 +34,6 @@ def wanted(boat):
     'design_class',
     'construction_material',
     'year',
-    'updated_at',
     'length_on_deck',
     'price',
     'sale',
@@ -78,11 +77,20 @@ def json_serial(obj):
     return obj.isoformat(timespec='seconds')[:-6]+'Z'
   raise TypeError ("Type %s not serializable" % type(obj))
 
+def get_json(fn):
+  a = open(fn)
+  d=json.load(a)
+  a.close()
+  return d
+
+def lmd(oga_no, last_modified):
+  d=[r for r in last_modified if r['oga_no'] == oga_no]
+  return d[0]['lmd'][0:10]
+
 if __name__ == '__main__':
-  f = open('fleets/editors choice')
-  data = json.load(f)
-  f.close()
+  data = get_json('fleets/editors choice')
   editors_choice = {o:i for i,o in enumerate(data['filters']['oga_nos'])}
+  last_modified = get_json('lmd.json')
   mypath='boat'
   boats = listdir(mypath)
   data = []
@@ -97,6 +105,7 @@ if __name__ == '__main__':
         boat['rank'] = len(boats)
       if 'ownerships' in fullboat:
         boat['owners'] = owners(fullboat)
+      boat['updated_at'] = lmd(oga_no, last_modified)
       data.append(boat)
   with open("filterable.json", "w") as stream:
       json.dump(data, stream, ensure_ascii=False, default=json_serial)
