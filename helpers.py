@@ -194,6 +194,7 @@ def map_boat(item, pickers):
   if 'design_class' in boat:
     if 'examples' in boat['design_class']:
       del boat['design_class']['examples']
+  boat['updated_at'] = date.today().strftime('%Y-%m-%d')
   boat = augment_from_pickers(boat, pickers)
   return map_handicap_data(boat)
 
