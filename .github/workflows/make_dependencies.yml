@@ -18,18 +18,7 @@ jobs:
       - name: create json boat files
         run: |
           python -m poetry run python make_boat_json_from_yaml
-          echo ok
-      - name: make last modified
-        run: |
-          echo -n [ > lmd.json
-          sep=
-          for i in `ls boat`
-          do
-            git log -n 1 --pretty="format:${sep}%n{\"oga_no\": $i, \"lmd\": \"%cs\"}" boat/$i/boat.yml >> lmd.json
-            sep=,
-          done
-          echo ] >> lmd.json
-          echo ok          
+          echo ok        
       - name: create picklist json
         run: |
           python -m poetry run python make_picklists.py
@@ -51,10 +40,8 @@ jobs:
         env:
           CHANGED_FILES: ${{ steps.changed-files.outputs.FILES }}
         run: |
-          echo $CHANGED_FILES
-          echo $GITHUB_SHA
-          echo ${{ github.event.after }}
-          echo $GITHUB_CONTEXT
+          echo ${{ github.event.after }} >> "$GITHUB_OUTPUT"
+          echo $GITHUB_CONTEXT >> "$GITHUB_OUTPUT"
           python -m poetry run python changed_boats.py >> "$GITHUB_OUTPUT"
       - name: trigger AWS updates
         env:
