@@ -41,11 +41,11 @@ jobs:
           CHANGED_FILES: ${{ steps.changed-files.outputs.FILES }}
         run: |
           python -m poetry run python changed_boats.py >> "$GITHUB_OUTPUT"
-      - name: trigger AWS updates
+      - name: update lmd
         env: 
           CHANGED_BOATS: ${{ steps.changed-boats.outputs.BOATS }}
         run:
-          python -m poetry run python update_lmd >> "$GITHUB_OUTPUT"
+          python -m poetry run python update_lmd "${{ steps.changed-boats.outputs.BOATS }}" >> "$GITHUB_OUTPUT"
           echo ok
       - name: trigger AWS updates
         env:
