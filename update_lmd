@@ -10,9 +10,11 @@ def get_json(fn):
   return d
 
 if __name__ == '__main__':
-  oga_no = int(sys.argv[1])
+  boats = json.loads(sys.argv[1])
   last_modified = get_json('lmd.json')
-  d=[r for r in last_modified if r['oga_no'] != oga_no]
-  d.append({ 'oga_no': oga_no, 'lmd': date.today().strftime('%Y-%m-%d')})
+  d=[r for r in last_modified if r['oga_no'] not in boats]
+  lmd = date.today().strftime('%Y-%m-%d')
+  for oga_no in boats:
+    d.append({ 'oga_no': oga_no, 'lmd': lmd})
   with open('lmd.json', 'w') as f:
     json.dump(d, f)
