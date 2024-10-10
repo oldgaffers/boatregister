@@ -1,14 +1,15 @@
 name: Sarabande
 oga_no: 1647
+generic_type: Falmouth Quay Punt
 rig_type: Yawl
 mainsail_type: gaff
 year: 1925
 year_is_approximate: false
 designer:
-  name: R.S. Burt
+- name: R.S. Burt
   id: 3a2bf172-f648-44a1-af0f-0598af8b960b
 builder:
-  name: R.S. Burt and Son
+- name: R.S. Burt and Son
   id: 034f4f9b-6334-45d7-a0b3-5116da588b30
 place_built: Falmouth
 construction_material: wood
@@ -19,14 +20,17 @@ reference:
 - Log 87/2
 - CB Feb 92
 ownerships:
-- id: 212
-  member: 3023
+- member: 3023
+  id: 212
   start: 2012
   share: 64
   current: true
-id: d0b36eac-0f37-4a99-8be3-99bee1b4f564
 handicap_data:
-  beam: 2.5908
-  length_over_all: 7.772494513533284
-  length_on_deck: 7.7724
+  beam: 2.591
+  draft: 1.372
+  length_on_deck: 7.772
+  length_on_waterline: 8.534
+  length_over_all: 7.772
 created_at: '2020-04-25T17:08:07.06596+00:00'
+id: d0b36eac-0f37-4a99-8be3-99bee1b4f564
+updated_at: '2024-10-10'
