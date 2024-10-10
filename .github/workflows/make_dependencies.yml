@@ -21,7 +21,14 @@ jobs:
           echo ok
           - name: make last modified
           run: |
-            ./make_lmd
+            echo -n [ > lmd.json
+            sep=
+            for i in `ls boat`
+            do
+              git log -n 1 --pretty="format:${sep}%n{\"oga_no\": $i, \"lmd\": \"%cs\"}" boat/$i/boat.yml >> lmd.json
+              sep=,
+            done
+            echo ] >> lmd.json
             echo ok          
       - name: create picklist json
         run: |
