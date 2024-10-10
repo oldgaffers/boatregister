@@ -31,6 +31,9 @@ jobs:
         run: |
           python -m poetry run python make_filterable.py
           echo ok
+      - name: make last modified
+        run: |
+          ./make_lmd
       - name: changed files
         id: changed-files
         run: |
@@ -40,6 +43,10 @@ jobs:
         env:
           CHANGED_FILES: ${{ steps.changed-files.outputs.FILES }}
         run: |
+          echo $CHANGED_FILES
+          echo $GITHUB_SHA
+          echo ${{ github.event.after }}
+          echo $GITHUB_CONTEXT
           python -m poetry run python changed_boats.py >> "$GITHUB_OUTPUT"
       - name: trigger AWS updates
         env:
