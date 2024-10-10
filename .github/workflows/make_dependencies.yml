@@ -34,14 +34,12 @@ jobs:
       - name: changed files
         id: changed-files
         run: |
-          echo "FILES=`git diff-tree --no-commit-id --name-only -r ${{ github.sha }}|xargs`" >> "$GITHUB_OUTPUT"
+          echo "FILES=`git diff-tree --no-commit-id --name-only -r ${{ github.event.after }}|xargs`" >> "$GITHUB_OUTPUT"
       - name: changed boats
         id: changed-boats
         env:
           CHANGED_FILES: ${{ steps.changed-files.outputs.FILES }}
         run: |
-          echo ${{ github.event.after }} >> "$GITHUB_OUTPUT"
-          echo $GITHUB_CONTEXT >> "$GITHUB_OUTPUT"
           python -m poetry run python changed_boats.py >> "$GITHUB_OUTPUT"
       - name: trigger AWS updates
         env:
