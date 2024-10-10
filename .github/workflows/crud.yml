@@ -77,10 +77,6 @@ jobs:
     - name: set boat name
       run: |
         python -m poetry run python boat_field ${{ github.event.inputs.oga_no }} name >> $GITHUB_ENV
-    - name: update last_modified
-      # TBTA it would be better for this to be the last edit date, not when crud.yml was run
-      run: |
-        python -m poetry run python update_lmd ${{ github.event.inputs.oga_no }}
     - name: stage and commit
       run: |
         git add .
