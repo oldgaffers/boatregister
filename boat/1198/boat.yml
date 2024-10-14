@@ -1,6 +1,6 @@
 name: Skylark
 oga_no: 1198
-generic_type: Smack
+generic_type: Colchester Smack
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -15,23 +15,26 @@ full_description: |-
   bought by the Pitt family and fished out of Maldon as MN4 by Alfred and Roy
   Pitt.
 
+
   She won the West Mersea Town Cup in 1938. She fished until the 1950s as MN4 when
   she was taken out of fishing and used as a floating pontoon. David Wager
   purchased her as a wreck dug from the mud in Essex and re-built her in
   Tollesbury 1977-1983. He moved her to the Isle of Wight in 1985 and cruised her
   to Amsterdam and to Brest.
 
+
   In November 2022 she was purchased by new owners, brought back to West Mersea by
   lorry and relaunched June 2023.
+
 
   She now resides in Tollesbury.
 year: 1877
 year_is_approximate: false
 designer:
-  name: Aldous
+- name: Aldous
   id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 builder:
-  name: Aldous Ltd.
+- name: Aldous Ltd.
   id: 78bc9e97-d57d-481e-b855-b10261a92e4d
 place_built: Brightlingsea
 construction_material: wood
@@ -39,7 +42,6 @@ spar_material: wood
 construction_method: carvel
 construction_details: Larch on Oak
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Tollesbury
 hull_form: long keel deep forefoot
@@ -57,16 +59,17 @@ handicap_data:
   thcf: 1.020693448
   beam: 2.743
   draft: 1.195
-  fore_triangle_height: 6.0960741282613995
-  fore_triangle_base: 8.22970007315289
+  fore_triangle_height: 6.096
+  fore_triangle_base: 8.23
   length_on_deck: 10.668
-  length_on_waterline: 8.83930748597903
+  length_on_waterline: 8.839
   propellor:
     type: fixed
-  length_over_all: 10.66812972445745
+  length_over_all: 10.668
   main:
-    foot: 7.315288953913679
-    head: 5.18166300902219
-    luff: 4.87685930260912
+    foot: 7.315
+    head: 5.182
+    luff: 4.877
 created_at: '2020-04-25T17:01:19.559758+00:00'
 id: 994ff44a-7104-4eee-a77a-bda1296a5ae9
+updated_at: '2024-10-14'
