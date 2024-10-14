@@ -3,42 +3,51 @@ oga_no: 800
 generic_type: Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Hirondelle was built on Guernsey in 1904. She was raced in the
-  Guernsey regattas and used for fishing off Alderney.
-full_description: "<p>Hirondelle was built in 1904 by John le Lacheur in St Peters,\
-  \ Guernsey, as a yawl. The main mast was in the bow, like a catboat except she carried\
-  \ a bowsprit, and a mizzen on the transom. Her hull is very similar to other contemporary\
-  \ fishing boats except for the bow which has more rake and flare which was believed\
-  \ to be at the suggestion of an American sailor working in the yard.</p>\r\n\r\n\
-  <p>Her first owner was John de la Mare who passed the boat on to his son also called\
-  \ John de la Mare. She won Guernsey regatta races in 1912, 1913 and 1920. Walter\
-  \ Gauvain bought her from John de la Mare Jnr. in 1954 and took her to Alderney\
-  \ where he fished with her under motor to a year before his death.&nbsp; Her top\
-  \ planks were badly smashed when a bigger boat laid on her and he was going to break\
-  \ her up.</p>\r\n\r\n<p>His grandson, Charles Greenslade decided to take her on\
-  \ and repair the damage and put a cabin and a tripod on for lights intending to\
-  \ use her as a motor fishing boat. In 1970 he decided to return her to sail as a\
-  \ gaff cutter. He has subsequently replaced the cabin top in 1983 and in 1985 he\
-  \ replaced the mast and increased the luff of the mainsail.</p>"
+short_description: |-
+  Hirondelle was built on Guernsey in 1904. She was raced in the Guernsey regattas
+  and used for fishing off Alderney.
+full_description: |-
+  Hirondelle was built in 1904 by John le Lacheur in St Peters, Guernsey, as a
+  yawl. The main mast was in the bow, like a catboat except she carried a
+  bowsprit, and a mizzen on the transom. Her hull is very similar to other
+  contemporary fishing boats except for the bow which has more rake and flare
+  which was believed to be at the suggestion of an American sailor working in the
+  yard.
+
+
+  Her first owner was John de la Mare who passed the boat on to his son also
+  called John de la Mare. She won Guernsey regatta races in 1912, 1913 and 1920.
+  Walter Gauvain bought her from John de la Mare Jnr. in 1954 and took her to
+  Alderney where he fished with her under motor to a year before his death.  Her
+  top planks were badly smashed when a bigger boat laid on her and he was going to
+  break her up.
+
+
+  His grandson, Charles Greenslade decided to take her on and repair the damage
+  and put a cabin and a tripod on for lights intending to use her as a motor
+  fishing boat. In 1970 he decided to return her to sail as a gaff cutter. He has
+  subsequently replaced the cabin top in 1983 and in 1985 he replaced the mast and
+  increased the luff of the mainsail.
 year: 1904
 year_is_approximate: false
 designer:
-  name: Traditional
+- name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 builder:
-  name: Le Lacheur de Garis Yard
+- name: Le Lacheur de Garis Yard
   id: 892e1be1-24e9-40aa-8034-f90bb992d51e
 place_built: St Peters, Guernsey
 construction_material: wood
 construction_method: carvel
 construction_details: Pine carvel planking on oak sawn frames
+previous_names:
+- Hirondelle II
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Braye Harbour Alderney
 hull_form: long keel deep forefoot
 ownerships:
-- name: John de la Mare
+- name: John De La Mare
   start: 1904
   share: 64
 - name: Walter Gauvain
@@ -50,28 +59,25 @@ ownerships:
   start: 1967
   share: 64
   current: true
-id: 35801a6b-0a03-4e95-8afd-f9ec36d85e79
 image_key: krwphj
-thumb: https://photos.smugmug.com/photos/i-wk3jvPd/0/Th/i-wk3jvPd-Th.jpg
 handicap_data:
   thcf: 0.775516332
-  beam: 1.9812
-  draft: 0.9144
-  fore_triangle_height: 4.26725188978298
-  fore_triangle_base: 2.234211168007803
-  length_over_all: 4.977444525725432
+  beam: 1.981
+  draft: 0.914
+  fore_triangle_height: 4.267
+  fore_triangle_base: 2.234
+  length_on_deck: 4.977
+  length_on_waterline: 4.42
   propellor:
     type: fixed
-  main:
-    foot: 3.3528407705437697
-    head: 2.7432333577176298
-    luff: 1.9812240916849548
   topsail:
-    luff: 2.0330407217751767
-    perpendicular: 1.3472323823457693
-  length_on_waterline: 4.419653742989515
-  length_on_deck: 4.9774
+    luff: 2.033
+    perpendicular: 1.347
+  length_over_all: 4.977
+  main:
+    foot: 3.353
+    head: 2.743
+    luff: 1.981
 created_at: '2020-04-25T16:54:28.692368+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Hirondelle II
+id: 35801a6b-0a03-4e95-8afd-f9ec36d85e79
+updated_at: '2024-10-14'
