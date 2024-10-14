@@ -1,27 +1,31 @@
 name: Citara
 oga_no: 595
-generic_type: Smack
+generic_type: Colchester Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Believed to have been built as a smack in 1887, named &#39;Rover&#39;,
-  by Aldous of Brightlingsea, although she probably never fished owing to the state
-  of the herring industry at the time. In 1895 she is listed in Lloyds Register as
-  &#39;Citara&#39;, when it is assumed she was converted to a yacht.</p>
+short_description: |-
+  Believed to have been built as a smack in 1887, named 'Rover', by Aldous of
+  Brightlingsea, although she probably never fished owing to the state of the
+  herring industry at the time. In 1895 she is listed in Lloyds Register as
+  'Citara', when it is assumed she was converted to a yacht.
 year: 1886
 year_is_approximate: false
 designer:
-  name: Aldous
+- name: Aldous
   id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 builder:
-  name: Aldous Ltd.
+- name: Aldous Ltd.
   id: 78bc9e97-d57d-481e-b855-b10261a92e4d
 place_built: Brightlingsea
 construction_material: wood
 construction_details: Pine on oak with a lead ballast keel
+previous_names:
+- Rover
 selling_status: not_for_sale
-for_sales: []
+hull_form: long keel deep forefoot
 ownerships:
-- start: 1895
+- name: ''
+  start: 1895
   note: Sold to Judge Thomas Chatfield-Clarke, architect of Wooton Creek, in 1895,
     where she remained until 1945. PUrchased by JH Dible in 1946. sold to Viscount
     Caldicote and the Hon. James Borwick in 1954. Sold to the owner of Norris Castle,
@@ -31,17 +35,14 @@ ownerships:
 - name: A L Brooks
   start: 2012
   share: 64
-id: e1315b52-422f-4f5f-ae5b-58883886a79f
 image_key: JkF9kB
-thumb: https://photos.smugmug.com/photos/i-jKJXqPD/0/Th/i-jKJXqPD-Th.jpg
 handicap_data:
   thcf: 0.945
-  beam: 2.9261
-  draft: 1.4935
-  length_over_all: 10.972933430870519
-  length_on_waterline: 9.75371860521824
-  length_on_deck: 10.9728
+  beam: 2.926
+  draft: 1.494
+  length_on_deck: 10.973
+  length_on_waterline: 9.754
+  length_over_all: 10.973
 created_at: '2020-04-25T16:51:23.364022+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Rover
+id: e1315b52-422f-4f5f-ae5b-58883886a79f
+updated_at: '2024-10-14'
