@@ -1,23 +1,22 @@
 name: Priscilla
 oga_no: 876
-generic_type: Smack
+generic_type: Colchester Smack
 rig_type: Cutter
 mainsail_type: gaff
 full_description: Log 70/3, 82/1
 year: 1893
 year_is_approximate: false
 designer:
-  name: W.J. Barber
+- name: W.J. Barber
   id: d2debbb7-a741-43be-8634-cffdddc29301
 builder:
-  name: Douglas Stone and Sons
+- name: Douglas Stone and Sons
   id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
 place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Ferro cement sheathed
 selling_status: not_for_sale
-for_sales: []
 reference:
 - Log 70/3
 - Log 82/1
@@ -25,19 +24,19 @@ ownerships:
 - name: Mr & Mrs Stuart
   start: 1986
   share: 64
-id: a7456ebe-0067-4644-a272-1f9eda4157f4
 handicap_data:
   thcf: 1.11134826
-  beam: 3.1394
-  draft: 1.6459
-  fore_triangle_height: 8.83930748597903
-  fore_triangle_base: 9.601316752011703
-  length_over_all: 12.89319678127286
-  main:
-    foot: 8.22970007315289
-    head: 5.4864667154352595
-    luff: 5.4864667154352595
-  length_on_waterline: 11.582540843696659
+  beam: 3.139
+  draft: 1.646
+  fore_triangle_height: 8.839
+  fore_triangle_base: 9.601
   length_on_deck: 12.893
+  length_on_waterline: 11.582
+  length_over_all: 12.893
+  main:
+    foot: 8.23
+    head: 5.486
+    luff: 5.486
 created_at: '2020-04-25T16:55:37.204651+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: a7456ebe-0067-4644-a272-1f9eda4157f4
+updated_at: '2024-10-14'
