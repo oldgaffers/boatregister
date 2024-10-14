@@ -1,24 +1,24 @@
 name: Comus of Wivenhoe
 oga_no: 1361
-generic_type: Smack
+generic_type: Yacht
 rig_type: Schooner
 mainsail_type: gaff
-short_description: <p>'Comus of Wivenhoe' is a gaff rigged wooden schooner of carvel
-  construction, built in 1882 by James Husk of Wivenhoe.</p>
+short_description: |-
+  'Comus of Wivenhoe' is a gaff rigged wooden schooner of carvel construction,
+  built in 1882 by James Husk of Wivenhoe.
 year: 1882
 year_is_approximate: false
 designer:
-  name: Jasmes Husk
+- name: Jasmes Husk
   id: a5bcd933-f26f-4043-be64-35742cb970d1
 builder:
-  name: Husk James and Sons
+- name: Husk James and Sons
   id: 7320ec38-3d1e-436e-9366-1c440fe64a9c
 place_built: Wivenhoe
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Teak on Oak
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Heybrige Basin
 hull_form: long keel deep forefoot
@@ -27,28 +27,28 @@ ownerships:
 - name: Jim Olney
   start: 1979
   share: 64
-id: 6cffc7f2-a6c0-429c-9482-9e0a427c4f80
 handicap_data:
   thcf: 1.256713724
-  beam: 3.7338
-  draft: 2.4902
-  fore_triangle_height: 10.972933430870519
-  fore_triangle_base: 9.067910265788832
-  length_over_all: 18.2882223847842
+  beam: 3.734
+  draft: 2.49
+  fore_triangle_height: 10.973
+  fore_triangle_base: 9.068
+  length_on_deck: 18.288
+  length_on_waterline: 16.46
   propellor:
     type: fixed
-  main:
-    foot: 8.991709339185563
-    head: 6.2484759814679345
-    luff: 7.010485247500609
   topsail:
-    luff: 7.519507437210437
-    perpendicular: 5.4864667154352595
+    luff: 7.519
+    perpendicular: 5.486
   fore:
-    foot: 4.114850036576445
-    head: 3.5052426237503047
-    luff: 6.705681541087539
-  length_on_waterline: 16.45940014630578
-  length_on_deck: 18.288
+    foot: 4.115
+    head: 3.505
+    luff: 6.706
+  length_over_all: 18.288
+  main:
+    foot: 8.992
+    head: 6.248
+    luff: 7.01
 created_at: '2020-04-25T18:35:25.022604+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 6cffc7f2-a6c0-429c-9482-9e0a427c4f80
+updated_at: '2024-10-14'
