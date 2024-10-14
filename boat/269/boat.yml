@@ -1,6 +1,6 @@
 name: Lillibullero
 oga_no: 269
-generic_type: Smack
+generic_type: Smack Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -55,33 +55,17 @@ full_description: |-
 year: 1932
 year_is_approximate: false
 designer:
-  name: Alexander E. Gostelow
+- name: Alexander E. Gostelow
   id: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
 builder:
-  name: Alexander E. Gostelow
+- name: Alexander E. Gostelow
   id: 8d74da63-305e-4666-8f7f-931df43292b5
 place_built: Boston
 construction_material: wood
 spar_material: wood
+construction_method: carvel
 selling_status: not_for_sale
 for_sales:
-- asking_price: 37000
-  created_at: '2019-08-05T21:30:20+00:00'
-  flexibility: normal
-  offered: '2019-08-05'
-  sales_text: |-
-    Built as second of three sister ships in 1932, Boston (Lincs.) by AM Gostelow
-    for WH Johnston, she has had six owners to date, including a period in the
-    Netherlands.
-
-
-    Making several North Sea passages, and being well maintained she is a solid and
-    trustworthy gaffer with very interesting history and archive available from
-    current owner and by browsing the rest of the record here.
-  seller_gold_id: 192
-  seller_member: 2791
-  summary: withdrawn
-  updated_at: '2020-05-03T10:13:13.048603+00:00'
 - asking_price: 35000
   created_at: '2021-10-02T07:53:02.061398+00:00'
   flexibility: fair
@@ -100,6 +84,23 @@ for_sales:
   seller_gold_id: 192
   seller_member: 2791
   updated_at: '2021-10-02T07:53:02.061398+00:00'
+- asking_price: 37000
+  created_at: '2019-08-05T21:30:20+00:00'
+  flexibility: normal
+  offered: '2019-08-05'
+  sales_text: |-
+    Built as second of three sister ships in 1932, Boston (Lincs.) by AM Gostelow
+    for WH Johnston, she has had six owners to date, including a period in the
+    Netherlands.
+
+
+    Making several North Sea passages, and being well maintained she is a solid and
+    trustworthy gaffer with very interesting history and archive available from
+    current owner and by browsing the rest of the record here.
+  seller_gold_id: 192
+  seller_member: 2791
+  summary: withdrawn
+  updated_at: '2020-05-03T10:13:13.048603+00:00'
 home_country: GBR
 home_port: Holbrook
 hull_form: long keel deep forefoot
@@ -136,7 +137,7 @@ ownerships:
   start: 2011
   end: '2022'
   share: '64'
-- name: ' Thomas Morley'
+- name: Thomas Morley
   start: 2022
   share: 64
   current: true
@@ -145,10 +146,11 @@ handicap_data:
   beam: 2.896
   draft: 1.433
   length_on_deck: 9.754
-  length_on_waterline: 8.83930748597903
+  length_on_waterline: 8.839
   propellor:
     blades: 3
     type: fixed
-  length_over_all: 9.75371860521824
+  length_over_all: 9.754
 created_at: '2020-04-25T16:46:21.66439+00:00'
 id: 66da7f6b-2fc5-4bea-bf33-34578dc75fbb
+updated_at: '2024-10-14'
