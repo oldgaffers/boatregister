@@ -1,19 +1,22 @@
 name: Secret
 oga_no: 143
-generic_type: Smack
+generic_type: Smack Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Secret is a Smack Yacht built by Shuttlewood in 1932
+short_description: '*Secret* is a Smack Yacht built by Shuttlewood in 1932'
+full_description: |-
+  *Secret's*  lines were used for the creation of Tyrell and Young's GRP version
+  of a smack yacht, with several examples of these on the Boat Register.
 year: 1932
+designer: []
 builder:
-  name: J.W. Shuttlewood and Sons
+- name: J.W. Shuttlewood and Sons
   id: f7e10100-9016-4757-874b-b5ca9742ef7e
 place_built: Paglesham
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel larch on oak
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Maldon
 hull_form: long keel deep forefoot
@@ -38,12 +41,13 @@ ownerships:
 - name: Keith Wilbraham
   start: 2010
   share: 64
-id: c5b2c0a3-c1ae-4b13-85b4-5a09f96eb09d
 image_key: 3pTngG
 handicap_data:
-  beam: 2.6914
-  draft: 1.0668
-  length_over_all: 8.53450377956596
-  length_on_waterline: 7.315288953913679
-  length_on_deck: 8.5344
+  beam: 2.691
+  draft: 1.067
+  length_on_deck: 8.534
+  length_on_waterline: 7.315
+  length_over_all: 8.534
 created_at: '2020-04-25T16:44:33.510469+00:00'
+id: c5b2c0a3-c1ae-4b13-85b4-5a09f96eb09d
+updated_at: '2024-10-14'
