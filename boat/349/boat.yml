@@ -1,24 +1,27 @@
 name: Sybil of Wivenhoe
 oga_no: 349
-generic_type: Smack
+generic_type: Colchester Smack
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Bought Owners mother in 1949. 1997 owned by family and their son
-  Richard. Richard lives in France and has Sybil ashore at family farmhouse Maizey
-  nr Caen. He has nearly finished a rebuild and will relaunch when accomodation is
+full_description: |-
+  Bought Owners mother in 1949. 1997 owned by family and their son Richard.
+  Richard lives in France and has Sybil ashore at family farmhouse Maizey nr Caen.
+  He has nearly finished a rebuild and will relaunch when accomodation is
   completed. Ownership transferred to son (2006).
 year: 1901
 year_is_approximate: false
 designer:
-  name: Aldous
+- name: Aldous
   id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 builder:
-  name: Aldous Ltd.
+- name: Aldous Ltd.
   id: 78bc9e97-d57d-481e-b855-b10261a92e4d
 place_built: Brightlingsea
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch Pine/Carvel
+previous_names:
+- Sybil
 selling_status: not_for_sale
 home_port: St Vaast la Hougue
 hull_form: long keel deep forefoot
@@ -26,27 +29,25 @@ ownerships:
 - name: Richard Judd
   start: 2012
   share: 64
-id: 7b8b067d-acae-4705-977b-1a420abf5d90
 image_key: V4733W
 handicap_data:
   thcf: 1.065403728
-  beam: 2.6822
-  draft: 1.2192
-  fore_triangle_height: 10.820531577663983
-  fore_triangle_base: 6.705681541087539
-  length_over_all: 10.881492318946599
+  beam: 2.682
+  draft: 1.219
+  fore_triangle_height: 10.82
+  fore_triangle_base: 6.706
+  length_on_deck: 10.881
+  length_on_waterline: 9.936
   propellor:
     type: fixed
-  main:
-    foot: 7.315288953913679
-    head: 4.87685930260912
-    luff: 4.26725188978298
   topsail:
-    luff: 4.26725188978298
-    perpendicular: 3.0480370641306997
-  length_on_waterline: 9.936600829066082
-  length_on_deck: 10.8814
+    luff: 4.267
+    perpendicular: 3.048
+  length_over_all: 10.881
+  main:
+    foot: 7.315
+    head: 4.877
+    luff: 4.267
 created_at: '2020-04-25T16:47:38.488591+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Sybil
+id: 7b8b067d-acae-4705-977b-1a420abf5d90
+updated_at: '2024-10-14'
