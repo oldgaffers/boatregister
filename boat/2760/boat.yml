@@ -1,29 +1,31 @@
 name: Stewarts Secret
 oga_no: 2760
-generic_type: Smack
+generic_type: Smack Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 2003
 year_is_approximate: false
 designer:
-  name: Frank W. Shuttlewood
+- name: Frank W. Shuttlewood
   id: e7b7b001-2a40-409b-8d10-8c5c9995d9db
 builder:
-  name: Martham Boatyard/Stewart Tolfrey
+- name: Martham Boatyard/Stewart Tolfrey
   id: 3260ede0-01f0-448b-8828-99beba4b77ca
 place_built: Maldon
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
 home_port: Maldon
+hull_form: long keel deep forefoot
 ownerships:
 - name: Lynn Panton
   start: 2012
   share: 64
-id: 25a595a4-fb2a-420b-9fb7-b98c324b59f1
 handicap_data:
-  beam: 2.5908
-  length_over_all: 8.915508412582296
-  length_on_deck: 8.9154
+  beam: 2.591
+  draft: 1.372
+  length_on_deck: 8.915
+  length_on_waterline: 8.534
+  length_over_all: 8.915
 created_at: '2020-04-25T17:26:46.031077+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 25a595a4-fb2a-420b-9fb7-b98c324b59f1
+updated_at: '2024-10-16'
