@@ -1,24 +1,27 @@
 name: Rob Pete
 oga_no: 1771
-generic_type: Smack
+generic_type: Lynn Smack
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
-  Built 1924 by Worfolk Bros., Kings Lynn *Rob Pete* is
-  a Kings Lynn shrimper. She fished until 1990 and re-launched 1994 after a major
-  rebuild by William Cracknell.
+  Built 1924 by Worfolk Bros., Kings Lynn *Rob Pete* is a Kings Lynn shrimper. She
+  fished until 1990 and re-launched 1994 after a major rebuild by William
+  Cracknell.
 year: 1924
 year_is_approximate: false
 designer:
-  name: Worfolk Bros.
+- name: Worfolk Bros.
   id: d323524d-7eac-4d6a-ae6c-5c3b5e9bea1c
 builder:
-  name: Worfolk Bros.
+- name: Worfolk Bros.
   id: 32c4dfbc-6636-4258-8a24-f074f2e7d7a4
 place_built: King's Lynn
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Russian redwood on oak frames
+previous_names:
+- Johnny Rebecca
+- Three Brothers
 selling_status: not_for_sale
 home_country: GBR
 home_port: Kings Lynn
@@ -27,23 +30,20 @@ ssr: '18553'
 uk_part1: '18553'
 ownerships:
 - name: Anthony John Pickering
-  start: 0
   end: 2003
   share: 64
 - name: Steve Hall
   start: 2003
   share: 64
-id: 3eca438c-417d-4785-9bff-f5082023c921
 image_key: rSxLXp
 handicap_data:
-  beam: 3.5052
+  beam: 3.505
   draft: 1.524
-  length_over_all: 12.8
+  length_on_deck: 12.802
+  length_on_waterline: 11.582
   propellor:
     type: fixed
-  length_on_waterline: 11.58254
-  length_on_deck: 12.8016
+  length_over_all: 12.8
 created_at: '2020-04-25T17:09:58.781805+00:00'
-previous_names:
-- Johnny Rebecca
-- Three Brothers
+id: 3eca438c-417d-4785-9bff-f5082023c921
+updated_at: '2024-10-16'
