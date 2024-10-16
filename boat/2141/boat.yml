@@ -1,49 +1,55 @@
 name: May Queen
 oga_no: 2141
-generic_type: Smack
+generic_type: Fishing Boat
 rig_type: Cutter
 mainsail_type: gaff
+short_description: May Queen is an ex-fishing boat that was also used for trips
 year: 1910
 year_is_approximate: false
 designer:
-  name: J. Bowden
+- name: J. Bowden
   id: ba69030c-bf33-41ca-b1f0-42a032139e0f
 builder:
-  name: J. Bowden
+- name: J. Bowden
   id: caff79d9-aeb5-4cfa-a330-2e843c8e1d5a
 place_built: Porthleven
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
-selling_status: not_for_sale
-for_sales: []
-home_port: Tralee, Co Kerry
-hull_form: long keel deep forefoot
-ownerships:
-- name: Pat Chambers
-  start: 2012
-  share: 64
-id: f25ac980-c4c5-4d21-94e5-5f25cc34c48c
-handicap_data:
-  thcf: 0.994637566
-  beam: 2.5908
-  draft: 1.3716
-  fore_triangle_height: 10.36332601804438
-  fore_triangle_base: 5.233479639112412
-  length_over_all: 10.66812972445745
-  propellor:
-    type: fixed
-  main:
-    foot: 4.724457449402585
-    head: 4.114850036576445
-    luff: 3.6576444769568397
-  topsail:
-    luff: 5.029261155815655
-    perpendicular: 2.43842965130456
-  length_on_waterline: 8.025481589856131
-  length_on_deck: 10.668
-created_at: '2020-04-25T17:15:37.967464+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 previous_names:
 - May Queen
 - REINE DE MAI
+selling_status: not_for_sale
+home_port: Tralee, Co Kerry
+hull_form: long keel deep forefoot
+ownerships:
+- name: Jan Robinson
+  start: 1998
+  share: 64
+- name: Robert Cooke
+  start: 2002
+  share: 64
+- name: Pat Chambers
+  start: 2008
+  share: 64
+handicap_data:
+  thcf: 0.994637566
+  beam: 2.591
+  draft: 1.372
+  fore_triangle_height: 10.363
+  fore_triangle_base: 5.233
+  length_on_deck: 8.534
+  length_on_waterline: 8.025
+  propellor:
+    type: fixed
+  topsail:
+    luff: 5.029
+    perpendicular: 2.438
+  length_over_all: 10.668
+  main:
+    foot: 4.724
+    head: 4.115
+    luff: 3.658
+created_at: '2020-04-25T17:15:37.967464+00:00'
+id: f25ac980-c4c5-4d21-94e5-5f25cc34c48c
+updated_at: '2024-10-16'
