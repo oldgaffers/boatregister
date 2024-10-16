@@ -1,60 +1,64 @@
 name: Mermaid
 oga_no: 1332
-generic_type: Smack
+generic_type: Boston Smack
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Her name at the time of launching is not known.  She was built as
-  a smack and was refitted and converted from sail to motor in 1935.  She came into
-  the possession of Mr. Charles Chase of Kings Lynn in 1912, and was re-named 'Charles
-  Josephine.  She was re-named in 1945 Mermaid, by Worfolk Bros., Kings Lynn, who
-  refitted and sold her to T. Lineham of Sutton Bridge.  She fished the Wash until
-  1980.  Bought by Jack Waterhouse & his son of Woodrolfe Boatyard, Tollesbury, Essex,
-  who rebuilt her back to her early state of sail, (Tan main, white headsails and
-  topsail) in 1980 from Tony Lineham.  They started to rebuild her in October 1981
-  renewing frames & floors. 70% of the planking, covering boards, stanchions etc.
-  also mast spars sand rigging.  The sails are by Tailors of Maldon.  The next owners
-  had known her for thirty years and always admired her.  They farmed by the river
-  'Nene at Sutton Bridge where she was berthed and saw her most days passing by to
-  fish in the Wash.
+full_description: |-
+  Her name at the time of launching is not known. She was built as a smack and was
+  refitted and converted from sail to motor in 1935. She came into the possession
+  of Mr. Charles Chase of Kings Lynn in 1912, and was re-named *Charles
+  Josephine*.
+  
+  In 1945 she was re-named *Mermaid*, by Worfolk Bros., Kings Lynn,
+  who refitted and sold her to T. Lineham of Sutton Bridge. She fished the Wash
+  until 1980.
+
+  Bought by Jack Waterhouse & his son of Woodrolfe Boatyard, Tollesbury, Essex,
+  they rebuilt her back to her early state of sail, (Tan main, white headsails and
+  topsail). They started to rebuild her in October 1981 renewing frames & floors.
+  70% of the planking, covering boards, stanchions etc. also mast spars and
+  rigging. The sails are by Tailors of Maldon. The next owners had known her for
+  thirty years and always admired her. They farmed by the river Nene at Sutton
+  Bridge where she was berthed and saw her most days, passing by to fish in the
+  Wash.
 year: 1904
 year_is_approximate: false
 designer:
-  name: Alexander E. Gostelow
+- name: Alexander E. Gostelow
   id: 20cfbebe-6989-4ad6-a6b8-62cca26a6482
 builder:
-  name: Alexander E. Gostelow
+- name: Alexander E. Gostelow
   id: 8d74da63-305e-4666-8f7f-931df43292b5
 place_built: Boston
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
+previous_names:
+- Charles Josephine
 selling_status: not_for_sale
-for_sales: []
 hull_form: long keel deep forefoot
 ownerships:
 - name: M R Waterhouse
   start: 1973
   share: 64
-id: 10e8a112-f06d-4a71-bf3d-e8733661f186
 handicap_data:
   thcf: 1.025602355
-  beam: 3.2004
-  draft: 1.3716
-  fore_triangle_height: 8.83930748597903
-  fore_triangle_base: 7.315288953913679
-  length_over_all: 10.972933430870519
+  beam: 3.2
+  draft: 1.372
+  fore_triangle_height: 8.839
+  fore_triangle_base: 7.315
+  length_on_deck: 10.973
+  length_on_waterline: 9.449
   propellor:
     type: fixed
-  main:
-    foot: 6.806266764203852
-    head: 4.87685930260912
-    luff: 5.334064862228725
   topsail:
-    luff: 5.7912704218483295
-    perpendicular: 2.43842965130456
-  length_on_waterline: 9.44891489880517
-  length_on_deck: 10.9728
+    luff: 5.791
+    perpendicular: 2.438
+  length_over_all: 10.973
+  main:
+    foot: 6.806
+    head: 4.877
+    luff: 5.334
 created_at: '2020-04-25T17:03:23.464167+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Charles Josephine
+id: 10e8a112-f06d-4a71-bf3d-e8733661f186
+updated_at: '2024-10-16'
