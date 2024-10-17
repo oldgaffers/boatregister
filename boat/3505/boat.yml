@@ -20,10 +20,11 @@ construction_material: grp
 spar_material: wood
 home_country: GBR
 home_port: Polvarth Boatyard, Percuil River, Cornwall
+hull_form: bilge keel
 sail_number: '70'
 ownerships:
-- id: 348
-  member: 3906
+- member: 3906
+  id: 348
   start: 2024
   share: 64
   current: true
@@ -34,7 +35,7 @@ handicap_data:
   draft: 0.61
   fore_triangle_height: 5.258
   fore_triangle_base: 2.057
-  length_on_deck: 9.144
+  length_on_deck: 6.553
   length_on_waterline: 5.587
   length_over_all: 6.553
   main:
@@ -46,3 +47,4 @@ handicap_data:
     luff: 2.743
 created_at: '2021-02-22T16:02:24.515251+00:00'
 id: 1c8f5652-96a4-43eb-b1c3-2e772ed58ace
+updated_at: '2024-10-17'
