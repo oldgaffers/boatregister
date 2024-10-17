@@ -1,50 +1,48 @@
 name: Pembeth
 oga_no: 898
-generic_type: Smack
+generic_type: Whitstable Smack
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Built by Aldous of Brightlingsea as a Whitstable smack. After working
-  for nearly 20 years, she was bought and converted to a yacht in 1931.<p>Stolen from
-  moorings at Portsmouth in 1945, and found 5 weeks later at Fecamp in France as a
-  partial wreck with nearly all her canvas torn.<p>In 1959 she suffered a Calor gas
-  explosion in the canal at Heybridge, the whole cabin top being blown off.<p>Repaired
-  by Dicks and Kerly of Maldon and re-certified A1 by Lloyds. Restored at Woodbridge
-  sometime after 1967.
+full_description: |-
+  Built by Aldous of Brightlingsea as a Whitstable smack. After working for nearly 20 years, she was bought and converted to a yacht in 1931.Stolen from moorings at Portsmouth in 1945, and found 5 weeks later at Fecamp in
+  France as a partial wreck with nearly all her canvas torn.In 1959 she suffered a
+  Calor gas explosion in the canal at Heybridge, the whole cabin top being blown
+  off.Repaired by Dicks and Kerly of Maldon and re-certified A1 by Lloyds.
+  Restored at Woodbridge sometime after 1967.
 year: 1912
 year_is_approximate: false
 designer:
-  name: Aldous
+- name: Aldous
   id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 builder:
-  name: Aldous Ltd.
+- name: Aldous Ltd.
   id: 78bc9e97-d57d-481e-b855-b10261a92e4d
 place_built: Brightlingsea
 construction_material: wood
+previous_names:
+- The Clyde
 selling_status: not_for_sale
-for_sales: []
+hull_form: long keel deep forefoot
 reference:
 - Log 67/1
 ownerships:
 - name: G Brewster
   start: 2012
   share: 64
-id: 80a18c44-40b1-483b-8726-52cc2a5f9a51
 image_key: CPLdqr
-thumb: https://photos.smugmug.com/photos/i-TjhWgXD/0/Th/i-TjhWgXD-Th.jpg
 handicap_data:
   thcf: 1.090802982
-  beam: 4.2062
-  draft: 1.6154
-  fore_triangle_height: 9.296513045598633
-  fore_triangle_base: 8.83930748597903
-  length_over_all: 14.325774201414289
+  beam: 4.206
+  draft: 1.615
+  fore_triangle_height: 9.296
+  fore_triangle_base: 8.839
+  length_on_deck: 14.326
+  length_on_waterline: 12.344
+  length_over_all: 14.326
   main:
-    foot: 9.44891489880517
-    head: 6.705681541087539
-    luff: 5.18166300902219
-  length_on_waterline: 12.344550109729333
-  length_on_deck: 14.3256
+    foot: 9.449
+    head: 6.706
+    luff: 5.182
 created_at: '2020-04-25T16:56:52.306735+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- The Clyde
+id: 80a18c44-40b1-483b-8726-52cc2a5f9a51
+updated_at: '2024-10-17'
