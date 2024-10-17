@@ -1,30 +1,31 @@
 name: Thistle
 oga_no: 1686
-generic_type: Smack
+generic_type: Whitstable Smack
 rig_type: Cutter
 mainsail_type: gaff
 year: 1908
 year_is_approximate: false
+designer: []
 builder:
-  name: Whitstable Shipbuilding Co.
+- name: Whitstable Shipbuilding Co.
   id: b84ab4e9-08f9-4f94-aace-091fae2cf2dc
 place_built: Whitstable
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine &  elm planking on oak whalings and frames
 selling_status: not_for_sale
-for_sales: []
 home_port: Gillingham
+hull_form: long keel deep forefoot
 ownerships:
 - name: G R Grandsden
   start: 1990
   share: 64
-id: 87024b5f-e5d7-4d7d-b889-e85308f8676b
 handicap_data:
-  beam: 3.8862
+  beam: 3.886
   draft: 1.524
-  length_over_all: 13.411363082175079
-  length_on_waterline: 11.582540843696659
-  length_on_deck: 13.4112
+  length_on_deck: 13.411
+  length_on_waterline: 11.582
+  length_over_all: 13.412
 created_at: '2020-04-25T17:08:42.210219+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 87024b5f-e5d7-4d7d-b889-e85308f8676b
+updated_at: '2024-10-17'
