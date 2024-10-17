@@ -1,30 +1,35 @@
 name: Pegasus
 oga_no: 2570
-generic_type: Smack
+generic_type: Smack Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Previously named Grace, Pegasus spent the first eleven years of
-  her existence ashore in a garden.
-full_description: "<p>Built by Ferrocement Marine Services (FCMS) and delivered in\
-  \ 1980, Pegasus (then named Grace) sat in a garden in Chichester for eleven years.\
-  \ In 1991 she was bought by Jeremy Swadling of Emsworth who fitted her out, finishing\
-  \ her at Dolphin Quay. She was launched 1994, then sold to Jeremy Gully, 2002 and\
-  \ taken to the Isle of Wight.</p>\r\n\r\n<p>She was bought by Andrea Sandford in\
-  \ May 2010 when her name was changed to Pegasus. Her mast and bowsprit were lost\
-  \ in the Solent Race, August 2010.</p>"
+short_description: |-
+  Previously named Grace, Pegasus spent the first eleven years of her existence
+  ashore in a garden.
+full_description: |-
+  Built by Ferrocement Marine Services (FCMS) and delivered in 1980, Pegasus (then
+  named Grace) sat in a garden in Chichester for eleven years. In 1991 she was
+  bought by Jeremy Swadling of Emsworth who fitted her out, finishing her at
+  Dolphin Quay. She was launched 1994, then sold to Jeremy Gully, 2002 and taken
+  to the Isle of Wight.
+
+
+  She was bought by Andrea Sandford in May 2010 when her name was changed to
+  Pegasus. Her mast and bowsprit were lost in the Solent Race, August 2010.
 year: 1980
 year_is_approximate: false
 designer:
-  name: John F. French
+- name: John F. French
   id: bb0171e9-35f7-49a9-a287-d2a45ad98b19
 builder:
-  name: Ferro Cement Marine Services
+- name: Ferro Cement Marine Services
   id: 849df6d6-4646-4549-8db6-6dd9b6cb739b
 place_built: Burnham-on-Crouch
 construction_material: ferro
 construction_details: Ferrocement
+previous_names:
+- Grace
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Bursledon
 hull_form: long keel sloping forefoot
@@ -39,29 +44,26 @@ ownerships:
   start: 2010
   share: 64
   current: true
-id: 17d92148-53bd-4dd4-b65d-b0e5659ec60e
 image_key: zzzCvC
-thumb: https://photos.smugmug.com/photos/i-Ldx3NTC/0/Th/i-Ldx3NTC-Th.jpg
 handicap_data:
   thcf: 0.97610646
   beam: 2.987
   draft: 1.463
-  fore_triangle_height: 8.01633747866374
-  fore_triangle_base: 7.162887100707144
-  length_over_all: 9.1441111923921
-  propellor:
-    type: folding
-    blades: 3
-  main:
-    foot: 5.715069495245062
-    head: 4.724457449402585
-    luff: 4.114850036576445
-  topsail:
-    luff: 5.9436722750548645
-    perpendicular: 2.590831504511095
-  length_on_waterline: 8.052913923433309
+  fore_triangle_height: 8.016
+  fore_triangle_base: 7.163
   length_on_deck: 9.144
+  length_on_waterline: 8.053
+  propellor:
+    blades: 3
+    type: folding
+  topsail:
+    luff: 5.944
+    perpendicular: 2.591
+  length_over_all: 9.144
+  main:
+    foot: 5.715
+    head: 4.724
+    luff: 4.115
 created_at: '2020-04-25T17:22:46.222773+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Grace
+id: 17d92148-53bd-4dd4-b65d-b0e5659ec60e
+updated_at: '2024-10-17'
