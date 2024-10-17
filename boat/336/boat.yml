@@ -1,30 +1,31 @@
 name: Harriet Blanche
 oga_no: 336
-generic_type: Smack
+generic_type: Colchester Smack
 rig_type: Cutter
 mainsail_type: gaff
 full_description: Picture cover gaffers log Mar 2011
 year: 1912
 year_is_approximate: false
 designer:
-  name: Aldous
+- name: Aldous
   id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 builder:
-  name: Aldous Ltd.
+- name: Aldous Ltd.
   id: 78bc9e97-d57d-481e-b855-b10261a92e4d
 place_built: Brightlingsea
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
+hull_form: long keel deep forefoot
 ownerships:
 - name: P Dann
   start: 2012
   share: 64
-id: 7104bc15-d1a3-41d6-b8ae-1169711d53c7
 handicap_data:
-  beam: 2.8956
-  length_over_all: 10.972933430870519
-  length_on_waterline: 9.1441111923921
-  length_on_deck: 10.9728
+  beam: 2.896
+  draft: 1.372
+  length_on_deck: 10.973
+  length_on_waterline: 9.144
+  length_over_all: 10.973
 created_at: '2020-04-25T16:47:19.641525+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 7104bc15-d1a3-41d6-b8ae-1169711d53c7
+updated_at: '2024-10-17'
