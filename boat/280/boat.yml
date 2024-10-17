@@ -1,33 +1,36 @@
 name: Duenna
 oga_no: 280
-generic_type: Smack
+generic_type: Brigantine
 rig_type: Other
 mainsail_type: gaff
+short_description: A Brigantine built by Aldous of Brightlingsea
+full_description: |-
+  In the 1960s and 70s *Duenna* was based in Hamburg, and regulartly came over to
+  join in the annual East Coast Race. She is a rare example of a brigantine built
+  by the noted smack builder Aldous.
 year: 1903
 year_is_approximate: false
 designer:
-  name: Aldous
+- name: Aldous
   id: 74db1b7f-49fa-49d4-8e3f-9f172cd58673
 builder:
-  name: Aldous Ltd.
+- name: Aldous Ltd.
   id: 78bc9e97-d57d-481e-b855-b10261a92e4d
 place_built: Brightlingsea
 construction_material: wood
 spar_material: wood
 selling_status: not_for_sale
-for_sales: []
 ownerships:
 - name: E Heinemann
   start: 2012
   share: 64
-id: 5e82c0c5-4d98-4a82-99f7-72fbc2c6b520
 image_key: BXJ8FG
-thumb: https://photos.smugmug.com/photos/i-kSP7xpB/0/Th/i-kSP7xpB-Th.jpg
 handicap_data:
-  beam: 3.6271
-  draft: 1.8898
-  length_over_all: 14.478176054620823
-  length_on_waterline: 12.192148256522799
+  beam: 3.627
+  draft: 1.89
   length_on_deck: 14.478
+  length_on_waterline: 12.192
+  length_over_all: 14.478
 created_at: '2020-04-25T16:46:30.450511+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 5e82c0c5-4d98-4a82-99f7-72fbc2c6b520
+updated_at: '2024-10-17'
