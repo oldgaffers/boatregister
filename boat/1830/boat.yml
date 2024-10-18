@@ -1,47 +1,65 @@
 name: Ostrea Rose
 oga_no: 1830
-generic_type: Smack
+generic_type: Maldon Smack
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Log 89/3, Au/93. Jun 2010 log for sale p. 49
+short_description: |-
+  *Ostrea Rose* is a hybrid smack/bawley, that dredged oysters comercially up
+  until 1984 with the fishing number MN183
+full_description: |-
+  *Ostrea Rose* was built in 1980 to a design evolved from the
+  bawley design Josiah Pitt who moved from Leigh
+  to Maldon in the 1870s.
+
+  She worked comercially on the River Blackwater for 3 years, catching oysters for
+  the "Maldon Oyster Fishery". After this she was converted to a yacht,
+  working for a while as a charter boat, taking up to 5 guests in an interior
+  fitted "in the Edwardian style".
+
+  By 2010 she was based in the Netherlands.
+
+  Log 89/3, Au/93. Jun 2010 log for sale p. 49
 year: 1980
 year_is_approximate: false
 designer:
-  name: Arthur Holt
+- name: Arthur Holt
   id: 24308b60-4e0a-44aa-b47c-b16e5392a93b
 builder:
-  name: Arthur Holt
+- name: Arthur Holt
   id: 8659d25e-aed3-4d6e-9c0a-b5eaf37bf466
 place_built: Heybridge
 construction_material: wood
 construction_method: carvel
-construction_details: Carvel on laminated frames
+construction_details: Iroko planks on laminated Iroko frames
 selling_status: not_for_sale
-for_sales: []
 hull_form: long keel deep forefoot
 reference:
 - Log 89/3
-- Log Aug 93
+- Log Autumn 93
 - Log Jun 2010 p. 49
+fishing_number: MN183
 ownerships:
+- name: Eddy En Jael Leblon
+  end: 2010
+  share: 64
 - name: M C R Emmett
   start: 1980
   share: 64
-id: b9376684-ae34-401b-ab75-feb58da13a2b
 handicap_data:
   thcf: 0.979890761
-  beam: 3.5052
-  draft: 1.2192
-  fore_triangle_height: 7.010485247500609
-  fore_triangle_base: 7.467690807120214
-  length_over_all: 9.957937088514996
+  beam: 3.505
+  draft: 1.219
+  fore_triangle_height: 7.01
+  fore_triangle_base: 7.468
+  length_on_deck: 9.958
+  length_on_waterline: 9.449
   propellor:
     type: fixed
+  length_over_all: 9.958
   main:
-    foot: 7.010485247500609
-    head: 5.334064862228725
-    luff: 5.18166300902219
-  length_on_waterline: 9.44891489880517
-  length_on_deck: 9.9578
+    foot: 7.01
+    head: 5.334
+    luff: 5.182
 created_at: '2020-04-25T17:10:52.75853+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: b9376684-ae34-401b-ab75-feb58da13a2b
+updated_at: '2024-10-18'
