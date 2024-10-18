@@ -1,18 +1,18 @@
 name: Diamond
 oga_no: 3163
-generic_type: Smack
+generic_type: Smack Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: Diamond, CK250, is a Tyrrell & Young smack yacht.
 year_is_approximate: false
 designer:
-  name: Traditional
+- name: Traditional
   id: fb6b6f27-19ae-4177-a974-4d0c2a0d01c0
 design_class:
   name: Tyrell and Young 28 Smack
   id: 9dadca9d-8e33-4bcf-a945-38b2debda2ec
 builder:
-  name: Tyrell and Young
+- name: Tyrell and Young
   id: 94b0313d-39ac-4e36-8e9c-48e1906cab05
 place_built: Faversham
 construction_material: grp
@@ -48,10 +48,10 @@ handicap_data:
   draft: 1.067
   fore_triangle_height: 7.925
   fore_triangle_base: 6.401
-  length_overall: 8.4826
+  length_overall: 8.483
   length_on_deck: 8.483
   length_on_waterline: 6.959
-  length_over_spars: 13.1064
+  length_over_spars: 13.106
   propellor:
     type: feathering
   main:
@@ -60,3 +60,4 @@ handicap_data:
     luff: 4.572
 created_at: '2020-04-25T17:45:02.425843+00:00'
 id: de110221-ce85-4914-bdec-e0cdcc68ac80
+updated_at: '2024-10-18'
