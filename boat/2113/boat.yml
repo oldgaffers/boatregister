@@ -16,9 +16,9 @@ designer:
 - name: Percival Hart
   id: c48d0149-ce11-48d7-ab44-dfa975acd4e9
 builder:
-- name: Berthon Boat Co. Ltd.
-  id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
-place_built: Lymington
+- name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
+place_built: Gosport
 construction_material: wood
 construction_method: carvel
 construction_details: carvel wood
@@ -64,7 +64,8 @@ ownerships:
   start: 2024
   share: 8
   current: true
-- name: Keith Barkway
+- member: 6762
+  id: 35242
   start: 2024
   share: 8
   current: true
@@ -92,5 +93,7 @@ handicap_data:
     foot: 4.877
     head: 3.353
     luff: 3.505
+  checked: true
 created_at: '2020-04-25T17:15:13.300123+00:00'
 id: 4cd239ff-2317-47e5-b293-ef60d85d1706
+updated_at: '2024-10-23'
