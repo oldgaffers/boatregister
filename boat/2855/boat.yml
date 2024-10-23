@@ -42,7 +42,6 @@ year_is_approximate: false
 designer:
 - name: Robert Berk
   id: 4c7f3417-42e8-406b-8d2d-2dc165301fc9
-builder: []
 place_built: Essex & Suffolk
 construction_material: woodepoxy
 construction_method: strip_planking_epoxy_sheathed
@@ -50,7 +49,7 @@ construction_details: Strip plank cedar with glass/epoxy
 selling_status: for_sale
 for_sales:
 - created_at: '2024-06-18T16:48:31.864Z'
-  asking_price: 85000
+  asking_price: 50000
   sales_text: |-
     Or nearest offer.
 
@@ -134,6 +133,7 @@ for_sales:
     her as a Hot Shot their definition being boats built for racing, when in fact
     she is a comfortable well equipped cruising yacht.
   flexibility: normal
+  reduced: true
 home_country: GBR
 home_port: Faversham
 hull_form: long keel sloping forefoot
@@ -151,3 +151,4 @@ handicap_data:
   length_on_deck: 11.582
   length_on_waterline: 8.534
 id: 28d9af22-e159-45cb-bd28-184d2cdcad98
+updated_at: '2024-10-23'
