@@ -1,6 +1,6 @@
 name: Ianthe
 oga_no: 2113
-generic_type: Yacht
+generic_type: Half-decker
 rig_type: Sloop
 mainsail_type: gaff
 short_description: Ianthe has spent all her life at Christchurch Sailing Club.
@@ -45,8 +45,8 @@ ownerships:
 - member: 1950
   id: 113
   start: 1987
+  end: 2024
   share: 8
-  current: true
 - member: 6753
   id: 35232
   start: '2023'
@@ -78,6 +78,10 @@ ownerships:
   start: 2024
   share: 8
   current: true
+- name: David Wakeford
+  start: 2024
+  share: 8
+  current: true
 image_key: m9CWHR
 handicap_data:
   thcf: 0.906
@@ -92,13 +96,13 @@ handicap_data:
   topsail:
     luff: 3.048
     perpendicular: 1.981
+  checked: true
   draft_keeldown: 1.6764325774201414
   length_over_all: 7.315
   main:
     foot: 4.877
     head: 3.353
     luff: 3.505
-  checked: true
 created_at: '2020-04-25T17:15:13.300123+00:00'
 id: 4cd239ff-2317-47e5-b293-ef60d85d1706
 updated_at: '2024-10-23'
