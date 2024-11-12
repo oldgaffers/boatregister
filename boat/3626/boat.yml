@@ -10,14 +10,14 @@ full_description: |-
   very much looking forward to realising the potential in the boat. I believe the
   Ilur to be ideal for dinghy cruising on inshore Irish waters.
 year: 2023
-year_is_approximate: true
+year_is_approximate: false
 designer:
-  name: François Vivier
+- name: François Vivier
   id: f8f01050-235c-4793-b62b-8d3d953d173e
 design_class:
   name: Ilur
   id: e5040ba6-01e3-47f4-a04b-a179a8189137
-builder: 0b0e4bc3-8335-434b-bc9a-5af1fdd0cd05
+builder: []
 place_built: Ballydehob, Co. Cork
 construction_material: plywood
 spar_material: wood
@@ -26,12 +26,20 @@ construction_details: Clinker plywood
 home_country: IRL
 home_port: Youghal
 hull_form: centre-board dinghy
+ownerships:
+- member: 6674
+  id: 35132
+  start: '2023'
+  share: 64
+  current: true
 image_key: gKcR7c
 handicap_data:
   beam: 1.676
   draft: 0.68
   length_on_deck: 4.471
+  length_on_waterline: 4.1
 newItems:
   builder:
-    name: Tiernan Roe
     id: caafae0f-223c-4a57-b084-f793828c6636
+    name: Tiernan Roe
+updated_at: '2024-11-12'
