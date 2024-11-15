@@ -1,27 +1,42 @@
-name: Ruby
+name: Odd Times II
 oga_no: 3471
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: 17ft.6in. half decker. Sail No. CW-143 . Ivory/Cream hull Gaff
-  sloop with tan sails.
+short_description: |-
+  17ft.6in. half decker. Sail No. CW-143 .
+
+
+  Ivory/Cream hull Gaff sloop with tan sails.
 year: 2013
 year_is_approximate: false
+designer: []
 design_class:
   name: Character Boats Lune Whammel
   id: 7337e167-9428-443a-b76a-6dc2f805e76b
 builder:
-  name: Character Boats
+- name: Character Boats
   id: b0778b8a-b68e-4cc3-8c6b-21a8c2a89ca0
+place_built: Lytham St Annes
+construction_material: grp
 spar_material: wood
-for_sales: []
+construction_method: cold_moulded
+previous_names:
+- Ruby
 home_country: GBR
-home_port: Fowey
-sail_number: '143'
-id: dd034c37-50bb-4f40-82cf-727f9f9b3161
+home_port: Solent
+hull_form: dinghy
+sail_number: CW143
+ssr: SSR177965
+callsign: Odd Times II
 image_key: bx5nd4
-thumb: https://photos.smugmug.com/photos/i-jGSF5MW/0/Th/i-jGSF5MW-Th.jpg
-created_at: '2020-09-06T19:19:30.336608+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 handicap_data:
+  beam: 2.438
+  draft: 1.372
   length_on_deck: 5.334
+  length_on_waterline: 8.534
+created_at: '2020-09-06T19:19:30.336608+00:00'
+hin: GB-CBUC7143C213
+mmsi: '235938430'
+id: dd034c37-50bb-4f40-82cf-727f9f9b3161
+updated_at: '2024-11-15'
