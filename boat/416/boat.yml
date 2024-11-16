@@ -1,32 +1,32 @@
-name: Mayfly
+name: Fram
 oga_no: 416
-generic_type: Paglesham Smack
-rig_type: Cutter
-mainsail_type: gaff
-year: 1912
-year_is_approximate: false
-designer: []
-builder:
-- name: Frank W. Shuttlewood and Son
-  id: 95af8096-5755-46ff-980e-f382837e729c
-place_built: Paglesham
+generic_type: Dinghy
+rig_type: Sloop
+mainsail_type: bermudan
+short_description: |-
+  The Oslo class was designed by Erling L. Kristoferson in 1936 for the Royal
+  Nowegian Yacht Club as a youth trainer. It was designed with standing lug and
+  bermudan rigs.
+year: 1955
+year_is_approximate: true
+place_built: Norway
 construction_material: wood
-selling_status: not_for_sale
-hull_form: long keel deep forefoot
+spar_material: other
+construction_method: clinker
+home_country: United Kingdom
+home_port: Rhu
+hull_form: centre-board dinghy
 ownerships:
-- name: J C C Gould
-  start: 1974
-  share: 32
-  - name: D J Roper
-  start: 1963
+- member: 6757
+  id: 35236
+  start: '2008'
   share: 64
+  current: true
 image_key: dXwpJq
 handicap_data:
-  beam: 3.353
-  draft: 1.372
-  length_on_deck: 9.144
-  length_on_waterline: 8.534
-  length_over_all: 9.144
-created_at: '2020-04-25T16:48:39.026604+00:00'
-id: 1dcdec43-04df-4eb1-ac22-e572506ce87a
-updated_at: '2024-10-16'
+  beam: 1.372
+  draft: 0.762
+  length_on_deck: 5.639
+  length_on_waterline: 5.029
+air_draft: 6.706
+updated_at: '2024-11-16'
