@@ -85,7 +85,10 @@ def get_json(fn):
 
 def lmd(oga_no, last_modified):
   d=[r for r in last_modified if r['oga_no'] == oga_no]
-  return d[0]['lmd'][0:10]
+  if len(d) > 0:
+    if 'lmd' in d[0]:
+      return d[0]['lmd'][0:10]
+  return str(date.today())
 
 if __name__ == '__main__':
   data = get_json('fleets/editors choice')
