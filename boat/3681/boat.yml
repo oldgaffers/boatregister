@@ -4,11 +4,13 @@ generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: bermudan
 short_description: |-
-  The Oslo class was designed by Erling L. Kristoferson in 1936 for the Royal
+  The Oslojolle was designed by Erling L. Kristoferson in 1936 for the Royal
   Nowegian Yacht Club as a youth trainer. It was designed with standing lug and
   bermudan rigs.
 year: 1955
 year_is_approximate: true
+designer: []
+builder: []
 place_built: Norway
 construction_material: wood
 spar_material: other
@@ -22,11 +24,20 @@ ownerships:
   start: '2008'
   share: 64
   current: true
+website: https://digitaltmuseum.org/011014242852/oslojolle-i-frognerkilen-med-oscarshall-i-bakgrunnen
 image_key: Lg7g6K
 handicap_data:
+  thcf: 0.781
   beam: 1.372
   draft: 0.762
+  fore_triangle_height: 2.743
+  fore_triangle_base: 0.914
   length_on_deck: 5.639
   length_on_waterline: 5.029
+  propellor:
+    type: none
+  main:
+    luff: 5.334
+    foot: 1.676
 air_draft: 6.706
-updated_at: '2024-11-16'
+updated_at: '2024-11-19'
