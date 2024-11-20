@@ -20,13 +20,14 @@ spar_material: wood
 construction_details: GRP
 previous_names:
 - Trisso
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-09-30T11:46:34.095Z'
+  asking_price: 1
   sales_text: |-
     *Knot a Clew* (*Knotty* for short) is a Mevagissey Tosher 18 which I bought
     second-hand from Gaffers & Luggers in Mylor Bridge Cornwall in 2011. Having
-    sailed on Falmouth working boats I think of her as a smaller cousin.   Recently
+    sailed on Falmouth working boats I think of her as a smaller cousin. Recently
     *Knotty* has undergone some quite extensive renovations below waterline. Hull
     stripped down to gelcoat; Keel reinforced with an 8” epoxy GRP wrap around then
     epoxy coatings/antifoul applied. Internally, the old Cornish concrete was
@@ -34,15 +35,18 @@ for_sales:
     added. A new plywood floor has been built (similar to *Ariel of Greystones* –
     see their website for info). New Plywood bulkheads and a new plywood /hardwood
     deck in work but needs completion (The level of the deck has been raised with a
-    false bulwark). Unfortunately, a change in circumstances forces her sale but this would be an ideal winter project for someone. She is currently lying on a
+    false bulwark). Unfortunately, a change in circumstances forces her sale but
+    this would be an ideal winter project for someone. She is currently lying on a
     marina berth in Sovereign Harbour in Eastbourne with a temporary watertight
-    cover. 
-    *Knotty*’s hull is on sale for the princely sum of £1. She can also be bought
-    with a cruising gaff rig with bowsprit and topsail, a 6hp Tohatsu sail
+    cover.  *Knotty*’s hull is on sale for the princely sum of £1. She can also be
+    bought with a cruising gaff rig with bowsprit and topsail, a 6hp Tohatsu sail
     drive outboard with very low hours and a selection of hardwood sufficient to
     complete the new deck. All of these are negotiable on price.
   flexibility: normal
-  asking_price: 1
+  date_sold: '2024-11-20T11:56:36.949Z'
+  sale_price: 1
+  summary: <p>sold through another website, but did generate 2 enquiries through the
+    OGA</p>
 home_country: UK
 home_port: Sovereign Harbour Eastbourne
 hull_form: long keel deep forefoot
@@ -51,11 +55,12 @@ ownerships:
 - member: 6783
   id: 35263
   start: '2011'
+  end: 2024
   share: 64
-  current: true
 image_key: TqfqNQ
 handicap_data:
   beam: 1.929
   draft: 0.814
   length_on_deck: 5.639
   length_on_waterline: 5.639
+updated_at: '2024-11-20'
