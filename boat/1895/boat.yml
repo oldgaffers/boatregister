@@ -18,15 +18,14 @@ full_description: |-
   of a trailer!
 year: 1950
 year_is_approximate: false
-designer: []
-builder: []
 construction_material: grp
 construction_details: GRP
 previous_names:
 - Antimony III
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2023-02-24T17:44:04.281Z'
+  asking_price: 2500
   sales_text: |-
     One off topsail Schooner. Full camping inventory including 2 part camping cover.
     GRP hull. Galvanised centreplate. Yanmar YSE8 inboard diesel. 2.5hp Suzuki
@@ -38,11 +37,14 @@ for_sales:
     looking for her next owner.  Currently indoors in SW Scotland.
   flexibility: normal
   offered: '2023-02-24'
+  reduced: true
   seller_gold_id: 30
   seller_member: 819
   updated_at: '2023-02-24T17:44:04.281Z'
-  asking_price: 2500
-  reduced: true
+  date_sold: '2024-11-25T12:39:18.703Z'
+  sale_price: 2500
+  summary: <p>Final price not known. Sold through advert in Gaffer's Log (probably,
+    owner implied, but did not state)</p>
 - created_at: '2018-07-02T09:10:21+00:00'
   flexibility: normal
   reduced: false
@@ -60,12 +62,12 @@ for_sales:
     inventory including camping cover and road trailer.</p>
   updated_at: '2020-05-03T10:13:13.076442+00:00'
 home_port: Kippford, Solway Firth
-hull_form: long keel deep forefoot
+hull_form: centre-board dinghy
 ownerships:
 - member: 819
   id: 30
+  end: 2024
   share: 64
-  current: true
 image_key: dZRzRK
 handicap_data:
   thcf: 0.814699085
