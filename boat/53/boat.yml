@@ -3,15 +3,29 @@ oga_no: 53
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Lloyds Yacht Register from 1886 to 1965. Mentioned in Wherries &
-  Waterways by R Maltster. Log 70/1
+short_description: |-
+  Thought to be the earliest design of G L Watson still in existence. Built for
+  use on The Broads and East Coast.
+full_description: |-
+  Lloyds Yacht Register from 1886 to 1965. Mentioned in Wherries & Waterways by R
+  Maltster. She was built for Dr W A S Wynne of St Olave's Priory, Herringfleet,
+  Gt Yarmouth. In her first season, Wynne entertained G L Watson himself on board
+  at Oulton Broad Regatta. His log books and those of the second owner Aubrey
+  Blake are extant and detail her life from the lofting of her lines in 1885 up to
+  1893. Further details of her adventures while kept at Pin Mill in the early
+  1930s in the ownership of Bill and Kitty Collett are also described, including a
+  terrifying collision with a steamer on a pitch dark night below Pin Mill where
+  injury and sinking were narrowly avoided. She later came to be based on the
+  River Blackwater and took part in OGA races in the late 1960s/early 70s. while
+  owned by Pat Barber. Bought by Jamie Clay in 1989 and kept well shored and
+  covered pending rebuild.
 year: 1886
 year_is_approximate: false
 designer:
-  name: G.L. Watson
+- name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
 builder:
-  name: J.E. Wilkins
+- name: J.E. Wilkins
   id: 7698e261-23a5-478f-b389-68f771c3b5d1
 place_built: Wivenhoe
 construction_material: wood
@@ -19,8 +33,8 @@ spar_material: wood
 construction_method: carvel
 construction_details: pitch pine on oak
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
+home_port: Maldon Essex
 hull_form: long keel deep forefoot
 reference:
 - Log 70/1
@@ -28,16 +42,16 @@ ownerships:
 - name: J J Clay
   start: 1992
   share: 64
-id: 9a64ba10-1d01-4204-ba10-0c03b3fc4fcc
 image_key: DDbLh2
-thumb: https://photos.smugmug.com/photos/i-s4cShn8/0/Th/i-s4cShn8-Th.jpg
 handicap_data:
-  beam: 2.1641
-  draft: 1.4935
-  length_over_all: 7.863935625457206
+  beam: 2.164
+  draft: 1.494
+  length_on_deck: 8.23
+  length_on_waterline: 6.919
   propellor:
     type: fixed
-  length_on_waterline: 6.919044135576688
-  length_on_deck: 7.8638
+  length_over_all: 7.864
 created_at: '2020-04-25T16:43:15.867224+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+hin: 'Official Number: 87296'
+id: 9a64ba10-1d01-4204-ba10-0c03b3fc4fcc
+updated_at: '2024-11-28'
