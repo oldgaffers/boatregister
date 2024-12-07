@@ -3,38 +3,32 @@ oga_no: 1659
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: Long keel, double ender
 full_description: |-
-  Long keel double ended gaff sloop (21ft LOD / 20ft 7" LWL), with bowsprit and
-  stern hung rudder. Approx 4 tonnes. Built in 1932 by William Kings and Sons of
-  Burnham-On-Crouch as an enlargered version of Snipe, referred to by East Coast
-  maritime author, Francis B Cooke.
+  Built as a copy of *Snipe*, referred to by East Coast maritime author, Francis B
+  Cooke.
 year: 1932
 year_is_approximate: false
-designer: []
+designer:
+- null
 builder:
-- name: William King and Sons
-  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+- id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
+  name: William King and Sons
 place_built: Burnham-on-Crouch
 construction_material: wood
-spar_material: wood
-construction_method: carvel
-construction_details: Pitch pine planking on elm ribs, oak and elm centreline structure,
-  oak stem and stern post, teak cabin top and comings.
+construction_details: pitch pine on american elm, oak stem and stern postdouble ender.
 selling_status: not_for_sale
-home_port: Port Penrhyn
-hull_form: long keel deep forefoot
+home_port: Beaumaris
 ownerships:
 - member: 4467
   id: 460
   start: 2012
   share: 64
   current: true
+image_key: twVgHn
 handicap_data:
-  beam: 2.057
-  draft: 1.219
-  length_on_deck: 6.401
-  length_on_waterline: 6.279
+  beam: 2.0574
+  draft: 1.2192
+  length_on_deck: 6.4
   length_over_all: 6.4
 created_at: '2020-04-25T17:08:17.158386+00:00'
 id: b7097b40-9c24-43e7-99e8-0f67df2700a9
