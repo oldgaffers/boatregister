@@ -6,19 +6,21 @@ mainsail_type: gaff
 year: 1915
 year_is_approximate: false
 designer:
+- id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
   name: A.R. Luke
-  id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 design_class:
   name: Hamble OD
   id: e09ad4a7-d51c-4c25-8fc0-62b03196d4d3
 builder:
+- id: c75fcaa9-f643-4379-862a-9ca83007e463
   name: Luke and Co Ltd
-  id: c75fcaa9-f643-4379-862a-9ca83007e463
 place_built: Hamble River
 construction_material: wood
 construction_method: carvel
 construction_details: Elm and pine carvel plank on canadian elm timbers, oak floors
   Iron allast keel.
+previous_names:
+- Morvran
 selling_status: not_for_sale
 for_sales: []
 home_port: Keyhaven
@@ -30,23 +32,22 @@ ownerships:
 - name: John Tindle
   start: 2012
   share: 32
-id: c077c1f0-03d2-4017-8c64-741d64d39003
+image_key: 6FJd2x
 handicap_data:
   thcf: 0.801704751
   beam: 1.9812
   draft: 0.9601
   fore_triangle_height: 4.721409412338454
   fore_triangle_base: 1.8196781272860276
-  length_over_all: 5.480370641306998
+  length_on_deck: 5.4803
+  length_on_waterline: 4.392221409412338
   propellor:
     type: fixed
+  length_over_all: 5.480370641306998
   main:
     foot: 3.6515484028285785
     head: 2.590831504511095
     luff: 3.4991465496220435
-  length_on_waterline: 4.392221409412338
-  length_on_deck: 5.4803
 created_at: '2020-04-25T17:28:28.683315+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Morvran
+id: c077c1f0-03d2-4017-8c64-741d64d39003
+updated_at: '2024-12-11'
