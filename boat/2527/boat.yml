@@ -26,7 +26,7 @@ place_built: Heswall
 construction_material: wood
 construction_method: clinker_ply
 construction_details: Glued Clinker ply on oak and utele backbone
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-06-16T10:38:05.479Z'
   asking_price: 2500
@@ -36,14 +36,19 @@ for_sales:
     road trailer with winch and jockey wheel , and torqueedo electric outboard,
     rarely used.
   flexibility: normal
+  date_sold: '2024-12-19T16:11:44.868Z'
+  summary: |-
+    <p>Final price not known</p>
+    <p>Sold to a "man in Dublin". Not an OGA member, but he did see the advert on our website, and has been encouraged to join</p>
+  sale_price: 2500
 home_port: Heswall
 hull_form: dinghy
 ownerships:
 - member: 3842
   id: 336
   start: 2002
+  end: 2024
   share: 64
-  current: true
 image_key: Wsk6mk
 handicap_data:
   thcf: 0.739389665
@@ -61,3 +66,4 @@ handicap_data:
     luff: 2.204
 created_at: '2020-04-25T17:22:06.761837+00:00'
 id: 60c14556-6f19-40eb-8afd-c02def59b4a1
+updated_at: '2024-12-19'
