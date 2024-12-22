@@ -25,17 +25,32 @@ full_description: |-
 year: 1995
 year_is_approximate: false
 designer:
-  name: Dick Couture
+- name: Dick Couture
   id: 68c292a9-6f07-449a-aebb-587d10117c6a
 builder:
-  name: Terry Erskine/Dick Couture
+- name: Terry Erskine/Dick Couture
   id: 03512fbb-d7f0-412d-b73d-32019f6dcc68
 place_built: Xewkija, Gozo
 construction_material: steel
+spar_material: wood
 construction_details: Steel
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- created_at: '2024-12-22T06:50:01.581Z'
+  sales_text: |-
+    An incredible boat with an impressive logbook.  Young Larry cruised extensively
+    in the Mediterranean; transitted the NWP and circumnavigated North America in
+    2010-11; she returned to Western Greenland and Baffin Island; and has been
+    cruising on the West Coast of Scotland since 2019. She is as solid a cruising
+    boat as you can imagine.  New mainsail 2021, new topsail 2022, new galley stove
+    2022.  Absolutely gorgeous below.  Engine is a Yanmar 45 hp and is in good
+    shape.  Well maintained and currently being well looked after in Kerrera.
+  flexibility: normal
+  asking_price: 130000
+home_country: USA
+home_port: Kerrera
 hull_form: long keel deep forefoot
+sail_number: '3511'
 ownerships:
 - member: 1709
   id: 88
@@ -66,7 +81,7 @@ handicap_data:
   topsail:
     luff: 8.23
     perpendicular: 2.819
-  length_over_all: 13.411363082175079
+  length_over_all: 13.412
   main:
     foot: 6.401
     head: 5.182
@@ -79,5 +94,7 @@ handicap_data:
     hull_shape: Long keel - Standard
     measured_rating: 30.69968566089709
     thcf: 1.057
+  checked: true
 created_at: '2020-04-25T17:38:29.292603+00:00'
 id: 2e22b085-37f8-4816-8875-dc88d8bb9604
+updated_at: '2024-12-22'
