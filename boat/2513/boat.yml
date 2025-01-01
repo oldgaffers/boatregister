@@ -2,25 +2,26 @@ name: Furstin
 oga_no: 2513
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Furstin is a Tamarisk 29</p>
+short_description: Furstin is a Tamarisk 29
 year: 1988
 year_is_approximate: false
 designer:
-  - name: Percy Dalton
-    id: 7ac480da-7d09-4dd7-9c89-61199ff30913
-  - name: David M. Cannell
-    id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+- name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+- name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 design_class:
   name: Tamarisk 29
   id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
 builder:
-  name: North Cornwall Marine
+- name: North Cornwall Marine
   id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
 place_built: Cornwall
 construction_material: grp
 construction_details: G R P
+previous_names:
+- Turstin
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Yarmouth I o W
 hull_form: long keel deep forefoot
@@ -28,30 +29,34 @@ sail_number: TK12
 ownerships:
 - name: Peter Garratt
   start: 2012
+  end: 2023
   share: 64
-id: f291ee9f-4c89-4d79-bc09-8993ce7071e7
+- member: 4913
+  id: 542
+  start: '2023'
+  share: 64
+  current: true
 image_key: jcdTBL
 handicap_data:
   thcf: 0.981
-  beam: 2.7432
-  draft: 1.4326
-  fore_triangle_height: 8.558888076079004
-  fore_triangle_base: 5.18166300902219
-  length_over_all: 8.83930748597903
+  beam: 2.743
+  draft: 1.433
+  fore_triangle_height: 8.559
+  fore_triangle_base: 5.182
+  length_on_deck: 8.839
+  length_on_waterline: 8.33
   propellor:
-    type: fixed
     blades: 3
-  sailarea: 58.12236582665401
-  main:
-    foot: 5.334064862228725
-    head: 4.825042672518897
-    luff: 5.6388685686417945
+    type: fixed
+  sailarea: 58.122
   topsail:
-    luff: 5.105462082418922
-    perpendicular: 2.1580102414045355
-  length_on_waterline: 8.330285296269201
-  length_on_deck: 8.8392
+    luff: 5.105
+    perpendicular: 2.158
+  length_over_all: 8.839
+  main:
+    foot: 5.334
+    head: 4.825
+    luff: 5.639
 created_at: '2020-04-25T17:21:53.972968+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Turstin
+id: f291ee9f-4c89-4d79-bc09-8993ce7071e7
+updated_at: '2025-01-01'
