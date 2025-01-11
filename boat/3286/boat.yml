@@ -7,26 +7,30 @@ short_description: Teal is a Drascombe Peterboat built in 2011
 year: 2011
 year_is_approximate: false
 designer:
-  name: John Watkinson
+- name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 design_class:
   name: Drascombe Peterboat
   id: 1e649000-5165-4508-8ea0-171c80903329
 builder:
-  name: Charlie Hussey
+- name: Charlie Hussey
   id: 8a91362b-b565-4ad8-b73f-2622fc8c4b65
 place_built: Edinburgh
 construction_material: plywood
 spar_material: wood
 construction_details: Plywood construction
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 hull_form: centre-board dinghy
 ownerships:
 - member: 6029
   id: 898
   start: 2011
+  end: 2024
+  share: 64
+- member: 5785
+  id: 35179
+  start: '2024'
   share: 64
   current: true
 image_key: CDdHTV
@@ -41,7 +45,7 @@ handicap_data:
   propellor:
     type: none
   sailarea: 1
-  draft_keel_down: 0.7864
+  draft_keel_down: 0.786
   main:
     foot: 2.92
     head: 2.92
@@ -50,3 +54,4 @@ handicap_data:
   moving_keel_type: Centreboard
 created_at: '2020-04-25T17:47:47.60237+00:00'
 id: ce3e784e-34ac-48a3-870e-def5b9be2be9
+updated_at: '2025-01-11'
