@@ -3,36 +3,50 @@ oga_no: 433
 generic_type: Brixham Trawler
 rig_type: Ketch
 mainsail_type: gaff
-short_description: <p>One of the last trawlers built to work under sail, &#39;Provident&#39;
-  fished for six years before being converted to a yacht. She has cruised extensively
-  around the West Country and Baltic ports. After being out of service for more than
-  a year, she takes part in the Brixham Heritage Sailing Regatta, May 2016.</p>
-full_description: "<p>Built by Saunders &amp; Co. on the River Dart in 1924, for skipper\
-  \ William Pillar, &#39;Provident&#39; is a medium sized Mule class gaff ketch and\
-  \ fished &#39;with three men and a boy&#39;. After only six years fishing, an American,\
-  \ Captain RH Lagarde, purchased her for conversion to a yacht using Morgan Giles\
-  \ design.</p>\r\n\r\n<p>Remaining in the West Country up to and during the Second\
-  \ World War, she continued cruising, including the Baltic ports and had an engine\
-  \ fitted. Since 1951 her sailing career continued as a charter vessel with restoration\
-  \ and refit programmes undertaken in 1986 - 1991 and 2013 - 2014. A new engine was\
-  \ installed in 2016.</p>\r\n\r\n<p>Owned by the Trinity Sailing Foundation since\
-  \ 2002, &#39;Provident&#39; provides adventure and sail training to the public,\
-  \ including youth and disadvantaged groups. She has taken part in OGA events in\
-  \ the South West and Solent as well as several of the major French festivals.</p>\r\
-  \n\r\n<p>Read about her return to the water in <a href=\"http://www.classicboat.co.uk/news/brixham-trawler-provident-back-water/\"\
-  \ target=\"_blank\">Classic Boat, March 2016</a>.</p>\r\n\r\n<p>Watch the video\
-  \ showing &#39;Provident&#39; at sea and undergoing significant restoration in 2013.</p>\r\
-  \n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"360\" src=\"https://www.youtube.com/embed/a5Xua89bmic\"\
-  \ width=\"640\"></iframe></p>"
+short_description: |-
+  One of the last trawlers built to work under sail, 'Provident' fished for six
+  years before being converted to a yacht. She has cruised extensively around the
+  West Country and Baltic ports. After being out of service for more than a year,
+  she takes part in the Brixham Heritage Sailing Regatta, May 2016.
+full_description: |-
+  Built by Saunders & Co. on the River Dart in 1924, for skipper William Pillar,
+  'Provident' is a medium sized Mule class gaff ketch and fished 'with three men
+  and a boy'. After only six years fishing, an American, Captain RH Lagarde,
+  purchased her for conversion to a yacht using Morgan Giles design.
+
+
+  Remaining in the West Country up to and during the Second World War, she
+  continued cruising, including the Baltic ports and had an engine fitted. Since
+  1951 her sailing career continued as a charter vessel with restoration and refit
+  programmes undertaken in 1986 - 1991 and 2013 - 2014. A new engine was installed
+  in 2016.
+
+
+  She was owned by the Trinity Sailing Foundation and provided adventure and sail
+  training to the public, including youth and disadvantaged groups. She had taken
+  part in OGA events in the South West and Solent as well as several of the major
+  French festivals.
+
+
+  She is now owned by Provident Sailing since 2022 and is available for private
+  charter.
+
+
+  Read about her return to the water in [Classic Boat, March
+  2016](http://www.classicboat.co.uk/news/brixham-trawler-provident-back-water/).
+
+
+  Watch the video showing 'Provident' at sea and undergoing significant
+  restoration in 2013.
 year: 1924
 year_is_approximate: false
+designer: []
 builder:
-  name: Sanders and Co.
+- name: Sanders and Co.
   id: 661dad0e-9862-43d8-bc2d-729c2e8b757a
 place_built: Galmpton
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Brixham
 hull_form: long keel deep forefoot
@@ -42,7 +56,8 @@ ownerships:
   start: 1951
   end: 1971
   share: 64
-- start: 1951
+- name: ''
+  start: 1951
   note: Bought in 1951 John Bayley who founded the Island Cruising Club she continued
     under Club ownership until 1971 when she was bought by the Maritime Trust and
     subsequently the Island Trust. She was bought by the Trinity Sailing Foundation
@@ -51,34 +66,32 @@ ownerships:
 - name: Trinity Sailing
   start: 2002
   share: 64
-website: http://www.trinitysailing.org/vessels/provident/
-id: 9895bb27-7350-47f4-9cbe-4a2f48beb9e9
 image_key: 4rRbxZ
-thumb: https://photos.smugmug.com/photos/i-DMCmg72/0/Th/i-DMCmg72-Th.jpg
 handicap_data:
   thcf: 1.235437796
-  beam: 5.4864
-  draft: 2.6914
-  fore_triangle_height: 10.66812972445745
-  fore_triangle_base: 12.192148256522799
-  length_over_all: 21.3362594489149
+  beam: 5.486
+  draft: 2.691
+  fore_triangle_height: 10.668
+  fore_triangle_base: 12.192
+  length_on_deck: 21.336
+  length_on_waterline: 18.288
   propellor:
     type: fixed
-  main:
-    foot: 9.1441111923921
-    head: 8.53450377956596
-    luff: 9.1441111923921
   topsail:
-    luff: 9.1441111923921
-    perpendicular: 3.0480370641306997
+    luff: 9.144
+    perpendicular: 3.048
+  length_over_all: 21.336
+  main:
+    foot: 9.144
+    head: 8.534
+    luff: 9.144
   mizzen:
-    foot: 6.0960741282613995
-    head: 4.57205559619605
-    luff: 3.6576444769568397
+    foot: 6.096
+    head: 4.572
+    luff: 3.658
   mizzen_topsail:
-    luff: 4.57205559619605
-    perpendicular: 2.13362594489149
-  length_on_waterline: 18.2882223847842
-  length_on_deck: 21.336
+    luff: 4.572
+    perpendicular: 2.134
 created_at: '2020-04-25T16:48:54.566527+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 9895bb27-7350-47f4-9cbe-4a2f48beb9e9
+updated_at: '2025-01-13'
