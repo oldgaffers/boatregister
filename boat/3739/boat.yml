@@ -3,15 +3,18 @@ oga_no: 3739
 generic_type: Dinghy
 rig_type: Single Sail
 mainsail_type: lug
+short_description: Brian Kennel Smack Boat
 full_description: |-
   *Switha* is believed to be a Brian Kennel moulded bare hull, fitted out by
   Andrew Moore at Felixstowe Ferry Boat yard along with 3 other Smack boats in
   2006. Her form is that of an standard, unmodified, Kennel Smack boat.
 year: 2006
 year_is_approximate: true
+designer: []
 design_class:
   name: Brian Kennel Smacks Boat
   id: 99ce7ec6-76a6-4944-9bd9-113a47a51ac2
+builder: []
 place_built: Layer Breton, Colchester
 construction_material: grp
 spar_material: wood
@@ -19,6 +22,12 @@ construction_details: GRP, mould taken from Alf Last design. Fitted out in wood 
   galvanised centreboard.
 home_country: uk
 hull_form: centre-board dinghy
+ownerships:
+- member: 6029
+  id: 898
+  start: '2024'
+  share: 64
+  current: true
 image_key: dHskdC
 handicap_data:
   beam: 1.524
