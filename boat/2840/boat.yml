@@ -3,17 +3,25 @@ oga_no: 2840
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
+short_description: As built condition Hamble OD
+full_description: |-
+  One of only 3 remaining Hamble One Designs in 2007. She still has her original
+  rig.
+
+
+  *Vixen* was owned by the same person for over 30 years and kept in Chichester
+  Harbour where she was maintained yearly by Coombes Boatyard.
 year: 1915
 year_is_approximate: false
 designer:
-- id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
-  name: A.R. Luke
+- name: A.R. Luke
+  id: 73f2ddab-5b27-4b80-a8c7-bd3aac91d512
 design_class:
   name: Hamble OD
   id: e09ad4a7-d51c-4c25-8fc0-62b03196d4d3
 builder:
-- id: c75fcaa9-f643-4379-862a-9ca83007e463
-  name: Luke and Co Ltd
+- name: Luke and Co Ltd
+  id: c75fcaa9-f643-4379-862a-9ca83007e463
 place_built: Hamble River
 construction_material: wood
 construction_method: carvel
@@ -22,32 +30,34 @@ construction_details: Elm and pine carvel plank on canadian elm timbers, oak flo
 previous_names:
 - Morvran
 selling_status: not_for_sale
-for_sales: []
 home_port: Keyhaven
 hull_form: long keel deep forefoot
+reference:
+- Yachting Monthly, June 1913
 ownerships:
-- name: Jago Walker
-  start: 2012
-  share: 32
 - name: John Tindle
+  start: 2007
+  end: 2012
+  share: 32
+- name: Jago Walker
   start: 2012
   share: 32
 image_key: 6FJd2x
 handicap_data:
   thcf: 0.801704751
-  beam: 1.9812
-  draft: 0.9601
-  fore_triangle_height: 4.721409412338454
-  fore_triangle_base: 1.8196781272860276
-  length_on_deck: 5.4803
-  length_on_waterline: 4.392221409412338
+  beam: 1.981
+  draft: 0.96
+  fore_triangle_height: 4.721
+  fore_triangle_base: 1.82
+  length_on_deck: 5.48
+  length_on_waterline: 4.392
   propellor:
     type: fixed
-  length_over_all: 5.480370641306998
+  length_over_all: 5.48
   main:
-    foot: 3.6515484028285785
-    head: 2.590831504511095
-    luff: 3.4991465496220435
+    foot: 3.652
+    head: 2.591
+    luff: 3.499
 created_at: '2020-04-25T17:28:28.683315+00:00'
 id: c077c1f0-03d2-4017-8c64-741d64d39003
-updated_at: '2024-12-11'
+updated_at: '2025-01-24'
