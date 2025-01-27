@@ -29,11 +29,22 @@ builder:
 place_built: Hamble River
 construction_material: wood
 construction_method: carvel
-construction_details: Elm and pine carvel plank on canadian elm timbers, oak floors
-  Iron allast keel.
+construction_details: Elm and pine carvel plank on canadian elm timbers, oak floors,
+  iron ballast keel.
 previous_names:
 - Morvran
-selling_status: not_for_sale
+selling_status: for_sale
+for_sales:
+- created_at: '2025-01-27T14:02:50.846Z'
+  flexibility: normal
+  sales_text: |-
+    *Vixen* is an Edwardian Gentleman’s/Lady's yacht. Built in 1914-15 in Lukes yard
+    in Hamble. She has a handy Vire 7hp inboard engine (2 stroke) with electric
+    start. She has her own cradle and is currently in Lymington out of the water in
+    Haven key.   She was restored about 5 years ago and sadly little used since due
+    to her owners ill health. She is in good condition but needs the usual TLC a
+    wooden yacht requires.   Please get in touch to discus more.
+  asking_price: 6000
 home_port: Lymington
 hull_form: long keel deep forefoot
 reference:
@@ -46,6 +57,10 @@ ownerships:
 - name: Jago Walker
   start: 2012
   share: 32
+- name: Jago Walker
+  start: '2012'
+  share: 64
+  current: true
 image_key: 6FJd2x
 handicap_data:
   thcf: 0.801704751
