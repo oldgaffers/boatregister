@@ -6,24 +6,48 @@ mainsail_type: gunter
 short_description: Pipit is a Wagtail sailing dinghy built in 2010
 year: 2010
 year_is_approximate: false
-designer:
-- null
+designer: []
 design_class:
   name: Wagtail
   id: fbacd8ea-b4ac-4058-aa06-0f463cf6fdbb
 builder:
-- id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-  name: Salterns Boatyard Ltd.
+- name: Salterns Boatyard Ltd.
+  id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
 place_built: Hamble
 construction_material: grp
-construction_method: clinker
+spar_material: wood
+construction_method: other
 construction_details: GRP simulated clinker hull, teak gunwhale, thwarts and mast
   partners. Pine floorboards and bronze fittings, spruce spars.
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- created_at: '2025-02-03T14:34:22.294Z'
+  sales_text: |-
+    GRP hull simulated clinker   Built in buoyancy forward and aft   Teak gunwales
+    and teak thwart and centreboard box top   Galvanised steel centre plate with
+    hoist lead aft to jammer   Teak stock   White painted rudder blade   Ash tiller
+    with tiller extension   Fitted Canvas cushions over forward and aft side seats
+    and centre thwart and over forward and aft  buoyancy tanks, all of which are
+    easily portable   Waterproof hatch on forward buoyancy tank   Oars, bronze
+    rowlocks and fittings   Outboard 2hp Mariner and stainless steel transom
+    outboard bracket   Sovereign Combination trailer with 10” road wheels plus one
+    spare wheel which is unused   Rig: Spruce mast, gaff and boom   Stainless steel
+    standing rigging   Sheets and halyards   Mainsheet traveller on transom,
+    adjustable   Ratchet mainsheet take off from centre block on boom   Jib sheets
+    on jammer   Sails by Simon Richardson, modified batten pockets   Original
+    overall cover in a serviceable condition   One year old overall cover with mast
+    up
+
+
+    All of the above is in good condition.
+
+
+    Selling the vessel due to looking for smaller and lighter dinghy .
+  flexibility: normal
+  asking_price: 4500
 home_country: GBR
 home_port: Bursledon
-hull_form: long keel deep forefoot
+hull_form: centre-board dinghy
 ownerships:
 - name: Ken Shaw
   start: 2010
@@ -38,18 +62,17 @@ ownerships:
   start: 2016
   share: 64
   current: true
-image_key: Wn2rCv
 handicap_data:
   calculated_thcf: 0.742
   beam: 1.463
-  draft: 0.1463
-  fore_triangle_height: 3.3528
-  fore_triangle_base: 0.9388
-  length_overall: 3.8527
-  length_on_deck: 3.8527
-  length_on_waterline: 3.4991
-  length_over_spars: 3.8527
-  draft_keel_down: 1.0607
+  draft: 0.146
+  fore_triangle_height: 3.353
+  fore_triangle_base: 0.939
+  length_overall: 3.853
+  length_on_deck: 3.853
+  length_on_waterline: 3.499
+  length_over_spars: 3.853
+  draft_keel_down: 1.061
   main:
     foot: 8.88
     head: 8.48
