@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     name: A job to propose an update to a boat
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: actions/setup-python@v4
       with:
         python-version: '3.11'
@@ -38,7 +38,7 @@ jobs:
         else
           echo checkout=main >> $GITHUB_ENV
         fi
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         fetch-depth: 0
         ref: ${{ env.checkout }}
