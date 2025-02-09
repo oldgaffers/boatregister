@@ -3,13 +3,15 @@ oga_no: 3745
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: MAURICE GRIFFITHS GAFF CUTTER ,  TAN MAINSAIL AND STAYSAIL CREAM
-  FORSAIL
+short_description: Maurice Griffiths designed gaff cutter
+full_description: Gaff cutter with tan main and stay sails, and a cream foresail.
 year: 1999
 year_is_approximate: false
+designer: []
 design_class:
   name: MG Tideway
   id: c9e23eb4-08e5-4f90-9777-0a120da0e47e
+builder: []
 place_built: norfolk
 construction_material: wood
 spar_material: wood
@@ -17,7 +19,8 @@ home_country: east coast
 home_port: norwich
 hull_form: long keel deep forefoot
 ownerships:
-- name: Bimsing
+- member: 6801
+  id: 35286
   start: '2025'
   share: 64
   current: true
@@ -27,4 +30,4 @@ handicap_data:
   draft: 1.372
   length_on_deck: 9.144
   length_on_waterline: 8.534
-updated_at: '2025-02-08'
+updated_at: '2025-02-09'
