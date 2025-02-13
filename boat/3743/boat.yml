@@ -5,19 +5,28 @@ rig_type: Yawl
 mainsail_type: gaff
 year: 1990
 year_is_approximate: false
+designer: []
 design_class:
   name: Kittiwake 14
   id: 2040951b-da62-4080-8f0d-b39bae2a4db3
-place_built: PottstrinMacclesfieldgley
+builder:
+- name: Roger Wilkinson
+  id: b9e4e3f8-9edb-40a5-b41c-29ca5bd6ffdf
+place_built: Macclesfield
 construction_material: grp
 construction_details: Grp & Mahogany
+selling_status: for_sale
+for_sales:
+- created_at: '2025-02-12T15:40:52.042Z'
+  asking_price: 5750
+  flexibility: normal
 home_country: England
 home_port: Bosham
 hull_form: centre-board dinghy
 sail_number: KW14
 ownerships:
 - name: Howard Mackenzie Wilson
-  start: '2025'
+  start: '2024'
   share: 64
   current: true
 image_key: 9KNwWV
@@ -33,15 +42,15 @@ handicap_data:
     type: none
   sailarea: 14.507
   main:
-    luff: 1.777
     foot: 2.795
     head: 2.743
+    luff: 1.777
   mizzen:
-    luff: 2.286
     foot: 1.015
+    luff: 2.286
   mizzen_topsail: {}
   solent:
     hull_shape: Long keel - Standard
     measured_rating: 15.796535785664037
     thcf: 0.872
-updated_at: '2025-02-08'
+updated_at: '2025-02-12'
