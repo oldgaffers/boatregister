@@ -18,14 +18,20 @@ builder:
   id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
 place_built: Fiddler's Ferry Boatyard
 construction_material: grp
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-12-29T13:11:39.067Z'
-  sales_text: |-
-    GRP Winkle Brig 54.  Has been trailed and sailed extensively from the East Coast.  Comes with two wheeled, galvanised,  braked trailer, 2hp Johnson outboard,  New main and hanked on jib in good condition.    12v solar panel with control box and charging points,  battery, VHF radio that works but needs an ariel.
-    Can be seen at Walton on the Naze
-  flexibility: normal
   asking_price: 4500
+  sales_text: |-
+    GRP Winkle Brig 54.  Has been trailed and sailed extensively from the East
+    Coast.  Comes with two wheeled, galvanised,  braked trailer, 2hp Johnson
+    outboard,  New main and hanked on jib in good condition.    12v solar panel with
+    control box and charging points,  battery, VHF radio that works but needs an
+    ariel. Can be seen at Walton on the Naze
+  flexibility: normal
+  date_sold: '2025-02-14T18:14:39.614Z'
+  sale_price: 4500
+  summary: <p>priced to sell, and did so</p>
 home_country: GBR
 home_port: Walton-on-the-Naze
 hull_form: centre-boarder
@@ -33,8 +39,8 @@ ownerships:
 - member: 3283
   id: 241
   start: 2024
+  end: 2025
   share: 64
-  current: true
 website: http://www.winklebrig.org/
 image_key: 96WLDV
 handicap_data:
@@ -45,4 +51,4 @@ handicap_data:
   length_over_all: 4.191
 created_at: '2021-02-24T21:13:20.159883+00:00'
 id: ba04f7eb-9060-45f3-af92-47a9576abda2
-updated_at: '2024-12-29'
+updated_at: '2025-02-14'
