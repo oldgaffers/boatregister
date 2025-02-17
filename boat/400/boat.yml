@@ -3,43 +3,58 @@ oga_no: 400
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Sister ship to &#39;Vixen&#39;, &#39;Marihona&#39; was built
-  for blue water cruising and has undertaken several Atlantic crossings and voyages.</p>
-full_description: "<p>Designed by William &amp; John Atkin, the hull of the &#39;Marihona&#39;\
-  \ was built in Risor, southern Norway, in 1957 of pitch pine on oak and shipped\
-  \ to Bermuda. Her owner was an Englishman, Gordon Emmerson, residing and working\
-  \ in Bermuda since 1945 who was Chief Engineer of the large and beautiful hotel,\
-  \ the Elbow Beach Surf Club in Paget, Bermuda. Gordon Emmerson fitted her out himself\
-  \ in Bermudan cedar. He and his wife, Beth, made at least two transatlantic voyages,\
-  \ sailing her to the Azores, Portugal, England and Ireland as well as in the West\
-  \ Indies.</p>\r\n\r\n<p>In 1971 Gordon Emmerson sold her to two medical gentlemen\
-  \ in Ireland, who also (?) made two Atlantic crossings and also sailed down through\
-  \ the West Indies before selling her,&nbsp;in 1976, to a Mr White&nbsp;based in\
-  \ Salcombe.</p>\r\n\r\n<p>In 1994, Mr and Mrs Bibra bought her, sailing mostly in\
-  \ the English Channel.</p>\r\n\r\n<p>She is built in the Colin Archer style with\
-  \ double-ended hull, long keel, length 34&rsquo; and 10&rsquo; beam. &#39;Marihona&#39;\
-  \ has a laid pine deck and solid Douglas fir mast (keel stepped), boom, gaff and\
-  \ bowsprit.</p>\r\n\r\n<p>In 2006 she was purchased by Hans Jolivet, a French shipwright\
-  \ based in Falmouth. He has enjoyed some wonderful sailing onboard, her massive\
-  \ construction inspiring great confidence and her beauty and presence being a constant\
-  \ source of pleasure. Whilst the design was developed purely for the purpose of\
-  \ offshore cruising, without any regard for racing rules, she has a useful turn\
-  \ of speed and has featured in the prizes at OGA regattas.</p>\r\n\r\n<p>She is\
-  \ a sister ship to &#39;Vixen&#39;, which did a circumnavigation of 38,000 miles\
-  \ without a hitch, and has completed a second &#39;lap of the globe&#39; <a href=\"\
-  https://www.oga.org.uk/ocean-gaffer-vixen\">in the hands of Bruce Halabisky</a>.</p>\r\
-  \n\r\n<p>In 2018, &#39;Marihona&#39; returned to Norway and is &#39;fitting out&#39;\
-  \ over the winter, hoping to return to the UK in 2019. Her skipper is seeking crew\
-  \ to join him on the passage, <a href=\"https://www.oga.org.uk/news/marihona-crew\"\
-  >more details here</a>.</p>\r\n\r\n<h4>Interior images courtesy of <a href=\"http://www.red-ensign.com\"\
-  \ target=\"_blank\">Red Ensign Yacht Brokers</a>, Port Pendennis, Falmouth.</h4>"
+short_description: |-
+  Sister ship to 'Vixen', 'Marihona' was built for blue water cruising and has
+  undertaken several Atlantic crossings and voyages.
+full_description: |-
+  Designed by William & John Atkin, the hull of the 'Marihona' was built in Risor,
+  southern Norway, in 1957 of pitch pine on oak and shipped to Bermuda. Her owner
+  was an Englishman, Gordon Emmerson, residing and working in Bermuda since 1945
+  who was Chief Engineer of the large and beautiful hotel, the Elbow Beach Surf
+  Club in Paget, Bermuda. Gordon Emmerson fitted her out himself in Bermudan
+  cedar. He and his wife, Beth, made at least two transatlantic voyages, sailing
+  her to the Azores, Portugal, England and Ireland as well as in the West Indies.
+
+
+  In 1971 Gordon Emmerson sold her to two medical gentlemen in Ireland, who also
+  (?) made two Atlantic crossings and also sailed down through the West Indies
+  before selling her, in 1976, to a Mr White based in Salcombe.
+
+
+  In 1994, Mr and Mrs Bibra bought her, sailing mostly in the English Channel.
+
+
+  She is built in the Colin Archer style with double-ended hull, long keel, length
+  34’ and 10’ beam. 'Marihona' has a laid pine deck and solid Douglas fir mast
+  (keel stepped), boom, gaff and bowsprit.
+
+
+  In 2006 she was purchased by Hans Jolivet, a French shipwright based in
+  Falmouth. He has enjoyed some wonderful sailing onboard, her massive
+  construction inspiring great confidence and her beauty and presence being a
+  constant source of pleasure. Whilst the design was developed purely for the
+  purpose of offshore cruising, without any regard for racing rules, she has a
+  useful turn of speed and has featured in the prizes at OGA regattas.
+
+
+  She is a sister ship to 'Vixen', which did a circumnavigation of 38,000 miles
+  without a hitch, and has completed a second 'lap of the globe' [in the hands of
+  Bruce Halabisky](https://www.oga.org.uk/ocean-gaffer-vixen).
+
+
+  In 2018, 'Marihona' returned to Norway and is 'fitting out' over the winter,
+  hoping to return to the UK in 2019. Her skipper is seeking crew to join him on
+  the passage, [more details here](https://www.oga.org.uk/news/marihona-crew).
+
+
+  #### Interior images courtesy of [Red Ensign Yacht Brokers](http://www.red-ensign.com), Port Pendennis, Falmouth.
 year: 1957
 year_is_approximate: false
 designer:
-  name: William Atkin
+- name: William Atkin
   id: f455f3b6-d2be-4793-a2d4-512398485aef
 builder:
-  name: Sauvika Battyggeri
+- name: Sauvika Battyggeri
   id: 63ae9d4e-f777-40ed-bd03-92155d42458b
 place_built: Risor, South Norway
 construction_material: wood
@@ -47,9 +62,8 @@ spar_material: wood
 construction_method: carvel
 construction_details: Carvel
 selling_status: not_for_sale
-for_sales: []
 home_country: NOR
-home_port: "Moen Tryb\xE5tbyggeri"
+home_port: Moen Trybåtbyggeri
 hull_form: long keel deep forefoot
 ownerships:
 - name: Gordon Emmerson
@@ -68,27 +82,32 @@ ownerships:
   start: 2006
   end: 2015
   share: 64
-- id: 635
-  member: 5372
+- member: 5372
+  id: 635
   start: 2015
+  end: 2025
+  share: 64
+- member: 6812
+  id: 35303
+  start: 2025
   share: 64
   current: true
-id: 3ba010af-0c0e-4d8c-ab2a-e8121eb75a63
 image_key: PM5tqX
 handicap_data:
   thcf: 0.993146243
   beam: 3.048
   draft: 1.524
-  fore_triangle_height: 8.662521336259449
-  fore_triangle_base: 5.840039014874421
-  length_over_all: 10.439526944647646
+  fore_triangle_height: 8.662
+  fore_triangle_base: 5.84
+  length_on_deck: 10.439
+  length_on_waterline: 9.754
   propellor:
     type: fixed
+  length_over_all: 10.439
   main:
-    foot: 5.919287978541819
-    head: 3.605827846866618
-    luff: 5.766886125335284
-  length_on_waterline: 9.75371860521824
-  length_on_deck: 10.4394
+    foot: 5.919
+    head: 3.606
+    luff: 5.767
 created_at: '2020-04-25T16:48:24.10501+00:00'
-updated_at: '2022-04-10T21:36:43.81064+00:00'
+id: 3ba010af-0c0e-4d8c-ab2a-e8121eb75a63
+updated_at: '2025-02-17'
