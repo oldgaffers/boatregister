@@ -8,8 +8,6 @@ short_description: |-
   Priestley
 year: 2000
 year_is_approximate: false
-designer: []
-builder: []
 construction_material: grp
 spar_material: wood
 construction_method: cold_moulded
@@ -19,6 +17,11 @@ hull_form: long keel sloping forefoot
 ownerships:
 - name: Joel Mason
   start: 2024
+  end: 2025
+  share: 64
+- member: 6818
+  id: 35314
+  start: 2025
   share: 64
   current: true
 image_key: HthXck
@@ -27,3 +30,4 @@ handicap_data:
   draft: 1.219
   length_on_deck: 8.535
   length_on_waterline: 8.534
+updated_at: '2025-02-17'
