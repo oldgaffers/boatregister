@@ -18,7 +18,7 @@ builder:
 place_built: Gweek
 construction_material: grp
 spar_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-07-06T15:28:00.477Z'
   asking_price: 13500
@@ -54,6 +54,9 @@ for_sales:
     and ‘water oil’ seal. Various blue canvas pouches internally for storage,
     modesty curtain, halyard bag on foredeck. 2 x beige holdalls.
   flexibility: normal
+  date_sold: '2025-02-24T14:14:55.885Z'
+  sale_price: 13500
+  summary: <p>final price not known. sold to Nick of Watchet, Somerset.</p>
 home_country: GBR
 home_port: Saltash Cornwall
 hull_form: long keel sloping forefoot
@@ -63,8 +66,8 @@ ownerships:
 - member: 6221
   id: 992
   start: 2021
+  end: 2025
   share: 64
-  current: true
 image_key: Z8GG3k
 handicap_data:
   thcf: 0.799
@@ -78,3 +81,4 @@ handicap_data:
 created_at: '2022-01-15T17:58:32.118068+00:00'
 hin: '7'
 id: 72117ec4-3b0e-484a-801e-410fa4761197
+updated_at: '2025-02-24'
