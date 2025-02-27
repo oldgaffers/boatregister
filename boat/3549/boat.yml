@@ -29,6 +29,10 @@ home_port: Southampton
 hull_form: centre-boarder
 sail_number: '23'
 ownerships:
+- name: David Collin
+  start: 2000
+  end: 2022
+  share: 64
 - member: 6619
   id: 35049
   start: 2022
@@ -45,12 +49,13 @@ handicap_data:
     blades: 2
     type: fixed
   sailarea: 22.411
+  checked: true
   displacement: 1200
   solent:
     hull_shape: Long keel - Low volume
     measured_rating: 20.5704004912144
     thcf: 0.933
-  checked: true
 air_draft: 10.195
 hin: '23'
 show_handicap: true
+updated_at: '2025-02-27'
