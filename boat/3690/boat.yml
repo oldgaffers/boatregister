@@ -3,19 +3,34 @@ oga_no: 3690
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>A one-off long-keel auxiliary gaff sloop designed in 1934 but
-  only built in 2006.</p>
+short_description: |-
+  A one-off long-keel auxiliary gaff sloop designed in 1934 but only built in
+  2006.
 year: 2006
 year_is_approximate: false
 designer:
-  name: Murray G. Peterson
+- name: Murray G. Peterson
   id: a2e01005-a9e2-4e11-84f6-26828637d074
+builder: []
 place_built: Fowey
 construction_material: wood
 spar_material: wood
 construction_method: carvel
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- created_at: '2025-03-14T09:46:43.354Z'
+  sales_text: |-
+    Very pretty gaff sloop dayboat.   Designed by Murray Peterson, Boston, USA, 1934
+    Built of yellow Alaskan cedar and mahogany by Marcus Lewis,   Fowey, 2006.
+    18ft LOA on deck. 3ft fixed bowsprit   Long straight keel. Draft 2ft 6ins.
+    Reliable 13.5 hp Beta inboard engine. 2-bladed fixed prop.   Mainsail and jib in
+    good repair. Wykham Martin jib furling.   Ground tackle, legs, autohelm 100,
+    fenders, cushions, mooring   ropes and winter covers.   Easily sailed
+    single-handed.   (2.8m inflatable dinghy with O/B available as extras if
+    required)   Lying afloat at Weymouth Sailing Club.   Owner swallowing anchor
+    because of age.
+  flexibility: normal
+  asking_price: 6500
 home_country: GBR
 home_port: Weymouth
 ownerships:
@@ -24,13 +39,13 @@ ownerships:
   start: 2022
   share: 64
   current: true
-id: a3be009e-8b48-4e49-92b2-0093036ae894
 image_key: XgWfGn
-thumb: https://photos.smugmug.com/photos/i-GKPd4sT/0/Th/i-GKPd4sT-Th.jpg
 handicap_data:
   beam: 1.92
   draft: 0.762
   length_on_deck: 5.486
+  length_on_waterline: 8.534
 created_at: '2022-02-21T18:53:25.147891+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 air_draft: 11.5
+id: a3be009e-8b48-4e49-92b2-0093036ae894
+updated_at: '2025-03-14'
