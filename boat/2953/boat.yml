@@ -3,53 +3,62 @@ oga_no: 2953
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>A classic gaff cutter, built 1938 by Elkins of Chichester, &#39;Diric&#39;
-  takes her name from her first owners Richard and Diane, who lived in Yarmouth IoW.
-  She has also been called &#39;Diane&#39;.</p>
-full_description: "<p>Built in 1938 by Elkins of Christchurch and bought by a couple\
-  \ from Yarmouth (Isle of Wight) called Diane and Richard; hence her original name\
-  \ of &#39;Diric&#39;.</p>\r\n\r\n<p>After World War II &#39;Diric&#39; was sold\
-  \ to Col. Mitchell, who lived near Yarmouth, and taught Sea Scouts to sail. She\
-  \ was sold in the 1970s to John Sleight and then transferred to his brother Colin\
-  \ in the 1990s.</p>\r\n\r\n<p>In 1998 she was bought by Steve Pavey who changed\
-  \ her name to &#39;Diane&#39; and replaced her Stuart Turner with a Britt engine.\
-  \ She was bought by Nick and Jill Bredon in 2008, who undertook an extensive refit/rebuild\
-  \ at the Classic Boat Museum, Newport IoW.</p>\r\n\r\n<p>In 2010, &#39;Diane&#39;\
-  \ was winner of the YOGAFF Concourse d&#39;Elegance. In 2015, her new owner, Edmund\
-  \ Hewitt changed her name back to her original one &#39;Diric&#39;.</p>"
+short_description: |-
+  A classic gaff cutter, built 1938 by Elkins of Chichester, *Diric* takes her
+  name from her first owners Richard and Diane, who lived in Yarmouth IoW. She has
+  also been called *Diane*.
+full_description: |-
+  *Diric* takes her name from her first owners Richard and Diane, who lived in
+  Yarmouth IoW. Built of the best materials (carvel round bilge mahogany on oak,
+  lead keel, canvas covered decks).
+
+
+  Bought by Nick and Jill Bredon in 2008, who undertook an extensive refit/rebuild
+  at the Classic Boat Museaum, Newport IoW. In 2010, she was winner of the YOGAFF
+  Concourse d'Elegance. Her current owner just had Nick Gates, Emsworth, give
+  *Diric*, an extensive refit costing some £24,000, including all the varnished
+  brightwork on the cabin and coamings around the large cockpit.
+
+
+  *Diric* has a comfortable and cosy 2 berth cabin with fitted head. She has no
+  electronics currently but there are places for echo, vhf and an electronic log.
+  Yanmar GM10 engine. Very capable, fully equipped and ready to sail, *Diric* has
+  been kept ashore in the winter months and has her own craddle/props. Well cared
+  for in family ownership. Lying Hayling Island  Sailing Club moorings, Chichester
+  Harbour
 year: 1938
 year_is_approximate: false
+designer: []
 builder:
-  name: ErnestgF. Elkins
+- name: ErnestgF. Elkins
   id: 23febbfb-18ab-4dd9-9cc4-dcb506b2ed0c
 place_built: Christchurch
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel round bilge Mahogany on oak Lead Keel Canvas covered
   decks.
+previous_names:
+- Diric
+- Diane
 selling_status: not_for_sale
 for_sales:
 - created_at: '2016-01-05T16:24:57+00:00'
   flexibility: normal
-  offered: null
   reduced: false
-  sales_text: "<p>Gaff cutter built by Elkins in 1938. 20\u2019 LOD, 7\u2019 beam,\
-    \ 3\u2019 draft. Carvel mahogany on oak, lead keel, Yanmar engine, refitted to\
-    \ survey. British Registry Part 1. Lying Isle of Wight. Winner of YOGAFF Concours\
-    \ d\u2019Elegance, 2010.</p>"
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: "<p>Gaff cutter built by Elkins in 1938. 20\u2019 LOD, 7\u2019 beam, 3\u2019\
-    \ draft. Carvel mahogany on oak, lead keel, Yanmar engine, refitted to survey.\
-    \ British Registry Part 1.</p>"
+  sales_text: |-
+    Gaff cutter built by Elkins in 1938. 20’ LOD, 7’ beam, 3’ draft. Carvel mahogany
+    on oak, lead keel, Yanmar engine, refitted to survey. British Registry Part 1.
+    Lying Isle of Wight. Winner of YOGAFF Concours d’Elegance, 2010.
+  summary: <p>Gaff cutter built by Elkins in 1938. 20’ LOD, 7’ beam, 3’ draft. Carvel
+    mahogany on oak, lead keel, Yanmar engine, refitted to survey. British Registry
+    Part 1.</p>
   updated_at: '2020-05-03T10:13:13.280467+00:00'
 home_country: GBR
 home_port: Hayling Island
 hull_form: long keel deep forefoot
 uk_part1: '917620'
 ownerships:
-- name: Nick and Jill Bredon
+- name: Nick And Jill Bredon
   start: 2008
   end: 2010
   share: 64
@@ -62,30 +71,26 @@ ownerships:
   start: 2015
   share: 64
   current: true
-id: 89785200-6dfc-461d-bc50-9cb44e816dfa
 image_key: gQNGDF
-thumb: https://photos.smugmug.com/photos/i-Ckp8dFZ/0/Th/i-Ckp8dFZ-Th.jpg
 handicap_data:
   thcf: 0.827951906
-  beam: 2.0818
-  draft: 0.9144
-  fore_triangle_height: 5.587051938551572
-  fore_triangle_base: 2.871250914411119
-  length_over_all: 6.0960741282613995
-  propellor:
-    type: fixed
-    blades: 3
-  main:
-    foot: 3.453425993660083
-    head: 2.386613021214338
-    luff: 2.8194342843208973
-  topsail:
-    luff: 2.590831504511095
-    perpendicular: 1.3716166788588149
-  length_on_waterline: 5.538283345525482
+  beam: 2.082
+  draft: 0.914
+  fore_triangle_height: 5.587
+  fore_triangle_base: 2.871
   length_on_deck: 6.096
+  length_on_waterline: 5.538
+  propellor:
+    blades: 3
+    type: fixed
+  topsail:
+    luff: 2.591
+    perpendicular: 1.372
+  length_over_all: 6.096
+  main:
+    foot: 3.453
+    head: 2.387
+    luff: 2.819
 created_at: '2020-04-25T17:33:06.775636+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Diric
-- Diane
+id: 89785200-6dfc-461d-bc50-9cb44e816dfa
+updated_at: '2025-03-24'
