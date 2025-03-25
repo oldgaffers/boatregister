@@ -3,7 +3,7 @@ oga_no: 1292
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Honeydew is a Tamarisk 24.
+short_description: '*Honeydew* is a Tamarisk 24.'
 year: 1982
 year_is_approximate: false
 designer:
@@ -20,13 +20,15 @@ construction_material: grp
 construction_details: Resin glass hull, ply deck and cabin
 selling_status: not_for_sale
 home_country: GBR
+home_port: St Mawes
 hull_form: long keel deep forefoot
 ssr: '246'
 ownerships:
 - name: Roy Ingall
   start: 1982
+  end: 2025
   share: 64
-- name: Jeremy Heffer 
+- name: Jeremy Heffer
   start: 2025
   share: 64
   current: true
