@@ -4,8 +4,12 @@ generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
 full_description: |-
-  Log 83/2 Owner used to own Pamete,a 30ft gaff ketch built in Conway in1931.  He
-  sold her on in 1965. For sale in September 2003 Log
+  *Pamete*is a 30ft gaff ketch built in Conway in1931.  Her owner sold her on in
+  1965. She was advertisedfFor sale in September 2003 Log.
+
+
+  in 2025 she was being restored in Scott Metcalfe’s Waterfront Marine in Porth
+  Penrhyn, Bangor..
 year: 1931
 year_is_approximate: false
 designer:
@@ -16,18 +20,17 @@ builder:
   id: 36052b67-5b2e-421e-9d5b-852981ae1c74
 place_built: Conwy
 construction_material: wood
-spar_material: wood
-construction_method: carvel
 selling_status: not_for_sale
-home_port: 'Liverpool '
+home_port: Penryn
 hull_form: long keel deep forefoot
 reference:
 - Log 83/2
 sail_number: '302'
 ownerships:
-- name: An Owner
-  start: 1800
+- name: Jonny Holman
+  start: '2007'
   share: 64
+  current: true
 handicap_data:
   thcf: 0.956593337
   beam: 2.957
