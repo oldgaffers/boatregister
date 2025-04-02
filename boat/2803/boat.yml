@@ -5,21 +5,20 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: Built by her first owner, Teun Post.
 full_description: |-
-  Twinkle is now located at Lake of Konstance.
-
+  *Twinkle* was found in a decrepit condition, and restored by her current owner. She is now located at Lake of Konstance.
 year: 2007
 year_is_approximate: false
 designer:
-- name: Roger Dongray
-  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+- id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+  name: Roger Dongray
 design_class:
   name: Golant Gaffer
   id: ecdf01fb-dd46-42f7-9232-39880886de2f
 builder:
-- name: T. Post
-  id: cb07e3ee-cf15-4eb8-87bc-20e8aaf9788e
-- name: Teun Post
-  id: 5a4934ab-7977-45e7-9687-697de864bcb1
+- id: cb07e3ee-cf15-4eb8-87bc-20e8aaf9788e
+  name: T. Post
+- id: 5a4934ab-7977-45e7-9687-697de864bcb1
+  name: Teun Post
 place_built: Home
 construction_material: wood
 spar_material: wood
@@ -34,6 +33,7 @@ ownerships:
   start: 2007
   end: 2025
   share: 64
+image_key: D4LRqh
 handicap_data:
   thcf: 0.834562094
   beam: 2.134
@@ -51,4 +51,4 @@ handicap_data:
     luff: 3.999
 created_at: '2020-04-25T17:27:55.298651+00:00'
 id: 06d53987-a826-4039-b30c-d568ab1d8968
-updated_at: '2025-04-01'
+updated_at: '2025-04-02'
