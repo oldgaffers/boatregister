@@ -56,7 +56,7 @@ for_sales:
     Curently hauled out at Calstock Boat yard on the River Tamar.
 home_country: GBR
 home_port: Plymouth
-hull_form: long keel sloping forefoot
+hull_form: long keel deep forefoot
 ownerships:
 - member: 5344
   id: 625
@@ -64,8 +64,12 @@ ownerships:
   end: 2023
   share: 64
 - member: 6675
-  id: 35133,
-  start: 2023
+  id: 35133
+  start: '2023'
+  share: 64
+  current: true
+- name: An Owner
+  start: 2025
   share: 64
   current: true
 image_key: d6t7tT
@@ -77,3 +81,4 @@ handicap_data:
 created_at: '2022-09-22T21:10:14.153147+00:00'
 air_draft: 8.534
 id: 49b3d564-9140-4acc-9f66-e5b6be8183d2
+updated_at: '2025-04-03'
