@@ -17,9 +17,11 @@ full_description: |-
   70lbs /32Kg
 year: 2004
 year_is_approximate: true
+designer: []
 design_class:
   name: Wagtail
   id: fbacd8ea-b4ac-4058-aa06-0f463cf6fdbb
+builder: []
 place_built: Burlesdon
 construction_material: grp
 spar_material: wood
@@ -27,9 +29,10 @@ construction_method: clinker
 construction_details: Grp
 previous_names:
 - Puddleduck
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-05-13T17:08:01.614Z'
+  asking_price: 3500
   sales_text: |-
     Great opportunity to acquire a real “Swallows & Amazons” boat.
 
@@ -70,7 +73,9 @@ for_sales:
 
     Electric motor - Torqeedo 903 optional @ £1,000 extra
   flexibility: normal
-  asking_price: 3500
+  date_sold: '2025-04-12T08:35:49.000Z'
+  sale_price: 3500
+  summary: <p>final prince not known</p>
 home_country: Devon
 home_port: Dittisham, River Dart
 hull_form: centre-board dinghy
@@ -78,8 +83,8 @@ ownerships:
 - member: 6751
   id: 35231
   start: '2014'
+  end: 2025
   share: 64
-  current: true
 image_key: t4xcKv
 handicap_data:
   beam: 1.524
@@ -87,3 +92,4 @@ handicap_data:
   length_on_deck: 3.81
   length_on_waterline: 3.658
   checked: true
+updated_at: '2025-04-13'
