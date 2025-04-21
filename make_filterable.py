@@ -6,10 +6,11 @@ from os import listdir
 from datetime import date, datetime
 
 def fn(f):
-  if 'name' in f:
-    return f['name']
-  print(f)
-  return ''
+  try:
+  	return f.get('name', '')
+  except:
+  	print(f)
+  	return ''
 
 def transform(o):
   if type(o) is dict and 'name' in o:
