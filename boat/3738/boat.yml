@@ -3,8 +3,15 @@ oga_no: 3738
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-year: 1927
+year: 1930
 year_is_approximate: true
+designer:
+- name: W D Coode
+  id: 53726d1d-1be2-4c88-9fed-a3043060fe80
+builder:
+- name: W D Coode
+  id: 20f1d74a-e06f-4506-92a4-38d44949a60e
+place_built: Falmouth
 construction_material: wood
 spar_material: wood
 construction_method: carvel
@@ -12,6 +19,7 @@ construction_details: Pitch pine planking, silicone bronze fastened to sawn oak 
 home_country: Guernsey
 home_port: Guernsey
 hull_form: long keel sloping forefoot
+sail_number: '28'
 ssr: '50997'
 ownerships:
 - member: 6630
@@ -21,19 +29,21 @@ ownerships:
   current: true
 image_key: HQjqdS
 handicap_data:
-  thcf: 0.942
+  thcf: 0.95
   beam: 2.53
-  draft: 1.859
+  draft: 1.497
   length_on_deck: 8.992
   length_on_waterline: 6.706
   propellor:
     blades: 3
     type: feathering
-  sailarea: 38.833
-  displacement: 5850
+  sailarea: 41.844
   solent:
     hull_shape: Long keel - Standard
+    measured_rating: 21.112297245587282
     performance_factor: ' '
-    measured_rating: 20.76612479564233
-    thcf: 0.94
+    thcf: 0.945
+  last_modified: '2025-04-23T18:28:47.080Z'
+  displacement: 6100
 air_draft: 10.059
+updated_at: '2025-04-23'
