@@ -13,9 +13,11 @@ full_description: |-
   Roads (Cornwall).
 year: 1995
 year_is_approximate: false
+designer: []
 design_class:
   name: Norfolk Oyster
   id: e2a40245-e1b5-4ecc-b5f9-0586f83eff5f
+builder: []
 place_built: Morston
 construction_material: grp
 spar_material: wood
@@ -26,7 +28,8 @@ home_port: RHYC Woolverstone
 hull_form: centre-board dinghy
 ssr: SSR96306
 ownerships:
-- name: Han Van De Braak
+- member: 6784
+  id: 35264
   start: '1999'
   share: 64
   current: true
@@ -38,3 +41,4 @@ handicap_data:
   length_on_deck: 5.105
   length_on_waterline: 4.673
 hin: '87'
+updated_at: '2025-04-23'
