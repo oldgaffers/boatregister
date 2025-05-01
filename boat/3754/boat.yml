@@ -3,21 +3,27 @@ oga_no: 3754
 generic_type: Yacht
 rig_type: Other
 mainsail_type: gaff
-short_description: BOAT NO.1, OVER ENGINEERED, WEIGHING 2200KG AGAINST STANDARD WEIGHT
-  OF 1500KG.
+short_description: |-
+  Norfolk Gypsy No.1, over engineered, weighing 2200KG against the standard weight
+  of 1500KG.
 full_description: |-
-  THIS BOAT WAS BUILT FOR ANDREW WOLSTENHOLME'S WIFE'S UNCLE, AND FIRST SAILED
-  DOWN  FROM MORSTON IN NORFOLK (HER ORIGINAL PORT) TO THE CLASSIC BOAT FESTIVAL
-  AT SHOTLEY IN SUFFOLK.
+  This boat was built for Andrew Wolstenholme's wife's uncle, and first sailed
+  down from Morston in Norfolk (her original port) to the Classic Boat Festical at
+  Shotley in Suffolk.
 
 
-  I HAVE SAILED HER NORTH, UP THE EAST COAST TO LOWESTOFT, AND INTO THE NORFOLK
-  BROARDS, AND SOUTH, DOWN THE EAST COAST AND UP THE THAMES TO ST CATHERINES DOCK.
+  The current owner has sailed her north, up the East Coast to Lowestoft, and into
+  the Norfolk Broads, and south, down the East Coast and up the Thames to St
+  Katharine's Dock.
 year: 1990
 year_is_approximate: false
+designer:
+- name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 design_class:
   name: Norfolk Gypsy
   id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
+builder: []
 place_built: Holt Norfolk
 construction_material: grp
 spar_material: wood
@@ -45,7 +51,7 @@ handicap_data:
   propellor:
     type: fixed
   sailarea: 19.695
-hin: '1'
 air_draft: 6.706
+hin: '1'
 mmsi: '235011907'
 updated_at: '2025-05-01'
