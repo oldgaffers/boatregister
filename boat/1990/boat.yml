@@ -74,7 +74,6 @@ full_description: |-
   across to the centre-line against the companionway steps for use.
 
 
-
   Since purchase in 2015 works carried out include
 
 
@@ -102,32 +101,47 @@ builder:
 place_built: Poole
 construction_material: plywood
 spar_material: wood
+construction_method: clinker
 construction_details: West System Marine Ply
 selling_status: not_for_sale
 for_sales:
 - created_at: '2021-05-13T21:20:46.651351+00:00'
   flexibility: normal
   reduced: false
-  sales_text: "Patience is a boat which is based on the Mk 1 Crabber, very nicely\
-    \ put together\nand has proved to be faster.\n\n \n\n|  |  |\n| --- | --- |\n\
-    | Length on deck | 23’ |\n| Beam | 7’8” |\n| Draft plate down | 4’8” |\n\n Powered\
-    \ by a 5 hp Mercury sail drive with less than 20 hours use in an outboard\nwell.\n\
-    \n Sail Inventory\n\n \n\n|  |  |  |  |\n| --- | --- | --- | --- |\n| Area sq\
-    \ ft | Area m2 | Colour | Hanks |\n| Jib | 66 | 6.13 | White | Wykeham Martin\
-    \ |\n| Jib1 | 49 | 4.52 | White | Wykeham Martin |\n| Jib 2 (lightweight) | 67\
-    \ | 6.23 | White | Wykeham Martin |\n| Stay sail | 57 | 5.28 | Red | Wykeham Martin\
-    \ |\n| Tow sail (balloon staysail) | 112 | 10.46 | White | Wykeham Martin |\n\
-    | Main | 174 | 16.15 | Red | Lacing |\n| Spare main (old) | 174 | 16.15 | Red\
-    \ | Lacing |\n\n There is a sheave at the top of the mast to set a topsail if\
-    \ wanted."
+  sales_text: |-
+    Patience is a boat which is based on the Mk 1 Crabber, very nicely put together
+    and has proved to be faster.
+
+
+    | | | | ~~- |~~- | | Length on deck | 23’ | | Beam | 7’8” | | Draft plate down |
+    4’8” |
+
+
+    Powered by a 5 hp Mercury sail drive with less than 20 hours use in an outboard
+    well.
+
+
+    Sail Inventory
+
+
+    | | | | | | ~~- |~~- | ~~- |~~- | | Area sq ft | Area m2 | Colour | Hanks | |
+    Jib | 66 | 6.13 | White | Wykeham Martin | | Jib1 | 49 | 4.52 | White | Wykeham
+    Martin | | Jib 2 (lightweight) | 67 | 6.23 | White | Wykeham Martin | | Stay
+    sail | 57 | 5.28 | Red | Wykeham Martin | | Tow sail (balloon staysail) | 112 |
+    10.46 | White | Wykeham Martin | | Main | 174 | 16.15 | Red | Lacing | | Spare
+    main (old) | 174 | 16.15 | Red | Lacing |
+
+
+    There is a sheave at the top of the mast to set a topsail if wanted.
   seller_gold_id: 949
   seller_member: 6146
   sold: '2022-06-25'
   summary: sold to non-member Andrew Liddiard
   updated_at: '2021-05-13T21:20:46.651351+00:00'
 home_country: GBR
-home_port: Poole
+home_port: Folly Reach
 hull_form: long keel deep forefoot
+sail_number: 6166L
 ownerships:
 - name: P Atkins
   start: 1991
@@ -149,18 +163,21 @@ ownerships:
   current: true
 image_key: 3LpNhN
 handicap_data:
-  thcf: 0.870332415
+  thcf: 0.866
   beam: 2.362
   draft: 0.786
   fore_triangle_height: 5.639
   fore_triangle_base: 3.429
   length_on_deck: 6.959
   length_on_waterline: 6.477
+  propellor:
+    type: none
   length_over_all: 6.959
   main:
     foot: 3.658
     head: 3.353
     luff: 3.658
+  last_modified: '2025-05-06T08:16:41.307Z'
 created_at: '2020-04-25T17:13:23.229251+00:00'
 id: 0824a7cb-dcf4-4093-8870-93b4adc6aaa7
-updated_at: '2025-04-17'
+updated_at: '2025-05-06'
