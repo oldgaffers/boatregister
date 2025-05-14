@@ -20,7 +20,7 @@ spar_material: wood
 construction_details: GRP
 previous_names:
 - Gannet
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-02-08T10:22:38.041Z'
   asking_price: 15000
@@ -30,6 +30,9 @@ for_sales:
     https://waypoint-yachtbrokers.co.uk/boat\_for\_sale/2089483/
   flexibility: normal
   reduced: true
+  date_sold: '2025-05-14T18:16:47.847Z'
+  sale_price: 15000
+  summary: <p>final price not known</p>
 - asking_price: 19000
   created_at: '2021-08-23T07:42:16.601004+00:00'
   flexibility: normal
@@ -50,8 +53,8 @@ ownerships:
 - member: 6501
   id: 34895
   start: 2020
+  end: 2025
   share: 64
-  current: true
 image_key: Wzcn7D
 handicap_data:
   thcf: 0.871583105
@@ -73,3 +76,4 @@ handicap_data:
     luff: 3.505
 created_at: '2020-04-25T17:17:02.343892+00:00'
 id: 4f99b990-43cd-476f-87c3-2bd19b416f99
+updated_at: '2025-05-14'
