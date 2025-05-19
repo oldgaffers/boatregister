@@ -7,21 +7,20 @@ short_description: Sea Filly is a Norfolk Smuggler built in 1999
 year: 1999
 year_is_approximate: false
 designer:
-- id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
-  name: Andrew Wolstenholme
+- name: Andrew Wolstenholme
+  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 design_class:
   name: Norfolk Smuggler
   id: 1af0cf00-1de2-4a9c-8ce7-79e4afe2cf08
 builder:
-- id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
-  name: North Norfolk Boatbuilding Co. (Charlie Ward)
+- name: North Norfolk Boatbuilding Co. (Charlie Ward)
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
 place_built: Norfolk
 construction_material: grp
 construction_details: GRP
 previous_names:
 - Duty Free
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Birdham Pool
 hull_form: long keel deep forefoot
@@ -32,10 +31,10 @@ ownerships:
   share: 64
   current: true
 handicap_data:
-  thcf: 0.796
-  beam: 2.6914
-  draft: 0.8626
-  fore_triangle_height: 8.2297
+  thcf: 0.904
+  beam: 2.691
+  draft: 0.863
+  fore_triangle_height: 8.23
   fore_triangle_base: 4.572
   length_on_deck: 7.62
   length_on_waterline: 6.78
@@ -43,14 +42,21 @@ handicap_data:
   propellor:
     blades: 3
     type: fixed
-  sailarea: 39.8975
+  sailarea: 39.897
   draft_keel_down: 1.5
   length_over_all: 7.62
   main:
-    foot: 4.724469641550841
-    head: 4.343458912460375
-    luff: 4.26725188978298
+    foot: 4.724
+    head: 4.343
+    luff: 4.267
   moving_keel: true
   moving_keel_type: Centreboard
+  last_modified: '2025-05-19T19:15:59.204Z'
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 20.602302010242738
+    thcf: 0.934
+  displacement: 4000
 created_at: '2020-04-25T17:51:25.54436+00:00'
 id: 7e147d82-4bcd-48cb-ba2b-51eedea4c617
+updated_at: '2025-05-19'
