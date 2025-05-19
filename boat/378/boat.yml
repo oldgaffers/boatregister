@@ -3,31 +3,31 @@ oga_no: 378
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-full_description: |+
-  Designed and built by Harley Mead in 1909 *Lady Belle* is a gaff
-  yawl design built as a yacht on Falmouth Quay punt lines. She was rebuilt 2004 -
-  2006 by Alistair Garland.
+full_description: |-
+  Designed and built by Harley Mead in 1909 *Lady Belle* is a gaff yawl design
+  built as a yacht on Falmouth Quay punt lines. She was rebuilt 2004 - 2006 by
+  Alistair Garland.
 year: 1909
 year_is_approximate: false
 designer:
-  name: Harley Mead
+- name: Harley Mead
   id: 25412902-8c25-4fd2-8023-2f506c99a366
 builder:
-  name: Harley Mead
+- name: Harley Mead
   id: b0258705-de81-4e73-9b5a-caed5813e418
 place_built: Cowes
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel teak on oak
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: long keel sloping forefoot
 sail_number: '1909'
 uk_part1: '128428'
 ownerships:
-- name: David Reynolds
+- member: 1476
+  id: 65
   start: 2007
   end: 2017
   share: 64
@@ -36,25 +36,31 @@ ownerships:
   start: 2017
   share: 64
   current: true
-id: 2074e65a-0c5f-4fe2-8c9f-cc4e4455dbcb
 image_key: TGrfvD
 handicap_data:
-  thcf: 0.944345235
-  beam: 2.7737
-  draft: 1.7983
-  fore_triangle_height: 8.025481589856131
-  fore_triangle_base: 4.648256522799317
-  length_over_all: 8.53450377956596
+  thcf: 0.944
+  beam: 2.774
+  draft: 1.798
+  fore_triangle_height: 8.025
+  fore_triangle_base: 4.648
+  length_on_deck: 8.534
+  length_on_waterline: 8.077
   propellor:
-    type: folding
     blades: 3
+    type: folding
+  length_over_all: 8.534
   main:
-    foot: 4.770178005364545
-    head: 4.4501341136308215
-    luff: 4.349548890514508
+    foot: 4.77
+    head: 4.45
+    luff: 4.349
   mizzen:
-    foot: 2.261643501584979
-    luff: 4.395269446476469
-  length_on_waterline: 8.077298219946353
-  length_on_deck: 8.5344
+    foot: 2.262
+    luff: 4.395
+  last_modified: '2025-05-19T19:14:39.880Z'
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 20.369523336162157
+    thcf: 0.935
 created_at: '2020-04-25T16:48:04.753582+00:00'
+id: 2074e65a-0c5f-4fe2-8c9f-cc4e4455dbcb
+updated_at: '2025-05-19'
