@@ -3,26 +3,26 @@ oga_no: 2569
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Jabiru&#39; is a Yarmouth 23 built in 2002.</p>
+short_description: '''Jabiru'' is a Yarmouth 23 built in 2002.'
 year: 2002
 year_is_approximate: false
 designer:
-  name: D Freeman/G. Wyatt
+- name: D Freeman/G. Wyatt
   id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 builder:
-  name: Yarmouth Boat Co.
+- name: Yarmouth Boat Co.
   id: 609d8a8b-c14c-402c-b727-519e519d6f6f
 place_built: Yarmouth IOW
 construction_material: grp
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: long keel sloping forefoot
 sail_number: '19'
 ssr: '104592'
 ownerships:
-- name: Peter Brannen
+- member: 4209
+  id: 404
   start: 2002
   end: 2012
   share: 64
@@ -31,26 +31,31 @@ ownerships:
   start: 2016
   share: 64
   current: true
-id: 89b697e9-6985-448b-adc0-4a81335171f2
 image_key: BPK68p
-thumb: https://photos.smugmug.com/photos/i-BcSn4k5/0/Th/i-BcSn4k5-Th.jpg
 handicap_data:
-  thcf: 0.852867785
-  beam: 2.2799
-  draft: 0.9144
-  fore_triangle_height: 5.7912704218483295
-  fore_triangle_base: 3.038892952938308
-  length_over_all: 6.882467690807119
+  thcf: 0.853
+  beam: 2.28
+  draft: 0.914
+  fore_triangle_height: 5.791
+  fore_triangle_base: 3.039
+  length_on_deck: 6.882
+  length_on_waterline: 5.499
   propellor:
     type: fixed
-  main:
-    foot: 3.880151182638381
-    head: 2.8102901731285055
-    luff: 3.648500365764448
   topsail:
-    luff: 3.648500365764448
-    perpendicular: 1.6703243111436235
-  length_on_waterline: 5.498658863691782
-  length_on_deck: 6.8824
+    luff: 3.648
+    perpendicular: 1.67
+  length_over_all: 6.882
+  main:
+    foot: 3.88
+    head: 2.81
+    luff: 3.648
+  last_modified: '2025-05-19T18:42:50.249Z'
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 16.21882591456856
+    thcf: 0.871
+  displacement: 2800
 created_at: '2020-04-25T17:22:45.256319+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 89b697e9-6985-448b-adc0-4a81335171f2
+updated_at: '2025-05-19'
