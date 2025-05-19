@@ -48,12 +48,12 @@ ownerships:
   end: 2002
   share: 64
 - member: 3767
-  id: 1160
+  id: 317
   start: 2002
   share: 32
   current: true
 - member: 3767
-  id: 317
+  id: 1160
   start: 2002
   share: 32
   current: true
@@ -80,5 +80,11 @@ handicap_data:
     foot: 5.461
     head: 4.369
     luff: 4.953
+  solent:
+    hull_shape: Long keel - Low volume
+    measured_rating: 24.406743277821583
+    thcf: 0.983
+  displacement: 6350
 created_at: '2020-04-25T17:26:02.781407+00:00'
 id: 584b261c-5e5d-4b86-8838-dd5f061bb4fc
+updated_at: '2025-05-19'
