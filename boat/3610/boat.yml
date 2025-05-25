@@ -1,16 +1,34 @@
-name: Bel Amy
+name: Bel Ami
 oga_no: 3610
 generic_type: Dayboat
 rig_type: Yawl
 mainsail_type: lug
+year: 2023
 year_is_approximate: false
+designer:
+- name: Des Trollip
+  id: 20e482c3-0d7a-4afa-a2d1-e9d9e9c5fdd3
+builder:
+- name: Des Trollip
+  id: 130d3e7c-5732-4dc5-b6d2-8426233cff88
+place_built: Walton on the Naze
 construction_material: grp
 spar_material: wood
+construction_method: clinker
 previous_names:
-- Bellamy
-hull_form: centre-board dinghy
+- Bel Amy
+home_country: 'Essex '
+home_port: 'Walton on the Naze '
+hull_form: dinghy
 image_key: t8tHCg
 handicap_data:
-  beam: 1.509
+  thcf: 0.795
+  beam: 1.524
   draft: 0.457
-  length_on_deck: 5.736
+  length_on_deck: 4.572
+  length_on_waterline: 4.546
+  propellor:
+    type: none
+  sailarea: 12.867
+  last_modified: '2025-05-25T15:55:37.736Z'
+updated_at: '2025-05-25'
