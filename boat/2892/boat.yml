@@ -4,13 +4,13 @@ generic_type: Smack Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
-  Crescent Moon is a lovely gaff cutter, built in pitch pine on oak and is in
+  *Crescent Moon* is a lovely gaff cutter, built in pitch pine on oak and is in
   great condtion.  One of her best features is her beautifiul varnished pine deck
   and coacroof that make here very distinctive.
 full_description: |-
-  Crescent Moon is a smack type yacht, built by William Fox in Kings Lynn in 1914.
-  But we know nothing more about the builder, of whether he worked in a boat yard
-  or as an individual. 
+  *Crescent Moon* is a smack type yacht, built by William Fox in Kings Lynn in
+  1914. But we know nothing more about the builder, of whether he worked in a boat
+  yard or as an individual. 
 
 
   She has a square counter-stern similar to a fishing smack, with a rounded bow
@@ -26,7 +26,6 @@ full_description: |-
   at Pin Mill on the river Orwell since the late 1980's.
 year: 1914
 year_is_approximate: false
-designer: []
 builder:
 - name: William Fox
   id: 73d4ff77-0f38-428a-8437-84f45cfa206c
@@ -35,7 +34,11 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: pitch pine on oak
-selling_status: not_for_sale
+selling_status: for_sale
+for_sales:
+- created_at: '2025-06-04T08:52:35.771Z'
+  flexibility: normal
+  asking_price: 23000
 home_country: GBR
 home_port: Pin Mill
 hull_form: long keel sloping forefoot
@@ -60,4 +63,4 @@ handicap_data:
   length_over_all: 9.449
 created_at: '2020-04-25T17:30:31.514061+00:00'
 id: c56d1efd-7d3c-4eda-83eb-12301f5ea52a
-updated_at: '2025-05-21'
+updated_at: '2025-06-04'
