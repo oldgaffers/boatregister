@@ -3,13 +3,17 @@ oga_no: 3557
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: Saoirse is a Harrison Buttler sloop
+short_description: Saoirse is a Harrison Buttler Bogle Class
 full_description: |-
   *Saoirse* was found in an abandoned state at Carne Creek near the Helford River
   and restored over 18 months by her current owner who says she sails beautifully.
+    She was however dismasted in the 2024 Falmouth Classics. Over the next months
+  she was fitted with a new mast and new deck. Also new sails.
 year: 1935
 year_is_approximate: false
-designer: []
+design_class:
+  name: Bogle
+  id: a0cf6a11-066e-4238-a9a4-47df38880caf
 builder:
 - name: R. and J. Prior and Son Ltd.
   id: 03029fc6-73e6-423c-8c49-b39e1d053f3e
@@ -19,9 +23,12 @@ spar_material: wood
 construction_method: carvel
 construction_details: Pitch-pine on oak frames
 home_country: GBR
+home_port: Helford
+sail_number: B 192
 image_key: fLc2q9
 handicap_data:
-  beam: 2.438
+  beam: 1.828
   draft: 1.372
-  length_on_deck: 9.144
+  length_on_deck: 7.62
   length_on_waterline: 7.315
+updated_at: '2025-06-07'
