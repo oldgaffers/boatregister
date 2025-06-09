@@ -3,24 +3,51 @@ oga_no: 577
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Tidebird is a New Blossom Class yacht designed by John Leather.</p>
+short_description: Tidebird is a New Blossom Class yacht designed by John Leather.
 year: 1965
 year_is_approximate: false
 designer:
-  name: John Leather
+- name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
 design_class:
   name: New Blossom Class
   id: 238d8d9a-b5c4-4065-960e-24e8ccfb8545
 builder:
-  name: Ian Brown Ltd.
+- name: Ian Brown Ltd.
   id: 5c5e4266-5fe8-44c5-84bd-b3cfb5708397
 place_built: Rowhedge
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- created_at: '2025-06-09T20:51:20.235Z'
+  sales_text: |-
+    New Blossom Class, designed by John Leather, built 1966, by Browns of Rowhedge.
+    Clinker gaffer-larch on oak.   Lovely day/weekend sailing-with  lifting
+    galvanised steel centre plate, great for tidal rivers and muddy creeks..
+
+    Registered Small Ships registration.MCA
+
+    Dimensions   19ft 6’ by 7 ft   (22ft with bowsprit)   Draft 2ft 6’ plate up    
+    5ft plate down.
+    Cabin for 2, marine upholstery. 
+    Engine Volvo penta MB2 50S( at present unserviced)   
+    Outboard bracket and barely used outboard-bought new Tohatsu 
+    Spruce mast ,gaff rig   Mainsail,staysail,& jib -all in
+    working condition
+
+    *Tidebird* has been regularly maintained and routine repairs carried out during
+    our lengthy ownership, including stripping hull back to bare wood and repainting
+    in full.   She is under cover and in a ventilated yard shelter, having been
+    ashore for some time due to family/health matters. 
+    Some seasonal maintainance /repairs will be required, but this is very much a reluctant sale
+    due to necessity, rather than choice.   
+    She is a very sturdy well built craft, with good sailing qualities-and has been a huge pleasure to look after and sail.
+
+    Contact H Kemp/B Chapple   01394 411220/mobile 07762326194
+  flexibility: normal
+  asking_price: 3000
 home_country: GBR
 hull_form: long keel deep forefoot
 uk_part1: '308733'
@@ -38,14 +65,13 @@ ownerships:
   start: 2015
   share: 64
   current: true
-id: 1457196e-6f53-4779-868d-42f319787395
 image_key: tMzQbK
-thumb: https://photos.smugmug.com/photos/i-f6CpFVV/0/Th/i-f6CpFVV-Th.jpg
 handicap_data:
-  beam: 2.4384
+  beam: 2.438
   draft: 0.762
-  length_over_all: 5.843087051938552
-  length_on_waterline: 5.257863935625457
   length_on_deck: 5.843
+  length_on_waterline: 5.258
+  length_over_all: 5.843
 created_at: '2020-04-25T16:51:07.081107+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 1457196e-6f53-4779-868d-42f319787395
+updated_at: '2025-06-09'
