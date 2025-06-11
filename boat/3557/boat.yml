@@ -11,6 +11,9 @@ full_description: |-
   she was fitted with a new mast and new deck. Also new sails.
 year: 1935
 year_is_approximate: false
+designer:
+- name: T. Harrison Butler
+  id: 21ef6ff1-c378-4df6-9ee4-dc82bcbd44e5
 design_class:
   name: Bogle
   id: a0cf6a11-066e-4238-a9a4-47df38880caf
@@ -24,11 +27,27 @@ construction_method: carvel
 construction_details: Pitch-pine on oak frames
 home_country: GBR
 home_port: Helford
+hull_form: long keel sloping forefoot
 sail_number: B 192
+ownerships:
+- member: 6742
+  id: 35220
+  start: 2025
+  share: 64
+  current: true
 image_key: fLc2q9
 handicap_data:
-  beam: 1.828
+  thcf: 0.973
+  beam: 1.829
   draft: 1.372
+  fore_triangle_height: 10.516
+  fore_triangle_base: 11.217
   length_on_deck: 7.62
-  length_on_waterline: 7.315
-updated_at: '2025-06-07'
+  length_on_waterline: 6.706
+  propellor:
+    type: fixed
+    blades: 3
+  sailarea: 39.391
+  last_modified: '2025-06-11T10:23:43.527Z'
+air_draft: 3.658
+updated_at: '2025-06-11'
