@@ -7,16 +7,18 @@ full_description: Log 80/1, 82/1, 82/3 known as Wendy Previous owner 1989 -1996
 year: 1912
 year_is_approximate: false
 designer:
+- id: f1bc585c-9638-4fd8-8fc7-f382b028513c
   name: Morgan Giles
-  id: f1bc585c-9638-4fd8-8fc7-f382b028513c
 builder:
+- id: 9c04f86f-c78a-43ae-b061-f3f255f0a278
   name: Sinden Bros.
-  id: 9c04f86f-c78a-43ae-b061-f3f255f0a278
 place_built: Fishbourne, I o W
 construction_material: wood
 construction_method: carvel
 construction_details: Pitch pine carvel planking on oak bent frames, copper fastened,
   teak coamings and superstructure
+previous_names:
+- Wendy
 selling_status: not_for_sale
 for_sales: []
 hull_form: long keel deep forefoot
@@ -28,26 +30,25 @@ ownerships:
 - name: Forrest & Close
   start: 1996
   share: 64
-id: ddadd73f-e8ce-4731-97c7-8336a2b32e80
+image_key: wNhzk9
 handicap_data:
   thcf: 0.939507347
   beam: 2.3774
   draft: 1.2192
   fore_triangle_height: 6.705681541087539
   fore_triangle_base: 4.26725188978298
-  length_over_all: 8.53450377956596
+  length_on_deck: 8.5344
+  length_on_waterline: 6.858083394294074
   propellor:
     type: fixed
+  topsail:
+    luff: 4.26725188978298
+    perpendicular: 2.7432333577176298
+  length_over_all: 8.53450377956596
   main:
     foot: 5.18166300902219
     head: 3.6576444769568397
     luff: 4.1453304072177515
-  topsail:
-    luff: 4.26725188978298
-    perpendicular: 2.7432333577176298
-  length_on_waterline: 6.858083394294074
-  length_on_deck: 8.5344
 created_at: '2020-04-25T16:48:13.665605+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Wendy
+id: ddadd73f-e8ce-4731-97c7-8336a2b32e80
+updated_at: '2025-06-24'
