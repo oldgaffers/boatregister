@@ -3,31 +3,67 @@ oga_no: 388
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Log 80/1, 82/1, 82/3 known as Wendy Previous owner 1989 -1996
+short_description: |-
+  Carvel construction  pitch pine planks steamed oak frames , teak  superstructure
+  all orginal planks
+full_description: |-
+  Orginally  known as *Wendy, Capriccio* has been moored on the Deben since 1980.
+  She was renamed *Capriccio* in 1981. Orginally built 1912 by Gordon Sinden at
+  Fishbourne designed by Morgan Giles for the orginal owner L. F . Kent  and
+  registered at Southhampton. In 1933 M Hackforth-Jones converted her from sloop
+  to cutter rig. 
+
 year: 1912
 year_is_approximate: false
 designer:
 - name: Morgan Giles
   id: f1bc585c-9638-4fd8-8fc7-f382b028513c
 builder:
-- name: Sinden Bros.
-  id: 9c04f86f-c78a-43ae-b061-f3f255f0a278
+- name: Gordon Sinden
+  id: dad71458-bc5f-4a1a-9ec3-4f998ecc12aa
 place_built: Fishbourne, I o W
 construction_material: wood
+spar_material: wood
 construction_method: carvel
 construction_details: Pitch pine carvel planking on oak bent frames, copper fastened,
   teak coamings and superstructure
 previous_names:
 - Wendy
 selling_status: not_for_sale
+home_country: UK
+home_port: ramsholt deben
 hull_form: long keel deep forefoot
 reference:
 - Log 80/1
 - Log 82/1
 - Log 82/3
+sail_number: '388'
+callsign: MNOU4
+uk_part1: lloyds 145388
 ownerships:
-- name: Forrest & Close
-  start: 1996
+- name: Major A H Stuart
+  start: 1924
+  Share: 64
+- name: M Hackforth-Jones
+  start: 1930
+  share: 64
+- name: A McDougall
+  start: 1937
+  share: 64
+- name: L F Kent
+  start: 1947
+  share: 64
+- name: G West
+  start: 1965
+  share: 64
+- name: Wendy Laycock 
+  start: 1976
+  share: 64
+- name: R Parish
+  start: 1980
+  share: 64
+- name: B K and C Thomas
+  start: 1995
   share: 64
 - member: 6850
   id: 35353
@@ -36,23 +72,28 @@ ownerships:
   current: true
 image_key: wNhzk9
 handicap_data:
-  thcf: 0.939507347
-  beam: 2.377
-  draft: 1.219
-  fore_triangle_height: 6.706
-  fore_triangle_base: 4.267
+  thcf: 0.95
+  beam: 2.316
+  draft: -6.706
+  fore_triangle_height: 7.01
+  fore_triangle_base: 4.191
   length_on_deck: 8.534
-  length_on_waterline: 6.858
+  length_on_waterline: 7.163
   propellor:
     type: fixed
+    blades: 2
   topsail:
-    luff: 4.267
-    perpendicular: 2.743
+    luff: 3.962
+    perpendicular: 1.829
   length_over_all: 8.534
   main:
-    foot: 5.182
-    head: 3.658
-    luff: 4.145
+    foot: 5.486
+    head: 4.267
+    luff: 3.962
+  last_modified: '2025-07-01T09:09:07.073Z'
 created_at: '2020-04-25T16:48:13.665605+00:00'
+hin: '145388'
+air_draft: 7.315
+mmsi: '232047421'
 id: ddadd73f-e8ce-4731-97c7-8336a2b32e80
-updated_at: '2025-06-26'
+updated_at: '2025-07-01'
