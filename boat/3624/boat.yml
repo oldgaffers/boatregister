@@ -12,7 +12,12 @@ full_description: |-
   and performs well in windy conditions with just jib and mizzen.
 year: 2020
 year_is_approximate: true
-designer: []
+designer:
+- name: Iain Oughtred
+  id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+design_class:
+  name: Penny Fee
+  id: 674a6f6a-c9c5-4662-ada6-2ac2ce7ff226
 builder:
 - name: Francis Bemrose
   id: 8a2f24e2-2a9c-449e-8f3a-c7ec3d837b76
@@ -24,11 +29,12 @@ construction_details: Clinker Ply
 selling_status: for_sale
 for_sales:
 - created_at: '2024-07-26T13:05:26.743Z'
+  asking_price: 1600
   sales_text: |-
     Sails and rows beautifully and great for a potter with an electric outboard
     without the sails .
   flexibility: normal
-  asking_price: 6500
+  reduced: true
 home_country: UK
 home_port: Thames
 hull_form: centre-board dinghy
@@ -45,3 +51,4 @@ handicap_data:
   length_on_deck: 4.877
   length_on_waterline: 4.572
 air_draft: 5.791
+updated_at: '2025-07-03'
