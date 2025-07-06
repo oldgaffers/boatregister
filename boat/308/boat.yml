@@ -1,30 +1,40 @@
 name: Iseult
 oga_no: 308
+generic_type: Falmouth Quay Punt
 rig_type: Yawl
 mainsail_type: gaff
+short_description: Probably a Falmouth Quay punt
+full_description: |-
+  *Iseult* was found by Rodney Wallace in a very sorry state in a mud berth in
+  Combes Yard Bosham around 1970. It took about a year to get her back to a
+  reasonable condition and she entered the Solent Old Gaffers race in 72 and 73.
+  
+  In 1974 she took part in the Heineken Rally from Stone club on the Blackwater
+  which was a wonderful experience. After the event Rodney remained in Holland for
+  several months eventually selling *Iseult* there.
 year: 1931
 year_is_approximate: false
 designer:
-- id: 25412902-8c25-4fd2-8023-2f506c99a366
-  name: Harley Mead
+- name: Harley Mead
+  id: 25412902-8c25-4fd2-8023-2f506c99a366
 builder:
-- id: a9e83f1e-565e-4568-b052-7a492147a30d
-  name: W.E. Thomas
+- name: W.E. Thomas
+  id: a9e83f1e-565e-4568-b052-7a492147a30d
 place_built: Falmouth
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
 ownerships:
 - name: R Wallace
-  start: 2012
+  start: 1970
+  end: 1975
   share: 64
 image_key: BWPb6d
 handicap_data:
-  beam: 2.3165
-  draft: 1.4326
-  length_on_deck: 7.0104
-  length_on_waterline: 6.461838575957083
-  length_over_all: 7.010485247500609
+  beam: 2.316
+  draft: 1.433
+  length_on_deck: 7.01
+  length_on_waterline: 6.462
+  length_over_all: 7.01
 created_at: '2020-04-25T16:46:53.420162+00:00'
 id: b2a2e33a-e3f8-452f-ba5f-d188d00590fd
 updated_at: '2025-07-06'
