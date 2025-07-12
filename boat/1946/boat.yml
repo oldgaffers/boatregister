@@ -16,14 +16,13 @@ place_built: Macclesfield
 construction_material: grp
 spar_material: wood
 construction_details: GRP
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2025-01-09T14:06:46.603Z'
-  flexibility: normal
   asking_price: 6000
   sales_text: |-
-    Kittiwake II was built in 1988. She was the first boat built commercially
-    by Roger Wilkinson of Kittiwake Boats, Macclesfield.   Her ‘clinker-look’ lines,
+    Kittiwake II was built in 1988. She was the first boat built commercially by
+    Roger Wilkinson of Kittiwake Boats, Macclesfield.   Her ‘clinker-look’ lines,
     and the wealth of mahogany and iroko trim, together with the sail configuration,
     give Kittiwakes a truly traditional look and draws much admiration wherever we
     go.
@@ -57,6 +56,10 @@ for_sales:
 
     An excellent family boat providing endless hours of fun for us, our children and
     grandchildren, but now sadly needs a new home.
+  flexibility: normal
+  date_sold: '2025-07-12T18:42:57.988Z'
+  sale_price: 6000
+  summary: <p>Final price not known. Sold to OGA member</p>
 home_country: GBR
 home_port: Nolton Haven
 hull_form: centre-board dinghy
@@ -64,6 +67,10 @@ ownerships:
 - member: 4443
   id: 451
   start: 1988
+  end: 2025
+  share: 64
+- name: Dr Alexander Hambly
+  start: 2025
   share: 64
   current: true
 image_key: nWsHnT
@@ -85,4 +92,4 @@ handicap_data:
     luff: 2.316
 created_at: '2020-04-25T17:12:41.131121+00:00'
 id: fe2fee9f-686e-43bd-98ad-4d6ddaa32c6a
-updated_at: '2025-01-09'
+updated_at: '2025-07-12'
