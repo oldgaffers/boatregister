@@ -3,40 +3,76 @@ oga_no: 2225
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  *Lucinda* is a Cornish Crabber Pilot Cutter 30 built
-  in 1986 by Peter Martinez, her first owner.
-full_description: |+
-  Built by her first owner, Peter Martinez, in his Hampshire garden,
-  and named 'Lucinda' after his wife, the first home built Cornish Crabber Pilot
-  Cutter was launched at Deacons Boatyard, Bursledon in 1986. She was then taken
-  to the Mayflower Marina, Plymouth. Designer, Roger Dongrey came to visit and inspect
+short_description: |-
+  *Lucinda* is a Cornish Crabber Pilot Cutter 30 built in 1986 by Peter Martinez,
+  her first owner and refurbished by John Dilworth, current owner.
+full_description: |-
+  Built by her first owner, Peter Martinez, in his Hampshire garden, and named
+  'Lucinda' after his wife, the first home built Cornish Crabber Pilot Cutter was
+  launched at Deacons Boatyard, Bursledon in 1986. She was then taken to the
+  Mayflower Marina, Plymouth. Designer, Roger Dongrey came to visit and inspect
   the work during the build.
-  
-  An advert for her sale was placed in the OGA Newsletter, Gaffers Log, 1989/2:
-  
-  Cornish Pilot Cutter P5 (Cornish Crabbers Ltd.)
-  30' LOA with six berths, pressurised water system, echosounder, log etc., dinghy
-  with outboard. Decca Navigator and other extras if required.
-  Lying Plymouth £36,000.
+
+
+  Cornish Pilot Cutter P5 (Cornish Crabbers Ltd.) 30' LOA 
+
+
+  **Main areas of upgrade 2014-18 by current owner** have been as follows
+
+
+  **Interior Refurbishment** - Complete replacement of interior cabin to represent
+  the modern style of the Crabber..
+
+
+
+
+  **New Beta 30**- installed 2014 with Darglow Feather-stream three-blade prop,
+  then annual service by the same engineers within the yard.
+
+
+  **Electrics upgraded** - Maxpower bow-thruster, new switch panels, wiring and
+  fusing arrangements, Adverc Management system, recent Batteries.
+
+
+  **Electronics upgraded** - complete range of mainly B&G Zeus for Nav
+  Electronics, also B&G Halo 20 Radar, AIS with Transponder and V50 VHF - all
+  installed by the same professional Electronics Engineer.
+
+
+  **Life Raft** - Seago in deck canister, purchased new 2021 and in-date, four-man
+  capacity, fitted on custom-built coachroof S.S. cradle.
+
+
+  **Deck gear** - includes Lofrans Cobra windlass, with remote control, also
+  custom-made stem fittings to house the plough anchor and integral with S.S
+  bowsprit housing, plus S.S. pin-rails for halyards and running rig.
+
+
+  **Interior ballast** - installed and sealed within the encapsulated keel
+  structure,; within the keel moulding is ‘housing' for the galvanised steel
+  centre-plate, controlled in cockpit with drum-winch.
+
+
+  **Sprayhood/cockpit enclosure** - all custom-made to provide protection for
+  equipment and systems
 year: 1986
 year_is_approximate: false
 designer:
-  name: Roger Dongray
+- name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Cornish Crabber Pilot Cutter 30
   id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
-  - name: Cornish Crabbers Ltd.
-    id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-  - name: Peter Martinez
-    id: 18b84ca6-3471-45e0-b88f-ef7638864230
+- name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+- name: Peter Martinez
+  id: 18b84ca6-3471-45e0-b88f-ef7638864230
 place_built: Hampshire
 construction_material: grp
+spar_material: wood
 construction_details: GRP
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel deep forefoot
@@ -44,7 +80,8 @@ sail_number: P 5
 ssr: '34275'
 callsign: MLGH8
 ownerships:
-- note: P Martinez was the first owner. At some stage William Jewel became owner and
+- name: ''
+  note: P Martinez was the first owner. At some stage William Jewel became owner and
     he sold her to Paul Raine.
   text: P Martinez was the first owner. At some stage William Jewel became owner and
     he sold her to Paul Raine.
@@ -57,26 +94,25 @@ ownerships:
   start: 2014
   share: 64
   current: true
-id: 414ba249-2ff9-44d5-9c62-0a522b6f7299
 image_key: KK2gW4
-thumb: https://photos.smugmug.com/photos/i-zXmMPdn/0/Th/i-zXmMPdn-Th.jpg
 handicap_data:
   thcf: 0.969236092
-  beam: 2.8956
-  draft: 1.0668
-  fore_triangle_height: 8.458302852962692
-  fore_triangle_base: 5.7912704218483295
-  length_over_all: 9.1441111923921
+  beam: 2.896
+  draft: 1.067
+  fore_triangle_height: 8.458
+  fore_triangle_base: 5.791
+  length_on_deck: 9.144
+  length_on_waterline: 7.849
   propellor:
     type: fixed
-  main:
-    foot: 5.6388685686417945
-    head: 4.495854669592782
-    luff: 4.953060229212387
   topsail:
-    luff: 5.715069495245062
-    perpendicular: 2.286027798098025
-  length_on_waterline: 7.848695440136551
-  length_on_deck: 9.144
+    luff: 5.715
+    perpendicular: 2.286
+  length_over_all: 9.144
+  main:
+    foot: 5.639
+    head: 4.496
+    luff: 4.953
 created_at: '2020-04-25T17:16:51.816403+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 414ba249-2ff9-44d5-9c62-0a522b6f7299
+updated_at: '2025-07-22'
