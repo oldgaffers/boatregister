@@ -1,0 +1,45 @@
+name: Louisa
+oga_no: 3778
+generic_type: Yacht
+rig_type: Sloop
+mainsail_type: gunter
+short_description: Cornish Shrimper 19
+full_description: To follow
+year: 1987
+year_is_approximate: false
+design_class:
+  name: Cornish Shrimper
+  id: 7caf07ef-acf3-434b-a639-5c94188071a8
+place_built: Rock
+construction_material: grp
+spar_material: wood
+construction_method: hot_moulded
+home_country: UK
+home_port: Ipswich
+hull_form: centre-boarder
+sail_number: '255'
+ownerships:
+- member: 4396
+  id: 439
+  start: '2025'
+  share: 64
+  current: true
+image_key: BgNCCS
+handicap_data:
+  thcf: 0.822
+  beam: 2.185
+  draft: 0.488
+  fore_triangle_height: 4.648
+  fore_triangle_base: 2.539
+  length_on_deck: 5.867
+  length_on_waterline: 5.334
+  propellor:
+    type: fixed
+  sailarea: 18.41
+  topsail:
+    luff: 1.737
+    perpendicular: 0.457
+  main:
+    luff: 3.353
+    foot: 3.505
+updated_at: '2025-08-02'
