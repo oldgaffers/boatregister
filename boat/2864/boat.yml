@@ -2,20 +2,23 @@ name: Bridget
 oga_no: 2864
 rig_type: Sloop
 mainsail_type: gaff
-full_description: RNLI boat no 642 was based at Arclow 1914-38. Her original rig had
-  a jib, standing lug main and a leg o mutton mizzen giving  sail area area of 350
-  sq. feet.
+full_description: |-
+  RNLI boat no 642 was based at Arclow 1914-38. Her original rig had a jib,
+  standing lug main and a leg o mutton mizzen giving sail area area of 350 sq.
+  feet.
 year: 1914
 year_is_approximate: false
+designer: []
 builder:
-  name: Thames Ironworks and Shipbuilding Co.
+- name: Thames Ironworks and Shipbuilding Co.
   id: 632de67d-b846-4307-a62c-b10083392f98
 place_built: London
 construction_material: wood
 construction_method: double_diagonal
 construction_details: 'Double diagonal '
+previous_names:
+- John Taylor Cardwel
 selling_status: not_for_sale
-for_sales: []
 home_port: Port Penryn
 hull_form: long keel deep forefoot
 ssr: '20648'
@@ -23,28 +26,30 @@ ownerships:
 - member: 3249
   id: 235
   start: 2012
+  end: 2025
+  share: 64
+- name: An Owner
+  start: 2025
   share: 64
   current: true
-id: b3d03cd8-5407-4af7-96cd-7507d2532447
 handicap_data:
   thcf: 1.045899013
-  beam: 3.2004
-  draft: 0.9144
-  fore_triangle_height: 9.1441111923921
-  fore_triangle_base: 4.26725188978298
-  length_over_all: 12.192148256522799
+  beam: 3.2
+  draft: 0.914
+  fore_triangle_height: 9.144
+  fore_triangle_base: 4.267
+  length_on_deck: 12.192
+  length_on_waterline: 11.887
   propellor:
     type: fixed
-  main:
-    foot: 4.87685930260912
-    luff: 9.1441111923921
   fore:
-    foot: 2.8956352109241648
-    head: 2.8956352109241648
-    luff: 5.4864667154352595
-  length_on_waterline: 11.887344550109729
-  length_on_deck: 12.192
+    foot: 2.896
+    head: 2.896
+    luff: 5.486
+  length_over_all: 12.192
+  main:
+    foot: 4.877
+    luff: 9.144
 created_at: '2020-04-25T17:29:20.115768+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- John Taylor Cardwel
+id: b3d03cd8-5407-4af7-96cd-7507d2532447
+updated_at: '2025-08-03'
