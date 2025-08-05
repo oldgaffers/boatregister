@@ -27,8 +27,11 @@ previous_names:
 - Puffin
 selling_status: not_for_sale
 for_sales:
-- created_at: '2024-05-02T20:49:32.127Z'
-  asking_price: 3950
+- asking_price: 3950
+  created_at: '2024-05-02T20:49:32.127Z'
+  date_sold: '2024-09-01T19:23:13.269Z'
+  flexibility: normal
+  sale_price: 3000
   sales_text: |-
     *Isadora* comes with 2 sets of refurbished sails, (1 tan,. 1 white) and a
     Mariner 3.3 outboard engine in excellent, low use, condition. All running and
@@ -46,12 +49,9 @@ for_sales:
 
 
     More details from M J Lewis
-  flexibility: normal
-  date_sold: '2024-09-01T19:23:13.269Z'
-  sale_price: 3000
   summary: <p>Sale price unknown</p>
 home_country: GBR
-home_port: Penryn
+home_port: Clovelly
 hull_form: centre-board dinghy
 sail_number: CP 9
 ownerships:
@@ -60,6 +60,11 @@ ownerships:
   start: 2021
   end: 2024
   share: 64
+- member: 6865
+  id: 35375
+  start: '2024'
+  share: 64
+  current: true
 image_key: nkLKL3
 handicap_data:
   beam: 1.829
@@ -69,3 +74,4 @@ handicap_data:
 created_at: '2021-10-25T13:51:40.836306+00:00'
 hin: CP 9
 id: f8ad5987-33a8-4f43-b7cf-83b2ad2b3e8d
+updated_at: '2025-08-05'
