@@ -1,21 +1,28 @@
 name: imp
 oga_no: 3761
 generic_type: Yacht
-rig_type: Cutter
+rig_type: Sloop
 mainsail_type: gaff
 short_description: |-
-  Oysterman 16 built in Bar Creek, Cornwall, approx 1977 Paul Gartside design for
-  the Grandson of Admiral Sir Dudley Pound and went to Darthmouth
+  Oysterman 16 no 4 built in Bar Creek, Cornwall, approx 1979 Paul Gartside
+  design 
+
+
+  originally built for David Whitehead in Galway
 full_description: Now in Kinsale, Co Cork due to be renovated.
 year: 1975
 year_is_approximate: true
-designer: []
+designer:
+- name: Paul Gartside
+  id: 1b6f37c5-f903-4211-b297-d72945611d8a
 design_class:
   name: Oysterman 16
   id: 9d3871eb-e4f6-4481-846d-b0bd7c2c6a30
 builder:
 - name: P. Gartside
   id: e00f0199-0c47-40a6-a4b7-4aca64e9f26b
+- name: Bar Creek Cornwall
+  id: c966fcc6-ce12-49ce-88b6-c723c2573908
 place_built: Cornwall
 construction_material: grp
 spar_material: wood
@@ -37,4 +44,5 @@ handicap_data:
   draft: 0.914
   length_on_deck: 4.877
   length_on_waterline: 4.633
-updated_at: '2025-07-01'
+hin: '1604'
+updated_at: '2025-08-10'
