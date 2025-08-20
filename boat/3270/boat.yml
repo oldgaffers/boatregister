@@ -22,7 +22,7 @@ builder:
   id: 4a2d1a6c-329f-485e-96b7-f90ccb802ed2
 construction_material: wood
 spar_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-07-24T09:37:16.861Z'
   asking_price: 8500
@@ -52,6 +52,9 @@ for_sales:
     renovation to the finnishes on her hull and modifications to rigging.
   flexibility: normal
   reduced: true
+  date_sold: '2025-08-20T10:09:32.206Z'
+  sale_price: 8500
+  summary: <p>final price not known</p>
 home_country: GBR
 home_port: Cardiff
 hull_form: long keel deep forefoot
@@ -64,8 +67,8 @@ ownerships:
 - member: 4964
   id: 551
   start: 2017
+  end: 2025
   share: 64
-  current: true
 image_key: kcgmN9
 handicap_data:
   beam: 1.829
@@ -74,4 +77,4 @@ handicap_data:
   length_on_waterline: 4.877
 air_draft: 4.694
 id: 28b7ddc2-6301-46bf-b0d9-594db5588cfe
-updated_at: '2025-02-04'
+updated_at: '2025-08-20'
