@@ -3,6 +3,15 @@ oga_no: 1922
 generic_type: Racing Yacht
 rig_type: Sloop
 mainsail_type: gaff
+short_description: '*Sheila* is a Six-Metre racing boat'
+full_description: |-
+  Built by the Herreshoff Manufacturing Company *Sheila* was launched in Bristol,
+  Rhode Island in 1921 as design no. 861.
+
+
+  She was designed by Starling Burgess, an aircraft designer and close friend of 
+   Nat Herreshoff, for Paul Hammond, and was on the first American team of
+  Six-Metre boats to race in England in 1921.
 year: 1921
 year_is_approximate: false
 designer:
@@ -46,17 +55,18 @@ handicap_data:
   topsail:
     luff: 5.273
     perpendicular: 2.743
+  checked: false
   displacement: 4570
   length_over_all: 8.382
   main:
     foot: 6.096
     head: 5.182
     luff: 5.182
+  peformance_details: 'Adjustable outhaul, Main sheet traveller, '
   solent:
     hull_shape: Long keel - Standard
     measured_rating: 24.82359123378255
     thcf: 0.998
-  peformance_details: 'Adjustable outhaul, Main sheet traveller, '
-  checked: true
 created_at: '2020-04-25T17:12:17.689088+00:00'
 id: 30f41b43-d476-428e-b2da-f9865ccb3357
+updated_at: '2025-09-05'
