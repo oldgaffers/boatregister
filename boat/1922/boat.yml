@@ -1,72 +1,27 @@
-name: Sheila
+name: Norfolk Oyster
 oga_no: 1922
-generic_type: Racing Yacht
+generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description:|-
-  *Sheila* is a Six-Metre racing boat
 full_description: |-
-  Built by the Herreshoff Manufacturing Company *Sheila* was launched in Bristol,
-  Rhode Island in 1921 as design no. 861.
-
-  She was designed by Starling Burgess, an aircraft designer and close friend of 
-  Nat Herreshoff, for Paul Hammond, and was on the first American team of
-  Six-Metre boats to race in England in 1921.
-year: 1921
+  Sturdy simulated white hull with blue top strake, cream interior, varnished
+  spruce spars (mast, boom & gaff) , hardwood slatted seat battens , tan sails,
 year_is_approximate: false
-designer:
-- name: Starling Burgess
-  id: 8a9c1577-78e7-4b61-8fbf-a50da02efe0a
 design_class:
-  name: 6 Metre
-  id: 70d8ab47-0b98-4c96-a4b9-1fd715c0d3fb
-builder:
-- name: Herreshoff Manufacturing Co.
-  id: 56dde7ef-29a3-4294-9a45-8ad7f9eb8da4
-place_built: USA
-construction_material: wood
+  name: Norfolk Oyster
+  id: e2a40245-e1b5-4ecc-b5f9-0586f83eff5f
+place_built: Fakenham
+construction_material: grp
 spar_material: wood
-construction_method: carvel
-selling_status: not_for_sale
-home_country: GBR
-home_port: Helford
-hull_form: long keel sloping forefoot
-sail_number: US 4
-ownerships:
-- name: Daniel Tester
-  start: 2012
-  end: 2022
-  share: 64
-- name: Simon Williams
-  start: 2022
-  share: 64
-  current: true
+construction_details: GRP
+home_country: UK
+home_port: Stewartby
+hull_form: centre-board dinghy
+sail_number: '99'
 image_key: fxdkM2
 handicap_data:
-  thcf: 1.007
-  beam: 2.164
-  draft: 1.829
-  fore_triangle_height: 9.174
-  fore_triangle_base: 2.438
-  length_on_deck: 8.367
-  length_on_waterline: 7.138
-  propellor:
-    type: none
-  topsail:
-    luff: 5.273
-    perpendicular: 2.743
-  checked: false
-  displacement: 4570
-  length_over_all: 8.382
-  main:
-    foot: 6.096
-    head: 5.182
-    luff: 5.182
-  peformance_details: 'Adjustable outhaul, Main sheet traveller, '
-  solent:
-    hull_shape: Long keel - Standard
-    measured_rating: 24.82359123378255
-    thcf: 0.998
-created_at: '2020-04-25T17:12:17.689088+00:00'
-id: 30f41b43-d476-428e-b2da-f9865ccb3357
-updated_at: '2025-09-05'
+  beam: 1.881
+  draft: 0.253
+  length_on_deck: 5.105
+  length_on_waterline: 4.673
+updated_at: '2025-09-10'
