@@ -13,6 +13,7 @@ full_description: |-
   overall, while a plea from the Shipmate was more or less an order for 6ft
   headroom.”
 
+
   The preceding extract from the February 1937 issue of Yachting Monthly was
   penned by Maurice Griffith.
 
@@ -58,10 +59,10 @@ full_description: |-
 year: 1937
 year_is_approximate: false
 designer:
-  name: D.A. Rayner
+- name: D.A. Rayner
   id: afc68d59-e7ba-466e-861f-741e2eeae526
 builder:
-  name: Enterprise Small Craft
+- name: Enterprise Small Craft
   id: a27bca50-d155-428a-be49-a542d64ba316
 place_built: Rock Ferry, Birkenhead
 construction_material: wood
@@ -121,7 +122,7 @@ website: https://robinetta-log.blogspot.com/p/robinetta.html
 image_key: 9NV8KW
 handicap_data:
   thcf: 0.86
-  beam: 2.441
+  beam: 2.438
   draft: 1.372
   fore_triangle_height: 4.572
   fore_triangle_base: 3.048
@@ -130,14 +131,16 @@ handicap_data:
   propellor:
     type: fixed
   sailarea: 24.156
+  displacement: 5000
+  length_over_all: 6.858
   main:
     foot: 4
     head: 4.267
     luff: 4.319
-  length_over_all: 6.858083394294
-  displacement: 5000
   solent:
     hull_shape: Long keel - High volume
-    measured_rating: 15.0592846609983810
+    measured_rating: 15.059284660998381
     thcf: 0.853
+  checked: true
 mmsi: '235109366'
+updated_at: '2025-09-12'
