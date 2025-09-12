@@ -1,17 +1,46 @@
 name: Norfolk Oyster
 oga_no: 3787
 generic_type: Dinghy
-rig_type: Single Sail
-mainsail_type: lug
+rig_type: Sloop
+mainsail_type: gaff
 year_is_approximate: false
+designer:
+- name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
 design_class:
-  name: Aber
-  id: c01425bf-c94f-40c1-b3e1-51f0bd2c7bce
-construction_material: wood
+  name: Norfolk Oyster
+  id: e2a40245-e1b5-4ecc-b5f9-0586f83eff5f
+builder:
+- name: North Norfolk Boatbuilding Co. (Charlie Ward)
+  id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
+place_built: Fakenham
+construction_material: grp
 spar_material: wood
-construction_method: clinker_ply
-construction_details: Strip Pine Planking and epoxy
+construction_method: cold_moulded
+construction_details: GRP
+selling_status: for_sale
+for_sales:
+- created_at: '2025-09-12T13:41:22.223Z'
+  sales_text: |-
+    Superb condition, little  & light use, fresh water only. Wintered under cover
+    since new. Loa 17’, beam 6’2””, draft 10”” or 3’10” with centre board down,
+    displacement 1320lbs/650k. Sturdy simulated white hull with blue top strake,
+    cream interior, varnished spruce spars (mast, boom & gaff) , hardwood slatted
+    seat battens , tan sails, Spirit electric outboard (as new/boxed), Indespension
+    road trailer and full inventory incl 3 covers, owners manual, oars, paddle etc .
+    Lying Stewartby SC
+  flexibility: normal
+  asking_price: 16000
+home_country: UK
+home_port: Stewartby
 hull_form: centre-board dinghy
+sail_number: '99'
+ownerships:
+- member: 6869
+  id: 35379
+  start: '2000'
+  share: 64
+  current: true
 image_key: tWsjR7
 handicap_data:
   beam: 1.5
