@@ -1,4 +1,5 @@
 import math
+from format import f2m
 
 # Constants
 baseLengthInFeetForTHCF = 25
@@ -16,26 +17,78 @@ def rig_allowance(r):
         return 0.90
     return 1.0
 
-def fGaffSA(sail):
-    if sail:
-        b = float(sail['foot'])
-        h = float(sail['luff'])
-        g = float(sail['head'])
-        d = math.sqrt(b * b + h * h)
-        return 0.5 * b * h + 0.5 * g * d
-    return 0
+def sails(r):
+    r = r.lower()
+    if r == 'cutter':
+        return [
+            'fore_triangle',
+            'main',
+            'topsail',
+         ]
+    elif r == 'yawl':
+        return [
+            'fore_triangle',
+            'main',
+            'topsail',
+            'mizzen',
+            'mizzen_topsail',
+        ]
+    elif r == 'schooner':
+        return [
+            'fore_triangle',
+            'main',
+            'topsail',
+            'fore_sail',
+            'fore_topsail',
+        ]
+    elif r == 'ketch':
+        return [
+            'fore_triangle',
+            'main',
+            'topsail',
+            'mizzen',
+            'mizzen_topsail',
+        ]
+    return []
+
+def areas(boat):
+    s = sails(boat.get('rig_type', ''))
+    sail_areas = {}
+    hd = boat.get('handicap_data', {})
+    for sail in s:
+        sail_areas[sail] = 0
+        if sail == 'fore_triangle':
+            sail_areas[sail] = fForeTriangle(hd)
+        elif sail in ['main', 'fore_sail', 'mizzen']:
+            sail_areas[sail] = fMainSA(hd.get(sail, {}))
+        elif sail in ['topsail', 'fore_topsail', 'mizzen_topsail']:
+            sail_areas[sail] = fTopSA(hd.get(sail, {}))
+    return sail_areas
+
+def fMainSA(sail):
+    if not sail:
+        return 0
+    b = sail.get('foot', 0)
+    h = sail.get('luff', 0)
+    if b is None or h is None:
+        return 0
+    if 'head' not in sail:
+        return 0.5 * b * h
+    g = float(sail['head'])
+    d = math.sqrt(b * b + h * h)
+    return 0.5 * b * h + 0.5 * g * d
 
 def fTopSA(sail):
     if sail:
-        i = float(sail['perpendicular'])
-        h = float(sail['luff'])
+        i = float(sail.get('perpendicular', 0))
+        h = float(sail.get('luff', 0))
         return 0.5 * i * h
     return 0
 
 def fForeTriangle(data):
     if data:
-        i = float(data['fore_triangle_height'])
-        j = float(data['fore_triangle_base'])
+        i = float(data.get('fore_triangle_height', 0))
+        j = float(data.get('fore_triangle_base', 0))
         return 0.425 * i * j
     return 0
 
@@ -45,7 +98,9 @@ def fL(data):
     return 0
 
 def fBD(boat):
-    return 0.67 * boat['handicap_data']['beam'] * boat['handicap_data']['beam']
+    if boat and boat.get('handicap_data') and boat['handicap_data'].get('beam'):
+        return 0.67 * boat['handicap_data']['beam'] * boat['handicap_data']['beam']
+    return 0
 
 def fMSA(sail_area):
     return sum(sail_area.values())
@@ -54,11 +109,13 @@ def fSqrtS(rig_allowance, sailarea):
     return rig_allowance * math.sqrt(sailarea)
 
 def fMR(boat):
-    ddf = boat['ddf']
+    if 'rig_type' not in boat or 'handicap_data' not in boat:
+        return 0
     handicap_data = boat['handicap_data']
+    sails = areas(boat)
     if handicap_data:
         L = fL(handicap_data)
-        sqrtS = ddf.get('root_s', 0.0)
+        sqrtS = fSqrtS(rig_allowance(boat['rig_type']), fMSA(sails))
         BD = fBD(boat)
         if BD > 0:
             x = 0.15 * L * sqrtS / math.sqrt(BD)
@@ -95,7 +152,8 @@ def fR(boat):
         return MR - MR * fPropellorBonus(boat['handicap_data'])
     return 0
 
-def fThcf(r=baseLengthInFeetForTHCF):
+def fThcf(boat):
+    r = fR(boat)
     return 0.125 * (math.sqrt(r) + 3)
 
 shapeFactorMap = {
@@ -144,8 +202,3 @@ def solentRating(boat):
     pf = float(data['solent'].get('performance_factor', 0))
     sr = (1 + pf) * thcf
     return round(1000 * sr) / 1000
-
-# Example for f2m conversion function
-def f2m(feet):
-    return feet * 0.3048
-
