@@ -69,7 +69,6 @@ def sail_area(boat):
             sail_areas[sail] = fMainSA(hd.get(sail, {}))
         elif sail in ['topsail', 'fore_topsail', 'mizzen_topsail']:
             sail_areas[sail] = fTopSA(hd.get(sail, {}))
-    print(sail_areas)
     a = sum(sail_areas.values())
     if a == 0:
         a = hd.get('sailarea', 0)
