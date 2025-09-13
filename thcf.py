@@ -19,7 +19,7 @@ def rig_allowance(r):
 
 def sails(r):
     r = r.lower()
-    if r == 'cutter':
+    if r in ['cutter', 'sloop']:
         return [
             'fore_triangle',
             'main',
@@ -49,12 +49,16 @@ def sails(r):
             'mizzen',
             'mizzen_topsail',
         ]
+    elif r in ['catboat', 'single sail']:
+        return ['main']
     return []
 
-def areas(boat):
+def sail_area(boat):
     s = sails(boat.get('rig_type', ''))
     sail_areas = {}
     hd = boat.get('handicap_data', {})
+    if 'main' not in hd:
+        return hd.get('sailarea', 0)
     for sail in s:
         sail_areas[sail] = 0
         if sail == 'fore_triangle':
@@ -63,7 +67,10 @@ def areas(boat):
             sail_areas[sail] = fMainSA(hd.get(sail, {}))
         elif sail in ['topsail', 'fore_topsail', 'mizzen_topsail']:
             sail_areas[sail] = fTopSA(hd.get(sail, {}))
-    return sail_areas
+    a = sum(sail_areas.values())
+    if a == 0:
+        a = hd.get('sailarea', 0)
+    return a
 
 def fMainSA(sail):
     if not sail:
@@ -80,9 +87,10 @@ def fMainSA(sail):
 
 def fTopSA(sail):
     if sail:
-        i = float(sail.get('perpendicular', 0))
-        h = float(sail.get('luff', 0))
-        return 0.5 * i * h
+        i = sail.get('perpendicular', 0)
+        h = sail.get('luff', 0)
+        if i is not None and h is not None:
+            return 0.5 * i * h
     return 0
 
 def fForeTriangle(data):
@@ -102,9 +110,6 @@ def fBD(boat):
         return 0.67 * boat['handicap_data']['beam'] * boat['handicap_data']['beam']
     return 0
 
-def fMSA(sail_area):
-    return sum(sail_area.values())
-
 def fSqrtS(rig_allowance, sailarea):
     return rig_allowance * math.sqrt(sailarea)
 
@@ -112,10 +117,11 @@ def fMR(boat):
     if 'rig_type' not in boat or 'handicap_data' not in boat:
         return 0
     handicap_data = boat['handicap_data']
-    sails = areas(boat)
     if handicap_data:
         L = fL(handicap_data)
-        sqrtS = fSqrtS(rig_allowance(boat['rig_type']), fMSA(sails))
+        sqrtS = fSqrtS(rig_allowance(boat['rig_type']), sail_area(boat))
+        if sqrtS == 0 or L == 0:
+            return 0
         BD = fBD(boat)
         if BD > 0:
             x = 0.15 * L * sqrtS / math.sqrt(BD)
@@ -154,6 +160,8 @@ def fR(boat):
 
 def fThcf(boat):
     r = fR(boat)
+    if r <= 0:
+        return 0
     return 0.125 * (math.sqrt(r) + 3)
 
 shapeFactorMap = {
