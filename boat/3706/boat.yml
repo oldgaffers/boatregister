@@ -1,6 +1,7 @@
 name: Memo
 oga_no: 3706
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Single Sail
 mainsail_type: standing lug
 full_description: Standing lug fiberglass sailing dingy, built by Seashell Boats in
@@ -18,8 +19,11 @@ construction_material: grp
 spar_material: wood
 selling_status: not_for_sale
 for_sales:
-- created_at: '2024-05-29T15:44:00.013Z'
-  asking_price: 750
+- asking_price: 750
+  created_at: '2024-05-29T15:44:00.013Z'
+  date_sold: '2024-06-10T08:33:51.426Z'
+  flexibility: normal
+  sale_price: 750
   sales_text: |-
     Standing lug fiberglass sailing dingy, built by Seashell Boats in 2006. Complete
     with wooden spars, sail, rigging, rudder and dagger board, oars, trolly, trailer
@@ -27,12 +31,8 @@ for_sales:
 
 
     https://dinghymart.co.uk/classifieds/6681/limpet-11/
-  flexibility: normal
-  date_sold: '2024-06-10T08:33:51.426Z'
-  sale_price: 750
   summary: <p>final price not known</p>
-home_country: GBR
-home_port: Altrincham
+home_country: France
 hull_form: centre-board dinghy
 sail_number: '16'
 ownerships:
@@ -55,3 +55,4 @@ created_at: '2022-07-27T18:59:48.159362+00:00'
 air_draft: 16
 hin: GB-RSRL0016B909
 id: 472d4fa5-9f19-49ea-9e56-1cc0d0ba7565
+updated_at: '2025-09-15'
