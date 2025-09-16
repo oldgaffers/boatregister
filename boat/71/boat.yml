@@ -1,7 +1,7 @@
 name: Stormy Petrel
 oga_no: 71
 generic_type:
-- Whitstable Smack
+- - Whitstable Smack
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -37,6 +37,9 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak sawn frames
 selling_status: not_for_sale
+for_sales:
+- created_at: '2025-09-16T12:56:57.796Z'
+  flexibility: normal
 home_country: GBR
 home_port: Gillingham, Kent
 hull_form: long keel deep forefoot
@@ -46,7 +49,7 @@ ownerships:
   share: 64
 image_key: tbB5Xq
 handicap_data:
-  thcf: 1.078
+  thcf: 1.088
   beam: 4.054
   draft: 1.372
   fore_triangle_height: 10.058
@@ -54,17 +57,16 @@ handicap_data:
   length_on_deck: 12.192
   length_on_waterline: 11.278
   propellor:
-    type: fixed
-    blades: 3
+    type: none
   topsail:
     luff: 8.23
     perpendicular: 3.658
+  last_modified: '2025-09-16T12:57:41.350Z'
   length_over_all: 12.222
   main:
     foot: 8.839
     head: 6.706
     luff: 5.486
-  last_modified: '2025-09-13T21:59:24.600Z'
 created_at: '2020-04-25T16:43:30.849292+00:00'
 id: 4f978bc0-e360-42af-b7bf-278f57b375db
-updated_at: '2025-09-13'
+updated_at: '2025-09-16'
