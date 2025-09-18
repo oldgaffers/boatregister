@@ -6,6 +6,10 @@ from os import listdir
 from datetime import date, datetime
 
 def fn(f):
+  if f is None:
+    return ''
+  if type(f) is str:
+    return f
   try:
   	return f.get('name', '')
   except:
