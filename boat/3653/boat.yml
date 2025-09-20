@@ -5,17 +5,23 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: Gaff rigged cutter designed by John Leather
 full_description: |-
-  30' gaff rigged cutter built by D wroughton of Whitby. 1965 with a 10hp single
-  cylinder Sabb engine.  Has flying jib. Wooden hull which has been sheathed at
+  30' gaff rigged cutter built by D Wroughton of Whitby. 1965 with a 10hp single
+  cylinder Saab engine.  Has flying jib. Wooden hull which has been sheathed at
   some point in its life
 year: 1965
 year_is_approximate: false
-place_built: 'D. Wroughton of Whitby '
+place_built: Whitby
+designer:
+  name: John Leather
+  id: 1a6c3643-688e-4b25-b088-2520172edd7d
+builder:
+  name: D. Wroughton
+  id: d1f3e2e2-2f4a-4d0b-8e7a-5c3e3f3c8f4e
 construction_material: woodepoxy
 spar_material: wood
 construction_method: other
-home_country: 'Essex '
-home_port: 'Fambridge Yacht Haven '
+home_country: Essex
+home_port: Fambridge Yacht Haven
 hull_form: long keel sloping forefoot
 reference:
 - Essex boatshed
