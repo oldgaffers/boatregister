@@ -11,10 +11,10 @@ def fn(f):
   if type(f) is str:
     return f
   try:
-  	return f.get('name', '')
+    return f.get('name', '')
   except:
-  	print(f)
-  	return ''
+    print(f)
+  return ''
 
 def transform(o):
   if type(o) is dict and 'name' in o:
@@ -68,7 +68,7 @@ def owners(boat):
 
 def get_boat(path):
   try:
-    with open(path, "r") as stream:
+    with open(path, "r", encoding='utf-8') as stream:
       return yaml.safe_load(stream)
   except Exception as e:
     print(e)
