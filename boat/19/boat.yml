@@ -3,19 +3,22 @@ oga_no: 19
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>&#39;Shireen&#39; is a Clyde 19/24, built in 1900 in the Royal
-  Burgh of Rutherglen by Ewing McGruer. Designed by Alfred Mylne she has been restored
-  and relaunched, May 2017.</p>
-full_description: "<p>On 12 May, 2017, &#39;Shireen&#39;, the restored 19/24 class\
-  \ Clyde racing yacht was relaunched at Holy Loch Marina, Sandbank.</p>\r\n\r\n<p>Based\
-  \ on records kept by a previous owner, the Yachting Life article summarises some\
-  \ of her early history. She appears in the 19/24 class book in 1932, owned by a\
-  \ Mr Lawson who won the Royal Gourock Yacht Club Cup that year. During the Second\
-  \ World War, she was kept on Inchmurrin, Loch Lomond. She was used to transport\
-  \ animals and deliver the mail, with fuel being in short supply.</p>\r\n\r\n<p>Since\
-  \ then she has had a chequered history and spent some time lying in the open which\
-  \ led to the need for some major repairs done by Ronnie McGrouther of McKellars\
-  \ slipway.</p>"
+short_description: |-
+  *Shireen* is a Clyde 19/24, built in 1900 in the Royal
+  Burgh of Rutherglen by Ewing McGruer.
+full_description: |-
+  On 12 May, 2017, *Shireen*, the restored 19/24 class
+  Clyde racing yacht was relaunched at Holy Loch Marina, Sandbank.
+  
+  Based on records kept by a previous owner, the Yachting Life article summarises some
+  of her early history. She appears in the 19/24 class book in 1932, owned by a
+  Mr Lawson who won the Royal Gourock Yacht Club Cup that year. During the Second
+  World War, she was kept on Inchmurrin, Loch Lomond. She was used to transport
+  animals and deliver the mail, with fuel being in short supply.
+  
+  Since then she has had a chequered history and spent some time lying in the open which
+  led to the need for some major repairs done by Ronnie McGrouther of McKellars
+  slipway.
 year: 1900
 year_is_approximate: false
 designer:
@@ -37,12 +40,12 @@ for_sales:
   flexibility: normal
   offered:
   reduced: false
-  sales_text: <p>Gaff sloop Clyde Class 19/24, designed by Mylne, built by McGruer
+  sales_text: Gaff sloop Clyde Class 19/24, designed by Mylne, built by McGruer
     in 1900, this historically important little old gaffer was virtually rebuilt from
     the keel up. Yanmar 1GM10 engine. Sleeps two, new full cockpit enclosure and sail
     cover. Sails virtually unused, furler on genoa. 19ft w/line 24ft overall. 2017
-    survey available.</p><p>In commission, Scotland. May consider exchange for classic
-    car.</p>
+    survey available. In commission, Scotland. May consider exchange for classic
+    car.
   seller_gold_id:
   seller_member:
   sold:
@@ -53,17 +56,19 @@ home_port: Holy Loch, Scotland
 hull_form: long keel sloping forefoot
 sail_number: 19C
 ownerships:
-- note: 'Previous owners:'
-  text: 'Previous owners:'
 - start: 1932
-  note: 'Mr Lawson, 1932. '
-  text: Mr Lawson,
+  name: Mr Lawson,
+  end: 1939
+  share: 64
 - start: 1940
-  note: F and A Davidson 1940's
-  text: F and A Davidson
+  name: F Davidson
+  share: 32
+- start: 1940
+  name: A Davidson
+  share: 32
 - start: 1973
-  note: F.H.Simpson (1973)
-  text: F.H.Simpson (
+  name: F.H.Simpson
+  share: 64
 - name: David MacLeod
   start: 1979
   end: 2016
@@ -71,9 +76,7 @@ ownerships:
 - name: Neil McMaster
   start: 2016
   share: 64
-id: c5c93354-93f9-4d71-90e4-840d96ef5f77
 image_key: X996wD
-thumb: https://photos.smugmug.com/photos/i-2Hw4fwR/0/Th/i-2Hw4fwR-Th.jpg
 handicap_data:
   beam: 2.1336
   draft: 1.8288

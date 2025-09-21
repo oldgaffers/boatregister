@@ -3,18 +3,18 @@ oga_no: 1086
 generic_type: Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-full_description: Log 87/2, 91/2, 92/1, 92/3, S-A/94
 year: 1971
 year_is_approximate: false
 builder:
-  name: A. Last/W. Cook and Sons
-  id: a30afd57-77cc-4c17-9b51-200abd8ddca8
+  - name: Alf Last
+    id: a30afd57-77cc-4c17-9b51-200abd8ddca8
+  - name: Walter Cook and Son
+    id: 90cd6580-ab85-49ef-a8af-4ada5b65a66b
 place_built: Maldon
 construction_material: wood
 construction_method: clinker
 construction_details: Mahogany on oak clinker
 selling_status: not_for_sale
-for_sales: []
 reference:
 - Log 87/2
 - Log 91/2
@@ -25,7 +25,6 @@ ownerships:
 - name: Simper.
   start: 2012
   share: 64
-id: dd7ea107-1711-4f36-8b69-f1647a095d28
 handicap_data:
   thcf: 0.788232511
   beam: 1.8806
