@@ -40,6 +40,8 @@ COUNTY_LOOKUP = {
     "Bristol": "Bristol",
     "Cardiff": "Cardiff",
     "London": "London",
+    "Rock": "Cornwall",
+
     # ... add more as needed ...
 }
 
