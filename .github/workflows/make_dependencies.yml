@@ -27,9 +27,13 @@ jobs:
         run: |
           python -m poetry run python make_editors_choice.py
           echo ok
-      - name: create filter list json
+      - name: create filter list
         run: |
           python -m poetry run python make_filterable.py
+          echo ok
+      - name: create places list
+        run: |
+          python -m poetry run python places.py
           echo ok
       - name: changed files
         id: changed-files
