@@ -11,7 +11,7 @@ if __name__ == '__main__':
     boat = get_boat(f"{mypath}/{b}/boat.yml")
     if boat and 'place_built' in boat:
       place = boat['place_built'].strip()
-      rec = data.get(place, {"place": place, "count": 0, "yards": {}})
+      rec = data.get(place, {"place": place, "count": 0, "yards": {}, "no_yard": []})
       rec['count'] += 1
       if type(boat.get('builder')) == list:
         if len(boat['builder']) > 0:
@@ -22,6 +22,8 @@ if __name__ == '__main__':
         y = rec['yards'].get(yard, {"count": 0, "name": yard  })
         y['count'] += 1
         rec['yards'][yard] = y
+      else:
+        rec['no_yard'].append(boat['oga_no'])
       data[place] = rec
   with open("places.json", "w") as stream:
       json.dump(data, stream, ensure_ascii=True, default=json_serial)
