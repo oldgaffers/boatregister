@@ -3,11 +3,13 @@ oga_no: 657
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Possibly a Daniel Hatcher related design</p>
+short_description: Possibly a Daniel Hatcher related design
 year: 1976
 year_is_approximate: false
 builder:
-  name: E J Rawlings/G D B Marine Ltd
+- name: G D B Marine Ltd
+  id: 670653fb-b856-4551-b83d-091a3da80155
+- name: E J Rawlings
   id: d0b8b3b2-8c5b-46e5-9925-ddc6fb4149d3
 place_built: Southampton
 construction_material: grp
