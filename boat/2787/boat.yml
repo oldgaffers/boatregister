@@ -3,14 +3,39 @@ oga_no: 2787
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Conversion of stock hull into long keel sloop by first owner
+short_description: Conversion of stock hull into long keel sloop by first owner
+full_description: |-
+  Chris Corbier wrote: "At first, I absolutely couldn't place the boat."
+  
+  It's a stern sloop, but not a traditional lifeboat. At 9 meters low and 2.80 meters wide, the hull is simply too slender for that. 
+  And then that stern, with those enormous blocks... 
+  My girlfriend saw the boat and immediately said that a few boxes of geraniums would make it perfect :-)
+  The toe rail and the stern had a purpose... the shape? To accentuate the sheer? The cabin is built low, not reaching above the highest point of the straight stem.
+
+  Rein, the previous owner, still knew about a naval sloop, Den Helder, built in 1975.
+  He didn't modify the boat at all, so it was still in exactly the condition the builder had intended.
+
+  So, when I bought it, little was known that the boat had been converted from a naval sloop into a sailing yacht in Den Helder in 1975 by a ship's carpenter.
+  He built the boat for his own use. Rein Westenberg bought the boat in 19... from this original owner and owned it for... years, mostly sailing solo on the Westeinder lakes.
+
+  After some searching online, I discovered the BII naval sloop, a type of sloop used by many rowing clubs and scouting groups. 
+  So it must have been a BII sloop, carefully hidden in the interior of the Bestevaer.
+  Not surprising: these BII sloops were designed for rowing and sailing... at least, it explained the slender shape.
+  With a draft of 110 cm, the relatively slender hull shape, and the long keel, the sailing characteristics could well be very good for a sloop.
+
+  It wasn't until the autumn of 2006 that I embarked on a more extensive investigation into the boat's origins and history.
+
+  The BII Marine Sloop:
+  The BII sloop indeed appears not to be a traditional lifeboat. They were primarily used in the training of sea cadets who learned to row and sail on this type of vessel. The BII sloop was equipped with a rig consisting of two thin masts that could be placed in mast sockets and supported with stays. Various photos clearly show its dual use; the BII sloop has a raised gangway with oarlocks.
+
+  However, BII sloops must also have been aboard naval vessels, as this type of sloop was also used in "De Oost" (The East). The sloop was specially made for this region from teak, which is more resistant to the local climate than the iroco or mahogany normally used for the BII.
+
+  The sloops were built, among other places, at Willemsoord, the naval shipyard in Den Helder. The sloops were given a construction number, consisting of the letters WO (Willemsoord) and a serial number.
+
 year: 1975
 year_is_approximate: false
-designer:
-  name: First owner
-  id: e101f04b-761e-4ef4-82a1-8cee62be65ed
 builder:
-  name: First Owner
+- name: Willemsoord
   id: ae38282d-1e2d-43d9-a123-4c8ee205637f
 place_built: Den Helder
 construction_material: grp
@@ -23,10 +48,8 @@ ownerships:
 - name: Chris Corbier
   start: 2005
   share: 64
-website: ' https://debestevaer.blogspot.com/'
-id: af86227b-f391-4dec-ac88-ddfdd1b5bb29
+website: https://web.archive.org/web/20231125023725/https://debestevaer.blogspot.com/
 image_key: cWrdR6
-thumb: https://photos.smugmug.com/photos/i-tsSpcgx/0/Th/i-tsSpcgx-Th.jpg
 handicap_data:
   thcf: 0.949402584
   beam: 2.8011
