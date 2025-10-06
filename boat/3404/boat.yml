@@ -2,13 +2,12 @@ name: Eljada
 oga_no: 3404
 rig_type: Ketch
 mainsail_type: bermudan
-short_description: |-
-  'Eljada' [named after a warrior from The Old Testament ] is a Bermudan ketch
-  motor sailor and was built of iroko on oak for a British Army officer about 1964
-  by Staniland's of Thorn near Doncaster, Yorkshire.
 full_description: |-
-  'Eljada' is a 1964 Francis Jones design, Sole Bay diesel motor ketch. She is
-  built of iroko on oak frames with teak deck.
+  *Eljada* is named after a warrior from The Old Testament. She is a Sole Bay Bermudan ketch
+  diesel motor sailor and was built for a British Army officer about 1964.
+  by Staniland's of Thorne near Doncaster, Yorkshire.
+short_description: |-
+  *Eljada* is a motor ketch.
 year: 1964
 year_is_approximate: false
 designer:
@@ -17,26 +16,29 @@ designer:
 builder:
 - name: Staniland and Co.
   id: 7c463d12-ab4d-4cae-8384-3f59cd6cd386
-place_built: Doncaster
+place_built: Thorne
 construction_material: wood
 construction_details: Iroko on oak frames with teak deck.
 selling_status: not_for_sale
 for_sales:
-- created_at: '2019-03-12T21:50:57+00:00'
-  asking_price: 8500
+- asking_price: 8500
+  created_at: '2019-03-12T21:50:57+00:00'
+  flexibility: normal
+  reduced: false
   sales_text: |-
-    "Eljada" is a 1964 Francis Jones design, Sole Bay diesel motor ketch. She is
+    *Eljad* is a 1964 Francis Jones design, Sole Bay diesel motor ketch. She is
     built of iroko on oak frames with teak deck. 35" LOA, 10" beam 5" draft. Main
     mast 21", mizzen mast 15". Bermudan ketch rig. New kit includes mainsail, jib
     and saloon upholstery, though further equipment is required.
 
+
     An option of dinghy and outboard is available.
-  flexibility: normal
-  reduced: false
   seller_gold_id: 885
   seller_member: 6001
   updated_at: '2020-05-03T10:13:13.521254+00:00'
 home_country: GBR
+ownerships:
+- name: James Weir
 image_key: sk5bRN
 handicap_data:
   beam: 2.438
@@ -45,3 +47,4 @@ handicap_data:
   length_on_waterline: 8.534
 created_at: '2020-04-25T17:53:10.481802+00:00'
 id: 9fae98a0-71a5-468e-b099-5d5fbb863cb3
+updated_at: '2025-10-04'

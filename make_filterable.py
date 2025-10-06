@@ -43,6 +43,7 @@ def wanted(boat):
     'price',
     'sale',
     'sail',
+    'home_port',
     ]
     if 'selling_status' in boat and boat['selling_status'] == 'for_sale':
       for_sales = boat.get('for_sales', [{'asking_price': 0}])

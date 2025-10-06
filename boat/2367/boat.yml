@@ -1,6 +1,7 @@
 name: Passager
 oga_no: 2367
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -11,7 +12,6 @@ full_description: |-
   taken part in many Brest, Paimpol and Yarmouth festivals.
 year: 1978
 year_is_approximate: false
-designer: []
 builder:
 - name: Windboats
   id: 96ea2006-ed15-4492-8b41-e9000a6ac9c8
@@ -22,75 +22,74 @@ construction_details: Ferrocement.
 selling_status: for_sale
 for_sales:
 - created_at: '2024-08-19T15:03:41.620Z'
-  sales_text: |
+  asking_price: 17500
+  sales_text: |-
     Much admired and very well equipped Norske 35 ferrocement gaff cutter
     professionally built in 1978 by Windboats of Wroxham. GRP balsa core deck which
-    is lightweight, virtually maintenance free and waterproof. Windboats have
-    a great reputation for build quality and we have met a number of other Norske
-    35's over the years including one that has circumnavigated plus Norske also built
-    the Endurance range which went on to be built in Fibreglass. Fully
-    refitted in 1998 with new Noble hollow mast, rigging, seacocks and much more
-    over the years. Sleeps four in two cabins plus a couple of pipe cots.
+    is lightweight, virtually maintenance free and waterproof. Windboats have a
+    great reputation for build quality and we have met a number of other Norske 35's
+    over the years including one that has circumnavigated plus Norske also built the
+    Endurance range which went on to be built in Fibreglass. Fully refitted in 1998
+    with new Noble hollow mast, rigging, seacocks and much more over the years.
+    Sleeps four in two cabins plus a couple of pipe cots.
 
-    We are the second owners but having owned her for 27 seasons we are with
-    our advancing years regretfully passing her on. She has cruised from Scotland
-    to LaRochelle over the years and has taken part in a number of Brest and Paimpol
-    festivals along with cruising and racing with the Old Gaffers Association, attending
-    more Yarmouth Old Gaffers and other events than we remember! We have a healthy supply of trophies.
-    
+    We are the second owners but having owned her for 27 seasons we are with our
+    advancing years regretfully passing her on. She has cruised from Scotland to
+    LaRochelle over the years and has taken part in a number of Brest and Paimpol
+    festivals along with cruising and racing with the Old Gaffers Association,
+    attending more Yarmouth Old Gaffers and other events than we remember! We have a
+    healthy supply of trophies.
+
     Recent insurance survey from 2023.
 
     Topsides repainted for 2024 season.
-    
+
     Yanmar 3JH4E 39hp engine fitted in 2007, approx. 1800 hours.
 
-    - SKB Mainsail 2023 SKB 
-    - No 2 Jib 2023
-    - No 1 Jib 2016, UV strip replaced 2023
-    - Staysail by Saunders 2016
-    - Topsail. 1998
-    
-    - Windpilot Pacific servo-pendulum wind vane
-    - Raymarine ST 4000 autopilot
-    - NASA log, depth and repeater
-    - Garmin 128 GPS
-    - Yeoman chart plotter
-    - NASA AIS
-    - VHF radio
-    - Dolphin mains battery charger
-    - 240 volt outlets
-    - Adverk smart charger on alternator
-    - 2 x 115amp house batteries 2022
-    - 1 x 100 amp starter battery
-    - Solar panels on both battery banks
-    - Taylor’s 030 Large paraffin stove with oven.
-    - Solid fuel heater
-    - Pressurised hot and cold water
-    - Isotherm 20 litre water heater running off the engine with 240 volt immersion heater.
-
-    - New rudder bearings fitted 2023
-    - Self tailing winches in the cockpit for the jib and staysail
-    - Winch on the boom for reefing.
-    
-    - Lavac toilet
-    - Shower.
-    - 50 metres 3/8 inch chain
-    - 2 x 35lb CQR anchors
-    - Simpson Lawrence seatiger 2 speed manual windlass
-    - Sprayhood
-    - Full Cockpit enclosure
-    - Mainsail cover with zips replaced 2023
-    - Staysail cover
-    - Isotherm fridge
-    - S/S diesel tank. Aprox 50 litres
-    - Flexible Water tank Aprox 200 litres. Plus space for 60 litres of cans in the bilges.
-    - Huge Lazarette for inflateable dinghy plus much more
-    - Two large cockpit lockers.
-    - SSR registered
-    - VAT documentation.
-    - Many pictures on Apollo Duck
+    * SKB Mainsail 2023 SKB
+    * No 2 Jib 2023
+    * No 1 Jib 2016, UV strip replaced 2023
+    * Staysail by Saunders 2016
+    * Topsail. 1998
+    * Raymarine ST 4000 autopilot
+    * NASA log, depth and repeater
+    * Garmin 128 GPS
+    * Yeoman chart plotter
+    * NASA AIS
+    * VHF radio
+    * Dolphin mains battery charger
+    * 240 volt outlets
+    * Adverk smart charger on alternator
+    * 2 x 115amp house batteries 2022
+    * 1 x 100 amp starter battery
+    * Solar panels on both battery banks
+    * Taylor’s 030 Large paraffin stove with oven.
+    * Solid fuel heater
+    * Pressurised hot and cold water
+    * Isotherm 20 litre water heater running off the engine with 240 volt immersion
+      heater.
+    * New rudder bearings fitted 2023
+    * Self tailing winches in the cockpit for the jib and staysail
+    * Winch on the boom for reefing.
+    * Lavac toilet
+    * Shower.
+    * 50 metres 3/8 inch chain
+    * 2 x 35lb CQR anchors
+    * Simpson Lawrence seatiger 2 speed manual windlass
+    * Sprayhood
+    * Full Cockpit enclosure
+    * Mainsail cover with zips replaced 2023
+    * Staysail cover
+    * Isotherm fridge
+    * S/S diesel tank. Aprox 50 litres
+    * Flexible Water tank Aprox 200 litres. Plus space for 60 litres of cans in the bilges.
+    * Huge Lazarette for inflateable dinghy plus much more
+    * Two large cockpit lockers.
+    * SSR registered
+    * VAT documentation.
+    * Many pictures on Apollo Duck
   flexibility: normal
-  asking_price: 25000
+  reduced: true
 home_country: GBR
 home_port: Weir Quay, Plymouth.
 hull_form: long keel sloping forefoot
@@ -110,3 +109,4 @@ handicap_data:
 hin: '1495'
 mmsi: '235061818'
 id: 7de6ef37-570d-44d3-a423-d697eba65a13
+updated_at: '2025-10-03'
