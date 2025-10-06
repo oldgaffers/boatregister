@@ -1,6 +1,7 @@
 name: Frances Mary
 oga_no: 3745
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: Maurice Griffiths designed gaff cutter
@@ -16,18 +17,18 @@ spar_material: wood
 selling_status: for_sale
 for_sales:
 - created_at: '2025-03-24T20:37:09.412Z'
-  asking_price: 27000
-  sales_text: |-
-    The price is very much up for disccussion as she is seriously for sale. The rig
-    and sails are stored as at present she is used as a motor boat on the Norfolk
-    Broads. out of the water every three years for re-painting etc. her Iroko hull
-    (oak garboards) appear in perfect condition even allowing for her 26 years
-  flexibility: normal
+  sales_text: '#### Due to changed circumstances this beautiful craft is looking for
+    a new owner to live aboard or cruise her in the manner for which she was designed.
+    If you are interested in owning her, can moor and maintain her please contact
+    me to view her where she is being used, on the Norfolk Broads.'
+  reduced: false
+  flexibility: Total
 home_country: England
 home_port: Norwich
 hull_form: long keel deep forefoot
 ownerships:
-- member: 6801
+- name: Edward Dimock
+  member: 6801
   id: 35286
   start: '2025'
   share: 64
@@ -39,4 +40,4 @@ handicap_data:
   length_on_deck: 9.144
   length_on_waterline: 8.534
   checked: true
-updated_at: '2025-03-24'
+updated_at: '2025-10-06'
