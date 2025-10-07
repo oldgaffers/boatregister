@@ -1,31 +1,28 @@
 name: Grey Seal
 oga_no: 3396
-generic_type:
-- Yacht
-rig_type: Cutter
+generic_type: Yacht
 mainsail_type: gaff
-short_description: Grey Seal is a Kattegat 26, hull number 5, completed in 2018-2019.
-full_description: |-
-  4 x Kattegat 26 hulls were produced by Jim Spencer at Waterside Boatyard
-  Brightlingsea during the 1990's. " Complete boats "Sula" and "Widgeon" and 2
-  bare hulls for owner completion. Grey Seal's hull is number 5 and probably the
-  last hull has been fitted out by shipwright Josh Brooks and her first owner
-  Michael Breese 2018/19.
+short_description: <p>Grey Seal is a Kattegat 26, hull number 5, completed in 2018-2019.</p>
+full_description: <p>4 Kattegat 26 hulls were produced by Jim Spencer at Waterside
+  Boatyard Brightlingsea during the 1990&#39;s. &quot; Complete boats &quot;Sula&quot;
+  and &quot;Widgeon&quot; and 2 bare hulls for owner completion. Grey Seal&#39;s hull
+  is number 5 and probably the last hull has been fitted out by shipwright&nbsp;Josh
+  Brooks and her first owner Michael Breese 2018/19.</p>
 year: 2021
 year_is_approximate: false
 designer:
-- name: John Leather
+  name: John Leather
   id: 1a6c3643-688e-4b25-b088-2520172edd7d
 design_class:
   name: Kattegat
   id: c7d782f6-0cae-4fe0-9d84-a05ec9483ae2
 builder:
-- name: Michael Breese/Josh Brooks
+  name: Michael Breese/Josh Brooks
   id: 9d4baccc-bde9-4519-a2b9-054cca7f6f77
-place_built: Halnaker and Thornham Marina
-spar_material: wood
+place_built: Halnaker and Thornham Marine
 construction_details: GRP hull, timber deck and fitout.
 selling_status: not_for_sale
+for_sales: []
 home_country: GBR
 home_port: Chichester Harbour
 hull_form: long keel sloping forefoot
@@ -39,22 +36,23 @@ ownerships:
   start: 2019
   share: 64
   current: true
+id: dc79a8ad-7417-43b4-807a-aa09d2e76ecd
 image_key: 2sThVq
+thumb: https://photos.smugmug.com/photos/i-ZmHzGNC/0/Th/i-ZmHzGNC-Th.gif
 handicap_data:
-  beam: 2.743
-  draft: 1.219
-  length_overall: 8.0772
-  length_on_deck: 8.077
-  length_on_waterline: 6.806
-  length_over_spars: 10.211
+  beam: 2.7432
+  draft: 1.2192
   sailarea: 4
-  topsail:
-    luff: 17.5
-    perpendicular: 7.5
   main:
     foot: 16
     head: 13
     luff: 14
+  topsail:
+    luff: 17.5
+    perpendicular: 7.5
+  length_overall: 8.0772
+  length_over_spars: 10.2108
+  length_on_waterline: 6.8062
+  length_on_deck: 8.0772
 created_at: '2020-04-25T17:53:01.59488+00:00'
-id: dc79a8ad-7417-43b4-807a-aa09d2e76ecd
-updated_at: '2025-10-07'
+updated_at: '2022-03-26T15:57:14.407515+00:00'
