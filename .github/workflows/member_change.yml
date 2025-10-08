@@ -45,17 +45,15 @@ jobs:
           echo CHANGES=1 >> $GITHUB_ENV
         fi
         true
-    - name: commit and push if differences
+    - name: commit, push and create PR if changes
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       if: ${{ env.CHANGES == 1 }}
       run: |
         git config --global user.name ogauk  
         git config --global user.email boatregister@oga.org.uk
         git commit . -m "updated owners"
         git push -u origin ${{ env.branch }}
-    - name: create pull request
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
         gh pr create \
           --assignee AlisonCable \
           --base main \
