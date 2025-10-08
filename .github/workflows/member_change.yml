@@ -34,12 +34,25 @@ jobs:
       run: |
         echo new branch ${{ env.branch }}
         git branch ${{ env.branch }}
-        git push -u origin ${{ env.branch }}
         git checkout ${{ env.branch }}
     - name: update member ownerships
       run: |
         python -m poetry run python update_member_ownerships ${{ github.event.inputs.status }} ${{ github.event.inputs.firstname }} ${{ github.event.inputs.lastname }} ${{ github.event.inputs.id }} ${{ github.event.inputs.member_number }}
-    - name: Create Pull Request
+        git add .
+        if git diff --cached --exit-code; then
+          echo CHANGES=0 >> $GITHUB_ENV
+        else
+          echo CHANGES=1 >> $GITHUB_ENV
+        fi
+        true
+    - name: commit and push if differences
+      if: ${{ env.CHANGES == 1 }}
+      run: |
+        git config --global user.name ogauk  
+        git config --global user.email boatregister@oga.org.uk
+        git commit . -m "updated owners"
+        git push -u origin ${{ env.branch }}
+    - name: create pull request
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
