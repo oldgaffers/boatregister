@@ -1,23 +1,26 @@
 name: Redwing
 oga_no: 1597
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: <p>&#39;Redwing&#39;, originally named &#39;Cherub III&#39;, was
-  Albert Strange&#39;s own last boat.</p>
+short_description: '''Redwing'', originally named ''Cherub III'', was Albert Strange''s
+  own last boat.'
 year: 1911
 year_is_approximate: false
 designer:
+- id: bb41d838-779a-40e4-8330-00460deb203f
   name: Albert Strange
-  id: bb41d838-779a-40e4-8330-00460deb203f
 builder:
+- id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
   name: A.M. Dickie and Sons
-  id: 3a24d81d-e549-4e52-af61-7f5aa414a6fb
 place_built: Tarbert
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Pitch Pine on Oak
+previous_names:
+- Cherub III
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
@@ -25,34 +28,34 @@ home_port: Loch Feochan
 hull_form: long keel deep forefoot
 uk_part1: '133057'
 ownerships:
-- member: 3427
+- name: James King
+  member: 3427
   id: 270
   start: 2002
   share: 64
   current: true
-id: 33ed0d41-f3a4-4adc-be73-f3d2c0c25d42
+image_key: Xr7R4h
 handicap_data:
   thcf: 0.950768846
   beam: 2.4902
   draft: 1.6002
   fore_triangle_height: 7.367105584003902
   fore_triangle_base: 4.26725188978298
-  length_over_all: 8.686905632772493
+  length_on_deck: 8.6868
+  length_on_waterline: 6.986100950987564
   propellor:
     type: fixed
+  topsail:
+    luff: 5.081077785905877
+    perpendicular: 1.8044379419653742
+  length_over_all: 8.686905632772493
   main:
     foot: 5.029261155815655
     head: 3.8100463301633747
     luff: 5.129846378931967
-  topsail:
-    luff: 5.081077785905877
-    perpendicular: 1.8044379419653742
   mizzen:
     foot: 1.9507437210436478
     luff: 4.367837112899292
-  length_on_waterline: 6.986100950987564
-  length_on_deck: 8.6868
 created_at: '2020-04-25T17:07:24.026447+00:00'
-updated_at: '2022-07-05T12:13:39.903595+00:00'
-previous_names:
-- Cherub III
+id: 33ed0d41-f3a4-4adc-be73-f3d2c0c25d42
+updated_at: '2025-10-10'
