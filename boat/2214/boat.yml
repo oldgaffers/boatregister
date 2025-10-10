@@ -1,13 +1,15 @@
 name: Nadine
 oga_no: 2214
+generic_type: []
 rig_type: Cutter
 mainsail_type: gaff
 short_description: Gunter lug cutter with iron centreplate.
 year: 1956
 year_is_approximate: false
+designer: []
 builder:
-- name: Johnson and Johnson
-  id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+- id: 1e22d07c-e98b-4342-abec-8bdfddd0ebbd
+  name: Johnson and Johnson
 place_built: Leigh on Sea
 construction_material: wood
 construction_details: Clench elm and teak on oak
@@ -15,11 +17,13 @@ selling_status: not_for_sale
 home_country: GBR
 home_port: Oare Creek, Faversham
 ownerships:
-- member: 3502
+- name: Simon Harding
+  member: 3502
   id: 284
   start: 1992
   end: 2013
   share: 64
+image_key: PTGb5W
 handicap_data:
   beam: 1.676
   draft: 1.372
