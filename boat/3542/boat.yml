@@ -37,8 +37,25 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: oak frames, larch planking
-selling_status: not_for_sale
+selling_status: for_sale
 for_sales:
+- created_at: '2025-10-10T11:17:41.437Z'
+  sales_text: |-
+    17-ft classic gaff sloop built 1920 - 30s. Wooden hull, carvel built, larch on
+    oak.   Full restoration 2002-06. Mast and spars renewed then, also sails (James
+    Lawrence). Long keel. Sails cleaned 2022. Running rigging renewed 2023.   Cabin
+    with grab rails. Can sleep 2, no creature comforts. Good inventory for   day
+    sailing: CQR and kedge anchors, warps, fenders. No electrics. Bracket for
+    outboard. Option also to offer for 5 hp 4-stroke Mercury outboard.   Insurance
+    survey 5 April 2022 by AC Yacht &amp; Boat Surveyors: condition   “reasonable”.
+    Hull now needs attention: it has been suggested to strip off all   paint,
+    possibly renew some skin timbers, inspect/renew caulking and stopping.
+    Mainsail luff needs minor repair (cringles etc.).   Trailer OK for yard work,
+    not for highway.   Length on deck 17 ft, with bowsprit 20 ft, beam 6ft 6 in,
+    draught 2 ft 9 in.   View by arrangement on hard at Brough, East Riding
+    (premises belonging to   Humber Yawl Club).
+  flexibility: normal
+  asking_price: 1000
 - asking_price: 6750
   created_at: '2024-05-06T20:11:38.844Z'
   date_sold: '2024-05-06T20:11:38.844Z'
@@ -91,11 +108,13 @@ home_country: GBR
 home_port: Brough, Humberside (East Riding of Yorkshire)
 hull_form: long keel deep forefoot
 ownerships:
-- member: 6604
+- name: Nicholas Hall
+  member: 6604
   id: 35026
   start: 2015
   end: 2024
   share: 64
+  current: true
 image_key: SKXGcb
 handicap_data:
   beam: 1.981
