@@ -2,59 +2,63 @@ name: Waltham Lady
 oga_no: 1303
 rig_type: Ketch
 mainsail_type: gaff
-short_description: <p>Walthan Lady is a Cornish trader built in 1979</p>
+short_description: Walthan Lady is a Cornish trader built in 1979
 year: 1979
 year_is_approximate: false
 designer:
-  name: Roger Dongray
+- name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
-builder:
-  name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 design_class:
   name: Cornish Trader
   id: 34112a28-7463-42b2-9aaf-2106409b1a0a
+builder:
+- name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
 construction_details: GRP
+previous_names:
+- Fritha
 selling_status: not_for_sale
-for_sales: []
-home_port: Fareham
-hull_form: long keel deep forefoot
+home_country: Hong Kong
+home_port: RHKYC Shelter Cove Saikung.
+hull_form: centre-boarder
+reference:
+- 'Waltham Lady is now under new ownership and based in Hong Kong
 sail_number: '3'
 ssr: '11188'
+nhsr: 145842 HK
 ownerships:
 - name: Dave Phillips
   start: 2012
   end: 2015
   share: 64
-id: 609a64a5-63f5-45a3-bd02-15553b30c89b
 handicap_data:
   thcf: 0.940322213
-  beam: 2.8956
-  fore_triangle_height: 7.315288953913679
-  fore_triangle_base: 5.00487685930261
+  beam: 2.896
+  draft: 1.067
+  fore_triangle_height: 7.315
+  fore_triangle_base: 5.005
+  length_on_deck: 9.144
+  length_on_waterline: 7.849
+  length_over_spars: 12.192
   propellor:
     type: fixed
-  main:
-    foot: 3.910631553279688
-    head: 3.5570592538405266
-    luff: 4.648256522799317
   topsail:
-    luff: 4.57205559619605
-    perpendicular: 2.0574250182882223
-  mizzen:
-    foot: 2.843818580833943
-    head: 2.3104120946110704
-    luff: 3.6576444769568397
-  length_on_waterline: 7.848695440136551
-  length_on_deck: 9.144
-  length_over_spars: 12.192148256522799
-  length_over_all: 9.144
+    luff: 4.572
+    perpendicular: 2.057
   draft_keel_down: 1.6
+  length_over_all: 9.144
+  main:
+    foot: 3.911
+    head: 3.557
+    luff: 4.648
+  mizzen:
+    foot: 2.844
+    head: 2.31
+    luff: 3.658
   moving_keel: true
-  draft: 1.0668
   moving_keel_type: Centreboard
 created_at: '2020-04-25T17:02:58.428541+00:00'
-previous_names:
-- Fritha
+id: 609a64a5-63f5-45a3-bd02-15553b30c89b
+updated_at: '2025-10-14'
