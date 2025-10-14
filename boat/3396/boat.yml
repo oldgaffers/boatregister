@@ -6,11 +6,11 @@ rig_type: Cutter
 mainsail_type: gaff
 short_description: Grey Seal is a Kattegat 26, hull number 5, completed in 2018-2019.
 full_description: |-
-  4 x Kattegat 26 hulls were produced by Jim Spencer at Waterside Boatyard
+  4 Kattegat 26 hulls were produced by Jim Spencer at Waterside Boatyard
   Brightlingsea during the 1990's. " Complete boats "Sula" and "Widgeon" and 2
   bare hulls for owner completion. Grey Seal's hull is number 5 and probably the
-  last hull has been fitted out by shipwright Josh Brooks and her first owner
-  Michael Breese 2018/19.
+  last hull has been fitted out by shipwright Josh Brooks and her owner Michael
+  Breese 2018/19.
 year: 2021
 year_is_approximate: false
 designer:
@@ -22,7 +22,8 @@ design_class:
 builder:
 - name: Michael Breese/Josh Brooks
   id: 9d4baccc-bde9-4519-a2b9-054cca7f6f77
-place_built: Halnaker and Thornham Marina
+place_built: Halnaker and Thornham Marine
+construction_material: grp
 spar_material: wood
 construction_details: GRP hull, timber deck and fitout.
 selling_status: not_for_sale
@@ -47,7 +48,6 @@ handicap_data:
   length_on_deck: 8.077
   length_on_waterline: 6.806
   length_over_spars: 10.211
-  sailarea: 4
   topsail:
     luff: 17.5
     perpendicular: 7.5
@@ -57,4 +57,4 @@ handicap_data:
     luff: 14
 created_at: '2020-04-25T17:53:01.59488+00:00'
 id: dc79a8ad-7417-43b4-807a-aa09d2e76ecd
-updated_at: '2025-10-07'
+updated_at: '2025-10-14'
