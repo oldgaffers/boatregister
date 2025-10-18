@@ -1,8 +1,8 @@
 name: Bonita
 oga_no: 26
 generic_type:
- - Yacht
- - Lancashire Nobby
+- Yacht
+- Lancashire Nobby
 rig_type: Yawl
 mainsail_type: gaff
 short_description: |-
@@ -35,10 +35,11 @@ home_country: GBR
 home_port: Harty Ferry
 hull_form: long keel sloping forefoot
 ownerships:
-- name: Allan Beckett
-  start: 1937
+- start: 1937
   end: 1983
   share: 64
+  id: 35348
+  member: 6846
 - member: 1814
   id: 97
   start: 1983
