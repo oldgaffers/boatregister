@@ -3,9 +3,10 @@ oga_no: 2175
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: |+
-  *Saorsa* is a Memory 19, built from new with a cabin
-full_description: |+
+short_description: '*Saorsa* is a Memory 19, built from new with a cabin
+
+  '
+full_description: |
   *Saorsa* is a Memory 19, the first of the modern Memory
   19's to be built with a cabin. Most earlier versions of the Memory with cabins
   have been modified at a later stage.
@@ -15,10 +16,10 @@ full_description: |+
 year: 1995
 year_is_approximate: false
 designer:
-  - name: Anthony Robinson
-    id: aaec4851-401d-4719-bd23-e80eb778816b
-  - name: Greg Dalrymple
-    id: 44caaf02-656f-41f2-bcce-5abea44511ed
+- name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
+- name: Greg Dalrymple
+  id: 44caaf02-656f-41f2-bcce-5abea44511ed
 design_class:
   name: Memory 19
   id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
@@ -52,13 +53,14 @@ home_country: GBR
 home_port: Kirkcudbright Scotland
 hull_form: centre-boarder
 ownerships:
+- start: 2015
+  end: 2018
+  share: 64
+  id: 35036
+  member: 6182
 - name: Ray Evans
   start: 1998
   end: 2015
-  share: 64
-- name: Douglas Cook
-  start: 2015
-  end: 2018
   share: 64
 - member: 6199
   id: 980
