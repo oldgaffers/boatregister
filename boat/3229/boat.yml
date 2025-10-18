@@ -4,8 +4,8 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
 short_description: Penny Blue is a Blackwater Sloop built in 1963.
-full_description: Penny Blue was sold in 2019 with the proceeds going to the Sea
-  Scouts and local charities
+full_description: Penny Blue was sold in 2019 with the proceeds going to the Sea Scouts
+  and local charities
 year: 1963
 year_is_approximate: false
 designer:
@@ -20,10 +20,11 @@ builder:
 - name: Feesey Webb
   id: 57c4e472-875f-4e6b-aae8-4f198579d842
 ownerships:
-- name: John Harrin
-  start: 2012
+- start: 2012
   end: 2019
-  share: 64  
+  share: 64
+  id: 35342
+  member: 6841
 place_built: Maldon
 construction_material: wood
 construction_method: carvel
