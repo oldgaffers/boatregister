@@ -35,7 +35,7 @@ for_sales:
   created_at: '2019-09-19T10:23:56+00:00'
   flexibility: normal
   offered: null
-  sold: '2023-09-30'
+  sold: null
   reduced: false
   sales_text: <p>This&nbsp;Cornish Crabber Pilot cutter 30&nbsp;is a well built, traditionally
     styled family cruiser with plenty of space below deck and enjoyable well-mannered
@@ -51,7 +51,6 @@ for_sales:
     target="_PARENT">please see the brokerage listing here</a>.</p>
   seller_gold_id: null
   seller_member: null
-  sold: null
   summary: null
   updated_at: '2020-05-03T10:13:12.794956+00:00'
 - asking_price: 48500
@@ -59,29 +58,27 @@ for_sales:
   flexibility: normal
   offered: '2022-09-20'
   reduced: false
-  sales_text: "<p>Pilot Cutter P20 \u201CFrances Webber\u201D was originally named\
-    \ \u201CAlice Pellow\u201D after the first owner\u2019s grandmother.</p><p>The\
-    \ gaff rigged cutter has a full suite of sails including topsail on jack staff\
-    \ and a flying jib as well as the standard cutter rig. A modern cruising chute\
-    \ is also available.<p><p> Although looking like a gaff rigged classic the hull\
-    \ is a very solid GRP moulding with flexiteek deck . The wooden mast, spars and\
-    \ steving bowsprit complete the look of a modern classic. Indeed, when fitting\
-    \ out, Alice Pellow featured in \u201CClassic Boat\u201D magazine . A lifting\
-    \ keel reduces draft from about 1.6meters to just over a meter and the vessel\
-    \ is fitted with mounting points for substantial wooden beaching legs (included).</p>\
-    \ <p>Frances Webber benefits from a host of modern upgrades over the last few\
-    \ years including: <ul>  <li>a new Yanmar 3YM30hp engine (2016)</li> <li>new mast\
-    \ and spray hood (2014)</li> <li>new prop shaft and seals (2017)</li> <li>Raymarine\
-    \ autopilot and other instrumentation (2015-2021)</li> <li>new headlining &amp;\
-    \ LED lighting throughout (2021)</li> <li>professional mains electric installation\
-    \ (2019)</li> <li>new gas hob/oven and professional gas pipework installation\
-    \ (2018)</li> <li>new standing rigging (2021)</li> <li>refurbished Jabsco heads\
-    \ (2019)</li> <li>new 150L flexi water tank and pressurised cold water system\
-    \ (2020)</li> <li>Standard Horizon VHF with AIS and deck mounted remote handset.</li>\
-    \ </ul> <p>Frances Webber adopts the roomier layout below of having two very large\
-    \ quarter berths aft with airy heads forward allowing a longer saloon than the\
-    \ alternative forward \u201CA berth\u201D layout.</p> <p>For reluctant sale due\
-    \ to family illness</p>"
+  sales_text: '<p>Pilot Cutter P20 “Frances Webber” was originally named “Alice Pellow”
+    after the first owner’s grandmother.</p><p>The gaff rigged cutter has a full suite
+    of sails including topsail on jack staff and a flying jib as well as the standard
+    cutter rig. A modern cruising chute is also available.<p><p> Although looking
+    like a gaff rigged classic the hull is a very solid GRP moulding with flexiteek
+    deck . The wooden mast, spars and steving bowsprit complete the look of a modern
+    classic. Indeed, when fitting out, Alice Pellow featured in “Classic Boat” magazine
+    . A lifting keel reduces draft from about 1.6meters to just over a meter and the
+    vessel is fitted with mounting points for substantial wooden beaching legs (included).</p>
+    <p>Frances Webber benefits from a host of modern upgrades over the last few years
+    including: <ul>  <li>a new Yanmar 3YM30hp engine (2016)</li> <li>new mast and
+    spray hood (2014)</li> <li>new prop shaft and seals (2017)</li> <li>Raymarine
+    autopilot and other instrumentation (2015-2021)</li> <li>new headlining &amp;
+    LED lighting throughout (2021)</li> <li>professional mains electric installation
+    (2019)</li> <li>new gas hob/oven and professional gas pipework installation (2018)</li>
+    <li>new standing rigging (2021)</li> <li>refurbished Jabsco heads (2019)</li>
+    <li>new 150L flexi water tank and pressurised cold water system (2020)</li> <li>Standard
+    Horizon VHF with AIS and deck mounted remote handset.</li> </ul> <p>Frances Webber
+    adopts the roomier layout below of having two very large quarter berths aft with
+    airy heads forward allowing a longer saloon than the alternative forward “A berth”
+    layout.</p> <p>For reluctant sale due to family illness</p>'
   seller_gold_id: 1029
   seller_member: 6282
   sold: null
@@ -93,6 +90,10 @@ hull_form: long keel deep forefoot
 sail_number: P 20
 ssr: '28782'
 ownerships:
+- start: 2018
+  share: 64
+  current: true
+  name: Leslie May
 - name: A Kimble
   start: 1989
   end: 1995
@@ -105,11 +106,6 @@ ownerships:
   start: 2013
   end: 2018
   share: 64
-- member: 6282
-  id: 1029
-  start: 2018
-  share: 64
-  current: true
 id: 99a0d2f7-3059-4739-ac18-2a8887ddbe83
 image_key: 93SNB4
 thumb: https://photos.smugmug.com/photos/i-TkSsq66/0/Th/i-TkSsq66-Th.jpg
