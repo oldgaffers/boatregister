@@ -32,11 +32,11 @@ for_sales:
   flexibility: normal
   offered: null
   reduced: false
-  sales_text: "<p>Itchen Ferry smack designed and built by Dan Hatcher in 1860. Known\
-    \ as King Dan\u2019s masterpiece, `Wonder\u2019 is a joy to sail and is admired\
-    \ wherever she goes. Completely restored, with full set of racing sails. She was\
-    \ winner of the OGA East Coast Race in 2011 and 2013. Fully equipped including\
-    \ Yanmar diesel engine and Garmin chart plotter.</p>"
+  sales_text: <p>Itchen Ferry smack designed and built by Dan Hatcher in 1860. Known
+    as King Dan’s masterpiece, `Wonder’ is a joy to sail and is admired wherever she
+    goes. Completely restored, with full set of racing sails. She was winner of the
+    OGA East Coast Race in 2011 and 2013. Fully equipped including Yanmar diesel engine
+    and Garmin chart plotter.</p>
   seller_gold_id: null
   seller_member: null
   sold: null
@@ -47,10 +47,11 @@ home_port: Faversham
 hull_form: long keel deep forefoot
 ssr: A23310
 ownerships:
-- name: Edwin Bracken
-  start: 2010
+- start: 2010
   end: 2015
   share: 64
+  id: 126
+  member: 2137
 website: http://www.itchenferry.org/Itchen_Ferry_Society/Wonder.html#1
 id: c674769a-e78b-4c6e-9377-9bd10f2192c8
 image_key: PcPRrC
