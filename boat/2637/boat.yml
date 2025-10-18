@@ -1,6 +1,7 @@
 name: Souvenir
 oga_no: 2637
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
 year: 2000
@@ -18,36 +19,45 @@ place_built: Bursledon
 construction_material: grp
 spar_material: wood
 construction_details: GRP
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
-- created_at: '2025-02-11T16:41:28.981Z'
-  asking_price: 5500
+- asking_price: 5500
+  created_at: '2025-02-11T16:41:28.981Z'
+  date_sold: '2025-10-14T11:48:37.954Z'
+  flexibility: normal
+  reduced: true
+  sale_price: 5500
   sales_text: |-
     Salterns built c2000. Cabin version 2 berth. Cooker, depth sounder, compass,
     autohelm, tiller clutch, anchor, chain, fenders,wired for lights. Main, jib,
     storm jib, cruising chute, topsail. Outboard Tohatsu l/s 6hp petrol c 6hrs
     runtime serviced. View Dell Quay Yacht Yard. Contact 07774 238293 or
     antbaum@aol.com
-  flexibility: normal
-  reduced: true
+  summary: <p>Boat was found and sold from&nbsp; the Gaffers Log boat register</p>
 home_country: GBR
-home_port: Dell Quay
+home_port: Isle of Wight
 hull_form: centre-boarder
 sail_number: '2637'
 ownerships:
-- member: 4396
+- name: Marion Shirley
+  member: 4396
   id: 439
   start: 2009
   end: 2012
   share: 32
-- member: 6115
+- name: Anthony Baumann
+  member: 6115
   id: 934
   start: 2016
+  end: 2025
+  share: 64
+- name: Fiona Johnstone
+  start: 2025
   share: 64
   current: true
 image_key: 8skZWK
 handicap_data:
-  thcf: 0.864852913
+  thcf: 0.865
   beam: 2.134
   draft: 0.558
   fore_triangle_height: 5.867
@@ -60,7 +70,8 @@ handicap_data:
   topsail:
     luff: 3.962
     perpendicular: 1.929
-  draft_keel_down: 1.1430138990490124
+  draft_keel_down: 1.143
+  last_modified: '2025-10-14T11:51:52.521Z'
   length_over_all: 5.791
   main:
     foot: 4.52
@@ -68,4 +79,4 @@ handicap_data:
     luff: 3.709
 created_at: '2020-04-25T17:23:47.024462+00:00'
 id: e02896b9-26fa-4187-b8fd-97d5edfc439e
-updated_at: '2025-07-06'
+updated_at: '2025-10-16'

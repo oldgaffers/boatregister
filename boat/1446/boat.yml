@@ -1,17 +1,19 @@
 name: Provider
 oga_no: 1446
+generic_type: []
 rig_type: Schooner
 mainsail_type: gaff
-short_description: <p>Rebuilt longer and deeper with a clipper bow by F J Harris at
-  Barrow Sailing Club, Ferry Beach.</p>
+short_description: |-
+  Rebuilt longer and deeper with a clipper bow by F J Harris at Barrow Sailing
+  Club, Ferry Beach.
 year: 1896
 year_is_approximate: false
 designer:
+- id: a9c50d55-f3c5-4112-8f58-ed18082f5637
   name: William Stoba
-  id: a9c50d55-f3c5-4112-8f58-ed18082f5637
 builder:
+- id: ad8da949-93e8-4d53-9961-1d698f5c9852
   name: John Gibson and Sons
-  id: ad8da949-93e8-4d53-9961-1d698f5c9852
 place_built: Fleetwood
 construction_material: wood
 construction_method: carvel
@@ -26,14 +28,15 @@ ownerships:
   start: 1987
   share: 64
   current: true
-id: e4ff2905-2c7f-44b8-83ab-55c88e3b072d
+image_key: 6smrTm
 handicap_data:
   beam: 3.9624
   draft: 1.8288
-  length_over_all: 14.630577907827359
+  length_on_deck: 14.6304
+  length_on_waterline: 10.66812972445745
   propellor:
     type: fixed
-  length_on_waterline: 10.66812972445745
-  length_on_deck: 14.6304
+  length_over_all: 14.630577907827359
 created_at: '2020-04-25T18:35:26.530474+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: e4ff2905-2c7f-44b8-83ab-55c88e3b072d
+updated_at: '2025-10-16'

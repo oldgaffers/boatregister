@@ -1,15 +1,18 @@
 name: Test Boat Record Entry
 oga_no: 9001
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Yawl
 mainsail_type: gunter
 short_description: Open **sailing** dinghy.
 full_description: blah, blah, ...
 year: 1985
 year_is_approximate: true
+designer: []
 design_class:
   name: Falmouth Bass Boat
   id: c05a2174-4b46-410f-829f-894193f020c3
+builder: []
 place_built: Falmouth
 construction_material: grp
 spar_material: wood
@@ -18,14 +21,15 @@ selling_status: not_for_sale
 home_country: GBR
 home_port: Bristol
 hull_form: centre-board dinghy
-image_key: ddgWxx
 ownerships:
 - name: John Barleycorn
   start: 1900
+  end: 2025
   share: 64
+image_key: rKHstz
 handicap_data:
   beam: 1.829
   draft: 0.305
   length_on_deck: 4.267
 air_draft: 3.048
-id: 5598c94d-4720-4423-a575-44b0845a308b
+updated_at: '2025-10-16'
