@@ -1,8 +1,8 @@
 name: Bonita
 oga_no: 26
 generic_type:
- - Yacht
- - Lancashire Nobby
+- Yacht
+- Lancashire Nobby
 rig_type: Yawl
 mainsail_type: gaff
 short_description: |-
@@ -25,8 +25,13 @@ full_description: |-
   this passage makes fascinating reading.
 year: 1888
 year_is_approximate: false
+builder:
+- name: Crossfield Bros.
+  id: 1490f054-b323-4ef5-961c-9026f880c340
 place_built: Arnside
 construction_material: wood
+spar_material: wood
+construction_method: carvel
 construction_details: Pitch pine planking on oak sawn frames
 previous_names:
 - White Rose
@@ -34,8 +39,13 @@ selling_status: not_for_sale
 home_country: GBR
 home_port: Harty Ferry
 hull_form: long keel sloping forefoot
+reference:
+- Log 78/1
+- Log 92
+nhsr: '3586'
 ownerships:
-- name: Allan Beckett
+- member: 6846
+  id: 35348
   start: 1937
   end: 1983
   share: 64
@@ -60,14 +70,15 @@ handicap_data:
   topsail:
     luff: 5.151
     perpendicular: 1.554
+  checked: true
   main:
-    luff: 4.342
     foot: 5.691
     head: 4.343
+    luff: 4.342
   mizzen:
-    luff: 3.505
     foot: 2.134
+    luff: 3.505
   mizzen_topsail: {}
-  checked: true
 air_draft: 10
 mmsi: '235098433'
+updated_at: '2025-10-19'
