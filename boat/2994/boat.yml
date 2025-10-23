@@ -1,6 +1,7 @@
 name: Happy Quest
 oga_no: 2994
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: Happy Quest was built by her owner, David Grainger, 1977 - 1995.
@@ -86,21 +87,20 @@ home_port: Wells-next-the-sea
 hull_form: long keel sloping forefoot
 uk_part1: '711951'
 ownerships:
-- start: 2024
-  share: 64
-  current: true
-  id: 35259
-  member: 6779
 - member: 4978
   id: 556
   start: 1977
   end: 2022
   share: 64
-- member: 6634
-  id: 35073
+- name: Trevor Panrucker
   start: 2022
   end: 2024
   share: 64
+- member: 6779
+  id: 35259
+  start: 2024
+  share: 64
+  current: true
 image_key: Tg5dVQ
 handicap_data:
   thcf: 0.912
@@ -122,3 +122,4 @@ handicap_data:
     luff: 6.096
 created_at: '2020-04-25T17:33:45.278564+00:00'
 id: 05b7fc0c-e981-41db-93dd-b59fd0b4c2f8
+updated_at: '2025-10-23'
