@@ -1,6 +1,7 @@
 name: Adagio
 oga_no: 2821
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: '*Adagio* is a beautiful, well built traditional gaff-rigged cutter.'
@@ -23,10 +24,10 @@ previous_names:
 - Môr Awel
 selling_status: not_for_sale
 for_sales:
-- created_at: '2024-06-07T13:01:53.946Z'
-  asking_price: 19950
-  flexibility: normal
+- asking_price: 19950
+  created_at: '2024-06-07T13:01:53.946Z'
   date_sold: '2024-06-07T13:01:53.946Z'
+  flexibility: normal
   sale_price: 19500
   summary: <p>final price not known</p>
 - asking_price: 19950
@@ -59,7 +60,7 @@ for_sales:
 
 
     Hull and superstructure of one-piece mouldings bonded together. Columbian pine
-    wooden spars.  Teak laid decks. Long keel, heavy displacement cruising yacht 2
+    wooden spars. Teak laid decks. Long keel, heavy displacement cruising yacht 2
     pushpit fender baskets Boat hook Whisker pole Mooring lines Bosun’s chair (new)
     Winch handles Irish/EU ensign Cockpit cushions Spray hood and frame, boom tent
     in good condition Camping gaz single burner stove with spare canisters
@@ -102,16 +103,15 @@ reference:
 sail_number: '24'
 ssr: '128539'
 ownerships:
-- start: 2021
-  end: 2024
-  share: 32
-  name: Eileen Jameson
 - name: Jim Izzard
   start: 2006
   end: 2021
   share: 64
-- member: 6512
-  id: 34909
+- name: Eileen Jameson
+  start: 2021
+  end: 2024
+  share: 32
+- name: Roel Wuite
   start: 2021
   end: 2024
   share: 32
@@ -124,3 +124,4 @@ handicap_data:
   length_over_all: 7.239
 created_at: '2020-04-25T17:28:11.153079+00:00'
 id: db75740d-64ee-488b-84aa-7cc0f6a068e9
+updated_at: '2025-10-23'
