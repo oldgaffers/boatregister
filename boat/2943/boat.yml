@@ -5,28 +5,30 @@ generic_type:
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
-  Morwenna is a replica Bristol Channel Pilot Cutter. Ed Burnett bassed her design
-  on the Bristol Channel Pilot Cutter Mischief owned by Bill Tillman. Mischief was
-  lost in 1968 off the coast of Jan Mayen Island 300miles off Greenland.
+  Morwenna *of Bristol* is based on the famous Bristol Channel Pilot Cutter
+  *Mischief*.
 full_description: |-
-  Morwenna of Bristol's design was based on the famous Bristol Channel Pilot
-  Cutter Mischief. Mischief was built at Cardiff in 1906 and worked until 1919,
-  when she was sold and became a yacht. Bill Tillman bought her in 1954 who used
-  her for long distance sailing until her loss in 1968.
+  Morwenna is a replica Bristol Channel Pilot Cutter. Ed Burnett based her design
+  on the Bristol Channel Pilot Cutter Mischief.
+
+
+  *Mischief* was built at Cardiff in 1906 and worked until 1919, when she was sold
+  and became a yacht. Bill Tillman bought her in 1954 and used her for long
+  distance sailing. Mischief was lost in 1968 off the coast of Jan Mayen Island
+  300 miles off Greenland.
 year: 2009
 year_is_approximate: false
 designer:
-- id: ec954b97-b4e7-4203-a28c-7d85278bf748
-  name: Ed Burnett
+- name: Ed Burnett
+  id: ec954b97-b4e7-4203-a28c-7d85278bf748
 builder:
-- id: 19323232-4b26-4530-bdb8-d638f7ff209b
-  name: R.B. Boatbuilding Ltd.
+- name: R.B. Boatbuilding Ltd.
+  id: 19323232-4b26-4530-bdb8-d638f7ff209b
 place_built: Bristol
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-construction_details: Trad Carvel
 selling_status: not_for_sale
-for_sales: []
 home_port: Bristol
 hull_form: long keel deep forefoot
 sail_number: GBR 1946L
@@ -46,23 +48,23 @@ ownerships:
 image_key: btPPjM
 handicap_data:
   thcf: 1.130692522
-  beam: 4.0112
+  beam: 4.011
   draft: 2.289
-  fore_triangle_height: 13.271153377225065
-  fore_triangle_base: 9.44891489880517
-  length_on_deck: 14.0208
-  length_on_waterline: 12.070226773957572
+  fore_triangle_height: 13.271
+  fore_triangle_base: 9.449
+  length_on_deck: 14.021
+  length_on_waterline: 12.07
   propellor:
     blades: 3
     type: fixed
   topsail:
-    luff: 6.659960985125579
-    perpendicular: 3.380273104120946
-  length_over_all: 14.020970495001219
+    luff: 6.66
+    perpendicular: 3.38
+  length_over_all: 14.021
   main:
-    foot: 8.211411850768105
-    head: 5.7912704218483295
-    luff: 8.699097781029016
+    foot: 8.211
+    head: 5.791
+    luff: 8.699
 created_at: '2020-04-25T17:32:57.357275+00:00'
 id: 8bffc1d8-1d33-47af-831e-c1fd222730b0
 updated_at: '2025-10-23'
