@@ -1,12 +1,13 @@
 name: FREYA von den sieben Inseln
 oga_no: 3627
-generic_type: Bristol Channel Pilot Cutter
+generic_type:
+- Bristol Channel Pilot Cutter
 rig_type: Cutter
 mainsail_type: gaff
 year: 2009
 year_is_approximate: false
 designer:
-  name: Paul Gartside
+- name: Paul Gartside
   id: 0557a793-41ba-4182-8138-206701b31451
 place_built: Neuhaus an der Oste
 construction_material: wood
@@ -20,13 +21,11 @@ sail_number: '2'
 callsign: DD4691
 uk_part1: 159887S
 ownerships:
-- member: 6676
-  id: 35135
+- name: Jörg Stachowiak
   start: 2017
   share: 32
   current: true
-- member: 6676
-  id: 35134
+- name: Corinna Richter
   start: 2017
   share: 32
   current: true
@@ -35,6 +34,8 @@ handicap_data:
   beam: 3.35
   draft: 1.728
   length_on_deck: 9.65
-hin: 11/BNEU001/DE-MSNBCPC1H808
+  length_on_waterline: 8.534
 air_draft: 14.999
+hin: 11/BNEU001/DE-MSNBCPC1H808
 mmsi: '211100890'
+updated_at: '2025-10-23'
