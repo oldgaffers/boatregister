@@ -3,8 +3,7 @@ oga_no: 3311
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>&#39;Flying Shrimp&#39; is a Cornish Shrimper, built in 1989.
-  She was named by one of her earlier owners who was a BA pilot.</p>
+short_description: She was named by one of her earlier owners who was a BA pilot.
 year: 1989
 year_is_approximate: false
 design_class:
@@ -23,14 +22,15 @@ home_country: GBR
 hull_form: centre-boarder
 sail_number: '370'
 ownerships:
-- name: Kevin Dillon-White
-  start: 2009
+- start: 2009
   end: 2015
   share: 64
-- start: 2009
-  note: Before 2009 she was owned by Mike Williams.
-  text: Before
-id: 92959154-9532-47e9-a06b-b28b7c4287f4
+  id: 607
+  member: 5210
+- start: 1989
+  end: 2009
+  name: Mike Williams
+  share: 64
 handicap_data:
   beam: 2.1854
   draft: 0.4572

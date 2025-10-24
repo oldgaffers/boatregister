@@ -4,7 +4,7 @@ generic_type: Itchen Ferry
 rig_type: Cutter
 mainsail_type: gaff
 short_description: From a mould of the Itchen Ferry *Nellie*
-full_description: |+
+full_description: |
   Built in 1974, her hull is from a mould of the Itchen Ferry *Nellie*.
   Having fallen into disrepair, she was rescued in 2015 and her
   owner is undertaking a full restoration at the Royal Northumberland Yacht Club yard.
@@ -23,15 +23,15 @@ for_sales: []
 home_country: GBR
 home_port: Blyth, Northumberland
 ownerships:
+- start: 2014
+  share: 64
+  current: true
+  name: James Bell
+  end: 2025
 - name: John Bird
   start: 1980
   end: 2014
   share: 64
-- id: 153
-  member: 2374
-  start: 2014
-  share: 64
-  current: true
 id: 9a52c368-38c8-4fb6-a714-3ed91bce9253
 image_key: rmPgTq
 handicap_data:
