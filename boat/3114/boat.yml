@@ -31,21 +31,16 @@ ownerships:
   share: 32
   id: 557
   member: 4979
+  current: true
+- start: 2013
   id: 754
   member: 5757
   current: true
+  share: 32
 - name: Geoff Frost
   start: 1998
   end: 2013
   share: 64
-- name: Elizabeth Chilvers
-  start: 2013
-  share: 32
-- name: John Chilvers
-  start: 2013
-  share: 32
-  current: true
-id: e292bbe5-0d69-4738-938c-78a29e44611b
 image_key: cHXPJ9
 handicap_data:
   thcf: 0.887
@@ -57,7 +52,6 @@ handicap_data:
   propellor:
     type: folding
     blades: 3
-  sailarea: 33.216060088709845
   main:
     foot: 4.31805657156791
     head: 3.1242440868080954
