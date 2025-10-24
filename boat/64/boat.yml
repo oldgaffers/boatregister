@@ -40,10 +40,9 @@ for_sales:
   flexibility: normal
   offered: null
   reduced: false
-  sales_text: "<p>\"Sea Pig\" is my father\u2019s old Deben Cherub, in a sorry state\
-    \ at Heybridge Basin and free to a good home. There has been an urgent appeal\
-    \ to save her since January 2016. She needs an enthusiastic person to complete\
-    \ the restoration project.</p>"
+  sales_text: <p>"Sea Pig" is my father’s old Deben Cherub, in a sorry state at Heybridge
+    Basin and free to a good home. There has been an urgent appeal to save her since
+    January 2016. She needs an enthusiastic person to complete the restoration project.</p>
   seller_gold_id: null
   seller_member: null
   sold: null
@@ -56,13 +55,14 @@ sail_number: CC4
 ssr: SSR37300
 uk_part1: SSR37300
 ownerships:
+- start: 1984
+  end: 2017
+  share: 64
+  id: 20
+  member: 505
 - name: Titheridge
   start: 1948
   end: 1984
-  share: 64
-- name: Colin Edmond
-  start: 1984
-  end: 2017
   share: 64
 - name: Thomas Morley
   start: 2017

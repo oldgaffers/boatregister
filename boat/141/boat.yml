@@ -1,69 +1,69 @@
 name: Rawanah
 oga_no: 141
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: <p>Inspired by the Tahiti Ketch design, <em>Rawanah</em> was designed
-  by Maurice Griffiths and built by Harry King at Pin Mill.</p>
-full_description: "<p>The Tahiti Ketch was designed by Texan <a href=\"https://en.wikipedia.org/wiki/John_G._Hanna\"\
-  >John Hanna</a> around 1928, but while Maurice Griffiths liked the concept he felt\
-  \ he could do better with it. The result was <em>Rawanah</em>, built by Harry King\
-  \ at Pin Mill, perhaps inspired by <em>Awara</em> also built there in 1932.</p>\n\
-  <p><em>Rawanah</em> &nbsp;was registered in &nbsp;Ipswich to Hubert Arnold Brown,\
-  \ a good friend of Maurice Griffiths, &nbsp;who had commissioned the build, and\
-  \ then the vessel passed to the Jersey Register on 3 November 1950 when she was\
-  \ bought by the Hollick brothers &nbsp;at St Lawrence, Jersey.</p>\n<p>She features\
-  \ in Maurice Griffiths' book &nbsp;'Little Ships &amp; Shoal Waters' recounting\
-  \ a voyage he made, together &nbsp;with Hubert Brown, from Oban to East Tarbert.\
-  \ The book also contains &nbsp;line drawings and sail plan.&nbsp; She was in the\
-  \ ownership of one family for &nbsp;42 years.</p>\n<p>Between 2005&nbsp;and 2015,\
-  \ <em>Rawanah</em> sailed thousands of &nbsp;miles to the Outer and Inner Hebrides,\
-  \ Orkney and Faroe Isles, Scilly &nbsp;Isles, and Ireland three times including\
-  \ a circumnavigation in July 2008. &nbsp;She won the 'Cock o' the Bristol Channel\
-  \ Race' with courses of 80 and 50 &nbsp;miles competing against the Bristol Channel\
-  \ cutter fleet. In all those &nbsp;sea miles <em>Rawanah</em> proved herself to\
-  \ be a sea kindly, robust vessel, &nbsp;gentle on the helm, making good passage\
-  \ time and capable in rough &nbsp;weather.</p>\n<p><em>Rawanah</em> is currently\
-  \ undergoing restoration in Crinan Boatyard and will hopefully be afloat in 2022.</p>"
+short_description: |-
+  Inspired by the Tahiti Ketch design, *Rawanah* was designed by Maurice Griffiths
+  and built by Harry King at Pin Mill.
+full_description: |-
+  The Tahiti Ketch was designed by Texan [John
+  Hanna](https://en.wikipedia.org/wiki/John_G._Hanna) around 1928, but while
+  Maurice Griffiths liked the concept he felt he could do better with it. The
+  result was *Rawanah*, built by Harry King at Pin Mill, perhaps inspired by
+  *Awara* also built there in 1932.
+
+
+  *Rawanah*  was registered in  Ipswich to Hubert Arnold Brown, a good friend of
+  Maurice Griffiths,  who had commissioned the build, and then the vessel passed
+  to the Jersey Register on 3 November 1950 when she was bought by the Hollick
+  brothers  at St Lawrence, Jersey.
+
+
+  She features in Maurice Griffiths' book  'Little Ships & Shoal Waters'
+  recounting a voyage he made, together  with Hubert Brown, from Oban to East
+  Tarbert. The book also contains  line drawings and sail plan.  She was in the
+  ownership of one family for  42 years.
+
+
+  Between 2005 and 2015, *Rawanah* sailed thousands of  miles to the Outer and
+  Inner Hebrides, Orkney and Faroe Isles, Scilly  Isles, and Ireland three times
+  including a circumnavigation in July 2008.  She won the 'Cock o' the Bristol
+  Channel Race' with courses of 80 and 50  miles competing against the Bristol
+  Channel cutter fleet. In all those  sea miles *Rawanah* proved herself to be a
+  sea kindly, robust vessel,  gentle on the helm, making good passage time and
+  capable in rough  weather.
+
+
+  *Rawanah* is currently undergoing restoration in Crinan Boatyard and will
+  hopefully be afloat in 2026.
 year: 1935
 year_is_approximate: false
 designer:
-  name: John G. Hanna
+- name: John G. Hanna
   id: c4721fcb-96c6-463f-a516-3f206a95f6ba
 design_class:
   name: Tahiti Ketch
   id: 095e1bc1-a693-4a1e-86f8-0e97080dc730
 builder:
-  name: Harry King and Sons
+- name: Harry King and Sons
   id: 63963d6b-c36a-4c35-9c0d-d42fb6cf4645
 place_built: Pin Mill
 construction_material: wood
+spar_material: wood
 construction_method: carvel
 construction_details: Carvel
 selling_status: not_for_sale
 for_sales:
-- created_at: '2021-03-06T10:07:49.709973+00:00'
-  flexibility:
-  offered:
-  price_flexibility:
-  reduced:
-  sales_text: ''
-  seller_gold_id:
-  seller_member:
-  sold: '2016-06-01'
-  summary: Sold by John Cochrane to John Pinkerton
-  updated_at: '2021-03-06T10:07:49.709973+00:00'
 - created_at: '2021-03-06T10:07:54.284302+00:00'
-  flexibility:
-  offered:
-  price_flexibility:
-  reduced:
-  sales_text: ''
-  seller_gold_id:
-  seller_member:
   sold: '2019-06-01'
   summary: Sold by  John Pinkerton to Jon Reid
   updated_at: '2021-03-06T10:07:54.284302+00:00'
+- created_at: '2021-03-06T10:07:49.709973+00:00'
+  sold: '2016-06-01'
+  summary: Sold by John Cochrane to John Pinkerton
+  updated_at: '2021-03-06T10:07:49.709973+00:00'
 home_country: GBR
 home_port: Crinan
 hull_form: long keel deep forefoot
@@ -92,35 +92,34 @@ ownerships:
   start: 2016
   end: 2019
   share: 64
-- member: 6254
+- name: Jon Reid
+  member: 6254
   id: 1013
   start: 2019
   share: 64
   current: true
-id: a0055f2c-31ce-4cb7-9978-077c05ef268f
 image_key: v6gTDt
-thumb: https://photos.smugmug.com/photos/i-mgMWPB8/0/Th/i-mgMWPB8-Th.jpg
 handicap_data:
   thcf: 0.999255819
   beam: 3.301
-  draft: 1.4996
-  fore_triangle_height: 9.723238234576932
-  fore_triangle_base: 5.273104120946111
-  length_over_all: 10.698610095098756
+  draft: 1.5
+  fore_triangle_height: 9.723
+  fore_triangle_base: 5.273
+  length_on_deck: 10.921
+  length_on_waterline: 9.525
   propellor:
     type: fixed
-  main:
-    foot: 4.26725188978298
-    head: 3.627164106315533
-    luff: 6.2484759814679345
   topsail:
-    luff: 5.334064862228725
-    perpendicular: 2.43842965130456
+    luff: 5.334
+    perpendicular: 2.438
+  length_over_all: 10.698
+  main:
+    foot: 4.267
+    head: 3.627
+    luff: 6.248
   mizzen:
-    foot: 3.0480370641306997
-    luff: 6.272860277980979
-  length_on_waterline: 9.525115825408436
-  length_on_deck: 10.921
+    foot: 3.048
+    luff: 6.273
 created_at: '2020-04-25T16:44:31.602105+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-spar_material: wood
+id: a0055f2c-31ce-4cb7-9978-077c05ef268f
+updated_at: '2025-10-18'
