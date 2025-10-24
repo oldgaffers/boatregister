@@ -1,66 +1,70 @@
 name: Morwenna of Bristol
 oga_no: 2943
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Morwenna is a replica Bristol Channel Pilot Cutter. Ed Burnett
-  bassed her design on the Bristol Channel Pilot Cutter Mischief owned by Bill Tillman.
-  Mischief was lost in 1968 off the coast of Jan Mayen Island 300miles off Greenland.</p>
-full_description: Morwenna of Bristol's design was based on the famous Bristol Channel
-  Pilot Cutter Mischief. Mischief was built at Cardiff in 1906 and worked until 1919,
-  when she was sold and became a yacht. Bill Tillman bought her in 1954 who used her
-  for long distance sailing until her loss in 1968.
+short_description: |-
+  *Morwenna of Bristol* is based on the famous Bristol Channel Pilot Cutter
+  *Mischief*.
+full_description: |-
+  *Morwenna* is a replica Bristol Channel Pilot Cutter. Ed Burnett based her design
+  on the Bristol Channel Pilot Cutter *Mischief*.
+
+
+  *Mischief* was built at Cardiff in 1906 and worked until 1919, when she was sold
+  and became a yacht. Bill Tillman bought her in 1954 and used her for long
+  distance sailing. *Mischief* was lost in 1968 off the coast of Jan Mayen Island
+  300 miles off Greenland.
 year: 2009
 year_is_approximate: false
 designer:
-  name: Ed Burnett
+- name: Ed Burnett
   id: ec954b97-b4e7-4203-a28c-7d85278bf748
 builder:
-  name: R.B. Boatbuilding Ltd.
+- name: R.B. Boatbuilding Ltd.
   id: 19323232-4b26-4530-bdb8-d638f7ff209b
 place_built: Bristol
 construction_material: wood
+spar_material: wood
 construction_method: carvel
-construction_details: Trad Carvel
 selling_status: not_for_sale
-for_sales: []
 home_port: Bristol
 hull_form: long keel deep forefoot
 sail_number: GBR 1946L
 ownerships:
 - name: Stuart Jenkins
   start: 2009
-  share: 64
   end: 2022
-- member: 6596
-  id: 35015
+  share: 64
+- name: Anouchka Peacock
   start: 2022
   share: 64
   current: true
-- member: 6596
-  id: 35016
+- name: Joel Peacock
   start: 2022
   share: 64
-  current: true 
-id: 8bffc1d8-1d33-47af-831e-c1fd222730b0
+  current: true
+image_key: btPPjM
 handicap_data:
   thcf: 1.130692522
-  beam: 4.0112
+  beam: 4.011
   draft: 2.289
-  fore_triangle_height: 13.271153377225065
-  fore_triangle_base: 9.44891489880517
-  length_over_all: 14.020970495001219
+  fore_triangle_height: 13.271
+  fore_triangle_base: 9.449
+  length_on_deck: 14.021
+  length_on_waterline: 12.07
   propellor:
-    type: fixed
     blades: 3
-  main:
-    foot: 8.211411850768105
-    head: 5.7912704218483295
-    luff: 8.699097781029016
+    type: fixed
   topsail:
-    luff: 6.659960985125579
-    perpendicular: 3.380273104120946
-  length_on_waterline: 12.070226773957572
-  length_on_deck: 14.0208
+    luff: 6.66
+    perpendicular: 3.38
+  length_over_all: 14.021
+  main:
+    foot: 8.211
+    head: 5.791
+    luff: 8.699
 created_at: '2020-04-25T17:32:57.357275+00:00'
-updated_at: '2022-10-21T21:56:38.56747+00:00'
+id: 8bffc1d8-1d33-47af-831e-c1fd222730b0
+updated_at: '2025-10-23'
