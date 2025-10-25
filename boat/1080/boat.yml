@@ -5,25 +5,27 @@ mainsail_type: gaff
 year: 1917
 year_is_approximate: false
 designer:
-  name: Pearce
+- name: Pearce
   id: 47842cbc-2080-4f9e-8c82-1abbb0fda7f4
 builder:
-  name: Pearce
-  id: c42a9f34-ed3d-4b18-a79e-2ef78e49687a
+- name: R. Pearce
+  id: f1340885-9432-4bde-ad18-1b7553df83dc
 place_built: Looe
 construction_material: wood
+spar_material: wood
+construction_method: carvel
 selling_status: not_for_sale
-for_sales: []
 ownerships:
 - name: D R Comer
   start: 2012
   share: 64
-id: 4a26b823-329a-4987-ae81-08d3487b01ad
+image_key: xMNJ2g
 handicap_data:
-  beam: 3.2004
-  draft: 1.0668
-  length_over_all: 10.66812972445745
-  length_on_waterline: 9.23555230431602
+  beam: 3.2
+  draft: 1.067
   length_on_deck: 10.668
+  length_on_waterline: 9.235
+  length_over_all: 10.668
 created_at: '2020-04-25T16:59:33.5573+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 4a26b823-329a-4987-ae81-08d3487b01ad
+updated_at: '2025-10-25'
