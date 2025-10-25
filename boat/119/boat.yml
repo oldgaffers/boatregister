@@ -1,38 +1,55 @@
 name: Camilla
 oga_no: 119
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>&#39;Camilla&#39; was built in 1894 by Alexander Robertson at
-  his yard in Sandbank, Argyll.</p>
+short_description: |-
+  *Camilla* was built in 1894 by Alexander Robertson at his yard in Sandbank,
+  Argyll.
+full_description: |-
+  From the 1973 Clyde Race book:
+
+
+  Owned by Duncan MoKERREL of Gourock. Built in 1894, by A. ROBERTSON of Sandbank
+  to the design of G.L. WATSON of Glasgow. Originally a Gaff Cutter ahe appears in
+  Lloyds to have become a Sloop rigged in 1909 with sails by MCKENZIE. L.O.A.
+  22.4' with a 22.0' waterline and a beam of 7.3'. She was built with a lead keel
+  and draws 4.6'. Constructed of yellow pine and oak. The decks have now been
+  covered by Trakmark. She was privately owned by Mг. GILCHRIST of Fairlie ard
+  again before that by Alistair GARVIE who is believed to be sailing out of
+  Tobermory with a charter boat.
 year: 1894
 year_is_approximate: false
 designer:
-  name: G.L. Watson
+- name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
 builder:
-  name: Alexander Robertson
+- name: Alexander Robertson
   id: 3b01f5ca-5b2a-41ec-8977-423e3235b02a
 place_built: Sandbank
 construction_material: wood
 spar_material: wood
+construction_method: carvel
 construction_details: Pine planking  Grown Oak frames
 selling_status: not_for_sale
 home_country: GBR
-id: 8d73dab6-8006-40ba-bb3e-eff2821ebb34
+hull_form: long keel deep forefoot
+reference: []
 image_key: mGZDxf
 handicap_data:
   thcf: 0.912236262
-  beam: 2.1336
-  draft: 1.8288
-  fore_triangle_height: 8.787490855888807
-  fore_triangle_base: 3.2004389173372347
-  length_over_all: 6.705681541087539
+  beam: 2.134
+  draft: 1.829
+  fore_triangle_height: 8.787
+  fore_triangle_base: 3.2
+  length_on_deck: 6.706
+  length_on_waterline: 6.096
+  length_over_all: 6.706
   main:
-    foot: 5.129846378931967
-    head: 3.2004389173372347
-    luff: 4.291636186296025
-  length_on_waterline: 6.0960741282613995
-  length_on_deck: 6.7056
+    foot: 5.13
+    head: 3.2
+    luff: 4.292
 created_at: '2020-04-25T16:44:12.760037+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 8d73dab6-8006-40ba-bb3e-eff2821ebb34
+updated_at: '2025-10-25'
