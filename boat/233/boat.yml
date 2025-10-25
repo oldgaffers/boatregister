@@ -1,40 +1,44 @@
 name: Melmore
 oga_no: 233
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: Melmore, built in 1928, won the 1975 Commemorative Fastnet Race,
-  completed a circumnavigation of Britain and Ireland in 1978 and the Two Star in
-  1981.
-full_description: Following a 22-year restoration programme, Melmore attended the
-  Brest Festival in 2004.
+short_description: '*Melmore*, won the 1975 Commemorative Fastnet Race.'
+full_description: |-
+  *Melmore*, built in 1928, won the 1975 Commemorative Fastnet Race, completed a
+  circumnavigation of Britain and Ireland in 1978 and the Two Star in 1981.
+
+
+  Following a 22-year restoration programme, *Melmore* attended the Brest Festival
+  in 2004.
 year: 1928
 year_is_approximate: false
 designer:
-  name: Alfred Mylne
+- name: Alfred Mylne
   id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
 builder:
-  name: J. McGruer
-  id: c3a0c99e-83b4-410d-b6a6-bcda60282f51
+- name: McGruer
+  id: c1493bc6-547f-41fa-9568-c4067ba0baeb
 place_built: Clynder
 construction_material: wood
+spar_material: wood
+construction_method: carvel
+previous_names:
+- Sea Witch Verve of Rhu
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 ownerships:
 - name: Frank and Joanna Esson
   start: 1975
   share: 64
-id: 25babf43-9689-434d-bfb1-f7c02200bfb1
 image_key: sgTJpz
-thumb: https://photos.smugmug.com/photos/i-PvKGLjW/0/Th/i-PvKGLjW-Th.jpg
 handicap_data:
-  beam: 3.2309
-  draft: 2.1641
-  length_over_all: 14.020970495001219
-  length_on_waterline: 10.546208241892222
-  length_on_deck: 14.0208
+  beam: 3.231
+  draft: 2.164
+  length_on_deck: 14.021
+  length_on_waterline: 10.546
+  length_over_all: 14.021
 created_at: '2020-04-25T16:45:51.205057+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Sea Witch Verve of Rhu
+id: 25babf43-9689-434d-bfb1-f7c02200bfb1
+updated_at: '2025-10-25'
