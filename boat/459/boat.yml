@@ -1,30 +1,37 @@
 name: Patsy
 oga_no: 459
-generic_type: Polperro Gaffer
+generic_type:
+- Polperro Gaffer
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Pronounced beyond economic repair around 1990, but a replica
-  hull was built and &quot;Patsy&quot; is still sailing today.</p>
-full_description: "The original hull was probably built around 1912 by Pearce of Looe\
-  \ and believed to be one of the six of her class operating out of Polperro.  She\
-  \ was converted for pleasure use in Rye in 1946.  In 1956 she was bought by John\
-  \ Jefferson and kept in Chichester Harbour.  She was much cruised by the family\
-  \ between Biscay and the Baltic and Ireland including French and Dutch inland waterways.\r\
-  \n\r\nAround 1990 she was surveyed and declared beyond repair since the frames were\
-  \ seriously rotted.  The owner had a replica hull built by Hullmaster of Wootton,\
-  \ IOW.  The \u2018new\u2019 Patsy was launched in 1991, fitted with the original\
-  \ rigging and sails and returned to her berth in Birdham Pool.  In 2000 she was\
-  \ moved to Carentan on the Cherbourg Peninsula where she was based until her return\
-  \ to Chichester in 2018."
+short_description: |-
+  Pronounced beyond economic repair around 1990, but a replica hull was built and
+  "Patsy" is still sailing today.
+full_description: |-
+  The original hull was probably built around 1912 by Pearce of Looe and believed
+  to be one of the six of her class operating out of Polperro. She was converted
+  for pleasure use in Rye in 1946. In 1956 she was bought by John Jefferson and
+  kept in Chichester Harbour. She was much cruised by the family between Biscay
+  and the Baltic and Ireland including French and Dutch inland waterways.
+
+
+  Around 1990 she was surveyed and declared beyond repair since the frames were
+  seriously rotted. The owner had a replica hull built by Hullmaster of Wootton,
+  IOW. The ‘new’ Patsy was launched in 1991, fitted with the original rigging and
+  sails and returned to her berth in Birdham Pool. In 2000 she was moved to
+  Carentan on the Cherbourg Peninsula where she was based until her return to
+  Chichester in 2018.
 year: 1912
 year_is_approximate: false
 builder:
-  name: Pearce
-  id: c42a9f34-ed3d-4b18-a79e-2ef78e49687a
+- name: R. Pearce
+  id: f1340885-9432-4bde-ad18-1b7553df83dc
 place_built: Probably Looe
 construction_material: wood
+spar_material: wood
+construction_method: carvel
 selling_status: not_for_sale
-for_sales: []
+home_country: GBR
 home_port: Chichester
 hull_form: long keel deep forefoot
 ssr: '05762'
@@ -34,26 +41,25 @@ ownerships:
   start: 1970
   share: 64
   current: true
-id: eec06940-93ca-480e-aa4e-7eb0d4a9d150
 image_key: m3kc3Q
-thumb: https://photos.smugmug.com/photos/i-s8zTnjF/0/Th/i-s8zTnjF-Th.jpg
 handicap_data:
   thcf: 0.947181293
-  beam: 2.3104
-  draft: 1.2192
-  fore_triangle_height: 7.595708363813704
-  fore_triangle_base: 5.18166300902219
-  length_over_all: 7.620092660326749
+  beam: 2.31
+  draft: 1.219
+  fore_triangle_height: 7.596
+  fore_triangle_base: 5.182
+  length_on_deck: 7.62
+  length_on_waterline: 7.187
   propellor:
     type: fixed
-  main:
-    foot: 4.901243599122164
-    head: 3.453425993660083
-    luff: 5.105462082418922
   topsail:
-    luff: 4.291636186296025
-    perpendicular: 1.929407461594733
-  length_on_waterline: 7.187271397220189
-  length_on_deck: 7.62
+    luff: 4.292
+    perpendicular: 1.929
+  length_over_all: 7.62
+  main:
+    foot: 4.901
+    head: 3.453
+    luff: 5.105
 created_at: '2020-04-25T16:49:17.139617+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: eec06940-93ca-480e-aa4e-7eb0d4a9d150
+updated_at: '2025-10-26'
