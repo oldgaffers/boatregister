@@ -1,0 +1,52 @@
+name: create error pr
+on:
+  workflow_dispatch:
+    inputs:
+      oga_no:
+        description: Boat OGA No
+        required: true
+jobs:
+  boat_job:
+    runs-on: ubuntu-latest
+    name: A job to create a PR for a boat with bad YAML
+    steps:
+    - uses: actions/checkout@v4 
+    - name: set branch name
+      run: echo branch=error${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
+    - name: chose branch to checkout
+      run:  echo checkout=main >> $GITHUB_ENV
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        ref: ${{ env.checkout }}
+    - name: create branch if not existing
+      run: |
+        if [ "${{ env.checkout }}" = "main" ]
+        then
+          echo new branch
+          git branch ${{ env.branch }}
+          git push -u origin ${{ env.branch }}
+          git checkout ${{ env.branch }}
+        else
+          echo checked out pr branch
+        fi
+    - name: stage and commit
+      run: |
+        touch DELETE_ME
+        git add .
+    - name: commit and push if differences
+      run: |
+        git config --global user.name ogauk  
+        git config --global user.email boatregister@oga.org.uk
+        git commit . -m "proposed change by ${{ github.event.inputs.email }}"
+        git push origin ${{ env.branch }}
+    - name: Create Pull Request
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        gh pr create \
+          --assignee AlisonCable \
+          --base main \
+          --head ${{ env.branch }} \
+          --title boat (${{ github.event.inputs.oga_no }}) has bad YAML \
+          --body "please fix"
