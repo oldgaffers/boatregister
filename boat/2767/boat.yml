@@ -1,73 +1,38 @@
-name: Sea Jay
+name: Millie B
 oga_no: 2767
-generic_type: Pocket Cruiser
-rig_type: Yawl
-mainsail_type: lug
-short_description: An Australian designed pocket cruiser
+generic_type:
+- Yacht
+rig_type: Cutter
+mainsail_type: gaff
+short_description: Cornish Crabber 22 build 2022
 full_description: |-
-  *Sea Jay* is a Scruffie Marine Stornaway 18, designed by Derek Ellard, Australia and built
-  by Oz Marine in 2003.
-
-  Built from a kit in 2003, she is of epoxy ply construction.&nbsp; She is an 18'
-  boomless lug rigged yawl, ideal as a weekender with two cabin and two cockpit
-  berths.
-year: 2003
-year_is_approximate: false
+  Millie B  is a professionally completed example of the Cornish Crabber  22 class
+  built by Cornish Crabbers in Cornwall in 2002.
+year: 2022
 designer:
-  name: Derek Ellard
-  id: dc826c22-e1ed-44df-948e-d227bc9ba767
+- name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
-  name: Stornoway 18
-  id: ed93a660-fa7b-48ed-a1c2-ef363905ac7a
+  name: Cornish Crabber 22
+  id: f0555610-6fc8-4dce-a587-d90c2a7cbc72
 builder:
-  name: Oz Marine
-  id: 01166aa0-18fc-4a34-b3c8-076edd605c02
-place_built: Wales
-construction_material: woodepoxy
-construction_method: other
-selling_status: not_for_sale
-for_sales:
-- created_at: '2019-06-19T18:18:00+00:00'
-  flexibility: normal
-  offered: null
-  reduced: true
-  sales_text: |-
-    *Sea Jay* Scruffie Marine Stornaway 18. Epoxy ply construction,
-    built 2003, in current ownership since 2005. 18' lug rigged yawl, weekender, two
-    cabin and two cockpit berths. Cockpit tent included in sale.&nbsp;Now fitted for
-    single handed cruising. 4 HP 4-stroke Suzuki. Recently refurbished break-back
-    braked trailer with new axle suspension assembly.
-
-    Excellent condition, dry sailed and garaged throughout most of its life,
-    a well maintained boat, currently stored ashore in Dorset.
-
-    Seen at Beale Park Wooden Boat Show for a few years,
-    and much applauded in the wooden boat press (Practical Boat Owner).
-  seller_gold_id: null
-  seller_member: null
-  sold: '2020-06-16'
-  summary: Sold to Roger Backhaus
-  updated_at: '2020-05-03T10:13:13.657823+00:00'
-home_country: GBR
-home_port: Weymouth
-hull_form: long keel deep forefoot
-ownerships:
-- start: 2005
-  end:,2020
-  share: 64
-  id: 507
-  member: 4762
-- start: 2020
-  share: 64
-  name: Roger Backhaus
-  current: true
-id: 4b75e452-a6b4-4803-b635-8e9699be81e8
-image_key: 84FmRd
-handicap_data:
-  beam: 1.9812
-  length_over_all: 5.4864667154352595
-  length_over_spars: 6.4008778346744695
-  length_on_deck: 5.4864
-created_at: '2020-04-25T17:26:52.836097+00:00'
+- name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+place_built: Rock, Cornwall
+construction_material: grp
+spar_material: wood
 previous_names:
-- Isabella
+- []
+home_country: UK
+home_port: Poole
+sail_number: '30'
+callsign: 2HXR4
+handicap_data:
+  beam: 2.53
+  draft: 0.732
+  length_on_deck: 6.706
+  length_on_waterline: 6.34
+hin: GBBIH22030I101
+air_draft: 6.706
+mmsi: '235107481'
+updated_at: '2025-10-27'
