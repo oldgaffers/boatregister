@@ -13,13 +13,17 @@ def upgrade(boat):
     boat['designer'] = [boat['designer']]
   return boat
 
-def jsonFromYaml(b):
+def jsonFromYaml(b, fail=None):
   boat = None
   try:
     with open(f"boat/{b}/boat.yml", "r", encoding='utf-8') as stream:
       boat = yaml.safe_load(stream)
   except:
-    print(f'boat with OGA number {b} has invalid YAML.')
+    msg = f'boat with OGA number {b} has invalid YAML.'
+    if fail is None:
+      print(msg)
+    else:
+      raise Exception(msg)
   if boat is not None:
     boat = upgrade(boat)
     boat = process_html(boat)
@@ -41,10 +45,19 @@ def jsonFromYaml(b):
     with open(f'{outdir}/page-data.json', 'w') as outfile:
       json.dump(data, outfile, sort_keys=True, default=json_serialise)
 
+def do_all(fail=None):
+  boats = listdir('boat')
+  for b in boats:
+    jsonFromYaml(b, fail)
+
 if __name__ == '__main__':
-  if len(sys.argv) == 2:
-    jsonFromYaml(sys.argv[1])
+  if len(sys.argv) == 3:
+    jsonFromYaml(sys.argv[1], sys.argv[2])
+  elif len(sys.argv) == 2:
+    n = sys.argv[1]
+    if n == 'fail':
+      do_all('fail')
+    else:
+      jsonFromYaml(n)
   else:
-    boats = listdir('boat')
-    for b in boats:
-      jsonFromYaml(b)
+    do_all()
