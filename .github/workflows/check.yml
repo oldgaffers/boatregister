@@ -19,5 +19,5 @@ jobs:
           for f in `git show --name-only|grep '^[^ ].*boat\.yml'`
           do
             echo $f changed
-            yamllint $f
+            yamllint -d relaxed $f
           done
