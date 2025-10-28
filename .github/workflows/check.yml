@@ -17,4 +17,4 @@ jobs:
       - run: python -m poetry install --no-root
       - name: create json boat files
         run: |
-          python -m poetry run python make_boat_json_from_yaml
+          python -m poetry run python make_boat_json_from_yaml fail
