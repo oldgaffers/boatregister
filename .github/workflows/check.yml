@@ -17,7 +17,7 @@ jobs:
       - name: check
         run: |-
           git show --name-only
-          for f in `git show --name-only|fgrep boat.yml`
+          for f in `git show --name-only|grep '^[^ ].*boat\.yml'`
           do
             echo $f
             yamllint $f
