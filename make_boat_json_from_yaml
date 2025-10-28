@@ -45,12 +45,19 @@ def jsonFromYaml(b, fail=None):
     with open(f'{outdir}/page-data.json', 'w') as outfile:
       json.dump(data, outfile, sort_keys=True, default=json_serialise)
 
+def do_all(fail=None):
+  boats = listdir('boat')
+  for b in boats:
+    jsonFromYaml(b, fail)
+
 if __name__ == '__main__':
   if len(sys.arv) == 3:
     jsonFromYaml(sys.argv[1], sys.argv[2])
   elif len(sys.argv) == 2:
-    jsonFromYaml(sys.argv[1])
+    n = sys.argv[1]
+    if n == 'fail':
+      do_all('fail')
+    else:
+      jsonFromYaml(n)
   else:
-    boats = listdir('boat')
-    for b in boats:
-      jsonFromYaml(b)
+    do_all()
