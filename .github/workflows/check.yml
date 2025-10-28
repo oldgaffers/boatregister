@@ -18,5 +18,6 @@ jobs:
         run: |-
           for f in `git show --name-only|fgrep boat.yml`
           do
+            echo $f
             yamllint $f
           done
