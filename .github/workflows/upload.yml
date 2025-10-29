@@ -15,3 +15,11 @@ jobs:
     steps:
       - name: checkout source code
         uses: actions/checkout@v1
+      - name: cred
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: eu-west-1
+          role-to-assume: arn:aws:iam::651845762820:role/github-OIDC-Role-JdfwPtWdASUt
+      - name: deploy
+        run: |
+          aws lambda update-function-code --function-name boatregister-api --zip-file fileb://lambda.zip
