@@ -1,4 +1,4 @@
-sourcece: upload boat json
+aws: upload boat json
 permissions:
   id-token: write
   contents: read
@@ -29,8 +29,10 @@ jobs:
       - name: deploy
         run: |
           for f in `git show --name-only|grep '^[^ ].*boat\.yml'`
+          do
             echo $f
             b=python -C "import sys\nprint(sys.argv[1].split('/')[1])" $f
             echo $b
             python -m poetry run python make_boat_json_from_yaml $b
-          aws s3 cp page-data/boat/$b/page-data.json s3://boatregister-public/pending/$b.json
+            aws s3 cp page-data/boat/$b/page-data.json s3://boatregister-public/pending/$b.json
+          done
