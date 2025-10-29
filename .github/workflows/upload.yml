@@ -1,0 +1,17 @@
+name: upload boat json
+permissions:
+  id-token: write
+  contents: read
+on:
+  # Trigger the workflow on push or pull request,
+  # but only for the main branch
+  push:
+    branches-ignore:
+      - main
+jobs:
+  deploy_source:
+    name: deploy lambda from source
+    runs-on: ubuntu-24.04-arm
+    steps:
+      - name: checkout source code
+        uses: actions/checkout@v1
