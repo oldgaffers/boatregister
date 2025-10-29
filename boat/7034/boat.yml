@@ -1,16 +1,17 @@
 name: Maris
 oga_no: 7034
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: bermudan
 year: 1929
 year_is_approximate: false
 designer:
+- id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
   name: Maurice Griffiths
-  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 builder:
+- id: ef72fbc2-c153-4229-aa98-3b6d1af50ab8
   name: Cole and Wiggins
-  id: ef72fbc2-c153-4229-aa98-3b6d1af50ab8
 place_built: Leigh on Sea
 construction_material: wood
 selling_status: not_for_sale
@@ -23,8 +24,8 @@ ownerships:
   start: 2012
   end: 2016
   share: 64
-id: 85511e45-8587-4110-9f82-5ea1a120da98
+image_key: N4CHpG
+handicap_data: {}
 created_at: '2020-04-25T17:42:46.019854+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-handicap_data:
-  length_on_deck: 0
+id: 85511e45-8587-4110-9f82-5ea1a120da98
+updated_at: '2025-10-29'
