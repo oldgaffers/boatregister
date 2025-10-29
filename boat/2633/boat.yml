@@ -1,42 +1,51 @@
 name: Falcon
 oga_no: 2633
-generic_type: []
-rig_type: Sloop
-mainsail_type: lug
+generic_type:
+- Dinghy
+rig_type: Single Sail
+mainsail_type: gunter
+short_description: Falcon has a single sail high aspect gunter rig
 full_description: '*Falcon* was put into the safe hands of a boat builder in Dorset
   in 2022.'
 year: 1948
 year_is_approximate: false
 designer:
-- id: cd8a07cc-d960-4ed9-8553-1153b7fca2d1
-  name: Herbert Reiach
+- name: Herbert Reiach
+  id: cd8a07cc-d960-4ed9-8553-1153b7fca2d1
 builder:
-- id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
-  name: Anderson Rigden and Perkins
+- name: Anderson Rigden and Perkins
+  id: 328ab631-592d-46dd-a5a7-23b3c011c1b3
 place_built: Whitstable
 construction_material: wood
+spar_material: wood
 construction_method: clinker
 construction_details: Clinker
 selling_status: not_for_sale
-for_sales: []
+home_country: uk
+home_port: Dorset
 hull_form: dinghy
 ownerships:
-- member: 3976
+- name: Gordon Bourne
+  member: 3976
   id: 358
-  start: 2012
+  start: 1963
   end: '2022'
   share: 64
 image_key: LQjZP9
 handicap_data:
-  thcf: 0.725897116
+  thcf: 0.726
   beam: 1.396
+  draft: 1.372
   length_on_deck: 3.048
-  length_on_waterline: 2.996220434040478
-  length_over_all: 3.0480370641306997
+  length_on_waterline: 2.996
+  propellor:
+    type: none
+  length_over_all: 3.048
   main:
-    foot: 3.5570592538405266
-    head: 3.8344306266764203
-    luff: 1.0911972689587905
+    foot: 3.557
+    head: 3.834
+    luff: 1.091
+  last_modified: '2025-10-29T09:38:28.704Z'
 created_at: '2020-04-25T17:23:43.54072+00:00'
 id: fee05c1d-28e4-49db-86bb-a1122899a98d
 updated_at: '2025-10-29'
