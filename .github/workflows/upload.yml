@@ -1,4 +1,4 @@
-name: upload boat json
+sourcece: upload boat json
 permissions:
   id-token: write
   contents: read
@@ -10,7 +10,7 @@ on:
       - main
 jobs:
   deploy_source:
-    name: deploy lambda from source
+    name: upload json file
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
