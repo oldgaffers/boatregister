@@ -1,4 +1,4 @@
--Cononload boat json
+deployimportrtrtrt boat json
 permissions:
   id-token: write
   contents: read
@@ -30,7 +30,7 @@ jobs:
         run: |
           for f in `git show --name-only|grep '^[^ ].*boat\.yml'`
             echo $f
-            b=python -c deployimport sys\nprint(sys.argv[1].split('/')[1])" $f
+            b=python -c "import sys\nprint(sys.argv[1].split('/')[1])" $f
             echo $b
             python -m poetry run python make_boat_json_from_yaml $b
           aws s3 cp page-data/boat/$b/page-data.json s3://boatregister-public/pending/$b.json
