@@ -1,30 +1,49 @@
 name: Maris
 oga_no: 7034
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: bermudan
+short_description: The first Bermudian yacht built  by Cole and Wiggins
+full_description: |-
+  The first Bermudian yacht built  by Cole and Wiggins, whose yard in Leigh-on-Sea later became
+  Johnson and Jago.
+
+  Pre WWII she sailed out of Littlehampton, but from 1952 she was based in North
+  Kent before migrating north over the Thames in the 1969s. During the 1970s she
+  was sunk on her mooring in Pagglesham due to a collision, but was refloated and
+  repaired before being sold to a new owner who kept her at Glasson Dock. Her
+  history after 2016 is not known.
 year: 1929
 year_is_approximate: false
 designer:
-  name: Maurice Griffiths
+- name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 builder:
-  name: Cole and Wiggins
+- name: Cole and Wiggins
   id: ef72fbc2-c153-4229-aa98-3b6d1af50ab8
 place_built: Leigh on Sea
 construction_material: wood
+spar_material: wood
 selling_status: not_for_sale
-for_sales: []
 home_port: Port Penrhyn
 ownerships:
 - note: List of owners held in OGA archive
   text: List of owners held in OGA archive
-- name: Gordon Bourne and Lil Jackson
-  start: 2012
+- name: Gordon Bourne and F.M Hughes
+  start: 1981
+  end: 2001
+  share: 32
+- name: Gordon Bourne
+  start: 2001
   end: 2016
   share: 64
-id: 85511e45-8587-4110-9f82-5ea1a120da98
-created_at: '2020-04-25T17:42:46.019854+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+image_key: N4CHpG
 handicap_data:
-  length_on_deck: 0
+  beam: 2.591
+  draft: 1.372
+  length_on_deck: 7.62
+  length_on_waterline: 7.315
+created_at: '2020-04-25T17:42:46.019854+00:00'
+id: 85511e45-8587-4110-9f82-5ea1a120da98
+updated_at: '2025-10-29'
