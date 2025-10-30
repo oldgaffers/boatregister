@@ -18,3 +18,4 @@ jobs:
     steps:
     - run: |
         echo PR #${{ github.event.number }} has been closed without being merged
+        echo  #${{ github.event }} 
