@@ -1,23 +1,61 @@
 name: Vivid
 oga_no: 3084
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Vivid is a replica of boat designed by GL Watson in 1886. She
-  was built in 2008.</p>
+short_description: Vivid is a replica of boat designed by GL Watson in 1886. She was
+  built in 2008.
+full_description: |-
+  ⛵ VIVID — A G.L. Watson Masterpiece
+
+
+  Where heritage meets craftsmanship.
+
+
+
+  ✨ Designed: G.L. Watson (1886 design)
+
+
+  🏗️ Built: 2008 by Ocean Yacht Services, Poole, UK
+
+
+  ⚓ Rig: Gaff-rigged cutter
+
+
+  📏 Length: 8.84 m | Beam: 1.93 m | Draft: 1.30 m
+
+
+  ⚙️ Engine: 13.5 HP Beta Diesel
+
+
+  🪵 Construction: Strip-planked hull with GRP sheathing, teak decks, ash & iroko
+  interior
+
+
+  🛏️ Accommodation: Four classic berths
+
+
+
+  A timeless union of 19th-century grace and modern craftsmanship — VIVID embodies
+  the elegance of a bygone era with the reliability of today.
+
+
+
+  #ClassicYacht #GLWatson #YachtDesign #GaffRig #TimelessElegance
+  #YachtingHeritage #WoodenBoat #SailingBeauty
 year: 2008
 year_is_approximate: false
 designer:
-  name: G.L. Watson
+- name: G.L. Watson
   id: 3199db8d-e122-4423-b3b8-038e30c077dd
 builder:
-  name: Ocean Yacht Services
+- name: Ocean Yacht Services
   id: 7a9e38f5-4219-4567-bbf9-8b86a696c37a
 place_built: Poole
 construction_material: grp
 construction_details: GRP
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
@@ -25,25 +63,26 @@ ownerships:
 - name: Brian ODonoghue
   start: 2008
   share: 64
-id: efceacc3-1095-4c5b-85d9-b64d80a3e4b4
 handicap_data:
-  thcf: 0.987248029
-  beam: 1.9568
-  draft: 1.2954
-  fore_triangle_height: 6.349061204584247
-  fore_triangle_base: 6.0960741282613995
-  length_over_all: 8.83930748597903
+  thcf: 0.986
+  beam: 1.957
+  draft: 1.295
+  fore_triangle_height: 6.349
+  fore_triangle_base: 6.096
+  length_on_deck: 8.839
+  length_on_waterline: 6.096
   propellor:
-    type: fixed
     blades: 3
-  main:
-    foot: 5.6388685686417945
-    head: 4.114850036576445
-    luff: 4.26725188978298
+    type: fixed
   topsail:
-    luff: 5.029261155815655
-    perpendicular: 2.194586686174104
-  length_on_waterline: 6.0960741282613995
-  length_on_deck: 8.8392
+    luff: 5.029
+    perpendicular: 2.195
+  length_over_all: 8.839
+  main:
+    foot: 5.639
+    head: 4.115
+    luff: 4.267
+  last_modified: '2025-10-30T07:42:30.949Z'
 created_at: '2020-04-25T17:35:44.851515+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: efceacc3-1095-4c5b-85d9-b64d80a3e4b4
+updated_at: '2025-10-30'
