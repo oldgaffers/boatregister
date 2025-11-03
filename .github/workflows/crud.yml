@@ -36,7 +36,9 @@ jobs:
       run: echo branch=up${{ github.event.inputs.oga_no }} >> $GITHUB_ENV
     - name: set other branch name
       if: "${{ github.event.inputs.oga_no == '' }}"
-      run: echo branch=gen${{ github.event.inputs.id }} >> $GITHUB_ENV
+      run: |
+        echo branch=gen${{ github.event.inputs.id }} >> $GITHUB_ENV
+        echo title=change identified with id ${{ github.event.inputs.id }} by ${{ github.event.inputs.email }} >> $GITHUB_ENV
     - name: chose branch to checkout
       run: |
         if [[ $(git ls-remote --exit-code --heads origin ${{ env.branch }}) ]]
@@ -50,6 +52,7 @@ jobs:
         fetch-depth: 0
         ref: ${{ env.checkout }}
     - name: new boat test
+      if: "${{ github.event.inputs.oga_no != '' }}"
       run: |
         if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
         then
