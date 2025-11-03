@@ -53,9 +53,9 @@ jobs:
       run: |
         if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
         then
-            echo "change=proposed updates to" >> $GITHUB_ENV
+            echo title=proposed updates to boat (${{ github.event.inputs.oga_no }}) by ${{ github.event.inputs.email }} >> $GITHUB_ENV
         else
-            echo "change=create request for" >> $GITHUB_ENV
+            echo title=create request for boat (${{ github.event.inputs.oga_no }}) by ${{ github.event.inputs.email }} >> $GITHUB_ENV
         fi
     - name: create branch if not existing
       run: |
@@ -123,5 +123,5 @@ jobs:
           --assignee AlisonCable \
           --base main \
           --head ${{ env.branch }} \
-          --title "${{ env.change }} boat (${{ github.event.inputs.oga_no }}) by ${{ github.event.inputs.email }}" \
+          --title "${{ env.title }}" \
           --body "additional changes can be accumulated before merging"
