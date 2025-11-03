@@ -56,9 +56,9 @@ jobs:
       run: |
         if [ -f boat/${{ github.event.inputs.oga_no }}/boat.yml ]
         then
-            echo title=proposed updates to boat (${{ github.event.inputs.oga_no }}) by ${{ github.event.inputs.email }} >> $GITHUB_ENV
+            echo "title=proposed updates to boat (${{ github.event.inputs.oga_no }}) by ${{ github.event.inputs.email }}" >> $GITHUB_ENV
         else
-            echo title=create request for boat (${{ github.event.inputs.oga_no }}) by ${{ github.event.inputs.email }} >> $GITHUB_ENV
+            echo "title=create request for boat (${{ github.event.inputs.oga_no }}) by ${{ github.event.inputs.email }}" >> $GITHUB_ENV
         fi
     - name: create branch if not existing
       run: |
