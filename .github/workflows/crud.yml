@@ -83,7 +83,7 @@ jobs:
     - name: non boat update
       if: "${{ github.event.inputs.oga_no == '' }}"
       run: |
-        echo TODO non boat update
+        echo ${{ github.event.inputs.data }} | python -m poetry run python merge_field.py
     - name: changed fields not present - use data field
       if: "${{ github.event.inputs.changed_fields == '' }} && ${{ github.event.inputs.oga_no != '' }}"
       run: |
