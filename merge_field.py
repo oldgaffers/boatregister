@@ -43,7 +43,8 @@ def merge_field(field, keep, merge):
   merge_boats(field, merge, new)
   print(f'remove {merge} from {field} picklist')
   pl2 = [p for p in pl if p['name'] not in merge]
-  # save pl2 as yaml
+  with open(f'{picklists}/{field}.yaml', 'w') as outfile:
+    dump(p12, outfile)
 
 if __name__ == '__main__':
   with open("pickers.json", "r") as stream:
