@@ -21,8 +21,10 @@ design_class:
   name: Morbic 12
   id: 6aec3558-8f5a-47c2-8dd1-e7c63333aa55
 builder:
-  name: Adrian Donovan
+- name: Adrian Donovan
   id: 7b3ce111-52de-480e-89f9-c71ea9c9db23
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Sweffling
 construction_material: plywood
 construction_method: clinker_ply
@@ -32,7 +34,7 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2019-01-28T07:18:14+00:00'
   flexibility: normal
-  offered:
+  offered: null
   reduced: false
   sales_text: <p>A lovely and much admired Morbic 12, built by Adrian Donovan to a
     François Vivier design. "Cadfael"&nbsp;is rigged with a single lug sail by James
@@ -40,10 +42,10 @@ for_sales:
     was featured in WaterCraft No 104, as well as both Adrian and Francois’ own sites.</p><p>She
     is only for sale because the blasted arthritis means I need a lighter boat.</p><p>Lying
     near Framlingham, Suffolk. &nbsp;</p>
-  seller_gold_id:
-  seller_member:
-  sold:
-  summary:
+  seller_gold_id: null
+  seller_member: null
+  sold: null
+  summary: null
   updated_at: '2020-05-03T10:13:13.188153+00:00'
 home_country: GBR
 home_port: Framlingham

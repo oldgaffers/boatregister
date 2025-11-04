@@ -3,13 +3,14 @@ oga_no: 7063
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: |+
-  *Zircon* is a 4-tonner, based on a Harrison Butler Zyclon design.
-full_description: |+
+short_description: '*Zircon* is a 4-tonner, based on a Harrison Butler Zyclon design.
+
+  '
+full_description: |
   Originally priced at £297 when built in 1938, with a Watermota
   6 hp engine and prop on the port quarter, *Zircon* is derived from Harrison
   Butler's Zyclon design, adapted for class production.
-  
+
   About 50 were built, of which about 25 remained in 2013.
 year: 1938
 year_is_approximate: false
@@ -20,9 +21,11 @@ design_class:
   name: Z4 Tonner
   id: 78e69081-f976-42ea-ba90-9c2f0e9c116c
 builder:
-  name: Alfred Lockhart (Marine) Ltd
+- name: Alfred Lockhart (Marine) Ltd
   id: e69b544c-8cef-45b2-b714-a223cabfe05b
-place_built: Brentford 
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
+place_built: Brentford
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel Siberian Larch on Oak galvanised steel floors tabernackle

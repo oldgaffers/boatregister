@@ -2,7 +2,7 @@ name: Creaky Crawly
 oga_no: 3031
 rig_type: Yawl
 mainsail_type: gaff
-short_description: "'Creaky Crawly' is a Drascombe Drifter 22."
+short_description: '''Creaky Crawly'' is a Drascombe Drifter 22.'
 year: 2008
 year_is_approximate: false
 design_class:
@@ -17,7 +17,7 @@ id: 4f1bbe3e-0272-4534-a747-7b52c14d6ddd
 handicap_data:
   thcf: 0.8549151
   beam: 2.2098
-  draft: 0.4054
+  draft: 0.3962
   fore_triangle_height: 2.9718
   fore_triangle_base: 4.7488
   length_over_all: 6.7056
@@ -32,7 +32,6 @@ handicap_data:
   length_on_deck: 6.7056
   sailarea: 3
   moving_keel: true
-  draft: 0.3962
   length_overall: 6.7056
   calculated_thcf: 0.86
   moving_keel_type: Centreboard
@@ -43,5 +42,7 @@ designer:
   name: Selway Fisher
   id: 22f8fdca-0b10-455f-841c-8ea3b9863e54
 builder:
-  name: Churchouse
+- name: Churchouse
   id: cf73e700-eb81-47d7-b6da-5985b0c6da95
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1

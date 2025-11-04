@@ -3,8 +3,9 @@ oga_no: 3274
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: |+
-  *Kitty* is a 12ft Privateer
+short_description: '*Kitty* is a 12ft Privateer
+
+  '
 full_description: |+
   *Kitty* lives in Liverpool and West Kirby in NW England, Merseyside.
 
@@ -17,8 +18,10 @@ design_class:
   name: Privateer
   id: ec05d481-2e96-4127-a999-785f7c0cbce8
 builder:
-  name: Long Island Boats
+- name: Long Island Boats
   id: 390e07ea-2164-4958-9171-fd647da56935
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Wareham Dorset
 construction_material: plywood
 construction_details: Marine ply (1/4 inch graded to BS 1087) epoxy resin, multi chine

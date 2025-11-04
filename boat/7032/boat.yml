@@ -4,8 +4,8 @@ generic_type: Yacht
 rig_type: Ketch
 mainsail_type: bermudan
 short_description: Laurent Giles Peter Duck design.
-full_description: |-
-  *Casuella* sailed to Brest festivals but little is known of her history
+full_description: '*Casuella* sailed to Brest festivals but little is known of her
+  history'
 year: 1963
 year_is_approximate: false
 designer:
@@ -15,8 +15,10 @@ design_class:
   name: Peter Duck
   id: 63bb01a3-7495-48a5-9ca8-e90c5d93bc09
 builder:
-  name: Porter and Haylett Ltd.
+- name: Porter and Haylett Ltd.
   id: 0ffa40df-3a5b-4d00-9a34-c13020877e4f
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Wroxham
 construction_material: wood
 construction_details: Iroko planking on oak

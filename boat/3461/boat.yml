@@ -3,30 +3,29 @@ oga_no: 3461
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: "Aeolus is one of several (7?) 30 Square Metres built after Reimers\
-  \ death in 1986, by Jansson and Zarins in Koping, Sweden, to the lines of his last\
-  \ 30Sq.m design Natt och Dag (1972). She is of composite construction \u2013 the\
-  \ hull is foam sandwich in epoxy and glass - the deck is cold moulded with a teak\
-  \ coachroof and cockpit."
-full_description: "The \u201CSquare Metre\u201D rule was widely adopted in Baltic/Scandinavian\
-  \ countries from 1908 and promoted at the various international meetings trying\
-  \ to agree on yacht design rules, by Johann Anker amongst others.  Knud Reimers\
-  \ was an apprentice of Henry Rasmussen and started designing yachts in his own practice\
-  \ from 1930  and designed his first 30 Sq.m in 1934. One of which (Water Witch)\
-  \ was built in Cowes by Uffa Fox. He was well known for his Metre and Square Metre\
-  \ rule boats, but his most famous design was the Tumlare.  Over the years Reimers\
-  \ developed his 30 Sq.m design culminating in his last one in 1972 - SWE 222 \u201C\
-  Natt och Dag\u201D. Aeolus is one of several (7?) built after Reimers death in 1986,\
-  \ by Jansson and Zarins in Koping, Sweden, to the lines of Natt och Dag. She is\
-  \ of composite construction \u2013 the hull is foam sandwich in epoxy and glass\
-  \ - the deck is cold moulded with a teak coachroof and cockpit.  Aeolus represents\
-  \ a significant stage in yacht design history and a pedigree in a class renowned\
-  \ for elegance and speed. In 2008 at the 100 year Jubilee regatta for Square meter\
-  \ yachts in Sweden, in the 30 Sq.m class (of 39 entries) Aeolus came 12th , SWE222\
-  \ came 4th and SWE225 (one of the 7 sisterships of Aeolus) came 3rd overall.  It\
-  \ has been necessary to do significant repair work at Elephant boatyard which has\
-  \ rescued her from inevitable decline and she is now ready to provide elegant racing\
-  \ into the future."
+short_description: Aeolus is one of several (7?) 30 Square Metres built after Reimers
+  death in 1986, by Jansson and Zarins in Koping, Sweden, to the lines of his last
+  30Sq.m design Natt och Dag (1972). She is of composite construction – the hull is
+  foam sandwich in epoxy and glass - the deck is cold moulded with a teak coachroof
+  and cockpit.
+full_description: The “Square Metre” rule was widely adopted in Baltic/Scandinavian
+  countries from 1908 and promoted at the various international meetings trying to
+  agree on yacht design rules, by Johann Anker amongst others.  Knud Reimers was an
+  apprentice of Henry Rasmussen and started designing yachts in his own practice from
+  1930  and designed his first 30 Sq.m in 1934. One of which (Water Witch) was built
+  in Cowes by Uffa Fox. He was well known for his Metre and Square Metre rule boats,
+  but his most famous design was the Tumlare.  Over the years Reimers developed his
+  30 Sq.m design culminating in his last one in 1972 - SWE 222 “Natt och Dag”. Aeolus
+  is one of several (7?) built after Reimers death in 1986, by Jansson and Zarins
+  in Koping, Sweden, to the lines of Natt och Dag. She is of composite construction
+  – the hull is foam sandwich in epoxy and glass - the deck is cold moulded with a
+  teak coachroof and cockpit.  Aeolus represents a significant stage in yacht design
+  history and a pedigree in a class renowned for elegance and speed. In 2008 at the
+  100 year Jubilee regatta for Square meter yachts in Sweden, in the 30 Sq.m class
+  (of 39 entries) Aeolus came 12th , SWE222 came 4th and SWE225 (one of the 7 sisterships
+  of Aeolus) came 3rd overall.  It has been necessary to do significant repair work
+  at Elephant boatyard which has rescued her from inevitable decline and she is now
+  ready to provide elegant racing into the future.
 year: 1989
 year_is_approximate: false
 designer:
@@ -36,8 +35,10 @@ design_class:
   name: 30 Sq. m
   id: 1e3162f0-3ebb-4e8c-b464-e0131f623938
 builder:
-  name: Jansson and Zarins
+- name: Jansson and Zarins
   id: 268c29ad-dcc1-4dbe-afb3-314592384dec
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Koping, Sweden
 spar_material: aluminium
 selling_status: not_for_sale

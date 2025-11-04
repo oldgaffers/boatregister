@@ -3,8 +3,8 @@ oga_no: 3108
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: bermudan
-short_description: "'Vindilis' was Harrison Butler\u2019s own boat built in 1935 to\
-  \ replace his Plymouth Hooker type gaffer named 'Sandook'."
+short_description: '''Vindilis'' was Harrison Butler’s own boat built in 1935 to replace
+  his Plymouth Hooker type gaffer named ''Sandook''.'
 full_description: "<p>Harrison Butler was a well-known amateur designer at the time&nbsp;who&nbsp;championed\
   \ the metacentric theory. He aimed for balance and boats that sailed themselves.\
   \ When it came to his own boat, he selected the Davinka design and confusingly named\
@@ -33,8 +33,10 @@ design_class:
   name: Davinka
   id: 7f20669b-e48b-4d02-8ab8-8848cf51cf57
 builder:
-  name: Moody
+- name: Moody
   id: ee606f1a-2d39-4945-86a8-a3ca228616f2
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Swanwick
 construction_material: wood
 construction_details: Pitch pine planking on oak frames - oak keel and stem teak deck

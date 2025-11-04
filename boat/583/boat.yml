@@ -3,9 +3,9 @@ oga_no: 583
 generic_type: Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: "Iseult was built as a 36 ft. cutter for Norman Deakin, who sailed\
-  \ her around Britain in 1910, Seaview to Seaview via Shetland, winning the Royal\
-  \ Cruising Club\u2019s Challenge Cup."
+short_description: Iseult was built as a 36 ft. cutter for Norman Deakin, who sailed
+  her around Britain in 1910, Seaview to Seaview via Shetland, winning the Royal Cruising
+  Club’s Challenge Cup.
 full_description: <p>Iseult is a classic example of the &#39;no-expense-spared&#39;
   cruising yacht &#39;out-and-out, go-anywhere&#39;. The counter and mizzen were added
   in 1927 converting her into a 42 ft. yawl. She entered the 1975 Fastnet Race but
@@ -17,8 +17,10 @@ designer:
   name: Sidney Burnett
   id: 13e7408b-bd86-4d84-9857-95a63c2e5870
 builder:
-  name: Ashton and Kilner
+- name: Ashton and Kilner
   id: 91265725-4733-411d-bec3-a691a05c4739
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Poole
 construction_material: wood
 construction_method: carvel

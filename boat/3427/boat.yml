@@ -3,16 +3,18 @@ oga_no: 3427
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: bermudan
-short_description: Designed by Francis Jones, *Hazelisle* is a classic
-  &#39;one-off&#39; built to 100 A1 at Lloyds in 1952
+short_description: Designed by Francis Jones, *Hazelisle* is a classic &#39;one-off&#39;
+  built to 100 A1 at Lloyds in 1952
 year: 1952
 year_is_approximate: false
 designer:
   name: Francis J. Jones
   id: 5c37a1dd-0603-4267-ad6a-2436b3e52ba1
 builder:
-  name: George C. Cardnell
+- name: George C. Cardnell
   id: b096b864-0561-4697-bc7c-6e9e4e16c666
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Maylandsea
 construction_material: wood
 construction_details: 'Hull: mahoghany and iroko on oak'
@@ -22,11 +24,10 @@ for_sales:
   flexibility: normal
   offered: null
   reduced: true
-  sales_text: "<p>One-off classic yacht. 35\u2019 LOD, 10\u2019 beam, 5.6\u2019 draft.\
-    \ Designed, Francis Jones, built 1952, mahogany and iroko on oak. In hands of\
-    \ current owner since 1975. Age (of owner) now forces sale. Well maintained, afloat\
-    \ and in commission lying River Wyre, NW England.</p><p>Full details and inventory\
-    \ available on request.</p>"
+  sales_text: <p>One-off classic yacht. 35’ LOD, 10’ beam, 5.6’ draft. Designed, Francis
+    Jones, built 1952, mahogany and iroko on oak. In hands of current owner since
+    1975. Age (of owner) now forces sale. Well maintained, afloat and in commission
+    lying River Wyre, NW England.</p><p>Full details and inventory available on request.</p>
   seller_gold_id: null
   seller_member: null
   sold: null

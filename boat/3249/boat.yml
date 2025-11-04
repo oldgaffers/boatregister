@@ -3,8 +3,7 @@ oga_no: 3249
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: |-
-  *Constance* is a Winkle Brig built in 1990.
+short_description: '*Constance* is a Winkle Brig built in 1990.'
 full_description: |-
   *Constance* had a major refit in 2012. This included fibreglass
   repairs to the cockpit. Accommodation was stripped out and anti mould treatment
@@ -21,8 +20,10 @@ design_class:
   name: Winkle Brig
   id: 4989b986-84a5-42ea-81c9-72a59714c258
 builder:
-  name: Fiddler's Ferry Boatyard
+- name: Fiddler's Ferry Boatyard
   id: d38d3959-b44f-4514-bd3a-16cf1ebe806c
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 construction_material: grp
 construction_details: GRP
 selling_status: not_for_sale

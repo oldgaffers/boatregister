@@ -4,14 +4,15 @@ rig_type: Cutter
 mainsail_type: gaff
 year: 1903
 year_is_approximate: false
-short_description: |-
-  *Seagull* is Mylne design # 75
+short_description: '*Seagull* is Mylne design # 75'
 designer:
   name: Alfred Mylne
   id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
 builder:
-  name: A. Malcolm
+- name: A. Malcolm
   id: cbf3ddd1-9074-49b2-a3da-9bc47f64d760
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Port Bannatyne
 construction_material: wood
 construction_method: carvel

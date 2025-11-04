@@ -13,8 +13,10 @@ design_class:
   name: Drascombe Lugger
   id: e382b7b9-1e83-4b73-8815-3ba721e32001
 builder:
-  name: R. Phillips
+- name: R. Phillips
   id: 39831964-be34-43b7-ab38-aaf142eda165
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Leigh on Sea
 construction_material: wood
 selling_status: not_for_sale
@@ -26,7 +28,7 @@ ownerships:
 id: 56d19286-c4cb-4a43-a5b5-b8dd63143312
 handicap_data:
   beam: 1.905
-  draft: 0.253
+  draft: 0.3048
   length_over_all: 5.715069495245062
   length_on_waterline: 4.57205559619605
   length_on_deck: 5.715
@@ -41,7 +43,6 @@ handicap_data:
     luff: 2.590831504511095
   draft_keeldown: 1.21921482565228
   moving_keel: true
-  draft: 0.3048
   length_overall: 5.715
   moving_keel_type: Centreboard
   length_over_spars: 5.715

@@ -3,9 +3,11 @@ oga_no: 682
 generic_type: Itchen Ferry
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  *Rowspar* is an Itchen Ferry yacht built in 1926 by Berthon Boat Co.
-full_description: |+
+short_description: '*Rowspar* is an Itchen Ferry yacht built in 1926 by Berthon Boat
+  Co.
+
+  '
+full_description: |
   *Rowspar* was built by Berthon Boat Co. in Lymington in 1925/6.
   She was kept at Lymington until the 1950s. Originally called *White Kitten*, after
   a few years her name was changed to *Sparrow* and then as her registry had lapsed,
@@ -19,12 +21,12 @@ full_description: |+
   She has a beautiful interior with the cabin all lined out in teak. Unusually
   for a boat of her size, she has good headroom of around 5'8'' in the
   main cabin and a Taylors cooker with an oven.
-  
+
   The cabin has two settee berths, a table, a sink, chart table with VHF & GPS,
   and plenty of locker space. There is less headroom in the foc'sle which contains
   the heads, sail storage space, hanging cupboard, more lockers and a third bunk.
   She is very comfortable for cruising for 2 people or even 3.
-  
+
   She is rigged as a gaff cutter with optional
   topsail, and has a number of spare foresails. The cockpit is also beautifully
   fitted out in teak and is well-protected by coamings all round, and there is
@@ -43,8 +45,10 @@ designer:
   name: L.A. Jacobs
   id: 1371a2f2-2d48-41f8-a3de-03cf0ed4441c
 builder:
-  name: Berthon Boat Co. Ltd.
+- name: Berthon Boat Co. Ltd.
   id: 5a7f07fc-efa0-44ab-96d1-9cccf357aa2d
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Lymington
 construction_material: wood
 spar_material: wood
@@ -55,7 +59,7 @@ for_sales:
 - asking_price: 19500
   created_at: '2020-10-14T21:50:00+00:00'
   flexibility: normal
-  sales_text: |+
+  sales_text: |
     LOA 34 feet, LOD 25 feet, beam 9 ft. 2 in. Draft 4 ft. 4 in. Displaces
     5.5 tons approx. Engine Vetus 16 HP (2009). Darglow feathering prop. Radio,
     GPS etc. Hull pitch pine on oak frames, copper fastened. Lead keel, bronze
@@ -115,7 +119,7 @@ handicap_data:
   length_over_all: 7.62
   main:
     foot: 4.851481346
-    head: 3.83546086320
+    head: 3.8354608632
     luff: 4.749871982443306
 created_at: '2020-04-25T16:52:42.008164+00:00'
 id: 569a5fd3-084f-40e1-a530-e49bd4b0c998

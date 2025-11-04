@@ -4,7 +4,7 @@ generic_type: Lifeboat
 rig_type: Other
 mainsail_type: none
 short_description: Ex lifeboat
-full_description: |+
+full_description: |
   Motor lifeboat *Hilda* was built at the Niestern shipyard in Delfzijl
   in 1922 and named after the wife of the North and South Dutch Rescue Company
   (NZHRM) secretary H. de Booy. During her active service as a lifeboat she sailed
@@ -22,10 +22,10 @@ full_description: |+
   the mast and plates in the hull, installing motor inside cooling, and a second
   plotter and VHF. In 2021 *Hilda* sailed to Oslo-Norway. *Hilda* is registered
   with the Nautical Association Olde Resque Glory.
-  
+
   Length Originally 14.20 m, width 3.90 m, draft 0.90 cm, Now 15.50/4.25/1.10-1.20 m
   Displacement 23 tonnes, 15 watertight compartments. Now 27 tonnes and 3 watertight compartments.
-  
+
   First engine a 3 cylinder Bronze crude oil engine of 48 hp, replaced by a Kromhout
   53 hp. Now a 6 cylinder Mitsubishi 130 hp. Max speed 8 knots.
 year: 1922
@@ -39,10 +39,10 @@ home_port: Andijk
 hull_form: centre-boarder
 mmsi: '244060415'
 ownerships:
-  - name: Ron Bos
-    current: true
-    share: 64
-    start: 2018
+- name: Ron Bos
+  current: true
+  share: 64
+  start: 2018
 image_key: H6qrVN
 handicap_data:
   fore_triangle_height: 8.839
@@ -52,8 +52,10 @@ handicap_data:
   displacement: 27.0
 air_draft: 10
 builder:
-  name: Niestern Delfszijl
+- name: Niestern Delfszijl
   id: bd75e73b-8214-4520-a52a-90e5ccb7581a
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 designer:
   name: M. Toxopeus
-  id: c86b0b04-b1b7-4249-8e77-fea45a1bdff9  
+  id: c86b0b04-b1b7-4249-8e77-fea45a1bdff9

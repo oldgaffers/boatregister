@@ -4,22 +4,10 @@ generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Built for the 1932 Olympics</p>
-full_description: '<p><em>Asti V</em> is an International 6 metre designed by Morgan
-  Giles for the Spanish royal family to race in the 1932 Olympics. Built in 1930 in
-  Bilboa at the yard of Hermano Sagredo by men transported over specially from Morgan
-  Giles in England. She is constructed of Mahogany &nbsp;on steamed oak frames. She
-  was smuggled out of Spain as deck cargo to Maldon during the Spanish Civil War,
-  and renamed <em>Saxon</em> in 1934. Originally sporting 3 open cockpits for crew,
-  over the years the rig was altered and a large cabin built for family cruising by
-  various owners. Under the name of <em>Saxon</em> she sailed at Burnham and with
-  the Maldon Little Ship club.</p>
-
-  <p><em>Saxon</em> was acquired in 1984 by Hartley and Brookes Boat Designs of Heybridge
-  Basin, Maldon. They restored her original name, gutted the hull and removed the
-  rig. A new rig and deck layout was designed by Colin Brookes with the work being
-  carried out by Peter Brookes through the winter of 1984-5.</p>
-
-  <p>She was sold out of the OGA in 2003.</p>'
+full_description: |-
+  <p><em>Asti V</em> is an International 6 metre designed by Morgan Giles for the Spanish royal family to race in the 1932 Olympics. Built in 1930 in Bilboa at the yard of Hermano Sagredo by men transported over specially from Morgan Giles in England. She is constructed of Mahogany &nbsp;on steamed oak frames. She was smuggled out of Spain as deck cargo to Maldon during the Spanish Civil War, and renamed <em>Saxon</em> in 1934. Originally sporting 3 open cockpits for crew, over the years the rig was altered and a large cabin built for family cruising by various owners. Under the name of <em>Saxon</em> she sailed at Burnham and with the Maldon Little Ship club.</p>
+  <p><em>Saxon</em> was acquired in 1984 by Hartley and Brookes Boat Designs of Heybridge Basin, Maldon. They restored her original name, gutted the hull and removed the rig. A new rig and deck layout was designed by Colin Brookes with the work being carried out by Peter Brookes through the winter of 1984-5.</p>
+  <p>She was sold out of the OGA in 2003.</p>
 year: 1930
 year_is_approximate: false
 designer:
@@ -29,8 +17,10 @@ design_class:
   name: 6 Metre
   id: 70d8ab47-0b98-4c96-a4b9-1fd715c0d3fb
 builder:
-  name: Hermano Sagredo/Mor Gils
+- name: Hermano Sagredo/Mor Gils
   id: 5ea9c203-7c9d-426e-8a63-e1e73304491b
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Bilbao
 construction_material: wood
 spar_material: wood

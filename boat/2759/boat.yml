@@ -3,16 +3,20 @@ oga_no: 2759
 generic_type: Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: "A lovely gaff-rigged dayboat, 'Thetis' is a 16ft 6in Salterns\
-  \ Tela, built 2004\nin GRP with\_hardwood trim.\n\n"
+short_description: |+
+  A lovely gaff-rigged dayboat, 'Thetis' is a 16ft 6in Salterns Tela, built 2004
+  in GRP with hardwood trim.
+
 year: 2004
 year_is_approximate: false
 design_class:
   name: Tela
   id: a9b70e41-d96c-4e9b-b6d3-e58cae9e1504
 builder:
-  name: Salterns Boatyard Ltd.
+- name: Salterns Boatyard Ltd.
   id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Bursledon
 construction_material: grp
 spar_material: wood
@@ -21,21 +25,21 @@ for_sales:
 - flexibility: normal
   created_at: '2022-10-17T20:23:22.568811+00:00'
   updated_at: '2022-12-11T13:32:09.011Z'
-  sales_text: "\u201CThetis\u201D is a Saltern\u2019s Tela 16\u2019 6\u201D dayboat\
-    \ that was built in 2004. Telas were\nbuilt from a mould that    was taken from\
-    \ a Barry Island \u201Cseeker\u201D (i.e., a small\npilot boat). \u201CThetis\u201D\
-    \ has a pale blue grp hull with    cream decks, oiled\nhardwood fit out with bronze\
-    \ thole pins and rowlocks, and varnished spars, all\nof    which are in good condition.\
-    \ The gaff main and furling jib were new in\n2019 and have been lightly    used.\
-    \ Topsail and yard. The standing and running\nrigging are in good condition. Pair\
-    \ of leathered    wooden oars. Bilge pump.\nTiller extension. Padded rudder bag.\
-    \ There are two covers: one over the    boom\nfor \u201Cin-use\u201D and a \u201C\
-    flat\u201D one for towing and storage ashore. Robust Hayling road\ntrailer (new\
-    \    wheel bearings 2022) with spare wheel.    Telas are known to be\nvery well-balanced\
-    \ sailing boats and \u201CThetis\u201D is a delight to sail having won\nher class\
-    \ at several OGA events.    Priced to sell at \xA36,500, with an\nePropulsion\
-    \ \u201CSpirit\u201D electric outboard motor available separately for    \xA3\
-    1,000.\n\n"
+  sales_text: |+
+    “Thetis” is a Saltern’s Tela 16’ 6” dayboat that was built in 2004. Telas were
+    built from a mould that    was taken from a Barry Island “seeker” (i.e., a small
+    pilot boat). “Thetis” has a pale blue grp hull with    cream decks, oiled
+    hardwood fit out with bronze thole pins and rowlocks, and varnished spars, all
+    of    which are in good condition. The gaff main and furling jib were new in
+    2019 and have been lightly    used. Topsail and yard. The standing and running
+    rigging are in good condition. Pair of leathered    wooden oars. Bilge pump.
+    Tiller extension. Padded rudder bag. There are two covers: one over the    boom
+    for “in-use” and a “flat” one for towing and storage ashore. Robust Hayling road
+    trailer (new    wheel bearings 2022) with spare wheel.    Telas are known to be
+    very well-balanced sailing boats and “Thetis” is a delight to sail having won
+    her class at several OGA events.    Priced to sell at £6,500, with an
+    ePropulsion “Spirit” electric outboard motor available separately for    £1,000.
+
   seller_gold_id: 677
   seller_member: 5558
   asking_price: 6000

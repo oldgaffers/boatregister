@@ -3,9 +3,9 @@ oga_no: 1260
 generic_type: Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: <p>Golden Nomad is a Cornish Trader, built and fitted
-  out in 1981 by Cornish Crabbers, Rock, Cornwall. She is a gaff rigged ketch. 30ft.
-  on deck, the largest boat built by Cornish Crabbers.</p>
+short_description: <p>Golden Nomad is a Cornish Trader, built and fitted out in 1981
+  by Cornish Crabbers, Rock, Cornwall. She is a gaff rigged ketch. 30ft. on deck,
+  the largest boat built by Cornish Crabbers.</p>
 full_description: "<p>Golden Nomad is a very sea kindly stable boat and can be sailed\
   \ comfortably in cooler weather. She has a peat burning stove fitted and a small\
   \ oil filled electric radiator for use when hooked up to shore power. Hot water\
@@ -22,8 +22,10 @@ design_class:
   name: Cornish Trader
   id: 34112a28-7463-42b2-9aaf-2106409b1a0a
 builder:
-  name: Cornish Crabbers Ltd.
+- name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Rock
 construction_material: wood
 selling_status: not_for_sale
@@ -86,7 +88,6 @@ handicap_data:
   draft_keel_down: 1.6002194586686174
   length_over_spars: 12.192148256522799
   moving_keel: true
-  draft: 1.0668
   length_overall: 9.144
   moving_keel_type: Centreboard
 created_at: '2020-04-25T17:02:19.092787+00:00'

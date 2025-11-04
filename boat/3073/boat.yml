@@ -3,17 +3,23 @@ oga_no: 3073
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: "Sold by Hunters as a kit boat, she but seems to have\_taken a\
-  \ long time to\ncomplete. It's not clear which of the early owners actually launched\
-  \ her.\n\n"
-full_description: "Sold by Hunters as a kit to Mr Menhinick, she may not have been\
-  \ completed by\nhim. Her sail number, 114, implies that she was one of the last\
-  \ of the\nMinstrel/Liberty 23 boats produced by Hunters. The hull was designed for\
-  \ the\ntwin unstayed masts of the Liberty 22 and then modified for the Liberty 23.\
-  \ The\nMinstrel 23\_used the same hull with a gunter rig.\n\n\n'Boru' has not been\
-  \ spared some hard sailing and is probably best described as\nwell used. Significant\
-  \ modifications include a conversion to a high peak gaff\nrig - longer hollow mast,\
-  \ larger tabernacle, gaff saddle etc.\n\n\n"
+short_description: |+
+  Sold by Hunters as a kit boat, she but seems to have taken a long time to
+  complete. It's not clear which of the early owners actually launched her.
+
+full_description: |+
+  Sold by Hunters as a kit to Mr Menhinick, she may not have been completed by
+  him. Her sail number, 114, implies that she was one of the last of the
+  Minstrel/Liberty 23 boats produced by Hunters. The hull was designed for the
+  twin unstayed masts of the Liberty 22 and then modified for the Liberty 23. The
+  Minstrel 23 used the same hull with a gunter rig.
+
+
+  'Boru' has not been spared some hard sailing and is probably best described as
+  well used. Significant modifications include a conversion to a high peak gaff
+  rig - longer hollow mast, larger tabernacle, gaff saddle etc.
+
+
 year: 1992
 year_is_approximate: false
 designer:
@@ -23,8 +29,10 @@ design_class:
   name: Hunter Minstrel
   id: 55b03d72-c570-40b6-b304-a2bfb71b835c
 builder:
-  name: Hunter Boats Ltd.
+- name: Hunter Boats Ltd.
   id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
+- name: James Noble and Co.
+  id: f4375d5d-1165-4159-bb93-5b4a7ee43be1
 place_built: Rochford Essex
 construction_material: grp
 spar_material: wood
