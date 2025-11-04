@@ -9,8 +9,11 @@ from pathlib import Path
 from helpers import dump
 
 def replace(field, merge, new):
-  print('F', field, merge, new)
-  without = [f for f in field if f['name'] not in merge]
+  if isinstance(field, list):
+    l = field
+  else:
+    l = [field]
+  without = [f for f in l if f['name'] not in merge]
   if len(without) == len(field):
     return field # old not present
   without.append(new)
