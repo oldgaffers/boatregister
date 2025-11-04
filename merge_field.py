@@ -22,7 +22,7 @@ def merge_boats(field, old, new):
     p = f"boat/{b}/boat.yml"
     with open(p, "r", encoding='utf-8') as stream:
       boat = yaml.safe_load(stream)
-    boat[field] = replace(boat[field], old, new)
+    boat[field] = replace(boat.get('field', []), old, new)
     with open(p, 'w') as outfile:
       dump(boat, outfile)
 
