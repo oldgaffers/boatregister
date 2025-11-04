@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-from typing import OrderedDict
 import json
 import yaml
 import base64
@@ -7,6 +6,10 @@ import sys
 from os import listdir
 from pathlib import Path
 from helpers import dump
+
+def is_in(needles, haystack):
+  r = [f for f in haystack if f['name'] in needles]
+  return len(r) > 0
 
 def replace(field, merge, new):
   without = [f for f in field if f['name'] not in merge]
@@ -25,10 +28,11 @@ def merge_boats(field, merge, new):
     l = boat.get(field, [])
     if not isinstance(l, list):
       l = [l]
-    l = [f for f in l if f]  
-    boat[field] = replace(l, merge, new)
-    with open(p, 'w') as outfile:
-      dump(boat, outfile)
+    l = [f for f in l if f]
+    if is_in(merge, l):
+      boat[field] = replace(l, merge, new)
+      with open(p, 'w') as outfile:
+        dump(boat, outfile)
 
 def merge_field(field, keep, merge):
   with open("pickers.json", "r") as stream:
