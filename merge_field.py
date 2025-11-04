@@ -16,7 +16,7 @@ def replace(field, old, new):
   return without
 
 def merge_boats(field, old, new):
-  boats = listdir('boat')
+  boats = listdir('boat') # ?
   for b in boats:
     boat = None
     p = f"boat/{b}/boat.yml"
