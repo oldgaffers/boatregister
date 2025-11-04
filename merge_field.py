@@ -6,7 +6,7 @@ import base64
 import sys
 import os
 from pathlib import Path
-from helpers import map_boat, topLevelFields, dump
+from helpers import dump
 
 def replace(field, old, new):
   without = [f for f in field if f['name'] == 'old']
@@ -16,7 +16,7 @@ def replace(field, old, new):
   return without
 
 def merge_boats(field, old, new):
-  boats = listdir('boat')
+  boats = os.listdir('boat')
   for b in boats:
     boat = None
     p = f"boat/{b}/boat.yml"
