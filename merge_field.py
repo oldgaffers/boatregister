@@ -4,7 +4,7 @@ import json
 import yaml
 import base64
 import sys
-import os
+from os import listdir
 from pathlib import Path
 from helpers import dump
 
@@ -16,7 +16,7 @@ def replace(field, old, new):
   return without
 
 def merge_boats(field, old, new):
-  boats = os.listdir('boat')
+  boats = listdir('boat')
   for b in boats:
     boat = None
     p = f"boat/{b}/boat.yml"
