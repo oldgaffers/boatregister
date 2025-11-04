@@ -9,10 +9,12 @@ from pathlib import Path
 from helpers import dump
 
 def replace(field, merge, new):
+  print('F', field, merge, new)
   without = [f for f in field if f['name'] not in merge]
   if len(without) == len(field):
     return field # old not present
   without.append(new)
+  print('F', without, merge, new)
   return without
 
 def merge_boats(field, merge, new):
@@ -22,7 +24,7 @@ def merge_boats(field, merge, new):
     p = f"boat/{b}/boat.yml"
     with open(p, "r", encoding='utf-8') as stream:
       boat = yaml.safe_load(stream)
-    boat[field] = replace(boat.get('field', []), merge, new)
+    boat[field] = replace(boat.get(field, []), merge, new)
     with open(p, 'w') as outfile:
       dump(boat, outfile)
 
