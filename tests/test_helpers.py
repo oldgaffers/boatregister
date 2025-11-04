@@ -1,3 +1,7 @@
+import os
+import sys
+# ensure repository root is on sys.path so imports work when running this script
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from helpers  import merge_object
 
 class TestMain:
