@@ -8,29 +8,35 @@ import os
 from pathlib import Path
 from helpers import map_boat, topLevelFields, dump
 
-def get_boat(b):
-  boat = None
-  with open(f"boat/{b}/boat.yml", "r", encoding='utf-8') as stream:
-    boat = yaml.safe_load(stream)
-  return boat
-
-def replace(field, old, new, pl):
+def replace(field, old, new):
   without = [f for f in field if f['name'] == 'old']
   if len(without) == len(field):
     return field # old not present
-  return without + [p for p in pl if p['name'] == new]
+  without.append(new)
+  return without
 
 def merge_boats(field, old, new):
   boats = listdir('boat')
   for b in boats:
-    boat = get_boat(b)
+    boat = None
+    p = f"boat/{b}/boat.yml"
+    with open(p, "r", encoding='utf-8') as stream:
+      boat = yaml.safe_load(stream)
     boat[field] = replace(boat[field], old, new)
+    with open(p, 'w') as outfile:
+      dump(boat, outfile)
 
 def merge_field(field, keep, merge):
-  for val in merge:
-    print(f'replace {val} with {keep} as {field} for all boats')
-    merge_boats(field, val, keep)
-  print(f'TODO, remove {merge} from {field} picklist')
+  with open("pickers.json", "r") as stream:
+    pickers = json.load(stream)
+  pl = pickers[field]
+  new = [p for p in pl if p['name'] == keep][0]
+  for old in merge:
+    print(f'replace {old} with {keep} as {field} for all boats')
+    merge_boats(field, old, new)
+  print(f'remove {merge} from {field} picklist')
+  pl2 = [p for p in pl if p['name'] not in merge]
+  # save pl2 as yaml
 
 if __name__ == '__main__':
   with open("pickers.json", "r") as stream:
@@ -43,3 +49,4 @@ if __name__ == '__main__':
   data = json.loads(decoded)
   print(json.dumps(data))
   merge_field(data['field'], data['keep'], data['merge'])
+  
