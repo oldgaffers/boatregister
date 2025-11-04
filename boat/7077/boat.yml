@@ -3,9 +3,10 @@ oga_no: 7077
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: |+
-  *Amphora* is a Bermudan rigged Holman 26
-full_description: |+
+short_description: '*Amphora* is a Bermudan rigged Holman 26
+
+  '
+full_description: |
   *Amphora* is a Holman 26, built at Whisstock's in 1963 and sailing with the East Coast Gaffers,
   winning the East Coast Race (Bermudans) in 2013.
 
@@ -18,9 +19,7 @@ designer:
 design_class:
   name: Holman 26
   id: 27109a9f-3a8f-4c6c-b4e5-9215697bbf68
-builder:
-- name: Whisstock's Boatyard Ltd
-  id: 0eb139e6-d991-4c98-90d0-b917c91e12c0
+builder: []
 place_built: Woodbridge
 construction_material: wood
 construction_method: carvel

@@ -12,11 +12,7 @@ designer:
 design_class:
   name: Cornish Crabber Pilot Cutter 30
   id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
-builder:
-  - name: Cornish Crabbers Ltd.
-    id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
-  - name: G. W. Waugh
-    id: 6349d288-e64e-4d11-bb50-65c27eb972fc
+builder: []
 place_built: Rock
 construction_material: grp
 construction_details: GRP
@@ -33,7 +29,7 @@ id: 26e172e3-ee9d-45a5-bd75-6d1cf8c52e16
 handicap_data:
   thcf: 0.969236092
   beam: 2.8956
-  draft: 1.143
+  draft: 1.0668
   fore_triangle_height: 8.458302852962692
   fore_triangle_base: 5.7912704218483295
   length_over_all: 9.1441111923921
@@ -49,12 +45,10 @@ handicap_data:
   length_on_waterline: 7.848695440136551
   length_on_deck: 9.144
   sailarea: 54.70788209901944
-  draft_keel_down: 1.6002255547427455
+  draft_keel_down: 1.6246
   length_over_spars: 11.887344550109729
   calculated_thcf: 0.963
   length_overall: 9.144
-  draft_keel_down: 1.6246
-  draft: 1.0668
   moving_keel: true
   moving_keel_type: Centreboard
 created_at: '2020-04-25T17:03:15.334855+00:00'

@@ -4,8 +4,8 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: Built by her first owner, Teun Post.
-full_description: |-
-  *Twinkle* was found in a decrepit condition, and restored by her current owner. She is now located at Lake of Konstance.
+full_description: '*Twinkle* was found in a decrepit condition, and restored by her
+  current owner. She is now located at Lake of Konstance.'
 year: 2007
 year_is_approximate: false
 designer:
@@ -14,11 +14,7 @@ designer:
 design_class:
   name: Golant Gaffer
   id: ecdf01fb-dd46-42f7-9232-39880886de2f
-builder:
-- id: cb07e3ee-cf15-4eb8-87bc-20e8aaf9788e
-  name: T. Post
-- id: 5a4934ab-7977-45e7-9687-697de864bcb1
-  name: Teun Post
+builder: []
 place_built: Home
 construction_material: wood
 spar_material: wood

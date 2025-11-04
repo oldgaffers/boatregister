@@ -5,8 +5,8 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: '''Sea Nymph'' is one of 18 boats built beside the River Deben
   at Eversons, Woodbridge, Suffolk during the 1920s. She is based in the Netherlands.'
-full_description: "'Sea Nymph' is built from pitch pine on oak with spars of Oregon\
-  \ pine\L. A Vire 12 hp engine was installed in 1984."
+full_description: |-
+  'Sea Nymph' is built from pitch pine on oak with spars of Oregon pine   . A Vire 12 hp engine was installed in 1984.
 year: 1924
 year_is_approximate: false
 designer:
@@ -15,9 +15,7 @@ designer:
 design_class:
   name: Deben Cherub
   id: 266ea7c1-d639-43ce-b18a-9e31f05129b1
-builder:
-  name: Everson and Sons
-  id: e5c00172-7ec2-4bc9-9979-d47454b84ba4
+builder: []
 place_built: Woodbridge
 construction_material: wood
 selling_status: not_for_sale

@@ -1,12 +1,11 @@
 name: Lady Anne
 oga_no: 3645
 generic_type:
- - Yacht
- - Lancashire Nobby
+- Yacht
+- Lancashire Nobby
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |-
-  A rare example of an Overton built Nobby
+short_description: A rare example of an Overton built Nobby
 full_description: |-
   Build as a nobby yacht in Overton on the river Lune, *Lady Anne* came second in
   the midnight race to the Isle of Man in 1928.
@@ -21,17 +20,14 @@ full_description: |-
   same ownership for over 30 years.
 
   Ferro sheathing has prolonged her active life
-
 year: 1912
-builder:
-  name: Woodhouse Bros.
-  id: c6115b84-9ee0-47d9-b241-51c26db95acd
+builder: []
 place_built: Overton
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 selling_status: not_for_sale
-for_sales: 
+for_sales:
 - asking_price: 3000
   created_at: '2022-02-08T21:55:20.960395+00:00'
   flexibility: normal
@@ -42,8 +38,9 @@ for_sales:
   flexibility: normal
   offered: '2022-02-08'
   reduced: true
-  sales_text: |+
-    For sale due to owner's old age and ill health. Requires some TLC.
+  sales_text: 'For sale due to owner''s old age and ill health. Requires some TLC.
+
+    '
   seller_gold_id: 34731
   seller_member: 1731
   sold: '2022-12-01T00:00:00Z'
