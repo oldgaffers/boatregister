@@ -13,11 +13,11 @@ def replace(field, merge, new):
     l = field
   else:
     l = [field]
+  print('F', l, merge, new)
   without = [f for f in l if f['name'] not in merge]
   if len(without) == len(field):
     return field # old not present
   without.append(new)
-  print('F', without, merge, new)
   return without
 
 def merge_boats(field, merge, new):
