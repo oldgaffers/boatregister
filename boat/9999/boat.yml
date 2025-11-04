@@ -12,9 +12,7 @@ year_is_approximate: false
 designer:
   name: Cheverton
   id: b8f45269-5036-4d64-8479-93e4c2b21d12
-builder:
-  name: Cheverton
-  id: 483b31fa-c244-4202-87d5-cd08643f3e09
+builder: []
 construction_material: wood
 spar_material: wood
 construction_method: carvel
@@ -40,13 +38,14 @@ for_sales:
   flexibility: normal
   offered: 2020-02-18
   reduced: false
-  sales_text: |
-    more long text intended to make the boat sell
-  seller_gold_id: 001
-  seller_member: 0001
+  sales_text: 'more long text intended to make the boat sell
+
+    '
+  seller_gold_id: 1
+  seller_member: 1
   sold: '2022-11-14'
   summary: some text mostly added after sale to indicate what happened to the boat
-  updated_at: '2022-02-18T16:46:21.359401+00:00'  
+  updated_at: '2022-02-18T16:46:21.359401+00:00'
 home_country: GBR
 home_port: River Orwell
 hull_form: long keel sloping forefoot

@@ -4,9 +4,9 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: Built to the owner's specification.
-full_description: |+
+full_description: |
   GRP hull with teak superstructure.
-  
+
   Featured in July 2004 Classic Boat with picture on front cover.
 
   Here's some old footage from 2007 tacking *Aeolus* in the Carrick Roads
@@ -16,16 +16,14 @@ full_description: |+
 year: 2002
 year_is_approximate: false
 designer:
-  - name: Percy Dalton
-    id: 7ac480da-7d09-4dd7-9c89-61199ff30913
-  - name: Martin Heard
-    id: b1525089-031a-47bc-b7d8-7236987096a7
+- name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+- name: Martin Heard
+  id: b1525089-031a-47bc-b7d8-7236987096a7
 design_class:
   name: Heard 28
   id: 47040682-ee05-42de-a493-400ebd5956db
-builder:
-  name: Gaffers and Luggers
-  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+builder: []
 place_built: Mylor Bridge
 construction_material: grp
 spar_material: wood
