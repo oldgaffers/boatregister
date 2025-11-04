@@ -38,6 +38,4 @@ if __name__ == '__main__':
   decoded = base64.b64decode(b64)
   data = json.loads(decoded)
   print(json.dumps(data))
-  for field in data.keys():
-    rec = data[field]
-    merge_field(field, rec['keep'], rec['merge'])
+  merge_field(data['field'], data['keep'], data['merge'])
