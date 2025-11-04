@@ -14,7 +14,6 @@ def replace(field, merge, new):
   else:
     l = [field]
   l = [f for f in l if f]
-  print('F', l, merge, new)
   without = [f for f in l if f['name'] not in merge]
   if len(without) == len(field):
     return field # old not present
