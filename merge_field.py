@@ -24,7 +24,7 @@ def merge_boats(field, merge, new):
       boat = yaml.safe_load(stream)
     l = boat.get(field, [])
     if not isinstance(l, list):
-      l = [field]
+      l = [l]
     l = [f for f in l if f]  
     boat[field] = replace(l, merge, new)
     with open(p, 'w') as outfile:
