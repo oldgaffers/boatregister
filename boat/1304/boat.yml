@@ -14,7 +14,7 @@ design_class:
   name: Norfolk Gypsy
   id: ae7c717e-ce25-4ffa-8706-bc991de1adbf
 builder:
-  name: North Norfolk Boat Building Co.
+- name: North Norfolk Boat Building Co.
   id: 3ff32dfd-1ac9-4384-ba9c-00a847ffb383
 place_built: Holt Norfolk
 construction_material: grp
@@ -46,12 +46,11 @@ handicap_data:
   length_on_deck: 6.0442
   propellor:
     type: fixed
-  draft_keel_down: 1.1430138990490124
+  draft_keel_down: 1.1887
   sailarea: 6
   moving_keel: true
   length_overall: 6.0442
   calculated_thcf: 0.824
-  draft_keel_down: 1.1887
   moving_keel_type: Centreboard
   length_over_spars: 7.2238
 created_at: '2020-04-25T17:02:59.170609+00:00'

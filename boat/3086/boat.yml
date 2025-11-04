@@ -16,7 +16,7 @@ design_class:
   name: Kite
   id: b52c9b8d-94c8-4943-a722-fd41fa7a43a6
 builder:
-  name: Dick Phillips
+- name: Dick Phillips
   id: babc495f-9ec5-4856-96a0-b9eda9295db8
 place_built: Lyme Regis
 construction_material: woodepoxy
@@ -47,12 +47,11 @@ handicap_data:
     foot: 3.97
     head: 3.8
     luff: 2.7
-  draft_keel_down: 1.17
+  draft_keel_down: 1.1948
   length_on_waterline: 5.65
   length_on_deck: 6.4
   moving_keel: true
   length_overall: 6.4
-  draft_keel_down: 1.1948
   moving_keel_type: Centreboard
   length_over_spars: 7.1872
   propellor:

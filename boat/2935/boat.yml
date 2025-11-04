@@ -5,13 +5,9 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p><em>Beth</em> was designed for the Boatman Magazine to appeal
   to amateur builders. She was built to sail at Hickling Broad Sailing Club, Norfolk.</p>
-full_description: '<p>A Mallard 12'' gunter rigged dinghy, ''Beth'' is constructed
-  in clinker ply construction. Originally designed for ''The Boatman'' magazine by
-  Andrew Wolstenholme to encourage amateur boat builders. ''Beth'' was professionally
-  built by Hunters Yard, Norfolk.</p>
-
-  <p>She''s a popular class of boat with the OGA Trailer Section and has sailed extensively
-  on lakes, rivers and the sea.</p>'
+full_description: |-
+  <p>A Mallard 12' gunter rigged dinghy, 'Beth' is constructed in clinker ply construction. Originally designed for 'The Boatman' magazine by Andrew Wolstenholme to encourage amateur boat builders. 'Beth' was professionally built by Hunters Yard, Norfolk.</p>
+  <p>She's a popular class of boat with the OGA Trailer Section and has sailed extensively on lakes, rivers and the sea.</p>
 year: 1997
 year_is_approximate: false
 designer:
@@ -21,7 +17,7 @@ design_class:
   name: Mallard
   id: 5d4229a3-d569-4aa2-b225-2747652bb0e8
 builder:
-  name: Hunter's Yard
+- name: Hunter's Yard
   id: c5de7b05-7fc2-441c-a1c4-2489bc988f39
 place_built: Ashmanhaugh Norfolk
 construction_material: plywood

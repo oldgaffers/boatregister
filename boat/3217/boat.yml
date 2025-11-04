@@ -18,7 +18,7 @@ design_class:
   name: Borwicks Sailing Dinghy
   id: 320d2b2d-b862-4555-b080-b852fa95363b
 builder:
-  name: Browicks of Windermere
+- name: Browicks of Windermere
   id: 3c8bc6ea-8a13-4bf3-a25b-873bc2805fde
 place_built: Bowness
 construction_material: wood
@@ -51,7 +51,6 @@ handicap_data:
     head: 10.5
     luff: 2
   moving_keel: true
-  draft: 0.1524
   length_overall: 3.81
   calculated_thcf: 0.723
   moving_keel_type: Centreboard

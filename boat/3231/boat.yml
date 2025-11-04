@@ -3,8 +3,9 @@ oga_no: 3231
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  *Kitty* is a Yarmouth 23
+short_description: '*Kitty* is a Yarmouth 23
+
+  '
 year: 2004
 year_is_approximate: false
 designer:
@@ -14,7 +15,7 @@ design_class:
   name: Yarmouth 23
   id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
 builder:
-  name: Yarmouth Boat Co.
+- name: Yarmouth Boat Co.
   id: 609d8a8b-c14c-402c-b727-519e519d6f6f
 place_built: Yarmouth IoW
 construction_material: grp

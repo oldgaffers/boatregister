@@ -13,7 +13,7 @@ design_class:
   name: Cornish Yawl
   id: 37c8b8fe-c896-4244-9076-6b297798ba2e
 builder:
-  name: Cornish Crabbers Ltd.
+- name: Cornish Crabbers Ltd.
   id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
@@ -41,15 +41,12 @@ handicap_data:
     head: 3.5570592538405266
     luff: 4.87685930260912
   mizzen:
-    foot: 1.8288222384784198
-    luff: 4.26725188978298
+    foot: 1.8034442818824676
+    luff: 4.089459887832236
   length_on_waterline: 6.4008778346744695
   length_on_deck: 7.4676
   sailarea: 37.37928517169639
   length_over_spars: 10.41413069982931
-  mizzen:
-    foot: 1.8034442818824676
-    luff: 4.089459887832236
   length_overall: 6.7056
   moving_keel_type: Centreboard
   moving_keel: true
