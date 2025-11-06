@@ -1,13 +1,15 @@
 name: Naiad
 oga_no: 1705
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 1894
 year_is_approximate: false
+designer: []
 builder:
+- id: 873205f3-be61-4eae-9101-8061daa5a1f6
   name: T. Gibson and Sons
-  id: 873205f3-be61-4eae-9101-8061daa5a1f6
 place_built: Fleetwood
 construction_material: wood
 construction_method: carvel
@@ -20,24 +22,25 @@ ownerships:
 - name: R Swainbank
   start: 1988
   share: 64
-id: d8b7504c-3c95-4306-a46c-ef4761ae9c42
+image_key: f7wQ6p
 handicap_data:
   thcf: 1.030224084
   beam: 3.048
   draft: 1.652
   fore_triangle_height: 6.187515240185321
   fore_triangle_base: 3.931967812728603
-  length_over_all: 10.972933430870519
+  length_on_deck: 10.9728
+  length_on_waterline: 9.44891489880517
   propellor:
     type: fixed
+  topsail:
+    luff: 8.22970007315289
+    perpendicular: 4.090465740063399
+  length_over_all: 10.972933430870519
   main:
     foot: 6.705681541087539
     head: 6.0960741282613995
     luff: 5.334064862228725
-  topsail:
-    luff: 8.22970007315289
-    perpendicular: 4.090465740063399
-  length_on_waterline: 9.44891489880517
-  length_on_deck: 10.9728
 created_at: '2020-04-25T17:08:58.936269+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: d8b7504c-3c95-4306-a46c-ef4761ae9c42
+updated_at: '2025-11-06'
