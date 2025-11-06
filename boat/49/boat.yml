@@ -1,29 +1,28 @@
 name: Wyzita
 oga_no: 49
-generic_type: []
 rig_type: Sloop
 mainsail_type: gaff
 year_is_approximate: false
 designer:
-- id: fa6c5e11-490d-4474-b586-19254e04567f
-  name: Smith
+- name: J.H. Smith
+  id: 60670967-fa74-4899-9d7c-c84c7d3f4f36
 builder:
-- id: 46ee929e-e942-4a78-9b50-0a4e4b3106be
-  name: Smith
+- name: Allcraft
+  id: fd2e4b78-45ff-44c6-9d9d-ae186ad4a3b3
 place_built: Lerwick
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
 ownerships:
 - name: A Moncrieff
   start: 2012
   share: 64
-image_key: pDcBnt
 handicap_data:
-  beam: 1.8288
-  length_on_deck: 6.2484
-  length_on_waterline: 5.334064862228725
-  length_over_all: 6.2484759814679345
+  beam: 1.829
+  draft: 1.372
+  length_on_deck: 6.248
+  length_on_waterline: 5.334
+  length_over_all: 6.248
 created_at: '2020-04-25T16:43:12.686944+00:00'
 id: 1437c698-ed5d-445e-b197-9c70ae3cb3ff
+lastModified: '2023-01-02T20:28:44Z'
 updated_at: '2025-11-06'
