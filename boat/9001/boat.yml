@@ -3,9 +3,10 @@ oga_no: 9001
 generic_type:
 - Dinghy
 rig_type: Cutter
-mainsail_type: gunter
-short_description: Open **sailing** dinghy.
-full_description: blah, blah, ...
+mainsail_type: gaff
+short_description: Built originally for no good reason.
+full_description: "There isn't much to say about this imaginary   \nVessel.  \nIt's\
+  \ long overdue a rebuild.1. When\n2. Where\n3. Why\n4. Who"
 year: 1985
 year_is_approximate: true
 design_class:
@@ -19,6 +20,8 @@ selling_status: not_for_sale
 home_country: GBR
 home_port: Bristol
 hull_form: long keel sloping forefoot
+sail_number: '9001'
+fishing_number: Q
 ownerships:
 - name: John Barleycorn
   start: 1901
@@ -31,4 +34,4 @@ handicap_data:
   length_on_deck: 4.267
   length_on_waterline: 8.534
 air_draft: 3.048
-updated_at: '2025-10-29'
+updated_at: '2025-11-07'
