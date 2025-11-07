@@ -2,11 +2,13 @@ name: Test Boat Record Entry
 oga_no: 9001
 generic_type:
 - Dinghy
+- Coble
 rig_type: Cutter
 mainsail_type: gaff
 short_description: Built originally for no good reason.
-full_description: "There isn't much to say about this imaginary   \nVessel.  \nIt's\
-  \ long overdue a rebuild.1. When\n2. Where\n3. Why\n4. Who"
+full_description: |-
+  There isn't much to say about this imaginary     Vessel.    It's long overdue a
+  rebuild.1. When 2. Where 3. Why 4. Who
 year: 1985
 year_is_approximate: true
 design_class:
@@ -34,4 +36,5 @@ handicap_data:
   length_on_deck: 4.267
   length_on_waterline: 8.534
 air_draft: 3.048
+lastModified: '2025-11-07T13:56:50Z'
 updated_at: '2025-11-07'
