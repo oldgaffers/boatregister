@@ -188,7 +188,10 @@ def map_boat(item, pickers):
   if 'short_description' in boat:
     boat['short_description'] = toMarkdown(boat['short_description'])
   if 'full_description' in boat:
-    boat['full_description'] = toMarkdown(boat['full_description'])
+    html = boat['full_description']
+    md = toMarkdown(html)
+    print(boat['name'], boat['oga_no'], json.dumps(html), md)
+    boat['full_description'] = md
   if 'for_sales' in boat:
     boat['for_sales'] = [map_for_sale(fs) for fs in boat['for_sales']]
   if 'design_class' in boat:
