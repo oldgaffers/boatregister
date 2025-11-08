@@ -5,14 +5,17 @@ generic_type:
 rig_type: Cutter
 mainsail_type: gaff
 short_description: Built originally for no good reason.
-full_description: "There isn't much to say about this imaginary Vessel.  \n It's long\
-  \ overdue a rebuild.  \n   1. When   \n   2. Where  \n   3. Why   \n   4. Who"
+full_description: |-
+  There isn't much to say about this imaginary Vessel.    Â It's long overdue a
+  rebuild.    Â  Â 1. WhenÂ     Â  Â 2. Where    Â  Â 3. WhyÂ     Â  Â 4. Who
 year: 1985
 year_is_approximate: true
 design_class:
   name: Falmouth Bass Boat
   id: c05a2174-4b46-410f-829f-894193f020c3
-builder: []
+builder:
+- name: Julian Cable
+  id: 3cad9362-b1ee-4d3c-9680-882f2b72a931
 place_built: Falmouth
 construction_material: grp
 spar_material: wood
