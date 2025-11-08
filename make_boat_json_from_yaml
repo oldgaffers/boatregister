@@ -7,10 +7,9 @@ import json
 from helpers import process_html, json_serialise
 
 def upgrade(boat):
-  if 'builder' in boat and type(boat['builder']) is dict:
-    boat['builder'] = [boat['builder']]
-  if 'designer' in boat and  type(boat['designer']) is dict:
-    boat['designer'] = [boat['designer']]
+  for key in ['generic_type', 'designer', 'builder']:
+    if key in boat and type(boat[key]) is dict:
+      boat[key] = [boat[key]]
   return boat
 
 def jsonFromYaml(b, fail=None):
