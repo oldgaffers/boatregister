@@ -12,7 +12,11 @@ def update(key, item):
   with open(fn) as stream:
     l = yaml.load(stream)
   if l is not None:
-    l.append(item)
+    if isinstance(item, list):
+      for i in item:
+        l.append(i)
+    else:
+      l.append(item)
     l.sort(key=lambda x: x['name'])
     o = [{'name': i['name'], 'id': i['id']} for i in l]
     print(o)
