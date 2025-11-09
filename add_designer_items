@@ -15,7 +15,7 @@ def update(key, item):
     return
   if isinstance(l[0], dict):
     if isinstance(item, list):
-      print(i)
+      print(item)
       for i in item:
         l.append(i)
     else:
