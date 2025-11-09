@@ -5,7 +5,7 @@ from datetime import date, datetime
 from markdownify import markdownify
 from markdown import Markdown
 
-class Markdown(str): pass
+class MD(str): pass
 
 MARKDOWN_EXTENSIONS = [
     "markdown_text_decorator"
@@ -161,9 +161,7 @@ def falsy(v):
   return False
 
 def toMarkdown(s):
-  return Markdown(
-    markdownify(s, wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^').strip()
-  )
+  return MD(markdownify(s, wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^').strip())
 
 def map_for_sale(fs):
   r = {k: v for k, v in fs.items() if not falsy(v)}
@@ -245,10 +243,10 @@ def merge_object(existing, changes):
       merged[key] = changes[key]
   return known_fields_first(merged)
 
-def Markdown_presenter(dumper, data):
+def MD_presenter(dumper, data):
     return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
 
-yaml.add_representer(Markdown, Markdown_presenter)
+yaml.add_representer(MD, MD_presenter)
 
 def dump(dict, outfile):
   yaml.dump(dict, outfile, default_flow_style=False, sort_keys=False, allow_unicode=True)
