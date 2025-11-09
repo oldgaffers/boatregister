@@ -12,7 +12,7 @@ def update(key, item):
   with open(fn) as stream:
     l = yaml.load(stream)
   if l is not None:
-    if isinstance(l, dict):
+    if isinstance(l[0], dict):
       if isinstance(item, list):
         for i in item:
           l.append(i)
