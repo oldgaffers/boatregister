@@ -4,14 +4,26 @@ generic_type:
 - Dinghy
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Built originally for no good reason.
-full_description: "There isn't much to say about this imaginary Vessel.  \n  \nIt's\
-  \ long overdue a rebuild.  \n  \n1. R\n2. A\n3. C\n* a\n* b\n* c\n\nMore text"
+short_description: |-
+  Built originally for no good reason.
+full_description: |-
+  There isn't much to say about this imaginary Vessel.
+
+
+  It's long overdue a rebuild.
+
+
+  1. R
+  2. A
+  3. C
+  4. a
+  5. b
+  6. c
+
+
+  More text
 year: 1985
 year_is_approximate: true
-design_class:
-  name: Falmouth Bass Boat
-  id: c05a2174-4b46-410f-829f-894193f020c3
 builder:
 - name: Julian Cable
   id: 3cad9362-b1ee-4d3c-9680-882f2b72a931
@@ -37,5 +49,5 @@ handicap_data:
   length_on_deck: 4.267
   length_on_waterline: 8.534
 air_draft: 3.048
-lastModified: '2025-11-08T18:45:48Z'
+lastModified: '2025-11-09T07:59:30Z'
 updated_at: '2025-11-09'
