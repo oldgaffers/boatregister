@@ -11,23 +11,26 @@ def update(key, item):
   fn = f'picklists/{key}.yaml'
   with open(fn) as stream:
     l = yaml.load(stream)
-  if l is not None:
-    if isinstance(l[0], dict):
-      if isinstance(item, list):
-        for i in item:
-          l.append(i)
-        else:
-          l.append(item)
-      l.sort(key=lambda x: x['name'])
+  if l is None:
+    return
+  if isinstance(l[0], dict):
+    if isinstance(item, list):
+      for i in item:
+        print(key, i)
+        l.append(i)
     else:
-      if isinstance(item, list):
-        for i in item:
-          l.append(i['name'])
-      else:
-        l.append(item['name'])
-      l.sort()
-    with open(fn, 'w') as f:
-      yo.dump(l, f)
+      print(key, item)
+      l.append(item)
+    l.sort(key=lambda x: x['name'])
+  else:
+    if isinstance(item, list):
+      for i in item:
+        l.append(i['name'])
+    else:
+      l.append(item['name'])
+    l.sort()
+  with open(fn, 'w') as f:
+    yo.dump(l, f)
 
 if __name__ == '__main__':
   if len(sys.argv) == 2:
