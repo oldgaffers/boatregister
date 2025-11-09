@@ -2,21 +2,26 @@ name: Test Boat Record Entry
 oga_no: 9001
 generic_type:
 - Dinghy
-- 'rugadh '
+- Rocket
 rig_type: Cutter
 mainsail_type: gaff
 short_description: Built originally for no good reason.
-full_description: |-
-  There isn't much to say about this imaginary Vessel. Â It's long overdue a
-  rebuild. 1. When 2. Where 3. Why 4. Who
+full_description: "There isn't much to say about this imaginary Vessel. Ã\x82Â It's\
+  \ long overdue a\nrebuild. 1. When 2. Where 3. Why 4. Who"
 year: 1985
 year_is_approximate: true
-design_class:
-  name: Falmouth Bass Boat
-  id: c05a2174-4b46-410f-829f-894193f020c3
+designer:
+- name: Huey
+  id: 53b0b54e-a548-4ca4-9bbc-fa5119abfb3c
+- name: Louey
+  id: 7cf3a7d3-e644-4a99-9713-645883cc29c5
+- name: Dewey
+  id: 0e50369c-b4de-4b29-9b37-230e0cbc1e67
 builder:
 - name: Julian Cable
   id: 3cad9362-b1ee-4d3c-9680-882f2b72a931
+- name: Drake
+  id: 58e455e8-15a3-4609-a8f9-802b130352bf
 place_built: Falmouth
 construction_material: grp
 spar_material: wood
