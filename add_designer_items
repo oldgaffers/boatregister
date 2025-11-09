@@ -18,6 +18,7 @@ def update(key, item):
           l.append(i)
         else:
           l.append(item)
+      print(l)
       l.sort(key=lambda x: x['name'])
     else:
       if isinstance(item, list):
