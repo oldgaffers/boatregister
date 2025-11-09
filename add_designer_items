@@ -19,12 +19,12 @@ def update(key, item):
   else:
     it = [item]
   if isinstance(l[0], dict): # builders, ...
-    for i in item:
+    for i in it:
       print(key, i)
       l.append(i)
     l.sort(key=lambda x: x['name'])
   else: # generic_type, ...
-    for i in item:
+    for i in it:
       print(key, i['name'])
       l.append(i['name'])
     l.sort()
