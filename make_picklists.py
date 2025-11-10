@@ -41,4 +41,7 @@ def boatnames():
 data = picklists()
 data['boat'] = boatnames()
 with open('pickers.json', 'w') as f:
-    json.dump(data, f, ensure_ascii=False)
+  json.dump(data, f, ensure_ascii=False)
+for key in data.keys():
+  with open(f'{key}.json', 'w') as f:
+    json.dump(data[key], f, ensure_ascii=False)
