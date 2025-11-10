@@ -1,11 +1,11 @@
 name: Saorsa
 oga_no: 3505
-generic_type: []
 rig_type: Yawl
 mainsail_type: gaff
-short_description: Original design Drascombe Drifter - bilge keel trailable cabin
-  cruiser
-full_description: Gunter lug small cruiser
+short_description: |-
+  Original design Drascombe Drifter - bilge keel trailable cabin cruiser
+full_description: |-
+  Gunter lug small cruiser
 year: 1980
 year_is_approximate: true
 designer:
@@ -20,7 +20,7 @@ builder:
 place_built: Totnes
 construction_material: grp
 spar_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-10-17T09:04:29.304Z'
   asking_price: 5950
@@ -54,6 +54,9 @@ for_sales:
     Trial sail by arrangement. Reasonable offers considered.
   flexibility: normal
   reduced: true
+  date_sold: '2025-11-10T11:40:00.268Z'
+  sale_price: 6250
+  summary: <div><!--block-->Sold on Facebook Marketplace</div>
 home_country: GBR
 home_port: Polvarth Boatyard, Percuil River, Cornwall
 hull_form: bilge keel
@@ -62,8 +65,8 @@ ownerships:
 - member: 3906
   id: 348
   start: 2024
+  end: 2025
   share: 64
-  current: true
 image_key: DpzMgR
 handicap_data:
   thcf: 0.822893903
@@ -83,4 +86,5 @@ handicap_data:
     luff: 2.743
 created_at: '2021-02-22T16:02:24.515251+00:00'
 id: 1c8f5652-96a4-43eb-b1c3-2e772ed58ace
-updated_at: '2025-09-30'
+lastModified: '2025-09-30T11:17:23Z'
+updated_at: '2025-11-10'
