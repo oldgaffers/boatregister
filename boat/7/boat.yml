@@ -1,37 +1,42 @@
 name: Tern
 oga_no: 7
-generic_type:
-- Yacht
+generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
   *Tern* is a Belfast Lough Design built in 1897.
-full_description: "In a Regatta Programme, 1897, she is listed as Class I (25 ft LWL),\
-  \ sail no 7,\nOwner WA King, AG King & TJ King Ardvara, Cultra who also owned Duet.\n\
-  \n Converted to yawl, 1920, then back to cutter with reduced sail area. She is one\n\
-  of a class of ten boats built by John Hilditch for a cost of Ã\x83\x83\x82Ã\x83\x82\
-  Ã\x82Â£240.\n\n The Class raced in Belfast Lough and at sea until 1912 when they\
-  \ were all\nconverted to yawl rig for cruising. *Tern* arrived in Cornish waters\
-  \ about 1947\nand was used for day trips changing hands in1949. She was given a\
-  \ new deck and\ncoach roof in 1955. On his cousin's death, George Ellison bought\
-  \ her from his\nestate and undertook much restoration work at his company Falmouth\
-  \ Boat\nConstruction Flushing."
+full_description: |-
+  In a Regatta Programme, 1897, she is listed as Class I (25 ft LWL), sail no 7,
+  Owner WA King, AG King & TJ King Ardvara, Cultra who also owned Duet.
+
+  Converted to yawl, 1920, then back to cutter with reduced sail area. She is one
+  of a class of ten boats built by John Hilditch for a cost of £240.
+
+   The Class raced in Belfast Lough and at sea until 1912 when they were all
+  converted to yawl rig for cruising. *Tern* arrived in Cornish waters about 1947
+  and was used for day trips changing hands in 1949. She was given a new deck and
+  coach roof in 1955. On his cousin's death, George Ellison bought her from his
+  estate and undertook much restoration work at his company Falmouth Boat
+  Construction Flushing.
 year: 1897
 year_is_approximate: false
 designer:
-- name: William Fife II
-  id: decdd96e-9768-4ae4-8ba4-7816d4569c15
+- id: decdd96e-9768-4ae4-8ba4-7816d4569c15
+  name: William Fife II
+design_class:
+  name: Belfast Lough OD
+  id: 3012cf11-fdef-4deb-a4ac-921c76d27e0b
 builder:
-- name: John Hilditch
-  id: 419b997a-03fd-48b2-b58e-923e30825ae9
+- id: 419b997a-03fd-48b2-b58e-923e30825ae9
+  name: John Hilditch
 place_built: Carrickfergus
 construction_material: wood
-spar_material: wood
 construction_method: carvel
 construction_details: "Carvel 1 inch Pitch pine on 1 3/4 x 1 1/2 inch grown oak at\
   \ 1 foot spacings, oak and iron floors.\r\nFastenings - copper nails and bronze\
   \ screws. Cast iron keel"
 selling_status: not_for_sale
+for_sales: []
 home_country: GER
 hull_form: long keel sloping forefoot
 sail_number: '7'
@@ -69,24 +74,23 @@ ownerships:
 image_key: xTsnfs
 handicap_data:
   thcf: 1.034
-  beam: 2.652
-  draft: 1.92
-  fore_triangle_height: 9.601
-  fore_triangle_base: 5.669
-  length_on_deck: 11.278
-  length_on_waterline: 7.772
+  beam: 2.6518
+  draft: 1.9202
+  fore_triangle_height: 9.601316752011703
+  fore_triangle_base: 5.669348939283102
+  length_on_deck: 11.2776
+  length_on_waterline: 7.772494513533284
   propellor:
     type: fixed
-  sailarea: 68.505
+  sailarea: 68.5048918944567
   topsail:
-    luff: 4.877
-    perpendicular: 3.658
-  length_over_all: 11.278
+    luff: 4.87685930260912
+    perpendicular: 3.6576444769568397
+  length_over_all: 11.277737137283589
   main:
-    foot: 6.005
-    head: 5.639
-    luff: 4.877
+    foot: 6.004633016337478
+    head: 5.6388685686417945
+    luff: 4.87685930260912
 created_at: '2020-04-25T16:42:22.768048+00:00'
 id: e95c819c-8fd7-4bd6-9f8f-918e89be7457
-lastModified: '2023-05-31T07:28:13Z'
 updated_at: '2025-11-13'
