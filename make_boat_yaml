@@ -28,10 +28,13 @@ if __name__ == '__main__':
   with open("pickers.json", "r") as stream:
     pickers = json.load(stream)
   if len(sys.argv) == 2:
-    b64 = open(sys.argv[1], "r").read()
+    fn = sys.argv[1]
+    if fn.endswith('.json'):
+      decoded = open(fn, "r").read()
+    else:
+      decoded = base64.b64decode(open(sys.argv[1], "r").read())
   else:
-    b64 = sys.stdin.buffer.read()
-  decoded = base64.b64decode(b64)
+    decoded = base64.b64decode(sys.stdin.buffer.read())
   data = json.loads(decoded)
   boat = get_boat(data, pickers)
   outdir = f"boat/{boat['oga_no']}"
