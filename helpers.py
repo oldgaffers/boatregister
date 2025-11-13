@@ -160,7 +160,8 @@ def falsy(v):
     return True
   return False
 
-def toMarkdown(s):
+def toMarkdown(html):
+  s = ' '.join([s.strip() for s in html.split("\n")])
   return MD(markdownify(s, wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^').strip())
 
 def map_for_sale(fs):
@@ -192,7 +193,6 @@ def map_boat(item, pickers):
   if 'full_description' in boat:
     html = boat['full_description']
     md = toMarkdown(html)
-    print(boat['name'], boat['oga_no'], json.dumps(html), md)
     boat['full_description'] = md
   if 'for_sales' in boat:
     boat['for_sales'] = [map_for_sale(fs) for fs in boat['for_sales']]
