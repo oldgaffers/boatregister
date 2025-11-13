@@ -1,54 +1,56 @@
 name: Polly Agatha
 oga_no: 2856
-generic_type: Bristol Channel Pilot Cutter
+generic_type:
+- Bristol Channel Pilot Cutter
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Polly Agatha is an exact replica of the Bristol pilot cutter, Peggy,
-  built in Falmouth, 2007.
-full_description: "<p>Externally Polly Agatha is an exact replica of &#39;Peggy&#39;,\
-  \ the original boat, all of the scantlings are the same as the original and the\
-  \ method of construction is also the same with only two exceptions. One is the use\
-  \ of bronze bolts and screws instead of the original iron centre line fixings and\
-  \ bronze nails for the planking to frame fixings.</p>\r\n\r\n<p>The other difference\
-  \ is the deck. The new deck is two layers of marine plywood sheathed in epoxy and\
-  \ glass overlaid with 3&quot; wide teak. This option has been selected as an improvement\
-  \ to the original build to increase strength, stiffness and durability &ndash; a\
-  \ modern deck on a traditional hull!</p>\r\n\r\n<p>In building this replica they\
-  \ have reintroduced some of the features of the original pilot cutter which have\
-  \ since been lost on the &#39;Peggy&#39;. Hopefully, this will further enhance her\
-  \ beautiful lines. This pilot cutter is an interesting mix with the traditional\
-  \ lines of a pilot cutter, yet fitted out with a modern interior and equipped with\
-  \ all the latest technology. Internally we have selected a much more modern and\
-  \ luxurious finish using solid English oak.</p>\r\n\r\n<p>The layout has a large\
-  \ luxurious master cabin with an en suite head and shower. There is a traditional\
-  \ head in the bow and a forward cabin with two berths and two extra occasional berths.\
-  \ The saloon has another four berths including two occasional on the saloon seats,\
-  \ providing a total of ten berths.</p>\r\n\r\n<p>There is a large galley and navigational\
-  \ area which includes all the mod cons (and more!!) required to licence the boat\
-  \ as a sea school.</p>"
+short_description: |-
+  *Polly Agatha* is an exact replica of the Bristol pilot cutter, Peggy, built in Falmouth, 2007.
+full_description: |-
+  Externally *Polly Agatha* is an exact replica of the 1903 Bristol Channel Pilot
+  Cutter *Peggy*, which is still sailing.
+
+  All of the scantlings are the same as the original and the method of construction
+  of the hull is also the same with only two exceptions. One is the use of bronze bolts and
+  screws instead of the original iron centre line fixings and bronze nails for the
+  planking to frame fixings.
+
+  Another difference is the deck. *Polly Agatha's* consists of
+  two layers of marine plywood sheathed in epoxy and glass overlaid with 3 inch
+  wide teak. This was chosen to increase strength, stiffness and durability.
+
+  In building this replica some external features of the original were reintroduced
+  which have been lost on the *Peggy*, with the intent of enhancing her beautiful lines.
+
+  The internal layout is optimised for her intended role as a sea school and finished
+  in solid English oak. The master cabin is luxurious with an en-suite head and shower.
+  There is a traditional head in the bow and a forward cabin with two berths and two extra
+  occasional berths. The saloon has another four berths including two occasional
+  on the saloon seats, providing a total of ten berths.
+
+  There is a large galley and navigational area fully equipped with modern technology
+  including everything needed to licence the boat as a sea school.
 year: 2007
 year_is_approximate: false
 designer:
-  name: E. Rowles
+- name: E. Rowles
   id: 4df1507d-c01d-4e1e-950b-f2a6f875369f
-design_class:
-  name: Bristol Channel Pilot Cutter
-  id: 01de4c84-0f55-42ef-8857-de9ee6eaec55
 builder:
-  name: Cockwells
+- name: Cockwells
   id: ba7746ff-a625-4270-a6b8-b90e06678211
 place_built: Falmouth
 construction_material: wood
+spar_material: wood
 construction_method: carvel
 construction_details: Carvel larch on oak
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Royal Clarence Marina - Gosport
 hull_form: long keel deep forefoot
 sail_number: PA
-uk_part1: '916036'
 callsign: 2AHH9
+uk_part1: '916036'
 ownerships:
 - start: 779
   end: 775
@@ -77,25 +79,27 @@ ownerships:
   end: 2019
   share: 64
 website: http://www.polly-agatha.co.uk/
-id: a12a62c3-5062-4f49-9ff1-ca6caa7fc17a
 image_key: qKN6QP
 handicap_data:
   thcf: 1.135813834
-  beam: 4.1148
+  beam: 4.115
   draft: 2.286
-  fore_triangle_height: 12.801755669348939
-  fore_triangle_base: 8.22970007315289
-  length_over_all: 13.719214825652278
-  propellor:
-    type: fixed
-    blades: 3
-  main:
-    foot: 8.83930748597903
-    head: 7.059253840526701
-    luff: 8.601560594976835
-  topsail:
-    luff: 9.500731528895392
-    perpendicular: 4.40136552060473
-  length_on_waterline: 12.161667885881492
+  fore_triangle_height: 12.802
+  fore_triangle_base: 8.23
   length_on_deck: 13.716
+  length_on_waterline: 12.162
+  propellor:
+    blades: 3
+    type: fixed
+  topsail:
+    luff: 9.501
+    perpendicular: 4.401
+  length_over_all: 13.719
+  main:
+    foot: 8.839
+    head: 7.059
+    luff: 8.601
 created_at: '2020-04-25T17:29:13.658977+00:00'
+id: a12a62c3-5062-4f49-9ff1-ca6caa7fc17a
+lastModified: '2023-12-10T13:01:25Z'
+updated_at: '2025-11-13'
