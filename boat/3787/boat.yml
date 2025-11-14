@@ -1,6 +1,7 @@
 name: Norfolk Oyster
 oga_no: 3787
-generic_type: Dayboat
+generic_type:
+- Dayboat
 rig_type: Sloop
 mainsail_type: gaff
 year: 1996
@@ -22,16 +23,11 @@ construction_details: GRP
 selling_status: for_sale
 for_sales:
 - created_at: '2025-09-12T13:41:22.223Z'
-  asking_price: 16000
+  asking_price: 15000
   sales_text: |-
-    Superb condition, little  & light use, fresh water only. Wintered under cover
-    since new. Loa 17’, beam 6’2””, draft 10”” or 3’10” with centre board down,
-    displacement 1320lbs/650k. Sturdy simulated white hull with blue top strake,
-    cream interior, varnished spruce spars (mast, boom & gaff) , hardwood slatted
-    seat battens , tan sails, Spirit electric outboard (as new/boxed), Indespension
-    road trailer and full inventory incl 3 covers, owners manual, oars, paddle etc .
-    Lying Stewartby SC
+    Superb condition, little  & light use, fresh water only. Wintered under cover since new. Loa 17’, beam 6’2””, draft 10”” or 3’10” with centre board down, displacement 1320lbs/650k. Sturdy simulated white hull with blue top strake, cream interior, varnished spruce spars (mast, boom & gaff) , hardwood slatted seat battens , tan sails, Spirit electric outboard (as new/boxed), Indespension road trailer and full inventory incl 3 covers, owners manual, oars, paddle etc . Currently sited undercover.
   flexibility: normal
+  reduced: true
 home_country: UK
 home_port: Stewartby
 hull_form: centre-board dinghy
@@ -48,4 +44,5 @@ handicap_data:
   draft: 0.305
   length_on_deck: 4.395
   length_on_waterline: 4.115
-updated_at: '2025-09-15'
+lastModified: '2025-09-20T15:53:27Z'
+updated_at: '2025-11-14'
