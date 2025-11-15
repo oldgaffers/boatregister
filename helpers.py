@@ -7,6 +7,8 @@ from markdown import Markdown
 
 yaml = YAML()
 yaml.default_flow_style=False
+yaml.sort_keys=False
+yaml.allow_unicode=True
 
 class MD(str):
   @classmethod
@@ -252,7 +254,7 @@ def merge_object(existing, changes):
   return known_fields_first(merged)
 
 def dump(dict, outfile):
-  yaml.dump(dict, outfile, sort_keys=False, allow_unicode=True)
+  yaml.dump(dict, outfile)
 
 def nullif(o, k):
   if k in o:
