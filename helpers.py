@@ -18,7 +18,8 @@ class MD(str):
 yaml.register_class(MD)
 
 MARKDOWN_EXTENSIONS = [
-    "markdown_text_decorator"
+    "markdown_text_decorator",
+    "sane_lists",
 ]
 
 MARKDOWN_EXTENSION_CONFS={
