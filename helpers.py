@@ -7,7 +7,12 @@ from markdown import Markdown
 
 yaml = YAML()
 
-class MD(str): pass
+class MD(str):
+  @classmethod
+  def to_yaml(cls, representer, node):
+    return representer.represent_scalar('tag:yaml.org,2002:str', node, style='|')
+  
+yaml.register_class(MD)
 
 MARKDOWN_EXTENSIONS = [
     "markdown_text_decorator"
