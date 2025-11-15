@@ -1,42 +1,53 @@
-name: Test Boat Record Entry
-oga_no: 9001
-generic_type:
-- Dinghy
-rig_type: Cutter
-mainsail_type: gaff
-short_description: |-
-  Not a real boat
-full_description: "There isn't much to say about this imaginary Vessel.  \n  \nIt's\
-  \ long overdue a rebuild.  \n  \n1. R\n2. A\n3. C\n* a\n* b\n* c\n\n  \nMore text"
-year: 1985
-year_is_approximate: true
-design_class:
-  name: Falmouth Bass Boat
-  id: c05a2174-4b46-410f-829f-894193f020c3
+air_draft: 3.048
 builder:
 - name: Julian Cable
   id: 3cad9362-b1ee-4d3c-9680-882f2b72a931
-place_built: Falmouth
-construction_material: grp
-spar_material: wood
 construction_details: Built-in bouyancy
-selling_status: not_for_sale
-home_country: GBR
-home_port: Bristol
-hull_form: long keel sloping forefoot
-sail_number: '9001'
+construction_material: grp
+design_class:
+  name: Falmouth Bass Boat
+  id: c05a2174-4b46-410f-829f-894193f020c3
 fishing_number: Q
-ownerships:
-- name: John Barleycorn
-  start: 1901
-  end: 2025
-  share: 64
-image_key: rKHstz
+full_description: |-
+  There isn't much to say about this imaginary Vessel.   
+    
+  It's long overdue a rebuild.   
+    
+  1. R
+  2. A
+  3. C
+  * a
+  * b
+  * c
+
+  More text
+generic_type:
+- Dinghy
 handicap_data:
   beam: 1.829
   draft: 0.305
   length_on_deck: 4.267
   length_on_waterline: 8.534
-air_draft: 3.048
-lastModified: '2025-11-09T07:59:30Z'
+home_country: GBR
+home_port: Bristol
+hull_form: long keel sloping forefoot
+lastModified: '2025-11-15T07:57:05Z'
+mainsail_type: gaff
+place_built: Falmouth
+rig_type: Cutter
+sail_number: '9001'
+selling_status: not_for_sale
+short_description: |-
+  Not a real boat
+spar_material: wood
+year: 1985
+year_is_approximate: true
+ownerships:
+- name: John Barleycorn
+  start: 1901
+  end: 2025
+  share: 64
+name: Test Boat Record Entry
+oga_no: 9001
+image_key: rKHstz
 updated_at: '2025-11-15'
