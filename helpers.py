@@ -1,9 +1,11 @@
 from typing import OrderedDict
 import json
-import yaml
+from ruamel.yaml import YAML
 from datetime import date, datetime
 from markdownify import markdownify
 from markdown import Markdown
+
+yaml = YAML()
 
 class MD(str): pass
 
