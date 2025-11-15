@@ -7,7 +7,12 @@ from markdown import Markdown
 
 yaml = YAML()
 
-class MD(str): pass
+class MD(str):
+  @classmethod
+  def to_yaml(cls, representer, node):
+    return representer.represent_scalar('tag:yaml.org,2002:str', node, style='|')
+  
+yaml.register_class(MD)
 
 MARKDOWN_EXTENSIONS = [
     "markdown_text_decorator"
@@ -244,11 +249,6 @@ def merge_object(existing, changes):
     else:
       merged[key] = changes[key]
   return known_fields_first(merged)
-
-def MD_presenter(dumper, data):
-    return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
-
-yaml.add_representer(MD, MD_presenter)
 
 def dump(dict, outfile):
   yaml.dump(dict, outfile, default_flow_style=False, sort_keys=False, allow_unicode=True)
