@@ -3,28 +3,32 @@ oga_no: 7
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Tern is a Belfast Lough Design built in 1897.</p>
-full_description: "<p>In a Regatta Programme, 1897, she is listed as Class I (25 ft\
-  \ LWL), sail no 7, Owner WA King, AG King &amp; TJ King Ardvara, Cultra who also\
-  \ owned Duet.</p>\r\n\r\n<p>Converted to yawl, 1920, then back to cutter with reduced\
-  \ sail area. She is one of a class of ten boats built by John Hilditch for a cost\
-  \ of &pound;240.</p>\r\n\r\n<p>The Class raced in Belfast Lough and at sea until\
-  \ 1912 when they were all converted to yawl rig for cruising. &#39;Tern&#39; arrived\
-  \ in Cornish waters about 1947 and was used for day trips changing hands in1949.\
-  \ She was given a new deck and coach roof in 1955. On his cousin&#39;s death, George\
-  \ Ellison bought her from his estate and undertook much restoration work at his\
-  \ company Falmouth Boat Construction Flushing.</p>"
+short_description: |-
+  *Tern* is a Belfast Lough Design built in 1897.
+full_description: |-
+  In a Regatta Programme, 1897, she is listed as Class I (25 ft LWL), sail no 7,
+  Owner WA King, AG King & TJ King Ardvara, Cultra who also owned Duet.
+
+  Converted to yawl, 1920, then back to cutter with reduced sail area. She is one
+  of a class of ten boats built by John Hilditch for a cost of £240.
+
+   The Class raced in Belfast Lough and at sea until 1912 when they were all
+  converted to yawl rig for cruising. *Tern* arrived in Cornish waters about 1947
+  and was used for day trips changing hands in 1949. She was given a new deck and
+  coach roof in 1955. On his cousin's death, George Ellison bought her from his
+  estate and undertook much restoration work at his company Falmouth Boat
+  Construction Flushing.
 year: 1897
 year_is_approximate: false
 designer:
+- id: decdd96e-9768-4ae4-8ba4-7816d4569c15
   name: William Fife II
-  id: decdd96e-9768-4ae4-8ba4-7816d4569c15
 design_class:
   name: Belfast Lough OD
   id: 3012cf11-fdef-4deb-a4ac-921c76d27e0b
 builder:
+- id: 419b997a-03fd-48b2-b58e-923e30825ae9
   name: John Hilditch
-  id: 419b997a-03fd-48b2-b58e-923e30825ae9
 place_built: Carrickfergus
 construction_material: wood
 construction_method: carvel
@@ -36,8 +40,8 @@ for_sales: []
 home_country: GER
 hull_form: long keel sloping forefoot
 sail_number: '7'
-uk_part1: '108613'
 callsign: 2EDQ
+uk_part1: '108613'
 ownerships:
 - name: R Clarke and Bros
   start: 1897
@@ -67,27 +71,26 @@ ownerships:
   start: 2000
   end: 2013
   share: 64
-id: e95c819c-8fd7-4bd6-9f8f-918e89be7457
 image_key: xTsnfs
-thumb: https://photos.smugmug.com/photos/i-WGGMZx5/0/Th/i-WGGMZx5-Th.jpg
 handicap_data:
   thcf: 1.034
   beam: 2.6518
   draft: 1.9202
   fore_triangle_height: 9.601316752011703
   fore_triangle_base: 5.669348939283102
-  length_over_all: 11.277737137283589
+  length_on_deck: 11.2776
+  length_on_waterline: 7.772494513533284
   propellor:
     type: fixed
   sailarea: 68.5048918944567
+  topsail:
+    luff: 4.87685930260912
+    perpendicular: 3.6576444769568397
+  length_over_all: 11.277737137283589
   main:
     foot: 6.004633016337478
     head: 5.6388685686417945
     luff: 4.87685930260912
-  topsail:
-    luff: 4.87685930260912
-    perpendicular: 3.6576444769568397
-  length_on_waterline: 7.772494513533284
-  length_on_deck: 11.2776
 created_at: '2020-04-25T16:42:22.768048+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: e95c819c-8fd7-4bd6-9f8f-918e89be7457
+updated_at: '2025-11-13'
