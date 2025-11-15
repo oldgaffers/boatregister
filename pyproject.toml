@@ -8,13 +8,13 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.13"
-markdownify = "^0.11.6"
 pyyaml = "^6.0"
-markdown = "^3.4.3"
 ruamel-yaml = "^0.17.26"
 requests = "^2.31.0"
 markdown-text-decorator = "^3.2.0"
 jsonpatch = "^1.33"
+markdownify = "^1.2.0"
+markdown = "^3.10"
 
 
 [tool.poetry.group.dev.dependencies]
