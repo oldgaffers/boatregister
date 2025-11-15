@@ -2,7 +2,7 @@ from typing import OrderedDict
 import json
 from ruamel.yaml import YAML
 from datetime import date, datetime
-from markdownify import markdownify
+from markdownify import MarkdownConverter
 from markdown import Markdown
 
 yaml = YAML()
@@ -169,6 +169,18 @@ def falsy(v):
   if v == 'true':
     return True
   return False
+
+class MyMarkdownConverter(MarkdownConverter):
+
+  def convert_list(self, el, text, parent_tags):
+    next_sibling = _next_block_content_sibling(el)
+    if 'li' in parent_tags:
+      # remove trailing newline if we're in a nested list
+      return '\n' + text.rstrip()
+    return '\n\n\n' + text
+
+def markdownify(html, **options):
+         return MyMarkdownConverter(**options).convert(html)
 
 def toMarkdown(html):
   s = ' '.join([s.strip() for s in html.split("\n")])
