@@ -39,6 +39,9 @@ class MyMarkdownConverter(MarkdownConverter):
       return '\n' + text.rstrip()
     return '\n\n\n' + text
 
+  def convert_div(self, el, text, parent_tags):
+    return self.convert_p( el, text, parent_tags)
+
 html2md = MyMarkdownConverter(wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^')
 
 omitFields = ['price','update_id', 'thumb', 'updated_at']
