@@ -32,7 +32,6 @@ md2html = Markdown(extensions=MARKDOWN_EXTENSIONS,
 class MyMarkdownConverter(MarkdownConverter):
   def __init__(self, **options):
     super().__init__(**options)
-    print('####', self.options)
 
   def convert_list(self, el, text, parent_tags):
     if 'li' in parent_tags:
@@ -184,7 +183,7 @@ def falsy(v):
   return False
 
 def toMarkdown(html):
-  return MD(md.convert(html).strip())
+  return MD(html2md.convert(html).strip())
 
 def map_for_sale(fs):
   r = {k: v for k, v in fs.items() if not falsy(v)}
