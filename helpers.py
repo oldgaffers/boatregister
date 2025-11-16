@@ -4,6 +4,7 @@ from ruamel.yaml import YAML
 from datetime import date, datetime
 from markdownify import MarkdownConverter
 from markdown import Markdown
+from bs4 import Comment, Doctype, NavigableString, Tag
 
 yaml = YAML()
 yaml.default_flow_style=False
@@ -171,6 +172,30 @@ def falsy(v):
     return True
   return False
 
+def _is_block_content_element(el):
+    """
+    In a block context, returns:
+
+    - True for content elements (tags and non-whitespace text)
+    - False for non-content elements (whitespace text, comments, doctypes)
+    """
+    if isinstance(el, Tag):
+        return True
+    elif isinstance(el, (Comment, Doctype)):
+        return False  # (subclasses of NavigableString, must test first)
+    elif isinstance(el, NavigableString):
+        return el.strip() != ''
+    else:
+        return False
+
+def _next_block_content_sibling(el):
+    """Returns the first next sibling that is a content element, else None."""
+    while el is not None:
+        el = el.next_sibling
+        if _is_block_content_element(el):
+            return el
+    return None
+
 class MyMarkdownConverter(MarkdownConverter):
   def __init__(self, **options):
     super().__init__(**options)
@@ -183,11 +208,10 @@ class MyMarkdownConverter(MarkdownConverter):
     return '\n\n\n' + text
 
 def markdownify(html, **options):
-         return MyMarkdownConverter(**options).convert(html)
+  return MyMarkdownConverter(**options).convert(html)
 
 def toMarkdown(html):
-  s = ' '.join([s.strip() for s in html.split("\n")])
-  return MD(markdownify(s, wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^').strip())
+  return MD(markdownify(html, wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^').strip())
 
 def map_for_sale(fs):
   r = {k: v for k, v in fs.items() if not falsy(v)}
