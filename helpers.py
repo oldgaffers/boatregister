@@ -32,7 +32,6 @@ md2html = Markdown(extensions=MARKDOWN_EXTENSIONS,
 class MyMarkdownConverter(MarkdownConverter):
   def __init__(self, **options):
     super().__init__(**options)
-    print('####', self.options)
 
   def convert_list(self, el, text, parent_tags):
     if 'li' in parent_tags:
