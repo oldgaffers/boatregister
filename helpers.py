@@ -197,8 +197,8 @@ def _next_block_content_sibling(el):
     return None
 
 class MyMarkdownConverter(MarkdownConverter):
-  def __init__(self, **options):
-    super().__init__(**options)
+  def __init__(self):
+    super().__init__(wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^')
 
   def convert_list(self, el, text, parent_tags):
     next_sibling = _next_block_content_sibling(el)
@@ -207,11 +207,9 @@ class MyMarkdownConverter(MarkdownConverter):
       return '\n' + text.rstrip()
     return '\n\n\n' + text
 
-def markdownify(html, **options):
-  return MyMarkdownConverter(**options).convert(html)
-
 def toMarkdown(html):
-  return MD(markdownify(html, wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^').strip())
+  md = MyMarkdownConverter()
+  return MD(md.convert(html).strip())
 
 def map_for_sale(fs):
   r = {k: v for k, v in fs.items() if not falsy(v)}
