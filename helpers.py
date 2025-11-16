@@ -173,7 +173,7 @@ def falsy(v):
 class MyMarkdownConverter(MarkdownConverter):
   def __init__(self, **options):
     super().__init__(**options)
-    print('####', super().options)
+    print('####', options)
 
   def convert_list(self, el, text, parent_tags):
     if 'li' in parent_tags:
