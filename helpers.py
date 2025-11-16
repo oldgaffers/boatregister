@@ -183,7 +183,7 @@ def falsy(v):
   return False
 
 def toMarkdown(html):
-  return MD(md.convert(html).strip())
+  return MD(html2md.convert(html).strip())
 
 def map_for_sale(fs):
   r = {k: v for k, v in fs.items() if not falsy(v)}
