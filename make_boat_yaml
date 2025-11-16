@@ -37,8 +37,6 @@ if __name__ == '__main__':
     decoded = base64.b64decode(sys.stdin.buffer.read())
   data = json.loads(decoded)
   boat = get_boat(data, pickers)
-  print('short', json.dumps(boat.get('short_description', '')))
-  print('full', json.dumps(boat.get('full_description', '')))
   outdir = f"boat/{boat['oga_no']}"
   Path(outdir).mkdir(parents=True, exist_ok=True)
   with open(f'{outdir}/boat.yml', 'w') as outfile:
