@@ -4,7 +4,6 @@ from ruamel.yaml import YAML
 from datetime import date, datetime
 from markdownify import MarkdownConverter
 from markdown import Markdown
-from bs4 import Comment, Doctype, NavigableString, Tag
 
 yaml = YAML()
 yaml.default_flow_style=False
@@ -76,7 +75,6 @@ topLevelFields = [
   'handicap_data',
   'created_at',
 ]
-
 
 def json_serialise(obj):
   if isinstance(obj, date):
@@ -172,36 +170,11 @@ def falsy(v):
     return True
   return False
 
-def _is_block_content_element(el):
-    """
-    In a block context, returns:
-
-    - True for content elements (tags and non-whitespace text)
-    - False for non-content elements (whitespace text, comments, doctypes)
-    """
-    if isinstance(el, Tag):
-        return True
-    elif isinstance(el, (Comment, Doctype)):
-        return False  # (subclasses of NavigableString, must test first)
-    elif isinstance(el, NavigableString):
-        return el.strip() != ''
-    else:
-        return False
-
-def _next_block_content_sibling(el):
-    """Returns the first next sibling that is a content element, else None."""
-    while el is not None:
-        el = el.next_sibling
-        if _is_block_content_element(el):
-            return el
-    return None
-
 class MyMarkdownConverter(MarkdownConverter):
   def __init__(self):
     super().__init__(wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^')
 
   def convert_list(self, el, text, parent_tags):
-    next_sibling = _next_block_content_sibling(el)
     if 'li' in parent_tags:
       # remove trailing newline if we're in a nested list
       return '\n' + text.rstrip()
