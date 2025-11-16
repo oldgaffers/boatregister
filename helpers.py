@@ -29,6 +29,19 @@ MARKDOWN_EXTENSION_CONFS={
 md2html = Markdown(extensions=MARKDOWN_EXTENSIONS,
                    extension_configs=MARKDOWN_EXTENSION_CONFS)
 
+class MyMarkdownConverter(MarkdownConverter):
+  def __init__(self, **options):
+    super().__init__(**options)
+    print('####', self.options)
+
+  def convert_list(self, el, text, parent_tags):
+    if 'li' in parent_tags:
+      # remove trailing newline if we're in a nested list
+      return '\n' + text.rstrip()
+    return '\n\n\n' + text
+
+html2md = MyMarkdownConverter(wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^')
+
 omitFields = ['price','update_id', 'thumb', 'updated_at']
 
 htmlFields = ['short_description', 'full_description', 'sales_text']
@@ -170,19 +183,7 @@ def falsy(v):
     return True
   return False
 
-class MyMarkdownConverter(MarkdownConverter):
-  def __init__(self, **options):
-    super().__init__(**options)
-    print('####', self.options)
-
-  def convert_list(self, el, text, parent_tags):
-    if 'li' in parent_tags:
-      # remove trailing newline if we're in a nested list
-      return '\n' + text.rstrip()
-    return '\n\n\n' + text
-
 def toMarkdown(html):
-  md = MyMarkdownConverter(wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^')
   return MD(md.convert(html).strip())
 
 def map_for_sale(fs):
@@ -209,12 +210,9 @@ def map_boat(item, pickers):
   boat = {k: v for k, v in item.items() if not falsy(v) and k not in omitFields}
   if 'ownerships' in boat:
     boat['ownerships'] = ownerships(boat['ownerships'])
-  if 'short_description' in boat:
-    boat['short_description'] = toMarkdown(boat['short_description'])
-  if 'full_description' in boat:
-    html = boat['full_description']
-    md = toMarkdown(html)
-    boat['full_description'] = md
+  for field in htmlFields:
+    if field in boat:
+      boat[field] = toMarkdown(boat[field])
   if 'for_sales' in boat:
     boat['for_sales'] = [map_for_sale(fs) for fs in boat['for_sales']]
   if 'design_class' in boat:
