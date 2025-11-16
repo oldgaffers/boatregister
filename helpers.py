@@ -171,8 +171,8 @@ def falsy(v):
   return False
 
 class MyMarkdownConverter(MarkdownConverter):
-  def __init__(self):
-    super().__init__(wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^')
+  def __init__(self, **options):
+    super().__init__(**options)
 
   def convert_list(self, el, text, parent_tags):
     if 'li' in parent_tags:
@@ -182,7 +182,7 @@ class MyMarkdownConverter(MarkdownConverter):
 
 def toMarkdown(html):
   md = MyMarkdownConverter()
-  return MD(md.convert(html).strip())
+  return MD(md.convert(html, wrap=True, escape_asterisks=False, sub_symbol='^', sup_symbol='^^').strip())
 
 def map_for_sale(fs):
   r = {k: v for k, v in fs.items() if not falsy(v)}
