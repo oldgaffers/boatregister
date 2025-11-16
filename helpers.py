@@ -172,6 +172,8 @@ def falsy(v):
   return False
 
 class MyMarkdownConverter(MarkdownConverter):
+  def __init__(self, **options):
+    super().__init__(**options)
 
   def convert_list(self, el, text, parent_tags):
     next_sibling = _next_block_content_sibling(el)
