@@ -1,5 +1,7 @@
 name: LittleJohn
 oga_no: 3786
+generic_type:
+- Dinghy
 rig_type: Sloop
 mainsail_type: balanced lug
 short_description: |-
@@ -7,6 +9,12 @@ short_description: |-
   70s
 year: 2025
 year_is_approximate: false
+design_class:
+  name: Brian Kennel Smacks Boat
+  id: 99ce7ec6-76a6-4944-9bd9-113a47a51ac2
+builder:
+- name: Brian Kennell
+  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
 place_built: Layer Barton
 construction_material: grp
 spar_material: wood
@@ -33,4 +41,5 @@ handicap_data:
   sailarea: 8.547
 air_draft: 3.658
 mmsi: '235939399'
-updated_at: '2025-09-04'
+lastModified: '2025-09-04T08:45:01Z'
+updated_at: '2025-11-17'
