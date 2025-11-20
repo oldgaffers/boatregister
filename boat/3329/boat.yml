@@ -22,7 +22,7 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2019-01-28T06:14:34+00:00'
   flexibility: normal
-  offered: null
+  offered:
   reduced: true
   sales_text: <p>Drascombe lugger, "Sea Trout" has been modified for camping or liveaboard.</p><p>She
     has a teak foredeck with stowage under, teak cuddy and afterdeck with lockers,
@@ -31,9 +31,9 @@ for_sales:
     outboard with remote control and easy launch trailer, recently refurbished with
     three new un-used wheels.</p><p>"Sea Trout" is lying at Ludlow, Shropshire where
     se may be viewed.</p>
-  seller_gold_id: null
-  seller_member: null
-  sold: null
+  seller_gold_id:
+  seller_member:
+  sold:
   summary: <p>A Drascombe lugger, &quot;Sea Trout&quot; has been modified for camping
     or liveaboard. An ideal trailer sailer, she is lying at Ludlow, Shropshire.</p>
   updated_at: '2020-05-03T10:13:13.452108+00:00'
@@ -41,10 +41,11 @@ home_country: GBR
 home_port: Ludlow
 hull_form: long keel deep forefoot
 ownerships:
-- name: Richard Craven
-  start: 2000
+- start: 2000
   end: 2017
   share: 64
+  id: 922
+  member: 6082
 id: 1af5c3c1-229e-43d4-b492-054aef3dc76d
 image_key: hRCJjp
 thumb: https://photos.smugmug.com/photos/i-gXXLxjz/0/Th/i-gXXLxjz-Th.jpg
