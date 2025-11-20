@@ -5,12 +5,12 @@ rig_type: Ketch
 mainsail_type: gaff
 short_description: <p>&#39;White Moth&#39; is a classic gaff ketch, built 1903, by
   Major RF Wykeham Martin, designer of the famous headsail reefing gear.</p>
-full_description: "<p>Built in 1903 by Major RF Wykeham-Martin, &#39;White Moth&#39;\
-  \ was owned and sailed by the family for more than 30 years. Wykeham-Martin was,\
-  \ of course, the designer of the famous headsail reefing gear still available today.</p>\r\
-  \n\r\n<p>Alan Staley undertook a major professional restoration during the 1980s.\
-  \ Based in Queenborough from 2001 - 2017, &#39;White Moth&#39; was often seen around\
-  \ the Thames Estuary and participating in OGA events on the East Coast.&nbsp;</p>"
+full_description: "<p>Built in 1903 by Major RF Wykeham-Martin, &#39;White Moth&#39;
+  was owned and sailed by the family for more than 30 years. Wykeham-Martin was, of
+  course, the designer of the famous headsail reefing gear still available today.</p>\r
+  \n\r\n<p>Alan Staley undertook a major professional restoration during the 1980s.
+  Based in Queenborough from 2001 - 2017, &#39;White Moth&#39; was often seen around
+  the Thames Estuary and participating in OGA events on the East Coast.&nbsp;</p>"
 year: 1903
 year_is_approximate: false
 designer:
@@ -27,7 +27,7 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2018-10-09T18:05:26+00:00'
   flexibility: normal
-  offered: null
+  offered:
   reduced: false
   sales_text: <p>In the hands of her present owner for 16 years, a change in family
     circumstances means that "White Moth" urgently needs a new owner. Lying at Queenborough,
@@ -42,20 +42,21 @@ for_sales:
     reefing gear still sold today. She was owned and sailed by the Wykeham-Martin
     family for more than 30 years with a major professional restoration undertaken
     in the 1980s.</p>
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  seller_gold_id:
+  seller_member:
+  sold:
+  summary:
   updated_at: '2020-05-03T10:13:13.079413+00:00'
 home_country: GBR
 home_port: Queenborough
 hull_form: long keel deep forefoot
 sail_number: 2286 Y
 ownerships:
-- name: Graham Mason
-  start: 2001
+- start: 2001
   end: 2018
   share: 64
+  id: 31
+  member: 836
 - member: 6256
   id: 1014
   start: 2018
