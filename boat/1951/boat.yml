@@ -3,8 +3,7 @@ oga_no: 1951
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  *Scandal* is a Tamarisk 22 built in 1974.
+short_description: "*Scandal* is a Tamarisk 22 built in 1974.\n"
 year: 1974
 year_is_approximate: false
 designer:
@@ -26,12 +25,13 @@ home_port: Portrieux
 hull_form: long keel deep forefoot
 ssr: '169934'
 ownerships:
-- note: 'Also owned after Max Manning Dave Jardine-Smith, Tom Coakley. '
-  text: Also owned after Max Manning Dave Jardine-Smith, Tom Coakley.
-- name: Max Manning
-  start: 2003
+- start: 2003
   end: 2011
   share: 64
+  id: 274
+  member: 3456
+- note: 'Also owned after Max Manning Dave Jardine-Smith, Tom Coakley. '
+  text: Also owned after Max Manning Dave Jardine-Smith, Tom Coakley.
 - member: 6193
   id: 975
   start: 2017
