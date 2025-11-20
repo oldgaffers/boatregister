@@ -3,13 +3,11 @@ oga_no: 2206
 generic_type: Galway Hooker
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
-  *Naomh Cronan* is built from the lines of Galway Hooker *Morning Star.*
-
-full_description: |+
-  Built in 1997, the *Naomh Cronan* was maintained and sailed by a group of men of
-  Clondalkin for many years and was then gifted to the Cladagh Boatmen.
-
+short_description: "*Naomh Cronan* is built from the lines of Galway Hooker *Morning
+  Star.*\n\n"
+full_description: "Built in 1997, the *Naomh Cronan* was maintained and sailed by
+  a group of men of\nClondalkin for many years and was then gifted to the Cladagh
+  Boatmen.\n\n"
 year: 1997
 year_is_approximate: false
 designer:
@@ -38,10 +36,11 @@ home_port: Dublin
 hull_form: long keel deep forefoot
 uk_part1: '403600'
 ownerships:
-- name: Paul Keogh
-  start: 2012
+- start: 2012
   end: 2021
   share: 9
+  id: 278
+  member: 3475
 - name: Gerrard Keane
   start: 2012
   end: 2021
