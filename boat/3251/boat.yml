@@ -24,7 +24,7 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2019-02-28T18:13:39+00:00'
   flexibility: normal
-  offered: null
+  offered:
   reduced: false
   sales_text: <p>Five metre Drascombe Peterboat. Double-ended wooden classic lugsail
     open dayboat. John Watkinson designer, John Kerr builder, 1992. Professional glued
@@ -36,19 +36,20 @@ for_sales:
     and recovery very practicable&nbsp;with one or two people. Tabernacle mast enables
     easy rigging onshore by one person and stowing for trailing.</p><p>Beautiful boat,
     very good condition. Lying Surbiton.</p>
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  seller_gold_id:
+  seller_member:
+  sold:
+  summary:
   updated_at: '2020-05-03T10:13:12.831769+00:00'
 home_country: GBR
 home_port: Surbiton
 hull_form: long keel deep forefoot
 ownerships:
-- name: Philip Treloar
-  start: 2014
+- start: 2014
   end: 2018
   share: 64
+  id: 262
+  member: 3386
 id: 7772251e-381c-471c-a068-cdec017b7b95
 image_key: sgC5Sm
 thumb: https://photos.smugmug.com/photos/i-7XSNq3n/0/Th/i-7XSNq3n-Th.jpg
