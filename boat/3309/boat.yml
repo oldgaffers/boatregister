@@ -23,7 +23,7 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2020-02-04T13:09:22+00:00'
   flexibility: normal
-  offered: null
+  offered:
   reduced: false
   sales_text: <p>After 12 active seasons in Cardiff Bay (2005 through 2017), we have
     upsized to a Crabber 24 Mk1, thus "Jezebel", a Crabber 17, built 1998 is sadly
@@ -31,23 +31,24 @@ for_sales:
     Cardiff on her own road trailer.&nbsp;She has the original Mariner 5HP 2 stroke
     outboard which has served me well.</p><p>Spars and sails all in good condition.&nbsp;Hull
     would benefit from a polish!</p>
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  seller_gold_id:
+  seller_member:
+  sold:
+  summary:
   updated_at: '2020-05-03T10:13:12.951606+00:00'
 home_country: GBR
 home_port: Cardiff Bay
 hull_form: long keel deep forefoot
 sail_number: '65'
 ownerships:
+- start: 2005
+  end: 2018
+  share: 64
+  id: 784
+  member: 5816
 - name: Michael Keen
   start: 1998
   end: 2005
-  share: 64
-- name: Andrew Kelland
-  start: 2005
-  end: 2018
   share: 64
 - start: 2018
   note: Sold August 2018 to Colin MacCorkell
