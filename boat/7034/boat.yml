@@ -5,15 +5,12 @@ generic_type:
 rig_type: Sloop
 mainsail_type: bermudan
 short_description: The first Bermudian yacht built  by Cole and Wiggins
-full_description: |-
-  The first Bermudian yacht built  by Cole and Wiggins, whose yard in Leigh-on-Sea later became
-  Johnson and Jago.
-
-  Pre WWII she sailed out of Littlehampton, but from 1952 she was based in North
-  Kent before migrating north over the Thames in the 1969s. During the 1970s she
-  was sunk on her mooring in Pagglesham due to a collision, but was refloated and
-  repaired before being sold to a new owner who kept her at Glasson Dock. Her
-  history after 2016 is not known.
+full_description: "The first Bermudian yacht built  by Cole and Wiggins, whose yard
+  in Leigh-on-Sea later became\nJohnson and Jago.\n\nPre WWII she sailed out of Littlehampton,
+  but from 1952 she was based in North\nKent before migrating north over the Thames
+  in the 1969s. During the 1970s she\nwas sunk on her mooring in Pagglesham due to
+  a collision, but was refloated and\nrepaired before being sold to a new owner who
+  kept her at Glasson Dock. Her\nhistory after 2016 is not known."
 year: 1929
 year_is_approximate: false
 designer:
@@ -28,16 +25,17 @@ spar_material: wood
 selling_status: not_for_sale
 home_port: Port Penrhyn
 ownerships:
+- start: 2001
+  end: 2016
+  share: 64
+  id: 358
+  member: 3976
 - note: List of owners held in OGA archive
   text: List of owners held in OGA archive
 - name: Gordon Bourne and F.M Hughes
   start: 1981
   end: 2001
   share: 32
-- name: Gordon Bourne
-  start: 2001
-  end: 2016
-  share: 64
 image_key: N4CHpG
 handicap_data:
   beam: 2.591
