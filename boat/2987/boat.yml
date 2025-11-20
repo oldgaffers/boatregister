@@ -21,27 +21,28 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2016-11-15T16:50:30+00:00'
   flexibility: normal
-  offered: null
+  offered:
   reduced: false
-  sales_text: "<p>Fishing no. LO178, Thames Bawley, built by Aldous of Brightlingsea,\
-    \ 1903. LOA: 35\u2019 Beam: 13\u2019 Engine: marinised Peugeot XLD 50hp. Twin\
-    \ hydraulic folding props. Good sail wardrobe. 9 berths. SMEV oven with 4 burners\
-    \ and grill. Heads with shower. Log burner/dual fuel stove with back boiler. Fridge.\
-    \ Previously used for charter, licensed for ten guests. Standing rigging replaced\
-    \ 2015.</p><p>Lying Titchmarsh Marina, Essex.</p>"
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  sales_text: '<p>Fishing no. LO178, Thames Bawley, built by Aldous of Brightlingsea,
+    1903. LOA: 35’ Beam: 13’ Engine: marinised Peugeot XLD 50hp. Twin hydraulic folding
+    props. Good sail wardrobe. 9 berths. SMEV oven with 4 burners and grill. Heads
+    with shower. Log burner/dual fuel stove with back boiler. Fridge. Previously used
+    for charter, licensed for ten guests. Standing rigging replaced 2015.</p><p>Lying
+    Titchmarsh Marina, Essex.</p>'
+  seller_gold_id:
+  seller_member:
+  sold:
+  summary:
   updated_at: '2020-05-03T10:13:12.840891+00:00'
 home_country: GBR
 home_port: Southwold
 hull_form: long keel sloping forefoot
 ownerships:
-- name: Jayne Smith
-  start: 2014
+- start: 2014
   end: 2016
   share: 64
+  id: 195
+  member: 2860
 - name: John Archer
   start: 2016
   share: 64
