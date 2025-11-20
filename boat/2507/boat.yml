@@ -3,8 +3,8 @@ oga_no: 2507
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: '''Foxhound'' was owned by Mark Woodhouse from new and featured
-  in May 2002 edition of Classic Boat.'
+short_description: "'Foxhound' was owned by Mark Woodhouse from new and featured in
+  May 2002 edition of Classic Boat."
 full_description: <p>She is sister ship to <a href="http://www.oga.org.uk/boat/zinnia">Zinnia</a>
   and Meagan and has taken line honours in the Gaffers Section of the Round the Island
   Race, 2002 and 2003.</p>
@@ -26,8 +26,8 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2021-02-22T21:57:20.170378+00:00'
   flexibility: normal
-  offered: null
-  price_flexibility: null
+  offered:
+  price_flexibility:
   reduced: false
   sales_text: ''
   seller_gold_id: 329
@@ -40,10 +40,11 @@ home_port: Poole
 hull_form: long keel sloping forefoot
 sail_number: '4'
 ownerships:
-- name: Mark Woodhouse
-  start: 2001
+- start: 2001
   end: 2011
   share: 64
+  id: 202
+  member: 2930
 - member: 6533
   id: 34936
   start: 2020
