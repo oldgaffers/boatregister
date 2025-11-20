@@ -4,12 +4,10 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: She 'sadly, no longer exists"
-full_description: |-
-  Built as a gaff cutter and sometime in her past converted to
-  Bemudan rig. She may have been built in Shoreham but builder and designer
-  are unknown. Stephen converted her back to gaff cutter rig in 1987.
-
-  By 2021 she was sadly no longer in existance.
+full_description: "Built as a gaff cutter and sometime in her past converted to\n
+  Bemudan rig. She may have been built in Shoreham but builder and designer\nare unknown.
+  Stephen converted her back to gaff cutter rig in 1987.\n\nBy 2021 she was sadly
+  no longer in existance."
 year: 1926
 year_is_approximate: false
 construction_material: wood
@@ -18,10 +16,11 @@ construction_details: Carvel Pitch pine on oak frames
 selling_status: not_for_sale
 hull_form: long keel deep forefoot
 ownerships:
-- name: Stephen Downey
-  start: 1986
+- start: 1986
   end: 2021
   share: 64
+  id: 90
+  member: 1772
 id: 815e5e33-b650-4cb9-a4aa-703e6707120d
 handicap_data:
   thcf: 0.92789132
