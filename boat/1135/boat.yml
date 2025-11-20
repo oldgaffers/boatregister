@@ -50,7 +50,7 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2020-12-28T21:23:04.143575+00:00'
   flexibility: normal
-  offered: null
+  offered:
   reduced: false
   sales_text: Owned since 1991.
   seller_gold_id: 179
@@ -65,6 +65,16 @@ sail_number: '35'
 uk_part1: '68'
 callsign: MLLS
 ownerships:
+- start: 1975
+  end: 1983
+  share: 64
+  id: 88
+  member: 1709
+- start: 1987
+  end: 1990
+  share: 64
+  id: 88
+  member: 1709
 - name: Capt RB Foster
   start: 1907
   end: 1910
@@ -109,17 +119,9 @@ ownerships:
   start: 1959
   end: 1962
   share: 64
-- name: Dick Couture
-  start: 1975
-  end: 1983
-  share: 64
 - name: Ashley Devonshire
   start: 1984
   end: 1986
-  share: 64
-- name: Dick Couture
-  start: 1987
-  end: 1990
   share: 64
 - name: Christopher and Sue Singer
   start: 1991
