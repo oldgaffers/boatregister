@@ -21,19 +21,24 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2017-09-06T10:17:50+00:00'
   flexibility: normal
-  offered: null
+  offered:
   reduced: false
   sales_text: undefined
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  seller_gold_id:
+  seller_member:
+  sold:
+  summary:
   updated_at: '2020-05-03T10:13:13.249514+00:00'
 home_country: GBR
 home_port: Dittisham
 hull_form: long keel deep forefoot
 sail_number: '2230'
 ownerships:
+- start: 2012
+  end: 2017
+  share: 64
+  id: 724
+  member: 5684
 - name: John Symes
   start: 1989
   end: 2012
@@ -43,10 +48,6 @@ ownerships:
   end: 2012
   share: 64
 - name: Chris Cooper
-  start: 2012
-  end: 2017
-  share: 64
-- name: Jonathan Heighway
   start: 2012
   end: 2017
   share: 64
