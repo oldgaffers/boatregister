@@ -1,5 +1,6 @@
 name: Arlette
 oga_no: 3753
+generic_type: []
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -9,18 +10,18 @@ full_description: |-
   6 years before moving to Plymouth.  She was renamed Tribute and stayed in the
   West Country for 5 years before having an extensive refit back at the Cornish
   Crabbers yard in 2023.  She then moved by road to Inverness and renamed again as
-  Arlette.  She has moved to the west during 2025 and is at present near Oban.
+  Arlette.  She remains in Inverness and will keep her third name.
 year: 2011
 year_is_approximate: false
 designer:
-- name: David Thomas
-  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+- id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+  name: David Thomas
 design_class:
   name: Cornish Crabber 26
   id: 50503297-7263-4cf4-af74-102bb153bc8e
 builder:
-- name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+- id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+  name: Cornish Crabbers Ltd.
 place_built: Rock
 construction_material: grp
 spar_material: wood
@@ -34,15 +35,7 @@ hull_form: centre-boarder
 sail_number: '9'
 ssr: SSR171999
 callsign: MGFT6
-nsbr: SSR 171999
-ownerships:
-- name: Paul Musgrove
-  member: 6598
-  id: 35018
-  start: 2025
-  share: 64
-  current: true
-image_key: cxjCXV
+image_key: nn4jKx
 handicap_data:
   beam: 2.761
   draft: 1.999
