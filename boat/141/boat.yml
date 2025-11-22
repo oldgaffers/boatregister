@@ -4,40 +4,26 @@ generic_type:
 - Yacht
 rig_type: Ketch
 mainsail_type: gaff
-short_description: |-
-  Inspired by the Tahiti Ketch design, *Rawanah* was designed by Maurice Griffiths
-  and built by Harry King at Pin Mill.
-full_description: |-
-  The Tahiti Ketch was designed by Texan [John
-  Hanna](https://en.wikipedia.org/wiki/John_G._Hanna) around 1928, but while
-  Maurice Griffiths liked the concept he felt he could do better with it. The
-  result was *Rawanah*, built by Harry King at Pin Mill, perhaps inspired by
-  *Awara* also built there in 1932.
-
-
-  *Rawanah*  was registered in  Ipswich to Hubert Arnold Brown, a good friend of
-  Maurice Griffiths,  who had commissioned the build, and then the vessel passed
-  to the Jersey Register on 3 November 1950 when she was bought by the Hollick
-  brothers  at St Lawrence, Jersey.
-
-
-  She features in Maurice Griffiths' book  'Little Ships & Shoal Waters'
-  recounting a voyage he made, together  with Hubert Brown, from Oban to East
-  Tarbert. The book also contains  line drawings and sail plan.  She was in the
-  ownership of one family for  42 years.
-
-
-  Between 2005 and 2015, *Rawanah* sailed thousands of  miles to the Outer and
-  Inner Hebrides, Orkney and Faroe Isles, Scilly  Isles, and Ireland three times
-  including a circumnavigation in July 2008.  She won the 'Cock o' the Bristol
-  Channel Race' with courses of 80 and 50  miles competing against the Bristol
-  Channel cutter fleet. In all those  sea miles *Rawanah* proved herself to be a
-  sea kindly, robust vessel,  gentle on the helm, making good passage time and
-  capable in rough  weather.
-
-
-  *Rawanah* is currently undergoing restoration in Crinan Boatyard and will
-  hopefully be afloat in 2026.
+short_description: "Inspired by the Tahiti Ketch design, *Rawanah* was designed by
+  Maurice Griffiths\nand built by Harry King at Pin Mill."
+full_description: "The Tahiti Ketch was designed by Texan [John\nHanna](https://en.wikipedia.org/wiki/John_G._Hanna)
+  around 1928, but while\nMaurice Griffiths liked the concept he felt he could do
+  better with it. The\nresult was *Rawanah*, built by Harry King at Pin Mill, perhaps
+  inspired by\n*Awara* also built there in 1932.\n\n\n*Rawanah*  was registered in
+   Ipswich to Hubert Arnold Brown, a good friend of\nMaurice Griffiths,  who had commissioned
+  the build, and then the vessel passed\nto the Jersey Register on 3 November 1950
+  when she was bought by the Hollick\nbrothers  at St Lawrence, Jersey.\n\n\nShe features
+  in Maurice Griffiths' book  'Little Ships & Shoal Waters'\nrecounting a voyage he
+  made, together  with Hubert Brown, from Oban to East\nTarbert. The book also contains
+   line drawings and sail plan.  She was in the\nownership of one family for  42 years.\n
+  \n\nBetween 2005 and 2015, *Rawanah* sailed thousands of  miles to the Outer and\n
+  Inner Hebrides, Orkney and Faroe Isles, Scilly  Isles, and Ireland three times\n
+  including a circumnavigation in July 2008.  She won the 'Cock o' the Bristol\nChannel
+  Race' with courses of 80 and 50  miles competing against the Bristol\nChannel cutter
+  fleet. In all those  sea miles *Rawanah* proved herself to be a\nsea kindly, robust
+  vessel,  gentle on the helm, making good passage time and\ncapable in rough  weather.\n
+  \n\n*Rawanah* is currently undergoing restoration in Crinan Boatyard and will\n
+  hopefully be afloat in 2026."
 year: 1935
 year_is_approximate: false
 designer:
@@ -72,6 +58,11 @@ reference:
 sail_number: G141
 uk_part1: '164354'
 ownerships:
+- member: 6254
+  id: 1013
+  start: 2019
+  share: 64
+  current: true
 - name: H Brown
   start: 1935
   end: '?'
@@ -92,12 +83,6 @@ ownerships:
   start: 2016
   end: 2019
   share: 64
-- name: Jon Reid
-  member: 6254
-  id: 1013
-  start: 2019
-  share: 64
-  current: true
 image_key: v6gTDt
 handicap_data:
   thcf: 0.999255819
