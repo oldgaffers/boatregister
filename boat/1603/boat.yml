@@ -22,7 +22,7 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2016-11-17T18:07:13+00:00'
   flexibility: normal
-  offered: null
+  offered:
   reduced: true
   sales_text: <p>Oysterman 16 gaff cutter built&nbsp; Bar Creek Yacht Station, 1979.
     Two berth cabin version, spirit stove, portapotti loo, Lombardini 8/10 hp diesel
@@ -30,10 +30,10 @@ for_sales:
     All in good order and fully equipped for cruising inc. Zodiac inflatable. Lying
     Ashore River Vilaine South Brittany. Vendor can negotiate reduced travel costs
     from UK for viewing and provide accommodation.
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  seller_gold_id:
+  seller_member:
+  sold:
+  summary:
   updated_at: '2020-05-03T10:13:12.627853+00:00'
 home_country: FRA
 home_port: South Brittany
@@ -41,6 +41,11 @@ hull_form: long keel deep forefoot
 sail_number: OY1603
 ssr: '17218'
 ownerships:
+- start: 2012
+  end: 2016
+  share: 64
+  id: 48
+  member: 1182
 - name: Martin Pound
   start: 1979
   end: 1990
@@ -51,10 +56,6 @@ ownerships:
     Dave Keller she was sailed very enthusiastically along the south coast of England.
     In 2016, she was sold in France, where she remains on the Trieux River.
   text: Owned by David Keller from
-- name: Adrian Sharpe
-  start: 2012
-  end: 2016
-  share: 64
 id: dd737347-970e-4b30-9bee-a9f24af6fa5f
 image_key: p3j5n8
 thumb: https://photos.smugmug.com/photos/i-cH5m558/0/Th/i-cH5m558-Th.jpg
