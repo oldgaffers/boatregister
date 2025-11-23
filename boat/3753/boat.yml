@@ -1,8 +1,10 @@
 name: Arlette
 oga_no: 3753
+generic_type: []
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Arlette is a standard Cornish Crabber 26.
+short_description: |-
+  Arlette is a standard Cornish Crabber 26.
 full_description: |-
   Arlette started her life as Willow on the East Coast where she stayed for about
   6 years before moving to Plymouth.  She was renamed Tribute and stayed in the
@@ -12,14 +14,14 @@ full_description: |-
 year: 2011
 year_is_approximate: false
 designer:
-- name: David Thomas
-  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+- id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
+  name: David Thomas
 design_class:
   name: Cornish Crabber 26
   id: 50503297-7263-4cf4-af74-102bb153bc8e
 builder:
-- name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+- id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+  name: Cornish Crabbers Ltd.
 place_built: Rock
 construction_material: grp
 spar_material: wood
@@ -33,7 +35,7 @@ hull_form: centre-boarder
 sail_number: '9'
 ssr: SSR171999
 callsign: MGFT6
-image_key: cxjCXV
+image_key: nn4jKx
 handicap_data:
   beam: 2.761
   draft: 1.999
@@ -42,4 +44,5 @@ handicap_data:
 air_draft: 6.096
 hin: GB-BIH26009C111
 mmsi: '232024757'
-updated_at: '2025-04-20'
+lastModified: '2025-04-20T16:23:28Z'
+updated_at: '2025-11-22'
