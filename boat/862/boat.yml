@@ -1,56 +1,30 @@
 name: Nightfall
 oga_no: 862
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |
-  *Nightfall* is a shoal-draft gaff cutter and was built
-  for WD Silcock and his wife to gently sail on the Norfolk Broads and around the
-  Suffolk Coast. She was designed by Harold Lidston who lived in Cowes.
-full_description: |
-  Built 1910 by Frederick Miller of Oulton Broad and originally
-  named *Nautilus* to a design by HH Lidstone to a fairly high price for
-  an owner and his wife to cruise the Broads as well as coastal cruising.
-
-  She was kept in immaculate condition by the owner for 20 years until he was
-  no longer able to use her in 1931. She was then bought by Maurice Griffiths who
-  wrote about her in &#39;Ten Small Yachts&#39; (whilst aboard her) and &#39;Magic
-  of the Swatchways&#39;
-  
-  She changed hands twice prior to the war,
-  belonging to a Dr. Gordon Grenville and a Major Shackell who used her until the
-  end of the war. She was then purchased by a yard and refitted internally as a
-  speculation and sold to a Mr May.
-  
-  She was purchased in 1961 by a Mr. AF Braithwaite and a syndicate from
-  Hertfordshire and had some &pound;500
-  spent on her in a major refit. Mr. Morrison bought her in 1970 and cruised in
-  Holland on the Ijsslemeer and around the Dutch Friesian Islands. She also went
-  on the OGA Heineken Rally in 1974.
-  
-  Mr. &amp; Mrs. Saville bought her in 1976, only a matter of weeks before the East Coast Race.
-  
-  Martyn and Bryony Mackrill have owned *Nightfall* since March 1984.
-  
-  <iframe allowfullscreen frameborder="0" height="360" width="640"
-    src="https://www.youtube.com/embed/fp9tp7gyCXM"
-  ></iframe>
-  
-  Video produced by <a href="http://www.myclassicboat.com/Home/" target="_blank">My Classic Boat</a>.
+short_description: |-
+  *Nightfall* is a shoal-draft gaff cutter and was built for WD Silcock and his
+  wife to gently sail on the Norfolk Broads and around the Suffolk Coast. She was
+  designed by Harold Lidston who lived in Cowes.
+full_description: |-
+  Built 1910 by Frederick Miller of Oulton Broad and originally named *Nautilus* to a design by HH Lidstone to a fairly high price for an owner and his wife to cruise the Broads as well as coastal cruising. She was kept in immaculate condition by the owner for 20 years until he was no longer able to use her in 1931. She was then bought by Maurice Griffiths who wrote about her in 'Ten Small Yachts' (whilst aboard her) and 'Magic of the Swatchways' She changed hands twice prior to the war, belonging to a Dr. Gordon Grenville and a Major Shackell who used her until the end of the war. She was then purchased by a yard and refitted internally as a speculation and sold to a Mr May. She was purchased in 1961 by a Mr. AF Braithwaite and a syndicate from Hertfordshire and had some £500 spent on her in a major refit. Mr. Morrison bought her in 1970 and cruised in Holland on the Ijsslemeer and around the Dutch Friesian Islands. She also went on the OGA Heineken Rally in 1974. Mr. & Mrs. Saville bought her in 1976, only a matter of weeks before the East Coast Race. Martyn and Bryony Mackrill have owned *Nightfall* since March 1984.  Video produced by [My Classic Boat](http://www.myclassicboat.com/Home/).
 year: 1910
 year_is_approximate: false
 designer:
-  name: H.H. Lidstone
+- name: H.H. Lidstone
   id: 6f38c425-7876-4a4e-8caa-98811569d4c5
 builder:
-  name: T.H. Miller
+- name: T.H. Miller
   id: 05a8c6fc-8e91-4918-95f3-410fdae73847
 place_built: Oulton Broad
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak, copper fastened with long iron keel
+previous_names:
+- Nautilus
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Yarmouth
 hull_form: long keel deep forefoot
@@ -58,30 +32,36 @@ uk_part1: '302862'
 ownerships:
 - name: Martyn Mackrill
   start: 1984
+  end: 2022
   share: 64
+- member: 4910
+  id: 539
+  start: 2022
+  share: 64
+  current: true
+  note: please check this is not a namesake
 website: http://martynmackrill.co.uk/marine-artists-boat.htm
-id: 585eaaaa-a777-47df-b360-5e27894ad3dd
 image_key: pvq8Mh
 handicap_data:
   thcf: 0.987256398
-  beam: 2.7676
-  draft: 1.0668
-  fore_triangle_height: 7.924896366739819
-  fore_triangle_base: 5.690685198732017
-  length_over_all: 9.44891489880517
+  beam: 2.768
+  draft: 1.067
+  fore_triangle_height: 7.925
+  fore_triangle_base: 5.691
+  length_on_deck: 9.449
+  length_on_waterline: 8.23
   propellor:
-    type: fixed
     blades: 3
-  main:
-    foot: 6.5532796878810045
-    head: 4.218483296756888
-    luff: 5.18166300902219
+    type: fixed
   topsail:
-    luff: 4.87685930260912
-    perpendicular: 1.9812240916849548
-  length_on_waterline: 8.22970007315289
-  length_on_deck: 9.4488
+    luff: 4.877
+    perpendicular: 1.981
+  length_over_all: 9.449
+  main:
+    foot: 6.553
+    head: 4.218
+    luff: 5.182
 created_at: '2020-04-25T16:55:24.066835+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Nautilus
+id: 585eaaaa-a777-47df-b360-5e27894ad3dd
+lastModified: '2023-12-10T22:21:30Z'
+updated_at: '2025-11-23'
