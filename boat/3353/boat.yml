@@ -1,6 +1,7 @@
 name: Skian
 oga_no: 3353
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: lug
 short_description: |-
@@ -19,7 +20,6 @@ full_description: |-
   together a boat with a simple rig that could be sailed alone or short-handed
   when the weather permits.
 
-
   I like the look of the Romilly 22 mainsail and mast, so set about looking for a
   used mast and was lucky to find one in the NW of England. A pal brought it over
   on top of his trailer yacht. Reading up on the Memory 19, it seems they need 500
@@ -37,28 +37,23 @@ full_description: |-
   aft of the board case. The Whale gusher pump easily clears the water ballast in
   less than five minutes per side if necessary.
 
-
   For light airs, I thought the single standing lug might need a bit of help, so
   decided to lengthen the existing sprit a couple of feet with the jib tacked
   where it was originally on a furler.  The assymetric kite is hauled out to the
   end of the sprit with a tackline in the usual manner. The sprit is also arranged
   to stand upright for use as a crane to hike the mast out of its tapered socket.
 
-
   There's no space under the sole to stash the outboard, so it lives on the
   transom, however, this is often a blessing when trying to get through the Calf
   Sound and the wind vanishes on you - quite a lot of currents around the IOM, so
-  safety-first! 
-
+  safety-first!
 
   Isle of Man Pleasure Craft Registry no. 1688
 year: 1975
 year_is_approximate: false
-designer: []
 design_class:
   name: Memory 19
   id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
-builder: []
 place_built: Liverpool
 construction_material: grp
 spar_material: carbon_composite
@@ -68,23 +63,24 @@ previous_names:
 selling_status: for_sale
 for_sales:
 - created_at: '2024-02-08T09:58:26.604Z'
-  asking_price: 7000
+  asking_price: 100
   sales_text: |-
+    Open to offers  
     See full description for history and details
-
 
     Sails: Mainsail, roller jib, asymmetric spinnaker Banks cover, substantial
     launching trolley and/or separate braked road trailer. We’ve trailed Skian to La
     Semaine du Golfe twice with no problem at all. 6hp Tohatsu outboard on stainless
     custom bracket. Novasail NS100 instrument, pvc cushions. Could deliver around UK
     at cost. Boat is the subject of an article in the Gaffers Log, issue 97, July
-    2018. Photo albums of Skian and its rebuild on Facebook page.
 
+    2018. Photo albums of Skian and its rebuild on Facebook page.
 
     Built 1975, re-built 2017 Built: Liverpool Type Sloop (Memory 19) Home: Port St
     Mary Rig: Standing Lug LOA 19’ Designer: Tony Robinson Built: Liverpool Boat Co.
     Re-built: Mick Kneale
   flexibility: normal
+  asking_price: 100
 home_country: GBR
 home_port: Port St. Mary, Isle of Man
 hull_form: centre-boarder
@@ -98,8 +94,12 @@ ownerships:
   current: true
 image_key: pmvPsG
 handicap_data:
+  thcf: '-'
   beam: 2.195
   draft: 0.457
   length_on_deck: 5.791
   length_on_waterline: 5.791
+  checked: true
 id: bda16439-f603-4d64-b7d0-7a0cce787e05
+lastModified: '2024-02-08T16:05:08Z'
+updated_at: '2025-11-26'
