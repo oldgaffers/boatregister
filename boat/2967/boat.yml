@@ -1,6 +1,7 @@
 name: Genesta II
 oga_no: 2967
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: |-
@@ -15,9 +16,10 @@ full_description: |-
   Mick Kneale was given the remains of the hull, the top having been chopped off
   along the sheerline and a big hole where the keel had been removed. He has
   raised the the freeboard to make it into a dayboat. The watertight raised floor
-  is made of 9mm Robins Elite ply, glassed over. 
-  
-  She is a gaff sloop rig with alloy spars and the fixed keel has a 315 kg bulb drawing 2.15m.
+  is made of 9mm Robins Elite ply, glassed over.  
+
+  She is a gaff sloop rig with alloy spars and the fixed keel has a 315 kg bulb
+  drawing 2.oom.
 year: 1985
 year_is_approximate: false
 designer:
@@ -54,12 +56,13 @@ for_sales:
     alloy spars and the fixed keel has a 315 kg bulb drawing 2.15m.
 
     Sails: Mainsail, Genoa, jib, staysail, 2 x asymmetric spinnakers plus a superb
-    Parasail.   Boat is a fully rigged dayboat with all lines, compass, anchor,
+    Parasail. Boat is a fully rigged dayboat with all lines, compass, anchor,
     fenders, sail covers etc. 6hp Tohatsu outboard (2 tanks), Novasail NS360+
-    instrument, Banks winter boat cover and cradle.   
-    
-    In local racing, we find it sails on average slightly quicker than a Bolero and slightly slower than a First
-    Class 8.   Photo albums of Genesta II and its rebuild on my Facebook page.
+    instrument, Banks winter boat cover and cradle.
+
+    In local racing, we find it sails on average slightly quicker than a Bolero and
+    slightly slower than a First Class 8. Photo albums of Genesta II and its rebuild
+    on my Facebook page.
   flexibility: normal
 home_country: GBR
 home_port: Isle of Man
@@ -80,7 +83,7 @@ image_key: BPm9qC
 handicap_data:
   thcf: 0.901
   beam: 2.387
-  draft: 2.134
+  draft: 1.981
   fore_triangle_height: 6.64
   fore_triangle_base: 2.6
   length_on_deck: 7.111
@@ -89,7 +92,7 @@ handicap_data:
   propellor:
     type: none
   sailarea: 28.825
-  draft_keel_down: 2.0000243233357717
+  draft_keel_down: 2
   length_over_all: 7.1
   main:
     foot: 3.9
@@ -97,3 +100,5 @@ handicap_data:
     luff: 4
 created_at: '2020-04-25T17:33:19.898947+00:00'
 id: 07c4f5d9-64b6-4336-a540-a2ae39921262
+lastModified: '2025-09-13T12:27:55Z'
+updated_at: '2025-11-26'
