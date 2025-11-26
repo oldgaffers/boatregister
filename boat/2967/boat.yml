@@ -40,7 +40,7 @@ previous_names:
 selling_status: for_sale
 for_sales:
 - created_at: '2024-02-08T09:56:32.132Z'
-  asking_price: 9000
+  asking_price: 100
   sales_text: |-
     Open to offers  
     Built 1985, re-built 2012 Built: Isle of Man Type: Sloop Home: Port St Mary Rig:
@@ -65,6 +65,7 @@ for_sales:
     slightly slower than a First Class 8. Photo albums of Genesta II and its rebuild
     on my Facebook page. YTC handicap 907/929
   flexibility: normal
+  reduced: true
 home_country: GBR
 home_port: Isle of Man
 hull_form: fin keel
@@ -93,14 +94,16 @@ handicap_data:
   propellor:
     type: none
   sailarea: 28.825
+  checked: true
   draft_keel_down: 2
   length_over_all: 7.1
   main:
     foot: 3.9
     head: 4.9
     luff: 4
-  checked: true
 created_at: '2020-04-25T17:33:19.898947+00:00'
 id: 07c4f5d9-64b6-4336-a540-a2ae39921262
-lastModified: '2025-11-26T14:01:30Z'
+lastModified: '2025-11-26T18:04:12Z'
+year_of_build:
+  value: 1985
 updated_at: '2025-11-26'
