@@ -22,7 +22,7 @@ def update_owner(boat, status, firstname, lastname, id, member):
     a = []
     b = []
     for ownership in ownerships:
-      if ownership.get('name', None) == name and 'end' not in ownership:
+      if ownership.get('name', None) == name and ownership.get('current', False):
         a.append(ownership)
         dirty = True
       else:
