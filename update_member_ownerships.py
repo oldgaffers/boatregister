@@ -21,38 +21,38 @@ def update_owner(boat, status, firstname, lastname, id, member):
   if status == 'Member':
     a = []
     b = []
-    for os in ownerships:
-      if os.get('name', None) == name:
-        a.append(os)
+    for ownership in ownerships:
+      if ownership.get('name', None) == name and 'end' not in ownership:
+        a.append(ownership)
         dirty = True
       else:
-        b.append(os)
-    for os in a:
-      print(boat['oga_no'], os)
-      del os['name']
-      os['id'] = id
-      os['member'] = member
+        b.append(ownership)
+    for ownership in a:
+      print(boat['oga_no'], ownership)
+      del ownership['name']
+      ownership['id'] = id
+      ownership['member'] = member
     ownerships = [*a, *b]
   else:
     a = []
     b = []
-    for os in ownerships:
-      if os.get('id', None) == id:
-        a.append(os)
+    for ownership in ownerships:
+      if ownership.get('id', None) == id:
+        a.append(ownership)
         dirty = True
       else:
-        b.append(os)
-    for os in a:
-      os['name'] = name
-      del os['id']
-      del os['member']
+        b.append(ownership)
+    for ownership in a:
+      ownership['name'] = name
+      del ownership['id']
+      del ownership['member']
       if status == 'Non-member':
         pass
       elif status == 'Deceased':
-        if boat.get('current', False):
-          del boat['current']
-        if 'end' not in boat:
-          os['end'] = datetime.now().year
+        if ownership.get('current', False):
+          del ownership['current']
+        if 'end' not in ownership:
+          ownership['end'] = datetime.now().year
       else:
         print('unknown status', status, firstname, lastname, id, member)
     ownerships = [*a, *b]
