@@ -5,11 +5,11 @@ rig_type: Sloop
 mainsail_type: gaff
 short_description: <p>Built in 1933, &#39;Ranger&#39; is still sailed in Sydney, Australia
   by OGA member Bill Gale, the son of her designer, EC Gale.</p>
-full_description: "<p>&#39;Ranger&#39;, built in 1933 by William (Billy) Fisher at\
-  \ La Perouse, New South Wales, Australia was designed by Cliff Gale. It is a 24&#39;\
-  \ 6&quot; raised deck sloop and is sailed by Cliff&#39;s son, Bill, known as Sydney&#39;s\
-  \ senior gaffer who started crewing on her over 75 years ago.</p>\r\n\r\n<p>Read\
-  \ an article about Bill Gale and &#39;Ranger&#39; in <a href=\"http://www.afloat.com.au/afloat-magazine/2013/may-2013/Bloody_good_season_ahead_for_sailing_legend_87\"\
+full_description: "<p>&#39;Ranger&#39;, built in 1933 by William (Billy) Fisher at
+  La Perouse, New South Wales, Australia was designed by Cliff Gale. It is a 24&#39;
+  6&quot; raised deck sloop and is sailed by Cliff&#39;s son, Bill, known as Sydney&#39;s
+  senior gaffer who started crewing on her over 75 years ago.</p>\r\n\r\n<p>Read an
+  article about Bill Gale and &#39;Ranger&#39; in <a href=\"http://www.afloat.com.au/afloat-magazine/2013/may-2013/Bloody_good_season_ahead_for_sailing_legend_87\"\
   \ target=\"_blank\">Afloat Magazine, Australia, May 2013</a>.</p>"
 year: 1933
 year_is_approximate: false
@@ -34,13 +34,14 @@ home_port: Sydney
 hull_form: long keel deep forefoot
 sail_number: A1
 ownerships:
+- start: 1968
+  end: 2015
+  share: 64
+  id: 42
+  member: 1108
 - name: E C Gale
   start: 1933
   end: 1968
-  share: 64
-- name: Bill Gale
-  start: 1968
-  end: 2015
   share: 64
 - name: Shaun McKnight
   start: 2015
