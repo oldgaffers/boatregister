@@ -29,7 +29,7 @@ selling_status: not_for_sale
 for_sales:
 - created_at: '2019-06-15T13:58:51+00:00'
   flexibility: normal
-  offered: null
+  offered:
   reduced: false
   sales_text: <p>"Gimli", a well cared for Memory 19, overall winner of the OGA Helford
     Regatta in 2017, is for sale. She is a fast boat with a distinguished racing history
@@ -39,22 +39,23 @@ for_sales:
     has a two year old SBS galvanised&nbsp;trailer that has never been in salt water.
     She has always been launched by crane. Full set of sails including topsail, plus
     inboard outboard.&nbsp;More details to follow on request.</p>
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
+  seller_gold_id:
+  seller_member:
+  sold:
+  summary:
   updated_at: '2020-05-03T10:13:13.311563+00:00'
 home_country: GBR
 home_port: Dittisham, Devon
 hull_form: centre-boarder
 ownerships:
+- start: 2013
+  end: 2018
+  share: 64
+  id: 819
+  member: 5883
 - name: Garry and Vicki Flashman
   start: 2009
   end: 2013
-  share: 64
-- name: Mark Darley
-  start: 2013
-  end: 2018
   share: 64
 - member: 6330
   id: 1077
