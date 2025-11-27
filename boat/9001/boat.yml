@@ -23,12 +23,13 @@ full_description: |-
   More text
 year: 1985
 year_is_approximate: true
+designer: []
 design_class:
   name: Falmouth Bass Boat
   id: c05a2174-4b46-410f-829f-894193f020c3
 builder:
-- name: Julian Cable
-  id: 3cad9362-b1ee-4d3c-9680-882f2b72a931
+- id: 3cad9362-b1ee-4d3c-9680-882f2b72a931
+  name: Julian Cable
 place_built: Falmouth
 construction_material: grp
 spar_material: wood
@@ -50,5 +51,15 @@ handicap_data:
   length_on_deck: 4.267
   length_on_waterline: 8.534
 air_draft: 3.048
-lastModified: '2025-11-15T11:40:33Z'
-updated_at: '2025-11-15'
+lastModified: '2025-11-27T10:01:52Z'
+year_of_build:
+  approx: true
+  value: 1985
+image_key_note:
+  albumKey: rKHstz
+  urlName: OGA-9001
+  oga_no: 9001
+  name: Conflict (9001)
+  note: album exists but name is wrong - either a duplicate use of the OGA number
+    or a name change?
+updated_at: '2025-11-27'
