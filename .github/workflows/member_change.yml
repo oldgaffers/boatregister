@@ -37,7 +37,7 @@ jobs:
         git checkout ${{ env.branch }}
     - name: update member ownerships
       run: |
-        python -m poetry run python update_member_ownerships.py ${{ github.event.inputs.status }} ${{ github.event.inputs.firstname }} ${{ github.event.inputs.lastname }} ${{ github.event.inputs.id }} ${{ github.event.inputs.member_number }}
+        python -m poetry run python update_member_ownerships.py ${{ github.event.inputs.status }} "${{ github.event.inputs.firstname }}" "${{ github.event.inputs.lastname }}" ${{ github.event.inputs.id }} ${{ github.event.inputs.member_number }}
         git add .
         if git diff --cached --exit-code; then
           echo CHANGES=0 >> $GITHUB_ENV
