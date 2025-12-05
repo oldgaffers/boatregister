@@ -1,6 +1,7 @@
 name: Dayspring
 oga_no: 3486
-generic_type: Falmouth Quay Punt
+generic_type:
+- Falmouth Quay Punt
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -12,7 +13,6 @@ full_description: |-
   then relevant 'White Fish Authority' standard. This resulted in a very solid 8.3
   tonne vessel. The rig was designd by Percy Dalton and the interior was designed
   and fitted out by the original owner.
-
 
   The boat was sold to Ron Arnold in 2009 who kept her in Weymouth and had plans
   to take her to the Mediterranean by way of the French canals. With his trip in
@@ -30,22 +30,24 @@ builder:
 - name: Cygnus Marine
   id: 4defc904-dd2c-47e9-baf3-3a691a841c97
 - name: Cygnus Marine
-  id: 3f247116-cdc7-4c28-837e-c9e6111b4893
+  id: 4defc904-dd2c-47e9-baf3-3a691a841c97
 place_built: Cornwall
 construction_material: grp
 spar_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2025-07-31T20:40:12.148Z'
+  asking_price: 29000
   sales_text: |-
     Dayspring is a 4 berth 28' replica Falmouth working boat, she was built by
     Cygnus Marine in Gweek in Cornwall in 1979. She is a gaff rigged cutter with
     traditional full displacement, long keel and retractable bowsprit.
 
-
     For a full specification, and detailed photographs please contact me.
   flexibility: normal
-  asking_price: 29000
+  date_sold: '2025-12-05T19:33:32.841Z'
+  summary: <div><!--block-->final price not known</div>
+  sale_price: 29000
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel deep forefoot
@@ -57,8 +59,8 @@ ownerships:
 - member: 6398
   id: 34739
   start: '2021'
+  end: 2025
   share: 64
-  current: true
 image_key: KSJP5d
 handicap_data:
   thcf: 0.976
@@ -73,4 +75,7 @@ handicap_data:
   checked: true
 created_at: '2020-12-16T22:15:41.390393+00:00'
 id: a5c5cfdd-5f2b-4998-b8ec-18750806cced
-updated_at: '2025-07-31'
+lastModified: '2025-07-31T20:55:42Z'
+year_of_build:
+  value: 1980
+updated_at: '2025-12-05'
