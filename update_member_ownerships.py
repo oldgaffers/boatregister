@@ -3,7 +3,7 @@ import sys
 import yaml
 from os import listdir
 from datetime import datetime
-from helpers import dump
+from helpers import dump, map_boat
 
 def get_boat(path):
   try:
@@ -76,6 +76,8 @@ if __name__ == '__main__':
   if status not in ['Member', 'Non-member', 'Deceased']:
     usage()
     exit()
+  with open("pickers.json", "r") as stream:
+    pickers = json.load(stream)
   mypath='boat'
   boats = listdir(mypath)
   for b in boats:
@@ -85,4 +87,4 @@ if __name__ == '__main__':
       updated = update_owner(boat, status, firstname, lastname, id, member)
       if updated is not None:
         with open(path, "w") as stream:
-          dump(updated, stream)
+          dump(map_boat(updated, pickers), stream)
