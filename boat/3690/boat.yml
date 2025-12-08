@@ -1,6 +1,7 @@
 name: BlueBelle
 oga_no: 3690
-generic_type: Dayboat
+generic_type:
+- Dayboat
 rig_type: Sloop
 mainsail_type: gaff
 short_description: |-
@@ -11,41 +12,45 @@ year_is_approximate: false
 designer:
 - name: Murray G. Peterson
   id: a2e01005-a9e2-4e11-84f6-26828637d074
-builder: []
 place_built: Fowey
 construction_material: wood
 spar_material: wood
 construction_method: carvel
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2025-03-14T09:46:43.354Z'
-  sales_text: |-
-    Very pretty gaff sloop dayboat.   Designed by Murray Peterson, Boston, USA, 1934
-    Built of yellow Alaskan cedar and mahogany by Marcus Lewis,   Fowey, 2006.
-    18ft LOA on deck. 3ft fixed bowsprit   Long straight keel. Draft 2ft 6ins.
-    Reliable 13.5 hp Beta inboard engine. 2-bladed fixed prop.   Mainsail and jib in
-    good repair. Wykham Martin jib furling.   Ground tackle, legs, autohelm 100,
-    fenders, cushions, mooring   ropes and winter covers.   Easily sailed
-    single-handed.   (2.8m inflatable dinghy with O/B available as extras if
-    required)   Lying afloat at Weymouth Sailing Club.   Owner swallowing anchor
-    because of age.
-  flexibility: normal
   asking_price: 6500
+  sales_text: |-
+    Very pretty gaff sloop dayboat. Designed by Murray Peterson, Boston, USA, 1934
+    Built of yellow Alaskan cedar and mahogany by Marcus Lewis, Fowey, 2006. 18ft
+    LOA on deck. 3ft fixed bowsprit Long straight keel. Draft 2ft 6ins. Reliable
+    13.5 hp Beta inboard engine. 2-bladed fixed prop. Mainsail and jib in good
+    repair. Wykham Martin jib furling. Ground tackle, legs, autohelm 100, fenders,
+    cushions, mooring ropes and winter covers. Easily sailed single-handed. (2.8m
+    inflatable dinghy with O/B available as extras if required) Lying afloat at
+    Weymouth Sailing Club. Owner swallowing anchor because of age.
+  flexibility: normal
+  date_sold: '2025-12-08T15:57:21.956Z'
+  sale_price: 6500
+  summary: <div><!--block-->final price not known</div>
 home_country: GBR
 home_port: Weymouth
+hull_form: long keel sloping forefoot
 ownerships:
 - member: 6519
   id: 34919
   start: 2022
+  end: 2025
   share: 64
-  current: true
 image_key: XgWfGn
 handicap_data:
   beam: 1.92
   draft: 0.762
   length_on_deck: 5.486
-  length_on_waterline: 8.534
+  length_on_waterline: 5.182
 created_at: '2022-02-21T18:53:25.147891+00:00'
-air_draft: 11.5
 id: a3be009e-8b48-4e49-92b2-0093036ae894
-updated_at: '2025-03-14'
+lastModified: '2025-03-14T09:48:38Z'
+year_of_build:
+  value: 2006
+updated_at: '2025-12-08'
