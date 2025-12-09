@@ -4,7 +4,8 @@ generic_type:
 - Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Cornish Crabber 22 built 2002
+short_description: |-
+  Cornish Crabber 22 built 2002
 full_description: |-
   Millie B  is a professionally completed example of the Cornish Crabber  22 class
   built by Cornish Crabbers in Cornwall in 2002.
@@ -21,16 +22,13 @@ builder:
 place_built: Rock, Cornwall
 construction_material: grp
 spar_material: wood
-previous_names: []
 home_country: UK
 home_port: Poole
 hull_form: centre-boarder
 sail_number: '30'
 callsign: 2HXR4
 ownerships:
-- id: 35394,
-  member: 6882
-  start: 2025
+- start: 2025
   share: 64
   current: true
 image_key: c3RZDq
@@ -42,4 +40,7 @@ handicap_data:
 air_draft: 6.706
 hin: GBBIH22030I101
 mmsi: '235107481'
-updated_at: '2025-10-28'
+lastModified: '2025-10-28T15:43:46Z'
+year_of_build:
+  value: 2002
+updated_at: '2025-12-09'
