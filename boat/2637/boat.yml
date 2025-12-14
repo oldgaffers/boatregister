@@ -27,32 +27,33 @@ for_sales:
   flexibility: normal
   reduced: true
   sale_price: 5500
-  sales_text: "Salterns built c2000. Cabin version 2 berth. Cooker, depth sounder,
-    compass,\nautohelm, tiller clutch, anchor, chain, fenders,wired for lights. Main,
-    jib,\nstorm jib, cruising chute, topsail. Outboard Tohatsu l/s 6hp petrol c 6hrs\n
-    runtime serviced. View Dell Quay Yacht Yard. Contact 07774 238293 or\nantbaum@aol.com"
+  sales_text: |-
+    Salterns built c2000. Cabin version 2 berth. Cooker, depth sounder, compass,
+    autohelm, tiller clutch, anchor, chain, fenders,wired for lights. Main, jib,
+    storm jib, cruising chute, topsail. Outboard Tohatsu l/s 6hp petrol c 6hrs
+    runtime serviced. View Dell Quay Yacht Yard. Contact 07774 238293 or
+    antbaum@aol.com
   summary: <p>Boat was found and sold from&nbsp; the Gaffers Log boat register</p>
 home_country: GBR
-home_port: Isle of Wight
+home_port: Yarmouth
 hull_form: centre-boarder
 sail_number: '2637'
 ownerships:
-- start: 2025
-  share: 64
-  current: true
-  id: 35403
-  member: 6889
 - member: 4396
   id: 439
   start: 2009
   end: 2012
   share: 32
-- name: Anthony Baumann
-  member: 6115
+- member: 6115
   id: 934
   start: 2016
   end: 2025
   share: 64
+- member: 6889
+  id: 35403
+  start: 2025
+  share: 64
+  current: true
 image_key: 8skZWK
 handicap_data:
   thcf: 0.865
@@ -77,4 +78,7 @@ handicap_data:
     luff: 3.709
 created_at: '2020-04-25T17:23:47.024462+00:00'
 id: e02896b9-26fa-4187-b8fd-97d5edfc439e
-updated_at: '2025-10-16'
+lastModified: '2025-11-25T02:01:38Z'
+year_of_build:
+  value: 2000
+updated_at: '2025-12-14'
