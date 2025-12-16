@@ -1,50 +1,36 @@
 name: Windflower
 oga_no: 1101
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: Similar to the designer's XOD but larger
-full_description: Windflower has been sailed successfully in local club regattas with
-  several class wins in the annual Yarmouth Taittinger Regatta including winning the
+short_description: |-
+  Similar to the designer's XOD but larger
+full_description: |-
+  Windflower has been sailed successfully in local club regattas with several
+  class wins in the annual Yarmouth Taittinger Regatta including winning the
   regatta overall in 2013. Windflower has also won Yogaf on two occasions and won
   a number of races at the RLYC including the coveted Potters Ship Trophy.
 year: 1932
 year_is_approximate: false
 designer:
-  name: Alfred J Westmacott
+- name: Alfred J Westmacott
+  id: 54a54a45-ffb9-499b-8e78-74c125fcc35f
+- name: Alfred J Westmacott
   id: 54a54a45-ffb9-499b-8e78-74c125fcc35f
 builder:
-  name: Woodnutt and Co. Ltd.
+- name: Woodnutt and Co. Ltd.
   id: c04e2023-3dc9-4679-9e31-fd807bec3001
 place_built: Bembridge
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on American rock elm w/ Teak superstructure
+previous_names:
+- Wee Mac
 selling_status: for_sale
-for_sales:
-- asking_price: 32500
-  created_at: '2020-07-28T19:23:13.221794+00:00'
-  flexibility: normal
-  offered: '2020-07-28'
-  reduced: false
-  sales_text: Windflower has been sailed successfully in local club regattas with
-    several class wins in the annual Yarmouth Taittinger Regatta including winning
-    the regatta overall in 2013. Windflower has also won Yogaf on two occasions and
-    won a number of races at the RLYC including the coveted Potters Ship Trophy.<p>
-    She had a major refit in 2005 which included a new engine, spars, rigging and
-    sails. The current owner purchased her in 2008 and has maintained her regularly
-    to keep her in excellent overall condition. Windflower has been kept ashore undercover
-    in the winter months and comes with her own cradle and full winter cover. Her
-    sail inventory has been continually upgraded along with her running and standing
-    rigging.<p>More details at the <a href="http://www.sandemanyachtcompany.co.uk/yacht/575/WINDFLOWER">Sandeman
-    Yacht Company</a>.
-  seller_gold_id: null
-  seller_member: null
-  sold: null
-  summary: null
-  updated_at: '2020-07-28T19:23:13.221794+00:00'
-home_port: Lymington
+home_country: Hampshire
+home_port: Bucklers Hard, Beaulieu
 hull_form: long keel sloping forefoot
 sail_number: OS4
 ssr: '80306'
@@ -52,26 +38,32 @@ ownerships:
 - name: Malcolm McKeown
   start: 2012
   share: 64
-id: 5f912205-08b7-44d9-9af2-6d93567a09b2
+- member: 6867
+  id: 35377
+  start: 2025
+  share: 64
+  current: true
 image_key: KMCMBg
 handicap_data:
   thcf: 0.936
   beam: 2.286
-  draft: 1.0912
-  fore_triangle_height: 9.601316752011703
-  fore_triangle_base: 3.633260180443794
-  length_over_all: 7.976712996830042
+  draft: 1.091
+  fore_triangle_height: 9.601
+  fore_triangle_base: 3.633
+  length_on_deck: 7.977
+  length_on_waterline: 6.273
   propellor:
-    type: folding
     blades: 3
-  sailarea: 38.79591194108803
+    type: feathering
+  sailarea: 38.796
+  length_over_all: 7.977
   main:
-    foot: 4.672640819312362
-    head: 4.242867593269934
-    luff: 4.419653742989515
-  length_on_waterline: 6.272860277980979
-  length_on_deck: 7.9766
+    foot: 4.673
+    head: 4.243
+    luff: 4.42
 created_at: '2020-04-25T16:59:52.651775+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Wee Mac
+id: 5f912205-08b7-44d9-9af2-6d93567a09b2
+lastModified: '2025-09-20T15:53:27Z'
+year_of_build:
+  value: 1932
+updated_at: '2025-12-16'
