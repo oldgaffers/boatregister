@@ -1,15 +1,16 @@
 name: Maid of Shannon
 oga_no: 2586
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Ketch
 mainsail_type: bermudan
 year: 1968
 year_is_approximate: false
 designer:
-  name: David Hillyard
+- name: David Hillyard
   id: 775a13f5-28e1-433f-bec0-2ad3d271ca6b
 builder:
-  name: David Hillyard
+- name: David Hillyard
   id: d649c6a5-3acc-4f60-868f-7415641908a4
 place_built: Littlehampton
 construction_material: wood
@@ -17,27 +18,33 @@ spar_material: wood
 construction_method: carvel
 construction_details: Hard chine transom stern
 selling_status: not_for_sale
+home_country: Uk
 home_port: Exmouth
 hull_form: long keel sloping forefoot
 sail_number: 1969Y
 ssr: SSR183944
 callsign: MKG06
+nhsr: '3873'
 ownerships:
+- name: Ken Pausey
+  start: 2012
+  end: 2021
+  share: 64
 - member: 6595
   id: 35014
   start: 2021
   share: 64
   current: true
-- name: Ken Pausey
-  start: 2012
-  share: 64
-  end: 2021
 image_key: kqdnzv
 handicap_data:
   beam: 3.2
-  draft: 1.728
+  draft: 1.372
   length_on_deck: 10.058
-  length_on_waterline: 10.66812972445745
-  length_over_all: 11.582540843696659
+  length_on_waterline: 9.449
+  length_over_all: 11.582
 created_at: '2020-04-25T17:23:00.607803+00:00'
 id: cca6f0b4-2770-4842-9335-21a94102a1f7
+lastModified: '2025-10-23T09:11:50Z'
+year_of_build:
+  value: 1968
+updated_at: '2026-01-02'
