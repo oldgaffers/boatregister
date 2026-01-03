@@ -1,49 +1,58 @@
 name: Amnesia
 oga_no: 1077
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
 year: 1983
 year_is_approximate: false
 designer:
-  name: Anthony Robinson
+- name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
 design_class:
   name: Memory 19
   id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
-  name: Bill Winter Boats
+- name: Bill Winter Boats
   id: b04631e9-ccc7-4e76-9665-6b2448e0d87d
 place_built: Lymm
 construction_material: grp
 spar_material: wood
 construction_details: GRP
+previous_names:
+- Elizabeth Margaret
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 hull_form: centre-boarder
 ownerships:
 - name: C I Thompson
   start: 1984
   share: 64
-id: c699b233-5cfa-411b-978e-d18cea1d903d
+- member: 5734
+  id: 743
+  start: 2026
+  share: 64
+  current: true
+  note: please check this is not a namesake
 handicap_data:
   thcf: 0.873389825
-  beam: 2.1336
-  draft: 0.5334
-  fore_triangle_height: 5.7912704218483295
-  fore_triangle_base: 2.7950499878078516
-  length_over_all: 5.7912704218483295
-  main:
-    foot: 4.57205559619605
-    head: 3.2004389173372347
-    luff: 3.8100463301633747
+  beam: 2.134
+  draft: 0.533
+  fore_triangle_height: 5.791
+  fore_triangle_base: 2.795
+  length_on_deck: 5.791
+  length_on_waterline: 5.691
   topsail:
-    luff: 3.6576444769568397
-    perpendicular: 1.8288222384784198
-  length_on_waterline: 5.690685198732017
-  length_on_deck: 5.7912
+    luff: 3.658
+    perpendicular: 1.829
+  length_over_all: 5.791
+  main:
+    foot: 4.572
+    head: 3.2
+    luff: 3.81
 created_at: '2020-04-25T16:59:30.84565+00:00'
-updated_at: '2022-07-01T06:35:00.31811+00:00'
-previous_names:
-- Elizabeth Margaret
+id: c699b233-5cfa-411b-978e-d18cea1d903d
+lastModified: '2023-07-08T09:18:06Z'
+year_of_build:
+  value: 1983
+updated_at: '2026-01-03'
