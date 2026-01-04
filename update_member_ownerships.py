@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import sys
 import yaml
+import json
 from os import listdir
 from datetime import datetime
 from helpers import dump, map_boat
