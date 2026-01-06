@@ -53,6 +53,7 @@ jobs:
         git config --global user.name ogauk  
         git config --global user.email boatregister@oga.org.uk
         git commit . -m "updated owners"
+        git rebase main # in case other runs have finished first
         git push -u origin ${{ env.branch }}
         gh pr create \
           --assignee AlisonCable \
