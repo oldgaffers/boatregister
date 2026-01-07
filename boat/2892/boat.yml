@@ -1,6 +1,7 @@
 name: Crescent Moon
 oga_no: 2892
-generic_type: Smack Yacht
+generic_type:
+- Smack Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -10,14 +11,12 @@ short_description: |-
 full_description: |-
   *Crescent Moon* is a smack type yacht, built by William Fox in Kings Lynn in
   1914. But we know nothing more about the builder, of whether he worked in a boat
-  yard or as an individual. 
-
+  yard or as an individual.
 
   She has a square counter-stern similar to a fishing smack, with a rounded bow
   that is more  typical of a pleasure yacht of her day. She was built as a
   pleasure yacht, with  paraffin engine, and is said to have been built as a
-  retirement gift for the owner of a boatyard.  
-
+  retirement gift for the owner of a boatyard.
 
   Originally she was built as a gaff cutter, complete with a retracting topmast
   and tops'l , but was converted to bermudan rig in the early 1950's. In 1922 she
@@ -26,7 +25,6 @@ full_description: |-
   at Pin Mill on the river Orwell since the late 1980's.
 year: 1914
 year_is_approximate: false
-designer: []
 builder:
 - name: William Fox
   id: 73d4ff77-0f38-428a-8437-84f45cfa206c
@@ -40,9 +38,21 @@ for_sales:
 - created_at: '2025-06-04T08:52:35.771Z'
   asking_price: 23000
   sales_text: |-
-    *Crescent Moon* sails beautifully and is a joy to be on, with her fully varnished coach-roof and decks.
-    We've undertaken a programme of continual improvements in our 9 year ownership and all aspects of her are fully sorted out and in great condition.
-    We are only selling her due to our retirement and wish to do some blue water offshore sailing.
+    *Crescent Moon* is a 32' long gaff cutter built in Kings Lynn in 1914.  She is a
+    true one-off, with a fishing smack like counter stern, and a more yacht looking
+    curved bow.   She is in excellent structural condition, built of pitch pine
+    planks on oak frames. She can sleep up to 5 people and has been well used by us
+    in our ownership for east coast cruising.
+
+    We've undertaken a programme of continual improvements in our 9 year ownership
+    and all aspects of her are fully sorted out and in great shape.
+
+    *Crescent Moon* is a beautiful boat and is a joy to be on, with her fully
+    varnished coach-roof and decks.
+
+    We are only selling her due to our retirement and wish to do some blue water
+    offshore sailing.
+
     She is ashore at Pin Mill in Suffolk and ready to sail.
   flexibility: normal
 home_country: GBR
@@ -69,4 +79,7 @@ handicap_data:
   length_over_all: 9.449
 created_at: '2020-04-25T17:30:31.514061+00:00'
 id: c56d1efd-7d3c-4eda-83eb-12301f5ea52a
-updated_at: '2025-06-05'
+lastModified: '2025-06-05T19:03:29Z'
+year_of_build:
+  value: 1914
+updated_at: '2026-01-07'
