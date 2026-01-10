@@ -1,6 +1,7 @@
 name: Pegbox
 oga_no: 3624
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Yawl
 mainsail_type: standing lug
 short_description: |-
@@ -9,10 +10,7 @@ short_description: |-
 full_description: |-
   Built to satisfy a desire for a family dinghy, but not really used as such.
   Sailed on the Thames, the Solent and the Orwell. The rig gives lots of options
-  and performs well in windy conditions with just jib and mizzen. She comes
-  complete with trailer, oars, bouyancy bags, sails, anchors and lines. I also
-  have an epropulsion Spirit 1 electric outboard available separately for £1200
-  extra
+  and performs well in windy conditions with just jib and mizzen.
 year: 2020
 year_is_approximate: true
 designer:
@@ -29,16 +27,21 @@ construction_material: woodepoxy
 spar_material: wood
 construction_method: clinker_ply
 construction_details: Clinker Ply
-selling_status: for_sale
+selling_status: not_for_sale
+for_sales:
+- created_at: '2026-01-10T14:43:04.926Z'
+  flexibility: normal
+  date_sold: '2026-01-10T14:43:04.926Z'
+  sale_price: 1000
+  summary: <div><!--block-->final price not known</div>
 home_country: UK
 home_port: Thames
 hull_form: centre-board dinghy
 ownerships:
-- member: 6513
-  id: 34911
+- name: Francis Bemrose
   start: '2022'
+  end: 2026
   share: 64
-  current: true
 image_key: tFxrSx
 handicap_data:
   beam: 1.524
@@ -46,4 +49,8 @@ handicap_data:
   length_on_deck: 4.877
   length_on_waterline: 4.572
 air_draft: 5.791
-updated_at: '2025-07-03'
+lastModified: '2025-07-03T10:59:27Z'
+year_of_build:
+  approx: true
+  value: 2020
+updated_at: '2026-01-10'
