@@ -1,10 +1,12 @@
 name: Kairos
 oga_no: 3774
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Sloop
 mainsail_type: spritsail
-short_description: Kairos is a Selway FIsher Highlander 12, with sprit sail and daggerboard
-year: 2010
+short_description: |-
+  Kairos is a Selway Fisher Highlander 12, with sprit sail and daggerboard
+year: 2001
 year_is_approximate: false
 place_built: Norfolk
 construction_material: plywood
@@ -12,7 +14,7 @@ spar_material: wood
 construction_method: stitch_and_glue
 home_country: GBR
 home_port: Langstone
-hull_form: centre-board dinghy
+hull_form: centre-boarder
 ownerships:
 - member: 6449
   id: 34822
@@ -26,3 +28,7 @@ handicap_data:
   length_on_deck: 3.658
   length_on_waterline: 3.048
 air_draft: 0.152
+lastModified: '2024-02-02T08:07:43Z'
+year_of_build:
+  value: 2010
+updated_at: '2026-01-11'
