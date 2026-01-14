@@ -3,13 +3,10 @@ oga_no: 2113
 generic_type: Half-decker
 rig_type: Sloop
 mainsail_type: gaff
-short_description: Ianthe has spent all her life at Christchurch Sailing Club.
+short_description: |-
+  Ianthe has spent all her life at Christchurch Sailing Club.
 full_description: |-
-  *Ianthe* has spent all her life at Christchurch Sailing Club. Her original mast
-  was replaced in 1993, made by her owner, Steve Renvoize, and her keel and
-  centreboard were renewed in 2003 by Rossiters. She has never had an engine. She
-  is owned by a syndicate of 8, all of whom must be members of Christchurch
-  Sailing Club.
+  *Ianthe* has spent all her life at Christchurch Sailing Club. Her original mast was replaced in 1993, made by her owner, Steve Renvoize, and her keel and centreboard were renewed in 2003 by Rossiters. She has never had an engine. She is owned by a syndicate of 8, all of whom must be members of Christchurch Sailing Club.
 year: 1898
 year_is_approximate: true
 designer:
@@ -33,16 +30,11 @@ home_port: Christchurch
 hull_form: centre-boarder
 sail_number: '3'
 ownerships:
-- start: 2024
-  share: 8
-  current: true
-  id: 35300
-  member: 6810
 - name: ''
   end: 33
-  note: '''Ianthe'' was owned for 33 years, 1916 - 1949, by Melville Druit, Commodore
-    of the Christchurch Sailing Club.'
-  text: '''Ianthe'' was owned for'
+  note: "'Ianthe' was owned for 33 years, 1916 - 1949, by Melville Druit, Commodore
+    of the Christchurch Sailing Club."
+  text: "'Ianthe' was owned for"
 - name: Melville Druitt
   start: 1916
   end: 1949
@@ -57,7 +49,13 @@ ownerships:
   start: '2023'
   share: 8
   current: true
-- name: John Roantree
+- member: 6898
+  id: 35416
+  start: 2024
+  share: 8
+  current: true
+- member: 6810
+  id: 35300
   start: 2024
   share: 8
   current: true
@@ -106,4 +104,4 @@ handicap_data:
     luff: 3.505
 created_at: '2020-04-25T17:15:13.300123+00:00'
 id: 4cd239ff-2317-47e5-b293-ef60d85d1706
-updated_at: '2024-10-23'
+updated_at: '2026-01-14'
