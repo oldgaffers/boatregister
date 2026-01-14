@@ -6,22 +6,23 @@ generic_type:
 rig_type: Yawl
 mainsail_type: gaff
 short_description: |-
-  34 foot yawl currently in Mystic Connecticut sinc  1946.  Currently under
-  restoration.
+  34 foot yawl built in Fleetwood. In Mystic Connecticut since 1946.  Currently
+  under restoration.
 full_description: |-
-  Speranza was built in 1902 by Liver and Wilding and is the first boat to appear
-  on Lloyds Register as a Liver and Wilding built boat after their purchase of the
-  J Gibson and Sons yard in Fleetwood. Beginning with Rev J. P. Way, DD,
-  headmaster of the Rossal School, Speranza changed hands frequently, until
-  arriving in Lymingtom in 1939. In mid June 1945, she was moored in the upper
-  Thames when she was purchased for £800 by Hans De Meiss-Teuffen, a double agent
-  in the early days of the war. As a Swiss national, he was able to obtain a
-  sailing permit the day after VJ day, and Speranza was the first yacht to leave
-  England after the war. After a sailing to Casablanca by way of Portugual and
-  Gibraltar, Speranza left for New London Connecticut, setting a record at the
-  time for fastest northern route crossing solo, at 58 days. She was on display at
-  the Mystic Seaport Museum for several years after her arrival, and has remained
-  in the area since. She is currently undergoing restoration
+  *Speranza* was built in 1902 by Liver & Wilding and is the first boat to appear
+  on Lloyds Register as a Liver & Wilding built boat after their purchase of the J
+  Gibson and Sons yard in Fleetwood. Beginning with Rev J. P. Way, DD, headmaster
+  of the Rossal School, *Speranza* changed hands frequently, until arriving in
+  Lymington in 1939.   
+  In mid June 1945, she was moored in the upper Thames when she was purchased for
+  £800 by Hans De Meiss-Teuffen, a double agent in the early days of the war. As a
+  Swiss national, he was able to obtain a sailing permit the day after VJ day, and
+  *Speranza* was the first yacht to leave England after the war.   
+  After a sailing to Casablanca by way of Portugual and Gibraltar, *Speranza* left
+  for New London, Connecticut, setting a record at the time for fastest northern
+  route crossing solo, at 58 days. She was on display at the Mystic Seaport Museum
+  for several years after her arrival, and has remained in the area since.    
+  She is currently undergoing restoration
 year: 1902
 builder:
 - name: Liver and Wilding
@@ -36,15 +37,21 @@ home_country: United States
 home_port: 'Mystic Connecticut '
 hull_form: long keel deep forefoot
 ownerships:
-- name: 6903
-  share: 64
 - name: An Owner
   start: 1800
   share: 64
+- member: 6903
+  id: 35422
+  share: 64
+  current: true
+  note: please check this is not a namesake
 website: https://www.instagram.com/savingsperanza?igsh=c2RyamtrZWJjNGN4
 handicap_data:
   beam: 2.591
   draft: 1.372
   length_on_deck: 10.363
   length_on_waterline: 8.534
+lastModified: '2026-01-14T15:24:46Z'
+year_of_build:
+  value: 1902
 updated_at: '2026-01-14'
