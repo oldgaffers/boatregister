@@ -7,17 +7,20 @@ mainsail_type: gaff
 year: 1983
 year_is_approximate: false
 designer:
-- name: Anthony Robinson
-  id: aaec4851-401d-4719-bd23-e80eb778816b
+- id: aaec4851-401d-4719-bd23-e80eb778816b
+  name: Anthony Robinson
 design_class:
   name: Memory 19
   id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
+builder: []
 construction_material: grp
 spar_material: wood
 construction_details: GRP
 selling_status: for_sale
 for_sales:
-- created_at: '2026-01-15T13:42:54.506Z'
+- asking_price: 3700
+  created_at: '2026-01-15T13:42:54.506Z'
+  flexibility: Normal
   sales_text: |-
     19’ Memory, modified to a yawl rig with twin headsails and topsail.  One of the
     early (c 1980) Liverpool boats of Tony Robinson design.  The wooden mast and
@@ -37,8 +40,6 @@ for_sales:
     She is equipped with depth gauge/fish finder, a small Garmin gps and a new
     automatic tiller pilot.  Safety gear includes main anchor with chain and stern
     anchor, along with inflatable dingy with electrical air pump.
-  asking_price: 3700
-  flexibility: Normal
 home_country: GBR
 home_port: Torquay
 hull_form: centre-boarder
@@ -52,6 +53,7 @@ ownerships:
   share: 64
   current: true
   note: please check this is not a namesake
+image_key: 5BT4Xh
 handicap_data:
   thcf: 0.873389825
   beam: 2.134
@@ -70,7 +72,8 @@ handicap_data:
     luff: 3.81
 created_at: '2020-04-25T16:59:30.84565+00:00'
 id: c699b233-5cfa-411b-978e-d18cea1d903d
-lastModified: '2026-01-03T09:24:29Z'
+lastModified: '2026-01-15T14:37:59Z'
 year_of_build:
+  approx: false
   value: 1983
 updated_at: '2026-01-15'
