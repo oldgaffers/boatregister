@@ -1,6 +1,7 @@
 name: Polly
 oga_no: 281
-generic_type: Maldon Smack
+generic_type:
+- Maldon Smack
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -13,11 +14,26 @@ full_description: |-
   was originally built with a transom stern, of the normal pine on oak
   construction, with a small cuddy forward of the mast and fish hold, below the
   main deck aft of the mast.
-  
-  In 1919 she was extended to 33 foot by the addition of the counter stern, which was built by Cooke in his barge yard at the other end of Maldon Town Quay from Howard's old yard (then being run by Dan Webb). Until 1955 she was fishing out of Maldon with the Pitt family. Of all the Maldon and Brightlingsea smacks which lay on the bank of the Blackwater below the quay, *Polly* was the only one without an engine in the early 1950s. In those days, it was often said that the fact she had never been subjected to the strains and vibrations of an engine resulted in her fastenings being in much better condition than any of the other boats. As Wally and Ernie Pitt had only the sails to propel them up and down the Blackwater, her running rigging was easily the best in the fleet. Wally and Ernie were a familiar sight on the river, often beating up to their mooring early on the flood, tacking up the narrow channel without saying a word.
-  
-  *Polly* missed the first East Coast Old Gaffers race, 1963, but Ian Edmond brought her along in 1964. He sailed a very nice race in a light breeze to be the first winner of the Tom Bolton Memorial Cup for the first fishing or ex-fishing boat over the finishing line. In this, Ian was helped by the relatively large sail area and very fine, unusually long run aft.
-  First published in the Old Gaffers Association Newsletter, 1973/3
+
+  In 1919 she was extended to 33 foot by the addition of the counter stern, which
+  was built by Cooke in his barge yard at the other end of Maldon Town Quay from
+  Howard's old yard (then being run by Dan Webb). Until 1955 she was fishing out
+  of Maldon with the Pitt family. Of all the Maldon and Brightlingsea smacks which
+  lay on the bank of the Blackwater below the quay, *Polly* was the only one
+  without an engine in the early 1950s. In those days, it was often said that the
+  fact she had never been subjected to the strains and vibrations of an engine
+  resulted in her fastenings being in much better condition than any of the other
+  boats. As Wally and Ernie Pitt had only the sails to propel them up and down the
+  Blackwater, her running rigging was easily the best in the fleet. Wally and
+  Ernie were a familiar sight on the river, often beating up to their mooring
+  early on the flood, tacking up the narrow channel without saying a word.
+
+  *Polly* missed the first East Coast Old Gaffers race, 1963, but Ian Edmond
+  brought her along in 1964. He sailed a very nice race in a light breeze to be
+  the first winner of the Tom Bolton Memorial Cup for the first fishing or
+  ex-fishing boat over the finishing line. In this, Ian was helped by the
+  relatively large sail area and very fine, unusually long run aft. First
+  published in the Old Gaffers Association Newsletter, 1973/3
 year: 1889
 year_is_approximate: false
 designer:
@@ -30,11 +46,11 @@ place_built: Maldon
 construction_material: wood
 selling_status: not_for_sale
 home_country: GBR
-home_port: Mistley
+home_port: Maldon
 hull_form: long keel deep forefoot
+fishing_number: MN12
 ownerships:
-- name: ''
-  start: 1955
+- start: 1955
   note: In 1955 Wally and Ernie Pitt decided they were getting too old to carry on
     fishing and sold 'Polly' to John Kemp of Heybridge, who, in turn, sold her to
     Ian Edmond in 1960. In 1966, Ian sold 'Polly' to a Mr Williams of Brightllingsea.
@@ -42,6 +58,11 @@ ownerships:
 - name: A Stear And Rw Farrow
   start: 2012
   share: 64
+- member: 6901
+  id: 35420
+  start: 2026
+  share: 64
+  current: true
 image_key: vnnQDt
 handicap_data:
   beam: 2.743
@@ -51,4 +72,7 @@ handicap_data:
   length_over_all: 10.363
 created_at: '2020-04-25T16:46:31.401112+00:00'
 id: 4c66a617-4b82-4cdb-9e16-44444e7915fc
-updated_at: '2024-10-16'
+lastModified: '2024-10-16T14:26:40Z'
+year_of_build:
+  value: 1889
+updated_at: '2026-01-20'
