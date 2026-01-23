@@ -1,5 +1,6 @@
 name: Clara
 oga_no: 3802
+generic_type: []
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -13,14 +14,14 @@ full_description: |-
   wear away I could see another name underneath but was unable to decipher it.
 year: 1987
 designer:
-- name: Roger Dongray
-  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+- id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+  name: Roger Dongray
 design_class:
   name: Cornish Crabber Mk 2
   id: 32e50b84-c68f-4036-bf50-397a432d113f
 builder:
-- name: Cornish Crabber Ltd
-  id: f532eb3b-fd11-4751-bf69-c1fb1111ce56
+- id: f532eb3b-fd11-4751-bf69-c1fb1111ce56
+  name: Cornish Crabber Ltd
 place_built: Cornwall, UK
 construction_material: grp
 spar_material: aluminium
@@ -32,4 +33,8 @@ handicap_data:
   draft: 1.372
   length_on_deck: 9.144
   length_on_waterline: 8.534
-updated_at: '2026-01-17'
+lastModified: '2026-01-17T23:52:04Z'
+year_of_build:
+  value: 1987
+note: Photos pending assignment to album by OGA admin
+updated_at: '2026-01-22'
