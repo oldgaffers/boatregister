@@ -9,19 +9,38 @@ short_description: |-
 year: 2014
 year_is_approximate: false
 designer:
-- id: af6f6943-2024-44d5-af5e-a6e63fc66db5
-  name: Roger Dongray
+- name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Golant Gaffer
   id: ecdf01fb-dd46-42f7-9232-39880886de2f
 builder:
-- id: 3e051428-a9f0-4bc7-8bc1-d8acc5359bf8
-  name: Vaughan
+- name: Vaughan
+  id: 3e051428-a9f0-4bc7-8bc1-d8acc5359bf8
 place_built: Northumberland
 construction_material: woodepoxy
 construction_details: Cedar speedstrip on ply bulkheads and iroko keel
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- created_at: '2026-01-27T16:57:59.385Z'
+  sales_text: |-
+    Golant Gaffer , two berths, with road trailer 2014. Home built with professional
+    assistance in Northumberland.  
+    Cedar speed strip on marine ply bulkheads and long iroko keel. Hull and decks
+    covered in grp. Classic Marine bronze fittings.  
+    Collar’s mast. Beta 10 engine refitted 2025.  LoD 5.71M B 2.13M d 0.83M
+    Displacement 1500Kg Ballast ratio 45%
+
+    A chance to own one of these beautiful Roger Dongray designed gaff rigged
+    cutters ideal for weekend cruising.
+
+    Sailed on the west coast of Scotland out of Craobh Marina. Wonderful to sail!
+
+    The sturdy Mersea/Snipe road trailer was purchased 2012
+
+    Lying ashore in Northumberland
+  flexibility: normal
+  asking_price: 15000
 home_country: GBR
 home_port: Portinscale
 hull_form: long keel deep forefoot
@@ -32,24 +51,24 @@ ownerships:
   start: 2014
   share: 64
   current: true
+  note: please check this is not a namesake
 image_key: ZnJVtp
 handicap_data:
-  beam: 2.1336
-  draft: 0.8382
-  fore_triangle_height: 6.3002
-  fore_triangle_base: 3.4046
+  beam: 2.134
+  draft: 0.838
+  fore_triangle_height: 6.3
+  fore_triangle_base: 3.405
   length_overall: 5.715
   length_on_deck: 5.715
-  length_on_waterline: 5.4102
-  length_over_spars: 7.3914
+  length_on_waterline: 5.41
+  length_over_spars: 7.391
   main:
-    foot: 3.6057840000000003
-    head: 3.099816
+    foot: 3.606
+    head: 3.1
     luff: 4.191
 created_at: '2020-04-25T17:46:11.409153+00:00'
 id: 56a3214a-7003-46c8-ab12-1fedaadd0793
 lastModified: '2023-07-16T07:28:48Z'
 year_of_build:
-  approx: false
   value: 2014
 updated_at: '2026-01-27'
