@@ -1,9 +1,11 @@
 name: Little Tern
 oga_no: 2862
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: 37' Wooden Gaff Cutter
+short_description: |-
+  37' Wooden Gaff Cutter
 full_description: |-
   Based on Claud Worth's Tern III, redesigned by first owner /builder to a smaller
   size. Ed Burnett designed rig, which includes a 52' hollow mast.
@@ -25,10 +27,15 @@ home_port: Dartmouth
 hull_form: long keel deep forefoot
 ssr: '126068'
 ownerships:
-- start: 2005
+- name: Peter Nash
+  start: 2005
+  end: 2026
+  share: 64
+- member: 6497
+  id: 34888
+  start: 2026
   share: 64
   current: true
-  name: Peter Nash
 handicap_data:
   thcf: 1.06
   beam: 2.896
@@ -50,3 +57,7 @@ handicap_data:
 created_at: '2020-04-25T17:29:18.266341+00:00'
 hin: '06'
 id: 79242391-8c3e-4cf4-ba24-3cee53a1c9d0
+lastModified: '2025-10-18T09:28:32Z'
+year_of_build:
+  value: 2005
+updated_at: '2026-01-30'
