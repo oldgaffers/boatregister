@@ -1,6 +1,7 @@
 name: Transcur
 oga_no: 2932
-generic_type: Colchester Smack
+generic_type:
+- Colchester Smack
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -13,7 +14,6 @@ full_description: |-
   1898 that the Maldon *Transcur* disappeared from the register and *Transcur* CK
   365 was first registered.
 
-
   Her early history is rather vague and the only thing we know is that she worked
   from the Essex River Crouch and was owned by the Smith Brothers, well known
   oyster merchants of the area. In 1924 she came out of the register and was sold
@@ -22,7 +22,6 @@ full_description: |-
   each owner keeping her for approximatly five years. Most of this time was spent
   on the east coast of England.
 
-
   In 1998 the Thomas family bought *Transcur* from Lymington on the Solent where
   she had been for 19 years. Not in a sound enough condition to be sailed back to
   the east coast, she came back overland to the front garden where the family
@@ -30,7 +29,6 @@ full_description: |-
   boat was so rotten it needed replacing. She was returned to her original gaff
   rig which she lost in the late 50s. Since her restoration she has been sailed
   regularly to Holland each year for family holidays.
-
 
   Unlike many smacks, she is sailed by a family and cruised extensivly.
 year: 1889
@@ -52,12 +50,12 @@ home_port: Pin Mill
 hull_form: long keel deep forefoot
 sail_number: CK365
 ownerships:
-- start: 1970
-  share: 64
-  name: Peter Maynard
-  end: 2025
 - name: Frank Mulville
   start: 1965
+  share: 64
+- name: Peter Maynard
+  start: 1970
+  end: 1975
   share: 64
 - name: Rober Bettle
   start: 1975
@@ -94,4 +92,7 @@ handicap_data:
     measured_rating: 27.366227149763233
     thcf: 1.024
 id: 656e0e94-c298-408e-90e2-1bafd5bdd824
-updated_at: '2024-10-18'
+lastModified: '2025-10-18T09:31:47Z'
+year_of_build:
+  value: 1889
+updated_at: '2026-01-31'
