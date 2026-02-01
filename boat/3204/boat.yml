@@ -2,29 +2,30 @@ name: Daydream
 oga_no: 3204
 rig_type: Ketch
 mainsail_type: gaff
-short_description: '<p>Built in Lyme Regis, 2014, and nominated in &#39;Spirit of
-  Tradition&#39; under 40 ft. category: Classic Boat Awards, 2015.</p>'
+short_description: |-
+  Built in Lyme Regis, 2014, and nominated in 'Spirit of Tradition' under 40 ft.
+  category: Classic Boat Awards, 2015.
 year: 2014
 year_is_approximate: false
 designer:
-  name: Roger Dongray
+- name: Roger Dongray
   id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Golant Ketch
   id: 9d648a02-8263-4b82-a63e-eba4c5aa9216
 builder:
-  name: McIlwain - Daydream Boats
+- name: McIlwain - Daydream Boats
   id: e3306f9d-13fc-4bb4-b713-3b306ca9f9f6
 place_built: Lyme Regis
 construction_material: woodepoxy
+spar_material: wood
 construction_method: clinker_ply
 construction_details: Glued clinker construction, marine ply and epoxy on douglas
   fir stringers
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
-home_port: Backwell
-hull_form: long keel deep forefoot
+home_port: Neyland, Milford Haven
+hull_form: centre-boarder
 sail_number: '2 '
 ownerships:
 - member: 5893
@@ -32,27 +33,35 @@ ownerships:
   start: 2014
   share: 64
   current: true
-id: a25c03b2-2178-4a5b-bc6b-bc7420cdab32
+  note: please check this is not a namesake
+- name: Stephen and Christine Hall
+  start: '2022'
+  share: 64
+  current: true
 image_key: 9XZDBw
-thumb: https://photos.smugmug.com/photos/i-R8wjCzh/0/Th/i-R8wjCzh-Th.jpg
 handicap_data:
-  beam: 2.2616
+  beam: 2.262
   draft: 0.509
-  fore_triangle_height: 5.3096
+  fore_triangle_height: 5.31
   fore_triangle_base: 2.795
+  length_overall: 5.968
+  length_on_deck: 5.968
+  length_on_waterline: 5.739
+  length_over_spars: 7.187
+  draft_keel_down: 1.219
   main:
-    foot: 3.224784
-    head: 3.099816
-    luff: 3.938016
+    foot: 3.225
+    head: 3.1
+    luff: 3.938
   mizzen:
     foot: 4.42
     luff: 11.33
   moving_keel: true
-  length_overall: 5.968
-  draft_keel_down: 1.2192
   moving_keel_type: Centreboard
-  length_over_spars: 7.1872
-  length_on_waterline: 5.7394
-  length_on_deck: 5.968
+  checked: true
 created_at: '2020-04-25T17:46:19.058001+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: a25c03b2-2178-4a5b-bc6b-bc7420cdab32
+lastModified: '2023-07-16T07:28:48Z'
+year_of_build:
+  value: 2014
+updated_at: '2026-02-01'
