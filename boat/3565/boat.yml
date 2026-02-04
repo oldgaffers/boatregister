@@ -1,31 +1,32 @@
 name: Witchazel
 oga_no: 3565
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: Classic wooden yacht
+short_description: |-
+  Classic wooden yacht
 full_description: |-
   Family owned yacht, mainly cruising up and down the Thames and occasionally the
   Medway. 4 berth single cabin, 5’10” (1.75m) headroom. Marine toilet. Yanmar 10hp
   inboard diesel engine. With a collapsible mast.
 year: 1962
 year_is_approximate: false
-builder:
-- name: J Swinburne & co
-  id: 708b7329-16b2-43b8-8bdf-821e255c0ce2
 place_built: Newcastle
 construction_material: plywood
 spar_material: wood
 construction_method: other
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
-- asking_price: 1800
+- created_at: '2026-02-04T11:38:25.008Z'
+  asking_price: 1800
   sales_text: |-
     24’ 4” (7.4m) Classic Wooden Yacht, built by J Swinburne & co in 1962. Beam 8’
     (2.4m), Draft 3’4” (1m). 4 berth single cabin, 5’10” (1.75m) headroom. Marine
     toilet. Yanmar 10hp inboard diesel engine (low usage). Collapsible mast.
 
     Boat located in South East London.
+  flexibility: normal
 home_country: GBR
 home_port: Greenwich
 hull_form: long keel deep forefoot
@@ -34,10 +35,15 @@ handicap_data:
   beam: 2.438
   draft: 1.036
   length_on_deck: 7.315
+  length_on_waterline: 8.534
 newItems:
-  designer:
-    name: J Swinburne & Co
-    id: 7dc3ce67-4661-4ec9-a554-1dd5abfd4daf
   builder:
-    name: J Swinburne & Co
     id: 069c6c5e-84b4-41d1-a664-0821d0d92b92
+    name: J Swinburne & Co
+  designer:
+    id: 7dc3ce67-4661-4ec9-a554-1dd5abfd4daf
+    name: J Swinburne & Co
+lastModified: '2025-09-20T14:19:18Z'
+year_of_build:
+  value: 1962
+updated_at: '2026-02-04'
