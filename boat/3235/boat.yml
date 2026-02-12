@@ -3,7 +3,8 @@ oga_no: 3235
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: <p>Turuna is a Cornish Shrimper.</p>
+short_description: |-
+  Turuna is a Cornish Shrimper.
 year: 1981
 year_is_approximate: false
 designer:
@@ -26,27 +27,26 @@ home_port: Worcester
 hull_form: centre-boarder
 sail_number: '43'
 ownerships:
-- member: 5117
-  id: 585
+- name: Peter Gibson
   start: 2012
+  end: 2026
   share: 64
-  current: true
 id: eca505e1-658d-41b6-81e5-01f4443ea367
 handicap_data:
   beam: 2.1854
   draft: 0.4572
   fore_triangle_height: 4.6482
   fore_triangle_base: 2.539
+  length_overall: 5.8674
+  length_on_deck: 5.8674
+  length_on_waterline: 5.3584
+  length_over_spars: 6.858
   main:
     foot: 3.5052000000000003
     head: 3.099816
     luff: 3.3528000000000002
   moving_keel: true
-  length_overall: 5.8674
   draft_keel_down: 1.2192
   moving_keel_type: Centreboard
-  length_over_spars: 6.858
-  length_on_waterline: 5.3584
-  length_on_deck: 5.8674
 created_at: '2020-04-25T17:46:52.424835+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+updated_at: '2026-02-12'
