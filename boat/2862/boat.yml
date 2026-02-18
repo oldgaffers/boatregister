@@ -29,14 +29,19 @@ ssr: '193853'
 ownerships:
 - name: Peter Nash
   start: 2005
-  end: 2026
+  end: 2020
   share: 64
-- name: Dave and Lynn Dickens
+- name: Dave Dickens
   member: 6497
   start: '2020'
-  share: 64
+  share: 32
   current: true
-image_key: Q4z7gm
+- name: Lynn Dickens
+  member: 6497
+  start: '2020'
+  share: 32
+  current: true
+  image_key: Q4z7gm
 handicap_data:
   thcf: 1.054
   beam: 2.896
