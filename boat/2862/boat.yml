@@ -25,39 +25,47 @@ selling_status: not_for_sale
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel deep forefoot
-ssr: '126068'
+ssr: '193853'
 ownerships:
 - name: Peter Nash
   start: 2005
-  end: 2026
+  end: 2020
   share: 64
-- member: 6497
-  id: 34888
-  start: 2026
-  share: 64
+- name: Dave Dickens
+  member: 6497
+  start: '2020'
+  share: 32
   current: true
+- name: Lynn Dickens
+  member: 6497
+  start: '2020'
+  share: 32
+  current: true
+  image_key: Q4z7gm
 handicap_data:
-  thcf: 1.06
+  thcf: 1.054
   beam: 2.896
   draft: 1.829
   fore_triangle_height: 10.668
-  fore_triangle_base: 6.553
+  fore_triangle_base: 6.501
   length_on_deck: 11.278
   length_on_waterline: 9.144
   propellor:
     type: fixed
   topsail:
     luff: 7.163
-    perpendicular: 3.505
+    perpendicular: 2.591
   length_over_all: 11.278
   main:
     foot: 6.605
     head: 5.029
     luff: 5.639
+  last_modified: '2026-02-18T09:49:45.473Z'
+  checked: true
 created_at: '2020-04-25T17:29:18.266341+00:00'
 hin: '06'
 id: 79242391-8c3e-4cf4-ba24-3cee53a1c9d0
-lastModified: '2025-10-18T09:28:32Z'
+lastModified: '2026-01-30T22:09:16Z'
 year_of_build:
   value: 2005
-updated_at: '2026-01-30'
+updated_at: '2026-02-18'
