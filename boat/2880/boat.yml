@@ -3,9 +3,8 @@ oga_no: 2880
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
+short_description: |-
   'Mona' is a Cornish Crabber 22.
-
 year: 2007
 year_is_approximate: false
 designer:
@@ -27,10 +26,11 @@ home_country: IRL
 home_port: Dun Laoghaire
 hull_form: long keel deep forefoot
 ownerships:
-- start: 2012
+- member: 5105
+  id: 581
+  start: 2012
   share: 64
   current: true
-  name: Dennis Aylmer
 image_key: 5X3KsL
 handicap_data:
   thcf: 0.856837255
@@ -55,5 +55,5 @@ handicap_data:
   moving_keel: true
   moving_keel_type: Centreboard
 created_at: '2020-04-25T17:29:49.219163+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 3b57907d-1ef1-4d5a-b594-9ec4124f8034
+updated_at: '2026-02-23'
