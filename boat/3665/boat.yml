@@ -1,6 +1,7 @@
 name: Milly
 oga_no: 3665
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Sloop
 mainsail_type: standing lug
 year: 2002
@@ -19,10 +20,12 @@ home_country: UK
 home_port: Galmpton, River Dart
 hull_form: centre-board dinghy
 ownerships:
-- name: Nick Costen
+- member: 6390
+  id: 34724
   start: '2024'
   share: 64
   current: true
+  note: please check this is not a namesake
 image_key: gXrj2k
 handicap_data:
   thcf: 0.746
@@ -39,3 +42,8 @@ handicap_data:
     foot: 1.701
     head: 2.871
     luff: 1.524
+lastModified: '2024-08-07T21:16:47Z'
+year_of_build:
+  approx: true
+  value: 2002
+updated_at: '2026-03-01'
