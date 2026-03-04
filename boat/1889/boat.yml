@@ -1,6 +1,7 @@
 name: Chloe May
 oga_no: 1889
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -15,46 +16,56 @@ full_description: |-
 year: 1982
 year_is_approximate: false
 designer:
-- id: 7ac480da-7d09-4dd7-9c89-61199ff30913
-  name: Percy Dalton
+- name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
 builder:
-- id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
-  name: Peter Nash
+- name: Peter Nash
+  id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
 place_built: Dartmouth
 construction_material: wood
+spar_material: wood
+construction_method: carvel
 construction_details: Iroko on grown oak frames copper fastened
 selling_status: not_for_sale
-for_sales: []
-home_port: Dartmouth
+home_port: Falmouth
 hull_form: long keel deep forefoot
 sail_number: 5510T
 uk_part1: '700889'
 ownerships:
-- name: ''
-  start: 2002
+- start: 2002
   note: For sale in Classic Boat, Sept 2002, no 171, £125,000 from Gosport.
   text: For sale in Classic Boat, Sept
 - name: Bob Strawson
   start: 2007
   share: 64
+- member: 3523
+  id: 289
+  start: 2026
+  share: 64
+  current: true
 image_key: 3rtJrZ
 handicap_data:
   thcf: 1.121044327
-  beam: 3.8862
-  draft: 2.0422
-  fore_triangle_height: 16.45940014630578
-  fore_triangle_base: 8.83930748597903
-  length_on_deck: 12.8016
-  length_on_waterline: 11.887344550109729
+  beam: 3.886
+  draft: 2.042
+  fore_triangle_height: 16.46
+  fore_triangle_base: 8.839
+  length_on_deck: 12.802
+  length_on_waterline: 11.887
   propellor:
     type: fixed
   topsail:
-    luff: 8.53450377956596
-    perpendicular: 3.9624481833699097
-  length_over_all: 12.801755669348939
+    luff: 8.534
+    perpendicular: 3.962
+  length_over_all: 12.802
   main:
-    foot: 7.315288953913679
-    head: 5.7912704218483295
-    luff: 7.2390880273104115
+    foot: 7.315
+    head: 5.791
+    luff: 7.239
 created_at: '2020-04-25T17:11:46.787917+00:00'
 id: 35bc028d-3aa7-4729-8bed-b24fee42b8b2
+lastModified: '2024-02-18T20:08:20Z'
+year_of_build:
+  value: 1982
+air_draft: 18.288
+updated_at: '2026-03-04'
