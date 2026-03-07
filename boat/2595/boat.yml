@@ -1,34 +1,39 @@
 name: Ivy Green
 oga_no: 2595
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
-  Built in 2003 at the Elephant Boatyard, *Ivy Green* spent ten years on the East
-  Coast before returning to Solent waters in 2014.
+  Ivy Green is regular at OGA and classic sailing events around the Solent.
 full_description: |-
-  *Ivy Green* is a 35ft gaff cutter, designed by [Ed
-  Burnett](http://www.burnettyachtdesign.co.uk/), built by the [Elephant
-  Boatyard](http://www.elephantboatyard.co.uk/index.html) and launched in 2003.
-  She spent 10 years on the East Coast, before returning to the Solent in late
-  2014.
+  Ivy Green was designed, by Ed Burnett, to be sailed by two people over 50 years
+  old; to be a sea kindly, safe, comfortable cruising boat; to sail well, look
+  well, be easy to manoeuvre and easy to maintain. She comfortably meets all of
+  those requirements.  
+  Launched in 2003 at the Elephant Boatyard, Ivy Green spent ten years on the East
+  Coast before returning to Solent waters in 2014. She has cruised the East Coast,
+  the English Channel and Scottish waters.
+
+  Ivy Green is a regular at OGA and classic sailing events around the Solent.
+
+  Her modern strip plank construction combines a warm varnished interior, with
+  light weight and stiffness, ensuring that she lives up to Ed Burnett’s
+  reputation for “Turbo charged gaffers”.
 year: 2003
 year_is_approximate: false
 designer:
-  name: Ed Burnett
+- name: Ed Burnett
   id: ec954b97-b4e7-4203-a28c-7d85278bf748
-design_class:
-  name: Ivy
-  id: 7611b5db-837e-4e02-9a9f-50c29602a24f
 builder:
-  name: Elephant Boatyard Ltd.
+- name: Elephant Boatyard Ltd.
   id: 1108b354-a34d-4097-b09a-8910c74bc841
 place_built: Bursledon
 construction_material: woodepoxy
 spar_material: wood
+construction_method: strip_planking
 construction_details: Wood epoxy
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Bursledon, River Hamble
 hull_form: long keel sloping forefoot
@@ -45,7 +50,6 @@ ownerships:
   start: 2014
   share: 64
   current: true
-website: https://ivygreen.me.uk
 image_key: NrR7R5
 handicap_data:
   thcf: 1.021
@@ -61,17 +65,21 @@ handicap_data:
   topsail:
     luff: 6.148
     perpendicular: 2.387
+  checked: true
+  displacement: 10500
   length_over_all: 10.59
   main:
-    luff: 5.74
     foot: 6.072
     head: 4.368
-  displacement: 10500
+    luff: 5.74
   solent:
     hull_shape: Long keel - Standard
-    performance_factor: ' '
     measured_rating: 28.231295235886762
+    performance_factor: ' '
     thcf: 1.034
-  checked: true
 created_at: '2020-04-25T17:23:09.269019+00:00'
 id: 42143b20-fd07-4571-ac38-e842ebd31899
+lastModified: '2023-06-27T09:34:43Z'
+year_of_build:
+  value: 2003
+updated_at: '2026-03-06'
