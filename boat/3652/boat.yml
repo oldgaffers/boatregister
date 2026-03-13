@@ -3,7 +3,8 @@ oga_no: 3652
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: gypsy Norfolk
+short_description: |-
+  gypsy Norfolk
 year: 1996
 year_is_approximate: false
 design_class:
@@ -18,7 +19,8 @@ home_port: 'Christchurch '
 hull_form: long keel deep forefoot
 sail_number: '84'
 ownerships:
-- name: Robert Mcalone
+- member: 6942
+  id: 35457
   start: '2023'
   share: 64
   current: true
@@ -33,3 +35,4 @@ handicap_data:
     type: fixed
   sailarea: 19.788
 hin: '84'
+updated_at: '2026-03-13'
