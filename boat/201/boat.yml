@@ -1,35 +1,40 @@
 name: Guiding Star
 oga_no: 201
-generic_type: Cornish Lugger
+generic_type:
+- Cornish Lugger
 rig_type: Ketch
 mainsail_type: gaff
-short_description: <p>Guiding Star is a Looe lugger built in 1907 by James Angear
-  for the Soady family and converted into a yacht in 1937 at Uphams yard in Brixham.</p>
-full_description: "<p>Guiding Star is a Looe lugger built in 1907 by James Angear\
-  \ for the Soady family and converted into a yacht in 1937 at Uphams&nbsp;yard in\
-  \ Brixham. From 1960-1989 she was owned by Brigadier John Glennie, who sailed her\
-  \ all around Europe. She was then substantially rebuilt in the early 1990s by Barry\
-  \ Jobson and Jackie Gillespie, who sailed her to the Caribbean and back and took\
-  \ part in many classic regattas. Her current owners are Paul and Sue Eedle.<br />\r\
-  \n<br />\r\nWe&#39;re often looking for crew, so if you&#39;re interested in sailing\
-  \ on Guiding Star, please message Paul through Guiding Star&#39;s Facebook page\
-  \ at&nbsp;https://www.facebook.com/guidingstar1907/</p>"
+short_description: |-
+  Guiding Star is a Looe lugger built in 1907 by James Angear for the Soady family
+  and converted into a yacht in 1937 at Uphams yard in Brixham.
+full_description: |-
+  Guiding Star is a Looe lugger built in 1907 by James Angear for the Soady family
+  and converted into a yacht in 1937 at Uphams yard in Brixham. From 1960-1989 she
+  was owned by Brigadier John Glennie, who sailed her all around Europe. She was
+  then substantially rebuilt in the early 1990s by Barry Jobson and Jackie
+  Gillespie, who sailed her to the Caribbean and back and took part in many
+  classic regattas. Her current owners are Paul and Sue Eedle.  
+
+  We're often looking for crew, so if you're interested in sailing on Guiding
+  Star, please message Paul through Guiding Star's Facebook page
+  at https://www.facebook.com/guidingstar1907/
 year: 1907
 year_is_approximate: false
 builder:
-  name: J. Angear
+- name: J. Angear
   id: 62a35eed-a9af-49be-9ad6-5e7f222eb650
 place_built: Looe
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel; close seamed
+previous_names:
+- Outward Bound
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Plymouth
 hull_form: long keel deep forefoot
-uk_part1: '162019'
 callsign: GKRT
+uk_part1: '162019'
 ownerships:
 - name: John Glennie
   start: 1960
@@ -46,33 +51,38 @@ ownerships:
   text: Barry and Jackie bought Guiding Star from Brigadier John Glennie in
 - name: Paul Eedle
   start: 2016
+  end: 2026
   share: 64
+- name: Seb Hall
+  start: 2026
+  share: 64
+  current: true
 website: https://guidingstar1907.com
-id: 1bebaf46-5891-4701-b3e8-523419a65121
 image_key: p33qVn
-thumb: https://photos.smugmug.com/photos/i-J6WWX9j/0/Th/i-J6WWX9j-Th.jpg
 handicap_data:
   thcf: 1.041975759
   beam: 3.557
-  draft: 1.8288
-  fore_triangle_height: 10.210924164837843
-  fore_triangle_base: 6.2484759814679345
-  length_over_all: 11.887344550109729
+  draft: 1.829
+  fore_triangle_height: 10.211
+  fore_triangle_base: 6.248
+  length_on_deck: 11.887
+  length_on_waterline: 11.582
   propellor:
     type: fixed
-  main:
-    foot: 5.715069495245062
-    head: 4.800658376005852
-    luff: 6.272860277980979
   topsail:
-    luff: 6.0960741282613995
-    perpendicular: 2.6670324311143623
+    luff: 6.096
+    perpendicular: 2.667
+  length_over_all: 11.887
+  main:
+    foot: 5.715
+    head: 4.801
+    luff: 6.273
   mizzen:
-    foot: 3.0480370641306997
-    luff: 6.2484759814679345
-  length_on_waterline: 11.582540843696659
-  length_on_deck: 11.8872
+    foot: 3.048
+    luff: 6.248
 created_at: '2020-04-25T16:45:22.811439+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Outward Bound
+id: 1bebaf46-5891-4701-b3e8-523419a65121
+lastModified: '2022-10-30T18:49:11Z'
+year_of_build:
+  value: 1907
+updated_at: '2026-03-18'
