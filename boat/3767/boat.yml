@@ -1,9 +1,11 @@
 name: Alys
 oga_no: 3767
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: Black hull. Green antifoul.
+short_description: |-
+  Black hull. Green antifoul.
 full_description: |-
   Centre board 17' day sailer, open cockpit transom hung rudder with outboard
   mounted to starboard
@@ -16,6 +18,42 @@ place_built: Tavistock
 construction_material: grp
 spar_material: wood
 construction_details: GRP
+selling_status: for_sale
+for_sales:
+- created_at: '2026-03-29T16:42:55.077Z'
+  sales_text: |-
+    Dockrell 17
+
+    Built 1989 in Tavistock
+
+    Uniquely rigged as a delightful gaffer.
+
+    LOD 17’
+
+    LOA 20’
+
+    Draft from 1’ to 3’ with centre plate down
+
+    Displacement.        500Kg
+
+    Ballast.                     227Kg
+
+    A delightful boat to sail, always gaining admiring glances where ever she goes.
+    She has something of an Itchen Ferry look on the water but without the deep
+    draft of a keel boat.
+
+    All new running rigging and blocks 2025.
+
+    New bespoke cockpit cover 2025
+
+    Road trailer and light board
+
+    All spars rubbed back to bare wood and oiled with Deks Olje D1 (12 coats).
+
+    Main sail, topsail on a yard and jib.  
+     4hp Outboard also available
+  flexibility: normal
+  asking_price: 2500
 home_country: Uk
 home_port: Cowes
 hull_form: centre-board dinghy
@@ -39,13 +77,17 @@ handicap_data:
   topsail:
     luff: 2.713
     perpendicular: 1.158
+  displacement: 500
   main:
-    luff: 2.408
     foot: 3.2
     head: 2.499
-  displacement: 500
+    luff: 2.408
   solent:
     hull_shape: Long keel - Low volume
     measured_rating: 19.00602277719229
     thcf: 0.92
-updated_at: '2025-07-11'
+lastModified: '2025-07-11T14:04:25Z'
+year_of_build:
+  approx: true
+  value: 1985
+updated_at: '2026-03-29'
