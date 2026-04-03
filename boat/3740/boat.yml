@@ -1,6 +1,7 @@
 name: Sandoway
 oga_no: 3740
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 2024
@@ -18,6 +19,13 @@ home_port: Northney Marina, Chichester
 hull_form: long keel deep forefoot
 sail_number: '69'
 callsign: MPTG3
+ownerships:
+- member: 6807
+  id: 35296
+  start: '2024'
+  share: 64
+  current: true
+  note: please check this is not a namesake
 image_key: wMTgZw
 handicap_data:
   beam: 2.896
@@ -26,4 +34,7 @@ handicap_data:
   length_on_waterline: 7.849
 hin: GBB1H30069D323
 mmsi: '232056622'
-updated_at: '2025-01-24'
+lastModified: '2025-09-24T15:02:46Z'
+year_of_build:
+  value: 2024
+updated_at: '2026-04-03'
