@@ -1,9 +1,11 @@
 name: Lulu
 oga_no: 3709
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Yawl
 mainsail_type: gunter
-short_description: Open sailing dinghy.
+short_description: |-
+  Open sailing dinghy.
 full_description: |-
   I have added built in electrics with battery and 100w solar panel on a small,
   (easily removed) splash deck and lights. Recently spent 6 days on board in the
@@ -11,19 +13,20 @@ full_description: |-
   the Falmouth Classic Regatta.
 year: 1985
 year_is_approximate: true
-designer: []
 design_class:
   name: Falmouth Bass Boat
   id: c05a2174-4b46-410f-829f-894193f020c3
-builder: []
 place_built: Falmouth
 construction_material: grp
 spar_material: wood
 construction_details: Built in bouyancy
 selling_status: not_for_sale
 for_sales:
-- created_at: '2024-09-01T19:12:06.870Z'
-  asking_price: 4000
+- asking_price: 4000
+  created_at: '2024-09-01T19:12:06.870Z'
+  date_sold: '2024-08-28T23:00:00.000Z'
+  flexibility: normal
+  sale_price: 4000
   sales_text: |-
     I have upgraded from my Falmouth Bass Boat 16 (FBB16) to a Hunter Liberty 23 and
     though it saddens me, I am selling my Gunter rigged FBB16. Hull no 370. An
@@ -32,9 +35,7 @@ for_sales:
     all-rounder. Very easy to tow, with a displacement of about 300kg. For a
     detailed report on the boat, PM me.
 
-
     Besides the standard setup:
-
 
     1. SSR registered
     2. Built-in buoyancy, so the boat is unsinkable.
@@ -43,8 +44,7 @@ for_sales:
     5. Sails,
     6. Oars,
     7. Fresh anti-foul
-    8. Electrics with assorted takeoffs including car cigarette lighter and USB
-    sockets
+    8. Electrics with assorted takeoffs including car cigarette lighter and USB sockets
     9. 100w solar panel with 50A controller and car battery
     10. Backup 20A controller
     11. 20w bilge pump
@@ -56,8 +56,7 @@ for_sales:
     17. Mast up cover I have never used and can't comment on, as came with the boat.
     18. Road and launch trailer. Fully roller'd, so you can recover from dried out.
     19. New winch ribbon replaced May 2023
-    20. Garmin Striker 4 fish finder, which includes sonar depth warnings and
-    waypoints.
+    20. Garmin Striker 4 fish finder, which includes sonar depth warnings and waypoints.
     21. Compass
     22. Laminated rudder and reinforced tiller
     23. Spare basic rudder blade
@@ -68,15 +67,11 @@ for_sales:
     28. Replaced sheets etc.
     29. Bow fender
     30. Bow anchor roller
-    31. Revarnished main mast and mizzen, booms, gaffs, rudder, and tiller last
-    winter 2022/3
+    31. Revarnished main mast and mizzen, booms, gaffs, rudder, and tiller last winter 2022/3
     32. Woodwork (benches, gunnel etc.) Danish oiled.
     33. Wheel clamp
     34. Set up for single or two-handed sailing, fishing and usable for cruising
     35. Ready to hitch up, drive away, launch and sail.
-  flexibility: normal
-  date_sold: '2024-08-28T23:00:00.000Z'
-  sale_price: 4000
   summary: <p>Actual price not known</p>
 home_country: GBR
 home_port: Bristol
@@ -97,8 +92,13 @@ handicap_data:
   beam: 1.829
   draft: 0.274
   length_on_deck: 4.877
-  length_on_waterline: 8.534
+  length_on_waterline: 4.572
 created_at: '2022-08-17T09:37:58.317086+00:00'
 air_draft: 3.048
 hin: '370'
 id: 5598c94d-4720-4423-a575-44b0845a308b
+lastModified: '2024-09-01T19:15:41Z'
+year_of_build:
+  approx: true
+  value: 1985
+updated_at: '2026-04-04'
