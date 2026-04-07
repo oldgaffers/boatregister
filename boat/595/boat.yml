@@ -1,6 +1,7 @@
 name: Citara
 oga_no: 595
-generic_type: Colchester Smack
+generic_type:
+- Colchester Smack
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -23,9 +24,10 @@ previous_names:
 - Rover
 selling_status: not_for_sale
 hull_form: long keel deep forefoot
+reference:
+- OGA newsletter 1976.3
 ownerships:
-- name: ''
-  start: 1895
+- start: 1895
   note: Sold to Judge Thomas Chatfield-Clarke, architect of Wooton Creek, in 1895,
     where she remained until 1945. PUrchased by JH Dible in 1946. sold to Viscount
     Caldicote and the Hon. James Borwick in 1954. Sold to the owner of Norris Castle,
@@ -35,6 +37,8 @@ ownerships:
 - name: A L Brooks
   start: 2012
   share: 64
+website: 
+  https://oga.org.uk/_documents/%5B377293%5DOld_Gaffers_Association_Newsletter_No.1976-3.pdf
 image_key: JkF9kB
 handicap_data:
   thcf: 0.945
@@ -45,4 +49,7 @@ handicap_data:
   length_over_all: 10.973
 created_at: '2020-04-25T16:51:23.364022+00:00'
 id: e1315b52-422f-4f5f-ae5b-58883886a79f
-updated_at: '2024-10-14'
+lastModified: '2024-10-14T13:11:11Z'
+year_of_build:
+  value: 1886
+updated_at: '2026-04-07'
