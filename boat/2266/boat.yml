@@ -1,35 +1,62 @@
 name: Muriel
 oga_no: 2266
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Muriel&#39;, built in 1905 of pitch pine on oak was &#39;rebuilt&#39;
-  twice under the ownership of Paul and Pat Heighway. In 2017, she underwent another
-  restoration and was relaunched in the summer . . .</p>
-full_description: "<p>&lsquo;Muriel&rsquo;, built in 1905 of pitch pine on oak was\
-  \ &lsquo;rebuilt&rsquo; twice under the ownership of Paul and his wife Pat. In the\
-  \ 1970s she was converted into a Bermudan cutter with large coachroof for safe sailing\
-  \ with their children.</p>\r\n\r\n<p>In the 1990s she was re-fastened, re-decked\
-  \ and re-rigged as a gaff cutter with large sail area. She did however stay faithful\
-  \ to Paul&rsquo;s choice of colour, red. Paul was a a member of the OGA for over\
-  \ 30 years&nbsp;and he regularly entered in the Start Bay&nbsp;Race and Dartmouth\
-  \ Regatta.</p>\r\n\r\n<p>In 2017, &#39;Muriel&#39; was relaunched following another\
-  \ restoration. After the passing of his parents in 2016, Jonathan and Penny Heighway\
-  \ took her on and she underwent a thorough refit, including a new hollow mast and\
-  \ running rigging. To reflect the next stage of her life, &#39;Muriel&#39; has been\
-  \ painted white and will continue to sail with the South West Gaffers.</p>"
+short_description: |-
+  'Muriel', built in 1905 of pitch pine on oak was 'rebuilt' twice under the
+  ownership of Paul and Pat Heighway. In 2017, she underwent another restoration
+  and was relaunched in the summer . . .
+full_description: |-
+  ‘Muriel’, built in 1905 of pitch pine on oak was ‘rebuilt’ twice under the
+  ownership of Paul and his wife Pat. In the 1970s she was converted into a
+  Bermudan cutter with large coachroof for safe sailing with their children.
+
+  In the 1990s she was re-fastened, re-decked and re-rigged as a gaff cutter with
+  large sail area. She did however stay faithful to Paul’s choice of colour, red.
+  Paul was a a member of the OGA for over 30 years and he regularly entered in the
+  Start Bay Race and Dartmouth Regatta.
+
+  In 2017, 'Muriel' was relaunched following another restoration. After the
+  passing of his parents in 2016, Jonathan and Penny Heighway took her on and she
+  underwent a thorough refit, including a new hollow mast and running rigging. To
+  reflect the next stage of her life, 'Muriel' has been painted white and will
+  continue to sail with the South West Gaffers.  
+
+  Regular maintenance keeps her looking her best, and she is sailed every season.
 year: 1905
 year_is_approximate: false
 designer:
-  name: A. Stowe
+- name: A. Stowe
   id: d8083ff7-94ae-4f1e-92f9-b8e2f59e7d91
 builder:
-  name: A. Stowe
+- name: A. Stowe
   id: 12b058b6-bba5-47c2-9c9c-d45c8a73717e
 place_built: Shoreham
 construction_material: wood
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- created_at: '2026-04-08T11:57:26.195Z'
+  sales_text: |-
+    *Muriel* has been in the present family ownership for 50 years in which time she
+    has had 3 major refits, most recently in 2017 after the owner passed away and
+    his family took the boat on and undertook a professional refit to get her back
+    into good sound condition.
+
+    She was stripped back inside and out with repairs to the hull and decks where
+    necessary and finished with a complete cosmetic overhaul top to bottom then a
+    new Noble Spars mast was fitted.
+
+    She is a very beautiful and interesting yacht, a sailors boat with superb
+    performance in the right conditions and very eye catching looks.  She does not
+    pretend to be a spacious family cruising yacht but offers enough comforts below
+    decks for weekends away and regatta racing.  A very exciting yacht in nice
+    condition that will grab the headlines everywhere she goes.  
+    More details available at    
+    https://woodenships.co.uk/sailing-yacht/6-meter-rule-gaff-cutter/
+  flexibility: normal
+  asking_price: 26500
 home_country: GBR
 home_port: Dartmouth
 hull_form: long keel deep forefoot
@@ -43,25 +70,28 @@ ownerships:
   start: 2016
   share: 64
   current: true
-id: 07b955ac-5408-47ad-9b8f-ea9b84566338
 image_key: vFmj5j
-thumb: https://photos.smugmug.com/photos/i-vtQkvpP/0/Th/i-vtQkvpP-Th.jpg
 handicap_data:
   thcf: 1.042509363
-  beam: 2.1336
-  fore_triangle_height: 8.22970007315289
-  fore_triangle_base: 5.18166300902219
-  length_over_all: 9.906120458424773
+  beam: 2.134
+  draft: 1.372
+  fore_triangle_height: 8.23
+  fore_triangle_base: 5.182
+  length_on_deck: 9.906
+  length_on_waterline: 7.62
   propellor:
     type: fixed
-  main:
-    foot: 6.0960741282613995
-    head: 5.029261155815655
-    luff: 5.273104120946111
   topsail:
-    luff: 4.87685930260912
-    perpendicular: 3.139478176054621
-  length_on_waterline: 7.620092660326749
-  length_on_deck: 9.906
+    luff: 4.877
+    perpendicular: 3.139
+  length_over_all: 9.906
+  main:
+    foot: 6.096
+    head: 5.029
+    luff: 5.273
 created_at: '2020-04-25T17:17:29.665645+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 07b955ac-5408-47ad-9b8f-ea9b84566338
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  value: 1905
+updated_at: '2026-04-08'
