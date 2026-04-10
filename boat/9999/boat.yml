@@ -3,10 +3,10 @@ oga_no: 9999
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-short_description: Truant is a Mark 1 Cheverton
-full_description: Kept at the Orwell Yacht Club and sailed by the current owner when
-  visiting the East Coast from his home in Ireland. The owner is happy to discuss
-  handing the boat on.
+short_description: |-
+  Truant is a Mark 1 Cheverton
+full_description: |-
+  Kept at the Orwell Yacht Club and sailed by the current owner when visiting the East Coast from his home in Ireland. The owner is happy to discuss handing the boat on.
 year: 1965
 year_is_approximate: false
 designer:
@@ -28,10 +28,8 @@ for_sales:
   price_flexibility:
     text: any
   reduced: false
-  sales_text: Truant is lying on an Orwell Yacht Club mooring which must be vacated
-    by the end of 2020. Her owner has been unable to visit and so cannot confirm her
-    condition. She is free to a good home, complete with winter cradle and hope is
-    offered towards moving her..
+  sales_text: |-
+    Truant is lying on an Orwell Yacht Club mooring which must be vacated by the end of 2020. Her owner has been unable to visit and so cannot confirm her condition. She is free to a good home, complete with winter cradle and hope is offered towards moving her..
   seller_gold_id: 701
   seller_member: 5637
   updated_at: '2023-10-31T15:53:35.202013+00:00'
@@ -40,20 +38,19 @@ for_sales:
   flexibility: normal
   offered: 2020-02-18
   reduced: false
-  sales_text: |
+  sales_text: |-
     more long text intended to make the boat sell
-  seller_gold_id: 001
-  seller_member: 0001
+  seller_gold_id: 1
+  seller_member: 1
   sold: '2022-11-14'
   summary: some text mostly added after sale to indicate what happened to the boat
-  updated_at: '2022-02-18T16:46:21.359401+00:00'  
+  updated_at: '2022-02-18T16:46:21.359401+00:00'
 home_country: GBR
 home_port: River Orwell
 hull_form: long keel sloping forefoot
 ownerships:
-- start: 1999
-  id: 701
-  member: 5637
+- name: Christopher Mcnally
+  start: 1999
   share: 64
   current: true
 id: 2d143cd8-a91a-4da5-9a36-690e7707948f
@@ -63,3 +60,4 @@ handicap_data:
   draft: 0.914
   length_on_deck: 7.01
   length_on_waterline: 5.486
+updated_at: '2026-04-10'
