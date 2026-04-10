@@ -3,10 +3,12 @@ oga_no: 7057
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: bermudan
-full_description: "<p>1971 - 1981 based at Gosport, 1981 -1999 based at St Just, Cornwall,\
-  \ 1999 - 2013 based at Maryport, Cumbria.</p>\r\n\r\n<p>Awarded 3rd prize in YM/RYA\
-  \ cruising log competition 2002. New rig with taller mast and longer boom (for better\
-  \ performance in light airs) fitted 2012.</p>"
+full_description: |-
+  1971 - 1981 based at Gosport, 1981 -1999 based at St Just, Cornwall, 1999 - 2013
+  based at Maryport, Cumbria.
+
+  Awarded 3rd prize in YM/RYA cruising log competition 2002. New rig with taller
+  mast and longer boom (for better performance in light airs) fitted 2012.
 year: 1971
 year_is_approximate: false
 designer:
@@ -28,11 +30,6 @@ hull_form: long keel sloping forefoot
 sail_number: 1643Y
 uk_part1: '342613'
 ownerships:
-- start: 1997
-  end: 2018
-  share: 64
-  id: 35079
-  member: 6639
 - name: Mr and Mrs Handel Davies
   start: 1971
   end: 1981
@@ -41,6 +38,10 @@ ownerships:
   start: 1981
   end: 1997
   share: 64
+- name: John Curtis
+  start: 1997
+  end: 2018
+  share: 64
 id: 2d41200c-ddba-4fe9-858f-e683cf1ee016
 handicap_data:
   thcf: 0.905
@@ -48,15 +49,15 @@ handicap_data:
   draft: 1.6764
   fore_triangle_height: 10.210924164837843
   fore_triangle_base: 3.2004389173372347
-  length_over_all: 8.53450377956596
+  length_on_deck: 8.5344
+  length_on_waterline: 6.5532796878810045
+  length_over_spars: 8.53450377956596
   propellor:
     type: fixed
   sailarea: 29.218136016747565
+  length_over_all: 8.53450377956596
   main:
     foot: 3.3528407705437697
     luff: 9.1441111923921
-  length_over_spars: 8.53450377956596
-  length_on_waterline: 6.5532796878810045
-  length_on_deck: 8.5344
 created_at: '2020-04-25T17:43:45.024952+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+updated_at: '2026-04-10'
