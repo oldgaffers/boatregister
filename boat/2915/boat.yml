@@ -2,6 +2,7 @@ name: Norwegian Girl
 oga_no: 2915
 generic_type:
 - Yacht
+- Dayboat
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -34,11 +35,11 @@ builder:
 - name: Skanner Yachts Ltd
   id: b0b2274f-edd3-4bd5-b521-e7884d73e8b6
 place_built: Cornwall
-construction_material: wood
+construction_material: grp
 spar_material: wood
 construction_method: clinker
 construction_details: GRP simulated broad strake clinker
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2025-05-03T09:06:22.268Z'
   asking_price: 4500
@@ -79,6 +80,9 @@ for_sales:
 
     Lying undercover. N Bucks
   flexibility: normal
+  date_sold: '2026-04-10T14:03:08.526Z'
+  sale_price: 4500
+  summary: <div><!--block-->final price not known</div>
 home_country: GBR
 home_port: Weymouth
 hull_form: long keel deep forefoot
@@ -87,8 +91,8 @@ ownerships:
 - member: 5074
   id: 574
   start: 1996
+  end: 2026
   share: 64
-  current: true
 image_key: nvfPgS
 handicap_data:
   beam: 2.185
@@ -97,7 +101,7 @@ handicap_data:
   length_on_waterline: 6.706
 created_at: '2020-04-25T17:31:58.500345+00:00'
 id: 23defeec-709e-42a5-be19-588ac24b7395
-lastModified: '2025-05-03T10:47:51Z'
+lastModified: '2026-03-16T13:45:45Z'
 year_of_build:
   value: 1983
-updated_at: '2026-03-16'
+updated_at: '2026-04-10'
