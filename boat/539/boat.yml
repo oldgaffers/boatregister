@@ -4,16 +4,9 @@ generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
-  Charles Stock built Shoal Waters to his own design in 1963 and sailed her on the
-  East Coast of England until his death in 2012.
+  Charles Stock built Shoal Waters to his own design in 1963 and sailed her on the East Coast of England until his death in 2012.
 full_description: |-
-  Shoal Waters was built from the best hull available and completed in 1963 to
-  owner Charles Stock's own design using gear from an old half-decker bought in
-  1948. She took part in the 1st and 50th East Coast races.
-
-  Over 70,000 nautical miles have been made good from Maldon between Whitby,
-  Ostend and the Solent. Charles Stock wrote many books about his sailing
-  activities and there are references to these on the boat's website.
+  Shoal Waters was built from the best hull available and completed in 1963 to owner Charles Stock's own design using gear from an old half-decker bought in 1948. She took part in the 1st and 50th East Coast races. Over 70,000 nautical miles have been made good from Maldon between Whitby, Ostend and the Solent. Charles Stock wrote many books about his sailing activities and there are references to these on the boat's website.
 year: 1963
 year_is_approximate: false
 designer:
@@ -28,18 +21,14 @@ builder:
   id: 101fb6b7-4262-4e67-b6e9-8dda73683dac
 place_built: Pleshey
 construction_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - asking_price: 5750
   flexibility: normal
   offered: 2023-10-13
   reduced: false
-  sales_text: |
-    Rare opportunity to own wooden gaff cutter Shoal Waters. Owner retiring.
-    New sails. Yard trailer. Spare original sails. 
-    Ghoster sail. Topsail. Canvas sail cover. Cockpit cover. Boat cover. Cockpit tent. 
-    Anchor, 90' chain. Binnacle Compass. Nav lights. Etc.
-    Viewed Essex. Serious enquiries only please
+  sales_text: |-
+    Rare opportunity to own wooden gaff cutter Shoal Waters. Owner retiring. New sails. Yard trailer. Spare original sails. Ghoster sail. Topsail. Canvas sail cover. Cockpit cover. Boat cover. Cockpit tent. Anchor, 90' chain. Binnacle Compass. Nav lights. Etc. Viewed Essex. Serious enquiries only please
 home_country: GBR
 home_port: Maldon
 ownerships:
@@ -47,11 +36,10 @@ ownerships:
   start: 1963
   end: 2012
   share: 64
-- id: 35156
-  member: 6696
+- name: Tony Smith
   start: 2012
-  current: true
   share: 64
+  current: true
 website: http://creeksailor.blogspot.com/
 image_key: hWgPKr
 handicap_data:
@@ -60,3 +48,4 @@ handicap_data:
   length_on_deck: 5.029
   length_on_waterline: 4.72445745
 id: 24a933a5-4c80-482e-a84e-70b23aadfd9e
+updated_at: '2026-04-10'
