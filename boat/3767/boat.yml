@@ -20,7 +20,9 @@ spar_material: wood
 construction_details: GRP
 selling_status: not_for_sale
 for_sales:
-- created_at: '2026-03-29T16:42:55.077Z'
+- asking_price: 2500
+  created_at: '2026-03-29T16:42:55.077Z'
+  flexibility: normal
   sales_text: |-
     Dockrell 17
 
@@ -52,15 +54,17 @@ for_sales:
 
     Main sail, topsail on a yard and jib.  
      4hp Outboard also available
-  flexibility: normal
-  asking_price: 2500
 home_country: Uk
-home_port: Cowes
-hull_form: centre-board dinghy
+home_port: Leigh on Sea
+hull_form: centre-boarder
 ownerships:
 - member: 6851
   id: 35354
   start: '2025'
+  end: 2026
+  share: 64
+- name: Paul Mayo
+  start: 2026
   share: 64
   current: true
 image_key: sds7J4
@@ -86,8 +90,8 @@ handicap_data:
     hull_shape: Long keel - Low volume
     measured_rating: 19.00602277719229
     thcf: 0.92
-lastModified: '2025-07-11T14:04:25Z'
+lastModified: '2026-04-15T10:43:32Z'
 year_of_build:
   approx: true
   value: 1985
-updated_at: '2026-03-29'
+updated_at: '2026-04-15'
