@@ -1,53 +1,66 @@
 name: Dipper
 oga_no: 3320
-generic_type: Racing keelboat
+generic_type:
+- Racing keelboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: "<p>&#39;Dipper&#39; is a Broads One Design, built in 1986.&nbsp;<br\
-  \ />\r\n&nbsp;</p>"
-full_description: "<p>The Broads One Design was created for the Royal Norfolk and\
-  \ Suffolk Yacht Club as a low cost design intended to sail on the inland Broads\
-  \ and in the sea off Lowestoft.</p>\r\n\r\n<p>31 wooden boats were originally built\
-  \ of which 27 still exist. Since the 1980s they have been built in GRP and there\
-  \ are now a total of 88.&nbsp;</p>"
+short_description: |-
+  'Dipper' is a Broads One Design, built in 1986.
+full_description: |-
+  The Broads One Design was created for the Royal Norfolk and Suffolk Yacht Club
+  as a low cost design intended to sail on the inland Broads and in the sea off
+  Lowestoft.
+
+  31 wooden boats were originally built of which 27 still exist. Since the 1980s
+  they have been built in GRP and there are now a total of 88.
 year: 1986
 year_is_approximate: false
 designer:
-  name: Linton Hope
+- name: Linton Hope
   id: f238ed22-175a-4b8c-9337-dc58c6619754
 design_class:
   name: Broads One Design
   id: 7820d442-c81d-4047-9058-307aba9d4034
 construction_material: grp
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Waterbeach
 hull_form: cut_away_stem
 sail_number: '35'
 ownerships:
-- start: 2012
-  share: 32
+- member: 4434
   id: 450
-  member: 4434
+  start: 2012
+  share: 32
 - name: Mark Chandler
   start: 2012
   share: 32
-id: 7226bb0d-91de-47e8-8ba4-8919af57ec31
+- member: 4434
+  id: 450
+  start: '2015'
+  share: 32
+  current: true
 image_key: PFnGqd
-thumb: https://photos.smugmug.com/photos/i-MhMQM6G/0/Th/i-MhMQM6G-Th.jpg
 handicap_data:
-  beam: 1.524
-  draft: 0.9144
-  fore_triangle_height: 5.4346
-  fore_triangle_base: 2.1336
-  main:
-    foot: 5.1816
-    head: 3.3284160000000003
-    luff: 3.6057840000000003
+  thcf: 0.92
+  beam: 1.554
+  draft: 0.914
+  fore_triangle_height: 5.435
+  fore_triangle_base: 2.134
   length_overall: 7.3152
-  length_over_spars: 7.3152
-  length_on_waterline: 5.0292
-  length_on_deck: 7.3152
+  length_on_deck: 7.315
+  length_on_waterline: 4.877
+  length_over_spars: 7.315
+  propellor:
+    type: none
+  main:
+    foot: 5.182
+    head: 3.328
+    luff: 3.606
+  last_modified: '2026-04-27T20:43:40.525Z'
 created_at: '2020-04-25T17:49:06.614288+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 7226bb0d-91de-47e8-8ba4-8919af57ec31
+lastModified: '2025-10-18T09:39:00Z'
+year_of_build:
+  value: 1986
+updated_at: '2026-04-27'
