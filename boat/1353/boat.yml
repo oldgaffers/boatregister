@@ -1,30 +1,41 @@
-name: Jessie
+name: Autharian
 oga_no: 1353
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 1989
 year_is_approximate: false
 designer:
-  name: Percy G. Mitchell
+- name: Percy G. Mitchell
   id: 5f19fc16-706a-4add-a80a-67ab97c4c002
 design_class:
   name: Tosher 20
   id: be1964ca-eb7d-410e-b30b-db18e9b72387
 builder:
-  name: Gaffers and Luggers
+- name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
 place_built: Mylor Bridge
 construction_material: wood
 spar_material: wood
 construction_method: carvel
+previous_names:
+- - Jessie
 selling_status: not_for_sale
-for_sales: []
+home_country: uk
+home_port: Mevagissey
 hull_form: long keel deep forefoot
 ownerships:
 - name: '2416'
   start: 1989
   share: 64
+- member: 6961
+  id: 35478
+  start: 2026
+  share: 64
+  current: true
+  note: please check this is not a namesake
+image_key: sBwbrW
 handicap_data:
   thcf: 0.85
   calculated_thcf: 0.869
@@ -35,16 +46,20 @@ handicap_data:
   length_overall: 6.096
   length_on_deck: 6.224
   length_on_waterline: 5.867
-  length_over_spars: 7.9248
+  length_over_spars: 7.925
   propellor:
     type: fixed
   topsail:
     luff: 4.115
     perpendicular: 1.625
-  length_over_all: 6.224091684954889
+  length_over_all: 6.224
   main:
     foot: 3.862
     head: 3.301
     luff: 3.353
 created_at: '2020-04-25T17:03:42.612128+00:00'
 id: 0711a298-0cb8-43d2-ac4c-dbc2b69d8938
+lastModified: '2023-06-27T08:30:47Z'
+year_of_build:
+  value: 1989
+updated_at: '2026-04-29'
