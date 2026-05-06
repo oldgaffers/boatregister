@@ -1,21 +1,23 @@
 name: Merry Maid
 oga_no: 3318
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
-short_description: <p>&#39;Merry Maid&#39; is a 24ft linear rater, designed and built
-  by Charles Sibbick, launched 1906.</p>
+mainsail_type: gaff
+short_description: |-
+  'Merry Maid' is a 24ft linear rater, designed and built by Charles Sibbick,
+  launched 1906.
 year: 1906
 year_is_approximate: false
 designer:
-  name: Charles Sibbick
+- name: Charles Sibbick
   id: a5468014-9c00-4985-85ca-f3115f1fc4f7
 builder:
-  name: Charles Sibbick and Co
+- name: Charles Sibbick and Co
   id: 3b623161-dc07-46fc-96b1-98e7ad47b431
 place_built: Cowes
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 ownerships:
 - member: 4806
@@ -23,11 +25,33 @@ ownerships:
   start: 2016
   share: 64
   current: true
-id: 1b865ca3-d847-43e5-92c2-2c30c87a5cf7
+image_key: PN6t6G
 handicap_data:
-  beam: 1.9812
-  draft: 1.2192
-  length_overall: 10.5156
-  length_on_deck: 10.5156
+  thcf: 0.725
+  beam: 1.981
+  draft: 1.219
+  fore_triangle_height: 8.25
+  fore_triangle_base: 4.39
+  length_overall: 10.5
+  length_on_deck: 10.516
+  length_on_waterline: 7.6
+  propellor:
+    type: none
+  topsail:
+    luff:
+    perpendicular:
+  main:
+    luff: 5.33
+    foot: 7.51
+    head: 4.9
+  last_modified: '2026-05-06T18:45:26.916Z'
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 8.334593187310341
+  displacement: 2500
 created_at: '2020-04-25T17:49:04.476338+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 1b865ca3-d847-43e5-92c2-2c30c87a5cf7
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  value: 1906
+updated_at: '2026-05-06'
