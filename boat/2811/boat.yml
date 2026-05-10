@@ -1,6 +1,7 @@
 name: Zenith
 oga_no: 2811
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 1936
@@ -19,7 +20,46 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel wood
-selling_status: not_for_sale
+selling_status: for_sale
+for_sales:
+- created_at: '2026-05-10T16:04:58.390Z'
+  sales_text: |-
+    Open to Offers.  
+    *Zenith* is a Deben 4 tonner class gaff cutter built in 1938. She was designed
+    by William Maxwell Blake and built by Whisstocks Boatyard. The hull is planked
+    in Pitch Pine with frames of Oak. The coachroof and cockpit are of mahogany. She
+    was re-decked in 1999 and a Yanmar 1GM Diesel was then installed. We found her
+    in a very neglected state in 2021 and have restored her.
+
+    **The work includes:**
+
+    New Toe Rails and Rubbing Strakes, Complete engine overhaul, new running and
+    standing rigging, complete repaint and varnish both internally and externally.
+    There was some Rot in the mast and stem which has been repaired and the hull is
+    otherwise sound. The engine has been regularly serviced.
+
+    **Interior**
+
+    2 berths with galley and gas cooker with grill, small chart table, saloon table.
+
+    LOA 23ft excluding bowsprit
+
+    LWL 19ft
+
+    Draft 3ft 6in
+
+    Disp 3.25 tonnes
+
+    The sails are in fair to good condition dating from about 2008. There is an
+    overall heavy duty winter cover with ridge pole plus cockpit cover and there is
+    also a small Zodiac Dinghy with oars which belonged to my late Uncle and has
+    hardly been used. There is no electronics apart from an echo sounder. There are
+    two anchors, warps and fenders
+
+    *Zenith* has a mooring at the River Yar Boatyard all paid up until 31st December
+    2026
+  flexibility: normal
+  asking_price: 500
 home_port: Yarmouth I o W
 hull_form: long keel deep forefoot
 ownerships:
@@ -29,8 +69,7 @@ ownerships:
 - name: William Attree
   start: 2007
   share: 32
-- member: 4912
-  id: 542
+- name: Daniel Attree
   start: 2007
   share: 32
 - member: 6432
@@ -62,4 +101,7 @@ handicap_data:
     thcf: 0.864
 created_at: '2020-04-25T17:28:02.029058+00:00'
 id: 14171513-0f0c-4c36-8e21-d84d9c6ea765
-updated_at: '2026-04-10'
+lastModified: '2026-04-10T02:01:36Z'
+year_of_build:
+  value: 1936
+updated_at: '2026-05-10'
