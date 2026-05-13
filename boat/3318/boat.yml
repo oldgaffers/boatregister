@@ -7,6 +7,9 @@ mainsail_type: gaff
 short_description: |-
   'Merry Maid' is a 24ft linear rater, designed and built by Charles Sibbick,
   launched 1906.
+full_description: |-
+  *Merry Maid* is a 24ft linear rater, designed and built by Charles Sibbick,
+  launched 1906.
 year: 1906
 year_is_approximate: false
 designer:
@@ -32,24 +35,22 @@ handicap_data:
   fore_triangle_height: 8.25
   fore_triangle_base: 4.39
   length_overall: 10.5
+  length_on_deck: 9.144
   length_on_waterline: 7.6
   propellor:
     type: none
-  topsail:
-    luff:
-    perpendicular:
+  displacement: 2500
+  last_modified: '2026-05-06T18:45:26.916Z'
   main:
-    luff: 5.33
     foot: 7.51
     head: 4.9
-  last_modified: '2026-05-06T18:45:26.916Z'
+    luff: 5.33
   solent:
     hull_shape: Long keel - Standard
     measured_rating: 8.334593187310341
-  displacement: 2500
 created_at: '2020-04-25T17:49:04.476338+00:00'
 id: 1b865ca3-d847-43e5-92c2-2c30c87a5cf7
-lastModified: '2023-01-02T20:28:44Z'
+lastModified: '2026-05-06T21:34:53Z'
 year_of_build:
   value: 1906
-updated_at: '2026-05-06'
+updated_at: '2026-05-13'
