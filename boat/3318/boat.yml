@@ -20,8 +20,10 @@ builder:
   id: 3b623161-dc07-46fc-96b1-98e7ad47b431
 place_built: Cowes
 construction_material: wood
+construction_method: carvel
 selling_status: not_for_sale
 home_country: GBR
+home_port: Cowes
 ownerships:
 - member: 4806
   id: 522
@@ -30,6 +32,7 @@ ownerships:
   current: true
 image_key: PN6t6G
 handicap_data:
+  thcf: 1.083
   beam: 1.96
   draft: 1.29
   fore_triangle_height: 8.25
@@ -40,17 +43,18 @@ handicap_data:
   propellor:
     type: none
   displacement: 2500
-  last_modified: '2026-05-06T18:45:26.916Z'
+  last_modified: '2026-05-17T13:48:25.976Z'
   main:
     foot: 7.51
     head: 4.9
     luff: 5.33
   solent:
     hull_shape: Long keel - Standard
-    measured_rating: 8.334593187310341
+    measured_rating: 37.425803181050036
+    thcf: 1.14
 created_at: '2020-04-25T17:49:04.476338+00:00'
 id: 1b865ca3-d847-43e5-92c2-2c30c87a5cf7
-lastModified: '2026-05-13T09:34:55Z'
+lastModified: '2026-05-17T10:54:36Z'
 year_of_build:
   value: 1906
 updated_at: '2026-05-17'
