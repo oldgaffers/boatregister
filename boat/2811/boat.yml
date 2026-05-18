@@ -20,9 +20,10 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: Carvel wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2026-05-10T16:04:58.390Z'
+  asking_price: 500
   sales_text: |-
     Open to Offers.  
     *Zenith* is a Deben 4 tonner class gaff cutter built in 1938. She was designed
@@ -59,7 +60,6 @@ for_sales:
     *Zenith* has a mooring at the River Yar Boatyard all paid up until 31st December
     2026
   flexibility: normal
-  asking_price: 500
 home_port: Yarmouth I o W
 hull_form: long keel deep forefoot
 ownerships:
@@ -101,7 +101,7 @@ handicap_data:
     thcf: 0.864
 created_at: '2020-04-25T17:28:02.029058+00:00'
 id: 14171513-0f0c-4c36-8e21-d84d9c6ea765
-lastModified: '2026-04-10T02:01:36Z'
+lastModified: '2026-05-10T16:07:39Z'
 year_of_build:
   value: 1936
-updated_at: '2026-05-10'
+updated_at: '2026-05-18'
