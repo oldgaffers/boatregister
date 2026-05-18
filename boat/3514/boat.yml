@@ -1,22 +1,32 @@
-name: Clachnacudney
+name: Linling
 oga_no: 3514
-generic_type: Dinghy
+generic_type:
+- Dinghy
+- Gaffling
 rig_type: Sloop
 mainsail_type: gaff
-short_description: OGA designed dinghy. This is the prototype dinghy.
+short_description: |-
+  OGA designed dinghy. This is the prototype dinghy.
 full_description: |-
-  Introducing a new dinghy from Andrew Wolstenholme, especially designed for Young
-  (and Old) Gaffers. Key Points Overall length of 13'6" and beam of 5'3" (4.1 x
-  1.6m) – a comfortable size for building at home in the garage. Easy to tow
-  behind a small car and yet large enough for family sailing. The single chine
-  hull form follows on from the popular dinghies of the 50s and 60s – Hornet,
-  Graduate, Scorpion, GP14, etc. – but with a more classic appearance and a
-  sweeping sheer and raked transom. Construction is a variation of
-  stitch-and-tape, using CNC-cut components. With simplicity of build in mind, and
-  also functionality, she has a lowered deck in the same style as the Mirror
-  Dinghy, which is useful for lessening the risk of lines going overboard and
-  providing more sprawling space for children. The versatile design allows for
-  sailing, rowing, sculling or outboard motor.
+  'Linling', formerly 'Clachnacudney' was built as the prototype Gaffling 4.1, a
+  new class of dinghy launched by the OGA in 2018. Designed by Andrew
+  Wolstenholme, it was conceived to appeal to Young (and Old) Gaffers alike.    
+  With an overall length of 13'6" and beam of 5'3" (4.1 x 1.6m), the 'Gaffling' is
+  a comfortable size for building at home in the garage. It's easy to tow behind a
+  small car and yet large enough for family sailing. The single chine hull form
+  follows on from the popular dinghies of the 50s and 60s – Hornet, Graduate,
+  Scorpion, GP14, etc. – but with a more classic appearance and a sweeping sheer
+  and raked transom.    
+  Construction is a variation of stitch-and-tape, using CNC-cut components. With
+  simplicity of build in mind, and also functionality, she has a lowered deck in
+  the same style as the Mirror Dinghy, which is useful for lessening the risk of
+  lines going overboard and providing more sprawling space for children. The
+  versatile design allows for sailing, rowing, sculling or outboard motor.  
+  Since her launch in 2018, 'Linling' has sailed in Solent and East Coast waters.
+  She took part in the 2025 Gaffling Championships, held on Ullswater and will be
+  trailed to Derwentwater, Northumberland in 2026 for the third Championship. She
+  is now based at Hipkin & Oxley, Walton Backwaters with three other East Coast
+  Gafflings, 'Suffling', 'Essling' and 'Shrimp'.
 year: 2019
 year_is_approximate: false
 designer:
@@ -25,30 +35,34 @@ designer:
 design_class:
   name: Gaffling 4.1
   id: f2dba77b-2c17-4a6c-956a-0c0f791bf7aa
+builder:
+- name: Tony Kiddle
+  id: 72c6df29-bbbd-4797-827d-450464865765
 construction_material: plywood
 spar_material: wood
 construction_method: stitch_and_glue
+previous_names:
+- - Clachnacudney
 selling_status: not_for_sale
 for_sales:
-- created_at: '2024-02-20T16:32:28.571Z'
-  asking_price: 3300
+- asking_price: 3300
+  created_at: '2024-02-20T16:32:28.571Z'
+  date_sold: '2024-12-05T16:18:13.672Z'
+  flexibility: normal
+  sale_price: 3300
   sales_text: |-
     This is the Gaffling prototype and comes with 2 jibs and mainsail by McNamara
     sails
 
-
     Jib Furler and quality fittings throughout.
 
-
     It includes a combination of Launch/road trailer and cover.
-  flexibility: normal
-  date_sold: '2024-12-05T16:18:13.672Z'
-  sale_price: 3300
   summary: <p>Final price not known. Bought for use in the East Coast Area as part
     of their fleet</p>
 home_country: GBR
-home_port: Mistley
+home_port: Walton-on-the-Naze
 hull_form: centre-board dinghy
+sail_number: '1963'
 ownerships:
 - member: 5241
   id: 615
@@ -68,4 +82,7 @@ handicap_data:
   length_on_waterline: 8.534
 created_at: '2021-02-23T19:58:27.899191+00:00'
 id: f05ba35f-5236-4b91-82f3-5b7b90f5aa78
-updated_at: '2024-12-07'
+lastModified: '2024-12-07T07:54:50Z'
+year_of_build:
+  value: 2019
+updated_at: '2026-05-18'
