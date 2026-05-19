@@ -2,6 +2,7 @@ name: Test Boat Record Entry
 oga_no: 9001
 generic_type:
 - Dinghy
+- Racing keelboat
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -44,11 +45,15 @@ ownerships:
   start: 1901
   end: 2025
   share: 64
+image_key: rKHstz
 handicap_data:
   beam: 1.829
   draft: 0.305
   length_on_deck: 4.267
   length_on_waterline: 8.534
 air_draft: 3.048
-lastModified: '2025-11-15T11:40:33Z'
-updated_at: '2025-11-15'
+lastModified: '2025-11-27T10:01:52Z'
+year_of_build:
+  approx: true
+  value: 1985
+updated_at: '2026-02-13'
