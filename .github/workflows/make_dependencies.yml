@@ -37,7 +37,7 @@ jobs:
           echo ok
       - name: Display merged branch name
         run: |
-          echo "The branch being merged is: ${{ github.head_ref }}"
+          echo "The branch being merged is: ${{ github.ref_name }}"
       - name: changed files
         id: changed-files
         run: |
