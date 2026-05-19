@@ -59,6 +59,17 @@ jobs:
           echo $CHANGED_BOATS
           curl -H 'content-type: application/json' -X POST https://5li1jytxma.execute-api.eu-west-1.amazonaws.com/default/public/update -d "$CHANGED_BOATS"
           echo ok
+      - name: trigger gallery updates
+        env:
+          CHANGED_BOATS: ${{ steps.changed-boats.outputs.BOATS }}
+          SMUGMUG_CLIENT_SECRET: ${{ secrets.SMUGMUG_CLIENT_SECRET }}
+          SMUGMUG_SECRET_ACCESS_KEY: ${{ secrets.SMUGMUG_SECRET_ACCESS_KEY }}
+          SMUGMUG_ACCESS_KEY: ${{ secrets.SMUGMUG_ACCESS_KEY }}
+          SMUGMUG_API_KEY: ${{ secrets.SMUGMUG_API_KEY }}
+        run: |
+          echo $CHANGED_BOATS
+          python -m poetry run python check_and_update_galleries.py "$CHANGED_BOATS"          
+          echo ok
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9
         with:
