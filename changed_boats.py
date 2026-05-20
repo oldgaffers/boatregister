@@ -1,8 +1,7 @@
-import fileinput
 import json
 
 boats = []
-files = ' '.join(list(fileinput.input()))
+files = input()
 print(f'CHANGED_BOATS_INPUT={files}')
 for file in files.split(' '):
   try:
