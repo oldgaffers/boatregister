@@ -35,13 +35,11 @@ jobs:
         run: |
           python -m poetry run python places.py
           echo ok
-      - name: Display merged branch name
-        run: |
-          echo "The branch being merged is: ${{ github.ref_name }}"
       - name: changed files
         id: changed-files
         run: |
           echo "FILES=`git diff-tree --no-commit-id --name-only -r ${{ github.event.after }}|xargs`" >> "$GITHUB_OUTPUT"
+          git diff --name-only
       - name: changed boats
         id: changed-boats
         env:
