@@ -34,18 +34,10 @@ jobs:
       - name: create places list
         run: |
           python -m poetry run python places.py
-          echo ok
-      - name: changed files
-        id: changed-files
-        run: |
-          echo "FILES=`git diff-tree --no-commit-id --name-only -r ${{ github.event.after }}|xargs`" >> "$GITHUB_OUTPUT"
-          git diff --name-only
+          echo ok      
       - name: changed boats
         id: changed-boats
-        env:
-          CHANGED_FILES: ${{ steps.changed-files.outputs.FILES }}
-        run: |
-          python -m poetry run python changed_boats.py >> "$GITHUB_OUTPUT"
+          git diff --name-only | python -m poetry run python changed_boats.py >> "$GITHUB_OUTPUT"
       - name: update lmd
         env: 
           CHANGED_BOATS: ${{ steps.changed-boats.outputs.BOATS }}
