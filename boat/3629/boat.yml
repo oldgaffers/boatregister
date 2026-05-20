@@ -1,25 +1,27 @@
 name: Tunstall Tide
 oga_no: 3629
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Sloop
 mainsail_type: gaff
-short_description: Built as a School Project
+short_description: |-
+  Built as a School Project
 full_description: |-
   *Tunstall Tide* is one of the first Gaffling 4.1 hulls, being built from a hull
-  only kit cut by Demon Yachts. She was built by school pupils in the North East
-  under the supervision of Martin Haigh. Her intended use is to introduce school
-  pupils to the joys of Gaff Rig, while the process of building the dinghy created
-  an opportunity for less academically interested pupils to gain experience in
-  practical skills.
+  only kit cut by Demon Yachts. She was built by school students in North East
+  England under the supervision of Martin Haigh. Now launched, her intended use is
+  to introduce students to the joys of Gaff Rig. The process of building the
+  dinghy created an opportunity for students to gain experience in boatbuilding
+  skills.
 year: 2021
 year_is_approximate: false
 designer:
-  name: Andrew Wolstenholme
+- name: Andrew Wolstenholme
   id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 design_class:
   name: Gaffling 4.1
   id: f2dba77b-2c17-4a6c-956a-0c0f791bf7aa
-place_built: North East
+place_built: North East England
 construction_material: plywood
 spar_material: wood
 construction_method: stitch_and_glue
@@ -31,7 +33,12 @@ handicap_data:
   beam: 1.6
   draft: 0.994
   length_on_deck: 4.1
+  length_on_waterline: 8.534
 newItems:
   builder:
-    name: Martin Haigh
     id: e9680142-797b-44f8-9810-06197b6771e0
+    name: Martin Haigh
+lastModified: '2024-01-01T14:50:12Z'
+year_of_build:
+  value: 2021
+updated_at: '2026-05-20'
