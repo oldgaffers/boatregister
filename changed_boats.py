@@ -1,8 +1,8 @@
-from os import environ
+import fileinput
 import json
 
 boats = []
-files = environ['CHANGED_FILES']
+files = ' '.join(list(fileinput.input()))
 print(f'CHANGED_BOATS_INPUT={files}')
 for file in files.split(' '):
   try:
