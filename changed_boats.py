@@ -2,9 +2,7 @@ import sys
 import json
 
 boats = []
-files = input()
-print(f'CHANGED_BOATS_INPUT={files}', file=sys.stderr)
-for file in files.split(' '):
+for file in sys.stdin:
   try:
     if '/boat/' in file:
       print(f'CHANGED_BOATS_FILE_{file}=wanted', file=sys.stderr)
