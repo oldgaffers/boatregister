@@ -37,6 +37,7 @@ jobs:
           echo ok      
       - name: changed boats
         id: changed-boats
+        run: |
           git diff --name-only | python -m poetry run python changed_boats.py >> "$GITHUB_OUTPUT"
       - name: update lmd
         env: 
