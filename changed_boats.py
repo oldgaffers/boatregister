@@ -1,4 +1,4 @@
-import system
+import sys
 import json
 
 boats = []
