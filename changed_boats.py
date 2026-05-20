@@ -9,8 +9,8 @@ for file in files.split(' '):
     if '/boat/' in file:
       print(f'CHANGED_BOATS_FILE_{file}=wanted')
       p = file.split('/')
-      n = 1 if p[0] == 'boat'
-      n = 2 if p[1] == 'boat'
+      n = 1 if p[0] == 'boat' else 2
+      n = 2 if p[1] == 'boat' else 1
       oga_no = int(p[n])
       boats.append(oga_no)
     else:
