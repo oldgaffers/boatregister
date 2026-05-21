@@ -61,7 +61,10 @@ def update_gallery_name(no, album, new_name):
 def check_and_update(no):
     print(f'OGA No, {no}!')
     album = get_album(no)
-    gn = album['Title'] if album else None
+    if album is None:
+        print(f"OGA No {no} has no gallery")
+        return
+    gn = album['Title']
     bn = boat_name(no)
     newgn = f"{bn} ({no})"
     if gn != newgn:
