@@ -1,24 +1,25 @@
 name: Sparky
 oga_no: 1284
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>&#39;Sparky&#39; is a Wylo II.</p>
+short_description: |-
+  'Sparky' is a Wylo II.
 year: 1989
 year_is_approximate: false
 designer:
-  name: Nick Skeates
+- name: Nick Skeates
   id: 75b8e267-30d0-4825-90e1-b253d02723a5
 design_class:
-  name: Wylo II
+  name: Wylo II 32
   id: c841a838-26f9-42e7-bf3c-d3fe724552f3
 builder:
-  name: J.M. Strutt
+- name: J.M. Strutt
   id: d55886fd-59ff-4baa-ac73-b25fbde686d1
 place_built: Billericay
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Poole
 hull_form: long keel deep forefoot
@@ -27,24 +28,28 @@ ownerships:
   start: 1998
   end: 2010
   share: 64
-id: 36d78c91-c8a2-4e90-9b11-6a1353a80361
+image_key: z9vWpQ
 handicap_data:
   thcf: 0.998206478
   beam: 3.048
-  draft: 0.9906
-  fore_triangle_height: 10.66812972445745
-  fore_triangle_base: 6.0960741282613995
-  length_over_all: 9.75371860521824
+  draft: 0.991
+  fore_triangle_height: 10.668
+  fore_triangle_base: 6.096
+  length_on_deck: 9.754
+  length_on_waterline: 8.839
   propellor:
     type: fixed
-  main:
-    foot: 5.4864667154352595
-    head: 4.114850036576445
-    luff: 5.6388685686417945
   topsail:
-    luff: 6.0960741282613995
-    perpendicular: 2.43842965130456
-  length_on_waterline: 8.83930748597903
-  length_on_deck: 9.7536
+    luff: 6.096
+    perpendicular: 2.438
+  length_over_all: 9.754
+  main:
+    foot: 5.486
+    head: 4.115
+    luff: 5.639
 created_at: '2020-04-25T17:02:40.987604+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 36d78c91-c8a2-4e90-9b11-6a1353a80361
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  value: 1989
+updated_at: '2026-05-21'
