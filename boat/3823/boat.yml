@@ -1,31 +1,35 @@
-name: Blue Moon
+name: Oleander
 oga_no: 3823
+generic_type:
+- Yacht
 rig_type: Cutter
-mainsail_type: gaff
+mainsail_type: bermudan
 short_description: |-
-  Blue Moon has a mid blue (Cornish Blue) hull and cream decks
-year: 2018
-designer:
-- name: Roger Dongray
-  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
-design_class:
-  name: Cornish Shrimper 21
-  id: e19b60d2-f3ea-472e-8b93-2f79a84e11f4
-builder:
-- name: Cornish Crabber Ltd
-  id: f532eb3b-fd11-4751-bf69-c1fb1111ce56
-place_built: Wadebridge
+  Mistral Cutter Sloop
+full_description: |-
+  36’ Mistral Cutter Sloop designed by John Alden and built by Halmatic in
+  Portsmouth UK 1966
+year: 1966
+place_built: Portsmouth UK
 construction_material: grp
-spar_material: wood
-home_country: UK
-home_port: Chichester
-hull_form: centre-boarder
-ssr: '170651'
+spar_material: aluminium
+construction_method: hot_moulded
+home_country: 'Ireland '
+home_port: 'Poolbeg Yacht & Boat Club '
+hull_form: long keel sloping forefoot
+sail_number: IRL 1630
+ownerships:
+- name: An Owner
+  start: 1800
+  share: 64
+website: https://www.aldendesigns.com/
 image_key: F53sVJ
 handicap_data:
-  beam: 2.387
-  draft: 0.558
-  length_on_deck: 6.376
-  length_on_waterline: 6.096
-hin: GB-BIH201650818
+  beam: 2.743
+  draft: 1.524
+  length_on_deck: 10.973
+  length_on_waterline: 9.754
+hin: 981J
+air_draft: 14.326
+mmsi: '250013902'
 updated_at: '2026-05-21'
