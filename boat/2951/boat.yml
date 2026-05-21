@@ -1,39 +1,44 @@
 name: Amanita
 oga_no: 2951
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Nick Skeates&#39; 35&#39; Wylo II design built in steel between
-  2003 - 2015 by Mike Hill at Thakeham, Shoreham &amp; Prinsted in Sussex. Launched
-  2009 at Shoreham.</p>
-full_description: "<p>&#39;Amanita&#39; is named for a family of mushrooms, we wanted\
-  \ a mushroom name as she was built by Mike Hill on a derelict mushroom farm at Thakeham,\
-  \ W. Sussex. The build started in 2003, she was launched first in 2007 as an empty\
-  \ shell, to check for leaks (and so we could have a party!) and as a workable boat\
-  \ in 2009 (another party!), she has been a sailing building site ever since.</p>\r\
-  \n\r\n<p>She is a Nick Skeates&#39; Wylo II design, the long version. Initially\
-  \ the mast was stepped through and a fidded topmast was carried but this was changed\
-  \ to the standard, deck stepped, in a tabernacle, in 2012. Initially based in Shoreham,\
-  \ later moving to Chichester, she has sailed as far West as Yarmouth, I.o.W.</p>\r\
-  \n\r\n<p>Summer 2015 saw &#39;Amanita&#39; mixing it with the Luggers in Cornwall!\
-  \ The lure of the cream tea is now a constant siren song, calling us westward once\
-  \ more . . .</p>"
+short_description: |-
+  Nick Skeates' 35' Wylo II design built in steel between 2003 - 2015 by Mike Hill
+  at Thakeham, Shoreham & Prinsted in Sussex. Launched 2009 at Shoreham.
+full_description: |-
+  'Amanita' is named for a family of mushrooms, we wanted a mushroom name as she
+  was built by Mike Hill on a derelict mushroom farm at Thakeham, W. Sussex. The
+  build started in 2003, she was launched first in 2007 as an empty shell, to
+  check for leaks (and so we could have a party!) and as a workable boat in 2009
+  (another party!), she has been a sailing building site ever since.
+
+  She is a Nick Skeates' Wylo II design, the long version. Initially the mast was
+  stepped through and a fidded topmast was carried but this was changed to the
+  standard, deck stepped, in a tabernacle, in 2012. Initially based in Shoreham,
+  later moving to Chichester, she has sailed as far West as Yarmouth, I.o.W.
+
+  Summer 2015 saw 'Amanita' mixing it with the Luggers in Cornwall! The lure of
+  the cream tea is now a constant siren song, calling us westward once more . . .
 year: 2009
 year_is_approximate: false
 designer:
-  name: Nick Skeates
+- name: Nick Skeates
   id: 75b8e267-30d0-4825-90e1-b253d02723a5
 design_class:
-  name: Wylo II
-  id: c841a838-26f9-42e7-bf3c-d3fe724552f3
+  name: Wylo ll Class 35
+  id: dffa3cc8-26fd-4fc1-ac7c-1d0639b5426d
+builder:
+- name: Mike Hill
+  id: 5b853831-4583-4392-b986-b1d80d6ab97f
 place_built: Thakeham & Shoreham, Sussex
 construction_material: steel
 construction_details: Welded multi chine
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Paynes, Prinsted, W. Sussex
-hull_form: cut_away_stem
+hull_form: long keel sloping forefoot
 uk_part1: '921116'
 ownerships:
 - member: 5021
@@ -41,28 +46,30 @@ ownerships:
   start: 2003
   share: 64
   current: true
-id: e95743c2-5846-4e0b-8200-c97bdb545b46
 image_key: GZ7tdk
-thumb: https://photos.smugmug.com/photos/i-v5MwGBB/0/Th/i-v5MwGBB-Th.jpg
 handicap_data:
   thcf: 1.031
   beam: 3.048
-  draft: 1.3198
-  fore_triangle_height: 11.430138990490123
-  fore_triangle_base: 6.806266764203852
-  length_over_all: 10.66812972445745
-  propellor:
-    type: fixed
-    blades: 2
-  sailarea: 68.05351959318908
-  main:
-    foot: 5.562667642038527
-    head: 3.453425993660083
-    luff: 5.7912704218483295
-  topsail:
-    luff: 5.4864667154352595
-    perpendicular: 1.8288222384784198
-  length_on_waterline: 9.44891489880517
+  draft: 1.32
+  fore_triangle_height: 11.43
+  fore_triangle_base: 6.806
   length_on_deck: 10.668
+  length_on_waterline: 9.449
+  propellor:
+    blades: 2
+    type: fixed
+  sailarea: 68.054
+  topsail:
+    luff: 5.486
+    perpendicular: 1.829
+  length_over_all: 10.668
+  main:
+    foot: 5.563
+    head: 3.453
+    luff: 5.791
 created_at: '2020-04-25T17:33:04.531213+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: e95743c2-5846-4e0b-8200-c97bdb545b46
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  value: 2009
+updated_at: '2026-05-21'
