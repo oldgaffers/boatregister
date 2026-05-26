@@ -1,10 +1,14 @@
 name: Myrina
 oga_no: 3793
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Yawl
-mainsail_type: gaff
+mainsail_type: standing lug
 year: 2010
 year_is_approximate: false
+designer:
+- name: John Watkinson
+  id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 design_class:
   name: Drascombe Dabber
   id: 009e26a6-6fa0-408c-8665-3c58e816feef
@@ -26,3 +30,7 @@ handicap_data:
     type: none
   sailarea: 1.018
 hin: GB HNRD037GOLD
+lastModified: '2024-02-24T16:25:58Z'
+year_of_build:
+  value: 2010
+updated_at: '2026-05-23'
