@@ -19,7 +19,7 @@ place_built: Wroxham
 construction_material: ferro
 spar_material: wood
 construction_details: Ferrocement.
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2024-08-19T15:03:41.620Z'
   asking_price: 10000
@@ -87,8 +87,11 @@ for_sales:
     * SSR registered
     * VAT documentation.
     * Many pictures on Apollo Duck
-  reduced: true
   flexibility: 'Open to offers. '
+  reduced: true
+  date_sold: '2026-05-24T03:32:17.697Z'
+  sale_price: 9500
+  summary: <div><!--block-->Dave Penny</div>
 home_country: GBR
 home_port: Weir Quay, Plymouth.
 hull_form: long keel sloping forefoot
@@ -97,18 +100,19 @@ ownerships:
 - member: 3575
   id: 294
   start: 1997
+  end: 2026
   share: 64
-  current: true
 image_key: wmnsgw
 handicap_data:
   beam: 3.581
   draft: 1.524
   length_on_deck: 10.668
   length_on_waterline: 8.534
+  checked: true
 hin: '1495'
 id: 7de6ef37-570d-44d3-a423-d697eba65a13
+lastModified: '2026-05-02T15:33:30Z'
 mmsi: '235061818'
-lastModified: '2025-10-03T20:21:48Z'
 year_of_build:
   value: 1978
-updated_at: '2026-05-02'
+updated_at: '2026-05-24'
