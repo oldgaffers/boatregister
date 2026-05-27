@@ -30,10 +30,33 @@ ownerships:
   current: true
 image_key: VmDq2k
 handicap_data:
-  beam: 2.515
-  draft: 0.229
+  thcf: 0.891
+  beam: 2.591
+  draft: 0.305
+  fore_triangle_height: 8.23
+  fore_triangle_base: 2.743
   length_on_deck: 6.553
-  length_on_waterline: 6.401
-hin: CK163
+  length_on_waterline: 6.096
+  propellor:
+    type: none
+  topsail:
+    luff: 3.353
+    perpendicular: 1.524
+  main:
+    luff: 4.877
+    foot: 3.962
+    head: 4.724
+  last_modified: '2026-05-27T06:38:53.296Z'
+  solent:
+    hull_shape: Long keel - High volume
+    measured_rating: 21.3649077835279
+    thcf: 0.953
+  displacement: 2170
+  peformance_details: None
+  checked: true
 air_draft: 8.839
-updated_at: '2026-03-10'
+hin: CK163
+lastModified: '2026-05-19T17:34:57Z'
+year_of_build:
+  value: 1947
+updated_at: '2026-05-27'
