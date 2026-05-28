@@ -1,40 +1,68 @@
-name: Loki
+name: Maggie Helen
 oga_no: 2631
-generic_type: []
+generic_type:
+- Zulu
 rig_type: Schooner
-mainsail_type: bermudan
+mainsail_type: dipping lug
+short_description: |-
+  ex-fishing vessel, now sailed as a yacht.
 full_description: |-
-  For Sale CB March 04, and on web
+  For Sale CB March 04, and on web  
+  *Maggie Helen* is an ex-Zulu fishing boat, with official number 161170,
+  registered at Lerwick.  She was designed by John Shewan and built by Hay & Co
+  Ltd. in 1904 at Hays Dock, Lerwick. Her hull was carvel built with larch
+  planking, oak frames and a redwood deck fastened with iron nails. She has a
+  pointed bow, a plumb straight stem and a Zulu stern.   
+
+  As a fishing vessel, she was converted to motor propulsion. In 1952 she was
+  re-rigged and renamed LOKI as a yacht with Bermudan schooner rig, then further
+  converted in 1960 as a motor cruiser. She cruised around Shetland and to
+  Scandinavia every summer from 1953 to 1997. A restoration project was partly
+  completed in 2007-‘09, with planking complete but requiring caulking and leaving
+  the vessel as a hull only, with no deck or superstructure.
+
+  In the summer of summer 2022, *Maggie Helen* was rebuilt at the Shetland Museum
+  & Archives in Lerwick, in the very shed where she was originally built in 1904. 
+  The rebuild used mostly available and recycled materials and up to 15 volunteers
+  worked for three months to bring her back to life.  
+
+  She is now (2026) privately owned, and sailed in Brittany. She attended the 2026
+  Lugger Fest in Ullapool and won the OGA trophy for furthest traveled boat.
 year: 1904
 year_is_approximate: false
 designer:
-- id: 665979c8-777e-4c4e-9c14-d942ab347395
-  name: John Shewan
+- name: John Shewan
+  id: 665979c8-777e-4c4e-9c14-d942ab347395
 builder:
-- id: 7abe8d59-3923-44d0-aab0-af03bc5ecf38
-  name: Hay & Co. Ltd.
+- name: Hay & Co. Ltd.
+  id: 7abe8d59-3923-44d0-aab0-af03bc5ecf38
 place_built: Lerwick
 construction_material: wood
+spar_material: wood
+construction_method: carvel
 construction_details: Larch on oak, agba decks
 previous_names:
+- - Loki
 - Maggie Ellen
-- LK 160
+- Loki
 selling_status: not_for_sale
-for_sales: []
-home_port: Sandsound Shetland
+home_country: France
+home_port: Brittany
 hull_form: long keel deep forefoot
+fishing_number: LK160
+website: https://www.nationalhistoricships.org.uk/register/1430/maggie-helen
 image_key: WmjVP7
 handicap_data:
-  beam: 3.9624
-  draft: 1.8288
-  length_on_deck: 13.1064
+  beam: 3.962
+  draft: 1.829
+  length_on_deck: 13.106
+  length_on_waterline: 8.534
   propellor:
     type: fixed
-  length_over_all: 13.106559375762009
+  length_over_all: 13.107
 created_at: '2020-04-25T18:36:25.119115+00:00'
 id: 88d85731-9991-4cb7-bc02-dfd919fd2823
 lastModified: '2023-01-02T20:28:44Z'
 year_of_build:
-  approx: false
   value: 1904
 updated_at: '2026-05-28'
