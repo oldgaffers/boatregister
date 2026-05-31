@@ -15,9 +15,10 @@ place_built: 'West Mersea Essex '
 construction_material: wood
 spar_material: wood
 construction_method: clinker
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2026-01-22T09:54:52.751Z'
+  asking_price: 1500
   sales_text: |-
     West Mersea One design
 
@@ -37,15 +38,23 @@ for_sales:
     A road trailer and a launching trolley and two covers, one for in water and one
     for out
   flexibility: normal
-  asking_price: 1500
+  date_sold: '2026-05-31T10:04:39.360Z'
+  sale_price: 1500
+  summary: <div><!--block-->final price not known. Sale notified by buyer</div>
 home_country: UK
-home_port: Woodbridge
+home_port: Dorset
 hull_form: centre-boarder
 ownerships:
 - name: Robert Craigie
   start: '1965'
+  end: 2026
+  share: 64
+- member: 4193
+  id: 401
+  start: 2026
   share: 64
   current: true
+  note: please check this is not a namesake
 image_key: 8n8xth
 handicap_data:
   thcf: 0.758
@@ -60,7 +69,7 @@ handicap_data:
     foot: 2.743
     head: 4.267
     luff: 3.962
-lastModified: '2026-01-22T09:48:33Z'
+lastModified: '2026-01-22T09:58:45Z'
 year_of_build:
   value: 1928
-updated_at: '2026-01-22'
+updated_at: '2026-05-31'
