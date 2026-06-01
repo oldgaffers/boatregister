@@ -1,13 +1,15 @@
 name: Sunbeam
 oga_no: 2328
-generic_type: Whitstable Smack
+generic_type:
+- Whitstable Smack
+- Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: A first class Whitstable smack, rebuilt in 1982 by John Rigby.
+short_description: |-
+  A first class Whitstable smack, rebuilt in 1982 by John Rigby.
 full_description: |-
   *Sunbeam* is one of the few remaining Whitstable oyster smacks, she still races
   on the East Coast.
-
 
   [Visit Colm's photostream on
   Flickr](https://www.flickr.com/photos/colmolaoi/with/14394546619) for more
@@ -54,4 +56,6 @@ handicap_data:
     luff: 6.325
 created_at: '2020-04-25T17:18:24.704356+00:00'
 id: 8eed9220-eea1-48bd-977d-da1a1b508d7d
-updated_at: '2024-10-17'
+year_of_build:
+  value: 1881
+updated_at: '2026-06-01'
