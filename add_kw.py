@@ -33,7 +33,6 @@ def get_album(oga_no):
     if r.ok:
         js = r.json()
         r = js['Response']['Album']
-        print(r)
         for a in r:
           if a['UrlName'] == f'OGA-{oga_no}':
              return a
