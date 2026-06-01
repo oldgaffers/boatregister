@@ -1,15 +1,17 @@
 name: Pam
 oga_no: 1530
-generic_type: Boston Smack
+generic_type:
+- Boston Smack
+- Smack
 rig_type: Ketch
 mainsail_type: gaff
-short_description: Reputedly the fastest smack to sail out of Boston
+short_description: |-
+  Reputedly the fastest smack to sail out of Boston
 full_description: |-
   *Pam* sank while under tow from Harwich to the Swale Match during the 1980s, but
   was recovered by 1988 and offered for sale in 1992 having been refastened,
   recaulked, refurbished and rerigged, but in need of finishing. She was then sold
   to an owner in Dover, with nothing further known.
-
 
   Log 88/1, 92/2
 year: 1915
@@ -36,6 +38,7 @@ ownerships:
 - name: N O'Brien
   start: 1993
   share: 64
+image_key: 57KGNc
 handicap_data:
   beam: 4.054
   draft: 1.951
@@ -46,4 +49,7 @@ handicap_data:
   length_over_all: 15.85
 created_at: '2020-04-25T17:06:22.818399+00:00'
 id: 6e108fe3-907f-4c3b-b86a-11688ad4009b
-updated_at: '2024-10-16'
+lastModified: '2024-10-16T14:16:00Z'
+year_of_build:
+  value: 1915
+updated_at: '2026-06-01'
