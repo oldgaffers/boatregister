@@ -1,9 +1,12 @@
 name: Lady of Lynn
 oga_no: 3107
-generic_type: Lynn Smack
+generic_type:
+- Lynn Smack
+- Smack
 rig_type: Ketch
 mainsail_type: gaff
-full_description: Log Nov/97. Possibly now in Vancouver Island
+full_description: |-
+  Log Nov/97. Possibly now in Vancouver Island
 year: 1975
 year_is_approximate: false
 designer:
@@ -25,6 +28,7 @@ ownerships:
 - name: T J Huntsman
   start: 1975
   share: 64
+image_key: NLwPZ3
 handicap_data:
   thcf: 0.925416346
   beam: 3.505
@@ -49,4 +53,7 @@ handicap_data:
     luff: 2.53
 created_at: '2020-04-25T17:37:10.268272+00:00'
 id: 55a90b3e-8f06-412e-81ea-5ab05da83914
-updated_at: '2024-10-16'
+lastModified: '2024-10-16T10:36:43Z'
+year_of_build:
+  value: 1975
+updated_at: '2026-06-01'
