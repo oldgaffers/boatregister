@@ -1,6 +1,7 @@
 import json
 import sys
 import os
+from datetime import datetime
 import yaml
 import requests
 from requests_oauthlib import OAuth1Session
@@ -32,11 +33,24 @@ def get_album(oga_no):
     if r.ok:
         js = r.json()
         r = js['Response']['Album']
+        print(r)
         for a in r:
           if a['UrlName'] == f'OGA-{oga_no}':
              return a
+    elif r.status_code == 404:
+        return None
+    elif r.status_code == 429:
+        rem = r.headers['x-ratelimit-remaining']
+        res = int(r.headers['x-ratelimit-reset'])
+        ret = r.headers.get('retry-after', None)
+        if ret is None:
+            print(429, r.headers)
+        else:
+            print('rate limited', rem, res, ret)
+            print(datetime.fromtimestamp(res))
+        exit()
     else:
-        print(f'Error fetching gallery name for {oga_no}: {r.status_code}')
+        print(r.status_code)
     return None
 
 def boat(no):
@@ -72,8 +86,9 @@ def add_to_all(images, kw):
         )
         if r.ok:
             js = r.json()
-            urls.append(js['Response']['AlbumImage']['Uris']['Image']['Uri'])
-    print(urls)
+            res = js['Response']
+            if 'AlbumImage' in res:
+                urls.append(res['AlbumImage']['Uris']['Image']['Uri'])
     smugmug = getRequestsHandler()
     r = smugmug.post(f'https://api.smugmug.com/api/v2/image!addkeywords',
         headers={'accept': 'application/json', 'Content-Type': 'application/json' },
@@ -87,6 +102,17 @@ def add_to_all(images, kw):
         print(f'Error updating image keywords: {r.status_code} {r.text}')
         return
 
+def get_keywords(no):
+    b = boat(no)
+    kw = [b['name']]
+    gt = b.get('generic_type', [])
+    if type(gt) == str:
+       gt = [gt]
+    dc = b.get('design_class', {}).get('name', None)
+    if dc is not None:
+       kw.append(dc)
+    return kw + gt
+
 def add_kw(no):
     print(f'OGA No, {no}!')
     album = get_album(no)
@@ -95,7 +121,6 @@ def add_kw(no):
         return
     imagesUri = album['Uris']['AlbumImages']['Uri']
     url = f'https://api.smugmug.com{imagesUri}'
-    print(url)
     r = requests.get(url,
         headers={'accept': 'application/json' },
         params={'APIKey': api_key}
@@ -106,17 +131,7 @@ def add_kw(no):
     else:
         print(f'Error fetching gallery name for {no}: {r.status_code}')
         return
-    print(len(images))
-    b = boat(no)
-    kw = [b['name']]
-    gt = b.get('generic_type', [])
-    if type(gt) == str:
-       gt = [gt]
-    dc = b.get('design_class', None)
-    if dc is not None:
-       kw.append(dc)
-    kw = kw + gt
-    print(kw)
+    kw = get_keywords(no)
     add_to_all(images, kw)
 
 if __name__ == '__main__':
