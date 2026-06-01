@@ -1,6 +1,8 @@
 name: Mayfly
 oga_no: 416
-generic_type: Paglesham Smack
+generic_type:
+- Paglesham Smack
+- Smack
 rig_type: Cutter
 mainsail_type: gaff
 year: 1912
@@ -16,13 +18,13 @@ construction_material: wood
 selling_status: not_for_sale
 hull_form: long keel deep forefoot
 ownerships:
+- name: D J Roper
+  start: 1963
+  end: 1974
+  share: 64
 - name: J C C Gould
   start: 1974
   share: 32
-- name: D J Roper
-  start: 1963
-  share: 64
-  end: 1974
 image_key: dXwpJq
 handicap_data:
   beam: 3.353
@@ -32,3 +34,6 @@ handicap_data:
   length_over_all: 9.144
 created_at: '2020-04-25T16:48:39.026604+00:00'
 id: 1dcdec43-04df-4eb1-ac22-e572506ce87a
+year_of_build:
+  value: 1912
+updated_at: '2026-06-01'
