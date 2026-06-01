@@ -19,14 +19,13 @@ def getRequestsHandler():
     )
 
 def get_album(oga_no):
-    text = f'({oga_no})'
+    text = f' ({oga_no})'
     r = requests.get(f'https://api.smugmug.com/api/v2/album!search',
         headers={'accept': 'application/json' },
         params={
             'APIKey': api_key,
             'Scope': '/api/v2/user/oga',
-            'SortDirection': 'Descending',
-            'SortMethod': 'Rank',
+            'count': 100,
             'Text': text,
         }
     )
@@ -35,7 +34,9 @@ def get_album(oga_no):
         print('calls in hand', rem)
         js = r.json()
         r = js['Response'].get('Album', [])
+        print(js['Response']['Pages'])
         for a in r:
+          print(text, a['UrlName'], a['Title'])
           if a['UrlName'] == f'OGA-{oga_no}':
              return a
     elif r.status_code == 404:
@@ -45,7 +46,7 @@ def get_album(oga_no):
         res = int(r.headers['x-ratelimit-reset'])
         ret = r.headers.get('retry-after', None)
         if ret is None:
-            print(429, r.headers)
+            print(429, r.reason, r.headers)
         else:
             print('rate limited', rem, res, ret)
             print(datetime.fromtimestamp(res))
