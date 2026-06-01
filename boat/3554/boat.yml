@@ -1,6 +1,8 @@
 name: Yet
 oga_no: 3554
-generic_type: Colchester Smack
+generic_type:
+- Colchester Smack
+- Smack
 rig_type: Cutter
 mainsail_type: gaff
 full_description: |-
@@ -9,25 +11,27 @@ full_description: |-
   rebuild and launched her in 2023 ready for the local Swale Match.
 year: 1898
 year_is_approximate: false
-designer: []
-builder: []
 place_built: Brightlingsea
 construction_material: wood
 spar_material: wood
 construction_method: carvel
 home_country: Uk
 home_port: 'Faversham '
+hull_form: long keel deep forefoot
 sail_number: CK469
 fishing_number: CK469
 ownerships:
 - name: Dan Tester
   start: '2010'
+  end: 2026
   share: 64
-  current: true
 image_key: Dsmmjt
 handicap_data:
   beam: 2.926
   draft: 1.524
   length_on_deck: 10.973
   length_on_waterline: 9.144
-updated_at: '2024-10-14'
+lastModified: '2024-10-14T13:56:02Z'
+year_of_build:
+  value: 1898
+updated_at: '2026-06-01'
