@@ -1,12 +1,14 @@
 name: Ibis
 oga_no: 158
-generic_type: Whitstable Smack
+generic_type:
+- Whitstable Smack
+- Smack
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Ibis was converted from a fishing smack to a yacht in the 1930's
+short_description: |-
+  *Ibis* was converted from a fishing smack to a yacht in the 1930's
 year: 1888
 year_is_approximate: false
-designer: []
 builder:
 - name: Whitstable Oyster Co.
   id: a6c3dc29-2260-442b-abc4-c09d7c2f318e
@@ -32,4 +34,6 @@ handicap_data:
   length_over_all: 11.278
 created_at: '2020-04-25T16:44:47.186258+00:00'
 id: ca0283fb-f6ad-4d73-98f8-5958d773f2d6
-updated_at: '2024-10-17'
+year_of_build:
+  value: 1888
+updated_at: '2026-06-01'
