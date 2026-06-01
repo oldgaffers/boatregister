@@ -77,18 +77,23 @@ def update_all(images, kw):
         if m != ekw:
             update_kw(image["Uri"], m)
 
+def image_uri1(image):
+    r = requests.get(f"https://api.smugmug.com{image['Uri']}",
+        headers={'accept': 'application/json' },
+        params={'APIKey': api_key}
+    )
+    if r.ok:
+        js = r.json()
+        res = js['Response']
+        if 'AlbumImage' in res:
+            return res['AlbumImage']['Uris']['Image']['Uri']
+    return None
+
+def image_uri(image):
+    return f"/api/v2/image/{image['ImageKey']}"
+
 def add_to_all(images, kw):
-    urls = []
-    for image in images:
-        r = requests.get(f"https://api.smugmug.com{image['Uri']}",
-            headers={'accept': 'application/json' },
-            params={'APIKey': api_key}
-        )
-        if r.ok:
-            js = r.json()
-            res = js['Response']
-            if 'AlbumImage' in res:
-                urls.append(res['AlbumImage']['Uris']['Image']['Uri'])
+    urls = [image_uri(image) for image in images]
     smugmug = getRequestsHandler()
     r = smugmug.post(f'https://api.smugmug.com/api/v2/image!addkeywords',
         headers={'accept': 'application/json', 'Content-Type': 'application/json' },
