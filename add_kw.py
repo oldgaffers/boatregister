@@ -31,8 +31,10 @@ def get_album(oga_no):
         }
     )
     if r.ok:
+        rem = r.headers['x-ratelimit-remaining']
+        print('calls in hand', rem)
         js = r.json()
-        r = js['Response']['Album']
+        r = js['Response'].get('Album'], [])
         for a in r:
           if a['UrlName'] == f'OGA-{oga_no}':
              return a
