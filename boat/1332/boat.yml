@@ -1,6 +1,8 @@
 name: Mermaid
 oga_no: 1332
-generic_type: Boston Smack
+generic_type:
+- Boston Smack
+- Smack
 rig_type: Cutter
 mainsail_type: gaff
 full_description: |-
@@ -8,10 +10,9 @@ full_description: |-
   refitted and converted from sail to motor in 1935. She came into the possession
   of Mr. Charles Chase of Kings Lynn in 1912, and was re-named *Charles
   Josephine*.
-  
-  In 1945 she was re-named *Mermaid*, by Worfolk Bros., Kings Lynn,
-  who refitted and sold her to T. Lineham of Sutton Bridge. She fished the Wash
-  until 1980.
+
+  In 1945 she was re-named *Mermaid*, by Worfolk Bros., Kings Lynn, who refitted
+  and sold her to T. Lineham of Sutton Bridge. She fished the Wash until 1980.
 
   Bought by Jack Waterhouse & his son of Woodrolfe Boatyard, Tollesbury, Essex,
   they rebuilt her back to her early state of sail, (Tan main, white headsails and
@@ -41,6 +42,7 @@ ownerships:
 - name: M R Waterhouse
   start: 1973
   share: 64
+image_key: JmqGQJ
 handicap_data:
   thcf: 1.025602355
   beam: 3.2
@@ -61,4 +63,7 @@ handicap_data:
     luff: 5.334
 created_at: '2020-04-25T17:03:23.464167+00:00'
 id: 10e8a112-f06d-4a71-bf3d-e8733661f186
-updated_at: '2024-10-16'
+lastModified: '2024-10-16T11:26:04Z'
+year_of_build:
+  value: 1904
+updated_at: '2026-06-01'
