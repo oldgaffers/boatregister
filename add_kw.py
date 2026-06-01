@@ -133,7 +133,20 @@ def add_kw(no):
     )
     if r.ok:
         js = r.json()
-        images = js['Response']['AlbumImage']
+        images = js['Response'].get('AlbumImage', []
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        )
     else:
         print(f'Error fetching gallery name for {no}: {r.status_code}')
         return
