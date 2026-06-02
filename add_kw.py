@@ -34,7 +34,7 @@ def get_album(oga_no):
         print('calls in hand', rem)
         js = r.json()
         r = js['Response'].get('Album', [])
-        print(js['Response']['Pages'])
+        # print(js['Response']['Pages'])
         for a in r:
           print(text, a['UrlName'], a['Title'])
           if a['UrlName'] == f'OGA-{oga_no}':
@@ -121,10 +121,10 @@ def get_keywords(no):
     return kw + gt
 
 def add_kw(no):
-    print(f'OGA No, {no}!')
+    # print(f'OGA No, {no}!')
     album = get_album(no)
     if album is None:
-        print(f"OGA No {no} has no gallery")
+        # print(f"OGA No {no} has no gallery")
         return
     imagesUri = album['Uris']['AlbumImages']['Uri']
     url = f'https://api.smugmug.com{imagesUri}'
@@ -134,23 +134,13 @@ def add_kw(no):
     )
     if r.ok:
         js = r.json()
-        images = js['Response'].get('AlbumImage', []
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        )
+        images = js['Response'].get('AlbumImage', [])
     else:
         print(f'Error fetching gallery name for {no}: {r.status_code}')
         return
+    if len(images) == 0:
+        return
+    print(f'adding keywords to {len(images)} images for boat {no}')
     kw = get_keywords(no)
     add_to_all(images, kw)
 
