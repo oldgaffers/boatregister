@@ -1,41 +1,70 @@
 name: Pooh bear
 oga_no: 3712
-generic_type: Dayboat
+generic_type:
+- Dayboat
 rig_type: Ketch
 mainsail_type: gunter
 year: 1978
 year_is_approximate: true
 designer:
-  name: John Watkinson
+- name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
 design_class:
   name: Drascombe Longboat
   id: 4cdd2726-2dcf-4e73-bd5e-4dc8ff64d4f5
 builder:
-  name: Honnor Marine Ltd.
+- name: Honnor Marine Ltd.
   id: 2e1683ac-2223-480f-9412-be351f564ae9
 place_built: Uk
 construction_material: grp
 spar_material: wood
 construction_method: clinker
-selling_status: not_for_sale
+selling_status: for_sale
+for_sales:
+- created_at: '2026-06-03T12:02:34.962Z'
+  sales_text: |-
+    *Pooh Bear* is a well mainained standard Longboat, and comes complete with
+    outboard and trailer.    
+    The outboard is a 1998 Yamaha 9.9hp, 2 stroke, 2 cylinder. Always starts 1st
+    time, summer and winter.The trailer is galvanised and has recently been
+    overhauled with new shoes and cables.
+
+    Otherwise, the boat is a standard longboat but the original, stern-fitted main
+    sheet runner is missing, having been replaced at some point, with a mid-boom
+    main sheet assembly. Secure extra locker fitted aft of the mast for life jackets
+    etc.
+
+    Berthed at Cardiff Bay Yacht Club.
+  flexibility: normal
+  asking_price: 3250
 home_country: GBR
 home_port: CARDIFF
-hull_form: centre-board dinghy
+hull_form: centre-boarder
 sail_number: Nome
-id: e6cf1cfd-dd4c-4902-9a20-a1386c173cc9
 fishing_number: None
+ownerships:
+- member: 5956
+  id: 860
+  start: 2026
+  share: 64
+  current: true
+  note: please check this is not a namesake
 image_key: Zf4Bj7
 handicap_data:
   thcf: 0.814
   beam: 2.042
   draft: 1.219
-  propellor:
-    type: fixed
-    blades: 3
-  sailarea: 15.98
   length_on_deck: 6.645
   length_on_waterline: 5.486
+  propellor:
+    blades: 3
+    type: fixed
+  sailarea: 15.98
 created_at: '2022-08-26T10:45:44.241518+00:00'
-updated_at: '2022-08-26T12:07:20.73427+00:00'
 hin: Nk
+id: e6cf1cfd-dd4c-4902-9a20-a1386c173cc9
+lastModified: '2024-01-01T15:31:07Z'
+year_of_build:
+  approx: true
+  value: 1978
+updated_at: '2026-06-03'
