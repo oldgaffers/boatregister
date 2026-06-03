@@ -4,8 +4,8 @@ generic_type:
 - Dayboat
 rig_type: Ketch
 mainsail_type: gunter
-year: 1978
-year_is_approximate: true
+year: 1984
+year_is_approximate: false
 designer:
 - name: John Watkinson
   id: 95bd48b3-adbe-4356-84c0-b9902cef99d6
@@ -21,27 +21,22 @@ spar_material: wood
 construction_method: clinker
 selling_status: for_sale
 for_sales:
-- created_at: '2026-06-03T12:02:34.962Z'
-  sales_text: |-
-    *Pooh Bear* is a well mainained standard Longboat, and comes complete
-    with outboard and trailer.
-    The outboard is a 1998 Yamaha 9.9hp, 2 stroke, 2 cylinder. Always
-    starts 1st time, summer and winter.
-    The trailer is galvanised and has recently been overhauled with new
-    shoes and cables.
-    Otherwise, the boat is a standard longboat but the original,
-    stern-fitted main sheet runner is missing, having been replaced
-    at some point, with a mid-boom main sheet assembly.
-    Secure extra locker fitted aft of the mast for life jackets
-    etc.
-    Berthed at Cardiff Bay Yacht Club.
-  flexibility: normal
+- created_at: '2026-06-03T12:25:06.284Z'
   asking_price: 3250
+  sales_text: |-
+    Pooh Bear is a Drascombe Longboat in good condition. The original, stern-fitted
+    main sheet runner has been replaced at some point, with a mid-boom main sheet
+    assembly. A secure extra locker has been fitted aft of the mast for storage of
+    life jackets e.t.c. She comes complete with a road trailer and outboard.  
+    The trailer is galvanised and has been recently serviced with new cables and
+    shoes.  
+    The outboard is a 1998 Yamaha 9.9hp, 2 stroke, 2 cylinder that always starts
+    first time, winter or summer.  
+    Berthed at Cardiff Bay Yacht Club
+  flexibility: normal
 home_country: GBR
 home_port: CARDIFF
 hull_form: centre-boarder
-sail_number: Nome
-fishing_number: None
 ownerships:
 - member: 5956
   id: 860
@@ -61,9 +56,9 @@ handicap_data:
     type: fixed
   sailarea: 15.98
 created_at: '2022-08-26T10:45:44.241518+00:00'
-hin: Nk
+hin: '872'
 id: e6cf1cfd-dd4c-4902-9a20-a1386c173cc9
-lastModified: '2024-01-01T15:31:07Z'
+lastModified: '2026-06-03T12:15:21Z'
 year_of_build:
   approx: true
   value: 1978
