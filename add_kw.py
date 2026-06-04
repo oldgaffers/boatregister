@@ -3,27 +3,30 @@ import sys
 import os
 from datetime import datetime
 import yaml
-import requests
 from requests_oauthlib import OAuth1Session
 
 cs = os.environ.get('SMUGMUG_CLIENT_SECRET', 'n/a')
 sac = os.environ.get('SMUGMUG_SECRET_ACCESS_KEY', 'n/a')
 ac = os.environ.get('SMUGMUG_ACCESS_KEY', 'n/a')
 api_key = os.environ.get('SMUGMUG_API_KEY', 'n/a')
+sm = 'https://api.smugmug.com'
 
 def getRequestsHandler():
-    return OAuth1Session(api_key,
+    session = OAuth1Session(api_key,
         client_secret=cs,
         resource_owner_key=ac,
         resource_owner_secret=sac
     )
+    session.headers.update({'accept': 'application/json'})
+    return session
+
+smugmug = getRequestsHandler()
 
 def get_album(oga_no):
     text = f' ({oga_no})'
-    r = requests.get(f'https://api.smugmug.com/api/v2/album!search',
+    r = smugmug.get(f'{sm}/api/v2/album!search',
         headers={'accept': 'application/json' },
         params={
-            'APIKey': api_key,
             'Scope': '/api/v2/user/oga',
             'count': 100,
             'Text': text,
@@ -33,10 +36,10 @@ def get_album(oga_no):
         rem = r.headers['x-ratelimit-remaining']
         print('calls in hand', rem)
         js = r.json()
-        print(json.dumps(dict(r.headers)))
-        print(json.dumps(r.request.url))
-        print(json.dumps(dict(r.request.headers)))
-        print(json.dumps(js))
+        # print(json.dumps(dict(r.headers)))
+        # print(json.dumps(r.request.url))
+        # print(json.dumps(dict(r.request.headers)))
+        # print(json.dumps(js))
         for a in js['Response'].get('Album', []):
           print(text, a['UrlName'], a['Title'])
           if a['UrlName'] == f'OGA-{oga_no}':
@@ -63,9 +66,8 @@ def boat(no):
     return boat
 
 def update_kw(url, kw):
-    smugmug = getRequestsHandler()
-    r = smugmug.patch(f'https://api.smugmug.com{url}',
-        headers={'accept': 'application/json', 'Content-Type': 'application/json' },
+    r = smugmug.patch(f'{sm}{url}',
+        headers={'Content-Type': 'application/json'},
         json={
             'KeywordArray': kw,
         }
@@ -82,10 +84,7 @@ def update_all(images, kw):
             update_kw(image["Uri"], m)
 
 def image_uri1(image):
-    r = requests.get(f"https://api.smugmug.com{image['Uri']}",
-        headers={'accept': 'application/json' },
-        params={'APIKey': api_key}
-    )
+    r = smugmug.get(f"{sm}{image['Uri']}")
     if r.ok:
         js = r.json()
         res = js['Response']
@@ -98,9 +97,8 @@ def image_uri(image):
 
 def add_to_all(images, kw):
     urls = [image_uri(image) for image in images]
-    smugmug = getRequestsHandler()
-    r = smugmug.post(f'https://api.smugmug.com/api/v2/image!addkeywords',
-        headers={'accept': 'application/json', 'Content-Type': 'application/json' },
+    r = smugmug.post(f'{sm}/api/v2/image!addkeywords',
+        headers={'Content-Type': 'application/json' },
         json={
             'Async': True,
             'ImageUris': urls,
@@ -128,18 +126,24 @@ def add_kw(no):
     if album is None:
         # print(f"OGA No {no} has no gallery")
         return
+    add_kw_to_album(album)
+
+def add_kw_to_album(album,):
+    no = i['UrlName'].split('-')[1]
+    images = get_images(album)
+    add_kw_to_images(images, no)
+
+def get_images(album):
     imagesUri = album['Uris']['AlbumImages']['Uri']
-    url = f'https://api.smugmug.com{imagesUri}'
-    r = requests.get(url,
-        headers={'accept': 'application/json' },
-        params={'APIKey': api_key}
-    )
+    r = smugmug.get(f'{sm}{imagesUri}')
     if r.ok:
         js = r.json()
-        images = js['Response'].get('AlbumImage', [])
+        return js['Response'].get('AlbumImage', [])
     else:
-        print(f'Error fetching gallery name for {no}: {r.status_code}')
-        return
+        print(f'Error fetching gallery name for {album ["Name"]}: {r.status_code}')
+        return []
+
+def add_kw_to_images(images, no):
     if len(images) == 0:
         return
     print(f'adding keywords to {len(images)} images for boat {no}')
@@ -148,6 +152,29 @@ def add_kw(no):
 
 if __name__ == '__main__':
   if len(sys.argv) == 2:
-    boats = json.loads(sys.argv[1])
-    for n in boats:
-        add_kw(n)
+      boats = json.loads(sys.argv[1])
+      for boat in boats:
+          add_kw(boat)
+  if len(sys.argv) == 3:
+    # boats = json.loads(sys.argv[1])
+    start = int(sys.argv[1])
+    count = int(sys.argv[2])
+    r = smugmug.get('https://api.smugmug.com/api/v2/node/h4738Q!children',
+        params = {'count': count, 'start': start},
+    )
+    if not r.ok:
+        print(r.status_code, r.text)
+        exit ()
+    print (r.ok )
+    j = r.json()
+    n = j['Response']['Node']
+    for i in n :
+        album = i ['Uris']['Album']['Uri']
+        print(album)
+        r = smugmug.get(f'{sm}{album}')
+        if not r.ok:
+            print(r.status_code)
+            exit()
+        j = r.json()
+        a = j['Response']['Album']
+        add_kw_to_album(a)
