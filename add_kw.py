@@ -128,8 +128,9 @@ def add_kw(no):
         return
     add_kw_to_album(album)
 
-def add_kw_to_album(album,):
-    no = i['UrlName'].split('-')[1]
+def add_kw_to_album(album):
+    print(album['UrlName'], album['Name'])
+    no = album['UrlName'].split('-')[1]
     images = get_images(album)
     add_kw_to_images(images, no)
 
@@ -153,8 +154,8 @@ def add_kw_to_images(images, no):
 if __name__ == '__main__':
   if len(sys.argv) == 2:
       boats = json.loads(sys.argv[1])
-      for boat in boats:
-          add_kw(boat)
+      for b in boats:
+          add_kw(b)
   if len(sys.argv) == 3:
     # boats = json.loads(sys.argv[1])
     start = int(sys.argv[1])
@@ -165,12 +166,10 @@ if __name__ == '__main__':
     if not r.ok:
         print(r.status_code, r.text)
         exit ()
-    print (r.ok )
     j = r.json()
     n = j['Response']['Node']
     for i in n :
         album = i ['Uris']['Album']['Uri']
-        print(album)
         r = smugmug.get(f'{sm}{album}')
         if not r.ok:
             print(r.status_code)
