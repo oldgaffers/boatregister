@@ -118,7 +118,9 @@ def get_keywords(no):
     dc = b.get('design_class', {}).get('name', None)
     if dc is not None:
        kw.append(dc)
-    return kw + gt
+    pn = b.get('previous_names', [])
+    print(json.dumps(pn))
+    return kw + gt + pn
 
 def add_kw(no):
     # print(f'OGA No, {no}!')
