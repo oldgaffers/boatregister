@@ -37,10 +37,6 @@ def get_album(oga_no):
         rem = r.headers['x-ratelimit-remaining']
         print('calls in hand', rem)
         js = r.json()
-        # print(json.dumps(dict(r.headers)))
-        # print(json.dumps(r.request.url))
-        # print(json.dumps(dict(r.request.headers)))
-        # print(json.dumps(js))
         for a in js['Response'].get('Album', []):
           print(text, a['UrlName'], a['Title'])
           if a['UrlName'] == f'OGA-{oga_no}':
@@ -61,7 +57,7 @@ def get_album(oga_no):
         print(r.status_code)
     return None
 
-def boat(no):
+def get_boat_data(no):
     with open(f"boat/{no}/boat.yml", "r", encoding='utf-8') as stream:
       boat = yaml.safe_load(stream)
     return boat
@@ -111,7 +107,7 @@ def add_to_all(images, kw):
         return
 
 def get_keywords(no):
-    b = boat(no)
+    b = get_boat_data(no)
     kw = [b['name']]
     gt = b.get('generic_type', [])
     if type(gt) == str:
@@ -123,19 +119,17 @@ def get_keywords(no):
     print(json.dumps(pn))
     return kw + gt + pn
 
-def add_kw(no):
-    # print(f'OGA No, {no}!')
+def add_kw_to_album_by_oga_no(no):
     album = get_album(no)
     if album is None:
-        # print(f"OGA No {no} has no gallery")
+        print(f"OGA No {no} has no gallery")
         return
-    add_kw_to_album(album)
+    kw = get_keywords(no)
+    add_kw_to_album(album, kw)
 
-def add_kw_to_album(album):
-    print(album['UrlName'], album['Name'])
-    no = album['UrlName'].split('-')[1]
+def add_kw_to_album(album, kw):
     images = get_images(album)
-    add_kw_to_images(images, no)
+    add_kw_to_images(images, kw)
 
 def get_images(album):
     imagesUri = album['Uris']['AlbumImages']['Uri']
@@ -147,16 +141,14 @@ def get_images(album):
         print(f'Error fetching gallery name for {album ["Name"]}: {r.status_code}')
         return []
 
-def add_kw_to_images(images, no):
+def add_kw_to_images(images, kw):
     if len(images) == 0:
         return
-    print(f'adding keywords to {len(images)} images for boat {no}')
-    kw = get_keywords(no)
+    print(f'adding keywords to {len(images)} images {", ".join(kw)}')
     add_to_all(images, kw)
 
 def update_gallery_name(no, album, new_name):
-    print(album['Uri'])
-    r = smugmug.patch(f'https://api.smugmug.com{album["Uri"]}',
+    r = smugmug.patch(f'{sm}{album["Uri"]}',
         headers={'accept': 'application/json', 'Content-Type': 'application/json' },
         json={
             'Title': new_name,
@@ -177,22 +169,26 @@ def get_boat_galleries(start, count):
     j = r.json()
     return j['Response']['Node']
 
+def add_kw_to_album_by_uri(uri)
+    r = smugmug.get(f'{sm}{uri}')
+    if not r.ok:
+        print(r.status_code)
+        exit()
+    j = r.json()
+    a = j['Response']['Album']
+    no = album['UrlName'].split('-')[1]
+    kw = get_keywords(no)
+    add_kw_to_album(a, kw)
+
 if __name__ == '__main__':
   if len(sys.argv) == 2:
       boats = json.loads(sys.argv[1])
       for b in boats:
-          add_kw(b)
+          add_kw_to_album_by_oga_no(b)
   if len(sys.argv) == 3:
-    # boats = json.loads(sys.argv[1])
     start = int(sys.argv[1])
     count = int(sys.argv[2])
     n = get_boat_galleries(start, count)
-    for i in n :
-        album = i ['Uris']['Album']['Uri']
-        r = smugmug.get(f'{sm}{album}')
-        if not r.ok:
-            print(r.status_code)
-            exit()
-        j = r.json()
-        a = j['Response']['Album']
-        add_kw_to_album(a)
+    for i in n:
+        album = i['Uris']['Album']['Uri']
+        add_kw_to_album_by_uri(album)
