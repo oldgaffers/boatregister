@@ -4,7 +4,7 @@ import os
 import yaml
 import requests
 from requests_oauthlib import OAuth1Session
-from smugmug_util import get_album, update_gallery_name, add_to_all, get_images
+from add_kw import get_album, update_gallery_name, add_to_all, get_images
 
 def boat_name(no):
     with open(f"boat/{no}/boat.yml", "r", encoding='utf-8') as stream:
