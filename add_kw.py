@@ -153,6 +153,19 @@ def add_kw_to_images(images, no):
     kw = get_keywords(no)
     add_to_all(images, kw)
 
+def update_gallery_name(no, album, new_name):
+    print(album['Uri'])
+    r = smugmug.patch(f'https://api.smugmug.com{album["Uri"]}',
+        headers={'accept': 'application/json', 'Content-Type': 'application/json' },
+        json={
+            'Title': new_name,
+        }
+    )
+    if not r.ok:
+        print(f'Error updating gallery name for {no}: {r.status_code} {r.text}')
+        return
+    print(f'Gallery name for {no} updated to {new_name}')
+
 if __name__ == '__main__':
   if len(sys.argv) == 2:
       boats = json.loads(sys.argv[1])
