@@ -23,6 +23,8 @@ def check_and_update(no):
     if gn != newgn:
         print(f'Gallery name is {gn}, should be {newgn}. Updating...')
         update_gallery_name(no, album, newgn)
+        images = get_images(album)
+        add_to_all(images, [bn])
 
 if __name__ == '__main__':
   if len(sys.argv) == 2:
