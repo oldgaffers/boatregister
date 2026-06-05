@@ -10,6 +10,7 @@ sac = os.environ.get('SMUGMUG_SECRET_ACCESS_KEY', 'n/a')
 ac = os.environ.get('SMUGMUG_ACCESS_KEY', 'n/a')
 api_key = os.environ.get('SMUGMUG_API_KEY', 'n/a')
 sm = 'https://api.smugmug.com'
+ba = 'h4738Q' # hard coded folder node key
 
 def getRequestsHandler():
     session = OAuth1Session(api_key,
@@ -166,6 +167,16 @@ def update_gallery_name(no, album, new_name):
         return
     print(f'Gallery name for {no} updated to {new_name}')
 
+def get_boat_galleries(start, count):
+    r = smugmug.get(f'{sm}/api/v2/node/{ba}!children',
+        params = {'count': count, 'start': start},
+    )
+    if not r.ok:
+        print(r.status_code, r.text)
+        return []
+    j = r.json()
+    return j['Response']['Node']
+
 if __name__ == '__main__':
   if len(sys.argv) == 2:
       boats = json.loads(sys.argv[1])
@@ -175,14 +186,7 @@ if __name__ == '__main__':
     # boats = json.loads(sys.argv[1])
     start = int(sys.argv[1])
     count = int(sys.argv[2])
-    r = smugmug.get('https://api.smugmug.com/api/v2/node/h4738Q!children',
-        params = {'count': count, 'start': start},
-    )
-    if not r.ok:
-        print(r.status_code, r.text)
-        exit ()
-    j = r.json()
-    n = j['Response']['Node']
+    n = get_boat_galleries(start, count)
     for i in n :
         album = i ['Uris']['Album']['Uri']
         r = smugmug.get(f'{sm}{album}')
