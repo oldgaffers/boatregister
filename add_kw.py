@@ -169,7 +169,7 @@ def get_boat_galleries(start, count):
     j = r.json()
     return j['Response']['Node']
 
-def add_kw_to_album_by_uri(uri)
+def add_kw_to_album_by_uri(uri):
     r = smugmug.get(f'{sm}{uri}')
     if not r.ok:
         print(r.status_code)
