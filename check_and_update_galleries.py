@@ -9,17 +9,22 @@ cs = os.environ.get('SMUGMUG_CLIENT_SECRET', 'n/a')
 sac = os.environ.get('SMUGMUG_SECRET_ACCESS_KEY', 'n/a')
 ac = os.environ.get('SMUGMUG_ACCESS_KEY', 'n/a')
 api_key = os.environ.get('SMUGMUG_API_KEY', 'n/a')
+sm = 'https://api.smugmug.com'
 
 def getRequestsHandler():
-    return OAuth1Session(api_key,
+    session = OAuth1Session(api_key,
         client_secret=cs,
         resource_owner_key=ac,
         resource_owner_secret=sac
     )
+    session.headers.update({'accept': 'application/json'})
+    return session
+
+smugmug = getRequestsHandler()
 
 def get_album(oga_no):
     text = f'({oga_no})'
-    r = requests.get(f'https://api.smugmug.com/api/v2/album!search',
+    r = smugmug.get(f'{sm}/api/v2/album!search',
         headers={'accept': 'application/json' },
         params={
             'APIKey': api_key,
@@ -46,7 +51,6 @@ def boat_name(no):
 
 def update_gallery_name(no, album, new_name):
     print(album['Uri'])
-    smugmug = getRequestsHandler()
     r = smugmug.patch(f'https://api.smugmug.com{album["Uri"]}',
         headers={'accept': 'application/json', 'Content-Type': 'application/json' },
         json={
