@@ -1,29 +1,48 @@
-name: 'Lavinia Rose '
+name: Cachalette
 oga_no: 3829
-rig_type: Cutter
-mainsail_type: gaff
+generic_type:
+- Dinghy
+rig_type: Single Sail
+mainsail_type: lug
 short_description: |-
-  Cornish Crabber 24 Mk 1.
+  An Iain Oughtred 'Guillemot' design, built by her current owner high up on a
+  Derbyshire hillside, 'Cachalette' was launched 2010 on Carsington Water. In 2021
+  she was moved to the River Deben.
 full_description: |-
-  Originally named Martha Miller of Mersea and owned and kept for many years at
-  Emsworth, New owner renamed her Zele circa 2019 kept at Emsworth. Further new
-  owner renamed her Lavinia Rose circa 2021 kept on Windermere. Current owner
-  brought her to the Gareloch, off the Clyde estuary in 2025.  
-  Light grey painted hull, with dark grey shear strake, cream deck.
-year: 1979
-design_class:
-  name: Cornish Crabber 24
-  id: ff83f69b-9762-4ae5-9681-950b5658ad97
-construction_material: grp
+  The instruction manual for the Iain Oughtred, ‘Guillemot’, design no. 54 states:
+  *“A strong, stable and very capable boat along the lines of a 19th century
+  ship’s boat or large yacht tender. The Guillemot has been designed for owners
+  who need a more burdensome hull with flatter floors, firmer bilges and higher
+  freeboard. She will not be as light and fast, but is a lot more steady in the
+  water and less ‘flighty’ than the Acorn Skiff. She is finely modelled and
+  performs very well indeed for a boat of this type, whether rowed or under sail.
+  She can happily take a light outboard as well.”*
+year: 2010
+designer:
+- name: Iain Oughtred
+  id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
+builder:
+- name: Steve Yates
+  id: f917f8f1-3c0f-4049-951b-9c8bfd98be7d
+place_built: Matlock Derbyshire
+construction_material: wood
 spar_material: wood
-home_country: Scottland
-home_port: Rhu
+construction_method: clinker_ply
+home_country: UK
+home_port: Woodbridge, Suffolk
 hull_form: centre-boarder
+ownerships:
+- member: 4741
+  id: 501
+  start: '2010'
+  share: 64
+  current: true
+  note: please check this is not a namesake
+website: https://www.cachalot.org.uk/category/sail-oar-paddle/
 image_key: JxgMrk
 handicap_data:
-  beam: 2.438
-  draft: 1.372
-  length_on_deck: 7.315
-  length_on_waterline: 6.172
-hin: '231'
+  beam: 1.372
+  draft: 0.457
+  length_on_deck: 3.505
+  length_on_waterline: 3.505
 updated_at: '2026-06-10'
