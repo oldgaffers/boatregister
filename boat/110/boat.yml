@@ -1,6 +1,7 @@
 name: Devon Maid
 oga_no: 110
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Yawl
 mainsail_type: gaff
 short_description: |-
@@ -11,13 +12,11 @@ full_description: |-
   Originally a dayboat, 'Devon Maid' had a coachroof added in the 1930s. During
   the Second World War she was sunk as part of a barrage.
 
-
   In 1958 she was found sailing in the Alderney Race with no-one on board and was
   taken to Guernsey by the pilots, one of whom was the father of David Bisson, who
   bought her in 2009. She took part in the first OGA Solent Race in 1959 under her
   then owner, Fiona Beale, who then took her to the Helford River, which has been
   her home port ever since.
-
 
   Fiona Beale owned her for 50 years.
 year: 1914
@@ -37,17 +36,12 @@ construction_details: Larch and cedar on steamed oak ribs, copper fastened, with
 previous_names:
 - Bingle
 - Winkle
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2022-09-29T17:28:21.36815+00:00'
   asking_price: 1000
-  flexibility: normal
-  reduced: true
-  seller_gold_id: 622
-  seller_member: 5264
-  updated_at: '2022-09-29T17:28:21.36815+00:00'
   sales_text: |-
-    OFFERS   An enthusiast urgently sought to save Devon Maid built as a gentleman’s
+    OFFERS An enthusiast urgently sought to save Devon Maid built as a gentleman’s
     day boat in 1914. Back of an envelope conservative value of salvageable parts
     from iron keel upwards, including Beta 20 engine (450hrs), newish sails, s/s
     rigging and guard rails tops £14,400. Teak covering board, toe rail and other
@@ -60,12 +54,19 @@ for_sales:
     scrapping this beautiful old lady. If you persuade me you can love her as much
     as I have I’ll virtually give her away with a Beken photograph of Devon Maid
     taking part in the first Old Gaffers Race of 1959 !
+  flexibility: normal
+  reduced: true
+  seller_gold_id: 622
+  seller_member: 5264
+  updated_at: '2022-09-29T17:28:21.36815+00:00'
+  date_sold: '2026-06-05T10:31:29.603Z'
+  sale_price: 1000
+  summary: <div><!--block-->final price not known. Holding deposit paid 5-6-2026</div>
 home_country: GBR
 home_port: Helford River
 hull_form: long keel deep forefoot
 ownerships:
-- member: 5264
-  id: 622
+- name: David Bisson
   start: 2009
   share: 64
   current: true
@@ -82,4 +83,7 @@ handicap_data:
   length_over_all: 11.583
 created_at: '2020-04-25T16:44:05.602498+00:00'
 id: 35b604da-6f44-4237-898f-4f3bf9e15383
-updated_at: '2024-12-01'
+lastModified: '2024-12-01T12:30:53Z'
+year_of_build:
+  value: 1914
+updated_at: '2026-06-05'
