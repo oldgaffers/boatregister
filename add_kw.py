@@ -100,7 +100,7 @@ def add_to_all(images, kw):
     r = smugmug.post(f'{sm}/api/v2/image!addkeywords',
         headers={'Content-Type': 'application/json' },
         json={
-            'Async': True,
+            'Async': False,
             'ImageUris': urls,
             'Keywords': ';'.join(kw),
         }
@@ -108,6 +108,7 @@ def add_to_all(images, kw):
     if not r.ok:
         print(f'Error updating image keywords: {r.status_code} {r.text}')
         return
+    print(json.dumps(r.json()))
 
 def get_keywords(no):
     b = boat(no)
@@ -119,8 +120,7 @@ def get_keywords(no):
     if dc is not None:
        kw.append(dc)
     pn = b.get('previous_names', [])
-    print(json.dumps(pn))
-    return kw + gt + pn
+    return list(set(kw + gt + pn))
 
 def add_kw(no):
     # print(f'OGA No, {no}!')
@@ -151,6 +151,7 @@ def add_kw_to_images(images, no):
         return
     print(f'adding keywords to {len(images)} images for boat {no}')
     kw = get_keywords(no)
+    print(json.dumps(kw))
     add_to_all(images, kw)
 
 if __name__ == '__main__':
