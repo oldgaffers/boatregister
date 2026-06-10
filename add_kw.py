@@ -144,13 +144,7 @@ def get_images(album):
 def add_kw_to_images(images, kw):
     if len(images) == 0:
         return
-<<<<<<< HEAD
-    print(f'adding keywords to {len(images)} images for boat {no}')
-    kw = get_keywords(no)
-    print(json.dumps(kw))
-=======
     print(f'adding keywords to {len(images)} images {", ".join(kw)}')
->>>>>>> refs/remotes/origin/main
     add_to_all(images, kw)
 
 def update_gallery_name(no, album, new_name):
