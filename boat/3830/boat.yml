@@ -1,28 +1,51 @@
 name: 'Lavinia Rose '
 oga_no: 3830
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
   Cornish Crabber 24 Mk 1.
 full_description: |-
-  Originally named Martha Miller of Mersea and owned and kept for many years at
-  Emsworth, New owner renamed her Zele circa 2019 kept at Emsworth. Further new
-  owner renamed her Lavinia Rose circa 2021 kept on Windermere. Current owner
-  brought her to the Gareloch, off the Clyde estuary in 2025.  
+  Originally named *Martha Miller of Mersea* and owned and kept for many years at
+  Emsworth. A new owner renamed her *Zele* circa 2019 and still kept her at
+  Emsworth. Further new owner renamed her Lavinia Rose circa 2021 and brought her
+  to Windermere. Current owner brought her to the Gareloch, off the Clyde estuary
+  in 2025.  
   Light grey painted hull, with dark grey shear strake, cream deck.
 year: 1979
+designer:
+- name: Roger Dongray
+  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Cornish Crabber 24
   id: ff83f69b-9762-4ae5-9681-950b5658ad97
+builder:
+- name: Cornish Crabbers Ltd.
+  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 construction_material: grp
 spar_material: wood
-home_country: Scottland
+previous_names:
+- Martha Miller of Mersea
+- Zele
+home_country: Scotland
 home_port: Rhu
 hull_form: centre-boarder
+ownerships:
+- member: 6757
+  id: 35236
+  start: '2025'
+  share: 64
+  current: true
+  note: please check this is not a namesake
+image_key: W25P5x
 handicap_data:
   beam: 2.438
   draft: 1.372
   length_on_deck: 7.315
   length_on_waterline: 6.172
 hin: '231'
-updated_at: '2026-06-10'
+lastModified: '2026-06-11T10:20:25Z'
+year_of_build:
+  value: 1979
+updated_at: '2026-06-11'
