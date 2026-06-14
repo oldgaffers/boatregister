@@ -1,33 +1,46 @@
 name: Marjory
 oga_no: 2234
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Yawl
 mainsail_type: gaff
-short_description: <p>&#39;Marjory&#39; is a 16&#39;9&quot; Shilling gaff yawl designed
-  and built by Phil Swift of&nbsp;Willow Bay Boats - in cedar strip/epoxy, 1998. She
-  was the first Shilling he built.</p>
-full_description: "<p>The first Shilling - designed and built by Phil Swift. &nbsp;Marjory&nbsp;draws\
-  \ 12&quot; with centreboard up. She has two full length berths, seated headroom,\
-  \ a spirit stove, ample storage and&nbsp;sealed buoyancy, yet she&#39;s only 16&#39;\
-  \ 9&quot; long (excl. bowsprit and bumpkin)&nbsp;and is very easilly towed by a\
-  \ 1.9 litre family car. &nbsp;There was an article/review&nbsp;on her in Watercraft\
-  \ magazine (Jan/Feb 1999).</p>\r\n\r\n<p>She is a joy to sail and was&nbsp;overall\
-  \ winner of the Yarmouth Old Gaffers Race&nbsp;2014. &nbsp;</p>\r\n\r\n<p>&nbsp;</p>"
+short_description: |-
+  'Marjory' is a 16'9" Shilling gaff yawl designed and built by Phil Swift
+  of Willow Bay Boats - in cedar strip/epoxy, 1998. She was the first Shilling he
+  built.
+full_description: |-
+  The first Shilling - designed and built by Phil Swift.  Marjory draws 12" with
+  centreboard up. She has two full length berths, seated headroom, a spirit stove,
+  ample storage and sealed buoyancy, yet she's only 16' 9" long (excl. bowsprit
+  and bumpkin) and is very easilly towed by a 1.9 litre family car.  There was an
+  article/review on her in Watercraft magazine (Jan/Feb 1999).
+
+  She is a joy to sail and was overall winner of the Yarmouth Old Gaffers
+  Race 2014.
 year: 1998
 year_is_approximate: false
 designer:
-  name: Phil Swift
+- name: Phil Swift
   id: 3d7b3a77-1123-4c5c-ba68-41d99f390d69
 builder:
-  name: Willow Bay Boats
+- name: Willow Bay Boats
   id: b0d65e81-46dd-427f-9c2e-b64845d09f63
 place_built: Windermere
 construction_material: woodepoxy
-construction_details: Cedar strip epoxy sheathed
-selling_status: not_for_sale
-for_sales: []
+spar_material: wood
+construction_method: strip_planking_epoxy_sheathed
+construction_details: light hollow main mast
+selling_status: for_sale
+for_sales:
+- created_at: '2026-06-14T06:31:53.634Z'
+  sales_text: |-
+    Shilling Yawl by Willow Bay Boats 2 Berth, Tohatsu 5hp, Rapide trailer (with
+    arms).
+  flexibility: no offers
+  asking_price: 9750
 home_country: GBR
 home_port: Emsworth
+hull_form: centre-boarder
 sail_number: '1'
 ssr: '167608'
 callsign: 2FRX6
@@ -37,27 +50,30 @@ ownerships:
   start: 2011
   share: 64
   current: true
-id: 09d0341e-b908-4e53-82fb-1a1b7fd4546e
 image_key: nKsj76
-thumb: https://photos.smugmug.com/photos/i-vtPZ25d/0/Th/i-vtPZ25d-Th.jpg
 handicap_data:
   thcf: 0.803
   beam: 1.905
   draft: 0.381
-  fore_triangle_height: 3.910631553279688
-  fore_triangle_base: 1.7008046817849305
-  length_over_all: 5.510851011948304
-  sailarea: 15.444757535655862
+  fore_triangle_height: 3.911
+  fore_triangle_base: 1.701
+  length_on_deck: 5.105
+  length_on_waterline: 4.67
+  sailarea: 15.445
+  draft_keel_down: 0.92
+  length_over_all: 5.511
   main:
-    foot: 2.9687881004633017
-    head: 2.779809802487198
-    luff: 2.849914654962204
+    foot: 2.969
+    head: 2.78
+    luff: 2.85
   mizzen:
-    foot: 1.4386734942696902
-    head: 1.3990490124359911
-    luff: 1.6093635698610096
-  draft_keel_down: 0.9205071933674713
-  length_on_waterline: 4.669592782248232
-  length_on_deck: 5.1054
+    foot: 1.439
+    head: 1.399
+    luff: 1.609
+  checked: true
 created_at: '2020-04-25T17:16:59.910511+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 09d0341e-b908-4e53-82fb-1a1b7fd4546e
+lastModified: '2025-09-13T12:27:55Z'
+year_of_build:
+  value: 1998
+updated_at: '2026-06-14'
