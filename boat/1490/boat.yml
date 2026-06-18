@@ -1,17 +1,19 @@
 name: Freya
 oga_no: 1490
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Log 90/1, Sep/98
+full_description: |-
+  Log 90/1, Sep/98
 year: 1983
 year_is_approximate: false
 designer:
+- id: 3f516e7e-4782-41c9-bbdd-4a075e64d7f6
   name: Peter Brown
-  id: 3f516e7e-4782-41c9-bbdd-4a075e64d7f6
 builder:
+- id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
   name: Brian Kennell
-  id: 6f365d20-7f56-4ea7-ba77-32e1e4e382a0
 place_built: Maldon
 construction_material: wood
 construction_method: carvel
@@ -25,12 +27,19 @@ ownerships:
 - name: Stephen Blake
   start: 2012
   share: 64
-id: 652169b1-52be-4bcb-b895-11289f693af7
+image_key: GkGTGD
 handicap_data:
   beam: 2.4384
   draft: 0.8138
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.7912704218483295
   length_on_deck: 6.096
+  length_on_waterline: 5.7912704218483295
+  length_over_all: 6.0960741282613995
 created_at: '2020-04-25T17:05:45.801142+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 652169b1-52be-4bcb-b895-11289f693af7
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  approx: false
+  value: 1983
+note: Photos uploaded to existing album with different boat name Freya (1490); please
+  check
+updated_at: '2026-06-18'
