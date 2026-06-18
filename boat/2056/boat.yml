@@ -1,18 +1,21 @@
 name: Memory
 oga_no: 2056
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 1984
 year_is_approximate: false
 designer:
+- id: aaec4851-401d-4719-bd23-e80eb778816b
   name: Anthony Robinson
-  id: aaec4851-401d-4719-bd23-e80eb778816b
 builder:
+- id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
   name: Liverpool Boat Co. Ltd.
-  id: 4ff042c0-46a4-46b6-931f-01f988d0c9bc
 place_built: Liverpool
 construction_material: wood
+previous_names:
+- Salar II
 selling_status: not_for_sale
 for_sales: []
 home_port: Maldon
@@ -20,22 +23,25 @@ ownerships:
 - name: Michael Townsend
   start: 2012
   share: 64
-id: 16ddd79a-b424-45a1-b17e-de9da9554aab
+image_key: 5XqRrV
 handicap_data:
   thcf: 0.841153593
   beam: 2.1336
   draft: 0.5334
+  length_on_deck: 5.7912
+  length_on_waterline: 5.690685198732017
+  topsail:
+    luff: 3.6576444769568397
+    perpendicular: 1.8288222384784198
   length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  topsail:
-    luff: 3.6576444769568397
-    perpendicular: 1.8288222384784198
-  length_on_waterline: 5.690685198732017
-  length_on_deck: 5.7912
 created_at: '2020-04-25T17:14:20.053437+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Salar II
+id: 16ddd79a-b424-45a1-b17e-de9da9554aab
+lastModified: '2023-03-09T07:52:09Z'
+year_of_build:
+  approx: false
+  value: 1984
+updated_at: '2026-06-18'
