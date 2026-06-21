@@ -1,26 +1,27 @@
 name: Jane Louise
 oga_no: 1796
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 1978
 year_is_approximate: false
 designer:
+- id: af6f6943-2024-44d5-af5e-a6e63fc66db5
   name: Roger Dongray
-  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Cornish Crabber Mk 1
   id: 63e2a48f-c899-433b-b0ff-8728c5a85e91
 builder:
+- id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
   name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
 spar_material: wood
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
-home_port: Titchmarsh Marina
+home_port: Devon
 hull_form: long keel deep forefoot
 sail_number: '151'
 ssr: '71156'
@@ -31,30 +32,30 @@ ownerships:
   start: 2012
   share: 64
   current: true
-- start: 2019
-  note: Purchased Somanara from Woodbridge sailed her over in January 2019 to Walton
-    on the Naze
-  text: Purchased Somanara from Woodbridge sailed her over in January
-id: f3ef77c7-ca9f-4ba9-bc3c-6bed8d99e6ba
+image_key: WQDmzQ
 handicap_data:
   thcf: 0.876
   beam: 2.6213
   draft: 0.9144
   fore_triangle_height: 5.638880760790051
   fore_triangle_base: 4.114862228724701
-  length_over_all: 7.315288953913679
+  length_on_deck: 7.4981
+  length_on_waterline: 6.172281150938795
   propellor:
-    type: fixed
     blades: 3
+    type: fixed
   sailarea: 29.801724518941747
+  topsail:
+    luff: 4.343458912460375
+    perpendicular: 2.2860399902462816
+  length_over_all: 7.315288953913679
   main:
     foot: 4.165666910509631
     head: 2.8194403803950254
     luff: 3.505254815898561
-  topsail:
-    luff: 4.343458912460375
-    perpendicular: 2.2860399902462816
-  length_on_waterline: 6.172281150938795
-  length_on_deck: 7.4981
 created_at: '2020-04-25T17:10:20.664134+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: f3ef77c7-ca9f-4ba9-bc3c-6bed8d99e6ba
+year_of_build:
+  approx: false
+  value: 1978
+updated_at: '2026-06-21'
