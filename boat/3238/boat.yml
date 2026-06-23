@@ -1,47 +1,40 @@
 name: Lila of Cowes
 oga_no: 3238
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Lila of Cowes is one of two Wylo 35.5 steel gaff rigged cutters
-  professionally built by Voyaging Yachts in East Cowes.
-full_description: She is currently lying in Santa Cruz de Teneriffe having been sailed
-  from Cowes to Lanzarotte in 2017 by her current owner. She has many unique modern
-  touches to add to her classic hull and rig. In particular her hybrid diesel engine
+short_description: |-
+  Lila of Cowes is one of two Wylo 35.5 steel gaff rigged cutters professionally
+  built by Voyaging Yachts in East Cowes.
+full_description: |-
+  She is currently lying in Santa Cruz de Teneriffe having been sailed from Cowes
+  to Lanzarotte in 2017 by her current owner. She has many unique modern touches
+  to add to her classic hull and rig. In particular her hybrid diesel engine
   /generator/electric propulsion system which makes her extremely convenient as a
-  live- aboard. She is fitted out for blue water cruising and is an excellent passage
-  maker.
+  live- aboard. She is fitted out for blue water cruising and is an excellent
+  passage maker.
 year: 2014
 year_is_approximate: false
 designer:
+- id: 75b8e267-30d0-4825-90e1-b253d02723a5
   name: Nick Skeates
-  id: 75b8e267-30d0-4825-90e1-b253d02723a5
 design_class:
   name: Wylo II 35
   id: dffa3cc8-26fd-4fc1-ac7c-1d0639b5426d
 builder:
+- id: 98cd6225-0940-43d8-a76a-f684abdc2b4e
   name: Voyaging Yachts Ltd.
-  id: 98cd6225-0940-43d8-a76a-f684abdc2b4e
 place_built: Cowes
 construction_material: steel
 spar_material: wood
+construction_method: cold_moulded
 selling_status: not_for_sale
 for_sales:
 - created_at: '2020-06-27T19:20:39.93904+00:00'
-  flexibility: null
   offered: '2020-06-27'
-  price_flexibility: null
-  reduced: null
-  sales_text: She is currently lying in Santa Cruz de Teneriffe having been sailed
-    from Cowes to Lanzarotte in 2017 by her current owner, who also owns Voyaging
-    Yachts.  She is fitted out for blue water cruising and is an excellent passage
-    maker.  She has many unique modern touches to add to her classic hull and rig.  In
-    particular her hybrid diesel engine/generator and electric propulsion system makes
-    her extremely convenient as a live-aboard and a satellite phone makes for convenient
-    data download worldwide.  She is under-utilised and available for sale outright.
-    However the owner is also interested in retaining a 16/64ths share and finding
-    three other like minded joint owners.A detailed <a href="https://www.dropbox.com/s/cik9h9i8y8tzl3l/Wylo%2035.5%20Owner%27s%20Manual.pdf?dl=0"  target="_blank">user
-    manual</a> with many photographs is available.
+  sales_text: |-
+    She is currently lying in Santa Cruz de Teneriffe having been sailed from Cowes to Lanzarotte in 2017 by her current owner, who also owns Voyaging Yachts. She is fitted out for blue water cruising and is an excellent passage maker. She has many unique modern touches to add to her classic hull and rig. In particular her hybrid diesel engine/generator and electric propulsion system makes her extremely convenient as a live-aboard and a satellite phone makes for convenient data download worldwide. She is under-utilised and available for sale outright. However the owner is also interested in retaining a 16/64ths share and finding three other like minded joint owners.A detailed [user manual](https://www.dropbox.com/s/cik9h9i8y8tzl3l/Wylo%2035.5%20Owner%27s%20Manual.pdf?dl=0) with many photographs is available.
   seller_gold_id: 34708
   seller_member: 5949
   sold: '2022-02-12'
@@ -52,19 +45,22 @@ home_port: Cowes
 hull_form: long keel deep forefoot
 uk_part1: '919525'
 ownerships:
-- start: 2014
+- name: William Kirkpatrick
+  start: 2014
   end: 2022
   share: 64
-  name: William Kirkpatrick
 website: https://www.dropbox.com/s/cik9h9i8y8tzl3l/Wylo%2035.5%20Owner%27s%20Manual.pdf
+image_key: pX6qZS
 handicap_data:
   beam: 3.0785
   draft: 1.3015
-  sailarea: 10
   length_overall: 10.8204
-  length_over_spars: 13.1003
-  length_on_waterline: 9.4
   length_on_deck: 10.8204
+  length_on_waterline: 9.4
+  length_over_spars: 13.1003
+  sailarea: 10
 created_at: '2020-04-25T17:46:56.147323+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-construction_method: cold_moulded
+year_of_build:
+  approx: false
+  value: 2014
+updated_at: '2026-06-23'
