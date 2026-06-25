@@ -1,13 +1,16 @@
 name: Prudence
 oga_no: 97
+generic_type: []
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Log 78/4
+full_description: |-
+  Log 78/4
 year: 1973
 year_is_approximate: false
+designer: []
 builder:
+- id: 90cd6580-ab85-49ef-a8af-4ada5b65a66b
   name: Walter Cook and Son
-  id: 90cd6580-ab85-49ef-a8af-4ada5b65a66b
 place_built: Maldon
 construction_material: wood
 selling_status: not_for_sale
@@ -18,12 +21,16 @@ ownerships:
 - name: R Godfrey
   start: 2012
   share: 64
-id: 41656d1d-519b-40de-a037-fef962027d99
+image_key: DdDCcN
 handicap_data:
   beam: 1.8288
   draft: 1.0058
-  length_over_all: 4.724457449402585
-  length_on_waterline: 4.419653742989515
   length_on_deck: 4.7244
+  length_on_waterline: 4.419653742989515
+  length_over_all: 4.724457449402585
 created_at: '2020-04-25T16:43:53.98076+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 41656d1d-519b-40de-a037-fef962027d99
+year_of_build:
+  approx: false
+  value: 1973
+updated_at: '2026-06-24'
