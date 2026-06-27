@@ -1,23 +1,33 @@
 name: Roxane
 oga_no: 2306
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Yawl
 mainsail_type: lug
-full_description: Boatman Nov/Dec 94 Water Craft Jan/Feb 97
+full_description: |-
+  Boatman Nov/Dec 94 Water Craft Jan/Feb 97
 year: 1993
 year_is_approximate: false
 designer:
+- id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
   name: Nigel Irens
-  id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
+builder: []
 construction_material: wood
 selling_status: not_for_sale
 for_sales: []
-id: e6a032a9-2a1d-4dcb-b180-da4f590c3520
+image_key: VTbZ9q
 handicap_data:
   beam: 2.6914
   draft: 0.7102
-  length_over_all: 8.991709339185563
-  length_on_waterline: 8.1016825164594
   length_on_deck: 8.9916
+  length_on_waterline: 8.1016825164594
+  length_over_all: 8.991709339185563
 created_at: '2020-04-25T17:18:05.32549+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: e6a032a9-2a1d-4dcb-b180-da4f590c3520
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  approx: false
+  value: 1993
+note: Photos uploaded to existing album with different boat name Roxane (2306); please
+  check
+updated_at: '2026-06-27'
