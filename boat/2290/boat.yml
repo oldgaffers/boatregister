@@ -1,18 +1,20 @@
 name: Eleanor Mary
 oga_no: 2290
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: She is a  big sister to Westernman. She is wood expoy. She has been
-  extensively raced and cruised including 3 Atlantic crossings.
+full_description: |-
+  She is a big sister to Westernman. She is wood expoy. She has been extensively
+  raced and cruised including 3 Atlantic crossings.
 year: 1998
 year_is_approximate: false
 designer:
+- id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
   name: Nigel Irens
-  id: 812e4e6a-4cea-4a2e-834d-9971ca9291d9
 builder:
+- id: 036ec988-90d7-4c5b-b6db-6ee7519b3c8a
   name: Covey Boatworks
-  id: 036ec988-90d7-4c5b-b6db-6ee7519b3c8a
 place_built: La Have River Nova Scotia
 construction_material: wood
 construction_details: Wood epoxy
@@ -25,24 +27,28 @@ ownerships:
 - name: David Darbyshire
   start: 1998
   share: 64
-id: 481df8ff-6e95-40e3-922e-dac63360715f
+image_key: mDWXBk
 handicap_data:
   thcf: 1.179710735
   beam: 4.2672
   draft: 2.3713
   fore_triangle_height: 13.981346013167519
   fore_triangle_base: 10.198732016581321
-  length_over_all: 15.63643013899049
+  length_on_deck: 15.6362
+  length_on_waterline: 13.716166788588149
   propellor:
     type: folding
+  topsail:
+    luff: 10.128627164106314
+    perpendicular: 4.0508412582297
+  length_over_all: 15.63643013899049
   main:
     foot: 8.53450377956596
     head: 6.705681541087539
     luff: 7.918800292611558
-  topsail:
-    luff: 10.128627164106314
-    perpendicular: 4.0508412582297
-  length_on_waterline: 13.716166788588149
-  length_on_deck: 15.6362
 created_at: '2020-04-25T17:17:51.145633+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 481df8ff-6e95-40e3-922e-dac63360715f
+year_of_build:
+  approx: false
+  value: 1998
+updated_at: '2026-06-27'
