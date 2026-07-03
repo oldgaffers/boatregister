@@ -1,6 +1,7 @@
 name: Alouette
 oga_no: 3546
-generic_type: Dayboat
+generic_type:
+- Dayboat
 rig_type: Sloop
 mainsail_type: gaff
 short_description: |-
@@ -23,7 +24,44 @@ spar_material: wood
 construction_method: clinker_ply
 previous_names:
 - Alizon
-selling_status: not_for_sale
+selling_status: for_sale
+for_sales:
+- created_at: '2026-07-03T15:21:20.021Z'
+  sales_text: |-
+    The Ebihen 16 is fantastic water-ballasted dayboat suitable for the family,
+    single handed sailing, racing and camp cruising. It is a boat that was designed
+    by renowned French naval architect, Francois Vivier - very much in the spirit of
+    the traditional Breton working boats but built using modern techniques and
+    materials. These boats are very rarely available in the UK. This particular
+    example was built by an experienced amateur using the very best materials,
+    fittings and finishes. It was launched in 2022, not used at all in 2023 or 2025
+    and only lightly used in 2024. It has been stored under cover when not in use
+    and is in pristine condition, throughout, and ready to launch.  
+
+    Gaff main and jib in Clipper canvas by James Lawrence. Both have covers. Jib has
+    Aeroluffspar reefing/furling.  
+
+    12v battery with solar panel and charge controller    
+
+    Electric and manual bilge pumps  
+
+    Fire extinguisher  
+
+    Pair of 3.1 m oars with oarlocks, sculling notch  
+
+    Professionally Coppercoated below the waterline in 2023  
+
+    De Graaff braked trailer with spare wheel and lightboard  
+
+    Flat cover for trailing and storage by Trident UK  
+
+    Pair of galley boxes for camp cruising  
+
+    Tent for camp cruising (not fully fitted)  
+
+    There is an option to buy an ePropulsion Spirit 1.0 electric motor.
+  flexibility: normal
+  asking_price: 12000
 home_country: GBR
 home_port: Newton Ferrers
 hull_form: centre-board dinghy
@@ -46,3 +84,7 @@ handicap_data:
   sailarea: 17.791
   checked: true
 air_draft: 7.315
+lastModified: '2024-01-01T14:50:12Z'
+year_of_build:
+  value: 2022
+updated_at: '2026-07-03'
