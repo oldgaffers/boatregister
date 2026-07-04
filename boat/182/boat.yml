@@ -1,6 +1,7 @@
 name: Ayesha
 oga_no: 182
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -30,14 +31,14 @@ full_description: |-
 year: 1923
 year_is_approximate: false
 designer:
+- id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
   name: Alfred Mylne
-  id: f4272731-0d68-44d6-a0ef-e9266edfc9ef
 design_class:
   name: Royal Mersey
   id: 9c848d9b-5e0b-4f92-86f6-71fdf3199708
 builder:
+- id: a27bca50-d155-428a-be49-a542d64ba316
   name: Enterprise Small Craft
-  id: a27bca50-d155-428a-be49-a542d64ba316
 place_built: Birkenhead
 construction_material: wood
 spar_material: wood
@@ -49,6 +50,7 @@ hull_form: long keel sloping forefoot
 reference:
 - Log 76/2
 - Log 77/4
+image_key: 5s3xWD
 handicap_data:
   thcf: 0.883
   beam: 2.53
@@ -67,3 +69,8 @@ handicap_data:
     luff: 4.215
 created_at: '2020-04-25T16:45:07.685472+00:00'
 id: d26a14c2-b449-4d8a-8772-336cf58dc4e4
+lastModified: '2023-06-28T06:51:46Z'
+year_of_build:
+  approx: false
+  value: 1923
+updated_at: '2026-07-02'
