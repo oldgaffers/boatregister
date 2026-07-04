@@ -1,19 +1,24 @@
 name: Tern IV
 oga_no: 1924
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Yawl
 mainsail_type: gaff
-full_description: Log 90/3 CB Jan 91
+full_description: |-
+  Log 90/3 CB Jan 91
 year: 1924
 year_is_approximate: false
 designer:
+- id: 52d13fc1-d822-4ab0-8e69-45575752855e
   name: Claud Worth
-  id: 52d13fc1-d822-4ab0-8e69-45575752855e
 builder:
+- id: c7ac6200-7aa7-4161-a80f-a1955ff76709
   name: Philip and Son
-  id: c7ac6200-7aa7-4161-a80f-a1955ff76709
 place_built: Dartmouth
 construction_material: wood
+previous_names:
+- Sea Swallow
+- Tern IV
 selling_status: not_for_sale
 for_sales: []
 hull_form: long keel deep forefoot
@@ -25,30 +30,34 @@ ownerships:
 - name: C Watson
   start: 2012
   share: 64
-id: e31a0d5b-789c-4827-b777-f0763b39496f
+image_key: 4FVtDG
 handicap_data:
   thcf: 1.2659571
   beam: 4.1148
   draft: 2.4384
   fore_triangle_height: 19.202633504023407
   fore_triangle_base: 9.75371860521824
-  length_over_all: 18.89782979761034
+  length_on_deck: 18.8976
+  length_on_waterline: 14.935381614240429
   propellor:
     type: fixed
+  topsail:
+    luff: 9.906120458424773
+    perpendicular: 4.57205559619605
+  length_over_all: 18.89782979761034
   main:
     foot: 9.44891489880517
     head: 7.010485247500609
     luff: 8.305900999756156
-  topsail:
-    luff: 9.906120458424773
-    perpendicular: 4.57205559619605
   mizzen:
     foot: 3.5052426237503047
     luff: 6.5532796878810045
-  length_on_waterline: 14.935381614240429
-  length_on_deck: 18.8976
 created_at: '2020-04-25T17:12:19.198521+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Sea Swallow
-- Tern IV
+id: e31a0d5b-789c-4827-b777-f0763b39496f
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  approx: false
+  value: 1924
+note: Photos uploaded to existing album with different boat name Tern IV (1924); please
+  check
+updated_at: '2026-07-04'
