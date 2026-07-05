@@ -1,20 +1,22 @@
 name: Tigger
 oga_no: 2954
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Yarmouth 23</p>
+short_description: |-
+  Yarmouth 23
 year: 2000
 year_is_approximate: false
 designer:
+- id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
   name: D Freeman/G. Wyatt
-  id: 4f00ee15-7a9b-47b4-8e93-7f3098fdf4b6
 design_class:
   name: Yarmouth 23
   id: dec3b78a-1f8d-4761-b7f8-b0823d308c29
 builder:
+- id: 609d8a8b-c14c-402c-b727-519e519d6f6f
   name: Yarmouth Boat Co.
-  id: 609d8a8b-c14c-402c-b727-519e519d6f6f
 place_built: Yarmouth
 construction_material: grp
 construction_details: GRP
@@ -33,12 +35,17 @@ ownerships:
   start: 2019
   share: 64
   current: true
-id: 7bfacec4-63bf-4009-b9b1-cd983462fc2a
+image_key: LfW9Ds
 handicap_data:
   beam: 2.286
   draft: 0.9144
-  length_over_all: 6.883497927334796
-  length_on_waterline: 5.4864667154352595
   length_on_deck: 6.8824
+  length_on_waterline: 5.4864667154352595
+  length_over_all: 6.883497927334796
 created_at: '2020-04-25T17:33:07.646677+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 7bfacec4-63bf-4009-b9b1-cd983462fc2a
+lastModified: '2023-07-08T09:18:06Z'
+year_of_build:
+  approx: false
+  value: 2000
+updated_at: '2026-07-05'
