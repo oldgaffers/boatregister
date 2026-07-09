@@ -1,8 +1,10 @@
 name: Ianthe
 oga_no: 1013
+generic_type: []
 rig_type: Sloop
 mainsail_type: gaff
-short_description: duplicate entry for *Ianthe* OGA 2113
+short_description: |-
+  duplicate entry for *Ianthe* OGA 2113
 full_description: |-
   Log 83/4 21 ft. centreboard three-quarter decked sloop. Believed to have been
   built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington. The boat
@@ -12,11 +14,11 @@ full_description: |-
 year: 1895
 year_is_approximate: false
 designer:
-- name: E. Inman
-  id: c726ec44-2c43-4620-90e3-6631a912c6b6
+- id: c726ec44-2c43-4620-90e3-6631a912c6b6
+  name: E. Inman
 builder:
-- name: Inman and Co Ltd
-  id: a90b6e84-74a4-40dc-9b32-fc4c6c7dab5b
+- id: a90b6e84-74a4-40dc-9b32-fc4c6c7dab5b
+  name: Inman and Co Ltd
 place_built: Lymington
 construction_material: wood
 selling_status: not_for_sale
@@ -47,3 +49,8 @@ handicap_data:
     luff: 3.505
 created_at: '2020-04-25T16:58:33.502408+00:00'
 id: de5d5a39-50bb-420c-8cb1-2b609269b60a
+lastModified: '2025-09-13T12:27:55Z'
+year_of_build:
+  approx: false
+  value: 1895
+updated_at: '2026-07-09'
