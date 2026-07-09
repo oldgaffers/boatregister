@@ -1,25 +1,29 @@
 name: Maia
 oga_no: 3276
-generic_type: Dinghy
+generic_type:
+- Dinghy
 mainsail_type: lug
-short_description: <p>Maia&#39;s design was developed by Jonny Nance from lines taken
-  from a traditional St Ives Punt. She was built in 2015.</p>
-full_description: "<p>&#39;Maia&#39; is a traditionally built St Ives Sailing Punt\
-  \ constructed of Douglas fir on oak.</p>\r\n\r\n<p>She has a&nbsp;loose footed standing\
-  \ lug rig and no centreboard or dagger board. The design was developed by Jonny\
-  \ Nance from lines of the punt of a St Ives lugger &#39;Silas&#39;. The lines were\
-  \ taken off by Jonny&#39;s father in 1975.</p>"
+short_description: |-
+  Maia's design was developed by Jonny Nance from lines taken from a traditional
+  St Ives Punt. She was built in 2015.
+full_description: |-
+  'Maia' is a traditionally built St Ives Sailing Punt constructed of Douglas fir
+  on oak.
+
+  She has a loose footed standing lug rig and no centreboard or dagger board. The
+  design was developed by Jonny Nance from lines of the punt of a St Ives lugger
+  'Silas'. The lines were taken off by Jonny's father in 1975.
 year: 2015
 year_is_approximate: false
 designer:
+- id: 8c8aee60-6141-4589-94c6-1da0c28b69f0
   name: J.M. Nance
-  id: 8c8aee60-6141-4589-94c6-1da0c28b69f0
 design_class:
   name: St Ives Sailing Punt
   id: 2b9d789a-86c4-48bf-967c-58fd771bd05b
 builder:
+- id: 7ef9b514-48cf-47c7-b809-811fb0761cd8
   name: J.M. Nance
-  id: 7ef9b514-48cf-47c7-b809-811fb0761cd8
 place_built: Uffculm Devon
 construction_material: wood
 construction_method: clinker
@@ -35,17 +39,22 @@ ownerships:
   start: 2015
   share: 64
   current: true
-id: 33a846e4-b6bf-4774-ad1e-b1c5590cacac
+image_key: 3TqVr5
 handicap_data:
   beam: 1.4234
   draft: 0.3048
+  length_overall: 3.5052
+  length_on_deck: 3.5052
+  length_on_waterline: 3.3528
+  length_over_spars: 3.5052
   main:
     foot: 8.75
     head: 8.1
     luff: 7.5
-  length_overall: 3.5052
-  length_over_spars: 3.5052
-  length_on_waterline: 3.3528
-  length_on_deck: 3.5052
 created_at: '2020-04-25T17:47:35.561786+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 33a846e4-b6bf-4774-ad1e-b1c5590cacac
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  approx: false
+  value: 2015
+updated_at: '2026-07-09'
