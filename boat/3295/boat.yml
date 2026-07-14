@@ -1,36 +1,37 @@
 name: Spinaway X
 oga_no: 3295
-generic_type: Plymouth Hooker
+generic_type:
+- Plymouth Hooker
 rig_type: Cutter
 mainsail_type: gaff
-short_description: |+
+short_description: |-
   *Spinaway X* is an early Plymouth Hooker built in Looe in 1889.
 full_description: |-
-  *Spinaway X* was built in Looe in the 1880s. She was first registered
-  in Plymouth in 1891 as PH 302. She is an early example of a Plymouth Hooker.
-  She fished out of Polperro and other West Country ports until 1949 when she was
-  sold as a yacht for the sum of £185, a Willy's jeep (Teg. FDv 64) and a book
-  of petrol coupons.
-   
-  In 1951 a survey shows she was partly decked with an
-  open cockpit and a 1925 1 cylinder Bergius Co. engine. By 1958 she had a 1947 2
-  cylinder Thornecroft engine. In the mid 1970s she had a 20hp air cooled Lister
-  engine.
-   
-  In 1979 Jim Curry refitted her including full decking, replacing
-  parts of the keel, the stem and some replanking, tripling some frames and building
-  a coach roof. Research at that time included a conversation with a 92 year old
-  gent who remembered fishing on *Spinaway* in his youth. He had a fragile photograph
-  of her and he quoted her as being the fastest piece of wood out of Polperro.
+  *Spinaway X* was built in Looe in the 1880s. She was first registered in
+  Plymouth in 1891 as PH 302. She is an early example of a Plymouth Hooker. She
+  fished out of Polperro and other West Country ports until 1949 when she was sold
+  as a yacht for the sum of £185, a Willy's jeep (Teg. FDv 64) and a book of
+  petrol coupons.
+
+  In 1951 a survey shows she was partly decked with an open cockpit and a 1925 1
+  cylinder Bergius Co. engine. By 1958 she had a 1947 2 cylinder Thornecroft
+  engine. In the mid 1970s she had a 20hp air cooled Lister engine.
+
+  In 1979 Jim Curry refitted her including full decking, replacing parts of the
+  keel, the stem and some replanking, tripling some frames and building a coach
+  roof. Research at that time included a conversation with a 92 year old gent who
+  remembered fishing on *Spinaway* in his youth. He had a fragile photograph of
+  her and he quoted her as being the fastest piece of wood out of Polperro.
 
   In 1996 Dave Blinkhorn interviewed JC Heal's son Philip and got some of then
   above information. He described her as a Looe Lugger. As a yacht she has spent
-  time in the Irish Sea, and in Dave and Anna Blinkhorn's ownership sailed via Scotland,
-  East Coast and the French Canals to the Mediterranean, ending up in Spain. She
-  sailed back to the West Country in 2004.
+  time in the Irish Sea, and in Dave and Anna Blinkhorn's ownership sailed via
+  Scotland, East Coast and the French Canals to the Mediterranean, ending up in
+  Spain. She sailed back to the West Country in 2004.
 
   In 2016, Bob Aylott went sailing with her owners Andrew and Angela Hitt and crew
-  Mike and Brian on the River Medina. Take a look at the My Classic Boat video here.
+  Mike and Brian on the River Medina. Take a look at the My Classic Boat video
+  here.
 year: 1889
 year_is_approximate: false
 place_built: Looe
@@ -89,29 +90,37 @@ ownerships:
   start: 2003
   end: 2015
   share: 64
-- id: 893
-  member: 6017
-  share: 64
+- member: 6017
+  id: 893
   start: 2015
+  share: 64
   current: true
 image_key: Q837Kj
 handicap_data:
+  thcf: 0.978
   calculated_thcf: 0.969
-  beam: 2.7493
-  draft: 1.4508
-  fore_triangle_height: 8.0985
-  fore_triangle_base: 7.0013
+  beam: 2.749
+  draft: 1.451
+  fore_triangle_height: 8.099
+  fore_triangle_base: 7.001
   length_overall: 8.699
   length_on_deck: 8.699
-  length_on_waterline: 8.2997
-  length_over_spars: 12.6004
+  length_on_waterline: 8.3
+  length_over_spars: 12.6
+  propellor:
+    type: none
   sailarea: 4
   topsail:
-    luff: 18.04
-    perpendicular: 8.86
+    luff: 5.499
+    perpendicular: 2.701
   main:
-    foot: 14.44
-    head: 11.48
-    luff: 16.01
+    foot: 4.401
+    head: 3.499
+    luff: 4.88
+  last_modified: '2026-07-10T08:49:18.571Z'
 created_at: '2020-04-25T17:48:38.560234+00:00'
 id: 2c4ba110-12ce-47bd-b23e-94d4875e336c
+lastModified: '2024-02-08T21:04:03Z'
+year_of_build:
+  value: 1889
+updated_at: '2026-07-10'
