@@ -1,22 +1,26 @@
 name: Skipjack of Hamble
 oga_no: 541
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Log 80/3, 84/2, 85/4, 88/2, 89/3, A-W/95
+full_description: |-
+  Log 80/3, 84/2, 85/4, 88/2, 89/3, A-W/95
 year: 1912
 year_is_approximate: false
 designer:
+- id: 13e7408b-bd86-4d84-9857-95a63c2e5870
   name: Sidney Burnett
-  id: 13e7408b-bd86-4d84-9857-95a63c2e5870
 builder:
+- id: ea4fadbd-aa76-4971-9a5c-72a860b3beba
   name: H. Gale Co. Ltd.
-  id: ea4fadbd-aa76-4971-9a5c-72a860b3beba
 place_built: Cowes
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak frames with teak cockpit and skylight
   - laid up in the creek at the Elephant Boatyard for many years (2010)
+previous_names:
+- Laura II
 selling_status: not_for_sale
 for_sales: []
 reference:
@@ -31,14 +35,17 @@ ownerships:
 - name: J Gulliver
   start: 2012
   share: 64
-id: 72309a2d-03ff-4288-be9a-966913f2122c
+image_key: pbxZ4g
 handicap_data:
   beam: 2.6822
   draft: 1.4326
-  length_over_all: 7.681053401609363
-  length_on_waterline: 7.315288953913679
   length_on_deck: 7.681
+  length_on_waterline: 7.315288953913679
+  length_over_all: 7.681053401609363
 created_at: '2020-04-25T16:50:32.393454+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Laura II
+id: 72309a2d-03ff-4288-be9a-966913f2122c
+lastModified: '2023-12-10T21:40:25Z'
+year_of_build:
+  approx: false
+  value: 1912
+updated_at: '2026-07-14'
