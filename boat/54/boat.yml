@@ -1,36 +1,42 @@
 name: Ulidia
 oga_no: 54
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
 year: 1901
 year_is_approximate: false
 designer:
+- id: decdd96e-9768-4ae4-8ba4-7816d4569c15
   name: William Fife II
-  id: decdd96e-9768-4ae4-8ba4-7816d4569c15
 design_class:
   name: Clyde 19/24
   id: 5f3469c1-8c96-4acc-aeb5-8fd63903f310
 builder:
+- id: 39e7da25-6ae3-4210-8bd7-840e21b1b839
   name: William Fife & Son
-  id: 39e7da25-6ae3-4210-8bd7-840e21b1b839
 place_built: Fairlie
 construction_material: wood
+previous_names:
+- Tresta
+- Ulidia
 selling_status: not_for_sale
 for_sales: []
 ownerships:
 - name: J D MacKinnon
   start: 2012
   share: 64
-id: 558bb059-bcba-4784-9bc1-49f749364a95
+image_key: N93Hpx
 handicap_data:
   beam: 1.905
   draft: 1.8288
-  length_over_all: 7.315288953913679
-  length_on_waterline: 5.7912704218483295
   length_on_deck: 7.3152
+  length_on_waterline: 5.7912704218483295
+  length_over_all: 7.315288953913679
 created_at: '2020-04-25T16:43:16.627794+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Tresta
-- Ulidia
+id: 558bb059-bcba-4784-9bc1-49f749364a95
+lastModified: '2024-11-06T17:35:35Z'
+year_of_build:
+  approx: false
+  value: 1901
+updated_at: '2026-07-13'
