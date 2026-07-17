@@ -1,16 +1,17 @@
 name: Marigold
 oga_no: 1191
-generic_type: Bawley
+generic_type:
+- Bawley
 rig_type: Cutter
 mainsail_type: gaff
 year: 1981
 year_is_approximate: false
 designer:
+- id: 7eae9fe8-9d71-4ec6-af22-58e3ea20277a
   name: D.J. Patient
-  id: 7eae9fe8-9d71-4ec6-af22-58e3ea20277a
 builder:
+- id: 90cd6580-ab85-49ef-a8af-4ada5b65a66b
   name: Walter Cook and Son
-  id: 90cd6580-ab85-49ef-a8af-4ada5b65a66b
 place_built: Maldon
 construction_material: wood
 selling_status: not_for_sale
@@ -20,22 +21,26 @@ ownerships:
 - name: D J Patient.
   start: 2012
   share: 64
-id: 4f9254d1-3de6-4885-9278-fad5fe052bcc
+image_key: TFM78V
 handicap_data:
   thcf: 0.998603323
   beam: 3.2004
   draft: 1.2192
   fore_triangle_height: 10.972933430870519
   fore_triangle_base: 6.4008778346744695
+  length_on_deck: 8.9916
+  length_on_waterline: 8.53450377956596
+  topsail:
+    luff: 6.858083394294074
+    perpendicular: 4.26725188978298
   length_over_all: 8.991709339185563
   main:
     foot: 5.18166300902219
     head: 5.7912704218483295
     luff: 4.26725188978298
-  topsail:
-    luff: 6.858083394294074
-    perpendicular: 4.26725188978298
-  length_on_waterline: 8.53450377956596
-  length_on_deck: 8.9916
 created_at: '2020-04-25T17:01:13.875328+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 4f9254d1-3de6-4885-9278-fad5fe052bcc
+year_of_build:
+  approx: false
+  value: 1981
+updated_at: '2026-07-17'
