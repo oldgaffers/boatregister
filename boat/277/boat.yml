@@ -1,27 +1,30 @@
 name: Dormouse
 oga_no: 277
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 1953
 year_is_approximate: false
 designer:
+- id: e58acf81-9530-4a5f-bec8-9140a571bf60
   name: R Patten/S. Latimer
-  id: e58acf81-9530-4a5f-bec8-9140a571bf60
 design_class:
   name: Dauntless 20
   id: baaa2360-dd50-4253-a819-44a5994ecca8
 builder:
+- id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
   name: Dauntless Boat Co.
-  id: 35b88f04-4ec4-4bb5-8e88-dd9cd8e335c8
 place_built: Benfleet
 construction_material: wood
+spar_material: wood
 construction_method: clinker
 construction_details: Clinker  Mahogany planking, ash frames, oak keel
 selling_status: not_for_sale
 for_sales: []
 home_country: GBR
 home_port: Beaumont Quay Essex
+hull_form: centre-boarder
 ownerships:
 - end: 27
   note: Peter Genery purchased 'Dormouse' from the widow of her previous owner, who
@@ -31,14 +34,19 @@ ownerships:
 - name: Peter Genery
   start: 1994
   share: 64
-id: 92378049-71ec-44dd-b2da-8f57bef6d660
+image_key: qrD7NG
 handicap_data:
   beam: 2.3378
   draft: 0.4572
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.7912704218483295
   length_on_deck: 6.096
+  length_on_waterline: 5.7912704218483295
+  length_over_all: 6.0960741282613995
 created_at: '2020-04-25T16:46:28.097461+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-hull_form: centre-boarder
-spar_material: wood
+id: 92378049-71ec-44dd-b2da-8f57bef6d660
+lastModified: '2023-01-21T19:50:09Z'
+year_of_build:
+  approx: false
+  value: 1953
+note: Photos uploaded to existing album with different boat name Dormouse (277); please
+  check
+updated_at: '2026-07-19'
