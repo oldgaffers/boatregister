@@ -1,20 +1,22 @@
 name: Nimble
 oga_no: 3382
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: Nimble is a Cornish Shrimper 19 built in 1992
+short_description: |-
+  *Nimble* is a Cornish Shrimper 19 built in 1992
 year: 1992
 year_is_approximate: false
 designer:
-- name: Roger Dongray
-  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+- id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+  name: Roger Dongray
 design_class:
   name: Cornish Shrimper
   id: 7caf07ef-acf3-434b-a639-5c94188071a8
 builder:
-- name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+- id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+  name: Cornish Crabbers Ltd.
 place_built: Rock
 construction_material: grp
 spar_material: wood
@@ -28,6 +30,7 @@ ownerships:
   start: 2016
   end: 2022
   share: 64
+image_key: QNKzh3
 handicap_data:
   beam: 2.185
   draft: 0.457
@@ -46,3 +49,8 @@ handicap_data:
   moving_keel_type: Centreboard
 created_at: '2020-04-25T17:52:08.904637+00:00'
 id: 38ea77ef-e879-4a13-ac21-59836182299b
+lastModified: '2024-01-19T15:43:31Z'
+year_of_build:
+  approx: false
+  value: 1992
+updated_at: '2026-07-15'
