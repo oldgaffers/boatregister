@@ -7,7 +7,9 @@ mainsail_type: gaff
 short_description: |-
   The first Yarmouth 23 built, hull no. 1
 full_description: |-
-  The first boat of her class *Alma* was built in 1999. Her original name was *Hyrst of Eremue* name means 'Jewel of Yarmouth' in Old English. In 2025 she had a long overdue full refit in Shropshire, before a planned relaunch in 2026.
+  The first boat of her class *Alma* was built in 1999. Her original name was
+  *Hyrst of Eremue* name means 'Jewel of Yarmouth' in Old English. In 2025 she was
+  hauled out for an overdue full refit.
 year: 1999
 year_is_approximate: false
 designer:
@@ -26,9 +28,12 @@ construction_details: GRP, wooden spars
 previous_names:
 - Hyrst of Eremue
 - Eremue
-selling_status: not_for_sale
+selling_status: for_sale
+for_sales:
+- created_at: '2026-07-19T14:16:21.414Z'
+  asking_price: 22500
+  flexibility: normal
 home_country: GBR
-home_port: Watchet
 hull_form: long keel sloping forefoot
 sail_number: '001'
 ssr: '89559'
@@ -54,6 +59,10 @@ ownerships:
   start: 2024
   end: 2026
   share: 64
+- name: Anthea Tudor
+  start: 2026
+  share: 64
+  current: true
 image_key: BpWKz6
 handicap_data:
   thcf: 0.853
@@ -79,7 +88,7 @@ handicap_data:
     luff: 3.65
 created_at: '2020-04-25T18:36:17.612978+00:00'
 id: 00f38efb-9622-45ad-89da-9a70e621261b
-lastModified: '2025-09-20T15:53:27Z'
+lastModified: '2026-06-13T02:01:35Z'
 year_of_build:
   value: 1999
-updated_at: '2026-06-13'
+updated_at: '2026-07-19'
