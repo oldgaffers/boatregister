@@ -29,7 +29,7 @@ def has_pictures(oga_no):
   r = requests.get(f'https://oga.smugmug.com/Boats/OGA-{oga_no}/')
   if not r.ok:
     return False
-  t = r.text()
+  t = r.text
   if 'No photos' in t:
     return False 
   return True
