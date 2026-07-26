@@ -1,17 +1,19 @@
 name: Dolphin
 oga_no: 1890
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Log Mar/98
+full_description: |-
+  Log Mar/98
 year: 1924
 year_is_approximate: false
 designer:
+- id: 0b07735c-5e25-4f28-94db-1f617b54ff24
   name: J.B. Kearney
-  id: 0b07735c-5e25-4f28-94db-1f617b54ff24
 builder:
+- id: 067e8f4a-930f-426f-b172-5a3dfd00ebf5
   name: Kearney J in Murphy's Yard
-  id: 067e8f4a-930f-426f-b172-5a3dfd00ebf5
 place_built: Ringsend, Dublin
 construction_material: wood
 construction_method: clinker
@@ -25,14 +27,18 @@ ownerships:
 - name: Kieran Cruise
   start: 1944
   share: 64
-id: 98853fd0-1131-4c29-b865-29b86036dcb3
+image_key: PSvP2j
 handicap_data:
   beam: 2.5908
   draft: 1.2192
-  length_over_all: 8.22970007315289
+  length_on_deck: 8.2296
+  length_on_waterline: 7.467690807120214
   propellor:
     type: fixed
-  length_on_waterline: 7.467690807120214
-  length_on_deck: 8.2296
+  length_over_all: 8.22970007315289
 created_at: '2020-04-25T17:11:47.58061+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 98853fd0-1131-4c29-b865-29b86036dcb3
+year_of_build:
+  approx: false
+  value: 1924
+updated_at: '2026-07-25'
