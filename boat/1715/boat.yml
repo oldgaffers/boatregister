@@ -1,16 +1,18 @@
 name: Syrinx
 oga_no: 1715
+generic_type: []
 rig_type: Sloop
 mainsail_type: lug
-full_description: Wooden Boat Design No 58.
+full_description: |-
+  Wooden Boat Design No 58.
 year: 1992
 year_is_approximate: false
 designer:
+- id: 8052b20d-f45d-42cf-82c9-c5c870e14efc
   name: Joel White
-  id: 8052b20d-f45d-42cf-82c9-c5c870e14efc
 builder:
+- id: 4a3774d0-9dfe-4e5f-85e2-2abbd40a54ab
   name: Sail & Oar
-  id: 4a3774d0-9dfe-4e5f-85e2-2abbd40a54ab
 place_built: Totnes
 construction_material: wood
 construction_method: clinker_ply
@@ -22,17 +24,22 @@ ownerships:
 - name: J D A Burn
   start: 1992
   share: 64
-id: 47899722-003f-45c9-8de8-12fd35a55295
+image_key: Gn9FHv
 handicap_data:
   thcf: 0.800178251
   beam: 1.3503
   draft: 0.1768
+  length_on_deck: 4.9926
+  length_on_waterline: 4.038649109973177
   length_over_all: 4.992684711046086
   main:
     foot: 2.8194342843208973
     head: 2.9474518410143866
     luff: 3.0480370641306997
-  length_on_waterline: 4.038649109973177
-  length_on_deck: 4.9926
 created_at: '2020-04-25T17:09:07.88407+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 47899722-003f-45c9-8de8-12fd35a55295
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  approx: false
+  value: 1992
+updated_at: '2026-07-27'
