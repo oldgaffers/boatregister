@@ -1,6 +1,7 @@
 name: Gorgeous of Martham
 oga_no: 2256
-generic_type: Smack Yacht
+generic_type:
+- Smack Yacht
 rig_type: Cutter
 mainsail_type: gaff
 full_description: |-
@@ -9,14 +10,14 @@ full_description: |-
 year: 1999
 year_is_approximate: false
 designer:
-- name: Tyrrell and Young
-  id: 3b4ea1ac-5382-41a2-ad55-7c72304f06ae
+- id: 3b4ea1ac-5382-41a2-ad55-7c72304f06ae
+  name: Tyrrell and Young
 design_class:
   name: Tyrell and Young 28 Smack
   id: 9dadca9d-8e33-4bcf-a945-38b2debda2ec
 builder:
-- name: Martham Boatyard
-  id: d14cef91-1a54-4325-acc3-449172538073
+- id: d14cef91-1a54-4325-acc3-449172538073
+  name: Martham Boatyard
 place_built: Martham
 construction_material: grp
 construction_details: grp
@@ -27,6 +28,7 @@ ownerships:
 - name: Andrew White
   start: 1999
   share: 64
+image_key: mf9wHV
 handicap_data:
   thcf: 0.966231419
   beam: 2.591
@@ -47,4 +49,7 @@ handicap_data:
     luff: 7.498
 created_at: '2020-04-25T17:17:19.376151+00:00'
 id: 26fb4014-645d-42d6-a0c7-a7a23cbd4397
-updated_at: '2024-10-17'
+year_of_build:
+  approx: false
+  value: 1999
+updated_at: '2026-07-27'
