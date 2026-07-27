@@ -1,20 +1,22 @@
 name: Syrinx
 oga_no: 2959
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Built for 1991 Southampton Boat Show, launched Falmouth 1992.</p>
+short_description: |-
+  Built for 1991 Southampton Boat Show, launched Falmouth 1992.
 year: 1992
 year_is_approximate: false
 designer:
+- id: af6f6943-2024-44d5-af5e-a6e63fc66db5
   name: Roger Dongray
-  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
 design_class:
   name: Cornish Crabber Pilot Cutter 30
   id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
+- id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
   name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
 place_built: Rock
 construction_material: grp
 construction_details: GRP
@@ -34,31 +36,34 @@ ownerships:
   start: 2012
   end: 2015
   share: 64
-- member: 5979
-  id: 873
+- name: Jeremy Croft
   start: 2015
   share: 64
   current: true
-id: 146f5a4e-29a8-430c-abc2-a54cadac11e2
+image_key: kjsqBk
 handicap_data:
   thcf: 0.961834093
   beam: 2.8956
   draft: 1.0668
   fore_triangle_height: 8.266276517922458
   fore_triangle_base: 5.733357717629846
-  length_over_all: 9.1441111923921
+  length_on_deck: 9.144
+  length_on_waterline: 7.848695440136551
   propellor:
-    type: fixed
     blades: 3
-  main:
-    foot: 5.510851011948304
-    head: 4.242867593269934
-    luff: 4.825042672518897
+    type: fixed
   topsail:
     luff: 5.4864667154352595
     perpendicular: 1.9995123140697388
   draft_keel_down: 1.6002194586686174
-  length_on_waterline: 7.848695440136551
-  length_on_deck: 9.144
+  length_over_all: 9.1441111923921
+  main:
+    foot: 5.510851011948304
+    head: 4.242867593269934
+    luff: 4.825042672518897
 created_at: '2020-04-25T17:33:12.19765+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 146f5a4e-29a8-430c-abc2-a54cadac11e2
+year_of_build:
+  approx: false
+  value: 1992
+updated_at: '2026-07-27'
