@@ -1,22 +1,24 @@
 name: Imogen
 oga_no: 1066
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Yawl
 mainsail_type: gaff
-full_description: |+
+full_description: |-
   Log 83/4, 84/3 CB Oct 91
-
 year: 1911
 year_is_approximate: false
 designer:
+- id: bb41d838-779a-40e4-8330-00460deb203f
   name: Albert Strange
-  id: bb41d838-779a-40e4-8330-00460deb203f
 builder:
+- id: c75fcaa9-f643-4379-862a-9ca83007e463
   name: Luke and Co Ltd
-  id: c75fcaa9-f643-4379-862a-9ca83007e463
 place_built: Hamble
 construction_material: wood
 spar_material: wood
+previous_names:
+- Imogen II
 selling_status: not_for_sale
 for_sales: []
 reference:
@@ -27,6 +29,7 @@ ownerships:
 - name: J G Channer
   start: 2012
   share: 64
+image_key: 7qVbj7
 handicap_data:
   beam: 2.4384
   draft: 1.2192
@@ -34,7 +37,8 @@ handicap_data:
   length_on_waterline: 6.858083394294074
   length_over_all: 7.894415996098512
 created_at: '2020-04-25T16:59:20.967257+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
 id: 7eb980f7-2775-452a-b815-71508608e2f8
-previous_names:
-- Imogen II
+year_of_build:
+  approx: false
+  value: 1911
+updated_at: '2026-07-27'
