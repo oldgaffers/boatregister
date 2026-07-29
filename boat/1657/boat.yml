@@ -1,16 +1,17 @@
 name: Salting
 oga_no: 1657
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 1982
 year_is_approximate: false
 designer:
+- id: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
   name: Malcolm Goodwin
-  id: d612eb85-03c4-4e3f-bbe2-955d03eeddc0
 builder:
+- id: baa8ee05-77fc-4229-82bb-afe9855fbba1
   name: Malcolm Goodwin
-  id: baa8ee05-77fc-4229-82bb-afe9855fbba1
 place_built: Wivenhoe
 construction_material: wood
 construction_details: Ply onto frames and battens with epoxy coating
@@ -21,10 +22,15 @@ ownerships:
 - name: Bryan Sargeant
   start: 2012
   share: 64
-id: 93e18b65-8057-4c10-b8f2-80051e6dc91c
+image_key: v4HKVb
 handicap_data:
   beam: 2.4384
-  length_over_all: 6.0960741282613995
   length_on_deck: 6.096
+  length_over_all: 6.0960741282613995
 created_at: '2020-04-25T17:08:15.057223+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 93e18b65-8057-4c10-b8f2-80051e6dc91c
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  approx: false
+  value: 1982
+updated_at: '2026-07-28'
