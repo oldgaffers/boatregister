@@ -1,12 +1,14 @@
 name: Foam
 oga_no: 1356
+generic_type: []
 rig_type: Ketch
 mainsail_type: gaff
 year: 1888
 year_is_approximate: false
+designer: []
 builder:
+- id: af081597-338a-4664-a426-4d730eab8671
   name: J. Slade and Sons
-  id: af081597-338a-4664-a426-4d730eab8671
 place_built: Mevagissey
 construction_material: wood
 construction_method: carvel
@@ -17,12 +19,16 @@ ownerships:
 - name: M R Jones
   start: 2012
   share: 64
-id: 79917d8b-fa99-4d63-a188-aee5331d20dd
+image_key: xKphNL
 handicap_data:
   beam: 3.5052
   draft: 2.0422
-  length_over_all: 14.630577907827359
-  length_on_waterline: 13.106559375762009
   length_on_deck: 14.6304
+  length_on_waterline: 13.106559375762009
+  length_over_all: 14.630577907827359
 created_at: '2020-04-25T17:03:45.849566+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 79917d8b-fa99-4d63-a188-aee5331d20dd
+year_of_build:
+  approx: false
+  value: 1888
+updated_at: '2026-07-29'
