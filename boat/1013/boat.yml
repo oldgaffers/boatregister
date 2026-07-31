@@ -1,57 +1,118 @@
 name: Ianthe
 oga_no: 1013
-generic_type: []
+generic_type: Half-decker
 rig_type: Sloop
 mainsail_type: gaff
 short_description: |-
-  duplicate entry for *Ianthe* OGA 2113
+  Ianthe has spent all her life at Christchurch Sailing Club.
 full_description: |-
-  Log 83/4 21 ft. centreboard three-quarter decked sloop. Believed to have been
-  built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington. The boat
-  has wintered in the same shed, which was built for her (and her sisters) since
-  1913 at Christchurch till for sale in '83. Professionally maintained all her
-  life. Performance remarkable. In 3 OGA' races she has 2 firsts & a second.
-year: 1895
-year_is_approximate: false
-designer:
-- id: c726ec44-2c43-4620-90e3-6631a912c6b6
-  name: E. Inman
-builder:
-- id: a90b6e84-74a4-40dc-9b32-fc4c6c7dab5b
-  name: Inman and Co Ltd
-place_built: Lymington
-construction_material: wood
-selling_status: not_for_sale
+  *Ianthe* has spent all her life at Christchurch Sailing Club. Her original mast was replaced in 1993, made by her owner, Steve Renvoize, and her keel and centreboard were renewed in 2003 by Rossiters. She has never had an engine. She is owned by a syndicate of 8, all of whom must be members of Christchurch Sailing Club.
+
+There is an entry for Ianthe in the 1909 edition of Hunt’s Universal Yacht List, which was found at Cowes Library (entry number 1747). The entry was submitted in 1908 by Melville Druitt, an ex commodore of Christchurch Sailing Club and owner of Ianthe between 1916 and 1949. He stated that she was built by Campers.
+
+It had previously been believed that she was built by Inmans yard (now Berthon boatyard) at Lymington. Berthon was unable to find any record of her.
+
+The boat wintered in the same shed, which was built for her (and her sisters) since 1913 at Christchurch.
 reference:
 - Log 83/4
-sail_number: '3'
+sail_number: 3
+year: 1898
+year_is_approximate: true
+designer:
+- name: Percival Hart
+  id: c48d0149-ce11-48d7-ab44-dfa975acd4e9
+builder:
+- name: Camper and Nicholson Ltd.
+  id: 83a839af-b960-4cce-a881-b4401432846c
+place_built: Gosport
+construction_material: wood
+spar_material: wood
+construction_method: carvel
+construction_details: 'She is American yellow pine (this has been confirmed by laboratory
+  analysis) on oak frames (1 1/4" x 7/8" on 8" centres), and of traditional carvel
+  construction, using copper fastenings. She is 3/4 decked, and the deck planking
+  is sheathed with e-glass. External underwater areas are sheathed with Kevlar using
+  resorcinol adhesive. '
+selling_status: not_for_sale
+home_country: GBR
+home_port: Christchurch
+hull_form: centre-boarder
 ownerships:
+- name: Melville Druitt
+  start: 1916
+  end: 1949
+  share: 64
 - name: J Newbury
   start: 2012
   share: 64
-image_key: MVVPc9
+- member: 1950
+  id: 113
+  start: 1987
+  end: 2024
+  share: 8
+- member: 6753
+  id: 35232
+  start: 2023
+  share: 8
+  current: true
+- member: 6898
+  id: 35416
+  start: 2024
+  share: 8
+  current: true
+- member: 6810
+  id: 35300
+  start: 2024
+  share: 8
+  current: true
+- name: Lawrence Crapper
+  start: 2024
+  share: 8
+  current: true
+- member: 4786
+  id: 514
+  start: 2024
+  share: 8
+  current: true
+- member: 6762
+  id: 35242
+  start: 2024
+  share: 8
+  current: true
+- name: Luke Ridout
+  start: 2024
+  share: 8
+  current: true
+- name: David Wakeford
+  start: 2024
+  share: 8
+  current: true
+image_key: m9CWHR
 handicap_data:
   thcf: 0.906
   beam: 2.134
-  draft: 0.61
+  draft: 0.512
   fore_triangle_height: 5.486
   fore_triangle_base: 3.048
-  length_on_deck: 7.315
+  length_on_deck: 7.443
   length_on_waterline: 6.096
+  length_over_spars: 8.306
   sailarea: 28.742
   topsail:
     luff: 3.048
     perpendicular: 1.981
-  draft_keel_down: 1.6764203852718849
+  checked: true
+  draft_keel_down: 1.6764325774201414
   length_over_all: 7.315
   main:
     foot: 4.877
     head: 3.353
     luff: 3.505
-created_at: '2020-04-25T16:58:33.502408+00:00'
-id: de5d5a39-50bb-420c-8cb1-2b609269b60a
-lastModified: '2026-07-09T12:13:33Z'
-year_of_build:
-  approx: false
-  value: 1895
-updated_at: '2026-07-29'
+for_sales:
+  sales_description: |-
+    Log 83/4 21 ft. centreboard three-quarter decked     sloop. Believed to have been
+    built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington. The boat
+    has wintered in the same shed, which was built for her (and her sisters) since
+    1913 at Christchurch till for sale in '83. Professionally maintained all her
+    life. Performance remarkable. In 3 OGA' races she has 2 firsts & a second.
+  
