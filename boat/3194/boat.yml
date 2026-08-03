@@ -1,6 +1,7 @@
 name: Alice
 oga_no: 3194
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -13,7 +14,6 @@ full_description: |-
   home
 year: 2000
 year_is_approximate: false
-designer: []
 design_class:
   name: Heard 35
   id: 57d13261-3402-4c7d-b2c8-45c2224149d3
@@ -36,6 +36,11 @@ ownerships:
   start: 2000
   end: 2013
   share: 64
+- member: 4358
+  id: 34925
+  start: 2026
+  share: 64
+  current: true
 image_key: dhLsf6
 handicap_data:
   thcf: 1.029
@@ -48,15 +53,18 @@ handicap_data:
   length_on_deck: 10.668
   length_on_waterline: 9.754
   propellor:
-    type: fixed
     blades: 3
+    type: fixed
   topsail:
     luff: 5.669
     perpendicular: 2.591
   main:
-    luff: 6.279
     foot: 5.944
     head: 5.334
+    luff: 6.279
 created_at: '2020-04-25T17:46:09.395024+00:00'
-mmsi: '232046206'
 id: bd5bbbac-8d5c-459e-a9e1-5761f5edef48
+mmsi: '232046206'
+year_of_build:
+  value: 2000
+updated_at: '2026-08-03'
