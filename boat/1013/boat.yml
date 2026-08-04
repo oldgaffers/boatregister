@@ -1,23 +1,30 @@
 name: Ianthe
 oga_no: 1013
-generic_type: Half-decker
+generic_type:
+- Half-decker
 rig_type: Sloop
 mainsail_type: gaff
 short_description: |-
   Ianthe has spent all her life at Christchurch Sailing Club.
 full_description: |-
-  *Ianthe* has spent all her life at Christchurch Sailing Club. Her original mast was replaced in 1993, made by her owner, Steve Renvoize, and her keel and centreboard were renewed in 2003 by Rossiters. She has never had an engine. She is owned by a syndicate of 8, all of whom must be members of Christchurch Sailing Club.
+  *Ianthe* has spent all her life at Christchurch Sailing Club. Her original mast
+  was replaced in 1993, made by her owner, Steve Renvoize, and her keel and
+  centreboard were renewed in 2003 by Rossiters. She has never had an engine. She
+  is owned by a syndicate of 8, all of whom must be members of Christchurch
+  Sailing Club.
 
-  There is an entry for Ianthe in the 1909 edition of Hunt’s Universal Yacht List, which was found at Cowes Library (entry number 1747). The entry was submitted in 1908 by Melville Druitt, an ex commodore of Christchurch Sailing Club and owner of Ianthe between 1916 and 1949. He stated that she was built by Campers.
+  There is an entry for Ianthe in the 1909 edition of Hunt’s Universal Yacht List,
+  which was found at Cowes Library (entry number 1747). The entry was submitted in
+  1908 by Melville Druitt, an ex commodore of Christchurch Sailing Club and owner
+  of Ianthe between 1916 and 1949. He stated that she was built by Campers.
 
-  It had previously been believed that she was built by Inmans yard (now Berthon boatyard) at Lymington. Berthon was unable to find any record of her.
+  It had previously been believed that she was built by Inmans yard (now Berthon
+  boatyard) at Lymington. Berthon was unable to find any record of her.
 
-  The boat wintered in the same shed, which was built for her (and her sisters) since 1913 at Christchurch.
-reference:
-- Log 83/4
-sail_number: 3
+  The boat wintered in the same shed, which was built for her (and her sisters)
+  since 1913 at Christchurch.
 year: 1898
-year_is_approximate: true
+year_is_approximate: false
 designer:
 - name: Percival Hart
   id: c48d0149-ce11-48d7-ab44-dfa975acd4e9
@@ -34,22 +41,35 @@ construction_details: 'She is American yellow pine (this has been confirmed by l
   is sheathed with e-glass. External underwater areas are sheathed with Kevlar using
   resorcinol adhesive. '
 selling_status: not_for_sale
+for_sales:
+- asking_price: 1500
+  flexibility: no haggling
+  offered: '1983-09-01'
+  sales_text: |-
+    Log 83/4 21 ft. centreboard three-quarter decked sloop. Believed to have been
+    built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington. The boat
+    has wintered in the same shed, which was built for her (and her sisters) since
+    1913 at Christchurch till for sale in '83. Professionally maintained all her
+    life. Performance remarkable. In 3 OGA' races she has 2 firsts & a second.
 home_country: GBR
 home_port: Christchurch
 hull_form: centre-boarder
+reference:
+- Log 83/4
+sail_number: 3
 ownerships:
 - name: Melville Druitt
   start: 1916
   end: 1949
-  share: 64
-- name: J Newbury
-  start: 2012
   share: 64
 - member: 1950
   id: 113
   start: 1987
   end: 2024
   share: 8
+- name: J Newbury
+  start: 2012
+  share: 64
 - member: 6753
   id: 35232
   start: 2023
@@ -102,20 +122,14 @@ handicap_data:
     luff: 3.048
     perpendicular: 1.981
   checked: true
-  draft_keel_down: 1.6764325774201414
+  draft_keel_down: 1.676
   length_over_all: 7.315
   main:
     foot: 4.877
     head: 3.353
     luff: 3.505
-for_sales:
-- flexibility: no haggling
-  offered: 1983-09-01
-  asking_price: 1500
-  sales_text: |-
-    Log 83/4 21 ft. centreboard three-quarter decked     sloop. Believed to have been
-    built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington. The boat
-    has wintered in the same shed, which was built for her (and her sisters) since
-    1913 at Christchurch till for sale in '83. Professionally maintained all her
-    life. Performance remarkable. In 3 OGA' races she has 2 firsts & a second.
-  
+lastModified: '2026-08-04T10:12:02Z'
+year_of_build:
+  approx: true
+  value: 1898
+updated_at: '2026-08-04'
