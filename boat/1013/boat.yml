@@ -1,21 +1,38 @@
 name: Ianthe
 oga_no: 1013
-generic_type: Half-decker
+generic_type:
+- Dayboat
+- Half-decker
+- Racing keelboat
 rig_type: Sloop
 mainsail_type: gaff
 short_description: |-
-  Ianthe has spent all her life at Christchurch Sailing Club.
+  Ianthe has lived at Christchurch Sailing Club since at least 1909, probably
+  longer. She is owned by a syndicate of 8, all of whom must be members of
+  Christchurch Sailing Club.
 full_description: |-
-  *Ianthe* has spent all her life at Christchurch Sailing Club. Her original mast was replaced in 1993, made by her owner, Steve Renvoize, and her keel and centreboard were renewed in 2003 by Rossiters. She has never had an engine. She is owned by a syndicate of 8, all of whom must be members of Christchurch Sailing Club.
+  ​Ianthe is a 24ft 6in gaff sloop with topsail, built in 1898 by Camper &
+  Nicholsons and designed by Percival Hart, the Christchurch‑born naval architect
+  whose early career included work for Berthon and several ​other major yards. Her
+  lines were taken off by Jim Mottram​ in 1992.    
 
-  There is an entry for Ianthe in the 1909 edition of Hunt’s Universal Yacht List, which was found at Cowes Library (entry number 1747). The entry was submitted in 1908 by Melville Druitt, an ex commodore of Christchurch Sailing Club and owner of Ianthe between 1916 and 1949. He stated that she was built by Campers.
+  Ianthe retains around 80% of her original timber. She is the last surviving
+  example of the once‑competitive Christchurch racing class​.    
 
-  It had previously been believed that she was built by Inmans yard (now Berthon boatyard) at Lymington. Berthon was unable to find any record of her.
+  Her long and stable ownership under Melvill Druitt (1907–1947) ensured her
+  survival. Druitt, Commodore and long‑serving Honorary Secretary of Christchurch
+  Sailing Club, raced her extensively​.    
 
-  The boat wintered in the same shed, which was built for her (and her sisters) since 1913 at Christchurch.
-reference:
-- Log 83/4
-sail_number: 3
+  A restoration by Rossiter Yachts (2002–03) renewed her keel, centreboard case
+  and garboards. ​Today Ianthe is maintained by an eight‑member syndicate within
+  Christchurch Sailing Club​.​  
+
+  There is an entry for Ianthe in the 1909 edition of Hunt’s Universal Yacht List,
+  which was found at Cowes Library (entry number 1747). The entry was submitted in
+  1908 by Melville Druitt.
+
+  The boat wintered in the same shed, which was built for her (and her sisters)
+  since 1913 at Christchurch Sailing Club.
 year: 1898
 year_is_approximate: true
 designer:
@@ -34,59 +51,77 @@ construction_details: 'She is American yellow pine (this has been confirmed by l
   is sheathed with e-glass. External underwater areas are sheathed with Kevlar using
   resorcinol adhesive. '
 selling_status: not_for_sale
+for_sales:
+- asking_price: 1500
+  flexibility: no haggling
+  offered: '1983-09-01'
+  sales_text: |-
+    Log 83/4 21 ft. centreboard three-quarter decked sloop. Believed to have been
+    built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington. The boat
+    has wintered in the same shed, which was built for her (and her sisters) since
+    1913 at Christchurch till for sale in '83. Professionally maintained all her
+    life. Performance remarkable. In 3 OGA' races she has 2 firsts & a second.
 home_country: GBR
 home_port: Christchurch
 hull_form: centre-boarder
+reference:
+- Log 83/4
+sail_number: 3
 ownerships:
 - name: Melville Druitt
   start: 1916
   end: 1949
-  share: 64
-- name: J Newbury
-  start: 2012
   share: 64
 - member: 1950
   id: 113
   start: 1987
   end: 2024
   share: 8
-- member: 6753
-  id: 35232
-  start: 2023
-  share: 8
-  current: true
-- member: 6898
-  id: 35416
-  start: 2024
-  share: 8
-  current: true
+- name: J Newbury
+  start: 2012
+  share: 64
 - member: 6810
   id: 35300
-  start: 2024
+  start: 2026
   share: 8
   current: true
+  note: please check this is not a namesake
+- member: 6898
+  id: 35416
+  start: 2026
+  share: '8'
+  current: true
+  note: please check this is not a namesake
+- name: Luke Ridout
+  start: 2026
+  share: '8'
+  current: true
 - name: Lawrence Crapper
-  start: 2024
-  share: 8
+  start: 2026
+  share: '8'
   current: true
 - member: 4786
   id: 514
-  start: 2024
-  share: 8
+  start: 2026
+  share: '8'
   current: true
+  note: please check this is not a namesake
 - member: 6762
   id: 35242
-  start: 2024
-  share: 8
+  start: 2026
+  share: 64
   current: true
-- name: Luke Ridout
-  start: 2024
-  share: 8
-  current: true
+  note: please check this is not a namesake
 - name: David Wakeford
-  start: 2024
-  share: 8
+  start: 2026
+  share: 64
   current: true
+- member: 6753
+  id: 35232
+  start: 2026
+  share: 64
+  current: true
+  note: please check this is not a namesake
 image_key: m9CWHR
 handicap_data:
   thcf: 0.906
@@ -102,20 +137,14 @@ handicap_data:
     luff: 3.048
     perpendicular: 1.981
   checked: true
-  draft_keel_down: 1.6764325774201414
+  draft_keel_down: 1.676
   length_over_all: 7.315
   main:
     foot: 4.877
     head: 3.353
     luff: 3.505
-for_sales:
-- flexibility: no haggling
-  offered: 1983-09-01
-  asking_price: 1500
-  sales_text: |-
-    Log 83/4 21 ft. centreboard three-quarter decked     sloop. Believed to have been
-    built in the 1880s by Inmans yard (now Berthon boatyard) at Lymington. The boat
-    has wintered in the same shed, which was built for her (and her sisters) since
-    1913 at Christchurch till for sale in '83. Professionally maintained all her
-    life. Performance remarkable. In 3 OGA' races she has 2 firsts & a second.
-  
+lastModified: '2026-08-04T10:12:02Z'
+year_of_build:
+  approx: true
+  value: 1898
+updated_at: '2026-08-04'
