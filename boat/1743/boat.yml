@@ -1,19 +1,21 @@
 name: White Heather
 oga_no: 1743
+generic_type: []
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>A cabin version of the popular Tosher 18</p>
+short_description: |-
+  A cabin version of the popular Tosher 18
 year: 1978
 year_is_approximate: false
 designer:
+- id: c7a4b5d4-0751-4858-8054-b0e0636bb711
   name: Terry Heard
-  id: c7a4b5d4-0751-4858-8054-b0e0636bb711
 design_class:
   name: Tosher 18
   id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
 builder:
+- id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
   name: Gaffers and Luggers
-  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
 place_built: Mylor Bridge
 construction_material: grp
 construction_details: GRP
@@ -24,22 +26,26 @@ ownerships:
 - name: R J Morgan
   start: 1990
   share: 64
-id: 6fd3048d-1a5a-44fe-aa38-4ba640f61a52
+image_key: SzMjGt
 handicap_data:
   thcf: 0.855692999
   beam: 1.7983
   draft: 0.8992
   fore_triangle_height: 5.18166300902219
   fore_triangle_base: 3.5997317727383566
+  length_on_deck: 5.6998
+  length_on_waterline: 5.401121677639599
+  topsail:
+    luff: 3.0998536942209216
+    perpendicular: 1.4996342355523042
   length_over_all: 5.699829309924408
   main:
     foot: 3.5997317727383566
     head: 2.8986832479882954
     luff: 2.5999756157034866
-  topsail:
-    luff: 3.0998536942209216
-    perpendicular: 1.4996342355523042
-  length_on_waterline: 5.401121677639599
-  length_on_deck: 5.6998
 created_at: '2020-04-25T17:09:32.685962+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 6fd3048d-1a5a-44fe-aa38-4ba640f61a52
+year_of_build:
+  approx: false
+  value: 1978
+updated_at: '2026-08-04'
