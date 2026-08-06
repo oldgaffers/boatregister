@@ -1,6 +1,7 @@
 name: Comus of Wivenhoe
 oga_no: 1361
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Schooner
 mainsail_type: gaff
 short_description: |-
@@ -9,11 +10,11 @@ short_description: |-
 year: 1882
 year_is_approximate: false
 designer:
-- name: Jasmes Husk
-  id: a5bcd933-f26f-4043-be64-35742cb970d1
+- id: a5bcd933-f26f-4043-be64-35742cb970d1
+  name: Jasmes Husk
 builder:
-- name: Husk James and Sons
-  id: 7320ec38-3d1e-436e-9366-1c440fe64a9c
+- id: 7320ec38-3d1e-436e-9366-1c440fe64a9c
+  name: Husk James and Sons
 place_built: Wivenhoe
 construction_material: wood
 construction_method: carvel
@@ -27,6 +28,7 @@ ownerships:
 - name: Jim Olney
   start: 1979
   share: 64
+image_key: sjJbsD
 handicap_data:
   thcf: 1.256713724
   beam: 3.734
@@ -51,4 +53,7 @@ handicap_data:
     luff: 7.01
 created_at: '2020-04-25T18:35:25.022604+00:00'
 id: 6cffc7f2-a6c0-429c-9482-9e0a427c4f80
-updated_at: '2024-10-14'
+year_of_build:
+  approx: false
+  value: 1882
+updated_at: '2026-08-06'
