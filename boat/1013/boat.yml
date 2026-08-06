@@ -16,19 +16,15 @@ full_description: |-
   surviving example of a once‑competitive Christchurch racing type, which
   comprised *Ianthe, Iola,* and *Queen Bee.*
 
-  *Ianthe* has spent all her life at Christchurch Sailing Club. Her original mast
-  was replaced in 1993, made by her owner, Steve Renvoize. A restoration by
+  *Ianthe* has spent all her life at Christchurch Sailing Club. A restoration by
   Rossiter Yachts (2002–03) renewed her keel, centreboard case and garboards. She
   has never had an engine.
 
   There is an entry for *Ianthe* in the 1909 edition of Hunt’s Universal Yacht
   List, which was found at Cowes Library (entry number 1747). The entry was
   submitted in 1908 by Melville Druitt, an ex commodore of Christchurch Sailing
-  Club and owner of *Ianthe* between 1916 and 1949. He stated that she was built
+  Club and owner of *Ianthe​* between 1916 and 1949. He stated that she was built
   by Campers.
-
-  It had previously been believed that she was built by Inmans yard (now Berthon
-  boatyard) at Lymington. Berthon was unable to find any record of her.
 
   In 1992, her lines were taken off by Jim Mottram, a boat builder and member of
   Christchurch Sailing Club. Her long ownership under Melvill Druitt (1907–1947)
@@ -79,14 +75,14 @@ ownerships:
   start: 1907
   end: 1947
   share: 64
+- name: J Newbury
+  start: 1984
+  share: 64
 - member: 1950
   id: 113
   start: 1987
   end: 2024
   share: 8
-- name: J Newbury
-  start: 1984
-  share: 64
 - member: 6753
   id: 35232
   start: 2002
@@ -126,7 +122,7 @@ ownerships:
   current: true
 image_key: m9CWHR
 handicap_data:
-  thcf: 0.906
+  thcf: 0.908
   beam: 2.134
   draft: 0.512
   fore_triangle_height: 5.486
@@ -134,6 +130,8 @@ handicap_data:
   length_on_deck: 7.443
   length_on_waterline: 6.096
   length_over_spars: 8.306
+  propellor:
+    type: none
   sailarea: 28.742
   topsail:
     luff: 3.048
@@ -145,7 +143,14 @@ handicap_data:
     foot: 4.877
     head: 3.353
     luff: 3.505
-lastModified: '2026-08-04T11:34:08Z'
+  last_modified: '2026-08-06T09:25:35.637Z'
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 21.47913850804467
+    thcf: 0.954
+  displacement: 2000
+  peformance_details: None
+lastModified: '2026-08-05T20:43:40Z'
 year_of_build:
   value: 1898
-updated_at: '2026-08-05'
+updated_at: '2026-08-06'
