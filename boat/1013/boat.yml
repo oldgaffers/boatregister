@@ -79,14 +79,14 @@ ownerships:
   start: 1907
   end: 1947
   share: 64
+- name: J Newbury
+  start: 1984
+  share: 64
 - member: 1950
   id: 113
   start: 1987
   end: 2024
   share: 8
-- name: J Newbury
-  start: 1984
-  share: 64
 - member: 6753
   id: 35232
   start: 2002
@@ -126,7 +126,7 @@ ownerships:
   current: true
 image_key: m9CWHR
 handicap_data:
-  thcf: 0.906
+  thcf: 0.908
   beam: 2.134
   draft: 0.512
   fore_triangle_height: 5.486
@@ -134,6 +134,8 @@ handicap_data:
   length_on_deck: 7.443
   length_on_waterline: 6.096
   length_over_spars: 8.306
+  propellor:
+    type: none
   sailarea: 28.742
   topsail:
     luff: 3.048
@@ -145,7 +147,14 @@ handicap_data:
     foot: 4.877
     head: 3.353
     luff: 3.505
-lastModified: '2026-08-04T11:34:08Z'
+  last_modified: '2026-08-06T09:25:35.637Z'
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 21.47913850804467
+    thcf: 0.954
+  displacement: 2000
+  peformance_details: None
+lastModified: '2026-08-05T20:43:40Z'
 year_of_build:
   value: 1898
-updated_at: '2026-08-05'
+updated_at: '2026-08-06'
