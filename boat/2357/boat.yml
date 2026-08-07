@@ -1,16 +1,17 @@
 name: Banrae
 oga_no: 2357
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
 year: 1945
 year_is_approximate: false
 designer:
+- id: d620b2b5-76e8-4d57-87b8-7beadfc28743
   name: Norman Dallimore
-  id: d620b2b5-76e8-4d57-87b8-7beadfc28743
 builder:
+- id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
   name: William King and Sons
-  id: bdc96158-7a1a-43ec-a4e0-9dc84d8e9682
 place_built: Burnham-on-Crouch
 construction_material: wood
 selling_status: not_for_sale
@@ -21,21 +22,26 @@ ownerships:
 - name: B W Shales
   start: 2012
   share: 64
-id: a888e978-6b8d-4666-b690-67ed2f5b0554
+image_key: bsM9ms
 handicap_data:
   thcf: 0.861455865
   beam: 2.1184
   draft: 1.3716
   fore_triangle_height: 6.501463057790782
   fore_triangle_base: 2.6152158010241404
-  length_over_all: 6.187515240185321
+  length_on_deck: 6.1874
+  length_on_waterline: 5.6388685686417945
   propellor:
     type: fixed
+  length_over_all: 6.187515240185321
   main:
     foot: 4.367837112899292
     head: 3.3528407705437697
     luff: 3.8100463301633747
-  length_on_waterline: 5.6388685686417945
-  length_on_deck: 6.1874
 created_at: '2020-04-25T17:18:51.649104+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: a888e978-6b8d-4666-b690-67ed2f5b0554
+lastModified: '2024-01-08T21:28:18Z'
+year_of_build:
+  approx: false
+  value: 1945
+updated_at: '2026-08-07'
