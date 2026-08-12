@@ -1,20 +1,22 @@
 name: Affinity
 oga_no: 1731
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Built by Cornish Crabbers in 1992 she is a Cornish Pilot Cutter.
+short_description: |-
+  Built by Cornish Crabbers in 1992 she is a Cornish Pilot Cutter.
 year: 1990
 year_is_approximate: false
 designer:
-- name: Roger Dongray
-  id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+- id: af6f6943-2024-44d5-af5e-a6e63fc66db5
+  name: Roger Dongray
 design_class:
   name: Cornish Crabber Pilot Cutter 30
   id: 5bfb6ea5-ee56-40f5-bc71-ed0d31fbee8e
 builder:
-- name: Cornish Crabbers Ltd.
-  id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+- id: 2bdd8cf6-ba06-4a2b-9894-d7e26c6261ad
+  name: Cornish Crabbers Ltd.
 place_built: Rock
 construction_material: grp
 spar_material: wood
@@ -30,6 +32,7 @@ ownerships:
   start: 2022
   share: 64
   current: true
+image_key: NTFRcS
 handicap_data:
   thcf: 0.973813074
   beam: 2.896
@@ -50,4 +53,7 @@ handicap_data:
     luff: 4.953
 created_at: '2020-04-25T17:09:21.713253+00:00'
 id: a06c766d-7726-4b93-8741-07bc00675c36
-updated_at: '2024-10-10'
+year_of_build:
+  approx: false
+  value: 1990
+updated_at: '2026-08-11'
