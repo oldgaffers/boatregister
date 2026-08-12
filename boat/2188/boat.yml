@@ -1,51 +1,94 @@
 name: Mizpah
 oga_no: 2188
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: Mizpah is a 1907 Seaview Mermaid design by G U Laws.
-full_description: Mizpah has been raced successfully off the West Country coast of
-  England and took part in the 2002 Round the Island Race coming first in the Old
-  Gaffers Division.
+short_description: |-
+  *Mizpah* is a 1907 Seaview Mermaid design by G U Laws.
+full_description: |-
+  *Mizpah* was built on the Dart in 1994 by the renowned Pete Nash. She was built
+  to the 1907 G.U. Laws’ design for the Sea View Mermaid. Her construction is
+  larch on oak frames with teak decks. Pete Nash re-designed her sail plan and
+  spars to increase the sail area of the main and to include a topsail. She has a
+  bracket for an outboard motor with the motor itself being stowed beneath the
+  counter.  
+
+  *Mizpah* has taken part in YOGAFF on a regular basis and has raced successfully
+  in the Solent and in Falmouth for the last 27 years winning the Jubilee Trophy
+  in the Round-the-Island on multiple occasions, the Long Tackle trophy at YOGAFF,
+  the Otter Cup in the Town Regatta at Seaview (twice) as well as many other
+  races. She is fast, exceptionally elegant with superb seakeeping and sailing
+  performance in both light and heavy airs.
 year: 1994
 year_is_approximate: false
 designer:
-  name: G.U. Laws
+- name: G.U. Laws
   id: 6b0e581f-8507-4748-8d44-f8fb73dbef19
 builder:
-  name: Peter Nash
+- name: Peter Nash
   id: 9adc42a3-584a-4b5c-8bc8-f3712d230dea
 place_built: Dartmouth
 construction_material: wood
 construction_details: Larch on oak
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- created_at: '2026-08-12T15:32:45.072Z'
+  sales_text: |-
+    *Mizpah* is for sale at £11,750. She comes with a full set of sails (main
+    (serviced Winter 2025), two jibs (Nos 2 and 3), genoa, topsail, reaching sail
+    and balloon spinnaker), all spars and wooden spinnaker poles, anchor and chain,
+    warps, lines and fenders,  a good quality and lightly-used road trailer (RM
+    Trailers), and a 2008 Tohatsu 3.5hp, boom and cockpit covers. She has been
+    professionally maintained throughout her life and properly stored in the winter
+    in boatsheds (from 2000 by AA Coombes in Bembridge and the Freshwater Boatyard
+    (St Mawes)). She was given a new mast in 2015, a new (stainless steel) gooseneck
+    in 2017, new standing rigging in 2021, her topsides were re-painted in 2023 and
+    she was antifouled for the 2026 season and her brightwork and spars sanded and
+    varnished. She is ready to sail, currently lying on her mooring off Seaview,
+    Isle of Wight.
+  flexibility: normal
+  asking_price: 11750
 home_port: Bembridge
 ownerships:
 - member: 4052
   id: 373
   start: 1994
+  end: 2000
+  share: 64
+- member: 5507
+  id: 665
+  start: '2010'
+  share: 32
+  current: true
+  note: please check this is not a namesake
+- member: 4052
+  id: 373
+  start: '2020'
   share: 64
   current: true
-id: 9b77d26b-2b25-4ebe-83ac-dbc5d3b23017
+  note: please check this is not a namesake
 image_key: 5Wz4pC
-thumb: https://photos.smugmug.com/photos/i-z7LGx38/0/Th/i-z7LGx38-Th.jpg
 handicap_data:
   thcf: 0.945
-  beam: 1.8288
-  draft: 1.2192
-  fore_triangle_height: 6.848939283101682
-  fore_triangle_base: 2.718849061204584
-  length_over_all: 7.620092660326749
-  sailarea: 34.169212757326676
-  main:
-    foot: 5.029261155815655
-    head: 4.114850036576445
-    luff: 3.8100463301633747
-  topsail:
-    luff: 4.57205559619605
-    perpendicular: 1.6154596439892708
-  length_on_waterline: 5.562667642038527
+  beam: 1.829
+  draft: 1.219
+  fore_triangle_height: 6.849
+  fore_triangle_base: 2.719
   length_on_deck: 7.62
+  length_on_waterline: 5.563
+  sailarea: 34.169
+  topsail:
+    luff: 4.572
+    perpendicular: 1.615
+  length_over_all: 7.62
+  main:
+    foot: 5.029
+    head: 4.115
+    luff: 3.81
 created_at: '2020-04-25T17:16:18.784842+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 9b77d26b-2b25-4ebe-83ac-dbc5d3b23017
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  value: 1994
+updated_at: '2026-08-12'
