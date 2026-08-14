@@ -1,31 +1,36 @@
 name: Thalia
 oga_no: 11
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Thalia was built in 1888&nbsp;and has cruised and has raced
-  extensively on both sides of the Atlantic.</p>
-full_description: "<p>Thalia, built in 1888, was one of the last yachts by George\
-  \ Wanhill of Poole who had been boatbuilding from the 1850s onwards. In the 1890s\
-  \ she went to Cork and raced from the Royal Cork Yacht Club, returning to the south\
-  \ coast of England in 1918.</p>\r\n\r\n<p>She was bought by Ivan Jefris in 1997\
-  \ from Coombes Yard&nbsp;as she was about to be broken up. Having extensively rebuilt\
-  \ her he raced her In Solent A|rea races and entered her in the America&#39;s Cup\
-  \ Jubilee, 2001, and then sailed&nbsp;her to the Carribean.</p>\r\n\r\n<p>Bought\
-  \ by David Aisher in 2010, she returned to England for a refit at the Elephant Boatyard.\
-  \ A new mast was fitted with new standing and running rigging and sails. She was\
-  \ also re ballasted and rewired and replumbed.&nbsp;</p>"
+short_description: |-
+  Thalia was built in 1888 and has cruised and has raced extensively on both sides
+  of the Atlantic.
+full_description: |-
+  Thalia, built in 1888, was one of the last yachts by George Wanhill of Poole who
+  had been boatbuilding from the 1850s onwards. In the 1890s she went to Cork and
+  raced from the Royal Cork Yacht Club, returning to the south coast of England in
+  1918.
+
+  She was bought by Ivan Jefris in 1997 from Coombes Yard as she was about to be
+  broken up. Having extensively rebuilt her he raced her In Solent A|rea races and
+  entered her in the America's Cup Jubilee, 2001, and then sailed her to the
+  Carribean.
+
+  Bought by David Aisher in 2010, she returned to England for a refit at the
+  Elephant Boatyard. A new mast was fitted with new standing and running rigging
+  and sails. She was also re ballasted and rewired and replumbed.
 year: 1888
 year_is_approximate: false
 builder:
-  name: G.F. Wanhill
+- name: G.F. Wanhill
   id: 69ada10f-4a24-4f01-a338-9f028178e5c0
 place_built: Poole
 construction_material: wood
 construction_details: Elm below, pitch pine above on grown oak, bronze fastened and
   part copper sheathed.
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Hamble
 hull_form: long keel deep forefoot
@@ -33,10 +38,6 @@ sail_number: '11'
 ssr: '82443'
 callsign: MYYE
 ownerships:
-- start: 2010
-  share: 64
-  current: true
-  name: David Aisher
 - note: 'Previous owners:'
   text: 'Previous owners:'
 - note: H.K.B. Roberts
@@ -54,28 +55,39 @@ ownerships:
   start: 1994
   end: 2010
   share: 64
-id: fd6e2ec4-ba52-4a12-9a31-767377b9773b
+- name: David Aisher
+  start: 2010
+  share: 64
+  current: true
 image_key: hbkT8f
-thumb: https://photos.smugmug.com/photos/i-FWdcJQN/0/Th/i-FWdcJQN-Th.jpg
 handicap_data:
   thcf: 1.097
-  beam: 3.6058
-  draft: 1.7282
-  fore_triangle_height: 9.1441111923921
-  fore_triangle_base: 8.22970007315289
-  length_over_all: 13.716166788588149
+  beam: 3.606
+  draft: 1.728
+  fore_triangle_height: 9.144
+  fore_triangle_base: 8.23
+  length_on_deck: 13.716
+  length_on_waterline: 11.887
+  length_over_spars: 18.593
   propellor:
     type: fixed
-  sailarea: 93.93159949838162
-  main:
-    foot: 8.22970007315289
-    head: 5.334077054376981
-    luff: 6.4008778346744695
+  sailarea: 93.932
   topsail:
-    luff: 4.26725188978298
-    perpendicular: 3.6576444769568397
-  length_over_spars: 18.593026091197267
-  length_on_waterline: 11.887344550109729
-  length_on_deck: 13.716
+    luff: 4.267
+    perpendicular: 3.658
+  length_over_all: 13.716
+  main:
+    foot: 8.23
+    head: 5.334
+    luff: 6.401
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 37.00424527404106
+    thcf: 1.124
+  displacement: 14750
 created_at: '2020-04-25T16:42:26.727877+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: fd6e2ec4-ba52-4a12-9a31-767377b9773b
+lastModified: '2025-10-18T09:46:45Z'
+year_of_build:
+  value: 1888
+updated_at: '2026-08-14'
