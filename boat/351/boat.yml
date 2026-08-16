@@ -1,19 +1,21 @@
 name: Isis
 oga_no: 351
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: <p>Built on lines similar to a Falmouth Quay Punt, an OGA member
-  owned her 1959 to 1966 and in 1968 refitted her in Rye for Swiss owners. She moved
-  to the Elephant Boatyard Hamble, then was sold to a West Country owner.</p>
+full_description: |-
+  Built on lines similar to a Falmouth Quay Punt, an OGA member owned her 1959 to
+  1966 and in 1968 refitted her in Rye for Swiss owners. She moved to the Elephant
+  Boatyard Hamble, then was sold to a West Country owner.
 year: 1909
 year_is_approximate: false
 designer:
+- id: ffa0451d-3edb-4506-b9f7-50d429fbb25f
   name: W.T. Adams
-  id: ffa0451d-3edb-4506-b9f7-50d429fbb25f
 builder:
+- id: 8f91be65-a448-40b0-ad82-49e268fa08cd
   name: W.H. Watty
-  id: 8f91be65-a448-40b0-ad82-49e268fa08cd
 place_built: Fowey
 construction_material: wood
 spar_material: wood
@@ -27,12 +29,17 @@ ownerships:
   start: 1959
   end: 1966
   share: 64
-id: 63c51200-c5f0-46ec-a9eb-5e90e4db1634
+image_key: 36jLwZ
 handicap_data:
   beam: 3.2004
   draft: 1.8288
-  length_over_all: 9.662277493294317
-  length_on_waterline: 9.23555230431602
   length_on_deck: 9.6622
+  length_on_waterline: 9.23555230431602
+  length_over_all: 9.662277493294317
 created_at: '2020-04-25T16:47:39.996959+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 63c51200-c5f0-46ec-a9eb-5e90e4db1634
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  approx: false
+  value: 1909
+updated_at: '2026-08-16'
