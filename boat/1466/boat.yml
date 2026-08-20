@@ -1,13 +1,15 @@
 name: Jolie Brise
 oga_no: 1466
-generic_type: Bawley
+generic_type:
+- Bawley
 rig_type: Cutter
 mainsail_type: gaff
 year: 1939
 year_is_approximate: false
+designer: []
 builder:
+- id: d025a19c-adec-4a5a-99da-a961f0746179
   name: C.J. Kidby and Sons
-  id: d025a19c-adec-4a5a-99da-a961f0746179
 place_built: Brightlingsea
 construction_material: wood
 selling_status: not_for_sale
@@ -18,10 +20,13 @@ ownerships:
 - name: P O Siming
   start: 2012
   share: 64
-id: 4f301f9a-19a0-49da-bb6b-3047ceb90395
+image_key: C4tXrz
 handicap_data:
   propellor:
     type: fixed
-  length_on_deck: 0
 created_at: '2020-04-25T17:05:24.049641+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 4f301f9a-19a0-49da-bb6b-3047ceb90395
+year_of_build:
+  approx: false
+  value: 1939
+updated_at: '2026-08-20'
