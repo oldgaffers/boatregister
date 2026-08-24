@@ -1,20 +1,23 @@
 name: St Philomena
 oga_no: 1918
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 1982
 year_is_approximate: false
 designer:
+- id: 594a90af-6ec1-4906-bc06-a7fe0bfc9a84
   name: Tim J. Goldstraw
-  id: 594a90af-6ec1-4906-bc06-a7fe0bfc9a84
 builder:
+- id: 09d6abe6-0f2a-4d5f-a151-3c5c65ff9bdc
   name: Elton Boat Building Co.
-  id: 09d6abe6-0f2a-4d5f-a151-3c5c65ff9bdc
 place_built: Kirkcudbright
 construction_material: wood
 construction_method: clinker
 construction_details: Clinker - Larch on oak
+previous_names:
+- Wood Rose
 selling_status: not_for_sale
 for_sales: []
 home_port: Blyth
@@ -24,23 +27,25 @@ ownerships:
 - name: John McDonagh
   start: 1995
   share: 64
-id: 130cd895-69b2-4a1d-989d-461d1e23a2f1
+image_key: g2KDFt
 handicap_data:
   thcf: 0.861108871
   beam: 2.4384
   draft: 0.762
   fore_triangle_height: 6.0960741282613995
   fore_triangle_base: 2.6517922457937084
-  length_over_all: 6.705681541087539
+  length_on_deck: 6.7056
+  length_on_waterline: 6.4008778346744695
   propellor:
     type: fixed
+  length_over_all: 6.705681541087539
   main:
     foot: 4.87685930260912
     head: 5.029261155815655
     luff: 2.5146305779078273
-  length_on_waterline: 6.4008778346744695
-  length_on_deck: 6.7056
 created_at: '2020-04-25T17:12:13.308174+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Wood Rose
+id: 130cd895-69b2-4a1d-989d-461d1e23a2f1
+year_of_build:
+  approx: false
+  value: 1982
+updated_at: '2026-08-24'
