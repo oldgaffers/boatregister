@@ -1,15 +1,16 @@
 name: Katie
 oga_no: 740
+generic_type: []
 rig_type: Sloop
 mainsail_type: gaff
 year: 1976
 year_is_approximate: false
 designer:
+- id: 594a90af-6ec1-4906-bc06-a7fe0bfc9a84
   name: Tim J. Goldstraw
-  id: 594a90af-6ec1-4906-bc06-a7fe0bfc9a84
 builder:
+- id: 09d6abe6-0f2a-4d5f-a151-3c5c65ff9bdc
   name: Elton Boat Building Co.
-  id: 09d6abe6-0f2a-4d5f-a151-3c5c65ff9bdc
 place_built: Kirkcudbright
 construction_material: wood
 selling_status: not_for_sale
@@ -18,11 +19,15 @@ ownerships:
 - name: C A Haysom
   start: 2012
   share: 64
-id: baa1d7fc-620c-429b-9275-56db9f28b8f2
+image_key: W7DBXc
 handicap_data:
   beam: 2.1336
-  length_over_all: 5.4864667154352595
-  length_on_waterline: 5.029261155815655
   length_on_deck: 5.4864
+  length_on_waterline: 5.029261155815655
+  length_over_all: 5.4864667154352595
 created_at: '2020-04-25T16:53:34.860844+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: baa1d7fc-620c-429b-9275-56db9f28b8f2
+year_of_build:
+  approx: false
+  value: 1976
+updated_at: '2026-08-26'
