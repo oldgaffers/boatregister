@@ -1,18 +1,20 @@
 name: Little Gemma
 oga_no: 2088
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
-full_description: Similar to traditional East Coast Blackwater Sloop For sale, Web
-  site August 2003, log Dec 2003.
+full_description: |-
+  Similar to traditional East Coast Blackwater Sloop For sale, Web site August
+  2003, log Dec 2003.
 year: 1993
 year_is_approximate: false
 designer:
+- id: 594a90af-6ec1-4906-bc06-a7fe0bfc9a84
   name: Tim J. Goldstraw
-  id: 594a90af-6ec1-4906-bc06-a7fe0bfc9a84
 builder:
+- id: 09d6abe6-0f2a-4d5f-a151-3c5c65ff9bdc
   name: Elton Boat Building Co.
-  id: 09d6abe6-0f2a-4d5f-a151-3c5c65ff9bdc
 place_built: Kirkcudbright
 construction_material: wood
 construction_method: clinker
@@ -25,24 +27,28 @@ ownerships:
 - name: John Allen
   start: 2012
   share: 64
-id: baa337ee-54d6-4c1b-86b9-1c3713d80ad1
+image_key: qLxTCV
 handicap_data:
   thcf: 0.807537917
   beam: 2.1336
   draft: 0.6096
   fore_triangle_height: 5.4864667154352595
   fore_triangle_base: 2.43842965130456
-  length_over_all: 5.4864667154352595
+  length_on_deck: 5.4864
+  length_on_waterline: 4.87685930260912
   propellor:
     type: fixed
+  topsail:
+    luff: 1.1186296025359668
+    perpendicular: 1.21921482565228
+  length_over_all: 5.4864667154352595
   main:
     foot: 3.4046574006339916
     head: 2.8194342843208973
     luff: 2.996220434040478
-  topsail:
-    luff: 1.1186296025359668
-    perpendicular: 1.21921482565228
-  length_on_waterline: 4.87685930260912
-  length_on_deck: 5.4864
 created_at: '2020-04-25T17:14:50.824998+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: baa337ee-54d6-4c1b-86b9-1c3713d80ad1
+year_of_build:
+  approx: false
+  value: 1993
+updated_at: '2026-08-26'
