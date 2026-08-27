@@ -46,8 +46,6 @@ html2md = MyMarkdownConverter(wrap=True, escape_asterisks=False, sub_symbol='^',
 
 omitFields = ['price','update_id', 'thumb', 'updated_at']
 
-htmlFields = ['short_description', 'full_description', 'sales_text']
-
 topLevelFields = [
   'name',
   'oga_no',
@@ -185,14 +183,18 @@ def falsy(v):
     return True
   return False
 
-def toMarkdown(html):
+def to_markdown(html):
   return MD(html2md.convert(html).strip())
+
+def convert_html(r, fields):
+  for field in fields:
+    if field in r:
+      r[field] = to_markdown(r[field])
+  return r
 
 def map_for_sale(fs):
   r = {k: v for k, v in fs.items() if not falsy(v)}
-  if 'sales_text' in r:
-    r['sales_text'] = toMarkdown(r['sales_text'])
-  return r
+  return convert_html(r,['sales_text', 'summary'])
 
 def augment_from_pickers(boat, pickers):
   n = {}
@@ -212,9 +214,7 @@ def map_boat(item, pickers):
   boat = {k: v for k, v in item.items() if not falsy(v) and k not in omitFields}
   if 'ownerships' in boat:
     boat['ownerships'] = ownerships(boat['ownerships'])
-  for field in htmlFields:
-    if field in boat:
-      boat[field] = toMarkdown(boat[field])
+  boat = convert_html(boat, ['short_description', 'full_description'])
   if 'for_sales' in boat:
     boat['for_sales'] = [map_for_sale(fs) for fs in boat['for_sales']]
   if 'design_class' in boat:
