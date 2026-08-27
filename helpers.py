@@ -304,9 +304,13 @@ def isHtml(s):
   return False
 
 def mapHtmlField(k, v, htmlFields):
-  if k in htmlFields and not isHtml(v):
-    return md2html.convert(v)
-  return v
+  if v is None:
+    return v
+  if isHtml(v):
+    return v
+  if k not in htmlFields:
+    return v
+  return md2html.convert(v)
 
 def mapHtmlFields(d, htmlFields):
   return {k:mapHtmlField(k,v, htmlFields) for (k,v) in d.items()}
