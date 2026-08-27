@@ -301,7 +301,7 @@ def isHtml(s):
     return True
   return False
 
-def mapHtmlField(k, v, htmlfields):
+def mapHtmlField(k, v, htmlFields):
   if k in htmlFields and not isHtml(v):
     return md2html.convert(v)
   return v
