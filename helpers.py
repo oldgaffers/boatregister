@@ -308,6 +308,8 @@ def mapHtmlField(k, v, htmlFields):
     return v
   if isHtml(v):
     return v
+  if v is None:
+    return None
   return md2html.convert(v)
 
 def mapHtmlFields(d, htmlFields):
