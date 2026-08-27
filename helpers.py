@@ -283,6 +283,8 @@ def emptyif(o, k):
   return {}
 
 def isHtml(s):
+  if s is None:
+    return False
   if '<a href' in s:
     return True
   if '<div>' in s:
