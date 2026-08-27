@@ -153,6 +153,9 @@ handicapFields = [
   'topsail',  
 ]
 
+salesHtmlFields = ['sales_text', 'summary']
+tlHtmlFields = ['short_description', 'full_description']
+
 def map_handicap_data(b):
   boat = {**b}
   if 'handicap_data' in boat:
@@ -194,7 +197,7 @@ def convert_html(r, fields):
 
 def map_for_sale(fs):
   r = {k: v for k, v in fs.items() if not falsy(v)}
-  return convert_html(r,['sales_text', 'summary'])
+  return convert_html(r, salesHtmlFields)
 
 def augment_from_pickers(boat, pickers):
   n = {}
@@ -214,7 +217,7 @@ def map_boat(item, pickers):
   boat = {k: v for k, v in item.items() if not falsy(v) and k not in omitFields}
   if 'ownerships' in boat:
     boat['ownerships'] = ownerships(boat['ownerships'])
-  boat = convert_html(boat, ['short_description', 'full_description'])
+  boat = convert_html(boat, tlHtmlFields)
   if 'for_sales' in boat:
     boat['for_sales'] = [map_for_sale(fs) for fs in boat['for_sales']]
   if 'design_class' in boat:
@@ -298,16 +301,16 @@ def isHtml(s):
     return True
   return False
 
-def mapHtmlField(k, v):
+def mapHtmlField(k, v, htmlfields):
   if k in htmlFields and not isHtml(v):
     return md2html.convert(v)
   return v
 
-def mapHtmlFields(d):
-  return {k:mapHtmlField(k,v) for (k,v) in d.items()}
+def mapHtmlFields(d, htmlFields):
+  return {k:mapHtmlField(k,v, htmlFields) for (k,v) in d.items()}
 
 def process_html(boat):
-  r = mapHtmlFields(boat)
+  r = mapHtmlFields(boat, tlHtmlFields)
   if 'for_sales' in boat:
-    r['for_sales'] = [mapHtmlFields(fs) for fs in boat['for_sales']]
+    r['for_sales'] = [mapHtmlFields(fs, salesHtmlFields) for fs in boat['for_sales']]
   return r
