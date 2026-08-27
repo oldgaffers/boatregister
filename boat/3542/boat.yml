@@ -31,9 +31,10 @@ construction_material: wood
 spar_material: wood
 construction_method: carvel
 construction_details: oak frames, larch planking
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2025-10-10T11:17:41.437Z'
+  asking_price: 1150
   sales_text: |-
     Offers accepted  
     17-ft classic gaff sloop built 1920 - 30s. Wooden hull, carvel built, larch on
@@ -50,8 +51,11 @@ for_sales:
     View by arrangement on hard at Brough, East Riding (premises belonging to Humber
     Yawl Club).
   flexibility: normal
-  asking_price: 1150
   reduced: true
+  date_sold: '2026-08-27T09:31:34.699Z'
+  summary: <div><!--block-->sold to fellow member of Humber Yawl Club. OGA membership
+    recommended. Final price not known</div>
+  sale_price: 1150
 - asking_price: 4950
   created_at: '2024-05-06T20:11:38.844Z'
   date_sold: '2024-05-06T20:11:38.844Z'
@@ -96,15 +100,14 @@ ownerships:
 - member: 6604
   id: 35026
   start: 2015
-  end: 2024
+  end: 2026
   share: 64
-  current: true
 image_key: SKXGcb
 handicap_data:
   beam: 1.981
   draft: 1.524
   length_on_deck: 5.182
   length_on_waterline: 5.182
-lastModified: '2026-06-11T14:31:51Z'
+lastModified: '2026-07-31T09:45:31Z'
 year_of_build: {}
-updated_at: '2026-07-31'
+updated_at: '2026-08-27'
