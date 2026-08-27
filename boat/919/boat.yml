@@ -1,6 +1,7 @@
 name: Onward of Ito
 oga_no: 919
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -13,16 +14,13 @@ full_description: |-
   Converted to a yacht following her early fishing career, she underwent a big
   restoration by Traditional Sail in 2000.
 
-
   Her early fascinating history is told in a Classic Boat article published 1993.
-
 
   She has been extremely well maintained and changed hands in 2019. She is a
   well-known little gaffer having cruised the Solent and English Channel in OGA
   events for many years. Once owned by Norman Gaches, who spent five years on
   restoration in the 1980s, many Solent OGA members may remember she remained
   “Norman’s Boat” even after Martyn Jenkins bought her around 1989/1990.
-
 
   In 2019 her new owner moved her to Greenwich on the River Thames.
 year: 1923
@@ -42,8 +40,37 @@ spar_material: wood
 construction_method: carvel
 previous_names:
 - Onward
-selling_status: not_for_sale
+selling_status: for_sale
 for_sales:
+- created_at: '2026-08-27T15:20:01.761Z'
+  sales_text: |-
+    An original Itchen Ferry Boat, Converted to yacht 1930
+
+     LOA 7.47 m, LWL 7.31m, Max width 2.70m, Draft 1.20m. Long keel with 3 ton Lead 
+    with 3.65m Bow sprit,
+
+    Designed by Joe White 1921. Built in 1923 by WR Mollett at The Dispatch Motor
+    and Lifeboat Co Southampton.
+
+    She’s all wood with oak ribs and well preserved pine planking, with full red
+    sailing rig, folding three blade prop and Bow thruster. Engine Yanmar 2GM20. 
+    She has been well maintained and is in excellent condition.
+
+    Celebrating her 100th year 2023 she successfully sailed around Britain.  
+    The interior is in very good condition with three bunks, Gas cooker, fridge,
+
+     navigation table and  Baby Blake toilet.  She has good storage space under
+    bunks and sides and forward storage space for sails fenders and inflatable
+    dingy.
+
+    A full article of her history was published in Classic Boat  June 1993
+
+    Currently birthed at Greenwich Yacht Club.
+
+    Contact Martin Goodrich 07956801755    
+    martin,g394@gmail.com
+  flexibility: normal
+  asking_price: 11500
 - created_at: '2019-12-19T17:18:34+00:00'
   flexibility: normal
   reduced: false
@@ -54,15 +81,12 @@ for_sales:
     immaculate, it is easy to see that she has been extremely well maintained over
     the years.
 
-
     "Onward of Ito" is a well-known local gaffer having cruised the Solent and
     English Channel for 40 years or so. Once owned by Norman Gaches, who spent five
     years on restoration in the 1980s, many Solent OGA members may remember she
     remained “Norman’s Boat" even after Martyn Jenkins bought her around 1989/1990.
 
-
     Available for inspection in Yarmouth, Isle of Wight.
-
 
     For more details see [Waypoint Yacht
     Brokers](http://www.waypoint-yachtbrokers.co.uk/boat_for_sale/1472696/).
@@ -72,35 +96,29 @@ home_port: Greenwich
 hull_form: long keel deep forefoot
 sail_number: '919'
 ownerships:
-- name: ''
-  start: 1953
+- start: 1953
   end: 1971
   share: 64
   note: 1953-1971 owned by Lt.Cdr A.G.Scadding at Wooton Creek
   text: owned by Lt.Cdr A.G.Scadding at Wooton Creek
-- name: ''
-  start: 1953
+- start: 1953
   end: 1971
   note: 1953-1971 owned by Lt.Cdr A.G.Scadding at Wooton Creek
   text: owned by Lt.Cdr A.G.Scadding at Wooton Creek
-- name: ''
-  start: 1972
+- start: 1972
   end: 2098
   note: 1972-198? owned by I D Hodgson, at Wooton Creek
   text: owned by I D Hodgson, at Wooton Creek
-- name: ''
-  start: 1972
+- start: 1972
   end: 2098
   share: 64
   note: 1972-198? owned by I D Hodgson, at Wooton Creek
   text: owned by I D Hodgson, at Wooton Creek
-- name: ''
-  start: 1980
+- start: 1980
   note: Martin Jenkins owned 'Onward of Ito' in the 1980s and so too the renowned
     woodcarver Norman Gaches.
   text: Martin Jenkins owned 'Onward of Ito' in the
-- name: ''
-  start: 1980
+- start: 1980
   share: 64
   note: Martin Jenkins owned 'Onward of Ito' in the 1980s and so too the renowned
     woodcarver Norman Gaches.
@@ -136,6 +154,9 @@ handicap_data:
     measured_rating: 20.501056572237115
     thcf: 0.932
 created_at: '2020-04-25T16:57:11.167441+00:00'
-mmsi: '232023056'
 id: 87f7b5e0-6cf2-4ea2-a3b7-c8d78671df89
-updated_at: '2024-10-10'
+mmsi: '232023056'
+lastModified: '2024-10-10T13:30:53Z'
+year_of_build:
+  value: 1923
+updated_at: '2026-08-27'
