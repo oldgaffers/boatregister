@@ -1,20 +1,23 @@
 name: Velsia
 oga_no: 445
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 year: 1890
 year_is_approximate: false
 designer:
-  name: Colin Archer
+- name: Colin Archer
   id: 7e919cb2-8404-432d-a57a-3b17cfd38e60
 builder:
-  name: Colin Archer
+- name: Colin Archer
   id: e5fbb6a7-3d4c-4822-b5a6-3e1f1ff28278
 place_built: Larvik, Norway
 construction_material: wood
+previous_names:
+- Noreg II
+- Fantom
 selling_status: not_for_sale
-for_sales: []
 hull_form: long keel sloping forefoot
 uk_part1: '168445'
 ownerships:
@@ -22,33 +25,39 @@ ownerships:
   start: 1951
   end: 2012
   share: 32
-- id: 56
-  member: 1321
+- member: 1321
+  id: 56
   start: 2012
   share: 32
   current: true
-id: fb09a8c0-c037-4ed2-97d6-ed7ee25cf8c6
 image_key: Hq4pqm
 handicap_data:
-  thcf: 1.046646861
-  beam: 3.3528
+  thcf: 1.047
+  beam: 3.353
   draft: 1.777
-  fore_triangle_height: 10.195683979517192
-  fore_triangle_base: 7.300048768593025
-  length_over_all: 10.820531577663983
+  fore_triangle_height: 10.196
+  fore_triangle_base: 7.3
+  length_on_deck: 10.82
+  length_on_waterline: 9.936
   propellor:
     type: folding
-  main:
-    foot: 6.370397464033162
-    head: 5.00487685930261
-    luff: 6.452694464764692
   topsail:
-    luff: 7.437210436478907
-    perpendicular: 3.1791026578883197
-  length_on_waterline: 9.936600829066082
-  length_on_deck: 10.8204
+    luff: 7.437
+    perpendicular: 3.179
+  length_over_all: 10.82
+  main:
+    foot: 6.37
+    head: 5.005
+    luff: 6.453
+  last_modified: '2026-08-27T15:05:24.442Z'
+  solent:
+    hull_shape: Long keel - Standard
+    measured_rating: 29.91617082017521
+    thcf: 1.054
+  displacement: 12400
 created_at: '2020-04-25T16:49:05.079465+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Noreg II
-- Fantom
+id: fb09a8c0-c037-4ed2-97d6-ed7ee25cf8c6
+lastModified: '2024-02-05T18:34:30Z'
+year_of_build:
+  value: 1890
+updated_at: '2026-08-27'
