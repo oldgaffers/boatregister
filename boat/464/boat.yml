@@ -1,15 +1,16 @@
 name: Peggy
 oga_no: 464
+generic_type: []
 rig_type: Cutter
 mainsail_type: gaff
 year: 1908
 year_is_approximate: false
 designer:
+- id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
   name: Crossfield
-  id: af328612-7ac5-4aa8-b1fb-a5a9e8620ef0
 builder:
+- id: 1490f054-b323-4ef5-961c-9026f880c340
   name: Crossfield Bros.
-  id: 1490f054-b323-4ef5-961c-9026f880c340
 place_built: Arnside
 construction_material: wood
 construction_method: carvel
@@ -25,24 +26,28 @@ ownerships:
 - name: David Lowe
   start: 1997
   share: 64
-id: e11fe14f-e407-4ae6-9fed-ad1e47551ca0
+image_key: krNCsn
 handicap_data:
   thcf: 1.001422316
   beam: 3.5052
   draft: 1.524
   fore_triangle_height: 11.277737137283589
   fore_triangle_base: 7.924896366739819
-  length_over_all: 10.66812972445745
+  length_on_deck: 10.668
+  length_on_waterline: 9.44891489880517
   propellor:
     type: fixed
+  topsail:
+    luff: 4.87685930260912
+    perpendicular: 1.066812972445745
+  length_over_all: 10.66812972445745
   main:
     foot: 5.4864667154352595
     head: 4.87685930260912
     luff: 4.724457449402585
-  topsail:
-    luff: 4.87685930260912
-    perpendicular: 1.066812972445745
-  length_on_waterline: 9.44891489880517
-  length_on_deck: 10.668
 created_at: '2020-04-25T16:49:21.190924+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: e11fe14f-e407-4ae6-9fed-ad1e47551ca0
+year_of_build:
+  approx: false
+  value: 1908
+updated_at: '2026-09-01'
