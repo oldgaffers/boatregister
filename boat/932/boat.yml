@@ -1,35 +1,39 @@
 name: Sheena
 oga_no: 932
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Full history available Log 91/1, 92/1, A-W/94,S-S/95,Sep/97, Nov/97,
-  Mar/98, Sep/98, Dec/98  Amerami Association - Contact name Jacques Chauveau.  She
-  is easily distinguished by her very low flat hull with its distinctive square counter.  She
-  was designed by Dyevre and built by Senocal at Los Mureaux in 1916 as a bermudan
-  sloop believed to be to the French 8.5 metric rating, and called Lola.  Built of
-  pine on oak frames with all her 14 cwt. ballast on the keel, she came to England
-  in 1923 to be sailed with the Island Yacht Club on the Isle of Wight.  By 1925 she
-  was based at Orford and had acquired her present name.  She has had many owners
-  since, moving down the coast in the process, till she was converted to her present
-  gaff cutter rig in 1978 by Derek Lawrence at Maldon.  She has been owned by Kevin
-  since that time and he has established a comprehensive history of her and raced
-  very successfully against all comers.
+full_description: |-
+  Full history available Log 91/1, 92/1, A-W/94,S-S/95,Sep/97, Nov/97, Mar/98,
+  Sep/98, Dec/98 Amerami Association - Contact name Jacques Chauveau. She is
+  easily distinguished by her very low flat hull with its distinctive square
+  counter. She was designed by Dyevre and built by Senocal at Los Mureaux in 1916
+  as a bermudan sloop believed to be to the French 8.5 metric rating, and called
+  Lola. Built of pine on oak frames with all her 14 cwt. ballast on the keel, she
+  came to England in 1923 to be sailed with the Island Yacht Club on the Isle of
+  Wight. By 1925 she was based at Orford and had acquired her present name. She
+  has had many owners since, moving down the coast in the process, till she was
+  converted to her present gaff cutter rig in 1978 by Derek Lawrence at Maldon.
+  She has been owned by Kevin since that time and he has established a
+  comprehensive history of her and raced very successfully against all comers.
 year: 1916
 year_is_approximate: false
 designer:
+- id: b3d30935-b34f-426f-98b8-e76ed693c918
   name: L. Dyevre
-  id: b3d30935-b34f-426f-98b8-e76ed693c918
 design_class:
   name: 7.5 Metre
   id: 64dc772d-965c-444e-b898-61babe2767cf
 builder:
+- id: baeb347d-f0d3-46d2-a91c-3611636b5b96
   name: A. Senecal
-  id: baeb347d-f0d3-46d2-a91c-3611636b5b96
 place_built: Les Mureaux
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel pine on oak
+previous_names:
+- Chiquita      Lola
 selling_status: not_for_sale
 for_sales: []
 home_port: Mayland
@@ -47,24 +51,26 @@ ownerships:
 - name: Amerami Association
   start: 2012
   share: 64
-id: d9955573-cacd-43b3-a726-982ef678eadc
+image_key: Wwm5N8
 handicap_data:
   thcf: 0.967662312
   beam: 2.286
   draft: 1.3716
   fore_triangle_height: 7.415874177029992
   fore_triangle_base: 4.419653742989515
+  length_on_deck: 8.5344
+  length_on_waterline: 7.162887100707144
+  topsail:
+    luff: 4.74884174591563
+    perpendicular: 1.9812240916849548
   length_over_all: 8.53450377956596
   main:
     foot: 4.87685930260912
     head: 4.44403803950256
     luff: 4.419653742989515
-  topsail:
-    luff: 4.74884174591563
-    perpendicular: 1.9812240916849548
-  length_on_waterline: 7.162887100707144
-  length_on_deck: 8.5344
 created_at: '2020-04-25T16:57:21.722972+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Chiquita      Lola
+id: d9955573-cacd-43b3-a726-982ef678eadc
+year_of_build:
+  approx: false
+  value: 1916
+updated_at: '2026-09-01'
