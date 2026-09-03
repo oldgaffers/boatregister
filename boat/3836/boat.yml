@@ -23,6 +23,12 @@ construction_method: clinker_ply
 home_country: UK
 home_port: Somerset
 hull_form: centre-boarder
+ownerships:
+- member: 6050
+  id: 911
+  start: 2026
+  share: 64
+  current: true
 image_key: rKfZCR
 handicap_data:
   thcf: 0.727
@@ -32,11 +38,14 @@ handicap_data:
   length_on_waterline: 3.353
   propellor:
     type: none
+  last_modified: '2026-09-02T15:47:52.633Z'
   main:
-    luff: 2.149
     foot: 2.847
     head: 2.658
-  last_modified: '2026-09-02T15:47:52.633Z'
-hin: '189'
+    luff: 2.149
 air_draft: 4.206
-updated_at: '2026-09-02'
+hin: '189'
+lastModified: '2026-09-02T15:49:39Z'
+year_of_build:
+  value: 2026
+updated_at: '2026-09-03'
