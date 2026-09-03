@@ -1,16 +1,17 @@
 name: Aquarius
 oga_no: 2252
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Sloop
 mainsail_type: gaff
 year: 1997
 year_is_approximate: false
 designer:
+- id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
   name: Andrew Wolstenholme
-  id: ef8240d6-ca0a-4acb-bae8-3592df7703d4
 builder:
+- id: 8a82d415-d993-42f4-bff3-59b0e583cc3b
   name: Kenny Anderson
-  id: 8a82d415-d993-42f4-bff3-59b0e583cc3b
 place_built: Darlington
 construction_material: wood
 construction_method: clinker
@@ -23,19 +24,23 @@ ownerships:
 - name: Howard Morgan
   start: 2006
   share: 64
-id: 23b0e063-0d23-444b-855b-761e8aecec83
+image_key: hjSs8n
 handicap_data:
   thcf: 0.730726748
   beam: 1.5758
   draft: 0.1524
   fore_triangle_height: 3.1608144355035352
   fore_triangle_base: 0.8900268227261643
+  length_on_deck: 3.7582
+  length_on_waterline: 3.6820287734698853
   length_over_all: 3.758229700073153
   main:
     foot: 2.6426481346013166
     head: 2.7676176542306754
     luff: 1.5240185320653499
-  length_on_waterline: 3.6820287734698853
-  length_on_deck: 3.7582
 created_at: '2020-04-25T17:17:14.896712+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 23b0e063-0d23-444b-855b-761e8aecec83
+year_of_build:
+  approx: false
+  value: 1997
+updated_at: '2026-09-02'
