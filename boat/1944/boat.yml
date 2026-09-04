@@ -1,16 +1,18 @@
 name: Lepus
 oga_no: 1944
+generic_type: []
 rig_type: Sloop
 mainsail_type: gaff
-full_description: Owns Ladybird
+full_description: |-
+  Owns Ladybird
 year: 1980
 year_is_approximate: false
 designer:
+- id: 1cba4dc5-eecc-4e2a-9519-694ae3e0bac9
   name: McNulty
-  id: 1cba4dc5-eecc-4e2a-9519-694ae3e0bac9
 builder:
+- id: 06695439-7dec-4f40-8ab4-3c3599ebfa84
   name: McNulty
-  id: 06695439-7dec-4f40-8ab4-3c3599ebfa84
 place_built: South Shields
 construction_material: wood
 construction_method: clinker
@@ -21,11 +23,18 @@ ownerships:
 - name: Peter Adams
   start: 1985
   share: 64
-id: c852370f-8d3e-41f1-b7c2-4a03c10b3b1b
+image_key: XTbnCj
 handicap_data:
   beam: 1.3716
-  length_over_all: 3.0480370641306997
-  length_on_waterline: 3.0480370641306997
   length_on_deck: 3.048
+  length_on_waterline: 3.0480370641306997
+  length_over_all: 3.0480370641306997
 created_at: '2020-04-25T17:12:39.337625+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: c852370f-8d3e-41f1-b7c2-4a03c10b3b1b
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  approx: false
+  value: 1980
+note: Photos uploaded to existing album with different boat name Lepus (1944); please
+  check
+updated_at: '2026-09-04'
