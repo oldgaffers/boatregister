@@ -10,14 +10,14 @@ full_description: |-
 year: 1993
 year_is_approximate: false
 designer:
-- id: b73cc020-dae7-4e31-a517-60f7d8731aaa
-  name: Stanley Goldman
+- name: Stanley Goldman
+  id: b73cc020-dae7-4e31-a517-60f7d8731aaa
 design_class:
   name: Oystercatcher 16
   id: 3afef302-57fe-49ab-bfb8-f7d0ea978a37
 builder:
-- id: 2a625108-bef9-404e-bf02-4aad488efa47
-  name: Mayfly Classic Boats
+- name: Mayfly Classic Boats
+  id: 2a625108-bef9-404e-bf02-4aad488efa47
 place_built: Gweek
 construction_material: grp
 spar_material: wood
@@ -28,11 +28,6 @@ ownerships:
 - name: D P Miller
   start: 1993
   share: 64
-- member: 6838
-  id: 35338
-  start: '2019'
-  share: 64
-  current: true
 image_key: 5VC6SB
 handicap_data:
   thcf: 0.79483832
@@ -58,6 +53,6 @@ handicap_data:
 created_at: '2020-04-25T17:11:05.935055+00:00'
 id: a291ead0-4b06-40d9-a75f-ae53db079311
 year_of_build:
-  approx: false
   value: 1993
+lastModified: '2026-09-07T15:12:07Z'
 updated_at: '2026-09-07'
