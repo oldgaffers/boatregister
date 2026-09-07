@@ -1,6 +1,7 @@
 name: Oystercatcher
 oga_no: 1845
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 full_description: |-
@@ -9,14 +10,14 @@ full_description: |-
 year: 1993
 year_is_approximate: false
 designer:
-- name: Stanley Goldman
-  id: b73cc020-dae7-4e31-a517-60f7d8731aaa
+- id: b73cc020-dae7-4e31-a517-60f7d8731aaa
+  name: Stanley Goldman
 design_class:
   name: Oystercatcher 16
   id: 3afef302-57fe-49ab-bfb8-f7d0ea978a37
 builder:
-- name: Mayfly Classic Boats
-  id: 2a625108-bef9-404e-bf02-4aad488efa47
+- id: 2a625108-bef9-404e-bf02-4aad488efa47
+  name: Mayfly Classic Boats
 place_built: Gweek
 construction_material: grp
 spar_material: wood
@@ -32,6 +33,7 @@ ownerships:
   start: '2019'
   share: 64
   current: true
+image_key: 5VC6SB
 handicap_data:
   thcf: 0.79483832
   beam: 2.03
@@ -55,4 +57,7 @@ handicap_data:
     luff: 3.149
 created_at: '2020-04-25T17:11:05.935055+00:00'
 id: a291ead0-4b06-40d9-a75f-ae53db079311
-updated_at: '2025-05-15'
+year_of_build:
+  approx: false
+  value: 1993
+updated_at: '2026-09-07'
