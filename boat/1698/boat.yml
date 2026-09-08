@@ -1,20 +1,22 @@
 name: My Ningi
 oga_no: 1698
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
-short_description: Found in a sad state in 2023
+short_description: |-
+  Found in a sad state in 2023
 year: 1987
 year_is_approximate: false
 designer:
+- id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
   name: David Thomas
-  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 design_class:
   name: Hunter Minstrel
   id: 55b03d72-c570-40b6-b304-a2bfb71b835c
 builder:
+- id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
   name: Hunter Boats Ltd.
-  id: 76ac766b-618f-4b75-a0a1-a163b7170bd7
 place_built: Rochford Essex
 construction_material: grp
 construction_details: G R P mouldings
@@ -29,6 +31,7 @@ ownerships:
   start: 1994
   end: 2023
   share: 64
+image_key: m9xwGv
 handicap_data:
   thcf: 0.838
   beam: 2.225
@@ -39,13 +42,18 @@ handicap_data:
   length_on_waterline: 5.822
   propellor:
     type: fixed
+  displacement: 1043
   main:
-    luff: 3.682
     foot: 3.353
     head: 2.691
-  displacement: 1043
+    luff: 3.682
   solent:
     hull_shape: Long keel - High volume
     measured_rating: 20.290121955859
     thcf: 0.93
 id: 8517d53b-d175-4ef8-bcc2-f39e4a879a69
+lastModified: '2023-08-30T13:22:06Z'
+year_of_build:
+  approx: false
+  value: 1987
+updated_at: '2026-09-08'
