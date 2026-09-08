@@ -1,31 +1,36 @@
 name: Cariad of London
 oga_no: 965
+generic_type: []
 rig_type: Cutter
 mainsail_type: gaff
 year: 1904
 year_is_approximate: false
 designer:
+- id: 4df1507d-c01d-4e1e-950b-f2a6f875369f
   name: E. Rowles
-  id: 4df1507d-c01d-4e1e-950b-f2a6f875369f
 builder:
+- id: ff6045c3-b7bd-49c9-826a-03c628da0cf1
   name: E. Rowles
-  id: ff6045c3-b7bd-49c9-826a-03c628da0cf1
 place_built: Pill
 construction_material: wood
+previous_names:
+- Cariad
 selling_status: not_for_sale
 for_sales: []
 ownerships:
 - name: Exeter Maritime Museum
   start: 2012
   share: 64
-id: 1666cecb-e14a-4da1-8fd5-285ef3c66b37
+image_key: 5L72GW
 handicap_data:
   beam: 3.81
   draft: 2.225
-  length_over_all: 14.478176054620823
-  length_on_waterline: 12.801755669348939
   length_on_deck: 14.478
+  length_on_waterline: 12.801755669348939
+  length_over_all: 14.478176054620823
 created_at: '2020-04-25T16:57:51.640753+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Cariad
+id: 1666cecb-e14a-4da1-8fd5-285ef3c66b37
+year_of_build:
+  approx: false
+  value: 1904
+updated_at: '2026-09-08'
