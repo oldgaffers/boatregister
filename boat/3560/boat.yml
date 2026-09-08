@@ -1,16 +1,16 @@
 name: Gimlet
 oga_no: 3560
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: None
 mainsail_type: none
 short_description: |-
   A clinker ply rowing dinghy designed by Iain Oughtred.  Two rowing positions and
   a passenger seat.
 full_description: |-
-  Built by Andy Skentelbery as a tender for his schooner. Her current owner
-  purchased her  in 2016, and added custom length oars and a custom trailer/
-  trolly combination. Rows beautifully.
-
+  Built by Andy Skentelbery as a tender for his schooner. Her next owner purchased
+  added custom length oars and a custom trailer/ trolley combination. Rows
+  beautifully.
 
   She has a galvanised custom trailer/trolly.
 year: 2016
@@ -21,7 +21,7 @@ design_class:
 construction_material: woodepoxy
 spar_material: other
 construction_method: clinker_ply
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2021-05-08T15:34:46.282712+00:00'
   asking_price: 2400
@@ -34,6 +34,10 @@ for_sales:
   seller_gold_id: 819
   seller_member: 5883
   updated_at: '2021-05-08T15:34:46.282712+00:00'
+  date_sold: '2026-09-08T14:14:46.088Z'
+  sale_price: 1
+  summary: |-
+    Given to Sea scouts after being for sale without interest for a year
 home_country: GBR
 home_port: Totnes
 hull_form: dinghy
@@ -41,14 +45,22 @@ ownerships:
 - member: 5883
   id: 819
   start: '2016'
+  end: 2026
+  share: 64
+- name: Totness Sea Scouts
+  start: 2026
   share: 64
   current: true
 image_key: 7xFDM4
 handicap_data:
-  beam: 2.438
-  draft: 1.372
-  length_on_deck: 9.144
-  length_on_waterline: 8.534
+  beam: 1.219
+  draft: 0.305
+  length_on_deck: 4.572
+  length_on_waterline: 4.267
 created_at: '2021-05-08T12:18:08.467021+00:00'
 id: 3ed998cc-4a78-42b2-9793-5de1511aa88a
-updated_at: '2025-07-29'
+lastModified: '2025-07-29T20:20:43Z'
+year_of_build:
+  approx: true
+  value: 2016
+updated_at: '2026-09-08'
