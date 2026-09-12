@@ -1,6 +1,7 @@
 name: Quemoy
 oga_no: 2977
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
 mainsail_type: gaff
 short_description: |-
@@ -14,7 +15,6 @@ full_description: |-
   restored with a new cabin and a ketch rig by a Royal Engineer. She remained in
   Kent until she was found in a sorry state in the 1990s. Restoration was started
   but was discontinued.
-
 
   In 2000 she was bought by the present owner who returned her to the Isle of
   Wight. Between 2000 and 2010 she was substantially re-built as a day boat by
@@ -39,6 +39,7 @@ ownerships:
   start: 2012
   share: 64
   current: true
+image_key: tr7KsK
 handicap_data:
   thcf: 0.867865076
   beam: 1.829
@@ -54,3 +55,7 @@ handicap_data:
     luff: 3.048
 created_at: '2020-04-25T17:33:29.136584+00:00'
 id: 52f0f2a0-4cd6-4db3-b617-7bcc4c0ca9d3
+year_of_build:
+  approx: true
+  value: 1910
+updated_at: '2026-09-12'
