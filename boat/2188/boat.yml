@@ -32,7 +32,7 @@ builder:
 place_built: Dartmouth
 construction_material: wood
 construction_details: Larch on oak
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2026-08-12T15:32:45.072Z'
   asking_price: 11750
@@ -50,6 +50,10 @@ for_sales:
     varnished. She is ready to sail, currently lying on her mooring off Seaview,
     Isle of Wight.
   flexibility: normal
+  date_sold: '2026-09-12T16:23:29.498Z'
+  sale_price: 11500
+  summary: |-
+    Final Price not known
 home_port: Bembridge
 ownerships:
 - name: Pete Nash
@@ -59,13 +63,13 @@ ownerships:
 - member: 4052
   id: 373
   start: '2000'
+  end: 2026
   share: 64
-  current: true
 - member: 5507
   id: 665
   start: '2012'
+  end: 2026
   share: 32
-  current: true
 image_key: 5Wz4pC
 handicap_data:
   thcf: 0.945
@@ -86,7 +90,7 @@ handicap_data:
     luff: 3.81
 created_at: '2020-04-25T17:16:18.784842+00:00'
 id: 9b77d26b-2b25-4ebe-83ac-dbc5d3b23017
-lastModified: '2026-08-12T16:21:10Z'
+lastModified: '2026-08-13T13:39:26Z'
 year_of_build:
   value: 1994
-updated_at: '2026-08-13'
+updated_at: '2026-09-12'
