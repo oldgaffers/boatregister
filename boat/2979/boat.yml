@@ -1,17 +1,20 @@
 name: Creekability II
 oga_no: 2979
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: <p>Modern 22&nbsp;ft Gaff Cutter made by Cornish Crabbers</p>
+short_description: |-
+  Modern 22 ft Gaff Cutter made by Cornish Crabbers
 year: 2013
 year_is_approximate: false
 designer:
+- id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
   name: David Thomas
-  id: ac488ef8-79bc-4676-b24a-1efd01e44ddf
 design_class:
   name: Cornish Crabber 22
   id: f0555610-6fc8-4dce-a587-d90c2a7cbc72
+builder: []
 place_built: Rock
 construction_material: grp
 construction_details: GRP
@@ -21,27 +24,31 @@ home_country: GBR
 home_port: Beaulieu
 hull_form: long keel deep forefoot
 ownerships:
-- start: 2012
-  share: 64
+- member: 5399
   id: 35195
-  member: 5399
-id: 6b291161-f422-45ce-8428-f9b2f63def2a
+  start: 2012
+  share: 64
+image_key: vjKcm5
 handicap_data:
   thcf: 0.856837255
   beam: 2.5146
   draft: 0.7102
   fore_triangle_height: 5.358449158741769
   fore_triangle_base: 3.3528407705437697
-  length_over_all: 6.705681541087539
+  length_on_deck: 6.7056
+  length_on_waterline: 6.300292611558157
   propellor:
-    type: fixed
     blades: 3
+    type: fixed
+  draft_keel_down: 1.5240185320653499
+  length_over_all: 6.705681541087539
   main:
     foot: 3.886247256766642
     head: 3.5296269202633503
     luff: 4.57205559619605
-  draft_keel_down: 1.5240185320653499
-  length_on_waterline: 6.300292611558157
-  length_on_deck: 6.7056
 created_at: '2020-04-25T17:33:31.262396+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 6b291161-f422-45ce-8428-f9b2f63def2a
+year_of_build:
+  approx: false
+  value: 2013
+updated_at: '2026-09-13'
