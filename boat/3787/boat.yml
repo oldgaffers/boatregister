@@ -20,14 +20,24 @@ construction_material: grp
 spar_material: wood
 construction_method: clinker
 construction_details: GRP
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2025-09-12T13:41:22.223Z'
   asking_price: 15000
   sales_text: |-
-    Superb condition, little  & light use, fresh water only. Wintered under cover since new. Loa 17’, beam 6’2””, draft 10”” or 3’10” with centre board down, displacement 1320lbs/650k. Sturdy simulated white hull with blue top strake, cream interior, varnished spruce spars (mast, boom & gaff) , hardwood slatted seat battens , tan sails, Spirit electric outboard (as new/boxed), Indespension road trailer and full inventory incl 3 covers, owners manual, oars, paddle etc . Currently sited undercover.
+    Superb condition, little  & light use, fresh water only. Wintered under cover
+    since new. Loa 17’, beam 6’2””, draft 10”” or 3’10” with centre board down,
+    displacement 1320lbs/650k. Sturdy simulated white hull with blue top strake,
+    cream interior, varnished spruce spars (mast, boom & gaff) , hardwood slatted
+    seat battens , tan sails, Spirit electric outboard (as new/boxed), Indespension
+    road trailer and full inventory incl 3 covers, owners manual, oars, paddle etc .
+    Currently sited undercover.
   flexibility: normal
   reduced: true
+  date_sold: '2026-09-14T08:31:38.428Z'
+  sale_price: 15000
+  summary: |-
+    final price not known
 home_country: UK
 home_port: Stewartby
 hull_form: centre-board dinghy
@@ -36,13 +46,15 @@ ownerships:
 - member: 6869
   id: 35379
   start: '2000'
+  end: 2026
   share: 64
-  current: true
 image_key: tWsjR7
 handicap_data:
   beam: 1.5
   draft: 0.305
   length_on_deck: 4.395
   length_on_waterline: 4.115
-lastModified: '2025-09-20T15:53:27Z'
-updated_at: '2025-11-14'
+lastModified: '2025-11-14T15:11:58Z'
+year_of_build:
+  value: 1996
+updated_at: '2026-09-14'
