@@ -3,8 +3,8 @@ oga_no: 1091
 generic_type: Yacht
 rig_type: Sloop
 mainsail_type: gaff
-full_description: "Handicap with dipping lug 0.821 (H 10.17, G 10.75, B 12.75) \r\n\
-  Second rig, sprit sloop, mast in mid thwart, lug yard as sprit, jib, T(H)CF 0.799"
+full_description: |-
+  Handicap with dipping lug 0.821 (H 10.17, G 10.75, B 12.75) Second rig, sprit sloop, mast in mid thwart, lug yard as sprit, jib, T(H)CF 0.799
 year: 1978
 year_is_approximate: false
 designer:
@@ -22,8 +22,7 @@ selling_status: not_for_sale
 for_sales: []
 home_port: Bursledon
 ownerships:
-- member: 4150
-  id: 391
+- name: David Hopkins
   start: 1978
   end: 2002
   share: 64
@@ -34,12 +33,12 @@ handicap_data:
   draft: 0.5486
   fore_triangle_height: 4.623872226286271
   fore_triangle_base: 1.929407461594733
+  length_on_deck: 6.096
+  length_on_waterline: 5.18166300902219
   length_over_all: 6.0960741282613995
   main:
     foot: 1.777005608388198
     head: 1.5758351621555717
     luff: 3.8344306266764203
-  length_on_waterline: 5.18166300902219
-  length_on_deck: 6.096
 created_at: '2020-04-25T16:59:43.68165+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+updated_at: '2026-09-15'
