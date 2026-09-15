@@ -7,22 +7,36 @@ mainsail_type: gaff
 year: 1978
 year_is_approximate: false
 designer:
-- id: aaec4851-401d-4719-bd23-e80eb778816b
-  name: Anthony Robinson
+- name: Anthony Robinson
+  id: aaec4851-401d-4719-bd23-e80eb778816b
 design_class:
   name: Memory 19
   id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
-- id: 6a4d1c91-3bd4-4aa1-be97-30e73dc5043d
-  name: R.D. Forrest
+- name: R.D. Forrest
+  id: 6a4d1c91-3bd4-4aa1-be97-30e73dc5043d
 place_built: Waterlooville
 construction_material: grp
 spar_material: wood
 construction_details: GRP, Mahogany trim Douglas Fir spars
 previous_names:
 - Long Nanny
-selling_status: not_for_sale
-for_sales: []
+selling_status: for_sale
+for_sales:
+- created_at: '2026-09-15T17:08:09.485Z'
+  asking_price: 6000
+  sales_text: |-
+    O.N.O
+    Masts and spars in Douglas fir including 7ft bowsprit. Standing rigging
+    galvanised wire with soft eyes, hand-spliced and served traditionally.
+    Running rigging all Marlowe hardy hemp with Jacobsen's wooden shell and
+    nylon sleeves.
+    Full set of sails: main (with 2 slab reefing points), staysail, jib, storm
+    jib, topsail and genoa — all in good condition. Lifting centreplate.
+    1 YANMAR 6.5 hp inboard diesel in good condition.
+    ST instrument — depth, cockpit and mainsail cover.
+    1 anchor.
+  flexibility: normal
 home_country: GBR
 home_port: Chichester
 hull_form: centre-boarder
@@ -35,22 +49,21 @@ ownerships:
 image_key: TNVR9G
 handicap_data:
   thcf: 0.848181605
-  beam: 2.1336
-  draft: 0.5334
-  length_on_deck: 5.7912
-  length_on_waterline: 5.690685198732017
+  beam: 2.134
+  draft: 0.533
+  length_on_deck: 5.791
+  length_on_waterline: 5.691
   topsail:
-    luff: 3.6576444769568397
-    perpendicular: 1.8288222384784198
-  length_over_all: 5.7912704218483295
+    luff: 3.658
+    perpendicular: 1.829
+  length_over_all: 5.791
   main:
-    foot: 4.57205559619605
-    head: 3.2004389173372347
-    luff: 3.8100463301633747
+    foot: 4.572
+    head: 3.2
+    luff: 3.81
 created_at: '2020-04-25T16:58:43.331833+00:00'
 id: 070c50f9-0ffe-405f-8bb8-b326ec937552
-lastModified: '2023-07-08T09:18:06Z'
+lastModified: '2026-09-13T10:49:23Z'
 year_of_build:
-  approx: false
   value: 1978
-updated_at: '2026-09-13'
+updated_at: '2026-09-15'
