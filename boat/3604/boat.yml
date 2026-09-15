@@ -3,7 +3,8 @@ oga_no: 3604
 generic_type: Dinghy
 rig_type: Ketch
 mainsail_type: gaff
-short_description: She is an early example and the smallest of Laurent Giles designs.
+short_description: |-
+  She is an early example and the smallest of Laurent Giles designs.
 year: 1989
 year_is_approximate: false
 place_built: Wirral
@@ -16,8 +17,7 @@ home_port: Nottingham
 hull_form: centre-board dinghy
 sail_number: '23'
 ownerships:
-- member: 6702
-  id: 35163
+- name: John Baynes
   start: 2023
   share: 32
   current: true
@@ -32,3 +32,4 @@ handicap_data:
   draft: 0.457
   length_on_deck: 4.572
 id: 2307eca2-cc54-480c-b2cf-183680903f1e
+updated_at: '2026-09-15'
