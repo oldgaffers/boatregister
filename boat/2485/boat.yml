@@ -3,7 +3,8 @@ oga_no: 2485
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Mark 1 Cornish Crabber built in 1979
+short_description: |-
+  Mark 1 Cornish Crabber built in 1979
 year: 1979
 year_is_approximate: false
 designer:
@@ -22,21 +23,13 @@ selling_status: for_sale
 for_sales:
 - asking_price: 22500
   sales_text: |-
-    *Alice Elizabeth J*. is a Cornish Crabber mk.1 build 1979  Sail number CC 236. 
-
-    Gaff rig top sail cutter. GRP hull , teak decks. New winter and summer covers
-    2021. Yanmar 10 diesel engine. New engine mounts 2016.
-
-    Lying ashore Fareham.
-
-    Last survey 2019.
+    *Alice Elizabeth J*. is a Cornish Crabber mk.1 build 1979  Sail number CC 236.  Gaff rig top sail cutter. GRP hull , teak decks. New winter and summer covers 2021. Yanmar 10 diesel engine. New engine mounts 2016. Lying ashore Fareham. Last survey 2019.
 home_country: GBR
 home_port: Bosham
 hull_form: centre-boarder
 sail_number: '236'
 ownerships:
-- member: 4010
-  id: 366
+- name: Michael Bennett
   start: 2012
   share: 64
   current: true
@@ -63,3 +56,4 @@ handicap_data:
     luff: 3.5052426237503047
 created_at: '2020-04-25T17:21:26.318455+00:00'
 id: d2b77d63-15f4-49b1-8f40-8e996ce3c6f1
+updated_at: '2026-09-15'
