@@ -1,17 +1,19 @@
 name: Snowgoose
 oga_no: 1172
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Log 83/2
+full_description: |-
+  Log 83/2
 year: 1908
 year_is_approximate: false
 designer:
+- id: 7a6501d2-1749-49bc-a1f1-ae4b910b10ba
   name: Groves and Gutteridge
-  id: 7a6501d2-1749-49bc-a1f1-ae4b910b10ba
 builder:
+- id: b93dee5a-b357-4e31-ab95-e8d3faeb1537
   name: Groves and Gutteridge Ltd.
-  id: b93dee5a-b357-4e31-ab95-e8d3faeb1537
 place_built: Cowes
 construction_material: wood
 construction_method: carvel
@@ -26,19 +28,23 @@ ownerships:
 - name: John Fagan
   start: 2003
   share: 64
-id: 039f1acd-718f-4c33-b939-97772162f9ce
+image_key: NCX6DM
 handicap_data:
   thcf: 0.828480178
   beam: 2.286
   draft: 0.8534
   fore_triangle_height: 5.4864667154352595
   fore_triangle_base: 3.6576444769568397
+  length_on_deck: 5.4864
+  length_on_waterline: 5.18166300902219
   length_over_all: 5.4864667154352595
   main:
     foot: 3.6576444769568397
     head: 3.3528407705437697
     luff: 3.6576444769568397
-  length_on_waterline: 5.18166300902219
-  length_on_deck: 5.4864
 created_at: '2020-04-25T17:00:56.922238+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 039f1acd-718f-4c33-b939-97772162f9ce
+year_of_build:
+  approx: false
+  value: 1908
+updated_at: '2026-09-15'
