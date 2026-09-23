@@ -1,11 +1,12 @@
 name: Frances Mary
 oga_no: 3745
 generic_type:
-- Yacht
+- Gaff Cutter
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
-  Maurice Griffiths designed gaff cutter
+  Maurice Griffiths designed gaff cutter. The price is now nil if a prospective
+  owner has a pemanent mooring and is able to take her from her present berth.
 full_description: |-
   Gaff cutter with tan main and stay sails, and a cream foresail.
 year: 1999
@@ -13,6 +14,9 @@ year_is_approximate: false
 designer:
 - name: Maurice Griffiths
   id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
+builder:
+- name: Professionaly Built
+  id: ffcdc5c6-70fb-4f79-bb51-dc6e0cb002c0
 place_built: Norfolk
 spar_material: wood
 construction_method: carvel
@@ -20,6 +24,8 @@ selling_status: for_sale
 home_country: England
 home_port: Norwich
 hull_form: bilge keel
+reference:
+- Price Nil with conditions.
 ownerships:
 - member: 6801
   id: 35286
