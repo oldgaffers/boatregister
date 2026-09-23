@@ -1,22 +1,26 @@
 name: Moonflower
 oga_no: 2685
-generic_type: Smack
+generic_type:
+- Smack
 rig_type: Cutter
 mainsail_type: gaff
-full_description: Used as a pilot cutter, when clinker built, then fishing from Ramsgate
-  before being sold as a yacht in 1911, and replanked carvel.
+full_description: |-
+  Used as a pilot cutter, when clinker built, then fishing from Ramsgate before
+  being sold as a yacht in 1911, and replanked carvel.
 year: 1848
 year_is_approximate: false
 designer:
+- id: d53c2f54-ebfa-476f-9e73-2f6e805a3d6b
   name: G.W. Gill
-  id: d53c2f54-ebfa-476f-9e73-2f6e805a3d6b
 builder:
+- id: 3da81f0b-aa1c-4639-8913-5e37ac92a9cc
   name: G.W. Gill
-  id: 3da81f0b-aa1c-4639-8913-5e37ac92a9cc
 place_built: Kent
 construction_material: wood
 construction_method: carvel
 construction_details: Carvel wood epoxy
+previous_names:
+- Rose
 selling_status: not_for_sale
 for_sales: []
 home_country: NLD
@@ -26,27 +30,29 @@ ownerships:
 - name: Willem M Nauta
   start: 2012
   share: 64
-id: c69c0ae4-e996-4206-991d-5a08898751e1
+image_key: n9bmnS
 handicap_data:
   thcf: 0.998
   beam: 3.4442
   draft: 1.6459
   fore_triangle_height: 13.19800048768593
   fore_triangle_base: 7.351865398683248
-  length_over_all: 8.564984150207266
+  length_on_deck: 8.5649
+  length_on_waterline: 8.564984150207266
   propellor:
     type: fixed
   sailarea: 93.62164949511953
+  topsail:
+    luff: 7.300048768593025
+    perpendicular: 3.9990246281394777
+  length_over_all: 8.564984150207266
   main:
     foot: 5.120702267739576
     head: 6.18141916605706
     luff: 5.5992440868080955
-  topsail:
-    luff: 7.300048768593025
-    perpendicular: 3.9990246281394777
-  length_on_waterline: 8.564984150207266
-  length_on_deck: 8.5649
 created_at: '2020-04-25T17:24:29.933498+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Rose
+id: c69c0ae4-e996-4206-991d-5a08898751e1
+year_of_build:
+  approx: false
+  value: 1848
+updated_at: '2026-09-15'
