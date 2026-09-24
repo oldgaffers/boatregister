@@ -3,7 +3,8 @@ oga_no: 4114
 generic_type: Yacht
 rig_type: Cutter
 mainsail_type: gaff
-short_description: Wylo Class built in 1995
+short_description: |-
+  Wylo Class built in 1995
 year: 1995
 year_is_approximate: false
 designer:
@@ -28,8 +29,7 @@ home_port: Chichester
 sail_number: '4114'
 ssr: '113907'
 ownerships:
-- member: 4473
-  id: 461
+- name: Chris Harnan
   start: 2005
   end: 2024
   share: 64
@@ -53,3 +53,4 @@ handicap_data:
     head: 3.124
     luff: 5.817
 id: bf9cbb01-c3d0-496d-92dc-d7ec250a3003
+updated_at: '2026-09-15'
