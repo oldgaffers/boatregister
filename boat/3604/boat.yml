@@ -1,12 +1,16 @@
 name: Samphire
 oga_no: 3604
-generic_type: Dinghy
+generic_type:
+- Dayboat
 rig_type: Ketch
 mainsail_type: gaff
 short_description: |-
-  She is an early example and the smallest of Laurent Giles designs.
+  She is an early example of the smallest of Laurent Giles designs.
 year: 1989
 year_is_approximate: false
+designer:
+- name: Jack Laurent Giles
+  id: d9095f68-405d-4f76-8364-e267a3d8507f
 place_built: Wirral
 construction_material: plywood
 spar_material: wood
@@ -14,15 +18,14 @@ construction_method: clinker_ply
 selling_status: not_for_sale
 home_country: GBR
 home_port: Nottingham
-hull_form: centre-board dinghy
+hull_form: centre-boarder
 sail_number: '23'
 ownerships:
 - name: Sarah Baynes
   start: 2023
   share: 32
   current: true
-- member: 6702
-  id: 35163
+- name: John Baynes
   start: 2023
   share: 32
   current: true
@@ -31,5 +34,9 @@ handicap_data:
   beam: 2.012
   draft: 0.457
   length_on_deck: 4.572
+  length_on_waterline: 8.534
 id: 2307eca2-cc54-480c-b2cf-183680903f1e
-updated_at: '2026-09-15'
+lastModified: '2026-09-15T18:19:25Z'
+year_of_build:
+  value: 1989
+updated_at: '2026-09-25'
