@@ -2,25 +2,30 @@ name: Birthe Marie
 oga_no: 1413
 rig_type: Ketch
 mainsail_type: gaff
-full_description: Log A-W/95, Nov/97 Built in Denmark as a fishing boat. Hull featured
-  a wet well amidships built with an engine. Bought in Copenhagen in decommisioned
-  state and imported to England as a deck cargo. Converted for use as a pleasure craft
-  by P Barker of Burnam on Couch.  Sold on several times. bought by M. Jardine in
-  2005 for convertion to sailing charter boat for use in the Hebridies. Partially
-  rebuilt at Amble boat Co Hull work mainly by Jeff Mathew and then trailered to Scotland
-  for completion by M Jardine and helpers. coded for commercial use in 2011 and now
+short_description: |-
+  Ex-fishing boat, coded for commercial use and available for sightseeing
+full_description: |-
+  Built in Denmark as a fishing boat. Hull featured a wet well amidships built
+  with an engine. Bought in Copenhagen in decommissioned state and imported to
+  England as a deck cargo. Converted for use as a pleasure craft by P Barker of
+  Burnham on Couch. Sold on several times. bought by M. Jardine in 2005 for
+  conversion to sailing charter boat for use in the Hebrides. Partially rebuilt at
+  Amble boat Co Hull work mainly by Jeff Mathew and then trailered to Scotland for
+  completion by M Jardine and helpers. coded for commercial use in 2011 and now
   operating as a sightseeing day boat out of Iona under sail
 year: 1933
 year_is_approximate: false
 builder:
-  name: Jutland
+- name: Jutland
   id: 66e58e85-0d95-49df-85c7-7106f1c68c89
 place_built: Denmark
 construction_material: wood
+spar_material: wood
 construction_method: carvel
 construction_details: Carvel Baltic pine and  Larch on Oak
 selling_status: not_for_sale
-for_sales: []
+home_country: GBR
+home_port: Iona
 hull_form: long keel deep forefoot
 reference:
 - Log A-W/95
@@ -30,33 +35,39 @@ ownerships:
 - name: C D Cole
   start: 1990
   share: 64
-- name: Mark Jardine
+- member: 6996
+  id: 35517
   start: 2005
   share: 64
-id: c113eb76-b45d-4969-a740-bcecb73e669a
+  note: please check this is not a namesake
+website: https://www.boattripsiona.com/
+image_key: kDPFJM
 handicap_data:
   thcf: 1.009
-  beam: 3.6576
-  draft: 1.6002
-  fore_triangle_height: 12.649353816142403
-  fore_triangle_base: 5.18166300902219
-  length_over_all: 10.972933430870519
+  beam: 3.658
+  draft: 1.6
+  fore_triangle_height: 12.65
+  fore_triangle_base: 5.182
+  length_on_deck: 10.973
+  length_on_waterline: 9.449
+  length_over_spars: 14.631
   propellor:
-    type: fixed
     blades: 3
-  sailarea: 89.02705474259757
-  main:
-    foot: 4.26725188978298
-    head: 4.26725188978298
-    luff: 8.991709339185563
+    type: fixed
+  sailarea: 89.027
   topsail:
-    luff: 3.6576444769568397
+    luff: 3.658
+  length_over_all: 10.973
+  main:
+    foot: 4.267
+    head: 4.267
+    luff: 8.992
   mizzen:
-    foot: 2.7432333577176298
-    head: 2.7432333577176298
-    luff: 7.315288953913679
-  length_over_spars: 14.630577907827359
-  length_on_waterline: 9.44891489880517
-  length_on_deck: 10.9728
+    foot: 2.743
+    head: 2.743
+    luff: 7.315
 created_at: '2020-04-25T17:04:36.562134+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: c113eb76-b45d-4969-a740-bcecb73e669a
+year_of_build:
+  value: 1933
+updated_at: '2026-09-27'
