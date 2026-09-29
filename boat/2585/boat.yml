@@ -1,9 +1,12 @@
 name: Elf
 oga_no: 2585
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Sloop
 mainsail_type: gaff
 year_is_approximate: false
+designer: []
+builder: []
 construction_material: wood
 construction_method: double_diagonal
 construction_details: Double Diagonal
@@ -15,19 +18,22 @@ ownerships:
   start: 2012
   share: 64
   current: true
-id: 7d539912-89d9-4bc7-8fe8-1a3f3992fe73
+image_key: JXwQf8
 handicap_data:
   thcf: 0.729872184
   beam: 1.4234
   draft: 0.2286
   fore_triangle_height: 2.234211168007803
   fore_triangle_base: 0.8382101926359424
+  length_on_deck: 3.3528
+  length_on_waterline: 3.2004389173372347
   length_over_all: 3.3528407705437697
   main:
     foot: 3.3528407705437697
     head: 3.0480370641306997
     luff: 1.2710314557425018
-  length_on_waterline: 3.2004389173372347
-  length_on_deck: 3.3528
 created_at: '2020-04-25T17:22:59.858579+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 7d539912-89d9-4bc7-8fe8-1a3f3992fe73
+year_of_build:
+  approx: false
+updated_at: '2026-09-29'
