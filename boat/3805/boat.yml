@@ -17,19 +17,20 @@ full_description: |-
   Martin Bronze furling gear. It makes for a very pretty boat.
 year: 1972
 designer:
-- id: c7a4b5d4-0751-4858-8054-b0e0636bb711
-  name: Terry Heard
+- name: Terry Heard
+  id: c7a4b5d4-0751-4858-8054-b0e0636bb711
 design_class:
   name: Tosher 18
   id: 0116957d-a4e3-4c3b-b600-c43a7adc30ae
-builder: []
-place_built: Mylor
+builder:
+- name: Gaffers and Luggers
+  id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
+place_built: Mylor Bridge
 construction_material: grp
 spar_material: wood
-construction_method: carvel
 construction_details: GRP HULL WITH SHEATHED PLY DECKS
-home_country: uk
-home_port: BRISTOL
+home_country: UK
+home_port: Bristol
 hull_form: long keel sloping forefoot
 sail_number: '22'
 ownerships:
@@ -47,7 +48,7 @@ handicap_data:
   length_on_waterline: 5.486
 air_draft: 6.096
 hin: not known
-lastModified: '2026-01-25T11:18:23Z'
+lastModified: '2026-02-22T14:32:00Z'
 year_of_build:
   value: 1972
-updated_at: '2026-02-22'
+updated_at: '2026-10-01'
