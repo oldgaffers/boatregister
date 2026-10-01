@@ -1,12 +1,15 @@
 name: Isadora
 oga_no: 3593
-generic_type: Dayboat
+generic_type:
+- Dayboat
 rig_type: Sloop
 mainsail_type: gaff
-short_description: '*Isadora* is a lovely open day boat.'
-full_description: "After being laid up by previous owners *Isadora* sat with water
-  in her, and\nrequired a degree of tlc when bought in 2001. She has 2 suits of sails.
-  One set\ntan, and newer set white."
+short_description: |-
+  *Isadora* is a lovely open day boat.
+full_description: |-
+  After being laid up by previous owners *Isadora* sat with water in her, and
+  required a degree of tlc when bought in 2001. She has 2 suits of sails. One set
+  tan, and newer set white.
 year: 1992
 year_is_approximate: false
 designer:
@@ -18,7 +21,7 @@ design_class:
 builder:
 - name: Gaffers and Luggers
   id: 3bce15f6-ee0f-46a9-a70d-a8cead71eda4
-place_built: Mylor Cornwall
+place_built: Mylor Bridge
 construction_material: grp
 spar_material: wood
 construction_details: Wood interior
@@ -31,24 +34,31 @@ for_sales:
   date_sold: '2024-09-01T19:23:13.269Z'
   flexibility: normal
   sale_price: 3000
-  sales_text: "*Isadora* comes with 2 sets of refurbished sails, (1 tan,. 1 white)
-    and a\nMariner 3.3 outboard engine in excellent, low use, condition. All running
-    and\nstanding rigging.\n\n\n*Isadora* is most of the way through a full refurbishment,
-    but still has some\nwork remaining. The steep keel band needs repairing or replacing.
-    The bronze and\nsteel fittings need refitting as do the forward and centre seat
-    planks.\n\n\nOuter and inner hull have been stripped of spurious paints, applies
-    and etched\nand two pack epoxy applied, 4 coat interior in fisherman green, hull
-    4 coats\nheavy black epoxy and pollished.\n\n\nMore details from M J Lewis"
-  summary: <p>Sale price unknown</p>
+  sales_text: |-
+    *Isadora* comes with 2 sets of refurbished sails, (1 tan,. 1 white) and a
+    Mariner 3.3 outboard engine in excellent, low use, condition. All running and
+    standing rigging.
+
+    *Isadora* is most of the way through a full refurbishment, but still has some
+    work remaining. The steep keel band needs repairing or replacing. The bronze and
+    steel fittings need refitting as do the forward and centre seat planks.
+
+    Outer and inner hull have been stripped of spurious paints, applies and etched
+    and two pack epoxy applied, 4 coat interior in fisherman green, hull 4 coats
+    heavy black epoxy and pollished.
+
+    More details from M J Lewis
+  summary: |-
+    Sale price unknown
 home_country: GBR
 home_port: Clovelly
 hull_form: centre-board dinghy
 sail_number: CP 9
 ownerships:
-- start: 2021
+- name: Christopher Eric Daniels
+  start: 2021
   end: 2024
   share: 64
-  name: Christopher Eric Daniels
 - member: 6865
   id: 35375
   start: '2024'
@@ -63,4 +73,7 @@ handicap_data:
 created_at: '2021-10-25T13:51:40.836306+00:00'
 hin: CP 9
 id: f8ad5987-33a8-4f43-b7cf-83b2ad2b3e8d
-updated_at: '2025-08-05'
+lastModified: '2025-12-05T11:35:37Z'
+year_of_build:
+  value: 1992
+updated_at: '2026-10-01'
