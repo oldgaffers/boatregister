@@ -1,8 +1,11 @@
 name: 'Badger '
 oga_no: 3759
-rig_type: Other
+generic_type:
+- Dayboat
+rig_type: Sloop
 mainsail_type: lug
-short_description: Classic Iain Oughtred Ness Boat
+short_description: |-
+  Classic Iain Oughtred Ness Boat
 full_description: |-
   A Shetland inspired beach boat, simply built, easly handled, very seaworthy.
   Purchased from my father who had her since new.
@@ -11,26 +14,28 @@ full_description: |-
   School of Boat building in 2000.
 year: 2000
 year_is_approximate: false
+designer:
+- name: Iain Oughtred
+  id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
 place_built: Lyme Regis School of Boat Building
-construction_material: other
+construction_material: woodepoxy
 spar_material: wood
 construction_method: clinker_ply
 home_country: 'Essex '
 home_port: Withenhoe
 hull_form: centre-boarder
-reference:
-- null
+reference: []
 sail_number: '0'
 fishing_number: '0'
 ssr: '0'
 callsign: 'Badger '
 nhsr: '0'
 ownerships:
-- start: '2025'
+- member: 6848
+  id: 35350
+  start: '2025'
   share: 64
   current: true
-  id: 35350
-  member: 6848
 image_key: XR34wX
 handicap_data:
   beam: 1.646
@@ -39,4 +44,7 @@ handicap_data:
   length_on_waterline: 4.267
 hin: Hinsley01
 mmsi: '0'
-updated_at: '2025-06-18'
+lastModified: '2025-10-18T10:21:21Z'
+year_of_build:
+  value: 2000
+updated_at: '2026-10-01'
