@@ -1,16 +1,18 @@
 name: Iona
 oga_no: 346
+generic_type: []
 rig_type: Yawl
 mainsail_type: lug
-full_description: P Farrar assigned 0.808, home buillt
+full_description: |-
+  P Farrar assigned 0.808, home buillt
 year: 1996
 year_is_approximate: false
 designer:
+- id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
   name: Iain Oughtred
-  id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
 builder:
+- id: c3880af4-95c4-4500-8ac3-85405279f2e4
   name: David Proctor
-  id: c3880af4-95c4-4500-8ac3-85405279f2e4
 place_built: Hereford
 construction_material: wood
 construction_method: clinker_ply
@@ -23,12 +25,16 @@ ownerships:
 - name: David Proctor
   start: 2012
   share: 64
-id: afe1dc56-6a15-43f6-8cb1-67226f9fec1e
+image_key: 7sGQfJ
 handicap_data:
   beam: 1.6002
   draft: 0.2286
-  length_over_all: 5.843087051938552
-  length_on_waterline: 4.776274079492806
   length_on_deck: 5.843
+  length_on_waterline: 4.776274079492806
+  length_over_all: 5.843087051938552
 created_at: '2020-04-25T16:47:35.354234+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: afe1dc56-6a15-43f6-8cb1-67226f9fec1e
+year_of_build:
+  approx: false
+  value: 1996
+updated_at: '2026-10-02'
