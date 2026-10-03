@@ -1,6 +1,7 @@
 name: Honeydew
 oga_no: 1292
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
 mainsail_type: gaff
 short_description: |-
@@ -8,14 +9,14 @@ short_description: |-
 year: 1982
 year_is_approximate: false
 designer:
-- name: David M. Cannell
-  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+- id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+  name: David M. Cannell
 design_class:
   name: Tamarisk 24
   id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
 builder:
-- name: North Cornwall Marine
-  id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+- id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
+  name: North Cornwall Marine
 place_built: Cornwall
 construction_material: grp
 construction_details: Resin glass hull, ply deck and cabin
@@ -33,6 +34,7 @@ ownerships:
   start: 2025
   share: 64
   current: true
+image_key: LPdSVR
 handicap_data:
   beam: 2.438
   draft: 0.991
@@ -43,4 +45,7 @@ handicap_data:
   length_over_all: 7.315
 created_at: '2020-04-25T17:02:48.720203+00:00'
 id: 9b5388db-900a-46c5-a39c-5d9b5beca7c8
-updated_at: '2026-01-18'
+year_of_build:
+  approx: false
+  value: 1982
+updated_at: '2026-10-03'
