@@ -53,7 +53,7 @@ def wanted(boat):
       for_sales.sort(key=lambda d: d.get('offered', '1970-01-01'))
       fsr = for_sales[0]
       boat['price'] = fsr.get('asking_price', 0)
-      boat['offered'] = fsr.get('offered', '')[0:10]
+      boat['offered'] = fsr.get('offered', '')
       boat['sale'] = True
     else:
       boat['sale'] = False
