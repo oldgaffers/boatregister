@@ -1,10 +1,13 @@
 name: Gem
 oga_no: 3209
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Ketch
 mainsail_type: bermudan
 year: 1977
 year_is_approximate: false
+designer: []
+builder: []
 construction_material: ferro
 construction_details: Ferrocement
 selling_status: not_for_sale
@@ -13,16 +16,21 @@ home_country: GBR
 home_port: Burnham-on-Crouch
 hull_form: long keel sloping forefoot
 ownerships:
-- start: 2000
+- name: Paul Williams
+  start: 2000
   share: 64
   current: true
-  name: Paul Williams
-id: 86f04b90-8c4a-4f27-b7ed-9333b6d61cee
+image_key: hGCL63
 handicap_data:
+  calculated_thcf: 1.07
   beam: 3.557
   draft: 1.271
   fore_triangle_height: 15.3924
   fore_triangle_base: 7.681
+  length_overall: 14.0208
+  length_on_deck: 14.0208
+  length_on_waterline: 9.7536
+  draft_keel_down: 2.1854
   main:
     foot: 17
     luff: 45.5
@@ -30,11 +38,11 @@ handicap_data:
     foot: 11
     luff: 28.35
   moving_keel: true
-  length_overall: 14.0208
-  calculated_thcf: 1.07
-  draft_keel_down: 2.1854
   moving_keel_type: Centreboard
-  length_on_waterline: 9.7536
-  length_on_deck: 14.0208
 created_at: '2020-04-25T17:46:23.98544+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 86f04b90-8c4a-4f27-b7ed-9333b6d61cee
+lastModified: '2025-10-18T09:29:09Z'
+year_of_build:
+  approx: false
+  value: 1977
+updated_at: '2026-10-07'
