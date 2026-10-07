@@ -41,7 +41,7 @@ def wanted(boat):
     'year',
     'length_on_deck',
     'price',
-    'posted',
+    'offered',
     'sale',
     'sail',
     'home_port',
@@ -50,9 +50,10 @@ def wanted(boat):
     ]
     if 'selling_status' in boat and boat['selling_status'] == 'for_sale':
       for_sales = boat.get('for_sales', [{'asking_price': 0}])
+      for_sales.sort(key=lambda d: d['offered'])
       fsr = for_sales[0]
       boat['price'] = fsr.get('asking_price', 0)
-      boat['posted'] = fsr.get('created_at', '')[0:10]
+      boat['offered'] = fsr.get('offered', '')[0:10]
       boat['sale'] = True
     else:
       boat['sale'] = False
