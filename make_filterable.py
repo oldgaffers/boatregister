@@ -54,7 +54,7 @@ def wanted(boat):
       fsr = for_sales[0]
       print(fsr)
       boat['price'] = fsr.get('asking_price', 0)
-      boat['offered'] = fsr.get('created_at', '')
+      boat['offered'] = fsr.get('created_at', '')[0:10]
       boat['sale'] = True
     else:
       boat['sale'] = False
