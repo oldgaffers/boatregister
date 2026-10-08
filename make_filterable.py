@@ -34,7 +34,7 @@ def wanted(boat):
     'designer',
     'builder',
     'rig_type',
-    'mainsail_type',
+    'sail_type',
     'generic_type',
     'design_class',
     'construction_material',
@@ -48,6 +48,17 @@ def wanted(boat):
     'place_built',
     'previous_names',
     ]
+    sailtypes = set()
+    if boat.get('mainsail_type', 'none') != 'none':
+      sailtypes.add(boat['mainsail_type'])
+    if boat.get('handicap_data', None) is not None:
+      hd = boat['handicap_data']
+      for mast in ['main', 'fore', 'mizzen']:
+        if hd.get(mast, None) is not None:
+            st = hd[mast].get('type', None)
+            if st is not None:
+              sailtypes.add(st)
+    boat['sail_type'] = list(sailtypes)
     if 'selling_status' in boat and boat['selling_status'] == 'for_sale' and len(boat.get('for_sales', [])) > 0:
       for_sales = sorted(boat['for_sales'], key=lambda d: d['created_at'])
       fsr = for_sales[0]
