@@ -27,11 +27,15 @@ def shuffle(boats):
         print('bad response from smugmug')
         return
     albums = r.json()['Response']['Album']
-    print('got', len(albums), 'album records from smugmug')
+    print('got', len(albums), 'album records from smugmug, have', len(boats), 'boat records')
     for b in boats:
         oga_no = int(b)
         count = [a['ImageCount'] for a in albums if a['NiceName']==f'OGA-{oga_no}']
-        if len(count) > 0 and count[0] > 0:
+        if len(count) > 0:
+            count = count[0]
+        else:
+            count = 0
+        if count > 0:
             with_pictures.append(oga_no)
         else:
             without_pictures.append(oga_no)
