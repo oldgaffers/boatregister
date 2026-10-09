@@ -114,10 +114,10 @@ def lmd(oga_no, last_modified):
   return str(date.today())
 
 if __name__ == '__main__':
-  editors_choice = shuffle()
   last_modified = get_json('lmd.json')
   mypath='boat'
   boats = listdir(mypath)
+  editors_choice = shuffle(boats)
   data = []
   for b in boats:
     fullboat = get_boat(f"{mypath}/{b}/boat.yml")
