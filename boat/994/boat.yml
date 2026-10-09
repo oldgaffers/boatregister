@@ -1,29 +1,31 @@
 name: Marishka
 oga_no: 994
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
-mainsail_type: gaff
-year: 1895
-year_is_approximate: false
 full_description: |-
-  *Marishka* was built in 1895 by Morris and Lorimer for Noel Guinness
-  (a member of the famous Irish beverage family).
+  *Marishka* was built in 1895 by Morris and Lorimer for Noel Guinness (a member
+  of the famous Irish beverage family).
 
   She is fully restored, having been re-built from the keel up and re-launched in
-  June 2022. 
-  
+  June 2022.
+
   She has an in-board Yanmar 16HP engine.
-  
-  Her journey was captured in the March 2023 issue of Classic Boat magazine with 
+
+  Her journey was captured in the March 2023 issue of Classic Boat magazine with
   her image gracing the front cover.
+year: 1895
+year_is_approximate: false
 designer:
-  name: D. Fyfe
+- name: D. Fyfe
   id: f5a1c2d0-d6c1-48aa-9621-56cc38eff14b
 builder:
-  name: Morris and Lorimer
+- name: Morris and Lorimer Ltd
   id: 7b8f27ae-1f33-44e0-8cb8-9ca7bedc640f
 place_built: Sandbank
 construction_material: wood
+spar_material: wood
+construction_method: carvel
 selling_status: for_sale
 for_sales:
 - flexibility: normal
@@ -31,17 +33,22 @@ for_sales:
   updated_at: '2023-03-09T17:40:57.997Z'
   offered: '2023-03-09'
   sales_text: |-
-    *Marishka* was built in 1895 by Morris and Lorimer for Noel Guinness
-    (a member of\nthe famous Irish beverage family).\n\nShe is fully restored, having
-    been re-built from the keel up and re-launched in\nJune 2022. She has an in-board
-    Yanmar 16HP engine.
+    *Marishka* was built in 1895 by Morris and Lorimer for Noel Guinness (a member
+    of the famous Irish beverage family).
 
-    Her journey was captured in the March 2023 issue of
-    Classic Boat magazine with\nher image gracing the front cover. She is a wonderful
-    boat to sail and her performance has been improved as part of her restoration.
+    She is fully restored, having been
+    re-built from the keel up and re-launched in June 2022.
+    She has an in-board Yanmar 16HP engine.
+
+    Her journey was captured in the March 2023 issue of Classic Boat magazine
+    with her image gracing the front cover. She is a wonderful boat to sail and her
+    performance has been improved as part of her restoration.
   asking_price: 125000
 home_country: GBR
 home_port: Truro
+hull_form: long keel sloping forefoot
+reference:
+- CB March 2023
 ownerships:
 - member: 2335
   id: 148
@@ -49,10 +56,18 @@ ownerships:
   current: true
 image_key: b9Qz44
 handicap_data:
-  beam: 2.5908
-  draft: 1.6764
+  beam: 2.591
+  draft: 1.676
   length_on_deck: 8.382
-  length_on_waterline: 7.620092660326749
-  length_over_all: 8.382101926359423
+  length_on_waterline: 7.62
+  length_over_all: 8.382
+  main:
+    type: gaff
 created_at: '2020-04-25T16:58:16.912353+00:00'
 id: 872c3775-ff6c-4253-8b17-e08b91b45773
+sail_type:
+- gaff
+lastModified: '2026-10-09T11:10:14Z'
+year_of_build:
+  value: 1895
+updated_at: '2026-10-09'
