@@ -4,6 +4,7 @@ import yaml
 import json
 from os import listdir
 from datetime import date, datetime
+from shuffle_editors_choice import shuffle
 
 def fn(f):
   if f is None:
@@ -113,8 +114,7 @@ def lmd(oga_no, last_modified):
   return str(date.today())
 
 if __name__ == '__main__':
-  data = get_json('fleets/editors choice')
-  editors_choice = {o:i for i,o in enumerate(data['filters']['oga_nos'])}
+  editors_choice = shuffle()
   last_modified = get_json('lmd.json')
   mypath='boat'
   boats = listdir(mypath)
@@ -124,10 +124,7 @@ if __name__ == '__main__':
     if fullboat is not None:
       boat = wanted(fullboat)
       oga_no = int(b)
-      if oga_no in editors_choice:
-        boat['rank'] = editors_choice[oga_no]
-      else:
-        boat['rank'] = len(boats)
+      boat['rank'] = editors_choice.index(oga_no)
       if 'ownerships' in fullboat:
         boat['owners'] = owners(fullboat)
       boat['updated_at'] = lmd(oga_no, last_modified)
