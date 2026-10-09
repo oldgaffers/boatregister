@@ -1,17 +1,16 @@
 name: Blue Hawk
 oga_no: 197
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
-mainsail_type: gaff
 year: 1939
 year_is_approximate: false
 builder:
-  name: Douglas Stone and Sons
+- name: Douglas Stone and Sons
   id: caf4c372-35d8-4fcb-8de6-4e78ed646a1e
 place_built: Brightlingsea
 construction_material: wood
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
 home_port: Titchmarsh Marina
 hull_form: long keel deep forefoot
@@ -33,14 +32,21 @@ ownerships:
   start: 2013
   share: 64
   current: true
-id: 450556f0-cc5c-49f9-98e0-b02135a206f4
 image_key: KxLBvj
-thumb: https://photos.smugmug.com/photos/i-4jTqtMQ/0/Th/i-4jTqtMQ-Th.jpg
 handicap_data:
-  beam: 2.0269
-  draft: 0.9144
-  length_over_all: 5.974152645696172
-  length_on_waterline: 5.577907827359181
-  length_on_deck: 5.9893
+  beam: 2.027
+  draft: 0.914
+  length_on_deck: 5.989
+  length_on_waterline: 5.578
+  length_over_all: 5.974
+  checked: true
+  main:
+    type: gaff
 created_at: '2020-04-25T16:45:19.094021+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 450556f0-cc5c-49f9-98e0-b02135a206f4
+sail_type:
+- gaff
+lastModified: '2024-01-09T18:42:20Z'
+year_of_build:
+  value: 1939
+updated_at: '2026-10-09'
