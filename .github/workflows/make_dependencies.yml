@@ -20,6 +20,8 @@ jobs:
           python -m poetry run python make_picklists.py
           echo ok
       - name: update editors_choice
+        env:
+          API_KEY: ${{ secrets.SMUGMUG_API_KEY }}
         run: |
           python -m poetry run python shuffle_editors_choice.py
           echo ok
