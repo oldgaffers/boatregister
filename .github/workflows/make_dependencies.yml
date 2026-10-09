@@ -21,7 +21,7 @@ jobs:
           echo ok
       - name: update editors_choice
         run: |
-          python -m poetry run python make_editors_choice.py
+          python -m poetry run python shuffle_editors_choice.py
           echo ok
       - name: create filter list
         run: |
