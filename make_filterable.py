@@ -60,7 +60,7 @@ def wanted(boat):
               sailtypes.add(st)
     boat['sail_type'] = list(sailtypes)
     if 'selling_status' in boat and boat['selling_status'] == 'for_sale' and len(boat.get('for_sales', [])) > 0:
-      for_sales = sorted(boat['for_sales'], key=lambda d: d['created_at'])
+      for_sales = sorted(boat['for_sales'], key=lambda d: d['created_at'], reverse=True)
       fsr = for_sales[0]
       boat['price'] = fsr.get('asking_price', 0)
       boat['offered'] = fsr.get('created_at', '')[0:10]
