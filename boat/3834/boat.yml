@@ -1,17 +1,22 @@
 name: Hunny
 oga_no: 3834
 generic_type:
-- unknown
-rig_type: Other
-mainsail_type: lateen
+- Dinghy
+rig_type: Single Sail
 short_description: |-
   17ft out-rigger
 full_description: |-
-  Hunny was designed an  built during covid lockdown. She is an open hull,
-  trimaran with aluminium, tripod mast supporting a single 17ft gaff. The
+  *Hunny* was designed and  built during covid lockdown. She is an open hull
+  trimaran with an aluminium tripod mast supporting a single 17ft yard. The
   detachable sponsons allow easy assembly. The hull separates into 2 x 8ft 6 ins
   halves, bow and stern.
 year: 2020
+designer:
+- name: Roger Flambert
+  id: 07a07e0a-4275-4cfd-96f1-36de9ed48dbb
+builder:
+- name: Roger Flambert
+  id: 2347224b-9581-492d-8c7a-a2e37888f9f7
 place_built: Penarth
 construction_material: plywood
 spar_material: aluminium
@@ -27,4 +32,9 @@ handicap_data:
   length_on_deck: 5.182
   length_on_waterline: 4.877
 air_draft: 0.183
-updated_at: '2026-08-06'
+sail_type:
+- lateen
+lastModified: '2026-10-07T16:03:21Z'
+year_of_build:
+  value: 2020
+updated_at: '2026-10-08'
