@@ -1,20 +1,19 @@
 name: Tiki
 oga_no: 2148
-generic_type: Dayboat
+generic_type:
+- Dayboat
 rig_type: Yawl
-mainsail_type: lug
-short_description: '*Tiki* is a Padstow Lugger.'
+short_description: |-
+  *Tiki* is a Padstow Lugger.
 full_description: |-
   Made by the company Padstow Sea Boats in 1992. The design is based on the
   Cornish pilchard fishing boats with a GRP hull and wooden spars. It is the
   perfect boat for exploring estuaries and rivers with a family on board.
 
-
   *Tiki* has teak and mahogany trim. She is stable with a weighty steel
   centreplate. She has a working boat rig, comprising of a jib and boom-less
   standing lug mainsail and mizzen. This is very flexible, and enables her to sail
   safely in a number of different wind conditions.
-
 
   *Tiki* has sailed on the East Coast, from Tollesbury to the Alde; in the North
   East, from Amble and round Coquet Island; In Ireland on Loch Ree and to Ghola;
@@ -40,7 +39,7 @@ for_sales:
   flexibility: normal
 home_country: GBR
 home_port: Rosneath
-hull_form: centre-board dinghy
+hull_form: centre-boarder
 ownerships:
 - name: Rob Rose
   start: 2012
@@ -72,10 +71,17 @@ handicap_data:
     luff: 3.048
     head: 2.438
     foot: 2.438
+    type: lug
   mizzen:
     luff: 1.524
     foot: 0.914
     head: 0.914
+    type: lug
   last_modified: '2025-04-02T18:25:25.992Z'
 id: 4ddf5021-2268-4729-8ccd-8d22d1084bc4
-updated_at: '2025-04-02'
+sail_type:
+- lug
+lastModified: '2025-04-02T18:27:08Z'
+year_of_build:
+  value: 1992
+updated_at: '2026-10-10'
