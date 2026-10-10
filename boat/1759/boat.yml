@@ -1,13 +1,14 @@
 name: Dido of London
 oga_no: 1759
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
-mainsail_type: gaff
 year: 1935
 year_is_approximate: false
 designer:
-  name: Blackmore and Sons
+- name: Blackmore and Sons
   id: 7c07c0be-0492-492a-9257-46e2408e8bb6
+builder: []
 place_built: Bideford
 construction_material: wood
 selling_status: not_for_sale
@@ -17,10 +18,16 @@ ownerships:
 - name: Russell May
   start: 2012
   share: 64
-id: db209ea9-69d1-4587-b66e-87025a33471a
+image_key: 6zVPcH
 handicap_data:
   beam: 2.6426
-  length_over_all: 8.22970007315289
   length_on_deck: 8.2296
+  length_over_all: 8.22970007315289
 created_at: '2020-04-25T17:09:48.440038+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: db209ea9-69d1-4587-b66e-87025a33471a
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1935
+updated_at: '2026-10-10'
