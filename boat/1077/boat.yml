@@ -3,7 +3,6 @@ oga_no: 1077
 generic_type:
 - Yacht
 rig_type: Sloop
-mainsail_type: gaff
 short_description: |-
   *Amnesia* was built to be exhibited at the Southampton Boat Show in 1983
 full_description: |-
@@ -44,6 +43,7 @@ ownerships:
 - name: C I Thompson
   start: 1984
   share: 64
+image_key: rK6zhr
 handicap_data:
   thcf: 0.873389825
   beam: 2.134
@@ -60,9 +60,12 @@ handicap_data:
     foot: 4.572
     head: 3.2
     luff: 3.81
+    type: gaff
 created_at: '2020-04-25T16:59:30.84565+00:00'
 id: c699b233-5cfa-411b-978e-d18cea1d903d
-lastModified: '2026-01-15T18:42:22Z'
 year_of_build:
+  approx: false
   value: 1983
-updated_at: '2026-01-16'
+sail_type:
+- gaff
+updated_at: '2026-10-12'
