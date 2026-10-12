@@ -1,8 +1,8 @@
 name: Saoirse of Hamble
 oga_no: 7037
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
-mainsail_type: bermudan
 year: 1965
 year_is_approximate: false
 designer:
@@ -37,6 +37,8 @@ ownerships:
   start: 2002
   end: 2011
   share: 64
+  note: name on record but withheld
+image_key: LK5vBn
 handicap_data:
   beam: 2.643
   draft: 1.372
@@ -45,3 +47,10 @@ handicap_data:
   length_over_all: 8.534
 created_at: '2020-04-25T17:42:49.550537+00:00'
 id: a4b9aa22-d188-4eb1-b2f2-e6919bd940f0
+sail_type:
+- bermudan
+lastModified: '2024-03-07T22:46:20Z'
+year_of_build:
+  approx: false
+  value: 1965
+updated_at: '2026-10-12'
