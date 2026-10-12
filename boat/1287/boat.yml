@@ -1,8 +1,8 @@
 name: Silver Darling
 oga_no: 1287
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
-mainsail_type: gaff
 year: 1980
 year_is_approximate: false
 designer:
@@ -20,6 +20,7 @@ ownerships:
 - name: D Webster
   start: 1980
   share: 64
+image_key: kkbJTM
 handicap_data:
   thcf: 0.955942613
   beam: 3.048
@@ -38,6 +39,13 @@ handicap_data:
     foot: 5.791
     head: 4.572
     luff: 4.267
+    type: gaff
 created_at: '2020-04-25T17:02:43.372816+00:00'
 id: 8940d256-8b77-46cf-8327-66dac5f3ce61
-updated_at: '2024-10-14'
+sail_type:
+- gaff
+lastModified: '2024-10-14T19:14:45Z'
+year_of_build:
+  approx: false
+  value: 1980
+updated_at: '2026-10-12'
