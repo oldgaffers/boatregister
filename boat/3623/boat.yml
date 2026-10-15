@@ -3,7 +3,6 @@ oga_no: 3623
 generic_type:
 - Dayboat
 rig_type: Cutter
-mainsail_type: gaff
 short_description: |-
   American designed - hand built in Suffolk in 1992
 full_description: |-
@@ -30,6 +29,9 @@ full_description: |-
   (mysticseaport.org)](https://atkin.mysticseaport.org/Articles/Maid-2/index.html)
 year: 1992
 year_is_approximate: false
+builder:
+- name: Euan Seel
+  id: 7e2a1fef-b3f5-4883-aa1d-285817f44b03
 place_built: Suffolk
 construction_material: woodepoxy
 spar_material: wood
@@ -38,13 +40,17 @@ construction_details: Strip planking, wood King plank, ring frames ,stem, stern 
   and  transom.
 previous_names:
 - Robelia
-- Robelia
 home_country: United Kingdom
 home_port: Stalham
 hull_form: long keel sloping forefoot
 ownerships:
 - name: Geoff Holland
   start: '2021'
+  end: 2025
+  share: 64
+- member: 6998
+  id: 35521
+  start: '2025'
   share: 64
   current: true
 image_key: SBg7Z7
@@ -53,8 +59,12 @@ handicap_data:
   draft: 1.067
   length_on_deck: 6.401
   length_on_waterline: 5.791
+  main:
+    type: gaff
 hin: '1'
-lastModified: '2024-06-03T05:55:01Z'
+lastModified: '2026-10-07T16:03:21Z'
 year_of_build:
   value: 1992
-updated_at: '2026-10-04'
+sail_type:
+- gaff
+updated_at: '2026-10-15'
