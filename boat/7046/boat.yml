@@ -1,18 +1,20 @@
 name: Pochard
 oga_no: 7046
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
-mainsail_type: bermudan
 year: 1931
 year_is_approximate: false
 designer:
-  name: Alfred J Westmacott
+- name: Alfred J Westmacott
   id: 54a54a45-ffb9-499b-8e78-74c125fcc35f
 builder:
-  name: C.J. Coxen
+- name: C.J. Coxen
   id: 229a6fb7-266a-4139-b638-5b0b55c8eb82
 place_built: Portsmouth
 construction_material: wood
+previous_names:
+- Chum
 selling_status: not_for_sale
 for_sales: []
 home_port: Elephant Bt Yd Hamble
@@ -20,12 +22,16 @@ ownerships:
 - name: Peter Johnson
   start: 2012
   share: 64
-id: 30d8138b-c457-43e6-aae0-5e623b87e804
+image_key: dc7Mgv
 handicap_data:
   beam: 2.1336
-  length_over_all: 7.976712996830042
   length_on_deck: 7.9766
+  length_over_all: 7.976712996830042
 created_at: '2020-04-25T17:43:32.569717+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Chum
+id: 30d8138b-c457-43e6-aae0-5e623b87e804
+sail_type:
+- bermudan
+year_of_build:
+  approx: false
+  value: 1931
+updated_at: '2026-10-16'
