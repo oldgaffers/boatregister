@@ -3,7 +3,6 @@ oga_no: 2862
 generic_type:
 - Yacht
 rig_type: Cutter
-mainsail_type: gaff
 short_description: |-
   37' Wooden Gaff Cutter
 full_description: |-
@@ -31,17 +30,18 @@ ownerships:
   start: 2005
   end: 2020
   share: 64
-- name: Dave Dickens
-  member: 6497
-  start: '2020'
-  share: 32
-  current: true
 - name: Lynn Dickens
   member: 6497
   start: '2020'
   share: 32
   current: true
-  image_key: Q4z7gm
+- member: 6497
+  id: 34888
+  start: '2020'
+  share: 32
+  current: true
+  note: please check this is not a namesake
+image_key: Q4z7gm
 handicap_data:
   thcf: 1.054
   beam: 2.896
@@ -60,12 +60,16 @@ handicap_data:
     foot: 6.605
     head: 5.029
     luff: 5.639
+    type: gaff
   last_modified: '2026-02-18T09:49:45.473Z'
   checked: true
 created_at: '2020-04-25T17:29:18.266341+00:00'
 hin: '06'
 id: 79242391-8c3e-4cf4-ba24-3cee53a1c9d0
-lastModified: '2026-01-30T22:09:16Z'
+lastModified: '2026-02-18T10:05:44Z'
 year_of_build:
+  approx: false
   value: 2005
-updated_at: '2026-02-18'
+sail_type:
+- gaff
+updated_at: '2026-10-18'
