@@ -2,6 +2,7 @@ name: Peggy H
 oga_no: 127
 generic_type:
 - Yacht
+- Smack
 rig_type: Cutter
 full_description: |-
   Fishing Smack converted to a yacht by Priors in 1936 for then owner Mr G
@@ -22,7 +23,6 @@ construction_material: wood
 construction_method: carvel
 construction_details: Carvel pitch pine on oak
 selling_status: not_for_sale
-for_sales: []
 home_port: Cornwall
 reference:
 - Log 80/3
@@ -33,19 +33,26 @@ ownerships:
 - name: Richard Jones
   start: 1987
   share: 64
+- member: 7006
+  id: 35530
+  start: 2026
+  share: 64
+  current: true
+  note: please check this is not a namesake
 image_key: MMpQKR
 handicap_data:
-  beam: 2.9779
-  draft: 1.4722
+  beam: 2.978
+  draft: 1.472
   length_on_deck: 9.906
-  length_on_waterline: 9.75371860521824
-  length_over_all: 9.906120458424773
+  length_on_waterline: 9.754
+  length_over_all: 9.906
+  main:
+    type: gaff
 created_at: '2020-04-25T16:44:19.446557+00:00'
 id: 711adc61-4873-4c54-8c65-97e421fc9206
 sail_type:
 - gaff
-lastModified: '2023-02-13T21:35:20Z'
+lastModified: '2026-10-16T16:40:42Z'
 year_of_build:
-  approx: false
   value: 1897
-updated_at: '2026-10-16'
+updated_at: '2026-10-18'
