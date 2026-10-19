@@ -1,16 +1,17 @@
 name: Florence
 oga_no: 3027
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
-mainsail_type: gaff
-full_description: Hull N Cornwall Marine - completed by M Miller 1980 - 2005
+full_description: |-
+  Hull N Cornwall Marine - completed by M Miller 1980 - 2005
 year: 2005
 year_is_approximate: false
 designer:
-  - name: Percy Dalton
-    id: 7ac480da-7d09-4dd7-9c89-61199ff30913
-  - name: David M. Cannell
-    id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
+- name: Percy Dalton
+  id: 7ac480da-7d09-4dd7-9c89-61199ff30913
+- name: David M. Cannell
+  id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 design_class:
   name: Tamarisk 29
   id: 3d15c3b7-10d4-4d3a-921b-95b446f63d23
@@ -34,22 +35,30 @@ ownerships:
 - name: Malcolm Miller
   start: 2012
   share: 64
-id: d6d6f5b1-2649-4fb9-92b3-6dde6f72f586
+image_key: c2T6KK
 handicap_data:
   thcf: 0.982569229
   beam: 2.7432
   draft: 1.6002
   fore_triangle_height: 9.500731528895392
   fore_triangle_base: 4.498902706656913
-  length_over_all: 8.83930748597903
+  length_on_deck: 8.8392
+  length_on_waterline: 8.339429407461594
   propellor:
     type: fixed
     blades: 3
+  length_over_all: 8.83930748597903
   main:
     foot: 5.449890270665691
     head: 5.800414533040722
     luff: 6.199707388441843
-  length_on_waterline: 8.339429407461594
-  length_on_deck: 8.8392
+    type: gaff
 created_at: '2020-04-25T17:34:17.889404+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: d6d6f5b1-2649-4fb9-92b3-6dde6f72f586
+sail_type:
+- gaff
+lastModified: '2023-07-08T09:18:06Z'
+year_of_build:
+  approx: false
+  value: 2005
+updated_at: '2026-10-19'
