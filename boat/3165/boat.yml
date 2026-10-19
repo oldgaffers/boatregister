@@ -1,19 +1,21 @@
 name: Petrina
 oga_no: 3165
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
-mainsail_type: bermudan
-short_description: Dayboat with a cuddy and simple accommodation. Similar to Bembridge One Design and Solent Sunbeams.
+short_description: |-
+  Dayboat with a cuddy and simple accommodation. Similar to Bembridge One Design
+  and Solent Sunbeams.
 full_description: |-
-  The Westmacott dayboat has many features similar to a Bembridge One design and the Solent Sunbeams,
-  but with the addition of a cuddy and double berth.
+  The Westmacott dayboat has many features similar to a Bembridge One design and
+  the Solent Sunbeams, but with the addition of a cuddy and double berth.
 year: 1938
 year_is_approximate: false
 designer:
-  name: Alfred J Westmacott
+- name: Alfred J Westmacott
   id: 54a54a45-ffb9-499b-8e78-74c125fcc35f
 builder:
-  name: Woodnutt and Co. Ltd.
+- name: Woodnutt and Co. Ltd.
   id: c04e2023-3dc9-4679-9e31-fd807bec3001
 place_built: St Helens, IoW
 construction_material: wood
@@ -28,15 +30,22 @@ ownerships:
   start: 2013
   end: 2014
   share: 32
+image_key: wpmjVR
 handicap_data:
   beam: 2.286
   draft: 0.762
+  length_overall: 6.9586
+  length_on_deck: 6.9586
+  length_over_spars: 6.9586
   sailarea: 6
   moving_keel: true
-  length_overall: 6.9586
   draft_keel_down: 1.1674
   moving_keel_type: Centreboard
-  length_over_spars: 6.9586
-  length_on_deck: 6.9586
 created_at: '2020-04-25T17:45:04.98496+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+sail_type:
+- bermudan
+lastModified: '2026-10-19T18:34:41Z'
+year_of_build:
+  approx: false
+  value: 1938
+updated_at: '2026-10-19'
