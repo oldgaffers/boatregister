@@ -1,15 +1,19 @@
 name: Shy Talk
 oga_no: 446
+generic_type: []
 rig_type: Cutter
-mainsail_type: gaff
-full_description: Log 81/2
+full_description: |-
+  Log 81/2
 year: 1939
 year_is_approximate: false
+designer: []
 builder:
-  name: Perkins
+- name: Perkins
   id: 79cbd03b-04ac-44c5-adb8-b10ae26e1fe7
 place_built: Whitstable
 construction_material: wood
+previous_names:
+- Oberon
 selling_status: not_for_sale
 for_sales: []
 reference:
@@ -18,14 +22,18 @@ ownerships:
 - name: H Tandy
   start: 2012
   share: 64
-id: 44761a34-ff4a-4e9f-84ab-d7328c1ae755
+image_key: gkW78n
 handicap_data:
   beam: 2.5908
   draft: 1.3716
-  length_over_all: 8.22970007315289
-  length_on_waterline: 7.924896366739819
   length_on_deck: 8.2296
+  length_on_waterline: 7.924896366739819
+  length_over_all: 8.22970007315289
 created_at: '2020-04-25T16:49:05.91791+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Oberon
+id: 44761a34-ff4a-4e9f-84ab-d7328c1ae755
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1939
+updated_at: '2026-10-21'
