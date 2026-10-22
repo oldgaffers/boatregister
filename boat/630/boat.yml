@@ -1,9 +1,11 @@
 name: John Dory
 oga_no: 630
+generic_type: []
 rig_type: Cutter
-mainsail_type: gaff
 year: 1930
 year_is_approximate: false
+designer: []
+builder: []
 place_built: Grimsby
 construction_material: wood
 selling_status: not_for_sale
@@ -12,11 +14,17 @@ ownerships:
 - name: J H B Hornby
   start: 2012
   share: 64
-id: 9e225884-7f91-479d-af63-5edbe7e24865
+image_key: VBS63x
 handicap_data:
   beam: 2.1336
-  length_over_all: 6.0960741282613995
-  length_on_waterline: 5.029261155815655
   length_on_deck: 6.096
+  length_on_waterline: 5.029261155815655
+  length_over_all: 6.0960741282613995
 created_at: '2020-04-25T16:51:54.800133+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 9e225884-7f91-479d-af63-5edbe7e24865
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1930
+updated_at: '2026-10-22'
