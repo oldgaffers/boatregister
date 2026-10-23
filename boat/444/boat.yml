@@ -1,12 +1,14 @@
 name: Nuada
 oga_no: 444
+generic_type: []
 rig_type: Cutter
-mainsail_type: gaff
-full_description: log 76/3
+full_description: |-
+  log 76/3
 year: 1897
 year_is_approximate: false
+designer: []
 builder:
-  name: James Kelly
+- name: James Kelly
   id: 9138e5e8-cfd8-4715-8760-21d845d9872e
 place_built: Portrush
 construction_material: wood
@@ -18,12 +20,18 @@ ownerships:
 - name: J F Wollaston
   start: 2012
   share: 64
-id: bc7ebe8c-511d-4693-97b9-7991afd8260c
+image_key: F42b7C
 handicap_data:
   beam: 2.5908
   draft: 1.8288
-  length_over_all: 12.28358936844672
-  length_on_waterline: 10.36332601804438
   length_on_deck: 12.2834
+  length_on_waterline: 10.36332601804438
+  length_over_all: 12.28358936844672
 created_at: '2020-04-25T16:49:03.981998+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: bc7ebe8c-511d-4693-97b9-7991afd8260c
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1897
+updated_at: '2026-10-21'
