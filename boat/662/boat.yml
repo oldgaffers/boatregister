@@ -1,13 +1,15 @@
 name: Enterprise
 oga_no: 662
-generic_type: Bawley
+generic_type:
+- Bawley
 rig_type: Cutter
-mainsail_type: gaff
-full_description: Log 77/2,91/3, 92/1, Mar/97
+full_description: |-
+  Log 77/2,91/3, 92/1, Mar/97
 year: 1905
 year_is_approximate: false
+designer: []
 builder:
-  name: Reeds
+- name: Reeds
   id: 8888f213-5b59-4ed9-89d1-21ed0f51a19f
 place_built: Burnham-on-Crouch
 construction_material: wood
@@ -25,24 +27,32 @@ ownerships:
 - name: J D Le Pine
   start: 1992
   share: 64
-id: cf91c46b-f418-424c-aa86-bd1accc0d33c
+image_key: 4h7Gqr
 handicap_data:
   thcf: 0.985471341
   beam: 3.2004
   draft: 1.2192
   fore_triangle_height: 7.162887100707144
   fore_triangle_base: 7.315288953913679
-  length_over_all: 9.75371860521824
+  length_on_deck: 9.7536
+  length_on_waterline: 9.1441111923921
   propellor:
     type: fixed
+  topsail:
+    luff: 5.547427456717873
+    perpendicular: 2.0726652036088757
+  length_over_all: 9.75371860521824
   main:
     foot: 6.919044135576688
     head: 4.57205559619605
     luff: 4.419653742989515
-  topsail:
-    luff: 5.547427456717873
-    perpendicular: 2.0726652036088757
-  length_on_waterline: 9.1441111923921
-  length_on_deck: 9.7536
+    type: gaff
 created_at: '2020-04-25T16:52:24.177274+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: cf91c46b-f418-424c-aa86-bd1accc0d33c
+sail_type:
+- gaff
+lastModified: '2024-01-08T21:28:18Z'
+year_of_build:
+  approx: false
+  value: 1905
+updated_at: '2026-10-23'
