@@ -1,14 +1,14 @@
 name: Tamarisk of Mylor
 oga_no: 1001
+generic_type: []
 rig_type: Cutter
-mainsail_type: gaff
 year: 1979
 year_is_approximate: false
 designer:
-  name: David M. Cannell
+- name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 builder:
-  name: North Cornwall Marine
+- name: North Cornwall Marine
   id: d5e823a5-467d-4edb-a167-6cdfd1e23c8c
 place_built: St Columb
 construction_material: wood
@@ -18,11 +18,17 @@ ownerships:
 - name: G F White
   start: 2012
   share: 64
-id: e8159633-26b6-4cf4-8236-b87712b9b578
+image_key: VW5KKx
 handicap_data:
   beam: 2.8042
-  length_over_all: 11.094854913435746
-  length_on_waterline: 8.22970007315289
   length_on_deck: 11.0947
+  length_on_waterline: 8.22970007315289
+  length_over_all: 11.094854913435746
 created_at: '2020-04-25T16:58:22.912154+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: e8159633-26b6-4cf4-8236-b87712b9b578
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1979
+updated_at: '2026-10-19'
