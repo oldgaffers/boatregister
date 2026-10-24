@@ -1,8 +1,8 @@
 name: Kelpie 2
 oga_no: 372
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
-mainsail_type: gaff
 short_description: |-
   Kelpie II was home built and launched at Greenwich on the lines of Rani IV, at a
   cost of just over £75. In over 110 years, she's had just four owners.
@@ -14,7 +14,6 @@ full_description: |-
   on Saturday 28t June 1902. She cost £76-2-7d to build, which for that time was a
   great deal of money for a yacht of this size.
 
-
   26 ft.LOA 6 ft. 6" beam and 3 ft. 9" draft, Kelpie II is a canoe yacht, gaff
   sloop rig, with designed displacement of 4000lbs. She has a plate and bulb keel
   with semi balanced spade rudder. The boat was advanced for her time featuring
@@ -24,20 +23,17 @@ full_description: |-
   the plate is new owner, Rik Graham, was very careful when replacing it to
   maintain the geometry of the original.
 
-
   The week after Kelpie was launched she started her career cruising the East
   Coast, from a base at Erith Yacht Club until 1973 but then from Pin Mill. Whilst
   based at Erith she had a very succesful racing career, particularly in the hands
   of her builder who helmed her until he was in his 80s. Of course time marches on
   and H E eventually passed Kelpie II to his son Dave who brought her to Pin Mill.
 
-
   Dave seems to have used Kelpie II mostly as a day sailer, with the occasional
   race, and sailed with a Barry Page who bought her in 1989 when Dave, in his
   turn, got too old to use her. Barry did some work on the boat replacing one
   garboard and having the decks plywood and epoxy sheathed but again day sailing,
   keeping her going none the less.
-
 
   At about the time that Barry was thinking that maintenance was getting to much
   for him Rik came onto the scene and became her latest owner in 2004. Four owners
@@ -60,36 +56,40 @@ for_sales:
   asking_price: 7750
   sales_text: |-
     Kelpie 2 is a cruiser racer built in 1902.
-    
-    H E Kennard, the first owner/builder,
-    wanted a boat to cruise the East Coast from his base at Erith and race at club
-    level. His choice of a design by J Pain Clark resulted in a fine, pretty, boat
-    that has stood the test of time. Kelpie is red pine on oak ribs, pitch pine and
-    oak centerline with a steel plate keel and lead ballast.
-    
-    Kelpie is the only extant example of a plate and bulb keel Victorian yacht.
-    
-    26’ LOD by 6’ 6” beam 3’ 9” draft and only weighing 2 tons she is, like most Pain Clark yachts, a
-     flier. With a gaff sloop rig, roller reefed on both sails, she is also light
-     and easily sailed single handed.
-     
-     Although built for cruising her accommodation,
-     2 berths and a small galley with a 2 burner spirit stove, is by modern standards
-     spartan. Auxiliary power is a 2.5 Hp outboard. She has a full inventory of all you
-     need to sail safely and comfortably.
-     
-     Kelpie 2 has undergone a comprehensive
-     rolling restoration over her currentnowners stewardship and is ready for whatever
-     a new owner wants from her. She is a very rewarding boat to sail and surprisingly
-     forgiving for a boat so well canvased.
-     
-     Weatherly and light, Kelpie is easily
-     sailed single handed. The greatest testament to this lovely boat’s quality
-     is that she has had only 4 owners since she was built. To quote Yachting Monthly
-     in 1970: “handy, fast and tight, what more could you want?”
 
-     Lying, Pin Mill, Suffolk.
+    H E Kennard, the first owner/builder, wanted a boat to cruise the East Coast
+    from his base at Erith and race at club level. His choice of a design by J Pain
+    Clark resulted in a fine, pretty, boat that has stood the test of time. Kelpie
+    is red pine on oak ribs, pitch pine and oak centerline with a steel plate keel
+    and lead ballast.
+
+    Kelpie is the only extant example of a plate and bulb keel Victorian yacht.
+
+    26’ LOD by 6’ 6” beam 3’ 9” draft and only weighing 2 tons she is, like most
+    Pain Clark yachts, a flier. With a gaff sloop rig, roller reefed on both sails,
+    she is also light and easily sailed single handed.
+
+    Although built for cruising her accommodation, 2 berths and a small galley with
+    a 2 burner spirit stove, is by modern standards spartan. Auxiliary power is a
+    2.5 Hp outboard. She has a full inventory of all you need to sail safely and
+    comfortably.
+
+    Kelpie 2 has undergone a comprehensive rolling restoration over her
+    currentnowners stewardship and is ready for whatever a new owner wants from her.
+    She is a very rewarding boat to sail and surprisingly forgiving for a boat so
+    well canvased.
+
+    Weatherly and light, Kelpie is easily sailed single handed. The greatest
+    testament to this lovely boat’s quality is that she has had only 4 owners since
+    she was built. To quote Yachting Monthly in 1970: “handy, fast and tight, what
+    more could you want?”
+
+    Lying, Pin Mill, Suffolk.
   flexibility: normal
+  summary: |-
+    date of sale and price not notified.
+  date_sold: '2025-10-24T13:50:41.759Z'
+  sale_price: 7000
 home_country: GBR
 home_port: Pin Mill
 hull_form: fin keel
@@ -109,8 +109,8 @@ ownerships:
 - member: 3777
   id: 319
   start: 2003
+  end: 2025
   share: 64
-  current: true
 image_key: 5GVdRS
 handicap_data:
   beam: 1.981
@@ -118,5 +118,13 @@ handicap_data:
   length_on_deck: 7.925
   length_on_waterline: 8.534
   length_over_all: 7.925
+  main:
+    type: gaff
 created_at: '2020-04-25T16:47:58.957578+00:00'
 id: bead2d38-ff98-4527-b80c-38097f43d158
+sail_type:
+- gaff
+lastModified: '2023-11-27T23:05:44Z'
+year_of_build:
+  value: 1902
+updated_at: '2026-10-24'
