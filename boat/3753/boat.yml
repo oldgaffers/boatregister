@@ -1,15 +1,17 @@
 name: Arlette
 oga_no: 3753
+generic_type:
+- Yacht
 rig_type: Cutter
 short_description: |-
-  Arlette is a standard Cornish Crabber 26.
+  *Arlette* is a standard Cornish Crabber 26.
 full_description: |-
-  Arlette started her life as Willow on the East Coast where she stayed for about
-  6 years before moving to Plymouth.  She was renamed Tribute and stayed in the
-  West Country for 5 years before having an extensive refit back at the Cornish
-  Crabbers yard in 2023.  She then moved by road to Inverness and renamed again as
-  Arlette.  She sailed the West Coast of Scotland in 2025 and then came south to
-  Watchet in 2026.
+  *Arlette* started her life as *Willow* on the East Coast where she stayed for
+  about 6 years before moving to Plymouth.  She was renamed *Tribute* and stayed
+  in the West Country for 5 years before having an extensive refit back at the
+  Cornish Crabbers yard in 2023.  She then moved by road to Inverness and renamed
+  again as *Arlette*.  She sailed the West Coast of Scotland in 2025 and then came
+  south to Watchet in 2026.
 year: 2011
 year_is_approximate: false
 designer:
@@ -34,6 +36,12 @@ hull_form: centre-boarder
 sail_number: '9'
 ssr: SSR171999
 callsign: MGFT6
+ownerships:
+- member: 6598
+  id: 35018
+  start: '2024'
+  share: 64
+  current: true
 image_key: nn4jKx
 handicap_data:
   beam: 2.761
@@ -45,7 +53,7 @@ handicap_data:
 air_draft: 6.096
 hin: GB-BIH26009C111
 mmsi: '232024757'
-lastModified: '2025-11-22T14:50:48Z'
+lastModified: '2026-10-26T11:18:37Z'
 sail_type:
 - gaff
 year_of_build:
