@@ -1,0 +1,44 @@
+#!/usr/bin/env python3
+from pathlib import Path
+import yaml
+import json
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+def getBoat(b):
+  boat = None
+  try:
+    with open(f"boat/{b}/boat.yml", "r", encoding='utf-8') as stream:
+      boat = yaml.safe_load(stream)
+  except:
+    msg = f'boat with OGA number {b} has invalid YAML.'
+  return boat
+
+def sk(x):
+  if 'updated_at' in x:
+    return x['updated_at']
+  return x['created_at']
+
+def check_boat(b):
+  fs = b['for_sales']
+  fs.sort(key=sk, reverse=True)
+  fsr = fs[0]
+  d = fsr.get('updated_at', fsr['created_at'])
+  d = datetime.fromisoformat((d))
+  n = datetime.now(ZoneInfo("UTC"))
+  age = (n-d).days
+  years = int(age/365.25)
+  anniversary = age - 356*years
+  if anniversary == 360:
+    print(b['name'], age, anniversary)
+
+if __name__ == '__main__':
+  with open('filterable.json', 'r') as stream:
+    f = json.load(stream)
+  s = [a for a in f if a['sale']]
+  for b in s:
+    boat = getBoat(b['oga_no'])
+    if boat is not None:
+      check_boat(boat)
+    else:
+      print(b, 'not found')
