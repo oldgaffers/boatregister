@@ -1,52 +1,63 @@
-name: Nipperkin
+name: Harmony II
 oga_no: 2805
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Sloop
-mainsail_type: gaff
 year: 2004
 year_is_approximate: false
 designer:
-  name: Anthony Robinson
+- name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
 design_class:
   name: Memory 19
   id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
-  name: Salterns Boatyard Ltd.
+- name: Salterns Boatyard Ltd.
   id: b1dd597a-dabf-4f96-b9d8-ee7af3c079d5
-place_built: Burlesdon
+place_built: Burlsedon
 construction_material: grp
 spar_material: wood
-construction_details: grp
+construction_details: grp hull and deck, wood cabin and coamings, solid wood spars
+previous_names:
+- - Nipperkin
+- Nipperkin
+- Black Cat III
 selling_status: not_for_sale
-for_sales: []
 home_country: GBR
-home_port: Rye
+home_port: Lawrenny
 hull_form: centre-boarder
+sail_number: '2805'
+ssr: SSR314659
 ownerships:
 - name: 'Jane Challener '
   start: 2006
   end: 2016
   share: 64
-id: 750022fe-de13-4768-a95a-e24c878c5a3e
 image_key: qSfTB8
-thumb: https://photos.smugmug.com/photos/i-GgzfK2z/0/Th/i-GgzfK2z-Th.jpg
 handicap_data:
   thcf: 0.873249266
-  beam: 2.1336
-  draft: 0.5334
-  fore_triangle_height: 5.867471348451597
-  fore_triangle_base: 2.801146061936113
-  length_over_all: 5.9436722750548645
-  main:
-    foot: 4.550719336747134
-    head: 2.9992684711046085
-    luff: 3.5997317727383566
+  beam: 2.134
+  draft: 0.533
+  fore_triangle_height: 5.867
+  fore_triangle_base: 2.801
+  length_on_deck: 5.944
+  length_on_waterline: 5.691
   topsail:
-    luff: 3.980736405754694
-    perpendicular: 1.898927090953426
-  draft_keel_down: 1.1430138990490124
-  length_on_waterline: 5.690685198732017
-  length_on_deck: 5.9436
+    luff: 3.981
+    perpendicular: 1.899
+  length_over_all: 5.944
+  main:
+    foot: 4.551
+    head: 2.999
+    luff: 3.6
+    type: gaff
+  draft_keel_down: 1.143
 created_at: '2020-04-25T17:27:56.976769+00:00'
-updated_at: '2022-07-01T06:35:00.31811+00:00'
+id: 750022fe-de13-4768-a95a-e24c878c5a3e
+sail_type:
+- gaff
+lastModified: '2025-09-13T12:27:55Z'
+year_of_build:
+  value: 2004
+hin: GB-SBBMEM1410399
+updated_at: '2026-11-04'
