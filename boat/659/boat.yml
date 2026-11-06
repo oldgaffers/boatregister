@@ -1,7 +1,7 @@
 name: Brunnhilde
 oga_no: 659
+generic_type: []
 rig_type: Sloop
-mainsail_type: gaff
 year: 1974
 year_is_approximate: false
 designer:
@@ -22,6 +22,7 @@ ownerships:
 - name: I A Hawick
   start: 1974
   share: 64
+image_key: 8zf9t4
 handicap_data:
   beam: 2.713
   draft: 1.524
@@ -30,5 +31,10 @@ handicap_data:
   length_over_all: 10.668
 created_at: '2020-04-25T16:52:20.906113+00:00'
 id: 44eee88b-9198-474d-b6b2-7835ee327457
-lastModified: '2023-01-02T20:28:44Z'
-updated_at: '2025-11-06'
+lastModified: '2025-11-06T09:55:28Z'
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1974
+updated_at: '2026-11-06'
