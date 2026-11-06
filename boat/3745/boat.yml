@@ -3,25 +3,28 @@ oga_no: 3745
 generic_type:
 - Yacht
 rig_type: Cutter
-mainsail_type: gaff
 short_description: |-
   Maurice Griffiths designed gaff cutter
 full_description: |-
   Gaff cutter with tan main and stay sails, and a cream foresail.
 year: 1999
 year_is_approximate: false
+designer:
+- name: Maurice Griffiths
+  id: 956ab338-19b7-4d90-9e8d-d3cecd98fe9e
 design_class:
   name: MG Tideway
   id: c9e23eb4-08e5-4f90-9777-0a120da0e47e
 place_built: Norfolk
 construction_material: wood
 spar_material: wood
-selling_status: for_sale
+selling_status: not_for_sale
 for_sales:
 - created_at: '2025-03-24T20:37:09.412Z'
+  asking_price: 1
   sales_text: |-
     The price is nil if a prospective owner has a permanent mooring and is able to
-    take her from her present berth.  
+    take her from her present berth.
     The rig and sails are stored as at present she is used as a motor boat on the
     Norfolk Broads. Out of the water every three years for re-painting etc. her
     Iroko hull(oak garboards) appear in perfect condition even allowing for her 26
@@ -32,7 +35,10 @@ for_sales:
     interested in owning her, can moor and maintain her please contact me to view
     her where she is being used, on the Norfolk Broads.
   flexibility: normal
-  asking_price: 1
+  summary: |-
+    final price not known
+  date_sold: '2026-11-06T22:26:27.662Z'
+  sale_price: 1
 home_country: England
 home_port: Norwich
 hull_form: long keel deep forefoot
@@ -40,8 +46,8 @@ ownerships:
 - member: 6801
   id: 35286
   start: '2025'
+  end: 2026
   share: 64
-  current: true
 image_key: nFcBvm
 handicap_data:
   beam: 2.896
@@ -49,7 +55,11 @@ handicap_data:
   length_on_deck: 9.144
   length_on_waterline: 8.534
   checked: true
-lastModified: '2025-10-18T10:19:46Z'
+  main:
+    type: gaff
+lastModified: '2026-09-23T21:24:05Z'
 year_of_build:
   value: 1999
-updated_at: '2026-09-23'
+sail_type:
+- gaff
+updated_at: '2026-11-06'
