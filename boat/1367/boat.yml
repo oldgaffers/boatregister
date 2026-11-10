@@ -1,19 +1,20 @@
 name: Pretty Kitty
 oga_no: 1367
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
-mainsail_type: gaff
-full_description: Log 92/4, N/96
+full_description: |-
+  Log 92/4, N/96
 year: 1974
 year_is_approximate: false
 designer:
-  name: David M. Cannell
+- name: David M. Cannell
   id: 248b3a1a-e45d-4490-8de7-aaa23ab100b9
 design_class:
   name: Tamarisk 24
   id: ddbf9499-7c46-4f21-ac92-9d87c65e40ab
 builder:
-  name: North Sea Craft
+- name: North Sea Craft
   id: a6482c01-706a-469d-93db-2ccab9020581
 place_built: Brundall
 construction_material: grp
@@ -25,24 +26,32 @@ reference:
 - Log 92/4
 - Log N/96
 uk_part1: '377038'
-id: 6157521c-a532-4dc1-9a3e-2915557a2b4c
+ownerships: []
+image_key: NwW2hg
 handicap_data:
   thcf: 0.932395816
   beam: 2.4384
   draft: 0.8382
   fore_triangle_height: 9.1441111923921
   fore_triangle_base: 4.114850036576445
-  length_over_all: 7.315288953913679
+  length_on_deck: 7.3152
+  length_on_waterline: 6.452694464764692
   propellor:
     type: fixed
+  topsail:
+    luff: 2.6670324311143623
+    perpendicular: 2.13362594489149
+  length_over_all: 7.315288953913679
   main:
     foot: 4.26725188978298
     head: 3.176054620824189
     luff: 7.924896366739819
-  topsail:
-    luff: 2.6670324311143623
-    perpendicular: 2.13362594489149
-  length_on_waterline: 6.452694464764692
-  length_on_deck: 7.3152
+    type: gaff
 created_at: '2020-04-25T17:03:55.139687+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 6157521c-a532-4dc1-9a3e-2915557a2b4c
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1974
+updated_at: '2026-11-10'
