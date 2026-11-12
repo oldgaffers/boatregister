@@ -1,20 +1,22 @@
 name: Ocean Pride
 oga_no: 1211
-generic_type: Bawley
+generic_type:
+- Bawley
 rig_type: Cutter
-mainsail_type: gaff
 year: 1979
 year_is_approximate: false
 designer:
-  name: Anthony Robinson
+- name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
 builder:
-  name: AGB Marine
+- name: AGB Marine
   id: 924096c8-0ce2-45fb-9ddc-f59b7232c8f1
 place_built: Hitchin
 construction_material: wood
 construction_method: cold_moulded
 construction_details: Cold moulded with five layers of Mahogany
+previous_names:
+- Ocean Glory
 selling_status: not_for_sale
 for_sales: []
 home_port: Blackwater
@@ -23,14 +25,18 @@ ownerships:
 - name: Ian Bell
   start: 2002
   share: 64
-id: fa48d0e4-b0e8-4f9d-9c81-521765b8a5e5
+image_key: FrZQzm
 handicap_data:
   beam: 2.5908
   draft: 1.6002
-  length_over_all: 7.772494513533284
-  length_on_waterline: 7.315288953913679
   length_on_deck: 7.7724
+  length_on_waterline: 7.315288953913679
+  length_over_all: 7.772494513533284
 created_at: '2020-04-25T17:01:34.053088+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Ocean Glory
+id: fa48d0e4-b0e8-4f9d-9c81-521765b8a5e5
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1979
+updated_at: '2026-11-12'
