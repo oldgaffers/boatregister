@@ -1,11 +1,15 @@
 name: Hopeful
 oga_no: 900
+generic_type: []
 rig_type: Cutter
-mainsail_type: gaff
 year: 1909
 year_is_approximate: false
+designer: []
+builder: []
 place_built: Mevagissey
 construction_material: wood
+previous_names:
+- Eureka
 selling_status: not_for_sale
 for_sales: []
 home_port: Wootton Creek
@@ -13,14 +17,19 @@ ownerships:
 - name: Hilton V Matthews
   start: 2012
   share: 64
-id: 91ab90f8-97e3-4aea-98e4-4f4a2891c5a9
+image_key: bs3dhK
 handicap_data:
   beam: 3.048
   draft: 1.3716
-  length_over_all: 9.1441111923921
-  length_on_waterline: 8.991709339185563
   length_on_deck: 9.144
+  length_on_waterline: 8.991709339185563
+  length_over_all: 9.1441111923921
 created_at: '2020-04-25T16:56:54.541008+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-previous_names:
-- Eureka
+id: 91ab90f8-97e3-4aea-98e4-4f4a2891c5a9
+sail_type:
+- gaff
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  approx: false
+  value: 1909
+updated_at: '2026-11-15'
