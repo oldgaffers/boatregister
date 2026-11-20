@@ -1,14 +1,17 @@
 name: The Black Pig
 oga_no: 2982
-generic_type: Dayboat
+generic_type:
+- Dayboat
 rig_type: Yawl
-mainsail_type: gaff
-short_description: <p>The Back Pig is a Drascombe Lugger built in 1980.</p>
+short_description: |-
+  *The Back Pig* is a Drascombe Lugger built in 1980.
 year: 1980
 year_is_approximate: false
+designer: []
 design_class:
   name: Drascombe Lugger
   id: e382b7b9-1e83-4b73-8815-3ba721e32001
+builder: []
 construction_material: grp
 construction_details: GRP
 selling_status: not_for_sale
@@ -18,19 +21,26 @@ ownerships:
 - name: Julian Finch
   start: 2012
   share: 64
-id: f93e2ba1-21c6-42c9-894c-ccf0d57e9a33
+image_key: RFXzdr
 handicap_data:
   thcf: 0.693839985
   beam: 1.8989
   draft: 0.2499
   fore_triangle_height: 3.7003169958546698
   fore_triangle_base: 1.3502804194098998
+  length_on_deck: 5.7211
+  length_on_waterline: 4.569007559131919
   length_over_all: 5.721165569373323
   main:
     foot: 0
     luff: 4.74884174591563
+    type: gaff
   draft_keel_down: 1.21921482565228
-  length_on_waterline: 4.569007559131919
-  length_on_deck: 5.7211
 created_at: '2020-04-25T17:33:33.390861+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: f93e2ba1-21c6-42c9-894c-ccf0d57e9a33
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1980
+updated_at: '2026-11-18'
