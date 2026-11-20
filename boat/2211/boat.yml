@@ -1,8 +1,8 @@
 name: Lilian
 oga_no: 2211
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Schooner
-mainsail_type: gaff
 short_description: |-
   A gentleman's yacht built for cruising the Baltic.
 full_description: |-
@@ -12,25 +12,31 @@ full_description: |-
 
   She was restricted to the Thames until 1988, having become derelict as a Sea
   Cadet training ship at Windsor. She was restored and refurbished and attended
-  the 1992 and 1996 Brest Festival of the Sea. She travelled to Stockholm in 1995.
+  the 1992 and 1996 Brest Festival of the Sea. She traveled to Stockholm in 1995.  
+  In 2025 she cruised to Sweden, and was sold for a nominal £1 to the Motor Yacht
+  Society. She is now part of a Swedish Heritage fleet.
 year: 1916
 year_is_approximate: false
 designer:
-  name: C.G. Petterson
+- name: C.G. Petterson
   id: 29ac1f39-a8f3-475d-8a91-24a1b348b5e4
 builder:
-  name: Varvet Sodra
+- name: Varvet Sodra
   id: d7ddb9e2-b875-428f-91af-8c525738d18f
 place_built: Stockholm
 construction_material: steel
 spar_material: wood
 construction_details: Riveted steel, mahogany superstructure, teak decks.
+previous_names:
+- Lilian of Stockholm
+- Dahu
+- TS Windsor Castle
 selling_status: not_for_sale
-for_sales: []
-home_country: GBR
-home_port: Twickenham, River Thames
+home_country: Sweden
+home_port: 'Vastervik, '
 hull_form: long keel deep forefoot
 uk_part1: '164525'
+nhsr: '2758'
 ownerships:
 - name: Herbert Huntly-Gordon
   start: 1923
@@ -54,20 +60,31 @@ ownerships:
   share: 64
 - name: Scott Pereira
   start: 1980
+  end: 2025
+  share: 64
+- name: Motor Yacht Society
+  start: '2025'
   share: 64
   current: true
-website: http://lilianboat.co.uk/
-id: 596db085-8a8d-4fc3-a0a3-37a3a905709c
+website: https://www.theca.org.uk/node/64948
 image_key: 8XKCJW
 handicap_data:
-  beam: 5.0048
-  draft: 1.8044
-  length_on_deck: 29.9984
-  length_over_all: 30.480370641306997
+  beam: 5.005
+  draft: 1.804
+  length_on_deck: 29.998
+  length_on_waterline: 8.534
+  length_over_all: 30.48
+  main:
+    type: gaff
+  fore:
+    type: gaff
+  mizzen:
+    type: gaff
 created_at: '2020-04-25T18:36:10.225844+00:00'
-nhsr: '2758'
-previous_names:
-- Lilian of Stockholm
-- Dahu
-- TS Windsor Castle
-updated_at: '2026-09-15'
+id: 596db085-8a8d-4fc3-a0a3-37a3a905709c
+sail_type:
+- gaff
+lastModified: '2026-09-15T18:11:55Z'
+year_of_build:
+  value: 1916
+updated_at: '2026-11-20'
