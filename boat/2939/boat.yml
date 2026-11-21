@@ -1,19 +1,20 @@
 name: William Bligh
 oga_no: 2939
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Cutter
-mainsail_type: gaff
-full_description: Previous owner, Mr & Mrs Templeton of Romsey
+full_description: |-
+  Previous owner, Mr & Mrs Templeton of Romsey
 year: 1976
 year_is_approximate: false
 designer:
-  name: Anthony Robinson
+- name: Anthony Robinson
   id: aaec4851-401d-4719-bd23-e80eb778816b
 design_class:
   name: Memory 19
   id: 7f37acf8-4c7d-4b53-a879-8ea433d372fd
 builder:
-  name: Eric Bergqvist
+- name: Eric Bergqvist
   id: 1bb81491-0c29-403b-9fc6-ac2b00e718f7
 place_built: Lymm
 construction_material: grp
@@ -27,22 +28,32 @@ ownerships:
 - name: Christopher Peter Oddie
   start: 2009
   share: 64
-id: 1729a624-9ad4-46d3-95fa-0825850bad5e
+image_key: G7RJzX
 handicap_data:
   thcf: 0.864778683
   beam: 2.1336
   draft: 0.5334
   fore_triangle_height: 5.867471348451597
   fore_triangle_base: 2.6426481346013166
+  length_on_deck: 5.7912
+  length_on_waterline: 5.690685198732017
+  topsail:
+    luff: 3.6576444769568397
+    perpendicular: 1.8288222384784198
   length_over_all: 5.7912704218483295
   main:
     foot: 4.57205559619605
     head: 3.2004389173372347
     luff: 3.8100463301633747
-  topsail:
-    luff: 3.6576444769568397
-    perpendicular: 1.8288222384784198
-  length_on_waterline: 5.690685198732017
-  length_on_deck: 5.7912
+    type: gaff
 created_at: '2020-04-25T17:32:54.007738+00:00'
-updated_at: '2022-07-01T06:35:00.31811+00:00'
+id: 1729a624-9ad4-46d3-95fa-0825850bad5e
+sail_type:
+- gaff
+lastModified: '2023-07-08T09:18:06Z'
+year_of_build:
+  approx: false
+  value: 1976
+note: Photos uploaded to existing album with different boat name William Bligh (2939);
+  please check
+updated_at: '2026-11-21'
