@@ -1,12 +1,14 @@
 name: Bateau
 oga_no: 1610
+generic_type: []
 rig_type: Cutter
-mainsail_type: gaff
-full_description: Log 77/1
+full_description: |-
+  Log 77/1
 year: 1910
 year_is_approximate: false
+designer: []
 builder:
-  name: W.E. Thomas
+- name: W.E. Thomas
   id: a9e83f1e-565e-4568-b052-7a492147a30d
 place_built: Falmouth
 construction_material: wood
@@ -18,8 +20,13 @@ ownerships:
 - name: J R Heap
   start: 2012
   share: 64
-id: c8c8187f-8633-4db0-a8fe-1d0226b0e750
+image_key: R46JPR
+handicap_data: {}
 created_at: '2020-04-25T17:07:35.768482+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
-handicap_data:
-  length_on_deck: 0
+id: c8c8187f-8633-4db0-a8fe-1d0226b0e750
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1910
+updated_at: '2026-11-22'
