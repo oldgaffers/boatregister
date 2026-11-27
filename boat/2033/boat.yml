@@ -1,14 +1,14 @@
 name: Dipper
 oga_no: 2033
+generic_type: []
 rig_type: Sloop
-mainsail_type: gaff
 year: 1961
 year_is_approximate: false
 designer:
-  name: Ian Proctor
+- name: Ian Proctor
   id: 8ae8af94-3e4e-44fd-9b2b-6ea45fe80024
 builder:
-  name: Small Craft
+- name: Small Craft
   id: 18583dd4-8ab1-4778-96df-40955b771221
 place_built: Southampton
 construction_material: wood
@@ -17,15 +17,23 @@ for_sales: []
 home_country: GBR
 home_port: Waldringfield
 ownerships:
-- member: 3318
-  id: 250
+- name: Geoffrey Osborn
   start: 2012
   share: 64
   current: true
-id: bcd1cda9-3d27-4c1d-9810-d5bdc418662e
+image_key: gJ4wWk
 handicap_data:
   beam: 1.4478
-  length_over_all: 3.3528407705437697
   length_on_deck: 3.3528
+  length_over_all: 3.3528407705437697
 created_at: '2020-04-25T17:13:59.805824+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: bcd1cda9-3d27-4c1d-9810-d5bdc418662e
+sail_type:
+- gaff
+lastModified: '2023-01-02T20:28:44Z'
+year_of_build:
+  approx: false
+  value: 1961
+note: Photos uploaded to existing album with different boat name Dipper (2033); please
+  check
+updated_at: '2026-11-27'
