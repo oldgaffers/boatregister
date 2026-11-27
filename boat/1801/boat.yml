@@ -1,16 +1,17 @@
 name: Sanderling
 oga_no: 1801
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Yawl
-mainsail_type: gaff
-full_description: Water Craft Sep/Oct 98 CB Spring 87, Oct 91
+full_description: |-
+  Water Craft Sep/Oct 98 CB Spring 87, Oct 91
 year: 1978
 year_is_approximate: false
 designer:
-  name: J. Wilkinson
+- name: J. Wilkinson
   id: e169fa9b-ac0f-490a-865c-ada5d608f41d
 builder:
-  name: D. Elliott
+- name: D. Elliott
   id: c04f582a-e287-4f8d-b6a1-ac01923fc362
 place_built: Yealmbridge
 construction_material: wood
@@ -21,21 +22,29 @@ ownerships:
 - name: M B Segal
   start: 1978
   share: 64
-id: 9280786b-355b-459f-91ed-420ae049dee9
+image_key: vgqKM4
 handicap_data:
   thcf: 0.777255978
   beam: 1.905
   draft: 0.253
   fore_triangle_height: 5.4864667154352595
   fore_triangle_base: 1.5240185320653499
+  length_on_deck: 5.715
+  length_on_waterline: 4.57205559619605
   length_over_all: 5.715069495245062
   main:
     foot: 3.0480370641306997
     luff: 3.6576444769568397
+    type: gaff
   mizzen:
     foot: 1.21921482565228
     luff: 2.43842965130456
-  length_on_waterline: 4.57205559619605
-  length_on_deck: 5.715
+    type: gaff
 created_at: '2020-04-25T17:10:24.884854+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 9280786b-355b-459f-91ed-420ae049dee9
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1978
+updated_at: '2026-11-27'
