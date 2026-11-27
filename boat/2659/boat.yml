@@ -1,17 +1,18 @@
 name: Dove
 oga_no: 2659
-generic_type: Yacht
+generic_type:
+- Yacht
 rig_type: Yawl
-mainsail_type: lug
-short_description: <p>Designer, GF Holmes and Builder James Holmes share a surname,
-  but are not related.</p>
+short_description: |-
+  Designer, GF Holmes and Builder James Holmes share a surname, but are not
+  related.
 year: 1904
 year_is_approximate: false
 designer:
-  name: George F. Holmes
+- name: George F. Holmes
   id: 18294e5e-ffa2-48af-939e-bc30b9668eef
 builder:
-  name: James Holmes
+- name: James Holmes
   id: 4368fb79-05b8-4596-8a54-1a09ae20df5e
 place_built: Hornsea Mere, E Yorks
 construction_material: wood
@@ -24,10 +25,16 @@ ownerships:
 - name: Tony Holdich
   start: 2012
   share: 64
-id: 147a9feb-2984-4151-8f5a-0c1c64f9e5aa
+image_key: J7jHmT
 handicap_data:
   beam: 1.524
-  length_over_all: 4.57205559619605
   length_on_deck: 4.572
+  length_over_all: 4.57205559619605
 created_at: '2020-04-25T17:24:07.368218+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 147a9feb-2984-4151-8f5a-0c1c64f9e5aa
+sail_type:
+- lug
+year_of_build:
+  approx: false
+  value: 1904
+updated_at: '2026-11-27'
