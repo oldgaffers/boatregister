@@ -1,11 +1,12 @@
 name: Frejala
 oga_no: 1795
+generic_type: []
 rig_type: Cutter
-mainsail_type: gaff
 year: 1970
 year_is_approximate: false
+designer: []
 builder:
-  name: Elton Boat Building Co.
+- name: Elton Boat Building Co.
   id: 09d6abe6-0f2a-4d5f-a151-3c5c65ff9bdc
 place_built: Belper Derbyshire
 construction_material: wood
@@ -16,23 +17,30 @@ for_sales: []
 home_country: GBR
 ssr: '47266'
 ownerships:
-- start: 1970
+- name: Fred Winstanley
+  start: 1970
   share: 64
   current: true
-  name: Fred Winstanley
-id: 6ef94ab2-fdd7-43ce-8743-cc04d7dce87a
+image_key: jpBfW7
 handicap_data:
   thcf: 0.773563724
   beam: 1.6764
   draft: 0.3048
   fore_triangle_height: 3.9624481833699097
   fore_triangle_base: 1.8288222384784198
+  length_on_deck: 4.3434
+  length_on_waterline: 4.114850036576445
   length_over_all: 4.343452816386247
   main:
     foot: 3.0480370641306997
     head: 4.419653742989515
     luff: 1.3716166788588149
-  length_on_waterline: 4.114850036576445
-  length_on_deck: 4.3434
+    type: gaff
 created_at: '2020-04-25T17:10:19.501906+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 6ef94ab2-fdd7-43ce-8743-cc04d7dce87a
+sail_type:
+- gaff
+year_of_build:
+  approx: false
+  value: 1970
+updated_at: '2026-11-27'
