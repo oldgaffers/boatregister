@@ -1,16 +1,17 @@
 name: Sanderling
 oga_no: 2592
-generic_type: Dinghy
+generic_type:
+- Dinghy
 rig_type: Sloop
-mainsail_type: lug
-full_description: See CB no 37 Aug 1996 pp14 et sec
+full_description: |-
+  See CB no 37 Aug 1996 pp14 et sec
 year: 1996
 year_is_approximate: false
 designer:
-  name: Iain Oughtred
+- name: Iain Oughtred
   id: 02ae7b2c-d4a7-49b9-81ed-e7f0675f785a
 builder:
-  name: Dennis Brooks
+- name: Dennis Brooks
   id: 76dfb938-699a-427c-876c-d863b054e669
 construction_material: wood
 construction_method: clinker_ply
@@ -22,16 +23,23 @@ ownerships:
 - name: Chris Chipchase
   start: 2003
   share: 64
-id: 2cf419c6-963a-450e-b02d-2f678580f437
+image_key: BPZzmF
 handicap_data:
   thcf: 0.682292794
   beam: 1.2314
+  length_on_deck: 2.8438
+  length_on_waterline: 2.43842965130456
   length_over_all: 2.843818580833943
   main:
     foot: 2.261643501584979
     head: 2.8194342843208973
     luff: 1.167398195562058
-  length_on_waterline: 2.43842965130456
-  length_on_deck: 2.8438
+    type: lug
 created_at: '2020-04-25T17:23:06.332082+00:00'
-updated_at: '2022-03-26T15:57:14.407515+00:00'
+id: 2cf419c6-963a-450e-b02d-2f678580f437
+sail_type:
+- lug
+year_of_build:
+  approx: false
+  value: 1996
+updated_at: '2026-11-27'
